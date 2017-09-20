@@ -1,0 +1,292 @@
+﻿<doc id='N0778'>
+<head>
+<title>Syphilis</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Syphilis</s>
+<s id='vn1'>Bệnh giang mai</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What Is It ?</s>
+<s id='vn2'>Nó là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Syphilis is a sexually transmitted disease ( STD ) caused by a type of bacteria known as a Spirochete ( through a microscope , it looks like a corkscrew or spiral ) .</s>
+<s id='vn3'>Giang mai là bệnh lây truyền qua đường tình dục ( STD ) do một loại vi khuẩn tên là khuẩn xoắn gây ra ( qua kính hiển vi , nó trông giống như cái mở nút chai hay vòng xoắn ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It is extremely small and can live almost anywhere in the body .</s>
+<s id='vn4'>Nó cực nhỏ và có thể sống gần như ở bất cứ nơi đâu trong cơ thể .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The spirochetes that cause syphilis can be passed from one person to another through direct contact with a syphilis sore during sexual intercourse ( vaginal , anal , or oral sex ) .</s>
+<s id='vn5'>Khuẩn xoắn gây bệnh giang mai có thể truyền từ người này sang người khác do tiếp xúc trực tiếp với chỗ loét giang mai trong lúc giao hợp ( quan hệ tình dục qua âm đạo , hậu môn hoặc đường miệng ) .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The infection can also be passed from a mother to her baby during pregnancy .</s>
+<s id='vn6'>Nhiễm trùng cũng có thể truyền từ mẹ sang con khi trong kỳ thai nghén .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>You cannot catch syphilis from a towel , doorknob , or toilet seat .</s>
+<s id='vn7'>Bạn không thể mắc bệnh giang mai từ khăn , tay nắm cửa hay bồn cầu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In the 1990s there was a decrease in the number of people infected with syphilis .</s>
+<s id='vn8'>Vào những năm 90 , số người nhiễm giang mai giảm xuống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>However , more recently there has been a steady increase in reported cases of syphilis , especially in young adults and in men who have male sexual partners .</s>
+<s id='vn9'>Tuy nhiên , mới đây theo báo cáo thì các trường hợp bị giang mai tăng đều , nhất là ở thanh niên và đàn ông có bạn tình là phái nam .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In its early stages , syphilis is easily treatable .</s>
+<s id='vn10'>Ở các giai đoạn đầu , giang mai có thể được điều trị dễ dàng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>However , if left untreated , it can cause serious problems - even death .</s>
+<s id='vn11'>Tuy nhiên , nếu không được điều trị , nó có thể gây ra những vấn đề nghiêm trọng - thậm chí làm chết người .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>So it 's important to understand as much as you can about this disease .</s>
+<s id='vn12'>Như vậy điều quan trọng là bạn nên hiểu rõ về bệnh này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What Are the Symptoms ?</s>
+<s id='vn13'>Triệu chứng là gì ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Syphilis occurs in several different stages :</s>
+<s id='vn14'>Giang mai xuất hiện thành nhiều giai đoạn khác nhau :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Primary Syphilis</s>
+<s id='vn15'>Giang mai thời kỳ thứ nhất</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the first stage of syphilis , red , firm , and sometimes wet sores that don't hurt appear on the vagina , rectum , penis , or mouth .</s>
+<s id='vn16'>Trong giai đoạn giang mai đầu tiên , có những chỗ loét đỏ , cứng , và đôi khi ẩm ướt không gây đau xuất hiện trên âm đạo , trực tràng , dương vật , hay miệng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>There is often just one sore , but there may be several .</s>
+<s id='vn17'>Thường thì chỉ có một chỗ loét , nhưng cũng có thể có vài chỗ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This type of sore is called a chancre ( pronounced : shang-ker ) .</s>
+<s id='vn18'>Loại loét này được gọi là săng ( phát âm : shang-ker ) .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Chancres appear on the part of the body where the spirochetes moved from one person to another .</s>
+<s id='vn19'>Săng xuất hiện trên một bộ phận trong cơ thể nơi khuẩn xoắn truyền từ người này sang người khác .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Someone with syphilis may also have swollen glands during this first stage .</s>
+<s id='vn20'>Người mắc bệnh giang mai cũng có thể có các tuyến bị sưng trong giai đoạn đầu tiên này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>After a few weeks , the chancre will disappear , but that 's not a sign that the disease has gone away .</s>
+<s id='vn21'>Sau vài tuần , săng sẽ biến mất , nhưng đó không phải là dấu hiệu khỏi bệnh .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In fact , if the infection hasn't been treated , the disease will continue to get worse .</s>
+<s id='vn22'>Thực ra , nếu chỗ nhiễm trùng không được điều trị thì bệnh sẽ tiếp tục trở nên tệ hơn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Syphilis is highly contagious during this first stage .</s>
+<s id='vn23'>Giang mai rất dễ lây lan trong giai đoạn đầu tiên này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Unfortunately , it can be easy to miss because the chancres are painless and can appear in areas that may not be easy to see , like in the mouth , under the fores kin , or on the anus .</s>
+<s id='vn24'>Thật đáng tiếc , nó có thể dễ bị bỏ sót vì săng không gây đau đớn và có thể xuất hiện ở những vùng có thể không dễ dàng nhìn thấy , như trong miệng , dưới bao quy đầu , hay trên hậu môn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>This means that people may not know that they are infected , and can pass the disease on to others without realizing it .</s>
+<s id='vn25'>Điều này có nghĩa là có thể mọi người không biết là họ bị nhiễm bệnh , và có thể truyền bệnh sang người khác mà không biết .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Secondary Syphilis</s>
+<s id='vn26'>Giang mai thời kỳ thứ hai</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If syphilis hasn't been treated yet , the person will often break out in a rash ( especially on the soles of the feet and palms of the hands ) and may also notice flu-like symptoms , such as fever and ach iness .</s>
+<s id='vn27'>Nếu giang mai chưa được điều trị , người bệnh sẽ thường nổi mẩn ngứa ( nhất là trên lòng bàn chân và lòng bàn tay ) và cũng có thể nhận thấy các triệu chứng giống như cúm , như là sốt và đau nhức .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This can happen weeks to months after the chancre first appears .</s>
+<s id='vn28'>Điều này có thể xảy ra vài tuần cho đến vài tháng sau khi săng xuất hiện lần đầu tiên .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Sometimes the rashes associated with syphilis can be very faint or look like rashes from other infections and , therefore , may not be noticed .</s>
+<s id='vn29'>Đôi khi chỗ nổi mẩn ngứa do giang mai có thể mờ đi hoặc trông giống như chỗ nổi mẩn ngứa do nhiễm các bệnh khác , do đó mà người ta không nhận ra .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Sores sometimes appear on the lips , mouth , throat , vagina , and anus - but many people with secondary syphilis don't have sores at all .</s>
+<s id='vn30'>Chỗ loét đôi khi xuất hiện trên môi , miệng , họng , âm đạo , và hậu môn - nhưng nhiều người mắc bệnh giang mai thời kỳ thứ hai không có vết loét nào .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The symptoms of this secondary stage will go away with or without treatment .</s>
+<s id='vn31'>Các triệu chứng trong giai đoạn thứ hai này sẽ mất đi dù có được điều trị hay không .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>But if the infection hasn't been treated , the disease can continue to progress .</s>
+<s id='vn32'>Nhưng nếu như chỗ nhiễm trùng không được điều trị thì bệnh có thể tiếp tục tiến triển .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Syphilis is still contagious during the secondary stage .</s>
+<s id='vn33'>Giang mai vẫn còn lây nhiễm trong giai đoạn thứ hai .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Latent Syphilis</s>
+<s id='vn34'>Giang mai tiềm ẩn</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If syphilis still hasn't been treated yet , the person will have a period of the illness called latent ( hidden ) syphilis .</s>
+<s id='vn35'>Nếu giang mai vẫn chưa được điều trị thì người bệnh sẽ trải qua thời kỳ bệnh được gọi là giang mai tiềm ẩn ( ẩn ) .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>This means that all the signs of the disease go away , but the disease is still .</s>
+<s id='vn36'>Điều này có nghĩa là tất cả các dấu hiệu của bệnh này đều không còn nữa , nhưng vẫn còn bệnh .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Even though the disease is " hiding " , the spirochetes are still in the body .</s>
+<s id='vn37'>Dù cho bệnh " tiềm ẩn " nhưng khuẩn xoắn vẫn còn trong cơ thể .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Syphilis can remain latent for many years .</s>
+<s id='vn38'>Giang mai có thể tiếp tục tiềm ẩn trong nhiều năm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Tertiary Syphilis</s>
+<s id='vn39'>Giang mai thời kỳ thứ ba</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If the disease still hasn't been treated at this point , some develop tertiary ( or late-stage ) syphilis .</s>
+<s id='vn40'>Nếu bệnh vẫn không được điều trị vào thời điểm này thì một số trường hợp làm phát triển giang mai thời kỳ thứ ba ( hay giai đoạn cuối ) .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>This means the spirochetes have spread all over the body and can affect the brain , the eyes , the heart , the spinal cord , and bones .</s>
+<s id='vn41'>Điều này có nghĩa là khuẩn xoắn đã lan ra toàn thân và có thể gây ảnh hưởng đến não , mắt , tim , tuỷ sống , và xương .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Symptoms of late syphilis can include difficulty walking , numbness , gradual blindness , and possibly even death .</s>
+<s id='vn42'>Các triệu chứng giang mai thời kỳ cuối có thể bao gồm khó đi đứng , tê , mù dần dần , và thậm chí có thể làm chết người .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>How Long Until Symptoms Appear ?</s>
+<s id='vn43'>Bao lâu mới có triệu chứng ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>A person who has been exposed to the spirochetes that cause syphilis may notice a chancre from 10 days to 3 months later , though the average is 3 weeks .</s>
+<s id='vn44'>Một người bị nhiễm khuẩn xoắn gây giang mai có thể phát hiện ra săng từ 10 ngày đến 3 tháng sau đó , nhưng trung bình là khoảng 3 tuần .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>If the syphilis is not treated , the second stage of the disease may occur anywhere from about 2 to 10 weeks after the original sore ( chancre ) .</s>
+<s id='vn45'>Nếu giang mai không được điều trị thì giai đoạn bệnh thứ hai có thể xảy ra ở bất kỳ chỗ nào khoảng 2 đến 10 tuần sau khi xuất hiện chỗ loét ( săng ) ban đầu .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>It 's important to keep in mind that many people never notice any symptoms of syphilis .</s>
+<s id='vn46'>Điều quan trọng là phải lưu ý rằng nhiều người không hề phát hiện ra bất kỳ triệu chứng nào về bệnh giang mai .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>This means it is important to let your doctor know that you are having sex , so that he or she can test you for syphilis even if you don't have any symptoms .</s>
+<s id='vn47'>Điều này có nghĩa là quan trọng là phải cho bác sĩ của bạn biết bạn đã quan hệ tình dục , để mà anh ấy hoặc cô ấy có thể kiểm tra xem bạn có mắc bệnh giang mai hay không dù cho bạn không có triệu chứng nào .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>What Can Happen ?</s>
+<s id='vn48'>Chuyện gì có thể xảy ra ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Syphilis can be very dangerous if left untreated .</s>
+<s id='vn49'>Giang mai có thể rất nguy hiểm nếu không được điều trị .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In both guys and girls , the spirochetes can spread throughout the whole body , infecting major organs .</s>
+<s id='vn50'>Ở cả nam lẫn nữ , khuẩn xoắn có thể phát tán khắp cả cơ thể , làm nhiễm trùng các cơ quan quan trọng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Brain damage and other serious health problems can occur , many of which can't be treated .</s>
+<s id='vn51'>Tổn thương não và các vấn đề nghiêm trọng về sức khỏe có thể xảy ra , phần nhiều trong số đó không điều trị được .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>A woman who is pregnant and hasn't been effectively treated is at great risk of putting her baby in danger .</s>
+<s id='vn52'>Phụ nữ mang thai nhưng không được điều trị một cách hiệu quả rất có nguy cơ gây nguy hiểm cho bé .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Untreated syphilis also can cause major birth defects .</s>
+<s id='vn53'>Giang mai không được điều trị cũng có thể gây ra các khuyết tật bẩm sinh nghiêm trọng .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Syphilis also increases the risk of HIV infection because HIV can enter the body more easily when there 's a sore present .</s>
+<s id='vn54'>Giang mai cũng làm tăng nguy cơ nhiễm HIV vì HIV có thể đi vào cơ thể dễ dàng hơn khi có chỗ bị loét .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>How Is It Treated ?</s>
+<s id='vn55'>Nó được điều trị như thế nào ?</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you think you may have syphilis or if you have had sexual contact with someone who might have syphilis , see your doctor or gynecologist right away .</s>
+<s id='vn56'>Nếu như bạn nghĩ rằng có thể bạn mắc bệnh giang mai hay bạn đã quan hệ tình dục với người có thể mắc bệnh giang mai thì ngay lập tức hãy đi khám bác sĩ hay bác sĩ phụ khoa .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>It can sometimes be difficult to spot chancres .</s>
+<s id='vn57'>Đôi khi có thể khó phát hiện ra chỗ loét .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>So it 's important to get checked on a regular basis , especially if you have had unprotected sex and_or more than one sex partner .</s>
+<s id='vn58'>Như vậy điều quan trọng là phải được kiểm tra thường xuyên , nhất là nếu như bạn đã quan hệ tình dục không an toàn và hoặc bạn có nhiều bạn tình .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Depending on the stage , the doctor can make a diagnosis by examining the discharge from chancres under a special microscope or by doing a blood test to look for signs of infection .</s>
+<s id='vn59'>Tùy từng giai đoạn , bác sĩ có thể chẩn đoán bằng cách kiểm tra mủ từ vết loét chảy ra thông qua kính hiển vi đặc biệt hay bằng cách làm xét nghiệm máu để tìm ra dấu hiệu nhiễm trùng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Let the doctor know the best way to reach you confidentially with any test results .</s>
+<s id='vn60'>Hãy cho bác sĩ biết cách tốt nhất để báo cho bạn biết bất kỳ kết quả xét nghiệm nào một cách kín đáo .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Early stages of syphilis are easily cured with antibiotics .</s>
+<s id='vn61'>Các giai đoạn giang mai ban đầu dễ dàng được điều trị bằng thuốc kháng sinh .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Someone who has been infected for a while will need treatment for a longer period of time .</s>
+<s id='vn62'>Người bị nhiễm bệnh được một thời gian sẽ cần phải điều trị trong một thời gian dài hơn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Unfortunately , damage to the body from the late stage of syphilis cannot be treated .</s>
+<s id='vn63'>Thật đáng tiếc , tổn hại cho cơ thể từ giai đoạn cuối giang mai không thể điều trị được .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>However , even in the late stage , it is important to get treatment .</s>
+<s id='vn64'>Tuy nhiên , ngay cả trong giai đoạn cuối , điều quan trọng là phải được điều trị .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>This can prevent further damage to the body .</s>
+<s id='vn65'>Điều này có thể ngăn ngừa tổn hại thêm cho cơ thể .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Anyone with whom you 've had unprotected sex should also be checked for syphilis immediately .</s>
+<s id='vn66'>Bất kỳ người nào mà bạn đã từng quan hệ tình dục không an toàn cũng nên được kiểm tra giang mai ngay lập tức .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>How Is Syphilis Prevented ?</s>
+<s id='vn67'>Bệnh giang mai được ngăn ngừa bằng cách nào ?</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The best way to prevent any STD is to not have sex .</s>
+<s id='vn68'>Cách tốt nhất để ngăn ngừa bất kỳ bệnh nào lây truyền qua đường tình dục là không quan hệ tình dục .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>However , for people who decide to have sex , it 's important to use protection and to have as few sexual partners as possible .</s>
+<s id='vn69'>Tuy nhiên , đối với những người quyết định quan hệ tình dục , điều quan trọng là phải sử dụng biện pháp bảo vệ và có càng ít bạn tình càng tốt .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Latex condoms are effective against most STDs ; however , if there are any sores or rashes that cannot be covered by the condom , it 's wise to not have sex until rashes or other skin breaks have healed and the person has seen a doctor for treatment .</s>
+<s id='vn70'>Bao cao su nhựa mủ có hiệu quả ngăn ngừa hầu hết các bệnh lây truyền qua đường tình dục ; tuy nhiên , nếu có bất kỳ vết loét hay chỗ nổi mẩn ngứa nào mà bao cao su không che được thì không nên quan hệ tình dục cho đến khi chỗ nổi mẩn ngứa hay các vết trầy xước khác trên da được chữa lành và người bệnh đã đi khám bác sĩ để được điều trị .</s>
+</spair>
+</text>
+</doc>

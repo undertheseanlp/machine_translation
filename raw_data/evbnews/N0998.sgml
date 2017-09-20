@@ -1,0 +1,712 @@
+﻿<doc id='N0998'>
+<head>
+<title>31 - 6 Eye Symptoms You Should Never Ignore</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>31 - 6 Eye Symptoms You Should Never Ignore</s>
+<s id='vn1'>31 - Sáu triệu chứng về mắt bạn không nên xem thường .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Even if you can boast 20/20 , you should pay a visit to an eye-care specialist :</s>
+<s id='vn2'>Ngay cả khi tự hào rằng thị lực của mình đạt mức 20/20 , bạn vẫn nên có 1 cuộc gặp gỡ với chuyên gia chăm sóc mắt .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" The eyes are one place in the body through which we can actually see veins and arteries firsthand , with no surgery or cameras , " says Dr. Shantan Reddy , an ophthalmologist and retinal specialist at New York University Langone Medical Center .</s>
+<s id='vn3'>Shantan Reddy , bác sĩ chuyên khoa mắt và chuyên gia về võng mạc tại Trung tâm Y tế Langone thuộc trường Đại học New York cho biết " Mắt là một bộ phận trên cơ thể , qua đó chúng ta có thể tự mình trực tiếp nhìn thấy tĩnh mạch và động mạch , mà không cần đến phẫu thuật hay camera quan sát " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>That 's why an eye doctor may be the first to detect a serious health problem such as diabetesor high blood pressure .</s>
+<s id='vn4'>Đây là lí do khiến bác sĩ nhãn khoa có thể là người đầu tiên phát hiện ra các vấn đề sức khỏe nghiêm trọng như tiểu đường và huyết áp cao .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>One example : Sixty-five percent of the time , eye doctors can spot signs of a patient 's high cholesterol before any other health-care provider can ( the condition shows up as yellowish plaques within the retinal blood vessels ) .</s>
+<s id='vn5'>Thí dụ : sáu mươi phần trăm số ca , các bác sĩ nhãn khoa có thể thấy các dấu hiệu bệnh nhân có mức cholesterol cao trước bất kỳ các bác sĩ chuyên khoa khác ( triệu chứng thấy rõ là những mảng màu vàng nhạt trong mạch máu võng mạc ) . Này</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Behold , surprising health cues your eyes give away .</s>
+<s id='vn6'>nhé , đôi mắt của bạn phản ánh khá nhiều diều về sức khỏe của bạn đấy</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Silver - or copper-colored arteries</s>
+<s id='vn7'>Động mạch màu trắng bạc hoặc nâu đồng</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It 's might mean high blood pressure .</s>
+<s id='vn8'>Có thể là do huyết áp cao .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>More than 20 percent of people with high blood pressure do n't know they have it--a problem that could be solved if everyone visited their eye doctor more often .</s>
+<s id='vn9'>Hơn 20% những người bị huyết áp cao không nhận biết được điều này , nhưng vấn đề có thể được giải quyết khi họ gặp bác sĩ nhãn khoa một cách thường xuyên hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" We can see hypertension through the eyes because it gives retinal arteries a silver or copper that we call copper wiring , " says Reddy .</s>
+<s id='vn10'>" Qua đôi mắt chúng tôi có thể chuẩn đoán chứng tăng huyết áp do chứng bệnh này khiến động mạch võng mạc có màu trắng bạc hoặc nâu đồng giống như mạng dây đồng " , bác sĩ Reddy cho biết thêm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If left untreated , the condition can cause blood vessels in the retina and throughout the body to harden , increasing the risk for heart attack or stroke .</s>
+<s id='vn11'>Nếu không được điều trị , tình trạng này có thể khiến mạch máu ở võng mạc hoặc trên cơ thể bị xơ cứng làm tăng nguy cơ bị đau tim hoặc đột quỵ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A mole on the eye 's inner layer</s>
+<s id='vn12'>Chấm đen trên lớp trong của mắt</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It might mean melanoma .</s>
+<s id='vn13'>Đó có thể là dấu hiệu bạn có khối u ác tính</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Sunlight can wreak havoc on more than your skin--it may increase the risk of developing cancer inside the eyeball .</s>
+<s id='vn14'>Ánh nắng mặt trời gây hại cho mắt hơn đối với da , nó làm tăng nguy cơ ung thư nhãn cầu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" The cancer can look like little raised surfaces or moles in the pigment layer of the retina , " says ophthalmologist Dr. SophieJ. Bakri of the Mayo Clinic in Rochester , Minn .</s>
+<s id='vn15'>" Ung thư có thể giống như những bề mặt gợn lên hoặc chấm đen trong lớp chất màu của võng mạc " , theo lời SophieJ . Bakri , bác sĩ chuyên khoa mắt tại khám Mayo tại Rochester , Minn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Diagnosing an eye melanoma early is crucial , she says ;</s>
+<s id='vn16'>Bà cho biết , chuẩn đoán khối u ác tính ở mắt là việc cần thiết .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It often has no other symptoms and can quickly metastasize to surrounding tissues .</s>
+<s id='vn17'>Ngoài ra nó không có triệu chứng khác và có thể nhanh chóng di căn sang các mô lân cận .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Leaky blood vessels</s>
+<s id='vn18'>Mạch máu bị hở</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It might mean diabetes .</s>
+<s id='vn19'>Có thể là do bệnh đái đường</s>
+</spair>
+<spair id='20'>
+<s id='en20'>High blood sugar can clog or damage retinal blood vessels over time , rendering them weak and porous .</s>
+<s id='vn20'>Qua thời gian , lượng đường trong máu cao có thể cản trở hoặc phá hủy mạch máu võng mạc , làm chúng yếu đi hoặc thủng lỗ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Eye doctors can often spot the seepage or the new , abnormal blood vessels that sprout up to replace faulty ones .</s>
+<s id='vn21'>Bác sĩ nhãn khoa có thể phát hiện sự rò rỉ hoặc các mạch máu mới , bất thường hỉnh thành để thay thể những cái bị lỗi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Indeed , diabetes takes a big toll on the eyes in general and can lead to blindness in serious cases .</s>
+<s id='vn22'>Thực vậy , đái đường gây tổn hại lớn cho mắt , nghiêm trọng hơn có thể gây mù mắt .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Inflammation</s>
+<s id='vn23'>Viêm</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It might mean autoimmune disease .</s>
+<s id='vn24'>Có thể là do khả năng miễn dịch .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Autoimmune conditions can cause the body to attack healthy cells and tissues ( including those within the eyes ) , leading to inflammation .</s>
+<s id='vn25'>Vấn đề với hệ tự miễn dịch có thể khiến cơ thể tấn công các tế bào và mô khỏe ( gồm cả các tế bào và mô của mắt ) , gây ra chứng viêm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The process can lead to " If we see inflammation inside swollen ocular surface blood the eye , 30 to 50 percent of vessels and red , itchy , watery the time that patient will have some sort of undiagnosed autoimmune disease , like lupus or rheumatoid arthritis , " says Bakri .</s>
+<s id='vn26'>Quá trình này có thể dẫn tới " nếu chúng tôi nhìn thấy tình trạng viêm trong phần bị sưng của mắt , 30 đến 50 % mạch bị ngứa , đỏ và mọng nước đó là thời điểm bệnh nhân mắc phải căn bệnh liên quan đến tự miễn dịch không thể chuẩn đoán được , ví dụ như bệnh luput hoặc viêm thấp khớp " bà Bakri cho biết .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Another related symptom ?</s>
+<s id='vn27'>Có triệu chứng khác liên quan không ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Severely dry eyes , the result of compromised tear glands .</s>
+<s id='vn28'>Khô mắt , hậu quả do tuyến lệ bị tổn thương .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Interior blisters</s>
+<s id='vn29'>Dộp da bên dưới .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>It could be central serous retinopathy or CSR .</s>
+<s id='vn30'>Có thể do bệnh hắc võng mạc trung tâm thanh dịch ( CSR ) .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>It sounds gross , but you can get blisters inside your eyeballs .</s>
+<s id='vn31'>Nghe có vẻ thô thiển nhưng trong nhãn cầu của bạn có thể bị dộp .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>CSR is typically caused by excessive mental or emotional stress , which can tax the body so much that the retina starts to leak blister-forming fluid .</s>
+<s id='vn32'>Nguyên nhân tiêu biểu gây ra CSR là căng thẳng tinh thần đè nén cơ thể khiến võng mạc làm thủng phần dộp da - tạo chất dịch .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Eye doctors used to know CSR as a disease of stressed men with type-A personalities , but an increasing number of women are being diagnosed , " says Bakri .</s>
+<s id='vn33'>" Các bác sĩ nhãn khoa thường coi CSR là căn bệnh có ở đàn ông có tính cách loại A và thường bị căng thẳng , nhưng càng ngày càng có nhiều phụ nữ bị mắc căn bệnh này " , bà Bakri cho hay .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The most common symptom is that patients may also have blurry vision or see wavy lines when trying to focus on a set point .</s>
+<s id='vn34'>Triệu chứng phổ biến nhất là bệnh nhân nhìn lờ mờ hoặc nhìn thấy dòng uốn lượn khi họ cố gắng tập trung vào một điểm .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In many cases , CSR can be alleviated by slashing stress levels ; but if not , patients may be helped by laser treatment .</s>
+<s id='vn35'>Trong nhiều trường hợp , có thể làm dịu CSR nhở giảm bớt độ căng thẳng hoặc bệnh nhân có thể điều trị bằng tia laze .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Swollen blood vessels on the white portion of the eye</s>
+<s id='vn36'>Mạch máu ở lòng trắng sưng lên</s>
+</spair>
+<spair id='37'>
+<s id='en37'>It might mean allergies .</s>
+<s id='vn37'>Có thể là do dị ứng</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Airborne allergens such as pollen , dust , and animal dander often affect the eyes .</s>
+<s id='vn38'>Các tác nhân trong không khí gây dị ứng như phấn hoa , bụi , lông thú vật thường ảnh hưởng đến mắt .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>As a protective mechanism , your peepers secrete anti-inflammatory histamines and other natural chemicals--but not without side effects .</s>
+<s id='vn39'>Như hệ thống bảo vệ , mắt bạn sẽ tự tiết ra chất histamine để chống viêm và nhiều chất hóa học tự nhiên khác - nhưng không phải là không có tác dụng phụ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The process can lead to swollen ocular surface blood vessels and red , itchy , watery eyes visible to you , your eye doctor , and everyone else .</s>
+<s id='vn40'>Quá trình này khiến chính bạn hoặc bác sĩ mắt và những người khác thấy rõ mạch máu bị sưng và đôi mắt đỏ , ngứa và mọng nước của bạn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>For a proper diagnosis , though , do see an M.D.</s>
+<s id='vn41'>Để được chuẩn đoán chính xác hơn , hãy gặp bác sĩ y khoa .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>32 - Pollution rise " worsens " South Asia 's winter smog</s>
+<s id='vn42'>32 - Việc gia tăng ô nhiễm gây ra sương mù dày đặc ở Nam Á vào mùa đông</s>
+</spair>
+<spair id='43'>
+<s id='en43'>By Navin Singh Khadka</s>
+<s id='vn43'>Người đưa tin : Navin Singh Khadka</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Environment reporter , BBC News .</s>
+<s id='vn44'>Phóng viên môi trường , BBC News</s>
+</spair>
+<spair id='45'>
+<s id='en45'>A rapid rise in air pollution from fossil fuels and biomass burning has worsened winter smog and extended its duration in many parts of South Asia , scientists and officials have said .</s>
+<s id='vn45'>Theo các nhà khoa học và các nhà chức trách , sự gia tăng ô nhiễm không khí trong quá trình đốt cháy nhiên liệu và sinh chất đã làm cho tình trạng sương mù vào mùa đông ngày càng trầm trọng và kéo dài ở nhiều khu vực Nam Á .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>In Bangladesh , India and Nepal the temperature has plummeted and clouds of fog and smoke hang in the sky blocking sunlight for several days .</s>
+<s id='vn46'>Tại Bangladesh , Ấn Độ và Nepal , nhiệt độ đã giảm đột ngột và các lớp sương mù , khói đã phủ kín bầu trời che khuất ánh nắng mặt trời trong vài ngày qua .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Normal lives have been affected with many flights diverted and suspended and trains delayed because of low visibility .</s>
+<s id='vn47'>Cuộc sống thường nhật bị ảnh hưởng , nhiều chuyến bay phải chuyển hướng và hoãn , các chuyến tàu bị hoãn vì tầm nhìn bị hạn chế .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Experts say they have noticed that the intensity of smog has grown in the Indo-Gangetic plains in the last few years , leading to increased impacts .</s>
+<s id='vn48'>Các chuyên gia cho rằng họ đã nhận thấy tình trạng sương mù dày đặc tăng lên ở đồng bằng Gangetic , Ấn Độ một cách rõ rệt trong một vài năm qua , gây nhiều tác động xấu .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" Since 1990 onwards , there has been increase in the number of ( smog-affected ) days in northern India , " says BP Yadav , director of the Indian Meteorological Department .</s>
+<s id='vn49'>" Từ năm 1990 tới nay , số ngày bị ảnh hưởng bởi sương mù tăng lên ở phía Bắc Ấn Độ " , theo BP Yadav , giám đốc Cục khí tượng Ấn Độ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" It is not a linear trend showing an increase every year .</s>
+<s id='vn50'>" Sự gia tăng này không theo một xu hướng đường thẳng , tăng dần mỗi năm mà dao động theo từng năm .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>There are , of course , year-to-year fluctuations . "But there are more years that have seen dense fogs . "</s>
+<s id='vn51'>Tuy nhiên số năm có sương mù dày đặc lại tăng lên " .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Nepal 's Department of Hydrology and Meteorology director-general Keshav Prasad Sharma agrees the issue of smog is becoming increasingly serious in the plains in southern Nepal bordering India .</s>
+<s id='vn52'>Tổng giám đốc Cục khí tượng thủy văn , Keshav Prasad Sharma cũng nhận định rằng sương mù ngày càng tăng lên một cách trầm trọng ở các đồng bằng phía Nam Nepal , giáp với Ấn Độ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>" Until 10 years ago , we did not have such dense fog for long durations like we have these days , " he says .</s>
+<s id='vn53'>Ông nói rằng : " Cách đây 10 năm , ở đây không xuất hiện sương dày và kéo dài như vậy " .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>" Although the 10-year period is too short for statistical trends , it is indeed being seen as a major issue now . "</s>
+<s id='vn54'>" Mặc dù khoảng thời gian 10 năm là quá ngắn để đánh giá các xu hướng theo số liệu thống kê , nhưng có thể nói đó là phát hiện quan trọng tại thời điểm hiện tại " .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Some are also investigating whether the conditions can be linked to health problems in parts of the region .</s>
+<s id='vn55'>Cũng có nhiều cuộc điều tra xem liệu điều kiện thời tiết có liên quan tới vấn đề sức khỏe ở những khu vực này hay không .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Although widely reported as the direct effect of a cold wave , medical professionals say deaths and illnesses are often related to respiratory diseases .</s>
+<s id='vn56'>Mặc dù , được xem như là ảnh hưởng trực tiếp của không khí lạnh , các chuyên gia y tế cho biết , tử vong và các căn bệnh khác thường liên quan đến các bệnh về hô hấp .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>" None of our patients died of hypothermia , " says senior consultant physician Gaurang Mishra of a regional referral hospital in south-eastern Nepal where dozens of people have been reported to have died during the last three weeks that saw many smoggy days .</s>
+<s id='vn57'>" Không có bệnh nhân nào tử vong do giảm thân nhiệt " , theo cố vấn vật lý cấp cao của bệnh viện địa phương ở Nepal , Gaurang Mishra , nơi có rất nhiều người chết trong ba tuần có sương dày đặc .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>" They mostly suffer from chronic pulmonary obstructive disease that is caused by burning of wood and cow-dung cake and pollution from industries and vehicles , mainly during winter season " .</s>
+<s id='vn58'>" Những người này hầu hết bị tắc nghẽn phổi kinh niên do cháy rừng và phân gia súc và ô nhiễm từ công nghiệp , phương tiện giao thông chủ yếu vào mùa đông " .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The number of such patients , particularly children and elderly people , is also in the rise in Bangladesh .</s>
+<s id='vn59'>Số những người mắc bệnh cũng đang tăng ở Bangladesh , chủ yếu là trẻ em và người già .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Says Iqbal Habib of the Bangladesh Environment Movement .</s>
+<s id='vn60'>Theo ông Iqbal Habib của phong trào môi trường Bangladesh .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" It is not just about people 's health , At times , all means of transport come to a complete halt because of zero visibility and all walks of lives are affected .</s>
+<s id='vn61'>" Đấy không chỉ là vấn đề về sức khỏe của con người mà vào thời điểm này , tất cả các phương tiện giao thông đều ngừng hoạt động vì không thể nhìn thấy gì , tất cả mọi mặt của cuộc sống đều bị ảnh hưởng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>" The working hours come down to as little as four hours a day . "</s>
+<s id='vn62'>" Giờ làm việc giảm xuống chỉ còn 4 giờ một ngày " .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Experts say besides regular sources like vehicles , industrial factories , power plants and dust from gravelled roads , air pollution in some areas in Bangladesh is getting worse because of fast increasing numbers of brick kilns .</s>
+<s id='vn63'>Các chuyên gia cho rằng tình trạng ô nhiễm không khí ở một số nơi của Bangladesh ngày càng gia tăng không chỉ do các nguồn như phương tiện , nhà máy công nghiệp , xưởng sản xuất năng lượng , bụi bẩn từ đường sá mà còn là do các lò nung gạch xuất hiện nhiều hơn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Some studies have shown that they account for around 40% of air pollution in and around the capital Dhaka .</s>
+<s id='vn64'>Một số nghiên cứu cho biết các lò nung gạch gây ra chiếm khoảng 40% ô nhiễm không khí trong toàn thủ đô Dhaka .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>" Since we have a sustainable economic growth rate , we need more bricks and the number of brick kilns is going up day by day , " admits Monowar Islam , director general of Bangladesh 's Department of Environment .</s>
+<s id='vn65'>" Để đạt được tỉ lệ tăng trưởng kinh tế bền vững , chúng tôi cần nhiều gạch và số lượng các lò nung ngày càng tăng " , theo ông Monowar Islam , Bộ trưởng Bộ môi trường Bangladesh .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>" We know the situation is becoming serious but it is not alarming .</s>
+<s id='vn66'>" Chúng tôi biết tình trạng này ngày một nghiêm trọng nhưng vẫn không cảnh báo .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>" We have been demolishing unauthorised brick kilns and have been implementing the World Bank-supported clean air and sustainable environment project through which we patronise new technologies that reduce air pollution . "</s>
+<s id='vn67'>Chúng tôi đang hủy bỏ các lò gạch không có giấy phép và thi hành dự án của Ngân hàng thế giới về việc ủng hộ không khí sạch và môi trường bền vững , thông qua dự án , chúng tôi sử dụng những công nghệ mới giúp làm giảm ô nhiễm không khí . "</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Just like in Bangladesh , India also sees lots of constructions during winter as this is the dry season before the region gets monsoon rainfall preventing such works .</s>
+<s id='vn68'>Cũng giống như ở Bangladesh , Ấn Độ cũng có nhiều công trình xây dựng trong mùa đông bởi đây là thời điểm khô hạn trước khi mưa gió mùa ảnh hưởng đến những công trình này .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" Construction works too are major contributors for the smog in this season as they lead to more pollution in the air , " says the Indian Meteorological Department .</s>
+<s id='vn69'>" Công việc xây dựng là nguyên nhân chủ yếu gây ra sương mù trong mùa đông vì chúng dẫn đến ô nhiễm không khí " , theo cục khí tượng Ấn Độ .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>That is in addition to pollutants from energy sources .</s>
+<s id='vn70'>Các nguồn năng lượng cũng là nguyên nhân gây ô nhiễm không khí .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Energy demand</s>
+<s id='vn71'>Nhu cầu về năng lượng</s>
+</spair>
+<spair id='72'>
+<s id='en72'>In its World Energy Outlook 2010 , the International Energy Agency said : " India is the second-largest contributor to the increase in global energy demand to 2035 , accounting for 18% of the rise . "</s>
+<s id='vn72'>Trong báo cáo Viễn cảnh năng lượng thế giới năm 2010 , Cơ quan Năng lượng Quốc tế cho biết : " Ấn Độ là nước " đóng góp " lớn thứ 2 vào sự gia tăng nhu cầu năng lượng thế giới cho đến năm 2035 , chiếm khoảng 18% " .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Scientists say pollutants and aerosols in the air enhance condensation of water in the atmosphere causing dense smog .</s>
+<s id='vn73'>Các nhà khoa học cho biết , các chất gây ô nhiễm và thuốc hóa học xả vào không khí đã làm tăng sự ngưng đọng hơi nước trong không khí tạo nên sương mù dày đặc .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>" The more pollutants in the air , the denser the smog , " says Keshav Prasad Sharma at Nepal 's Department of Hydrology and Meteorology .</s>
+<s id='vn74'>Ông Keshav Prasad Sharma , trung tâm khí tượng thủy văn Nepal cho biết : " Sương sẽ dày hơn khi có càng nhiều chất gây ô nhiễm trong không khí " . "</s>
+</spair>
+<spair id='75'>
+<s id='en75'>" In some Nepal-India bordering areas , smog blankets can be seen from early evening . "</s>
+<s id='vn75'>Tại các khu vực rìa biên giới Nepal - Ấn độ , những lớp sương dày có thể xuất hiện từ buổi tối .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>When such blankets of smog block sunlight , sending temperatures down , people make fire from wood , cow-dung cake and hay to warm themselves and that creates more air pollution which leads to denser smog .</s>
+<s id='vn76'>Khi những lớp sương dày này che ánh nắng mặt trời , nhiệt độ giảm xuống và con người lại đốt cây củi , phân gia súc và cỏ khổ để sưởi ấm và lại gây ô nhiễm không khí thêm dẫn tới hình thành sương dày đặc hơn .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Scientists say the real trouble is that smog during winter cannot escape to the upper atmosphere as it can during other seasons , because of meteorological conditions .</s>
+<s id='vn77'>Các nhà khoa học nói rằng , vấn đề cốt lõi là sương mù vào mùa đông không thể thoát lên tầng khí quyển phía trên như trong những mùa khác bởi vì điều kiện thời tiết .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>William Lau , deputy director for atmospheres at Nasa 's Goddard Space Flight Center told .</s>
+<s id='vn78'>Ông William Lau , giám đốc đại diện trung tâm trụ Goddard thuộc NASA cho biết .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>"During winter , the cold air that blows towards the southwest from the northeast tends to push the boundary layer low , "</s>
+<s id='vn79'>" Trong suốt mùa đông , không khí lạnh thổi từ phía bắc xuống phía nam làm cho ranh giới tầng đối lưu bị đẩy xuống thấp .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>"As a result , all the pollutants get trapped in the boundary layer that is pushed down to as low as one kilometre from the Earth 's surface while it is more than five kilometres away during other seasons .</s>
+<s id='vn80'>Kết quả là , các chất gây ô nhiễm ở tầng đối lưu bị đẩy xuống thấp cách mặt đất 1km trong khi khoảng cách này là 5km trong những mùa khác " .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>" The cold wave becomes severe because of this local trapping of the aerosols and other pollution that block off the solar radiation and create very unhealthy air in this part of the world . "</s>
+<s id='vn81'>" Không khí lạnh trở nên khắc nghiệt hơn bởi vì các chất hóa học và chất gây ô nhiễm khác ngưng tụ làm ngăn cản bức xạ mặt trời và tạo nên bầu không khí không tốt cho khu vực này trên thế giới . "</s>
+</spair>
+<spair id='82'>
+<s id='en82'>33 - Vietnam - Paradise for retirees</s>
+<s id='vn82'>33 - Việt nam - thiên đường cho người đã nghỉ hưu</s>
+</spair>
+<spair id='83'>
+<s id='en83'>In an article with the headline " 18 best places to retire oversea s " published in the famous American magazine U.S.News&World Report , journalist Kathleen Peddicord appreciated Vietnam as an emerging choice of foreigners .</s>
+<s id='vn83'>Trong một bài báo có tiêu đề : " 18 địa điểm tốt nhất để nghỉ hưu tại nước ngoài " được đăng trên cuốn tạp chi nổi tiếng của Mỹ " U.S.News&World , nhà báo Kathleen Peddicord đã đánh giá Việt Nam nổi lên như một sự lựa chọn mới cho người nước ngoài .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Vietnam could get a lot more attention in a few coming years .</s>
+<s id='vn84'>Việt nam cũng sẽ nhận được sự quan tâm nhiều hơn trong những năm tới đây .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>According to Kathleen Peddicord , when choosing a place to spend your retirement years , the cost of living is important .</s>
+<s id='vn85'>Theo Kathleen Peddicord , trong quá trình lựa chọn địa điểm cho việc nghỉ hưu , chi phí ăn ở là một yếu tố cần lưu tâm .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>A super-low cost of living is great , but more important is the quality of life .</s>
+<s id='vn86'>Một mức giá sinh hoạt siêu rẻ là tốt , nhưng quan trong hơn là chất lượng cuộc sống .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>In Vietnam , he pays special attention to the coastal city of Nha Trang .</s>
+<s id='vn87'>Ở việt Nam , ông đã đặc biệt chú ý tới thành phố biển Nha Trang .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Nha Trang offers an interesting coastal retirement option for adventure some retirees .</s>
+<s id='vn88'>Nha Trang là một sự lựa chọn thú vị cho những người nghỉ hưu yêu thích sự phiêu lưu .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Nha Trang 's total population of more than 200,000 includes an expat population of about 1,000 people .</s>
+<s id='vn89'>Tổng số dân của Nha Trang là 200.000 , trong đó chỉ có khoảng 1000 người nước ngoài .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Nha Trang has no organized activities for foreigners , such as expat clubs or softball leagues .</s>
+<s id='vn90'>Nha Trang không tổ chức những hoạt động riêng lẻ cho người nước ngoài , như những câu lạc bộ hay những giải bóng chày .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>The lack of a big foreign population makes it easier to have meaningful interactions with the locals .</s>
+<s id='vn91'>Số lượng không lớn này đã giúp cho những người nước ngoài dễ dàng hơn trong việc tiếp cận và giao lưu với người dân địa phương . Điểm .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>The major attraction in Nha Trang is its low cost of living , which can amount to much less than US$ 1,000 per month for a retired couple .</s>
+<s id='vn92'>Điểm hấp dẫn chính ở Nha Trang chính là chi phí sinh hoạt thấp , nơi mà tổng cộng chưa đên 1000 đô mỗi tháng cho 1 cặp vợ chồng nghỉ hưu .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>This is not the first time Kathleen Peddicord highly appreciates life in Vietnam , especially Nha Trang .</s>
+<s id='vn93'>Đây không phải là lần đầu tiên Kathleen Peddicord đánh giá cao cuộc sống ở Việt Nam , đặc biệt là Nha Trang .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>In October last year , in an article entitled " One retiree 's new life in Nha Trang " , he also praised comfortable life in the coastal city of Nha Trang .</s>
+<s id='vn94'>Vào tháng 10 năm ngoái , trong nhan đề một bài báo " Cuộc sống nghỉ hưu mới ở Nha Trang " , ông cũng đánh giá cao sự thoải mái ở thành phố biển Nha Trang .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The article was about daily life activities of an American woman retiree Wendy Justice , who chose Nha Trang as a place for old age .</s>
+<s id='vn95'>Bài báo đã viết về những hoạt động trong cuộc sống thường ngày của một phụ nữ Mỹ đã nghỉ hưu Wendy Justice , đã chọn Nha Trang là nơi sinh sống khi về già .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>She left America for Vietnam to wake up every morning with the sound of the rooster that lives in her neighborhood .</s>
+<s id='vn96'>Bà đã rời Mỹ đến Việt nam để hàng ngày thức dậy với tiếng gà trống xung quanh khu vực bà sinh sống .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Living there is helping her retirement savings to stretch much farther than it would in the U.S. Justice 's overall cost of living is about US$ 750 per month , including US$ 350 per month for rent for a furnished two-bedroom house with high-speed Internet and cable TV .</s>
+<s id='vn97'>Cuộc sống ở đây giúp bà tiết kiệm được nhiều hơn khi sống tại Mỹ . Toàn bộ chi phí sinh hoạt của bà vào khoảng 750 đô mỗi tháng , bao gồm 350 đô cho thuê một căn hộ có 2 giường ngủ với đường truyền internet tốc độ cao và truyền hình cáp .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" I can't imagine a more enjoyable place to be retired or a more affordable one , " she says .</s>
+<s id='vn98'>Bà nói : " Tôi không thể hình dung ra môt nơi nghỉ hưu nào thú vị hay có mức chi trả dễ chịu hơn thế " .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>In recent years , not only foreigners as Wendy Justice like life in Vietnam , but many international organizations also ranked Vietnam as one of the happiest countries , the most friendly countries in the world .</s>
+<s id='vn99'>Trong một vài năm trở lại đây , không chỉ những người nước ngoài như Wendy Justice thích cuộc sống ở Việt Nam , mà tổ chức quốc tế cũng xếp Việt Nam vào một trong những quốc gia hạnh phúc và thân thiện nhất trên thế giới .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>In the 2009 report , the UN has indicated that per capita income in Vietnam and Pakistan are similar .</s>
+<s id='vn100'>Theo như số liệu năm 2009 , Liên Hợp Quốc đã chỉ ra rằng thu nhập đầu người ở Việt Nam và Pakistan tương đương nhau .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>But life in Vietnam is much better because this income is realized by health care and education .</s>
+<s id='vn101'>Nhưng cuộc sống ở Việt Nam tốt hơn rất nhiều , bởi thu đồng nghĩa với những chế độ chăm sóc sức khỏe và giáo dục tốt hơn .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>34 - Tips for spending less on gas</s>
+<s id='vn102'>34 - Mẹo nhỏ giúp tiết kiệm xăng .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Pain at the pump is nothing new , yet every few years , Americans have to wrestle with high gas prices and the nausea that comes with watching that digital dial go up and up , topping $ 4 a gallon at many local stations .</s>
+<s id='vn103'>Đã một vài năm trở lại đây , " tiếc túi tiền " mỗi khi phải đổ xăng không còn là một điều xa lạ , người dân Mỹ phải vật lộn với giá xăng tăng cao và " buồn nôn " mỗi khi nhìn thấy bảng đồng hồ điện tử tăng chóng mặt , đạt đỉnh ở mức 4 đola / gallon tại nhiều trạm xăng địa phương .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>"People have a growing sense of powerlessness , " said John Townsend , manager of public affairs at AAA Mid-Atlantic .</s>
+<s id='vn104'>" Mọi người có cảm giác bất lực " , Ông John Towsend , giám đốcvề các vấn đề công cộng tại AAA Mid-Atlantic bày tỏ . "</s>
+</spair>
+<spair id='105'>
+<s id='en105'>" But you have to practice psychological warfare , along with gas-saving tips .</s>
+<s id='vn105'>Bạn phải thực hành đấu tranh tâm lý cùng với một vài lời khuyên tiết kiệm xăng .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Most importantly , you have to remember that as bad as it is , it has been this bad before .</s>
+<s id='vn106'>Quan trọng nhất là hãy nhớ rằng đây không phải lần đầu tiên điều tồi tệ nàyxảy ra .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>We 're going to come out of it ... by mid-summer at the latest . "</s>
+<s id='vn107'>Chúng ta sẽ thoát khỏi nó ... muộn nhấtvào thời điểm giữa mùa hè "</s>
+</spair>
+<spair id='108'>
+<s id='en108'>But mid-summer seems far away when prices must go up before they come down .</s>
+<s id='vn108'>Nhưng dường như mùa hè đang ở quá xakhi mà giá xăng vẫn tiếp tục tăng trước khi có dấu hiệu sụt giảm .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>This month , gas stations will switch to the " summer-blend " formula , a federally and locally mandated product used to cut smog in the summer , which could cause gas to jump another 10 or 20 cents per gallon .</s>
+<s id='vn109'>Tháng này , các trạm xăng sẽ áp dụng công thức " pha trộn vào mùa hè " , một sản phẩm được chỉ thị cấp tiểu bang và liên bang được sử dụng để giảm khói trong mùa hè , nhưng công thức này có thể khiến giá xăng tăng 10 hoặc 20 cent mỗi gallon .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>But because worrying andirritation won't help our sanity or save us money .</s>
+<s id='vn110'>Nhưng lo lắng và tức giận sẽ chỉ làm chúng ta thiếu sáng suốt và chẳng ích gì trong việc tiết kiệm tiền .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Townsend offers some practical tips — from tracking down cheap gas online to driving the speed limit — to ease the pain .</s>
+<s id='vn111'>Ông Townsend đưa ra một số lời khuyên thiết thực - từ việc lìm kiếm các trạm xăng giá rẻ trên mạng đến việc hạn chế tốc độ khilái xe để không phải quá " đau xót " về tiền bạc .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>First things</s>
+<s id='vn112'>Việc đầu tiên</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Make sure your tires are inflated .</s>
+<s id='vn113'>Hãy đảm bảo lốp xe được bơm căng .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>" We have just come through winter , and tires are probably underinflated , " Townsend said .</s>
+<s id='vn114'>" Chúng ta vừa trải qua mùa đông nên lốp có thể bị non hơi " , Townsend cho biết .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>" Inflated tires save 3.3 percent in terms of fuel economy . "</s>
+<s id='vn115'>" Lốp xe căng giúp tiết kiệm được 3,3% trong việc tiết kiệm nhiên liệu " .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Also , plan your errands and be sure to lighten the load .</s>
+<s id='vn116'>Bạn nên sắp xếp các công việc lặt vặt để giảm trọng lượng .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Extra weight costs fuel , so take those golf clubs and moving boxes out of your car .</s>
+<s id='vn117'>Chở nặng sẽ tiêu tốn thêm nhiên liệu , vì thế hãy mang những đồ nhỏ tới câu lạc bộ golf và bỏ những chiếc hộp ra khỏi xe của mình .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Keep sane</s>
+<s id='vn118'>Hãy sáng suốt</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Never let your gas tank go below the halfway mark .</s>
+<s id='vn119'>Đừng để bình xăng còn dưới vạch giữa .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>" Filling up more often will make you feel like you have control , " Townsend said .</s>
+<s id='vn120'>" Đổ xăng thường xuyên sẽ giúp có cảm giác bạn có sự kiểm soát tốt hơn " , Townsend chia sẻ .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Instead of paying $ 70 , you 're spending $ 35 .</s>
+<s id='vn121'>Thay vì phải trả 70 đô bạn chỉ phải trả một nửa .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>It helps you say , 'I'm not going to have a visceral reaction to things I can't control . '</s>
+<s id='vn122'>Bạn có thể nói , " Tôi sẽ không làm theo cảm tínhtrước các sự việc tôi không thể kiểm soát . "</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Alter your driving style</s>
+<s id='vn123'>Thay đổi thói quen lái xe</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Small changes to the way you drive can save you money in the long run .</s>
+<s id='vn124'>Chỉ cần những thay đổi nhỏ trong cách lái xe về lâu dài sẽ giúp bạn tiết kiệp tiền .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Townsend recommends minimizing the need to brake by anticipating traffic stops .</s>
+<s id='vn125'>Townsend khuyên nên hạn chế dùng phanh mà hãy đoán trước các điểm dừng .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>" Be alert for slow downs , and decelerate by coasting whenever possible , " he said .</s>
+<s id='vn126'>" Hãy linh hoạt khi lao dốc , giảm tốc độ bằng cách trượt dốc nếu có thể .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Another tactic is to avoid the left lane .</s>
+<s id='vn127'>Một thủ thuật khác là tránh làn xe bên trái .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>" When you 're sitting in the turning lane you 're just waiting and wasting gas .</s>
+<s id='vn128'>" Khi lái xe vào làn quay đầu xe , bạn sẽ phải đợi và điều này gây lãng phí xăng .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>UPS and FedEx tell their drivers to avoid the left lane , and you should , too . "</s>
+<s id='vn129'>UPS và FedEx muốn lái xe của họ tránh làn đường bên trái và bạn cũng nên làm vậy . "</s>
+</spair>
+<spair id='130'>
+<s id='en130'>The need for speed</s>
+<s id='vn130'>Tốc độ cần thiết</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Speed limits are there for a reason .</s>
+<s id='vn131'>Hạn chế tốc độ cũng có lí do riêng .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Traveling at higher speeds requires more fuel to overcome air resistance .</s>
+<s id='vn132'>Lái xe tốc độ cao tiêu tốn nhiều năng lượng để thắng rào cản không khí .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" Even if that car is aerodynamically designed , traveling fast uses more fuel , " Townsend said .</s>
+<s id='vn133'>" Kể cả khi xe bạn được thiết kế theo kiểu khí động lực , lái xe nhanh sẽ sử dụng nhiều nhiên liệu " , Towsend cho biết .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>" Don't drive so slow you become a traffic hazard , but drive at a moderate speed . "</s>
+<s id='vn134'>" Đừng lái xe quá chậm nếukhôngmuốn trở thành tác nhângâycản trở giao thông , hãy lái xe với tốc độ vừa phải . "</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The air-conditioning debate</s>
+<s id='vn135'>Tranh cãi về việc sử dụng điều hòa .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>It 's a common question : Should you use the air conditioner ?</s>
+<s id='vn136'>Câu hỏi thường được lái xe nêu ra là : Có nên sử dụng điêu hòa không khí hay không ?</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Townsend tells people to be a smart user , not to avoid it completely .</s>
+<s id='vn137'>Townsend cho rằng để trở thành một người dùng xe thông minhthì không nên tránh dùng tuyệt đối .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>" If you live in D.C. , it 's probably smarter to roll down the windows in stop-and-go traffic ," he said .</s>
+<s id='vn138'>" Nếu bạn sống ở Columbia thì nên kéo cửa sổ xuống khi xếp hàng chờ " , ông cho biết .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>" But if you 're driving 55 miles per hour , you 're creating a drag on your car if your windows are down . "</s>
+<s id='vn139'>" Nhưng nếu đang lái xe với tốc độ gần 55 km/giờ , việc mở cửa sổ sẽ tạo lực cản xe . "</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Also , it 's allergy season .</s>
+<s id='vn140'>Cũng đang vào mùa dị ứng .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Why roll down the windows and let the pollen in at the expense of health ?</s>
+<s id='vn141'>Tại sao lại kéo cửa xuống để phấn hoa bay vào làm nguy hại đến sức khỏe ?</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Allergy medications will cost you more than you save in gas .</s>
+<s id='vn142'>Tiền thuốc dị ứng còn tốn hơn tiền tiết kiệm được từ xăng .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Brand loyalty ?</s>
+<s id='vn143'>Nên trung thành với một hãng xăng ?</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Think again</s>
+<s id='vn144'>Nghĩ lại bạn nhé</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Many people think brand loyalty pays off , especially if you have a gas card .</s>
+<s id='vn145'>Nhiều người nghĩ rằng trung thành với một hãng sẽ đem lại kết quả tốt , đặc biệt là khi bạn có thẻ mua xăng .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>But Townsend says you should consider using gas stations .</s>
+<s id='vn146'>Townsend lại cho rằng chúng ta nên mua ở những trạm xăng không có tên tuổi .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>" Around 85 percent of gas in the country is unbranded at convenience stores , " he said .</s>
+<s id='vn147'>" Khoảng 85 % xăng đang lưu hành trên thị trường được bán ở các trạm xăng có vị trí vô cùng thuận tiện " , ông cho biết .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>" Using Sam 's Club , Safeway , or generic gas stations will save 3 or 4 cents at the pump . "</s>
+<s id='vn148'>" Mua ở Sam ' s Club , Safeway hoặc các đại lý ga sẽ giúp tiết kiệm được 3 đến 4 đô mỗi lần đổ . "</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Also some stations offer one price for cash and one for credit .</s>
+<s id='vn149'>Một số cửa hàng xăng dầu đưa ra mức giá riêng cho việc trả bằng tiền mặt và trả bằng tài khoản .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Paying cash can save you about 4 cents a gallon at some stations .</s>
+<s id='vn150'>Ở một số trạm xăng , trả bằng tiền mặt sẽ tiết kiệm được khoảng 4 cent / gallon .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>35 - Scientists discover soldier bees</s>
+<s id='vn151'>35 - Phát hiện ong " chiến binh "</s>
+</spair>
+<spair id='152'>
+<s id='en152'>You may have heard of soldier ants - whose primary function is to guard their nest from intruders .</s>
+<s id='vn152'>Chúng ta từng biến đến kiến lính có nhiệm vụ chiến đấu bảo vệ tổ khỏi những kẻ xâm nhập .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>Now , scientists have discovered a new soldier , in the usually much less confrontational world of bees .</s>
+<s id='vn153'>Mới đây , các nhà khoa học đã phát hiện ra ong lính Jatai cũng có nhiệm vụ tương tự .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>A University of Sussex team found that , in colonies of Jatai bees ( Tetragonisca angustula ) , some insects are born soldiers .</s>
+<s id='vn154'>Các nhà nghiên cứu tại trường đại học Sussex , Anh phát hiện trong thuộc địa loài ong Jatai có ong lính .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>The study , reported in the journal PNAS , is the first known example of a soldier bee .</s>
+<s id='vn155'>Đây là nghiên cứu đầu tiên về ong lính được công bố trên Tạp chí PNAS</s>
+</spair>
+<spair id='156'>
+<s id='en156'>While the caste system is common in ants and termites , with insects of different shapes and sizes assuming defined roles , the division of labour in bees is usually much more transient .</s>
+<s id='vn156'>Trong tổ chức xã hội của kiến , mối , côn trùng khác có sự phân công công việc mang tính hình thức thì ở ong khá rõ ràng .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>" Workers carry out different tasks at different ages , " explained Prof Francis Ratnieks .</s>
+<s id='vn157'>Giáo sư Francis Ratnieks cho biết " Ong thợ thực hiện các nhiệm vụ khác nhau ở những độ tuổi khác nhau .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>" They start out cleaning the nest , then feeding the larvae ... then foraging and eventually guarding . "</s>
+<s id='vn158'>Ban đầu chúng làm tổ , cho ấu trùng ăn ... sau đó tìm kiếm thức ăn và thậm chí là bảo vệ tổ . "</s>
+</spair>
+<spair id='159'>
+<s id='en159'>But while most bee guards take on their role for about a day , Jatai bee guards stand guard at the wax entrance tube to their nest for about a week , which , in the insect realm , is a relatively long career .</s>
+<s id='vn159'>Trong khi hầu hết ong lính thương canh gác tổ của chúng trong vòng một ngày thì ong lính Jatai lại thực hiện nhiệm vụ đó trong vòng một tuần - khoảng thời gian khá dài đối với vòng đời loài côn trùng này .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>To find this out , the team observed the bees " nests on a farm in Fazenda Aretuzina , Brazil .</s>
+<s id='vn160'>Để tìm hiểu điều này , các nhà nghiên cứu quan sát một tổ ong trong một trang trại ở Fazenda Aretuzina , Brazil .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Prof Ratnieks explained .</s>
+<s id='vn161'>Giáo sư Ratnieks giải thích .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>They used dots of paint to mark the bees that were hovering and perching close to the entrance , which revealed that these guards assumed that role for extended periods of time .</s>
+<s id='vn162'>Họ sử dụng sơn để đánh dấu những con ong lính bay lượn gần tổ .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>" We then took some of these ( guard bees ) back to the lab to examine them more closely , "</s>
+<s id='vn163'>Sau một khoảng thời gian , họ mang những con ong này trở lại phong thí nghiệm để kiểm tra .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>From this examination , he and his colleagues realised that the bees were not just behaviourally different , they were also a different size and shape to the worker bees .</s>
+<s id='vn164'>Họ nhận thấy những con ong lính Jatai không chỉ làm công việc khác ong thợ mà còn có kích thước lớn hơn 30% so với ong thợ .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>" The Jatai soldiers are 30 % larger than worker bees , " said Prof Ratnieks . "They also have larger legs that they probably use for grappling . "</s>
+<s id='vn165'>Trong đó , chân của chúng to và có thể dùng vào mục đích chiến đấu .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Battling robber bees</s>
+<s id='vn166'>Cuộc chiến với ong cướp</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Prof Ratnieks and his colleagues think that the Jatai soldier bees may the product of an evolutionary arms race against the diminutive species ' worst enemy - the robber bee .</s>
+<s id='vn167'>Giáo sư Ratnieks và các đồng nghiệp của ông cho rằng phát hiện mới và ong Jatai là do cuộc chạy đua tiến hóa đang diễn ra nhằm chống lại kẻ thù nguy hiểm - ong cướp .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Robber bees are so-called because , rather than forage , they simply invade other bees " nests and steal their food reserves .</s>
+<s id='vn168'>Ong cướp thường xâm nhập vào các tổ ong khác để lấy cắp thức ăn dự trữ trong đó .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>They 're much bigger than Jatai bees and a full-blown attack can destroy a ( Jatai ) colony .</s>
+<s id='vn169'>Chúng lớn hơn ong Jatai nên chúng có thể tấn công phá hủy lãnh thổ của ong Jatai .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Soldier bees appear to help prevent an attack by tackling individual robber to invade .</s>
+<s id='vn170'>Do đó , ong lính Jatai xuất hiện với nhiệm vụ chiến đấu và ngăn chặn ong cướp xâm lược .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>The scientists actually tested the soldier bees ' ability to fend off a robber .</s>
+<s id='vn171'>Các nhà khoa học đã tiến hành thử nghiệm khả năng chiến đấu của ong lính .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>They held a robber bee close to the entrance tube of a Jatai bee nest and watched the Jatai soldiers ' reaction .</s>
+<s id='vn172'>Họ cho ong cướp xâm nhập vào tổ ong Jatai và theo dõi phản ứng của ong lính .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>The much smaller Jatai soldier bees used their jaws to clamp onto the robber bees ' wings , immobilising their attacker .</s>
+<s id='vn173'>Chúng dùng hàm kẹp vào cánh ong cướp nhằm khống chế sự tấn công từ kẻ thù .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>They seem to " sacrifice themselves " to protect the colony , Prof Ratnieks said .</s>
+<s id='vn174'>Những con ong này dường như " hy sinh bản thân " để bảo vệ thuộc địa , Giáo sư Ratnieks cho biết .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>These bees represent the pinnacle of social living .</s>
+<s id='vn175'>Chúng đại diện cho loài côn trùng có tổ chức xã hội cao .</s>
+</spair>
+</text>
+</doc>

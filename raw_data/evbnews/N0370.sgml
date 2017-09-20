@@ -1,0 +1,112 @@
+﻿<doc id='N0370'>
+<head>
+<title>Symantec : China Main Source of Targeted Attacks</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Symantec : China Main Source of Targeted Attacks</s>
+<s id='vn1'>Symantec : Trung Quốc - Nguồn gốc chính của các cuộc tấn công có mục tiêu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A new report from Symantec 's MessageLabs analyzed targeted attacks this month and found that nearly a third originate from senders in China .</s>
+<s id='vn2'>Một báo cáo mới từ MessageLabs của Symantec đã phân tích các cuộc tấn công có mục tiêu tháng này và nhận thấy rằng gần một phần ba xuất phát từ những người gửi ở Trung Quốc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A new report from Symantec names China as the world 's primary source of targeted malware the month of March .</s>
+<s id='vn3'>Một báo cáo mới của Symantec nêu rõ Trung Quốc là nguồn gốc phần mềm độc hại theo mục tiêu đã định chủ yếu trên thế giới trong tháng ba .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The high stakes of such attacks were brought into focus for many earlier this year with the Aurora attack on Google and dozens of other companies .</s>
+<s id='vn4'>Nguyên tắc tối trọng của các cuộc tấn công kiểu này là tập trung vào những đầu năm nay với cuộc tấn công Aurore nhằm vào Google và nhiều công ty khác .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>According to Symantec ( PDF ) , while most of the malware ( 36.6 percent ) came from the United States in terms of mail server location , an analysis of the sender 's IP address put the attacker 's location in China 28.2 percent of the time , followed by Romania ( 21.1 percent ) and then the United States ( 13.8 percent ) .</s>
+<s id='vn5'>Theo Symantec , trong khi hầu hết các phần mềm độc hại dưới dạng vị trí máy chủ email ( 36,6 % ) có nguồn gốc từ Hoa Kỳ , một phân tích địa chỉ IP của người gửi cho thấy vị trí của kẻ tấn công tại Trung Quốc chiếm 28,2 % thời gian , theo sau là Rumani ( 21,1% ) và tiếp theo là Hoa Kỳ ( 13,8 % ) .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" When considering the true location of the sender rather than the location of the e-mail server , fewer attacks are actually sent from North America than it would at first seem , " said Paul Wood , intelligence senior analyst with Symantec 's MessageLabs , in a statement .</s>
+<s id='vn6'>Trong một bài phát biểu , Paul Wood , nhà phân tích tình báo cao cấp ở MessageLabs của Symantec đã nói " Khi xem xét vị trí thực sự của người gửi thay vì vị trí của máy chủ thư , có ít cuộc tấn công thực sự bắt nguồn từ Bắc Mỹ hơn dự đoán ban đầu " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" A large proportion of targeted attacks are sent from legitimate webmail accounts which are located in the U.S. therefore , the IP address of the sending mail server is not a useful indicator of the true origin of the attack .</s>
+<s id='vn7'>" Phần lớn các cuộc tấn công có mục tiêu được gửi từ những tài khoản webmail hợp pháp nằm ở Mỹ , chính vì vậy , địa chỉ IP của máy chủ email gửi đi không chỉ báo về nguồn gốc thực sự của cuộc tấn công .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Analysis of the sender 's IP address , rather than the IP address of the e-mail server reveals the true source of these targeted attacks . "</s>
+<s id='vn8'>Phân tích địa chỉ IP của người gửi thay vì địa chỉ IP của máy chủ thư tiết lộ nguồn gốc thực sự của các cuộc tấn công có mục tiêu này . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Symantec found that the top five targeted roles are : Director , Senior fficial , Vice President , Manager , Executive Director , and the individuals that receive the most targeted malware are typically responsible for foreign trade and defense policy involving Asian countries .</s>
+<s id='vn9'>Symantec nhận thấy rằng 5 nhân vật có chức vụ cao nhất bị nhăm đến là : Giám đốc , Viên chức Cao cấp , Phó chủ tịch , Nhà quản lý , Giám đốc Điều hành và những cá nhân bị phần mềm độc hại nhắm vào nhiều nhất thường là những người chịu trách nhiệm về ngoại thương và chính sách quốc phòng liên quan đến các nước Á Châu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Mikko Hypponen , chief researcher officer at F-Secure , noted in a conversation with eWEEK that targeted attacks are often preceded by real-world espionage where the hackers dig into the backgrounds of their targets , searching for information such as where they live , what language they speak and what information they have access to .</s>
+<s id='vn10'>Mikko Hypponen , trưởng ban nghiên cứu tại hãng F-Secure lưu ý trong cuộc trò chuyện với eWeek rằng các cuộc tấn công có mục tiêu thường xảy ra sau hoạt động do thám thực tế nơi các hacker lục lọi lai lịch của những người là mục tiêu của chúng , tìm kiếm thông tin như họ sống ở đâu , nói ngôn ngữ nào và họ truy cập đến những thông tin nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Who are their colleagues ?</s>
+<s id='vn11'>" Đồng nghiệp của họ là ai ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>What area are they working ?</s>
+<s id='vn12'>Họ làm trong lĩnh vực nào ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What kind of computers are they using , what kind of security systems they have in place…once you have all that information , then you can launch the actual attacks , "</s>
+<s id='vn13'>Dùng loại máy tính gì ? Lắp đặt hệ thống bảo mật nào ? ... một khi bạn có tất cả thông tin này , bạn có thể mở các cuộc tấn công thực sự , "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>According to Symantec , the city Shaoxing in China seems to be a major source for attacks , accounting for 21.3 percent .</s>
+<s id='vn14'>Theo Symantec , thành phố Thiệu Hưng ở Trung Quốc dường như là nguồn gốc chính của các cuộc tấn công , chiếm 21,3% .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Taipei in Taiwan and London in the U.K. accounted for 16.5 percent and 14.8 percent , respectively .</s>
+<s id='vn15'>Đài Bắc ở Đài Loan và Luân Đôn ở Anh chiếm tương ứng là 16,5 % và 14,8 % .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Symantec 's analysis found the most common file types attached to malicious e-mails are .XLS and .DOC , though the most dangerous file type is .RAR files , which are a proprietary compressed archive format .</s>
+<s id='vn16'>Phân tích của Symantec cho thấy các kiểu tập tin phổ biến nhất được đính kèm theo các thư điện tử độc hại là .XLS và .DOC , mặc dù kiểu tập tin nguy hiểm nhất là tập tin .RAR , một định dạng lưu trữ nén độc quyền .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The most compromised file type for the month were encrypted .RAR files which accounted for roughly 1 in 312 malicious files attached to e-mails .</s>
+<s id='vn17'>Kiểu tập tin gây thiệt hại nhất trong tháng đã được mã hoá thành tập tin .RAR , chiếm khoảng 1 trong 312 tập tin độc hại đính kèm theo các thư điện tử .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>While encrypted .RAR_files</s>
+<s id='vn18'>Trong khi các tập tin .RAR được mã hóa</s>
+</spair>
+<spair id='19'>
+<s id='en19'>relatively uncommon , Symantec reported that 96.8 percent attached to e-mails were found to be malicious .</s>
+<s id='vn19'>tương đối hiếm , Symantec báo cáo rằng 96,8 % được đính kèm theo các thư điện tử đã phát hiện là độc hại .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" By comparison , unencrypted .RAR files rarely exploited and occur in 1.1 percent of e-mails , " Wood said .</s>
+<s id='vn20'>Wood cho hay " Khi so sánh , các tập tin .RAR chưa được mã hóa thường hiếm khi được khai thác và chỉ xuất hiện trong 1,1% thư điện tử " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Although they are more common than encrypted .RAR_files , they are far less likely to be seen attached to malicious e-mail . "</s>
+<s id='vn21'>" Mặc dù phổ biến hơn so với tập tin .RAR được mã hóa , chúng ít có khả năng đính kém vào các thư điện tử độc hại hơn . "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The .EXE file type is the most likely to arouse suspicion when attached to an e-mail , however , in March executable file types accounted for just 6.7 percent of files attached to e-mail and were found to be compromised 15 percent of this time .</s>
+<s id='vn22'>Kiểu tập tin .EXE có vẻ gây nghi ngờ nhiều nhất khi đính kèm vào một thư điện tư , tuy nhiên , trong tháng ba , các kiểu tập tin có thể thực thi chiếm 6,7% trong số các tập tin đính kèm thư điện tử và được phát hiện là làm hại 15 % trong thời gian này .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The most common file extensions , .XLS , .DOC , .ZIP and .PDF , as attachments , were the least likely to be infected , due to the sheer number of e-mails using them as attachments , Symantec reported .</s>
+<s id='vn23'>Theo Symantec báo cáo , các tập tin đính kèm có đuôi mở rộng phổ biến nhất là .XLS , .DOC , .ZIP và .PDF có vẻ ít bị lây nhiễm nhất , do phần lớn các thư điện tử sử dụng chúng làm tập tin đính kèm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>These attacks often come through spoofed e-mails with all the calling cards of legitimate messages .</s>
+<s id='vn24'>Các cuộc tấn công này thường thông qua các thư điện tử lừa đảo có danh thiếp chứa thông điệp hợp pháp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" In many cases these e-mails are very convincing…talking about projects by numbers and codenames , talking about highly specific details that the person is working with and they have an attachment ... which when opened will actually show you a real file which is again relevant in most cases , but at the same time it will drop an exploit through a backdoor , " Hypponen explained .</s>
+<s id='vn25'>Ông Hypponen giải thích " Trong nhiều trường hợp các thư điện tử này rất đáng tin cậy ... nói về các dự án theo trình tự và tên mã , nói về những chi tiết cực kỳ cụ thể mà người đó đang xử lý và họ có một tập tin đính kèm ... mà khi mở ra sẽ thực sự cho bạn thấy một tập tin thật một lần nữa có liên quan trong hầu hết các trường hợp , nhưng đồng thời nó cũng sẽ thả một mã khai thác thông qua cửa sau " .</s>
+</spair>
+</text>
+</doc>

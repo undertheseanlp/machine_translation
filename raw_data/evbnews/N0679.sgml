@@ -1,0 +1,712 @@
+﻿<doc id='N0679'>
+<head>
+<title>Green tea</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Green tea</s>
+<s id='vn1'>Trà xanh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Overview :</s>
+<s id='vn2'>Khái quát :</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Archeological evidence suggests that people consumed tea leaves steeped in boiling water as many as 5,000 years ago .</s>
+<s id='vn3'>Bằng chứng khảo cổ cho biết cách đây 5000 năm người ta đã biết dùng lá trà để nấu nước uống .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Botanical evidence indicates that India and China were among the first countries to cultivate tea .</s>
+<s id='vn4'>Bằng chứng thực vật học cho thấy Ấn Độ và Trung Quốc là những nước trồng cây chè đầu tiên .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Today , tea is the most widely consumed beverage in the world , second only to water .</s>
+<s id='vn5'>Ngày nay , trà là thức uống được dùng phổ biến nhất trên thế giới , chỉ đứng thứ hai sau nước .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Hundreds of millions of people drink tea around the world , and studies suggest that green tea ( Camellia sinesis ) in particular has many health benefits .</s>
+<s id='vn6'>Hàng trăm triệu người uống trà khắp nơi trên thế giới , và nhiều công trình nghiên cứu đã cho biết trà xanh ( Camellia sinesis ) có rất nhiều lợi ích về sức khỏe .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There are three main varieties of tea - green , black , and oolong .</s>
+<s id='vn7'>Có ba loại trà chính là trà xanh , trà đen , và trà ô-long .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The difference between the teas is in their processing .</s>
+<s id='vn8'>Sự khác biệt giữa các loại trà này nằm ở quá trình chế biến .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Green tea is made from unfermented leaves and reportedly contains the highest concentration of powerful antioxidants called polyphenols .</s>
+<s id='vn9'>Trà xanh được chế biến từ lá chưa lên men và được cho là chứa hàm lượng chất chống ô-xy hoá cao nhiều nhất có tên là polyphenol .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Antioxidants are substances that scavenge free radicals - damaging compounds in the body that alter cells , tamper with DNA ( genetic material ) , and even cause cell death .</s>
+<s id='vn10'>Chất chống ô-xy hoá là những chất có thể lọc sạch hết gốc tự do - các hợp chất gây hại cho cơ thể làm thay đổi tế bào , làm xáo trộn DNA ( vật liệu di truyền ) , và thậm chí còn làm chết tế bào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Free radicals occur naturally in the body , but environmental toxins ( including ultraviolet rays from the sun , radiation , cigarette smoke , and air pollution ) also give rise to these damaging particles .</s>
+<s id='vn11'>Các gốc tự do này xảy ra một cách bình thường trong cơ thể , nhưng các độc tố trong môi trường ( như tia tử ngoại mặt trời , bức xạ , khói thuốc lá , và ô nhiễm không khí ) cũng gây ra các hạt gây hại này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Many scientists believe that free radicals contribute to the aging process as well as the development of a number of health problems , including cancer and heart disease .</s>
+<s id='vn12'>Nhiều nhà khoa học cho rằng gốc tự do góp phần tạo nên quá trình lão hoá cũng như làm phát sinh nhiều vấn đề sức khỏe , như ung thư và tim mạch .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Antioxidants such as polyphenols in green tea can neutralize free radicals and may reduce or even help prevent some of the damage they cause .</s>
+<s id='vn13'>Chất chống ô-xy hoá như polyphenol có trong trà xanh có tác dụng khử gốc tự do và có thể làm giảm hoặc thậm chí giúp phòng tránh tác hại mà các gốc tự do gây ra .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Green tea has been consumed throughout the ages in India , China , Japan , and Thailand .</s>
+<s id='vn14'>Trà xanh đã được sử dụng ở Ấn Độ , Trung Quốc , Nhật Bản , và Thái Lan từ rất lâu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In traditional Chinese and Indian medicine , practitioners used green tea as a stimulant , diuretic ( to promote the excretion of urine ) , astringent ( to control bleeding and help heal wounds ) , and to improve heart health .</s>
+<s id='vn15'>Trong y học truyền thống của Trung Quốc và Ấn Độ , nhiều thầy thuốc đã dùng trà xanh như một chất kích thích , làm lợi tiểu ( tăng sự bài tiết nước tiểu ) , chất làm se ( cầm máu và làm vết thương mau lành ) , và để cải thiện sức khỏe tim mạch .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Other traditional uses of green tea include treating flatulence , regulating body temperature and blood sugar , promoting digestion , and improving mental processes .</s>
+<s id='vn16'>Nhiều công dụng truyền thống khác của trà xanh cũng được đề cập như chữa đầy hơi , điều hoà nhiệt độ và đường huyết trong cơ thể , giúp tiêu hoá tốt , và tăng cường hoạt động trí tuệ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Green tea has been extensively studied in people , animals , and laboratory experiments .</s>
+<s id='vn17'>Trà xanh đã được nghiên cứu thí nghiệm một cách rộng rãi trên người , động vật , và cả ở phòng thí nghiệm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Results from these studies suggest that green tea may be useful for the following health conditions :</s>
+<s id='vn18'>Kết quả của các công trình nghiên cứu này cho thấy trà xanh rất có ích đối với những chứng bệnh sau đây :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Atherosclerosis</s>
+<s id='vn19'>Xơ vữa động mạch</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Population-based clinical studies indicate that the antioxidant properties of green tea may help prevent atherosclerosis , particularly coronary artery disease .</s>
+<s id='vn20'>Nhiều cuộc nghiên cứu lâm sàng dựa trên dân số cho thấy các đặc tính chống ô-xi hoá của trà xanh có thể giúp ngăn ngừa chứng xơ vữa động mạch , nhất là bệnh động mạch vành .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>( Population-based studies means studies that follow large groups of people over time or studies that are comparing groups of people living in different cultures or with different dietary habits . )</s>
+<s id='vn21'>( Nghiên cứu dựa trên dân số có nghĩa là nghiên cứu nhiều nhóm người qua thời gian hoặc nghiên cứu so sánh các nhóm người sống ở những nền văn hoá khác nhau hoặc có thói quen dinh dưỡng khác nhau . )</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Researchers are n't sure why green tea reduces the risk of heart disease by lowering cholesterol and triglyceride levels .</s>
+<s id='vn22'>Các nhà nghiên cứu không rõ lý do vì sao trà xanh có thể làm giảm nguy cơ tim mạch bằng cách làm giảm nồng độ cholesterol và li-pít trung tính .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Studies show that black tea has similar beneficial effects .</s>
+<s id='vn23'>Nhiều công trình nghiên cứu cho thấy trà đen cũng có tác dụng chữa bệnh tương tự .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>In fact , researchers estimate that the rate of heart attack decreases by 11% with consumption of 3 cups of tea per day .</s>
+<s id='vn24'>Thực vậy , các nhà nghiên cứu ước tính rằng tỉ lệ mắc bệnh tim mạch giảm 11% nếu uống 3 tách trà mỗi ngày .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In May 2006 , however , the U.S. Food and Drug Administration ( FDA ) rejected a petition from teamakers to allow tea labels to claim that green tea reduces the risk of heart disease .</s>
+<s id='vn25'>Tuy nhiên , vào tháng 5 năm 2006 , Cơ quan kiểm soát Thực phẩm và Dược phẩm Hoa Kỳ ( FDA ) đã không cho phép dán nhãn trà xanh có tác dụng làm giảm nguy cơ tim mạch trên các máy pha trà .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The FDA concluded that there is no credible evidence to support qualified health claims for green tea or green tea extract reducing the risk of heart disease .</s>
+<s id='vn26'>FDA đã kết luận rằng không có bằng chứng y học nào đáng tin cậy cho việc trà xanh hay chiết xuất trà xanh làm giảm nguy cơ bệnh tim mạch cả .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>High cholesterol</s>
+<s id='vn27'>Nồng độ cholesterol cao</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Research shows that green tea lowers total cholesterol and raises HDL ( " good " cholesterol ) in both animals and people .</s>
+<s id='vn28'>Nghiên cứu cho thấy trà xanh có tác dụng làm giảm tổng lượng cholesterol và làm tăng HDL ( cholesterol tốt ) ở cả người và động vật .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>One population-based clinical study found that men who drink green tea are more likely to have lower total cholesterol than those who do not drink green tea .</s>
+<s id='vn29'>Một cuộc nghiên cứu lâm sàng dựa trên dân số phát hiện ra rằng nam giới uống trà xanh thường có tổng hàm lượng cholesterol thấp hơn người không uống trà xanh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Results from one animal study suggest that polyphenols in green tea may block the intestinal absorption of cholesterol and promote its excretion from the body .</s>
+<s id='vn30'>Kết quả của cuộc nghiên cứu trên động vật cho thấy hàm lượng polyphenol có trong trà xanh có thể giúp ruột không hấp thu cholesterol và làm tăng sự bài tiết của cơ thể .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In another small study of male smokers , researchers found that green tea significantly reduced blood levels of harmful LDL cholesterol .</s>
+<s id='vn31'>Trong cuộc nghiên cứu nhỏ khác đối với nam giới hút thuốc lá , các nhà nghiên cứu cho thấy trà xanh làm giảm đáng kể nồng độ cholesterol LDL có hại trong máu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Cancer</s>
+<s id='vn32'>Ung thư</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Several population-based clinical studies have shown that both green and black teas help protect against cancer .</s>
+<s id='vn33'>Một số cuộc nghiên cứu lâm sàng dựa trên dân số cho thấy cả trà xanh và trà đen đều có tác dụng chống ung thư .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For example , cancer rates tend to be low in countries such as Japan where people regularly consume green tea .</s>
+<s id='vn34'>Chẳng hạn như , tỉ lệ mắc bệnh ung thư có khuynh hướng giảm ở những nước như Nhật bởi người Nhật thường xuyên uống trà xanh .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>However , it is not possible to determine from these population-based studies whether green tea actually prevents cancer in people .</s>
+<s id='vn35'>Tuy nhiên , các công trình nghiên cứu dựa trên dân số này không thể xác định là liệu thực sự trà xanh có tác dụng ngăn ngừa ung thư ở người hay không .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Emerging clinical studies suggest that the polyphenols in tea , especially green tea , may play an important role in the prevention of cancer .</s>
+<s id='vn36'>Các cuộc nghiên cứu lâm sàng mới đây cho thấy hàm lượng polyphenol trong trà , nhất là trà xanh , đóng vai trò rất quan trọng trong việc phòng tránh ung thư .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Researchers also believe that polyphenols help kill cancerous cells and stop their progression .</s>
+<s id='vn37'>Các nhà nghiên cứu cũng cho rằng polyphenol có thể diệt được tế bào gây ung thư và chặn đứng sự phát triển của chúng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Bladder cancer .</s>
+<s id='vn38'>Ung thư bàng quang .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Only a few clinical studies have examined the relationship between bladder cancer and tea consumption .</s>
+<s id='vn39'>Chỉ một vài cuộc nghiên cứu lâm sàng nghiên cứu về mối quan hệ giữa trà và ung thư bàng quang .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In one study that compared people with and without bladder cancer , researchers found that women who drank black tea and powdered green tea were less likely to develop bladder cancer .</s>
+<s id='vn40'>Trong một cuộc nghiên cứu so sánh người bị và người không bị ung thư bàng quang , các nhà nghiên cứu phát hiện rằng phụ nữ uống trà đen và bột trà xanh đều ít bị ung thư bàng quang .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>A follow-up clinical study by the same group of researchers revealed that bladder cancer patients ( particularly men ) who drank green tea had a substantially better 5-year survival rate than those who did not .</s>
+<s id='vn41'>Nhóm nghiên cứu đó thực hiện một nghiên cứu lâm sàng tiếp theo cũng cho thấy các bệnh nhân bị ung thư bàng quang ( nhất là nam ) uống trà xanh có tỉ lệ sống lâu hơn 5 năm so với người không uống trà xanh .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Breast cancer .</s>
+<s id='vn42'>Ung thư vú .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Clinical studies in animals and test tubes suggest that polyphenols in green tea inhibit the growth of breast cancer cells .</s>
+<s id='vn43'>Các cuộc nghiên cứu lâm sàng trên động vật và ống nghiệm cho thấy hàm lượng polyphenol có trong trà xanh có tác dụng làm ức chế sự tăng trưởng của tế bào gây ung thư vú .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>In one study of 472 women with various stages of breast cancer , researchers found that women who consumed the most green tea experienced the least spread of cancer ( particularly premenopausal women in the early stages of breast cancer ) .</s>
+<s id='vn44'>Trong một cuộc nghiên cứu 472 phụ nữ bị ung thư vú ở nhiều thời kỳ , các nhà nghiên cứu phát hiện rằng những bệnh nhân uống trà xanh nhiều nhất đều ít bị lây lan chứng ung thư nhất ( nhất là những phụ nữ tiền mãn kinh bị ung thư vú giai đoạn đầu ) .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>They also found that women with early stages of the disease who drank at least 5 cups of tea every day before being diagnosed with cancer were less likely to suffer recurrences of the disease after completion of treatment .</s>
+<s id='vn45'>Các nhà nghiên cứu cũng phát hiện ra rằng phụ nữ bị bệnh giai đoạn đầu uống ít nhất 5 tách trà mỗi ngày trước khi chẩn đoán ung thư đều ít bị tái phát sau khi điều trị xong .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>However , women with late stages of breast cancer experienced little or no improvement from drinking green tea .</s>
+<s id='vn46'>Tuy nhiên , đối với phụ nữ bị ung thư vú giai đoạn cuối nếu uống trà xanh thì cũng không cải thiện được gì hoặc chỉ cải thiện được đôi chút .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>In terms of breast cancer prevention , the studies are inconclusive .</s>
+<s id='vn47'>Các cuộc nghiên cứu vẫn còn đang bỏ lửng đối với cách ngăn ngừa chứng ung thư vú .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>In one very large study , researchers found that drinking tea , green or any other type , was not associated with a reduced risk of breast cancer .</s>
+<s id='vn48'>Trong một cuộc nghiên cứu lớn , các nhà nghiên cứu phát hiện ra rằng việc uống trà , trà xanh hay bất cứ loại trà nào đều không liên quan đến tác dụng làm giảm nguy cơ ung thư vú .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>However , when the researchers broke down the sample by age , among women under the age of 50 , those who consumed 3 or more cups of tea per day were 37% less likely to develop breast cancer compared to women who did n't drink tea .</s>
+<s id='vn49'>Tuy nhiên , khi các nhà nghiên cứu phân nhỏ kiểu mẫu này dựa trên tuổi tác trong số những phụ nữ dưới 50 tuổi , những ai uống 3 tách trà trở lên mỗi ngày đều ít bị ung thư vú hơn 37% so với những ai không uống trà .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Ovarian cancer .</s>
+<s id='vn50'>Ung thư buồng trứng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>In a clinical study conducted on ovarian cancer patients in China , researchers found that women who drank at least one cup of green tea per day survived longer with the disease than those who didn't drink green tea .</s>
+<s id='vn51'>Các nhà nghiên cứu đã tiến hành một cuộc nghiên cứu lâm sàng đối với bệnh nhân bị ung thư buồng trứng ở Trung Quốc và đã phát hiện ra rằng phụ nữ uống ít nhất một tách trà xanh mỗi ngày thì sẽ sống lâu hơn so với người không uống trà xanh .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>In fact , those who drank the most tea , lived the longest .</s>
+<s id='vn52'>Thực vậy , người uống nhiều trà nhất đều sống lâu nhất .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Other studies found no beneficial effects .</s>
+<s id='vn53'>Những nghiên cứu khác không phát hiện thêm tác dụng có lợi nào .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Colorectal cancer .</s>
+<s id='vn54'>Ung thư trực tràng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Clinical studies on the effects of green tea on colon or rectal cancer have produced conflicting results .</s>
+<s id='vn55'>Nhiều cuộc nghiên cứu lâm sàng về tác dụng của trà xanh đối với chứng ung thư đại tràng hoặc trực tràng đưa ra kết quả mâu thuẫn nhau .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Some clinical studies show decreased risk in those who drink the tea , while others show increased risk .</s>
+<s id='vn56'>Một số nghiên cứu cho thấy người uống trà giảm được nguy cơ ung thư , trong khi một số khác lại cho rằng người uống trà tăng nguy cơ ung thư .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>In one study , women who drank 5 or more cups of green tea per day had a significantly lower risk of colorectal cancer compared to non-tea-drinkers .</s>
+<s id='vn57'>Một cuộc nghiên cứu cho thấy phụ nữ uống 5 tách trà xanh trở lên mỗi ngày có nguy cơ mắc ung thư trực tràng thấp hơn nhiều so với người không uống trà .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>There was no effect in men , however .</s>
+<s id='vn58'>Tuy nhiên , không có tác dụng gì đối với nam giới .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Other studies show that regular tea consumption may reduce the risk of colorectal cancer in women .</s>
+<s id='vn59'>Nhiều cuộc nghiên cứu khác cũng cho thấy rằng phụ nữ uống trà thường xuyên sẽ giảm được nguy cơ ung thư trực tràng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Further research is needed before researchers can recommend green tea for the prevention of colorectal cancer .</s>
+<s id='vn60'>Các nhà nghiên cứu cũng cần tiến hành nghiên cứu hơn nữa trước khi đưa ra lời khuyên uống trà xanh giúp phòng tránh nguy cơ ung thư trực tràng .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Esophageal cancer .</s>
+<s id='vn61'>Ung thư thực quản .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Studies in laboratory animals have found that green tea polyphenols inhibit the growth of esophageal cancer cells .</s>
+<s id='vn62'>Nhiều cuộc nghiên cứu trên động vật trong phòng thí nghiệm cho thấy hàm lượng polyphenol trong trà xanh có thể làm ức chế sự tăng trưởng tế bào gây ung thư thực quản .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>However , clinical studies in people have produced conflicting findings .</s>
+<s id='vn63'>Tuy nhiên , nhiều cuộc nghiên cứu lâm sàng ở người lại cho kết quả mâu thuẫn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>For example , one large-scale population-based clinical study found that green tea offered significant protection against the development of esophageal cancer ( particularly among women ) .</s>
+<s id='vn64'>Ví dụ , một cuộc nghiên cứu lâm sàng dựa trên dân số quy mô lớn phát hiện ra rằng trà xanh có tác dụng phòng tránh sự phát triển chứng ung thư thực quản ( đặc biệt là đối với phụ nữ ) .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Another population-based clinical study revealed just the opposite -- green tea consumption was associated with an increased risk of esophageal cancer .</s>
+<s id='vn65'>Một cuộc nghiên cứu lâm sàng dựa trên dân số khác lại cho kết quả ngược lại - trà xanh có liên quan đến việc làm tăng nguy cơ mắc ung thư thực quản .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>In fact , the stronger and hotter the tea , the greater the risk .</s>
+<s id='vn66'>Thực vậy , càng uống trà đậm đặc và nóng bao nhiêu thì nguy cơ càng cao bấy nhiêu .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Given these conflicting results , further research is needed before scientists can recommend green tea for the prevention of esophageal cancer .</s>
+<s id='vn67'>Căn cứ vào những kết quả mâu thuẫn này nên các nhà khoa học cần tiến hành nghiên cứu hơn nữa trước khi đưa ra lời khuyên trà xanh giúp phòng tránh ung thư thực quản .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Lung cancer .</s>
+<s id='vn68'>Ung thư phổi .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>While green tea polyphenols have been shown to inhibit the growth of human lung cancer cells in test tubes , few clinical studies have investigated the link between green tea consumption and lung cancer in people and even these studies have been conflicting .</s>
+<s id='vn69'>Trong khi các nghiên cứu trong ống nghiệm cho thấy hàm lượng polyphenol có trong trà xanh có tác dụng làm ức chế sự tăng trưởng tế bào gây ung thư phổi ở người thì một số nghiên cứu lâm sàng nghiên cứu về mối quan hệ giữa trà xanh và chứng ung thư phổi ở người và thậm chí là các cuộc nghiên cứu này đã mâu thuẫn nhau .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>One population-based clinical study found that Okinawan tea ( similar to green tea but partially fermented ) was associated with decreased lung cancer risk , particularly among women .</s>
+<s id='vn70'>Một cuộc nghiên cứu lâm sàng dựa trên dân số phát hiện ra rằng trà Okinawan ( tương tự như trà xanh nhưng chỉ được lên men một phần ) có tác dụng làm giảm nguy cơ ung thư phổi , nhất là đối với phụ nữ .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>A second clinical study revealed that green tea and black tea significantly increased the risk of lung cancer .</s>
+<s id='vn71'>Cuộc nghiên cứu lâm sàng thứ hai cho thấy trà xanh và trà đen làm tăng đáng kể nguy cơ ung thư phổi .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>As with colon and esophageal cancers , further clinical studies are needed before researchers can draw any conclusions about green tea and lung cancer .</s>
+<s id='vn72'>Cũng giống như ung thư ruột kết và thực quản , các nhà nghiên cứu cần tiến hành nhiều cuộc nghiên cứu lâm sàng hơn nữa trước khi có thể đưa ra bất cứ kết luận nào về trà xanh và ung thư phổi .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Pancreatic cancer .</s>
+<s id='vn73'>Ung thư tuyến tụy .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>In one large-scale clinical study researchers compared green tea drinkers with non-drinkers and found that those who drank the most tea were significantly less likely to develop pancreatic cancer .</s>
+<s id='vn74'>Trong một cuộc nghiên cứu lâm sàng quy mô lớn so sánh người uống trà xanh với người không uống trà xanh , các nhà nghiên cứu phát hiện ra rằng người uống nhiều trà nhất thường ít có nguy cơ mắc ung thư tuyến tụy đáng kể .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>This was particularly true for women -- those who drank the most green tea were half as likely to develop pancreatic cancer as those who drank less tea .</s>
+<s id='vn75'>Điều này đặc biệt đúng đối với phụ nữ - người uống nhiều trà xanh nhất có nguy cơ mắc ung thư tuyến tụy giảm một nữa so với người ít uống trà xanh .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Men who drank tea were 37% less likely to develop pancreatic cancer .</s>
+<s id='vn76'>Nam giới uống trà xanh ít có nguy cơ mắc ung thư tuyến tụy 37% .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>However , it is not clear from this population-based study whether green tea is solely responsible for reducing pancreatic cancer risk .</s>
+<s id='vn77'>Tuy nhiên , cuộc nghiên cứu dựa trên dân số này cũng chưa cho kết quả rõ ràng là liệu trà xanh chỉ có tác dụng làm giảm nguy cơ ung thư tuyến tụy hay không .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Further studies in animals and people are needed before researchers can recommend green tea for the prevention of pancreatic cancer .</s>
+<s id='vn78'>Các nhà nghiên cứu cần phải tiến hành nhiều cuộc nghiên cứu hơn nữa trước khi có thể đưa ra lời khuyên trà xanh có thể phòng tránh chứng ung thư tuyến tụy .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Prostate cancer .</s>
+<s id='vn79'>Ung thư tuyến tiền liệt .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Laboratory studies have found that green tea extracts prevent the growth of prostate cancer cells in test tubes .</s>
+<s id='vn80'>Nhiều cuộc nghiên cứu trong ống nghiệm ở phòng thí nghiệm cho thấy chiết xuất trà xanh có thể ngăn chặn tế bào ung thư tuyến tiền liệt tăng trưởng .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>In a large clinical study conducted in Southeast China researchers found that the risk of prostate cancer declined with increasing frequency , duration and quantity of green tea consumption .</s>
+<s id='vn81'>Các nhà nghiên cứu ở Đông Nam Trung Quốc tiến hành cuộc nghiên cứu lâm sàng quy mô lớn đã phát hiện ra rằng nguy cơ mắc chứng ung thư tiền liệt tuyến giảm xuống nếu thường xuyên uống trà xanh nhiều hơn , lượng trà xanh nhiều hơn và khoảng thời gian uống lâu hơn .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>However , both green and black tea extracts also stimulated genes that cause cells to be less sensitive to chemotherapy drugs .</s>
+<s id='vn82'>Tuy nhiên , cả chiết xuất trà xanh và trà đen đều có thể kích hoạt gien làm cho tế bào trở nên ít nhạy hơn với các loại dược phẩm hoá học .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Given this potential interaction , people should not drink black and green tea ( as well as extracts of these teas ) while receiving chemotherapy .</s>
+<s id='vn83'>Căn cứ vào đặc tính tương tác có thể xảy ra này , người ta không nên uống trà đen và trà xanh ( cũng như chiết xuất của các loại trà này ) khi dùng hoá trị liệu .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Skin cancer .</s>
+<s id='vn84'>Ung thư da .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>The main polyphenol in green tea is epigallocatechin gallate ( EGCG ) .</s>
+<s id='vn85'>Chất polyphenol chính có trong trà xanh là epigallocatechin gallate ( EGCG ) .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Scientific studies suggest that EGCG and green tea polyphenols have anti-inflammatory and anticancer properties that may help prevent the onset and growth of skin tumors .</s>
+<s id='vn86'>Nhiều cuộc nghiên cứu khoa học cho thấy chất EGCG và polyphenol có trong trà xanh có đặc tính kháng viêm và chống ung thư có thể giúp ngăn ngừa phát sinh khối u và phát triển các khối u trên da .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Stomach cancer .</s>
+<s id='vn87'>Ung thư dạ dày .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Laboratory studies have found that green tea polyphenols inhibit the growth of stomach cancer cells in test tubes , but clinical studies in people have been less conclusive .</s>
+<s id='vn88'>Nhiều cuộc nghiên cứu trong ống nghiệm ở phòng thí nghiệm cho thấy hàm lượng polyphenol có trong trà xanh có tác dụng làm ức chế sự tăng trưởng tế bào ung thư dạ dày , nhưng nhiều cuộc nghiên cứu lâm sàng ở người lại có kết quả ít rõ ràng hơn .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>In two studies that compared green tea drinkers with non-drinkers , researchers found that people who drank tea were about half as likely to develop stomach cancer and gastritis as those who did not drink green tea .</s>
+<s id='vn89'>Trong hai cuộc nghiên cứu so sánh giữa người uống trà xanh và người không uống trà xanh , các nhà nghiên cứu thấy rằng người uống trà xanh ít có nguy cơ mắc chứng ung thư dạ dày và viêm dạ dày gấp đôi so với người không uống trà xanh .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>However , a clinicial study including more than 26,000 men and women in Japan found no association between green tea consumption and stomach cancer risk .</s>
+<s id='vn90'>Tuy nhiên , một cuộc nghiên cứu lâm sàng trên 26.000 nam giới và phụ nữ ở Nhật cho thấy chẳng có mối liên quan nào giữa trà xanh và nguy cơ mắc ung thư dạ dày .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Some clinicial studies even suggest that green tea may increase the risk of stomach cancer .</s>
+<s id='vn91'>Một số nghiên cứu lâm sàng thậm chí còn cho kết quả trà xanh có thể làm tăng nguy cơ mắc ung thư dạ dày nữa .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Further clinicial studies are underway to determine whether green tea helps reduce the risk of stomach cancer .</s>
+<s id='vn92'>Nhiều cuộc nghiên cứu lâm sàng khác đang được nghiên cứu để xác định xem là liệu trà xanh có thể giúp giảm nguy cơ ung thư dạ dày không .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Although green tea is considered safe for people at risk for stomach cancer , it is difficult to tell whether green tea reduces the likelihood of developing this disease .</s>
+<s id='vn93'>Mặc dù trà xanh được cho là an toàn với người có nguy cơ ung thư dạ dày nhưng cũng khó kết luận là trà xanh có giúp giảm nguy cơ phát triển chứng bệnh này hay không .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Inflammatory Bowel Disease ( IBD )</s>
+<s id='vn94'>Bệnh viêm ruột ( IBD )</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Green tea may help reduce inflammation associated with Crohn 's disease and ulcerative colitis , the two types of IBD.</s>
+<s id='vn95'>Trà xanh có thể giúp giảm viêm - viêm ruột từng vùng và viêm loét đại tràng , hai kiểu IBD .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>If green tea proves to be helpful for preventing colon cancer , this would be an added benefit for those with IBD because they are at risk for colon cancer .</s>
+<s id='vn96'>Nếu trà xanh được chứng minh có thể giúp phòng chống ung thư ruột kết thì đây ắt sẽ là một lợi ích nữa đối với người bị viêm ruột bởi họ có nguy cơ bị ung thư ruột kết .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Diabetes</s>
+<s id='vn97'>Tiểu đường</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Green tea has been used traditionally to control blood sugar in the body .</s>
+<s id='vn98'>Theo truyền thống thì trà xanh đã được dùng để điều hoà đường huyết trong cơ thể .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Animal studies suggest that green tea may help prevent the development of type 1 diabetes and slow the progression once it has developed .</s>
+<s id='vn99'>Nhiều cuộc nghiên cứu trên động vật cho thấy trà xanh có thể giúp phòng tránh sự phát triển của chứng tiểu đường loại 1 và làm chậm tiến triển của bệnh khi đã phát .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>People with type 1 diabetes produce little or no insulin , a hormone that converts glucose ( sugar ) , starches , and other foods into energy needed for daily life .</s>
+<s id='vn100'>Bệnh nhân tiểu đường loại 1 tiết ra ít hoặc không tiết insulin , một loại hooc-môn giúp chuyển hoá glucose ( đường ) , tinh bột và nhiều thức ăn khác thành năng lượng cần thiết cho cuộc sống hằng ngày .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Green tea may help regulate glucose in the body .</s>
+<s id='vn101'>Trà xanh có thể giúp điều hoà lượng đường glucose trong cơ thể .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>A few small clinical studies have found that daily supplementation of the diet with green tea extract powder lowered the hemoglobin A1c level in individuals with borderline diabetes .</s>
+<s id='vn102'>Một số nghiên cứu lâm sàng nhỏ cho thấy việc bổ sung bột chiết xuất trà xanh vào chế độ dinh dưỡng hằng ngày giúp giảm nồng độ hemoglobin A1c đối với người mấp mé bị tiểu đường .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Liver disease</s>
+<s id='vn103'>Bệnh gan</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Population-based clinical studies have shown that men who drink more than 10 cups of green tea per day are less likely to develop disorders of the liver .</s>
+<s id='vn104'>Nhiều cuộc nghiên cứu lâm sàng dựa trên dân số cho thấy nam giới uống hơn 10 tách trà xanh mỗi ngày ít có nguy cơ bị rối loạn gan .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Green tea also seems to protect the liver from the damaging effects of toxic substances such as alcohol .</s>
+<s id='vn105'>Trà xanh cũng có thể bảo vệ gan khỏi tác hại của các chất độc như rượu bia .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Animal studies have shown that green tea helps protect against the development of liver tumors in mice .</s>
+<s id='vn106'>Nhiều cuộc nghiên cứu trên động vật cũng cho thấy trà xanh có tác dụng ngăn ngừa phát triển khối u gan ở chuột .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Results from several animal and human studies suggest that one of the polyphenols present in green tea , known as catechin , may help treat viral hepatitis from a virus .</s>
+<s id='vn107'>Kết quả của một số nghiên cứu trên người và động vật cho thấy một trong những chất polyphenol có trong trà xanh , như catechin , có thể chữa lành chứng bệnh viêm gan do vi-rút .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>In these studies , catechin was isolated from green tea and used in very high concentrations .</s>
+<s id='vn108'>Trong các cuộc nghiên cứu này thì catechin được chiết ra khỏi trà xanh và được sử dụng với nồng độ rất cao .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>It is not clear whether green tea ( which contains a lower concentration of catechins ) confers these same benefits to people with hepatitis .</s>
+<s id='vn109'>Người ta cũng chưa rõ là liệu trà xanh ( chứa hàm lượng catechin thấp hơn ) có lợi cho người bị viêm gan giống như vậy hay không .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Weight loss</s>
+<s id='vn110'>Giảm cân</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Clinical studies suggest that green tea extract may boost metabolism and help burn fat .</s>
+<s id='vn111'>Nhiều cuộc nghiên cứu lâm sàng cho thấy chiết xuất trà xanh có thể đẩy mạnh quá trình chuyển hoá và làm tan mỡ .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Another study confirmed that the combination of green tea and caffeine improved weight loss .</s>
+<s id='vn112'>Một nghiên cứu khác đã khẳng định việc kết hợp trà xanh và cà-phê-in giúp làm giảm cân .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Some researchers speculate that substances in green tea known as polyphenols , specifically the catechins , are responsible for the herb 's fat-burning effect .</s>
+<s id='vn113'>Một số nhà nghiên cứu phỏng đoán là các chất trong trà xanh như polyphenol , cụ thể là catechin , có tác dụng làm tan mỡ .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Other uses</s>
+<s id='vn114'>Các công dụng khác</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Drinking green tea has been found effective in a small clinical study for dental caries , or tooth decay .</s>
+<s id='vn115'>Một cuộc nghiên cứu lâm sàng nhỏ cũng phát hiện rằng uống trà xanh có tác dụng đối với chứng sâu răng .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>More studies need to be performed .</s>
+<s id='vn116'>Cũng cần phải tiến hành thêm nhiều nghiên cứu nữa .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Green tea may also be useful in inflammatory diseases , such as arthritis .</s>
+<s id='vn117'>Trà xanh cũng có tác dụng tốt với nhiều chứng viêm , như viêm khớp .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Research indicates that green tea may benefit arthritis by reducing inflammation and slowing cartilage breakdown .</s>
+<s id='vn118'>Cuộc nghiên cứu cho thấy trà xanh có ích cho chứng viêm khớp bằng cách làm giảm viêm và làm chậm quá trình thoái hoá sụn .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Chemicals found in green tea may also be effective in treating genital warts and preventing symptoms of colds and influenza .</s>
+<s id='vn119'>Nhiều chất hoá học có trong trà xanh cũng có tác dụng chữa lành mụn cóc ở bộ phận sinh dục và phòng được chứng cảm và cúm .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Studies also show that drinking green tea is associated with reduced risk of mortality .</s>
+<s id='vn120'>Nhiều công trình nghiên cứu cho thấy trà xanh có thể làm giảm nguy cơ tử vong .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Plant description :</s>
+<s id='vn121'>Mô tả cây trà xanh :</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Green , black , and oolong tea are all derived from the leaves of the Camellia sinensis plant .</s>
+<s id='vn122'>Trà xanh , trà đen và trà ô-long đều có nguồn gốc chung từ lá cây hoa trà .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Originally cultivated in East Asia , this plant grows as large as a shrub or tree .</s>
+<s id='vn123'>Bạn đầu được trồng ở Đông Á , loài cây này phát triển như một cây hoặc một bụi cây .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Today , Camellia sinensis grows throughout Asia and parts of the Middle East and Africa .</s>
+<s id='vn124'>Ngày nay , cây hoa trà được trồng ở khắp châu Á và nhiều vùng ở Trung Đông và Châu Phi .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>People in Asian countries more commonly consume green and oolong tea while black tea is most popular in the United States .</s>
+<s id='vn125'>Người châu Á ưa chuộng trà xanh và trà ô-long hơn trong khi người Mỹ lại chuộng trà đen nhất .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Green tea is prepared from unfermented leaves , the leaves of oolong tea are partially fermented , and black tea is fully fermented .</s>
+<s id='vn126'>Trà xanh được chế biến từ lá chưa lên men , trà ô long được lên men một phần và trà đen lên men hoàn toàn .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>The more the leaves are fermented , the lower the polyphenol content and the higher the caffeine content .</s>
+<s id='vn127'>Lá trà được lên men càng nhiều thì hàm lượng polyphenol càng giảm và hàm lượng cà-phê-in càng cao .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Green tea has the highest polyphenol content while black tea has roughly 2 - 3 times the caffeine content of green tea .</s>
+<s id='vn128'>Trà xanh có hàm lượng polyphenol cao nhất trong khi trà đen có hàm lượng cà-phê-in cao gấp 2 đến 3 lần so với trà xanh .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>What 's it made of ? :</s>
+<s id='vn129'>Trà xanh được làm bằng gì ?</s>
+</spair>
+<spair id='130'>
+<s id='en130'>The healthful properties of green tea are largely attributed to polyphenols , chemicals with potent antioxidant properties .</s>
+<s id='vn130'>Các đặc tính có lợi cho sức khỏe của trà xanh phần lớn là do polyphenol , nhiều hoá chất chống ô-xi hoá mạnh .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>In fact , the antioxidant effects of polyphenols appear to be greater than vitamin C .</s>
+<s id='vn131'>Thực vậy , tác dụng chống ô-xi hoá của polyphenol mạnh hơn cả vi-ta-min C .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>The polyphenols in green tea also give it a somewhat bitter flavor .</s>
+<s id='vn132'>Polyphenol có trong trà xanh cũng cho vị đăng đắng .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Polyphenols contained in teas are classified as catechins .</s>
+<s id='vn133'>Polyphenol trong trà xanh cũng được phân loại như catechin .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Green tea contains six primary catechin compounds : catechin , gallaogatechin , epicatechin , epigallocatechin , epicatechin gallate , and apigallocatechin gallate ( also known as EGCG ) .</s>
+<s id='vn134'>Trà xanh chứa 6 loại hợp chất catechin chính : catechin , gallaogatechin , epicatechin , epigallocatechin , epicatechin gallate , và apigallocatechin gallate ( cũng gọi là EGCG ) .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>EGCG is the most studied polyphenol component in green tea and the most active .</s>
+<s id='vn135'>EGCG là thành phần được nghiên cứu nhiều nhất trong trà xanh và có hoạt tính nhiều nhất .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Green tea also contains alkaloids including caffeine , theobromine , and theophylline .</s>
+<s id='vn136'>Trà xanh cũng chứa chất an-ca-lô-it như cà-phê-in , theobromine , và theophylline .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>These alkaloids provide green tea 's stimulant effects .</s>
+<s id='vn137'>Trà xanh có tác dụng gây kích thích là do những chất an-ca-lô-it này .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>L-theanine , an amino acid compound found in green tea , has been studied for its calming effects on the nervous system .</s>
+<s id='vn138'>Người ta cũng nghiên cứu thấy hợp chất a-xít a-min L-theanine trong trà xanh có tác dụng làm dịu hệ thần kinh .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Dosage</s>
+<s id='vn139'>Liều lượng</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Pediatric</s>
+<s id='vn140'>Trẻ con</s>
+</spair>
+<spair id='141'>
+<s id='en141'>There are no known scientific reports on the pediatric use of green tea , so it is not recommended for children .</s>
+<s id='vn141'>Không có báo cáo khoa học nào nói về lợi ích của trà xanh đối với trẻ con , vì vậy người ta khuyên trẻ con không nên uống trà .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Adult</s>
+<s id='vn142'>Người lớn</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Depending on the brand , 2-3 cups of green tea per day ( for a total of 240-320 mg polyphenols ) or 100-750 mg per day of green tea extract is recommended .</s>
+<s id='vn143'>Tùy vào thương hiệu , nên uống 2-3 tách trà xanh mỗi ngày ( chứa khoảng từ 240 đến 320 mg polyphenol ) hoặc 100-750 mg chiết xuất trà xanh mỗi ngày .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Caffeine-free products are available and recommended .</s>
+<s id='vn144'>Các sản phẩm không chứa cà-phê-in luôn có bán và được khuyên nên sử dụng .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Precautions :</s>
+<s id='vn145'>Đề phòng :</s>
+</spair>
+<spair id='146'>
+<s id='en146'>The use of herbs is a time-honored approach to strengthening the body and treating disease .</s>
+<s id='vn146'>Phương pháp sử dụng thảo dược là phương pháp chữa bệnh và làm cho cơ thể khỏe mạnh có truyền thống lâu đời .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>However , herbs contain active substances that can trigger side effects and interact with other herbs , supplements , or medications .</s>
+<s id='vn147'>Tuy nhiên , nhiều thảo dược chứa chất hoạt tính có thể gây ra tác dụng phụ và tương tác với các loại thảo dược khác , các thực phẩm bổ sung khác , hoặc các loại thuốc khác .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>For these reasons , people should take herbs with care , under the supervision of a practitioner knowledgeable in the field of botanical medicine .</s>
+<s id='vn148'>Vì những lý do này , chúng ta nên cẩn thận khi uống thảo dược , dưới sự giám sát của thầy thuốc có kiến thức về lĩnh vực thảo dược .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>People with heart problems , kidney disorders , stomach ul cers , and psychological disorders ( particularly anxiety ) should not take green tea .</s>
+<s id='vn149'>Người bị bệnh tim , rối loạn thận , loét dạ dày , và rối loạn tâm lý ( nhất là lo âu ) không nên uống trà xanh .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Pregnant and breastfeeding women should also avoid green tea .</s>
+<s id='vn150'>Phụ nữ có thai và đang cho con bú cũng nên tránh xa trà xanh .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>People who drink excessive amounts of caffeine ( including caffeine from green tea ) for prolonged periods of time may experience irritability , insomnia , heart palpitations , and dizziness .</s>
+<s id='vn151'>Những người uống quá nhiều cà-phê-in ( kể cả cà-phê-in từ trà xanh ) trong thời gian dài có thể dễ cáu gắt , mất ngủ , tim hồi hộp , và chóng mặt .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Caffeine overdose can cause nausea , vomiting , diarrhea , headaches , and loss of appetite .</s>
+<s id='vn152'>Dùng quá liều cà - phê-in có thể gây ra buồn nôn , ói , tiêu chảy , nhức đầu , và chán ăn .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>If you are drinking a lot of tea and start to vomit or have abdominal spasms , you may have caffeine poisoning .</s>
+<s id='vn153'>Nếu bạn uống nhiều trà và bắt đầu nôn ói hoặc bị co thắt bụng thì bạn đã có thể bị ngộ độc cà - phê-in rồi .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>If your symptoms are severe , lower your caffeine intake and see your health care provider .</s>
+<s id='vn154'>Nếu các triệu chứng này trầm trọng , hãy giảm lượng cà - phê-in lại và đến khám bác sĩ chuyên gia chăm sóc sức khỏe của bạn đi nhé .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Possible Interactions :</s>
+<s id='vn155'>Tương tác trà xanh có thể xảy ra :</s>
+</spair>
+<spair id='156'>
+<s id='en156'>If you are being treated with any of the following medications , you should not drink green tea or take green tea extract without first talking to your health care provider :</s>
+<s id='vn156'>Nếu bạn đang được điều trị với bất kỳ loại thuốc nào dưới đây thì không nên uống trà xanh hay chiết xuất trà xanh mà không hỏi ý kiến của bác sĩ chuyên gia chăm sóc sức khỏe của bạn trước :</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Adenosine - Green tea may inhibit the actions of adenosine , a medication given in the hospital for an irregular ( and usually unstable ) heart rhythm .</s>
+<s id='vn157'>Adenosine - Trà xanh có thể làm giảm tác dụng của thuốc adenosine , đây là một loại thuốc được sử dụng ở bệnh viện để điều trị chứng bệnh nhịp tim không ổn định ( nhịp tim không đều ) .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Antibiotics , Beta-lactam - Green tea may increase the effectiveness of beta-lactam antibiotics by reducing bacterial resistance to treatment .</s>
+<s id='vn158'>Antibiotics , Beta-lactam - Trà xanh có thể làm tăng tác dụng của thuốc kháng sinh beta-lactam bằng cách giảm sức đề kháng của vi trùng để điều trị .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Benzodiazepines - Caffeine ( including caffeine from green tea ) has been shown to reduce the sedative effects of benzodiazepines ( medications commonly used to treat anxiety , such as diazepam and lorazepam ) .</s>
+<s id='vn159'>Benzodiazepines - Cà-phê-in ( kể cả cà-phê-in trong trà xanh ) làm giảm tác dụng giảm đau của thuốc benzodiazepines ( thuốc này thường được dùng để điều trị chứng lo âu , như là diazepam và lorazepam ) .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Beta-blockers , Propranolol , and Metoprolol -- Caffeine ( including caffeine from green tea ) may increase blood pressure in people taking propranolol and metoprolol ( medications used to treat high blood pressure and heart disease ) .</s>
+<s id='vn160'>Beta-blockers , Propranolol , và Metoprolol - Cà-phê-in ( kể cả cà-phê-in trong trà xanh ) có thể làm cao huyết áp ở người dùng thuốc propranolol và metoprolol ( thuốc dùng để điều trị chứng cao huyết áp và tim mạch ) .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Blood Thinning Medications ( Including Aspirin ) - People who take warfarin , a blood thinning medication , should not drink green tea .</s>
+<s id='vn161'>Thuốc loãng máu ( kể cả Aspirin ) - Người sử dụng thuốc chống đông máu , thuốc loãng máu không nên uống trà xanh .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Since green tea contains vitamin K , it can make warfarin ine ffective .</s>
+<s id='vn162'>Vì trà xanh chứa vi-ta-min K , làm giảm tác dụng của thuốc chống đông máu .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Meanwhile , you should not mix green tea and aspirin because they both prevent platelets from clotting .</s>
+<s id='vn163'>Đồng thời , bạn cũng không nên uống trà xanh chung với thuốc aspirin vì cả hai đều không làm đông tiểu huyết cầu được .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Using the two together may increase your risk of bleeding .</s>
+<s id='vn164'>Kết hợp trà xanh và thuốc aspirin có thể khiến cho bạn tăng nguy cơ chảy máu đấy .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>Chemotherapy -- The combination of green tea and chemotherapy medications , specifically doxorubicin and tamoxifen , increased the effectiveness of these medications in laboratory tests .</s>
+<s id='vn165'>Hoá trị liệu - Thử nghiệm cho thấy sự kết hợp trà xanh và các loại thuốc hoá trị liệu , cụ thể là doxorubicin và tamoxifen , làm tăng tác dụng của những thứ thuốc này .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>However , these results have not yet been demonstrated in studies on people .</s>
+<s id='vn166'>Tuy nhiên , những kết quả này chưa biểu hiện ở các cuộc nghiên cứu trên người .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>On the other hand , there have been reports of both green and black tea extracts stimulating a gene in prostate cancer cells that may cause them to be less sensitive to chemotherapy drugs .</s>
+<s id='vn167'>Mặt khác , đã có báo cáo về việc chiết xuất cả trà xanh và trà đen làm kích thích gien tế bào ung thư tuyến tiền liệt có thể làm chúng ít nhạy hơn với thuốc hoá trị liệu .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Given this potential interaction , people should not drink black and green tea ( as well as extracts of these teas ) while receiving chemotherapy for prostate cancer in particular .</s>
+<s id='vn168'>Căn cứ vào sự tương tác thuốc có thể xảy ra này thì chúng ta không nên uống trà xanh và trà đen ( cũng như chiết xuất của các loại trà này ) khi dùng hoá trị liệu đặc biệt là đối với chứng ung thư tuyến tiền liệt .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Clozapine - The antipsychotic effects of the medication clozapine may be reduced if taken fewer than 40 minutes after drinking green tea .</s>
+<s id='vn169'>Clozapine - Nếu dùng clozapine sau khi uống trà xanh chưa đầy 40 phút thì tác dụng ngăn rối loạn thần kinh của thuốc clozapine có thể bị giảm .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Ephedrine -- When taken together with ephedrine , green tea may cause agitation , tremors , insomnia , and weight loss .</s>
+<s id='vn170'>Ephedrine - Khi dùng chung với thuốc ephedrine thì trà xanh có thể gây ra kích động , run , mất ngủ , và giảm cân .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>Lithium - Green tea has been shown to reduce blood levels of lithium ( a medication used to treat manic_depression ) .</s>
+<s id='vn171'>Lithium - Trà xanh có tác dụng làm giảm nồng độ li-ti trong máu ( thuốc này dùng để điều trị chứng vui buồn thất thường suy nhược trầm cảm ) .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>Monoamine Oxidase Inhibitors ( MAOIs ) - Green tea may cause a severe increase in blood pressure ( called a " hypertensive crisis " ) when taken together with MAOIs , which are used to treat depression .</s>
+<s id='vn172'>Monoamine Oxidase Inhibitors ( MAOIs ) - Trà xanh có thể làm tăng chứng cao huyết áp ( gọi là " cơn khủng hoảng cao huyết áp " ) khi dùng chung với MAOIs , vốn được dùng để điều trị chứng suy nhược trầm cảm .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>Oral Contraceptives -- Oral contraceptives can prolong the amount of time caffeine stays in the body and may increase its stimulating effects .</s>
+<s id='vn173'>Thuốc ngừa thai - Các loại thuốc ngừa thai có thể kéo dài lượng thời gian giữ cà-phê-in trong cơ thể và có thể làm tăng tác dụng gây kích thích của nó .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>Phenylpropanolamine -- A combination of caffeine ( including caffeine from green tea ) and phenylpropanolamine ( an ingredient used in many over-the-counter and prescription cough and cold medications and weight loss products ) can cause mania and a severe increase in blood pressure .</s>
+<s id='vn174'>Phenylpropanolamine - Kết hợp cà-phê-in ( kể cả cà-phê-in trong trà xanh ) và phenylpropanolamine ( thành phần được dùng trong nhiều thuốc có thể mua tự do hoặc theo toa để trị ho , cảm và giảm cân ) có thể gây ra hưng cảm và làm cho chứng cao huyết áp trở nên trầm trọng hơn .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>The FDA issued a public health advisory book in November 2000 to warn people of the risk of bleeding in the brain from use of this medication and has strongly urged all manufacturers of this drug to remove it from the market .</s>
+<s id='vn175'>FDA đã phát hành sách tư vấn sức khỏe cộng đồng vào tháng mười một năm 2000 để cảnh báo người dân về nguy cơ xuất huyết não khi sử dụng thứ thuốc này và khẩn thiết kêu gọi tất cả các nhà sản xuất phải tẩy sạch hết loại dược phẩm này khỏi thị trường .</s>
+</spair>
+</text>
+</doc>

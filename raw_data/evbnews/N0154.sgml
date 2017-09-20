@@ -1,0 +1,172 @@
+﻿<doc id='N0154'>
+<head>
+<title>Explosion at Japan nuclear plant</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Explosion at Japan nuclear plant</s>
+<s id='vn1'>Vụ nổ ở nhà máy hạt nhân Nhật Bản</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Residents of the coastal city of Sendai are continuing the search for survivors amid the devastation .</s>
+<s id='vn2'>Cư dân thành phố miền duyên hải Sendai đang tiếp tục tìm kiếm những người sống sót giữa khung cảnh bị tàn phá .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A second explosion has hit the nuclear plant in Japan that was damaged in Friday 's earthquake , but officials said it had resisted the blast .</s>
+<s id='vn3'>Một vụ nổ thứ hai đã xảy ra tại nhà máy hạt nhân ở Nhật bị thiệt hại trong trận động đất hôm thứ Sáu , nhưng các quan chức cho biết nó đã kìm lại vụ nổ này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>TV footage showed smoke rising from Fukushima plant 's reactor 3 , two days after an explosion hit reactor 1 .</s>
+<s id='vn4'>Cảnh phim trên TV cho thấy khói dâng cao lên từ lò phản ứng số 3 của nhà máy tại Fukushima , cách hai ngày sau khi vụ nổ xảy ra tại lò phản ứng số 1 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Japan 's Nuclear Safety Agency said the blast was believed to have been caused by the build-up of hydrogen .</s>
+<s id='vn5'>Cơ quan an toàn hạt nhân của Nhật Bản cho biết vụ nổ được cho là gây ra bởi sự tích tụ khí hy-đrô .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Officials said the reactor core was still intact , and that radiation levels were below legal limits .</s>
+<s id='vn6'>Các viên chức cho biết lõi lò phản ứng vẫn còn nguyên vẹn , và mức phóng xạ đã dưới giới hạn cho phép .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Technicians have been battling to cool three reactors at the Fukushima 1 plant since Friday , when the quake and tsunami combined to knock out the cooling system .</s>
+<s id='vn7'>Các kỹ thuật viên đã và đang chiến đấu để làm lạnh ba lò phản ứng tại nhà máy Fukushima 1 từ hôm thứ Sáu , khi trận động đất và sóng thần đã kết hợp lại phá huỷ hệ thống làm lạnh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The government said an operation pumping seawater into the reactors to help lower the temperature was still going on despite the explosion .</s>
+<s id='vn8'>Chính phủ cho biết hoạt động bơm nước biển vào lò phản ứng để giúp hạ thấp nhiệt độ vẫn còn diễn ra bất chấp vụ nổ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Evacuations</s>
+<s id='vn9'>Di tản</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The natural disaster killed hundreds and left thousands missing , sparking a huge rescue operation .</s>
+<s id='vn10'>Thiên tai đã giết chết hàng trăm người và làm cho hàng ngàn người mất tích , làm dấy lên hoạt động cứu hộ khổng lồ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>We headed towards where the tsunami hit land , close to the little village of Higashiro .</s>
+<s id='vn11'>Chúng tôi tiến về hướng nơi sóng thần tạt vào đất liền , gần đến ngôi làng nhỏ Higashiro .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>We had to pick our way through a sea of mud .</s>
+<s id='vn12'>Chúng tôi phải đi rón rén lội qua biển bùn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What should have been a road was covered in broken branches , a squashed tractor and lots of electricity cables that had been brought down .</s>
+<s id='vn13'>Nơi đây đáng lẽ phải là một con đường thì giờ đây bị che phủ bởi những nhánh cây gãy , một chiếc máy kéo bị làm bẹp và nhiều dây cáp điện đã bị đổ xuống .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The destruction goes on and on .</s>
+<s id='vn14'>Cuộc huỷ diệt vẫn cứ tiếp tục .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The seashore was in the distance behind a row of trees .</s>
+<s id='vn15'>Bờ biển thì ở xa đằng sau hàng cây .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Here the waves toppled houses ; they lie at crazy angles .</s>
+<s id='vn16'>Ở đây , sóng đã lật đổ các ngôi nhà ; chúng nằm chỏng chơ móp méo .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Trees have been smashed into the buildings .</s>
+<s id='vn17'>Những hàng cây đã đập mạnh vào các toà nhà .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A motorcycle lies twisted and bent .</s>
+<s id='vn18'>Một chiếc xe máy nằm méo mó và cong lại .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Inside the houses , the furniture has been turned to matchsticks , possessions tossed everywhere , and on a few walls are portraits with the faces of those who once lived here , now stained by the waters which filled everything .</s>
+<s id='vn19'>Bên trong những ngôi nhà , đồ gỗ đã bị biến thành những que diêm , đồ đạc ném lung tung khắp nơi , và trên vài bức tường là chân dung với những khuôn mặt của những người từng sống nơi đây , bây giờ nhuộm màu bằng thứ nước tràn ngập mọi thứ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>As you gaze over the wrecked landscape , it feels as if the natural order of things has been shaken , and nobody knows when it will settle down again .</s>
+<s id='vn20'>Khi bạn nhìn chăm chú qua khung cảnh đổ nát này , nó có cảm giác như thể sự sắp đặt mọi thứ của tạo hoá đã bị xáo trộn , và không ai biết khi nào nó sẽ ổn định trở lại .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Everything is gone "</s>
+<s id='vn21'>" Mọi thứ đã ra đi "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The BBC 's Rachel Harvey in the port town of Minami Sanriku describes it as a scene of utter devastation , with the landscape strewn with debris .</s>
+<s id='vn22'>Rachel Harvey của BBC đang ở tại thành phố cảng Minami Sanriku , cô mô tả nó trong cảnh tượng bị tàn phá hoàn toàn , với phong cảnh vương vãi đầy mảnh vụn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>She says everything has been flattened until about 2km inland , and says it looks unlikely that many survivors will be found .</s>
+<s id='vn23'>Cô ấy cho biết mọi thứ đã được làm cho bẹt dính cho đến khoảng 2km sâu vào thành phố , và còn cho biết thêm là không chắc sẽ tìm thấy nhiều người sống sót .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Japanese police have so far confirmed 1.597 deaths , but the final toll is expected to be much higher .</s>
+<s id='vn24'>Cảnh sát Nhật Bản xác nhận cho đến nay có khoảng 1.597 người tử vong , nhưng tổng số người cuối cùng được dự đoán sẽ cao hơn nhiều .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Kyodo news agency reported that 2,000 bodies had been found on the shores of Miyagi prefecture on Monday , but the claims could not be verified .</s>
+<s id='vn25'>Thông tấn xã Kyodo báo cáo 2.000 thi thể đã được tìm thấy trên bờ biển của quận Miyagi vào ngày thứ hai , nhưng những tin tức này không thể xác minh được .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Tens of thousands of people have been evacuated from the area around Fukushima nuclear plant .</s>
+<s id='vn26'>Hàng chục ngàn người đã được sơ tán khỏi khu vực quanh nhà máy hạt nhân Fukushima .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>At least 22 people are now said to be undergoing treatment for radiation exposure .</s>
+<s id='vn27'>Ít nhất 22 người hiện được biết phải điều trị do tiếp xúc với phóng xạ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Government spokesman Yukio Edano said there was a low possibility of radioactive contamination from the latest explosion at the plant .</s>
+<s id='vn28'>Người phát ngôn của chính phủ - Yukio Edano cho biết có rất ít khả năng nhiễm phóng xạ từ vụ nổ mới nhất tại nhà máy này .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>He said the reactor 's containment vessel had resisted the explosion .</s>
+<s id='vn29'>Ông cho biết bình khí nén của lò phản ứng đã kìm lại vụ nổ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The operators of the Fukushima plant said seven people were missing and three were injured by the blast .</s>
+<s id='vn30'>Những người điều hành của nhà máy Fukushima cho biết bảy người nơi đây đã mất tích và ba người bị thương do vụ nổ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Experts say a disaster on the scale of Chernobyl in the 1980s is highly unlikely because the reactors are built to a much higher standard and have much more rigorous safety measures .</s>
+<s id='vn31'>Các chuyên gia cho biết thảm hoạ về lớp gỉ Chernobyl vào những năm 1980 có nhiều khả năng không xảy ra vì các lò phản ứng này được xây dựng theo tiêu chuẩn cao hơn nhiều và có biện pháp an toàn khắt khe hơn nhiều .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Powerful aftershocks</s>
+<s id='vn32'>Những dư chấn mạnh</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Earlier , Prime Minister Naoto Kan said the situation at the nuclear plant was alarming , and the earthquake had thrown Japan into " the most severe crisis since World War II " .</s>
+<s id='vn33'>Trước đó , thủ tướng Naoto Kan cho biết tình hình ở nhà máy hạt nhân đang ở mức báo động , và trận động đất này đã ném Nhật Bản vào " cơn khủng hoảng trầm trọng nhất kể từ thế chiến thứ 2 " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But later , the government announced that the planned blackouts had been postponed , saying they may not be needed if householders could conserve energy .</s>
+<s id='vn34'>Nhưng sau đó , chính phủ tuyên bố rằng việc cúp điện như dự kiến đã được dời lại , cho biết việc này có thể không cần thiết nếu các chủ hộ có thể tiết kiệm năng lượng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The government advised people not to go to work or school on Monday because the transport network would not be able to cope with demand .</s>
+<s id='vn35'>Chính phủ khuyên mọi người không đi làm hoặc đến trường vào ngày thứ hai vì hệ thống giao thông sẽ không thể đáp ứng nhu cầu .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The capital is also still experiencing regular aftershocks , amid warnings that another powerful earthquake is likely to strike very soon .</s>
+<s id='vn36'>Thủ đô cũng vẫn đang chịu những dư chấn thường xuyên , trong khi đó những cảnh báo về một trận động đất dữ dội khác có thể sẽ đến rất sớm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Meanwhile , tens of thousands of relief workers , soldiers and police have been deployed to the disaster area .</s>
+<s id='vn37'>Trong khi đó , hàng chục ngàn nhân viên tình nguyện , binh sĩ và cảnh sát đã được triển khai đến khu vực thiên tai này .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Rescue workers have found scenes of total devastation in isolated coastal towns north-east of the main port city of Sendai , which was itself partially destroyed by the waves .</s>
+<s id='vn38'>Những nhân viên cứu hộ đã thấy khung cảnh tàn phá hoàn toàn ở các thị trấn ven biển cô lập về phía đông bắc của thành phố cảng quan trọng Sendai , đã bị phá huỷ phần nào bởi những con sóng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Preliminary estimates put repair costs from the earthquake and tsunami in the tens of billions of dollars , a huge blow for the Japanese economy that - while the world 's third largest - has been ailing for two decades .</s>
+<s id='vn39'>Ước tính sơ bộ đưa ra chi phí sửa chữa từ động đất và sóng thần nằm trong khoảng hàng chục tỉ đô-la , một tai hoạ khổng lồ đối với nền kinh tế Nhật Bản - trong khi đó nền kinh tế lớn thứ ba trên thế giới này đã ốm yếu trong hai thập niên qua .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The government announced it was pumping 15 trillion yen ( $182bn ; £113bn ) into the economy to prop up the markets - which slumped on opening .</s>
+<s id='vn40'>Chính phủ công bố đang bơm 15 nghìn tỷ yên ( 182 tỷ đô-la Mỹ ; 113 tỷ bảng Anh ) vào nền kinh tế để hỗ trợ các thị trường - đã bị ế ẩm khi mở cửa .</s>
+</spair>
+</text>
+</doc>

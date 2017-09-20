@@ -1,0 +1,156 @@
+﻿<doc id='N0829'>
+<head>
+<title>Why men are at higher risk for stomach cancer ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Why men are at higher risk for stomach cancer ?</s>
+<s id='vn1'>Tại sao đàn ông có nguy cơ bị ung thư dạ dày cao hơn ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>MIT researchers show how estrogen protects women from the gastric inflammation that can lead to cancer .</s>
+<s id='vn2'>Các nhà nghiên cứu tại Học viện Công nghệ Massachusetts cho thấy ét-xtrô-gien bảo vệ phụ nữ khỏi viêm dạ dày có thể dẫn đến ung thư .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Several types of cancer , including stomach , liver and colon , are far more common in men than in women .</s>
+<s id='vn3'>Nhiều loại ung thư , bao gồm ung thư gan , dạ dày và đại tràng , phổ biến ở đàn ông hơn ở phụ nữ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Some scientists have theorized that differences in lifestyle , such as diet and smoking , may account for the discrepancy , but growing evidence suggests that the differences are rooted in basic biological differences between men and women .</s>
+<s id='vn4'>Một số nhà khoa học đã giả thuyết rằng sự khác biệt trong lối sống , chẳng hạn như chế độ ăn uống và hút thuốc , có thể gây ra sự khác biệt , nhưng ngày càng nhiều bằng chứng cho thấy sự khác biệt ăn sâu vào khác biệt về sinh học cơ bản giữa đàn ông và phụ nữ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Adding to that evidence , a new study from MIT shows that treating male mice with estrogen dramatically lowers their rates of stomach cancer - specifically , cancers caused by chronic infection by the bacterium Helicobacter pylori .</s>
+<s id='vn5'>Thêm vào bằng chứng , một nghiên cứu mới của Học viện Công nghệ Massachusettscho thấy rằng làm tăng hàm lượng ét-xtrô-gien ở chuột đực làm giảm đáng kể tỷ lệ ung thư dạ dày - đặc biệt là ung thư gây ra bởi nhiễm trùng mãn tính do vi khuẩn Helicobacter pylori .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The paper , which recently appeared online in the journal Cancer Prevention Research , also describes in new detail how estrogen protects against gastric cancer , which could help scientists find better drug targets against the disease .</s>
+<s id='vn6'>Bài báo , gần đây được đăng tải trực tuyến trên tạp chí Nghiên cứu phòng chống ung thư , cũng mô tả chi tiết mới cách thức mà ét-xtrô-gien bảo vệ chống lại ung thư dạ dày , điều này có thể giúp các nhà khoa học tìm ra các loại thuốc tốt hơn để chống lại ung thư .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's unlikely that doctors would treat men with estrogen , but the researchers believe their work could lead to treatments that mimic estrogen 's cancer-suppressing effects .</s>
+<s id='vn7'>Không chắc là bác sĩ sẽ điều trị cho nam giới bằng ét-xtrô-gien, nhưng các nhà nghiên cứu tin rằng khám phá này có thể dẫn đến các phương pháp điều trị bắt chước tác dụng ức chế ung thư của ét-xtrô-gien .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" If we can narrow in on which estrogen effect is causing this protection , we can come up with a better therapy , " says Alexander Sheh , a postdoc in MIT 's Division of Comparative Medicine ( DCM ) and lead author of the paper .</s>
+<s id='vn8'>" Nếu chúng ta có thể thu hẹp tác động nào của ét-xtrô-gien tạo nên sự bảo vệ này , chúng ta có thể nghĩ ra một cách điều trị tốt hơn " , ông Alexander Sheh nói , tiến sĩ chuyên khoa Y học so sánh ( DCM ) và là tác giả chính của báo cáo từ Học viện Công nghệ Massachusetts .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Gastric cancer is the second-leading cause of cancer deaths worldwide , and people infected with H. pylori are much more likely to develop gastric cancer than uninfected people .</s>
+<s id='vn9'>Ung thư dạ dày là nguyên nhân dẫn đến tử vong do ung thư cao thứ hai trên toàn thế giới , và những người bị nhiễm H . pylori có nhiều khả năng phát triển ung thư dạ dày hơn so với những người không bị nhiễm bệnh .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>More than 50 percent of the world 's population is infected , though most do not experience any symptoms .</s>
+<s id='vn10'>Hơn 50% dân số thế giới bị nhiễm bệnh , cho dù hầu hết không trải nghiệm triệu chứng nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>H. pylori infection provokes an immune response that keeps the infection under control but can lead to gastritis , a chronic inflammation of the stomach that is conducive to the development of gastric cancer .</s>
+<s id='vn11'>Nhiễm H. pylori gây ra phản ứng miễn dịch kiểm soát nhiễm trùng nhưng có thể dẫn đến viêm dạ dày và việc viêm mãn tính của dạ dày có lợi cho sự phát triển của ung thư dạ dày .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Several studies have suggested that estrogen protects women from this kind of inflammation .</s>
+<s id='vn12'>Nhiều nghiên cứu đã cho rằng ét-xtrô-gien bảo vệ phụ nữ khỏi loại viêm này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Women with delayed menopause and increased fertility have a lower risk of gastric cancer , and drugs that block estrogen activity , such as the breast cancer drug Tamoxifen , are linked to higher rates of gastric cancer in women .</s>
+<s id='vn13'>Phụ nữ mãn kinh muộn và sinh nở nhiều có nguy cơ ung thư dạ dày thấp hơn , và các loại thuốc phong bế hoạt động của ét-xtrô-gien, ví dụ như thuốc Tamoxifen điều trị ung thư vú , liên quan đến tỷ lệ ung thư dạ dày cao hơn ở phụ nữ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Recent studies from the lab of James Fox , MIT professor of biological engineering and director of DCM , showed that female mice with their ovaries removed - so they could no longer produce estrogen - lost their protection from gastric cancer .</s>
+<s id='vn14'>Các nghiên cứu gần đây từ phòng thí nghiệm của James Fox , giáo sư kỹ thuật sinh học tại Học viện Công nghệ Massachusetts và là giám đốc của chuyên khoa Y học so sánh , cho thấy chuột cái với buồng trứng bị cắt mất – nên chúng không còn có thể sản xuất ét-xtrô-gien - mất đi sự bảo vệ khỏi bệnh ung thư dạ dày .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In another study , Fox gave estrogen to male mice soon after birth , and showed that it prevented the development of gastritis and precancerous gastric lesions .</s>
+<s id='vn15'>Trong một nghiên cứu khác , Fox đã đưa ét-xtrô-gien vào chuột đực ngay sau khi sinh , và cho thấy nó ngăn cản sự phát triển của viêm dạ dày và các tổn thương tiền ung thư dạ dày .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the new study , of which Fox is senior author , the researchers waited until the mice had already developed gastritis before giving them estrogen .</s>
+<s id='vn16'>Trong nghiên cứu mới mà Fox là tác giả chính , các nhà nghiên cứu chờ đến khi chuột đã bị viêm dạ dày trước khi đưa ét-xtrô-gien vào cơ thể chúng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The mice in the study were genetically engineered to produce large amounts of gastrin , a hormone that promotes acid production and proliferation of the cells that line the stomach .</s>
+<s id='vn17'>Những con chuột trong nghiên cứu này đã được biến đổi gien để sản xuất số lượng lớn của gas-trin , một loại hoóc-môn thúc đẩy sự sản xuất a-xít và sự phát triển của các tế bào lót trong dạ dày .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Such mice typically develop cancer within 20 months .</s>
+<s id='vn18'>Những con chuột này thường sẽ phát triển ung thư trong vòng 20 tháng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>H. pylori infection speeds up that cancer progression , to about seven months .</s>
+<s id='vn19'>Nhiễm H.pylori làm tăng nhanh quá trình phát triển ung thư , khoảng 7 tháng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>As in humans , males are much more likely than females to develop gastric cancer .</s>
+<s id='vn20'>Như trong con người , nam giới có nhiều khả năng phát triển ung thư dạ dày hơn so với nữ giới .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>At age 24 weeks , 16 weeks after being infected with H. pylori , male mice in this study were treated with estrogen , Tamoxifen , both or neither .</s>
+<s id='vn21'>Ở giai đoạn 24 tuần tuổi , 16 tuần sau khi nhiễm H.pylori , chuột đực trong nghiên cứu này đã được điều trị bằng ét-xtrô-gien , Tamoxifen , cả hai hoặc không điều trị .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Female mice were treated with Tamoxifen or nothing .</s>
+<s id='vn22'>Chuột cái được điều trị bằng Tamoxifen hoặc không điều trị .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The researchers expected that Tamoxifen would undo the protective effects of estrogen , in both male and female mice .</s>
+<s id='vn23'>Các nhà nghiên cứu dự kiến rằng Tamoxifen sẽ làm mất tác dụng bảo vệ của ét - xtrô-gien , ở cả chuột đực và cái .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>However , among the male mice , all three treated groups - estrogen , Tamoxifen or both - were protected from gastric cancer .</s>
+<s id='vn24'>Tuy nhiên , trong số chuột đực , tất cả ba nhóm được điều trị bằng ét-xtrô-gien , Tamoxifen hoặc cả hai - được bảo vệ khỏi ung thư dạ dày .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In fact , none of those mice developed cancer , even though they all had gastritis before receiving treatment .</s>
+<s id='vn25'>Trong thực tế , không con chuột nào trong số đó bị ung thư , mặc dù chúng đều bị viêm dạ dày trước khi được điều trị .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Forty percent of the untreated mice developed gastric cancer .</s>
+<s id='vn26'>40% của những con chuột không được điều trị đã bị ung thư dạ dày .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Among the female mice , those who received Tamoxifen showed no differences from the untreated mice .</s>
+<s id='vn27'>Trong số chuột cái , những con được điều trị bằng Tamoxifen cho thấy không có sự khác biệt so với những con chuột không được điều trị .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>To figure out how estrogen and Tamoxifen protect against gastric cancer , the MIT researchers examined which genes were overexpressed in the treated mice .</s>
+<s id='vn28'>Để tìm ra cách mà ét-xtrô-gien và Tamoxifen bảo vệ chống lại ung thư dạ dày , các nhà nghiên cứu của Học viện Công nghệ Massachusetts đã kiểm tra xem loại gien nào đã hoạt động nhiều hơn trong những con chuột được điều trị .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>They identified about 60 genes , most of which are involved in cell movement and_or cancer growth .</s>
+<s id='vn29'>Họ nhận biết được khoảng 60 gien , hầu hết trong số đó tham gia vào chuyển động tế bào và hoặc sự tiến triển của ung thư .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Of these candidates , they decided to focus on CXCL1 , a signaling protein that is involved in cell movement and recruitment of immune cells .</s>
+<s id='vn30'>Trong số các gien này , họ quyết định tập trung vào CXCL1 , một prô - tê-in tín hiệu tham gia vào chuyển động tế bào và sự tăng thêm của tế bào miễn dịch .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The human analogue of CXCL1 is IL-8 , which is often part of the immune response to H. pylori .</s>
+<s id='vn31'>Mô phỏng ở người của CXCL1 là IL-8 , là bộ phận của phản ứng miễn dịch với H. pylori .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The researchers believe that chronic H. pylori infection stimulates production of CXCL1 ( or IL-8 in humans ) , which attracts immune cells such as neutrophils and macrophages .</s>
+<s id='vn32'>Các nhà nghiên cứu tin rằng nhiễm trùng mãn tính H . pylori kích thích sự sản xuất CXCL1 ( hay IL-8 ở người ) , thu hút các tế bào miễn dịch như bạch cầu trung tính và đại thực bào .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>This promotes inflammation , eventually leading to gastritis and cancer .</s>
+<s id='vn33'>Điều này thúc đẩy viêm , cuối cùng dẫn đến viêm dạ dày và ung thư .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Estrogen somehow interferes with the recruitment or activity of those immune cells .</s>
+<s id='vn34'>Ét-xtrô-gien bằng cách nào đó đã gây trở ngại cho sự tăng lực hoạt hoạt tính của những tế bào miễn dịch .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The researchers are now trying to figure out in more detail how this happens , by studying mice that are missing the gene for CXCL1 .</s>
+<s id='vn35'>Các nhà nghiên cứu đang cố gắng để tìm ra chi tiết hơn làm thế nào điều này lại xảy ra , bằng cách nghiên cứu những con chuột thiếu gien CXCL1 .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>They are also interested in developing molecules that inhibit CXCL1 activity .</s>
+<s id='vn36'>Họ cũng quan tâm đến việc phát triển các phân tử ức chế hoạt động của CXCL1 .</s>
+</spair>
+</text>
+</doc>

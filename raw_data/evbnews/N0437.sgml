@@ -1,0 +1,188 @@
+﻿<doc id='N0437'>
+<head>
+<title>5 People Blamed For The Financial Crisis</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 People Blamed For The Financial Crisis</s>
+<s id='vn1'>5 người bị quy trách nhiệm về cuộc khủng hoảng tài chính</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Whenever anything goes wrong in view of the public , attention quickly moves to rooting out those who should be blamed for whatever it was that went wrong .</s>
+<s id='vn2'>Mỗi khi có gì đó sai sót bị công chúng phát hiện , người ta nhanh chóng dồn sự chú ý vào để truy đến cùng những người đáng bị lên án vì lỗi lầm họ gây ra .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Given the enormous and farreaching magnitude of the housing bubble , and the credit crisis and recession it produced , naming and shaming those responsible has turned into something of a cottage industry .</s>
+<s id='vn3'>Căn cứ vào tiếng nổ rất lớn và vang xa của quả bong bóng nhà đất , cuộc khủng hoảng tín dụng và tình trạng suy thoái kinh tế diễn ra , thì việc điểm mặt vạch tên và chỉ trích những người có trách nhiệm đã trở thành cái gì đó quá ư là quen thuộc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>While finding those to blame would be impossible and it does not resolve a crisis , it is nevertheless part of the catharsis and the recovery process .</s>
+<s id='vn4'>Trong khi việc tìm những người như vậy để quy trách nhiệm chưa thể thực hiện được và không làm biến mất cuộc khủng hoảng , thì mặc dù vậy cũng phần nào giúp người ta khuây khoả đôi chút và cũng là quá trình hồi phục .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>With that in mind , let us examine some of those who have drawn scrutiny for their roles in the crisis , as well as a few who may have unfairly escaped their share of blame .</s>
+<s id='vn5'>Với suy nghĩ như vậy , chúng ta hãy thử xem xét một vài người đã thu hút sự quan tâm của công chúng về vai trò của họ trong cuộc khủng hoảng , cũng như một số người có thể đã trốn tránh được phần trách nhiệm của mình một cách bất công .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>1 . Realtors</s>
+<s id='vn6'>1 . Người môi giới bất động sản</s>
+</spair>
+<spair id='7'>
+<s id='en7'>David Lereah , former chief economist of the National Association of Realtors , was an outspoken promoter of the investment virtues of housing throughout the bubble .</s>
+<s id='vn7'>David Lereah , cựu chuyên gia kinh tế cao cấp của Hiệp hội các nhà bất động sản môi giới quốc gia , là một người trực tính tạo ra sự lôi cuốn đầu tư nhà đất thông qua cơn sốt .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Penning books with titles like " Why The Real Estate Boom Will Not Bust " ( 2006 ) and referring to housing skeptics as " Chicken Littles " , Mr. Lereah dismissed the notion of a bubble and may have helped to stoke an already too-hot market .</s>
+<s id='vn8'>Viết những cuốn sách có nhan đề " Vì sao thời kỳ hưng thịnh của thị trường bất động sản sẽ không chấm dứt " ( 2006 ) và ám chỉ những người hoài nghi thị trường nhà đất là " Những chú gà con " , Lereah gạt bỏ suy nghĩ về một quả bong bóng và có thể đã góp thêm lửa vào một thị trường vốn đã quá nóng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>2 . Lenders</s>
+<s id='vn9'>2 . Người cho vay</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Many bank CEOs deserve blame for aggressively steering their companies into bad lending practices , but Countrywide 's Angelo Mozilo may deserve an extra share .</s>
+<s id='vn10'>Nhiều giám đốc điều hành ngân hàng đáng bị chỉ trích về hành vi lèo lái một cách điên cuồng các công ty của họ vào những hoạt động cho vay khó đòi , nhưng chủ tịch Angelo Mozilo của Countrywide thì có thể còn đáng bị lên án hơn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Countrywide was such an aggressive underwriter of subprime loans that it has created a multi-billion dollar headache for Countrywide 's acquirer Bank of America as it resolves bad loan put-backs with Fannie , Freddie and private purchasers .</s>
+<s id='vn11'>Công ty Countrywide là một nhà bao tiêu năng động của những khoản cho vay dưới chuẩn đã gây ra vấn đề gây đau đầu về con số hàng tỷ đô la cho ngân hàng tiếp quản Countrywide là Ngân hàng Mỹ khi phải giải quyết những khoản cho vay khó đòi trước đây với Fannie , Freddie và những người mua cá nhân .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>3 . Investment Banks</s>
+<s id='vn12'>3 . Ngân hàng đầu tư</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Investment banks picked up the baton from the commercial banks , buying their ill-considered loans , packaging them into investment securities labeled AAA , and then selling those to pension funds , hedge funds and other institutional investors for a tidy profit .</s>
+<s id='vn13'>Các ngân hàng đầu tư gánh phần việc từ các ngân hàng thương mại , mua những khoản vay thiếu cân nhắc của họ , biến chúng thành những gói chứng khoán đầu tư có nhãn AAA , sau đó bán những gói hàng này cho các quỹ hưu trí , quỹ phòng hộ và những nhà đầu tư thuộc tổ chức lấy khoản lợi nhuận kha khá .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>There 's plenty of blame to go around here , from joint commercial investment banks like Citigroup to investment banks like Goldman Sachs , and they certainly helped funnel enormous sums of money into the housing market ( while taking their cut , of course ) .</s>
+<s id='vn14'>Có rất nhiều người bị chỉ trích quanh chuyện này , từ những ngân hàng đầu tư thương mại cổ phần như Citigroup đến những ngân hàng đầu tư như Goldman Sachs , và họ chắc chắn đã tiếp tay rót một số tiền khổng lồ vào thị trường nhà đất ( dĩ nhiên là trong khi đang tiến hành cắt giảm ) .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>4 . Ratings Agencies</s>
+<s id='vn15'>4 . Cơ quan đánh giá tín nhiệm</s>
+</spair>
+<spair id='16'>
+<s id='en16'>For their role as rubber-stampers of AAA ratings on piles of dreck , , Standard Poor 's Moody 's Fitch and all deserve healthy doses of blame .</s>
+<s id='vn16'>Về vai trò của những người đóng con dấu cao su hạng AAA cho những đống hàng kém chất lượng , thì Standard Poor 's , Moody 's Fitch và tất cả đều đáng bị chỉ trích về tính lành mạnh .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>If these ratings agencies had done better research , questioned their assumptions more aggressively and avoided the moral hazards of working so closely with the issuers that paid them , the bubble may never have gotten as large as it did .</s>
+<s id='vn17'>Nếu những cơ quan đánh giá tín nhiệm này tiến hành nghiên cứu kỹ lưỡng hơn , nghi ngờ những giả thiết của mình nhiều hơn , và tránh những rủi ro về mặt đạo đức khi làm việc quá gần gũi với những nhà phát hành đã trả công cho mình , thì quả bong bóng có thể sẽ không bao giờ phồng căng lên lớn đến như vậy .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>5 . Homebuyers</s>
+<s id='vn18'>5 . Người mua nhà</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It would be remiss to completely excuse the " regular people " for their role in the mess .</s>
+<s id='vn19'>Sẽ là thiếu sót nếu bỏ qua hết cho " khách hàng thường xuyên " đã có vai trò trong đống đổ nát đó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Liar loans required a willing liar to sign the loan , and millions more spent far above their means in the late '90s and early 2000s , leveraging up to do so .</s>
+<s id='vn20'>Tiền cho vay của kẻ nói dối đòi hỏi một kẻ nói dối tự nguyện ký đơn vay , và hàng triệu người tiêu dùng vung tay quá trán trong những năm cuối thế kỷ 20 và đầu 21 , cũng có tác động đến cuộc khủng hoảng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A lending bubble ca n't occur without the cooperation of borrowers , and the American public in general seemed all too willing to believe in the fantasy of the housing bubble and easy credit .</s>
+<s id='vn21'>Một quả bong bóng cho vay không thể xuất hiện nếu không có sự bắt tay của những người đi vay , và công chúng Mỹ nói chung có vẻ đều rất sẵn lòng tin vào hình ảnh kỳ diệu của quả bong bóng nhà đất và tín dụng dễ dãi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The Overseers</s>
+<s id='vn22'>Các nhà quản lý</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Bill Clinton and Congress</s>
+<s id='vn23'>Bill Clinton và Quốc hội</s>
+</spair>
+<spair id='24'>
+<s id='en24'>During his presidency , Bill Clinton pushed for stronger enforcement of the Community Reinvestment Act ( a decades-old law ) and increased bank lending to low-income areas .</s>
+<s id='vn24'>Trong thời gian làm tổng thống của mình , Bill Clinton yêu cầu thực thi quyết liệt hơn Đạo luật Tái đầu tư Cộng đồng ( một đạo luật có tuổi thọ hàng thập kỷ ) và gia tăng hoạt động cho vay của ngân hàng đối với các nhóm thu nhập thấp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>This did not create the subprime mortgage market , but it seemed to foster lower credit and down payment requirements across the board .</s>
+<s id='vn25'>Điều này không tạo nên thị trường cho vay thế chấp dưới chuẩn , nhưng dường như nhằm đẩy mức tín dụng thấp hơn và giảm bớt các yêu cầu thanh toán nói chung .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>At the same time , a deregulatory mood among both parties in Congress led to less regulation and oversight of banks and new financial products like credit default swaps .</s>
+<s id='vn26'>Cùng thời điểm đó , tâm thế bãi bỏ quy định của cả hai đảng trong Quốc hội dẫn đến quy định lỏng lẻo và giám sát thiếu chặt chẽ của các ngân hàng và những sản phẩm tài chính mới như hợp đồng bảo hiểm nợ xấu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Treasury Secretary</s>
+<s id='vn27'>Bộ trưởng tài chính</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Henry Paulson , President Bush 's Treasury Secretary from July of 2006 through to January of 2009 , seemed to be late in dealing with the crisis and did the market no favors when he failed to prevent the messy and chaotic bankruptcy of Lehman Brothers .</s>
+<s id='vn28'>Henry Paulson , Bộ trưởng tài chính của Tổng thống Bush từ tháng 7 năm 2006 đến tháng 1 năm 2009 , dường như chậm chễ trong việc đối phó với cuộc khủng hoảng và không làm được gì cho thị trường khi ông này không ngăn nổi tình trạng lộn xộn và phá sản hỗn loạn của Lehman Brothers .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>That said , Paulson may ultimately get some credit for advancing bailouts that at least quieted the markets during a period of incredible chaos .</s>
+<s id='vn29'>Như đã nói , Paulson có thể sẽ được người ta tán tụng về việc sớm bảo lãnh cứu nguy tài chính mà ít nhất cũng ổn định thị trường trong giai đoạn lộn xộn bất thường .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Federal Reserve Chairman</s>
+<s id='vn30'>Chủ tịch Cục Dự trữ Liên bang</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Alan Greenspan seems to deserve a larger-than-average share of blame .</s>
+<s id='vn31'>Alan Greenspan có vẻ xứng đáng bị chỉ trích nhiều hơn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>While Mr. Greenspan has been blamed for his policy of maintaining unusually low interest rates during the bubble period , it was actually his handoff approach to regulation that may have been more problematic .</s>
+<s id='vn32'>Trong khi ông đã bị người ta quy trách nhiệm về chính sách duy trì lãi suất thấp bất thường trong giai đoạn bong bóng , thì thực tế ông còn dùng biện pháp không can thiệp vào cái quy định vốn rất khó hiểu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The Federal Reserve exists at least in part to regulate and oversee banks , and under 1994 's Home Ownership and Equity Protection Act , Greenspan could have directed regulators to force banks to curb some of the most egregious practices concerning liar loans and excessive lending , but he chose not to do so .</s>
+<s id='vn33'>Cục Dự trữ Liên bang tồn tại ít nhất phần nào là để kiểm soát và giám sát các ngân hàng , và theo Đạo luật Bảo vệ Tài sản và Quyền sở hữu Nhà năm 1994 , Greenspan có thể ra các quy định buộc các ngân hàng hạn chế một số hoạt động quá đáng nhất liên quan đến những khoản vay của kẻ nói dối và cho vay quá mức , nhưng ông ta quyết định không làm như vậy .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Though he was left holding the broom as Greenspan exited the stage , there is little to suggest that Ben Bernanke was hawkish about regulation or higher rates prior to that .</s>
+<s id='vn34'>Mặc dù ông là người phải gánh vác hết trách nhiệm khi Greenspan rời vũ đài , vẫn có ý kiến cho rằng Ben Bernanke là kẻ chủ chiến về quy định hay các lãi suất cao trước đó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>At this point , his role in the financial crisis is still being written – did moves like the " rescue " of Bear Stearns , TARP , various other bailo uts , exceptionally low rates and so on help lessen the severity of the crisis , or have they simply extended or worsened the day of reckoning ?</s>
+<s id='vn35'>Vào thời điểm này , vai trò của ông trong cuộc khủng hoảng tài chính vẫn đang tiếp tục là đề tài của báo giới - những nước cờ như là " giải cứu " Bear Stearns , TARP , những hành động bảo lãnh cứu nguy tài chính khác , các lãi suất thấp một cách đặc biệt và vân vân có giúp giảm bớt mức độ trầm trọng của cuộc khủng hoảng , hay chúng chỉ làm tồi tệ thêm hoặc kéo dài thời gian thanh toán nợ nần đây ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Treasury Secretary</s>
+<s id='vn36'>Bộ trưởng Tài chính</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Last and not least , we must consider current Treasury Secretary Timothy Geithner .</s>
+<s id='vn37'>Cuối cùng nhưng không kém phần quan trọng , chúng ta phải xét đến trường hợp đương kim Bộ trưởng Bộ Tài chính Timothy Geithner .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>As a member of the FOMC and President of the New York Fed , it is not clear that Geithner was more inclined to crack down on bank excesses than anybody else in the Fed at the time .</s>
+<s id='vn38'>Không rõ là với tư cách một thành viên của FOMC và Chủ tịch Cục dự trữ liên bang New York vào thời điểm đó Geithner có khuynh hướng thẳng tay trừng trị những hành vi quá đáng của ngân hàng hơn những người khác trong Cục Dự trữ Liên bang hay không .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Geithner had been a strong advocate for bailouts and restructurings in the beginning that many now feel have been too generous to the banking industry .</s>
+<s id='vn39'>Geithner từng là một người ủng hộ mạnh mẽ cho các hoạt động bảo lãnh cứu nguy tài chính và tái cơ cấu lúc đầu mà nhiều người hiện nay cảm thấy ông quá tốt bụng với ngành ngân hàng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Though supporters will argue that the U.S. needed functioning banks to avoid the recession turning into a depression , others will argue that socializing the foibles of commercial banks and Wall Street firms failed to hold the wrongdoers to full account .</s>
+<s id='vn40'>Cho dù những người ủng hộ sẽ nói rằng Hoa Kỳ cần các ngân hàng chức năng để tránh thời kỳ suy thoái chuyển sang giai đoạn khủng hoảng , những người khác lại biện luận là việc chấp nhận rộng rãi các nhược điểm của các ngân hàng thương mại và các công ty ở Phố Wall không ngăn cản được kẻ phạm pháp làm đầy tài khoản .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>History Will Be the Final Judge</s>
+<s id='vn41'>Lịch sử sẽ là người phán xét sau cùng</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It will probably be another decade or two before a full accounting and understanding of the housing bubble and its financial fallout is really possible .</s>
+<s id='vn42'>Có lẽ phải một hoặc hai thập niên sau người ta mới có thể hiểu và giải thích đầy đủ về quả bong bóng nhà đất và hậu quả về mặt tài chính của nó .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Although it is clear now that there were many wrong-doers , it has yet to be seen whether those who have claimed to help solve or ease the crisis did in fact make things any better .</s>
+<s id='vn43'>Mặc dù hiện tại ai cũng biết là có nhiều kẻ phạm tội , nhưng chưa thấy những con người đã tuyên bố sẽ giải quyết hoặc làm giảm nhẹ cuộc khủng hoảng làm được điều gì trên thực tế cho tốt hơn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Suffice it to say , financial journalists and historians will likely be arguing over this one for a long time to come .</s>
+<s id='vn44'>Chỉ có thể khẳng định rằng , những nhà viết sử và những nhà báo viết về tài chính có lẽ sẽ còn tiếp tục bàn về vấn đề này trong một thời gian dài nữa .</s>
+</spair>
+</text>
+</doc>

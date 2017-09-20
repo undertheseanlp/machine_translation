@@ -1,0 +1,192 @@
+﻿<doc id='N0290'>
+<head>
+<title>Do You Know What Drowning Looks Like ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Do You Know What Drowning Looks Like ?</s>
+<s id='vn1'>Bạn có biết chết đuối là như thế nào ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you and your family are planning to spend some of this summer by the sea , by the pool , or perhaps even a river or lake , perhaps you should ask yourself , would you be able to spot someone in trouble in the water , in time to save their life : do you really know what drowning looks like ?</s>
+<s id='vn2'>Nếu bạn và gia đình lên kế hoạch nghỉ hè này ở biển , bể bơi , hay có lẽ thậm chí là vùng sông hồ , có lẽ bạn nên tự hỏi , liệu bạn có thể phát hiện ra ai đó đang gặp tai nạn dưới nước đúng lúc để cứu sống họ : thật sự bạn có biết chết đuối là thế nào không ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Mario Vittone , a writer on maritime safety , tells a story about a former life guard , now a boat captain , who spotted a potentially fatal incident from fifty feet away .</s>
+<s id='vn3'>Mario Vittone , một tác giả về an toàn hàng hải , kể câu chuyện về một cựu nhân viên cứu hộ , bây giờ là một thuyền trưởng , đã phát hiện ra một sự cố có thể gây chết người từ cách xa năm mươi feet .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The captain jumped off his own boat , and sprinted toward a family swimming between the beach and their anchored boat : he sped past the astonished parents , to save their nine-year old daughter , who had been quietly drowning not ten feet behind her father .</s>
+<s id='vn4'>Thuyền trưởng nhảy ra khỏi tàu của mình , và bơi hết tốc lực về phía một gia đình đang bơi giữa biển và con thuyền đang thả neo của họ : ông tăng tốc vượt qua hai bậc phụ huynh đang hết sức ngạc nhiên , để cứu đứa con gái chín tuổi của họ đang chết đuối một cách im lìm cách sau cha mình không hơn mười feet .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Vittone , whose articles have appeared in many magazines , including Reader 's Digest , said he was not surprised when he heard this story : he knows a thing or two about drowning , having served nineteen years in the US Navy and Coast Guard , and his strongest message is " Drowning Doesn't Look Like Drowning " .</s>
+<s id='vn5'>Vittone , người có các bài viết được đăng ở nhiều tạp chí , kể cả Reader 's Digest , cho biết ông không ngạc nhiên khi nghe câu chuyện này : ông hiểu biết nhiều về chết đuối , có 19 năm phục vụ trong Hải quân Hoa Kỳ và lực lượng tuần duyên , và ông nhấn mạnh là " Chết đuối không giống như đuối nước " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Many of us , who have perhaps unwittingly been coached by TV dramas and cartoon films , when asked to describe a drowning person would probably say they would be thrashing their arms about wildly and making loud cries of help .</s>
+<s id='vn6'>Nhiều người trong chúng ta , có lẽ vô tình bị ảnh hưởng bởi phim truyền ảnh và hoạt hình , khi được hỏi để mô tả một người chết đuối có lẽ sẽ cho rằng người đó thường giơ tay vẫy dữ dội và la hét cầu cứu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But the reality is that a person who is drowning is more likely to remain quiet , unnoticeable , and sink silently .</s>
+<s id='vn7'>Nhưng thực tế là một người bị chết đuối dường như sẽ im lìm , không gây chú ý , và chìm xuống một cách lặng lẽ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>According to the US Centers for Disease Control and Prevention ( CDC ) , in 2007 , there were 3,443 fatal unintentional drownings in the US , an average of ten deaths a day , with more than 1 in 5 victims of fatal drowning being children aged 14 younger .</s>
+<s id='vn8'>Theo Trung tâm Kiểm soát và Phòng chống Dịch bệnh Hoa Kỳ ( CDC ) , trong năm 2007 , đã có 3443 tai nạn đuối nước gây tử vong ở Mỹ , trung bình có mười ca tử vong mỗi ngày , trong đó hơn 1 phần 5 nạn nhân tử vong là trẻ em từ 14 tuổi trở xuống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Plus , for every child that drowns , four others receive emergency for injuries related to submersion .</s>
+<s id='vn9'>Ngoài ra , cứ mỗi 1 trẻ bị chết đuối , 4 trẻ khác phải cấp cứu do các chấn thương lúc bị chìm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Furthermore , says the CDC , many parents have watched their child drown without realizing what was happening .</s>
+<s id='vn10'>Hơn nữa , theo CDC , nhiều phụ huynh đã chứng kiến con em mình bị chết đuối mà không nhận ra được ngay những gì đang xảy ra .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They did not know what the captain who saved the little girl in Vittone 's story was trained to notice and her parents were unaware of : the signs of Instinctive Drowning Response , a concept by Dr Francesco A. Pia , a water safety expert .</s>
+<s id='vn11'>Họ không biết những kiến thức mà vị thuyền trưởng đã cứu cô bé trong câu chuyện của Vittone đã được huấn luyện để nhận ra và cha mẹ cô đã không biết về : các dấu hiệu của phản xạ theo bản năng khi chết đuối , một khái niệm do tiến sĩ Francesco A. Pia , một chuyên gia về an toàn dưới nước .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Vittone and Pia wrote about the Instinctive Drowning Response , in the Fall 06 issue of On Scene , the journal of the US Coast Guard Search and Rescue .</s>
+<s id='vn12'>Vittone và Pia đã viết về phản xạ theo bản năng khi chết đuối , trong ấn bản Mùa Thu số 06 trên tờ On Scene , tạp chí của Hiệp hội Tìm kiếm và Cứu hộ Bờ biển Hoa Kỳ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Pia says it is what people do to avoid suffocating in water : they don't splash much , they don't wave , and they don't yell or call out .</s>
+<s id='vn13'>Pia nói đó là điều mọi người cần làm để tránh bị ngộp thở trong nước : họ không vùng vẫy nhiều , không giơ tay cầu cứu , và không la hét .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Pia and Vittone make these points about the Instinctive Drowning Response :</s>
+<s id='vn14'>Pia và Vittone nhấn mạnh những điểm sau về phản xạ theo bản năng khi chết đuối :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In the vast majority of cases , drowning people are physiologically incapable of calling out for help because the human body is wired to give priority to the primary respiratory function , breathing , and not to speech , which is a secondary overlaid function .</s>
+<s id='vn15'>Trong đại đa số trường hợp , người chết đuối về mặt sinh lý học không thể kêu cứu vì cơ thể con người luôn được ưu tiên cho các chức năng hô hấp chính : thở , chứ không phải chức năng nói - vốn chỉ là một chức năng thứ yếu .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Drowning people 's mouths are not above the water long enough to enable them to exhale , and call out , they have barely time to exhale and inhale quickly before their mouths go back under the water .</s>
+<s id='vn16'>Miệng của người chết đuối không ở trên mặt nước đủ lâu để họ có thể thở được và kêu cứu , họ hầu như không còn kịp để thở ra và hít vào nhanh chóng trước khi miệng bị chìm xuống .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When we are drowning , our natural instinct is to press our arms onto the surface of the water so we can leverage our bodies upwards to catch our breath .</s>
+<s id='vn17'>Khi chúng ta đang bị chết đuối , bản năng tự nhiên của chúng ta là choài đạp cánh tay trên mặt nước để giữ cho thân mình nổi để thở được .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Waving arms about to draw attention is a voluntary movement : we have to stop drowning before we can physically perform voluntary movements like waving for help , grabbing rescue equipment or moving toward a rescuer .</s>
+<s id='vn18'>Vẫy tay để thu hút sự chú ý là một động tác vô thức : chúng ta phải hết bị đuối nước trước khi có thể thực hiện các động tác như vẫy tay để kêu cứu , chụp lấy thiết bị cứu hộ hay bơi về phía người cứu hộ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>While in the Drowning , people stay upright but they don't perform kicks , and unless rescued , they struggle on the surface of the water up to 60 seconds before they go under .</s>
+<s id='vn19'>Khi đang chết đuối , mọi người đều ở tư thế bơi đứng , nhưng họ không thể cử động chân , và nếu không được cứu , họ sẽ chỉ cố hết sức nổi được trên mặt nước tối đa 60 giây trước khi bị chìm hoàn toàn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>These points echo an important rule one learns in basic first aid training and life saving : the casualties that scream for attention are not the priority in the first , no matter how desperate their cries .</s>
+<s id='vn20'>Những điểm này phản ánh một quy tắc quan trọng cần chú ý trong huấn luyện cấp cứu và cứu hộ cơ bản : những nạn nhân la hét cầu cứu không phải được ưu tiên đầu tiên , dù cho họ khóc la tuyệt vọng thế nào đi nữa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You go to the silent ones first , in case they are unconscious and unbreathing , in which case they are the ones in more urgent need of life saving help .</s>
+<s id='vn21'>Bạn cần cứu những người im lìm đầu tiên , trong trường hợp họ bất tỉnh và không còn hô hấp , trong trường hợp này họ mới chính là những người cần cứu giúp khẩn cấp hơn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Vittone also says parents should be aware that children playing in the water usually make a noise : when they go quiet , you should get to them quickly and find out why .</s>
+<s id='vn22'>Vittone cũng lưu ý các bậc cha mẹ nên biết rằng trẻ con chơi đùa trong nước thường làm ồn : khi chúng tự nhiên im lặng , bạn cần đến bên chúng một cách nhanh chóng và tìm hiểu lý do tại sao .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>He also lists a number of signs that can help us notice when people might be drowning : their eyes are either closed or appear glassy and unfocused ; their head is tilted back with the mouth open or it is low in the water with the mouth at water level ; their hair covers their forehead and eyes ; they are hyperventilating or gasping ; they are trying to swim in one direction but getting nowhere ; they try to roll on their back or their body is vertical and they are not using their legs .</s>
+<s id='vn23'>Ông cũng liệt kê một số dấu hiệu có thể giúp chúng ta nhận thấy người có thể đang chết đuối : mắt họ nhắm hoặc đờ đẫn và không tập trung ; đầu của họ quay nghiêng cùng với miệng mở hoặc đầu chìm xuống với miệng nằm ngang mực nước ; tóc che phủ trán và mắt ; thở nhanh hoặc hổn hển ; họ đang cố bơi theo một hướng nhưng hoàn toàn không có kết quả ; họ cố lật ngửa ra hoặc cơ thể của họ thẳng đứng và họ không thể sử dụng chân để chòi đạp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>other things we can do to prevent accidental drowning , and in many instances , they are to do with ensuring children can't get into the waterinad vertently .</s>
+<s id='vn24'>những điều khác chúng ta có thể làm để ngăn chặn chết đuối do tai nạn , và trong nhiều trường hợp , đó chính là bảo đảm trẻ em không thể vô tình đi vào những nơi có nước .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>According to the CDC , most unintentional drownings of very young children in the US occur in residential swimming pools , and one of the major factors is lack of barriers and supervision .</s>
+<s id='vn25'>Theo CDC , hầu hết các trường hợp chết đuối do tai nạn của trẻ nhỏ ở Hoa Kỳ xảy ra ở hồ bơi tại nhà , và một trong những nhân tố chủ yếu là do thiếu rào chắn và giám sát .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Their records show that most of the young children who drowned in pools in 2007 were last seen indoors , had been out sight for less that 5 minutes , and were under the supervision of one or both parents at the time .</s>
+<s id='vn26'>Hồ sơ cho thấy hầu hết các trẻ nhỏ bị chết đuối trong hồ bơi vào năm 2007 đã được nhìn thấy lần cuối cùng trong nhà , ra khỏi tầm mắt chưa tới 5 phút , và đều đang được cha hoặc mẹ trông coi vào lúc đó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Having barriers like pool fencing can help stop children getting into the pool area , or at least delay the time it takes them to do that before the adult in charge notices they are gone .</s>
+<s id='vn27'>Có những rào cản như hàng rào hồ bơi có thể giúp ngăn chặn trẻ em đi vào khu vực hồ bơi , hoặc ít nhất cũng trì hoãn thời gian cần cho người lớn nhận ra con em mình đi mất trước khi tai nạn xảy ra .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Among older children , the dangers tend to be further away from home : for instance the percentage of American children that drown in natural water settings such as lakes , rivers and the sea goes up with age .</s>
+<s id='vn28'>Ở các trẻ lớn hơn , nguy hiểm có xu hướng cách xa hơn nữa khỏi nhà : ví dụ tỷ lệ trẻ em Mỹ bị chết đuối ở các vùng nước tự nhiên như sông hồ và biển tăng theo độ tuổi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Among those that died in boating incidents ( 709 deaths in 2008 , most from drowning ) , 9 out of 10 of them were not wearing a life jacket , said the CDC .</s>
+<s id='vn29'>Trong số những người chết do tai nạn thuyền bè ( 709 người chết trong năm 2008 , hầu hết do đuối nước ) , 9 trong số 10 người họ không mặc áo phao , CDC cho biết .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If you are keen on swimming , boating and doing other recreational activities in natural water , it is important to be aware of local weather conditions , and how to interpret the colored flags on the beach .</s>
+<s id='vn30'>Nếu bạn ham thích bơi lội , chèo thuyền và tham gia các hoạt động giải trí dưới nước khác , điều quan trọng là phải nhận ra tình hình thời tiết trong vùng , và cách để hiểu ý nghĩa của các cờ hiệu trên bãi biển .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Also , look out for dangerous waves and rip currents .</s>
+<s id='vn31'>Hơn nữa , coi chừng những con sóng nguy hiểm và dòng chảy xa bờ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>If you are caught in one , swim parallel to the shoreline and don't swim toward the shore until you are free of the rip current .</s>
+<s id='vn32'>Nếu bạn bị mắc kẹt trong một đợt sóng như thế , hãy bơi song song với bờ chứ đừng cố bơi thẳng vào phía bờ cho đến khi bạn có thể thoát ra khỏi nó .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If boating , ensure everyone , no matter how good a swimmer or how far they are travelling , or how big the boat , wears a coast guard approved life jacket .</s>
+<s id='vn33'>Nếu đi thuyền , đảm bảo tất cả mọi người phải mặc áo phao an toàn , bất kể họ có bơi giỏi thế nào đi nữa hay họ chèo thuyền xa hay gần , hoặc con thuyền to hay nhỏ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Alcohol is also a problem : about half of adult and adolescent deaths that occur in and around recreational water and about 1 in 5 American deaths linked to boating are associated with alcohol .</s>
+<s id='vn34'>Rượu cũng là một vấn đề : khoảng một nửa số ca tử vong ở người lớn và thanh thiếu niên xảy ra trong và gần các vùng sông nước du lịch và khoảng 1 trong 5 ca tử vong do tai nạn thuyền bè của Mỹ có nguyên nhân do rượu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Alcohol affects judgement , balance and coordination , and being in the heat and sun while under the influence affects them even more .</s>
+<s id='vn35'>Rượu ảnh hưởng đến óc phán đoán , sự bình tĩnh và phối hợp , và phơi mình dưới sức nóng và ánh nắng khi đang say lại càng tác động xấu hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Whatever happens , don't assume , if one of your crew falls overboard and they look OK that they are OK .</s>
+<s id='vn36'>Bất cứ điều gì xảy ra , đừng cho rằng , nếu một trong số bạn rơi xuống nước và trông họ có vẻ ổn thì thật sự là họ không sao .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>As Vittone reminds us , drowning does not always look like drowning : the person may look like they are casually treading water and looking up at you or the boat and there is nothing to worry about .</s>
+<s id='vn37'>Như Vittone nhắc nhở chúng ta , chết đuối đâu phải lúc nào cũng trông giống như chết đuối : một người có thể trông giống như đang bơi đứng và tình cờ nhìn lên bạn hay con thuyền và không có gì phải lo lắng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>But how do you know ?</s>
+<s id='vn38'>Nhưng làm thế nào bạn có thể chắc chắn ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>So just to be sure , get their attention and ask them , " Are you OK ? "</s>
+<s id='vn39'>Vì vậy , chỉ để đảm bảo , hãy làm họ chú ý và hỏi họ , " Bạn có ổn không ? "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>And if they say " yeah , I 'm fine " , then they probably are .</s>
+<s id='vn40'>Và nếu họ nói " Vâng , tôi ổn " , thì mới có thể an tâm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>But if they continue to stare blankly , you may only have 30 seconds to reach them .</s>
+<s id='vn41'>Nhưng nếu họ tiếp tục nhìn đờ đẫn , bạn có thể chỉ có 30 giây để tiếp cận họ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Sources : mariovittone.com ,</s>
+<s id='vn42'>Nguồn : mariovittone.com ,</s>
+</spair>
+<spair id='43'>
+<s id='en43'>On Scene , CDC .</s>
+<s id='vn43'>Trên Scene , CDC .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Written by : Catharine Paddock</s>
+<s id='vn44'>Tác giả : Catharine Paddock</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Copyright : Medical News Today</s>
+<s id='vn45'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

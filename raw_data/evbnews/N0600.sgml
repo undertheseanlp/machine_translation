@@ -1,0 +1,76 @@
+﻿<doc id='N0600'>
+<head>
+<title>World Markets Plunge as Japan Disaster Widens</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>World Markets Plunge as Japan Disaster Widens</s>
+<s id='vn1'>Các thị trường thế giới đi xuống khi thảm họa của Nhật lan rộng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Stock markets in the United States , Asia and Europe plunged sharply on Tuesday as investors dumped stocks over worries about the nuclear crisis in Japan .</s>
+<s id='vn2'>Các thị trường chứng khoán ở Mỹ , Châu Á và Châu Âu đã giảm mạnh vào thứ 3 khi các nhà đầu tư bán chứng khoán ra ồ ạt vì lo sợ về khủng hoảng hạt nhân ở Nhật .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Japanese government is trying to reassure markets that Japan is open for business - injecting hundreds of billions into money markets .</s>
+<s id='vn3'>Chính phủ Nhật đang cố trấn an các thị trường là Nhật đang mở cửa kinh doanh - bơm hàng trăm tỷ đô vào thị trường tiền tệ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Even as the world reaches out to aid the quake and tsunami devastated nation of Japan , global financial markets are doing the opposite - dumping stock holdings in businesses directly or indirectly affected by the disaster .</s>
+<s id='vn4'>Nhưng khi thế giới đang đưa tay ra cứu trợ nước Nhật bị tàn phá bởi động đất và sóng thần thì các thị trường tài chính toàn cầu lại đang làm điều ngược lại - bán ra ồ ạt cổ phiếu trong những doanh nghiệp bị ảnh hưởng trực tiếp hoặc gián tiếp của thảm họa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Japan is one of the world 's largest economies because it manufactures products used around the world .</s>
+<s id='vn5'>Nhật là một trong những nền kinh tế lớn nhất thế giới vì nó sản xuất sản phẩm được sử dụng khắp nơi trên thế giới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>As a result , Japan expert Nicholas Szechenyi at the Center for Strategic and International Studies says any disruption in Japan tends to have a proportional impact in other parts of the world .</s>
+<s id='vn6'>Do đó , Nicholas Szechenyi một chuyên gia người Nhật tại Trung tâm Nghiên cứu Chiến lược và Quốc tế nói bất cứ sự trì trệ nào ở Nhật cũng sẽ có một phần ảnh hưởng nào đó đến những phần còn lại của thế giới .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Japan 's economy is very much integrated with the Asia Pacific region in terms of exports and manufacturing and also with the global supply chain .</s>
+<s id='vn7'>" Nền kinh tế của Nhật có mối quan hệ rất mật thiết với khu vực Châu Á Thái Bình Dương trên những lĩnh vực xuất khẩu , sản xuất và với cả chuỗi cung ứng toàn cầu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>When you talk about the globalization of the international economy , it 's about the production of components of imports and exports , " Szechenyi said .</s>
+<s id='vn8'>Khi bạn nói về toàn cầu hóa của nền kinh tế thế giới tức là bạn đang nói về sự sản xuất của thành tố nhập khẩu và xuất khấu , " Szechenyi nói</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" It 's a very elaborate system and any delays in Japan as a result of this catastrophe can have ripple effects on the international economic . "</s>
+<s id='vn9'>" Đó là một hệ thống rất phức tạp và bất cứ sự trì trệ nào ở Nhật do hậu quả của thiên tai này cũng có thể có hiệu ứng dây chuyền lên nền kinh tế thế giới . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The ripples have had a depressing effect on global stocks , sending oil prices lower and weakening shares in companies with substantial business interests in Japan .</s>
+<s id='vn10'>Những phản ứng dây chuyền này đã có tác động trì trệ đối với chứng khoán toàn cầu , làm giá dầu giảm nhiều hơn nữa và làm giảm giá trị cổ phiếu của những công ty mà có lợi nhuận kinh doanh chủ yếu ở Nhật .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Masaaki Kanno at JP Morgan Securities calls it a dangerous over-reaction fueled by panic-stricken investors .</s>
+<s id='vn11'>Masaaki Kanno của JP Morgan Securities gọi nó là một phản ứng quá đà nguy hiểm gây ra bởi những nhà đầu tư quá hoảng loạn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" And if this vicious cycle starts then actually people 's risk appetite wanes furthermore and nobody knows how far the Nikkei should fall , " Kanno states .</s>
+<s id='vn12'>" Và nếu cái vòng tròn lẩn quẩn này bắt đầu thì thực sự sự ham thích rủi ro của mọi người sẽ giảm hơn nữa và không ai biết được chỉ số Nikkei sẽ giảm đến mức nào " Kanno nói .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The sell-off decimated major indexes in Japan .</s>
+<s id='vn13'>Việc bán ra ồ ạt đã gây tác động xấu đến những chỉ số chính tại Nhật .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Tokyo 's benchmark Nikkei plunged more than 10 percent as investors reacted to the possibility of a Japanese nuclear catastrophe .</s>
+<s id='vn14'>Chỉ số Nikkei của Tokyo đã giảm hơn 10% khi các nhà đầu tư phản ứng lại khả năng xảy ra thảm họa hạt nhân của Nhật Bản .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Traders in Europe and the United States also dumped stocks on Tuesday , although in some cases the markets recovered some of their losses .</s>
+<s id='vn15'>Các nhà đầu tư tại Châu Âu và Mỹ cũng bán chứng khoán ra ồ ạt vào thứ 3 , mặc dù trong một vài trường hợp các thị trường đã lấy lại được một phần những thua lỗ của chúng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The Japanese government has injected nearly $ 250 billion into its financial system to reassure markets , but analysts says the full extent of the quake 's damage in the world 's third largest economy will not be known for some time .</s>
+<s id='vn16'>Chính phủ Nhật đã bơm gần 250 tỷ đô vào hệ thống tài chính của nó nhằm xoa dịu các thị trường nhưng các nhà phân tích nói chúng ta vẫn chưa thế biết hết được mức độ thiệt hại mà trận động đất đã gây ra cho nền kinh tế lớn thứ 3 thế giới này</s>
+</spair>
+</text>
+</doc>

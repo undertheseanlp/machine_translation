@@ -1,0 +1,204 @@
+﻿<doc id='N0813'>
+<head>
+<title>Osteogenesis imperfecta</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Osteogenesis imperfecta</s>
+<s id='vn1'>Bệnh xương thuỷ tinh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is osteogenesis imperfecta ?</s>
+<s id='vn2'>Bệnh xương thuỷ tinh là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Osteogenesis imperfecta ( OI ) is the most common disease causing fractures in childhood .</s>
+<s id='vn3'>Bệnh xương thuỷ tinh ( OI ) là bệnh phổ biến nhất làm gãy xương vào thời thơ ấu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It also causes fractures in adults .</s>
+<s id='vn4'>Nó cũng làm gãy xương ở người lớn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>OI is a genetic disorder usually resulting from abnormalities of the genes , which control the production of a protein called collagen .</s>
+<s id='vn5'>Bệnh xương thuỷ tinh là bệnh di truyền thường do gien dị thường gây ra , gien này kiểm soát việc tạo prô-tê-in được gọi là cô-la-gien .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This is the main protein in bone and essential for its strength .</s>
+<s id='vn6'>Đây là prô-tê-in chính trong xương và rất cần thiết để tạo độ bền .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The fragility of bone in OI is due to the collagen problems .</s>
+<s id='vn7'>Tình trạng xương dễ gãy trong bệnh xương thuỷ tinh là do vấn đề về cô-la-gien .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It has nothing to do with the calcium part of bone , which is what shows up on X-rays .</s>
+<s id='vn8'>Nó chẳng hề liên quan gì đến phần can-xi trong xương , hiện rõ dưới tia X .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>How common are fractures ?</s>
+<s id='vn9'>Khi nào thì bị gãy xương ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Some OI children are born with fractures that have taken place in the womb .</s>
+<s id='vn10'>Một số trẻ mắc bệnh xương thuỷ tinh khi sinh ra thì đã bị gãy xương trong bụng mẹ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Others have their first fractures soon after birth or several years later .</s>
+<s id='vn11'>Những trẻ khác bị gãy các xương đầu tiên ngay sau khi chào đời hoặc vài năm sau .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Some people with OI have so few fractures in childhood that the correct diagnosis is not made .</s>
+<s id='vn12'>Một số người mắc bệnh xương thuỷ tinh bị gãy một số xương từ thời còn thơ ấu , vì vậy mà không thể chẩn đoán chính xác được .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Fractures are difficult to predict , especially in childhood .</s>
+<s id='vn13'>Khó mà đoán được chỗ gãy xương , nhất là lúc còn thơ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Some occur with so little trauma that the usual signs of a fracture may not be seen and the fracture is not identified till some weeks or months later , when an X-ray is done for another reason .</s>
+<s id='vn14'>Một số chỗ gãy xương kèm theo chấn thương nhẹ nên khó mà phát hiện ra những dấu hiệu gãy xương bình thường và chúng ta chỉ thấy được chỗ gãy xương vài tuần hay vài tháng sau , khi được chụp X quang hay vì một lý do nào khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In both sexes and in almost all types of OI the fracture rate diminishes during the teenage years and remains low in adult life .</s>
+<s id='vn15'>Ở cả hai phái và trong hầu hết mọi loại bệnh xương thuỷ tinh thì tỉ lệ gãy xương giảm dần trong thời niên thiếu và tiếp tục giảm khi trưởng thành .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The reason for this is not known .</s>
+<s id='vn16'>Lý do cho vấn đề này vẫn chưa rõ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What other clinical problems can occur ?</s>
+<s id='vn17'>Những vấn đề lâm sàng khác có thể xảy ra là gì ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Besides fractures , there may be problems in other parts of the body .</s>
+<s id='vn18'>Ngoài những chỗ gãy xương , có thể gặp vấn đề ở các bộ phận khác trong cơ thể .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Most of these are the result of the defects of collagen .</s>
+<s id='vn19'>Hầu hết trong số đó là do thiếu cô-la-gien .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The joints may be lax .</s>
+<s id='vn20'>Khớp có thể bị lỏng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The whites of the eyes may be blue or grey .</s>
+<s id='vn21'>Tròng trắng mắt có thể biến thành màu xanh hoặc xám .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The teeth may be discoloured and fragile .</s>
+<s id='vn22'>Răng có thể bị đổi màu và yếu đi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>There may be an increased liability to bruising ( thought to be due to the defective collagen in small blood vessels ) .</s>
+<s id='vn23'>Có thể ngày càng bị thâm tím ( được cho là do cô-la-gien bị khiếm khuyết trong các mạch máu nhỏ ) .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Deafness may occur .</s>
+<s id='vn24'>Có thể bị điếc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Hernias are more common in people with OI.</s>
+<s id='vn25'>Người mắc bệnh xương thuỷ tinh thường hay bị thoát vị hơn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Excessive sweating or intolerance of heat are common complaints .</s>
+<s id='vn26'>Mọi người cũng hay than phiền là đổ mồ hôi quá nhiều hay không chịu được sức nóng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The cause of this is not known .</s>
+<s id='vn27'>Người ta vẫn chưa rõ nguyên nhân của việc này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Growth may be impaired .</s>
+<s id='vn28'>Suy yếu tăng trưởng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Is OI inherited ?</s>
+<s id='vn29'>Bệnh xương thuỷ tinh có di truyền không ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>OI in an individual is present from the time of conception .</s>
+<s id='vn30'>Bệnh xương thuỷ tinh ở một người xuất hiện từ lúc thụ thai .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In some people , mostly those with milder OI , the disorder passes from one generation to another .</s>
+<s id='vn31'>Ở một số người , hầu hết những người mắc bệnh xương thuỷ tinh dạng nhẹ thì bệnh truyền từ thế hệ này sang thế hệ khác .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In others , including most of the patients with severe OI , it arises without any family history .</s>
+<s id='vn32'>Ở những người khác , trong đó có hầu hết người mắc bệnh xương thuỷ tinh dạng nặng thì bệnh này phát sinh không phải do di truyền .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>How is OI diagnosed ?</s>
+<s id='vn33'>Bệnh xương thuỷ tinh được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In most people the diagnosis is made from the pattern of fractures and the finding of any of the associated clinical features , such as blue or grey whites of the eyes .</s>
+<s id='vn34'>Ở hầu hết mọi người thì việc chẩn đoán được thực hiện từ các mẫu xương bị gãy và tìm ra bất kỳ đặc điểm lâm sàng nào có liên quan , như là tròng trắng mắt có màu xanh hoặc xám .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>However , it 's important to recognise that none of these signs may be present and that the diagnosis may be very difficult .</s>
+<s id='vn35'>Tuy nhiên , điều quan trọng là phải công nhận rằng nếu không có dấu hiệu nào trong số đó thì có thể rất khó chẩn đoán .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>In severely affected people , X-rays may show characteristic abnormalities - the result of previous fractures .</s>
+<s id='vn36'>Ở những người bệnh nặng thì tia X có thể cho thấy sự bất thường về tính trạng - hậu quả của việc gãy xương trước đây .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In many people with only mild or moderate OI , the X-rays may appear normal at the time of the first few fractures .</s>
+<s id='vn37'>Ở nhiều người mắc bệnh xương thuỷ tinh dạng nhẹ hay vừa thì hình chụp X quang có thể bình thường khi bị gãy một số xương đầu tiên .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Bone density measurements are usually unhelpful for the diagnosis of OI .</s>
+<s id='vn38'>Đo mật độ xương thường không giúp được gì cho việc chẩn đoán bệnh xương thuỷ tinh .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Two specialised tests are sometimes used for the diagnosis of OI.</s>
+<s id='vn39'>Có hai thử nghiệm chuyên môn đôi khi được dùng để chẩn đoán bệnh xương thuỷ tinh .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>One involves taking a small piece of skin , culturing the cells and chemically examining the collagen produced .</s>
+<s id='vn40'>Một là lấy một miếng da nhỏ , nuôi cấy tế bào và kiểm tra cô-la-gien được tạo ra về phương diện hoá học .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The other uses a blood sample and searches for mutations of the genes coding for the collagen of bone .</s>
+<s id='vn41'>Hai là sử dụng một mẫu máu và nghiên cứu sự đột biến mã gien đối với cô-la-gien trong xương .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>What treatment can be given ?</s>
+<s id='vn42'>Có những cách điều trị nào ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The mainstay of treatment is competent orthopaedic care at the time of fractures , to ensure that each fracture heals in a good position .</s>
+<s id='vn43'>Phương thức điều trị chính là chỉnh hình thích hợp ngay lúc gãy xương , để bảo đảm rằng mỗi chỗ gãy được chữa lành đúng vị trí .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Patients should be mobilised as early as possible to minimise the loss of bone due to immobilisation .</s>
+<s id='vn44'>Nên cho bệnh nhân vận động càng sớm càng tốt để hạn chế tình trạng mất xương do không vận động .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>In some circumstances " rodding " operations , in which fixed metal rods are inserted into the shafts of bones , are very helpful - particularly in children with frequent fractures or appreciable deformity .</s>
+<s id='vn45'>Trong một số trường hợp thì phẫu thuật " nẹp " , trong đó các thanh kim loại cố định hay được chèn vào thân xương , rất có ích - nhất là ở trẻ hay bị gãy xương hoặc dị dạng dễ nhận thấy .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>There is no drug treatment for OI itself .</s>
+<s id='vn46'>Bản thân bệnh xương thuỷ tinh vẫn chưa có thuốc trị .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Various bisphosphonate drugs are widely used and have given encouraging results in some children with the more severe types of OI.</s>
+<s id='vn47'>Nhiều loại thuốc bisphosphonate được dùng rộng rãi và cho kết quả tích cực ở trẻ mắc bệnh xương thuỷ tinh dạng nặng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>There 's no reliable evidence of their value in the milder types of OI or in adults .</s>
+<s id='vn48'>Không có bằng chứng nào đáng tin cậy về tác dụng của chúng với bệnh xương thuỷ tinh dạng nhẹ hoặc ở người lớn .</s>
+</spair>
+</text>
+</doc>

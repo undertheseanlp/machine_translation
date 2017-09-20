@@ -1,0 +1,284 @@
+﻿<doc id='N0868'>
+<head>
+<title>5 Ways to Keep Your Google Private Browsing</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Ways to Keep Your Google Private Browsing</s>
+<s id='vn1'>5 Cách biến việc duyệt web với Google trở nên riêng tư</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Google 's one unified privacy policy went into effect on March 1 .</s>
+<s id='vn2'>Chính sách hợp nhất tất cả các điều khoản bảo mật của Google đã có hiệu lực hôm 1/3 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The new privacy policy makes it easier for Google to bring user data across its services , but the actual privacy preferences remained unchanged .</s>
+<s id='vn3'>Chính sách bảo mật mới này tạo điều kiện dễ dàng hơn cho Google trong việc đưa dữ liệu người dùng qua các dịch vụ của hãng , nhưng những tùy chọn bảo mật thực tế vẫn không đổi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Google has integrated search , email , YouTube , social and work .</s>
+<s id='vn4'>Google đã tích hợp dịch vụ Tìm kiếm , Gmail , YouTube , mạng xã hội và công việc với nhau .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The few exceptions to the unified privacy policy include Books , Chrome and Wallet , as those each have industry-specific laws in place .</s>
+<s id='vn5'>Một vài ngoại lệ đối với chính sách bảo mật này bao gồm Google Sách , Chrome và Wallet , vì những dịch vụ này có luật riêng của từng ngành .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>With the unified privacy policy in mind , and the idea that your browsing history could be used against you , is it even possible to keep your information private ?</s>
+<s id='vn6'>Liệu còn có thể giữ kín thông tin của bạn với chình sách bảo mật hợp nhất này và ý nghĩ cho rằng lịch sử duyệt web của bạn có thể được sử dụng chống lại bạn ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>We spoke with two security experts , Security Evangelist Stephen Cobb of security solutions provider ESET , and Alisdair Faulkner , chief products officer of cybercrime defender platform ThreatMatrix , to get a better idea of what you can do to keep your browsing history as private as possible .</s>
+<s id='vn7'>Chúng tôi đã trò chuyện với hai các chuyên gia an ninh , Stephen Cobb đến từ nhà cung cấp giải pháp an ninh ESET và Alisdair Faulkner , giám   đốc sản phẩm của nền tảng phòng chống tội phạm mạng ThreatMatrix , để tìm hiểu thêm về những gì bạn có thể làm để giữ lịch sử duyệt web của bạn riêng tư hết mức có thể .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" If you are very concerned about privacy , you can go to considerable lengths to hide what you are doing with Google , " says Cobb .</s>
+<s id='vn8'>" Nếu bạn lo lắng về sự riêng tư của mình , bạn có thể cố gắng hết sức để che giấu những gì bạn đang thực hiện với Google , " Cobb nói .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" But you ca n't dictate your behavior based on your privacy settings . "</s>
+<s id='vn9'>" Nhưng bạn không thể kiểm soát hành vi của mình dựa trên các thiết lập quyền riêng tư " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Tip # 1 : Sign Out of Google When You 're Done</s>
+<s id='vn10'>Thủ thuật 1 : Đăng xuất khỏi Google khi bạn không dùng nữa</s>
+</spair>
+<spair id='11'>
+<s id='en11'>This seems way too simple .</s>
+<s id='vn11'>Việc này dường như quá dễ làm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>So simple , in fact , that it 's easy to forget , especially if you 're in a rush to leave the office .</s>
+<s id='vn12'>Thật ra , nó rất dễ quên , nhất là khi bạn vội vã bỏ đi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Rea dy ?</s>
+<s id='vn13'>Bạn sẵn sàng chưa ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Sign out of your Google account .</s>
+<s id='vn14'>Hãy đăng xuất tài khoản Google của bạn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" If you 're going into a Web browser and Google has logged you in , Google is collecting cookies , " says Cobb .</s>
+<s id='vn15'>" Nếu bạn vào một trình duyệt web và đã đăng nhập Google thì Google sẽ thu thập cookies , " Cobb nói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" But you should log out first of all , and then it wo n't know if it 's you using the browser . "</s>
+<s id='vn16'>" Nhưng trước tiên bạn nên đăng xuất , như vậy Google sẽ không biết có phải chính bạn đang sử dụng trình duyệt đó hay không . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>But even if you 're logged out , Google will still be able to see your computer 's IP address .</s>
+<s id='vn17'>Nhưng cho dù bạn đã đăng xuất , Google sẽ vẫn có thể biết địa chỉ IP máy tính của bạn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Tip # 2 : Turn on Private Browsing in Your Web Browser</s>
+<s id='vn18'>Thủ thuật 2 : Bật chế độ duyệt web riêng tư trong trình duyệt web</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Go into private browsing mode , " says Faulkner .</s>
+<s id='vn19'>" Hãy sử dụng chế độ duyệt web riêng tư , " Faulkner nói .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" That way , if you 're a closet Justin Bieber fan , you can search for Bieber and still return to your regular browsing later . "</s>
+<s id='vn20'>" Bằng cách này , nếu bạn là fan hâm mộ thầm kín của Justin Bieber , bạn có thể tìm kiếm thông tin về anh ta và sau đó quay lại chết độ duyệt web thông thường . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In Google Chrome , switch it to " incognito browsing , "</s>
+<s id='vn21'>Trong Google Chrome , hãy chuyển sang chế độ " incognito browsing " .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>It means that the pages you search wo n't appear in your browser history or search history .</s>
+<s id='vn22'>Như vậy , những trang bạn tìm kiếm sẽ không xuất hiện trong lịch sử trình duyệt hay lịch sử tìm kiếm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>They also wo n't leave traces like cookies on your computer .</s>
+<s id='vn23'>Chúng cũng không để lại dấu vết như cookies trên máy tính của bạn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>But even if you do go " incognito , " websites may still collect or share information about you .</s>
+<s id='vn24'>Nhưng cho dù bạn thật sự dùng chế độ " incognito " , các trang web vẫn có thể thu thập hoặc chia sẻ thông tin về bạn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Incognito keeps Google Chrome from storing information about you , but it does n't mean that you 're safe from other sites .</s>
+<s id='vn25'>Chế độ " incognito " ngăn Google Chrome lưu trữ thông tin về bạn , nhưng điều này không có nghĩa là bạn an toàn với các trang khác .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>On Firefox , you can turn on private browsing and " do not track " .</s>
+<s id='vn26'>Trên Firefox , bạn có thể bật chế độ duyệt web riêng tư và " do not track " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Similarly , in Safari , Opera and IE9 , turn on " in private . "</s>
+<s id='vn27'>Tương tự , trên Safari , Opera và IE9 , bạn cũng hãy bât chế độ " in private " .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The private browsing features erase your cookies after you close the window .</s>
+<s id='vn28'>Tính năng duyệt web riêng tư sẽ xoá hết cookies sau khi bạn đóng cửa sổ trình duyệt .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>If you 're on an iPhone , go into Settings > Safari , and turn on private browsing .</s>
+<s id='vn29'>Trên i Phone , bạn vào Settings > Safari , và bật chế duyệt web riêng tư .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" The private mode can help , but you have to be careful when you are in private browsing mode , " says Alistar .</s>
+<s id='vn30'>" Chế độ duyệt web riêng tư có thể hữu ích , nhưng bạn phải cẩn thận khi bạn sử dụng chế độ này " ,   Alistar nói .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" So while you 're still in private browsing mode , it 's liable to track your behavior . "</s>
+<s id='vn31'>" Vì vậy trong khi bạn vẫn còn ở chế độ duyệt web riêng tư , nó vẫn có thể theo dõi hành vi của bạn . "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>If you really want to play it safe , do n't use Google .</s>
+<s id='vn32'>Nếu bạn thật sự muốn duyệt web an toàn thì đừng sử dụng Google .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Try a search engine like DuckDuckGo .</s>
+<s id='vn33'>Hãy thử công cụ tìm kiếm khác như DuckDuckGo .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It says up front that it does not track or bubble you .</s>
+<s id='vn34'>Công cụ này cho biết sẽ không theo dấu bạn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Tip # 3 : Go Anonymous With Anonymizer or Tor</s>
+<s id='vn35'>Thủ thuật 3 : Ẩn danh với Anonymizer hay Tor</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" If you want to run your Internet connection through something like Anonymizer , then Google wo n't be able to see your IP address , " says Cobb .</s>
+<s id='vn36'>" Nếu bạn muốn kết nối internet qua trung gian , ví dụ như phầm mềm Anonymizer , thì Google sẽ không thể thấy địa chỉ IP của bạn , " Cobb nói .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Anonymizer hides your IP connection , protecting all of your Internet activity no matter where you are or what network you 're using .</s>
+<s id='vn37'>Anonymizer sẽ giấu kết nối IP của bạn , bảo vệ toàn bộ hoạt động trên internet của bạn bất kể bạn đang ở đâu hoặc bạn đang sử dụng mạng gì .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Tor , which you can find on torproject.org , is a free software and open network that defends against network surveillance , keeping you anonymous around the Web .</s>
+<s id='vn38'>Tor , có thể tải từ trang torproject.org , là phần mềm miễn phí và là mạng mở giúp phòng chống giám sát mạng , giúp bạn ẩn danh trong môi trường web .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" Tor and TorProject were developed with people in repressive regimes in mind , to ensure anonymity , " says Cobb .</s>
+<s id='vn39'>" Tor và TorProject được phát triển đối phó với việc kiểm duyệt web gắt gao nhằm đảm bảo tình trạng ẩn danh " Cobb nói .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" It ensures that what you 're searching for is not seen . "</s>
+<s id='vn40'>" Nó bảo đảm rằng sẽ không ai thấy những gì bạn đang tìm kiếm . "</s>
+</spair>
+<spair id='41'>
+<s id='en41'>These are for people who do n't want what they 're doing on the Internet to be tracked back to their IP address . "</s>
+<s id='vn41'>Hai tiện ích này dành cho những người không muốn hoạt động trên internet của họ bị truy về địa chỉ IP của mình " .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Disconnect .Me believes that a user 's personal info should " be treated with respect , that you should be the steward of your digital self , and that you should own your own data . "</s>
+<s id='vn42'>Disconnect.Me tin rằng thông tin cá nhân của người dùng nên " được tôn trọng , bạn nên là người quản lý cá nhân số của mình , và bạn nên là người sở hữu dữ liệu của riêng mình " .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The platform aims to put users back in charge , allowing them to decide who actually does what with their online data .</s>
+<s id='vn43'>Nền tảng này cố gắng trả lại quyền làm chủ cho người dùng , cho phép họ quyết định những ai thật sự có thể làm gì với dữ liệu trực tuyến của mình .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Disconnect .Me is a browser plu gin , quickly installed .</s>
+<s id='vn44'>Disconnect.Me là một plugin cho trình duyệt có thể cài đặt nhanh chóng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>In Chrome , users can manage it through the Extensions option in the Window menu.</s>
+<s id='vn45'>Trên Chrome , người dùng có thể quản lý nó thông qua tùy chọn Tools > Extensions .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The makers of Disconnect.Me also created Facebook Disconnect .</s>
+<s id='vn46'>Tác giả Disconnect.Me cũng là người tạo ra Facebook Disconnect .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>This is not Google Search per se , but with the massive integration of Facebook Connect .</s>
+<s id='vn47'>Phầm mềm này không phải dành cho Google Tìm kiếm , mà là Facebook Connect .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>It 's important not to overlook the information that Facebook , too , is gathering on you .</s>
+<s id='vn48'>Điều quan trọng là không bỏ qua những thông tin mà Facebook cũng đang thu thập về bạn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Facebook is notified when a user visits a site on the Web that uses Facebook Connect , which also has a slippery history of leaking info to third parties .</s>
+<s id='vn49'>Facebook sẽ được thông báo khi người dùng đến một trang web sử dụng Facebook Connect , một dịch vụ cũng từng có tiền sử tiết lộ thông tin cho các bên thứ ba .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Tip # 4 : Use a VPN</s>
+<s id='vn50'>Thủ thuật 4 : Sử dụng VPN ( mạng riêng ảo )</s>
+</spair>
+<spair id='51'>
+<s id='en51'>" VPNs are becoming another tool , " says Faulkner .</s>
+<s id='vn51'>" VPN sẽ là một công cụ khác , " Faulkner nói .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" Using a VPN makes it harder to track someone back to the originating endpoint .</s>
+<s id='vn52'>" Sử dụng VPN giúp cản trở việc truy dấu ai đó về điểm cuối ban đầu .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>They 're harder to bypass . "</s>
+<s id='vn53'>Việc này sẽ khó thực hiên hơn . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>AnchorFree is essentially a VPN to the user 's IP address , so your IP address is theirs and your real IP address is hidden .</s>
+<s id='vn54'>AnchorFree cơ bản là một VPN kết nối đến địa chỉ IP của bạn sao cho địa chỉ IP của bạn trở thành địa chỉ IP của họ còn địa chỉ IP thực sự được giấu đi .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It makes sure that every page you visit is as secure as a banking site , turning HTTP traffic into HTTP( S ) .</s>
+<s id='vn55'>Nó bảo đảm mỗi trang bạn truy cập đều an toàn như các trang web của ngân hàng , biến giao thức HTTP thành HTTPS .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>AnchorFree also detects and blocks mal ware , including malware sites , illegal or phishing sites , infected sites , and spam sites and content farms .</s>
+<s id='vn56'>AnchorFree cũng phát hiện và chặn mã độc bao gồm các trang chứa mã độc , các trang bất hợp pháp hoặc lấy trộm thông tin cá nhân , các trang nhiễm vi-rút , và các trang chứa thư rác và content farm .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>It is available on iPhone , Mac , Android and Windows .</s>
+<s id='vn57'>Phầm mềm này có trên i Phone , Mac , Android và Windows .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Anonymizer , the service we mentioned above , also uses a VPN tunnel to make online activities private and secure .</s>
+<s id='vn58'>Anonymizer , dịch vụ mà chúng tôi đề cập ở trên , cũng sử dụng một VPN để làm hoạt động trực tuyến trở nên riêng tư nhân và an toàn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Tip # 5 : Adjust Your Google Web History Settings</s>
+<s id='vn59'>Thủ thuật 5 : Điều chỉnh thiết lập Lịch sử Web của Google</s>
+</spair>
+<spair id='60'>
+<s id='en60'>" Go into your Google Dashboard and look at the , adjusting them to limit the amount of information Google collects , " says Cobb .</s>
+<s id='vn60'>" Vào Google Dashboard và tìm Google privacy settings , điều chỉnh giới hạn lượng thông tin mà Google thu thập , " Cobb nói .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" Private browsing features erase your cookies after you close that window . "</s>
+<s id='vn61'>" Tính năng duyệt web riêng tư sẽ xoá hết cookies sau khi bạn đóng cửa sổ trình duyệt . "</s>
+</spair>
+<spair id='62'>
+<s id='en62'>This will at least ensure that your Web history is n't constantly being stored by Google forever .</s>
+<s id='vn62'>It nhất việc này sẽ bảo đảm rằng lịch sử web của bạn không được Google lưu trữ mãi mãi .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Go to Account Settings in your email .</s>
+<s id='vn63'>Vào Account Settings ( Thiết lập Tài khoản ) trong Gmail .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Scroll down to " View , enable , or disable Web history , " and click on " Go to Web history . "</s>
+<s id='vn64'>Cuộn xuống " View , enable , or disable Web history " ( Xem , kích hoạt , hoặc vô hiệu hoá lịch sử web ) và chọn " Go to Web history " ( Đến lịch sử web ) . "</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Go to " Learn More " and then " Remove Items from your Web History . "</s>
+<s id='vn65'>Sau đó chọn " Learn More " rồi chọn " Remove Items from your Web History " . "</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Log in to your web history , and select " Remove all Web History . "</s>
+<s id='vn66'>Đăng nhập vào lịch sử web của bạn , và chọn " Remove all Web History " .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Disabling this Web history does n't prevent Google from gathering and storing information for its internal purposes , but it might make you feel more at ease .</s>
+<s id='vn67'>Vô hiệu hoá lịch sử web không thể ngăn cản Google thu thập và lưu trữ thông tin vì những mục đích nội bộ của hãng , nhưng nó có thể làm bạn cảm thấy thoải mái hơn .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>According to the DailyMail UK , Google will anonymize this data in 18 months ' time .</s>
+<s id='vn68'>Theo tờ DailyMail UK , Google sẽ nặc danh hoá dữ liệu này trong 18 tháng nữa .</s>
+</spair>
+</text>
+</doc>

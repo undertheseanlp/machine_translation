@@ -1,0 +1,64 @@
+﻿<doc id='N0330'>
+<head>
+<title>Security Key Concern in Cloud Computing</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Security Key Concern in Cloud Computing</s>
+<s id='vn1'>Chìa khóa an toàn liên quan đến điện toán đám mây</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Security Key Concern in Cloud Computing</s>
+<s id='vn2'>Chìa khóa an toàn liên quan đến điện toán đám mây</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A recent survey by Unisys is reinforcing what others have found : that security remains the top issue of enterprises when considering cloud computing .</s>
+<s id='vn3'>Một cuộc khảo sát gần đây của Unisys đang củng cố những gì mà người khác đã tìm thấy : rằng an ninh vẫn là vấn đề hàng đầu của các doanh nghiệp khi xem xét đến điện toán đám mây .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Survey results released by Unisys Sept. 15 found that 312 respondents , 51 percent cited security and data privacy as their top concern regarding the cloud .</s>
+<s id='vn4'>Kết quả khảo sát được công bố bởi Unisys vào ngày 15 cho thấy rằng 51% trong số 312 người trả lời là an ninh và bảo mật dữ liệu như là mối quan tâm hàng đầu của họ về " đám mây " .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The other major were integrating cloud-based applications with existing systems the ability bring systems back in - house and regulatory compliance concerns .</s>
+<s id='vn5'>những vấn đề quan trọng khác đang được tích hợp các ứng dụng " đám mây với các hệ thống hiện có khả năng mang hệ thống quay trở lại trong tổ chức và các mối quan tâm tuân thủ quy định .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" These poll results confirm what we continue to hear from our clients as well as industry analysts , " Sam Gross , vice president of global IT outsourcing solutions , said in a statement .</s>
+<s id='vn6'>" Các kết quả thăm dò ý kiến này xác nhận rằng những gì chúng tôi tiếp tục nghe từ các khách hàng của chúng tôi cũng như các nhà phân tích công nghiệp , " Sam Gross , phó giám đốc về các giải pháp gia công phần mềm CNTT toàn cầu cho biết trong một tuyên bố .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Until they are convinced that there is " industrial-strength " security in the cloud , CIOs will remain reluctant to move more than development and test systems into that environment . "</s>
+<s id='vn7'>" Cho đến khi họ được thuyết phục rằng có sự an toàn " sức mạnh công nghiệp " trong điện toán đám mấy , các CIO sẽ vẫn miễn cưỡng bước đi sâu hơn trong việc phát triển và các hệ thống thử nghiệm trong môi trường này . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The responses to Unisys ' survey echo that were received in similar studies .</s>
+<s id='vn8'>Các hưởng ứng đến cuộc điều tra của Unisys lặp lại với những người đã thừa nhận trong các nghiên cứu tương tự .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>For example , a survey of 500 IT professionals from around the world conducted by IT consultancy Avanade found that , by a 5-1 ratio , respondents trusted in-house systems to those in the cloud because of security and loss-of-control issues .</s>
+<s id='vn9'>Ví dụ , một cuộc khảo sát của 500 chuyên gia CNTT từ khắp nơi trên thế giới được tư vấn CNTT Avanade tiến hành cho thấy một tỷ lệ 5-1 trả lời rằng các hệ thống trong tổ chức là đáng tin cậy cho " đám mây " là do các vấn đề kiểm soát mất mát dữ liệu và an ninh .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Application delivery networking vendor F5 Networks in August released survey results that found that 99 percent of the 250 IT professionals surveyed were either discussing or implementing a public or private compute cloud , but respondents also said access control and security were key technologies necessary for cloud .</s>
+<s id='vn10'>Nhà cung cấp mạng lưới phân phối ứng dụng F5 Networks vào tháng 8 đã phát hành các kết quả khảo sát cho thấy rằng 99 phần trăm trong 250 chuyên gia CNTT được khảo sát đã thảo luận hoặc là triển khai một dịch vụ điện toán đám mây riêng hoặc công cộng , nhưng những người trả lời cũng cho biết an ninh và kiểm soát truy cập là những công nghệ then chốt rất cần thiết thông qua " đám mây " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Vendors - including Unisys - are trying to bulk up the security for the burgeoning computing model .</s>
+<s id='vn11'>Các nhà cung cấp bao gồm cả Unisys đang cố gắng tăng cường an ninh cho các mô hình điện toán đang phát triển này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In June , Unisys unveiled a cloud computing strategy includes a patent-pending security technology code-named " Stealth . "</s>
+<s id='vn12'>Vào tháng 6 , Unisys đã công bố một chiến lược điện toán đám mây bao gồm một công nghệ bảo mật đang chờ cấp bằng sáng chế với tên mã là " Stealth " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Unisys initially created Stealth several years ago for government agencies looking to secure their data and now is aiming that technology private public and hybrid clouds .</s>
+<s id='vn13'>Unisys ban đầu đã tạo ra Stealth vài năm trước đây cho các cơ quan chính phủ tìm cách bảo mật dữ liệu của họ và giờ đây đang hướng công nghệ riêng , đám mây công cộng và đám mây lai .</s>
+</spair>
+</text>
+</doc>

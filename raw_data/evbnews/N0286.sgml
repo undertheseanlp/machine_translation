@@ -1,0 +1,72 @@
+﻿<doc id='N0286'>
+<head>
+<title>Dioxin animal feed scare shuts German farms</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Dioxin animal feed scare shuts German farms</s>
+<s id='vn1'>Nỗi lo sợ về thức ăn cho động vật chứa đi-ô-xin làm cho nhiều trang trại ở Đức phải đóng cửa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>More than 4,700 German farms have been closed after large amounts of animal feed were found to be contaminated with dioxin , a poisonous chemical .</s>
+<s id='vn2'>Hơn 4.700 trang trại ở Đức bị đóng cửa sau khi rất nhiều thức ăn cho động vật bị phát hiện nhiễm đi-ô-xin , một hoá chất độc hại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Officials insist the levels of dioxin do not pose a risk to humans , and that the closures are only a precaution .</s>
+<s id='vn3'>Các quan chức nhấn mạnh mức độ đi-ô-xin không gây nguy hiểm cho con người , và việc đóng cửa chỉ là một biện pháp đề phòng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Most of the affected farms are in Lower Saxony region , northwest Germany .</s>
+<s id='vn4'>Hầu hết các trang trại bị ảnh hưởng ở vùng Lower Saxony , tây bắc nước Đức .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Meanwhile , the EU has warned that eggs from farms affected by dioxin have entered the UK in processed products destined for human food .</s>
+<s id='vn5'>Trong khi đó , EU đã cảnh báo là trứng của các trang trại nhiễm đi-ôxin đã vào Vương quốc Anh trong các sản phẩm được xử lý làm thực phẩm cho con người .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Last week , more than 1,000 farms were banned from selling eggs after dioxin was found in eggs and poultry .</s>
+<s id='vn6'>Tuần trước , hơn 1.000 trang trại bị cấm bán trứng sau khi người ta phát hiện trong trứng và thịt gia cầm có chứa đi-ô-xin .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Dioxin is linked to the development of cancer in humans .</s>
+<s id='vn7'>Đi-ô-xin liên quan đến việc phát triển ung thư ở con người .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It is believed that this poison reached the animal feed after being distributed by a company in northern Germany which supplies additives for animal feed .</s>
+<s id='vn8'>Người ta cho là chất độc này có trong thức ăn cho động vật sau khi được phân phối bởi một công ty cung cấp phụ gia cho thức ăn động vật ở miền bắc Đức .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The dioxin was discovered in late December , but the extent of the problem was only revealed earlier this week when German officials said 3,000 tonnes of feed had been affected .</s>
+<s id='vn9'>Đi-ô-xin được phát hiện vào cuối tháng mười hai , nhưng mức độ ảnh hưởng của vấn đề chỉ được tiết lộ vào đầu tuần này khi các quan chức Đức nói rằng 3.000 tấn thức ăn bị nhiễm chất này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Germany 's agriculture ministry said on Thursday that most of the closed farms were ones raising pigs .</s>
+<s id='vn10'>Hôm thứ năm , Bộ Nông nghiệp Đức đã nói rằng hầu hết các trang trại bị đóng cửa là các trang trại nuôi heo .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>This ministry said the farms would not be allowed to make any deliveries until they had been checked and found to be clear of contamination .</s>
+<s id='vn11'>Bộ này đã nói rằng các trang trại sẽ không được phép giao bất kỳ hàng nào cho đến khi họ được kiểm tra và không còn bị phát hiện nhiễm bệnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>And European Commission health spokesman Frederic Vincent told a news conference how this problem had now reached Britain .</s>
+<s id='vn12'>Và Frederic Vincent - phát ngôn viên y tế thuộc Uỷ ban châu Âu - đã nói trong một cuộc họp báo hiện nay vấn đề này đã ảnh hưởng đến nước Anh bằng cách nào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Those eggs were then processed and then exported to the United Kingdom ... as a 14-tonne consignment of pasteurised product for consumption , " he said .</s>
+<s id='vn13'>" Sau đó trứng được xử lý rồi xuất khẩu sang Vương quốc Anh … khi ký gửi 14 tấn sản phẩm được tiệt trùng dành cho tiêu dùng , " ông nói .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Whether it went into mayonnaise , pastries , I do n't know .</s>
+<s id='vn14'>" Nó có được chế biến thành sốt ma-i-on-ne hoặc bột nhão hay không thì tôi không biết .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>So we will probably take a look at this with the UK authorities and see what was done with these eggs . "</s>
+<s id='vn15'>Vì vậy có thể chúng tôi sẽ xem xét vấn đề này với các nhà chức trách Vương quốc Anh và xem là món gì được làm từ các quả trứng này . "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,152 @@
+﻿<doc id='N0879'>
+<head>
+<title>Google Drive , SkyDrive vs. Dropbox</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google Drive , SkyDrive vs. Dropbox</s>
+<s id='vn1'>Google Drive , SkyDrive và Dropbox</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Yesterday , Microsoft unleashed a desktop sync app for SkyDrive .</s>
+<s id='vn2'>Hôm qua , Microsoft vừa cho ra mắt ứng dụng đồng bộ dữ liệu SkyDrive dành cho máy tính bàn .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Today , Google followed by finally launching Google Drive — after a series of early appearances hinted that it was going to be arriving very , very soon .</s>
+<s id='vn3'>Hôm nay , cuối cùng thì Google cũng công bố dịch vụ Google Drive – sau nhiều lần lộ diện trước đây như ngụ ý rằng dịch vụ sẽ được ra mắt rất , rất sớm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>So how do the two new services stack up with the current king of cloud storage and sync , Dropbox ?</s>
+<s id='vn4'>Hai dịch vụ mới này sẽ làm thế nào để bắt kịp ông hoàng dịch vụ lưu trữ và đồng bộ dữ liệu trực tuyến , Dropbox ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Let 's take a look .</s>
+<s id='vn5'>Chúng ta hãy cùng tìm hiểu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Free Storage</s>
+<s id='vn6'>Dung lượng miễn phí</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In terms of disk space in the cloud , SkyDrive offers you the most bang for your non-buck .</s>
+<s id='vn7'>Xét về dung lượng lưu trữ trực tuyến , SkyDrive cung cấp dung lượng miễn phí lớn nhất .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>While there are other ways to bump up your Dropbox storage without paying , all new SkyDrive users get the full 7GB from the get-go .</s>
+<s id='vn8'>Mặc dù vẫn có cách để tăng dung lượng trên Dropbox mà không phải trả phí nhưng tất cả người dùng SkyDrive đăng ký mới đều được tặng tới 7GB ngay từ đầu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Better still , if you 're an existing SkyDrive user and you install the new app you 'll get a whopping 25GB at no charge .</s>
+<s id='vn9'>Thậm chí nếu trước đó bạn đã có tài khoản SkyDrive và bạn cài ứng dụng vừa ra mắt nói trên , bạn sẽ có được dung lượng miễn phí lên đến 25GB .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Additional Storage</s>
+<s id='vn10'>Dung lượng bổ sung</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Worried those base storage amounts wo n't cut the mustard ?</s>
+<s id='vn11'>Bạn đang lo dung lượng ban đầu sẽ không đủ cho bạn ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Not to fear .</s>
+<s id='vn12'>Đừng lo .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>All three services offer paid upg rades .</s>
+<s id='vn13'>Cả ba dịch vụ đều có tính năng nâng cấp tính phí .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Once again , SkyDrive offers the best deal — with an additional 100GB of space coming in at $ 10 less than it would run you on Google Drive .</s>
+<s id='vn14'>Một lần nữa , SkyDrive mang đến lựa chọn tốt nhất – cung cấp thêm cho bạn 100GB dung lượng với giá 10 đô-la Mỹ , rẻ hơn Google Drive .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Dropbox might need to re-examine their pricing at this point , since they 're by far the most expensive platform now .</s>
+<s id='vn15'>Hiện tại , có lẽ Dropbox cần xem xét lại bảng giá của mình , bởi lẽ đây là nền tảng tính phí cao nhất , bỏ xa các đối thủ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It 's worth noting that upgrading to any paid account with Google Drive will automatically bump your Gmail storage to 25GB.</s>
+<s id='vn16'>Đáng chú ý là nếu bạn nâng cấp lên bất kỳ tài khoản Google Drive trả phí nào , dung lượng lưu trữ trên Gmail của bạn sẽ tự động tăng đến 25GB .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Selective Sync</s>
+<s id='vn17'>Đồng bộ dữ liệu có chọn lọc</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Microsoft said they wanted to keep the SkyDrive app as straightforward and easy to use as possible .</s>
+<s id='vn18'>Microsoft cho biết hãng muốn ứng dụng SkyDrive càng đơn giản và dễ sử dụng càng tốt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Unfortunately , that means there 's no option to choose which folders you want to synchronize — everything in your SkyDrive folder is fair game .</s>
+<s id='vn19'>Đáng tiếc , điều này cũng đồng nghĩa với việc bạn không có quyền lựa chọn folder nào để đồng bộ - mọi folder trên SkyDrive của bạn đều như nhau .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Both Dropbox and Google Drive give you control over which files you want to sync on your connected systems .</s>
+<s id='vn20'>Cả Dropbox và Google Drive đều cho phép bạn kiểm soát tập tin mà bạn muốn đồng bộ trên hệ thống kết nối của mình .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Platform Support</s>
+<s id='vn21'>Nền tảng hỗ trợ</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Both Microsoft and Google released apps for their own mobile platforms while simultaneously snubbing each other 's .</s>
+<s id='vn22'>Cả hai Microsoft và Google đều đã công bố ứng dụng cho nền tảng di động riêng của mình và đồng thời tẩy chay nền tảng của nhau .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>All three services offer iOS , Windows , and Mac apps , but Dropbox is the one to use if you run a Linux system or own a BlackBerry smartphone .</s>
+<s id='vn23'>Cả ba dịch vụ đều có ứng dụng dành cho i OS , Windows , và Mac , nhưng Dropbox là dịch vụ bạn nên dùng nếu bạn sử dụng hệ điều hành Linux hoặc sở hữu điện thoại Blackberry .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Ecosystem</s>
+<s id='vn24'>Hệ sinh thái</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If you work with Microsoft Office files on a regular basis and need 100 % compatibility , SkyDrive might be the best choice due to its tight connection with the Office Web Apps .</s>
+<s id='vn25'>Nếu bạn thường xuyên làm việc với các tập tin Microsoft Office và cần tương thích 100% thì SkyDrive có thể là lựa chọn tốt nhất nhờ kết nối chặt chẽ với các ứng dụng Office nền web của Microsoft .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For Google Docs or OpenOffice users , however , either Google Drive or SkyDrive will fit the bill .</s>
+<s id='vn26'>Đối với người dùng Google Docs hoặc OpenOffice thì cả Google Drive và SkyDrive đều có thể đáp ứng yêu cầu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Dropbox , of course , is just a storage , sharing , and sync platform — but you can still work with your files in the cloud thanks to support from web apps like Zoho .</s>
+<s id='vn27'>Dĩ nhiên , Dropbox chỉ là một nền tảng lưu trữ , chia sẻ , và đồng bộ dữ liệu – nhưng bạn vẫn có thể làm việc với tập tin lưu trữ trực tuyến của mình nhờ sự hỗ trợ từ những ứng dụng nền web như Zoho .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>3rd party app integration is one area where Dropbox really shines .</s>
+<s id='vn28'>Tích hợp ứng dụng bên thứ ba là lĩnh vực mà Dropbox thật sự vượt trội .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It 's been much more widely adopted by developers than SkyDrive .</s>
+<s id='vn29'>Dịch vụ này được nhiều nhà phát triển ứng dụng sử dụng hơn là SkyDrive .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Even though it should be a simple task for devs to tweak apps that support Google Docs storage to support Google Drive , Dropbox will probably maintain their lead in this area at least for a little while .</s>
+<s id='vn30'>Mặc dù việc tinh chỉnh ứng dụng hỗ trợ Google Docs để chúng cũng hỗ trợ Google Drive đơn giản thôi , nhưng có thể Dropbox vẫn sẽ tiếp tục dẫn đầu trong lĩnh vực này ít nhất là trong một thời gian nữa .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>We 'll see what happens in the coming months .</s>
+<s id='vn31'>Chúng ta sẽ biết được chuyện gì sẽ xảy ra trong thời gian tới .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Summing Up</s>
+<s id='vn32'>Kết luận</s>
+</spair>
+<spair id='33'>
+<s id='en33'>So , which service is the one to choose ?</s>
+<s id='vn33'>Vậy bạn chọn dịch vụ nào ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>There 's no one-siz​e fits all solution when it comes to cloud storage and sync apps , but fortunately there are plenty of good options out there .</s>
+<s id='vn34'>Sẽ không có giái pháp một - cho-tất-cả khi nói đến dịch vụ lưu trữ đám mây và ứng dụng đồng bộ dữ liệu , nhưng may mắn thay , cũng có nhiều lựa chọn tốt cho bạn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>With Microsoft and Google entering the fray , there 's one thing that you can bank on : your app of choice is only going to get better ( and probably cheaper ) thanks to all the extra competition .</s>
+<s id='vn35'>Microsoft và Google vừa nhập cuộc , có một điều mà bạn có thể trông đợi : ứng dụng mà bạn chọn sẽ ngày càng tốt hơn ( và có thể là rẻ hơn ) nhờ có các đối thủ cạnh tranh khác .</s>
+</spair>
+</text>
+</doc>

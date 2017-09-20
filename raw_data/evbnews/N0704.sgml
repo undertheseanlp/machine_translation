@@ -1,0 +1,92 @@
+﻿<doc id='N0704'>
+<head>
+<title>Potatoes can reduce blood pressure</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Potatoes can reduce blood pressure</s>
+<s id='vn1'>Khoai tây có thể giảm huyết áp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Just a couple of servings of potato a day can reduce blood pressure in obese or overweight people with high blood pressure , calling into question the lowly spud 's current reputation as a fattening , unhealthy food , according to new research presented at a conference in Denver , Colorado , USA , on Wednesday .</s>
+<s id='vn2'>Chỉ cần ăn khoai tây một vài lần mỗi ngày có thể làm giảm huyết áp ở những người béo phì hoặc thừa cân có huyết áp cao , đặt ra nghi vấn về quan niệm hiện thời cho rằng khoai tây là một thực phẩm làm béo phì và không tốt cho sức khoẻ , theo một nghiên cứu mới được trình bày tại một hội nghị ở Denver , Colorado , Mỹ , vào hôm thứ Tư .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" The potato , more than perhaps any other vegetable , has an undeserved bad reputation that has led many health-conscious people to ban them from their diet , " said Dr Joe Vinson , a professor in the Department of Chemistry at the University of Scranton in Pennsylvania , who led the research that was presented at the 242nd National Meeting & Exposition of the American Chemical Society ( ACS ) .</s>
+<s id='vn3'>" Khoai tây , có lẽ hơn bất cứ một rau củ nào khác , bị tiếng xấu một cách không công bằng đã khiến nhiều người dân có ý thức về sức khỏe đã loại bỏ khoai tây ra khỏi chế độ ăn uống của họ " , theo Tiến sĩ Joe Vinson , giáo sư Khoa Hóa tại Đại học Scranton ở Pennsylvania , trưởng nhóm nghiên cứu đã được trình bày tại Hội nghị quốc gia lần thứ 242 và triển lãm của Hội Hóa học Mỹ ( ACS ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But before you go out and order French fries , the preferred way of eating this most consumed of all vegetables in the US , consider this : the research was done with purple potatoes cooked in the microwave oven , with no oil or fat whatsoever .</s>
+<s id='vn4'>Nhưng trước khi bạn ra ngoài và gọi món khoai tây chiên giòn , cách được ưa thích nhiều nhất khi tiêu thụ món này ở Hoa Kỳ , hãy cân nhắc điều này : nghiên cứu đã được thực hiện với khoai tây tím nấu chín trong lò vi sóng , không sử dụng chút dầu mỡ nào .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Vinson said when you mention " potato " what generally comes to mind is " fattening , high-carbs , empty calories " .</s>
+<s id='vn5'>Vinson cho biết khi bạn đề cập đến " khoai tây " , bạn sẽ nghĩ ngay đến " béo , nhiều các-bôhy-drát , không có năng lượng " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But that is because of the way this humble vegetable is usually prepared .</s>
+<s id='vn6'>Nhưng đó là bởi vì các loại quả nhỏ bé này thường được chuẩn bị .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" In reality , when prepared without frying and served without butter , margarine or sour cream , one potato has only 110 calories and dozens of healthful phytochemicals and vitamins , " said Vinson , adding that he and his colleagues hope their study will help to remake the potato 's popular nutritional image .</s>
+<s id='vn7'>" Thật ra , khi chế biến mà không cần rán và không ăn kèm bơ , bơ thực vật hoặc kem chua , một củ khoai tây chỉ có 110 calo và hàng chục hóa chất có nguồn gốc từ thực vật và vitamin có lợi cho sức khỏe " , Vinson nói , nhấn mạnh thêm anh ấy và đồng nghiệp hy vọng nghiên cứu của họ sẽ giúp thay đổi quan niệm về dinh dưỡng phổ biến của khoai tây .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>For their study , Vinson and colleagues first did before and after tests of blood and urine of a group of healthy participants who ate either 6 to 8 small purple potatoes cooked in a microwave oven or the equivalent amount of starch in the form of biscuits .</s>
+<s id='vn8'>Đối với nghiên cứu của họ , Vinson và đồng nghiệp đã lần đầu tiên thực hiện các xét nghiệm máu và nước tiểu của một nhóm người khỏe mạnh , trước và sau khi họ ăn 6 đến 8 củ khoai tây màu tím nhỏ nấu chín trong lò vi sóng hoặc lượng tinh bột tương đương dưới dạng bánh quy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The results showed that the antioxidant capacity of their blood and urine was increased by the potatoes and lowered by the biscuits .</s>
+<s id='vn9'>Kết quả cho thấy rằng khả năng chống oxy hóa của máu và nước tiểu của họ được khoai tây làm tăng lên và bánh bích-quy làm giảm xuống .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Then they recruited 18 mostly overweight and obese patients with high blood pressure ( their average BMI was 29 ) and invited them to take part in a crossover study .</s>
+<s id='vn10'>Sau đó , họ chọn lọc 18 bệnh nhân chủ yếu là thừa cân và béo phì có huyết áp cao ( chỉ số BMI trung bình của họ là 29 ) và mời họ tham gia vào một nghiên cứu chéo .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>For 4 weeks , they ate either 6 to 8 purple potatoes twice a day or no potatoes in their normal diet , and then crossed over to the other regimen for another 4 weeks .</s>
+<s id='vn11'>Trong 4 tuần , họ ăn 6 đến 8 củ khoai tây tím hai lần một ngày hoặc không ăn khoai tây trong chế độ ăn uống bình thường của họ , và sau đó đổi qua chế độ kia trong thêm 4 tuần nữa .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They found that eating potatoes was not accompanied by changes in body weight , blood fats ( lipids ) or glucose levels ( HbA1c ) , but resulted in lower blood pressure : the diastolic ( the lower reading of a conventional blood pressure reading such as 120_80 ) went down by a significant 4.3% , and systolic by 3.5% .</s>
+<s id='vn12'>Họ phát hiện ra rằng ăn khoai tây không gây ra những thay đổi trong trọng lượng cơ thể , mỡ trong máu ( li-pít ) hoặc mức glu-cô ( HbA1c ) , nhưng dẫn đến hạ huyết áp : huyết áp tâm trương ( thấp hơn số đo huyết áp thông thường là 120 80 ) giảm đáng kể xuống 4,3% và huyết áp tâm thu giảm 3,5% .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The blood pressure went down in spite of the fact 14 of the 18 participants were also on blood pressure medication .</s>
+<s id='vn13'>Huyết áp đi xuống mặc dù thực tế là 14 trong 18 người tham gia cũng dùng thuốc huyết áp .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The researchers concluded that purple potatoes are an effective agent for lowering blood pressure and thereby lower the risk of heart disease and stroke in patients with high blood pressure .</s>
+<s id='vn14'>Các nhà nghiên cứu kết luận rằng khoai tây tím là tác nhân giảm huyết áp có hiệu quả và do đó giảm nguy cơ mắc bệnh tim và đột quỵ ở những bệnh nhân cao huyết áp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Although the participants in this study ate purple potatoes , which contain high amounts of antioxidants , such as phenolic acids , anthocyanins and carotenoids , Vinson and colleagues believe red-skin and white potatoes would confer similar benefits and are already planning a study that uses them .</s>
+<s id='vn15'>Mặc dù những người tham gia trong nghiên cứu này ăn khoai tây tím , chứa một lượng cao chất chống oxy hóa , như là axít fenola , chất sắc và nhóm chất carotene , Vinson và đồng nghiệp tin rằng khoai tây có vỏ màu trắng và đỏ sẽ mang lại những lợi ích tương tự và đang lập kế hoạch cho một nghiên cứu sử dụng chúng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Vinson said previous studies have found potatoes contain phytochemicals ( chemicals that occur naturally in plants ) that have similar effects to ACE-inhibitors , medications used to treat high blood pressure .</s>
+<s id='vn16'>Vinson cho biết những nghiên cứu trước đây đã tìm thấy khoai tây có chứa các hoá chất có nguồn gốc thực vật ( hoá chất có tự nhiên trong thực vật ) có tác dụng tương tự như các chất ức chế ACE , thuốc được sử dụng để điều trị huyết áp cao .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He said potatoes contain other phytochemicals in similar amounts as found in broccoli spinach and Brussels sprouts , and these could also be helping to lower blood pressure .</s>
+<s id='vn17'>Ông cho biết khoai tây có chứa các hoá chất có nguồn gốc thực vật khác trong lượng tương tự như được tìm thấy trong bông cải xanh cải bina và cải bắp Bru-xen , và cũng có thể giúp hạ huyết áp .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>But deep frying potatoes subjects them to such high temperatures that it seems to destroy these healthy chemicals , leaving the consumer with only starch , fat and minerals .</s>
+<s id='vn18'>Tuy nhiên , khoai tây chiên giòn trong nhiệt độ cao khiến cho nó dường như bị phá huỷ hết các chất hóa học có lợi cho sức khỏe , chỉ còn lại các chất béo , tinh bột và khoáng chất khi đến tay người tiêu dùng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Vinson said that just microwaving the raw potatoes seems to be the best way to preserve the antioxidants .</s>
+<s id='vn19'>Vinson cho biết chỉ dùng lò vi sóng để chế biến khoai tây dường như là cách tốt nhất để bảo vệ các chất chống oxy hóa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The United States Department of Agriculture Agricultural Research Service ( USDA-ARS ) State Cooperative Potato Research Program helped pay for the study .</s>
+<s id='vn20'>Sở Nghiên Cứu Nông Nghiệp của Bộ nông nghiệp Hoa Kỳ ( USDA-ARS ) Chương trình hợp tác Nghiên cứu Khoai tây của nhà nước đã tài trợ cho nghiên cứu .</s>
+</spair>
+</text>
+</doc>

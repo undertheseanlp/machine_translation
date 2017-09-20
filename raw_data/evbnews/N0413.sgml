@@ -1,0 +1,220 @@
+﻿<doc id='N0413'>
+<head>
+<title>Basics of Stock Market</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Basics of Stock Market</s>
+<s id='vn1'>Những kiến thức cơ bản về thị trường chứng khoán</s>
+</spair>
+<spair id='2'>
+<s id='en2'>An article describes basic notions of stock market : blue chip , growth stocks , income stocks , defensive stocks and others .</s>
+<s id='vn2'>Bài báo đề cập đến các khái niệm cơ bản của thị trường chứng khoán : cổ phiếu blue chip , cổ phiếu tăng trưởng , cổ phiếu thu nhập , cổ phiếu phòng thủ và các loại cổ phiếu khác .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Financial markets provide their participants with the most favorable conditions for purchase sale of financial instruments they have inside .</s>
+<s id='vn3'>Các thị trường tài chính tạo những điều kiện thuận lợi nhất cho người tham gia mua hoặc bán các công cụ tài chính trong những thị trường ấy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Their major functions are : guaranteeing liquidity , forming assets prices within establishing proposition and demand and decreasing of operational expenses , incurred by the participants of the market .</s>
+<s id='vn4'>Chức năng chủ yếu của chúng là : bảo đảm tính thanh khoản , hình thành giá tài sản trong quá trình thiết lập yêu cầu và đề nghị , và giảm chi phí hoạt động mà người tham gia thị trường phải gánh chịu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Financial market comprises variety of instruments , hence its functioning totally depends on instruments held .</s>
+<s id='vn5'>Thị trường tài chính gồm nhiều công cụ khác nhau , vì vậy chức năng của nó hoàn toàn phụ thuộc vào những công cụ được nắm giữ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Usually it can be classified according to the type of financial instruments and according to the terms of instruments ' paying-off .</s>
+<s id='vn6'>Thông thường nó có thể được phân loại theo hình thức của công cụ tài chính và theo thời hạn thanh toán của chúng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>From the point of different types of instruments held the market can be divided into the one of promissory notes and the one of securities ( stock market ) .</s>
+<s id='vn7'>Từ điểm những hình thức khác nhau của các công cụ được nắm giữ , thị trường có thể được chia thành thị trường các hứa phiếu và thị trường các chứng khoán ( thị trường cổ phiếu ) .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The first one contains promissory instruments with the right for its owners to get some fixed amount of money in future and is called the market of promissory notes , while the latter binds the issuer to pay a certain amount of money according to the return received after paying-off all the promissory notes and is called stock market .</s>
+<s id='vn8'>Loại thứ nhất có các công cụ cam kết thanh toán với quyền của chủ sở hữu công cụ này nhận được một số lượng tiền cố định trong tương lai và được gọi là thị trường hứa phiếu , trong khi loại thị trường còn lại cho phép nhà phát hành thanh toán một số tiền nhất định căn cứ vào lợi nhuận thu được sau khi thanh toán hết các hứa phiếu và được gọi là thị trường cổ phiếu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>There are also types of securities referring to both categories as , e.g. , preference shares and converted bonds .</s>
+<s id='vn9'>Còn có những loại chứng khoán liên quan đến cả hai loại thị trường trên , ví dụ cổ phiếu ưu đãi và trái phiếu chuyển đổi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>They are also called the instruments with fixed return .</s>
+<s id='vn10'>Chúng cũng được gọi là những công cụ có lãi cố định .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Another classification is due to paying-off terms of instruments .</s>
+<s id='vn11'>Một cách phân loại khác là theo thời hạn thanh toán của các công cụ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>These are : market of assets with high liquidity ( money market ) and market of capital .</s>
+<s id='vn12'>Những thị trường này là : thị trường các loại tài sản có tính thanh khoản cao ( thị trường tiền tệ ) và thị trường vốn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The first one refers to the market of shortterm promissory notes with assets age up to 12 months .</s>
+<s id='vn13'>Loại thứ nhất nói đến thị trường của những hứa phiếu ngắn hạn với các tài sản có thời hạn đến 12 tháng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The second one refers to the market of longterm promissory notes with instruments age surpasses 12 months .</s>
+<s id='vn14'>Loại thứ hai đề cập đến thị trường của những hứa phiếu dài hạn với những công cụ có thời hạn vượt quá 12 tháng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This classification can be referred to the bond market only as its instruments have fixed expiry date , while the stock market 's not .</s>
+<s id='vn15'>Cách phân loại này chỉ có thể được gán cho thị trường trái phiếu vì những công cụ của nó có ngày đáo hạn cố định , trong khi thị trường cổ phiếu thì không có .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Now we are turning to the stock market .</s>
+<s id='vn16'>Bây giờ chúng ta nói về thị trường chứng khoán .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Stock market</s>
+<s id='vn17'>Thị trường chứng khoán</s>
+</spair>
+<spair id='18'>
+<s id='en18'>As it was mentioned before , ordinary shares ' purchasers typically invest their funds into the company-issuer and become its owners .</s>
+<s id='vn18'>Như đã từng đề cập trước đây , những người mua cổ phiếu phổ thông họ thường đầu tư tiền của mình vào công ty đồng thời là nhà phát hành cổ phiếu và trở thành những ông chủ sở hữu công ty .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Their weight in the process of making decisions in the company depends on the number of shares he she possesses .</s>
+<s id='vn19'>Tầm ảnh hưởng của họ trong quá trình ra quyết định cho công ty phụ thuộc vào số lượng cổ phần họ nắm giữ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Due to the financial experience of the company , its part in the market and future potential shares can be divided into several groups .</s>
+<s id='vn20'>Do kinh nghiệm tài chính của công ty , thị phần của công ty trên thị trường , những cổ phiếu tiềm năng trong tương lai có thể được phân chia thành nhiều nhóm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>1 . Blue Chips</s>
+<s id='vn21'>1 . Cổ phiếu blue-chip</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Shares of large companies with a long record of profit growth , annual return over $ 4 billion , large capitalization and constancy in paying-off dividends are referred to as blue chips .</s>
+<s id='vn22'>Những cổ phiếu của các công ty lớn có một hồ sơ dài về tăng trưởng lợi nhuận , lợi tức hàng năm hơn 4 tỷ đô la Mỹ , lượng vốn hoá lớn và trả cổ tức ổn định được gọi là chứng khoán cao cấp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>2 . Growth Stocks</s>
+<s id='vn23'>2 . Cổ phiếu tăng trưởng</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Shares of such company grow faster ; its managers typically pursue the policy of reinvestment of revenue into further development and modernization of the company .</s>
+<s id='vn24'>Cổ phiếu của công ty như vậy tăng trưởng nhanh hơn ; các nhà quản lý của nó thường theo đuổi chính sách tái đầu tư lợi nhuận vào việc phát triển và hiện đại hoá công ty hơn nữa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>These companies rarely pay dividends and in case they do the dividends are minimal as compared with other companies .</s>
+<s id='vn25'>Những công ty này ít khi trả cổ tức và trong trường hợp họ trả cổ tức thì là rất nhỏ so với những công ty khác .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>3 . Income Stocks</s>
+<s id='vn26'>3 . Cổ phiếu thu nhập</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Income stocks are the stocks of companies with high and stable earnings that pay high dividends to the shareholders .</s>
+<s id='vn27'>Cổ phiếu thu nhập là những cổ phiếu của các công ty có thu nhập cao và ổn định mà trả cổ tức cao cho các cổ đông .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The shares of such companies usually use mutual funds in the plans for middleaged and elderly people .</s>
+<s id='vn28'>Cổ phiếu của những công ty này thường dùng những quỹ đầu tư tương hỗ trong các kế hoạch cho nhóm người trung niên và người cao tuổi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>4 . Defensive Stocks</s>
+<s id='vn29'>4 . Cổ phiếu phòng thủ</s>
+</spair>
+<spair id='30'>
+<s id='en30'>These are the stocks whose prices stay stable when the market declines , do well during recessions and are able to minimize risks .</s>
+<s id='vn30'>Những cổ phiếu này là những cổ phiếu có giá ổn định khi thị trường đi xuống , sinh lợi tốt trong các giai đoạn suy thoái và có khả năng giảm thiểu rủi ro .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>They perform perfect when the market turns sour and are in requisition during economic boom .</s>
+<s id='vn31'>Chúng hoạt động hoàn hảo khi thị trường thay đổi theo hướng xấu dần và nằm trong tình trạng sinh lợi không cao khi bùng nổ kinh tế .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>These categories are widely spread in mutual funds , thus for better understanding investment process it is useful to keep in mind this division .</s>
+<s id='vn32'>Những loại cổ phiếu vừa trình bày có nhiều trong các quỹ đầu tư tương hỗ , vì vậy để hiểu rõ hơn quy trình đầu tư , thì cần ghi nhớ cách phân chia này .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Shares can be issued both within the country and abroad .</s>
+<s id='vn33'>Các cổ phiếu có thể được phát hành cả trong và ngoài nước .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In case a company wants to issue its shares abroad it can use American Depositary Receipts ( ADRs ) .</s>
+<s id='vn34'>Trong trường hợp một công ty muốn phát hành cổ phiếu của mình ra nước ngoài thì nó có thể sử dụng Biên lai gửi chứng khoán của Mỹ ( ADR ) .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>ADRs are usually issued by the American banks and point at shareholders ' right to possess the shares of a foreign company under the asset management of a bank .</s>
+<s id='vn35'>Các ADR thường được ngân hàng của Mỹ phát hành và chỉ rõ quyền sở hữu cổ phiếu một công ty nước ngoài của cổ đông dưới sự quản lý tài sản của ngân hàng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Each ADR signals of one or more shares possession .</s>
+<s id='vn36'>Mỗi ADR là dấu hiệu của một hay nhiều quyền sở hữu cổ phiếu .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>When operating with shares , aside of purchase sale ratio profits , you can also quarterly receive dividends .</s>
+<s id='vn37'>Khi kinh doanh cổ phiếu , ngoài những lợi nhuận từ chênh lệch mua bán ra , hàng quý bạn còn có thể nhận cổ tức .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>They depend on : type of share , financial state of the company , shares category etc .</s>
+<s id='vn38'>Chúng phụ thuộc vào : loại cổ phiếu , tình trạng tài chính của công ty đó , hạng cổ phiếu , v.v.</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Ordinary shares do not guarantee paying-off dividends .</s>
+<s id='vn39'>Cổ phiếu thường thì không chắc chắn sẽ được trả cổ tức .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Dividends of a company depend on its profitability and spare cash .</s>
+<s id='vn40'>Cổ tức của một công ty phụ thuộc vào khả năng sinh lợi và tiền nhàn rỗi của nó .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Dividends differ from each other as they are to be paid in a different period of time , with the possibility of being higher as well as lower .</s>
+<s id='vn41'>Cổ tức được trả khác nhau trong những thời kỳ khác nhau , có thể là cao hơn cũng có thể là thấp hơn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>There are periods when companies do not pay dividends at all , mostly when a company is in a financial distress or in case executives decide to reinvest income into the development of the business .</s>
+<s id='vn42'>Có những giai đoạn công ty không trả một đồng cổ tức nào , phần lớn là trường hợp công ty lâm vào tình trạng khó khăn về tài chính hoặc khi ban giám đốc quyết định tái đầu tư thu nhập vào phát triển doanh nghiệp .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>While calculating acceptable share price , dividends are the key factor .</s>
+<s id='vn43'>Khi tính toán giá cổ phiếu có thể chấp nhận được , cổ tức là yếu tố quan trọng cần xét đến .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Price of ordinary share is determined by three main factors : annual dividends rate , dividends growth rate and discount rate .</s>
+<s id='vn44'>Giá của cổ phiếu thường được xác định bởi ba yếu tố chính : tỷ lệ chia cổ tức hàng năm , tỷ lệ tăng cổ tức và tỷ lệ chiết khấu cổ tức .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The latter is also called a required income rate .</s>
+<s id='vn45'>Yếu tố sau còn được gọi là tỷ lệ thu nhập theo yêu cầu .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The company with the high risks level is expected to have high required income rate .</s>
+<s id='vn46'>Công ty có mức rủi ro cao được kỳ vọng có tỷ lệ thu nhập theo yêu cầu cao .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The higher cash flow the higher share prices and versus .</s>
+<s id='vn47'>Luồng tiền mặt cao giá cổ phiếu cao và ngược lại .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This interdependence determines assets value .</s>
+<s id='vn48'>Sự phụ thuộc lẫn nhau này xác định giá trị tài sản .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Below we will touch upon the division of share prices estimating in three possible cases with regard to dividends .</s>
+<s id='vn49'>Dưới đây chúng ta sẽ bàn đến sự phân chia giá cổ phiếu ước tính trong ba trường hợp có thể xảy ra liên quan tới cổ tức .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>While purchasing shares , aside of risks and dividends analysis , it is absolutely important to examine company carefully as for its profit loss accounting , balance , cash flows , distribution of profits between its shareholders , managers and executives ' wages etc .</s>
+<s id='vn50'>Khi mua cổ phiếu , ngoài những phân tích rủi ro và cổ tức ra , thì một việc rất quan trọng là xem xét kỹ lưỡng công ty về hạch toán lời lỗ , dư nợ , các luồng tiền mặt , phân phối lợi nhuận giữa các cổ đông trong công ty , lương bổng của ban giám đốc , v.v.</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Only when you are sure of all the ins and outs of a company , you can easily buy or sell shares .</s>
+<s id='vn51'>Chỉ khi bạn chắc chắn nắm rõ mọi thứ về công ty , bạn mới có thể mua và bán cổ phiếu dễ dàng .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If you are not confident of the information , it is more advisable not to hold shares for a long time ( especially before financial accounting published ) .</s>
+<s id='vn52'>Nếu bạn không an tâm về các thông tin , thì càng không nên giữ cổ phiếu lâu làm gì ( đặc biệt là trước khi báo cáo tài chính được công bố ) .</s>
+</spair>
+</text>
+</doc>

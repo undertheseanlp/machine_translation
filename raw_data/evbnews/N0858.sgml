@@ -1,0 +1,92 @@
+﻿<doc id='N0858'>
+<head>
+<title>Smoking increases heart risk more in women than men</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Smoking increases heart risk more in women than men</s>
+<s id='vn1'>Hút thuốc gia tăng nguy cơ bệnh tim ở phụ nữ nhiều hơn nam giới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A study of 2.4 million people , published in the Lancet , showed a 25% difference in increased risk .</s>
+<s id='vn2'>Theo một nghiên cứu được đăng trên tạp chí Lancet , tỷ lệ chênh lệnh rủi ro trong số 2,4 triệu người là 25% .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The reasons are unclear , say researchers .</s>
+<s id='vn3'>Các nhà nghiên cứu cho biết họ cũng chưa biết rõ nguyên nhân .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The British Heart Foundation said the findings were " alarming " especially as women tended to smoke fewer cigarettes .</s>
+<s id='vn4'>Quỹ tim mạch Anh cho biết các phát hiện này rất " đáng báo động " vì phụ nữ đang có xu hướng hút thuốc lá .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The World Health Organization lists heart disease as the world 's biggest killer , affecting more than seven million people each year .</s>
+<s id='vn5'>Tổ chức y tế thế giới liệt bệnh tim là nguyên nhân gây tử vong cao nhất trên thế giới , với hơn 7 triệu người chết mỗi năm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The illness is largely down to lifestyle choice and smoking is one of the main causes .</s>
+<s id='vn6'>Hầu hết nguyên nhân dẫn đến bệnh tim là do cách sống và hút thuốc là một trong những thủ phạm chính .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A study by the University of Minnesota showed women are at greater risk from smoking than men .</s>
+<s id='vn7'>Một nghiên cứu của Đại học Minnesota cho thấy phụ nữ có nguy cơ mắc bệnh tim cao hơn nam giới là do thuốc lá .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It analysed 75 sets of data produced by studies between 1966 and 2010 .</s>
+<s id='vn8'>Nghiên cứu này được tiến hành phân tích trên 75 bộ dữ liệu từ kết quả các cuộc nghiên cứu từ năm 1966 đến năm 2010 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The report showed that : " Women had a significant 25% increased risk for coronary heart disease conferred by cigarette smoking compared with men . "</s>
+<s id='vn9'>Bản báo cáo cho thấy : " So với nam giới , phụ nữ có nguy cơ mắc bệnh động mạch vành cao hơn 25% do có liên quan trực tiếp đến thuốc lá . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Smoking was thought to double the risk of a heart attack for both men and women .</s>
+<s id='vn10'>Người ta cho rằng hút thuốc còn làm tăng gấp đôi nguy cơ bị đau tim ở cả nam lẫn nữ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The report 's author Rachel Huxley said the risks adjusted for each sex were not available - but she roughly estimated them to be around a 1.8 fold increase if men start smoking and around a 2.3 fold increase for women .</s>
+<s id='vn11'>Tác giả của bản báo cáo , Rachel Huxley , nói rằng vẫn chưa xác định cụ thể tỷ lệ nguy cơ mắc bệnh ở mỗi giới là bao nhiêu - nhưng bà ước tính nếu đàn ông bắt đầu hút thuốc lá thì nguy cơ này tăng gấp 1,8 lần và nếu ở phụ nữ thì con số này là 2,3 lần .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Reason unknown</s>
+<s id='vn12'>Chưa xác định được lý do</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The researchers admit that the explanation for the increased risk is " unclear " , but likely explanations fall into two categories .</s>
+<s id='vn13'>Các nhà nghiên cứu thừa nhận rằng họ vẫn chưa tìm được nguyên nhân cụ thể dẫn đến tình trạng tăng nguy cơ mắc bệnh này , nhưng rất có khả năng các nguyên nhân rơi vào hai loại .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Biological differences between the sexes could mean women are more vulnerable to coronary heart disease or there could be differences in the way women smoke .</s>
+<s id='vn14'>Sự khác biệt về mặt sinh học giữa các giới có thể lý giải cho việc phụ nữ dễ bị bệnh động mạch vành hơn hoặc cũng có thể là do sự khác biệt trong cách phụ nữ hút thuốc .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The authors suggeste d: " Women might extract a greater quantity of carcinogens and other toxic agents from the same number of cigarettes than men . "</s>
+<s id='vn15'>Tác giả đưa ra giả thuyết là : " Có thể phụ nữ hấp thụ được nhiều chất gây ung thư và các chất độc khác hơn nam giới khi hút cùng một lượng thuốc lá như nhau . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Ellen Mason , senior cardiac nurse at the British Heart Foundation , said : " It 's alarming to see such a large study confirm that women are so much more at risk of heart disease from smoking than men .</s>
+<s id='vn16'>Ellen Mason , y tá chăm sóc bệnh nhân tim lâu năm của Quỹ tim mạch Anh , nói : " Thật đáng báo động khi thấy một nghiên cứu quy mô như thế chứng thực rằng phụ nữ có nguy cơ mắc bệnh tim mạch hơn nam giới là do hút thuốc lá . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" Despite women generally smoking fewer cigarettes a day than men , women appear to be substantially more at risk of getting heart disease .</s>
+<s id='vn17'>" Mặc dù trong một ngày , phụ nữ thường hút thuốc ít hơn đàn ông , nhưng hình như phụ nữ lại có nguy cơ mắc bệnh tim cao hơn . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The chief executive of Heart UK , Jules Payne , said : " Smoking cessation policies and practice should take account of differences between the genders in order to optimise effectiveness in targeting both men and women . "</s>
+<s id='vn18'>Giám đốc điều hành của Hội từ thiện Heart UK , Jules Payne , nói : " Các chính sách và biện pháp cai thuốc là cũng nên tính đến sự khác biệt về giới để đạt hiệu quả tối ưu khi nhắm đến cả nam và nữ . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Jane Landon , deputy chief executive of the National Heart Forum , said : " In many countries around the world , women are viewed as a growth market by tobacco companies .</s>
+<s id='vn19'>Jane Landon , phó giám đốc điều hành Diễn đàn Tim Quốc gia , cho biết : " Ở nhiều quốc gia trên thế giới , phụ nữ được các công ty thuốc lá xem là một thị trường tăng trưởng " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Government plans for plain packaging of tobacco products are urgently needed to stop the cynical marketing that particularly targets young women with slim cigarettes in small , attractive packs in appealing textures and colours . "</s>
+<s id='vn20'>" Kế hoạch của chính phủ về dự luật vỏ bao thuộc lá đơn điệu là khẩn thiết nhằm ngăn chặn sự tiếp thị gây tò mò nhắm đến những phụ nữ trẻ bằng điếu thuốc nhỏ nhắn nằm trong vỏ hộp có chất liệu và màu sắc bắt mắt . "</s>
+</spair>
+</text>
+</doc>

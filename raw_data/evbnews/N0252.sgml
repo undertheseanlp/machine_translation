@@ -1,0 +1,116 @@
+﻿<doc id='N0252'>
+<head>
+<title>What Happens When We Get Angry ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What Happens When We Get Angry ?</s>
+<s id='vn1'>Điều gì xảy ra khi chúng ta tức giận ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>When we get angry , the heart rate , arterial tension and testosterone production increases , cortisol ( the stress hormone ) decreases , and the left hemisphere of the brain becomes more stimulated .</s>
+<s id='vn2'>Khi chúng ta tức giận , nhịp tim , huyết áp động mạch và sự sản xuất hoóc-môn sinh dục nam tăng , cortisol ( hoóc-môn căng thẳng ) giảm , và bán cầu não trái bị kích thích nhiều .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This is indicated by a new investigation lead by scientists from the University of Valencia ( UV ) that analyses the changes in the brain 's cardiovascular , hormonal and asymmetric activation response when we get angry .</s>
+<s id='vn3'>Điều này được trình bày trong một phát hiện mới của các nhà khoa học từ Đại học Valencia ( UV ) phân tích những thay đổi trong các phản ứng hoạt hoá không đối xứng , và hoóc-môn của não khi chúng ta nổi giận .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>" Inducing emotions generates profound changes in the autonomous nervous system , which controls the cardiovascular response , and also in the endocrine system .</s>
+<s id='vn4'>" Cảm xúc tạo ra những thay đổi sâu sắc trong hệ thần kinh tự chủ , kiểm soát phản ứng tim mạch , cũng như trong hệ nội tiết .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In addition , changes in cerebral activity also occur , especially in the frontal and temporal lobes " , Neus Herrero , main author of the study and researcher at UV , explains to SINC .</s>
+<s id='vn5'>Ngoài ra , các thay đổi trong hoạt động não cũng xảy ra , nhất là trong thuỳ trán và thuỳ thái dương " , Neus Herrero , tác giả chính của nghiên cứu và là nhà nghiên cứu tại UV , giải thích cho SINC .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The researchers induced anger in 30 men using the version that has been adapted to Spanish " Anger Induction " ( AI ) , consisting of 50 phrases in first person that reflect daily situations that provoke anger .</s>
+<s id='vn6'>Các nhà nghiên cứu làm cho 30 người đàn ông giận dữ bằng cách thức phù hợp với người Tây Ban Nha " Gây tức giận " ( AI ) , bao gồm 50 cụm từ trong người đầu tiên phản ánh các tình huống hàng ngày gây tức giận .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Before and immediately after the inducement of anger they measured the heart rate and arterial tension , the levels of testosterone and cortisol , the asymmetric activation of the brain ( using the dichotic listening technique ) , the general state of mind and the subjective experience of the anger emotion .</s>
+<s id='vn7'>Trước và ngay lập tức sau khi gây nên cơn giận , các nhà khoa học đo nhịp tim và huyết áp động mạch , mức hoóc-môn sinh dục nam và cortisol , sự hoạt hoá không đối xứng của não ( sử dụng kỹ thuật nghe kích thích hai tai cùng lúc ) , tâm trạng chung và kinh nghiệm chủ quan của cảm giác tức giận .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The results , published in the journal Hormones and Behavior , reveal that anger provokes profound changes in the state of mind of the subjects ( "they felt angered and had a more negative state of mind " ) and in different psychobiological parameters .</s>
+<s id='vn8'>Các kết quả , được công bố trong Tạp chí Hoóc-môn và Thói quen , cho thấy sự tức giận gây ra những thay đổi sâu sắc trong tâm trạng của người ta ( " họ cảm thấy tức giận và có tâm trạng xấu hơn " ) cũng như trong các thông số tâm lý sinh học khác .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>There is an increase in heart rate , arterial tension and testosterone , but the cortisol level decreases .</s>
+<s id='vn9'>Có sự gia tăng trong nhịp tim , huyết áp động mạch và hoóc-môn sinh dục nam , nhưng mức cortisol giảm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Asymmetries of brain activity</s>
+<s id='vn10'>Tính bất đối xứng của hoạt động não</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Nonetheless , " by focusing on the asymmetric brain activity of the frontal lobe that occurs when we experience emotions , there are two models that contradict the case of anger " , the researcher highlights .</s>
+<s id='vn11'>Mặc dù vậy , " bằng cách tập trung vào hoạt động não không đối xứng của thuỳ trước xảy ra khi chúng ta trải nghiệm các cảm xúc , có hai mô hình đối lập trong trường hợp tức giận " , các nhà nghiên cứu nhấn mạnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The first model , " of emotional valence " , suggests that the left frontal region of the brain is involved in experiencing positive emotions , whilst the right is more related to negative emotions .</s>
+<s id='vn12'>Mô hình đầu tiên , " của sự cân bằng cảm xúc " , cho rằng vùng trán trái của não có liên quan đến trải nghiệm những cảm xúc tích cực , trong khi vùng trán phải liên quan nhiều hơn với những cảm xúc tiêu cực .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The second model , ' of motivational direction ' , shows that the left frontal region is involved in experiencing emotions related to closeness , whilst the right is associated with the emotions that provoke withdrawal .</s>
+<s id='vn13'>Mô hình thứ nhì , ' theo hướng động cơ ' , cho thấy rằng vùng trán trái có liên quan đến trải nghiệm cảm xúc có quan hệ với sự gần gũi , trong khi vùng trán phải gắn liền với những cảm xúc gây nên sự xa cách .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The positive emotions , like happiness , are usually associated to a motivation of closeness , and the negative ones , like fear and sadness , are characterised by a motivation of withdrawal .</s>
+<s id='vn14'>Những cảm xúc tích cực , như hạnh phúc , thường liên quan đến sự gần gũi , và những cảm xúc tiêu cực , như sự sợ hãi và nỗi buồn , đặc trưng bởi thôi thúc muốn tránh xa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>However , not all emotions behave in accordance with this connection .</s>
+<s id='vn15'>Tuy nhiên , không phải mọi cảm xúc đều phù hợp với sự liên hệ này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" The case of anger is unique because it is experienced as negative but , often , it evokes a motivation of closeness " , this expert explains .</s>
+<s id='vn16'>" Trường hợp của sự tức giận là duy nhất bởi vì nó như là một trải nghiệm tiêu cực , nhưng nhiều trường hợp , nó gợi lên động cơ của sự gần gũi " , chuyên gia này giải thích .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" When experiencing anger , we have observed in our study an increase in right ear advantage , that indicates a greater activation of the left hemisphere , which supports the model of motivational direction " , Herrero points out .</s>
+<s id='vn17'>" Khi trải nghiệm sự tức giận , như quan sát được trong nghiên cứu , chúng tôi thấy có sự gia tăng có lợi trong tai phải , cho thấy sự hoạt hoá nhiều hơn của bán cầu não trái , hỗ trợ cho mô hình của khuynh hướng động cơ thúc đẩy " , theo ý kiến Herrero .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>In other words , when we get angry , our asymmetric cerebral response is measured by the motivation of closeness to the stimulus that causes us to be angry and not so much by the fact we consider this stimulus as negative : " Normally when we get angry we show a natural tendency to get closer to what made us angry to try to eliminate it " , he concludes .</s>
+<s id='vn18'>Nói cách khác , khi chúng ta nổi giận , phản ứng bất đối xứng của não được đánh giá thông qua động cơ của sự gần gũi đến kích thích khiến chúng ta giận dữ chứ hoàn toàn không phải bởi thực tế chúng ta xem kích thích này là tiêu cực : " Bình thường khi nổi giận chúng ta tự nhiên có khuynh hướng muốn gần gũi với điều làm cho mình tức giận để làm mất cảm giác đó " , ông kết luận .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Every emotion is unique</s>
+<s id='vn19'>Mỗi cảm xúc là duy nhất</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This is the first general study on emotions , more specifically on anger that examines all these different psychobiological parameters ( cardiovascular , hormonal response and asymmetric activation of the brain ) in a single investigation to study the changes caused by the inducement of anger .</s>
+<s id='vn20'>Đây là nghiên cứu đại cương đầu tiên về cảm xúc , cụ thể hơn là về sự tức giận , mà đã xem xét tất cả các thông số tâm lý sinh học khác ( phản ứng tim mạch , hoóc-môn và phản ứng hoạt hoá không đối xứng của não ) trong chỉ một nghiên cứu để xem xét những thay đổi gây ra do việc tạo nên sự giận dữ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In addition the results of the study are along the same lines as previous investigations and defend what has been noted by Darwin : that the emotions , in this case anger , are accompanied by unique and specific ( psychobiological ) patterns .</s>
+<s id='vn21'>Ngoài ra các kết quả của nghiên cứu cũng giống như các kết luận trước đây và ủng hộ những điều đã được Darwin lưu ý : cảm xúc , trong trường hợp này là sự tức giận , đi kèm với các dạng ( tâm lý sinh vật ) duy nhất và cụ thể .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>References : Neus Herrero , Marien Gadea , Gabriel Rodríguez-Alarcón , Raúl Espert , Alicia Salvador .</s>
+<s id='vn22'>Các tài liệu tham khảo : Neus Herrero , Marien Gadea , Gabriel Rodríguez-Alarcón , Raúl Espert , Alicia Salvador .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" What happens when we get angry ?</s>
+<s id='vn23'>" Chuyện gì sẽ xảy ra khi chúng ta nổi giận ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Hormonal , cardiovascular and asymmetrical brain responses " .</s>
+<s id='vn24'>Phản ứng hoóc-môn , tim mạch và không đối xứng của não . " .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Source : FECYT - Spanish Foundation for Science and Technology</s>
+<s id='vn25'>Nguồn : FECYT - Quỹ Khoa học và Công nghệ Tây Ban Nha</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Copyright : Medical News Today</s>
+<s id='vn26'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,316 @@
+﻿<doc id='N0465'>
+<head>
+<title>Healthy habits for TV , Video games , and the Internet</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Healthy habits for TV , Video games , and the Internet</s>
+<s id='vn1'>Thói quen lành mạnh đối với TV , trò chơi điện tử , và mạng Internet</s>
+</spair>
+<spair id='2'>
+<s id='en2'>No doubt about it - TV , interactive video games , and the Internet can be excellent sources of education and entertainment for kids .</s>
+<s id='vn2'>Không phủ nhận là TV , các trò chơi điện tử tương tác , và mạng Internet không những có tính giáo dục mà còn là nguồn giải trí tuyệt vời cho trẻ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But too much screen time can have unhealthy side effects .</s>
+<s id='vn3'>Nhưng việc ngồi trước màn hình quá nhiều có thể có nhiều ảnh hưởng có hại cho sức khỏe .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>That 's why it 's wise to monitor and limit the time your child spends playing video games , watching TV , and playing games on the Internet .</s>
+<s id='vn4'>đó là lý do tại sao bạn nên giám sát và hạn chế con mình chơi video game , xem ti-vi , và chơi game trên mạng Internet .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The American Academy of Pediatrics ( AAP ) recommends that kids under age 2 have no screen time , and that kids older than 2 watch no more than 1 to 2 hours a day of quality programming .</s>
+<s id='vn5'>Viện hàn lâm nhi khoa Hoa Kỳ ( AAP ) khuyến nghị trẻ con dưới 2 tuổi không nên ngồi trước màn hình , và trẻ trên 2 tuổi chỉ được xem không quá 1 đến 2 tiếng đồng hồ mỗi ngày các chương trình có chất lượng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's also a good idea to make sure kids have a wide variety of free-time activities like reading , playing with friends , and sports , which can all play a vital part in helping them develop a healthy body and mind .</s>
+<s id='vn6'>Bạn cũng nên đảm bảo cho trẻ có nhiều hoạt động phong phú trong thời gian rảnh như đọc sách báo , chơi đùa với bạn bè , chơi thể thao , tất cả đều đóng một vai trò hết sức quan trọng giúp trẻ phát triển một cơ thể tráng kiện và một tinh thần minh mẫn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Here are some practical ways to make kids ' screen time more productive .</s>
+<s id='vn7'>Dưới đây là một số biện pháp thiết thực nhằm giúp cho việc ngồi trước màn hình của trẻ có hiệu quả hơn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>TV Time</s>
+<s id='vn8'>Thời gian xem ti vi</s>
+</spair>
+<spair id='9'>
+<s id='en9'>* Limit the number of TV-watching hours :</s>
+<s id='vn9'>* Bạn nên hạn chế thời gian cho bé xem ti vi nhé :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>- Stock the room in which you have your TV with plenty of other non-screen entertainment such_as books , kids " magazines , toys , puzzles , board games , etc ... to encourage kids to do something other than watch the TV .</s>
+<s id='vn10'>- Nên trang bị phòng xem ti-vi nhiều nguồn giải trí mà không xem trên màn hình khác như sách báo , tạp chí trẻ con , đồ chơi , đồ chơi đố , cờ , ... để khuyến khích cho trẻ làm cái gì khác hơn là ngồi xem tivi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>- Keep TVs out of kids " bedrooms .</s>
+<s id='vn11'>- Để tivi xa phòng ngủ của trẻ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>- Turn off the TV during meals .</s>
+<s id='vn12'>- Tắt tivi trong lúc ăn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>- Do n't allow your child to watch TV while doing homework .</s>
+<s id='vn13'>- Không cho trẻ xem tivi khi đang làm bài tập ở nhà .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>- Treat TV as a privilege that kids need to earn - not a right that they 're entitled to .</s>
+<s id='vn14'>- Nên cho trẻ biết khi được phép mới xem tivi - không phải trẻ được toàn quyền .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Tell them that TV viewing is allowed only after chores and homework are completed .</s>
+<s id='vn15'>Nói cho trẻ biết chỉ được xem tivi sau khi đã làm xong công việc hay bài tập ở nhà .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>* Try a weekday ban .</s>
+<s id='vn16'>* Cố gắng cho bé xem tivi vào ngày thường trong tuần .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Schoolwork , sports activities , and job responsibilities make it tough to find extra family time during the week .</s>
+<s id='vn17'>Chuyện học hành , hoạt động thể thao , và gánh nặng trách nhiệm công việc suốt cả tuần khiến cho bạn khó lòng dành thời gian cho gia đình .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Record weekday shows or save TV time for weekends , and you 'll have more family togetherness time to spend on meals , games , physical activity , and reading during the week .</s>
+<s id='vn18'>Bạn hãy thu lại các chương trình tivi ngày thường hoặc dành thời gian xem tivi vào dịp cuối tuần , bạn ắt sẽ có nhiều thời gian quây quần bên gia đình ăn uống , chơi đùa , hoạt động thể lực , và đọc sách báo trong tuần .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>* Set a good example .</s>
+<s id='vn19'>* Bạn hãy làm gương cho con nhé .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Limit your own TV viewing .</s>
+<s id='vn20'>Hãy hạn chế thời gian xem tivi của mình .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>* Check the TV listings and program reviews .</s>
+<s id='vn21'>* Hãy kiểm tra các danh sách và các điểm mục chương trình tivi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Look for programs your family can watch together ( i.e. , developmentally appropriate and nonviolent programs that reinforce your family 's values ) .</s>
+<s id='vn22'>Bạn nên tìm các chương trình mà cả gia đình mình có thể cùng nhau thưởng thức được ( chẳng hạn như các chương trình giáo dục phát triển phù hợp và không có bạo lực nhằm củng cố giá trị gia đình của mình ) .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Choose shows , says the AAP , that foster interest and learning in hobbies and education ( reading , science , etc . ) .</s>
+<s id='vn23'>Viện hàn lâm nhi khoa Hoa Kỳ khuyến nghị nên chọn các chương trình có tính kích thích , khuyến khích trẻ thích thú học hỏi và có tính giáo dục ( đọc sách báo , khoa học , ... ) .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>* Preview programs .</s>
+<s id='vn24'>* Xem trước chương trình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Make sure you think they 're appropriate before your kids watch them .</s>
+<s id='vn25'>Đảm bảo rằng chúng phù hợp với con mình trước khi cho bé xem .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>* Use the ratings .</s>
+<s id='vn26'>* Dùng các công cụ đánh giá .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Age-group rating tools have been developed for some TV programs and usually appear in TV program listings and onscreen during the first 15 seconds of some TV programs .</s>
+<s id='vn27'>Một số chương trình tivi đã dùng các công cụ phân loại theo nhóm tuổi và chúng thường xuất hiện trên các danh mục chương trình tivi và trên màn hình trong suốt 15 giây đầu tiên của một số chương trình .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>* Use screening tools .</s>
+<s id='vn28'>* Dùng công cụ ngăn chặn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Many new standard TV sets have internal V-chips ( V stands for violence ) that let you block TV programs and movies you do n't want your kids to see .</s>
+<s id='vn29'>Nhiều tivi theo tiêu chuẩn mới đã được cài đặt mạch vi xử lý chống bạo lực ( V - tượng trưng cho violence ) giúp bạn có thể khoá các chương trình tivi và phim ảnh mà bạn không muốn cho bé xem .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>* Come up with a family TV schedule .</s>
+<s id='vn30'>* Hãy nghĩ ra , đề ra một giờ giấc xem tivi cho cả nhà .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Come up with something the entire family agrees on .</s>
+<s id='vn31'>Bạn hãy đưa ra một lịch xem tivi nào đó mà cả gia đình đều có thể chấp nhận được .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Then post the schedule in a visible household area ( i.e. , on the refrigerator ) so that everyone knows which programs are OK to watch and when .</s>
+<s id='vn32'>Sau đó dán lên chỗ có thể nhìn thấy được trong nhà ( chẳng hạn như tủ lạnh ) để ai cũng biết được chương trình và thời gian xem tivi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>And make sure to turn off the TV when the " scheduled " program is over instead of channel surfing for something else to watch .</s>
+<s id='vn33'>Và phải đảm bảo tắt tivi đi khi đã hết chương trình quy định thay vì lướt chuyển kênh khác để xem thêm một chương trình nào đó nữa .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>* Watch TV with your child .</s>
+<s id='vn34'>* Hãy xem tivi cùng với con nhé .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If you ca n't sit through the whole program , at least watch the first few minutes to assess the tone and appropriateness , then check in throughout the show .</s>
+<s id='vn35'>Nếu bạn không thể xem toàn bộ chương trình với bé thì ít nhất nên xem một vài phút đầu để xem có phù hợp với bé không và nên để ý quan sát suốt chương trình .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>* Talk to kids about what they see on TV and share your own beliefs and values .</s>
+<s id='vn36'>* Hãy trò chuyện với con về các chương trình trên tivi và chia sẻ quan điểm và đánh giá của bạn với con nhé .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If something you do n't approve of appears on the screen , turn off the TV and use the opportunity to ask your child thought-provoking questions such as , " Do you think it was OK when those men got in that fight ?</s>
+<s id='vn37'>Nếu bạn thấy điều gì đó không nên xuất hiện trên tivi thì hãy tắt máy đi và dùng cơ hội này hãy đặt nhiều câu hỏi kích thích ý tưởng của bé như " Con nghĩ những người đàn ông đó đánh nhau như vậy có đúng không ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>What else could they have done ?</s>
+<s id='vn38'>Họ có thể xử sự khác như thế nào ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>What would you have done ? "</s>
+<s id='vn39'>Con sẽ xử sự như thế nào ? "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Or , " What do you think about how those teenagers were acting at that party ?</s>
+<s id='vn40'>Hoặc " Con nghĩ gì về cách mà mấy bạn thiếu niên đã cư xử ở buổi tiệc đó ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Do you think what they were doing was wrong ? "</s>
+<s id='vn41'>Con có nghĩ hành động của các bạn đó là sai không ? "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If certain people or characters are mistreated or discriminated against , talk about why it 's important to treat everyone fairly despite their differences .</s>
+<s id='vn42'>Nếu có ai đó hoặc nhân vật nào đó bị ngược đãi hay bị phân biệt đối xử , bạn nên nói cho bé biết vì sao cần phải đối xử với mọi người thật công bằng dẫu rằng họ có nhiều khác biệt .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>You can use TV to explain confusing situations and express your feelings about difficult topics ( sex , love , drugs , alcohol , smoking , work , behavior , family life ) .</s>
+<s id='vn43'>Bạn cũng có thể lấy tivi để giải thích cho con nghe các tình huống khó xử và bày tỏ cảm xúc của mình về các vấn đề khó nói ( tình dục , tình yêu , ma tuý , thuốc lá , công việc , hành vi xử sự , cuộc sống gia đình ) .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Teach your kids to question and learn from what they see on TV .</s>
+<s id='vn44'>Hãy tập cho bé biết đặt câu hỏi và học hỏi từ những chương trình mà chúng xem trên tivi .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* Find out about other TV policies .</s>
+<s id='vn45'>* Hãy tìm hiểu về các quy định xem tivi khác .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Talk to other parents , your doctor , and your child 's teachers about their TV-watching policies and kid-friendly programs .</s>
+<s id='vn46'>Bạn nên tham khảo những bố mẹ khác , bác sĩ , và giáo viên của con mình về các quy định xem tivi của họ và các chương trình có lợi cho bé .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* Offer fun alternatives to television .</s>
+<s id='vn47'>* Cho bé chơi một trò khác thay thế tivi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If your kids want to watch TV but you want them to turn it off , suggest alternatives like playing a board game , starting a game of hide and seek , playing outside , reading , etc .</s>
+<s id='vn48'>Nếu con bạn thích xem tivi nhưng bạn muốn bé tắt tivi đi , bạn nên đề nghị con chơi một trò khác như chơi cờ , chơi trốn tìm , chơi ngoài trời , hay đọc sách báo , ... .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The possibilities for fun without the TV are endless - so turn off the TV and enjoy quality time with your kids .</s>
+<s id='vn49'>Bé có thể vui chơi được nhiều trò mà không cần tivi đấy - giờ thì bạn hãy tắt tivi đi và hãy tận hưởng thời gian vui vẻ bên con bạn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Video and Interactive computer games</s>
+<s id='vn50'>Các trò chơi điện tử và trò chơi tương tác trên máy tính</s>
+</spair>
+<spair id='51'>
+<s id='en51'>* Look at the ratings .</s>
+<s id='vn51'>* Hãy quan sát bảng phân loại .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Video games do have ratings to indicate when they have violence , strong language , sexual themes , and other content that may be inappropriate for kids .</s>
+<s id='vn52'>Các trò chơi điện tử luôn có bảng đánh giá , phân loại để cho biết khi nào có cảnh bạo lực , lời lẽ thô tục , vấn đề tình dục , và các nội dung khác không phù hợp với trẻ con .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The ratings , established for the Entertainment Software Rating Board , range from EC , which indicates that the game is appropriate for kids ages 3 and older , to AO ( for Adults Only ) , which indicates that violent or graphic sexual content makes it appropriate only for adults .</s>
+<s id='vn53'>Các bảng phân loại được Bảng phân loại phần mềm giải trí lập nên , cho biết trò chơi phù hợp với trẻ 3 tuổi và lớn hơn đến AO ( chỉ dành cho người lớn ) cho biết trò chơi có nội dung bạo lực và tình dục thích hợp với người lớn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>* Preview the games .</s>
+<s id='vn54'>* Bạn nên xem trước các trò chơi này nhé .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Even with the ratings , it 's still important to preview the games - or even play them - before letting kids play .</s>
+<s id='vn55'>Dẫu rằng đã có bảng phân loại nhưng bạn cũng nên xem trước các trò chơi này - thậm chí bạn cũng nên chơi trước khi cho bọn trẻ chơi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The game 's rating may not match what you feel is appropriate for your child .</s>
+<s id='vn56'>Bảng phân loại đánh giá có thể không không trùng khớp với điều bạn nghĩ là phù hợp với con mình .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* Help kids get perspective on the games .</s>
+<s id='vn57'>* Nên giúp con trẻ biết cách nhận xét về trò chơi .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Monitor how the games are affecting your kids .</s>
+<s id='vn58'>Hãy giám sát xem các trò chơi của con ảnh hưởng đến bé như thế nào nhé .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>If they seem more aggressive after spending time playing a certain game , discuss the game and help them understand how the violence that 's portrayed is different from what occurs in the real world .</s>
+<s id='vn59'>Nếu bé tỏ ra bạo lực hơn sau khi chơi một trò chơi nào đó thì nên bàn bạc với bé và giúp bé hiểu cách bạo lực được miêu tả trong game khác với bạo lực xảy ra trong đời sống thực tế như thế nào .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>That can help them identify less with the aggressive characters and reduce the negative effects that violent video games can have .</s>
+<s id='vn60'>Điều đó có thể giúp bé ít đồng cảm , ít gắn bó với những nhân vật bạo lực và làm hạn chế những ảnh hưởng có hại mà các trò chơi điện tử bạo lực có thể gây ra .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Internet safety</s>
+<s id='vn61'>Giữ bé an toàn với mạng Internet</s>
+</spair>
+<spair id='62'>
+<s id='en62'>* Become computer literate .</s>
+<s id='vn62'>* Bạn nên thông thạo về máy tính .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Learn how to block objectionable material .</s>
+<s id='vn63'>Hãy biết cách khoá các chương trình gây hại .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>* Keep the computer in a common area .</s>
+<s id='vn64'>* Hãy để máy tính ở nơi nhiều người có thể quan sát thấy .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Keep it where you can watch and monitor your kids .</s>
+<s id='vn65'>Hãy để máy ở nơi mà bạn có thể nhìn thấy và giám sát bé được ; .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Avoid putting a computer in a child 's bedroom .</s>
+<s id='vn66'>Tránh đặt máy tính trong phòng ngủ của trẻ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* Share an email account with younger children .</s>
+<s id='vn67'>* Bạn nên dùng chung tài khoản email với bé .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>That way , you can monitor who is sending them messages .</s>
+<s id='vn68'>Bằng cách này , bạn có thể giám sát và biết được ai đang gởi thư cho chúng .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* Bookmark your child 's favorite sites .</s>
+<s id='vn69'>* Đánh dấu các trang web yêu thích của con .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Your child will have easy access and be less likely to make a typo that could lead to inappropriate content .</s>
+<s id='vn70'>Điều này giúp bé có thể truy cập dễ dàng và ít gõ sai chữ dẫn tới nội dung không phù hợp .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* Spend time online together .</s>
+<s id='vn71'>* Hãy dành thời gian online với con .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Teach your kids appropriate online behavior .</s>
+<s id='vn72'>Hãy tập cho bé có thái độ truy cập mạng đúng đắn .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>* Monitor kids use of chat rooms .</s>
+<s id='vn73'>* Hãy giám sát bé khi sử dụng chương trình chat tán gẫu .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Be aware that posting messages to chat rooms reveals a child 's email address to others .</s>
+<s id='vn74'>Nên biết rằng việc đưa thông tin lên cửa sổ chat sẽ giúp người khác có thể biết được địa chỉ email của bé .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* Find out about online protection elsewhere .</s>
+<s id='vn75'>* Hãy tìm hiểu một biện pháp bảo vệ truy cập mạng ở một nơi khác .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Find out what , if any , online protection is offered at school , after-school centers , friends' homes , or anyplace where kids could use a computer without your supervision .</s>
+<s id='vn76'>Bạn nên tìm hiểu một biện pháp bảo vệ truy cập mạng ở trường , các trung tâm sau giờ học , nhà của bạn bè , hoặc bất kỳ nơi đâu mà trẻ có thể sử dụng máy tính không có sự giám sát của bạn .</s>
+</spair>
+</text>
+</doc>

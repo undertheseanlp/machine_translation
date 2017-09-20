@@ -1,0 +1,76 @@
+﻿<doc id='N0341'>
+<head>
+<title>Cisco , Communications Apps Are Driving Broadband Traffic</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Cisco , Communications Apps Are Driving Broadband Traffic</s>
+<s id='vn1'>Cisco : Các ứng dụng truyền thông , đang điều khiển lưu lượng băng thông rộng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In a survey of more than 20 top service providers , Cisco Systems finds that video and other visual applications now constitute 30 percent of traffic running through service provider networks , feeding into Cisco 's assertion that such visual apps will dominate networks by 2013 .</s>
+<s id='vn2'>Trong một cuộc khảo sát của hơn 20 nhà cung cấp dịch vụ hàng đầu , hãng Cisco Systems nhận thấy rằng hiện nay ứng dụng video và các ứng dụng ảo khác chiếm 30 phần trăm lưu lượng thông qua mạng lưới cung cấp dịch vụ , làm tăng sự khẳng định của Cisco về các ứng dụng ảo sẽ chiếm lĩnh mạng internet vào năm 2013 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In addition , the top 1 percent of broadband subscribers worldwide generate 10 percent of the traffic .</s>
+<s id='vn3'>Ngoài ra , một phần trăm số thuê bao băng thông rộng toàn cầu hàng đầu tạo ra 10 phần trăm lưu lượng truy cập .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Video and other visual applications continue to drive the traffic crossing service provider networks , according to a study by Cisco Systems .</s>
+<s id='vn4'>Theo một cuộc nghiên cứu của Cisco Systems thì ứng dụng video và các ứng dụng ảo khác tiếp tục điều khiển lưu lượng truy cập thông qua các mạng lưới cung cấp dịch vụ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In results stemming from Cisco 's VNI ( Visual Networking Index ) Usage study released Oct. 21 , Cisco officials said more than a third of the average global broadband connection supports video , social networking and collaboration applications every month .</s>
+<s id='vn5'>Theo kết quả bắt nguồn từ nghiên cứu Cisco VNI ( Visual Networking Index ) Usage được công bố ngày 21 tháng 10 , các viên chức của Cisco cho biết có hơn một phần ba kết nối băng thông rộng toàn cầu bình quân hỗ trợ video , mạng xã hội và các ứng dụng cộng tác mỗi tháng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The information comes from more than 20 service providers worldwide , and feeds into what Cisco officials say they are seeing in this industry , in particular that the growth in visual traffic will be rapid and dramatic .</s>
+<s id='vn6'>Thông tin trên của 20 nhà cung cấp dịch vụ toàn cầu , và góp phần vào trong những số liệu mà các viên chức Cisco cho rằng họ đang xét thấy trong ngành công nghiệp này , đặc biệt là sự gia tăng trong lưu lượng ảo sẽ trở nên nhanh chóng và mạnh mẽ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In June , Cisco said Internet traffic worldwide would grow to five times its current size between 2008 and 2013 , large part to the rise in video traffic .</s>
+<s id='vn7'>Trong tháng 6 , Cisco cho biết lưu lượng Internet toàn cầu sẽ tăng lên 5 lần kích cỡ hiện nay vào giữa năm 2008 và 2013 phần lớn là do tăng lưu lượng truy cập video .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>This company estimated that by 2013 , 90 percent of all consumer IP traffic would be video .</s>
+<s id='vn8'>Hãng này ước tính rằng đến năm 2013 có 90 phần trăm lưu lượng IP của người dùng sẽ là video .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The findings released Oct. 21 represent a snapshot of what 's going on at least , in the third quarter of 2009 - while the full VNI study looks ahead five years .</s>
+<s id='vn9'>Các kết quả nghiên cứu đã công bố vào ngày 21 tháng 10 trình bày nhanh những gì hiện đang xảy ra ít nhất , trong quí thứ ba năm 2009 - trong khi đề tài nghiên cứu VNI đầy đủ sẽ xem xét trong năm năm tới .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Among the findings were that worldwide , the average broadband connection - mostly residential subscribers , though some business users were mixed in generates about 11.4GB of Internet traffic per month , which roughly translates to downloading 3,000 text e-mails , 100 MP3 music files or text-only e-books per day .</s>
+<s id='vn10'>Trong số các kết quả nghiên cứu đã công bố toàn cầu , kết nối băng thông rộng bình quân - hầu hết là các thuê bao gia đình , mặc dù một số người dùng là doanh nghiệp đã được gộp chung - tạo ra khoảng 11.4GB lưu lượng Internet mỗi tháng mà nó chuyển tải khoảng 3,000 thư điện tử bằng văn bản , 100 tập tin nhạc MP3 hoặc các sách điện tử thuần văn bản mỗi ngày .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Every month , the average broadband connection consumes about 4.3GB via visual networking applications per month - everything from video to social networking to collaboration .</s>
+<s id='vn11'>Mỗi tháng , kết nối băng thông rộng trung bình tiêu thụ khoảng 4.3GB qua các ứng dụng mạng ảo mỗi tháng - mọi thứ từ video đến mạng xã hội cho đến ứng dụng cộng tác .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In a video talking about the findings , Doug Webster , senior director of market at Cisco 's Service Provider Group , said the traffic generated by such applications is rising , while traffic generated by peer-to-peer applications is dropping .</s>
+<s id='vn12'>Trong một đoạn video nói về các kết quả nghiên cứu , Doug Webster giám đốc tiếp thị cao cấp ở Nhóm Cung cấp Dịch vụ của Cisco cho biết lưu lượng tạo ra do các ứng dụng mạng ảo đang tăng lên , trong khi đó lưu lượng tạo ra bằng các ứng dụng mạng ngang hàng đang giảm xuống .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Its percentage ( now at 38 percent ) is going down because so many of the other services , such as visual networking services that are video-based ( and ) communications-based , are really growing at a much faster rate , " Webster said .</s>
+<s id='vn13'>Ông Webster cho biết : " Tỷ lệ phần trăm của nó ( hiện tại là 38 phần trăm ) đang giảm là do có rất nhiều dịch vụ khác , chẳng hạn như các dịch vụ mạng ảo dựa trên video ( và ) dựa trên truyền thông , đang thật sự phát triển với tốc độ rất nhanh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Other results from the survey include that the top 1 percent of global subscribers are generating more than 20 percent of all the traffic , and the top 10 percent of global subscribers generate more than 60 percent of the traffic .</s>
+<s id='vn14'>Các kết quả khác từ cuộc khảo sát gồm có 1 phần trăm thuê bao toàn cầu hàng đầu đang tạo ra hơn 20 phần trăm toàn bộ lưu lượng , và 10 phần trăm thuê bao toàn cầu đứng đầu sẽ tạo ra hơn 60 phần trăm lưu lượng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In addition , the prime time for Internet use is from 9 p.m. to 1 a.m. , and 25 percent about 93.3MB per day per connection is generated during this time .</s>
+<s id='vn15'>Ngoài ra , giờ cao điểm sử dụng Internet là từ 9 giờ tối đến 1 giờ sáng , và 25 phần trăm khoảng 93.3MB kết nối mỗi ngày được tạo ra trong suốt thời gian này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A peak Internet hour has 20 percent more traffic than a nonpeak hour , according to Cisco .</s>
+<s id='vn16'>Giờ cao điểm sử dụng Internet nhiều hơn 20 phần trăm lưu lượng giờ thấp điểm , theo hãng Cisco .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,164 @@
+﻿<doc id='N0433'>
+<head>
+<title>5 Products That Failed And Why</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Products That Failed And Why</s>
+<s id='vn1'>5 sản phẩm thất bại và tại sao</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Big corporations launch countless new products every year .</s>
+<s id='vn2'>Những công ty lớn tung ra rất nhiều sản phẩm mới hàng năm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Some recent high-profile successful launches include such diverse products as Apple 's iPad and Pretzel MMs.</s>
+<s id='vn3'>Một số đợt chào hàng thành công nổi tiếng gần đây có các sản phẩm thuộc đủ mọi lĩnh vực khác nhau , chẳng hạn như iPad của Apple và Pretzel MM .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But not every new strategy or product launch goes so well , even those that have a big-name company behind it .</s>
+<s id='vn4'>Nhưng không phải mọi chiến lược tiếp thị mới hay chương trình giới thiệu sản phẩm mới đều thành công , ngay cả khi những chiến dịch này có cả một công ty tên tuổi đứng đằng sau .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Here are some of the biggest flops and failures by huge companies .</s>
+<s id='vn5'>Dưới đây là những thất bại lớn nhất và là những thất bại của các công ty rất lớn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>1 . New Coke</s>
+<s id='vn6'>1 . New Coke</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Often cited as the ultimate example of one of the most notorious product flops - and brand missteps - of all time , New Coke was launched in the mid-1980s by Coca Cola in an attempt to help the soda company stay ahead of competitors during the socalled " cola wars . "</s>
+<s id='vn7'>Thường được viện dẫn như là ví dụ điển hình về một trong những sự thất bại của sản phẩm nhiều điều tiếng nhất - và những sai lầm thương hiệu - mọi thời đại , nhãn hàng New Coke do công ty Coca-Cola giới thiệu lần đầu vào giữa những năm 1980 với nỗ lực nhằm giúp công ty nước giải khát này có lợi thế cạnh tranh trong cái gọi là " cuộc chiến cô-la " .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Instead , it just annoyed consumers .</s>
+<s id='vn8'>Nhưng nó chỉ gây bực mình cho người tiêu dùng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" The tacky way it was introduced made it seem as though the regular Coke drinkers mattered little to the company and a boycott was started , " said Richard Laermer , CEO of RLM PR , a public relations firm New York City , and author of " 2011 : Trendspotting for the Next Decade " .</s>
+<s id='vn9'>" Cách thực hiện tầm thường mà người ta áp dụng đó khiến nó trông có vẻ như thể những người uống cô-ca thường xuyên không có vai trò gì lớn với công ty và sớm bị mọi người tẩy chay " - ông Richard Laermer , giám đốc điều hành công ty RLM PR , một công ty trong lĩnh vực quan hệ công chúng ở thành phố New York , và là tác giả cuốn " Năm 2011 : Trào lưu trong Thập kỷ tới " nói .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>New Coke was abandoned within a few weeks and the original version was then resurrected as " Classic Coke . "</s>
+<s id='vn10'>New Coke bị huỷ trong vài tuần và sản phẩm nguyên thuỷ sau đó đã hồi sinh là " Classic Coke " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>2 . Crystal Pepsi</s>
+<s id='vn11'>2 . Crystal Pepsi</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Pepsi introduced this clear cola in the early 1990s .</s>
+<s id='vn12'>Hãng Pepsi giới thiệu loại sản phẩm cô-la trong suốt này vào đầu những năm 1990 .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Unlike other clear carbonated drinks , this one did n't have a lemon lime flavor - yet it did n't quite have a normal cola flavor either .</s>
+<s id='vn13'>Không giống với những thức uống có ga trong suốt khác , Crystal Pepsi không có hương vị chanh cam - tuy nhiên nó cũng hoàn toàn không có hương vị cô-la thông thường .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Despite a very expensive media blitz , this seethrough soda just did n't catch on .</s>
+<s id='vn14'>Mặc dù có một chiến dịch quảng cáo rầm rộ trên các phương tiện truyền thông rất tốn kém , thức uống xô-đa trong suốt này vẫn không được mọi người ưa chuộng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Pepsi lost hundreds of millions guessing at straws , and they have never recovered fully , " said Laermer .</s>
+<s id='vn15'>" Pepsi mất hàng trăm triệu lượt khách hàng dự đoán sẽ sử dụng sản phẩm , và họ vẫn chưa từng khôi phục hoàn toàn lại được " - Laermer nhận định .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" This was an error competitors still learn from : do n't amend a color that 's acceptable ! "</s>
+<s id='vn16'>" Đây là một sai lầm các đối thủ vẫn có thể rút ra bài học : đừng cố cải thiện một nét đặc trưng nào đó mà đã được thừa nhận ! "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>3 . Arch Deluxe</s>
+<s id='vn17'>3 . Arch Deluxe</s>
+</spair>
+<spair id='18'>
+<s id='en18'>McDonald 's launched this new burger - at a estimated cost of at least $ 150 million for the massive ad campaign - in 1996 , spinning it as a more sophisticated option for consumers and hoping to appeal to adults .</s>
+<s id='vn18'>McDonald ' s giới thiệu chiếc bánh hăm-bơ-gơ mới này - với chi phí ước tính ít nhất 150 triệu đô la Mỹ dành cho chiến dịch quảng cáo quy mô lớn - vào năm 1996 , thêu dệt nó như là một sự lựa chọn tinh vi hơn dành cho người tiêu dùng và hy vọng thu hút những người lớn tuổi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Turns out , sophisticated adult fare is not necessarily a surefire hit with the fast food crowd .</s>
+<s id='vn19'>Hoá ra , đồ ăn của người lớn tuổi tinh vi không tất yếu là một sự lôi cuốn chắc chắn có kết quả với nhóm người thích đồ ăn nhanh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>An AdAge story in 1998 announcing the impending demise of the " ill-fated Arch Deluxe " seemed to imply the burger should have been yanked from the menu much sooner .</s>
+<s id='vn20'>Một bài báo trên tờ AdAge năm 1998 loan tin về cái chết được báo trước của nhãn hàng " Arch Deluxe xấu số " dường như bóng gió rằng bánh hăm-bơ-gơ đáng lẽ phải bị loại khỏi thực đơn từ lâu rồi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A New York Times story in late 1997 cited the Arch Deluxe as a major factor leading to McDonald 's sluggish financial growth the previous quarter .</s>
+<s id='vn21'>Một tin của tờ Thời Báo New York cuối năm 1997 viện dẫn Arch Deluxe như một yếu tố chủ yếu dẫn đến mức tăng trưởng tài chính ì ạch của hãng McDonald trong quý trước đó .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>On the flip side , the company 's McRib – a sandwich consisting of a pork patty in barbecue sauce that was recently reintroduced for a limited time - has been a popular item that has developed a loyal and vocal following .</s>
+<s id='vn22'>Trái lại , sản phẩm mang tên McRib của công ty - một loại xăng-uýt có mẩu bánh thịt heo ướp xốt cay chua ngọt mà gần đây được giới thiệu lại trong một khoảng thời gian ngắn - là sản phẩm phổ biến tạo nên nhóm các khách hàng ủng hộ bằng lời và trung thành .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>4 . Ben-Gay Aspirin</s>
+<s id='vn23'>4 . Aspirin Ben-Gay</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Having a big name behind a new product does n't guarantee success - and sometimes it can even be a hindrance , if the brand is too closely tied to a single product or image .</s>
+<s id='vn24'>Một sản phẩm mới có một tên tuổi lớn đứng phía sau thì cũng không đảm bảo thành công - và đôi khi nó có thể là một cản trở , nếu nhãn hiệu bị ràng buộc quá chặt vào hình ảnh hay sản phẩm đơn nhất nào đó .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Ben-Gay is most known for its unique strong smell - and this pain-relieving balm 's warming_burning sensation upon contact with skin .</s>
+<s id='vn25'>Ben-Gay nổi tiếng nhất về mùi hương mạnh độc đáo của mình - và cảm giác nóng dần lên nóng bỏng của dầu thoa làm giảm đau nhức khi tiếp xúc với da .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Not exactly a good fit for the Ben-Gay aspirin product originally launched by Pfizer years ago .</s>
+<s id='vn26'>Không chắc chắn phù hợp lắm với sản phẩm aspirin Ben-Gay do Pfizer giới thiệu lần đầu trước đây .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>As an Entrepreneur article noted , while the products were associated in that they were designed for pain relief , people just could n't get a taste for swallowing something made a brand they associated with a burning sensation .</s>
+<s id='vn27'>Như một bài báo đăng trên Entrepreneur đã chú thích , khi các sản phẩm hữu quan được dành để làm dịu vết đau thì người ta không thể quen với việc nuốt cái gì đó đã làm nên một thương hiệu mà họ có cảm giác nóng rát .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Ben-Gay made the fatal mistake of attaching a recognizable brand name to something totally out of character .</s>
+<s id='vn28'>Ben-Gay mắc sai lầm chết người là gắn tên tuổi thương hiệu đã được thừa nhận vào thứ hoàn toàn không có danh tiếng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>5 . The Zune</s>
+<s id='vn29'>5 . Zune</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Microsoft first introduced this portable media player in 2006 , with several new generations of the device to follow .</s>
+<s id='vn30'>Microsoft giới thiệu lần đầu tiên chương trình dùng để xem phim nghe nhạc di động này vào năm 2006 , với một số thế hệ thiết bị mới tiếp theo .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The Zune faced several major challenges : namely , inevitable comparisons to the iPod , which rules the portable media marketplace , and the fact that its software is only available for Windows ( so far ) .</s>
+<s id='vn31'>Zune gặp những thách thức lớn : đó là , những so sánh không thể tránh khỏi với iPod , sản phẩm thống trị thị trường phương tiện nghe nhìn xách tay , và thực tế phần mềm của nó chỉ có thể sử dụng được đối với Windows ( đến thời điểm hiện tại ) .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In a financial report covering the fiscal quarter ending in December 2008 , Microsoft said Zune revenues had decreased by 54% , or $ 100 million .</s>
+<s id='vn32'>Trong một báo cáo tài chính bao gồm quý tài khoá kết thúc vào tháng 12 năm 2008 , Microsoft cho biết doanh thu của Zune đã giảm 54% , tức 100 triệu đô la Mỹ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Laermer blames the bust on several factors , including software that was constantly changing and iPod 's head start of several years in the market .</s>
+<s id='vn33'>Laermer đổ lỗi phá sản cho một số nhân tố , bao gồm phần mềm liên tục thay đổi và sự khởi đầu thuận lợi của iPod nhiều năm trên thị trường .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The Bottom Line</s>
+<s id='vn34'>Lời kết</s>
+</spair>
+<spair id='35'>
+<s id='en35'>As the old saying goes , there 's no such thing as a sure thing .</s>
+<s id='vn35'>Như châm ngôn xưa có nói , không có gì là chắc chắn cả .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Not every concept - even those that seem promising in the development and research stages - can survive the marketplace .</s>
+<s id='vn36'>Không phải mọi quan niệm - ngay cả những thứ trông có vẻ hứa hẹn trong các giai đoạn nghiên cứu và phát triển - có thể tồn tại ngoài thương trường .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Even major , successful companies drop the ball once in a while .</s>
+<s id='vn37'>Thậm chí những công ty thành công , lớn mạnh cũng đôi khi mắc sai lầm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Luckily , most seem to bounce back from the failure - eventually .</s>
+<s id='vn38'>May thay , rốt cuộc thì hầu hết dường như đều đứng dậy nhanh chóng sau khi trượt ngã .</s>
+</spair>
+</text>
+</doc>

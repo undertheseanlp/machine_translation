@@ -1,0 +1,244 @@
+﻿<doc id='N0181'>
+<head>
+<title>First Aid : Burns</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>First Aid : Burns</s>
+<s id='vn1'>Sơ cứu : Phỏng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>From Healthwise</s>
+<s id='vn2'>Theo Healthwise</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Most burns are minor injuries that occur at home or work .</s>
+<s id='vn3'>Đa số phỏng là những thương tổn nhỏ xảy ra ở nhà hoặc tại chỗ làm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It is common to get a minor burn from hot water , a curling iron , or touching a hot stove .</s>
+<s id='vn4'>Đây là chuyện bình thường khi bị phỏng nhẹ từ nước nóng , kẹp uốn tóc , hoặc chạm vào bếp lò nóng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Home treatment is usually all that is needed for healing and to prevent other problems , such as infection .</s>
+<s id='vn5'>Chỉ cần chữa trị tại nhà là đủ để lành và ngăn ngừa những vấn đề khác , ví dụ như nhiễm trùng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are many types of burns .</s>
+<s id='vn6'>Có nhiều loại phỏng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Heat burns ( thermal burns ) are caused by fire , steam , hot objects , or hot liquids .</s>
+<s id='vn7'>Phỏng do sức nóng ( phỏng nhiệt ) gây ra do hoả hoạn , hơi nước , vật thể nóng , hoặc chất lỏng nóng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Scald burns with hot liquid are the most common burns to children and older adults .</s>
+<s id='vn8'>Phỏng nước sôi với chất lỏng nóng là phỏng thường gặp nhất ở trẻ em và người già .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Electrical burns are caused by contact with electrical sources or by lightning .</s>
+<s id='vn9'>Phỏng điện gây ra do tiếp xúc với nguồn điện hoặc do sét đánh .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Chemical burns are caused by contact with household or industrial chemicals in a liquid , solid , or gas form .</s>
+<s id='vn10'>Phỏng hoá chất gây ra do tiếp xúc với hoá chất gia dụng hoặc công nghiệp trong dạng lỏng , rắn , hoặc khí .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Natural foods such as chili peppers , which contain a substance irritating to the skin , can cause a burning sensation .</s>
+<s id='vn11'>Thức ăn tự nhiên như là quả ớt , chứa chất kích thích với da , có thể gây ra cảm giác phỏng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Radiation burns are caused by the sun , tanning booths , sunlamps , X-rays , or radiation therapy for cancer treatment .</s>
+<s id='vn12'>Phỏng phóng xạ gây ra do mặt trời , buồng tắm nắng , đèn chiếu mạnh , X-quang , hoặc xạ trị cho điều trị ung thư .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Friction burns are caused by contact with any hard surface such as roads ( " road rash " ) , carpets , or gym floor surfaces .</s>
+<s id='vn13'>Phỏng do ma sát gây ra do sự tiếp xúc với bất kỳ bề mặt cứng nào như là con đường ( " lát da ; da bị trầy xước " ) , thảm , hoặc các bề mặt sàn thể dục .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They are usually both a scrape ( abrasion ) and a heat burn .</s>
+<s id='vn14'>Chúng thường là cả phỏng do trầy xước ( sự mài mòn ) và phỏng do sức nóng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Friction burns to the skin are seen in athletes who fall on floors , courts , or tracks .</s>
+<s id='vn15'>Phỏng do ma sát ở da thường thấy trong các vận động viên rơi xuống từ trên tầng cao , sân thể thao , hoặc đường đi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Motorcycle or bicycle riders who have road accidents while not wearing protective clothing might get friction burns .</s>
+<s id='vn16'>Người chạy xe máy hoặc xe đạp bị tai nạn trên đường khi không mặc quần áo bảo hộ có thể bị phỏng do ma sát .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For information on treatment for friction burns , see the topic Scrapes .</s>
+<s id='vn17'>Để biết thêm thông tin về cách điều trị phỏng do ma sát , hãy xem chuyên mục Scrapes .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Breathing in hot air or gases can injure your lungs ( inhalation injuries ) .</s>
+<s id='vn18'>Hít thở không khí hoặc hơi nóng có thể làm hại phổi của bạn ( thương tổn hô hấp ) .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Breathing in toxic gases , such as carbon monoxide , can cause poisoning .</s>
+<s id='vn19'>Hít thở khí độc , như là khí CO , có thể gây ra ngộ độc .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Burns injure the skin layers and can also injure other parts of the body , such as muscles , blood vessels , nerves , lungs , and eyes .</s>
+<s id='vn20'>Phỏng làm hại lớp da và cũng có thể làm hại các bộ phận khác của cơ thể , như là các cơ , mạch máu , dây thần kinh , phổi , và mắt .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Burns are defined as first-degree , second-degree , third-degree , or fourth-degree , depending on how many layers of skin and tissue are burned .</s>
+<s id='vn21'>Phỏng được định nghĩa là độ một , hai , ba , hoặc bốn , tùy vào mức độ lớp da và mô bị phỏng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The deeper the burn and the larger the burned area , the more serious the burn is .</s>
+<s id='vn22'>Phỏng càng sâu và diện tích phỏng càng rộng thì phỏng càng nặng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>First-degree burns are burns of the first layer of skin .</s>
+<s id='vn23'>Phỏng một độ là phỏng của lớp da đầu tiên .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>See a picture of a first-degree burn .</s>
+<s id='vn24'>Thấy trong ảnh là phỏng độ một .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>There are two types of second-degree burns :</s>
+<s id='vn25'>Có hai kiểu phỏng độ hai :</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Superficial partial-thickness burns injure the first and second layers of skin .</s>
+<s id='vn26'>Phỏng theo sâu một phần trên bề mặt làm hại lớp da đầu tiên và thứ hai .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>See a picture of this type of second-degree burn .</s>
+<s id='vn27'>Thấy trong bức tranh là loại phỏng độ hai này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Deep partial-thickness burns injure deeper skin layers .</s>
+<s id='vn28'>Phỏng sâu một phần làm hại lớp da sâu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>See a picture of this type of deep second-degree burn .</s>
+<s id='vn29'>Xem bức tranh là loại phỏng độ hai sâu này .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Third-degree burns ( full-thickness burns ) injure all the skin layers and tissue under the skin .</s>
+<s id='vn30'>Phỏng độ ba ( phỏng sâu toàn bộ ) làm hại tất cả các lớp da và mô dưới da .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>See a picture of a third-degree burn .</s>
+<s id='vn31'>Xem ảnh là phỏng độ ba .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>These burns always require medical treatment .</s>
+<s id='vn32'>Phỏng này luôn đòi hỏi phải chữa trị .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Fourth-degree burns extend through the skin to injure muscle , ligaments , tendons , nerves , blood vessels , and bones .</s>
+<s id='vn33'>Phỏng độ bốn mở rộng xuyên qua da làm hại đến cơ , dây chằng , gân , dây thần kinh , mạch máu , và xương .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>These burns always require medical treatment .</s>
+<s id='vn34'>Phỏng này luôn đòi hỏi điều trị .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The seriousness of a burn is determined by several factors , including :</s>
+<s id='vn35'>Mức độ nghiêm trọng của phỏng được xác định bởi nhiều yếu tố , bao gồm :</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The depth , size , cause , affected body area , age , and health of the burn victim .</s>
+<s id='vn36'>Độ sâu , kích thước , nguyên nhân , vùng cơ thể bị ảnh hưởng , tuổi , và sức khỏe của nạn nhân phỏng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Any other injuries that occurred , and the need for follow-up care .</s>
+<s id='vn37'>Mọi thương tổn khác xảy ra , và cần có bước săn sóc tiếp theo .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Burns affect people of all ages , though some are at higher risk than others .</s>
+<s id='vn38'>Phỏng tấn công mọi người ở mọi lứa tuổi , cho dù một số người có nguy cơ cao hơn so với những người khác .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Most burns that occur in children younger than age 5 are scald burns from hot liquids .</s>
+<s id='vn39'>Đa số phỏng xảy ra ở trẻ em nhỏ hơn 5 tuổi là phỏng nước sôi từ chất lỏng nóng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Over half of all burns occur in the 18 to 64-year-old age group .</s>
+<s id='vn40'>Hơn một nửa của tất cả trường hợp phỏng xảy ra trong nhóm tuổi từ 18 đến 64 tuổi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Older adults are at a higher risk for burns , mostly scald burns from hot liquids .</s>
+<s id='vn41'>Người già có nguy cơ phỏng cao hơn , chủ yếu là phỏng nước sôi từ chất lỏng nóng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Men are twice as likely to have burn injuries as women .</s>
+<s id='vn42'>Nam giới có khả năng bị phỏng gấp 2 lần phụ nữ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Burns in children</s>
+<s id='vn43'>Phỏng ở trẻ em</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Babies and young children may have a more severe reaction from a burn than an adult .</s>
+<s id='vn44'>Trẻ sơ sinh và trẻ nhỏ có thể có phản ứng nặng hơn từ phỏng so với người trưởng thành .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>A burn in an adult may cause a minor loss of fluids from the body , but in a baby or young child , the same size and depth of a burn may cause a severe fluid loss .</s>
+<s id='vn45'>Phỏng ở người trưởng thành có thể gây ra mất không đáng kể chất dịch cơ thể , nhưng với em bé hoặc trẻ nhỏ , một vết phỏng cùng kích thước và độ sâu có thể gây ra mất chất dịch đáng kể .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>A child 's age determines how safe his or her environment needs to be , as well as how much the child needs to be supervised .</s>
+<s id='vn46'>Tuổi của trẻ quyết định môi trường an toàn cần cho nó , cũng như việc cần phải giám sát trẻ cẩn thận thế nào .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>At each stage of a child 's life , look for burn hazards and use appropriate safety measures .</s>
+<s id='vn47'>Ở mỗi giai đoạn tuổi của bé , hãy chú ý đến những hiểm nguy về phỏng và sử dụng các biện pháp an toàn thích hợp .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Since most burns happen in the home , simple safety measures might prevent accidents and decrease the chance of anyone getting burned .</s>
+<s id='vn48'>Bởi vì đa số phỏng xảy ra trong nhà , biện pháp an toàn đơn giản có thể ngăn ngừa tai nạn và giảm nguy cơ bị phỏng cho bất kỳ ai .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>See the Prevention section of this topic .</s>
+<s id='vn49'>Xem phần " Ngăn ngừa " của chủ đề này .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Most burns are accidental .</s>
+<s id='vn50'>Đa số phỏng là ngẫu nhiên .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>When a child or vulnerable adult is burned , it is important to find out how the burn happened .</s>
+<s id='vn51'>Khi một đứa trẻ hoặc người trưởng thành dễ bị tổn thương bị phỏng , điều quan trọng là phải tìm hiểu tại sao phỏng xảy ra .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If the reported cause of the burn does not match how the burn looks , abuse must be considered .</s>
+<s id='vn52'>Nếu nguyên nhân phỏng được báo cáo không khớp với biểu hiện của vết phỏng , việc dùng thuốc phải được xem xét .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Self-inflicted burns will require treatment as well as an evaluation of the person 's emotional health .</s>
+<s id='vn53'>Phỏng do tự gây ra sẽ cần điều trị cũng như đánh giá về sức khỏe tâm thần của bệnh nhân .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Infection is a concern with all burns .</s>
+<s id='vn54'>Nhiễm trùng là điều cần chú trọng trong tất cả dạng phỏng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Watch for signs of infection during the healing process .</s>
+<s id='vn55'>Quan sát dấu hiệu của nhiễm trùng trong quá trình lành lại .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Home treatment for a minor burn will reduce the risk of infection .</s>
+<s id='vn56'>Chữa trị tại nhà cho phỏng nhẹ sẽ giảm nguy cơ bị nhiễm trùng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Deep burns with open blisters are more likely to become infected and need medical treatment .</s>
+<s id='vn57'>Phỏng sâu với bóng nước bể có thể dễ bị nhiễm trùng và cần điều trị .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Review the Emergencies and Check Your Symptoms sections to determine if and when you need to see a doctor .</s>
+<s id='vn58'>Xem phần " Tình trạng khẩn cấp " và " Kiểm tra triệu chứng của bạn " để xác định khi nào thì bạn cần đi khám bác sĩ .</s>
+</spair>
+</text>
+</doc>

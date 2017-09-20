@@ -1,0 +1,584 @@
+﻿<doc id='N0476'>
+<head>
+<title>Priceless holiday gifts</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Priceless holiday gifts</s>
+<s id='vn1'>Các quà tặng ngày lễ vô giá</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you had to guess what kids love most about the holidays , what would it be ?</s>
+<s id='vn2'>Nếu bạn phải đoán xem trẻ con thích gì nhất về ngày lễ thì sẽ đoán cái gì nào ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Lots of people - kids and grownups alike - would probably say getting presents .</s>
+<s id='vn3'>Nhiều người - già trẻ đều giống nhau - ắt hẳn là sẽ thích được tặng quà .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Just look at those crowded shopping malls and all those catalogs that come in the mail !</s>
+<s id='vn4'>Hãy nhìn những trung tâm thương mại , những khu mua sắm đông đúc và hết thảy các ca-ta-lô trong mail xem !</s>
+</spair>
+<spair id='5'>
+<s id='en5'>As the winter holidays draw near , kids are thinking only about what they will get , right ?</s>
+<s id='vn5'>Khi kỳ nghỉ đông đến gần thì trẻ con chỉ nghĩ tới những gì chúng được nhận thôi , đúng không ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Wrong .</s>
+<s id='vn6'>Sai rồi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>More Than Presents</s>
+<s id='vn7'>Hơn cả quà tặng nữa kìa</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Based on some researchs we did last holiday season , we happily report that kids look forward to a lot more than just presents .</s>
+<s id='vn8'>Căn cứ vào một số nghiên cứu vào mùa lễ năm trước , chúng tôi rất vui mừng biết rằng trẻ em hiện mong muốn được nhận được nhiều thứ khác hơn là quà nữa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>About 300 kids answered our 2004 email survey about the holidays .</s>
+<s id='vn9'>Khoảng 300 bé đã trả lời cho cuộc khảo sát bằng email về ngày lễ của chúng tôi vào năm 2004 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Here 's what they told us :</s>
+<s id='vn10'>Dưới đây là những gì chúng tôi muốn thông báo đến bạn :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Nine-year-old Preshious said : " I celebrate family and friends and it is NOT just about presents ! "</s>
+<s id='vn11'>Preshious , 9 tuổi cho biết : " Em thích tổ chức tiệc tùng với gia đình và bạn bè của em và KHÔNG PHẢI chỉ quà tặng đâu !</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Jordan , 10 , likes to sing and help with the Christmas tree .</s>
+<s id='vn12'>Jordan , 10 tuổi , thích ca hát và giúp trang trí cây thông Nô-en .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Fourteen-year-old Peter said his favorite part of the holidays is that " we 're all together . "</s>
+<s id='vn13'>Cậu bé Peter , 14 tuổi tiết lộ mình yêu thích mùa lễ bởi " chúng mình cùng được quây quần bên nhau . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Christmas may be the first holiday that comes to mind this time of year , but kids are celebrating other special days , too .</s>
+<s id='vn14'>Có lẽ Giáng sinh là ngày lễ mà bọn trẻ nghĩ đến đầu tiên trong năm nay , nhưng chúng cũng kỉ niệm các ngày lễ đặc biệt khác nữa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Ten-year-old Hallie celebrates Hanukkah , a Jewish holiday .</s>
+<s id='vn15'>Hallie , 10 tuổi , kỉ niệm lễ Hanukkah - một lễ hội của người Do Thái .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>She said she likes when her family reads a prayer from the Torah .</s>
+<s id='vn16'>Em cho biết em thích gia đình mình đọc kinh cầu nguyện trong bộ Ngũ thư .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Harley , 11 , celebrates Hanukkah , too .</s>
+<s id='vn17'>Harley , 11 tuổi , cũng kỉ niệm lễ Hanukkah .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>She likes lighting the candles on the menorah .</s>
+<s id='vn18'>Em thích thắp những ngọn nến lung linh lên giá .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Other kids are celebrating Eid , which marks the end of Ramadan , a month of daytime fasting for those who are Muslim .</s>
+<s id='vn19'>Những em nhỏ khác thì kỉ niệm lễ Eid , để kỉ niệm kết thúc tháng ăn chay , nhịn ăn của đạo Hồi , người Hồi giáo thường nhịn ăn vào ban ngày trong tháng này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Hiba , 12 , said she likes celebrating Eid by going on family trips to far-off places like the United Arab Emirates .</s>
+<s id='vn20'>Hiba , 12 tuổi , cho biết em cũng thích kỉ niệm lễ Eid bằng cách tham gia các chuyến du lịch gia đình đến những vùng xa xôi hẻo lánh như các tiểu vương quốc Ả Rập thống nhất .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>For the holiday , Hiba likes to wear traditional clothes and put henna on her hands and legs .</s>
+<s id='vn21'>Vào dịp lễ , Hiba thích mặc các trang phục truyền thống và tô thuốc nhuộm đỏ , lên tay và chân của mình .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" I like wearing traditional clothes because everyone says I look so much like a nice village girl living in my country . "</s>
+<s id='vn22'>" Em thích mặc trang phục truyền thống bởi ai cũng nói em nhìn rất giống một cô gái miền quê cả . "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Families Rule</s>
+<s id='vn23'>Phép tắc gia đình</s>
+</spair>
+<spair id='24'>
+<s id='en24'>No matter which holiday kids were celebrating , many said spending time with family was special to them .</s>
+<s id='vn24'>Dù cho bọn trẻ có kỉ niệm ngày lễ nào đi nữa nhưng nhiều em vẫn khẳng định rằng khoảng thời gian quây quần bên gia đình mới là đặc biệt đối với chúng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Jolene , 12 , likes having dinner , opening presents , and going snowboarding with her family .</s>
+<s id='vn25'>Jolene , 12 tuổi , thích ăn tối , thích mở quà và lướt ván tuyết cùng với gia đình của mình .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Nine-year-old Michelle likes singing " Holy One " in Spanish .</s>
+<s id='vn26'>Michelle , 9 tuổi , thích hát bài " Holy One " bằng tiếng Tây Ban Nha .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>And being around the Christmas tree " gives me time to tell my family I love them . "</s>
+<s id='vn27'>Và bên cây thông Nô-en " cho em một dịp để em có thể nói với gia đình mình rằng em yêu họ . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Georgia , 10 , likes just being with family , especially her dad .</s>
+<s id='vn28'>Georgia , 10 tuổi , chỉ thích được ở cùng với gia đình , nhất là bố của em .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" My dad works day and night working his bum off and in the holidays we get to see him . "</s>
+<s id='vn29'>" Bố em làm việc suốt ngày đêm và chỉ có ngày lễ nhà em mới có bố . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Erika , 8 , likes going to her grandparents ' house .</s>
+<s id='vn30'>Erika 8 tuổi , thích đến nhà ông bà ; .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Lindsay also likes visiting her grandma , who she describes as " really fun ! "</s>
+<s id='vn31'>Lindsay cũng thích đến thăm bà , người mà em thường miêu tả là " rất vui tính ! "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Shakara , 14 , likes " sitting with family and talking about the good old days " at holiday time .</s>
+<s id='vn32'>Shakara , 14 tuổi , lại thích " ngồi với gia đình và ôn lại những ngày xưa yêu dấu của mình " vào ngày lễ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Fabulous Food</s>
+<s id='vn33'>Thức ăn ngon</s>
+</spair>
+<spair id='34'>
+<s id='en34'>When you get families together , good food often follows .</s>
+<s id='vn34'>Khi các thành viên trong gia đình tụ họp quây quần bên nhau thì không thể thiếu thức ăn ngon rồi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Lots of kids told us they have fun making holiday foods and eating them .</s>
+<s id='vn35'>Nhiều trẻ tiết lộ rằng làm các món ăn và được ăn các thức ăn ngon đó quả là rất vui .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Eleven-year-old Alexa and her mom make chocolate-covered spoons and pretzels .</s>
+<s id='vn36'>Alexa , 11 tuổi cùng mẹ phủ sô-cô-la đầy lên những cái thìa và bánh quy cây ; .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Alanna , 9 , likes to eat flaming Christmas cake .</s>
+<s id='vn37'>Bé Alanna , 9 tuổi , rất mê ăn bánh trái cây Nô-en rực hồng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>At Sara 's house , they have a party with lobster , but her mom wo n't let her see the lobster until it 's cooked .</s>
+<s id='vn38'>Gia đình Sara tổ chức một buổi tiệc tôm hùm ở nhà em nhưng đến khi tôm chín mẹ mới cho em nhìn thấy .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" She does n't want me to treat it like a pet .</s>
+<s id='vn39'>" Mẹ không muốn em đối xử với tôm như một con vật cưng trong nhà .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>I wo n't eat it then ! "</s>
+<s id='vn40'>Em sẽ chẳng ăn đâu ! "</s>
+</spair>
+<spair id='41'>
+<s id='en41'>All this food is n't just delicious .</s>
+<s id='vn41'>Tất cả các thức ăn này không chỉ đem lại cảm giác ngon miệng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It 's another chance to spend time with family .</s>
+<s id='vn42'>Nó còn là dịp để gia đình họp mặt bên nhau .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Lizzie , 9 , said she loves building a gingerbread house and baking cookies because " it 's fun to cook with my mom . "</s>
+<s id='vn43'>Lizzie , 9 tuổi , thổ lộ rằng em rất thích xây một ngôi nhà bằng bánh gừng và nướng bánh quy vì " nấu ăn với mẹ rất vui . "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>And at Analyse 's house , they bring food and family together in an unusual way : with a mashed potato-eating contes t !</s>
+<s id='vn44'>Còn gia đình của Analyse thì tổ chức ăn uống một cách khác thường : thi ăn tranh khoai tây nghiền nhừ !</s>
+</spair>
+<spair id='45'>
+<s id='en45'>To us , that sounds like a recipe for a stomachache , but Analyse disagrees .</s>
+<s id='vn45'>Đối với chúng tôi thì việc này nghe có vẻ muốn đau dạ dày đây , nhưng Analyse không nghĩ vậy .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>" It is fun and competitive ... and the potatoes are tasty ! "</s>
+<s id='vn46'>" Ăn tranh ... rất vui và hào hứng ... khoai tây cũng rất ngon ! "</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Playing Together</s>
+<s id='vn47'>Chơi với nhau</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Besides eating , what else are kids doing at holiday time ?</s>
+<s id='vn48'>Ngoài việc được ăn uống thì trẻ còn làm gì khác vào dịp nghỉ lễ ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Decorating the house , of course .</s>
+<s id='vn49'>Tất nhiên là trang trí nhà cửa rồi .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Ryan , 9 , likes setting up the Christmas tree because " it 's fun and you can't really get into trouble . "</s>
+<s id='vn50'>Ryan , 9 tuổi , thích dựng cây thông Nô-en bởi theo em thì " nó rất vui và thực sự không khó khăn gì đâu . "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Molly , 11 , likes decorating and putting up the lights outside .</s>
+<s id='vn51'>Molly , 11 tuổi , thích trang trí và treo đèn bên ngoài ngôi nhà của mình .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>In those well-decorated houses , families are singing and dancing .</s>
+<s id='vn52'>Trong căn nhà được trang trí đẹp mắt , các gia đình hát hò và cùng nhau khiêu vũ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Yurat , 13 , sent his comments to us in Spanish .</s>
+<s id='vn53'>Yurat , 13 tuổi , ghi chú cho chúng tôi vài dòng bằng tiếng Tây Ban Nha .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Translated , we learned that his family does Mexican dances at holiday time .</s>
+<s id='vn54'>Dịch ra thì chúng tôi hiểu được là gia đình cậu bé nhảy những điệu vũ của Mê-hi-cô vào dịp lễ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Marianne , 13 , likes doing Christmas karaoke with her family .</s>
+<s id='vn55'>Marianne , 13 tuổi , rất mê hát ca-ra-ô-kê với gia đình .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>( Karaoke is when people sing into a microphone along with the music - and they don't always sound good ! )</s>
+<s id='vn56'>( hát ca-ra-ô-kê là hát vào mi-crô có nhạc đệm thu sẵn – và không phải lúc nào cũng nghe hay cả đâu ! )</s>
+</spair>
+<spair id='57'>
+<s id='en57'>At Abbie 's house , they dance to Irish music because her family is part Irish .</s>
+<s id='vn57'>Gia đình của Abbie , khiêu vũ theo điệu nhạc của Ái Nhĩ Lan vì gia đình em cũng một phần xuất xứ từ nước này .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>" The Irish songs are jolly and bouncy . "</s>
+<s id='vn58'>" Các ca khúc của Ái Nhĩ Lan rất dễ thương và vui nhộn . "</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Nikki , 10 , said she likes visiting a family friend 's farm .</s>
+<s id='vn59'>Nikki , 10 tuổi , cho biết em rất thích đi thăm nông trại của một người bạn của gia đình .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>They ride through the fields on a tractor to see dozens of decorated Christmas trees .</s>
+<s id='vn60'>Người ta chở em qua nhiều cánh đồng bằng máy kéo để ngắm vô số cây thông Nô-en được trang trí xinh đẹp .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Lots of kids said they liked being out in the snow , throwing snowballs , skiing , snowboarding , or snowmobiling .</s>
+<s id='vn61'>Rất nhiều đứa trẻ khác cho biết chúng thích được ở ngoài tuyết , ném tuyết , trượt tuyết , lướt ván tuyết , hoặc chạy xe máy trên tuyết và băng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Grace , 11 , said her family has a splashing way to warm up after playing in the snow :</s>
+<s id='vn62'>Grace , 11 tuổi , nói gia đình mình thường chơi nghịch nước để sưởi ấm sau khi chơi ngoài tuyết xong .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>They jump into the hot tub .</s>
+<s id='vn63'>Mọi người nhảy vào trong một bồn tắm nóng .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>" You get all cold and wet and then you warm up your whole body from head to toe .</s>
+<s id='vn64'>" Bạn bị ướt lạnh hết và rồi sưởi ấm cả người từ đầu đến chân .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>It 's really fun ! "</s>
+<s id='vn65'>Thật sự rất vui ! "</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Giving Feels Good</s>
+<s id='vn66'>Cảm giác ban tặng làm mình thoải mái</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Speaking of warm holiday feelings , many kids also told us how they help others at holiday time .</s>
+<s id='vn67'>Chia sẻ về cảm giác những ngày lễ ấm áp , nhiều em nhỏ cũng bày tỏ cách giúp đỡ người khác vào dịp nghỉ của mình .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>They help by supporting food banks , soup kitchens , shelters , and groups such as the Salvation Army , Toys for Tots , and Operation Christmas Child .</s>
+<s id='vn68'>Chúng giúp bằng cách hỗ trợ kho thực phẩm cứu tế , bếp ăn từ thiện , nhà cho người vô gia cư và các nhóm khác như Salvation Army , Toys for Tots , và Operation Christmas Child .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Kids said giving was the right thing to do , but many also told us how it made them feel .</s>
+<s id='vn69'>Các em cho biết việc cho đi là điều đúng đắn nhưng nhiều em khác cũng bộc lộ cảm xúc của mình qua việc san sẻ , giúp đỡ người khác .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>In a word , it makes them feel good .</s>
+<s id='vn70'>Nói tóm lại , những việc làm ấy tạo cho các em một tinh thần thoải mái , dễ chịu .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Gina , 13 , gives traditional holiday foods to the elderly .</s>
+<s id='vn71'>Gina , 13 tuổi , thường mang thức ăn của ngày lễ truyền thống cho người già .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Morgan , 13 , donates food to the food pantry at her church .</s>
+<s id='vn72'>Morgan , 13 tuổi , quyên góp thực phẩm cho phòng để thức ăn ở nhà thờ của mình .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>The food goes into baskets that are delivered to needy people .</s>
+<s id='vn73'>Thực phẩm được cho vào giỏ và phân phát cho người thiếu thốn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Morgan said , " I like to see the joy on their faces . "</s>
+<s id='vn74'>Morgan bày tỏ " Em thích được nhìn thấy niềm vui trên khuôn mặt người khác . "</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Nine-year-old Kari said her family donates toys and presents to needy children .</s>
+<s id='vn75'>Kari , 9 tuổi , cho biết gia đình mình tặng đồ chơi và quà cho trẻ em nghèo .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>" I always feel great when I get presents .</s>
+<s id='vn76'>" Khi đi mua quà lúc nào em cũng thấy rất vui .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>So when I give them , I am almost sure that the person who received it is very happy . "</s>
+<s id='vn77'>Vì vậy , khi được nhận những món quà này , chắc chắn các bạn nhỏ cũng sẽ rất vui . "</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Sammy , 13 , helps others by feeding the homeless and spending time with them .</s>
+<s id='vn78'>Sammy , 13 tuổi , giúp đỡ người khác bằng cách mang thức ăn cho người vô gia cư và ở cùng với họ .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" It might sound creepy , but it 's really not that bad .</s>
+<s id='vn79'>" Nghe có vẻ sởn gai ốc đấy nhưng thực sự không phải tệ lắm đâu .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>It 's nice to see them smile . "</s>
+<s id='vn80'>Cái cảm giác nhìn thấy họ cười thật là tuyệt vời . "</s>
+</spair>
+<spair id='81'>
+<s id='en81'>So kids are donating money , toys , clothes , and food , but they 're also sharing something that does n't cost any money .</s>
+<s id='vn81'>Bên cạnh việc quyên góp tiền , đồ chơi , áo quần và thức ăn , thì bọn trẻ còn chia sẻ một thứ khác mà không phải tốn một đồng tiền nào .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>What is it ?</s>
+<s id='vn82'>Đó là gì ?</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Their kindness and good cheer .</s>
+<s id='vn83'>Là lòng hảo tâm và sự lạc quan vui vẻ .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Eight-year-old Deena visits relatives " so they wo n't feel lonely . " Valerie , 12 , also visits the elderly at the holidays .</s>
+<s id='vn84'>Deena , 8 tuổi , thăm viếng họ hàng " nhờ vậy họ không còn cảm thấy cô đơn nữa . " Valerie , 12 tuổi , cũng đến thăm người già nhân dịp lễ của mình .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>And Jary , 11 , helps others by sending letters to a soldier serving in Iraq .</s>
+<s id='vn85'>Và Jary , 11 tuổi , giúp người khác bằng cách gởi thư cho lính đóng quân ở Iraq .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>" It makes his days in Iraq a little more better . "</s>
+<s id='vn86'>" Lá thư này sẽ làm cho những ngày tháng của chú ấy ở Iraq thêm vui vẻ và ý nghĩa hơn . "</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Marissa , 7 , said she helps others this way : " I have a good prayer for everyone in the world so I know they 're OK and safe as can be . "</s>
+<s id='vn87'>Marissa , 7 tuổi , tâm sự rằng em giúp đỡ những người khác bằng cách " cầu nguyện cho tất cả mọi người trên thế giới này vì vậy em biết rằng ai cũng bình yên và an toàn đến mức có thể . "</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Kids Can Lead the Way</s>
+<s id='vn88'>Trẻ cần phải chỉ dẫn</s>
+</spair>
+<spair id='89'>
+<s id='en89'>You might not know it , but a lot of grownups are wondering how to celebrate the holidays in a more meaningful way .</s>
+<s id='vn89'>Bạn có thể chưa biết , nhưng nhiều người lớn cũng đang phân vân làm sao kỉ niệm những ngày lễ này một cách có ý nghĩa hơn .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>To grownups , more meaningful means slowing down , spending less money , and worrying less about buying tons of expensive gifts for everyone .</s>
+<s id='vn90'>Đối với người lớn thì việc có ý nghĩa hơn đồng nghĩa với hoạt động chậm lại , tốn kém ít hơn , và không phải bận tâm nhiều về việc mua nhiều quà tặng đắt tiền cho hết thảy mọi người .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>To kids , this might sound like bad news .</s>
+<s id='vn91'>Đối với trẻ con thì chuyện này nghe có vẻ như là một tin buồn đấy .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Does that mean you might get fewer computer games , clothes , and other cool stuff ?</s>
+<s id='vn92'>Có nghĩa là bạn có thể được ít trò chơi máy tính hơn , ít áo quần hơn và cũng ít đồ xịn hơn sao ?</s>
+</spair>
+<spair id='93'>
+<s id='en93'>It might .</s>
+<s id='vn93'>Có thể đó chứ .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>But a ton of presents is n't as important as the great family times and holiday traditions kids love sharing with the people they care about .</s>
+<s id='vn94'>Nhưng nhiều quà tặng cũng không quan trọng bằng thời gian vui vẻ hạnh phúc bên gia đình và truyền thống ngày lễ mà nhiều đứa trẻ thích chia sẻ cùng những người mà chúng yêu thương .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>And we 're not talking about no presents at all .</s>
+<s id='vn95'>Và chúng ta không nói là không có quà tặng gì cả .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>That would be awful - for kids and adults alike !</s>
+<s id='vn96'>Cả trẻ nhỏ và người lớn đều cảm thấy nếu không có quà thì quả thực là điều kinh khủng đấy .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The good news is that families can start small .</s>
+<s id='vn97'>Một tin vui là các gia đình có thể bắt đầu với món quà nhỏ thôi .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Here are some ideas that you might want to share with your parents .</s>
+<s id='vn98'>Dưới đây là một số ý kiến mà bạn có lẽ cũng cần chia sẻ với bố mẹ mình .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>The goal is to slow down and enjoy the holidays together .</s>
+<s id='vn99'>Tiêu chí là chậm lại và cùng nhau thưởng thức ngày lễ .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Start putting names in a hat</s>
+<s id='vn100'>Hãy bắt đầu để tên trong mũ nhé</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Maybe you 've done this at school before ?</s>
+<s id='vn101'>Có lẽ là bạn cũng đã từng làm việc này ở trường rồi phải không ?</s>
+</spair>
+<spair id='102'>
+<s id='en102'>You put everyone 's name on a little piece of paper and put all the slips in a hat or a shoebox .</s>
+<s id='vn102'>Bạn viết tên của hết thảy mọi người trên một miếng giấy nhỏ và để tất cả các mảnh giấy đó vào nón hoặc hộp đựng giày .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Then each person pulls out a name and buys a gift for just this person .</s>
+<s id='vn103'>Mỗi người sẽ rút ra một lá thăm có tên và mua một món quà cho người ấy .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Using this method , everyone gets a present , but each person only has to buy one gift .</s>
+<s id='vn104'>Bằng cách này thì ai cũng có quà , nhưng mỗi người chỉ mua một món quà thôi .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>You can set a spending limit , too , to make it easier to decide what you should buy .</s>
+<s id='vn105'>Bạn cũng có thể giới hạn mức tiền mua quà nữa để có thể quyết định nên mua gì dễ dàng hơn .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Make presents instead of buying them</s>
+<s id='vn106'>Hãy tự tay làm quà tặng thay vì phải mua</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Lots of grownups like receiving homemade gifts .</s>
+<s id='vn107'>Nhiều người lớn thích được nhận quà tự làm .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Here are some ideas :</s>
+<s id='vn108'>Dưới đây là một số ý kiến nhé :</s>
+</spair>
+<spair id='109'>
+<s id='en109'>* Decorate a photo frame and include a special photo .</s>
+<s id='vn109'>* Trang trí khung hình và ghép vào đó một tấm hình đặc biệt .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>You also might frame some tickets from a special occasion , like a great football game or a concert you attended with the person .</s>
+<s id='vn110'>Bạn cũng có thể để một vài tấm vé mời cho một dịp đặc biệt nào đó , như một trận bóng đá hay hoặc một buổi hoà nhạc mà bạn dự định tham dự với người ấy .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>* Learn to knit or do a needle craft , such as cross-stitching .</s>
+<s id='vn111'>* Hãy học cách đan hoặc may vá thêu thùa , như thêu hình chữ thập chẳng hạn .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Make small gifts showing off your new talent .</s>
+<s id='vn112'>Hãy tự làm các món quà nhỏ để khoe tài nghệ mới của mình nhé .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>* Bake cookies or other holiday treats and package them in pretty holiday boxes or baskets .</s>
+<s id='vn113'>* Nướng bánh hoặc các món ngon ngày lễ khác rồi gói vào các hộp hoặc giỏ đựng xinh xắn cho ngày lễ .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>You also can put cookie ingredients in a glass jar as a gift .</s>
+<s id='vn114'>Bạn cũng có thể để thành phần làm bánh quy vào lọ thuỷ tinh để làm quà .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>You layer the ingredients ( such as sugar , oats , chocolate chips ) like sand art .</s>
+<s id='vn115'>Hãy sắp từng lớp các thành phần ( như đường , yến mạch , khoai tây rán sô - cô-la ) giống như nghệ thuật cát vậy .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>It looks pretty and the person can whip up a batch of delicious cookies .</s>
+<s id='vn116'>Nó trông đẹp mắt và người ta cũng có thể làm được một mẻ bánh ngon nhanh chóng .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Do n't put eggs or butter in the jar , though , and be sure to include the recipe !</s>
+<s id='vn117'>Mặc dù vậy thì cũng chớ nên để trứng hoặc bơ vào lọ nhé và chắc rằng phải có cả công thức chế biến nữa đấy !</s>
+</spair>
+<spair id='118'>
+<s id='en118'>* Write a poem , letter , or song to the person , explaining why he or she is special to you .</s>
+<s id='vn118'>* Sáng tác một bài thơ , viết một lá thư , hoặc một bài hát nào đó cho người nhận , và nói rõ vì sao người ấy lại đặc biệt đối với bạn .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>You could also draw a picture or do a painting .</s>
+<s id='vn119'>Bạn cũng có thể vẽ một bức tranh hoặc một bức hoạ nào đó .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>* Plant flowers that will start blooming around the holidays .</s>
+<s id='vn120'>* Bạn hãy trồng hoa bắt đầu nở vào dịp lễ ; .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Decorate the pot for the plant or wrap a bow around it .</s>
+<s id='vn121'>Hãy trang trí chậu hoa hoặc quấn quanh chậu một chiếc nơ hình con bướm nhé .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>* Give the person a packet of homemade coupons for stuff he or she likes .</s>
+<s id='vn122'>* Hãy tặng cho người ấy một túi phiếu mua hàng tự làm mà họ thích .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>You might give your little brother a free pass to borrow one of your toys or a coupon that would " buy " your willingness to play a game of his choice with him .</s>
+<s id='vn123'>Bạn cũng có thể cho em trai của mình mượn thoải mái một trong những món đồ chơi của mình hoặc cho em một phiếu mua hàng có thể " mua được " sự tự nguyện của bạn tham gia một trò chơi do cu cậu chọn lấy nhé .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Give gifts that benefit charities</s>
+<s id='vn124'>Hãy tặng quà có ích cho các tổ chức cứu tế</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Give a gift in someone 's name to a charity .</s>
+<s id='vn125'>Hãy tặng quà cho hội từ thiện bằng tên của một người nào đó nhé .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>For instance , you might donate money to your grandmother 's favorite charity .</s>
+<s id='vn126'>Chẳng hạn như , bạn có thể quyên góp tiền cho hội từ thiện yêu thích của bà mình .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Maybe she loves animals and would be thrilled if you donated money to the local animal shelter .</s>
+<s id='vn127'>Có lẽ bà của bạn yêu thích động vật và sẽ rất vui mừng nếu bạn quyên góp tiền cho chuồng thú ở địa phương .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Hey , animals need a little holiday cheer , too !</s>
+<s id='vn128'>Này , động vật cũng cần một chút món ngon vào ngày lễ nữa đấy !</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Give gifts of time</s>
+<s id='vn129'>Tặng quà thời gian</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Some families decide to give their time by serving people who eat at soup kitchens or live in homeless shelters .</s>
+<s id='vn130'>Một số gia đình quyết định dành tặng thời gian của mình bằng cách phục vụ người ăn tại bếp ăn từ thiện hoặc sống ở nơi dành cho người vô gia cư .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>It 's a good way to learn , up close and personal , about people who are needy .</s>
+<s id='vn131'>Đây là một cách rất tốt giúp để nhận biết , để học hỏi , để gần gũi và tiếp cận từng người đối với những người thiếu thốn , nghèo khổ .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Sammy , whose family serves food at the homeless shelter , says they even play cards with the people who come to eat .</s>
+<s id='vn132'>Sammy có gia đình đang phục vụ thức ăn tại khu nhà dành cho người vô gia cư cho biết gia đình em thậm chí chơi bài với những người đến đây ăn nữa .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>That 's really spreading holiday cheer !</s>
+<s id='vn133'>Đây thật sự cũng làm cho ngày lễ càng thêm vui hơn !</s>
+</spair>
+<spair id='134'>
+<s id='en134'>How to Begin</s>
+<s id='vn134'>Bắt đầu bằng cách nào</s>
+</spair>
+<spair id='135'>
+<s id='en135'>If you 're interested in trying some of these new family traditions , the first step is to have a family talk to see what everyone thinks .</s>
+<s id='vn135'>Nếu bạn thích thử một vài truyền thống gia đình mới thì bước đầu tiên bạn cần có buổi trò chuyện với gia đình để tìm hiểu xem tất cả những người khác nghĩ gì .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>If you ca n't get everyone to agree on one idea , look for other ideas that might have more support .</s>
+<s id='vn136'>Nếu họ không đồng ý một quan điểm nào đó thì hãy tìm những quan điểm khác có thể được đồng tình nhiều hơn .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>It may be too late to make changes this year .</s>
+<s id='vn137'>Có thể là năm nay đã muộn rồi , chưa thể thay đổi được .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>If so , maybe start early next year .</s>
+<s id='vn138'>Nếu đúng như thế thì có lẽ sẽ bắt đầu vào đầu năm sau .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>As a first step , you might want to tell your mom and dad what is the most important to you about the holidays .</s>
+<s id='vn139'>Trước tiên có lẽ bạn nên nói cho bố mẹ biết điều quan trọng nhất về ngày lễ đối với bạn là gì .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>We certainly liked hearing what kids had to say about the holidays .</s>
+<s id='vn140'>Tất nhiên là chúng tôi luôn thích nghe các bạn nhỏ chia sẻ về ngày nghỉ của mình rồi .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Your comments were the best kind of holiday gift .</s>
+<s id='vn141'>Những lời phát biểu , bình luận của bạn đều là loại quà tặng dễ thương nhất .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>They did n't cost a thing , they were from the heart , and they made us feel warm and happy inside , like a cup of hot cocoa on a snowy winter 's night .</s>
+<s id='vn142'>Chúng không mất tiền để mua mà chúng xuất phát từ tận đáy lòng , làm cho chúng tôi cảm thấy hạnh phúc và ấm áp biết bao , giống như tách ca - cao nóng trong đêm mùa đông đầy tuyết vậy .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Happy Holidays !</s>
+<s id='vn143'>Chúc bạn có kỳ nghỉ vui vẻ nhé !</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,100 @@
+﻿<doc id='N0951'>
+<head>
+<title>Why older people lose their memory</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Why older people lose their memory</s>
+<s id='vn1'>Tại sao người già mất trí nhớ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The stereotype of the old forgetful person whose memory often fails him is widely held , but the reason for its appearance was never really pinpointed .</s>
+<s id='vn2'>Khuôn mẫu là người già hay quên và thường có trí nhớ không còn minh mẫn , nhưng lý do cho sự xuất hiện điều đó lại không bao giờ được sự xác định chính xác .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Much like gray hair and wrinkles , it was just thought to be part of growing old .</s>
+<s id='vn3'>Giống như tóc muối tiêu và nếp nhăn , điều đó chỉ là một phần của sự lão hóa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Now new research from Adam M. Brickman , PhD , of the Taub Institute for Research on Alzheimer 's Disease and the Aging Brain at Columbia University Medical Center in New York , shows that silent strokes may be the cause .</s>
+<s id='vn4'>Hiện nay , một nghiên cứu mới từ Tiến sĩ Adam M. Brickman , của Viện Nghiên cứu về bệnh Alzheimer và lão hóa não Taub tại Trung tâm Y khoa Đại học Columbia ở New York , cho thấy rằng đột quỵ thầm lặng có thể là nguyên nhân .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Essentially small dead spots in the brain are found in one out of four elderly people .</s>
+<s id='vn5'>Về cơ bản các điểm chết nhỏ trong não được tìm thấy trong mỗi một trên bốn người cao tuổi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Brickman 's study is published in the January 3rd issue of Neurology® , the medical journal of the American Academy of Neurology and he states :</s>
+<s id='vn6'>Nghiên cứu của Brickman được công bố trong tạp chí Neurology® số ra ngày 03 tháng 1 , tạp chí y học của Viện Hàn lâm Thần kinh học Hoa Kỳ và ông phát biểu :</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" The new aspect of this study of memory loss in the elderly is that it examines silent strokes and hippocampal shrinkage simultaneously . "</s>
+<s id='vn7'>" Các khía cạnh mới của nghiên cứu về mất trí nhớ ở người cao tuổi này là nó kiểm tra đột quỵ thầm lặng và sự co rút của vùng đồi thị cùng một lúc . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>His study was conducted with over 650 people aged 65 and older .</s>
+<s id='vn8'>Nghiên cứu của ông được tiến hành với hơn 650 người từ 65 tuổi trở lên .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>They were free from dementia and were given MRI brain scans .</s>
+<s id='vn9'>Họ không bị mắc chứng mất trí và được chụp cộng hưởng từ ( MRI ) não .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>They also took tests to measure their memory , language , speed at processing information and visual perception .</s>
+<s id='vn10'>Họ cũng đã xét nghiệm để đo trí nhớ , ngôn ngữ , tốc độ xử lý thông tin và nhận thức hình ảnh .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Of the 658 people , 174 were identified as having had silent strokes .</s>
+<s id='vn11'>Trong số 658 người , 174 người được xác định là có đột quỵ thầm lặng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Those 174 scored worse on memory tests , regardless of how large their hippocampus was .</s>
+<s id='vn12'>174 người này có số điểm rất tệ trong các xét nghiệm trí nhớ , bất kể vùng đồi thị của họ lớn thế nào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Brickman says that :</s>
+<s id='vn13'>Brickman cho biết :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Given that conditions like Alzheimer 's disease are defined mainly by memory problems , our results may lead to further insight into what causes symptoms and the development of new interventions for prevention .</s>
+<s id='vn14'>" Với các điều kiện như bệnh Alzheimer được xác định chủ yếu bởi các trục trặc trí nhớ , kết quả của chúng tôi có thể dẫn đến cái nhìn sâu sắc hơn về những nguyên nhân gây ra các triệu chứng và phát triển các phương pháp can thiệp mới để phòng bệnh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Since silent strokes and the volume of the hippocampus appeared to be associated with memory loss separately in our study , our results also support stroke prevention as a means for staving off memory problems . "</s>
+<s id='vn15'>Kể từ khi đột quỵ thầm lặng và thể tích của vùng đồi thị dường như có liên quan riêng rẽ đến việc mất trí nhớ trong đề tài nghiên cứu của chúng tôi , kết quả của chúng tôi cũng hỗ trợ ngăn ngừa đột quỵ như một phương pháp để ngăn chặn các trục trặc về trí nhớ . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It 's not known exactly why or how Alzheimer 's destroys the brain 's memory , but research has started to show accumulations of proteins called amyloid plaques , among brain cells .</s>
+<s id='vn16'>Người ta không biết chính xác lý do tại sao hoặc làm thế nào Alzheimer lại phá hủy bộ nhớ của não , nhưng nghiên cứu đã bắt đầu cho thấy những sự tích lũy của các prô-tê-in được gọi là mảng đọng dạng bột , giữa các tế bào não .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Larger tangled protein strands then start to appear inside the cells .</s>
+<s id='vn17'>Sau đó các chuỗi prô-tê-in phức tạp lớn hơn bắt đầu xuất hiện bên trong các tế bào .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>However , treatments to remove the proteins have not been particularly successful in improving memory loss .</s>
+<s id='vn18'>Tuy nhiên , xử lý để loại bỏ các prô-tê-in này đã không đặc biệt thành công trong việc cải thiện mất trí nhớ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Brickman 's research points the investigation in a new direction , and focuses more on the vascular system .</s>
+<s id='vn19'>Nghiên cứu của Brickman hướng sự khám phá theo một hướng mới , và tập trung nhiều hơn vào hệ thống mạch máu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>While circulation and loss of brain function from minute strokes may not be the whole solution its certainly an important part of it , as Brickman concludes :</s>
+<s id='vn20'>Trong khi sự tuần hoàn và mất chức năng của não do những cơn đột quỵ rất nhỏ có thể không phải là một giải pháp tổng thể nhưng chắc chắn là một phần quan trọng của nó , Brickman kết luận :</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" What our study suggests is , even when we account for the decline in memory attributed to hippocampal shrinkage or degeneration , that strokes ... play an additional role in the memory decline , " Brickman says .</s>
+<s id='vn21'>" Nghiên cứu của chúng tôi cho thấy là ngay cả khi chúng ta giải thích cho sự suy giảm trong trí nhớ do co rút hoặc suy thoái vùng đồi thị , đó là đột quỵ ... đóng một vai trò bổ sung trong suy giảm trí nhớ " , Brickman nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He is the Herbert Irving assistant professor of neuropsychology at Columbia University College of Physicians and Surgeons .</s>
+<s id='vn22'>Ông là trợ lý giáo sư Herbert Irving về tâm lý học thần kinh ở Trường Y và Bác sĩ phẫu thuật Đại học Columbia .</s>
+</spair>
+</text>
+</doc>

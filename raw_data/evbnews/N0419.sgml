@@ -1,0 +1,92 @@
+﻿<doc id='N0419'>
+<head>
+<title>China shares lead global stock market falls</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China shares lead global stock market falls</s>
+<s id='vn1'>Cổ phiếu của Trung Quốc gây ra sự sụt giảm thị trường cổ phiếu toàn cầu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Chinese shares have suffered their biggest one-day fall since August last year because of fears that the government may increase interest rates .</s>
+<s id='vn2'>Cổ phiếu của Trung Quốc đã phải chịu một mức sụt giảm trong ngày cao nhất kể từ tháng 8 năm ngoái do mọi người lo rằng chính phủ có thể tăng lãi suất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Shanghai Composite index closed down 5 % on concerns that the government might shortly make a further attempt to control inflation .</s>
+<s id='vn3'>Chỉ số Shanghai Composite đóng cửa ở mức giảm 5% do nhà đầu tư lo ngại rằng chính phủ có thể có biện pháp can thiệp trong ngắn hạn để kiểm soát lạm phát .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The speculation , along with heightened fears about the Irish Republic 's debt problem , also hit other markets .</s>
+<s id='vn4'>Việc đầu cơ , bên cạnh nỗi lo sợ ngày càng tăng về vấn đề nợ nần của cộng hòa Ai-len , cũng tác động xấu đến những thị trường khác</s>
+</spair>
+<spair id='5'>
+<s id='en5'>European indexes opened 1-2 % lower , before recovering their losses .</s>
+<s id='vn5'>Các chỉ số Châu Âu mở cửa ở mức thấp hơn từ 1-2 % trước khi khôi phục được mức thua lỗ của chúng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Shortly before lunchtime , Paris ' Cac 40 was 0.7% lower .</s>
+<s id='vn6'>Ngay trước giờ nghỉ trưa , chỉ số Cac 40 của Pari giảm 0,7% .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>London 's FTSE 100 and Frankfurt 's Dax index were both down by less than 1% .</s>
+<s id='vn7'>Chỉ số FTSE 100 tại Luân Đôn và chỉ số Dax tại Frankfurt đều giảm ít hơn 1%</s>
+</spair>
+<spair id='8'>
+<s id='en8'>China 's inflation rate hit a two-year high in October , according to figures released on Thursday , largely due to higher food prices .</s>
+<s id='vn8'>Tỷ lệ lạm phát của Trung Quốc đạt mức cao kỷ lục trong 2 năm qua vào tháng 10 , theo như những số liệu được công bố vào thứ 5 , chủ yếu là do giá cả thực phẩm tăng cao hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>This was despite recent government efforts to dampen price rises and cool its rapidly growing economy through interest rates rises and the introduction of limits on bank lending</s>
+<s id='vn9'>Điều này xảy ra bất chấp những nỗ lực của chính phủ trong thời gian gần đây để làm giảm tốc độ tăng giá và hạ nhiệt nền kinh tế đang phát triển quá nhanh của nó thông qua việc tăng lãi suất và áp dụng những giới hạn trong việc cho vay của ngân hàng</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Some analysts expect the government to intensify efforts to control price rises in the coming days .</s>
+<s id='vn10'>Một số nhà phân tích dự đoán rằng chính phủ sẽ gia tăng những nỗ lực kiểm soát tăng giá của mình trong những ngày sắp tới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" There are some rumours there might be another interest rate hike this weekend , " said Linus Yip from First Shanghai Securities in Hong Kong .</s>
+<s id='vn11'>" Có một số nguồn tin rằng có thể sẽ có một cú tăng lãi suất đột ngột nữa trong tuần này , " Linus Yip của First Shanghai Securities ở Hong Kong nhận định .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The falls began in Asia overnight and continued in the early hours of European trading</s>
+<s id='vn12'>Sự sụt giảm bắt nguồn từ thị trường qua đêm Châu Á và tiếp tục vào những giờ đầu của những phiên giao dịch ở Châu Âu</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Earlier sharp falls in European markets also coincided with the release of figures showing that the pace of economic recovery in Europe 's leading economies had declined in the third quarter .</s>
+<s id='vn13'>Những sụt giảm mạnh mẽ thời gian đầu ở các thị trường Châu Âu cũng trùng khớp với việc công bố những số liệu cho thấy nhịp độ phục hồi kinh tế ở các nước kinh tế hàng đầu Châu Âu đã giảm trong quý 3 .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A slowdown had been expected , especially in Germany which enjoyed record growth in the previous quarter .</s>
+<s id='vn14'>Sự giảm sút này đã được dự đoán trước , đặc biệt là ở Đức nước mà đã có một sự tăng trưởng kỷ lục trong quý trước .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But the figures were slightly lower than economists had been predicting .</s>
+<s id='vn15'>Nhưng các số liệu hơi thấp hơn mức mà các nhà kinh tế học đã dự đoán .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>There was no update on the state of the Irish economy , which has been the focus of growing unease in recent days , prompting talks on the sidelines of the G20 summit in South Korea .</s>
+<s id='vn16'>Chưa có thông tin cập nhật nào về tình trạng của nền kinh tế Ai-len , nền kinh tế mà đã là trung tâm của những bất ổn ngày càng gia tăng trong những ngày gần đây , dẫn đến việc phải có một buổi hội thảo bên cạnh hội nghị thượng đỉnh G20 ở Hàn Quốc .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>European members of the G20 - France , Germany , Italy , Spain and the UK - issued a statement aimed at reassuring the bond markets , which pushed the Irish government 's cost of borrowing to record levels this week .</s>
+<s id='vn17'>Các quốc gia thành viên của G20 ở Châu Âu bao gồm Pháp , Đức , Ý , Tây Ban Nha và Anh đã đưa ra một tuyên bố nhằm xoa dịu các thị trường trái phiếu , điều này đã đẩy chi phí vay mượn của chính quyền Ai-len lên những mức kỷ lục trong tuần này .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Despite initial concerns from the Irish prime minister that the statement could be counterproductive , Irish bond yields fell , reflecting increased confidence in the likelihood that Irish government debt would be paid back in full .</s>
+<s id='vn18'>Bất chấp lo ngại ban đầu của thủ tướng Ai-len rằng tuyên bố này có thể gây ra tác dụng ngược , lãi suất trái phiếu của Ai-len giảm , phản ánh một sự gia tăng trong niềm tin rằng chính phủ Ai-len sẽ có thể trả hết nợ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>They dropped to 8.2 % , down from the alltime high of 8.95% reached on Thursday .</s>
+<s id='vn19'>Lãi suất này giảm xuống 8,2% từ mức cao kỷ lục 8,95% mà nó chạm đến vào thứ 5</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Irish Finance Minister Brian Lenihan said the statement had shown the countries had " full confidence " in his government 's policies .</s>
+<s id='vn20'>Bộ trưởng tài chính của Ai-len , ông Brian Lenihan đã nói rằng tuyên bố này đã cho thấy rằng các nước có niềm tin tuyệt đối vào những chính sách của chính quyền của ông</s>
+</spair>
+</text>
+</doc>

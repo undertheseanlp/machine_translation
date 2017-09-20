@@ -1,0 +1,252 @@
+﻿<doc id='N0294'>
+<head>
+<title>Online Safety</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Online Safety</s>
+<s id='vn1'>An toàn trực tuyến</s>
+</spair>
+<spair id='2'>
+<s id='en2'>How could we live without the Internet ?</s>
+<s id='vn2'>Làm sao chúng ta có thể sống thiếu Internet ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>That 's how most of us keep in touch with friends , find homework support , research a cool place to visit , or find out the latest news .</s>
+<s id='vn3'>Đó là cách mà hầu hết chúng ta giữ liên lạc với bạn bè , tìm kiếm hỗ trợ giải bài tập , nghiên cứu một nơi thú vị để tham quan , tìm hiểu những tin tức mới nhất .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But besides the millions of sites to visit and things to do , the Internet offers lots of ways to waste time and even get into trouble .</s>
+<s id='vn4'>Nhưng bên cạnh hàng triệu trang web để truy cập và những điều cần làm , Internet cung cấp rất nhiều cách để lãng phí thời gian và thậm chí có thể khiến bạn gặp rắc rối .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>And just as in the non-cyber world , some people you encounter online might try to take advantage of you - financially or physically .</s>
+<s id='vn5'>Và cũng giống như trong thế giới thực , một số người bạn gặp trực tuyến có thể cố lợi dụng bạn - về tài chính hoặc thể chất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You 've probably heard stories about people who get into trouble in chat rooms .</s>
+<s id='vn6'>Bạn có lẽ đã nghe chuyện về những người gặp rắc rối trong các phòng chat .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Because users can easily remain anonymous , chat rooms often attract people who are interested in more than just chatting .</s>
+<s id='vn7'>Bởi vì người dùng có thể dễ dàng ẩn danh , các phòng chat thường thu hút những người đang quan tâm đến nhiều thứ khác hơn chỉ là trò chuyện .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>They 'll sometimes ask visitors for information about themselves , their families , or where they live - information that should n't be given away .</s>
+<s id='vn8'>Chúng đôi khi yêu cầu khách cung cấp thông tin về bản thân , gia đình , hoặc nơi họ sinh sống - những thông tin mà không nên cho người khác biết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Usually , the people who request personal information like home addresses , phone numbers , and email addresses use this information to fill mailboxes and answering machines with advertisements .</s>
+<s id='vn9'>Thông thường , những người yêu cầu thông tin cá nhân như địa chỉ nhà , số điện thoại , và địa chỉ thư điện tử sẽ sử dụng thông tin này nhập vào hộp thư và máy trả lời quảng cáo .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In some cases , though , predators may use this information to begin illegal or indecent relationships or to harm a person 's or family 's well-being .</s>
+<s id='vn10'>Dẫu vậy , trong một số trường hợp , những kẻ săn mồi có thể sử dụng thông tin này để bắt đầu mối quan hệ bất hợp pháp hoặc không đứng đắn hoặc gây tổn hại cho một người hoặc hạnh phúc của một gia đình .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Of course , the Internet is home to millions of places you can and should visit .</s>
+<s id='vn11'>Tất nhiên , Internet là kho lưu trữ hàng triệu nơi bạn có thể và nên ghé xem .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Like an infinite library , the Web can take you to the ends of the earth with the information it contains .</s>
+<s id='vn12'>Giống như một thư viện vô hạn , Web có thể đưa bạn đến những nơi tận cùng của thế giới với thông tin mà nó mang lại .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>You can use it to do research for school , find out what movie is playing near you ( and whether people like it ) , check out a college you 're thinking about , or find a job or volunteer opportunity .</s>
+<s id='vn13'>Bạn có thể sử dụng internet để làm bài tập nghiên cứu ở trường , tìm những bộ phim đang công chiếu gần nơi bạn ở ( dù mọi người có thích hay không ) , xem thông tin về một trường đại học mà bạn đang cân nhắc , hoặc tìm một cơ hội việc làm hay tình nguyện .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Almost anything you can think of has a website ( or a thousand of them ) about it .</s>
+<s id='vn14'>Hầu như bất cứ điều gì bạn có thể nghĩ đến đều có một trang web ( hoặc một ngàn trang web ) nói về điều đó .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>And it 's not just websites - blogs , videos , and downloadable games await to connect you with other user and players .</s>
+<s id='vn15'>Và không chỉ những trang web mà blog , video và rất nhiều trò chơi có thể tải xuống đang chờ đợi để kết nối bạn với những người sử dụng và người chơi khác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The key is to protect yourself while online .</s>
+<s id='vn16'>Điều quan trọng là phải biết bảo vệ mình trong khi trực tuyến .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Smart Surfing</s>
+<s id='vn17'>Lướt web một cách thông minh</s>
+</spair>
+<spair id='18'>
+<s id='en18'>First rule of smart surfing ?</s>
+<s id='vn18'>Quy tắc đầu tiên của việc lướt web một cách thông minh là gì ?</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Remain as anonymous as possible .</s>
+<s id='vn19'>Càng giữ cho mình nặc danh càng tốt .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>That means keeping all private information private .</s>
+<s id='vn20'>Điều đó có nghĩa là giấu kín tất cả các thông tin cá nhân riêng tư .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Here are some examples of private information that you should never give out on the Internet :</s>
+<s id='vn21'>Dưới đây là một số ví dụ về các thông tin cá nhân mà bạn không bao giờ nên đưa ra trên Internet :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>- full name</s>
+<s id='vn22'>- họ tên</s>
+</spair>
+<spair id='23'>
+<s id='en23'>- home address</s>
+<s id='vn23'>- địa chỉ nhà</s>
+</spair>
+<spair id='24'>
+<s id='en24'>- phone number</s>
+<s id='vn24'>- số điện thoại</s>
+</spair>
+<spair id='25'>
+<s id='en25'>- Social Security number</s>
+<s id='vn25'>- số an ninh xã hội</s>
+</spair>
+<spair id='26'>
+<s id='en26'>- passwords</s>
+<s id='vn26'>- mật khẩu</s>
+</spair>
+<spair id='27'>
+<s id='en27'>- names of family members</s>
+<s id='vn27'>- tên của các thành viên trong gia đình</s>
+</spair>
+<spair id='28'>
+<s id='en28'>- credit card numbers</s>
+<s id='vn28'>- số thẻ tín dụng</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Most credible people and companies will never ask for this type of information online .</s>
+<s id='vn29'>Hầu hết những người và những công ty đáng tin cậy sẽ không bao giờ yêu cầu cho loại thông tin như vậy trực tuyến .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>So if someone does , it 's a red flag that they may be up to no good .</s>
+<s id='vn30'>Vì vậy , nếu một người nào đó đòi hỏi , bạn nên cảnh giác vì họ có thể không tốt .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Think carefully before you create an email address or screen name .</s>
+<s id='vn31'>Hãy suy nghĩ cẩn thận trước khi bạn tạo một địa chỉ email hoặc tên đăng nhập .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Web experts recommend that you use a combination of letters and numbers in both - and that you do n't identify whether you 're male or female .</s>
+<s id='vn32'>Các chuyên gia Web khuyên bạn nên sử dụng một sự kết hợp của cả chữ cái và con số - và bạn không xác định mình là nam hay nữ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In chat rooms , use a nickname that 's different from your screen name .</s>
+<s id='vn33'>Trong các phòng chat , sử dụng một biệt danh khác tên đăng nhập của bạn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>That way , if you ever find yourself in a conversation that makes you uncomfortable , you can exit without having to worry that someone knows your screen name and can track you down via email .</s>
+<s id='vn34'>Bằng cách này , nếu có lúc nào đó bạn cảm thấy khó chịu trong một cuộc trò chuyện , bạn có thể thoát khỏi đó không cần phải lo ngại ai biết tên đăng nhập của bạn và có thể tìm ra bạn qua email .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Some people who hang out with their friends online set up private chat rooms where only they and the people they invite can enter to chat .</s>
+<s id='vn35'>Một số người cùng với bạn bè trực tuyến của họ thiết lập các phòng chat riêng mà chỉ có họ và những người mà họ mời có thể vào trò chuyện .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Experts recommend that people keep online friendships in the virtual world .</s>
+<s id='vn36'>Các chuyên gia khuyên rằng mọi người nên giữ tình bạn trực tuyến trong thế giới ảo .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Meeting online friends face to face carries more risks than other types of friendships because it 's so easy for people to pretend to be something they 're not when you ca n't see them or talk in person .</s>
+<s id='vn37'>Gặp gỡ trực tiếp những người bạn trên mạng mang lại nhiều rủi ro hơn so với những dạng tình bạn khác bởi vì rất dễ dàng cho mọi người giả vờ là một cái gì đó không phải chính họ khi bạn không thể nhìn thấy hoặc nói chuyện đối mặt với họ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>If you ever get involved in a chat room conversation that makes you feel uncomfortable or in danger for any reasons , exit and tell a parent or other adult right away so they can report the incident .</s>
+<s id='vn38'>Nếu bạn đã từng tham gia vào một cuộc trò chuyện trong phòng chat mà làm cho bạn cảm thấy không thoải mái hoặc nguy hiểm với bất kỳ lý do nào , hãy thoát ra và nói với cha mẹ hoặc người lớn khác ngay lập tức để họ có thể báo cáo sự việc .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>You can also report it to the website of the National Center for Missing and Exploited Children - they have a form for reporting this type of incident called CyberTipline .</s>
+<s id='vn39'>Bạn cũng có thể báo cáo vấn đề cho mạng thông tin của Trung tâm Quốc gia dành cho trẻ em bị lạm dụng và mất tích - họ có một hướng dẫn mẫu để báo cáo sự cố này được gọi là CyberTipline .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>They will then see that the info is forwarded to law enforcement officials for investigation .</s>
+<s id='vn40'>Sau đó , họ sẽ xem xét chuyển tiếp thông tin đến các quan chức thực thi pháp luật để điều tra .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Cyberbullying</s>
+<s id='vn41'>Đe dọa trên mạng</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It 's not just strangers who can make you feel uncomfortable online .</s>
+<s id='vn42'>Không phải chỉ những người lạ mới có thể khiến bạn cảm thấy khó chịu khi trực tuyến .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Cyberbullying refers to cruel or bullying messages sent to you online .</s>
+<s id='vn43'>Sự đe dọa trên mạng còn liên quan đến những tin nhắn ác ý hay đe dọa gửi đến trực tuyến cho bạn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>These might be from former friends or other people you know .</s>
+<s id='vn44'>Những tin nhắn đó có thể từ các bạn bè cũ hoặc người khác mà bạn biết .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>They can be irritating and , in some cases , even frightening .</s>
+<s id='vn45'>Chúng làm bạn cáu và trong một số trường hợp , thậm chí đáng sợ .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>If you get these bullying messages online , it 's often better to ignore them rather than answer them .</s>
+<s id='vn46'>Nếu bạn nhận được những thông điệp đe dọa trên mạng như vậy , thường là bỏ qua sẽ tốt hơn là trả lời chúng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Cyberbullies , just like other bullies , may be angry or disturbed people - and may be looking for attention or a reaction .</s>
+<s id='vn47'>Những kẻ gửi thư đe dọa , giống như những kẻ bắt nạt khác , có thể là những người giận dữ hoặc bị xáo trộn tâm lý - và có thể đang tìm kiếm sự chú ý hoặc phản ứng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Fortunately , most people never experience cyberbullying .</s>
+<s id='vn48'>May mắn thay , hầu hết mọi người không bao giờ bị hăm dọa trên mạng .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>But if you 're getting cyberbullied and ignoring it does n't make it go away , getting help from a parent , school counselor , or another trusted adult may be a good idea .</s>
+<s id='vn49'>Nhưng nếu bạn gặp vấn đề này , việc bỏ qua nó không làm cho nó biến mất , tìm sự trợ giúp từ cha mẹ , nhân viên tư vấn của nhà trường , hoặc một người lớn tuổi đáng tin cậy khác có thể là ý tưởng hay .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>That 's especially true if the cyberbullying contains threats .</s>
+<s id='vn50'>Điều đó đặc biệt đúng nếu sự hăm dọa trên mạng có chứa các mối đe dọa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Online Annoyances</s>
+<s id='vn51'>Những phiền toái trên mạng</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Although email is relatively private , hackers can still access it - or add you to their spam lists .</s>
+<s id='vn52'>Mặc dù email là tương đối riêng tư , tin tặc vẫn có thể truy cập vào nó - hoặc thêm bạn vào danh sách thư rác của chúng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Spam , like advertisements or harassing or offensive notes , is annoying .</s>
+<s id='vn53'>Thư rác , như quảng cáo hoặc quấy rối hoặc các ghi chú gây khó chịu khiến rất phiền nhiễu .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>But spam blockers can keep your mailbox from getting clogged .</s>
+<s id='vn54'>Tuy nhiên , trình chặn thư rác có thể giữ cho hộp thư của bạn không bị tắc nghẽn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Many service providers will help you block out or screen inappropriate emails if your parents agree to set up age-appropriate parental controls .</s>
+<s id='vn55'>Nhiều nhà cung cấp dịch vụ sẽ giúp bạn ngăn chặn hoặc lọc các email không phù hợp nếu cha mẹ của bạn đồng ý thiết lập kiểm soát của cha mẹ tùy theo tuổi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you do n't recognize the sender of a document or file that needs to be downloaded , delete it without opening it to avoid getting a virus on your machine .</s>
+<s id='vn56'>Nếu bạn không nhận ra người gửi của một tài liệu hoặc tập tin cần được tải xuống , hãy xóa mà không cần mở nó để tránh bị nhiễm virus trên máy tính của bạn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Virus protection software is a must for every computer .</s>
+<s id='vn57'>Phần mềm diệt virus bảo vệ là cần thiết cho mỗi máy tính .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>You can also buy software that helps rid your computer of unwanted spyware programs that report what your computer is doing .</s>
+<s id='vn58'>Bạn cũng có thể mua phần mềm giúp máy tính của bạn thoát khỏi chương trình phần mềm gián điệp không mong muốn theo dõi những gì máy tính của bạn đang thực hiện .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Some service providers make software available to protect you from these and other online annoyances , such as blockers for those in-your-face pop-up ads .</s>
+<s id='vn59'>Một số nhà cung cấp dịch vụ cũng có sẵn phần mềm để bảo vệ bạn khỏi những phiền toái này và những rắc rối trên mạng khác , chẳng hạn như những pop-up quảng cáo mở đầy trước mắt bạn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>If you do invest in protective software , you 'll need to keep it updated to be sure it continues to do its job as new technologies evolve .</s>
+<s id='vn60'>Nếu bạn đầu tư vào phần mềm bảo vệ , bạn sẽ cần phải cập nhật để đảm bảo nó tiếp tục hiệu quả khi các công nghệ mới phát triển .</s>
+</spair>
+</text>
+</doc>

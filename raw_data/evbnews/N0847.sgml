@@ -1,0 +1,104 @@
+﻿<doc id='N0847'>
+<head>
+<title>Bacteria from dog poop in city air</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bacteria from dog poop in city air</s>
+<s id='vn1'>Vi khuẩn từ phân chó trong không khí của thành phố</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The air of two Midwestern US cities contains significant amounts of bacteria from feces , particularly dog poop , according to a new study led by the University of Colorado Boulder , published recently in the journal Applied and Environmental Microbiology .</s>
+<s id='vn2'>Không khí của hai thành phố miền Trung Tây Hoa Kỳ có chứa một lượng đáng kể vi khuẩn từ phân , đặc biệt là phân của chó , theo một nghiên cứu mới dẫn đầu bởi Đại học Colorado Boulder , công bố gần đây trong tạp chí Vi sinh học ứng dụng và môi trường .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The researchers tested the air of four locations in the Great Lakes region , and found that , in addition to the more predictable organic sources ( such as leaves and soil ) , fecal material , most likely from dogs , often represents an unexpected source of atmospheric bacteria in urbanized areas during the winter .</s>
+<s id='vn3'>Các nhà nghiên cứu đã thử nghiệm không khí của bốn địa điểm trong vùng Hồ Lớn , và phát hiện ra rằng , ngoài dự đoán nhiều hơn các nguồn hữu cơ ( chẳng hạn như lá cây và đất ) , vật chất phân , rất có khả năng từ chó , thường đại diện cho một nguồn bất ngờ của các vi khuẩn trong không khí tại các khu vực đô thị hoá trong mùa đông .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Lead author Robert Bowers , a graduate student at the University of Colorado Boulder and Cooperative Institute for Research in Environmental Sciences ( CIRES ) , told the press on Thursday :</s>
+<s id='vn4'>Tác giả chính Robert Bowers , nghiên cứu sinh tại Đại học Colorado Boulder và Viện hợp tác nghiên cứu Khoa học Môi trường ( CIRES ) , trả lời báo chí hôm thứ năm :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" We found unexpectedly high bacterial diversity in all of our samples , but to our surprise the airborne bacterial communities of Detroit and Cleveland most closely resembled those communities found in dog poop . "</s>
+<s id='vn5'>" Chúng tôi thấy sự đa dạng vi khuẩn cao bất ngờ trong tất cả các nhóm mẫu của chúng tôi , nhưng ngạc nhiên là , các cộng đồng vi khuẩn trong không khí ở Detroit và Cleveland trông gần giống với các cộng đồng vi khuẩn thấy trong phân chó " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The atmosphere around and above us is full of material of organic origin , a significant amount being bacteria , including those that cause disease in plants and animals .</s>
+<s id='vn6'>Bầu không khí xung quanh chúng ta có đầy các vật chất có nguồn gốc hữu cơ , một số lượng đáng kể là vi khuẩn , bao gồm cả những vi khuẩn gây bệnh ở thực vật và động vật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Some of them also cause or trigger human diseases , including asthma and seasonal allergies .</s>
+<s id='vn7'>Một số vi khuẩn đó cũng có thể gây ra các bệnh ở người , bao gồm cả bệnh hen suyễn và dị ứng theo mùa .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Yet , despite their importance , we don't know a lot about them , and it is only in the last few years that scientists have begun to realize the diversity of bacteria in the air :</s>
+<s id='vn8'>Tuy nhiên , mặc dù tầm quan trọng của các vi khuẩn đó , chúng ta chưa biết nhiều về chúng , và chỉ trong những năm gần đây các nhà khoa học mới bắt đầu nhận ra sự đa dạng của vi khuẩn trong không khí :</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" There is a real knowledge gap , " said co-author Noah Fierer , an assistant professor in CU-Boulder 's ecology and evolutionary biology department and a CIRES fellow .</s>
+<s id='vn9'>" Có một lỗ hổng kiến thức thực tế " , theo đồng tác giả Noah Fierer , trợ lý giáo sư tại khoa sinh học tiến hóa và sinh thái học của CU-Boulder và là một nghiên cứu sinh CIRES .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" We are just starting to realize this uncharted microbial diversity in the air -- a place where you wouldn't exactly expect microbes to be living " .</s>
+<s id='vn10'>" Chúng tôi chỉ mới bắt đầu nhận ra sự đa dạng vi sinh vật chưa được thăm dò này trong không khí - một nơi mà bạn sẽ không cho rằng vi khuẩn sống trong đó " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" We breathe in bacteria every minute we are outside , and some of these bugs may have potential health implications , " he added .</s>
+<s id='vn11'>" Mỗi phút chúng ta ra ngoài , chúng ta đều hít vào vi khuẩn , và một số loài vi khuẩn có thể có tác động tới sức khỏe " , ông nói thêm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>For the study , the team analyzed the numbers and types of bacteria in nearly 100 local air samples , taken in summer and winter , at four places in the Great Lakes region of the US : three large cities of more than 2 million inhabitants ( Chicago Cleveland and Detroit ) , and one town with less than 6,000 people ( Mayville in Wisconsin ) .</s>
+<s id='vn12'>Trong nghiên cứu này , nhóm đã phân tích số lượng và chủng loại vi khuẩn trong gần 100 mẫu không khí ở địa phương , được chụp vào mùa hè và mùa đông , ở bốn địa điểm trong khu vực Hồ Lớn của Hoa Kỳ : ba thành phố lớn với hơn 2 triệu dân ( Chicago Cleveland và Detroit ) , và một thị xã ít hơn 6.000 dân ( Mayville ở Wisconsin ) .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>They looked for bacterial DNA in the air samples and compared it to a database of known DNA signatures of bacteria from leaf surfaces , soil , and human , cow and dog feces .</s>
+<s id='vn13'>Họ đã xem xét ADN của vi khuẩn trong các mẫu không khí và so sánh nó với một cơ sở dữ liệu ADN đã biết của vi khuẩn từ bề mặt lá , đất , và phân bò , người và chó .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They found a surprising diversity in the atmospheric bacterial communities .</s>
+<s id='vn14'>Họ tìm thấy một sự đa dạng đáng ngạc nhiên trong các cộng đồng vi khuẩn trong không khí .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Also , in the winter samples from two of the four locations , Detroit and Cleveland , the bacterial DNA signatures most closely resembled that of dog feces .</s>
+<s id='vn15'>Ngoài ra , trong các mẫu lấy trong mùa đông từ 2 trong 4 địa điểm , Detroit và Cleveland , đặc trưng ADN của vi khuẩn gần giống nhất với vi khuẩn từ phân chó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>"As best as we can tell , dog feces are the only explanation for these results , " said Fierer , adding that they need to do more research before they can be sure .</s>
+<s id='vn16'>" Điều tốt nhất mà chúng ta có thể nói , phân chó là lời giải thích duy nhất cho những kết quả này " , Fierer cho biết thêm rằng họ cần phải nghiên cứu sâu hơn nữa trước khi có thể chắc chắn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Bowers suggested that because the snow covers the ground in the winter , the proportion of airborne bacteria from leaf surfaces , soil and dust goes down .</s>
+<s id='vn17'>Bowers cho rằng vì tuyết bao phủ mặt đất trong mùa đông , tỷ lệ vi khuẩn trong không khí từ bề mặt lá , đất và bụi giảm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Fierer said they don't know if the patterns they found in these four cities are unique :</s>
+<s id='vn18'>Fierer nói họ không biết liệu các mô hình mà họ tìm thấy trong bốn thành phố đó có là duy nhất không :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Does San Francisco have the same bacteria as New York ?</s>
+<s id='vn19'>" San Francisco có vi khuẩn tương tự như New York không ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Nobody knows as yet , " said Fierer .</s>
+<s id='vn20'>Cho đến nay chưa ai biết được " , Fierer nói .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" We need much better information on what sources of bacteria we are breathing in every time we go outside , " so that scientists can then investigate their impact on human health , he added .</s>
+<s id='vn21'>" Chúng ta cần nhiều thông tin tốt hơn về các nguồn vi khuẩn chúng ta đang hít thở trong mỗi lần đi ra ngoài " , để các nhà khoa học sau đó có thể điều tra tác động của chúng trên sức khỏe con người , ông nói thêm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The team now wants to investigate other cities and create a continental " atlas " of airborne bacterial communities .</s>
+<s id='vn22'>Hiện nay nhóm nghiên cứu muốn kiểm tra các thành phố khác và tạo ra một " bản đồ " lục địa của các cộng đồng vi khuẩn trong không khí .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Funds from CIRES ( a joint institute of CU-Boulder and the National Oceanic and Atmospheric Administration ) , the US Environmental Protection Agency , the National Science Foundation , the Howard Hughes Medical Institute and the National Institutes of Health helped pay for the research , with additional support from the Lake Michigan Air Directors Consortium for air sample collection .</s>
+<s id='vn23'>Được tài trợ bởi CIRES ( viện CU-Boulder và Đoàn Ủy nhiệm Quản trị Khí quyển và Đại dương Quốc gia ) , Cơ quan Bảo vệ Môi trường Hoa Kỳ , Quỹ khoa học quốc gia , Viện Y học Howard Hughes và Viện Y tế quốc gia đã giúp trả tiền cho nghiên cứu , với sự hỗ trợ bổ sung thu thập mẫu không khí từ Hiệp hội Hồ Michigan .</s>
+</spair>
+</text>
+</doc>

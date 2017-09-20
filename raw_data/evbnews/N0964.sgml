@@ -1,0 +1,72 @@
+﻿<doc id='N0964'>
+<head>
+<title>Philippines floods : More than 1,000 remain missing</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Philippines floods : More than 1,000 remain missing</s>
+<s id='vn1'>Bão Phi-líp-pin : Hơn 1,000 người vẫn còn mất tích</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Philippines government says 1,079 people are still missing in the wake of the devastating Typhoon Washi .</s>
+<s id='vn2'>Chính phủ Phi-líp–pin cho hay 1079 người vẫn còn mất tích sau thảm hoạ do Bão Washi gây ra .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>More than 1,000 others are known to have died in the storm , which struck Mindanao island on Saturday .</s>
+<s id='vn3'>Hơn 1000 người khác được biết đã chết trong cơn bão xảy ra ở đảo Mindanao vào hôm thứ Bảy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Entire neighbourhoods in Cagayan de Oro and Iligan cities were swept away .</s>
+<s id='vn4'>Toàn bộ các vùng lân cận ở thành phố Cagayan de Oro và Iligan đều bị lũ quét .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The previous estimate for the missing was just 51 but officials say the new figure includes city migrant workers whose rural relatives did not immediately realise they were missing .</s>
+<s id='vn5'>Ước tính số người mất tích ban đầu chỉ có 51 người nhưng các nhà chức trách cho biết con số mới đây kể cả công nhân nhập cư vào thành phố có người thân ở nông thôn cũng không biết là người thân của mình bị mất tích .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The authorities acknowledge that the new number may still not be accurate , reports the BBC 's Kate McGeown in Manila .</s>
+<s id='vn6'>Phóng viên Kate McGeown của BBC ở Manila cho biết các chính quyền cũng thừa nhận con số mới đây có thể vẫn chưa chính xác .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Entire families who were killed may still not be accounted for and some of the missing may also be counted among the unidentified dead .</s>
+<s id='vn7'>Entire families who were killed may still not be accounted for and some of the missing may also be counted among the unidentified dead .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But , says our correspondent , it is clear that the scale of this disaster is far greater than the authorities originally thought .</s>
+<s id='vn8'>Nhưng theo các phóng viên đưa tin rõ ràng quy mô thảm hoạ này lớn hơn nhiều so với ước tính ban đầu của các nhà chức trách .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The death toll from the disaster now stands at 1,080 , the government says .</s>
+<s id='vn9'>Chính phủ cho biết tổng số người tử vong do cơn bão hiện giờ là 1,080 người .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Some 338,000 people have been affected and more than 10,000 homes damaged .</s>
+<s id='vn10'>Khoảng 338.000 người bị ảnh hưởng và hơn 10.000 ngôi nhà bị thiệt hại .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Tens of thousands of people are now living in evacuation centres .</s>
+<s id='vn11'>Hàng chục ngàn người đang trú ẩn ở các trung tâm di tản .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Many of those who died were sleeping as Typhoon Washi caused rivers to burst their banks , leading to landslides .</s>
+<s id='vn12'>Nhiều người chết trong lúc đang ngủ khi cơn bão Washi gây ra vỡ bờ , dẫn đến sạt lỡ đất .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Aid agencies have appealed for funds to help local people .</s>
+<s id='vn13'>Các cơ quan cứu trợ đã kêu gọi các nguồn tài chính giúp đỡ người dân địa phương .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The United Nations is seeking $ 28.6m ( £18.2 m ) from donors to help provide water and sanitation to storm victims .</s>
+<s id='vn14'>Liên Hiệp Quốc xin viện trợ từ các nhà hảo tâm được 28.6 triệu đô - la Mỹ ( 18.2 triệu bảng Anh ) để cung cấp nước và hệ thống vệ sinh cho các nạn nhân trong cơn bão này .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" We must improve this situation at the soonest possible time to avoid disease outbreaks that will further compound the hardships of the people already weakened by hunger , and grief from loss of family and friends , " Soe Nyunt-U , acting UN humanitarian coordinator , told journalists in Manila on Thursday .</s>
+<s id='vn15'>Ông Soe Nyunt-U điều phối viên tổ chức Nhân đạo thuộc Liên Hiệp Quốc phát biểu với báo giới ở Manila hôm thứ Năm rằng " Chúng ta phải cải thiện tình hình này trong thời gian sớm nhất có thể để tránh bùng phát bệnh tật , mà điều này sẽ làm tăng thêm gánh nặng cho những nạn nhân vốn đã suy kiệt vì đói kém và đau buồn do mất mát gia đình , bạn bè . "</s>
+</spair>
+</text>
+</doc>

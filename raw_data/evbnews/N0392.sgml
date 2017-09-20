@@ -1,0 +1,140 @@
+﻿<doc id='N0392'>
+<head>
+<title>Making the World Wide Web More Usable to a Wider World</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Making the World Wide Web More Usable to a Wider World</s>
+<s id='vn1'>Để mạng toàn cầu trở nên phổ dụng với nhiều người hơn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The world has almost seven billion people .</s>
+<s id='vn2'>Dân số thế giới có gần 7 tỉ người .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>At least two billion are expected to be on the Internet by January .</s>
+<s id='vn3'>Có ít nhất hai tỉ người sẽ được sử dụng Internet vào tháng giêng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>New growth is mostly from developing countries .</s>
+<s id='vn4'>Con số tăng trưởng mới hầu hết là từ các quốc gia đang phát triển .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Yet only twenty-one percent of their population is online .</s>
+<s id='vn5'>Tuy nhiên chỉ 21 phần trăm dân số ở các nước này sử dụng được Internet .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A group called the World Wide Web Foundation is working to make the Web more usable to more of the world .</s>
+<s id='vn6'>Một tổ chức có tên gọi là World Wide Web Foundation đang nỗ lực giúp nhiều người hơn trên thế giới có thể tiếp xúc được mạng Internet .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Tim Berners-Lee is the British computer scientist who invented the World Wide Web .</s>
+<s id='vn7'>Tim Berners-Lee , một nhà khoa học máy tính người Anh , đã phát minh ra mạng toàn cầu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He announced the launch of the Web Foundation last November .</s>
+<s id='vn8'>Ông đã tuyên bố thành lập tổ chức này hồi tháng 11 năm ngoái .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The group says many people can access the Web but are unable to use it .</s>
+<s id='vn9'>Theo tổ chức này cho biết có nhiều người có thể truy cập mạng nhưng không thể sử dụng nó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The biggest reason is illiteracy .</s>
+<s id='vn10'>Lý do lớn nhất là nạn mù chữ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The latest United Nations report says almost eight hundred million adults are unable to read or write .</s>
+<s id='vn11'>Bản báo cáo mới nhất của Liên hiệp quốc cho biết có gần 800 người trưởng thành không biết đọc hoặc biết viết .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Even for those who can read , much of the information that is available on the Web is not in a language they can understand .</s>
+<s id='vn12'>Thậm chí với những người biết đọc , đa phần thông tin tại trên mạng lại không được viết bằng ngôn ngữ mà họ có thể hiểu được .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Steve Bratt is chief executive of the Web Foundation .</s>
+<s id='vn13'>Steve Bratt là giám đốc điều hành của Web Foundation .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>STEVE BRATT : " If you 're a poor shopkeeper living in a very impoverished part of Botswana and you 're trying to feed your family , trying to buy and sell goods , trying to get medical services for your kids or your employees , and you speak a local language , there 's nothing on today 's Web that 's going to help you , right ?</s>
+<s id='vn14'>STEVE BRATT : " Nếu bạn làm chủ một cửa tiệm nghèo nàn sống ở một khu vực nghèo khổ của Bốt-xoa-na và bạn đang nuôi cả gia đình bạn , cố mua và bán hàng , cố tìm kiếm dịch vụ chăm sóc sức khoẻ cho con cái hoặc người làm của bạn , và bạn chỉ biết nói tiếng địa phương , thì không có cách nào mà Internet ngày nay có thể giúp đỡ gì cho bạn , phải không nào ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" So even if they had connectivity and they had a mobile phone , or something they could get to the Web , what would they look for ?</s>
+<s id='vn15'>" Nhưng nếu họ có nối mạng và họ có điện thoại di động , hoặc cái gì đó mà họ có thể vào mạng được , thì họ sẽ tìm cái gì ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>What would they be able to understand ?"</s>
+<s id='vn16'>Họ sẽ có thể hiểu được những gì ? "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Tim Berners-Lee first proposed the idea for the World Wide Web in 1989 .</s>
+<s id='vn17'>Tim Berners-Lee lần đầu tiên đề xuất ý tưởng về mạng toàn cầu vào năm 1989 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This was twenty years after Americans developed the first version of what we know as the Internet .</s>
+<s id='vn18'>Hai mươi năm sau , người Mỹ đã phát triển phiên bản đầu tiên thành cái mà chúng ta biết đến với tên gọi là mạng Internet .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The Internet is a network of networks .</s>
+<s id='vn19'>Internet là mạng lưới của những mạng lưới .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It lets millions of computers communicate with each other .</s>
+<s id='vn20'>Nó cho phép hàng triệu máy tính giao tiếp với nhau .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The Web is a major part .</s>
+<s id='vn21'>Mạng lưới là phần quan trọng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>However , people now often use applications that are not Web-based , like on social networks and mobile devices like the iPhone .</s>
+<s id='vn22'>Tuy nhiên , ngày nay mọi người thường sử dụng các ứng dụng không dựa trên nền tảng web , như trên các mạng xã hội và thiết bị di động như iPhone .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Tim Berners-Lee created the World Wide Web as a way to help people share information .</s>
+<s id='vn23'>Tim Berners-Lee tạo ra mạng toàn cầu như là một cách để giúp mọi người chia sẻ thông tin .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>His early work brought the Hypertext Markup Language , or HTML , used to create Web pages .</s>
+<s id='vn24'>Sản phẩm đầu tay của ông mang ngôn ngữ đánh dấu siêu văn bản , hay là HTML , thường được dùng để tạo ra trang web .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It also gave us the Hypertext Transfer Protocol - the HTTP before Web addresses .</s>
+<s id='vn25'>Nó cũng được trình bày qua giao thức truyền tải siêu văn bản - HTTP trước địa chỉ trang web .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>By two thousand eight , Google reported that the number of Web pages had passed one trillion .</s>
+<s id='vn26'>Vào năm 2008 , Google báo cáo số trang web đã vượt quá con số 1 nghìn tỷ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Steve Bratt says the World Wide Web Foundation wants everyone to be able to use this information .</s>
+<s id='vn27'>Steve Bratt cho biết World Wide Web Foundation muốn tất cả mọi người đều có thể sử dụng thông tin này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>STEVE BRATT : " Our main purpose is to advance the Web to empower people .</s>
+<s id='vn28'>STEVE BRATT : " Mục đích chính của chúng tôi là cải thiện mạng Internet để giúp con người trở nên mạnh mẽ thêm .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>We isn't focusing on the Web just as a technology , but as one of the most powerful means for connecting people to knowledge and people to each other . "</s>
+<s id='vn29'>Chúng tôi không chú trọng xem mạng Internet là một công nghệ , mà là một trong những phương tiện hữu hiệu nhất để kết nối con người với tri thức cũng như giữa con người với nhau . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Partnerships with the Web Science Trust and the World Wide Web Consortium aim to create applications that make the Web more user-friendly .</s>
+<s id='vn30'>Với sự cộng tác của Web Science Trust và World Wide Web Consortium cùng hướng đến mục tiêu tạo nên các ứng dụng khiến mạng Internet trở nên dễ sử dụng hơn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Steve Bratt says mobile technology is an important part of that work , as more and more people use their phones to go online .</s>
+<s id='vn31'>Steve Bratt cho biết công nghệ di động là một phần quan trọng của dự án này , khi ngày càng có nhiều người sử dụng điện thoại của họ để lên mạng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>STEVE BRATT : " One of the challenges we have is to make the Web a lot easier to use even on the simplest and least expensive mobile phones . "</s>
+<s id='vn32'>STEVE BRATT : " Một trong những thách thức của chúng tôi là làm sao để mạng Internet trở nên dễ sử dụng hơn nhiều thậm chí trên những điện thoại di động đơn giản nhất và rẻ tiền nhất . "</s>
+</spair>
+</text>
+</doc>

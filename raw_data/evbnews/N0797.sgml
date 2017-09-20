@@ -1,0 +1,456 @@
+﻿<doc id='N0797'>
+<head>
+<title>Diarrhea</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Diarrhea</s>
+<s id='vn1'>Tiêu chảy</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Most kids battle diarrhea from time to time , but the good news is that it 's often caused by infections that do n't last long .</s>
+<s id='vn2'>Hầu hết các trẻ nhỏ đôi khi cũng phải chiến đấu với bệnh tiêu chảy , nhưng tin vui là bệnh này thường do nhiễm trùng gây ra và không kéo dài .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Still , it 's important to know what to do to relieve and even prevent diarrhea .</s>
+<s id='vn3'>Tuy vậy , điều quan trọng là phải nên biết làm gì để làm giảm bớt tiêu chảy và thậm chí là ngăn ngừa được bệnh tiêu chảy nữa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Causes of diarrhea</s>
+<s id='vn4'>Nguyên nhân gây tiêu chảy</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Diarrhea — frequent runny or watery bowel movements ( poop ) — is usually brought on by gastrointestinal ( GI ) infections caused by viruses , bacteria , or parasites .</s>
+<s id='vn5'>Tiêu chảy - phân thường lỏng hoặc nước – thường do nhiễm trùng dạ dày - ruột ( GI ) gây ra bởi vi - rút , vi khuẩn , hoặc động vật ký sinh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The specific germs that cause diarrhea can vary among geographic regions depending on their level of sanitation , economic development , and hygiene .</s>
+<s id='vn6'>Vi trùng gây bệnh tiêu chảy đặc trưng có thể khác nhau ở từng khu vực địa lý tuỳ vào mức độ tình trạng vệ sinh , tình hình phát triển kinh tế , và vệ sinh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>For example , developing countries with poor sanitation or where human waste is used as fertilizer often have outbreaks of diarrhea when intestinal bacteria or parasites contaminate crops or drinking water .</s>
+<s id='vn7'>Chẳng hạn như , các quốc gia đang phát triển có tình trạng vệ sinh kém hoặc ở khu vực mà chất thải của người được sử dụng làm phân bón thường bùng phát tiêu chảy khi các vi khuẩn đường ruột hoặc động vật ký sinh đường ruột gây bệnh cho cây trồng hoặc làm nhiễm bẩn nguồn nước uống .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In developed countries , including the United States , diarrhea outbreaks are more often linked to contaminated water supplies , person-to-person contact in places such as child-care centers , or " food poisoning " ( when people get sick from improperly processed or preserved foods or foods contaminated with bacteria ) .</s>
+<s id='vn8'>Ở các nước phát triển , như Hoa Kỳ , những cơn bùng phát tiêu chảy thường liên quan đến nguồn nước bị ô nhiễm , tiếp xúc giữa người này và người khác ở những nơi chẳng hạn như trung tâm chăm sóc trẻ , hoặc " ngộ độc thức ăn " ( khi người ta bị bệnh do chế biến hoặc bảo quản thức ăn không đúng cách hoặc thức ăn bị nhiễm khuẩn ) .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In general , infections that cause diarrhea are highly contagious .</s>
+<s id='vn9'>Nói chung , các bệnh nhiễm trùng gây tiêu chảy thường rất dễ lây lan .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Most cases can be spread to others .</s>
+<s id='vn10'>Hầu hết các trường hợp đều có thể lây cho người khác .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Diarrheal infections can be spread through :</s>
+<s id='vn11'>Nhiễm tiêu chảy có thể lây lan qua :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>* dirty hands</s>
+<s id='vn12'>* tay dơ bẩn</s>
+</spair>
+<spair id='13'>
+<s id='en13'>* contaminated food or water</s>
+<s id='vn13'>* thức ăn hoặc nước uống bị ô nhiễm</s>
+</spair>
+<spair id='14'>
+<s id='en14'>* some pets</s>
+<s id='vn14'>* một số thú cưng</s>
+</spair>
+<spair id='15'>
+<s id='en15'>* direct contact with fecal matter ( i.e. , from dirty diapers or the toilet )</s>
+<s id='vn15'>* tiếp xúc trực tiếp với phân ( có nghĩa là tiếp xúc trực tiếp với tã lót bẩn hoặc nhà vệ sinh )</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Anything that the infectious germs come in contact with can become contaminated .</s>
+<s id='vn16'>Bất cứ vật gì tiếp xúc với vi trùng lây nhiễm thì đều có thể làm cho nhiễm bệnh ,</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This includes toys , tables , surfaces in restrooms , even the hands of someone preparing food .</s>
+<s id='vn17'>Như đồ chơi , bàn , bề mặt trong nhà vệ sinh , thậm chí là tay của người chuẩn bị thức ăn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Kids can become infected by touching a contaminated surface , such as a toilet or toy , and then putting their fingers in their mouths .</s>
+<s id='vn18'>Trẻ có thể bị nhiễm bệnh bằng cách sờ vào một bề mặt bẩn bào đó , chẳng hạn như nhà vệ sinh hoặc đồ chơi , và sau đó để tay vào miệng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A common cause of diarrhea is viral gastroenteritis ( often called the " stomach flu , " it also can cause nausea and vomiting ) .</s>
+<s id='vn19'>Nguyên nhân gây tiêu chảy thường thấy là bệnh viêm dạ dày - ruột do vi - rút ( thường được gọi là " chứng ói mửa cấp tính do siêu vi " , cũng có thể gây buồn nôn và ói mửa ) .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Many different viruses can cause viral gastroenteritis , which can pass through a household , school , or day-care center quickly because it 's highly infectious .</s>
+<s id='vn20'>Nhiều loại vi - rút khác có thể gây viêm dạ dày - ruột do vi - rút , có thể phát tán trong nhà , trường học , hoặc trung tâm giữ trẻ nhanh chóng vì nó rất dễ lây lan .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Although the symptoms usually last just a few days , affected kids ( especially infants ) who are unable to get adequate fluid intake can become dehydrated .</s>
+<s id='vn21'>Mặc dù các triệu chứng thường chỉ kéo dài một vài ngày , những trẻ bị bệnh ( nhất là trẻ sơ sinh ) không uống đủ nước có thể bị mất nước .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Rotavirus infection is a frequent cause of viral gastroenteritis in kids .</s>
+<s id='vn22'>Nhiễm Rotavirus là nguyên nhân gây viêm dạ dày - ruột do vi - rút thường thấy ở trẻ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Rotavirus usually causes explosive , watery diarrhea , although not all will show symptoms .</s>
+<s id='vn23'>Rotavirus ( vi rút gây bệnh viêm ruột và dạ dày ) thường gây tiêu chảy nước đột ngột và dữ dội , mặc dù không phải tất cả các loại vi - rút đều cho thấy triệu chứng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Rotavirus has commonly caused outbreaks of diarrhea during the winter and early spring months , especially in child-care centers and children 's hospitals , however , a vaccine now recommended for infants has been found to prevent approximately 75 % of cases of rotavirus infection and 98 % of the severe cases that require hospitalization .</s>
+<s id='vn24'>Rotavirus thường gây bùng phát tiêu chảy trong suốt mùa đông và những tháng đầu mùa xuân , nhất là ở những trung tâm chăm sóc trẻ và bệnh viện nhi , tuy nhiên , loại vắc - xin hiện đang được khuyến nghị chủng ngừa cho trẻ sơ sinh đã cho kết quả có thể ngăn ngừa được gần 75% ca nhiễm rotavirus và 98% các ca nghiêm trọng đòi hỏi phải nhập viện .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Another group of viruses that can cause diarrhea in children , especially during the summer months , are enteroviruses , particularly coxsackievirus .</s>
+<s id='vn25'>Một nhóm vi - rút khác có thể gây tiêu chảy ở trẻ nhỏ , nhất là trong suốt những tháng hè , là các vi rút đường ruột , đặc biệt là vi - rút coxsackievirus .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Bacteria and parasites</s>
+<s id='vn26'>Vi khuẩn và động vật ký sinh</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Many different types of bacteria and parasites can cause GI and diarrhea .</s>
+<s id='vn27'>Nhiều loại vi khuẩn và động vật ký sinh khác cũng có thể gây GI và tiêu chảy .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Here are a few that you may have heard about :</s>
+<s id='vn28'>Dưới đây là một số vi khuẩn mà có lẽ bạn đã từng nghe về :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>* E. coli bacteria : Most E. coli infections are spread through contaminated food or water , such as undercooked hamburgers or unwashed fruit that came into contact with animal manure .</s>
+<s id='vn29'>* Vi khuẩn E . coli : Hầu hết các trường hợp nhiễm E . Coli đều lây lan qua thức ăn hoặc nước uống nhiễm bệnh , chẳng hạn như bánh hamburger chưa chín hoặc trái cây chưa rửa sạch dính phân bón động vật .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>E. coli infections , which usually affect kids during their first few years of life , also can be spread via contaminated swimming water and petting zoos .</s>
+<s id='vn30'>Trẻ nhỏ thường nhiễm E . Coli trong suốt một vài năm đầu đời , E . Coli có thể lây lan qua nước ở hồ bơi và các sở thú nhiễm bẩn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>* Salmonella enteritidis bacteria : In the United States , these bacteria ( found in contaminated raw or undercooked chicken ) are a major cause of food poisoning , especially during summer .</s>
+<s id='vn31'>* Vi khuẩn viêm ruột Salmonella : Ở Hoa Kỳ , những loại vi khuẩn này ( có trong thịt gà sống hoặc chưa nấu chín bị nhiễm bẩn ) là nguyên nhân chính gây ngộ độc thực phẩm , nhất là trong suốt mùa hè .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>* Campylobacter bacteria : Infants and young adults are most commonly affected by these infections , especially during the summer .</s>
+<s id='vn32'>* Vi khuẩn Campylobacter : Trẻ sơ sinh và thanh niên là những người hay nhiễm vi khuẩn này nhiều nhất , đặc biệt là trong suốt mùa hè .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The bacteria are often found in raw and undercooked chicken .</s>
+<s id='vn33'>Vi khuẩn này thường có trong thịt gà sống và chưa nấu chín .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>* Shigella bacteria : Shigella infection ( called shigellosis ) spreads easily in families , hospitals , and child-care centers .</s>
+<s id='vn34'>* Vi khuẩn Shigella : Nhiễm Shigella ( shigellosis - một loại bệnh lỵ , xuất hiện chủ yếu ở các vùng nhiệt đới có điều kiện vệ sinh kém ) dễ dàng lây lan trong gia đình , bệnh viện , và trung tâm chăm sóc trẻ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Kids 2 to 4 years old are the most likely to be infected .</s>
+<s id='vn35'>Trẻ nhỏ từ 2 đến 4 tuổi thường nhiễm bệnh nhiều nhất .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>* Giardia parasite : Infection with Giardia ( called giardiasis ) is easily spread through child-care settings and contaminated water supplies , especially water parks and pools ( the bacteria are resistant to chlorine treatment ) , aquariums and museums , and contaminated streams or lakes .</s>
+<s id='vn36'>* Ký sinh trùng Giardia ( ký sinh trùng roi ) ( trong ruột của động vật có xương sống ) : Nhiễm ký sinh trùng roi GiardiaI ( nhiễm trùng ruột do ký sinh trùng roi GiardiaI ) thường dễ lây lan ở những môi trường chăm sóc trẻ , và nguồn nước bẩn , nhất là các công viên nước và các hồ bơi ( vi khuẩn chịu đựng được phương pháp xử lý bằng clo ) , các hồ thuỷ sinh và bảo tàng , và những sông hồ bị nhiễm bẩn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>* Cryptosporidium parasite : Found especially in drinking and recreational water , this parasite often is the culprit behind diarrhea epidemics in child-care centers and other public places .</s>
+<s id='vn37'>* Ký sinh trùng Cryptosporidium : Loại ký sinh trùng này được thấy nhiều nhất trong nước uống và vùng sông nước du lịch , đây cũng thường là nguyên nhân tiềm ẩn của dịch tiêu chảy ở các trung tâm chăm sóc trẻ và những khu vực công cộng khác .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Cryptosporidiosis often causes watery diarrhea that can last for 2 weeks or more .</s>
+<s id='vn38'>Nhiễm ký sinh trùng Cryptosporidium thường gây ra tiêu chảy nước có thể kéo dài trong 2 tuần trở lên .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Diarrheal infections are a normal part of childhood for many kids , but diarrhea can be a symptom of a number of non-infectious diseases and conditions , especially when it lasts several weeks or longer .</s>
+<s id='vn39'>Nhiễm tiêu chảy là chứng bệnh bình thường trong giai đoạn phát triển của nhiều trẻ nhỏ , nhưng tiêu chày có thể là triệu chứng của một số bệnh không truyền nhiễm , nhất là khi kéo dài một vài tuần trở lên .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It can indicate food allergies , lactose intolerance , or diseases of the gastrointestinal tract , such as celiac disease and inflammatory bowel disease .</s>
+<s id='vn40'>Đây có thể là dấu hiệu của chứng dị ứng thực phẩm , không dung nạp lactose , hoặc các bệnh về đường ruột , chẳng hạn như bệnh đường ruột và bệnh viêm ruột mãn tính .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Signs and Symptoms</s>
+<s id='vn41'>Triệu chứng và dấu hiệu của bệnh tiêu chảy</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Symptoms typically start with crampy abdominal pain followed by diarrhea that usually lasts no more than a few days .</s>
+<s id='vn42'>Các triệu chứng thường bắt đầu bằng đau bụng do chuột rút theo sau đó là tiêu chảy thường kéo dài trong vòng một vài ngày .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Infections with many of the viruses , bacteria , and parasites that cause diarrhea also can bring on other symptoms , such as :</s>
+<s id='vn43'>Nhiễm trùng do nhiều loại vi - rút , vi khuẩn và động vật ký sinh gây ra tiêu chảy cũng có thể làm phát sinh nhiều triệu chứng , chẳng hạn như :</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* fever</s>
+<s id='vn44'>* sốt</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* loss of appetite</s>
+<s id='vn45'>* chán ăn</s>
+</spair>
+<spair id='46'>
+<s id='en46'>* nausea</s>
+<s id='vn46'>* buồn nôn</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* vomiting</s>
+<s id='vn47'>* ói</s>
+</spair>
+<spair id='48'>
+<s id='en48'>* weight loss</s>
+<s id='vn48'>* giảm cân</s>
+</spair>
+<spair id='49'>
+<s id='en49'>* dehydration</s>
+<s id='vn49'>* mất nước</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In cases of viral gastroenteritis , kids often develop fever and vomiting first , followed by diarrhea .</s>
+<s id='vn50'>Trong trường hợp bị viêm dạ dày - ruột do vi - rút thì ban đầu trẻ thường bị sốt và ói mửa , tiếp sau đó là tiêu chảy .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Prevention</s>
+<s id='vn51'>Ngăn ngừa tiêu chảy</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Although it 's almost impossible to prevent kids from ever getting infections that cause diarrhea , here are some things to help lessen the likelihood :</s>
+<s id='vn52'>Mặc dù chuyện ngăn ngừa các bệnh lây nhiễm gây tiêu chảy ở trẻ là điều hầu như không thể nhưng dưới đây là một số việc có thể giúp giảm bớt khả năng nhiễm bệnh :</s>
+</spair>
+<spair id='53'>
+<s id='en53'>* Make sure kids wash their hands well and often , especially after using the toilet and before eating .</s>
+<s id='vn53'>* Nên đảm bảo trẻ phải rửa tay thường xuyên và kỹ lưỡng , nhất là sau khi đi vệ sinh xong và trước khi ăn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Hand washing is the most effective way to prevent diarrheal infections that are passed from person to person .</s>
+<s id='vn54'>Rửa tay sạch sẽ là cách hiệu quả nhất để ngăn ngừa nhiễm tiêu chảy lây từ người này sang người khác .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Dirty hands carry infectious germs into the body when kids bite their nails , suck their thumbs , eat with their fingers , or put their hands into their mouths .</s>
+<s id='vn55'>Tay bẩn mang mầm bệnh lây nhiễm vào cơ thể khi trẻ cắn móng tay , bú ngón tay cái , bốc thức ăn bằng tay , hoặc để tay vào miệng .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* Keep bathroom surfaces clean to help prevent the spread of infectious germs .</s>
+<s id='vn56'>* Giữ bề mặt nhà vệ sinh sạch sẽ để giúp ngăn ngừa lây lan mầm bệnh lây nhiễm .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* Wash fruits and vegetables thoroughly before eating , since food and water also can carry infectious germs .</s>
+<s id='vn57'>* Rửa trái cây và rau củ kỹ lưỡng trước khi ăn , vì thức ăn và nước uống cũng có thể mang mầm bệnh lây nhiễm .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* Wash kitchen counters and cooking utensils thoroughly after they 've been in contact with raw meat , especially poultry .</s>
+<s id='vn58'>* Rửa quầy nhà bếp và các dụng cụ nấu nướng kỹ lưỡng sau khi tiếp xúc với thịt sống , nhất là thịt gia cầm .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* Refrigerate meats as soon as possible after bringing them home from the supermarket , and cook them until they 're no longer pink .</s>
+<s id='vn59'>* Ướp lạnh các loại thịt càng sớm càng tốt sau khi mang từ siêu thị về , và nấu cho đến khi thịt không còn màu hồng nữa mới thôi .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>After meals , refrigerate all leftovers as soon as possible .</s>
+<s id='vn60'>Sau khi ăn xong , nên để lạnh tất cả các thức ăn còn thừa càng sớm càng tốt .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>* Never drink from streams , springs , or lakes unless local health authorities have certified that the water is safe for drinking .</s>
+<s id='vn61'>* Đừng bao giờ uống nước sông , suối , hoặc ao hồ trừ phi các cơ quan y tế địa phương đã chứng nhận là nước có thể uống được an toàn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>In some developing countries , it may be safer to drink only bottled water and other drinks rather than water from a tap .</s>
+<s id='vn62'>Ở một số nước đang phát triển , có thể an toàn hơn khi chỉ uống nước đóng chai và các thức uống khác chớ không phải là nước máy .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Also , exercise caution when buying prepared foods from street vendors , especially if no local health agency oversees their operations .</s>
+<s id='vn63'>Ngoài ra , hãy thận trọng khi mua thức ăn đã làm sẵn của những người bán dạo , nhất là nếu không có cơ quan y tế địa phương nào giám sát hoạt động của họ .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>* Do n't wash pet cages or bowls in the same sink that you use to prepare family meals .</s>
+<s id='vn64'>* Đừng rửa chuồng thú hoặc chén ăn trong cùng một bồn rửa mà bạn sử dụng để chuẩn bị bữa ăn gia đình .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>* Keep pets ' feeding areas ( especially those of reptiles ) separate from family eating areas .</s>
+<s id='vn65'>* Nên giữ khu vực ăn của thú nuôi ( nhất là nơi cho các loài bò sát ăn ) tách biệt với các khu vực ăn uống của gia đình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>When to call the doctor</s>
+<s id='vn66'>Khi nào nên gọi cho bác sĩ</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Call your doctor if your child has diarrhea and is younger than 6 months old or has :</s>
+<s id='vn67'>Bạn nên gọi điện cho bác sĩ nếu con bạn bị tiêu chảy và dưới 6 tháng tuổi hoặc bị :</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* a severe or prolonged episode of diarrhea</s>
+<s id='vn68'>* tiêu chảy nặng hoặc kéo dài</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* fever of 102°F or higher</s>
+<s id='vn69'>* sốt từ 102° F trở lên</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* repeated vomiting , or refusal to drink fluids</s>
+<s id='vn70'>* ói liên tục , hoặc không chịu uống nước</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* severe abdominal pain</s>
+<s id='vn71'>* đau bụng dữ dội</s>
+</spair>
+<spair id='72'>
+<s id='en72'>* diarrhea that contains blood or mucus</s>
+<s id='vn72'>* tiêu chảy ra máu hoặc chất nhầy trong phân</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Call the doctor immediately if your child seems to be dehydrated .</s>
+<s id='vn73'>Hãy gọi điện cho bác sĩ ngay lập tức nếu con bạn có vẻ như bị mất nước :</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Signs of dehydration include :</s>
+<s id='vn74'>Các dấu hiệu mất nước gồm :</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* dry or sticky mouth</s>
+<s id='vn75'>* khô hoặc dính miệng</s>
+</spair>
+<spair id='76'>
+<s id='en76'>* few or no tears when crying</s>
+<s id='vn76'>* có ít hoặc không có nước mắt khi khóc</s>
+</spair>
+<spair id='77'>
+<s id='en77'>* eyes that look sunken into the head</s>
+<s id='vn77'>* mắt trông có vẻ trũng sâu vào trong đầu</s>
+</spair>
+<spair id='78'>
+<s id='en78'>* soft spot ( fontanelle ) on top of the head that looks sunken</s>
+<s id='vn78'>* phần mềm trên đỉnh đầu ( thóp đầu ) trông có vẻ bị hóp / bị lõm</s>
+</spair>
+<spair id='79'>
+<s id='en79'>* lack of urine or wet diapers for 6 to 8 hours in an infant ( or only a very small amount of dark yellow urine )</s>
+<s id='vn79'>* trẻ sơ sinh không đi tiểu hoặc tã lót của bé không ướt trong khoảng từ 6 đến 8 tiếng đồng hồ ( hoặc chỉ có một lượng nước tiểu vàng sẫm rất nhỏ )</s>
+</spair>
+<spair id='80'>
+<s id='en80'>* lack of urine for 12 hours in an older child ( or only a very small amount of dark yellow urine )</s>
+<s id='vn80'>* trẻ lớn hơn không đi tiểu trong vòng 12 tiếng đồng hồ ( hoặc chỉ có một lượng nước tiểu vàng sẫm rất nhỏ )</s>
+</spair>
+<spair id='81'>
+<s id='en81'>* dry , cool skin</s>
+<s id='vn81'>* da khô , mát</s>
+</spair>
+<spair id='82'>
+<s id='en82'>* lethargy or irritability</s>
+<s id='vn82'>* trẻ ngủ lịm hoặc hay cáu gắt</s>
+</spair>
+<spair id='83'>
+<s id='en83'>* fatigue or dizziness in an older child</s>
+<s id='vn83'>* trẻ lớn hơn bị chóng mặt hoặc mệt mỏi</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Caring for your child</s>
+<s id='vn84'>Chăm sóc con của bạn</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Mild diarrhea is usually no cause for concern as long as your child is acting normally and drinking and eating enough .</s>
+<s id='vn85'>Tiêu chảy nhẹ thường không phải là nguyên nhân gây lo lắng miễn là trẻ hoạt động bình thường và ăn uống đầy đủ .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Mild diarrhea usually passes within a few days and kids recover completely with care at home , rest , and plenty of fluids .</s>
+<s id='vn86'>Tiêu chảy nhẹ thường có thể hết trong vòng một vài ngày và trẻ có thể hồi phục hoàn toàn khi được chăm sóc ở nhà , được nghỉ ngơi và uống nhiều nước .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>A child with mild diarrhea who is n't dehydrated or vomiting can continue eating and drinking the usual foods and fluids , including breast milk or formula for infants and milk for kids over 1 year old .</s>
+<s id='vn87'>Trẻ bị tiêu chảy nhẹ không bị mất nước hoặc không ói mửa thì có thể vẫn ăn uống theo chế độ bình thường , như bú sữa mẹ hoặc bú bình đối với trẻ sơ sinh và uống sữa đối với trẻ trên 1 tuổi .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>In fact , continuing a regular diet may even reduce the duration of the diarrhea episode , while also offering proper nutrition .</s>
+<s id='vn88'>Thực ra thì việc cho trẻ tiếp tục ăn uống theo một chế độ dinh dưỡng thường lệ thậm chí có thể làm giảm thời gian trẻ bị tiêu chảy , mặc dù bạn cũng nên cho trẻ một chế độ dinh dưỡng phù hợp .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Of course , you may want to give a child smaller portions of food until the diarrhea ends .</s>
+<s id='vn89'>Tất nhiên là bạn cũng có thể cần phải cho con ăn ít hơn cho đến khi nào hết tiêu chảy .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Antibiotics or antiviral medications are not prescribed for cases of diarrhea caused by bacteria and viruses because most kids recover on their own .</s>
+<s id='vn90'>Bác sĩ thường không kê toa sử dụng thuốc kháng sinh và thuốc kháng vi rút đối với các trường hợp tiêu chảy do vi khuẩn và vi - rút gây ra bởi hầu hết trẻ nhỏ đều có thể tự hồi phục được .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>But antibiotics are sometimes given to very young children or those with weak immune systems to prevent a bacterial infection ( such as salmonellosis ) from spreading through the body .</s>
+<s id='vn91'>Nhưng đôi khi thuốc kháng sinh cũng được sử dụng cho trẻ rất nhỏ hoặc trẻ có hệ miễn dịch yếu để ngăn ngừa nhiễm khuẩn ( chẳng hạn như nhiễm khuẩn Salmonella ) lây lan khắp cơ thể .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>If the illness is caused by a parasite , it can be treated with antiparasitic medicines to cure or shorten the course of the illness .</s>
+<s id='vn92'>Nếu bệnh do động vật ký sinh gây ra thì có thể điều trị bằng thuốc diệt ký sinh trùng để chữa lành hoặc rút ngắn quá trình diễn biến của bệnh .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>The doctor may order a stool test , in which a stool sample will be examined in the laboratory to see which specific germ is causing the diarrhea ( bacteria , virus , or parasite ) .</s>
+<s id='vn93'>Bác sĩ có thể yêu cầu làm xét nghiệm phân , trong đó người ta sẽ lấy một mẫu phân kiểm tra trong phòng thí nghiệm để xem loại vi trùng cụ thể nào gây ra tiêu chảy ( vi khuẩn , vi rút , hay là động vật ký sinh ) .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Although you may be tempted to give your child an over-the-counter anti-diarrhea medication , do n't do so unless your doctor gives the OK .</s>
+<s id='vn94'>Mặc dù bạn cũng có thể rất muốn mua thuốc trị tiêu chảy tự do không theo toa cho con mình , nhưng bạn không nên làm thế trừ phi được bác sĩ đồng ý .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The primary concern when treating a diarrhea is the replacement of fluids and electrolytes ( salts and minerals ) lost from the body from diarrhea , vomiting , and fever .</s>
+<s id='vn95'>Điều quan tâm chủ yếu khi điều trị tiêu chảy là thay nước và chất điện phân ( muối và các khoáng chất ) bị mất khỏi cơ thể do tiêu chảy , ói mửa , và sốt .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Depending on the amount of fluid loss and the severity of vomiting and diarrhea , your doctor will probably instruct you to :</s>
+<s id='vn96'>Tuỳ thuộc vào lượng nước mất đi , bé bị tiêu chảy và ói mửa nghiêm trọng đến mức độ nào mà bác sĩ sẽ có thể hướng dẫn bạn :</s>
+</spair>
+<spair id='97'>
+<s id='en97'>* Continue your child 's regular diet and give more liquids to replace those lost while the diarrhea continues if there are no signs of dehydration .</s>
+<s id='vn97'>* Tiếp tục chế độ dinh dưỡng bình thường của trẻ và cho trẻ uống nhiều nước hơn để thay thế lượng nước bị mất đi trong khi bé vẫn còn tiêu chảy nếu không có dấu hiệu mất nước nào xảy ra .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>* Offer additional breastmilk or formula to infants .</s>
+<s id='vn98'>* Cho trẻ sơ sinh bú thêm sữa mẹ hoặc bú thêm sữa bột .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>* Use an oral rehydration solution ( ORS ) to replace lost fluids in non-dehydrated children .</s>
+<s id='vn99'>* Cho trẻ uống dung dịch bổ sung nước cho cơ thể ( ORS ) để thay thế lượng nước mất đi đối với trẻ không bị mất nước .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Many of the " clear liquids " used by parents or recommended by doctors in the past are no longer considered appropriate for kids with diarrhea .</s>
+<s id='vn100'>Các loại " chất lỏng trong " được nhiều bố mẹ sử dụng hoặc được bác sĩ khuyến nghị sử dụng trước đây không còn phù hợp với trẻ bị tiêu chảy .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Do n't offer : plain water , soda , ginger ale , tea , fruit juice , gelatin desserts , chicken broth , or sports drinks .</s>
+<s id='vn101'>Bạn đừng nên cho trẻ uống nước không , xô-đa , thức uống ướp gừng , trà , nước ép trái cây , dùng món thạch tráng miệng , canh gà , hoặc các thức uống thể thao .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>These do n't have the right mix of sugar and salts and can even make diarrhea worse .</s>
+<s id='vn102'>Những loại này không được pha trộn hàm lượng đường và muối đúng và có thể thậm chí làm cho bệnh tiêu chảy càng trầm trọng thêm .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Infants and small children should never be rehydrated with water alone because it does n't contain adequate amounts of sodium , potassium , and other important minerals and nutrients .</s>
+<s id='vn103'>Trẻ sơ sinh và trẻ nhỏ không nên được bổ sung chỉ bằng nước bởi nước không chứa đủ hàm lượng na - tri , ka-li , và các khoáng chất và dưỡng chất quan trọng khác .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Doctors often recommend that kids who show signs of mild dehydration be given oral rehydration solutions to replace body fluids quickly .</s>
+<s id='vn104'>Bác sĩ thường khuyến nghị trẻ có dấu hiệu mất nước nhẹ nên được uống dung dịch bổ sung nước cho cơ thể để thay thế nhanh lượng nước trong cơ thể .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>These are available in most grocery stores and pharmacies without a prescription .</s>
+<s id='vn105'>Những dung dịch này có bán ở hầu hết các tiệm tạp hoá và các hiệu thuốc mà không cần phải kê toa .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Brand-name solutions often end in " lyte . "</s>
+<s id='vn106'>Tên thương hiệu thường tận cùng bằng " lyte . "</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Your doctor will tell you what kind to give , how much , and for how long .</s>
+<s id='vn107'>Bác sĩ sẽ cho bạn biết nên sử dụng loại nào , sử dụng liều lượng bao nhiêu , và sử dụng trong thời gian là bao lâu .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Never try to make your own ORS at home unless your doctor says it 's OK .</s>
+<s id='vn108'>Đừng bao giờ cố tự làm lấy dung dịch ORS ở nhà trừ phi có sự đồng ý của bác sĩ .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>In some cases , kids with severe diarrhea may need to receive IV fluids at the hospital for a few hours to help combat dehydration .</s>
+<s id='vn109'>Trong một số trường hợp , trẻ bị tiêu chảy nặng có thể cần được truyền dịch qua đường tĩnh mạch ở bệnh viện trong một vài tiếng đồng hồ để giúp ngăn tình trạng mất nước .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The best way to manage your child 's diarrhea depends on how severe it is , what germ caused it , and your child 's age , weight , and symptoms .</s>
+<s id='vn110'>Cách tốt nhất để kiểm soát bệnh tiêu chảy của con bạn tuỳ thuộc vào mức độ nghiêm trọng của bệnh như thế nào , loại vi trùng nào gây ra , và con bạn bao nhiêu tuổi , cân nặng của bé và các triệu chứng bệnh .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>So be sure to ask your doctor for recommendations about treatment .</s>
+<s id='vn111'>Vì vậy bạn phải đảm bảo được bác sĩ cho lời khuyên về phương pháp điều trị .</s>
+</spair>
+</text>
+</doc>

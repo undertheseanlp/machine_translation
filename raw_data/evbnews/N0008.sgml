@@ -1,0 +1,480 @@
+﻿<doc id='N0008'>
+<head>
+<title>Tết Nguyên Đán</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Tết Nguyên Đán</s>
+<s id='vn1'>Tết Nguyên Đán</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Tết Nguyên Đán , more commonly known by its shortened name Tết , is the most important and popular holiday and festival in Vietnam .</s>
+<s id='vn2'>Tết Nguyên Đán thường được biết tới bằng một cái tên ngắn gọn là Tết , là kỳ nghỉ và là một lễ hội quan trọng và phổ biến nhất ở Việt Nam .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It is the Vietnamese New Year derived from the Chinese New Year based on the Lunar calendar , a lunisolar calendar .</s>
+<s id='vn3'>Đó là cái Tết của người Việt bắt nguồn từ Tết của người Trung Quốc tính theo âm lịch , lịch âm-dương .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The name Tết Nguyên Đán is Sino-Vietnamese for Feast of the First Morning</s>
+<s id='vn4'>Cái tên Tết Nguyên Đán là từ tiếng Hán-Việt , nghĩa là Buổi lễ sáng mồng một .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Tết is celebrated on the same day as Chinese New Year though exceptions arise due to the one-hour time difference between Hanoi and Beijing .</s>
+<s id='vn5'>Tết được tổ chức cùng một ngày với Tết của Trung Quốc chỉ trừ sự khác biệt thời gian một tiếng đồng hồ giữa Hà Nội và Bắc Kinh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It takes place from the first day of the first month of the Lunar calendar ( around late January or early February ) until at least the third day .</s>
+<s id='vn6'>Nó diễn ra từ ngày mồng một tháng Giêng âm lịch ( vào khoảng cuối tháng Giêng hoặc đầu tháng Hai ) cho đến ít nhất là ngày mồng ba âm lịch .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Tết shares many of the same customs of its Chinese counterpart , having been derived from it .</s>
+<s id='vn7'>Tết có nhiều phong tục giống với của nơi xuất xứ – đó là Trung Quốc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Many Vietnamese prepare for Tết by cooking special holiday foods and cleaning the house .</s>
+<s id='vn8'>Nhiều người Việt nấu các món ăn ngày lễ đặc biệt và lau dọn nhà cửa để chuẩn bị Tết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>There are a lot of customs practiced during Tết , like visiting a person 's house on the first day of the New Year ( xông nhà ) , ancestral worshipping , wishing New Year 's greetings , giving lucky money to children and elderly people , and opening a shop .</s>
+<s id='vn9'>Có nhiều phong tục tập quán ngày Tết , như thăm nhà người khác vào ngày mồng một Tết ( xông nhà ) , cúng ông bà , chúc Tết , lì xì trẻ con và người lớn , và khai trương cửa hàng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Tết is also an occasion for pilgrims and family reunions .</s>
+<s id='vn10'>Tết cũng là dịp để hành hương và gia đình đoàn tụ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Vietnamese visit their relatives and temples , forgetting about the troubles of the past year and hoping for a better upcoming year .</s>
+<s id='vn11'>Người Việt thăm viếng họ hàng và đền chùa để quên đi các muộn phiền năm cũ và hy vọng năm sắp đến sẽ tốt hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They consider Tết to be the first day of spring and the festival is often called Hội xuân .</s>
+<s id='vn12'>Người ta coi Tết là ngày đầu xuân và lễ hội thường được gọi là Hội xuân .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Customs</s>
+<s id='vn13'>Phong tục tập quán</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Vietnamese people usually return to their families during Tết .</s>
+<s id='vn14'>Người Việt Nam thường về đoàn tụ với gia đình trong suốt những ngày Tết .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Some return to worship at the family altar or visit the graves of their ancestors in their homeland .</s>
+<s id='vn15'>Một số trở về để cúng bàn thờ gia đình hoặc đi thăm mồ tổ tiên ở quê hương .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Although Tết is a national holiday among all Vietnamese , each region and religion has its own customs .</s>
+<s id='vn16'>Mặc dù Tết là ngày lễ chung của hết thảy người Việt nhưng mỗi vùng miền và mỗi tôn giáo có những phong tục tập quán riêng của mình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Tết in the three Vietnamese regions can be divided into three periods , known as Tất Niên ( Before New Year 's Eve ) , Giao Thừa ( New Year 's Eve ) , and Tân Niên ( the New Year ) , representing the preparation before Tết , the eve of Tết , and the days of and following Tết , respectively .</s>
+<s id='vn17'>Tết ở ba miền Việt Nam có thể được chia ra thành ba giai đoạn , gọi là Tất Niên ( trước đêm giao thừa ) , Giao Thừa ( đêm giao thừa ) , và Tân Niên ( năm mới ) , tượng trưng theo thứ tự tương ứng là sự chuẩn bị trước Tết - đêm trước Tết , Tết và sau Tết .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>All of these customs are in Tết in Vietnam .</s>
+<s id='vn18'>Tất cả các phong tục tập quán này đều có trong ngày Tết ở Việt Nam .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Before New Year 's Eve</s>
+<s id='vn19'>Tất niên</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This period begins one or two weeks before Tết .</s>
+<s id='vn20'>Giai đoạn này bắt đầu trước Tết khoảng một hoặc hai tuần .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The general atmosphere leading up to Tết is in the bustle of shopping , decorating the home , cooking traditional Tết food and waiting for relatives to return home .</s>
+<s id='vn21'>Bầu không khí chung gần Tết là sự náo nhiệt mua sắm , trang trí nhà cửa , nấu các món truyền thống ngày Tết và chờ người thân trở về đoàn tụ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>People try to pay off their debts in advance so that they can be debt-free on Tết .</s>
+<s id='vn22'>Mọi người cố trả dứt nợ để có thể hết nợ vào ngày Tết .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Parents buy new clothes for their children so that the children can wear them when Tết arrives .</s>
+<s id='vn23'>Bố mẹ mua quần áo mới cho con mặc vào dịp Tết .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Because a lot of commercial activity will cease during the celebrations , people try to stock up on supplies as much as possible .</s>
+<s id='vn24'>Vì nhiều hoạt động mua bán kinh doanh sẽ nghỉ trong dịp Tết nên người ta cố tích trữ vật dụng càng nhiều càng tốt .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In the days leading up to Tết , the streets and markets are full of people .</s>
+<s id='vn25'>Vào các ngày gần Tết , đường sá và chợ búa đều nhung nhúc người ta .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>As the shops will be closed during Tết , everyone is busy buying food , clothes , and decorations for their house .</s>
+<s id='vn26'>Vì nhiều cửa hiệu sẽ đóng cửa suốt các ngày Tết nên ai ai cũng tất bật mua sắm thức ăn , quần áo , và đồ trang trí nhà cửa của mình .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Vietnamese families usually have a family altar , to pay respect to their ancestors .</s>
+<s id='vn27'>Gia đình người Việt thường có bàn thờ gia đình , để tỏ lòng kính trọng tổ tiên của mình .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Vietnamese families have a tray of five fruits on their altar called " Ngũ Quả " , including banana , orange , kumquat , pomelo and finger citron ( some other places have Custard Apple , Coconut , Papaya , Mango and Pineapple ; since it spells out Cau , Dua , Du , Xai ) .</s>
+<s id='vn28'>Các gia đình Việt Nam cũng bày mâm gồm năm thứ trái cây trên bàn thờ gọi là " Mâm Ngũ quả " , bao gồm chuối , cam , kim quất , bưởi và phật thủ ( nhiều nơi khác trưng Na , Dừa , Đu Đủ , Xoài Và Dứa ; vì chúng được hiểu là Cầu , Dừa , Đủ , Xài ) .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Each fruit conveys a different meaning .</s>
+<s id='vn29'>Mỗi trái cây có một ý nghĩa khác nhau .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Pomelos promise a lucky and sweet year .</s>
+<s id='vn30'>Bưởi hứa hẹn một năm ngọt lành và may mắn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Banana and finger citron symbolize a protective hand while kumquats and oranges represent success and prosperity .</s>
+<s id='vn31'>Chuối và phật thủ tượng trưng cho bàn tay che chở trong khi cam và kim quất tượng trưng cho sự thành công và thịnh vượng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>During Tết the altar is thoroughly cleaned and new offerings are placed there .</s>
+<s id='vn32'>Người ta thường lau chùi bàn thờ sạch sẽ và đặt đồ cúng ở đây vào những ngày Tết .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Traditionally , Ông Táo , who report to the Jade Emperor about the events in that house over the past year , return to heaven on the 23rd day of the twelfth month by lunar calendar .</s>
+<s id='vn33'>Theo truyền thống thì Ông Táo , người báo cáo với Ngọc Hoàng những sự kiện xảy ra trong nhà vào năm qua sẽ về trời vào ngày 23 tháng 12 âm lịch .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In the days leading up to Tết , each family cooks special Tet foods such as bánh chưng and bánh dầy .</s>
+<s id='vn34'>Vào những ngày sắp Tết , gia đình nào cũng nấu các món ăn đặc trưng cho ngày Tết như bánh chưng và bánh dầy .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Preparations for these foods are quite extensive .</s>
+<s id='vn35'>Khâu chuẩn bị cho các món ăn này cũng rất nhiều .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Family members often take turns to keep watch on the fire overnight , telling each other stories about Tết of past years .</s>
+<s id='vn36'>Các thành viên trong gia đình thay phiên nhau canh lửa nồi bánh suốt đêm , rồi râm ran kể chuyện nhau nghe về những cái Tết đã qua .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The New Year</s>
+<s id='vn37'>Năm mới</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The first day is reserved for the nuclear family .</s>
+<s id='vn38'>Ngày mồng một dành riêng cho gia đình .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Children receive a red envelope containing money from their elders .</s>
+<s id='vn39'>Trẻ con được người lớn phát cho phong bì tiền màu đỏ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>This tradition is called mừng tuổi in the north and lì xì in the south .</s>
+<s id='vn40'>Truyền thống này được gọi là tục mừng tuổi ở miền Bắc và lì xì ở miền Nam .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Usually , children wear their new clothes and give their elders the traditional Tết greetings before receiving the money .</s>
+<s id='vn41'>Thường thì trẻ con mặc quần áo mới và chúc người lớn các câu chúc Tết truyền thống trước khi nhận tiền .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Since the Vietnamese believe that the first visitor a family receives in the year determines their fortune for the entire year , people never enter any house on the first day without being invited first .</s>
+<s id='vn42'>Vì người Việt tin rằng người đầu tiên đạp đất trong năm mới sẽ định vận may đối với gia đình cả năm , thế nên người ta sẽ chẳng đến nhà người khác vào đầu năm nếu không được mời đến .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The act of being the first person to enter a house on Tết is called xông đất , xông nhà or đạp đất , which is one of the most important rituals during Tết .</s>
+<s id='vn43'>Việc bước vào nhà ai đó đầu tiên vào dịp Tết được gọi là xông đất , xông nhà hoặc đạp đất , đây là một trong những nghi thức quan trọng nhất suốt những ngày Tết .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>According to Vietnamese tradition , if good things come to the family on the first day of the lunar New Year , the entire following year will also be full of blessings .</s>
+<s id='vn44'>Theo truyền thống của người Việt thì nếu những điều tốt đẹp đến với gia đình vào ngày đầu năm mới thì suốt năm sau sẽ được hưởng phúc lành .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Usually , a person of good temper , morality and success will be the lucky sign for the host family and be invited first into the house .</s>
+<s id='vn45'>Thường thì một người có tốt , đạo đức và thành công sẽ là dấu hiệu may mắn đối với gia chủ và được mời làm người xông đất đầu tiên .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>However , just to be safe , the owner of the house will leave the house a few minutes before midnight and come back just as the clock strikes midnight to prevent anyone else entering the house first who might potentially bring any unfortunate events in the new year to the household .</s>
+<s id='vn46'>Tuy nhiên , để chắc ăn thì chủ nhà sẽ đi khỏi nhà vài phút trước giao thừa và trở về nhà ngay khi kim đồng hồ gõ đúng nửa đêm để không cho ai khác xông đất trước có thể mang xui xẻo đến cho họ trong năm mới .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Sweeping during Tết is taboo or unlucky , since it symbolizes sweeping the luck away .</s>
+<s id='vn47'>Quét nhà những ngày Tết là điều cấm kỵ hoặc xui xẻo , bởi người ta cho là quét may mắn đi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>It is also taboo for anyone who experienced a recent loss of a family member to visit anyone else during Tết .</s>
+<s id='vn48'>Họ cũng nghĩ là những ai mới có tang người thân thì cũng không nên đến thăm người khác trong dịp Tết .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>During subsequent days , people visit relatives and friends .</s>
+<s id='vn49'>Những ngày tiếp theo , người ta thăm viếng họ hàng và bè bạn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Traditionally but not strictly , the second day of Tết is usually reserved for friends , while the third day is for teachers .</s>
+<s id='vn50'>Theo truyền thống nhưng không phải lúc nào cũng thế thì ngày mồng hai để tết bạn trong khi đó thì ngày mồng ba lại tết thầy .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Local Buddhist temples are popular spots as people like to give donations and to get their fortunes told during Tết .</s>
+<s id='vn51'>Các ngôi chùa Phật giáo ở địa phương là những điểm đến phổ biến dành cho người quyên góp làm từ thiện và xem về vận mệnh của mình trong những ngày Tết .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Children are free to spend their new money on toys or on gambling games such as bầu cua cá cọp in the streets .</s>
+<s id='vn52'>Trẻ con tự do dùng tiền lì xì để mua đồ chơi hoặc tham gia các trò chơi cờ bạc như bầu cua cá cọp trên đường phố .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Prosperous families can pay for dragon dancers to perform at their house .</s>
+<s id='vn53'>Nhiều gia đình giàu có thuê vũ công múa rồng đến biểu diễn ở nhà mình .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>There are also public performances for everyone to watch .</s>
+<s id='vn54'>Cũng có nhiều tiết mục công cộng cho mọi người cùng thưởng thức .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Decorations</s>
+<s id='vn55'>Trang trí</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Traditionally , each family displays cây nêu , an artificial New Year Tree consisting of a bamboo pole 5 to 6 m long .</s>
+<s id='vn56'>Về truyền thống thì các gia đình đều trưng cây nêu , đây là Cây Năm Mới do con người dựng nên gồm một cột tre dài từ 5 đến 6 mét .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The top end is usually decorated with many objects , depending on the locality , including good luck charms , origami fish , cactus branches , etc .</s>
+<s id='vn57'>Ở mút đỉnh thường được trang trí bằng nhiều thứ , tuỳ thuộc từng vùng miền , gồm những lá bùa may , cá chép bằng giấy , nhánh xương rồng , v.v .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>At Tết every house is usually decorated by Ochna integerrima ( in the central and southern parts of Vietnam ) or peach flower ( in the northern part of Vietnam ) or hoa ban ( in mountain areas ) .</s>
+<s id='vn58'>Vào dịp Tết , hầu hết nhà nào cũng trang trí hoa mai ( ở miền trung và miền nam Việt Nam ) hoặc hoa đào ( ở miền bắc Việt Nam ) hoặc hoa ban ( ở miền núi ) .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>In the north , some people ( especially the elite in the past ) also decorate their house with a Prunus mume tree ( also called mai in Vietnam ) .</s>
+<s id='vn59'>Ở miền bắc , nhiều người ( đặc biệt là người giàu có hồi xưa ) cũng trang trí nhà bằng cây mai mơ ( gọi là mai ở Việt Nam ) .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>In the north or central , the kumquat tree is a popular decoration for the living room during Tết .</s>
+<s id='vn60'>Ở miền bắc hoặc miền trung thì kim quất được người ta chuộng để trang trí trong phòng khách vào những ngày Tết .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Its many fruits symbolize the fertility and fruitfulness that the family hopes for in the coming year .</s>
+<s id='vn61'>Vẻ sum suê quả tượng trưng cho sự sung túc và nhiều kết quả mà gia đình hy vọng có được trong năm sau .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Vietnamese people also decorate their homes with bonsai and flower plants such as chrysanthemum , marigold symbolizing longevity , mào gà in Southern Vietnam and paperwhite flower , lavender , hoa bướm in Northern Vietnam .</s>
+<s id='vn62'>Người Việt Nam cũng trang trí nhà bằng cây bon-sai và hoa như cúc , cúc vạn thọ tượng trưng cho sự sống thọ , hoa mào gà ở miền nam Việt Nam và hoa thủy tiên , hoa vi-ô-lét , hoa bướm ở miền bắc Việt Nam .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>In the past , there was a tradition that old people tried to make their paperwhite flowers blossom right the watch-night time .</s>
+<s id='vn63'>Trước đây , có truyền thống là người già cố làm cho hoa thủy tiên của mình nở đúng vào đêm giao thừa .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>They also hung up Dong Ho Paintings and thư pháp .</s>
+<s id='vn64'>Họ cũng treo tranh Đông Hồ và thư pháp lên .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Greetings</s>
+<s id='vn65'>Lời Chúc</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The traditional greetings are " chúc mừng năm mới " and " cung chúc tân xuân " .</s>
+<s id='vn66'>Những câu chúc truyền thống là " chúc mừng năm mới " và " cung chúc tân xuân " .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>People also wish each other prosperity and luck .</s>
+<s id='vn67'>Người ta cũng chúc nhau may mắn và thịnh vượng nữa .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Common wishes for Tết include :</s>
+<s id='vn68'>Những câu chúc Tết thường nghe gồm :</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Live up to 100 years : used by children for elders .</s>
+<s id='vn69'>Sống lâu trăm tuổi : trẻ con hay chúc người lớn như vậy .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Traditionally , everyone is one year older on Tết , so children would wish their grandparents health and longevity in exchange for mừng tuổi or lì_xì</s>
+<s id='vn70'>Theo lệ thì ai cũng lớn thêm một tuổi vào ngày Tết nên trẻ con sẽ chúc ông bà sức khoẻ và sống lâu để được tiền mừng tuổi hay lì xì</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Security , good health , and prosperity</s>
+<s id='vn71'>An khang thịnh vượng</s>
+</spair>
+<spair id='72'>
+<s id='en72'>May a myriad things go according to your will</s>
+<s id='vn72'>Vạn sự như ý</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Plenty of health</s>
+<s id='vn73'>Sức khoẻ dồi dào</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Congratulations and be prosperous</s>
+<s id='vn74'>Cung hỉ phát tài</s>
+</spair>
+<spair id='75'>
+<s id='en75'>May money flow in like water</s>
+<s id='vn75'>Tiền vô như nước</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Food</s>
+<s id='vn76'>Món ăn</s>
+</spair>
+<spair id='77'>
+<s id='en77'>In Vietnam , to celebrate Tết is to ăn Tết , literally meaning " Tết eating " , showing the importance of food in its celebration .</s>
+<s id='vn77'>Ở Việt Nam , để ăn Tết , theo nghĩa đen nghĩa là " ăn Tết " , cho thấy tầm quan trọng của thức ăn trong những ngày này .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Some of the food is also eaten year-round , while other dishes are only eaten during Tết .</s>
+<s id='vn78'>Một vài món cũng là thức ăn quanh năm , trong khi có nhiều món khác chỉ để ăn trong dịp Tết thôi .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Also , some of the food is vegetarian since it is believed to be good luck to eat vegetarian on Tết .</s>
+<s id='vn79'>Hơn nữa , cũng có nhiều thực phẩm chay vì người ta tin là ăn chay sẽ gặp may trong ngày Tết .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Some traditional food on Tết are :</s>
+<s id='vn80'>Một số món ăn truyền thống ngày Tết gồm :</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Bánh chưng and bánh dầy : essentially tightly packed sticky rice with meat or bean fillings wrapped in banana leaves .</s>
+<s id='vn81'>Bánh chưng và bánh dầy : thực chất là gạo nếp được đúc chặt với nhân thịt hay đậu và gói bằng lá chuối .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Bánh chưng ( rectangular ) and bánh giầy ( circular ) are symbolically connected with Tết and are essential in any Tết celebration .</s>
+<s id='vn82'>Bánh chưng ( hình chữ nhật ) và bánh dầy ( tròn ) tượng trưng cho ngày Tết và rất quan trọng trong bất kỳ dịp lễ Tết nào .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Preparation is time-consuming , and can take days to cook .</s>
+<s id='vn83'>Khâu chuẩn bị rất tốn thời gian , và có thể mất nhiều ngày để nấu bánh .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>The story of their origins and their connection with Tết is often recounted to children while cooking them overnight .</s>
+<s id='vn84'>Câu chuyện về nguồn gốc của bánh chưng , bánh dầy liên quan đến ngày Tết thường được kể lại cho trẻ con nghe trong khi nấu bánh suốt cả đêm .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Hạt Dưa : roasted watermelon seeds , also eaten during Tết .</s>
+<s id='vn85'>Hạt Dưa : hạt dưa hấu rang , cũng được dùng trong dịp Tết .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Dưa Hành : pickled onion and pickled cabbage .</s>
+<s id='vn86'>Dưa Hành : hành và bắp cải ngâm giấm .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Củ Kiệu : pickled small leeks .</s>
+<s id='vn87'>Củ kiệu : củ tỏi tây nhỏ ngâm giấm .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Mứt : These dried candied fruits are rarely eaten at any time besides Tết .</s>
+<s id='vn88'>Mứt : các loại trái cây ngào đường này hiếm khi được ăn ngoài dịp Tết .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Cầu Dừa Đủ Xoài - In southern Vietnam , popular fruits used for offerings at the family altar in fruit arranging art are the soursop , coconut , papaya , and mango , since they sound like " cầu vừa đủ xài " , we pray for enough money to spend in the southern dialect of Vietnamese .</s>
+<s id='vn89'>Cầu Dừa Đủ Xoài - Ở miền nam Việt Nam , các loại trái cây phổ biến thường được cúng trong mâm ngủ quả trên bàn thờ gồm mãng cầu , dừa , đu đủ , và xoài vì chúng nghe giống như " cầu dừa đủ xài " trong phương ngữ ở miền Nam Việt Nam là đủ tiền xài .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Thịt Kho Nước Dừa Meaning " Meat Stewed in Coconut Juice " , it is a traditional dish of pork and medium boiled eggs stewed in a broth like sauce made of young coconut juice and nuoc mam .</s>
+<s id='vn90'>Thịt kho nước dừa có nghĩa là " Thịt hầm nước dừa " , đây là món ăn truyền thống gồm thịt heo và trứng luộc chín vừa phải hầm với nước xốt giống như nước thịt được làm bằng nước dừa non và nước mắm .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>It is often eaten with pickled bean sprouts and chives , and white rice .</s>
+<s id='vn91'>Nó ăn với dưa chua giá và hẹ và cơm trắng .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Games</s>
+<s id='vn92'>Các trò chơi</s>
+</spair>
+<spair id='93'>
+<s id='en93'>People are delighted to enjoy exciting games during Tết : bầu cua , cờ tướng , ném còn , chọi trâu , đá gà , marshmallow toss , etc .</s>
+<s id='vn93'>Ai cũng hào hứng tham gia các trò chơi ngày Tết như bầu cua , cờ tướng , ném còn , chọi trâu , đá gà , ném kẹo dẻo , v.v .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>They also participate in some competitions presenting their knowledge , strength and aestheticism such as : bird competition and ngâm thơ competition .</s>
+<s id='vn94'>Người ta cũng tham gia vào các cuộc thi kiến thức , sức mạnh và thẩm mỹ như : thi chim và ngâm thơ nữa .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>People can also visit fortune tellers , in temples and in the streets , to have their fortunes .</s>
+<s id='vn95'>Người ta cũng có thể đi coi bói ở các đền miếu và ở các đường phố để xem vận mệnh của mình .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>You must know your zodiac sign and the star you were born under to have your fortune read .</s>
+<s id='vn96'>Bạn phải biết cung hoàng đạo và sao mạng của mình để xem vận may của mình .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Customs and taboos</s>
+<s id='vn97'>Các phong tục và những điều cấm kỵ</s>
+</spair>
+<spair id='98'>
+<s id='en98'>These customs come from traditions passed from generation to generation and have become standard .</s>
+<s id='vn98'>Những phong tục này truyền từ đời này sang đời khác và đã trở thành chuẩn mực rồi .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Because of the idea that the beginning will affect the middle and the end of the year , Vietnamese people avoid doing bad things and try to do good things during Tết holiday .</s>
+<s id='vn99'>Vì quan niệm rằng sự khởi đầu sẽ ảnh hưởng suốt đến mọi ngày trong năm nên người Việt tránh làm chuyện xấu và cố làm việc tốt suốt những ngày Tết .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Dos</s>
+<s id='vn100'>Những điều nên làm</s>
+</spair>
+<spair id='101'>
+<s id='en101'>One should give people lucky presents to enhance the relationship between themselves and others : new clothes , peach branches ( for expelling evil ) , cocks ( wishing for good manners ) , new rice ( wishing for being well-fed ) , rice wine in a gourd ( wishing for a rich and comfortable life ) , bánh chưng ( or bánh tét ) and bánh dày which symbolize sky and earth ( for worshipping the ancestors ) , red things ( red symbolizes happiness , luckiness , advantages ) like watermelon , dogs ( the bark – gâu gâu – sounds like the word giàu - richness in Vietnamese language ) , medicated oil ( dầu in Vietnamese , also sounds similar to giàu ) .</s>
+<s id='vn101'>Người ta tặng cho nhau các món quà may mắn để thắt chặt mối quan hệ giữa họ và người khác như quần áo mới , cành đào ( để trừ tà ) , gà trống ( ước muốn sự xử sự tốt đẹp ) , gạo mới ( ước muốn được cuộc sống no đủ sung túc ) , rượu gạo đựng trong bầu ( ước muốn cuộc sống giàu sang và thoải mái ) , bánh chưng ( hoặc bánh tét ) và bánh dày tượng trưng cho trời và đất ( để cúng tổ tiên ) , nhiều thứ có màu đỏ ( màu đỏ tượng trưng cho sự hạnh phúc , may mắn và thuận lợi ) như dưa hấu , chó ( tiếng sủa – gâu gâu – nghe như từ giàu - sự giàu có trong nghĩa tiếng Việt ) , dầu thuốc ( dầu trong tiếng Việt , cũng nghe giống như giàu ) .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>One should give lucky Dong Ho Paintings such as : " Gà đàn " ( wishing for having many children ) , or " Vinh hoa " , but should not give unlucky Dong Ho paintings like " Đánh ghen " related to legal proceedings .</s>
+<s id='vn102'>Người ta cũng tặng cho nhau những tranh Đông Hồ tượng trưng cho sự may mắn như " Gà đàn " ( ước mong được nhiều con ) , hoặc " Vinh hoa " , nhưng không nên tặng cho người khác những tranh Đông Hồ tượng trưng cho đen đủi như " Đánh ghen " liên quan đến những việc kiện tụng .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>One should buy a lot of water for Tết , because people wish for money to flow like water currents in a stream ( proverb : " Tiền vô như nước " ) .</s>
+<s id='vn103'>Nên mua nhiều nước ngày Tết vì người ta cũng mong muốn tiền sẽ chảy như dòng nước ở con suối vậy ( tục ngữ : " Tiền vô như nước " ) .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>One should sprinkle lime powder around the house to expel evil .</s>
+<s id='vn104'>Cũng nên rắc vôi quanh nhà để trừ tà .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>One should return all things borrowed , and pay debts before Tết .</s>
+<s id='vn105'>Nên trả hết mọi thứ đã mượn và trả hết nợ trước Tết .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Don'ts</s>
+<s id='vn106'>Những điều cấm kỵ</s>
+</spair>
+<spair id='107'>
+<s id='en107'>One should n't say or do bad things during Tết .</s>
+<s id='vn107'>Chớ nói hoặc làm điều gì xấu trong ngày Tết .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>One should n't hurt or kill animals or plants but should set them free .</s>
+<s id='vn108'>Không làm đau hay giết thú vật hoặc loài cây cỏ nào mà hãy để chúng được tự do .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The reason for this originates from Buddhism 's causality .</s>
+<s id='vn109'>Lý do này bắt nguồn từ quan hệ nhân quả của Phật giáo .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>One should n't sweep the house or empty out the rubbish to avoid luck and benefits going with it , especially on the first day of the new year .</s>
+<s id='vn110'>Không nên quét nhà hoặc đổ rác để tránh đổ đi may mắn và lợi lộc theo cùng , đặc biệt là vào ngày mồng một Tết .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>One should n't let the broom in confusion if people do n't want it to be stolen .</s>
+<s id='vn111'>Đừng để cây chổi chỗ nào lộn xộn nếu không muốn bị lấy cắp .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>One should n't give these presents to others : clock or watch ( the recipient 's time is going to pass ) , cats ( mèo in Vietnamese language pronounced like poverty ) , medicine ( the receiver will get ill ) , cuttle fish ( its ink is black , an unlucky colour ) , writing ink ( for the same reason ) , scissors or knives ( they bring incompatibility ) .</s>
+<s id='vn112'>Chớ tặng người khác những món quà như đồng hồ treo tường hay đồng hồ đeo tay ( người nhận sắp hết thời rồi ) , mèo ( mèo trong tiếng Việt đọc nghe như chữ nghèo ) , thuốc ( người nhận sẽ bị bệnh ) , mực nang ( màu mực đen , màu của sự xui rủi ) , mực viết ( cũng lý do tương tự ) , kéo hoặc dao ( chúng mang sự đối kỵ ) .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>One should n't have duck meat because it brings unluckiness .</s>
+<s id='vn113'>Không ăn thịt vịt vì nó đem theo xui rủi .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>One should n't have shrimp in case one would move backwards like shrimp , in other words , one would not succeed .</s>
+<s id='vn114'>Không ăn tôm vì sợ sẽ nhảy lùi lại phía sau như tôm , hay nói một cách khác là không được thành công .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>One should n't buy or wear white clothes because white is the colour of funerals in Vietnam .</s>
+<s id='vn115'>Không mua hay mặc trang phục màu trắng vì màu trắng là màu tang tóc ở Việt Nam .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>One should n't let the rice-hulling mill go empty because it symbolizes failed crops .</s>
+<s id='vn116'>Không để cối xay gạo cạn sạch vì nó tượng trưng cho vụ mùa thất bát .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>One should n't refuse anything others give or wish you during Tết .</s>
+<s id='vn117'>Không từ chối bất cứ điều gì mà người khác tặng hay chúc cho bạn trong những ngày Tết .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,100 @@
+﻿<doc id='N0101'>
+<head>
+<title>Asia faces rising death toll from heavy rains</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Asia faces rising death toll from heavy rains</s>
+<s id='vn1'>Châu Á đối diện với số người chết tăng lên do mưa lớn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Across Southeast Asia and southern China the damage from monsoon rains continues to rise .</s>
+<s id='vn2'>Trên toàn Đông Nam Á và miền nam Trung Quốc , thiệt hại từ mưa do gió mùa tiếp tục gia tăng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>China 's southern coast is bracing for powerful winds from a typhoon , while the Thai capital Bangkok prepares for weekend floods .</s>
+<s id='vn3'>Bờ biển nam Trung Quốc đang chuẩn bị đón nhận gió mạnh do có bão to , trong khi thủ đô Bangkok của Thái Lan chuẩn bị đối phó với các trận lụt cuối tuần .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Heavy monsoon rains across Southeast Asia have taken an increasing toll on lives and infrastructure , with reports of the worst floods in Vietnam in decades .</s>
+<s id='vn4'>Mưa lớn do gió mùa gây ra khắp Đông Nam Á đã gây thiệt hại không ngừng gia tăng về nhân mạng và cơ sở hạ tầng , theo báo cáo về các trận lụt tồi tệ nhất ở Việt Nam trong mấy thập niên qua .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Cambodia also reported heavy flooding , with about 10 deaths and millions of dollars in damage .</s>
+<s id='vn5'>Cam-pu-chia cũng báo cáo bị lụt nặng , có khoảng 10 người tử vong và bị thiệt hại hàng triệu đô la .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In Thailand , television news provided regular updates and images of large areas of farmland under water and towns cut off by the rising floods .</s>
+<s id='vn6'>Ở Thái Lan , chương trình thời sự trên truyền hình cung cấp tin tức cập nhật thường xuyên và hình ảnh về diện tích lớn đất nông nghiệp ngập sâu dưới mặt nước cùng với các thị trấn bị mất liên lạc do lũ dâng lên .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>By Thursday 21 of the country 's 75 provinces had been hit by floods that have killed at least 15 people .</s>
+<s id='vn7'>Hôm thứ 5 ngày 21 , 75 tỉnh thành của nước này bị ngập lụt và có ít nhất 15 người chết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Bangkok is bracing for floods in the next few days as overflowing rivers in the northern provinces make their way to the sea through the plains of central Thailand .</s>
+<s id='vn8'>Bangkok đang chuẩn bị đón nhận lụt trong vài ngày tới khi các con sông tràn đầy ở miền bắc các tỉnh này chảy qua các đồng bằng miền trung Thái Lan ra biển .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Thai Prime Minister Abhisit Vejjajiva said the central province of Nakhon Ratchasima experienced the worst flooding in 40 to 50 years .</s>
+<s id='vn9'>Thủ tướng Thái Lan Abhisit Vejjajiva nói rằng miền trung tỉnh Nakhon Ratchasima đã hứng chịu nạn lụt tồi tệ nhất trong vòng 40 đến 50 năm qua .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But the most severe has been in Vietnam where rains have claimed over 100 lives , including 20 people from a tour bus swept away by flood waters .</s>
+<s id='vn10'>Nhưng lụt nặng nhất xảy ra ở Việt Nam , nơi mà mưa đã làm chết hơn 100 người , trong đó có 20 người trong một chiếc xe buýt tham quan bị nước lũ cuốn trôi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Vietnamese Prime Minister Nguyen Tan Dung promised flood victims assistance in rebuilding .</s>
+<s id='vn11'>Thủ tướng Việt Nam Nguyễn Tấn Dũng hứa giúp các nạn nhân trong nạn lụt khắc phục tình hình .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Official Vietnam media put the damage toll at over $ 35 million affecting more than 20 communes .</s>
+<s id='vn12'>Phương tiện truyền thông Việt Nam đã ước tính tổng thiệt hại trên 35 triệu đô la , làm ảnh hưởng tới hơn 20 xã .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Immediate financial assistance has come from China and the U.S.</s>
+<s id='vn13'>Hỗ trợ về tài chính tức thời đến từ Trung Quốc và Hoa Kỳ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The International Federation of Red Cross and Red Crescent Societies have launched an appeal for over $ 1 million to help Vietnam 's recovery effort .</s>
+<s id='vn14'>Hiệp hội chữ thập đỏ và lưỡi liềm đỏ quốc tế đã kêu gọi ủng hộ 1 triệu đô la để giúp cho nỗ lực phục hồi của Việt Nam .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The relief effort apparently is slowly picking up .</s>
+<s id='vn15'>Rõ ràng là nỗ lực cứu trợ đang dần dần có tiến triển .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the two worst-affected districts they have already redistributed aid close to $ 350,000 and reaching out to about 10,000 to 15,000 families - the numbers are not exact yet " , said Bhupinder Tomar , the head of the Red Cross delegation in Vietnam .</s>
+<s id='vn16'>Ở hai huyện bị ảnh hưởng nặng nhất , họ đã phân phối lại nguồn viện trợ gần 350.000 đô la và giúp đỡ khoảng từ 10.000 đến 15.000 gia đình - con số này chưa chính xác " Bhupinder Tomar - người đứng đầu phái đoàn Hội Chữ thập đỏ ở Việt Nam nói .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Bhupinder says a key challenge is to ensure people have emergency food because floods as deep as five meters have destroyed rice stocks in some areas .</s>
+<s id='vn17'>Bhupinder nói thách thức then chốt là đảm bảo mọi người có được thức ăn trong tình trạng khẩn cấp vì nước lũ sâu tới năm mét đã làm hư hại các kho dự trữ gạo ở một số khu vực .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Residents in southern China also have suffered floods in the past few weeks from a long , heavy rainy season .</s>
+<s id='vn18'>Cư dân ở miền Nam Trung Quốc cũng đã hứng chịu các trận lụt trong vài tuần trước do mưa lớn kéo dài .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But conditions may worsen as Typhoon Megi approaches the Chinese coast .</s>
+<s id='vn19'>Nhưng tình hình có thể tồi tệ hơn khi bão Megi tiến đến gần bờ biển Trung Quốc .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Authorities evacuated tens of thousands of people from coastal provinces ahead of the storm , which claimed nearly 20 lives in the Philippines .</s>
+<s id='vn20'>Chính quyền đã di tản hàng chục ngàn người ở các tỉnh duyên hải trước khi bão tới , cơn bão này đã làm 20 người chết tại Phi-líp-pin .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Hong Kong , Macau and Taiwan all are expecting heavy rains , winds and high waves from the storm .</s>
+<s id='vn21'>Hồng Kông , Ma Cao và Đài Loan tất cả có thể sẽ hứng chịu mưa lớn , gió và sóng to do bão gây ra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The heavy rainy season this year also has taken a toll in Indonesia , with flash floods killing scores of people and many food crops damaged .</s>
+<s id='vn22'>Mùa mưa bão năm nay cũng đã gây thiệt hại ở Indonesia , với những trận lũ lớn đã làm rất nhiều người chết và làm hư hại nhiều cây trồng làm thực phẩm .</s>
+</spair>
+</text>
+</doc>

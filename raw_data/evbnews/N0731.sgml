@@ -1,0 +1,564 @@
+﻿<doc id='N0731'>
+<head>
+<title>Birth plan</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Birth plan</s>
+<s id='vn1'>Kế hoạch sinh nở</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In the happiness of early pregnancy , you 're probably already thinking of baby names and planning to shop for baby clothes .</s>
+<s id='vn2'>Trong niềm hạnh phúc mới chớm thai thì bạn có thể đã nghĩ đến việc đặt tên cho con rồi và lên kế hoạch mua sắm quần áo cho bé .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The reality of labor and birth may seem extremely far off - which makes this the perfect time to start planning for the arrival of your baby by creating a birth plan that details your wishes .</s>
+<s id='vn3'>Việc chuyển dạ và sinh nở trên thực tế có lẽ vẫn còn quá xa - điều ấy khiến cho giờ phút này đây trở nên lý tưởng để bắt đầu vạch ra kế hoạch sinh con bằng một bảng kế hoạch sinh nở chi tiết theo ước mong của bạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the happiness of early pregnancy , you 're probably already thinking of baby names and planning to shop for baby clothes .</s>
+<s id='vn4'>Trong niềm hạnh phúc mới chớm thai thì bạn có thể đã nghĩ đến việc đặt tên cho con rồi và lên kế hoạch mua sắm quần áo cho bé .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The reality of labor and birth may seem extremely far off - which makes this the perfect time to start planning for the arrival of your baby by creating a birth plan that details your wishes .</s>
+<s id='vn5'>Việc chuyển dạ và sinh nở trên thực tế có lẽ vẫn còn quá xa - điều ấy khiến cho giờ phút này đây trở nên lý tưởng để bắt đầu vạch ra kế hoạch sinh con bằng một bảng kế hoạch sinh nở chi tiết theo ước mong của bạn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>What 's a birth plan ?</s>
+<s id='vn6'>Kế hoạch sinh nở là gì ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The term birth plan can actually be misleading - it 's less an exact plan than a list of preferences .</s>
+<s id='vn7'>Thuật ngữ kế hoạch sinh nở thực sự có thể gây hiểu nhầm - đó không phải là một bảng kế hoạch chính xác như một danh sách những điều ưa thích .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In fact , the goal of a birth plan is n't for you and your partner to determine exactly how the birth of your child will occur - because labor involves so many variables , you ca n't predict exactly what will happen .</s>
+<s id='vn8'>Thực ra thì mục tiêu của kế hoạch sinh nở không phải là để cho bạn hay chồng mình quyết định chính xác chuyện sinh nở sẽ diễn tiến như thế nào - bởi việc ấy thay đổi rất nhiều , nên bạn chẳng thể đoán biết chính xác điều gì sẽ xảy ra đâu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A birth plan does , however , help you to realize what 's most important to you in the birth of your baby .</s>
+<s id='vn9'>Tuy nhiên thì kế hoạch sinh nở sẽ giúp bạn nhận rađược điều gì là quan trọng nhất với mình khi sinh con .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>While completing a birth plan , you 'll be learning about , exploring , and understanding your labor and birthing options well before the birth of your child .</s>
+<s id='vn10'>Trong lúc hoàn thành kế hoạch sinh nở thì bạn cũng sẽ học hỏi , tìm hiểu , và biết được các quyền lựa chọn chuyển dạ và sinh nở một cách kỹ lưỡng trước khi con chào đời .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Not only will this improve your communication with the people who 'll be helping during your delivery , it also means you won't have to explain your preferences right at the moment when you 're least in the mood for conversation - during labor itself .</s>
+<s id='vn11'>Điều này không những giúp bạn giao thiệp nhiều hơn với những người sẽ giúp đỡ bạn khi sinh , mà còn đồng nghĩa với việc bạn sẽ chẳng cần phải giải thích các điều mình ưu tiên ngay lúc không muốn nói chuyện nhất - đó là lúc sinh nở .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A birth plan is n't a binding agreement - it 's just a guideline .</s>
+<s id='vn12'>Kế hoạch sinh nở không phải là một thoả thuận ràng buộc - mà chỉ là sự định hướng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Your doctor or health care provider may know , from having seen you throughout the pregnancy , what you do and do n't want .</s>
+<s id='vn13'>Bác sĩ hoặc người chăm sóc sức khỏe cho bạn có thể biết do tiếp xúc với bạn suốt quá trình thai kỳ , biết được bạn muốn những gì mà không muốn những gì .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Also , if you go into labor when there 's an on-call doctor who you do n't know well , a well thought-out birth plan can help you communicate your goals and wishes to the people helping you with the labor and delivery .</s>
+<s id='vn14'>Hơn nữa , nếu bạn chuyển dạ khi có bác sĩ trực mà bạn không biết rõ thì một kế hoạch sinh nở được suy nghĩ cẩn thận trước có thể giúp bạn nói rõ mục tiêu và ước muốn của mình với những người giúp bạn khi chuyển dạ và sinh nở .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>What questions does a birth plan answer ?</s>
+<s id='vn15'>Kế hoạch sinh nở giải đáp những thắc mắc nào ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A birth plan typically covers three major areas :</s>
+<s id='vn16'>Kế hoạch sinh nở thường bao gồm ba vấn đề chính :</s>
+</spair>
+<spair id='17'>
+<s id='en17'>1 . What are your wishes during a normal labor and delivery ?</s>
+<s id='vn17'>1 . Bạn mong muốn điều gì trong khi chuyển dạ và sinh nở bình thường ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>These range from how you want to handle pain relief to enemas and fetal monitoring .</s>
+<s id='vn18'>Những điều này đi từ cách bạn muốn giảm đau như thế nào đến việc sử dụng dụng cụ thụt rửa và theo dõi bào thai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Think about the environment in which you want to have your baby , who you want to have there , and what birthing positions you plan to use .</s>
+<s id='vn19'>Bạn nên suy nghĩ về môi trường mình muốn cho con chào đời , những ai sẽ có mặt ở đó , và bạn muốn sinh con ở ngôi thai nào .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>2 . How are you hoping for your baby to be treated immediately after and for the first few days after birth ?</s>
+<s id='vn20'>2 . Bạn hy vọng con mình sẽ được quan tâm đối xử như thế nào ngay sau khi sinh và sau khi sinh một vài ngày ?</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Do you want the baby 's cord to be cut by your partner ?</s>
+<s id='vn21'>Bạn có muốn bố của bé cắt rốn cho con mình không ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>If possible , do you want your baby placed on your stomach immediately after birth ?</s>
+<s id='vn22'>Nếu được thì bạn có muốn bé được nằm trên bụng mình ngay sau khi sinh không ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Do you want to feed the baby immediately ?</s>
+<s id='vn23'>Bạn có muốn cho bé bú liền không ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Will you breastfeed or bottle-feed ?</s>
+<s id='vn24'>Bạn sẽ cho con bú mẹ hay bú bình ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Where will the baby sleep - next to you or in the nursery ?</s>
+<s id='vn25'>Bé sẽ ngu Ở đâu - gần bên bạn hay ở phòng dành cho trẻ em ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Hospitals have widely varying policies for the care of newborns - if you choose to have your baby in a hospital , you 'll want to know what these are and how they match what you 're looking for .</s>
+<s id='vn26'>Các bệnh viện có rất nhiều chính sách thay đổi để chăm sóc trẻ sơ sinh - nếu bạn chọn sinh bé ở bệnh viện thì bạn cũng nên biết những chính sách này là gì và chúng tương thích với mong muốn của bạn như thế nào .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>3 . What do you want to happen in the case of unexpected events ?</s>
+<s id='vn27'>3 . Trong trường hợp ngoài dự định thì bạn mong muốn điều gì xảy ra ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>No one wants to think about something going wrong , but if it does , it 's better to have thought about your options in advance .</s>
+<s id='vn28'>Chẳng ai muốn nghĩ về một điều gì đó bất ổn cả , nhưng nếu xảy ra thì bạn nên suy nghĩ lựa chọn của mình trước .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Since some women need cesarean sections , your birth plan should probably cover your wishes in the event that your labor takes an unexpected turn .</s>
+<s id='vn29'>Bởi một số thai phụ cần phải mổ bắt con nên kế hoạch sinh nở của bạn cũng nên có thể gồm ước muốn trong trường hợp việc sinh nở của bạn xảy ra ngoài dự kiến .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>You might also want to think about other possible complications , such as premature birth .</s>
+<s id='vn30'>Bạn cũng có thể nên nghĩ về những biến chứng khác có thể xảy ra , như sinh non chẳng hạn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Factors to consider</s>
+<s id='vn31'>Các yếu tố cần nên cân nhắc</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Before you make decisions about each of your birthing options , you 'll want to talk with your health care provider and tour the hospital or birthing center where you plan to have your baby .</s>
+<s id='vn32'>Trước khi đưa ra quyết định về mỗi ý thích lựa chọn sinh nở của mình , bạn nên nói chuyện với bác sĩ và tham quan bệnh viện hoặc trung tâm hỗ trợ sinh sản ở nơi mà bạn muốn sinh .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>You may find that your obstetrician , nurse-midwife , or the facility where they admit patients already has birth-plan forms that you can fill out .</s>
+<s id='vn33'>Bạn có thể thấy rằng bác sĩ sản khoa , y tá - nữ hộ sinh , hoặc bệnh viên luôn có các mẫu kế hoạch sinh nở mà bạn có thể điền thông tin vào .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>If this is the case , you can use the form as a guideline for asking questions about how women in their care are routinely treated .</s>
+<s id='vn34'>Nếu thuộc trường hợp này , bạn có thể sử dụng mẫu hướng dẫn đểhỏi về việc thai phụ được chăm sóc định kỳ như thế nào .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If their responses are not what you 're hoping for , you might want to look for a health provider or facility that better matches your goals .</s>
+<s id='vn35'>Nếu những hồi đáp của họ không giống như những điều bạn mong muốn thì bạn có thể cần nên tìm một bác sĩ hoặc một bệnh viện khác tương thích với mục tiêu của bạn nhiều hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>And it 's important to be flexible - if you know one aspect of your birthing plan wo n't be met , be sure to weigh that aspect against your other wishes .</s>
+<s id='vn36'>Và điều quan trọng là bạn phải nên linh hoạt - nếu biết không được đáp ứng một khía cạnh nào đó thì bạn cũng nên đảm bảo cân nhắc khía cạnh đó với những mong muốn khác .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If your options are limited because of insurance , cost , or geography , focus on one or two areas that are really important to you .</s>
+<s id='vn37'>Nếu những lựa chọn của bạn bịhạn chế bởi bảo hiểm , chi phí , hoặc địa lý , thì bạn nên tập trung vào một hoặc hai khía cạnh đang thực sự quan trọng đối với mình thôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>In the areas where your thinking does n't agree with that of your or nurse-midwife , doctor ask why he or she usually does things a certain way and listen to the answers before you make up your mind .</s>
+<s id='vn38'>Ở những điều mà suy nghĩ của bạn không đồng nhất với suy nghĩ của bác sĩ hoặc của y tá - nữ hộ sinh thì bạn nên hỏi xem tại sao họ thường làm theo cách đó và hãy lắng nghe câu trả lời trước khi quyết định .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>There may be important reasons why a doctor believes some birth options are better than others .</s>
+<s id='vn39'>Có thể cũng có nhiều lý do quan trọng vì sao bác sĩ cho rằng một số lựa chọn này lại tốt hơn những lựa chọn khác khi sinh nở .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Finally , you should find out if there are things about your pregnancy that might prevent certain choices .</s>
+<s id='vn40'>Sau cùng là bạn nên tìm hiểu xem liệu có điều gì về thai nghén có thể làm bạn không được quyền lựa chọn một số thứ nào đó hay không .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>For example , if your pregnancy is considered high risk because of your age , health , or problems during previous pregnancies , your health care provider may advise against some of your birthing wishes .</s>
+<s id='vn41'>Chẳng hạn như , nếu thai của bạn có nguy cơ gặp nguy hiểm cao bởi tuổi tác , sức khỏe , hoặc những vấn đề trong lúc mang thai trước đây , bác sĩ có thể đưa ra lời khuyên ngược lại với một số mong muốn của bạn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>You 'll want to discuss , and consider this information when thinking about your options .</s>
+<s id='vn42'>Bạn nên thảo luận , và cân nhắc thông tin này khi nghĩ về các lựa chọn của mình nhé .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>What are your birthing options ?</s>
+<s id='vn43'>Các lựa chọn sinh nở của bạn là gì ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Where to have the baby .</s>
+<s id='vn44'>Sinh con ở đâu .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Most women still give birth in the hospital .</s>
+<s id='vn45'>Hầu hết phụ nữ vẫn sinh ở bệnh viện .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>However , most are no longer confined to a cold , sterile maternity ward .</s>
+<s id='vn46'>Tuy nhiên , hầu hết các bệnh viện không còn được giới hạn ở khu sản khoa lạnh , vô trùng nữa .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Find out if your hospital practices family-centered care .</s>
+<s id='vn47'>Tìm xem bệnh viện của bạn có trung tâm chăm sóc gia đình hay không .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This usually means the patient rooms will have a door , furnishings , a private bathroom , and enough space to accommodate a family , including the baby 's crib and supplies .</s>
+<s id='vn48'>Đây thường là các phòng dành cho bệnh nhân có cửa chính , có đồ đạc và đồ dùng , có phòng tắm riêng , và có đủ không gian để chứa được một gia đình , gồm nôi và các vật dụng cần thiết của bé .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Additionally , many hospitals now offer birthing rooms that allow a woman to stay in the same bed for labor , delivery , and sometimes , postpartum care ( care after the birth ) .</s>
+<s id='vn49'>Ngoài ra , nhiều bệnh viện hiện cũng đã có phòng sinh cho thai phụ có thểnằm cùng một giường để chuyển dạ , sinh nở , và đôi khi còn chăm sóc hậu sản nữa ( chăm sóc sau khi sinh ) .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>These rooms are fully equipped for uncomplicated deliveries .</s>
+<s id='vn50'>Các phòng này được trang bị đầy đủ dành cho những trường hợp sinh không có biến chứng nào rắc rối .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>They 're often attractive and have gentle lighting .</s>
+<s id='vn51'>Những phòng đó thường cũng rất xinh xắn và có ánh sáng dịu nhẹ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>But some women believe that the most comfortable environment is their own home .</s>
+<s id='vn52'>Nhưng một số thai phụ cũng cho rằng môi trường thoải mái nhất chính là nhà riêng của mình .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Advocates of home birth believe that labor and delivery can and should occur at home , but they also stress that a certified nurse-midwife or doctor should attend the birth .</s>
+<s id='vn53'>Những người ủng hộ sinh con ở nhà nghĩ là việc chuyển dạ và sinh nở có thể và nên xảy ra ở nhà , nhưng bên cạnh đó cũng nhấn mạnh rằng phải nên có bác sĩ hoặc y tá - nữ hộ sinh có chứng nhận đỡ đẻ cho mình .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>An important thing to remember about home birth is that if something goes wrong , you do n't have the amenities and technology of a hospital .</s>
+<s id='vn54'>Điều quan trọng nên nhớ đối với việc sinh con tại nhà là nếu có điều gì bất ổn thì bạn không có được những tiện nghi và công nghệ của bệnh viện .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It can take a while to get to the hospital , and during a complicated birth those minutes can be invaluable .</s>
+<s id='vn55'>Có thể phải mất một thời gian mới đến được bệnh viện , và trong một trường hợp sinh bị biến chứng thì những giây phút ấy có thể là vô giá .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>For women with low-risk pregnancies who want something in between the hospital and home , birthing centers are a good option .</s>
+<s id='vn56'>Đối với những thai phụ có rủi ro thấp muốn lưng chừng giữa giống bệnh viện và nhà thì trung tâm hỗ trợ sinh sản là lựa chọn hợp lý .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>These provide a more homey , relaxed environment with some of the medical amenities of a hospital .</s>
+<s id='vn57'>Các trung tâm này cung cấp một môi trường thư giãn như ở nhà hơn với một số tiện nghi y tế của một bệnh viện .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Some birthing centers are associated with hospitals and can transfer patients if necessary .</s>
+<s id='vn58'>Một số trung tâm hỗ trợ sinh sản liên kết với bệnh viện và có thể chuyển viện cho bệnh nhân nếu cần .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Who will assist at the birth</s>
+<s id='vn59'>Ai sẽ hỗ trợ bạn lúc sinh nở .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Most women choose an obstetrician ( OB GYN ) , a specialist who 's trained to handle pregnancies ( including those with complications ) , labor , and delivery .</s>
+<s id='vn60'>Hầu hết thai phụ đều chọn bác sĩ sản khoa ( OB GYN ) , chuyên gia được huấn luyện để xử lý thai ( bao gồm những thai có biến chứng ) , chuyển dạ , và sinh nở .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If your pregnancy is considered high risk , you may be referred to an obstetrician who subspecializes in maternal-fetal medicine .</s>
+<s id='vn61'>Nếu thai của bạn bị cho là có nguy cơ gặp nguy hiểm cao thì bạn có thể được chuyển đến bác sĩ sản khoa chuyên ngành y học bà mẹ - thai nhi .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>These doctors have specialized training to care for pregnant women with medical conditions or complications , as well as their fetuses .</s>
+<s id='vn62'>Những bác sĩ này được đào tạo chuyên môn chăm sóc cho thai phụ bị bệnh hoặc bị biến chứng , cũng như bào thai của họ .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Another medical choice is a family practitioner who has had training and has maintained expertise in managing non-high-risk pregnancies and deliveries .</s>
+<s id='vn63'>Một lựa chọn khác là bác sĩ đa khoa được đào tạo và vững chuyên môn theo dõi thai và sinh nở các trường hợp không có rủi ro cao .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>In some areas of the United States , especially rural areas where obstetricians are less available , family practitioners handle most of the deliveries .</s>
+<s id='vn64'>Ở một số vùng thuộc Hoa Kỳ , nhất là ở những vùng nông thôn nơi mà luôn thiếu bác sĩ sản khoa thì các bác sĩ đa khoa có thể xử lý hầu hết các ca sinh nở .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>As your family doctor , a family practitioner can continue to treat both you and your baby after birth .</s>
+<s id='vn65'>Với tư cách là bác sĩ đa khoa thì họ vẫn có thể chữa bệnh cho cả mẹ và bé sau khi sinh xong .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>And doctors are n't the only health care providers a pregnant woman can choose to deliver her baby .</s>
+<s id='vn66'>Và bác sĩ không phải là người duy nhất mà thai phụ có thể lựa chọn để hỗ trợ sinh con cho mình .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>You might decide that you want your delivery to be performed by a certified nurse-midwife , a health professional who 's medically trained and licensed to handle low-risk births and whose philosophy emphasiz​es educating expectant parents about the natural aspects of childbirth .</s>
+<s id='vn67'>Bạn có thể quyết định rằng mình muốn được hỗ trợ bởi một y tá - nữ hộ sinh được chứng nhận , một chuyên gia sức khỏe được đào tạo y khoa và có bằng cấp để xử lý các trường hợp sinh con có nguy cơ rủi ro thấp và có triết lý nhấn mạnh việc giáo dục các bậc bố mẹ sắp có con về mặt tự nhiên của sinh nở .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Increasing numbers of women are choosing to have a doula , or birth assistant , present in addition to the medical personnel .</s>
+<s id='vn68'>Số thai phụ chọn có thêm bà đỡ , hoặc người hỗ trợ sinh nở ngoài cán bộ y tế hiên tại đang ngày càng tăng .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>This is someone who 's trained in childbirth and is there to provide support to the mother .</s>
+<s id='vn69'>Đây là người được đào tạo chuyên môn sinh nở và có mặt ở đó để hỗ trợ cho thai phụ .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>The doula can meet with the mother before the birth and can help communicate her wishes to the medical staff , should it be necessary .</s>
+<s id='vn70'>Bà đỡ có thể gặp thai phụ trước khi sinh và có thể giúp truyền đạt những mong muốn của thai phụ cho nhân viên y tế biết , đó là điều cần thiết .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Your birth plan can also indicate who else you 'd like to have with you before , during , and immediately after the birth .</s>
+<s id='vn71'>kế hoạch sinh nở cũng có thể cho biết bạn muốn có ai khác ở cùng với mình trước khi sinh , trong khi sinh , và ngay sau khi sinh xong .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>This may be your partner , your other children , a friend , or other family member .</s>
+<s id='vn72'>Đây có thể là chồng , các con khác của bạn , một người bạn , hoặc một người thân nào đó trong gia đình .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>You can also make it clear at what points you want no one to be there but your partner</s>
+<s id='vn73'>Bạn cũng có thể nói rõ ở những thời khắc nào bạn không muốn có ai khác ngoài chồng của mình .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Atmosphere during labor and delivery .</s>
+<s id='vn74'>Không khí trong khi chuyển dạ và sinh nở .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Many hospitals and birthing centers now allow women to make some choices about the atmosphere in which they give birth .</s>
+<s id='vn75'>Nhiều bệnh viện và trung tâm hỗ trợ sinh sản hiện đã cho thai phụ có thể lựa chọn không khí trong lúc sinh nở .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Do you want music and low lighting ?</s>
+<s id='vn76'>Bạn có muốn nhạc và ánh sáng dịu nhẹ không ?</s>
+</spair>
+<spair id='77'>
+<s id='en77'>How about the freedom to walk around during labor ?</s>
+<s id='vn77'>Còn việc thoải mái đi dạo trong khi chuyển dạ thì sao ?</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Is a hot tub something you 'd like access to ?</s>
+<s id='vn78'>Bạn có muốn có bồn tắm nước nóng ?</s>
+</spair>
+<spair id='79'>
+<s id='en79'>If possible , would you like to eat or drink during labor ?</s>
+<s id='vn79'>Nếu được thì bạn có muốn ăn hoặc uống trong lúc chuyển dạ không ?</s>
+</spair>
+<spair id='80'>
+<s id='en80'>You might be able to request things that may make you the most comfortable - from what clothes you 'll wear to whether you 'll have a VCR or DVD player in your room .</s>
+<s id='vn80'>Bạn có thể yêu cầu những thứ có thể giúp cho bạn cảm thấy thoải mái nhất - từ việc quần áo để mặc đến việc liệu có thể có đầu máy video hay máy nghe nhạc DVD trong phòng của bạn được không .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Procedures during labor .</s>
+<s id='vn81'>Các thủ tục trong khi chuyển dạ</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Hospitals used to perform the same procedures on all women in labor , but many now show increased flexibility in how they handle their patients .</s>
+<s id='vn82'>Nhiều bệnh viện đã từng thực hiện các thủ tục này giống nhau cho tất cả các thai phụ đang chuyển dạ , nhưng nhiều bệnh viện hiện đã linh hoạt cách xử lý đối với bệnh nhân .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Some examples include :</s>
+<s id='vn83'>Một số ví dụ như sau :</s>
+</spair>
+<spair id='84'>
+<s id='en84'>* enemas .</s>
+<s id='vn84'>* sử dụng dụng cụ thụt rửa :</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Used to clean out the bowels .</s>
+<s id='vn85'>Được dùng để làm sạch ruột .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Now , you may choose to give yourself an enema or to skip it entirely .</s>
+<s id='vn86'>Hiện bạn có thể lựa chọn cách tự thụt rửa hay là bỏ qua hoàn toàn giai đoạn này .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>* induction of labor .</s>
+<s id='vn87'>* dùng thuốc giục sanh : .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>At times , labor may need to be induced or sped up for medical reasons .</s>
+<s id='vn88'>Đôi khi chuyển dạ có thể cần phải được giục sanh vì một số lý do y học .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>But sometimes , practitioners will give women the option of getting some help to move things along , or giving labor a little more time to progress on its own .</s>
+<s id='vn89'>Nhưng cũng có lúc bác sĩ sẽ cho thai phụ có quyền lựa chọn hỗ trợ để thúc đẩy quá trình sinh nở , hoặc làm cho giai đoạn chuyển dạ kéo dài thêm một chút để tự hoàn thành quá trình sinh nở ấy .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>* shaving the pubic area .</s>
+<s id='vn90'>* cạo vùng xương mu .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Shaving is no longer done unless a woman requests it .</s>
+<s id='vn91'>Người ta không còn thực hiện công việc vệ sinh này nữa trừ phi thai phụ yêu cầu .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Other procedures that you can include in your birth plan are requests about fetal monitoring , extra birthing equipment you 'd like in the room , and how often you have internal exams during labor .</s>
+<s id='vn92'>Một số thủ tục khác mà bạn có thể liệt kê thêm trong kế hoạch sinh nở của mình là yêu cầu theo dõi thai , thiết bị hỗ trợ thêm cho sinh nở trong phòng , và bao lâu thì bạn được khám bên trong một lần trong khi chuyển dạ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Pain management .</s>
+<s id='vn93'>Giảm đau .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>This is important for most women and is certainly something you have a lot of control over .</s>
+<s id='vn94'>Điều này quan trọng đối với hầu hết thai phụ và chắc chắn đây cũng là điều mà bạn được quyền yêu cầu .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>It 's also something you 'll want to discuss carefully with your health care provider .</s>
+<s id='vn95'>Bên cạnh đó bạn cũng nên thảo luận một cách cẩn thận với bác sĩ của mình .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Some women change their minds about pain relief during labor .</s>
+<s id='vn96'>Một số thai phụ đổi ý về cách thức giảm đau trong khi chuyển dạ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>You 'll also want to be aware of the alternative forms of pain relief , including massage , relaxation , breathing , and hot tubs .</s>
+<s id='vn97'>Bạn cũng nên biết những hình thức giảm đau có thể lựa chọn như xoa bóp , thư giãn , hít thở , và tắm nước nóng .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Know your options and make your wishes known to your health provider .</s>
+<s id='vn98'>Nên biết các quyền lựa chọn của mình và nói những mong muốn của mình cho bác sĩ biết .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Position during delivery .</s>
+<s id='vn99'>Tư thế khi sinh nở .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>You can try a variety of positions during labor , including the classic semi-recline with the feet in stirrups that you 've seen in the movies .</s>
+<s id='vn100'>Bạn có thể thử nhiều tư thế trong khi chuyển dạ , như tư thế cổ điển nằm tựa phân nửa người hai chân đặt vào bàn đạp như bạn đã từng thấy trên phim ảnh .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Other choices include lying on your side , squatting , standing , or simply using whatever stance feels right at the time .</s>
+<s id='vn101'>Những lựa chọn khác như nằm nghiêng một bên , ngồi xổm , đứng , hoặc chỉ cần đứng ở một tư thế nào đó đều cảm thấy ổn vào lúc này .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Episiotomies .</s>
+<s id='vn102'>Cắt tầng sinh môn .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>When necessary , doctors perform episiotomies ( when the perineum - the area of skin between the vagina and the anus - is partially cut to ease the delivery ) .</s>
+<s id='vn103'>Khi cần thiết , bác sĩ có thể thực hiện thủ thuật cắt tầng sinh môn ( tầng sinh môn là vùng da giữa âm đạo và lỗ hậu môn - được cắt một phần để làm cho quá trình sinh nở trở nên dễ dàng hơn ) .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>You may have one if you risk tearing or in the case of a medical emergency , but if there is an option , you can discuss your preference with your provider .</s>
+<s id='vn104'>Bạn có thể cắt nếu có nguy cơ bị rách tầng sinh môn hoặc trong trường hợp khẩn cấp , nhưng nếu được lựa chọn thì bạn có thể thảo luận mong muốn của mình với bác sĩ nhé .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Assisted birth .</s>
+<s id='vn105'>Sinh nở có hỗ trợ .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>If the baby becomes stuck in the birth canal , an assisted birth ( i.e. , using forceps or extraction ) may be necessary .</s>
+<s id='vn106'>Nếu trẻ bị kẹt trong đường sinh thì bạn phải cần đến phương pháp hỗ trợ sinh nở ( tức là phải sử dụng kẹp thai hoặc hút thai ) có lẽ là điều cần thiết .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Cesarean section</s>
+<s id='vn107'>Mổ bắt con .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>You might not want to think about this , but if you have to have a cesarean , you 'll need to consider a few things .</s>
+<s id='vn108'>Bạn có thể không muốn nghĩ tới chuyện này nhưng nếu phải mổ bắt con thì bạn cũng cần nên cân nhắc một vài điều .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Do you want your partner to be present , if possible ?</s>
+<s id='vn109'>Nếu được thì bạn có muốn chồng mình có mặt không ?</s>
+</spair>
+<spair id='110'>
+<s id='en110'>If you have a choice , would you like to be conscious or unconscious ?</s>
+<s id='vn110'>Nếu được chọn thì bạn muốn mình tỉnh táo hay mê ?</s>
+</spair>
+<spair id='111'>
+<s id='en111'>What about viewing the birth - do you want to see the baby coming out ?</s>
+<s id='vn111'>Còn chuyện nhìn thấy mặt con - bạn có muốn nhìn thấy con ra đời không ?</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Post-birth : Decisions to be made about the time immediately after birth include :</s>
+<s id='vn112'>Sau khi sinh : Quyết định thời gian ngay sau khi sinh gồm :</s>
+</spair>
+<spair id='113'>
+<s id='en113'>* Would your partner like to cut the umbilical cord ?</s>
+<s id='vn113'>* Chồng bạn có muốn cắt dây rốn cho con không ?</s>
+</spair>
+<spair id='114'>
+<s id='en114'>* Does your partner want to hold the baby when the baby emerges ?</s>
+<s id='vn114'>* Chồng bạn có muốn bế con khi bé ra đời ?</s>
+</spair>
+<spair id='115'>
+<s id='en115'>* Do you want immediate contact with the baby , or would you like the baby to be cleaned off first ?</s>
+<s id='vn115'>* Bạn muốn tiếp xúc với con liền tức khắc , hay muốn con được tắm trước ?</s>
+</spair>
+<spair id='116'>
+<s id='en116'>* How would you like to handle the delivery of the placenta ?</s>
+<s id='vn116'>* Bạn muốn thực hiện việc làm bong nhau thai như thế nào ?</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Would you like to keep the placenta ?</s>
+<s id='vn117'>Bạn có muốn giữ nhau thai không ?</s>
+</spair>
+<spair id='118'>
+<s id='en118'>* Do you want to feed the baby right away ?</s>
+<s id='vn118'>* Bạn có muốn cho con bú liền ngay không ?</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Communicating your wishes</s>
+<s id='vn119'>Nói ra những mong muốn của mình</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Birth plans are relatively new inventions , and your doctor or nurse-midwife may not be completely comfortable with them .</s>
+<s id='vn120'>Kế hoạch sinh nở là sáng kiến khá mới mẻ , và bác sĩ hoặc y tá - nữ hộ sinh có thể không cảm thấy hoàn toàn thoải mái với việc này .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>For this reason , make sure you communicate clearly that you intend to create a birth plan .</s>
+<s id='vn121'>Vì vậy , bạn nên đảm bảo nói một cách rõ ràng rằng bạn dự định lên kế hoạch sinh nở .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Give your health care provider your reasons for doing so - not because you do n't trust him or her , but to help ensure cooperation and to cover the possibilities if something should go wrong .</s>
+<s id='vn122'>Bạn nên cho bác sĩ biết lý do bạn làm như vậy - không phải bởi bạn không tin tưởng họ , mà là giúp đảm bảo sự hợp tác và để giải quyết những tình huống bất ổn có thể xảy ra .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>If your caregiver seems offended or is resistant to the idea of a birth plan , you might want to reconsider whether this is the right caregiver for you .</s>
+<s id='vn123'>Nếu bác sĩ có vẻ khó chịu hoặc không thích ý tưởng về kế hoạch sinh nở của bạn thì bạn có thể cần nên cân nhắc lại liệu đây có phải là bác sĩ thích hợp với mình hay không .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Also , think about the language of your plan .</s>
+<s id='vn124'>Ngoài ra , bạn cũng nên nghĩ về ngôn ngữ mà mình sử dụng trong bảng kế hoạch của mình .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>You can use many online resources to create one or you can make one yourself .</s>
+<s id='vn125'>Bạn có thể dùng nhiều nguồn trực tuyến để tạo một bảng hoặc bạn có thể tự lập riêng một bảng của mình .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Here are some tips :</s>
+<s id='vn126'>Dưới đây là một số bí quyết :</s>
+</spair>
+<spair id='127'>
+<s id='en127'>* Make your birth plan read like a list of requests or best-case scenarios , not like a set of demands .</s>
+<s id='vn127'>* Bạn nên thực hiện bảng kế hoạch sinh nở của mình giống như một danh sách các yêu cầu hoặc một kịch bản tối ưu , không như một bảng tập hợp các mệnh lệnh .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Phrases such as " I would prefer " and " if medically necessary " will help your health care provider and caregivers know that you understand that they might have to alter the plan .</s>
+<s id='vn128'>Những cụm từ chẳng hạn như " Tôi thích " và " nếu cần thiết về mặt y học " sẽ giúp cho bác sĩ và những người chăm sóc cho bạn biết rằng bạn hiểu họ có thể thay đổi kế hoạch .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>* Think about the other personnel who 'll be using it - hospital staffers might feel more comfortable if you call it your " birth preferences " rather than your " birth plan , " which could seem as though you 're trying to tell them how to do their jobs .</s>
+<s id='vn129'>* Nghĩ về người khác sẽ sử dụng đến nó - nhân viên bệnh viện có thể sẽ cảm thấy thoải mái hơn nếu bạn gọi là " những điều mong muốn khi sinh nở " hơn là " kế hoạch sinh nở " , có thể như thể bạn đang cố dạy cho họ cách làm việc vậy .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>* Try to be positive ( " we hope to " ) as opposed to negative ( " under no circumstances " ) .</s>
+<s id='vn130'>* Cố tỏ ra tích cực ( " chúng tôi hy vọng " ) ngược với tiêu cực ( " tuyệt đối không bao giờ " ) .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Once you 've made your birth plan , schedule a time to go over it with your doctor or nurse-midwife .</s>
+<s id='vn131'>Khi bạn đã lập được kế hoạch sinh nở thì nên sắp xếp thời gian để giải thích rõ với bác sĩ hoặc y tá - nữ hộ sinh .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Find out and discuss where you agree or disagree .</s>
+<s id='vn132'>Nên tìm hiểu và thảo luận điểm nào bạn đồng ý hoặc không đồng ý .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>During your pregnancy , review the birth plan with your partner periodically to make sure that it 's still in line with both of your wishes .</s>
+<s id='vn133'>Trong suốt thai kỳ , bạn nên thường xuyên cùng chồng xem lại kế hoạch sinh nở để đảm bảo bảng kế hoạch này vẫn còn phù hợp với mong muốn của cả hai người .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Strive to keep the plan as simple as possible - preferably less than two pages - and list them in order of importance .</s>
+<s id='vn134'>Bạn nên cố gắng làm cho bảng kế hoạch sinh nở của mình càng đơn giản càng tốt - tốt nhất là nên dưới 2 trang - và liệt kê chúng theo mức độ quan trọng .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>You may also want to make several copies of the plan : one for you , one for your doctor or nurse-midwife , and one for your birthing coach or partner .</s>
+<s id='vn135'>Bạn cũng cần nên sao chép một vài bảng kế hoạch này : một cho bạn , một cho bác sĩ hoặc y tá - nữ hộ sinh , và một cho chồng mình .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>And bringing a few extra copies in your labor bag is a good idea , especially if your doctor ends up not being on call when your baby is born .</s>
+<s id='vn136'>Và nên mang thêm một vài bảng sao trong túi đi sinh của mình , nhất là nếu bác sĩ của bạn không trực khi bạn sinh con .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Although you might not be able to control everything that happens to you during your baby 's birth , you can play a role in the decisions that are made about your body and your baby .</s>
+<s id='vn137'>Mặc dù không thể kiểm soát được hết tất cả mọi thứ xảy ra với mình trong lúc sinh con , nhưng bạn có thể đóng vai trò quyết định về cả cơ thể mình lẫn con .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>A well thought-out birth plan can help you to do that .</s>
+<s id='vn138'>Một bảng kế hoạch sinh nở thấu đáo , kỹ lưỡng sẽ có thể giúp bạn làm được điều đó .</s>
+</spair>
+</text>
+</doc>

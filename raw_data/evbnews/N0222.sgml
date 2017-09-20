@@ -1,0 +1,280 @@
+﻿<doc id='N0222'>
+<head>
+<title>Birth control for women over 30</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Birth control for women over 30</s>
+<s id='vn1'>Tránh thai cho phụ nữ trên 30 tuổi</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Finding the right contraceptive</s>
+<s id='vn2'>Tìm biện pháp tránh thai thích hợp</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Fallen out of love with your birth control ?</s>
+<s id='vn3'>Không còn thích biện pháp tránh thai của mình nữa ư ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Maybe you're off by side effects .</s>
+<s id='vn4'>Có lẽ bạn cũng đã nản lòng vì các tác dụng phụ của thuốc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Or remembering to pop a pill isn't your suit .</s>
+<s id='vn5'>Hay việc nhớ uống thuốc tránh thai không còn là sở thích của bạn ? .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Problem is , going without isn't a good choice , even as you get older : Nearly 40% of pregnancies among women in their 40s , are unplanned .</s>
+<s id='vn6'>Vấn đề là , việc tránh thai không phải lúc nào cũng là sự lựa chọn hay , ngay cả khi bạn đã lớn tuổi : chẳng hạn như gần 40% phụ nữ mang thai ở tuổi 40 , đều là ngoài dự kiến .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Which one is best for you ?</s>
+<s id='vn7'>Cách nào là tốt nhất đối với bạn ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>We've assembled some popular choices here .</s>
+<s id='vn8'>Chúng tôi đã tập trung được một số biện pháp phổ biến ở đây .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>( However , there are other methods , such as the diaphragm , female condom , NuvaRing , and so on ) .</s>
+<s id='vn9'>( Tuy nhiên , có nhiều phương pháp khác , như là màn chắn , bao cao su nữ , vòng tránh thai , ... ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Combo pill : Who can try it ?</s>
+<s id='vn10'>Thuốc tránh thai kết hợp : Ai có thể dùng được ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Almost all women .</s>
+<s id='vn11'>Hầu như mọi phụ nữ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The Pill can ease maddening peri ­menopausal symptoms like hot flashes , hormonal mood swings , and irregular bleeding .</s>
+<s id='vn12'>Thuốc có thể làm dịu đi triệu chứng đau đớn thời kỳ tiền mãn kinh như trào huyết , tính khí thất thường do hoóc-môn gây ra , và có kinh không đều .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What 's more , it may help prevent ovarian and uterine cancers .</s>
+<s id='vn13'>hơn nữa , nó có thể giúp ngăn ngừa ung thư buồng trứng và tử cung .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Combo pill : Who should avoid it ?</s>
+<s id='vn14'>Thuốc tránh thai kết hợp : Ai nên tránh ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>If you're a migraine sufferer , you may want to steer clear ; the Pill is thought to trigger headaches and raise the risk of stroke in some migraineurs .</s>
+<s id='vn15'>Nếu bạn bị chứng đau nửa đầu , bạn có lẽ cần tránh xa ; thuốc tránh thai được cho là nguyên nhân gây ra chứng nhức đầu và làm tăng nguy cơ đột quỵ đối với một số người mắc chứng đau tiền đình .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>And smokers older than 35 should avoid the Pill , as both estrogen and smoking cause blood to clot more easily .</s>
+<s id='vn16'>Và người hút thuốc lá trên 35 tuổi không nên dùng thuốc tránh thai , vì cả hooc-môn estrogen và thuốc lá làm cho máu vón cục lại dễ dàng hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Progestin-only pill : Who can try it ?</s>
+<s id='vn17'>Thuốc tránh thai chỉ chứa progestogen : Ai có thể sử dụng được ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Women who are breast-feeding ( this oral contraceptive will not lower milk supply ) , or those who can't take estrogen-based pills due to cardiovascular disease or blood-clot risks , or because they smoke .</s>
+<s id='vn18'>Phụ nữ đang thời kỳ cho con bú ( thuốc ngừa thai này sẽ không làm giảm lượng sữa của người mẹ ) , hoặc những người không dùng được thuốc tránh thai chứa estrogen do có bệnh tim mạch hoặc nguy cơ đông tụ máu , hoặc do hút thuốc lá .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This " mini-Pill " protects against pregnancy with a low dose of hormones , but it's estrogen-free .</s>
+<s id='vn19'>" Viên tránh thai mi-ni " này có thể giúp ngừa thai với hàm lượng hoóc môn thấp , nhưng không chứa estrogen .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Progestin-only pill : Who should avoid it ?</s>
+<s id='vn20'>Thuốc tránh thai chỉ chứa progestogen : Ai không nên sử dụng ?</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Progestin-only pills must be taken every day at the same time to be fully effective ; use a backup method if you get off-schedule .</s>
+<s id='vn21'>Thuốc tránh thai chỉ chứa progestin bắt buộc phải sử dụng đúng giờ mỗi ngày mới có hiệu quả tốt ; hãy sử dụng thêm một phương pháp dự trù khác nếu bạn không nhớ giờ giấc sử dụng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Extended-cycle pill : Who can try it ?</s>
+<s id='vn22'>Thuốc kéo dài chu kỳ : Ai có thể sử dụng được ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Women who really loathe their periods .</s>
+<s id='vn23'>Dành cho những phụ nữ không ưa thích chu kỳ kinh nguyệt của mình .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If you suffer from severe PMS , or if your period exacerbates an existing condition such as endometriosis or anemia , these pills may be your new best friend .</s>
+<s id='vn24'>Nếu bạn bị hội chứng trước kỳ kinh nguyệt trầm trọng , hoặc nếu chu kỳ của bạn làm cho bạn khó chịu hơn như bị màng trong dạ con hoặc bị thiếu máu , những viên thuốc này ắt sẽ là người bạn mới tốt nhất đối với bạn đấy .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Two brands , Seasonale and Seasonique , allow you to go three months without menstruating - you 'll have just four periods a year .</s>
+<s id='vn25'>Hai hiệu thuốc , seasonale và seasonique , cho bạn hành kinh ba tháng một lần - bạn sẽ chỉ hành kinh bốn lần một năm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Another brand , Lybrel , stops periods for an year , but you do have to take a pill every day , year-round .</s>
+<s id='vn26'>Một nhãn khác tên là Lybrel , làm ngưng hành kinh trong một năm , nhưng bạn phải uống thuốc mỗi ngày , quanh năm như vậy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>All of these contain estrogen and progestin .</s>
+<s id='vn27'>Những loại thuốc này chứa cả estrogen và progestin .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Extended-cycle pill : Who should avoid it ?</s>
+<s id='vn28'>Thuốc kéo dài chu kỳ : Ai nên tránh ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>If you 're not a candidate for the combo Pill , don't go the extended-cycle route .</s>
+<s id='vn29'>Nếu bạn không dùng được thuốc kết hợp thì đừng nên sử dụng loại kéo dài chu kỳ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Ditto if you tend to be cautious about new medical trends : Although there's no evidence suggesting that it's dangerous not to have regular periods .</s>
+<s id='vn30'>Cũng như trên nếu bạn cẩn trọng với những khuynh hướng y học mới : mặc dù không có bằng chứng nào nói rằng không có kinh đều đặn thì sẽ nguy hiểm .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Intrauterine device ( IUD ) : Who can try it ?</s>
+<s id='vn31'>Dụng cụ tử cung Vòng tránh thai ( IUD ) : Ai có thể sử dụng được ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Women who don't want to think about birth control for a long time .</s>
+<s id='vn32'>những phụ nữ không muốn tránh thai lâu dài .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The IUD is more than 99 % effective and lasts for up to 12 years get one at 40 and you 're set until menopause .</s>
+<s id='vn33'>Vòng tránh thai có hiệu quả trên 99% và có thể kéo dài đến 12 năm đặt vòng tránh thai ở tuổi 40 thì bạn có thể kéo dài tới thời kỳ mãn kinh .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The traditional IUD is a small , T-shaped plastic that 's inserted into the uterus to block egg fertilization .</s>
+<s id='vn34'>Vòng tránh thai truyền thống là một dụng cụ nhỏ , hình chữ T bằng nhựa được đặt vào tử cung để ngăn trứng thụ tinh .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Insertion can cause mild discomfort for some women , but that doesn't last .</s>
+<s id='vn35'>Việc đặt vòng có thể hơi khó chịu đối với một số người phụ nữ , nhưng cảm giác khó chịu đó sẽ nhanh khỏi .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Downsides : possibly , heavy periods and increased menstrual cramping .</s>
+<s id='vn36'>Mặt hạn chế : đặt vòng có thể làm cho lượng kinh nguyệt nhiều hơn và làm tăng chứng chuột rút do kinh nguyệt .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Mirena newer model that also delivers a steady dose of progestin-wins points .</s>
+<s id='vn37'>Vòng tránh thai Mirena - kiểu vòng tránh thai mới hơn cũng cung cấp hàm lượng progestin đều đặn - đã chiếm được ưu thế .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Intrauterine device ( IUD ) : Who should avoid it ?</s>
+<s id='vn38'>Dụng cụ tử cung ( IUD ) : Ai nên tránh ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>If you think you 'll want a baby in a year , other methods may be better .</s>
+<s id='vn39'>Nếu bạn nghĩ bạn sẽ muốn có em bé trong một năm , các phương pháp khác có thể là tốt hơn đấy .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>You 'll be unprotected as soon as you remove the IUD , but its cost- from $ 150 to $ 500 can make it a bad investment for short-term contraception .</s>
+<s id='vn40'>Bạn sẽ không được bảo vệ ngay khi bạn tháo IUD , nhưng chi phí từ 150 đến 500 USD có thể khiến cho việc bỏ tiền vào phương pháp ngừa thai ngắn hạn là phí phạm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Implant : Who can try it ?</s>
+<s id='vn41'>Mô cấy : Ai có thể sử dụng được ?</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Women looking for no-fuss , long-term ( three years ) contraception , or those who aren't a fit for the combo Pill .</s>
+<s id='vn42'>Mô cấy thích hợp cho những phụ nữ muốn tránh thai lâu dài , ( 3 năm ) , hoặc những người không dùng thuốc kết hợp được .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>A matchstick-size plastic rod called " Implanon " is inserted in your upper arm , where it releases progestin to suppress ovulation .</s>
+<s id='vn43'>Một que nhựa có kích cỡ như que diêm tên là " que cấy tránh thai " được cấy vào trong cánh tay trên của bạn , ở vùng tay này thì que cấy tránh thai tiết ra progestin để ngăn rụng trứng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Effectiveness ?</s>
+<s id='vn44'>Hiệu quả không ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Nearly 100 % .</s>
+<s id='vn45'>Gần 100% .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Implant : Who should avoid it ?</s>
+<s id='vn46'>Mô cấy : Ai nên tránh sử dụng ?</s>
+</spair>
+<spair id='47'>
+<s id='en47'>If you take the herb St.John's stress or are significantly overweight , be warned : Implanon may not work as well for you .</s>
+<s id='vn47'>Nếu bạn đang dùng loại thảo dược trị suy nhược , căng thẳng hay thừa cân quá mức thì chớ nên dùng phương pháp cấy mô : Que cấy tránh thai có thể sẽ không có hiệu quả đối với bạn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Condoms : Who can try them ?</s>
+<s id='vn48'>Bao cao su : Ai có thể sử dụng ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Women 40 and older who aren't monogamous , haven't finished menopause .</s>
+<s id='vn49'>Phụ nữ 40 tuổi trở lên không quan hệ một vợ một chồng , chưa mãn kinh .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Unlike other forms of birth control , condoms protect against most STDs and HIV , and are up to 98% effective at preventing pregnancy when used correctly .</s>
+<s id='vn50'>Không giống các hình thức tránh thai khác , bao cao su có thể ngăn ngừa hầu hết các bệnh lây truyền qua đường tình dục và HIV , và hiệu quả đến 98% trong việc ngừa thai khi sử dụng đúng cách .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>This method also is an easy ( and cheap ) choice if you're not all that busy in bed .</s>
+<s id='vn51'>Phương pháp này cũng dễ sử dụng ( và rẻ tiền ) nếu bạn không bận bịu làm chuyện khác trên giường ngủ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Condoms : Who should avoid them ?</s>
+<s id='vn52'>Bao cao su : Ai nên tránh ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>If you're younger than 40 , condoms simply aren't the most foolproof pregnancy-protection , unless they 're paired with another contraceptive ( such as the Pill or an IUD ) .</s>
+<s id='vn53'>Nếu bạn dưới 40 tuổi , bao cao su thường không phải là cách tránh thai tuyệt đối nhất , trừ phi bạn phải sử dụng kèm với một biện pháp ngừa thai khác ( như là thuốc viên hoặc dụng cụ tử cung IUD ) .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Sterilization : Who can try it ?</s>
+<s id='vn54'>Triệt sản : Ai có thể sử dụng được ?</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Women older than 35 who are having kids and their normal periods .</s>
+<s id='vn55'>Phụ nữ trên 35 tuổi , có con và có chu kỳ kinh nguyệt bình thường .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>There are two kinds of permanent sterilization .</s>
+<s id='vn56'>Có 2 loại triệt sản vĩnh viễn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Tubal ligation is a surgical procedure in which the Fallopian tubes are blocked by an incision , clamp , or cauterization .</s>
+<s id='vn57'>Thắt ống dẫn trứng là phương pháp phẫu thuật rạch , nẹp , và đốt để thắt ống dẫn trứng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>And a newer option , called " Essure " , is less invasive and involves a small metal insert to obstruct the Fallopian tubes .</s>
+<s id='vn58'>Và một phương pháp mới hơn , tên là " Essure " , nhỏ gọn , gồm một miếng kim loại nhỏ dùng để làm nghẽn ống dẫn trứng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Sterilization : Who should avoid it ?</s>
+<s id='vn59'>Triệt sản : Ai nên tránh ?</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Ask yourself some hard questions : If you remarried or lost your only child , would you want to have another ?</s>
+<s id='vn60'>Hãy tự đặt ra cho mình một vài câu hỏi khó : nếu bạn kết hôn lần nữa hoặc mất đứa con duy nhất của mình , liệu bạn sẽ muốn có thêm một đứa con nữa không ?</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If you 're not 100% sure , a long-term , reversible method such as an IUD may be better .</s>
+<s id='vn61'>Nếu bạn không chắc chắn 100% , phương pháp lâu dài , có thể bỏ được như là dụng cụ tử cung IUD có thể là biện pháp tránh thai tốt hơn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Emergency contraception</s>
+<s id='vn62'>Tránh thai khẩn cấp</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Plan contraception uses a high dose of progestin to halt ovulation or fertilization , or prevent a fertilized egg from attaching to the uterus .</s>
+<s id='vn63'>Plan B - thuốc tránh thai khẩn cấp - sử dụng liều lượng progestin cao để ngăn rụng trứng hoặc thụ tinh , hoặc làm cho trứng đã thụ tinh không bám được vào tử cung .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It's designed as a backup if you forget to take your oral contraception , have a condom malfunction , or fear an unwanted pregnancy for another reason .</s>
+<s id='vn64'>Thuốc tránh thai khẩn cấp được tạo ra để dự phòng khi bạn quên dùng thuốc tránh thai , hay bị sự cố về bao cao su , hoặc sợ mang thai ngoài ý muốn bởi một lý do khác .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Like other birth control , Plan B prevents pregnancy .</s>
+<s id='vn65'>Cũng giống như một biện pháp tránh thai khác , Plan B có tác dụng ngừa thai .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Although it 's called the morning-after pill , Plan B is effective up to five days after intercourse .</s>
+<s id='vn66'>Mặc dù loại thuốc này được gọi là thuốc tránh thai khẩn cấp , Plan B có tác dụng đến năm ngày sau khi giao hợp .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>The sooner it 's started , the more effective it will be .</s>
+<s id='vn67'>Càng dùng thuốc càng sớm , càng có kết quả tốt .</s>
+</spair>
+</text>
+</doc>

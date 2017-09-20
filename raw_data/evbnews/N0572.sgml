@@ -1,0 +1,92 @@
+﻿<doc id='N0572'>
+<head>
+<title>IBM Unveils Framework for Smart Grid Technologies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>IBM Unveils Framework for Smart Grid Technologies</s>
+<s id='vn1'>IBM tiết lộ Framework cho các công nghệ Smart Grid</s>
+</spair>
+<spair id='2'>
+<s id='en2'>IBM 's SAFE platform is designed to give utilities a simple way to bring energy-efficient technologies to their operations , as well as give software makers a vehicle for getting their applications to those utilities .</s>
+<s id='vn2'>Nền tảng SAFE của IBM được thiết kế để cung cấp cho các tiện ích một phương pháp đơn giản phục vụ công nghệ tiết kiệm năng lượng cho các hoạt động của họ , cũng như cung cấp cho các nhà sản xuất phần mềm một phương tiện để tạo ra các ứng dụng của họ đối với các tiện ích này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>IBM 's announcement came that same day that IBM and Cisco officials helped announced a smart grid project pushed by PGE and the city of San Jose , California .</s>
+<s id='vn3'>Trong một thông báo cùng ngày của IBM , IBM cùng các viên chức của Cisco đã công bố cùng góp phần thúc đẩy dự án lưới điện thông minh của công ty PGE và thành phố San Jose , California .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>IBM and Cisco Systems have been among the more aggressive IT vendors looking to bring their technologies into the rapidly growing smart grid space .</s>
+<s id='vn4'>IBM và Cisco Systems đã tích cực hơn các nhà cung cấp CNTT khác để tìm cách đưa công nghệ của họ vào không gian lưới điện thông minh một cách nhanh chóng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Now IBM wants to be the pathway that others can use to get into the market .</s>
+<s id='vn5'>Hiện tại IBM muốn trở thành một con đường để người khác có thể sử dụng đi vào thị trường .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Company officials Sept. 16 rolled out a software platform that not only will help utility companies find ways to operate more efficiently , but also will give smaller vendors a platform onto which they can build their offerings .</s>
+<s id='vn6'>Vào ngày 16 tháng 9 , công ty chính thức cho ra mắt một nền tảng phần mềm không chỉ giúp ích cho các công ty tìm ra cách thức hoạt động có hiệu quả hơn mà còn đưa ra cho các nhà cung cấp có qui mô nhỏ hơn một nền tảng để họ có thể xây dựng các cơ hội riêng cho mình .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>IBM is unveiling its SAFE ( Solution Architecture for Energy and Utilities Framework ) platform , part of the company 's larger Smarter Planet strategy for bringing greater intelligence into power and other infrastructures .</s>
+<s id='vn7'>IBM đang hé lộ nền tảng SAFE ( Kiến trúc giải pháp cho năng lượng và nền tảng hữu ích ) , một phần trong chiến lược lớn Hành tinh thông minh hơn của công ty để mang lại sự thông minh vĩ đại trong năng lượng và các cơ sở hạ tầng khác .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The announcement came the same day that representatives with both IBM and Cisco stood with officials from Pacific Gas and Electric and the city of San Jose , Calif. , in announcing an initiative to integrate PGE smart meters with the city 's solar energy infrastructure .</s>
+<s id='vn8'>Thông báo này xảy ra cùng ngày với cả hai đại diện của IBM và Cisco cùng với các viên chức từ Pacific Gas và Electric và thành phố San Jose , California trong việc công bố sáng kiến tích hợp sự đo lường thông minh PGE với cơ sở hạ tầng năng lượng mặt trời của thành phố .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>PGE officials said it will put aside some of the $ 42.5 million in federal stimulus money it has applied for from the Department of Energy for the project .</s>
+<s id='vn9'>Các viên chức PGE cho biết sẽ dành 42,5 triệu USD tiền kích cầu của liên bang đã được áp dụng đối với Bộ Năng lượng cho dự án này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For energy companies that are looking for ways to reduce their operating costs and to give their customers tools for monitoring and managing their power consumption , IBM 's SAFE solution gives them a platform through which they can incrementally add technologies and solutions , according to Guido Bartels , general manager of IBM 's Global Energy and Utilities unit .</s>
+<s id='vn10'>Đối với các công ty năng lượng đang tìm cách giảm chi phí vận hành và cung cấp cho khách hàng của họ các công cụ để theo dõi và quản lí tiêu thụ điện năng , giải pháp SAFE của IBM tạo cho họ một nền tảng mà qua đó họ có thể từng bước bổ sung các công nghệ và giải pháp - theo Guido Bartels , tổng giám đốc thuộc bộ phận Tiện ích và Năng lượng Toàn cầu của IBM .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He also pointed out that many of these power companies are getting more regulatory pressure to find alternative sources of energy , including wind and solar , and add such technologies as emission controls and smart distribution .</s>
+<s id='vn11'>Ông cũng chỉ ra rằng nhiều công ty năng lượng đang bị nhiều áp lực pháp lý để tìm các nguồn năng lượng thay thế , trong đó có gió và năng lượng mặt trời và thêm nhiều công nghệ như kiểm soát khí thải và phân bổ thông minh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" We 're in a position to help our utility clients transform their networks more efficiently , " Bartels said in a statement .</s>
+<s id='vn12'>Bartels cho biết trong một bài phát biểu " Chúng tôi đang ở một vị trí để giúp khách hàng của chúng tôi chuyển đổi mạng lưới của họ hiệu quả hơn " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" The SAFE framework provides visibility , control and automation across the utility infrastructure as well as IT assets to help provide security and business agility as part of an intelligent network transformation . "</s>
+<s id='vn13'>" Nền tảng SAFE cung cấp khả năng hiện hữu , điều khiển và tự động hóa trên cơ sở hạ tầng thực tiễn cũng như các tài sản CNTT để giúp cung cấp sự bảo mật và tính nhanh nhạy trong kinh doanh như một phần của sự chuyển đổi mạng thông minh . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>IBM also announced a validation process for partners that sell applications to utilities .</s>
+<s id='vn14'>IBM cũng công bố quy trình hợp thức hoá cho các đối tác bán các ứng dụng cho các tiện ích .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The program will ensure that those software solutions work on the SAFE platform , which officials said will lead to easier integration and deployment for power companies .</s>
+<s id='vn15'>Chương trình sẽ đảm bảo rằng các giải pháp phần mềm hoạt động trên nền tảng SAFE , các viên chức cho biết sẽ hướng dẫn để tích hợp và triển khai dễ dàng hơn cho các công ty năng lượng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>IBM listed a number of partners - including ESRI , SISCO , Retriever Communications and Trilliant - that already are on validated on the SAFE platform .</s>
+<s id='vn16'>IBM liệt kê một số đối tác bao gồm cả ESRI , Sisco , Retriever Communications và Trilliant đã phê chuẩn trên nền tảng SAFE .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>IBM and Cisco both see bright futures in the smart grid business .</s>
+<s id='vn17'>IBM và Cisco đều nhìn thấy tương lai tươi sáng trong ngành kinh doanh lưới điện thông minh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Over the past few months , both companies have announced smart grid projects , including one initiative - announced in July which they are collaborating with Dutch utility Nuon in a pilot project to bring new smart meters and home energy management systems to 500 households in Amsterdam .</s>
+<s id='vn18'>Trong vài tháng qua , cả hai công ty đã công bố dự án lưới điện thông minh trong đó có một sáng kiến được công bố vào tháng 7 mà họ đang cộng tác với công ty năng lượng Nuon của Hà Lan trong một dự án thí điểm để mang lại một công cụ đo lường thông minh mới và hệ thống quản lí năng lượng cho 500 hộ gia đình ở Amsterdam .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Cisco announced in May a plan to bring their networking expertise to the smart grid space .</s>
+<s id='vn19'>Cisco công bố một kế hoạch trong tháng 5 để đem đến sự tinh thông mạng cho không gian mạng lưới thông minh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Cisco officials estimate that the market for creating more efficient power grids could grow into a $ 20 billion a year business for Cisco within five years .</s>
+<s id='vn20'>Các viên chức của Cisco ước tính rằng thị trường để tạo ra thêm lưới điện hiệu quả có thể tăng lên 20 tỉ USD trong 1 năm cho Cisco trong vòng 5 năm .</s>
+</spair>
+</text>
+</doc>

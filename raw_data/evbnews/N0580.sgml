@@ -1,0 +1,104 @@
+﻿<doc id='N0580'>
+<head>
+<title>Intel Investing $ 12M in Graphics , Visual Computing Center</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel Investing $ 12M in Graphics , Visual Computing Center</s>
+<s id='vn1'>Intel Đầu tư 12 Triệu đô vào Lĩnh vực Đồ họa và Trung tâm Tính toán Ảo</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel is planning to invest up to $ 12 million in a new European research center dedicated to researching visual computing and graphics technology .</s>
+<s id='vn2'>Intel đang có kế hoạch đầu tư lên tới 12 triệu đô la vào một trung tâm nghiên cứu mới tại Châu Âu để nghiên cứu công nghệ đồ họa và tính toán ảo .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The center will focus on projects ranging from games to medical imaging to how graphics can help accelerate financial transactions .</s>
+<s id='vn3'>Trung tâm này sẽ tập trung vào các dự án trong phạm vi từ game cho đến việc tạo ảnh trong y học để làm thế nào đồ họa có thể giúp đẩy nhanh các giao dịch về tài chính .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Intel is also expected to soon release its graphics processors code-named Larrabee that will help Intel compete against Nvidia and AMD 's ATI products .</s>
+<s id='vn4'>Intel cũng được mong đợi sớm phát hành bộ vi xử lí đồ họa với tên mã là Larrabee , nó sẽ giúp cho Intel cạnh tranh với Nvidia và các sản phẩm ATI của AMD .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Intel is investing up to $ 12 million to create a research center that will focus on developing new graphics and visual computingtechnology at a time when the entire PC industry is trying to create new types of graphics-intense applications .</s>
+<s id='vn5'>Intel đang đầu tư một khoảng tiền lên tới 12 triệu đô la để tạo một trung tâm nghiên cứu mà nó sẽ tập trung vào việc phát triển công nghệ tính toán ảo và đồ hoạ mới tại một thời điểm mà toàn bộ ngành công nghiệp PC đang cố gắng tạo các loại ứng dụng mới mạnh về đồ họa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Intel Senior Fellow and CTO Justin Rattner announced the $ 12 million investment May 12 .</s>
+<s id='vn6'>Vào ngày 12 tháng Năm , Ủy viên Cao cấp và Giám đốc Kỹ thuật Justin Rattner của Intel đã công bố đầu tư 12 triệu đô la .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Intel plans to invest the money during the next five years to help build the Intel Visual Computing Institute , which will be located at Saarland University in Saarbrucken , Germany .</s>
+<s id='vn7'>Intel lên kế hoạch đầu tư tiền trong suốt 5 năm tới để giúp xây dựng Viện Tính toán Ảo Intel được đặt tại Trường Đại học Saarland ở Saarbrucken , Đức .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The goal of the center is to develop new types of PC hardware and software that will not only help in developing games but also help create other types of applications for fields such as health care and financial services .</s>
+<s id='vn8'>Mục tiêu của trung tâm này là phát triển các loại phần mềm và phần cứng PC mới mà nó không chỉ giúp cho việc phát triển game mà còn giúp tạo ra các loại ứng dụng cho các lĩnh vực khác như chăm sóc sức khỏe và các dịch vụ tài chính .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>While the announcement lacked specifics , Intel expressed particular interest in what it calls terascale research and technology .</s>
+<s id='vn9'>Trong khi đó sự thông báo thiếu tính dứt khoát rằng Intel đặc biệt quan tâm tới cái gọi là Công nghệ và Tera-scale Nghiên Cứu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For Intel , this means using dozen and even hundreds of processing cores within a chip to improve the graphics and visual abilities of PCs .</s>
+<s id='vn10'>Đối với Intel , điều này có nghĩa việc sử dụng hàng tá và ngay cả hàng trăm lõi xử lí bên trong một con chip để cải thiện khả năng đồ họa và ảo hóa của các PC .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>This type of chip technology can also be used to create supercomputers and massive HPC ( high-performance computing ) systems that use multicore technology to solve problems in parallel instead of using older methods to simply crank up the clock speed of single-core processors .</s>
+<s id='vn11'>Đây là loại công nghệ vi xử lí mà nó cũng có thể được sử dụng để tạo các siêu máy tính và hàng loạt hệ thống tính toán hiệu xuất cao HPC mà nó sử dụng công nghệ " đa lõi " để giải quyết các vấn đề song song thay cho việc sử dụng các phương pháp cũ hơn chỉ cần đẩy mạnh tốc độ xung nhịp của các bộ xử lí đơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Given the growing importance of visual computing technology , it made perfect sense to expand our relationship and form this new institute , " .</s>
+<s id='vn12'>" Dựa vào tầm quan trọng phát triển của công nghệ tính toán ảo , nó tạo nên cảm giác hoàn hảo để mở rộng mối quan hệ của chúng tôi và hình thành viện mới này " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Rattner said in a statement .</s>
+<s id='vn13'>Rattner đã nói trong một bài phát biểu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" We are confident that it will become an internationally recognized center and a driver for European leadership in the visual computing field . "</s>
+<s id='vn14'>" Chúng tôi tin tưởng rằng nó sẽ trở thành một trung tâm được công nhận trên bình diện quốc tế và dẫn đầu trong lĩnh vực tính toán ảo ở Châu Âu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>If this approach to computing seems familiar , it 's because Intel and its two main rivals in this area-Nvidia and Advanced Micro Devices - have been pushing this technology as an alternative to classic chip technology .</s>
+<s id='vn15'>Nếu phương pháp tiếp cận này vào việc tính toán có vẻ như quen thuộc , đó là vì Intel có 2 đối thủ chính trong lĩnh vực này là Nvidia và AMD - họ đang cố gắng làm bằng được công nghệ này như là một sự thay thế cho công nghệ chip cổ điển .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Later this year or in early 2010 , Intel plans to finally unveil its " Larrabee " graphics processor , which will use multiple x86 cores and allow Intel and software developers to take advantage of new types of parallel computing .</s>
+<s id='vn16'>Vào cuối năm nay hoặc đầu năm 2010 , Intel lên kế hoạch cuối cùng để " hạ màn " bộ vi xử lí đồ họa " Larabee " mà nó sẽ sử dụng đa lõi x 86 và cho phép Intel và các nhà phát triển phần mềm tận dụng lợi thế mới của việc tính toán song song .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Nvidia is also interested in this type of multicore approach and using parallel computing .</s>
+<s id='vn17'>Nvidia cũng quan tâm tới kiểu phương pháp đa lõi này và sử dụng việc tính toán song song .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>In the last few years , Nvidia has pushed its own Tesla GPUs for this type of computing .</s>
+<s id='vn18'>Trong một vài năm trước , Nvidia đã đẩy mạnh phát triển GPU Tesla của riêng họ trong việc tính toán kiểu này .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In addition , Nvidia has developed a programming language called CUDA , which works as a parallel computing engine for Nvidia 's GPUs .</s>
+<s id='vn19'>Ngoài ra , Nvidia đã phát triển một ngôn ngữ lập trình gọi là CUDA , nó làm việc như một cỗ máy tính toán song song cho các GPU của Nvidia .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>AMD , through its ATI graphics division , is at work on similar technology .</s>
+<s id='vn20'>Bộ phận phát triển chip đồ họa ATI của AMD cũng đang làm việc cho công nghệ tương tự này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Intel 's investment in the new facility in Germany , which the company says is now its largest investment ever in a European university , comes at a time when Intel is facing ongoing scrutiny concerning its business practices within the European Union .</s>
+<s id='vn21'>Sự đầu tư của Intel vào trang thiết bị mới ở Đức , nơi mà công ty này cho biết hiện giờ nó là sự đầu tư lớn nhất từ trước tới nay tại một trường đại học ở Châu Âu , cũng tại thời điểm này khi mà Intel đang liên tục đối mặt với sự giám sát liên quan đến việc thực tiễn kinh doanh của họ trong Liên minh Châu Âu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Later the week of May 11 , the EU is expected to fine Intel millions , if not billions , of dollars , claiming the company unfairly used its position to push competition out of Europe 's PC market .</s>
+<s id='vn22'>Ngày 11 tháng Năm tuần này , EU dự định sẽ phạt Intel hàng triệu đô la thậm chí hàng tỉ đôla , về việc họ quả quyết rằng công ty không công bằng khi dùng vị trí của mình để đẩy cuộc cạnh tranh trên trường PC của Châu Âu .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Intel is hoping to employ dozens of workers at the new facility by the end of 2009 , including its own researchers , as well as individuals from Saarland University , Max Planck Institute for Informatics , Max Planck Institute for Software Systems and the German Research Center for Artificial Intelligence .</s>
+<s id='vn23'>Intel đang hi vọng tuyển dụng nhiều công nhân cho nhà máy mới vào cuối năm 2009 , bao gồm các nhà nghiên cứu riêng cũng như các cá nhân từ Trường Đại học Saarland , Học viện Tin học Max Planck , Hệ thống Phần mềm Max Planck và Trung tâm Nghiên cứu Trí tuệ Nhân tạo tại Đức .</s>
+</spair>
+</text>
+</doc>

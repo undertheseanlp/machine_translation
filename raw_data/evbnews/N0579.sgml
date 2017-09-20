@@ -1,0 +1,76 @@
+﻿<doc id='N0579'>
+<head>
+<title>Microsoft DirectX Vulnerability Under Attack</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft DirectX Vulnerability Under Attack</s>
+<s id='vn1'>Lỗ hổng Bảo mật trong DirectX của Microsoft có thể bị Tấn công</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft says hackers are targeting a security flaw in the DirectX feature of Windows .</s>
+<s id='vn2'>Microsoft cho biết các hacker đang nhắm mục tiêu vào một lỗ hổng bảo mật trong tính năng DirectX của Windows .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>According to Microsoft , attackers are using malicious QuickTime videos to exploit the bug .</s>
+<s id='vn3'>Theo tập đoàn Microsoft thì những kẻ tấn công đang sử dụng đoạn video mở bằng QuickTime có chứa mã độc để khai thác lỗi này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Microsoft is investigating reports of a vulnerability in Microsoft DirectX that is under attack by hackers using malicious QuickTime videos</s>
+<s id='vn4'>Microsoft đang điều tra những báo cáo về lỗ hổng bảo mật trong DirectX của Microsoft dưới sự tấn công của những hacker sử dụng video mở bằng phần mềm QuickTime có chứa mã độc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>According to a Microsoft advisory , the vulnerability can be exploited by hackers to remotely execute code with the rights of the logged-on user .</s>
+<s id='vn5'>Theo cố vấn của Microsoft , lỗ hổng này có thể bị khai thác bởi các hacker để thực thi mã từ xa với các quyền của người sử dụng được đăng nhập .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Specifically , the vulnerability is in the QuickTime parser in Microsoft DirectShow , and is due to the way DirectShow handles supported QuickTime format files .</s>
+<s id='vn6'>Điều đặt biệt là lỗ hổng này nằm trong bộ phân tách QuickTime của Microsoft DirectShow , và bởi vì cách điều khiển của DirectShow để hỗ trợ định dạng tập tin Quicktime .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A feature of the Windows operating system , DirectX is used for streaming media to enable graphics and sound when playing games or watching video .</s>
+<s id='vn7'>Một tính năng của hệ điều hành Windows , DirectX được sử dụng cho việc phân luồng phương tiện để phát ra hình ảnh và âm thanh khi chơi game hay xem video .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Within DirectX , the DirectShow technology performs client-side audio and video source , manipulation and rendering , while the QuickTime Movie Parser filter splits Apple QuickTime data into audio and video streams .</s>
+<s id='vn8'>Bên trong DirectX , công nghệ DirectShow thực thi nguồn video và âm thanh phía máy khách , thao tác và diễn dịch , trong khi bộ lọc QuickTime Movie Parser tách dữ liệu QuickTime của Apple thành luồng âm thanh và hình ảnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although this is n't a browser vulnerability ,Microsoft officials warned that because the vulnerability is in DirectShow any browser using media plug-ins that use DirectShow is subject to attack .</s>
+<s id='vn9'>Mặc dù đây không phải là một lỗ hổng của trình duyệt , các viên chức của Microsoft cảnh báo rằng bởi vì lỗ hổng này nằm trong DirectShow nên bất kỳ trình duyệt nào sử dụng plug-in có dùng DirectShow sẽ trở thành đối tượng để tấn công .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In addition , it is possible to direct calls to DirectShow specifically , even if Apple 's QuickTime ( which is not vulnerable ) is installed .</s>
+<s id='vn10'>Ngoài ra , nó có thể gọi trực tiếp DirectShow một cách cụ thể ngay cả trên phần mềm QuickTime của Apple ( phần mềm này không có lỗ hổng ) được cài đặt .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" While our investigation is on_going , our investigation so far has shown that Windows2000 Service Pack 4 , Windows XP and Windows Server 2003 are vulnerable ; all versions of Windows Vista and Windows Server 2008 are not vulnerable , " Microsoft said in the advisory .</s>
+<s id='vn11'>Microsoft phát biểu trong một buổi tư vấn : " Trong khi cuộc điều tra của chúng tôi vẫn đang tiếp tục , cuộc điều tra của chúng tôi từ trước tới nay cho thấy rằng Windows2000 Service Pack 4 , Windows XP và Windows Server 2003 có lỗ hổng , tất cả các phiên bản của Windows Vista và Windows Server 2008 thì lại không có " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Microsoft has activated its Software Security Incident Response Process ( SSIRP ) and is continuing to investigate this issue . "</s>
+<s id='vn12'>" Microsoft đã kích hoạt Software Security Incident Response Process ( SSIRP ) và đang tiếp tục điều tra vấn đề này " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>There are a few workarounds available to help users deal with the threat .</s>
+<s id='vn13'>Có một vài cách khắc phục để giúp đỡ người dùng đối phó với mối đe dọa này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Administrators can disable QuickTime parsing in Quartz.dll by deleting the following registry key :</s>
+<s id='vn14'>Quản trị viên có thể vô hiệu hóa phân tích QuickTime trong Quartz.dll bằng cách xoá bỏ các khoá registry sau đây :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Users can also modify the ACL ( access control list ) on quartz.dll .</s>
+<s id='vn15'>Người sử dụng cũng có thể sửa đổi các ACL ( danh sách kiểm soát truy cập ) trên quartz.dll .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Instructions for these and other workarounds are contained in the DirectShow security advisory .</s>
+<s id='vn16'>Hướng dẫn này và những cách khắc phục khác có chứa trong trang tư vấn bảo mật DirectShow .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,288 @@
+﻿<doc id='N0324'>
+<head>
+<title>What Tim Cook 's comments reveal about Apple 's future</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What Tim Cook 's comments reveal about Apple 's future</s>
+<s id='vn1'>Bình luận của Tim Cook tiết lộ gì về tương lai của Apple ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>( Wired ) -- When Apple CEO Tim Cook took the stage at the All Things Digital Conference Tuesday night , he was n't just answering questions from Walt Mossberg and Kara Swisher - he was also dropping hints about the future of Apple 's product roadmap .</s>
+<s id='vn2'>( Wired ) - Khi Giám đốc Điều hành Apple , Tim Cook , lên sân khấu Hội thảo All Things Digital đêm thứ Ba , ông không chỉ trả lời câu hỏi của Walt Mossberg và Kara Swisher mà ông còn hé lộ về tương lai lộ trình sản phẩm của Apple .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Sure , a lot of his answers just regurgitated familiar themes we 've heard from Cook and other Apple executives .</s>
+<s id='vn3'>Đương nhiên , nhiều câu trả lời của ông cũng chỉ lặp lại những chủ đề quen thuộc mà chúng ta biết được từ Cook và các thành viên điều hành khác của Apple .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But even Tim Cook ca n't completely stick to the script .</s>
+<s id='vn4'>Nhưng ngay cả Tim Cook cũng không thể cứ nói theo kich bản có sẵn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>During his interview , he teased a few interesting tidbits - which we present here along with analysis on what his words actually mean .</s>
+<s id='vn5'>Trong cuộc phỏng vấn , ông đã úp mở một vài thông tin thú vi - mà chúng tôi đưa ra dưới đây cũng như phân tích những lời nói của ông thật sự có ý gì .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Siri should improve in the near future</s>
+<s id='vn6'>Siri sẽ sớm được cải tiến</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" There 's more that ( Siri ) can do , and we have a lot of people working on this , " Cook said .</s>
+<s id='vn7'>" Siri có thể làm được nhiều việc hơn , và chúng tôi có nhiều người vẫn đang nghiên cứu về vấn đề này " , Cook nói .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" I think you will be really pleased with some of the things you 'll see over the coming months on this .</s>
+<s id='vn8'>" Tôi nghĩ bạn sẽ thực sự hài lòng với một vài tính năng mà bạn sẽ thấy trong vài tháng tới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>We have some cool ideas about what Siri can do " .</s>
+<s id='vn9'>Chúng tôi có vài ý tưởng rất tuyệt về những gì Siri có thể làm được " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Clearly , Apple wants to evolve Siri , and lift its current " beta " status .</s>
+<s id='vn10'>Rõ ràng , Apple muốn phát triển Siri , và gỡ nhãn " beta " cho nó .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A recent study may have found that 66 percent of iPhone 4S users are either " satisfied " or " very satisfied " with Siri , but Apple has still been hit with a class-action suit from users .</s>
+<s id='vn11'>Một nghiên cứu gần đây có thể đã phát hiện ra rằng có 66% người dùng iPhone 4S tỏ ra " hài lòng " hoặc " rất hài lòng " với Siri , nhưng Apple vẫn gặp phải vụ kiện tập thể từ phía người dùng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They feel Siri was deceptively advertised .</s>
+<s id='vn12'>Họ cảm thấy Siri được quảng cáo quá sự thật .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In a final , non-beta version of Siri , Apple 's virtual assistant would be better equipped to parse the nuances of human dialog .</s>
+<s id='vn13'>Ở phiên bản Siri chính thức , " cô trợ lý ảo " của Apple sẽ được trang bị tốt hơn để phân tích sắc thái trong lời thoại của con người .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>We should be able to talk to Siri as if she were an actual assistant .</s>
+<s id='vn14'>Chúng ta sẽ có thể trò chuyện với Siri như thể đó là cô trợ lý thật .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>If a query needs clarification , she should be able to ask you much more specific questions to determine exactly what you need .</s>
+<s id='vn15'>Nếu có câu hỏi nào chưa rõ , Siri có thể hỏi bạn những câu hỏi cụ thể hơn để xác định chính xác bạn đang cần gì .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Siri 's capabilities should also expand via new database partnerships .</s>
+<s id='vn16'>Tính năng của Siri cũng sẽ được mở rộng nhờ sự hợp tác với các đối tác cơ sở dữ liệu mới .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Yelp and Wolfram Alpha are great wealths of information , but Siri needs even more sources of human intelligence .</s>
+<s id='vn17'>Yelp và Wolfram Alphaare là những đại gia thông tin , nhưng Siri cần nhiều hơn là trí thông minh của con người .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>In the original Siri iOS app , you could make OpenTable restaurant reservations using Siri .</s>
+<s id='vn18'>Ở phiên bản Siri ban đầu , bạn có thể đặt bàn nhà hàng trên trang OpenTable bằng cách sử dụng Siri .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I would expect this and similar functionality to return .</s>
+<s id='vn19'>Tôi mong rằng chức năng này và các chức năng tương tự sẽ được khôi phục .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>You should also be able to use Siri to post tweets , and eventually Facebook status updates as well ( other virtual assistant apps already do this ) .</s>
+<s id='vn20'>Bạn cũng sẽ có thể sử dụng Siri để đăng bài trên Twitter , và cuối cùng là cập nhật trạng thái Facebook ( các ứng dụng trợ lý ảo khác đã làm được điều này ) .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>I would imagine that Apple will eventually open up Siri to third-party developers , so they could incorporate her voice recognition , dictation , and search features within their own apps .</s>
+<s id='vn21'>Tôi nghĩ cuối cùng Apple sẽ mở rộng Siri cho các nhà phát triển ứng dụng bên thứ ba để họ có thể tích hợp khả năng nhận dạng lời nói , đọc chính tả , và tìm kiếm của Siri vào ứng dụng của riêng họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>It makes Siri useful and ubiquitous system-wide .</s>
+<s id='vn22'>Điều này sẽ làm Siri trở nên hữu ích và phổ biến trên toàn iOS .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Apple 's leaving wearables to third parties</s>
+<s id='vn23'>Apple để các bên thứ ba phát triển " thiết bị đeo trên người "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Of course , Apple does promote the iPod nano as a watch replacement , so it 's not like Apple is completely ignoring the trend .</s>
+<s id='vn24'>Tất nhiên , Apple có quảng cáo iPod nano như một thiết bị thay thế đồng hồ đeo tay , vì vậy không có vẻ như Apple hoàn toàn lờ đi trào lưu trên .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But , for now , it looks like Apple wo n't be releasing any trendy wearable gadgets to jump on the bandwagon - and , in fact , there 's no need to .</s>
+<s id='vn25'>Nhưng , hiện tại , có vẻ như Apple sẽ không phát hành " thiết bị đeo trên người " để chạy theo phong trào - và , thực vậy , điều này là không cần thiết .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Developing new hardware , especially in the relatively immature wearable space , takes a lot of time , money , and intellectual resources .</s>
+<s id='vn26'>Phát triển phần cứng mới , nhất là trong mảng " thiết bị đeo trên người " còn non trẻ , sẽ mất nhiều thời gian , tiền của , và trí óc .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>So Apple has much more to gain by letting other manufacturers make wearable accessories .</s>
+<s id='vn27'>Vì vậy Apple sẽ được lợi nhiều hơn bằng cách để các nhà sản xuất khác chế tạo phụ kiện đeo trên người .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>They inevitably hook into Apple 's existing ecosystem via iOS apps .</s>
+<s id='vn28'>Chắc hẳn chúng sẽ gắn chặt với hệ sinh thái hiện tại của Apple thông qua ứng dụng i OS .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Apple reaps the benefit of increased iDevice purchases and upgrades , and even takes a 30 percent cut of any paid app that a wearable computing manufacturer might sell .</s>
+<s id='vn29'>Apple hưởng lợi từ việc bán và nâng cấp iDevice ngày càng tăng , và thậm chí lấy đi 30% lợi nhuận từ bất kỳ ứng dụng trả phí nào mà nhà sản xuất có thể bán được .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Expect Facebook-Apple collaboration</s>
+<s id='vn30'>Mong đợi sẽ có sự hợp tác giữa Facebook và Apple</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Historically , Apple and Facebook have n't always seen eye-to-eye — a collaboration between Facebook and Apple reportedly failed prior to the release of Apple 's Ping social network , and Facebook has since cozied up with Microsoft on its Windows Phone platform .</s>
+<s id='vn31'>Trước đây , Apple và Facebook luôn không cùng quan điểm – có nguồn tin cho rằng kế hoạch cộng tác giữa Facebook và Apple đã thất bại trước khi Apple cho ra mắt mạng xã hội Ping , và kể từ đó Facebook đã hợp tác với Microsoft trên nền tảng Windows Phone .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Nonetheless , it does n't look like past conflicts are preventing Apple and Facebook from working together in the future .</s>
+<s id='vn32'>Mặc dù vậy , không có vẻ như mẫu thuẫn trong quá khứ đang là rào cản Apple và Facebook hợp tác với nhau trong tương lai .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" I think the relationship is very solid , " Cook said of Apple 's relationship with Facebook .</s>
+<s id='vn33'>" Tôi nghĩ mối quan hệ này rất bền chặt " , Cook nói về mối quan hệ của Apple với Facebook .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" We have great respect for them .</s>
+<s id='vn34'>" Chúng tôi rất tôn trọng họ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>I think we can do more with them . "</s>
+<s id='vn35'>Tôi nghĩ chúng tôi có thể hợp tác nhiều hơn với họ " .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Apple is deeply interested in the TV space</s>
+<s id='vn36'>Apple rất quan tâm đến mảng TV</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Apple is widely rumored to be working on its own TV set .</s>
+<s id='vn37'>Có nhiều tin đồn rằng Apple đang nghiên cứu sản xuất TV của riêng hãng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Many consumers are eager to get their hands on .</s>
+<s id='vn38'>Nhiều người tiêu dùng đang nôn nóng được chạm tay vào chiếc TV này .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Cook is still playing coy about the subject , but more than ever before it sounds like Apple is actively exploring the TV space .</s>
+<s id='vn39'>Cook vẫn kín đáo về chủ đề này , nhưng hơn bao giờ hết , có vẻ như Apple đang chủ động tìm hiểu mảng TV .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" This is an area of intense interest for us ," Cook said about the Apple TV set-top box , the company 's current living-room content solution .</s>
+<s id='vn40'>" Đây là lĩnh vực mà chúng tôi quan tâm sâu sắc " , Cook nói về thiết bị giải mã và chọn kênh trên Apple TV , đây hiện là giải pháp nội dung phòng khách của hãng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Could it take Apple to a full-fledged television set ?</s>
+<s id='vn41'>Apple có thể sản xuất ra một chiếc TV hoàn thiện .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Cook would n't directly say .</s>
+<s id='vn42'>Tim Cook từ chối trả lời trực tiếp .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Instead , he commented on Apple 's strategy upon entering a new product area : " We would look not just at this area , but other areas , and ask , Can we control the key technology ?</s>
+<s id='vn43'>Thay vào đó , ông bình luận về chiến lược của Apple khi bước vào một lĩnh vực sản phẩm mới : " Chúng tôi sẽ không chỉ nhìn vào lĩnh vực này , mà còn các lĩnh vực khác nữa , rồi tự hỏi , liệu chúng tôi có thể kiểm soát công nghệ then chốt này ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Can we make a significant contribution far beyond what others have done in this area ?</s>
+<s id='vn44'>Liệu chúng tôi có thể đóng góp đáng kể vào lĩnh vực này , bỏ xa các đối thủ ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Can we make a product that we all want ?</s>
+<s id='vn45'>Liệu chúng tôi có thể làm ra một sản phẩm mà tất cả chúng ta đều muốn ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Those are all the things we would ask about any new product categor y . "</s>
+<s id='vn46'>Đó là tất cả những thứ chúng tôi có thể tự hỏi về bất cứ danh mục sản phẩm mới nào " .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Can Apple control the key technology ?</s>
+<s id='vn47'>Liệu Apple có thể kiểm soát công nghệ then chốt này ?</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Yes .</s>
+<s id='vn48'>Có thể .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Apple already dominates manufacturing in a number of overseas factories .</s>
+<s id='vn49'>Apple đã chiếm lĩnh lĩnh vực sản xuất ở một số nhà máy nước ngoài .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Apple 's a master of supply-chain control .</s>
+<s id='vn50'>Apple là bậc thầy trong việc kiểm soát chuỗi cung ứng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>There should be little doubt that Apple can control the key technology , both on the manufacturing side , and the patents-software side .</s>
+<s id='vn51'>Không có mấy ai nghi ngờ việc Apple có thể kiểm soát công nghệ then chốt , cả về phía sản xuất , lẫn về phía bằng phát minh - phần mềm .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Can Apple make a significant contribution to the TV space ?</s>
+<s id='vn52'>Liệu Apple có thể góp phần đáng kể vào mảng TV ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Yes .</s>
+<s id='vn53'>Có thể .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Through a dedicated , TV-optimized version of Siri and a smart TV UI based on trademark Apple , simplicity and aesthetics , Apple could advance the state of TV usability .</s>
+<s id='vn54'>Thông qua phiên bản Siri chuyên dụng và tối ưu hoá cho TV và giao diện TV thông minh dựa trên thương hiệu Apple , tính đơn giản và thẩm mỹ , Apple có thể cải tiến tính dễ sử dụng của TV .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Can Apple make a TV we all want ? Yes .</s>
+<s id='vn55'>Apple có thể sản xuất chiếc TV mà tất cả chúng ta đều muốn có ? Có thế .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>As we reported above , consumers are excited by the prospect of an Apple-branded HD television .</s>
+<s id='vn56'>Như chúng tôi đã đưa tin ở trên , người tiêu dùng thấy phấn khích vì về viễn cảnh của một chiếc TV HD mang nhãn hiệu Apple .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>You 've basically announced that an iTV is all but inevitable .</s>
+<s id='vn57'>Về cơ bản , anh đã tuyên bố rằng iTV gần như là điều chắc chắn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>No more lost iPhones ?</s>
+<s id='vn58'>Sẽ không còn iPhone bị đánh mất ?</s>
+</spair>
+<spair id='59'>
+<s id='en59'>In a one-year period , Apple reportedly lost two iPhones : an iPhone 4 prototype in the spring of 2010 that made its way onto Gizmodo , and an iPhone 4S prototype that never made it into the public eye .</s>
+<s id='vn59'>Trong vòng một năm , Apple được cho là đã đánh mất hai chiếc iPhone : nguyên mẫu iPhone 4 vào mùa xuân năm 2010 đến tay Gizmodo , và nguyên mẫu iPhone 4S chưa bao giờ lộ diện trước mắt công chúng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>And just this week , 9to5 Mac scored some images of what could be the next iPhone .</s>
+<s id='vn60'>Và chỉ tuần này , trang 9to5 Mac đăng một số hình ảnh có thể là của iPhone thế hệ kế tiếp .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>For a company that likes to keep upcoming product information under lock and key , such mishaps are monumental .</s>
+<s id='vn61'>Đối với một công ty thích giữ kín các thông tin sản phẩm sắp ra mắt thì những rủi ro như vậy là rất lớn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Perhaps Apple will implement a new or different product testing program - one that does n't involve its beta testers drinking at bars ?</s>
+<s id='vn62'>Có thể Apple sẽ triển khai mới một chương trình kiểm tra sản phẩm - một chương trình sẽ không có người thử nghiệm trước khi uống rượu tại các quán bar ?</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Joking aside , keeping multiple thousands of Foxconn workers from pulling out their own cameras and sending a few shots to the press for a quick buck would be a huge endeavor .</s>
+<s id='vn63'>Thật ra mà nói , Apple sẽ phải nỗ lực rất nhiều để ngăn chặn hàng ngàn công nhân Foxconn chụp và gửi ảnh cho báo chí để kiếm tiền một cách nhanh chóng .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Ping 's days are numbered</s>
+<s id='vn64'>Ngày tàn của mạng xã hội Ping đã điểm</s>
+</spair>
+<spair id='65'>
+<s id='en65'>" We tried Ping and I think the customer voted and said this is n't something that I want to put a lot of energy into , " Cook said .</s>
+<s id='vn65'>" Chúng tôi đã thử nghiệm Ping và tôi nghĩ khách hàng bỏ phiếu và họ cho biết rằng đây không phải là thứ mà tôi muốn dốc công sức vào " , Cook nói .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>" Will we kill it ?</s>
+<s id='vn66'>" Liệu chúng tôi sẽ khai tử nó ?</s>
+</spair>
+<spair id='67'>
+<s id='en67'>I do n't know " .</s>
+<s id='vn67'>Tôi không biết " .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The first day Ping came out , we were excited to check it out and join the music-centric social network .</s>
+<s id='vn68'>Ngày đầu tiên Ping ra mắt , chúng tôi đã phấn khích khám phá và tham gia mạng xã hội âm nhạc này .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Unfortunately , it just did n't stick , and Apple 's aware of that .</s>
+<s id='vn69'>Thật đáng tiếc , sự phấn khích ấy đã không kéo dài , và Apple đã ý thức được điều này .</s>
+</spair>
+</text>
+</doc>

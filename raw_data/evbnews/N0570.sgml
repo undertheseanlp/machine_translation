@@ -1,0 +1,140 @@
+﻿<doc id='N0570'>
+<head>
+<title>Dell to Spend $ 1 Billion to Grow Cloud , Virtualization Capabilities</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Dell to Spend $ 1 Billion to Grow Cloud , Virtualization Capabilities</s>
+<s id='vn1'>Dell Dành 1 Tỷ USD Để Phát Triển Các Tiềm Năng Điện Toán Đám Mây Và Ảo Hoá</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Dell is looking to become a larger player in the highly competitive cloud-computing field , where such stalwarts as HP , Microsoft and Amazon already have strong footholds .</s>
+<s id='vn2'>Dell đang tìm cách trở thành một công ty lớn trong lĩnh vực điện toán đám mây có sức cạnh tranh cao mà ở đó nhiều công ty lớn chẳng hạn như HP , Microsoft và Amazon đã có chỗ đứng vững chắc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Dell is investing $ 1 billion in its current fiscal year in new data centers , solution facilities and technologies designed to broaden its capabilities in such areas as cloud computing , virtualization and converged infrastructure .</s>
+<s id='vn3'>Dell đang đầu tư 1 tỷ USD trong năm tài chính hiện tại của hãng vào các trung tâm dữ liệu mới , các công nghệ và cơ sở giải pháp được thiết kế để mở rộng khả năng trong các lĩnh vực như điện toán đám mấy , ảo hoá và cơ sở hạ tầng tập trung .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Dell 's strategy , announced April 7 , includes building 10 new data centers over the next two years -which will be spread out around the world - including the United States , Asia and Europe that_will be stocked with Dell equipment and help customers adopt and deploy desktop-virtualization and cloud-computing environments , either on their own premises or hosted by the OEM .</s>
+<s id='vn4'>chiến lược của Dell được công bố vào ngày 7 tháng 4 , bao gồm xây dựng 10 trung tâm dữ liệu mới trong hai năm tới mà sẽ được mở rộng ở khắp nơi trên thế giới - bao gồm Hoa Kỳ , Châu Á và Châu Âu - nó sẽ được lưu trữ với trang thiết bị của Dell và trợ giúp khách hàng sử dụng , triển khai ảo hoá máy tính và môi trường điện toán đám mây , dựa trên quyền sở hữu của họ hoặc bởi các công ty OEM .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Through the data center , Dell eventually will offer cloud services based on Microsoft 's Azure platform .</s>
+<s id='vn5'>Thông qua trung tâm dữ liệu , Dell cũng sẽ cung cấp dịch vụ đám mây dựa trên nền tảng Azure của Microsoft .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In addition , Dell officials plan to open 12 Global Solutions Centers this year , plus another 10 over the next 18 months , where customers will be able to learn about Dell offerings and work with Dell experts to figure out which technologies work best within their budgets .</s>
+<s id='vn6'>Ngoài ra , các viên chức của Dell dự định mở 12 Trung tâm Giải pháp Toàn cầu trong năm nay , cùng với 10 trung tâm khác trong 18 tháng tới , ở đó khách hàng sẽ có thể tìm hiểu về các dịch vụ của Dell và làm việc với các chuyên gia của Dell nhằm tìm ra các công nghệ làm việc tốt nhất trong nguồn ngân sách của họ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>As part of its aggressive cloud-computing virtualization push , Dell also is rolling products and services designed to make it easier for businesses to adopt cloud-computing models .</s>
+<s id='vn7'>Như một phần của việc đẩy mạnh phát triển điện toán đám mây ảo hoá , Dell cũng đang ra mắt các sản phẩm và dịch vụ được thiết kế để giúp đỡ dễ dàng hơn cho các doanh nghiệp thông qua các mô hình điện toán đám mây .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Key among those is vStart , a pre-assembled hardware and software package of Dell PowerEdge servers , EqualLogics storage and PowerConnect switches that can be delivered as a single unit and easily deployed with initial deployment services from Dell .</s>
+<s id='vn8'>Chìa khoà then chốt giữa các vấn đề này đó là vStart , một gói phần mềm và phần cứng được tích hợp trên máy chủ Dell PowerEdge , kho lưu trữ EqualLogics và các thiết bị chuyển mạch PowerConnect có thể được cung cấp dưới dạng một thiết bị đơn và dễ dàng triển khai với các dịch vụ ban đầu của Dell .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Each vStart package will enable businesses to immediately run 100 or 200 virtual machines .</s>
+<s id='vn9'>Mỗi gói vStart sẽ cho phép các doanh nghiệp ngay lập tức chạy 100 hoặc 200 máy ảo .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Eventually , Dell will offer vStart packages that provide virtual-machine capabilities below 100 and above 200 , according to Steve Schuckenbrock , president of Dell Services .</s>
+<s id='vn10'>Cuối cùng , Dell sẽ đưa ra các gói vStart mà cung cấp dưới 100 và trên 200 máy ảo , theo Steve Schuckenbrock , chủ tịch về các dịch vụ của Dell .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Dell 's vStart initially will support VMware virtualization technology , but over the next few quarters will expand the number of hypervisors it will offer .</s>
+<s id='vn11'>Gói vStart của Dell ban đầu sẽ hỗ trợ công nghệ ảo hóa của VMware , nhưng trong vài quí tới sẽ mở rộng số lượng các trình giám sát mà họ sẽ đưa ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Customers are really now more interested in buying ( virtual machines ) than they are in buying physical hardware that they have to put together , "</s>
+<s id='vn12'>" Hiện tại , khách hàng thật sự quan tâm đến việc mua ( máy ảo ) hơn là việc họ mua phần cứng vật lý mà họ phải lắp đặt với nhau " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Praveen Asthana , vice president of Dell 's Enterprise Solutions and Strategy unit , said during a press conference April 6 .</s>
+<s id='vn13'>Praveen Asthana phó chủ tịch về bộ phận Chiến lược và Giải pháp Doanh nghiệp của Dell cho biết trong cuộc hợp báo ngày 6 tháng 4 .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Customers spend far too much time integrating and trying to optimize software for deploying virtual machines .</s>
+<s id='vn14'>Khách hàng dành quá nhiều thời gian tích hợp và cố gắng tối ưu hoá phần mềm để triển khai các máy ảo .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Dell 's announcements are part of a larger strategy to grow beyond its roots as a PC and server maker and become more of a solutions provider , with an emphasis in such areas as virtualization and cloud computing .</s>
+<s id='vn15'>Các thông báo của Dell là một phần trong chiến lược lớn để phát triển vượt xa khả năng vốn có của một nhà sản xuất máy chủ và PC và trở thành một nhà cung cấp các giải pháp với tầm quan trọng trong các lĩnh vực như ảo hoá và điện toán đám mây .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Dell officials have been aggressive in buying companies that enable it to grow its capabilities rapidly , including several storage technology vendors and services firm Perot Systems.</s>
+<s id='vn16'>Các viên chức của Dell đã chú trọng vào việc bán cho các công ty mà cho phép nó phát triển khả năng của mình một cách nhanh chóng , bao gồm nhiều nhà cung cấp công nghệ lưu trữ và công ty cung cấp dịch vụ Perot Systems .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>However , it 's moving into a highly competitive field .</s>
+<s id='vn17'>Tuy nhiên , hãng đang đi vào một lĩnh vực có sức cạnh tranh cao .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Dell 's large OEM rivals , such as IBM , Hewlett-Packard and Cisco Systems , all are pushing converged infrastructures , as well as data center and cloud services .</s>
+<s id='vn18'>Các đối thủ OEM lớn của Dell như là IBM , Hewlett-Packard và Cisco Systemsm tất cả đều đang đẩy mạnh các cơ sở hạ tầng tập trung , cũng như trung tâm dữ liệu và dịch vụ điện toán đám mây .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In addition , as Dell looks to become more active in cloud computing , it will run up against public cloud giants like Amazon Services Web , Microsoft and Rackspace .</s>
+<s id='vn19'>Ngoài ra , nếu Dell tìm cách trở nên tích cực hơn trong lĩnh vực điện toán đám mây thì nó sẽ phải đối chọi với những gã khổng lồ trong lĩnh vực điện toán đám mây công cộng như các Dịch vụ Web của Amazon , Microsoft và Rackspace .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>During the April 6 press conference , Schuckenbrock said that Dell 's new data centers would be primarily focused on hosting customers ' data center infrastructures .</s>
+<s id='vn20'>Trong cuộc họp báo vào ngày 6 tháng 4 , ông Schuckenbrock cho biết rằng các trung tâm dữ liệu mới của Dell sẽ tập trung chủ yếu vào các cơ sở hạ tầng trung tâm dữ liệu của khách hàng lưu trữ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Dell is committed to bringing in the appropriate staffing , and he said that while Dell 's ambitions are large , the company has experience in cloud computing .</s>
+<s id='vn21'>Dell cam kết sẽ cung cấp một đội ngũ nhân viên phù hợp , và ông cho biết rằng mặc dù tham vọng của Dell rất lớn , như hãng có kinh nghiệm trong lĩnh vực điện toán đám mây .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He pointed to the OEM 's Data Center Solutions business as a proof point .</s>
+<s id='vn22'>Ông đưa ra việc kinh doanh Giải Pháp Trung Tâm Dữ Liệu OEM như là một minh chứng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" You 've seen some of the things we 've done with our DCS business , and you can expect to see that kind of architecture with a highly scaled-out infrastructure , " he said .</s>
+<s id='vn23'>Ông nói " Bạn đã từng nhìn thấy một vài thứ mà chúng tôi đã thực hiện với việc kinh doanh Giải Pháp Trung Tâm Dữ Liệu của chúng tôi và bạn có thể nhìn thấy kiểu kiến trúc với cơ sở hạ tầng mở rộng hơn " .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" I think we 've proven our ability to do hyperscale data centers that support some of the largest cloud capabilities in the world . "</s>
+<s id='vn24'>" Tôi nghĩ rằng chúng tôi đã chứng khả năng thực hiện các trung tâm dữ liệu siêu mở rộng hỗ trợ điện toán đám mây lớn nhất trên thế giới "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Dell 's new data centers will " largely be modular and oriented toward hosting cloud capabilities , whether it 's desktop as a service or private and public cloud capabilities , " Schuckenbrock said .</s>
+<s id='vn25'>Schuckenbrock cho biết trung tâm dữ liệu mới của Dell sẽ " phần lớn là khối kết cấu và hướng tới khả năng lưu trữ đám mây , cho dù đó là dành cho máy tính cá nhân dưới dạng dịch vụ hoặc điện toán đám mây công cộng và riêng tư " .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Along with the data center and solution-center build-outs and the vStart offering , Dell officials also announced a three-year partnership with Microsoft that is designed to help businesses more quickly get up and running with virtualization and cloud technologies .</s>
+<s id='vn26'>Cùng với trung tâm dữ liệu , xây dựng trung tâm giải pháp và dịch vụ vStart , các viên chức của Dell cũng đã công bố mối quan hệ đối tác 3 năm với Microsoft mà đã được lên kế hoạch để giúp các doanh nghiệp đi vào hoạt động nhanh hơn với công nghệ điện toán đám mây và ảo hoá .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>They 'll be offering management solutions based on Dell 's Virtual Integrated System and Advanced Infrastructure Manager , and Microsoft 's System Center .</s>
+<s id='vn27'>Họsẽ được cung cấp các giải pháp quản lý dựa trên Hệ thống Tích hợp Ảo của Dell và Trình quản lí Cơ sở Hạ tầng Cao cấp , và Trung tâm Hệ thống của Microsoft .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The virtualization offerings will be based on Microsoft 's Hyper-V .</s>
+<s id='vn28'>Các dịch vụ ảo hoá sẽ được dựa trên Hyper-V của Microsoft .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Dell also showed off a new email and file archive solution , which includes a pre-configured reference architecture , ongoing maintenance and support , and storage products that offer high scalability and ease of use .</s>
+<s id='vn29'>Dell cũng đã giới thiệu một giải pháp lưu trữ tập tin và e-mail mới , bao gồm kiến trúc mẫu được cấu hình sẵn , hỗ trợ và bảo trì liên tục , và các sản phẩm lưu trữ mà cung cấp khả năng mở rộng cao và dễ sử dụng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The OEM also is expanding its desktop-virtualization capabilities , offering a portfolio that includes pre-packaged services , and configured and tested hardware and software for fast deployment .</s>
+<s id='vn30'>Bộ phận OEM cũng đang mở rộng khả năng ảo hoá máy tính của mình , đưa ra một danh mục đầu tư bao gồm các dịch vụ đóng gói sẵn . Phần cứng và phần mềm được cấu hình và được kiểm nghiệm để triển khai nhanh chóng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>With its desktop-virtualization solutions , Dell also is looking to accelerate the time it takes for businesses to implement a desktop-virtualization solution , and to support any computing endpoint anywhere .</s>
+<s id='vn31'>Với giải pháp ảo hoá máy tính , Dell cũng đang tìm cách đẩy nhanh thời gian cần thiết để doanh nghiệp triển khai giải pháp ảo hoá máy tính và hỗ trợ bất kỳ nút điện toán cuối nào ở bất cứ nơi đâu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" We do a lot of the pre-work for customers " in cloud and virtualized environments , Schuckenbrock said .</s>
+<s id='vn32'>Schuckenbrock nói " chúng tôi làm sẵn rất nhiều việc cho khách hàng " trong môi trường ảo hoá và đám mây " .</s>
+</spair>
+</text>
+</doc>

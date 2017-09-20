@@ -1,0 +1,92 @@
+﻿<doc id='N0551'>
+<head>
+<title>Carpathia seeks help with Megaupload data</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Carpathia seeks help with Megaupload data</s>
+<s id='vn1'>Carpathia yêu cầu được trợ giúp về dữ liệu trên Megaupload</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The company looking after the data of closed file-sharing site Megaupload has appealed for help managing the giant pile of information .</s>
+<s id='vn2'>Công ty đang quản lý dữ liệu của trang web chia sẻ tập tin Megaupload vừa bị đóng cửa đã kêu gọi sự giúp đỡ để quản lý kho thông tin khổng lồ này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>US hosting firm Carpathia said maintenance on the 25 petabytes of data was costing it $ 9,000 ( £5,700 ) a day .</s>
+<s id='vn3'>Carpathia , công ty cung cấp dịch vụ lưu trữ Hoa Kỳ , cho biết việc duy trì 25 petabyte dữ liệu tốn khoảng 9.000 đô la Mỹ ( 5.700 bảng Anh ) một ngày .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It has filed a court motion to find out what it can do with the data left behind when Megaupload was shuttered .</s>
+<s id='vn4'>Họ vừa trình lên toà một bản kiến nghị để tìm hiểu xem hãng có thể làm gì với kho dữ liệu bị bỏ lại từ sau khi Megaupload bị đóng cửa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It suggests getting help paying for the maintenance or starting a programme to give data back to former users .</s>
+<s id='vn5'>Họ cũng đề nghị nhận được sự hỗ trợ để chi trả chi phí duy trì hoặc để khởi động chương trình hoàn lại dữ liệu cho người dùng trước đây .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Data burden</s>
+<s id='vn6'>Gánh nặng dữ liệu</s>
+</spair>
+<spair id='7'>
+<s id='en7'>File-sharing site Megaupload was raided and shut down on 20 January in an operation co-ordinated by US authorities .</s>
+<s id='vn7'>Trang web chia sẻ tập tin Megaupload bị truy quét và đóng cửa hôm 20/1 trong một hoạt động do các nhà cầm quyền Hoa Kỳ phối hợp thực hiện .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>They alleged the site was aiding the pirating of copyrighted works .</s>
+<s id='vn8'>Họ cho rằng trang web này đang tiếp tay cho nạn ăn cắp tác phẩm có bản quyền .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Megaupload founder Kim Dotcom ( formerly Schmitz ) and the firm 's senior managers arrested in the raid deny the charges .</s>
+<s id='vn9'>Người sáng lập Megaupload , Kim Dotcom ( tên trước đây là Schmitz ) và các giám đốc cấp cao của hãng bị bắt trong cuộc truy quét vừa rồi đã phủ nhận những lời cáo buộc .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>When Megaupload was active it signed a deal with Carpathia to act as the hosting firm for all the data members wanted to store .</s>
+<s id='vn10'>Khi còn hoạt động , Megaupload đã ký một thoả thuận với Carpathia với vai trò là công ty lưu trữ cho mọi dữ liệu của thành viên lưu trữ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>At the time of the raid , Carpathia was overseeing 25 petabytes of data for Megaupload stored on servers worth about $ 1.25m ( £780,000 ) .</s>
+<s id='vn11'>Khi cuộc truy quét diễn ra , Carpathia đang quản lý 25 petabyte dữ liệu của Megaupload được lưu trữ trên các máy chủ với giá trị khoảng 1,25 triệu đô la Mỹ ( 780.000 đồng bảng Anh ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Since the raid , Carpathia has spent about $ 567,000 maintaining this data even though Megaupload is no longer paying its bills .</s>
+<s id='vn12'>Kể từ sau cuộc truy quét , Carpathia đã chi khoảng 567.000 đô la Mỹ để duy trì kho dữ liệu này mặc dù hiện tại Megaupload không còn thanh toán chi phí cho hãng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It cannot delete the data and use the servers for other customers because of the ongoing legal action .</s>
+<s id='vn13'>Họ không thể xoá bỏ kho dữ liệu này và dành máy chủ cho các khách hàng khác vì những vụ kiện tụng vẫn chưa có hồi kết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In a statement Carpathia said it had tried in vain for weeks to get permission to start returning data to former customers of Megaupload .</s>
+<s id='vn14'>Trong một tuyên bố của mình , Carpathia cho bíết hãng đã cố gắng một cách vô ích trong nhiều tuần để xin phép hoàn trả dữ liệu cho cựu khách hàng của Megaupload .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>With no agreement forthcoming it has filed legal action to force a decision .</s>
+<s id='vn15'>Vì chưa đạt được một thoả thuận nào , hãng đã đề đơn kiện để buộc toàn án đưa ra quyết định .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Carpathia said one solution would be to briefly restore the Megaupload site and let users retrieve their data .</s>
+<s id='vn16'>Theo Carpathia , có một giải pháp là nhanh chóng khôi phục lại trang Megaupload và cho phép người dùng lấy lại dữ liệu của mình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Alternatively it would like someone else to take control of the data or pay to keep the information intact .</s>
+<s id='vn17'>Hoặc hãng muốn có một công ty khác quản lý kho dữ liệu này hoặc chi trả phí cho việc bảo tồn dữ liệu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The US government and the Motion Picture Association of America , which helped co-ordinate the raid , have said they would not take custody of the data .</s>
+<s id='vn18'>Chính phủ Hoa Kỳ và hội Điện ảnh Hoa Kỳ , hai cơ quan đã phối hợp thực hiện cuộc truy quét , cho hay họ sẽ không tiếp nhận trông coi kho dữ liệu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Requiring a third-party like Carpathia to bear the costs of preservation of 25 petabytes - a historically and mind-bogglingly large amount of data - is unduly burdensome , " said the hosting firm in its court filing .</s>
+<s id='vn19'>" Quả là một gánh nặng quá sức chịu đựng khi yêu cầu bên thứ ba như phía Carpathia gánh chịu chi phí bảo quản 25 petabyte dữ liệu - một con số lớn đến kinh ngạc và chưa tứng có trong lịch sử " , trích đơn kiện của họ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Carpathia said one petabyte ( one million gigabytes ) is big enough to store 13.3 years worth of high definition TV ) .</s>
+<s id='vn20'>Theo Carpathia , một petabyte ( một triệu gigabyte ) dữ liệu đủ để lưu trữ các chương trình tivi độ nét cao trong 13,3 năm .</s>
+</spair>
+</text>
+</doc>

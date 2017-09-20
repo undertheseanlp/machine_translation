@@ -1,0 +1,236 @@
+﻿<doc id='N0841'>
+<head>
+<title>Blood test</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Blood test</s>
+<s id='vn1'>Xét nghiệm máu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What it is ?</s>
+<s id='vn2'>Xét nghiệm máu là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A ferritin blood test helps doctors evaluate the amount of iron stored in the body .</s>
+<s id='vn3'>Xét nghiệm ferritin trong máu giúp cho bác sĩ đánh giá được lượng sắt tích trữ trong cơ thể .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The body uses iron to make hemoglobin , the oxygen-carrying protein inside red blood cells .</s>
+<s id='vn4'>Cơ thể sử dụng sắt để tạo hê-mô-glô-bin , đây là một loại prô-tê-in có chức năng vận chuyển khí ô-xy bên trong hồng cầu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Iron is obtained from food and stored for use as ferritin , an iron-carrying protein .</s>
+<s id='vn5'>Sắt được hấp thu từ thức ăn và được tích trữ lại trong cơ thể để sử dụng dưới dạng ferritin , đây là loại prô-tê-in vận chuyển sắt .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Ferritin is found mostly in the liver , but it 's also present in smaller amounts in the bone marrow , spleen , and muscles .</s>
+<s id='vn6'>Chất ferritin có nhiều nhất trong gan , nhưng hàm lượng trong tuỷ xương , lách , và các cơ thấp hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Only a small amount is normally present in the blood , but it can still be used to estimate the body 's total iron stores .</s>
+<s id='vn7'>Trong máu thường chỉ tồn tại một lượng nhỏ , nhưng nó cũng có thể được sử dụng để đánh giá tổng lượng sắt tích trữ trong cơ thể .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Stored iron is important because when iron intake is low , the body relies on ferritin to release the iron it needs .</s>
+<s id='vn8'>Lượng sắt dự trữ rất cần thiết bởi khi cơ thể không hấp thu đủ sắt thì nó phải nhờ đến chất ferritin giải phóng lượng sắt cần thiết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>If enough iron is n't available in storage , a person will progress through several stages of iron deficiency .</s>
+<s id='vn9'>Nếu cơ thể cũng không đủ sắt dự trữ thì bệnh nhân sẽ trải qua một số giai đoạn thiếu sắt .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>If the situation is n't corrected , iron deficiency may eventually lead to anemia - a decreased amount of hemoglobin in the blood , resulting in difficulty delivering oxygen to the cells and tissues .</s>
+<s id='vn10'>Nếu không được chữa trị thì tình trạng thiếu sắt này có thể sẽ dẫn đến bệnh thiếu máu – lượng hê-mô-glô-bin trong máu giảm , làm cho việc vận chuyển khí ô-xy đến các tế bào và các mô trở nên khó khăn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Most iron deficiency cases in childhood are due to low iron intake - for example , getting too few iron-rich foods such as red meat and fortified cereals , or , in bottle-fed infants , switching from iron-fortified formula to cow 's milk before 12 months .</s>
+<s id='vn11'>Hầu hết các trường hợp thiếu sắt ở trẻ nhỏ là do hấp thụ sắt kém – chẳng hạn như ăn quá ít các thực phẩm giàu chất sắt chẳng hạn như các loại thịt đỏ và ngũ cốc tăng cường sắt , hoặc đối với trẻ bú bình , chuyển từ sữa bột tăng cường chất sắt sang sữa bò trước 12 tháng tuổi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Infants who are breastfed tend to get enough iron from their mothers until about 4-6 months of age , when iron-fortified cereal is usually introduced .</s>
+<s id='vn12'>Trẻ sơ sinh bú mẹ thường hấp thụ đủ sắt từ sữa mẹ cho đến khoảng tháng thứ 4 đến tháng thứ 6 , lúc mà trẻ thường được cho ăn dặm thêm ngũ cốc tăng cường chất sắt .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Low iron also may be caused by poor iron absorption by the intestine or by blood loss , most commonly from heavy menstruation or gradual blood loss in the intestinal tract .</s>
+<s id='vn13'>Thiếu sắt cũng có thể là do ruột hấp thu sắt kém hoặc là do mất máu , thường thấy nhất là do kinh nguyệt nhiều hoặc do mất máu dần dần ở đường ruột .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Some health conditions can result in too much iron and ferritin in the body ( iron overload ) .</s>
+<s id='vn14'>Một số bệnh cũng có thể làm cho cơ thể bệnh nhân quá nhiều sắt và ferritin ( quá thừa sắt ) .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The most common is hemochromatosis , a genetic disease in which too much iron is absorbed .</s>
+<s id='vn15'>Thường thấy nhất là hiện tượng thừa chất sắt , đây là một bệnh di truyền trong đó sắt được hấp thu vào cơ thể quá nhiều .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Why it 's done</s>
+<s id='vn16'>Tại sao phải xét nghiệm máu</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Doctors may order ferritin test when they suspect kids have too little or too much iron in their bodies .</s>
+<s id='vn17'>Bác sĩ có thể yêu cầu làm xét nghiệm ferritin khi nghi ngờ cơ thể trẻ quá thừa hoặc quá thiếu sắt .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This suspicion is often based on the results of routine blood tests , such as a complete blood counts , that show low hemoglobin levels .</s>
+<s id='vn18'>Điều nghi ngờ này thường dựa trên kết quả của các xét nghiệm máu định kỳ , chẳng hạn như đếm huyết cầu toàn phần , cho biết mật độ hồng cầu thấp .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Doctors may also suspect problems with iron levels based on certain symptoms .</s>
+<s id='vn19'>Bác sĩ cũng có thể nghi ngờ các vấn đề về hàm lượng sắt dựa vào một số triệu chứng nào đó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Early symptoms if iron depletion or deficiency might be subtle .</s>
+<s id='vn20'>Những triệu chứng ban đầu của bệnh thiếu sắt hoặc mất sắt có thể rất khó nhận ra .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But once levels drop below a certain amount , kids might experience symptoms such as fatigue , weakness , pale skin , rapid heartbeat , or dizziness .</s>
+<s id='vn21'>Nhưng khi hàm lượng sắt trong cơ thể giảm dưới một mức độ cụ thể nào đó thì trẻ có thể biểu hiện các triệu chứng chẳng hạn như mệt mỏi , ốm yếu , da dẻ xanh xao nhợt nhạt , tim đập nhanh , hoặc choáng váng , chóng mặt .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The most common symptoms of iron overload are joint pain , chronic fatigue , and abdominal pain .</s>
+<s id='vn22'>Những triệu chứng thừa sắt thường thấy nhất là đau khớp , mệt mỏi kinh niên , và đau bụng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Ferritin levels are a helpful first indicator of abnormal iron stores because they tend to drop or rise even before symptoms occur .</s>
+<s id='vn23'>Hàm lượng chất ferritin là dấu hiệu có lợi đầu tiên để nhận ra sắt dự trữ bất thường trong cơ thể bởi hàm lượng sắt thường hay giảm xuống hoặc tăng lên thậm chí là trước khi xảy ra các triệu chứng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Preparation</s>
+<s id='vn24'>Chuẩn bị xét nghiệm máu</s>
+</spair>
+<spair id='25'>
+<s id='en25'>No special preparations are needed for this test .</s>
+<s id='vn25'>Không cần phải chuẩn bị gì đặc biệt khi xét nghiệm máu đâu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>On the day of the test , it may help to have your child wear a short-sleeve shirt to allow easier access for the technician who will be drawing the blood .</s>
+<s id='vn26'>Vào ngày làm xét nghiệm , trẻ có thể mặc áo sơ mi ngắn tay để giúp chuyên viên có thể dễ dàng lấy máu hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The procedure</s>
+<s id='vn27'>Quy trình làm xét nghiệm máu</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A health professional will usually draw the blood from a vein .</s>
+<s id='vn28'>Chuyên gia sức khỏe thường rút máu ra khỏi tĩnh mạch .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>For an infant , the blood may be obtained by puncturing the heel with a small needle ( lancet ) .</s>
+<s id='vn29'>Trẻ sơ sinh có thể được lấy máu bằng cách đâm kim nhỏ ( lưỡi trích ) vào gót chân .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If the blood is being drawn from a vein , the skin surface is cleaned with antiseptic and an elastic band ( tourniquet ) is placed around the upper arm to apply pressure and cause the veins to swell with blood .</s>
+<s id='vn30'>Nếu rút máu ở tĩnh mạch thì bề mặt da sẽ được lau sạch bằng chất sát trùng và được quấn một dải băng co giãn ( ga-rô ) quanh vùng cánh tay trên để tạo áp lực và làm cho tĩnh mạch căng máu lên .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>A needle is inserted into a vein ( usually in the arm inside of the elbow or on the back of the hand ) and blood is withdrawn and collected in a vial or syringe .</s>
+<s id='vn31'>Kim được tiêm vào tĩnh mạch ( thường là ở vùng cánh tay bên trong khuỷu tay hoặc trên mu bàn tay ) , máu được rút ra và đựng trong lọ hoặc ống chích .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>After the procedure , the elastic band is removed .</s>
+<s id='vn32'>Sau khi lấy máu xong , trẻ sẽ được tháo dây băng</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Once the blood has been collected , the needle is removed and the area is covered with cotton or a bandage to stop the bleeding .</s>
+<s id='vn33'>Rút kim ra ngoài và vùng tay bị tiêm rút máu sẽ được đắp bằng miếng bông hoặc băng để cầm máu .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Collecting the blood for the test will only take a few minutes .</s>
+<s id='vn34'>Quy trình lấy máu xét nghiệm chỉ mất một vài phút .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>What to expect</s>
+<s id='vn35'>Bạn nên mong đợi điều gì</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Either method ( heel or vein withdrawal ) of collecting a blood sample is only temporarily uncomfortable and can feel like a quick pinprick .</s>
+<s id='vn36'>Cả hai phương pháp lấy mẫu máu ( lấy máu ở gót chân hoặc ở tĩnh mạch ) chỉ làm bạn cảm thấy khó chịu tức thời thôi và có thể như một vết mẩn đỏ , vết kim đâm nhanh mau lành .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Afterward , there may be some mild bruising , which should go away in a day or so .</s>
+<s id='vn37'>Sau đó , vùng tiêm rút máu cũng có thể bị thâm tím nhẹ , và sẽ tự lành trong khoảng chừng một ngày thôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Getting the results</s>
+<s id='vn38'>Lấy kết quả</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The blood sample will be processed by a machine .</s>
+<s id='vn39'>Mẫu máu thường sẽ được xử lý bằng máy .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The results are commonly available within 1-2 days .</s>
+<s id='vn40'>Thường có kết quả trong vòng từ 1-2 ngày .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Risks</s>
+<s id='vn41'>Rủi ro</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The ferritin test is considered a safe procedure .</s>
+<s id='vn42'>Xét nghiệm ferritin được cho là một xét nghiệm an toàn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>However , as with many medical tests , some problems can occur with having blood drawn :</s>
+<s id='vn43'>Tuy nhiên , giống như nhiều xét nghiệm y khoa khác thì khi rút máu cũng có thể xảy ra một số vấn đề :</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* fainting or feeling lightheaded</s>
+<s id='vn44'>* ngất hoặc cảm thấy choáng váng</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* hematoma ( blood accumulating under the skin causing a lump or bruise )</s>
+<s id='vn45'>* tụ máu ( máu tụ dưới da gây máu bầm hoặc làm cho da sưng )</s>
+</spair>
+<spair id='46'>
+<s id='en46'>* pain associated with multiple punctures to locate a vein</s>
+<s id='vn46'>* đau do đâm nhiều mũi tiêm để định vị tĩnh mạch</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Helping your child</s>
+<s id='vn47'>Giúp con bạn vượt qua nỗi sợ hãi</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Having a blood test is relatively painless .</s>
+<s id='vn48'>Làm xét nghiệm máu rất ít gây đau đớn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Still , many children are afraid of needles .</s>
+<s id='vn49'>Tuy vậy , cũng có nhiều trẻ cảm thấy sợ kim .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Explaining the test in terms your child can understand might help ease some of the fear .</s>
+<s id='vn50'>Việc giải thích xét nghiệm máu bằng những thuật ngữ mà bé hiểu được có thể giúp trẻ bớt sợ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Allow your child to ask the technician any questions he or she might have .</s>
+<s id='vn51'>Bạn nên để cho trẻ hỏi chuyên viên bất kỳ câu hỏi nào mà bé có thể thắc mắc .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Tell your child to try to relax and stay still during the procedure , as tensing muscles and moving can make it harder and more painful to draw blood .</s>
+<s id='vn52'>Hãy bảo bé nên cố gắng thoải mái và ngồi im trong khi lấy máu , bởi khi nhúc nhích và căng cơ có thể làm cho việc lấy máu trở nên khó khăn hơn và làm cho bé đau đớn hơn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>It also may help for your child to look away when the needle is being inserted into the skin .</s>
+<s id='vn53'>ngoài ra , trẻ cũng nên nhìn đi chỗ khác khi bị tiêm kim vào da .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If you have questions</s>
+<s id='vn54'>Nếu bạn có quan tâm hoặc thắc mắc điều gì</s>
+</spair>
+<spair id='55'>
+<s id='en55'>If you have questions about the ferritin test , speak with your doctor .</s>
+<s id='vn55'>Nếu bạn thắc mắc gì về xét nghiệm ferritin thì nên nói chuyện với bác sĩ .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>You can also talk to the technician before the procedure .</s>
+<s id='vn56'>Bạn cũng có thể nói chuyện với chuyên viên lấy máu trước khi tiến hành lấy máu cho trẻ .</s>
+</spair>
+</text>
+</doc>

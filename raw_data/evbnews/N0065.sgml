@@ -1,0 +1,112 @@
+﻿<doc id='N0065'>
+<head>
+<title>Search For Survivors Continues After Chile Massive Quake</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Search For Survivors Continues After Chile Massive Quake</s>
+<s id='vn1'>Cuộc tìm kiếm người sống sót vẫn tiếp tục sau trận động đất dữ dội ở Chile</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Rescue workers are tearing through the rubble in search of survivors in Chile Sunday , a day after a massive earthquake shattered the country 's central region .</s>
+<s id='vn2'>Nhân viên cứu hộ đang đào bới xuyên qua đống đổ nát để tìm kiếm người sống sót ở Chile hôm Chủ nhật , một ngày sau trận động đất ồ ạt đã phá huỷ khu vực miền trung ở quốc gia này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The 8.8 magnitude quake struck the South American country Saturday in the early morning hours .</s>
+<s id='vn3'>Trận động đất 8.8 độ rích-te đã làm rung chuyển đất nước Nam Mỹ này vào sáng hôm thứ bảy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Many Chileans have continued to stay out of their homes because of the jolting series of aftershocks , some as strong as 6.9 magnitude .</s>
+<s id='vn4'>Nhiều người dân Chile vẫn còn ở bên ngoài nhà của họ vì có những đợt dư chấn rung chuyển nữa , trong đó một số mạnh đến 6.9 độ rích-te .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The quake has killed more than 300 people and damaged as many as 1.5 million homes .</s>
+<s id='vn5'>Trận động đất đã làm chết hơn 300 người và phá huỷ lên đến 1,5 triệu căn nhà .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Officials say the death toll is expected to rise .</s>
+<s id='vn6'>Các viên chức nói rằng số người chết sẽ còn tiếp tục tăng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Rescuers are working to reach about a 100 people trapped in an apartment building that collapsed in Concepcion , the country 's second-largest city .</s>
+<s id='vn7'>Nhân viên cứu hộ đang làm việc để cứu khoảng 100 người mắc kẹt trong một chung cư bị đổ sập ở Concepcion , thành phố lớn thứ nhì ở quốc gia này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The main rescue operation is centered in the city , about 100 kilometers from the epicenter of the quake .</s>
+<s id='vn8'>Hoạt động cứu hộ chủ yếu tập trung ở trong thành phố , cách tâm động đất khoảng 100 cây số</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Looters ransacked stores in Concepcion Sunday , stealing both food and electrical appliances .</s>
+<s id='vn9'>Những kẻ hôi cướp phá các cửa hàng ở Concepcion hôm chủ nhật , ăn cắp cả thức ăn lẫn đồ điện .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Police used tear gas and water cannons to disperse a crowd of looters at one supermarket .</s>
+<s id='vn10'>Cảnh sát sử dụng hơi cay và vòi rồng để giải tán một đám đông những kẻ cướp phá tại 1 siêu thị .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Chilean President Michelle Bachelet declared a " state of catastrophe " in central Chile , where the quake toppled buildings , overturned cars and brought down power and phone lines .</s>
+<s id='vn11'>Michelle Bachelet tổng thống Chile tuyên bố " nhà nước của thảm hoạ " ở miền trung Chile , nơi trận động đất làm lật đổ những toà nhà , lật ngược những chiếc xe hơi và làm cắt lưới điện và đường dây điện thoại .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Bridges fell and many streets were covered with rubble .</s>
+<s id='vn12'>Những cây cầu đổ sập và nhiều đường phố phủ đầy những đống gạch vụn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Fires were reported .</s>
+<s id='vn13'>Những đám cháy đang được đưa tin .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Several hospitals collapsed .</s>
+<s id='vn14'>Vài bệnh viện bị sập đổ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The president has not asked for assistance from other countries , but several nations have offered to send aid .</s>
+<s id='vn15'>Tổng thống đã không đòi trợ giúp từ quốc gia khác , nhưng vài quốc gia đã đề nghị gửi viện trợ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Speaking at the Vatican Sunday , Pope Benedict said he is praying for the people of Chile and other populations in the Pacific tested by the calamity .</s>
+<s id='vn16'>Phát biểu tại Vatican hôm Chủ Nhật , Đức giáo hoàng Benedict nói rằng Ngài đang cầu nguyện cho người dân ở Chile và những cư dân khác ở vùng Thái Bình Dương bị thử thách trước thiên tai .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The earthquake has raised a daunting first challenge for billionaire Sebastian Pinera , who was elected Chile 's president in January .</s>
+<s id='vn17'>Trận động đất còn gia tăng thách thức làm thoái chí đầu tiên cho tỉ phú Pinera Sebastian , người được bầu làm tổng thống Chile vào tháng giêng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He takes office in two weeks .</s>
+<s id='vn18'>Ông ấy sẽ nhậm chức trong hai tuần nữa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Chile 's children who were preparing to return to school Monday at the end of their summer break have had their vacation extended another week .</s>
+<s id='vn19'>Trẻ em Chile đang sắp quay lại trường học vào ngày thứ hai sau kỳ nghỉ hè đã phải kéo dài kỳ nghỉ thêm một tuần nữa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In the capital , Santiago , officials closed the international airport because of damage .</s>
+<s id='vn20'>Ở thủ đô , Santiago , các viên chức đã đóng sân bay quốc tế vì thiệt hại .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Argentina and other parts of South America also felt the earthquake .</s>
+<s id='vn21'>Argentina và các nơi khác vùng Nam Mỹ cũng bị ảnh hưởng trận động đất .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>While cell phone communication was knocked out by the quake , many people used social networking sites such as Twitter and Facebook to reach out to friends and loved ones .</s>
+<s id='vn22'>Trong khi mạng điện thoại di động bị cắt đứt bởi trận động đất , nhiều người sử dụng các trang mạng xã hội như là Twitter và Facebook để liên lạc với bạn bè và người thân .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The U.S. Geological Survey says an earthquake with a magnitude of 8 or more is classified as a " great " earthquake that can cause tremendous damage .</s>
+<s id='vn23'>Cơ quan khảo sát địa chất Hoa Kỳ nói trận động đất với cường độ 8 hay hơn 8 độ rích-te được xếp vào trận động đất " lớn " có thể gây ra thiệt hại vô cùng nặng nề .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The biggest earthquake ever recorded struck the same area of Chile in 1960 .</s>
+<s id='vn24'>Trận động đất lớn nhất từng được ghi lại đã làm rung chuyển cùng một khu vực trên ở Chile vào năm 1960 .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It had a magnitude of 9.5 and also set off a tsunami , which had devastating effects in Pacific countries including Japan and the Philippines , where at least 1,600 people were killed .</s>
+<s id='vn25'>Nó có độ lớn là 9.5 độ rích-te và cũng gây ra sóng thần , kéo theo những hậu quả thảm khốc ở các nước Thái Bình dương trong đó có Nhật Bản và Philippines , nơi có ít nhất 1,600 người đã bị chết .</s>
+</spair>
+</text>
+</doc>

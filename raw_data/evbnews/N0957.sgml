@@ -1,0 +1,144 @@
+﻿<doc id='N0957'>
+<head>
+<title>Enterprises Need Encryption to Secure Private Data</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Enterprises Need Encryption to Secure Private Data</s>
+<s id='vn1'>Doanh nghiệp Cần Mã hoá Để Bảo mật Dữ liệu Riêng tư</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Concerns about data breaches and privacy violations would spur enterprises to adopt encryption and use it effectively , according to security experts.</s>
+<s id='vn2'>Những mối lo ngại về xâm phạm dữ liệu và các hành vi phạm quyền riêng tư sẽ thúc đẩy các doanh nghiệp áp dụng mã hóa và sử dụng nó có hiệu quả , theo các chuyên gia an ninh .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Organizations are beginning to assume that the firewall has already been compromised and are relying on ubiquitous encryption to protect data across the enterprise , according to Jeff Hudson , CEO of Venafi .</s>
+<s id='vn3'>Các tổ chức đang bắt đầu đưa ra giả định rằng bức tường lửa của họ đã bị xâm nhập và dựa vào mã hóa toàn diện để bảo vệ toàn bộ dữ liệu doanh nghiệp , theo Jeff Hudson , giám đốc điều hành của Venafi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the past , security measures assumed that firewalls and other perimeter defenses were enough to keep the bad guys out .</s>
+<s id='vn4'>Trong quá khứ , các biện pháp bảo mật giả định rằng bức tường lửa và những biện pháp bảo vệ vòng ngoài khác đủ để ngăn chặn những kẻ xấu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Recent high-profile data breaches proved that attackers were able to still get into the network , and had free rein because the data was not protected at all , according to Hudson .</s>
+<s id='vn5'>Theo Hudson , gần đây các vụ xâm phạm dữ liệu nổi tiếng đã chứng minh rằng những kẻ tấn công vẫn có thể xâm nhập vào mạng và thoải mái kiểm soát bởi vì dữ liệu chưa bao giờ được bảo vệ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Venafi predicted that 2012 would be the " year of ubiquitous encryption . "</s>
+<s id='vn6'>Venafi dự đoán rằng năm 2012 sẽ là " năm của mã hóa toàn diện " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Along those lines , privacy rights organization Electronic Frontier Foundation recommended that users " commit " to full disk encryption on all their computers .</s>
+<s id='vn7'>Cùng những sự kiện , tổ chức quyền riêng tư Electronic Frontier Foundation – EFF khuyến cáo rằng người sử dụng " cam kết " để mã hóa toàn bộ đĩa cứng trên tất cả các máy tính của họ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Encrypting the entire drive would help secure private data , including business documents , Web-surfing history , information about other people and email communications , even if the computer is lost or stolen .</s>
+<s id='vn8'>Mã hóa toàn bộ ổ đĩa sẽ giúp bảo mật dữ liệu riêng tư bao gồm các tài liệu kinh doanh , lịch sử lướt web , thông tin về người khác , thông tin liên lạc email và thậm chí ngay cả khi máy tính bị mất hoặc bị đánh cắp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Seth Schoen , EFF 's staff technologist , wrote on the EFF blog Jan. 3 .</s>
+<s id='vn9'>Seth Schoen , chuyên gia công nghệ của EFF đã viết trên blog của EFF vào ngày 3/1 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Don't put off taking security steps that can help protect your private data .</s>
+<s id='vn10'>" Đừng trì hoãn thực hiện các biện pháp bảo mật mà có thể giúp bảo vệ dữ liệu cá nhân của bạn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Join EFF in resolving to encrypt your disks 2012 , " Schoen wrote , noting that there are several easy-to-use tools available , including Microsoft 's BitLocker or TrueCrypt .</s>
+<s id='vn11'>EFF tham gia vào việc giải quyết để mã hóa ổ đĩa của bạn trong năm 2012 " , Schoen đã viết và lưu ý rằng có một số công cụ có sẵn rất dễ sử dụng dữ bao gồm phần mềm BitLocker của Microsoft hoặc TrueCrypt .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Full disk encryption uses mathematical techniques to scramble data so it is unintelligible without the right key , according to Schoen .</s>
+<s id='vn12'>Mã hóa toàn bộ đĩa cứng sử dụng các kỹ thuật toán học để trộn dữ liệu , do đó nó không thể sử dụng được nếu không có khoá đúng , theo Schoen .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Without encryption , forensic software can easily be used to bypass an account password and read all the files on your computer , " he wrote .</s>
+<s id='vn13'>" Nếu không mã hóa , phần mềm tra dữ liệu có thể dễ dàng được sử dụng để vượt qua mật khẩu tài khoản và đọc tất cả các tập tin trên máy tính của bạn , " ông viết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Organizations need to make sure that all data , regardless of whether it is stored in-house or managed by a third-party provider , is protected by either encryption or tokenization , Ulf Mattsson , CTO of Protegrity , told eWEEK.</s>
+<s id='vn14'>Các tổ chức cần phải đảm bảo rằng tất cả mọi dữ liệu bất kể dù nó được lưu trữ nội bộ hoặc được quản lý bởi một nhà cung cấp bên thứ ba sẽ được bảo vệ bằng cách mã hóa hoặc mã nhận dạng , Ulf Mattsson Giám đốc Kỹ thuật của công ty Protegrity nói với eWeek .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Incorporating these data-security measures may add some complexity , but the protections would wind up saving the organization money in the event of a data breach , Mattsson said .</s>
+<s id='vn15'>Kết hợp các biện pháp bảo mật dữ liệu này có thể tạo ra nhiều phức tạp , tuy nhiên sự bảo vệ này sẽ tiết kiệm tiền bạc cho tổ chức trong trường hợp xâm phạm dữ liệu , Mattsson đã cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Taking the time to protect the data would expose the organization to less damage post-breach , he said .</s>
+<s id='vn16'>Việc dành thời gian để bảo vệ dữ liệu sẽ giảm đi thiệt hại cho các tổ chức trước các hình vi xâm phạm , ông nói .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In a recent survey of 500 IT professionals , more than a third admitted to losing USB drives and portable devices containing unencrypted personal and company data , iStorage found .</s>
+<s id='vn17'>Trong một cuộc khảo sát 500 chuyên gia CNTT gần đây của hãng iStorage cho thấy hơn 1/3 thừa nhận việc làm mất ổ đĩa USB và các thiết bị di động có chứa dữ liệu công ty và của cá nhân mà không được mã hóa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Over half said they transported data without encrypting it first , according to iStorage .</s>
+<s id='vn18'>Hơn một nửa nói rằng họ chuyển dữ liệu mà không cần mã hóa trước , theo iStorage .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Organizations that have adopted encryption still encounter problems because they are not following best practices for encryption key management , according to Hudson .</s>
+<s id='vn19'>Các tổ chức đã áp dụng mã hóa vẫn còn gặp nhiều vấn đề bởi vì họ không tuân thủ các biện pháp tối ưu cho việc quản lý khóa mã hóa , theo Hudson .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Organizations struggle to keep track of what keys are being used and who has access to them .</s>
+<s id='vn20'>Các tổ chức cố gắng theo dõi những khóa mà đang được sử dụng và ai truy cập chúng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Encryption would be a " defining issue " in the year ahead , he said .</s>
+<s id='vn21'>Mã hóa sẽ là một " vấn đề cần xác định " trong năm tới , ông nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>When employees leave , they may take the keys with them , leaving the organization unable to access the data .</s>
+<s id='vn22'>Có thể người nào nghỉ việc thì cũng mang khoá theo luôn , cho nên tổ chức không tài nào truy cập dữ liệu được .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Tim Matthews , senior director of product marketing at Symantec , told eWEEK.</s>
+<s id='vn23'>Tim Matthews , giám đốc tiếp thị sản phẩm cao cấp tại Symantec nói với eWeek .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>A recent Symantec study found that poor key management and lack of control over the technologies being used could cost the organization an average of $ 124,965 a year .</s>
+<s id='vn24'>Một nghiên cứu mới đây của hãng Symantec cho thấy rằng quản lý khóa lỏng lẻo và thiếu kiểm soát đối với các công nghệ đang được sử dụng có thể làm cho tổ chức mất đi một khoảng chi phí là 124.965 USD trung bình một năm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Cloud services will also need to start thinking about encryption as users start worrying about their personal data and enterprises try to protect the corporate data leaving their networks , according to Geoff Webb , director of product marketing at Credant Technologies .</s>
+<s id='vn25'>Dịch vụ điện toán đám mây cũng cần phải nghĩ tới việc mã hóa khi người sử dụng bắt đầu lo lắng về dữ liệu cá nhân của họ và doanh nghiệp cố gắng bảo vệ dữ liệu chung trên mạng của họ , theo Geoff Webb , Giám đốc tiếp thị sản phẩm tại công ty Credant Technologies .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Users have a " real desire " to take back control over the files they put in the cloud , Webb said .</s>
+<s id='vn26'>Người dùng có một " mong muốn thực sự " để lấy lại quyền kiểm soát trên các tập tin mà họ đặt trong các đám mây , Webb nói .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Storage and collaboration services will begin offering user-owned data-security and encryption options , according to Webb .</s>
+<s id='vn27'>Dịch vụ lưu trữ và cộng tác sẽ bắt đầu cung cấp các tùy chọn mã hóa và người dùng tự bảo mật dữ liệu của mình , theo Webb .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Salesforce.com acquired Navajo Systems in August to provide customers with data-encryption capabilities .</s>
+<s id='vn28'>Salesforce.com mua lại công ty Navajo Systems vào tháng 8 để đem lại cho khách hàng khả năng mã hóa dữ liệu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>After the European Union issued a mandate that security breaches involving unencrypted data need to be disclosed to local regulators , several large telecommunications companies started offering encryption services to minimize the risk of data exposure .</s>
+<s id='vn29'>Sau khi Liên Minh Châu Âu đã ban hành một sắc lệnh mà vi phạm an ninh liên quan đến dữ liệu không được mã hóa cần phải được trình bày cho các nhà quản lý địa phương , một số công ty viễn thông lớn bắt đầu cung cấp các dịch vụ mã hóa để giảm thiểu nguy cơ lộ dữ liệu .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>As industry regulations and laws evolve to address unencrypted data , organizations will find it necessary to encrypt the data from the get-go .</s>
+<s id='vn30'>Theo luật pháp và quy định của ngành công nghiệp để tiến hành giải quyết các dữ liệu không được mã hóa , các tổ chức sẽ thấy được những việc cần thiết để mã hóa dữ liệu từ ban đầu .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Jon Heimerl , director of strategic security for Solutionary , told eWEEK.</s>
+<s id='vn31'>Jon Heimerl , giám đốc an ninh chiến lược của Solutionary nói với eWeek .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The Health Information Technology for Economic and Clinical Health ( HITECH ) Act is a good example , as it states that if an organization loses health care data , as long as it can show that it protected the encryption key and took proper data security measures , it does not need to disclose the incident .</s>
+<s id='vn32'>Đạo luật HITECH là một ví dụ tốt nhất vì nó tuyên bố rằng nếu một tổ chức mất dữ liệu chăm sóc sức khỏe , miễn là họ có thể cho thấy rằng đã bảo vệ các khóa mã hóa và có các biện pháp bảo mật dữ liệu thích hợp thì không cần phải tiết lộ sự việc .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" You don't have to make this overcomplicated ; even hard drive encryption and database encryption can go a long way to protect your cool data , " Heimerl said .</s>
+<s id='vn33'>" Bạn chẳng cần phải làm điều này quá phức tạp lên , thậm chí mã hóa ổ cứng và mã hóa cơ sở dữ liệu có thể đi một chặng đường dài để bảo vệ dữ liệu quan trọng của bạn " , Heimerl nói .</s>
+</spair>
+</text>
+</doc>

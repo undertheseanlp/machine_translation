@@ -1,0 +1,192 @@
+﻿<doc id='N0233'>
+<head>
+<title>How to cook brown rice</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How to cook brown rice</s>
+<s id='vn1'>Cách nấu cơm gạo lức</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Many people have trouble cooking brown rice since it can be more temperamental than white rice .</s>
+<s id='vn2'>Nhiều người gặp khó khăn khi nấu cơm gạo lức vì gạo lức có thể khác thường nhiều hơn so với gạo trắng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>There are also many different ways to prepare it .</s>
+<s id='vn3'>Cũng có nhiều cách khác nhau để chuẩn bị nấu đấy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Here 's the most efficient way I found to cook brown rice on a stove .</s>
+<s id='vn4'>Đây là cách nấu cơm gạo lức bằng bếp lò mà tôi thấy là hiệu quả nhất .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It takes about 35 minutes from when you start to when you 're eating .</s>
+<s id='vn5'>Phải mất khoảng chừng 35 phút kể từ khi bắt đầu nấu đến lúc ăn được .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This method works for both short grain and long grain brown rice .</s>
+<s id='vn6'>Cách nấu này có hiệu quả đối với cả gạo lức hạt ngắn và dài .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I prefer long grain .</s>
+<s id='vn7'>Tôi thích hạt dài hơn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>I 've eaten hundreds of batches of brown rice using this method over the past 10 years .</s>
+<s id='vn8'>Tôi đã nấu ăn hàng trăm lần gạo lức theo phương pháp này hơn 10 năm nay rồi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Here are the instructions :</s>
+<s id='vn9'>Dưới đây là các bước hướng dẫn :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>1 . Put brown rice and water together in a pot with a lid .</s>
+<s id='vn10'>1 . Để gạo lức vào trong nồi có nắp đậy và đổ nước vào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Use the ratio of 1.5 cups of water to 1 cup of rice .</s>
+<s id='vn11'>Tính tỉ lệ 1.5 chén nước với 1 chén gạo .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>I normally make 3 cups of rice with 4.5 cups of water for a single batch .</s>
+<s id='vn12'>Tôi thường nấu một lần là 3 chén gạo với 4,5 chén nước .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>2 . Set the heat to maximum , and bring the rice water to a boil uncovered .</s>
+<s id='vn13'>2 . Bật bếp nóng tối đa , không đậy nắp và đun sôi gạo lên .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Then put the lid on the pot , and reduce the heat to low_simmer .</s>
+<s id='vn14'>Sau đó đậy nắp lại , và hạ nhiệt độ xuống cho cơm sôi .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>If your lid has a steam valve , keep it closed .</s>
+<s id='vn15'>Nếu nắp nồi có van hơi nước thì hãy bịt kín lại .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Let the rice simmer for 20 minutes .</s>
+<s id='vn16'>Để cho cơm sôi trong 20 phút .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>3 . Turn off the heat , and let the rice sit in the covered pot for another 10 minutes .</s>
+<s id='vn17'>3 . Hãy tắt bếp , và để yên gạo trong nồi đậy nắp thêm 10 phút nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>It 's OK if you let the rice sit longer than 10 minutes ( 20 or 30 minutes is fine too ) , but do n't let it go any less .</s>
+<s id='vn18'>Nếu bạn để hơn 10 phút ( 20 hay 30 phút ) cũng được nhưng đừng để ít hơn 10 phút .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I prefer my rice to be slightly chewy , not mushy , so I usually remove the lid after 10 minutes .</s>
+<s id='vn19'>Tôi thích ăn cơm gạo lức hơi cứng , không mềm xốp , vì vậy tôi thường bỏ nắp ra sau khoảng 10 phút .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>4 . Eat and enjoy .</s>
+<s id='vn20'>4 . Ăn và Thưởng thức .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Be careful when you remove the lid , since a lot of steam may escape when you do .</s>
+<s id='vn21'>Hãy cẩn thận khi bạn mở nắp , vì nhiều hơi nước có thể thoát ra khi bạn mở nắp .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This works for white rice too .</s>
+<s id='vn22'>Công đoạn này cũng áp dụng cho gạo trắng nữa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>After the rice is cooked , I normally scoop some into a bowl , and mix it with a little tamari and 1-2 tablespoons of sesame seeds .</s>
+<s id='vn23'>Sau khi cơm chín , tôi thường múc vào tô , và trộn thêm một ít nước xì dầu và 1-2 muỗng mè .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The sesame seeds add a lot of flavor to the rice .</s>
+<s id='vn24'>Mè làm cho gạo lức có thêm nhiều hương vị .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Sometimes I 'll eat it with steamed veggies and tempeh , both of which can be prepared while the rice is cooking .</s>
+<s id='vn25'>Thỉnh thoảng tôi cũng ăn cơm gạo lức với rau củ hấp và đậu nành lên men , có thể chuẩn bị cả hai thức ăn này trong lúc nấu cơm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I put the leftover rice in a plastic container in the refrigerator , which keeps well for several days .</s>
+<s id='vn26'>Tôi để phần cơm thừa vào hộp nhựa và cho vào tủ lạnh , có thể bảo quản tốt trong vài ngày .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Since I do n't use a microwave , I usually just eat the leftovers cold .</s>
+<s id='vn27'>Vì tôi không dùng lò vi-ba nên tôi thường chỉ ăn thức ăn thừa để lạnh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But when I 'm not in the mood for cold rice , here 's another tasty dish I make from the leftover rice :</s>
+<s id='vn28'>Nhưng khi tôi không thích ăn cơm nguội thì đây là một món ngon khác mà tôi có thể chế biến từ phần cơm còn thừa lại :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>1 . In a small pot , add 1 teaspoon of oil , and heat it for about 1 minute on medium heat .</s>
+<s id='vn29'>1 . Cho vào nồi nhỏ một muỗng dầu và đun nóng khoảng chừng 1 phút ở nhiệt độ vừa phải .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I prefer dark sesame oil because it adds a lot of flavor .</s>
+<s id='vn30'>Tôi thích dầu mè đen hơn vì nó bổ sung thêm nhiều hương vị thơm ngon .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Canola oil works well too .</s>
+<s id='vn31'>Dầu cải cũng ngon .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>2 . Add some chopped veggies to the pot , and sauté them in the oil for a few minutes .</s>
+<s id='vn32'>2 . Cho thêm một ít rau củ thái nhỏ vào nồi và xào sơ với dầu trong vài phút .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>My favorites are onions , green onions , and bell peppers ( any color ) .</s>
+<s id='vn33'>Tôi thích hành củ , hành ta , và ớt chuông ( màu nào cũng ngon ) .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>3 . Once the veggies are cooked , scoop in some of the leftover brown rice .</s>
+<s id='vn34'>3 . Khi rau củ chín , hãy đổ vào chung với một ít cơm gạo lức nguội .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>I like to use 2 parts of rice to 1 part of veggies .</s>
+<s id='vn35'>Tôi thích ăn 2 phần cơm với 1 phần rau củ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Mix it well with the veggies .</s>
+<s id='vn36'>Trộn đều lên nhé .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>4 . Reduce the heat slightly to medium - low , and cook the rice veggies for 3-4 minutes until the rice is hot , stirring about once every minute .</s>
+<s id='vn37'>4 . Giảm nhiệt độ nhè nhẹ đến độ trung bình - thấp và nấu hỗn hợp cơm và rau khoảng 3 đến 4 phút cho đến khi cơm nóng lên và đảo lên khoảng mỗi phút một lần .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>5 . Pour in a little tamari to taste , and mix it with the rice .</s>
+<s id='vn38'>5 . Nêm thêm một ít nước xì dầu nữa nhé , và trộn đều chúng lên .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Cook for another minute .</s>
+<s id='vn39'>Để thêm một phút nữa .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>6 . Turn off the heat .</s>
+<s id='vn40'>6 . Tắt bếp đi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Mix in 1-2 tablespoons sesame seeds .</s>
+<s id='vn41'>Trộn thêm 1-2 muỗng hạt mè nữa nhé .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>7 . Eat and enjoy .</s>
+<s id='vn42'>7 . Ăn và Thưởng thức .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I hope you find these recipes helpful .</s>
+<s id='vn43'>Hy vọng bạn thấy cách này có lợi cho mình .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Brown rice became a staple of my diet after I studied macrobiotics during the mid-90s , and I eat it almost every week .</s>
+<s id='vn44'>Gạo lức đã trở thành món ăn chính trong chế độ dinh dưỡng của tôi sau khi tôi nghiên cứu chế độ ăn chay trong khoảng thời gian giữa những năm 90 , và hầu như tuần nào tôi cũng ăn gạo lức .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>I find it a great food for endurance activities .</s>
+<s id='vn45'>Gạo lức là một món ăn rất tốt cho các hoạt động bền bỉ kiên trì .</s>
+</spair>
+</text>
+</doc>

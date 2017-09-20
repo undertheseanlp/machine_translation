@@ -1,0 +1,224 @@
+﻿<doc id='N0195'>
+<head>
+<title>Morning sickness</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Morning sickness</s>
+<s id='vn1'>Chứng ốm nghén</s>
+</spair>
+<spair id='2'>
+<s id='en2'>For many women , the toughest part of early pregnancy is morning sickness .</s>
+<s id='vn2'>Đối với nhiều phụ nữ , vấn đề khó chịu nhất vào đầu thai kỳ là ốm nghén .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>If you are suffering from nausea , vomiting , or both , you need safe measures that will bring you some relief .</s>
+<s id='vn3'>Nếu bạn đang khổ sở vì buồn nôn , ói , hoặc cả hai , thì bạn nên có những biện pháp an toàn để giải toả phần nào khó chịu đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Your best course of action for managing morning sickness is home treatment .</s>
+<s id='vn4'>Cách tốt nhất để chữa ốm nghén là chữa tại nhà .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>By following a few proven guidelines , you are likely to gain significant relief from nausea and vomiting .</s>
+<s id='vn5'>Hãy làm theo một số chỉ dẫn đã được thử nghiệm dưới đây có thể bạn sẽ giảm đáng kể chứng buồn nôn và ói đấy .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Home treatment measures for morning sickness include :</s>
+<s id='vn6'>Các biện pháp chữa ốm nghén tại nhà bao gồm :</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Changing what , when , and how much you eat .</s>
+<s id='vn7'>Thay đổi thức ăn , thời gian ăn , và lượng thức ăn của bạn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Taking ginger , vitamin B6 , or vitamin B12 , which are known to reduce nausea and_or vomiting during pregnancy .</s>
+<s id='vn8'>Gừng , vi-ta-min B6 , hoặc vi-ta-min B12 có tiếng là để giảm triệu chứng buồn nôn và hoặc ói trong suốt thai kỳ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Avoiding foods and smells that make you feel sick .</s>
+<s id='vn9'>Tránh các loại thức ăn và hương vị làm bạn cảm thấy buồn nôn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Trying acupressure , which seems to work for some women .</s>
+<s id='vn10'>Thử xoa bấm huyệt xem , cách này có vẻ tốt đối với nhiều phụ nữ đấy .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Taking doxylamine with vitamin B6 , which you can buy without a prescription .</s>
+<s id='vn11'>Uống doxylamine với vi-ta-min B6 , bạn có thể mua mà không cần đơn thuốc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Talk to your doctor before taking this remedy .</s>
+<s id='vn12'>Nên thông báo cho bác sĩ của bạn biết trước khi bạn dùng biện pháp này nhé .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If you have severe , persistent nausea and vomiting , see your doctor or nurse-midwife immediately .</s>
+<s id='vn13'>Nếu bạn bị buồn nôn hay ói dữ dội thì nên đến khám bác sĩ hay bà mụ ngay lập tức .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This uncommon complication of pregnancy can lead to dehydration and malnutrition , sometimes requiring prescribed medicine or hospitalization .</s>
+<s id='vn14'>Biến chứng bất thường này của thai kỳ có thể làm cho bạn bị mất nước và thiếu dinh dưỡng , đôi khi bạn phải cần được kê toa uống thuốc hay phải nhập viện nữa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>What is morning sickness ?</s>
+<s id='vn15'>Ốm nghén là gì ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Morning sickness can range from mild , occasional nausea to severe , continuous , disabling nausea with bouts of vomiting .</s>
+<s id='vn16'>Chứng ốm nghén có thể xếp loại từ nhẹ , thỉnh thoảng nôn ói đến từng cơn nôn mửa liên tục và làm cho kiệt sức .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Symptoms may be worse in the morning , though they can strike at any time of the day or night .</s>
+<s id='vn17'>Các triệu chứng này có thể khó chịu hơn vào buổi sáng dẫu rằng chúng có thể khiến bạn ói vào bất cứ lúc nào trong ngày hoặc cả đêm nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Although its cause is poorly understood , morning sickness has been linked to increasing estrogen levels , along with other hormone changes during early pregnancy .</s>
+<s id='vn18'>Mặc dù người ta vẫn còn chưa hiểu rõ về nguyên nhân của nó nhưng nó có liên quan đến việc tăng lượng hooc-môn estrogen , cùng với những thay đổi của các hooc-môn khác trong suốt giai đoạn đầu của thai kỳ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The first signs of morning sickness usually develop during the month following the first missed menstrual period , when hormone levels increase .</s>
+<s id='vn19'>Những dấu hiệu ban đầu của chứng ốm nghén thường phát triển trong tháng kế tiếp khi bạn bị mất kinh lần đầu , và là lúc lượng hooc-môn tăng lên .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Women carrying twins or more have more pronounced hormone increases and tend to have more severe morning sickness .</s>
+<s id='vn20'>Phụ nữ sinh đôi hay nhiều hơn có lượng hooc-môn tăng nhiều hơn và có khuynh hướng bị ốm nghén nhiều hơn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>There is no way of predicting how long your morning sickness will last , even if you have suffered through it before .</s>
+<s id='vn21'>Không thể nào dự đoán được là bạn sẽ bị ốm nghén trong bao lâu , dù là bạn đã bị ốm nghén trước rồi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Nausea and vomiting usually go away by 12 to 14 weeks of pregnancy .</s>
+<s id='vn22'>Chứng buồn nôn và ói thường biến mất sau 12 đến 14 tuần của thai kỳ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But in some cases , morning sickness can last well into a pregnancy .</s>
+<s id='vn23'>Song nhiều trường hợp thì chứng ốm nghén này có thể kéo dài hoài trong quá trình mang thai .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Why use home treatment for morning sickness ?</s>
+<s id='vn24'>Tại sao chữa chứng ốm nghén tại nhà ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Morning sickness begins during the first trimester , when the fetus is vulnerable to developing birth defects .</s>
+<s id='vn25'>Chứng ốm nghén bắt đầu trong suốt ba tháng đầu tiên , khi mà bào thai rất dễ bị tổn thương khiến dị tật bẩm sinh .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So during the first trimester , use home treatment to treat nausea and vomiting unless your doctor recommends medicine to treat your symptoms .</s>
+<s id='vn26'>Thế nên trong suốt thời gian này , hãy dùng các biện pháp chữa buồn nôn và ói tại nhà nếu bác sĩ của bạn không cho thuốc để trị các triệu chứng này .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If you have severe , persistent nausea and vomiting that is causing dehydration or weight loss , your doctor can prescribe a medicine for you that is not known to cause fetal problems .</s>
+<s id='vn27'>Nếu bạn buồn nôn và ói dữ dội khiến bạn bị mất nước hoặc sụt cân thì bác sĩ có thể kê toa cho bạn mà không gây hại gì đến thai nhi của bạn cả .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>How can I manage morning sickness at home ?</s>
+<s id='vn28'>Làm thế nào để tôi có thể trị chứng ốm nghén tại nhà ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The following are safe , proven treatments for morning sickness .</s>
+<s id='vn29'>Các biện pháp dưới đây rất an toàn và đã được thử nghiệm để chữa chứng ốm nghén .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Still , few women gain complete relief from morning sickness treatment .</s>
+<s id='vn30'>Tuy thế , rất ít phụ nữ thoát khỏi chứng ốm nghén hoàn toàn được .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Taking ginger or doxylamine is most likely to effectively curb nausea and vomiting .</s>
+<s id='vn31'>Củ gừng hoặc thuốc doxylamine có thể trị được buồn nôn và ói hiệu quả nhất .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Certain anti-histamines like doxylamine or dimenhydrinate , taken as your doctor's advise , may relieve morning sickness .</s>
+<s id='vn32'>Vài thứ thuốc kháng histamin như doxylamine hoặc dimenhydrinate , dùng theo chỉ định của bác sĩ , có thể làm giảm chứng ốm nghén .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If one of these antihistamines alone does not relieve your morning sickness , you can try taking it with vitamin B6 .</s>
+<s id='vn33'>Nếu chỉ dùng riêng lẻ một trong những thứ thuốc kháng histamin không giảm được ốm nghén thì bạn có thể dùng thêm vi-ta-min B6 .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Ginger , taken regularly as a powder in a capsule , grated fresh into hot water , can significantly relieve morning sickness after a few days of treatment .</s>
+<s id='vn34'>Uống đều đặn thuốc gừng dưới dạng bột trong viên nang , cạo gừng tươi cho vào nước nóng có thể giúp giảm ốm nghén đáng kể sau vài ngày chữa trị .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Vitamin B6 and B12 , taken regularly as your doctor's advise , can reduce nausea and vomiting .</s>
+<s id='vn35'>Uống B6 và B12 thường xuyên theo chỉ định của bác sĩ có thể làm giảm ốm nghén .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Acupressure , firmly placed on the P6 point ( the inner side of your arm , in line with your middle finger and one-sixth of the way between your wrist and elbow ) , relieves nausea for some women .</s>
+<s id='vn36'>Xoa bấm huyệt , giữ chặt huyệt điểm P6 ( phía bên trong cánh tay của bạn , nằm trên đường thẳng với ngón giữa và cách 1 6 giữa cổ tay và khuỷu tay của bạn ) , sẽ giúp giảm buồn nôn cho nhiều phụ nữ đấy .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Follow these guidelines for minimizing nausea and vomiting during pregnancy .</s>
+<s id='vn37'>Hãy làm theo các chỉ dẫn này để có thể giảm thiểu các triệu chứng buồn nôn và ói trong suốt thai kỳ của bạn .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Keep food in your stomach but not too much .</s>
+<s id='vn38'>Đừng ăn no quá .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>An empty stomach can make nausea worse .</s>
+<s id='vn39'>Bụng đói thì chứng nôn ói có thể sẽ dữ dội hơn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Eat several small meals every day instead of three large meals .</s>
+<s id='vn40'>Hãy ăn nhiều bữa nhỏ trong ngày thay vì ăn ba bữa lớn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>For morning nausea , eat a small snack ( like crackers ) before you get out of bed .</s>
+<s id='vn41'>Đối với chứng buồn nôn vào buổi sáng thì bạn nên ăn nhẹ ( như bánh quy giòn ) trước khi ra khỏi giường .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Allow a few minutes for the snack to digest , then get out of bed slowly .</s>
+<s id='vn42'>Đợi vài phút để thức ăn có thể tiêu hóa xong thì hãy ra khỏi giường chầm chậm thôi .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Stay hydrated .</s>
+<s id='vn43'>Bổ sung nước cho cơ thể .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Drink a lot of fluids .</s>
+<s id='vn44'>Uống nhiều nước .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Try a hydration drink , as well as water , broth , or juice .</s>
+<s id='vn45'>Thử dùng thức uống bổ sung nước cũng như nước , canh , hoặc nước ép trái cây .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Eat more protein , and cut your fatty food intake .</s>
+<s id='vn46'>Nên ăn nhiều đạm , và hạn chế thức ăn có nhiều chất béo .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Avoid smells and foods that make you feel nauseated .</s>
+<s id='vn47'>Tránh các mùi và thực phẩm làm bạn buồn nôn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Citrus juice , milk , coffee , and caffeinated tea commonly make nausea worse .</s>
+<s id='vn48'>Nước cam quýt ép , sữa , cà phê , và trà có chứa cà-phê-in thường làm cho cơn buồn nôn tệ hại hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Avoid iron supplements , which can make nausea worse .</s>
+<s id='vn49'>Tránh bổ sung thêm chất sắt , vốn có thể làm cho bạn buồn nôn hơn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>These are n't necessary during the first trimester .</s>
+<s id='vn50'>Trong ba tháng đầu tiên , những thứ này chưa cần thiết .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Get lots of rest .</s>
+<s id='vn51'>Nên nghỉ ngơi nhiều .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Stress and fatigue can make morning sickness worse .</s>
+<s id='vn52'>Tình trạng căng thẳng và mệt mỏi có thể làm chứng ốm nghén tệ hại hơn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Contact your doctor immediately if you vomit more than 3 times a day especially if you also have pain , fever , or both .</s>
+<s id='vn53'>nếu bạn bị ói hơn 3 lần mỗi ngày đặc biệt là nếu bạn bị đau , sốt , hoặc cả hai thì hãy liên hệ với bác sĩ ngay lập tức .</s>
+</spair>
+</text>
+</doc>

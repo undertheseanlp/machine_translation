@@ -1,0 +1,268 @@
+﻿<doc id='N0786'>
+<head>
+<title>5 Economic Concepts Consumers Need To Know</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Economic Concepts Consumers Need To Know</s>
+<s id='vn1'>5 khái niệm kinh tế học người tiêu dùng cần biết</s>
+</spair>
+<spair id='2'>
+<s id='en2'>An understanding of economics isn't seen to be as vital as , say , balancing a household budget or learning to drive a car .</s>
+<s id='vn2'>Hiểu biết về kinh tế học không được coi là thiết thực bằng , ví dụ , cân đối ngân quỹ trong gia đình hay học lái xe .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>However , economics has an impact on every moment of our lives because , at its heart , it is a study of choices and why and how we make them .</s>
+<s id='vn3'>Tuy nhiên , kinh tế học có ảnh hưởng đến từng giây phút trong cuộc sống chúng ta vì , trọng tâm của nó , là một ngành nghiên cứu về những lựa chọn và tại sao chúng ta lựa chọn cũng như lựa chọn như thế nào .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In this article , we 'll look at some basic economic concepts that everyone should understand .</s>
+<s id='vn4'>Trong bài này , chúng ta sẽ tìm hiểu một số khái niệm kinh tế học cơ bản mà mọi người nên biết .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Scarcity</s>
+<s id='vn5'>Khan hiếm</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You implicitly understand scarcity , whether you are aware of it or not .</s>
+<s id='vn6'>Bạn hoàn toàn hiểu sự khan hiếm là gì , dù bạn có cảm nhận nó rõ ràng hay không .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It is the most basic concept in economics , and is more of a solid fact than any abstraction .</s>
+<s id='vn7'>Đó là khái niệm cơ bản nhất trong kinh tế học , và là một bằng chứng chắc chắn hơn hẳn mọi khái niệm trừu tượng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Simply put , the world has limited means to meet unlimited wants , so there is always a choice to be made .</s>
+<s id='vn8'>Nói ngắn gọn , thế giới có số của cải giới hạn để đáp ứng các nhu cầu vô hạn , vì vậy mà phải luôn chọn lựa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>For example , there is only so much wheat grown every year .</s>
+<s id='vn9'>Ví dụ , chỉ có nhiêu đó lúa mì được trồng mỗi năm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Some people want bread ; some people want cereal ; some people want beer , and so on .</s>
+<s id='vn10'>Người này muốn bánh mì ; người kia muốn món ngũ cốc ; người khác lại muốn bia , và vân vân .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Only so much of any one product can made because of the scarcity of wheat .</s>
+<s id='vn11'>Chỉ có bấy nhiêu sản phẩm được sản xuất vì sự khan hiếm lúa mì .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>How do we decide how much flour should be made for bread ?</s>
+<s id='vn12'>Nên dùng bao nhiêu bột làm bánh mỳ , chúng ta quyết định như thế nào ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Or , more importantly , how much beer to make ?</s>
+<s id='vn13'>Hay quan trọng hơn , làm bao nhiêu bia ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>One answer is a market system .</s>
+<s id='vn14'>Một câu trả lời là một hệ thống thị trường .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Supply and Demand</s>
+<s id='vn15'>Cung và cầu</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The market system is driven by supply and demand .</s>
+<s id='vn16'>Cung và cầu điều khiển hệ thống thị trường .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Take beer again .</s>
+<s id='vn17'>Tiếp tục lấy bia làm ví dụ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Let 's say people want more beer , meaning the demand for beer is high .</s>
+<s id='vn18'>Hãy giả sử mọi người muốn nhiều bia , nghĩa là nhu cầu về bia cao .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This demand means you can charge more for beer , so you can make more money on average by changing wheat into beer than grounding that same wheat into flour .</s>
+<s id='vn19'>Nhu cầu này tức là có thể tính tiền bia nhiều hơn , nên bạn có thể kiếm nhiều tiền hơn mức bình quân nhờ việc chuyển lúa mì thành bia so với việc lấy cũng số lúa mì đó đem sản xuất bột .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>More people start making beer and , after a few production cycles , there is so much beer on the market that prices plummet .</s>
+<s id='vn20'>Bắt đầu ngày càng nhiều người sản xuất bia hơn và , sau một vài chu kỳ sản xuất , có nhiều bia trên thị trường đến nỗi giá bia tụt xuống .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Meanwhile , the price of flour has been increasing as the supply shrinks , so more producers buy up wheat for the purpose of making flour - and on , and on .</s>
+<s id='vn21'>Trong khi đó giá bột đã tăng vì nguồn cung rút ngắn lại , nên ngày càng nhiều nhà sản xuất mua lúa mì để làm bột - và cứ tiếp tục , tiếp tục như vậy , ... .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This extreme and simplified example does encapsulate the wonderful balancing act that is supply and demand .</s>
+<s id='vn22'>Ví dụ được đơn giản hoá và mang tính cực đoan này chứa đựng hành động cân bằng kỳ diệu là cung và cầu .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The market is generally much more responsive in real life , and true supply shocks are rare - at least ones caused by the market are rare .</s>
+<s id='vn23'>Trên thực tế , thị trường thường dễ dàng có phản ứng hơn rất nhiều , những cú sốc về cầu thực sự - ít nhất cũng là những cú sốc do thị trường khan hiếm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>On a basic level , supply and demand helps explain why last year 's hit product is half the price the following year .</s>
+<s id='vn24'>Ở mức độ cơ bản , cung và cầu giúp giải thích vì sao sản phẩm bán chạy của năm trước chỉ còn nửa giá trong năm tiếp theo .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Costs and Benefit</s>
+<s id='vn25'>Chi phí và lợi ích</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The concept of costs and benefits encompass a large area of economics that has to do with rational expectations and rational choices .</s>
+<s id='vn26'>Khái niệm chi phí và lợi ích bao hàm một phạm vi rộng lớn trong kinh tế học liên quan đến những kỳ vọng hợp lý và những lựa chọn sáng suốt .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In any situation , people are likely to make the choice that has the most benefit to them , with the least cost , or , put another way , the choice that provides more in benefits than it costs .</s>
+<s id='vn27'>Trong bất kỳ hoàn cảnh nào , người ta dường như đều chọn lựa sao cho có lợi nhiều nhất cho mình , với chi phí thấp nhất , hoặc nói cách khác , chọn lựa sao cho lợi ích nhiều hơn chi phí .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Going back to beer , the breweries of the world will hire more employees to make more beer , only if the price of beer and the sales volume justifies the additional costs to the payroll and the materials needed to brew more .</s>
+<s id='vn28'>Quay trở lại với ví dụ về bia , các nhà máy bia của thế giới sẽ thuê mướn nhiều công nhân hơn để làm ra nhiều bia hơn , chỉ khi giá bia và doanh số bán hàng tương ứng các chi phí bổ sung trả lương và nguyên vật liệu cần thiết để chế bia nhiều hơn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Similarly , the consumer will buy the best beer he or she can afford , not , perhaps , the best tasting beer in the store .</s>
+<s id='vn29'>Tương tự , khách hàng sẽ mua bia tốt nhất mà họ có thể có đủ khả năng mua được , không phải , dĩ nhiên , loại bia có hương vị tốt nhất trong cửa hàng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>This extends far beyond financial transactions .</s>
+<s id='vn30'>Điều này áp dụng vượt ra khỏi phạm vi các giao dịch tài chính .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>University students perform cost benefit analysis on a daily basis , by focusing on certain courses that they believe will be more important for them , while cutting the time spent studying or even attending courses that they see as less necessary .</s>
+<s id='vn31'>Sinh viên đại học tiến hành phân tích chi phí lợi ích hàng ngày , bằng việc tập trung vào những khoá học nhất định mà họ nghĩ rằng sẽ quan trọng hơn với mình , trong khi cắt bớt thời gian nghiên cứu hay thậm chí không tham dự những khoá học mà họ thấy ít cần thiết .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Of course , everyone knows someone who has seemingly made a poor life choice .</s>
+<s id='vn32'>Tất nhiên , mọi người đều biết kẻ mà hình như đã lựa chọn cuộc sống thiếu thốn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Although people are generally rational , there are many , many factors that can throw our internal accountant out the window .</s>
+<s id='vn33'>Mặc dù nói chung ai cũng sáng suốt , nhưng có nhiều , nhiều yếu tố có thể khiến chúng ta đánh mất con người khắt khe của mình .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Advertising is one that everyone is familiar with .</s>
+<s id='vn34'>Quảng cáo là thứ rất phổ biến .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Commercials tweak emotional centers of our brain and do other clever tricks to fool us into overestimating the benefits of a given item .</s>
+<s id='vn35'>Các quảng cáo điều chỉnh những trung tâm cảm xúc trong não chúng ta và thực hiện những mánh khoé khôn khéo khác để đánh lừa chúng ta vào việc đánh giá quá mức lợi ích của những món hàng được quảng cáo .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Some of these same techniques are used quite adeptly by the lottery , showing a couple sailing a yacht and enjoying a carefree life .</s>
+<s id='vn36'>Một số kỹ xảo tương tự được sử dụng khá điêu luyện bằng hoạt động xổ số , họ chiếu cảnh một đôi nam nữ trên du thuyền tận hưởng cuộc sống thảnh thơi .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>This image and its emotional message ( " this could be you " ) overwhelm the rational part of your brain that can run the very , very long odds of actually winning .</s>
+<s id='vn37'>Hình ảnh này và thông điệp cảm xúc của nó ( " bạn có thể có giây phút như vậy " ) lấn át phần sáng suốt trong não bạn trong khoảng thời gian rất , rất dài , lấn át hoài và cuối cùng giành phần thắng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Cost and benefits may not rule your mind all the time , but they are in charge more than you think - especially when it comes to the next concept .</s>
+<s id='vn38'>Chi phí và lợi ích có thể không phải lúc nào cũng chi phối suy nghĩ của bạn , nhưng chúng có nhiều vai trò quan trọng hơn bạn tưởng - nhất là khi chúng ta đề cập đến khái niệm tiếp theo .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Everything Is in the Incentives</s>
+<s id='vn39'>Mọi hành vi đều có động cơ thúc đẩy</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Incentives are part of costs and benefits and rational expectations , but they are so important that they are worth further examination .</s>
+<s id='vn40'>Những động cơ thúc đẩy là một phần của chi phí và lợi ích cũng như các kỳ vọng hợp lý , nhưng chúng quan trọng đến mức cần phải xem xét kỹ hơn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Incentives make the world go round , and sometimes go wrong .</s>
+<s id='vn41'>Các động cơ thúc đẩy mọi thứ hoạt động , và đôi khi hoạt động sai .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If you are a parent , a boss , a teacher or anyone with the responsibility of oversight , and things are going horribly awry , the chances are very good that your incentives are out of alignment with what you want to achieve .</s>
+<s id='vn42'>Nếu bạn là cha mẹ , ông chủ , thầy giáo , hay bất kỳ ai có trách nhiệm giám sát , và mọi thứ đang diễn ra không theo ý muốn , rất có thể là các động cơ từ bạn không còn liên quan mật thiết đến những gì bạn muốn đạt được .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We 'll take a safe example , however , of - you guessed it - a brewery .</s>
+<s id='vn43'>Chúng tôi sẽ đưa ra một ví dụ chắc chắn , tuy nhiên , bạn có thể đã đoán được , đó là ví dụ về một nhà máy bia .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>This particular brewery has two sizes of bottle : one 500ml bottle and a 1L bottle for couples .</s>
+<s id='vn44'>Nhà máy bia đặc biệt này có hai cỡ chai : Một loại chai 500 ml và một loại chai 1 lít dành cho hai người uống .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The owner wants to increase production , so he offers a bonus to the shift that produces the most bottles of beer in a day .</s>
+<s id='vn45'>Chủ nhà máy muốn tăng sản lượng , nên ông ta thưởng cho việc làm tăng số lượng chai nhiều nhất trong một ngày .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Within a couple days , he sees production numbers shoot up from 10,000 bottles a day to 15,000 .</s>
+<s id='vn46'>Nội chỉ vài ngày , ông thấy sản lượng tăng vọt từ 10 000 chai lên đến 15000 chai một ngày .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>However , he is soon deluged with calls from suppliers wondering when the shipments of the 1L bottles are going to come .</s>
+<s id='vn47'>Nhưng , ông nhanh chóng nhận được rất nhiều cuộc gọi từ các nhà cung cấp thắc mắc khi nào thì hàng chở những chai 1 lít sẽ đến .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The problem , of course , is that his incentive focused on the wrong thing - the number of the bottles rather than the volume of beer - and made it " beneficial " for the competing shifts to cheat by only using the smaller bottles .</s>
+<s id='vn48'>Vấn đề ở đây , dĩ nhiên là sự khuyến khích của ông dồn vào không đúng chỗ - số lượng chai bia chứ không phải khối lượng bia - và làm " lợi " cho việc thi đua chuyển sang gian lận bằng cách chỉ sử dụng những chai nhỏ hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>When incentives are aligned with organizational goals , however , the benefits can be exceptional .</s>
+<s id='vn49'>Thế nhưng , khi những khích lệ tương xứng với những mục tiêu của tổ chức , thì lợi ích có thể khác thường .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Some incentives have been proven so effective that they are common practice at many firms , such as profit sharing , performance bonuses and employee shareholding .</s>
+<s id='vn50'>Một số hình thức động viên đã được thực hiện hiệu quả đến mức chúng được rất nhiều doanh nghiệp áp dụng , chẳng hạn chia sẻ lợi nhuận , thưởng theo năng suất và cho công nhân viên nắm giữ cổ phần .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>However , even these incentives can turn disastrous if the criteria for the incentives falls out of alignment with the original goal .</s>
+<s id='vn51'>Tuy vậy , những hình thức này vẫn có thể biến thành tai họa nếu các tiêu chuẩn để được tưởng thưởng không tương thích với mục tiêu ban đầu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Poorly structured performance bonuses , for example , have driven many a CEO to take temporary measures to juice the financial results enough to get the bonus - measures that often turn out to be detrimental in the longer term .</s>
+<s id='vn52'>Chẳng hạn , những hình thức thưởng năng suất được tổ chức vụng về đã thôi thúc một giám đốc điều hành chọn những biện pháp tức thời để ép cho ra các kết quả tài chính đủ để nhận tiền thưởng - những biện pháp mà về lâu dài hoá ra thường là có hại .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Putting It All Together</s>
+<s id='vn53'>Đặt tất cả các yếu tố trong một tổng thể</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Scarcity is the overarching theme of all economics .</s>
+<s id='vn54'>Khan hiếm là chủ đề bao quát toàn bộ kinh tế học .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It sounds negative , and it is one of the reasons economics is referred to as the dismal science , but it simply means that choices have to be made .</s>
+<s id='vn55'>Nó có vẻ tiêu cực , và đó là một trong những lý do người ta gọi kinh tế học là khoa học ảm đạm , nhưng nó chỉ đơn giản là những chọn lựa phải được thực hiện .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>These choices are decided by the costs and benefits that impact the choice , leading to a dynamic market system where choices are played out through supply and demand .</s>
+<s id='vn56'>Những chọn lựa này do các lợi ích và chi phí quyết định , nó tác động đến chọn lựa , dẫn đến một hệ thống thị trường năng động mà các chọn lựa diễn ra thông qua cung và cầu .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>On a personal level , scarcity means that we have to make choices based on the incentives we are given and the cost and benefits of different courses of action .</s>
+<s id='vn57'>Về phương diện cá nhân , sự khan hiếm nghĩa là chúng ta phải lựa chọn dựa trên những động lực là những sự khích lệ từ người khác dành cho và chi phí và lợi ích của những phương hướng hành động khác .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>This is a very broad look at what is , believe it or not , a very compelling subject .</s>
+<s id='vn58'>Đây là một cái nhìn rất bao quát về một đề tài rất hấp dẫn , tin hay không tuỳ bạn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>These concepts feed into others , like comparative advantage , entrepreneurial spirit , marginal benefit and so on .</s>
+<s id='vn59'>Những khái niệm này góp phần làm phong phú các khái niệm khác , chẳng hạn lợi thế so sánh , tinh thần nhà doanh nghiệp , lợi ích biên và vân vân .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>The world is wide with choices , so the field of economics is wide with theories , laws and concepts that explore those choices .</s>
+<s id='vn60'>Thế giới bao la có muôn vàn chọn lựa , vì vậy phạm vi của kinh tế học cũng rộng lớn với vô số các học thuyết , quy luật và khái niệm tìm hiểu các chọn lựa ấy .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Conclusion</s>
+<s id='vn61'>Kết luận</s>
+</spair>
+<spair id='62'>
+<s id='en62'>These concepts aren't powerful laws that force human interactions into preset patterns .</s>
+<s id='vn62'>Những khái niệm này không phải những quy luật có sức mạnh mà bắt các tương tác giữa con người với nhau phải vào những khuôn mẫu đã định .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Rather , they are a recognition of the patterns that emerge from hundreds , thousands , millions and billions of individuals making choices with the information they are given .</s>
+<s id='vn63'>Đúng hơn , chúng là sự nhận thức về những khuôn mẫu xuất hiện từ việc hàng trăm , hàng ngàn , hàng triệu và hàng tỷ cá nhân lựa chọn với những thông tin họ có được .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>While knowing these concepts may not allow you to fundamentally change the world , it will help explain a lot .</s>
+<s id='vn64'>Trong khi sự hiểu biết về những khái niệm này có thể không giúp bạn thay đổi toàn bộ thế giới được , nhưng nó sẽ giúp giải thích được rất nhiều thứ .</s>
+</spair>
+</text>
+</doc>

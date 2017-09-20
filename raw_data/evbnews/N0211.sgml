@@ -1,0 +1,240 @@
+﻿<doc id='N0211'>
+<head>
+<title>10 Things You Didn't Know About You</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>10 Things You Didn't Know About You</s>
+<s id='vn1'>10 điều bạn không biết về chính bản thân mình</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Your Stomach Secretes Corrosive Acid</s>
+<s id='vn2'>Dạ dày của bạn tiết ra a-xít ăn mòn</s>
+</spair>
+<spair id='3'>
+<s id='en3'>There 's one dangerous liquid no airport security can confiscate from you : It 's in your gut .</s>
+<s id='vn3'>Có một chất lỏng nguy hiểm mà không an ninh sân bay nào có thể tịch thu từ bạn : Nó ở trong ruột của bạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>stomach cells secrete hydrochloric acid , a corrosive compound used to treat metals in the industrial .</s>
+<s id='vn4'>Tế bào dạ dày tiết ra a-xít clo-hi-đrích , một hợp chất ăn mòn thường hay được dùng để xử lý kim loại trong công nghiệp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It can pickle steel , but mucous lining the stomach wall keeps this poisonous liquid safely in the digestive system .</s>
+<s id='vn5'>Nó có thể ăn mòn thép , nhưng chất lót trong thành dạ dày giữ chất lỏng độc hại này một cách an toàn trong hệ tiêu hóa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Body Position Affects Your Memory</s>
+<s id='vn6'>Tư thế cơ thể ảnh hưởng đến trí nhớ của bạn</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Can't remember your anniversary , hubby ?</s>
+<s id='vn7'>Không thể nhớ ngày kỷ niệm của bạn , ông xã ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Try getting down on one knee .</s>
+<s id='vn8'>Hãy thử quỳ trên 1 đầu gối .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Memories are highly embodied in our senses .</s>
+<s id='vn9'>Trí nhớ biểu hiện rất nhiều trong tri giác của chúng ta .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>A scent or sound may evoke a distant episode from one 's childhood .</s>
+<s id='vn10'>Mùi hương hay âm thanh có thể gợi lên một sự kiện xa xôi từ thời thơ ấu của một người .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The connections can be obvious ( a bicycle bell makes you remember your old paper route ) or inscrutable .</s>
+<s id='vn11'>Những mối quan hệ có thể thấy rõ ( tiếng chuông xe đạp làm bạn nhớ đến lộ trình giao báo cũ của mình ) hoặc không rõ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A recent study helps decipher some of this embodiment .</s>
+<s id='vn12'>Nghiên cứu gần đây giúp giải mã một số mối quan hệ này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>An article in the January 2007 issue of Cognition reports that episodes from your past are remembered faster and better while in a body position similar to the pose struck during the event .</s>
+<s id='vn13'>Một bài nghiên cứu trong số tháng giêng 2007 của tờ Cognition cho rằng các sự kiện trong quá khứ của bạn được nhớ đến nhanh hơn và tốt hơn trong khi ở tư thế cơ thể giống với tư thế khi sự kiện đó xảy ra .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Bones Break to Balance Minerals</s>
+<s id='vn14'>Xương gãy để cân bằng các chất khoáng</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In addition to supporting the bag of organs and muscles that is our body , bones help regulate our calcium levels .</s>
+<s id='vn15'>Ngoài việc hỗ trợ cho túi của các cơ quan và các cơ của cơ thể , xương giúp kiểm soát mức chất vôi của chúng ta .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Bones contain both phosphorus and calcium , the latter of which is needed by muscles and nerves .</s>
+<s id='vn16'>Xương chứa cả phốt-pho và can-xi , chất cần thiết cho cơ và dây thần kinh .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>If this element is in short supply , certain hormones will cause bones to break down for upping calcium levels in the body until the appropriate extracellular concentration is reached .</s>
+<s id='vn17'>Nếu nguyên tố này thiếu , các hoóc-môn nhất định sẽ làm xương gãy để làm tăng mức chất vôi trong cơ thể cho đến khi nồng độ ngoài tế bào thích hợp được đạt đến .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Much of a Meal is Food For Thought</s>
+<s id='vn18'>Phần lớn dinh dưỡng của bữa ăn là dành cho trí óc</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Though it makes up only 2 percent of our total body weight , the brain demands 20 percent of the body 's oxygen and calories .</s>
+<s id='vn19'>Mặc dù chỉ tạo nên 2% trọng lượng toàn bộ của cơ thể chúng ta , não cần đến 20% lượng khí oxy và calo của cơ thể .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>To keep our noggin well-stocked with resources , three major cerebral arteries are constantly pumping in oxygen .</s>
+<s id='vn20'>Để giữ cho đầu óc chúng ta tích trữ tốt các tài nguyên , ba động mạch não chính thường xuyên được bơm khí oxy .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A blockage or break in one of them starves brain cells of the energy they require to function , impairing the functions controlled by that region .</s>
+<s id='vn21'>Tắt nghẽn hoặc vỡ một trong số chúng làm các tế bào não bị thiếu trầm trọng năng lượng mà chúng cần để thực hiện chức năng , làm suy yếu các chức năng được kiểm soát bởi vùng đó .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This is a stroke .</s>
+<s id='vn22'>Đây chính là đột quỵ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Thousands of Eggs Unused by Ovaries</s>
+<s id='vn23'>Hàng ngàn trứng không được buồng trứng dùng đến</s>
+</spair>
+<spair id='24'>
+<s id='en24'>When a woman reaches her late 40s or early 50s , the monthly menstrual cycle that controls her hormone levels and readies ova for insemination ceases .</s>
+<s id='vn24'>Khi một phụ nữ đến độ tuổi hơn 40 hoặc gần 50 , chu kỳ kinh nguyệt hàng tháng kiểm soát mức hoóc-môn và chuẩn bị sẵn sàng cho noãn thụ tinh ngừng lại .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Her ovaries have been producing less and less estrogen , inciting physical and emotional changes across her body .</s>
+<s id='vn25'>Buồng trứng của người phụ nữ ngày càng tạo ra ít hoóc-môn động dục nữ , tạo nên các thay đổi trong tình cảm và thể chất .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Her underdeveloped egg follicles begin to fail to release ova as regularly as before .</s>
+<s id='vn26'>Các nang trứng chưa phát triển bắt đầu không phóng thích noãn đều đặn như trước đây .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The average adolescent girl has 34,000 underdeveloped egg follicles , although only 350 or so mature during her life ( at the rate of about one per month ) .</s>
+<s id='vn27'>Trung bình một cô gái trẻ có 34,000 nang trứng chưa phát triển , mặc dù chỉ cỡ 350 nang trứng chín trong suốt cuộc đời của người nữ ( với tỷ lệ là 1 nang trứng mỗi tháng ) .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The unused egg follicles then deteriorate .</s>
+<s id='vn28'>Những nang trứng không được dùng đến sau đó sẽ thoái hoá .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>With no potential pregnancy on the horizon , the brain can stop managing the release of ova .</s>
+<s id='vn29'>Vì không có khả năng thụ thai xảy ra , não có thể ngưng điều khiển sự phóng thích noãn .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Puberty Reshapes Brain Structure , Makes for Missed Curfews</s>
+<s id='vn30'>Tuổi dậy thì phục hồi cơ cấu thần kinh , gây ra chuyện không tuân thủ quy định</s>
+</spair>
+<spair id='31'>
+<s id='en31'>We know that hormone-fueled changes in the body are necessary to encourage growth and ready the body for reproduction .</s>
+<s id='vn31'>Chúng ta biết là các thay đổi do hoóc-môn cung cấp năng lượng trong cơ thể cần thiết để khuyến khích sự sinh trưởng và chuẩn bị sẵn sàng cho sự sinh sản của cơ thể .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>But why is adolescence so emotionally unpleasant ?</s>
+<s id='vn32'>Nhưng tại sao người thành niên rất hay khó chịu về mặt tinh thần ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Hormones like testosterone actually influence the development of neurons in the brain , and the changes made to brain structure have many behavioral consequences .</s>
+<s id='vn33'>Các hoóc-môn như hoóc-môn sinh dục nam thực sự ảnh hưởng đến sự phát triển của các nơron trong não , và các thay đổi trong cấu trúc não có nhiều hệ quả đến hành vi .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Expect emotional awkwardness , apathy and poor decision-making skills as regions in the frontal cortex mature .</s>
+<s id='vn34'>Mong rằng các khó khăn thuộc xúc cảm , sự thờ ơ và kỹ năng ra quyết định kém sẽ mất khi các vùng trong vỏ trán não trưởng thành .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Cell Hairs Move Mucus</s>
+<s id='vn35'>Tế bào lông làm di chuyển dịch nhầy</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Most cells in our bodies sport hair-like organelles called cilia that help out with a variety of functions , from digestion to hearing .</s>
+<s id='vn36'>Hầu hết các tế bào trong cơ thể của chúng ta mà biến dị thành các cơ quan tế bào giống như tóc được gọi là lông thực hiện rất nhiều dạng chức năng , từ tiêu hoá đến thính giác .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In the nose , cilia help to drain mucus from the nasal cavity down to the throat .</s>
+<s id='vn37'>Trong mũi , lông giúp làm giảm dịch nhầy từ khoang mũi xuống họng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Cold weather slows down the draining process , causing a mucus backup that can leave you with snotty sleeves .</s>
+<s id='vn38'>Thời tiết lạnh làm chậm lại quy trình dẫn lưu , gây ra ứ dịch nhầy có thể làm cho bạn bị chảy nước mũi .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Swollen nasal membranes or condensation can also cause a stuffed schnozzle .</s>
+<s id='vn39'>Màng mũi bị sưng phồng hoặc hóa đặc cũng có thể gây ra nghẹt mũi .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Big Brains Cause Cramped Mouths</s>
+<s id='vn40'>Não lớn gây ra chuột rút miệng</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Evolution isn't perfect .</s>
+<s id='vn41'>Sự tiến hóa là không hoàn hảo .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If it were , we might have wings instead of wisdom teeth .</s>
+<s id='vn42'>Nếu nó hoàn hảo , chúng ta đã có thể có cánh thay vì răng khôn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Sometimes useless features stick around in a species simply because they're not doing much harm .</s>
+<s id='vn43'>Đôi khi những đặc điểm vô dụng lại tồn tại trong loài đơn giản chỉ vì các đặc điểm đó không gây hại gì nhiều .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>But wisdom teeth weren't always a cash crop for oral surgeons .</s>
+<s id='vn44'>Nhưng răng khôn không phải lúc nào cũng làm lợi cho các bác sĩ phẫu thuật nha khoa .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Long ago , they served as a useful third set of molars .</s>
+<s id='vn45'>Cách đây đã lâu , răng đóng vai trò là một bộ phận hữu ích thứ ba trong bộ răng hàm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>But as our brains grew our jawbone structure changed , leaving us with expensively overcrowded mouths .</s>
+<s id='vn46'>Nhưng khi não của chúng ta phát triển thì cấu trúc xương hàm cũng thay đổi , làm cho miệng trở nên quá chật chội .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The World Laughs with You</s>
+<s id='vn47'>Thế giới cùng cười với bạn</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Just as watching someone yawn can induce the behavior in yourself , recent evidence suggests that laughter is a social cue for mimicry .</s>
+<s id='vn48'>Chỉ nhìn một ai đó ngáp cũng có thể làm bạn bị ngáp lây , bằng chứng gần đây gợi ý rằng tiếng cười cũng tạo nên hiệu ứng bắt chước như vậy .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Hearing a laugh actually stimulates the brain region associated with facial movements .</s>
+<s id='vn49'>Nghe một tiếng cười thực sự kích thích vùng não liên quan đến chuyển động mặt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Mimicry plays an important role in social interaction .</s>
+<s id='vn50'>Sự bắt chước đóng một vai trò quan trọng trong tương tác xã hội .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Cues like sneezing , laughing , crying and yawning may be ways of creating strong social bonds within a group .</s>
+<s id='vn51'>Những tín hiệu như là hắt hơi , cười , tiếng kêu và ngáp có thể là cách tạo liên kết xã hội mạnh trong một nhóm .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Your Skin Has Four Colors</s>
+<s id='vn52'>Da của bạn có bốn màu</s>
+</spair>
+<spair id='53'>
+<s id='en53'>All skin , without coloring , would appear creamy white .</s>
+<s id='vn53'>Tất cả da , khi không có màu , sẽ có vẻ ngoài trắng mịn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Near-surface blood vessels add a blush of red .</s>
+<s id='vn54'>Các mạch máu gần bề mặt thêm vào sắc đỏ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>A yellow pigment also tints the canvas .</s>
+<s id='vn55'>Sắc tố vàng cũng nhuộm màu cho da .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Lastly , sepia-toned melanin , created in response to ultraviolet rays , appears black in large amounts .</s>
+<s id='vn56'>Sau cùng , mê-la-nin có màu nâu đỏ , được tạo ra để phản ứng lại tia tử ngoại , xuất hiện thành màu đen với lượng lớn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>These four hues mix in different proportions to create the skin colors of all the peoples of Earth .</s>
+<s id='vn57'>Bốn màu này pha trộn với nhau ở các mức độ khác nhau để tạo nên màu da của tất cả mọi người trên trái đất .</s>
+</spair>
+</text>
+</doc>

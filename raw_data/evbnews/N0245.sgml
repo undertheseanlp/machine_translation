@@ -1,0 +1,144 @@
+﻿<doc id='N0245'>
+<head>
+<title>Untrustworthy guy ? It 's in his face</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Untrustworthy guy ?</s>
+<s id='vn1'>Một anh chàng không đáng tin cậy ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's in his face</s>
+<s id='vn2'>Điều đó thể hiện ngay trên mặt anh ta</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Study : Broad-faced men more likely to take the cash and run</s>
+<s id='vn3'>Nghiên cứu : Đàn ông có khuôn mặt lớn có nhiều khả năng ôm tiền bạc và chạy hơn</s>
+</spair>
+<spair id='4'>
+<s id='en4'>By Robin Nixon</s>
+<s id='vn4'>Viết : Robin Nixon</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Is he trustworthy ?</s>
+<s id='vn5'>Anh ta có đáng tin cậy không ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Forget what the songs say about his kiss , and check out the breadth of his cheek bones .</s>
+<s id='vn6'>Quên đi những bài hát nói về nụ hôn của chàng , mà hãy kiểm tra chiều rộng xương gò má của anh ta đấy .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Men with wider faces are not only perceived as untrustworthy , they may deserve the reputation , according to a new study published in the journal Psychological Science .</s>
+<s id='vn7'>Theo một nghiên cứu vừa công bố trong tạp chí Khoa học tâm lý , nam giới có khuôn mặt rộng không chỉ bị nhận thấy là không đáng tin , mà họ còn có thể nổi danh là vậy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In a computerized game , broad-faced men were more likely to exploit others for personal monetary gain , explained lead researcher Michael Stirrat of the University of St. Andrews in Scotland .</s>
+<s id='vn8'>Trong một trò chơi vi tính hoá , những người đàn ông có gương mặt rộng thường hay lợi dụng người khác vì lợi ích kinh tế cá nhân , theo giải thích của nhà nghiên cứu trưởng Michael Stirrat thuộc Đại học St. Andrews ở Xcốt-len .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>And other players expected this behavior .</s>
+<s id='vn9'>Và những người tham dự khác cũng có hành vi này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The study did not address female trustworthiness .</s>
+<s id='vn10'>Nghiên cứu không đề cập đến sự đáng tin cậy của phụ nữ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A growing body of science is showing that facial configuration - placement of the eyes , width of the cheekbones and so on - provides clues to a person 's personality , including likelihood to be extroverted , conscientious and , now , trustworthy .</s>
+<s id='vn11'>Một ngành khoa học đang phát triển cho thấy hình dạng khuôn mặt - vị trí mắt , chiều rộng xương gò má và v.v… - cung cấp bằng chứng về nhân cách của một người , bao gồm có tính hướng ngoại , chu đáo và bây giờ là đáng tin cậy hay không .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>While this analysis is not unfailing , it works slightly more often than not .</s>
+<s id='vn12'>Mặc dù phân tích này không hoàn toàn chắc chắn , nhưng có còn hơn không .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The trust game</s>
+<s id='vn13'>Trò chơi lòng tin</s>
+</spair>
+<spair id='14'>
+<s id='en14'>During the study , a participant was shown an expressionless photo of a fellow player 's face at the start of each game .</s>
+<s id='vn14'>Trong suốt cuộc nghiên cứu , một người tham dự được cho xem một bức hình nét mặt không biểu cảm của một người bạn cùng chơi vào lúc bắt đầu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The participant then had to decide whether to take an immediate pay-off or entrust the money to the person in the snapshot - who , in turn , could decide to either , cooperate and help both players make more money , or take the cash and run .</s>
+<s id='vn15'>Người này sau đó phải quyết định có nên lấy tiền tức thì hay không hoặc giao tiền cho người trong bức ảnh - người cùng chơi này cũng sẽ lần lượt quyết định hoặc hợp tác và giúp cả hai cùng kiếm được nhiều tiền hơn , hoặc lấy tiền và trốn mất .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Participants were more likely to entrust money to people with narrower faces , a characteristic measured by dividing the face width by the distance between the upper lip and upper eyelid .</s>
+<s id='vn16'>Những người tham gia thường hay giao tiền cho những người có khuôn mặt hẹp hơn , một đặc điểm được đo bằng cách chia chiều rộng khuôn mặt cho khoảng cách giữa môi trên và mí mắt trên .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Photos of all participants were analyzed when the games were completed , allowing researchers to see a correlation between slim faces and actual trustworthy behavior .</s>
+<s id='vn17'>Hình của tất cả người tham dự được phân tích khi trò chơi hoàn tất , cho phép các nhà nghiên cứu xem xét mối tương quan giữa khuôn mặt thon gọn và hành vi đáng tin cậy trên thực tế .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>In another experiment using digitally manipulated photographs , people chose between wide and narrow versions of the same face .</s>
+<s id='vn18'>Trong một thí nghiệm khác sử dụng ảnh chụp được xử lý kỹ thuật số , những người tham gia chọn giữa những kiểu hẹp và rộng của cùng một khuôn mặt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Out of 285 participants , 165 said the narrower faces looked more worthy of trust .</s>
+<s id='vn19'>Trong số 285 người tham dự , 165 người đã cho rằng khuôn mặt hẹp hơn trông đáng tin hơn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" The effect is not huge , but there is a significant bias for trusting narrow male faces , " Stirrat said .</s>
+<s id='vn20'>" Ảnh hưởng không to lớn , nhưng có khuynh hướng thiên vị đáng kể cho đàn ông có khuôn mặt nhỏ , " Stirrat nói .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" And we are biased in the right direction . "</s>
+<s id='vn21'>" Và chúng tôi thiên về khuynh hướng đúng . "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Testosterone and wider faces</s>
+<s id='vn22'>Kích thích tố sinh dục nam và khuôn mặt rộng hơn</s>
+</spair>
+<spair id='23'>
+<s id='en23'>While wide-faced men were more exploitive in this study 's context , "</s>
+<s id='vn23'>Trong khi đàn ông có khuôn mặt rộng thường tư lợi hơn trong bối cảnh của nghiên cứu này , "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" It is difficult to generalize to real life ," Stirrat said .</s>
+<s id='vn24'>" Thật khó để khái quát hoá điều đó với đời thực " , Stirrat nói .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Other experiments have shown that men with wider faces tend to be more aggressive - broad-faced hockey players spend more time in the penalty box , for example - and are perhaps more dominant .</s>
+<s id='vn25'>Các thí nghiệm khác cho thấy nam giới với khuôn mặt to hơn có xu hướng hung hăng hơn - ví dụ như những cầu thủ khúc côn cầu có mặt rộng dành nhiều thời gian hơn trong vùng cấm địa - và có lẽ chiếm ưu thế hơn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>They are also more likely to use aggression for altruistic means by , say , attempting to punish people who steal or break other social rules .</s>
+<s id='vn26'>Họ cũng có nhiều khả năng thích gây hấn hơn là hoà nhã , chẳng hạn như , cố gắng trừng phạt những kẻ cắp hay làm sai luật lệ xã hội .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Here 's how the researchers figure the link between facial width and trustworthiness might work : During male adolescence , a surge in testosterone prompts bone growth not only in the spine and limbs , but also in the face .</s>
+<s id='vn27'>Đây là cách các nhà khoa học tìm ra mối liên kết giữa chiều rộng của mặt và sự đáng tin cậy có thể xảy ra : Trong nam thanh niên , một đột biến về kích thích tố sinh dục nam không chỉ thúc đẩy xương tăng trưởng ở cột sống và các chi , mà còn ở khuôn mặt .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Therefore , a wide face may be a sign of an overall bigger man , one who can get away with being more aggressive and less cooperative .</s>
+<s id='vn28'>Do đó , khuôn mặt rộng có thể là dấu hiệu của một người vênh váo hơn về tổng thể , có thể hung hăng và ít hợp tác hơn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Slighter men might act in a more civilized and trustworthy way .</s>
+<s id='vn29'>Nam giới với khuôn mặt nhỏ hơn có thể hành động một cách văn minh và đáng tin cậy hơn .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Narrowness is only one aspect of an honest face .</s>
+<s id='vn30'>Sự thon gọn chỉ là một khía cạnh của một khuôn mặt trung thực .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>We are also more likely to judge someone as trustworthy - rightly or wrongly - if they have faces that are attractive , babyish , similar in appearance to our own kin , or exhibit good health .</s>
+<s id='vn31'>Chúng ta cũng hay đánh giá ai đó là đáng tin cậy - dù đúng hay sai - nếu họ có khuôn mặt hấp dẫn , như trẻ thơ , tương tự vẻ của làn da chúng ta , hoặc cho thấy khoẻ tốt .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It makes good evolutionary sense for people to trust their own families and those who exhibit superior genes ; even if they are let down , the survival of their own genes is maximized .</s>
+<s id='vn32'>Cũng dễ hiểu khi mọi người thường tin tưởng người trong gia đình của mình và cả những người có gien giỏi hơn ; dù là họ bị bỏ rơi , thì vẫn có khả năng cao nhất cho sự tồn tại của gien của họ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In most cases , it pays to be trusting , Stirrat said , because people who feel trusted are more likely to behave in a trustworthy way .</s>
+<s id='vn33'>Trong hầu hết các trường hợp , sẽ đáng công sức khi tin tưởng một ai đó , Stirrat nói , vì những người cảm thấy mình được tin tưởng thường sẽ cư xử một cách đáng tin cậy hơn .</s>
+</spair>
+</text>
+</doc>

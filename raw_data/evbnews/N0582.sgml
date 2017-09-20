@@ -1,0 +1,100 @@
+﻿<doc id='N0582'>
+<head>
+<title>Google Refines Image Search , Revises Google Labs</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google Refines Image Search , Revises Google Labs</s>
+<s id='vn1'>Google Cải tiến Tìm Kiếm hình ảnh , Nâng cấp Google Labs</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Google introduces a number of new features such as Similar Images , a graphical Google Timeline News and some tweaks to the Google Website Labs .</s>
+<s id='vn2'>Google giới thiệu một số tính năng tìm kiếm mới như Similar Images , một Google Timeline News dạng đồ hoạ và một số tiện ích tối ưu từ trang Web Google Labs .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The search engine giant has continued to roll out new products and features as part of its core offerings in a bid to retain users and make certain features , such as Gmail , more robust applications for the enterprise .</s>
+<s id='vn3'>Công cụ tìm kiếm của gã khổng lồ đã tiếp tục đưa ra các tính năng và nhiều sản phẩm mới như là một phần của các dịch vụ cốt lõi của họ trong việc giữ chân người dùng và tạo các tính năng đáng tin cậy chẳng hạn như Gmail , nhiều ứng dụng mạnh mẽ cho doanh nghiệp .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Google announced two new Google Labs features on its blog April 20 : Similar Images and the Google News Timeline .</s>
+<s id='vn4'>Google đã công bố hai tính năng mới của Google Labs trên blog của họ vào ngày 20 tháng Tư : là Similar Images và Google News Timeline .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Google 's Similar Images site can be found here .</s>
+<s id='vn5'>Trang Similar Images của Google có thể được tìm thấy tại đây .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When a query is typed in a search bar , Google feeds the user a variety of images associated with the term .</s>
+<s id='vn6'>Khi một truy vấn được nhập trong thanh tìm kiếm , Google sẽ cung cấp cho người dùng một loạt các hình ảnh có liên quan đến thuật ngữ cần tìm .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>For example , typing in the term " jaguar " will produce images of both the jungle cat and the luxury vehicle .</s>
+<s id='vn7'>Ví dụ , khi tìm từ " jaguar " nó sẽ xuất hiện những hình ảnh của cả những chú báo và xe hơi sang trọng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Click on the " Similar Images " link beneath one of the images of a Jaguar car , and the user will receive images of similar vehicles - other_models of Jaguars , or similar sports cars .</s>
+<s id='vn8'>Nhấp chuột vào đường dẫn " Similar Images " bên dưới một trong các hình ảnh của xe hơi Jaguar , và người dùng sẽ nhận các hình ảnh của các chiếc xe tương tự - các mẫu khác của Jaguar hoặc các xe hơi thể thao tương tự .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The tool theoretically allows researchers to refine a query , search quickly for more useful images or else find images of objects they don't quite know the word for .</s>
+<s id='vn9'>Về mặc lý thuyết công cụ này cho phép các nhà nghiên cưu tinh lọc một truy vấn , tìm kiếm một cách nhanh chóng để đưa ra nhiều hình ảnh hữu ích hoặc nếu không tìm được ảnh của đối tượng thì tức là chúng hoàn toàn không biết chữ đã tìm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Using visual similarity , you don't have to refine the text of your search ; instead , you can just click on the link of an image you like , " said the Google corporate blog post .</s>
+<s id='vn10'>" Sử dụng sự tương đồng trực quan , bạn không phải tinh chỉnh đoạn văn tìm kiếm ; thay vào đó bạn có thể chỉ cần nhấp vào liên kết của một hình ảnh mà bạn thích " Google đã phát biểu trong blog của họ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In addition to Similar Images , Google announced Google News Timeline , which will organize Google News information chronologically along a " zoomable " graphical timeline .</s>
+<s id='vn11'>Ngoài Similar Images ra , Google còn giới thiệu thêm Google News Timeline , nó sẽ tổ chức thông tin Google News theo thứ tự thời gian cùng với một dòng thời gian đồ hoạ " có thể phóng to " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This timeline integrates a number of different sources , including new and archived news , blog posts , and media such as music and movies .</s>
+<s id='vn12'>Dòng thời gian này tích hợp một số lượng các nguồn khác nhau bao gồm tin tức mới và tin tức đã lưu , các bài đăng trên blog , và các phương tiện truyền thông như âm nhạc và phim ảnh .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Google Labs now has a new address , an RSS feed and an " iGoogle gadget " designed to provide up-to-date news .</s>
+<s id='vn13'>Google Labs hiện nay đã có một địa chỉ mới một trình đọc tin nhanh RSS và một " iGoogle gadget " được thiết kế để hỗ trợ cập nhật tin tức .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The company said it intends to have more features engineers commenting on the site about Google products .</s>
+<s id='vn14'>Hãng đã nói rằng họ dự định tạo ra nhiều cỗ máy tính năng bằng cách dẫn giải trên trang web về các sản phẩm Google .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Google has rolled out a number of granular innovations to its various applications over the past few months .</s>
+<s id='vn15'>Google đã đưa ra nhiều nét đổi mới trong từng chi tiết cho các ứng dụng khác nhau trong vài tháng trước đây .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>On March 30 , the Google announced that Gmail Labs would be available in 49 languages .</s>
+<s id='vn16'>Vào ngày 30 tháng 3 , Google đã giới thiệu rằng Gmail Labs sẽ có 49 ngôn ngữ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Launched in June 2008 , Labs allows users to enable a number of experimental features for Gmail , including YouTube previews .</s>
+<s id='vn17'>Được khai trương vào tháng 6 năm 2008 , Labs cho phép người dùng có thể kích hoạt một số tính năng chuyên nghiệp cho Gmail bằng việc bao gồm xem trước các clip Youtube .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Other new features have included offline Gmail and Google Calendar access , designed to make the application more robust in competition with e-mail offerings from Microsoft , Yahoo Zimbra and others .</s>
+<s id='vn18'>Các tính năng mới khác gồm có truy cập Gmail và Google Calendar ngoại tuyến , được thiết kế để tạo ứng dụng mạnh mẽ hơn trong cuộc cạnh tranh với các dịch vụ e-mail từ Microsoft , Yahoo Zimbra và các dịch vụ khác .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In addition , Gmail now comes with an integrated " unsend " feature that allows users 5 seconds to repeal a message , similar to Microsoft Outlook 's " Recall " button .</s>
+<s id='vn19'>Ngoài ra Gmail giờ đây đã có một tính năng " unsend " được tích hợp để cho phép người dùng hủy bỏ thông điệp trong vòng 5 giây , nó giống với nút " Recall " của Microsoft Outlook .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>However , Google 's attempts to deepen its offerings are not always greeted with fanfare .</s>
+<s id='vn20'>Tuy nhiên , nỗ lực tăng cường của Google đưa ra đối với các dịch vụ của họ không phải lúc nào cũng ầm ĩ và phô trương .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The company 's attempts to expand Google View Street , a feature of Google Maps that allows users to see a particular location from the ground , has met resistance from residents not anxious to have their environs displayed for the world to see .</s>
+<s id='vn21'>Nỗ lực của hãng để mở rộng Google View Street , một tính năng của Google Maps mà cho phép người dùng thấy được một vị trí cụ thể từ mặt đất , gặp phải sự trở ngại từ phía các khu dân cư không đồng tình để vùng sinh sống của họ hiển thị lên cho cả thế giới xem .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>For example , on April 1 , a group of English villagers formed a human chain to turn back a car shooting images for Street View .</s>
+<s id='vn22'>Ví dụ vào ngày 1 tháng Tư một nhóm dân làng người Anh tạo thành một hàng người để đẩy lùi một chiếc xe đi chụp hình cho Street View .</s>
+</spair>
+</text>
+</doc>

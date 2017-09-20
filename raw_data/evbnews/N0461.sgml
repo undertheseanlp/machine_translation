@@ -1,0 +1,488 @@
+﻿<doc id='N0461'>
+<head>
+<title>Telling your parents you 're pregnant</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Telling your parents you 're pregnant</s>
+<s id='vn1'>Thông báo cho bố mẹ biết là bạn có thai</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's been 3 days since she got the results , but Tina still ca n't believe her pregnancy test came out positive .</s>
+<s id='vn2'>Biết được kết quả đã 3 ngày rồi nhưng Tina vẫn không tài nào tin là kết quả thử thai của mình dương tính .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She ca n't get it off her mind .</s>
+<s id='vn3'>Tina không thể không nghĩ đến việc đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It feels like her whole life has changed .</s>
+<s id='vn4'>Hầu như lúc nào nó cũng ám ảnh cô .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>She knows she has to tell her parents .</s>
+<s id='vn5'>Cô biết là mình phải nói cho bố mẹ biết .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But she 's not sure she 's prepared for how they might react .</s>
+<s id='vn6'>Nhưng không chắc là mình đã chuẩn bị tâm lý để đối phó với phản ứng của bố mẹ chưa .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Confused ? You 're not alone</s>
+<s id='vn7'>Hoang mang ư ? Không phải riêng một mình bạn</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If you 've just learned you 're pregnant , you might feel confused , scared , or shocked by the news .</s>
+<s id='vn8'>Nếu vừa mới biết là mình có thai , bạn có thể sẽ cảm thấy rất hoang mang , sợ sệt , hoặc bị sốc nữa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>You might think , " This ca n't really be happening . "</s>
+<s id='vn9'>Bạn nghĩ là " Chuyện này thực sự không tài nào xảy ra được . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>You promise yourself you 'll be so much more careful in the future .</s>
+<s id='vn10'>Bạn tự trấn an mình là sau này sẽ cẩn thận hơn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>And you know you 'll probably have to tell your parents .</s>
+<s id='vn11'>Và bạn biết là có lẽ bạn sẽ phải nói cho bố mẹ mình biết .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Preparing to talk to parents</s>
+<s id='vn12'>Chuẩn bị tâm lý để nói chuyện với bố mẹ</s>
+</spair>
+<spair id='13'>
+<s id='en13'>No matter how close you are to your parents , you 're going to wonder how they 'll react .</s>
+<s id='vn13'>Dẫu cho bạn có thân thiết với bố mẹ đến đâu đi chăng nữa thì bạn cũng sẽ phân vân không biết là bố mẹ sẽ phản ứng như thế nào .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It 's one thing if your parents realize you 're having sex and they 're OK with that .</s>
+<s id='vn14'>Nếu họ biết là bạn đang có quan hệ tình dục và cho phép chuyện đó là một chuyện .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But it 's another thing if they 've forbidden you to date or if having premarital sex is completely against their values and beliefs .</s>
+<s id='vn15'>Nhưng nếu bố mẹ cấm không cho bạn hẹn hò nữa hoặc nếu hành vi quan hệ tình dục trước hôn nhân là điều hoàn toàn trái ngược với các tiêu chuẩn đạo đức và niềm tin của họ thì quả đây lại là một chuyện khác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Most parents fall somewhere in the middle .</s>
+<s id='vn16'>Hầu hết các bố mẹ đều cảm thấy hoang mang .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For example , some parents have pretty liberal values but they 're still shocked to learn their teen had sex .</s>
+<s id='vn17'>Chẳng hạn như , một số người hơi thoáng về khái niệm tự do nhưng vẫn bị sốc khi biết con mình đã quan hệ tình dục lúc còn tuổi thanh thiếu niên .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Even parents who know their teens are having sex can still be disappointed or worried about their future .</s>
+<s id='vn18'>Thậm chí là có những người biết con mình quan hệ tình dục vẫn có thể cảm thấy thất vọng hoặc lo lắng cho tương lai của con .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Your parents 's personalities also play a part in how they 'll react .</s>
+<s id='vn19'>Tính cách của bố mẹ bạn cũng cho biết phần nào cách phản ứng của họ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Some parents are easy to talk to or calmer in a crisis .</s>
+<s id='vn20'>Một số rất dễ nói chuyện và tỏ ra bình tĩnh hơn trong cơn khủng hoảng đó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Some are more emotional , more easily stressed out , more likely to get upset or angry , to yell or cry , or express themselves loudly .</s>
+<s id='vn21'>Một số xúc động hơn , dễ bị căng thẳng hơn , dễ tức giận hay khó chịu hơn , la lối , khóc lóc hoặc quát tháo ầm ĩ lên .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Most parents want to be supportive of a daughter who is pregnant ( or a son who got a girl pregnant ) , even if they are angry or upset at first .</s>
+<s id='vn22'>Hầu như bố mẹ nào cũng muốn cảm thông với đứa con gái đang mang thai của mình ( hoặc với con trai có người yêu đang mang thai ) , dù là lúc đầu họ có giận dữ hay khó chịu .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But a few may react violently to the news and let anger get out of control .</s>
+<s id='vn23'>Nhưng cũng có một số người có thể phản ứng một cách dữ dội khi biết được tin này và không kiềm chế nổi cơn giận của mình .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If you think your parents might fall into this category - for example , if they have a history of physical violence - read the section on " Protecting Yourself " at the end of this article .</s>
+<s id='vn24'>Nếu bạn nghĩ là bố mẹ mình thuộc nhóm người này - chẳng hạn như nếu họ đã từng bạo hành thể xác - thì bạn nên đọc kỹ phần " Tự bảo vệ mình " ở cuối bài này nhé .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Some parents do n't show how they feel at first .</s>
+<s id='vn25'>Một số bố mẹ ban đầu cũng không biểu hiện thái độ gì .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>They may take time to absorb the news .</s>
+<s id='vn26'>Họ có lẽ cần thêm thời gian để tiếp thu việc đó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Others react quickly and there 's no mistaking how they feel .</s>
+<s id='vn27'>Một số khác phản ứng một cách lẹ làng và cảm thấy điều mình nghĩ là không nhầm .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Some will listen and be sensitive to your feelings .</s>
+<s id='vn28'>Một số sẽ lắng nghe bạn và thông cảm với bạn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some parents will spring into action , taking charge and telling you what to do .</s>
+<s id='vn29'>Một số bố mẹ sẽ hành động ngay , quản lý bạn và cho bạn biết phải làm những gì .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Think about how your parents have reacted to other situations .</s>
+<s id='vn30'>Nên nhớ lại thái độ mà bố mẹ bạn đã từng phản ứng với các tình huống khác .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Try to imagine how they might respond - but remember it 's impossible to really know for sure .</s>
+<s id='vn31'>Hãy cố hình dung xem cách họ có thể phản ứng - nhưng nên nhớ là không thể hoàn toàn biết chắc chắn điều này .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Still , thinking about what to expect can help you feel prepared for the conversation you plan to have .</s>
+<s id='vn32'>Tuy thế , hành động suy nghĩ này có thể làm cho bạn cảm thấy sẵn sàng cho cuộc nói chuyện mà bạn đã chuẩn bị .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The conversation</s>
+<s id='vn33'>Đối thoại</s>
+</spair>
+<spair id='34'>
+<s id='en34'>First , find the words .</s>
+<s id='vn34'>Trước tiên , bạn nên tìm lời nào để nói .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>You might say , " I have something difficult to tell you .</s>
+<s id='vn35'>Bạn có thể nói " Con có chuyện khó nói với bố mẹ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>I found out that I 'm pregnant . "</s>
+<s id='vn36'>Con phát hiện ra là con đã có thai rồi . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Then wait .</s>
+<s id='vn37'>Sau đó bạn hãy chờ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Allow your parents to absorb what you said .</s>
+<s id='vn38'>Hãy để bố mẹ tiếp thu điều bạn vừa nói .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Be prepared to deal with the reaction .</s>
+<s id='vn39'>Nên chuẩn bị tâm lý để đối phó với thái độ phản ứng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>What happens next ?</s>
+<s id='vn40'>Chuyện gì sẽ xảy ra sau đó ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Will your parents be angry , stressed , or emotional ?</s>
+<s id='vn41'>Liệu bố mẹ bạn sẽ tức giận lên , bị căng thẳng , hay xúc động ?</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Will they lecture you ?</s>
+<s id='vn42'>Liệu họ sẽ lên lớp quở mắng bạn ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Use harsh words ?</s>
+<s id='vn43'>Xỉ vả bạn ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Ask a ton of questions ?</s>
+<s id='vn44'>Chất vấn bạn bằng rất nhiều câu hỏi ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It 's good to think ahead about what you might do and how you may feel .</s>
+<s id='vn45'>Bạn nên nghĩ trước việc mình có thể làm và tâm trạng của mình ra sao .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>For instance , if a parent yells , you 'll want to be prepared so you can keep the conversation productive and resist any urge to yell back .</s>
+<s id='vn46'>Chẳng hạn như , nếu bố mẹ la hét lên thì bạn cần phải chuẩn bị tâm lý sẵn để có thể giữ cho cuộc nói chuyện có hiệu quả và nhịn đừng la lối lại .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Of course , not every parent yells .</s>
+<s id='vn47'>Tất nhiên là không phải bố mẹ nào cũng quát tháo ầm ĩ lên .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Many do n't .</s>
+<s id='vn48'>Nhiều người không làm thế .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Even if parents have a strong reaction at first , most want to help their children .</s>
+<s id='vn49'>Dù là lúc đầu bố mẹ có những phản ứng mạnh mẽ thì hầu hết đều muốn giúp con cái của mình .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Lots of teens are surprised at how supportive their parents turn out to be .</s>
+<s id='vn50'>Nhiều bạn thanh thiếu niên cảm thấy ngạc nhiên với vẻ trở nên thông cảm của bố mẹ mình .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>It can help to tell your parents that you understand their feelings and point of view .</s>
+<s id='vn51'>Bạn nên nói với bố mẹ là bạn hiểu được quan điểm , ý nghĩ và tình cảm của họ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" I know you 're really mad " , " I know this is n't what you wanted for me , " or , " I know this is n't what you expected " can help your parents be more understanding .</s>
+<s id='vn52'>" Con biết là giờ đây bố mẹ rất giận con " , " Con biết bố mẹ không muốn con làm việc này , " hoặc " Con biết bố mẹ không bao giờ muốn chuyện này " , những điều này sẽ có thể làm cho bố mẹ bạn hiểu bạn hơn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The key is to be honest and speak from the heart .</s>
+<s id='vn53'>Quan trọng là bạn phải nói một cách thật lòng .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If you say what you think parents want to hear or make statements just to calm them , it might sound fake .</s>
+<s id='vn54'>Nếu như bạn chỉ nói điều mà bố mẹ muốn nghe hay nói những câu chỉ để làm trấn an họ thì nghe có vẻ giả dối đấy .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Give your parents time to speak without jumping in .</s>
+<s id='vn55'>Không nên ngắt ngang lời bố mẹ mà hãy để bố mẹ có thời gian nói chuyện nhé .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Listen to what they say .</s>
+<s id='vn56'>Hãy lắng nghe những gì họ nói .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Let them vent if they have to .</s>
+<s id='vn57'>Để cho họ trút hết cơn giận nếu họ phải như vậy .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Tell them how you feel .</s>
+<s id='vn58'>Hãy nói cho bố mẹ biết tâm trạng hiện giờ của bạn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Part of your conversation might involve telling parents how you feel .</s>
+<s id='vn59'>Trong cuộc nói chuyện với bố mẹ , bạn nên nói cho bố mẹ biết tâm trạng của mình .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>For example , if you know you 've disappointed them and you feel sorry about it , say that .</s>
+<s id='vn60'>Chẳng hạn như , nếu bạn biết mình đã làm cho bố mẹ thất vọng và cảm thấy hối tiếc vì điều đó thì bạn nên nói ra .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Let them know if you feel disappointed in yourself , too .</s>
+<s id='vn61'>Hãy cho bố mẹ biết nếu bạn cũng rất thất vọng về chính bản thân mình .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>You might say , " Mom and Dad , I know I 've disappointed you .</s>
+<s id='vn62'>Bạn có thể nói " Bố mẹ ơi , con biết con đã làm cho bố mẹ thất vọng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>I know you 're upset .</s>
+<s id='vn63'>Con biết là bố mẹ đang tức giận .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>I 'm really sorry for putting you through this .</s>
+<s id='vn64'>Con thật sự xin lỗi vì đã làm cho bố mẹ như vậy .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>I 'm disappointed in myself , too . "</s>
+<s id='vn65'>Con cũng đang rất thất vọng về chính mình . "</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Share your fears and worries , such as , " I 'm scared about how I 'm going to handle this , what my friends will think , and what it means about school . "</s>
+<s id='vn66'>Nên chia sẻ những lo lắng và sợ hãi như " Con lo sợ không biết sẽ giải quyết chuyện này thế nào , bạn bè con sẽ nghĩ gì đây , liên quan đến chuyện học hành của con ra sao đây . "</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Or , " I ca n't believe this is happening to me and I 'm not sure what to do . "</s>
+<s id='vn67'>Hoặc , " Con không tin được chuyện này lại xảy ra với con và con không biết phải làm gì đây . "</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Putting your feelings into words takes plenty of maturity and it 's not easy to do .</s>
+<s id='vn68'>Việc diễn tả tâm trạng của mình bằng lời đòi hỏi bạn rất chín chắn và không dễ dàng chút nào .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Do n't worry if the words do n't come out perfectly or if you cry or get emotional as you 're saying them .</s>
+<s id='vn69'>Đừng quá lo lắng nếu những lời bạn nói ra không được trọn vẹn hoặc nếu bạn khóc hay bị xúc động khi bạn nói .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>It can help to think about your feelings ahead of time .</s>
+<s id='vn70'>Bạn nên suy nghĩ trước về tâm trạng của mình nhé .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>If you ca n't imagine expressing your feelings out loud , consider writing them down in a letter .</s>
+<s id='vn71'>Nếu bạn không thể hiện được tâm trạng của mình bằng lời thì có thể viết ra một lá thư .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>If you need to , get help breaking the news .</s>
+<s id='vn72'>Nếu cần , bạn có thể nhờ người khác thông báo việc này .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>A visit to your doctor 's office or a health clinic is a must - not just for your health , but to get more information and discuss the realities of your situation .</s>
+<s id='vn73'>Việc đến khám ở phòng mạch bác sĩ hay một phòng khám là điều cần thiết - không những cho sức khỏe của bạn mà còn giúp bạn thu thập nhiều thông tin hơn và để bàn về tình trạng hiện giờ của bạn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>You 'll want to understand your choices and explore your feelings with an experienced professional .</s>
+<s id='vn74'>Bạn cần hiểu biết về sự lựa chọn của mình và tham khảo ý kiến của mình với chuyên gia nhiều kinh nghiệm .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>During your visit , the doctor , nurse , or health counselor also can help you think through how to tell your parents .</s>
+<s id='vn75'>Trong khi khám , bác sĩ , y tá , hoặc nhân viên tư vấn sức khỏe có thể giúp bạn cách thông báo cho bố mẹ mình .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>If you want , they could even be there as you talk to your parents .</s>
+<s id='vn76'>Nếu bạn cần , họ thậm chí sẽ nói cùng bạn với bố mẹ .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Talking about your decisions</s>
+<s id='vn77'>Nói về những quyết định của mình</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Now that you 've told your parents , you 'll have some important decisions to make .</s>
+<s id='vn78'>Vì đã thông báo cho bố mẹ biết thì giờ đây bạn sẽ phải đưa ra một số quyết định quan trọng .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Talking decisions over with others can help .</s>
+<s id='vn79'>Việc cho người khác biết sự lựa chọn của mình cũng rất có tác dụng .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Sometimes parents - including your boyfriend 's parents - can offer a new angle or ideas .</s>
+<s id='vn80'>Đôi khi bố mẹ bạn – kể cả bố mẹ bạn trai của bạn – có thể cho bạn một quan điểm khác hoặc những ý kiến mới mẻ .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Whatever you decide , it needs to be what you want , not what someone else wants you to do .</s>
+<s id='vn81'>Bất kể là bạn quyết định gì thì điều quan trọng là những gì bạn muốn chứ không phải điều mà người khác muốn bạn làm .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>That 's especially true if you think most of the child-raising will fall to you .</s>
+<s id='vn82'>Hoàn toàn đúng nếu như bạn nghĩ phần lớn việc nuôi đứa bé sẽ thuộc về bạn .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>It 's a big job .</s>
+<s id='vn83'>Đó là một việc không đơn giản .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Becoming a teen parent affects your education , job , and financial future - and often your boyfriend 's too .</s>
+<s id='vn84'>Việc trở thành bố mẹ ở tuổi chưa thành niên sẽ ảnh hưởng nhiều đến chuyện học hành , công việc , và tài chính về sau của bạn - và thường cả bạn trai của bạn nữa .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Over half of teen pregnancies end with the birth of the baby .</s>
+<s id='vn85'>Hơn một nửa số người mang thai tuổi thanh thiếu niên đã chấm dứt thai kỳ .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Some teens decide to keep the baby .</s>
+<s id='vn86'>Một số quyết định giữ lại em bé .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Others let someone adopt the child .</s>
+<s id='vn87'>Một số khác cho con cho người khác .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Some teen pregnancies end in miscarriage , and about one third end in abortion .</s>
+<s id='vn88'>Một số người mang thai tuổi thanh thiếu niên chấm dứt bằng cách làm sẩy thai , và khoảng 1 3 dùng phương pháp phá thai .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Talking about your options is n't easy , especially if none of them is what you had in mind .</s>
+<s id='vn89'>Nói về quyền lựa chọn của mình thật là điều không dễ , nhất là khi trong đầu bạn không có gì cả .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Some families need the help of a counselor to talk about this difficult and complicated situation in a way that lets everyone be respected and heard .</s>
+<s id='vn90'>Một số gia đình nhờ nhân viên tư vấn hỗ trợ trong việc đề cập đến tình huống khó khăn và phức tạp này theo cách mà để ai cũng được tôn trọng và lắng nghe .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>It 's more than just breaking the news</s>
+<s id='vn91'>Không đơn thuần chỉ là việc thông báo tin tức này</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Talking to a parent about your pregnancy takes more than just one conversation .</s>
+<s id='vn92'>Thông báo cho bố mẹ biết việc mình mang thai không phải chỉ cần một cuộc nói chuyện là đủ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>In the coming months , you 'll probably have many different feelings all at once .</s>
+<s id='vn93'>Bạn có thể sẽ mang nhiều tâm trạng cùng một lúc trong những tháng về sau .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Sometimes , you might feel shock and disbelief .</s>
+<s id='vn94'>Đôi khi bạn cảm thấy bị sốc và hoài nghi .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Other times , you may be scared or worried .</s>
+<s id='vn95'>Đôi khi bạn còn có thể hoảng sợ hay lo âu nữa .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>You may feel sad , guilty , or angry at yourself .</s>
+<s id='vn96'>Bạn cũng có thể cảm thấy buồn , tội lỗi , hoặc tức giận với chính mình .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>At times , you might also feel excited and happy .</s>
+<s id='vn97'>Nhưng đôi khi bạn cũng lại thấy phấn khích và hạnh phúc .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Some days you might be ready for what 's ahead .</s>
+<s id='vn98'>Có những ngày bạn cảm thấy đã sẵn sàng rồi .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Other days , you may feel totally unprepared and confused .</s>
+<s id='vn99'>Nhưng lại có những ngày bạn cảm thấy hoàn toàn hoang mang và không sẵn sàng gì cả .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>You 'll have many emotions and it will take time .</s>
+<s id='vn100'>Bạn ắt sẽ có nhiều cảm xúc và đòi hỏi phải mất nhiều thời gian .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>It helps if you can talk to a parent about all these thoughts and feelings .</s>
+<s id='vn101'>Nếu bạn tâm sự với bố mẹ về tất cả những suy nghĩ và cảm xúc này .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Protecting yourself</s>
+<s id='vn102'>Tự bảo vệ mình</s>
+</spair>
+<spair id='103'>
+<s id='en103'>To some parents , the news that you 're having a baby will feel like a terrible crisis .</s>
+<s id='vn103'>Đối với một số bố mẹ thì cái tin bạn mang thai sẽ giống như một cuộc khủng hoảng khủng khiếp .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Depending on their beliefs , cultural values , or personalities , parents might feel shame , guilt , or embarrassment .</s>
+<s id='vn104'>Tùy vào niềm tin , giá trị văn hoá , tính cách của bố mẹ mà họ sẽ có thể cảm thấy xấu hổ , tội lỗi , hay ngượng .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>They might feel angry and assign blame .</s>
+<s id='vn105'>Họ sẽ có thể cảm thấy tức giận và quy gán trách nhiệm .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Sometimes parents scream , yell , and use putdowns .</s>
+<s id='vn106'>Nhiều lúc bố mẹ sẽ la hét , chửi bới , và khinh miệt bạn .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>In some cases , anger can get out of control .</s>
+<s id='vn107'>Trong một số trường hợp thì người ta có thể không kiềm chế nổi cơn giận của mình .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>You know your parent and you know your situation .</s>
+<s id='vn108'>Bạn hiểu bố mẹ mình và bạn biết tình cảnh của bạn .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>If you need to tell your parents you 're pregnant but think they might react in a way that could hurt you , have someone else with you when you tell them .</s>
+<s id='vn109'>Nếu bạn muốn cho bố mẹ biết là mình đang mang thai mà lại nghĩ là bố mẹ có thể sẽ phản ứng theo cách có thể làm bạn tổn thương thì hãy nhờ một người khác đến cùng với bạn khi bạn nói ra điều này .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>If you 're concerned about your safety , get advice .</s>
+<s id='vn110'>Nếu bạn lo ngại về sự an toàn của mình thì hãy nhờ người khác cho bạn lời khuyên .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>A teen health clinic , such as Planned Parenthood , or a teen pregnancy hotline can guide you and steer you toward resources to support you .</s>
+<s id='vn111'>Phòng khám dành cho thanh thiếu niên , như Kế hoạch hoá Gia đình , hoặc đường dây nóng hỗ trợ cho người mang thai tuổi chưa thành niên có thể hướng dẫn và cho bạn nhiều phương cách để hỗ trợ cho bạn .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Of course , most parents wo n't react with extreme anger .</s>
+<s id='vn112'>Tất nhiên là hầu hết bố mẹ đều không phản ứng với thái độ giận dữ tột cùng .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>The thing to remember is every parent is different and you know yours best .</s>
+<s id='vn113'>Nên nhớ một điều là các bố mẹ không giống nhau và bạn hiểu họ nhất .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>When parents have your back</s>
+<s id='vn114'>Khi bố mẹ hậu thuẫn cho bạn</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Talking to parents whenever you can is a good way to sort through the many feelings and issues that arise .</s>
+<s id='vn115'>Tâm sự với bố mẹ bất cứ khi nào có thể là một cách hiệu quả có thể làm dung hoà nhiều cảm xúc và vấn đề phát sinh .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Parents can help you make important decisions and support your choices .</s>
+<s id='vn116'>Bố mẹ có thể giúp bạn đưa ra nhiều quyết định quan trọng và ủng hộ quyền lựa chọn của bạn .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>They can be the best source of guidance and encouragement .</s>
+<s id='vn117'>Bố mẹ cũng có thể là nguồn động viên và hướng dẫn lớn nhất .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Sometimes a difficult situation brings people closer and strengthens their bonds .</s>
+<s id='vn118'>Đôi khi một hoàn cảnh khó khăn nào đó lại làm cho người ta gần gũi , thân thiện nhau hơn và thắt chặt thêm mối dây ràng buộc của mình .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Sometimes , however unexpectedly , a difficult situation can help a family discover unconditional love , support , kindness , forgiveness , acceptance , teamwork , and optimism .</s>
+<s id='vn119'>Tuy nhiên đôi khi cũng bất ngờ là một tình huống khó khăn cũng có thể giúp cho gia đình phát hiện ra một tình yêu vô điều kiện , một sự hỗ trợ , một sự ân cần , một lòng vị tha , một sự chấp thuận , một sự đồng lòng và một niềm lạc quan .</s>
+</spair>
+</text>
+</doc>

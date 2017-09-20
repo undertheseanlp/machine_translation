@@ -1,0 +1,500 @@
+﻿<doc id='N0471'>
+<head>
+<title>1 . 83 million Facebook accounts are fakes and dupes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>1 . 83 million Facebook accounts are fakes and dupes</s>
+<s id='vn1'>1 . 83 triệu tài khoản Facebook là giả mạo và lừa bịp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you 're using a fake name on your Facebook account , maintaining a personal profile for your beloved pet or have a second profile you use just for logging in to other sites , you have one of the 83.09 million fake accounts Facebook wants to disable .</s>
+<s id='vn2'>Nếu bạn đang dùng một cái tên giả trên tài khoản Facebook , và duy trì một hồ sơ cá nhân cho thú cưng của bạn hoặc một hồ sơ thứ hai chỉ dùng để đăng nhập vào các trang khác , thì bạn nằm trong số 83,09 triệu tài khoản giả mà Facebook muốn vô hiệu hoá .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In an updated regulatory filing released Wednesday , the social media company said that 8.7 percent of its 955 million monthly active users worldwide are actually duplicate or false accounts .</s>
+<s id='vn3'>Trong một thông báo được cập nhật vào hôm thứ Tư , hãng truyền thông xã hội cho biết khoảng 8,7 phần trăm trong số 955 triệu tài khoản kích hoạt hàng tháng trên khắp thế giới thật ra chỉ là những tài khoản sao lại hoặc giả mạo .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>On Facebook we have a really large commitment in general to finding and disabling false accounts .</s>
+<s id='vn4'>Trên Facebook chúng tôi có một cam kết chung thực sự là phát hiện và vô hiệu hoá các tài khoản giả mạo .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" Our entire platform is based on people using their real identities . " Facebook 's chief security officer Joe Sullivan told CNN in a recent interview .</s>
+<s id='vn5'>" Toàn bộ nền tảng của chúng tôi đều dựa vào người dùng sử dụng danh tính thật của họ , " ông Joe Sullivan giám đốc an ninh của Facebook đã phát biểu như vậy trên CNN trong một cuộc phỏng vấn mới đây .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>So what are those 83 million undesired accounts doing ?</s>
+<s id='vn6'>Vậy 83 triệu tài khoản không mong đợi này đang làm gì ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They 're a mixture of innocent and malicious , and Facebook has divvied them up into three categories : duplicate accounts , misclassified accounts and " undesirable " accounts .</s>
+<s id='vn7'>Những tài khoản này vừa vô hại vừa gây hại , và Facebook đã chia chúng thành ba loại : tài khoản bản sao , tài khoản phân loại sai và tài khoản không mong đợi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Duplicate accounts make up 4.8 % ( 45.8 million ) of Facebook 's total active member tally .</s>
+<s id='vn8'>Tài khoản bản sao chiếm 4,8% ( 45,8 triệu ) trong tổng số các thành viên kích hoạt Facebook .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>According to the network 's terms of service , users are not allowed to have more than one Facebook personal account or make accounts on behalf of other people .</s>
+<s id='vn9'>Theo điều khoản dịch vụ mạng , người sử dụng không được phép có nhiều hơn một tài khoản Facebook hay tạo các tài khoản thay cho người khác .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Parents creating Facebook accounts for their young kids are violating two rules , since people under 13 are not allowed to have Facebook profiles .</s>
+<s id='vn10'>Các bậc phụ huynh tạo tài khoản Facebook cho con cái của họ đã phạm hai điều trên , vì trẻ dưới 13 tuổi không được phép lập tài khoản cá nhân trên Facebook .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Misclassified accounts are personal profiles that have been made for companies , groups or pets .</s>
+<s id='vn11'>Các tài khoản phân loại sai là những hồ sơ cá nhân được lập cho các công ty , nhóm hoặc vật cưng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Those types of profiles ( 22.9 million ) are allowed on Facebook , but they need to be created as Pages .</s>
+<s id='vn12'>Hồ sơ loại này ( 22,9 triệu tài khoản ) được cho phép trên Facebook nhưng chúng cần được tạo lập dưới dạng Page .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Facebook estimates that 2.4 % of its active accounts are these non-human personal accounts .</s>
+<s id='vn13'>Facebook ước tính khoảng 2,4% trong số tài khoản kích hoạt là những tài khoản không dành cho người .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>These accounts can be converted into approved pages without losing information .</s>
+<s id='vn14'>Các tài khoản này có thể được chuyển sang các trang được cho phép mà không bị mất thông tin .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Pets such as Boo , the self-anointed " world 's cutest dog , " are typically classified as Public Figures .</s>
+<s id='vn15'>Các vật cưng như Boo , " những chú chó đáng yêu " tự xức dầu thơm thường được phân loại vào nhóm Hình ảnh chung .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The third group is the smallest - just 1.5 % of all active accounts - but most troublesome .</s>
+<s id='vn16'>Nhóm thứ ba là nhóm nhỏ nhất - chỉ chiếm 1,5% tổng số tài khoản kích hoạt nhưng lại gây nhiều phiền toái nhất .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>There are 14.3 million undesirable accounts that Facebook believes have been created specifically for purposes that violate the companies terms , like spamming .</s>
+<s id='vn17'>Có 14,3 triệu tài khoản không mong đợi mà Facebook cho rằng chúng được tạo vì các lí do đặc biệt vi phạm điều khoản của công ty như việc spam .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" We believe the percentage of accounts that are duplicate or false is meaningfully lower in developed markets such as the United States or Australia and higher in developing markets such as Indonesia and Turkey , " the company said in the filing .</s>
+<s id='vn18'>Theo thông tin hãng cho biết : " Chúng tôi tin rằng tỷ lệ phần trăm các tài khoản sao lại hay tài khoản sai ở những thị trường phát triển như Hoa Kỳ hay Úc rõ ràng thấp hơn còn ở những thị trường đang phát triển như In-đô-nê-xi-a và Thổ Nhĩ Kì thì cao hơn " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The tallies were based on an internal sampling of accounts done by reviewers , and Facebook says the numbers may represent the actual number .</s>
+<s id='vn19'>Con số này dựa trên mẫu tài khoản nội bộ do các nhà phê bình thực hiện , và Facebook còn cho biết con số này có thể là con số thực tế .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Facebook disables any false accounts it finds , and while it wipes all the information associated with the name from public view , it does n't delete the account from its servers " for safety and security " reasons .</s>
+<s id='vn20'>Facebook sẽ khoá bất kì tài khoản giả mạo nào tìm thấy , đồng thời cũng xoá mọi thông tin liên quan đến tên mà mọi người biết đến , nhưng không xoá tài khoản từ server vì lý do " an ninh an toàn " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The disabled account goes into a sort of Facebook limbo , where the owner of the account ca n't get their hands on any of the content - photos , posts , videos not even by requesting a copy of the data .</s>
+<s id='vn21'>Tài khoản bị vô hiệu hoá được đặt riêng một chỗ của Facebook mà các chủ tài khoản không thể chạm vào bất cứ nội dung gì như hình ảnh , thư từ , vi-đê-ô thậm chí yêu cầu không được sao chép dữ liệu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>If Facebook does shut down your account , it says you ca n't create a new one without permission from the company .</s>
+<s id='vn22'>Nếu Facebook khoá tài khoản của bạn thì có nghĩa là bạn không thể tạo tài khoản mới mà không được sự đồng ý của hãng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Windows 8 Tablets : 10 Crucial Features Buyers Want to See</s>
+<s id='vn23'>Tablet chạy Windows 8 : 10 tính năng quan trọng mà người mua muốn nhìn thấy</s>
+</spair>
+<spair id='24'>
+<s id='en24'>NEWS ANALYSIS : Microsoft will launch Windows 8 on October 26 .</s>
+<s id='vn24'>PHÂN TÍCH TIN TỨC : Microsoft sẽ ra mắt Windows 8 vào ngày 26/10 tới .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>On that day , several different tablet models will launch .</s>
+<s id='vn25'>Lúc đó , một số mẫu máy tính bảng khác nhau cũng sẽ đồng loạt ra mắt .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Here some features that buyers are sure to want to see .</s>
+<s id='vn26'>Dưới đây một số tính năng mà người mua chắc chắn muốn nhìn thấy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>When Windows 8 launches on Oct. 26 , it will have a lot to prove about how well the operating system will work on tablets .</s>
+<s id='vn27'>Khi Windows 8 ra mắt vào ngày 26 tháng 10 , nó sẽ chứng minh rất nhiều về việc làm thế nào hệ điều hành này sẽ hoạt động trên máy tính bảng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The operating system , which will work just fine on traditional PCs , is designed to provide a high-end experience on tablets .</s>
+<s id='vn28'>Hệ điều hành mà chỉ hoạt động tốt trên các máy tính truyền thống giờ được thiết kế để đem lại một trải nghiệm đỉnh cao cho máy tính bảng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some of those tablets will be running Microsoft 's ARM-based version , Windows RT , while the others will come with Windows 8 Pro .</s>
+<s id='vn29'>Một số máy tính bảng sẽ được chạy phiên bản dựa trên chip ARM của Microsoft , Windows RT , trong khi những loại khác sẽ chạy Windows 8 Pro .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>So far , few vendors have unveiled their plans for Windows 8 slates .</s>
+<s id='vn30'>Cho đến nay , vài nhà cung cấp đã tiết lộ kế hoạch của mình cho các ứng cử viên của Windows 8 .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Still , we know that some Windows 8 tablets are coming .</s>
+<s id='vn31'>Tuy nhiên , chúng ta biết rằng một số máy tính bảng chạy Windows 8 sắp được ra mắt .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>When they do , we can only hope that they 'll offer an array of features will make them and the operating system a success in the mobile market .</s>
+<s id='vn32'>Khi họ làm điều này , chúng ta chỉ có thể hy vọng rằng họ sẽ cung cấp một loạt các tính năng sẽ làm chúng và hệ điều hành thành công trong thị trường di động .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>From a big screen to an innovative design , it 's clear that in order to be successful and compete against Apple 's iPad , Windows 8 tablets are going to have to appeal to both consumers and enterprise users .</s>
+<s id='vn33'>Từ một màn hình lớn với một thiết kế sáng tạo , thì rõ ràng rằng để có thể thành công và cạnh tranh với iPad của Apple , các máy tính bảng chạy Windows 8 sẽ phải thu hút cả người tiêu dùng và người dùng doanh nghiệp .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>More importantly , those tablets should deliver that by way of aesthetics and components .</s>
+<s id='vn34'>Quan trọng hơn , những máy tính bảng này nên mang lại sự thẩm mỹ và các bộ phận cấu thành .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Take a look at the sort of features Windows 8 tablets must offer to be successful in the hotly contested tablet market this year and next .</s>
+<s id='vn35'>Hãy nhìn vào một loại tính năng của máy tính bảng chạy Windows 8 phải có để mang lại thành công trong thị trường máy tính bảng đầy cạnh tranh nóng bỏng năm nay và năm tới .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>1 . Big screens</s>
+<s id='vn36'>1 . Màn hình lớn</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Although 7-inch tablets have been successful , that 's only because they 're cheap and do n't try to do too much .</s>
+<s id='vn37'>Mặc dù các máy tính bảng kích thước 7-inch đã mang lại thành công , đó chỉ bởi vì chúng rẻ và không đòi hỏi quá nhiều .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Windows 8 tablets , however , will attempt to replace lightweight notebooks running the operating system .</s>
+<s id='vn38'>Tuy nhiên , máy tính bảng Windows 8 sẽ cố gắng để thay thế máy tính xách tay nhẹ chạy hệ điều hành này .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Therefore , they need to be more powerful and come with a big display .</s>
+<s id='vn39'>Vì vậy , chúng cần phải mạnh mẽ hơn và đi kèm với một màn hình lớn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In that end of the space , it 's what customers expect .</s>
+<s id='vn40'>Giới hạn về kích thước , là điều mà khách hàng mong đợi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>2 . An innovative design , like Surface</s>
+<s id='vn41'>2 . Một thiết kế sáng tạo , giống như Surface</s>
+</spair>
+<spair id='42'>
+<s id='en42'>One of the nicest things about Microsoft 's Surface tablet is that it 's innovative .</s>
+<s id='vn42'>Một trong những điều đẹp nhất về máy tính bảng Surface của Microsoft đó là sự sáng tạo .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The device comes with a beautiful VaporMg finish , and its kickstand is an added benefit that ca n't be overlooked .</s>
+<s id='vn43'>Thiết bị đi kèm với một lớp vỏ bọc VaporMg tuyệt đẹp , và chân đế của nó là một tiện lợi được bổ sung mà không thể bỏ qua .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>In order to compete against that device , all Windows 8 tablet vendors must be able to deliver a fresh design - or else .</s>
+<s id='vn44'>Để cạnh tranh với thiết bị này , tất cả các nhà cung cấp máy tính bảng Windows 8 phải có khả năng cung cấp một thiết kế mới mẻ khác - hoặc ngược lại .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>3 . Windows 8 Pro</s>
+<s id='vn45'>3 . Windows 8 Pro</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Windows 8 Pro is the operating system that most customers will want to use .</s>
+<s id='vn46'>Windows 8 Pro là hệ điều hành mà hầu hết khách hàng sẽ muốn sử dụng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It 'll support all applications , come with the all the latest Windows 8 features , and make enterprise users far more productive .</s>
+<s id='vn47'>Nó sẽ hỗ trợ tất cả các ứng dụng , đi kèm với tất cả các tính năng mới nhất của Windows 8 và làm cho người dùng doanh nghiệp có nhiều hiệu quả hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Windows RT will be fine for casual users , but for serious customers , Windows 8 Pro is a necessary ingredient in any tablet .</s>
+<s id='vn48'>Windows RT sẽ là tốt cho người dùng bình thường , nhưng đối với khách hàng quan trọng , Windows 8 Pro là một thành phần cần thiết trong bất kỳ máy tính bảng nào .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>4 . Apps galore</s>
+<s id='vn49'>4 . Ứng dụng phong phú .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In order for Windows 8-based tablets to be successful , they 're going to need an ample number of applications in the Windows Marketplace .</s>
+<s id='vn50'>Để cho chiếc máy tính bảng chạy Windows 8 trở nên thành công , chúng sẽ cần một số lượng phong phú các ứng dụng trong Windows Marketplace .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Digitally delivered apps will be a key piece of the Windows 8 puzzle , but if it fizzles out and developers do n't care , the tablets will fail .</s>
+<s id='vn51'>Số lượng các ứng dụng được cung cấp sẽ là một phần quan trọng của cuộc chơi Windows 8 , nhưng nếu nó nhanh chóng suy sụp và các nhà phát triển không quan tâm đến nữa thì những chiếc máy tính sẽ thất bại .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Vendors , especially , ca n't forget that .</s>
+<s id='vn52'>Đặc biệt là các nhà cung cấp không thể quên điều đó .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>5 . Strong vendor support</s>
+<s id='vn53'>5 . Hỗ trợ nhà cung cấp mạnh mẽ</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Speaking of vendors , it 's imperative that many companies get into the mix .</s>
+<s id='vn54'>Nhắc tới các nhà cung cấp , đó là điều bắt buộc rằng nhiều công ty sẽ đem lại sự hợp tác này .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>If the Android ecosystem has taught the marketplace anything , it 's that consumers are quite happy with choices .</s>
+<s id='vn55'>Nếu hệ sinh thái Android là bài học cho nhiều thứ trên thị trường này , đó là người tiêu dùng là khá hứng thú với nhiều sự lựa chọn .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The more options available to them , the better .</s>
+<s id='vn56'>Nhiều tùy chọn có sẵn cho họ thì tốt hơn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>So , if Windows 8 tablets are going to be successful and achieve great strides over the next several years , vendors will need to get into the mix .</s>
+<s id='vn57'>Vì vậy , nếu máy tính bảng Windows 8 sẽ thành công và đạt được những bước tiến lớn trong vài năm tới , các nhà cung cấp sẽ cần phải phối hợp .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>6 . Competitive pricing</s>
+<s id='vn58'>6 . Giá cả cạnh tranh</s>
+</spair>
+<spair id='59'>
+<s id='en59'>If Windows 8 tablets are too expensive , they will fail .</s>
+<s id='vn59'>Nếu các máy tính bảng chạy Windows 8 quá đắt , chúng sẽ thất bại .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>It 's as simple as that .</s>
+<s id='vn60'>Đơn giản như vậy .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>So , vendors will need to make sure that their pricing can justify customers putting down the iPad and choosing their product .</s>
+<s id='vn61'>Vì vậy các nhà cung cấp sẽ cần phải chắc chắn rằng giá cả của chúng có thể điều chỉnh làm cho khách hàng giảm sự chý ý đến iPad và lựa chọn sản phẩm của họ .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>In some cases , that might mean pricing the tablet for less than the iPad .</s>
+<s id='vn62'>Trong một số trường hợp , có thể hiểu là giá cả của chiếc máy tính bảng này thấp hơn so với iPad .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>In others , it might mean matching the cost .</s>
+<s id='vn63'>Nói một cách khác , có nghĩa là phù hợp với chi phí .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>But never should vendors try to charge more than the iPad 's top price - $829 - for their slates .</s>
+<s id='vn64'>Nhưng các nhà cung cấp không bao giờ đưa ra chỉ cao hơn mức giá 829 $ của iPad cho sản phẩm của họ .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>7 . State-of-the-art processors</s>
+<s id='vn65'>7 . Bộ vi xử lý hiện đại</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Microsoft wants to truly achieve its goal of delivering a tablet that can replace lightweight notebooks , the company and its vendor partners must offer up state-of-the-art processors .</s>
+<s id='vn66'>Microsoft muốn thực sự đạt được mục tiêu cung cấp một chiếc máy tính bảng mà có thể thay thế máy tính xách tay có trọng lượng nhẹ , công ty này và các đối tác nhà cung cấp của họ phải cung cấp các bộ vi xử lí hiện đại .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Any outdated or less-powerful processors just wo n't work in the mobile market .</s>
+<s id='vn67'>Bất kỳ bộ vi xử lý đã lỗi thời hoặc kém mạnh mẽ thì sẽ không hoạt động được trong thị trường di động .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>8 . Flash storage , for sure</s>
+<s id='vn68'>8 . Chắc chắn phải có bộ lưu trữ flash</s>
+</spair>
+<spair id='69'>
+<s id='en69'>In the mobile space , there is a very different experience delivered by Flash storage than traditional hard drives .</s>
+<s id='vn69'>Trong không gian di động , có một sự trải nghiệm rất khác nhau được mang lại bởi bộ lưu trữ flash so với các ổ đĩa cứng truyền thống .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Flash storage is quicker , offers fewer chances of malfunctioning , and yes , costs a bit more .</s>
+<s id='vn70'>Bộ lưu trữ flash nhanh hơn , ít có cơ hội ít bị hỏng hóc , tuy nhiên nó sẽ có chi phí nhiều hơn một chút .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>But that should n't matter .</s>
+<s id='vn71'>Nhưng đó không phải vấn đề .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Flash storage is the key ingredient that makes tablets more responsive .</s>
+<s id='vn72'>Bộ lưu trữ flash là thành phần quan trọng mà làm cho máy tính bảng hoạt động hiệu quả hơn .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Flash storage technology it needs to play a role in all Windows 8 slates .</s>
+<s id='vn73'>Công nghệ lưu trữ flash cần phải đóng một vai trò quan trọng trong tất cả sản phẩm chạy Windows 8 .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>9 . 4G LTE across the board</s>
+<s id='vn74'>9 . Tích hợp kết nối 4G LTE</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Since tablets are designed to be mobile , it would only make sense that all Windows 8 tablets are able to connect to the Web from a mobile network .</s>
+<s id='vn75'>Vì máy tính bảng được thiết kế cho tính di động , điều đó sẽ chỉ có ý nghĩa khi tất cả các máy tính bảng Windows 8 có thể kết nối vào Web từ mạng di động .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>However , the last thing the tablet makers should do is only support 3G .</s>
+<s id='vn76'>Tuy nhiên , điều cuối cùng các nhà sản xuất máy tính bảng cần làm là chỉ hỗ trợ 3G .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>The future of mobile connectivity is 4G LTE and that 's is what buyers want .</s>
+<s id='vn77'>Tương lai của kết nối di động là 4G LTE và đó là những gì người mua mong muốn .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>10 . One , good version from every company</s>
+<s id='vn78'>10 . Một phiên bản tốt từ mỗi công ty</s>
+</spair>
+<spair id='79'>
+<s id='en79'>In the Windows ecosystem , sometimes vendors complicate things .</s>
+<s id='vn79'>Trong hệ sinh thái Windows , đôi khi các nhà cung cấp chính là những điều phức tạp .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>They believe that by offer many different models and features , it reduces the chances that buyers will go to a competing vendor .</s>
+<s id='vn80'>Họ tin rằng bằng cách cung cấp nhiều mẫu mã và các tính năng khác nhau , nó làm giảm cơ hội mà người mua sẽ tìm đến một nhà cung cấp cạnh tranh .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>But that 's less likely in the case of tablets .</s>
+<s id='vn81'>Nhưng điều này ít có khả năng trong trường hợp của máy tính bảng .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Consumers want one , good device from every vendor .</s>
+<s id='vn82'>Người tiêu dùng muốn có một thiết bị tốt từ mỗi nhà cung cấp .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Based on that information , they can decide what they want .</s>
+<s id='vn83'>Dựa trên thông tin đó , họ có thể quyết định những gì họ muốn .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Vendors ca n't forget that .</s>
+<s id='vn84'>Các nhà cung cấp không thể quên điều đó .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>News 3 : Apple 's iOS 6 : What We Know</s>
+<s id='vn85'>Tin 3 : Bật mí tính năng mới trong iOS 6 của Apple</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Apple did n't lay out all its secret plans for iOS 6 during the company 's sneak peek at the next version of iOS in June .</s>
+<s id='vn86'>Apple không tiết lộ tất cả những kế hoạch bí mật của hãng dành cho iOS 6 trong lần ra mắt phiên bản iOS kế tiếp hồi tháng Sáu .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>But since then , reports have trickled in detailing a number of interesting new features built into the latest beta versions of iOS 6 distributed to app developers .</s>
+<s id='vn87'>Nhưng kể từ đó , nhiều nguồn tin đã mô tả chi tiết một số tính năng mới thú vị của phiên bản iOS 6 bêta mới nhất đã được phát hành cho các nhà phát triển ứng dụng .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>We already know iOS 6 will have more than 200 new features including a new Maps app with turn-by-turn navigation ; a central storehouse called Passbook for consumer loyalty cards , boarding passes , movie tickets , and gift cards ; FaceTime video chat over cellular dat a ; system-wide Facebook integrati o n ; online photo sharing ; and improvements to Siri .</s>
+<s id='vn88'>Chúng ta đã biết iOS 6 sẽ có hơn 200 tính năng mới như ứng dụng bản đồ mới với tính năng dẫn đường từng chặng ; ứng dụng lưu trữ những thông tin như thẻ khách hàng thân thiết , thẻ lên máy bay , vé xem phim , và phiếu quà tặng ; đàm thoại có hình FaceTime qua sóng di động ; tích hợp Facebook toàn hệ thống ; chia sẻ ảnh trực tuyến ; và Siri cải tiến .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>But it looks like a lot more is coming to iOS 6 including unannounced features such as automatic Wi-Fi to cellular data-switching and Bluetooth file-sharing .</s>
+<s id='vn89'>Nhưng có vẻ như còn nhiều tính năng hơn thế nữa sẽ có mặt trên iOS 6 bao gồm những tính năng chưa được công bố như là tự động chuyển từ Wi-Fi sang mạng di động và chia sẻ tập tin qua Bluetooth .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>A few features foreshadow a new iPhone with a 4-inch display such as added screen resolution support .</s>
+<s id='vn90'>Một vài tính năng báo trước một iPhone mới với màn hình 4 inch như hỗ trợ độ phân giải màn hình cao hơn .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Here 's a look at what might be new in iOS 6 .</s>
+<s id='vn91'>Sau đây là sơ lược về những tính năng có thể xuất hiện trong iOS 6 .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Wi-Fi Plus Cellular</s>
+<s id='vn92'>Wi-fi Plus Cellular</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Apple recently seeded iOS 6 Beta 4 to developers .</s>
+<s id='vn93'>Gần đây Apple đã phát hành iOS 6 Beta 4 cho các nhà phát triển .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>( The new version includes the ability to automatically switch from Wi-Fi to cellular data if an app is having problems connecting to Wi-Fi , according to Apple Insider .</s>
+<s id='vn94'>( Phiên bản mới này có khả năng tự động chuyển từ Wi-Fi sang kết nối mạng di động nếu một ứng dụng nào đó gặp vấn đề về kết nối Wi-Fi , theo trang Apple Insider .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The new optional feature is called Wi-Fi Plus Cellular and is activated/deactivated through the Settings app .</s>
+<s id='vn95'>Tùy chọn mới này có tên là Wi-Fi Plus Cellular và có thể bật/tắt thông qua ứng dụng Settings .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Currently , if your iPhone ca n't connect to Wi-Fi your connectivity stops unless you turn off the Wi-Fi radio to jump to cellular .</s>
+<s id='vn96'>Hiện tại , nếu iPhone không thể kết nối Wi-Fi , kết nối internet của bạn sẽ gián đoạn trừ phi bạn tắt sóng Wi-Fi để chuyển sang kết nối mạng di động .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Apple Insider points out that on an iPhone 4S or later , this function could help prevent dropped video calls placed through FaceTime .</s>
+<s id='vn97'>Apple Insider chỉ ra rằng trên iPhone 4S hoặc các phiên bản sau , chức năng này có thể giúp ngăn chặn tình trạng rớt cuộc gọi video khi dùng FaceTime .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Apple has said iOS 6 will support FaceTime over 3G .</s>
+<s id='vn98'>Apple cho biết iOS 6 sẽ hỗ trợ FaceTime qua mạng 3G .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Bluetooth File-S haring</s>
+<s id='vn99'>Chia sẻ tập tin qua Bluetooth</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Also new in the latest iOS 6 beta is a function for Bluetooth sharing support for apps , according to a screenshot posted by 9to5 Mac .</s>
+<s id='vn100'>Cũng là lần đầu tiên xuất hiện trong iOS 6 beta mới nhất là chức năng hỗ trợ chia sẻ qua Bluetooth dành cho ứng dụng , theo ảnh chụp màn hình do trang 9to5 Mac đăng tải .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Currently , iOS 5 allows you to share contacts with a car kit , send audio to a stereo , use audio/video remote controls , participate in multiplayer gaming , and establish connections to Bluetooth keyboards .</s>
+<s id='vn101'>Hiện tại , iOS 5 cho phép bạn chia sẻ danh bạ với bộ car kit , gửi tập tin âm thanh đến đến thiết bị stereo , điều khiển âm thanh video từ xa , tham gia game nhiều người chơi , và thiết lập kết nối với bàn phím Bluetooth .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>In iOS 6 , however , apps may be able to request Bluetooth sharing functionality to swap photos , calendar dates , reminders , and contacts .</s>
+<s id='vn102'>Tuy nhiên , ở iOS 6 , các ứng dụng có thể yêu cầu chức năng chia sẻ Bluetooth để trao đổi hình ảnh , lịch , nhắc nhở , và danh bạ .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>The reported new sharing capability would be controlled in a new section of the Settings app labeled " Privacy . "</s>
+<s id='vn103'>Chức năng chia sẻ mới này sẽ được kiểm soát trong một mục mới của ứng dụng Settings có tên là " Privacy " .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>More Icons</s>
+<s id='vn104'>Nhiều biểu tượng hơn</s>
+</spair>
+<spair id='105'>
+<s id='en105'>The new resolution support in iOS 6 also gives Apple enough space to throw in an extra row of icons for the next iPhone .</s>
+<s id='vn105'>Việc hỗ trợ độ phân giải mới trong iOS 6 còn mang đến cho Apple khoảng trống đủ để thêm một hàng biểu tượng cho iPhone thế hệ kế tiếp .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Rumors about a fifth row of icons have been circulating since May , but 9to5 Mac was able to use Apple 's developer tools to create a five-icon iPhone layout using the latest beta version of iOS 6 .</s>
+<s id='vn106'>Tin đồn về hàng biểu tượng thứ năm lan truyền từ tháng Năm , nhưng trước đó trang 9to5 Mac đã có thể sử dụng bộ công cụ dành cho nhà phát triển của Apple để tạo ra bố cục iPhone có năm biểu tượng sử dụng phiên bản bêta iOS 6 mới nhất .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Resolution Bump</s>
+<s id='vn107'>Tăng độ phân giải màn hình</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Another recent 9to5 Mac discovery suggests iOS 6 will support a new resolution of 640 by 1136 .</s>
+<s id='vn108'>Một khám phá khác gần đây trên trang 9to5 Mac cho thấy iOS 6 sẽ hỗ trợ độ phân giải mới 640x1136 .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>That resolution would allow Apple to put a 4-inch screen on the next iPhone without overly distorting apps running on current iPhone displays .</s>
+<s id='vn109'>Độ phân giải này sẽ cho phép Apple sử dụng màn hình 4 inch trên chiếc iPhone thế hệ kế tiếp mà không làm méo mó quá mức hình ảnh trên những ứng dụng chạy trên màn hình iPhone hiện thời .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Password-free Gratis Apps</s>
+<s id='vn110'>Tải ứng dụng miễn phí không cần mật khẩu</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Downloading free apps , app up dates , or an app you previously deleted will not require password authentication , according to numerous online reports from late July .</s>
+<s id='vn111'>Việc tải các ứng dụng miễn phí , cập nhật ứng dụng , hoặc ứng dụng mà trước đây bạn đã xoá sẽ không đòi hỏi xác thực bằng mật khẩu , theo nhiều nguồn tin trực tuyến từ cuối tháng Bảy .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>The new feature will be a welcome addition for anyone with a particularly long or hard to remember password .</s>
+<s id='vn112'>Tính năng mới này sẽ là sự bổ sung đáng mừng cho bất kỳ ai sử dụng mật khẩu đặc biệt dài hoặc khó nhớ .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>But as my colleague Tony Bradley reports , some security concerns may be attached to password-free downloads .</s>
+<s id='vn113'>Nhưng theo đồng nghiệp của tôi Tony Bradley , có thể sẽ có một số lo ngại về tính bảo mật gắn liền với việc tải ứng dụng không cần mật khẩu .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>No YouTube</s>
+<s id='vn114'>Không có ứng dụng YouTube</s>
+</spair>
+<spair id='115'>
+<s id='en115'>The iPhone 's YouTube app will be the next casualty in the ongoing battle between Apple and Google .</s>
+<s id='vn115'>Ứng dụng YouTube của iPhone sẽ là tổn thất kế tiếp trong trận chiến đang diễn ra giữa Apple và Google .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>A standard part of the iPhone since the handset 's debut in 2007 , Apple plans to dump the YouTube app in iOS 6 .</s>
+<s id='vn116'>YouTube là một ứng dụng chuẩn trên i Phone kể từ khi nó ra mắt năm 2007 , Apple dự định sẽ bỏ ứng dụng YouTube trong i OS 6 .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Apple says the company 's license to include the YouTube app has expired , and obviously wo n't be renewed , but Google is supposedly working on a new YouTube app to be distributed through Apple 's App Store .</s>
+<s id='vn117'>Apple cho biết giấy phép tích hợp ứng dụng YouTube đã hết hạn , và rõ ràng sẽ không được gia hạn , nhưng có nguồn tin cho rằng Google đang nghiên cứu một ứng dụng YouTube mới sẽ được phát hành thông qua App Store của Apple .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>AT&T Punch in the FaceTime</s>
+<s id='vn118'>Cú đấm của AT&T vào mặt FaceTime</s>
+</spair>
+<spair id='119'>
+<s id='en119'>AT&T customers may pay extra for the privilege of using iOS 6 's previously announced FaceTime over cellular capability .</s>
+<s id='vn119'>Khách hàng của AT&T có thể sẽ trả thêm phi để có được đặc quyền sử dụng FaceTime qua kết nối mạng di động trên iOS 6 , tính năng đã được công bố trước đây .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>During a test of the new FaceTime functionality in iOS 6 beta 3 using an AT&T-locked iPhone , iDownloadBlog discovered a pop-up window with instructions on how to activate FaceTime over cellular .</s>
+<s id='vn120'>Khi thử nghiệm chức năng FaceTime mới trong iOS 6 beta 3 sử dụng iPhone khóa mạng AT&T , trang iDownloadBlog đã phát hiện ra một cửa sổ bật lên kèm với hướng dẫn cách kích hoạt FaceTime qua mạng di động .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>The pop-up did n't say the service included an extra cost , but it 's a pretty safe bet that AT&T is at least thinking about charging an extra convenience fee for anyone using FaceTime over 3G .</s>
+<s id='vn121'>Cửa sổ bật lên không cho biết dịch vụ này sẽ phải trả thêm cước , nhưng ắt hẳn AT&T ít nhất đã cân nhắc việc thu thêm phí tiện lợi đối với bất kỳ ai sử dụng FaceTime qua mạng 3G .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Interestingly , iDownloadBlog did n't have the same experience with a Verizon-enabled iPad running iOS 6 .</s>
+<s id='vn122'>Điều thú vị là iDownloadBlog không gặp phải tình huống tương tự với iPad khoá mạng Verizon chạy iOS 6 .</s>
+</spair>
+</text>
+</doc>

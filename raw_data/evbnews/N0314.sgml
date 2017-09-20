@@ -1,0 +1,292 @@
+﻿<doc id='N0314'>
+<head>
+<title>Shoplifting</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Shoplifting</s>
+<s id='vn1'>Ăn cắp vặt</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Sarah and Lisa always enjoyed hanging out at the mall .</s>
+<s id='vn2'>Sarah và Lisa luôn thích lang thang tại trung tâm thương mại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But one Saturday , after shopping for jeans , Sarah pulled a new shirt out of her bag .</s>
+<s id='vn3'>Nhưng một hôm thứ bảy , sau khi mua sắm quần jean , Sarah kéo một chiếc áo mới ra khỏi túi xách của mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Lisa did n't remember seeing Sarah buy it .</s>
+<s id='vn4'>Lisa không nhớ nhìn thấy Sarah mua nó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" I did n't , " Sarah told her .</s>
+<s id='vn5'>" Mình không có mua . " , Sarah bảo .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" I lifted it . "</s>
+<s id='vn6'>" Mình đã lấy trộm nó " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Lisa was upset and puzzled .</s>
+<s id='vn7'>Lisa đã rất buồn và bối rối .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Stealing did n't seem like something Sarah would do .</s>
+<s id='vn8'>Ăn cắp không có vẻ giống như một điều mà Sarah sẽ làm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Who Shoplifts ?</s>
+<s id='vn9'>Ai hay ăn cắp vặt ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>There 's no typical shoplifter - people who steal from stores can be any age , race , gender , and social and economic background .</s>
+<s id='vn10'>Không có kẻ cắp điển hình - những người ăn cắp từ các cửa hàng có thể ở bất kỳ độ tuổi , chủng tộc , giới tính , và nền kinh tế xã hội nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Shoplifters generally fall into two categories :</s>
+<s id='vn11'>Ăn cắp thường rơi vào 2 loại :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>1 . Professional shoplifters .</s>
+<s id='vn12'>1 . Kẻ cắp chuyên nghiệp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>These people usually take expensive items , like clothing and jewelry , that they can resell easily .</s>
+<s id='vn13'>Những người này thường lấy những vật dụng đắt tiền , như quần áo và đồ trang sức , họ có thể bán lại dễ dàng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>2 . Amateur or casual shoplifters .</s>
+<s id='vn14'>2 . Kẻ cắp nghiệp dư hoặc ngẫu hứng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Most shoplifters are in this group .</s>
+<s id='vn15'>Hầu hết mọi kẻ cắp trong cửa hàng thuộc nhóm này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Casual shoplifters do n't usually go into a store with the intention of stealing - they simply see the opportunity to take something and do .</s>
+<s id='vn16'>Kẻ cắp ngẫu hứng hiếm khi đi vào cửa hàng với ý định ăn cắp - họ chỉ thấy có cơ hội để lấy cái gì đó và ăn cắp .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Many people assume that shoplifters have a mental disorder or that they must really need the items they are stealing in order to survive .</s>
+<s id='vn17'>Nhiều người cho rằng kẻ ăn cắp vặt bị rối loạn tâm thần hoặc họ phải thực sự cần món hàng họ đang ăn cắp để sống sót .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>But the truth is that 's not why most people steal .</s>
+<s id='vn18'>Nhưng sự thật là đó không phải là lý do hầu hết mọi người ăn cắp .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Very few people have kleptomania ( a compulsive urge to steal ) , and many people who steal have enough money to pay for the items .</s>
+<s id='vn19'>Rất ít người có xung động ăn cắp ( thôi thúc bắt buộc để ăn cắp ) , và nhiều người ăn cắp có đủ tiền để trả tiền món hàng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Someone might shoplift for many reasons .</s>
+<s id='vn20'>Một người có thể ăn cắp ở cửa hàng với nhiều lý do .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But there 's no way around the fact that shoplifting is stealing - and in most places there are heavy penalties for it , including being arrested and possibly charged with a crime .</s>
+<s id='vn21'>Tuy nhiên , không có cách nào xung quanh thực tế ăn cắp là ăn cắp - và ở hầu hết mọi nơi đều có những hình phạt nặng cho tội ăn cắp , bao gồm cả bị bắt giữ và có thể bị phạt tiền vì phạm tội .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Some people may not realize how serious shoplifting can be .</s>
+<s id='vn22'>Một số người có thể không nhận ra ăn cắp có thể nghiêm trọng như thế nào .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>What might seem like an innocent prank can actually affect a person 's future , including the chances of getting a job .</s>
+<s id='vn23'>Điều có thể có vẻ như một trò đùa vô hại thực sự có thể ảnh hưởng đến tương lai của một người , bao gồm cả cơ hội tìm được việc làm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Lots of teens find out the hard way that stores take shoplifting very seriously .</s>
+<s id='vn24'>Rất nhiều thanh thiếu niên đã phải trả giá đắt để hiểu rằng các cửa hàng xem việc ăn cắp nghiêm trọng như thế nào .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Why do some teens shoplift ?</s>
+<s id='vn25'>Tại sao một số thiếu niên ăn cắp ở cửa hàng ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Peer pressure is one reason why people shoplift .</s>
+<s id='vn26'>Ảnh hưởng của bạn cùng lứa là một lý do khiến mọi người ăn cắp ở cửa hàng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Some might do it to seem cool or daring .</s>
+<s id='vn27'>Một số có thể làm điều đó để được bạn bè nhìn như hay ho , táo bạo .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Some do it because their friends shoplift and they want to be part of the group .</s>
+<s id='vn28'>Một số làm điều đó bởi vì bạn bè chúng ăn cắp và chúng muốn mình là một phần của nhóm .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some people shoplift because they want things their classmates have but ca n't afford them .</s>
+<s id='vn29'>Một vài người ăn cắp ở cửa hàng vì họ muốn những thứ bạn học của họ có nhưng không có tiền để mua giống như vậy .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Some people shoplift to see what they can get away with .</s>
+<s id='vn30'>Một số người ăn cắp để xem họ có thể làm gì .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>They may do it as a way to challenge authority or be nonconformist .</s>
+<s id='vn31'>Họ có thể làm điều đó như là một cách để thách thức chính quyền hoặc tỏ ra mình không theo khuôn mẫu nào cả .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Or they may get a rush out of doing something risky that has the potential to get them in serious trouble .</s>
+<s id='vn32'>Hoặc họ có thể bị thúc đẩy làm một cái gì đó có khả năng nguy hiểm để khiến họ gặp rắc rối nghiêm trọng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Others do it as a way to get attention from parents or friends .</s>
+<s id='vn33'>Một vài người khác thì ăn cắp như một cách để có được sự chú ý từ cha mẹ hoặc bạn bè .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>A few people shoplift because they see it as a way of getting back at a store they do n't like or a company whose values they question .</s>
+<s id='vn34'>Một vài người ăn cắp ở cửa hàng vì họ xem như một cách để lấy lại tại một cửa hàng mà họ không thích hoặc một công ty mà họ nghi ngờ về chất lượng của nó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But shoplifting rarely affects the store as much as it affects the people who shop there .</s>
+<s id='vn35'>Nhưng ăn cắp hiếm khi ảnh hưởng đến các cửa hàng nhiều như nó ảnh hưởng đến những người mua sắm tại đó .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Some stores may add the cost of shoplifting into their prices .</s>
+<s id='vn36'>Một số cửa hàng có thể thêm các chi phí ăn cắp vào giá của họ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So the people shopping there are the ones paying extra , not the stores .</s>
+<s id='vn37'>Vì vậy , những người mua sắm là những người phải trả tiền thêm , không phải các cửa hàng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>What Happens to Shoplifters ?</s>
+<s id='vn38'>Chuyện gì xảy ra với những người ăn cắp ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Getting caught shoplifting can be a lot more serious than people may think .</s>
+<s id='vn39'>Bị bắt quả tang khi đang ăn cắp có thể nghiêm trọng hơn rất nhiều so với mọi người có thể nghĩ đến .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Some of the things that can happen to shoplifters are :</s>
+<s id='vn40'>Một số điều có thể xảy ra cho kẻ cắp là :</s>
+</spair>
+<spair id='41'>
+<s id='en41'>- They may be arrested and paraded through a store in handcuffs .</s>
+<s id='vn41'>- Họ có thể bị bắt giữ và phải diễu hành qua cửa hàng trong tình trạng bị còng tay .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>- They may face charges for theft .</s>
+<s id='vn42'>- Họ có thể bị phạt tiền vì hành vi trộm cắp .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>- They may be banned from stores or malls .</s>
+<s id='vn43'>- Họ có thể bị các cửa hàng hoặc trung tâm mua sắm cấm cửa .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>- People who have been arrested for shoplifting — especially if it 's more than once — may end up with a criminal record .</s>
+<s id='vn44'>- Những người đã bị bắt vì ăn cắp đặc biệt là nếu nhiều hơn một lần - có thể kết thúc với một hồ sơ phạm tội .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>This can make it harder to get a job , get into college , or do the other things they want .</s>
+<s id='vn45'>Điều này có thể gây khó khăn hơn để có được một công việc , nhận được vào đại học , hoặc làm những việc khác mà họ muốn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>People do n't have to get caught for shoplifting to affect their lives .</s>
+<s id='vn46'>Mọi người chẳng cần phải bị bắt vì ăn cắp ở cửa hàng để tác động đến cuộc sống của họ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Some people may feel guilty or ashamed of what they 've done .</s>
+<s id='vn47'>Một số người có thể cảm thấy tội lỗi hoặc xấu hổ về những gì họ đã làm .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>It can cost the person self-respect or the respect of others .</s>
+<s id='vn48'>Nó có thể phải trả giá bằng chính lòng tự trọng của người ăn cắp hay sự tôn trọng của người khác .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Sometimes people lose friends who decide they do n't want to be close to someone who does n't have the same values .</s>
+<s id='vn49'>Đôi khi người ta bị mất bạn bè bởi vì những người ấy quyết định họ không muốn gần gũi với một người không có cùng giá trị .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Helping a Friend Who Shoplifts</s>
+<s id='vn50'>Giúp một người bạn hay ăn cắp vặt</s>
+</spair>
+<spair id='51'>
+<s id='en51'>It can be hard to raise tough topics like shoplifting with a friend .</s>
+<s id='vn51'>Có thể rất khó để đề cập đến 1 chủ đề tế nhị như ăn cắp vặt với một người bạn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Try saying that you 're concerned , and that you do n't want your friend to get hurt in the long run .</s>
+<s id='vn52'>Hãy thử nói rằng bạn quan tâm họ , và bạn không muốn bạn bè của mình bị tổn thương về lâu về dài .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Lots of people simply do n't know how serious the penalties for shoplifting can be .</s>
+<s id='vn53'>Nhiều người hoàn toàn không biết hình phạt cho người ăn cắp ở cửa hàng có thể nghiêm trọng đến mức nào .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Sometimes friends are looking for other people to give them feedback about their choices .</s>
+<s id='vn54'>Đôi khi bạn bè đang tìm kiếm những người khác để cung cấp cho họ phản hồi về sự lựa chọn của họ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Just talking about it may help your friend think more about what he or she is doing and why .</s>
+<s id='vn55'>Chỉ cần nói về điều đó có thể giúp đỡ bạn bè của bạn suy nghĩ nhiều hơn về những gì họ đang làm và lý do tại sao .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you think it 's wrong to take things without paying for them , say so .</s>
+<s id='vn56'>Nếu bạn nghĩ việc lấy đồ mà không trả tiền là sai trái , hãy nói thật như vậy .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>You can state your own point of view without giving your friend a lecture , putting him or her down , or being judgmental .</s>
+<s id='vn57'>Bạn có thể nói lên quan điểm riêng của mình mà không lên mặt dạy đời bạn bè , khiến họ cảm thấy tồi tệ hoặc có cảm giác đang bị phê phán .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Simply say what you believe , such as : " I do n't think it 's right to take things without paying . "</s>
+<s id='vn58'>Đơn giản chỉ cần nói những gì bạn tin tưởng , chẳng hạn như : " Tôi không nghĩ việc lấy đồ mà không trả tiền là đúng . "</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Sometimes it takes courage to speak up like this .</s>
+<s id='vn59'>Đôi khi cần có can đảm để lên tiếng như thế .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But saying nothing can send a friend the message that you 're OK with the behavior .</s>
+<s id='vn60'>Nhưng không nói gì có thể khiến bạn bè tưởng rằng bạn đồng ý với hành vi đó .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>When you ca n't talk to your friend yourself or you 're worried that the problem is too big to tackle alone , discuss it with a counselor or other trusted adult .</s>
+<s id='vn61'>Khi bạn không thể tự mình nói chuyện với người bạn hoặc bạn lo rằng vấn đề lớn đến nỗi không thể đối phó một mình , hãy bàn bạc với người cố vấn hay những người lớn mà bạn tin tưởng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Japanese police have begun searching for victims of the March 11 earthquake and tsunami within a 10km zone around the damaged Fukushima nuclear plant .</s>
+<s id='vn62'>Cảnh sát Nhật Bản đã bắt đầu tìm kiếm các nạn nhân của trận động đất và sóng thần ngày 11 tháng ba trong khu vực 10 km quanh Nhà máy hạt nhân Fukushima bị thiệt hại .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>If your friend wo n't stop shoplifting , avoid shopping together .</s>
+<s id='vn63'>Nếu bạn của bạn sẽ không dừng thói quen ăn cắp , hãy tránh mua sắm cùng nhau .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>If your friend is caught , you may be under suspicion , too .</s>
+<s id='vn64'>Nếu bạn của bạn bị bắt , bạn cũng có thể bị nghi ngờ .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You could even suffer some of the same consequences ( like being banned from a store ) .</s>
+<s id='vn65'>Bạn thậm chí có thể phải cùng chịu một số hậu quả ( ví dụ như bị một cửa hàng cấm cửa ) .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>If you 've shoplifted before , think about how you felt afterward .</s>
+<s id='vn66'>Nếu bạn đã ăn cắp ở cửa hàng trước đây , hãy suy nghĩ về cảm giác của bạn sau đó .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Would you want the people you respect most to know ?</s>
+<s id='vn67'>Bạn có muốn những người mà bạn tôn trọng nhất biết điều đó ?</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Part of growing up is becoming aware of how we feel , what we think , and what values are important to us .</s>
+<s id='vn68'>Một phần của việc trưởng thành là trở nên nhận thức được chúng ta cảm thấy như thế nào , những gì chúng ta nghĩ , và những giá trị quan trọng đối với chúng ta .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Learning from past mistakes is a way to do that .</s>
+<s id='vn69'>Học từ những sai lầm trong quá khứ là một cách để làm điều đó .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>It 's never too late to change things we do n't like , or to act in ways that help us to be the person we want to be .</s>
+<s id='vn70'>Không bao giờ là quá muộn để thay đổi những điều chúng ta không thích , hoặc hành động theo những cách giúp chúng ta trở thành người mà chúng ta muốn .</s>
+</spair>
+</text>
+</doc>

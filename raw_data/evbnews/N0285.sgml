@@ -1,0 +1,236 @@
+﻿<doc id='N0285'>
+<head>
+<title>5 Myths About sexually transmitted diseases</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Myths About sexually transmitted diseases</s>
+<s id='vn1'>5 suy nghĩ sai về các bệnh lây truyền qua đường tình dục</s>
+</spair>
+<spair id='2'>
+<s id='en2'>So much wrong information about sexually transmitted diseases ( STDs ) gets passed around that it 's no surprise the diseases do too .</s>
+<s id='vn2'>Vì có rất nhiều thông tin sai lệch về các bệnh lây truyền qua đường tình dục ( BLTQĐTD ) , nên chẳng có gì bất ngờ khi các bệnh này rất phổ biến .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Of course , the only way to be 100 % sure you wo n't get an STD like herpes , chlamy dia , or HIV , is not to have any type of sex ( abstinence ) .</s>
+<s id='vn3'>Tất nhiên , cách duy nhất để chắc chắn 100% là bạn sẽ không mắc một BLTQĐTD như mụn rộp , chlamydia , hoặc HIV , là không có bất kỳ dạng quan hệ tình dục nào ( kiêng nhịn ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But if you do decide to have sex , you 'll need to stay informed and learn what 's true and what 's not .</s>
+<s id='vn4'>Nhưng nếu bạn quyết định có quan hệ tình dục , bạn sẽ cần phải nắm được thông tin và tìm hiểu điều gì là đúng và không đúng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Here are 5 of the more common things that people get wrong about STDs .</s>
+<s id='vn5'>Dưới đây là 5 trong những sai lầm mọi người thường mắc về các BLRQĐTD .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Myth : Only " trashy " people get STDs .</s>
+<s id='vn6'>Suy nghĩ sai : Chỉ có những người " sống buông thả " mới mắc các BLTQĐTD .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Fact : STDs do n't discriminate .</s>
+<s id='vn7'>Thực tế : Loại bệnh này không chừa ai hết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Rich people , poor people , athletes , math geeks , CEOs and professors get STD.</s>
+<s id='vn8'>Người giàu , nghèo , vận động viên , nhà toán học , giám đốc điều hành , giáo sư đều có thể mắc BLTQĐTD .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Even someone having sex for the first time can get an STD.</s>
+<s id='vn9'>Ngay cả một người mới quan hệ tình dục lần đầu tiên cũng có thể bị lây bệnh .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The only people who have no risk of getting an STD are people who have n't had sex or any kind of sexual contact .</s>
+<s id='vn10'>Những người duy nhất không có nguy cơ mắc BLTQĐTD là những người không có quan hệ tình dục hay dạng tiếp xúc giới tính nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>What can you do ?</s>
+<s id='vn11'>Bạn có thể làm gì ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>If you decide to have sex , always use a condom every time .</s>
+<s id='vn12'>Nếu bạn quyết định có quan hệ tình dục , luôn luôn sử dụng bao cao su trong mỗi lần .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Even if you 're already on another kind of birth control , like the Pill , you should still use a condom .</s>
+<s id='vn13'>Thậm chí nếu bạn đã đang dùng một biện pháp tránh thai khác , như là thuốc ngừa thai , bạn vẫn nên sử dụng bao cao su .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>That 's because condoms are the only type of birth control that reduces the risk of getting an STD .</s>
+<s id='vn14'>Bởi vì bao cao su là loại dụng cụ ngừa thai làm giảm nguy cơ mắc BLTQĐTD .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Myth : If your partner has an STD , you 'll see it .</s>
+<s id='vn15'>Suy nghĩ sai : Nếu đối tác của bạn mắc bệnh , bạn sẽ biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Fact : There 's often no sign that a person has an STD .</s>
+<s id='vn16'>Thực tế : Thường không có dấu hiệu cho thấy một người bị BLTQĐTD .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Even doctors often ca n't tell by looking if people have STDs .</s>
+<s id='vn17'>Ngay cả các bác sĩ cũng không thể khẳng định một người có bị mắc bệnh hay không chỉ bằng cách nhìn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>So they need to do tests , like bloodwork .</s>
+<s id='vn18'>Vì vậy , họ cần phải làm các xét nghiệm , giống như xét nghiệm máu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>People with STDs might not know they have them : STDs do n't always cause symptoms .</s>
+<s id='vn19'>Những người có BLTQĐTD có thể không biết mình bị bệnh bởi vì không phải lúc nào cũng xuất hiện triệu chứng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But it is possible to carry and spread the virus without ever having an outbreak .</s>
+<s id='vn20'>Nhưng họ có thể mang và phát tán vi-rút mà không bùng phát .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Untreated STDs can add up to serious health problems , like infertility ( the inability to have a baby ) or pelvic inflammatory disease ( PID ) , which may land you in the hospital .</s>
+<s id='vn21'>Nếu không điều trị , BLTQĐTD có thể gây ra các vấn đề sức khỏe nghiêm trọng , ví dụ như vô sinh ( không có khả năng có con ) , bệnh viêm khung chậu ( PID ) , có thể làm bạn phải nhập viện .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>What can you do ?</s>
+<s id='vn22'>Bạn có thể làm gì để tự bảo vệ ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Even if you both think you 're clean , get checked out before having sex .</s>
+<s id='vn23'>Ngay cả khi cả hai đều nghĩ rằng mình mạnh khỏe , vẫn nên kiểm tra có bệnh hay không trước khi quan hệ tình dục .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Then use a condom every time , just to be sure .</s>
+<s id='vn24'>Vì vậy , hãy sử dụng bao cao su mỗi khi quan hệ , chỉ để chắc chắn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It can take a while for some STDs to show up on tests .</s>
+<s id='vn25'>Có thể phải mất một thời gian thì một số BLTQĐTD mới có kết quả dương tính khi xét nghiệm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Myth : You can avoid STDs by having oral or anal sex .</s>
+<s id='vn26'>Suy nghĩ sai : Bạn có thể tránh BLTQĐTD bằng cách quan hệ tình dục đường miệng hay hậu môn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Fact : Where there 's sex ( oral , anal , vaginal , or even just sexual contact ) , there can be STDs .</s>
+<s id='vn27'>Thực tế : Trong trường hợp có quan hệ tình dục ( bằng miệng , hậu môn , âm đạo , hoặc thậm chí chỉ cần tiếp xúc tình dục ) , đều có khả năng mắc BLTQĐTD .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The viruses or bacteria that cause STDs can enter the body through tiny cuts or tears in the mouth and anus , as well as the genitals .</s>
+<s id='vn28'>Các vi-rút hoặc vi khuẩn gây BLTQĐTD có thể đi vào cơ thể qua vết trầy xướt rất nhỏ trong miệng và lỗ hậu môn , cũng như đường sinh dục .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some STDs , like herpes or genital warts , can spread just through skin-to-skin contact with an infected area or sore .</s>
+<s id='vn29'>Một số BLTQĐTD , như mụn rộp hoặc sùi mào gà , có thể phát tán chỉ qua tiếp xúc da với vùng bị nhiễm bệnh hoặc lở loét .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>What can you do ?</s>
+<s id='vn30'>Bạn làm được gì ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Use a condom or a dental dam every time you have oral or anal sex .</s>
+<s id='vn31'>Sử dụng bao cao su hoặc màng chắn miệng mỗi khi quan hệ tình dục bằng miệng hay hậu môn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>If the taste of latex is n't your thing , there are flavored condoms made specifically for oral sex .</s>
+<s id='vn32'>Nếu mùi của cao su làm bạn khó chịu , có loại bao cao su mùi thơm dành riêng cho quan hệ đường miệng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Myth : Once you 've had an STD , there 's no chance of getting it again .</s>
+<s id='vn33'>Suy nghĩ sai : Một khi bạn đã từng bị BLTQĐTD , sẽ không có khả năng mắc lại .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Fact : You can get some STDs more than just once .</s>
+<s id='vn34'>Thực tế : Bạn có thể mắc BLTQĐTD không chỉ một lần .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Some STDs are yours for life , like herpes and HIV .</s>
+<s id='vn35'>Một số BLTQĐTD theo bạn suốt đời , như mụn rộp và HIV .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Others , like chlamydia and gonorrhea , can be treated , but you may get infected again if you have sexual contact with someone who has them .</s>
+<s id='vn36'>Những bệnh khác , như nấm chlamydia và bệnh lậu , có thể chữa trị , nhưng bạn có thể bị nhiễm trở lại nếu bạn có quan hệ tình dục với người bị bệnh .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>What can you do ?</s>
+<s id='vn37'>Bạn làm được gì ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Protect yourself with condoms , of course !</s>
+<s id='vn38'>Bảo vệ bản thân với bao cao su , tất nhiên !</s>
+</spair>
+<spair id='39'>
+<s id='en39'>And if you 're having sex , let your doctor know so you can get tested regularly .</s>
+<s id='vn39'>Và nếu bạn có quan hệ tình dục , hãy cho bác sĩ biết để bạn có thể được kiểm tra sức khỏe thường xuyên .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If you do get diagnosed with an STD , your partner should be treated at the same time you are .</s>
+<s id='vn40'>Nếu bạn bị chẩn đoán mắc BLTQĐTD , bạn tình của bạn cũng nên được điều trị cùng lúc .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>That way your partner will avoid future problems - and avoid reinfecting you .</s>
+<s id='vn41'>Bằng cách đó , bạn tình của bạn sẽ tránh được các vấn đề trong tương lai , và tránh làm bạn bị tái nhiễm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Myth : If you get checked and you 're STD free , your partner does n't need to get checked as well .</s>
+<s id='vn42'>Suy nghĩ sai : Nếu bạn đã kiểm tra và không mắc BLTQĐTD thì bạn tình của bạn cũng không cần phải kiểm tra .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Fact : Your partner could have an STD and not know it .</s>
+<s id='vn43'>Thực tế : Bạn tình của bạn có thể bị bệnh mà không biết .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Who wants to make the effort to get tested , find out they 're clean , and then end up catching an STD from a partner anyway ?</s>
+<s id='vn44'>Có ai lại muốn nỗ lực để được xét nghiệm , và biết mình khoẻ mạnh để rồi sau đó lại bị lây bệnh từ bạn tình ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>What can you do ?</s>
+<s id='vn45'>Bạn làm được gì ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Get tested together .</s>
+<s id='vn46'>Hãy cùng nhau đi xét nghiệm .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It may not be your most romantic date , but nothing says " I care " like trying to protect a boyfriend or girlfriend from illness .</s>
+<s id='vn47'>Có thể việc đó không lãng mạn chút nào , nhưng điều đó cho thấy bạn rất quan tâm chăm sóc người yêu khi bảo vệ họ khỏi bị nhiễm bệnh .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>STDs are more than just an embarrassment .</s>
+<s id='vn48'>Các BLTQĐTD không chỉ gây khó chịu .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>They 're a serious health problem .</s>
+<s id='vn49'>Chúng còn là vấn đề sức khoẻ nghiêm trọng .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Left untreated , some STDs can cause permanent damage , such as infertility and even death .</s>
+<s id='vn50'>Nếu không được điều trị , một số BLTQĐTD có thể gây ra biến chứng vĩnh viễn , như là vô sinh và thậm chí tử vong .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>There are tons of myths out there about sex and STDs - the ones above are just a few of them .</s>
+<s id='vn51'>Có rất nhiều suy nghĩ sai lầm về giới tính và các BLTQĐTD - trên đây chỉ là một vài trong số đó .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Luckily , you only need to remember two essential truths :</s>
+<s id='vn52'>May mắn thay , bạn chỉ cần nhớ hai sự thật quan trọng :</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Use condoms .</s>
+<s id='vn53'>Sử dụng bao cao su .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Get tested .</s>
+<s id='vn54'>Kiểm tra sức khỏe .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Reviewed by : Krishna Wood White , MD , MPH</s>
+<s id='vn55'>Tường thuật : Krishna Wood White , MD , MPH</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Date reviewed : June 2009</s>
+<s id='vn56'>Ngày : Tháng 6 năm 2009</s>
+</spair>
+</text>
+</doc>

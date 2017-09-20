@@ -1,0 +1,164 @@
+﻿<doc id='N0176'>
+<head>
+<title>Hypertension</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Hypertension</s>
+<s id='vn1'>Cao huyết áp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Hypertension , or high blood pressure , affects nearly one in four adults in the UK .</s>
+<s id='vn2'>Tăng huyết áp , hoặc huyết áp cao , tấn công gần mỗi một trong bốn người trưởng thành ở nước Anh .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It rarely makes a person feel ill .</s>
+<s id='vn3'>Nó hiếm khi làm cho người ta cảm thấy bị bệnh .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>If it goes undetected and untreated it can lead to serious complications , including heart attack .</s>
+<s id='vn4'>Nếu nó xảy ra không bị phát hiện và không được chữa trị có thể dẫn đến các biến chứng nghiêm trọng , bao gồm đau tim .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Over a third of people with hypertension are not being treated and their health is at risk .</s>
+<s id='vn5'>Trên một phần ba số người bị cao huyết áp không được chữa trị và sức khoẻ của họ gặp nguy cơ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>What is hypertension ?</s>
+<s id='vn6'>Tăng huyết áp là gì ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Blood pressure is a measure of the force exerted by the blood flowing through the arteries - the vessels that carry blood from the heart to the body .</s>
+<s id='vn7'>Huyết áp là việc đo áp lực được tạo ra bởi lưu lượng máu qua động mạch - các mạch máu mang máu từ trái tim đến cơ thể .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A certain amount of pressure in the arteries is normal and necessary to get the blood to where it needs to go .</s>
+<s id='vn8'>Một lượng áp suất cụ thể trong động mạch là bình thường và cần thiết để đưa máu đến nơi nó cần đi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Blood pressure fluctuates throughout the day , in particular , it increases during exercise and decreases during sleep .</s>
+<s id='vn9'>Huyết áp thay đổi liên tục trong suốt cả ngày , đặc biệt là , nó tăng khi vận động và giảm khi ngủ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>However , if the pressure becomes consistently too high it is a health hazard .</s>
+<s id='vn10'>Tuy nhiên , nếu áp suất trở nên luôn luôn cao quá đó là hiểm hoạ cho sức khoẻ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Repeated of high pressure can damage the arteries , causing them to thicken and become less elastic .</s>
+<s id='vn11'>Sự lặp đi lặp lại của áp suất cao có thể gây hại cho các động mạch , làm chúng dày lên và trở nên kém đàn hồi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This , in turn , limits the flow of blood and may cause permanently raised blood pressure .</s>
+<s id='vn12'>Việc đó , sẽ lần lượt làm giới hạn luồng chảy của máu và có thể làm tăng huyết áp thường xuyên .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>How can I find out if I have high blood pressure ?</s>
+<s id='vn13'>Làm sao tôi có thể phát hiện nếu tôi bị cao huyết áp ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>All adults should have their blood pressure checked at least once every five years , but preferably more often .</s>
+<s id='vn14'>Tất cả người trưởng thành nên kiểm tra huyết áp của mình ít nhất năm năm một lần , nhưng tốt nhất là thường xuyên hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This is especially as you get older , as blood pressure goes up with age .</s>
+<s id='vn15'>Đặc biệt khi bạn già đi , bởi vì huyết áp tăng lên theo tuổi tác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Blood pressure is measured using a cuff device , which is worn on the arm and can be inflated and deflated .</s>
+<s id='vn16'>Huyết áp được đo bằng cách sử dụng thiết bị băng quấn , được băng qua cánh tay và có thể được thổi phồng và làm xẹp đi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>A blood pressure reading gives two measurements in millimetres of mercury or mmHg .</s>
+<s id='vn17'>Kết quả đo huyết áp cho ra hai thông số ở mi-li-mét thuỷ ngân hoặc mmHg .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The first is called the systolic pressure , which is the force of the blood as the heart contracts to pump it around the body .</s>
+<s id='vn18'>Thông số đầu tiên được gọi là áp suất tâm thu , là lực của máu khi tim co thắt để bơm máu đi khắp cơ thể .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The second is called the diastolic pressure , which is the force while the heart is relaxing and filling with blood again in preparation for the next contraction .</s>
+<s id='vn19'>Thông số thứ hai được gọi là áp suất tâm trương , là lực trong khi tim thư giãn và chứa đầy máu lần nữa để chuẩn bị cho lần co thắt tiếp theo .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>A normal reading for an adult should generally be no higher than 140 85mmHg .</s>
+<s id='vn20'>Chỉ số huyết áp bình thường cho người trưởng thành thường không nên cao hơn 140 85mmHg .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>People with certain medical , such as diabetes , should aim for a blood pressure even lower than - around 130 80mmHg or below .</s>
+<s id='vn21'>Những người có các bệnh nhất định , như là tiểu đường , thậm chí nên duy trì mức huyết áp thấp hơn - khoảng 130 80mmHg hay dưới mức đó .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Several readings should be taken over a period of time to get an accurate measurement as blood pressure can fluctuate and one high reading does not necessarily mean a person has hypertension .</s>
+<s id='vn22'>Nhiều lần đo nên được thực hiện trong một khoảng thời gian để được kết quả đo chính xác bởi vì huyết áp có thể thay đổi thất thường và một lần đo có kết quả cao không nhất thiết có nghĩa là một người bị tăng huyết áp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>What causes it ?</s>
+<s id='vn23'>Điều gì gây ra cao huyết áp ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>In over 90% of cases there is no single cause , but drinking too much alcohol , being overweight or obese , eating too much salt and not doing enough exercise contribute .</s>
+<s id='vn24'>Trong hơn 90% trường hợp thì không có nguyên nhân đơn , nhưng uống quá nhiều rượu , tăng cân hoặc béo phì , ăn quá nhiều muối và không tập thể dục đủ đều góp phần gây nên cao huyết áp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>High blood pressure can also run in families .</s>
+<s id='vn25'>Huyết áp cao cũng di truyền trong dòng họ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In a very small number of cases , a single cause can be found , such as kidney disease .</s>
+<s id='vn26'>Ở một số rất ít trường hợp , nguyên nhân đơn lẻ có thể được tìm thấy , như là bệnh thận .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Some medications may also cause a rise in blood pressure .</s>
+<s id='vn27'>Một số dược phẩm cũng có thể gây ra tăng huyết áp .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>How can it be treated ?</s>
+<s id='vn28'>Làm sao chữa trị ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>There are many lifestyle changes can make to reduce risk of hypertension or help lower their blood pressure if it is already high .</s>
+<s id='vn29'>Có nhiều thay đổi trong lối sống có thể làm giảm nguy cơ tăng huyết áp hoặc giúp hạ thấp huyết áp của bệnh nhân nếu đã cao .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>These include eating a healthier diet , doing more exercise and cutting down on salt and alcohol intakes .</s>
+<s id='vn30'>Các thay đổi đó bao gồm một chế độ ăn uống lành mạnh , tập thể dục đều đặn hơn cùng với giảm lượng muối và rượu hấp thu .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Smoking is not a direct risk factor for high blood pressure , but it does increase the chance of heart attack , heart failure and stroke .</s>
+<s id='vn31'>Hút thuốc không phải là một yếu tố nguy cơ trực tiếp cho huyết áp cao , nhưng nó cũng làm tăng khả năng xảy ra đau tim , suy tim và đột quỵ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Within two years of stopping smoking a person 's risk of a heart attack is halved .</s>
+<s id='vn32'>Trong vòng hai năm ngưng hút thuốc nguy cơ bị đau tim của một người giảm đi được phân nửa .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Research suggests relaxation techniques , to help with stress , may be useful for some people in managing their blood pressure .</s>
+<s id='vn33'>Nghiên cứu đề xuất các kỹ thuật thư giãn , để giúp giảm căng thẳng , có thể hữu ích đối với một số người trong việc kiểm soát huyết áp của họ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Medications are also available to help lower blood pressure , including ACE inhibitors , beta-blockers , calcium channel blockers and diuretics .</s>
+<s id='vn34'>Các loại thuốc cũng có để giúp làm giảm huyết áp , bao gồm chất ức chế ACE , chất phong bế bêta , chất đối kháng can-xi và thuốc lợi niệu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Often people need to take more than one of these .</s>
+<s id='vn35'>Thường mọi người cần phải uống kết hợp nhiều hơn một loại thuốc trên .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Why is it important to avoid high blood pressure ?</s>
+<s id='vn36'>Tại sao phòng tránh huyết áp cao lại quan trọng ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If blood pressure remains high it can start to damage the blood vessels , which , in turn , can lead to heart attack , stroke , heart or kidney failure or eye damage .</s>
+<s id='vn37'>Nếu huyết áp tiếp tục cao nó có thể bắt đầu gây hại các mạch máu , lần lượt có thể dẫn đến đau tim , đột quỵ , suy tim hoặc thận hay tổn thương mắt .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>If you have hypertension , reducing your blood pressure by 5mmHg can reduce your risk of having a heart attack by about 20% .</s>
+<s id='vn38'>Nếu bạn bị cao huyết áp , giảm huyết áp của bạn trong 5mmHg có thể làm giảm khoảng 20% nguy cơ bị đau tim của bạn .</s>
+</spair>
+</text>
+</doc>

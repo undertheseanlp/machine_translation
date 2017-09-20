@@ -1,0 +1,248 @@
+﻿<doc id='N0623'>
+<head>
+<title>I Wish You Enough !</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>I Wish You Enough !</s>
+<s id='vn1'>Tôi Chúc Bạn Đủ !</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I never really thought that I 'd spend as much time in airports as I do .</s>
+<s id='vn2'>Tôi thực sự không bao giờ nghĩ rằng mình lại mất nhiều thời gian ở các sân bay như vậy .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>I do n't know why .</s>
+<s id='vn3'>Tôi không hiểu lý do vì sao .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I always wanted to be famous and that would mean lots of travel .</s>
+<s id='vn4'>Tôi luôn muốn được nổi tiếng và điều đó nghĩa là sẽ đi lại nhiều .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But I 'm not famous , yet I do see more than my share of airports .</s>
+<s id='vn5'>Nhưng tôi không nổi tiếng , tuy vậy tôi đã thấy được nhiều thứ hơn là trải nghiệm của tôi về sân bay .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>I love them and I hate them .</s>
+<s id='vn6'>Tôi yêu thích chúng và tôi cũng ghét chúng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I love them because of the people I get to watch .</s>
+<s id='vn7'>Yêu thích là vì ở đó tôi có thể nhìn ngắm được nhiều người .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But they are also the same reason why I hate airports .</s>
+<s id='vn8'>Nhưng đó cũng lý do tại sao tôi ghét sân bay .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It all comes down to " hello " and " goodbye . "</s>
+<s id='vn9'>Tất cả xuất phát từ những tiếng " xin chào " và " tạm biệt . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>I must have mentioned this a few times while writing my stories for you .</s>
+<s id='vn10'>Tôi chắc đã đề cập chi tiết này vài lần khi viết những câu chuyện của tôi dành cho bạn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I have great difficulties with saying goodbye .</s>
+<s id='vn11'>Tôi thường gặp khó khăn lớn khi phải nói lời từ biệt .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Even as I write this I am experiencing that pounding sensation in my heart .</s>
+<s id='vn12'>Ngay khi tôi viết bài này tôi cảm nhận được trái tim tôi đang đập mạnh .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If I am watching such a scene in a movie I am affected so much that I need to sit up and take a few deep breaths .</s>
+<s id='vn13'>Nếu tôi đang theo dõi cảnh tương tự trong phim tôi cũng xúc động mạnh đến nỗi tôi cần ngồi dậy và hít vài hơi thở sâu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>So when faced with a challenge in my life I have been known to go to our local airport and watch people say goodbye .</s>
+<s id='vn14'>Vì thế khi đối mặt với một thử thách trong cuộc sống , ai cũng biết tôi sẽ đến sân bay địa phương của chúng tôi và nhìn ngắm người ta nói lời từ biệt .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>I figure nothing that is happening to me at the time could be as bad as having to say goodbye .</s>
+<s id='vn15'>Tôi nghĩ rằng không có chuyện gì đã đang xảy đến với tôi vào lúc đó lại có thể tồi tệ bằng việc phải nói lời chia tay .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Watching people cling to each other , crying , and holding each other in that last embrace makes me appreciate what I have even more .</s>
+<s id='vn16'>Nhìn mọi người bám víu nhau , khóc , và ôm nhau lần cuối cùng làm tôi trân trọng hơn những gì tôi đang có .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Seeing them finally pull apart , extending their arms until the tips of their fingers are the last to let go , is an image that stays forefront in my mind throughout the day .</s>
+<s id='vn17'>Thấy họ cuối cùng rời nhau ra , nhoài cánh tay ra đến khi những đầu ngón tay chạm nhau lần cuối cùng để rời xa nhau , là một hình ảnh cứ lẩn quẩn trong tâm trí của tôi suốt ngày hôm đó .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>On one of my recent business trips , when I arrived at the counter to check-in , the woman said , " How are you today ? "</s>
+<s id='vn18'>Vào một chuyến công tác gần đây của tôi , khi tôi đến quầy đăng ký , một người phụ nữ chào hỏi tôi " Hôm nay anh có khoẻ không ? "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I replied , " I am missing my wife already and I have n't even said goodbye . "</s>
+<s id='vn19'>tôi đáp " Tôi đã thấy nhớ vợ của tôi rồi và thậm chí tôi còn chưa nói câu tạm biệt . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>She then looked at my ticket and began to ask , " How long will you ... Oh , my God .</s>
+<s id='vn20'>Sau đó cô ấy rồi nhìn vé của tôi và bắt đầu hỏi , " Bao lâu anh sẽ ... Ồ , Chúa ơi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You will only be gone three days ! "</s>
+<s id='vn21'>Anh đi trong ba ngày thôi mà ! "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>We all laughed .</s>
+<s id='vn22'>Tất cả chúng tôi đều cười .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>My problem was I still had to say goodbye .</s>
+<s id='vn23'>Vấn đề của tôi là tôi vẫn phải nói lời chia tay .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>But I learn from goodbye moments , too .</s>
+<s id='vn24'>Nhưng tôi còn học được từ những giây phút chia li ấy nữa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Recently I overheard a father and daughter in their last moments together .</s>
+<s id='vn25'>Gần đây tôi nghe lỏm được cuộc nói chuyện của một người bố và đứa con gái trong giờ phút cuối cùng của họ với nhau .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>They had announced her departure and standing near the security gate , they hugged and he said , " I love you .</s>
+<s id='vn26'>Người ta đã thông báo giờ khởi hành của cô gái ấy và khi đứng gần cổng an ninh , họ ôm nhau và ông ấy đã nói , " Bố yêu con .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>I wish you enough . "</s>
+<s id='vn27'>Bố chúc con đủ . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>She in turn said .</s>
+<s id='vn28'>Cô ấy đáp lời .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Daddy , our life together has been more than enough .</s>
+<s id='vn29'>" Bố , cuộc sống của chúng ta còn nhiều hơn là đủ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Your love is all I ever needed .</s>
+<s id='vn30'>Tình yêu của bố là tất cả những gì con cần .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>I wish you enough , too . "</s>
+<s id='vn31'>Con cũng chúc bố đủ nhé "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>They kissed and she left .</s>
+<s id='vn32'>Họ hôn nhau và cô ấy rời đi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>He walked over toward the window where I was seated .</s>
+<s id='vn33'>Ông ấy đi qua phía cửa sổ nơi tôi đang ngồi .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Standing there I could see he wanted and needed to cry .</s>
+<s id='vn34'>Đứng ở đó tôi có thể thấy ông ấy muốn và cần khóc .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>I tried not to intrude on his privacy , but he welcomed me in by asking , "Did you ever say goodbye to someone knowing it would be forever ? "</s>
+<s id='vn35'>Tôi cố không xen vào sự riêng tư của ông nhưng ông ấy chào tôi và hỏi , " Có bao giờ cậu nói lời từ biệt với ai đó mà biết rằng sẽ không bao giờ còn gặp lại nhau không ? "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" Yes , I have , " I replied .</s>
+<s id='vn36'>Tôi trả lời là có .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Saying that brought back memories I had of expressing my love and appreciation for all my Dad had done for me .</s>
+<s id='vn37'>Khi nói ra điều này gợi nhớ lại ký ức trong tôi về sự bày tỏ tình yêu và trân trọng tất cả những gì bố tôi đã làm cho tôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Recognizing that his days were limited , I took the time to tell him face to face how much he meant to me .</s>
+<s id='vn38'>Khi nhận thấy là thời gian của ông ấy không còn dài nữa , tôi đã dành thời gian để nói trực tiếp cho bố tôi nghe rằng ông ấy có ý nghĩa biết bao đối với tôi .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>So I knew what this man experiencing .</s>
+<s id='vn39'>Vì thế mà tôi hiểu được những gì người đàn ông này đang trải qua .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" Forgive me for asking , but why is this a forever goodbye ? "</s>
+<s id='vn40'>" Hãy bỏ quá cho câu hỏi của tôi , nhưng tại sao đây lại là lần chia tay mãi mãi ? "</s>
+</spair>
+<spair id='41'>
+<s id='en41'>I asked .</s>
+<s id='vn41'>Tôi hỏi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" I am old and she lives much too far away .</s>
+<s id='vn42'>" Tôi già rồi mà con bé lại sống xa xôi quá .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I have challenges ahead and the reality is , the next trip back would be for my funeral , " he said .</s>
+<s id='vn43'>Tôi có vài thử thách phía trước và thực tế là , chuyến trở về lần nữa của nó sẽ là cho đám tang của tôi , " ông ấy đã nói .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" When you were saying goodbye I heard you say , " I wish you enough . "</s>
+<s id='vn44'>" Khi ông đang nói lời chia tay , tôi có nghe ông nói là " Bố chúc con đủ . "</s>
+</spair>
+<spair id='45'>
+<s id='en45'>May I ask what that means ? "</s>
+<s id='vn45'>Cho phép tôi hỏi nó có ý nghĩa gì vậy ? "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>He began to smile .</s>
+<s id='vn46'>Ông ấy bắt đầu mỉm cười .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>"That 's a wish that has been handed down from other generations .</s>
+<s id='vn47'>" Đó là lời cầu chúc mà đã truyền từ nhiều thế hệ khác .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>My parents used to say it to everyone . "</s>
+<s id='vn48'>Cha mẹ của tôi thường hay nói như thế với tất cả mọi người . "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>He paused for a moment and looking up as if trying to remember it in detail , he smiled even more .</s>
+<s id='vn49'>Ông ấy ngừng trong chốc lát và nhìn lên như thể cố nhớ cho thật chi tiết , rồi lại mỉm cười tươi hơn nữa .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" When we said " I wish you enough , " we were wanting the other person to have a life filled with just enough good things to sustain them , " he continued and then turning toward me he shared the following as if he were reciting it from memory .</s>
+<s id='vn50'>" Khi chúng tôi đã nói " tôi chúc bạn đủ , " chúng tôi đang muốn người kia có cuộc sống với những điều tốt đẹp chỉ vừa đủ để duy trì họ , " ông ấy tiếp tục rồi quay về phía tôi , ông ấy chia sẻ những dòng sau đây như thể ông ấy đang trích dẫn nó từ trong trí nhớ của mình .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>I wish you enough sun to keep your attitude bright .</s>
+<s id='vn51'>Tôi chúc bạn đủ ánh nắng để giữ lập trường của mình luôn sáng sủa .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>I wish you enough rain to appreciate the sun more .</s>
+<s id='vn52'>Tôi chúc bạn đủ những cơn mưa để biết trân trọng hơn ánh mặt trời .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>I wish you enough happiness to keep your spirit alive .</s>
+<s id='vn53'>Tôi chúc bạn đủ hạnh phúc để giữ tâm hồn mình luôn tươi trẻ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>I wish you enough pain so that the smallest joys in life appear much bigger .</s>
+<s id='vn54'>Tôi chúc bạn đủ nỗi đau để bất kỳ một niềm vui nhỏ nhoi nào trong cuộc sống cũng sẽ lớn hơn nhiều .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>I wish you enough gain to satisfy your wanting .</s>
+<s id='vn55'>Tôi chúc bạn có đủ mọi thứ để đáp ứng hết mọi nhu cầu .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>I wish you enough loss to appreciate all that you possess .</s>
+<s id='vn56'>Tôi chúc bạn đủ mất mát vì hiểu rõ giá trị của những thứ mình đang có .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>I wish enough " Hello 's " to get you through the final " Goodbye . "</s>
+<s id='vn57'>Tôi chúc bạn có đủ lời " Xin chào " để vượt qua lời " Tạm biệt " cuối cùng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>He then began to sob and walked away .</s>
+<s id='vn58'>Rồi ông ấy bắt đầu khóc và bước đi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>My friends , I wish you enough !</s>
+<s id='vn59'>Hỡi các bạn của tôi , tôi chúc bạn đủ !</s>
+</spair>
+</text>
+</doc>

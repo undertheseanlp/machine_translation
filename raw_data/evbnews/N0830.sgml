@@ -1,0 +1,88 @@
+﻿<doc id='N0830'>
+<head>
+<title>Lower income individuals have 50 % higher risk of heart disease</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Lower income individuals have 50 % higher risk of heart disease</s>
+<s id='vn1'>Những người có thu nhập thấp có nguy cơ mắc bệnh tim cao hơn 50%</s>
+</spair>
+<spair id='2'>
+<s id='en2'>According to a recent UC Davis study published online in BMC Cardiovascular Disorders , people with lower socioeconomic status are at greater risk of developing heart disease compared to those who are wealthier or better educated .</s>
+<s id='vn2'>Theo một nghiên cứu gần đây của UC Davis công bố trực tuyến trong Các rối loạn tim mạch của BMC , những người có tình trạng kinh tế xã hội thấp hơn có nguy cơ phát triển bệnh tim cao hơn so với những người giàu có hoặc được giáo dục tốt hơn .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The likelihood of heart disease persists , even with long-term progress in addressing traditional risk factors , such as smoking , high blood pressure and elevated cholesterol .</s>
+<s id='vn3'>Khả năng mắc bệnh tim vẫn còn , ngay cả với những tiến bộ lâu dài trong việc giải quyết các yếu tố nguy cơ truyền thống , chẳng hạn như hút thuốc lá , huyết áp và cholesterol cao .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Peter Franks , a UC Davis professor of family and community medicine and lead author of the study said :</s>
+<s id='vn4'>Peter Franks , giáo sư y học gia đình và cộng đồng tại UC Davis và là tác giả chính của nghiên cứu cho biết :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" Being poor or having less than a high school education can be regarded as an extra risk when assessing a patient 's chances of developing cardiovascular disease . "</s>
+<s id='vn5'>" Nghèo hoặc chỉ được đi học chưa đến bậc trung học có thể được coi như là một nguy cơ thêm khi đánh giá các cơ hội phát triển bệnh tim mạch của bệnh nhân . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He continued saying that , " People with low socioeconomic status need to have their heart-disease indicators managed more aggressively . "</s>
+<s id='vn6'>Ông tiếp tục nói rằng , " Những người có tình trạng kinh tế xã hội thấp cần phải quản lý chỉ số bệnh tim của họ nhiều hơn " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The authors used data from the Atherosclerosis Risk in Communities Study , including more than 12,000 people between the ages of 45 to 64 years living in North Carolina , Mississippi , Minnesota and Maryland , in which participants reported their education and income levels in 1987 .</s>
+<s id='vn7'>Các tác giả sử dụng dữ kiện từ Nghiên cứu Nguy cơ Xơ vữa động mạch trong Cộng đồng , bao gồm hơn 12,000 người trong độ tuổi từ 45 đến 64 , sống ở Bắc Carolina , Mississippi , Minnesota và Maryland , trong đó người tham gia cho biết về trình độ học vấn và mức thu nhập của họ vào năm 1987 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The participants were periodically evaluated for heart-disease diagnoses and changes in their risk factors , including cholesterol , blood pressure and smoking over the course of 10 years .</s>
+<s id='vn8'>Những người tham gia được đánh giá định kỳ bằng chẩn đoán bệnh tim và những thay đổi trong các yếu tố nguy cơ của họ , bao gồm huyết áp , cholesterol , và hút thuốc trong thời gian 10 năm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>According to the results , people with lower socioeconomic status had a 50 % increased risk of developing heart disease compared to other study participants .</s>
+<s id='vn9'>Theo kết quả , những người có tình trạng kinh tế xã hội thấp hơn đã tăng 50% nguy cơ phát triển bệnh tim so với những người tham gia nghiên cứu khác .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Although it is common knowledge for people with low socioeconomic status to have a greater risk for developing heart disease and other health problems , the reason is often attributed to reduced health-care access or poor adherence to treatments , such as smoking cessation or medication .</s>
+<s id='vn10'>Mặc dù ai cũng biết những người có tình trạng kinh tế xã hội thấp có nguy cơ phát triển bệnh tim và các vấn đề về sức khỏe khác lớn hơn , lý do thường là do ít có điều kiện chăm sóc sức khỏe hoặc điều trị bệnh , chẳng hạn như là cai thuốc hoặc uống thuốc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Low socio-economic status is therefore a heart-disease risk factor on its own</s>
+<s id='vn11'>Do đó tình trạng kinh tế xã hội thấp tự bản thân là một yếu tố nguy cơ bệnh tim</s>
+</spair>
+<spair id='12'>
+<s id='en12'>For the first time this study revealed that the increased risk continued even though long-term improvements in other risk factors have been made .</s>
+<s id='vn12'>Lần đầu tiên nghiên cứu này cho thấy rằng nguy cơ tăng tiếp tục mặc dù những cải tiến lâu dài trong các yếu tố nguy cơ khác đã được thực hiện .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He said that previous studies could help explain the association between low socioeconomic status and increased heart-disease risk .</s>
+<s id='vn13'>Ông nói rằng các nghiên cứu trước đây có thể giúp giải thích mối liên hệ giữa tình trạng kinh tế xã hội thấp và nguy cơ bệnh tim tăng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Social disadvantages and adversity in childhood could mean lasting adaptations to stress which result in more stress on the heart .</s>
+<s id='vn14'>Sự bất lợi trong xã hội và nghịch cảnh trong thời thơ ấu có thể có nghĩa là sự thích nghi lâu dài với tình trạng căng thẳng mà kết quả là dẫn đến nhiều áp lực hơn trên tim .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Cumulative effects of social disadvantage throughout a person 's life could also cause more " wear and tear " on the cardiovascular system .</s>
+<s id='vn15'>Tác động tích lũy của những bất lợi xã hội trong suốt cuộc đời của một người cũng có thể gây ra nhiều sự " hao mòn " hơn trên hệ thống tim mạch .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Franks recommends including socio-economic status in the Framingham risk assessment , a tool based on outcomes from the Framingham Heart Study , commonly used to determine treatments for heart-disease prevention .</s>
+<s id='vn16'>Franks đề nghị tính đến tình trạng kinh tế - xã hội trong đánh giá rủi ro Framingham , một công cụ dựa trên kết quả của nghiên cứu tim mạch Framingham , thường được sử dụng để xác định phương pháp điều trị để phòng chống bệnh tim .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He commented that UK health-care providers are already considering socio-economic status for the determination of care plans .</s>
+<s id='vn17'>Ông nhận xét rằng các nhà cung cấp dịch vụ chăm sóc sức khỏe của Vương quốc Anh đã xem xét tình trạng kinh tế - xã hội để xác định kế hoạch chăm sóc .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Franks , who 's research focuses on addressing health-care disparities said : " Doctors could , for instance , moderately increase the dosage of cholesterol-lowering drugs to reflect the higher risk imposed by socioeconomic status .</s>
+<s id='vn18'>Franks , người có những nghiên cứu tập trung vào việc giải quyết sự bất bình đẳng trong chăm sóc sức khỏe , cho biết : " Các bác sĩ có thể , ví dụ như , tăng vừa phải liều thuốc hạ cholesterol để phản ánh nguy cơ cao hơn gây ra bởi tình trạng kinh tế xã hội .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Changes like this would be easy to implement , and the benefits could be significant . "</s>
+<s id='vn19'>Những thay đổi như thế này sẽ được thực hiện dễ dàng , và những lợi ích có thể đạt được là đáng kể . "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,232 @@
+﻿<doc id='N0740'>
+<head>
+<title>What is money , why do we trust it and has it become too confusing ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What is money , why do we trust it and has it become too confusing ?</s>
+<s id='vn1'>Tiền là gì , tại sao chúng ta lại tin nó và đồng tiền đã trở thành thứ quá rối rắm ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>We dream about it , argue about it , worry about it , celebrate it , spend it , save it - but what exactly is money and why do we put our trust in it ?</s>
+<s id='vn2'>Chúng ta mơ về nó , tranh cãi về nó , lo lắng về nó , ca ngợi nó , sử dụng nó , tiết kiệm nó - nhưng chính xác tiền là gì và tại sao chúng ta lại đặt niềm tin của mình vào nó ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>We invest it and gain it , and unfortunately sometimes lose it , and we give it value and worth - or at least we agree to give it a certain value .</s>
+<s id='vn3'>Chúng ta đầu tư nó và kiếm được nó , và chẳng may đôi khi mất nó , và chúng ta cho nó giá trị và đáng giá - hay ít nhất chúng ta cùng bằng lòng cho nó một giá trị nhất định nào đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But what does it represent ?</s>
+<s id='vn4'>Nhưng nó đại diện cho cái gì ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It used to be stones , or shells .</s>
+<s id='vn5'>Ngày xưa tiền từng là những viên đá , hoặc vỏ sò .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It has sometimes been cigarettes , wives and , arguably , sex .</s>
+<s id='vn6'>Đôi khi là thuốc lá , là những người vợ và , người ta có thể cho rằng , là tình dục .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Most-famously it has been gold and silver .</s>
+<s id='vn7'>Nổi tiếng nhất là vàng và bạc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Now money is pieces of paper around which we have built a consensus in that we agree that it means something .</s>
+<s id='vn8'>Đến nay tiền là những mảnh giấy mà chúng ta cùng nhất trí với nhau rằng nó có giá trị .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Central banks like the Bank of England hold the monopoly on producing this paper money - cold , hard cash as we know it .</s>
+<s id='vn9'>Những ngân hàng trung ương như Ngân hàng Anh quốc nắm độc quyền sản xuất loại tiền giấy này - tiền mặt trên thực tế , tiền mặt có sẵn như chúng ta biết .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This is known as " fiat currency " , from the Latin " it shall be " .</s>
+<s id='vn10'>Loại tiền này được gọi là " tiền tệ theo sắc lệnh " , bắt nguồn từ " it shall be " trong tiếng La-tinh .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It derives its value through government backing - but how did we make the shift from pieces of gold to pieces of paper ?</s>
+<s id='vn11'>Nó có giá trị nhờ sự ủng hộ của nhà nước - nhưng chúng ta đã chuyển từ tiền vàng qua tiền giấy như thế nào ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Wartime design</s>
+<s id='vn12'>Thiết kế thời chiến</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Back in 1694 , when the Bank of England was founded - to help fund the wars of the time - it would accept gold deposits and give out promissory notes in exchange , in effect promising the depositors that their gold would be safe and that they could come back and reclaim it sometime in the future .</s>
+<s id='vn13'>Trở về thời kỳ năm 1694 , thời điểm Ngân hàng Anh Quốc được thành lập - nhằm giúp cung cấp tiền cho các cuộc chiến lúc bấy giờ - ngân hàng sẽ nhận ký thác vàng và đổi lại họ phát hành hứa phiếu , cam kết trên thực tế với những người ký thác rằng vàng của họ sẽ an toàn và có thể quay lại mà lấy vào một thời điểm nào đó trong tương lai .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Hence that promise to " pay the bearer on deman d " that is still printed on each bank note today .</s>
+<s id='vn14'>Vì vậy cam kết ấy sẽ " trả cho người cầm phiếu theo yêu cầu " - ngày nay dòng chữ này vẫn được in trên hối phiếu ngân hàng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>For a while , up until World War I - and for a brief period afterwards - England was on the Gold S tandard .</s>
+<s id='vn15'>Trong một thời gian , mãi cho đến Đệ nhất Thế chiến - và trong khoảng thời gian ngắn về sau - Anh theo chế độ bản vị vàng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>What that meant was that every note that was printed by the Bank of England had to be backed by a certain amount of gold in its vaults .</s>
+<s id='vn16'>Nghĩa là mỗi tờ bạc Ngân hàng Anh quốc in phải được bảo đảm bằng một lượng vàng nhất định trong các hầm an toàn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>But that is extremely constraining , especially when a country is at war , for example , when money needs to be more " elastic " - basically , when more money is needed to keep the economic wheels turning .</s>
+<s id='vn17'>Nhưng điều đó quá ràng buộc , ví dụ nhất là khi một quốc gia đang có chiến tranh , lúc này tiền cần " co giãn " nhiều hơn - về cơ bản , ấy là lúc cần thêm nhiều tiền hơn để giữ cho bánh xe kinh tế tiếp tục quay .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>So now our paper money is not backed by anything tangible like gold or silver , other than that promise to pay the bearer - and the actions of the Bank of England .</s>
+<s id='vn18'>Bởi thế ngày nay tiền giấy của chúng ta không được bảo đảm bằng bất cứ thứ gì hữu hình như vàng hay bạc , ngoài cam kết trả cho người cầm giữ - và các hành động của Ngân hàng Anh quốc .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Chris Salmon , the Bank of England 's chief cashier , whose signature is on the new £50 note says " The reason the language is there is to send a signal that we take our responsibility to maintain the value of the money very seriously , to maintain its purchasing power .</s>
+<s id='vn19'>Ông Chris Salmon , thủ quỹ chính của Ngân hàng Anh quốc , người có chữ ký trên tờ 50 bảng Anh mới , nói : " Lý do những dòng chữ ấy tồn tại là để gửi một thông điệp rằng chúng tôi chịu trách nhiệm duy trì giá trị đồng tiền , duy trì sức mua của nó một cách hết sức nghiêm túc . " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" The language is there to build confidence and trust , which are so important . "</s>
+<s id='vn20'>" Dòng chữ đó nhằm xây dựng lòng tin và sự tự tin , những yếu tố này rất quan trọng " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But recently our confidence in money has been shaken , even if we do not really understand what it is or how it works .</s>
+<s id='vn21'>Nhưng gần đây lòng tin của chúng ta vào đồng tiền đã bị lung lay , mặc dù chúng ta không thật sự hiểu đồng tiền là gì hay nó hoạt động như thế nào .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Imaginative act</s>
+<s id='vn22'>Hành động giàu trí tưởng tượng</s>
+</spair>
+<spair id='23'>
+<s id='en23'>So , other than those pieces of paper we take to the shops to hand over for goods or services , or even digital bits on a computer which are transferred across the world in a split second , what is this thing we call money ?</s>
+<s id='vn23'>Vậy , ngoài các mảnh giấy chúng ta mang đến cửa hàng để đổi lấy hàng hoá hoặc dịch vụ , hay thậm chí những bit kỹ thuật số trên máy tính được chuyển khắp nơi trên thế giới trong tích tắc , thì cái thứ chúng ta gọi là tiền này là cái gì ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Money is a collective act of the imagination , and it 's a thing which we have invested our credence in , and it works because we do that . "</s>
+<s id='vn24'>" Tiền là một hành động tưởng tượng tập thể , và là thứ chúng ta đã dành lòng tin của mình cho nó , và nó tồn tại được vì việc làm đó của chúng ta . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Why Everybody Owes Everybody and No-One Can Pay .</s>
+<s id='vn25'>Tại sao mọi người nợ nhau mà không ai có thể trả nổi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>But it has become clear that money has stopped working as it used to .</s>
+<s id='vn26'>Nhưng dần dà người ta biết rõ là tiền đã không còn hoạt động như trước nữa .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The economic machine has seized up largely because we made money too complicated and even the experts lost sight of what it really is .</s>
+<s id='vn27'>Cỗ máy kinh tế bị kẹt cứng trên phạm vi rộng vì chúng ta làm cho tiền trở nên quá phức tạp và thậm chí các chuyên gia không còn nhìn thấy thật sự nó là gì .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>John Lanchester argues that the financial whizz-kids thought they could control money and the inherent risk associated with playing about with it .</s>
+<s id='vn28'>John Lanchester lập luận rằng những thần đồng về tài chính nghĩ họ có thể kiểm soát tiền và rủi ro tiềm tàng gắn chặt với việc chơi đùa với nó .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" The people inside the system were confident they had developed new tools to manage risk - that they had magically engineered away any risk .</s>
+<s id='vn29'>" Những người trong đám đó tự tin họ đã phát triển các công cụ mới để quản lý rủi ro - rằng họ chế ra máy móc một cách thần kỳ loại trừ hết mọi rủi ro .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" That is never true .</s>
+<s id='vn30'>" Chuyện đó chẳng bao giờ có thật .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Increased risk is just increased risk . "</s>
+<s id='vn31'>Rủi ro gia tăng chỉ đơn giản là rủi ro gia tăng . "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>As a result , masses of cheap credit was pumped throughout the global financial system .</s>
+<s id='vn32'>Kết quả là , hàng tá khoản tín dụng lãi suất thấp được bơm vào khắp hệ thống tài chính toàn cầu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" The basic assumption was that the tide would not go out and the thing that astonished the world of money and caused the credit crunch - in fact it was the credit crunch - was the fact that the tide went out everywhere simultaneously . "</s>
+<s id='vn33'>" Giả định cơ sở là xu thế sẽ không thoái trào , và điều gây ngạc nhiên thế giới tiền tệ và gây ra thu hẹp tín dụng - trên thực tế là khủng hoảng tín dụng - là hiện tượng thoái trào đồng loạt xảy ra khắp nơi . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Money auctions</s>
+<s id='vn34'>Đấu giá tiền</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Dylan Grice , a global strategist at the French bank Societe Generale , says another basic error that was made was that people confused money and credit .</s>
+<s id='vn35'>Dylan Grice , chiến lược gia toàn cầu của ngân hàng Société Générale cho rằng , một lỗi cơ bản khác người ta mắc phải là họ nhầm lẫn tiền và tín dụng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" Credit requires that you pay someone back .</s>
+<s id='vn36'>" Tín dụng có nghĩa là bạn phải trả lại cho ai đó .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Money does not .</s>
+<s id='vn37'>Tiền thì không .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Money is yours .</s>
+<s id='vn38'>Tiền là của bạn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Money is just money , and that 's the fundamental difference . "</s>
+<s id='vn39'>Tiền đơn giản là tiền , và đó là sự khác biệt cơ bản . "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>So banks can take your money on deposit but then they lend it out to someone else .</s>
+<s id='vn40'>Thế mà ngân hàng lại có thể lấy tiền bạn gửi sau đó họ cho người khác mượn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" That is credit , " says Grice .</s>
+<s id='vn41'>" Đó là tín dụng " - Grice nói .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" That is not money that they have created .</s>
+<s id='vn42'>" Đó không phải tiền họ tạo ra .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The banking system creates credit and it 's the central bank which creates money ... and the last few years have seen a very clear case of the damage which has been caused by losing control of credit while trying to control money . "</s>
+<s id='vn43'>Hệ thống ngân hàng tạo ra tín dụng và ngân hàng trung ương mới là nơi tạo ra tiền ... và vài năm qua chúng ta đã chứng kiến một trường hợp thiệt hại rất rõ ràng , thiệt hại vì không kiểm soát được tín dụng trong khi đang cố gắng kiểm soát tiền . "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Recently , the UK 's central bank , the Bank of England , has been creating billions of pounds of money , through the controversial policy of Quantitative Easing , or QE .</s>
+<s id='vn44'>Gần đây , Ngân hàng trung ương của Anh , tức Ngân hàng Anh quốc , đã tạo ra hàng tỷ bảng Anh , thông qua chính sách gây tranh cãi là Nới lỏng Định lượng , QE .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>And that is because there is no longer enough money ( or should that be credit ? ) flowing through the system , to oil the wheels of the economy .</s>
+<s id='vn45'>Và đó là vì không còn đủ tiền ( hay nên chăng gọi là tín dụng ? ) lưu thông qua hệ thống nữa , để tạo thuận lợi cho guồng máy kinh tế hoạt động .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Only the Bank of England can create money in the UK ; and it can invent it out of thin air .</s>
+<s id='vn46'>Tại Anh , chỉ Ngân hàng Anh quốc mới có thể tạo ra tiền ; và có thể sáng chế ra tiền một cách bất thình lình .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The last time it did that was back in February , when it created another £50bn .</s>
+<s id='vn47'>Lần cuối cùng họ làm chuyện đó là vào tháng 2 , khi họ tạo ra 50 tỷ bảng nữa .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>" What we do is expand our balance sheet and on one side we have the cash we 're creating and on the other side , we have the gilts essentially that we 're purchasing , " explains Paul Fisher .</s>
+<s id='vn48'>Ông Paul Fisher giải thích : " Những gì chúng ta làm là mở rộng bảng cân đối kế toán và một bên chúng ta có tiền mặt chúng ta đang tạo ra và bên kia , chúng ta có chứng khoán viền vàng mà thực chất là chúng ta đang mua . " .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>He is one of the nine members of the Monetary Policy Committee which meets to decide on interest rates and QE .</s>
+<s id='vn49'>Ông là một trong 9 thành viên thuộc Uỷ ban Chính sách Tiền tệ , uỷ ban này nhóm họp để quyết định về lãi suất và QE .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>He is also the executive director for markets at the Bank of England , responsible for implementing QE .</s>
+<s id='vn50'>Ông còn là giám đốc điều hành thị trường Ngân hàng Anh Quốc , chịu trách nhiệm thi hành chính sách QE .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>He argues that the Bank is not spending money , but that it is " giving out money in return for financial assets " - those gilts or treasury bonds which , in fact , are packages of government debt .</s>
+<s id='vn51'>Ông lập luận rằng Ngân hàng trung ương không tiêu tiền , mà " đang mang tiền ra để đối lấy các tài sản tài chính " - những chứng khoán viền vàng hay trái phiếu kho bạc kia , trên thực tế , là những gói nợ của chính phủ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It does this through a system of auctions , three times a week , £1.5bn at a time .</s>
+<s id='vn52'>Họ tiến hành việc này thông qua một hệ thống đấu giá , ba tuần một lần , mỗi lần 1,5 tỷ bảng Anh .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The QE theory is that the Bank buys the government bonds from financial institutions like pension funds and insurance firms , the Bank credits their accounts with money which they , in turn , should spend out there in the wider economy .</s>
+<s id='vn53'>Thuyết nới lỏng định lượng cho rằng Ngân hàng này mua các trái phiếu chính phủ từ các tổ chức tài chính như những quỹ hưu trí và công ty bảo hiểm , Ngân hàng này ghi vào bên có tài khoản của họ số tiền mà họ , đến lượt mình , sử dụng trong nền kinh tế rộng lớn hơn ngoài kia .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Paul Fisher says the greatest danger to the economy at the moment is not inflation but deflation .</s>
+<s id='vn54'>Ông Paul Fisher nói hiểm hoạ lớn nhất đối với nền kinh tế thời điểm này không phải là lạm phát mà là giảm phát .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Remember , deflation does not just mean falling prices , which makes life difficult for producers , but also falling wages .</s>
+<s id='vn55'>Xin nhớ , giảm phát không chỉ là sụt giá , gây khó khăn cho các nhà sản xuất , mà còn có nghĩa là giảm tiền lương .</s>
+</spair>
+</text>
+</doc>

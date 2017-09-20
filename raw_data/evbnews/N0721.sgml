@@ -1,0 +1,256 @@
+﻿<doc id='N0721'>
+<head>
+<title>Top 7 Most Common Financial Mistakes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Top 7 Most Common Financial Mistakes</s>
+<s id='vn1'>7 sai lầm về tài chính thường gặp nhất</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It is indeed a material world .</s>
+<s id='vn2'>Cuộc sống thực sự là một thế giới vật chất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>When it comes to spending , the U.S. is a culture of consumption .</s>
+<s id='vn3'>Khi nói đến tiêu xài , Mỹ là nền văn hoá tiêu thụ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The result : rising levels of consumer debt and declining household savings rates .</s>
+<s id='vn4'>Kết quả : tăng các mức nợ về mua sắm tiêu dùng và giảm tỷ lệ tiết kiệm trong gia đình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But in 2008 , this culture was hit hard by economic reality .</s>
+<s id='vn5'>Nhưng vào năm 2008 , văn hoá tiêu thụ này bị hiện thực kinh tế tác động mạnh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>According to the Federal Reserve , U.S. household debt grew steadily from the time the Fed started tracking it in 1952 .</s>
+<s id='vn6'>Theo Cục Dự trữ Liên bang , nợ của các hộ gia đình Mỹ tăng đều đặn kể từ thời điểm Cục Dự trữ Liên bang bắt đầu theo dõi năm 1952 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It declined for the first time in the third quarter of 2008 .</s>
+<s id='vn7'>Lần đầu tiên tiêu dùng sụt giảm là vào quý ba năm 2008 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>As a result of the credit crisis and ensuing economic recession , savings rates also rebounded .</s>
+<s id='vn8'>Do cuộc khủng hoảng tín dụng và giai đoạn suy thoái kinh tế tiếp theo , tỷ lệ tiết kiệm cũng có ảnh hưởng ngược lại .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>For those who had been living beyond their means for years , it suddenly got a lot harder to make ends meet .</s>
+<s id='vn9'>Với những người lâu nay sống vung tay quá trán , thì bỗng nhiên gặp nhiều khó khăn hơn để đắp đổi qua ngày .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>And , although the government tends to encourage spending during economic downturn and statistics may lead us to think that overspending is normal , it is often a risky choice .</s>
+<s id='vn10'>Và , mặc dù chính phủ thường khuyến khích tiêu dùng trong giai đoạn suy thoái kinh tế và các số liệu thống kê có thể khiến chúng ta nghĩ rằng việc chi xài quá mức là bình thường , tiêu quá nhiều tiền vẫn luôn là một lựa chọn đầy rủi ro .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Here we 'll take a look at seven of the most common financial mistakes that often lead people to major economic hardship .</s>
+<s id='vn11'>Sau đây chúng ta sẽ tìm hiểu 7 sai lầm về tài chính phổ biến nhất mà thường đưa mọi người đến khó khăn kinh tế rất lớn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Even if you 're already facing financial difficulties , steering clear of these mistakes could be the key to survival .</s>
+<s id='vn12'>Thậm chí nếu bạn đã từng gặp những khó khăn tài chính , việc tránh xa những sai lầm này có thể là bí quyết sinh tồn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Mistake No. 1 : Excessive // Frivolous Spending</s>
+<s id='vn13'>Sai lầm số 1 : Chi tiêu quá mức // phù phiếm</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Great fortunes are often lost one dollar at time .</s>
+<s id='vn14'>Núi vàng thường biến mất dần từ một đồng xu lẻ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It may not seem like a big deal when you pick up that double-mocha cappuccino , stop for a pack of cigarettes , have dinner out or order that pay-per-view movie , but every little item adds up .</s>
+<s id='vn15'>Có lẽ bạn cho rằng khi chọn gấp đôi cà phê Mocha , Cappuccino cùng một lúc , dừng lại để mua gói thuốc lá , ra ngoài ăn tối hoặc yêu cầu bộ phim theo dịch vụ trả phí mỗi lần xem đó là chuyện chẳng có gì to tát , nhưng tích tiểu thành đại .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Just $ 25 per week spent on dining out costs you $ 1,300 per year , which could go toward an extra mortgage payment or a number of extra car payments .</s>
+<s id='vn16'>Chỉ 25 đô la mỗi tuần dành cho việc đi ăn tiệm cũng làm bạn tốn 1300 đô la mỗi năm , số tiền có thể dành để trả nợ thế chấp bổ sung , hoặc một số khoản thanh toán xe phụ trội .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>If you 're enduring financial hardship , avoiding this mistake really matters - after all , if you 're only a few dollars away from foreclosure or bankruptcy , every dollar will count more than ever .</s>
+<s id='vn17'>Nếu bạn đang chịu khó khăn về tài chính , thì làm sao tránh sai lầm này thực sự là rất quan trọng - sau cùng , nếu bạn chỉ thiếu vài đô la nữa thôi là sẽ bị tịch biên tài sản hoặc vỡ nợ , thì mỗi đồng đô la lẻ sẽ lại càng có giá trị hơn bao giờ hết .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Mistake No. 2 : Never-Ending Payments</s>
+<s id='vn18'>Sai lầm số 2 : Những khoản thanh toán không dứt</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Ask yourself if you really need items that keep you paying for every month , year after year .</s>
+<s id='vn19'>Tự hỏi mình xem có thật sự cần những món hàng mà phải trả phí hàng tháng , năm này qua năm khác không .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Things like cable television , subscription radio and video games , cell phones and pagers can force you to pay unceasingly but leave you owning nothing .</s>
+<s id='vn20'>Những thứ như truyền hình cáp , ra-đi-ô vệ tinh và trò chơi điện tử , điện thoại di động và máy nhắn tin có thể bắt bạn phải trả không ngừng nghỉ nhưng chẳng để lại cho bạn cái gì cả .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>When money is tight , or you just want to save more , creating a leaner lifestyle can go a long way to fattening your savings and cushioning your from financial hardship .</s>
+<s id='vn21'>Khi tiền bạc khan hiếm , hoặc bạn muốn dành dụm nhiều hơn nữa , tạo lối sống khắc khổ hơn có thể tiến gần đến việc làm tăng số tiền tiết kiệm hoặc giảm khó khăn về tài chính của bạn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Mistake No. 3 : Living on Borrowed Money</s>
+<s id='vn22'>Sai lầm số 3 : Sống dựa vào tiền vay mượn</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Using credit cards to buy essentials has become somewhat normal .</s>
+<s id='vn23'>Dùng thẻ tín dụng mua những thứ cần thiết đã trở thành điều tương đối bình thường .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>But even if an ever-increasing number of consumers are willing to pay double-digit interest rates on gasoline , groceries and a host of other items that are gone long before the bill is paid in full , do n't be one of them .</s>
+<s id='vn24'>Nhưng cho dù số lượng người tiêu dùng tăng chưa từng có đang sẵn lòng trả lãi suất hai con số đối với xăng , thực phẩm và hàng loạt các mặt hàng khác mà họ dùng hết từ lâu trước khi thanh toán đầy đủ hoá đơn , thì cũng đừng thuộc số những người như vậy .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Credit card interest rates make the price of the charged items a great deal more expensive .</s>
+<s id='vn25'>Lãi suất thẻ tín dụng làm giá các mặt hàng được tính đắt hơn rất nhiều .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Depending on credit also makes it more likely that you 'll spend more than you earn .</s>
+<s id='vn26'>Phụ thuộc vào thẻ tín dụng còn gây ra nhiều khả năng là bạn tiêu nhiều hơn số tiền bạn kiếm được .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Mistake No. 4 : Buying a New Car</s>
+<s id='vn27'>Sai lầm số 4 : Mua xe mới</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Millions of new cars are sold each year , although few buyers can afford to pay for them in cash .</s>
+<s id='vn28'>Hàng triệu chiếc xe được bán mỗi năm , mặc dù ít người mua có đủ khả năng trả tiền ngay .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>However , the inability to pay cash for a new car means an inability to afford the car .</s>
+<s id='vn29'>Bất luận thế nào , không có khả năng trả tiền mua xe mới ngay nghĩa là không đủ khả năng mua xe .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>After all , being able to afford the payment is not the same as being able to afford the car .</s>
+<s id='vn30'>Xét cho cùng , có khả năng thanh toán không giống như có đủ khả năng mua xe .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Furthermore , by borrowing money to buy a car , the consumer pays interest on a depreciating asset , which amplifies the difference between the value of the car and the price paid for it .</s>
+<s id='vn31'>Hơn nữa , nhờ mượn tiền để mua xe hơi , người tiêu dùng phải trả lãi đối với một tài sản đang giảm giá , việc này làm gia tăng rất nhiều chênh lệch giữa giá trị của chiếc xe và giá mua nó .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Worse yet , many people trade in their cars every two or three years , and lose money on every trade .</s>
+<s id='vn32'>Nhưng tệ hơn , nhiều người bán xe cũ của mình để mua xe mới cứ hai hoặc ba năm một lần , và mỗi lần mua bán lại một lần mất tiền .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Sometimes a person has no choice but to take out a loan to buy a car , but how much does any consumer really need a large SUV?</s>
+<s id='vn33'>Đôi khi một người buộc lòng phải vay thế chấp trả dần để mua xe , nhưng bao nhiêu tiện ích của một chiếc xe thể thao đa dụng lớn ( SUV ) thật sự cần thiết đối với bất kỳ người tiêu dùng nào ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Such vehicles are expensive to buy , insure and fuel .</s>
+<s id='vn34'>Những chiếc xe này rất tốn tiền mua , bảo hiểm và cung cấp nhiên liệu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Unless you tow a boat or trailer , or need an SUV to earn a living , is an eight-cylinder engine worth the extra cost of taking out a large loan ?</s>
+<s id='vn35'>Trừ trường hợp bạn kéo theo một chiếc thuyền hay xe moóc dùng làm nhà ở , hoặc cần xe thể thao đa dụng ( SUV ) để kiếm sống , liệu một động cơ 8 xi-lanh có đáng để trả phí tổn ngoại ngạch vì vay thế chấp trả dần một số tiền lớn ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>If you need to buy a car and/or borrow money to do so , consider buying one that uses less gas and costs less to insure and maintain .</s>
+<s id='vn36'>Nếu bạn cần mua xe và // hoặc mượn tiền mua xe , hãy tính toán mua chiếc xe tiết kiệm xăng và ít tốn phí bảo hiểm và bảo trì .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Cars are expensive .</s>
+<s id='vn37'>Xe hơi tốn tiền .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>You might need one , but if you 're buying more car than you need , you 're burning through money that could have been saved or used to pay off debt .</s>
+<s id='vn38'>Bạn có thể cần một chiếc , nhưng nếu bạn mua nhiều xe hơn bạn cần , bạn đang tiêu hết rất nhanh số tiền mà đáng ra phải tiết kiệm hoặc dùng trả hết nợ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Mistake No. 5 : Buying Too Much House</s>
+<s id='vn39'>Sai lầm số 5 : Mua nhà quá lớn</s>
+</spair>
+<spair id='40'>
+<s id='en40'>When it comes to buying a house , bigger is also not necessarily better .</s>
+<s id='vn40'>Khi nói đến mua một căn nhà , thì căn nhà lớn hơn cũng không nhất thiết tốt hơn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Unless you have a large family , choosing a 6000-square-foot home will only mean more expensive taxes , maintenance and utilities .</s>
+<s id='vn41'>Trừ phi gia đình bạn đông người , chọn mua căn nhà rộng 6 ngàn phút vuông chỉ có nghĩa là tiền thuế , tiền bảo trì và tiền mua sắm tiện ích tốn kém nhiều hơn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Do you really want to put such a significant , long-term dent in your monthly budget ?</s>
+<s id='vn42'>Bạn thực sự muốn ngân quỹ hàng tháng của mình bị ảnh hưởng rất nhiều , rất lâu ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Mistake No. 6 : Treating Your Home Equity Like a Piggy Bank</s>
+<s id='vn43'>Sai lầm số 6 : Dùng vốn nhà như heo đất</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Your home is your castle .</s>
+<s id='vn44'>Nhà của bạn là thành trì của bạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Refinancing and taking cash out on it means giving away ownership to someone else .</s>
+<s id='vn45'>Việc tái cấp vốn và vay tiền dựa vào căn nhà có nghĩa là đem quyền sở hữu để vào tay người khác .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>It also costs you thousands of dollars in interest and fees .</s>
+<s id='vn46'>Điều đó còn khiến bạn phải tốn hàng ngàn đô la tiền lãi và phí .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Smart homeowners want to build equity , not make payments in perpetuity .</s>
+<s id='vn47'>Những chủ nhà thông minh muốn tích góp vốn , không thanh toán kéo dài mãi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>In addition , you 'll end up paying way more for your home than it 's worth , which virtually ensures that you won't come out on top when you decide to sell .</s>
+<s id='vn48'>Ngoài ra , rốt cuộc bạn sẽ trả tiền nhiều hơn giá trị căn nhà , giá trị mà hầu như chắc chắn bạn sẽ không có được ở mức cao nhất khi bạn quyết định bán .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Mistake No. 7 : Living Paycheck to Paycheck</s>
+<s id='vn49'>Sai lầm số 7 : Chi tiêu hết thu nhập mà không tiết kiệm được</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In 2007 , the U.S. household savings rate fell below 1 % , but other countries had considerably higher rates of personal savings .</s>
+<s id='vn50'>Trong năm 2007 , tỷ lệ tiết kiệm hộ gia đình Mỹ giảm xuống dưới 1% , nhưng những quốc gia khác có tỷ lệ tiết kiệm cá nhân cao hơn đáng kể .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>For example , the Netherlands , Italy , Norway , Germany and France personal savings rates average 10 % or more according to the OECD Factbook 2005 .</s>
+<s id='vn51'>Chẳng hạn , tỷ lệ tiết kiệm cá nhân ở Hà Lan , Ý , Na Uy , Đức và Pháp bình quân là 10% trở lên theo Sách Sự kiện 2005 của Tổ chức Hợp tác và Phát triển Kinh tế ( OECD ) .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Clearly it is possible to enjoy a high standard of living without financing it with debt .</s>
+<s id='vn52'>Rõ ràng có thể tận hưởng mức sống cao mà không phải nợ nần .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Countries in Asia boast savings rates of as much as 30 % !</s>
+<s id='vn53'>Những quốc gia châu Á tự hào về tỷ lệ tiết kiệm cao đến mức 30% !</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The cumulative result of overspending puts people into a precarious position - one in which they need every dime they earn and one missed paycheck would be disastrous .</s>
+<s id='vn54'>Kết quả tích tụ lại nhiều lần tiêu tiền quá mức đẩy người ta vào tình trạng bấp bênh - tình thế trong đó họ cần đến từng hào kiếm được và khi thiếu tiền lương sẽ là thảm hoạ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>This is not the position you want to find yourself in when an economic recession hits .</s>
+<s id='vn55'>Đây không phải tình trạng bạn muốn mình rơi vào khi xảy ra suy thoái kinh tế .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If this happens , you 'll have very few options .</s>
+<s id='vn56'>Nếu nó xảy ra , bạn có rất ít chọn lựa .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Everyone has a choice in how they live , so it 's just a matter of making savings a priority .</s>
+<s id='vn57'>Mọi người đều có lựa chọn về cách sống , vì vậy đó chỉ là vấn đề coi tiết kiệm là ưu tiên hàng đầu .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Making a Payment Vs Affording A Purchase</s>
+<s id='vn58'>Thanh toán so với có khả năng mua</s>
+</spair>
+<spair id='59'>
+<s id='en59'>To steer yourself away from the dangers of overspending , start by monitoring the little expenses that add up quickly , then move on to monitoring the big expenses .</s>
+<s id='vn59'>Để tự đưa mình rời xa những nguy cơ chi xài quá mức , hãy bắt đầu giám sát những khoản chi nhỏ mà có thể chất đống lên rất nhanh , sau đó chuyển tiếp sang giám sát những khoản chi lớn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Think carefully before adding new debts to your list of payments , and keep in mind that being able to make a payment is n't the same as being able to afford the purchase .</s>
+<s id='vn60'>Suy nghĩ cẩn thận trước khi bổ sung những món nợ mới vào danh sách các khoản thanh toán của bạn , và nhớ là có thể thanh toán không giống như có đủ khả năng mua .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Finally , make saving some of what you earn a monthly priority .</s>
+<s id='vn61'>Cuối cùng , hãy coi việc tiết kiệm những gì bạn kiếm được là ưu tiên hàng tháng .</s>
+</spair>
+</text>
+</doc>

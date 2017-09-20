@@ -1,0 +1,160 @@
+﻿<doc id='N0007'>
+<head>
+<title>Banh chung Banh Day - A Vietnamese New Year Story for Tet</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Banh chung Banh Day - A Vietnamese New Year Story for Tet</s>
+<s id='vn1'>Bánh Chưng Bánh Dày – truyện kể ngày Tết của Việt Nam</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Long , long ago in Vietnam there lived an ancient King , his name was King Hung .</s>
+<s id='vn2'>Ngày xưa , ở Việt Nam có một vị vua già tên là Hùng Vương .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He was a wise and thoughtful king who always tried to please his people and consider new ideas and because of this he was loved by his people .</s>
+<s id='vn3'>Ngài là một vì vua thông minh và biết chu đáo , Ngài luôn cố làm hài lòng dân chúng của Ngài và xem xét các ý tưởng mới lạ và chính vì lẽ đó mà Ngài được mọi người hết mực yêu mến .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>King Vuong grew old and he knew that soon it would be time to pass his kingdom on to his successor , the only trouble was the King Hung had three healthy sons and he did not know who would be the best choice to be King .</s>
+<s id='vn4'>Vua Hùng ngày một già và đã đến lúc trao ngôi báu lại cho người nối ngôi , vua chỉ băn khoăn một điều là Vua Hùng có ba hoàng tử khỏe mạnh và không biết phải chọn ai trong số họ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>King Vuong being a wise and caring King thought very hard about this problem and in due course came upon a solution .</s>
+<s id='vn5'>Vua Hùng rất khôn ngoan và suy nghĩ cặn kẽ về việc này và Ngài đã nảy ra một cách giải quyết rất đúng lúc .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He called his three sons together and he rose up to his feet and declared ;</s>
+<s id='vn6'>Ngài gọi ba hoàng tử của mình đến và đứng dậy phán rằng ;</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Sons you are all wise and strong but only one of you can rule our precious Vietnam .</s>
+<s id='vn7'>Hỡi các con , các con đều thông minh và khỏe mạnh nhưng chỉ một trong các con có thể trị vì nước Việt Nam yêu dấu của chúng ta .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>So , I have devised a plan to determine which of you shall rule after my passing .</s>
+<s id='vn8'>Thế nên ta đã nghĩ ra kế hoạch chọn người trong số con các sẽ nối ngôi khi ta băng hà .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>All of the members of the court and his three sons listening attentively because King Vuong was known to be the wisest ruler in the whole of Asia .</s>
+<s id='vn9'>Hết thảy quần thần trong triều và ba hoàng tử đều lắng nghe hết sức chăm chú vì vua Hùng được biết là vị vua trị vì thông minh nhất Châu Á .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>King Vuong continued ; " I would like each of you to provide for me a dish of food , you must search for the ingredients and make the dish and serve it to me on the last day of this Lunar Month , and on the basis of this dish I will decide who is to be the ruler of our Kingdom . "</s>
+<s id='vn10'>Vua Hùng tiếp ; " Ta muốn mỗi anh em con phải dâng cho ta một món ăn , các con phải tìm lấy cách làm và thành phần để chế biến và sẽ dâng lên ta vào ngày cuối tháng âm lịch này , và ta sẽ biết để quyết định ai sẽ là người nối ngôi ta . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Immediately the words had left this King 's mouth , the attendants at the court began to talk in whispers .</s>
+<s id='vn11'>Ngay khi vua vừa dứt lời thì cả triều đình bắt đầu bàn tán thì thầm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They knew that this was a very wise pronouncement of their King because Vietnam with its large population and small land area must always give attention to food production to make sure that each person is well fed and healthy .</s>
+<s id='vn12'>Họ hiểu rằng đây là lời phán rất thông minh của Ngài bởi lẽ đất nước Việt Nam nhỏ hẹp với dân số đông như vậy thì chắc hẳn ai cũng phải để ý tới việc sản xuất lương thực để đảm bảo rằng ai cũng được no đầy và khỏe mạnh .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The three brothers stared in disbelief ; " How could our father suggest such a method of deciding ? " .</s>
+<s id='vn13'>Cả ba hoàng tử nhìn nhau ngờ vực ; " Làm thế nào vua cha lại có thể đề nghị cách quyết định này được chứ ? .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Why does he not he test our computational skills ? " said the second brother .</s>
+<s id='vn14'>" Tại sao cha không thử tài tính toán của chúng ta nhỉ ? " , hoàng tử thứ hai hỏi .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The third and youngest brother just looked at the court and his father and made no comment .</s>
+<s id='vn15'>Vị hoàng tử út thứ ba chỉ nhìn các quần thần và vua cha mà không nói năng gì .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Within days the two elder brothers had organized their servants and carriages and were racing all over Vietnam and even to other parts of South East Asia to find the most delectable and delicious ingredients for the dish .</s>
+<s id='vn16'>Trong nhiều ngày liền hai vị hoàng tử đầu đã mang theo xe ngựa và người hầu đi khắp Việt Nam , thậm chí ở cả những khu vực thuộc vùng Đông Nam Á để tìm cho được các thành phần ngon nhất về nấu món ngon .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>One brother took a boat out into the South China Sea to fish for the finest tasting fish , the other went into the Khmer Mountains to find the most tender boar meat .</s>
+<s id='vn17'>Một người đã đi thuyền qua tận Biển Đông để câu được cá ngon nhất , người khác lên tận vùng núi Khmer để tìm món thịt lợn hấp dẫn nhất .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Yet , Prince Tiet Lieu stayed at home and sat on his front step and pondered his father 's request .</s>
+<s id='vn18'>Còn Hoàng tử Tiết Liêu ở nhà ngồi ở bậc thềm , suy nghĩ về lời yêu cầu của vua cha .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>By the end of the Lunar Month each of the brothers had prepared their dishes and came before the whole of the Vietnamese royal court and their wise father King to present it .</s>
+<s id='vn19'>Vào cuối tháng âm lịch mỗi hoàng tử đều đã chuẩn bị món ăn của mình và dâng lên cho vua cha trước mặt tất cả các quần thần trong triều .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The first brother presented a fine porcelain dish of flying fish dressed in a sweet Chili sauce and accompanied by costly lotus seeds .</s>
+<s id='vn20'>Vị hoàng tử đầu tiên dâng món cá chuồn nấu bằng tương ớt thơm lừng và hạt sen đắt tiền trong tô sứ rất ngon mắt .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A hush came over the court as the father viewed the dish and placed it on the table .</s>
+<s id='vn21'>Cả triều đình im phăng phắc khi vua cha xem qua món ăn và đặt nó trở lại trên bàn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The second brother came forward and he opened a large copper cauldron and presented a joint of boar dressed with wild mushrooms and a rare wild fern sauce .</s>
+<s id='vn22'>Vị hoàng tử thứ hai lên phía trước và mở cái vạc đồng và dâng lên cho cha miếng đùi lợn nấu với nấm rừng và nước xốt dương xỉ rừng quý hiếm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Again all the court watched the father place the cauldron on the table .</s>
+<s id='vn23'>Lại một lần nữa cả triều đình nhìn vua cha đặt cái vạc trên bàn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Then Prince Tiet Lieu came forward and opened his basket and displayed a large flat rice cake .</s>
+<s id='vn24'>Đến lượt hoàng tử Tiết Liêu bước về phía trước , mở cái giỏ của mình và bày ra một chiếc bánh gạo rất to bằng phẳng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The court and his brothers gasped , no-one would dare offer such simple fare to the royal King .</s>
+<s id='vn25'>Cả triều đình và hai anh của anh ta đều há hốc miệng kinh ngạc , chẳng ai dám dâng cho vua cha một món ăn quá đơn giản như thế .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>King Hung said , " Prince Tiet Lieu , tell me why you have chosen to present me with such a simple rice cake ? "</s>
+<s id='vn26'>Vua Hùng bảo , " Tiết Liêu , nói cho cha nghe tại sao con lại chọn món bánh gạo đơn giản như thế để dâng lên cho cha ? "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Prince Tiet Lieu said , " Rice is the most precious and valuable of all food found in this Kingdom , yet rice is also the most abundant_food .</s>
+<s id='vn27'>Hoàng tử Tiết Liêu tâu , " Gạo là thứ ăn quý giá nhất trong vương quốc này , và gạo cũng là thực phẩm dồi dào nhất .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I have prepared a dish that represents my love for you and our beautiful Vietnam .</s>
+<s id='vn28'>Con đã chuẩn bị một món ăn để có thể bày tỏ tình yêu của con đối với cha và cả Việt Nam xinh đẹp của chúng ta .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>I have cooked it thoroughly then molded it into a round rice cake , and called it Banh Day as it symbolizes the sky we live under .</s>
+<s id='vn29'>Con đã nấu chín gạo và đúc vào trong khuôn bánh tròn , và gọi là Bánh Dày để tượng trưng cho bầu trời mà chúng ta đang sống đây .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I have cooked a square rice cake , stuffed it with cooked bean paste and ground meat in the middle and called it Banh Chung .</s>
+<s id='vn30'>Con cũng nấu một chiếc bánh gạo vuông vức , ở giữa có nhân đậu chín và thịt băm nhỏ được gọi là Bánh Chưng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>This will symbolize the earth we live on .</s>
+<s id='vn31'>Đây tượng trưng cho trái đất mà chúng ta đang sống .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>As Prince Tiet Lieu spoke his two elder brothers tried to mask the grandness of their dishes as they now understood the wisdom of their younger brother in using ingredients that all the people of Vietnam could have access to .</s>
+<s id='vn32'>Khi Hoàng tử Tiết Liêu nói xong thì hai người anh của chàng cũng cố che đi vẻ to lớn của các món ăn của mình vì giờ đây họ đã hiểu ra sự khôn ngoan của em mình khi dùng những thành phần mà tất cả người Việt Nam đều có được .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Immediately they fell to their knees in front of their father and younger brother and bowed at the same time the whole court bowed to the father and Prince Tiet Lieu as everyone knew that he would make the finest King to rule after his wise father King .</s>
+<s id='vn33'>Ngay lập tức họ quỳ xuống dưới chân vua cha và hoàng tử út đồng thời toàn thể triều thần cũng cúi đầu trước vua cha và Hoàng tử Tiết Liêu vì tất cả đã biết rằng anh ấy sẽ là một vị vua tốt nhất sau vua cha .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>After that , King Hung ordered that this recipe be passed out to all people in his kingdom .</s>
+<s id='vn34'>Sau đó , vua Hùng truyền lệnh cho công thức làm bánh này phổ biến cho hết thảy mọi người trong vương quốc của Ngài .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>As the result , the Vietnamese custom is that every year during the New Year celebration , the Vietnamese people cook Banh Chung and Banh Day and use them as special offerings to their ancestors as well as special gifts to relatives and friends during the Tet celebrations .</s>
+<s id='vn35'>Vì thế , Việt Nam có phong tục là hằng năm cứ đến Tết là người Việt nấu Bánh Chưng và Bánh Dày và dùng như món đồ cúng đặc biệt dành để cúng tổ tiên và là món quà đặc biệt cho người thân và bạn bè trong dịp Tết .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The Banh Chung is very nutritious , has an original tasty flavor and may be kept for a long time .</s>
+<s id='vn36'>Bánh Chưng rất bổ dưỡng , có hương vị thơm ngon độc đáo và có thể giữ được trong một thời gian dài .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>All of its ingredients and materials , from the green wrapping leaves to sticky rice and pork , green peas and pepper inside , are all medicines ( according to Oriental Medicine ) that act to keep harmony between the positive and the negative , thus helping the blood circulate well and preventing diseases .</s>
+<s id='vn37'>Tất cả các thành phần và nguyên liệu làm bánh , từ lá gói xanh tới gạo nếp và thịt heo , đậu xanh và tiêu bên trong nhân , tất cả đều là các vị thuốc ( theo đông y ) có thể giữ cân bằng âm dương giúp máu lưu thông tốt và ngăn ngừa bệnh tật nữa .</s>
+</spair>
+</text>
+</doc>

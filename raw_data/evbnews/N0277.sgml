@@ -1,0 +1,132 @@
+﻿<doc id='N0277'>
+<head>
+<title>Transfer Files From Mac To iPhone Over Wi-Fi Without Using iTunes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Transfer Files From Mac To iPhone Over Wi-Fi Without Using iTunes</s>
+<s id='vn1'>Chuyển dữ liệu từ Mac sang iPhone qua Wifi mà không cần sử dụng iTunes</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The iPhone is easily one of the best things that Apple has ever made , but there are certain things you have to accept about an iPhone .</s>
+<s id='vn2'>iPhone là một trong những dòng sản phẩm tốt nhất mà Apple đã tạo ra , nhưng vẫn còn những hạn chế mà bạn phải chấp nhận .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One of them is that you cannot use the iPhone as a mass storage device .</s>
+<s id='vn3'>Một trong những hạn chế đó là bạn không thể sử dụng iPhone như một thiết bị lưu trữ dung lượng lớn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You literally have a considerable amount of storage on your phone with audio , video and image files .</s>
+<s id='vn4'>Trong khi bạn có rất nhiều dữ liệu cần lưu trữ trong điện thoại như audio , video và hình ảnh .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>iTunes does have a file sharing option , but since you can only authorize 5 systems to sync with your phone , it is far from a universal solution .</s>
+<s id='vn5'>iTunes có chức năng lựa chọn chia sẻ tập tin nhưng vì bạn chỉ có thể sử dụng 5 hệ thống để đồng bộ điện thoại nên đó không phải là giải pháp tối ưu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are , however , apps available to make this file transfer easier , and if you 're a Mac user , File Storage Companion is an app that , coupled with its iOS client File Storage , lets you transfer files from your Mac to your iPhone over Wi-Fi .</s>
+<s id='vn6'>Tuy nhiên hiện có nhiều ứng dụng có thể giúp bạn chuyển tập tin này dễ dàng hơn , và nếu bạn là người sử dụng Mac thì ứng dụng File Storage Companion kết hợp với iOS client File Storage cho phép bạn chuyển các tập tin từ Mac sang iPhone qua sóng wifi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The Mac app is free and available in the Mac App Store , whereas the iOS counterpart costs $ 1.99 .</s>
+<s id='vn7'>Ứng dụng dành cho Mac miễn phí và đã có trên Mac App Store trong khi với iOS bạn phải trả 1,99 đô .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The iOS app is n't just a means of transferring files , but is also a fairly good file viewer that can create directories and open zipped files .</s>
+<s id='vn8'>Ứng dụng iOS không chỉ là một phương tiện chuyển tập tin mà còn là một trình xem tập tin khá hữu ích có thể tạo ra các thư mục và mở tập tin nén .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Download , install and run both Mac and iOS apps on their respective device .</s>
+<s id='vn9'>Tải , cài đặt và chạy các ứng dụng ở cả Mac và iOS trên các thiết bị tương ứng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Make sure both Mac and iPhone are connected to the same Wi-Fi .</s>
+<s id='vn10'>Cần đảm bảo rằng cả Mac và iPhone đều kết nối cùng mạng wifi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The connection is initiated from the iPhone , so go to the Wi-Fi Sharing tab and click Enable .</s>
+<s id='vn11'>Ban đầu kết nối từ iPhone rồi vào tab Wifi sharing , sau đó chọn Enable .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Wait for the phone to appear as a detected device on the Mac , drag & drop the file(s ) you want to send to your iPhone onto the Mac app , and wait for transfer to complete .</s>
+<s id='vn12'>Chờ điện thoại xuất hiện thiết bị dò tìm trên Mac , chọn và kéo tập tin bạn muốn chuyển từ iPhone sang Mac , và chờ cho đến khi quá trình chuyển tập tin hoàn thành .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>To terminate the connection between your Mac and iPhone , click Terminate in the Wi-Fi Sharing tab .</s>
+<s id='vn13'>Để ngắt kết nối giữa Mac và iPhone , bạn hãy nhấn Terminate trong tab Wifi sharing .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Visit the Settings tab and enable viewing file extensions , opening zipped files and listing directories first .</s>
+<s id='vn14'>Vào tab Settings và kích hoạt để xem phần mở rộng tập tin , mở các tập tin nén và các danh mục liệt kê đầu tiên .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>To view the files that you 've sent , go to the Home tab .</s>
+<s id='vn15'>Vào tab Home để xem tập tin bạn đã gửi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>To transfer files from your iPhone to your Mac , you will need to use iTunes and its built-in file sharing option .</s>
+<s id='vn16'>Để chuyển các tập tin từ iPhone sang Mac , bạn cần sử dụng iTunes thiết lập sẵn trong tuỳ chọn chia sẻ dữ liệu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Both apps are meant to make file transferring possible from a Mac to an iPhone without having to turn to iTunes .</s>
+<s id='vn17'>Cả hai ứng dụng đều có khả năng chuyển các tập tin từ Mac sang iPhone mà không cần phải chuyển sang iTunes .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This means if you need to copy files from a friend 's Mac , or your Mac at work etc , you do n't need iTunes .</s>
+<s id='vn18'>Điều này có nghĩa là nếu bạn cần sao chép các tập tin từ một máy Mac khác hay từ chiếc máy đang làm việc , bạn không cần sử dụng iTunes nữa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>File Storage Companion and File Storage do work under the caveat that you may need to transfer files from multiple systems , but you will only ever need to transfer them from your iPhone to a system that you frequently use .</s>
+<s id='vn19'>File Storage Companion và File Storage có thể trợ giúp chuyển các tập tin từ nhiều hệ thống , nhưng bạn sẽ chỉ cần chuyển từ iPhone sang hệ thống mà bạn thường sử dụng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Both apps are good and worth the install .</s>
+<s id='vn20'>Cả hai ứng dụng đều khá tiện dụng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>However , the fact that you cannot restrict the connections between a Mac and iPhone with a password is somewhat of a drawback .</s>
+<s id='vn21'>Tuy nhiên , thực tế có một nhược điểm là bạn không thể hạn chế kết nối giữa Mac và iPhones bằng cách dùng mật khẩu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Dater iPhone tweak adds ability to date and time stamp photos</s>
+<s id='vn22'>Tinh chỉnh Dater iPhone bổ sung thêm khả năng xác định ngày giờ chụp ảnh</s>
+</spair>
+<spair id='23'>
+<s id='en23'>One of the things that the iOS camera app is missing , is the ability to date and time stamp a photo .</s>
+<s id='vn23'>Một trong những ứng dụng mà máy ảnh iOS không có là khả năng xác định ngày giờ chụp của bức ảnh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Dater , a new Cydia tweak available now , allows jailbroken iOS devices to add a date and time info to photos taken with the the stock camera app .</s>
+<s id='vn24'>Nhưng hiện nay , Dater tinh chỉnh mới trên Cydia đã có mặt , cho phép các thiết bị iOS đã được bẻ khóa có thể xác định thêm thông tin về ngày giờ chụp bức ảnh bằng ứng dụng camera mặc định .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Seen in the photo below , Dater puts the date and time stamp at the bottom of the image when scrolling through the Apple photo gallery .</s>
+<s id='vn25'>Hãy xem bức ảnh dưới đây , Dater đã cài đặt ngày giờ dưới bức ảnh khi chúng ta lướt xem bộ sưu tập ảnh của Apple .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The user can also press and hold on a photo , and see detailed date and time info from the photo .</s>
+<s id='vn26'>Người dùng cũng có thể ấn và giữ trên tấm ảnh để xem chi tiết thông tin ngày giờ từ tấm ảnh .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>One important note is that contrary to the app 's name implication , it does n't place an actual time or date stamp on the photo that would be viewable when looking at the photo on a computer .</s>
+<s id='vn27'>Một chú ý quan trọng là trái với tên của các ứng dụng , nó không đặt ngày giờ thực có thể thấy khi chúng ta xem các bức ảnh trên máy tính .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Dater is available on iPad and iPhone in the Cydia store for $0.99 .</s>
+<s id='vn28'>Dater hiện đã có trên iPad và iPhone trong kho ứng dụng Cydia với giá 0.99 $ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The device must be jailbroken to use this tweak .</s>
+<s id='vn29'>Thiết bị này cần được bẻ khóa để sử dụng loại tinh chỉnh này .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Let us know if you use the tweak and if you think it 's useful .</s>
+<s id='vn30'>Hãy cho chúng tôi biết nếu bạn sử dụng công cụ tinh chỉnh và nếu bạn nghĩ là nó thực sự hữu ích .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,108 @@
+﻿<doc id='N0838'>
+<head>
+<title>UK CPI inflation rate rises to 4.4% in July</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>UK CPI inflation rate rises to 4.4% in July</s>
+<s id='vn1'>Tỷ lệ lạm phát CPI của Vương quốc Anh tăng lên đến 4,4% vào tháng bảy</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The UK government 's targeted rate of inflation rose in July , following higher prices for clothing and footwear and fees for financial services .</s>
+<s id='vn2'>Tỉ lệ lạm phát mà chính phủ Vương quốc Anh nhắm đến đã tăng lên trong tháng bảy , sau khi giá các mặt hàng quần áo và giầy dép cũng như phí dịch vụ tài chính tăng cao hơn .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The rate of Consumer Prices Index ( CPI ) inflation rose to 4.4% from 4.2% in June , according to figures from the Office for National Statistics ( ONS ) .</s>
+<s id='vn3'>Tỉ lệ lạm phát theo chỉ số giá tiêu dùng ( CPI ) tăng lên đến 4,4% so với 4,2% vào tháng sáu , theo con số từ Văn phòng thống kê quốc gia ( ONS ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The Retail Prices Index ( RPI ) measure was unchanged at 5% .</s>
+<s id='vn4'>Mức đo theo chỉ số giá bán lẻ ( RPI ) là không đổi với con số là 5% .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Clothing and footwear prices measured for CPI saw their biggest annual increase since records began in 1997 .</s>
+<s id='vn5'>Giá giày dép và quần áo đo theo chỉ số CPI cho thấy mức tăng hàng năm lớn nhất kể từ khi bắt đầu tính con số này vào năm 1997 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Bank of England governor Mervyn King has written another letter to the chancellor to explain why CPI inflation remains well above the 2% target rate .</s>
+<s id='vn6'>Thống đốc ngân hàng Anh Quốc – ông Mervyn King - đã viết thư gởi đến thủ tướng để giải thích tại sao lạm phát CPI vẫn cao hơn nhiều so với mức mục tiêu 2% .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The governor must write a letter every three months if CPI is more than one percentage point above or below the target .</s>
+<s id='vn7'>Thống đốc phải viết thư ba tháng một lần nếu CPI cao hơn một điểm phần trăm , cao hơn hoặc thấp hơn mục tiêu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He blamed the continuing high inflation rate on , " the increase in the standard rate of VAT to 20% , and past increases in global energy prices and import prices " .</s>
+<s id='vn8'>Ông quy cho rằng tỷ lệ lạm phát tiếp tục cao " là do tăng tỉ lệ VAT chuẩn đến 20% , và những lần tăng vừa qua của giá năng lượng và giá nhập khẩu toàn cầu " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He also stressed that " the big risks currently facing the UK economy come from the rest of the world " .</s>
+<s id='vn9'>Ông cũng nhấn mạnh rằng " những nguy cơ lớn hiện đối mặt với nền kinh tế nước Anh đến từ phần còn lại của thế giới " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The Bank of England said last week that it remained confident that inflation would return to its target level in the next two years .</s>
+<s id='vn10'>Ngân hàng Anh quốc tuần trước cho biết nó vẫn tin rằng lạm phát sẽ quay về mức mục tiêu đề ra trong hai năm tới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Chancellor George Osborne replied to Mr King 's letter saying that , " A crisis of confidence in the global economy demands a global response " .</s>
+<s id='vn11'>Thủ tướng George Osborne hồi âm cho lá thư của ông King có đoạn viết " khủng hoảng lòng tin vào kinh tế toàn cầu đòi hỏi sự phản ứng của cả toàn cầu " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>He called for credible cuts in countries with big deficits and a " rebalancing of global demand to support growth " .</s>
+<s id='vn12'>Ông còn kêu gọi cắt giảm thực sự ở nhiều quốc gia với mức thâm hụt lớn và " tái lập cân bằng nhu cầu trên toàn cầu để hỗ trợ tăng trưởng " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Rail fares</s>
+<s id='vn13'>Giá vé xe lửa</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The ONS said the main contributors to inflation came from financial services , clothing , footwear , furniture , household equipment and housing rent .</s>
+<s id='vn14'>Theo ONS thì những yếu tố chính kích thích lạm phát đến từ dịch vụ tài chính , quần áo , giầy dép , đồ gỗ , thiết bị gia dụng và giá thuê nhà ở .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It said one of the biggest contributions had come from fees for financial services , which rose in July but had fallen in the same month last year .</s>
+<s id='vn15'>Văn phòng này còn cho biết một trong những đóng góp lớn nhất đến từ phí dịch vụ tài chính , tăng trong tháng bảy nhưng giảm xuống cũng trong tháng này năm ngoái .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The main downward pressure on inflation came from food and non-alcoholic drinks .</s>
+<s id='vn16'>Áp lực chính làm lạm phát giảm xuống đến từ thức ăn và thức uống không cồn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" The big picture is still that rises in energy prices and in particular the VAT hike at the start of the year are still keeping inflation high , " said Colin Ellis , chief economist at the British Private Equity and Venture Capital Association .</s>
+<s id='vn17'>" Bức tranh toàn cảnh vẫn yên lặng dẫn đến tăng giá năng lượng và đặc biệt tăng thuế VAT vào đầu năm làm cho lạm phát cứ tăng cao , " theo Colin Ellis , chuyên gia kinh tế hàng đầu của tổ chức British Private Equity and Venture Capital Association .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" At constant tax rates , CPI inflation was 2.8 % in July . "</s>
+<s id='vn18'>" Ở mức thuế không thay đổi , lạm phát CPI là 2.8% vào tháng bảy . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>July 's inflation figures are particularly important because they are used to determine how much regulated rail fares can increase .</s>
+<s id='vn19'>Con số lạm phát của tháng bảy đặc biệt quan trọng vì chúng sẽ xác định được giá vé xe lửa theo quy định có thể tăng là bao nhiêu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Under the government 's new formula , fares will be able to rise by RPI+ 3 % , which means average fares will be able to go up by 8% next year .</s>
+<s id='vn20'>Theo công thức mới của chính phủ , giá vé có thể sẽ tăng lên bằng RPI +3 % , nghĩa là giá vé trung bình sẽ có thể tăng 8% trong năm tới .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In other research , Kantar Worldpanel found that while grocery price inflation had grown 5.2% in the 12 weeks to 7 August , compared with the same period the previous year , grocery sales had only risen by 3.8% .</s>
+<s id='vn21'>Trong nghiên cứu khác , Kantar Worldpanel nhận thấy là trong khi lạm phát giá cả hàng tạp hoá đã tăng 5,2% trong vòng 12 tuần đến ngày 7 tháng tám , so với cùng kỳ năm ngoái , doanh thu hàng tạp hoá chỉ tăng 3,8% .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" It is evident that shoppers are trying to manage their 'personal " inflation by trading down , " said Edward Garner from Kantar Worldpanel .</s>
+<s id='vn22'>" Rõ ràng là người mua hàng đang cố quản lý lạm phát " cá nhân " của họ bằng cách ít giao dịch hơn , " Edward Garner cho biết từ hãng Kantar Worldpanel .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" It 's therefore unsurprising that the discounters have pushed further ahead this month . "</s>
+<s id='vn23'>" Do đó không ai ngạc nhiên khi những cửa hàng giảm giá tiếp tục giảm giá thêm vào tháng này . "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Aldi performed particularly strongly , taking its market share to 3.6% from 3% at the same time last year .</s>
+<s id='vn24'>Aldi đã thực hiện đặc biệt mạnh mẽ , chiếm thị phần đến 3.6% so với 3% ở cùng kỳ năm ngoái .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,528 @@
+﻿<doc id='N0967'>
+<head>
+<title>Women 's hair loss</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Women 's hair loss</s>
+<s id='vn1'>Chứng rụng tóc ở nữ giới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The idea that thinning hair is a guy problem is simply wrong .</s>
+<s id='vn2'>Quan niệm rụng tóc chỉ là vấn đề của nam giới là hoàn toàn sai lầm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Forty percent of people who experience temporary or long term hair loss are women .</s>
+<s id='vn3'>40% người bị rụng tóc tạm thời hoặc trường kỳ đều là phụ nữ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Hair is tied to self-image</s>
+<s id='vn4'>Tóc gắn liền với sự tự nhận thức bản thân</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Long , short , bouncy , or sleek -- for most women , hair is far more than a bundle of fiber .</s>
+<s id='vn5'>Với hầu hết phụ nữ thì tóc dài , tóc ngắn , tóc đầy sức sống , hay tóc mượt mà thì mái tóc không chỉ là một bó sợi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's an expression of style and personality .</s>
+<s id='vn6'>Nó là sự thể hiện tác phong và nhân cách nữa .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Research also suggests hair and self-image are closely intertwined .</s>
+<s id='vn7'>Cuộc nghiên cứu cũng cho biết tóc và sự tự nhận thức bản thân có liên quan mật thiết với nhau .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If an occasional " bad hair day " can make a gal feel low , hair loss can be a distressing sight to face every morning in the mirror .</s>
+<s id='vn8'>Nếu thỉnh thoảng " một ngày xấu trời nào đó " có thể làm cho phái nữ cảm thấy buồn bực thì chứng rụng tóc có thể là một hình ảnh làm cho gương mặt trở nên buồn thảm vào mỗi buổi sáng mai nhìn thấy mình trong gương .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Hair loss common in women , too</s>
+<s id='vn9'>Chứng rụng tóc cũng thường thấy ở phụ nữ</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The idea that thinning hair is a guy problem is simply wrong .</s>
+<s id='vn10'>Quan niệm rụng tóc chỉ là vấn đề của nam giới là hoàn toàn sai lầm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Forty percent of people who experience temporary or long term hair loss are women .</s>
+<s id='vn11'>40% người bị rụng tóc tạm thời hoặc trường kỳ đều là phụ nữ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Some have hair that is thinning all over , while others see the center part gradually widen .</s>
+<s id='vn12'>Một số người bị rụng tóc cả đầu , trong khi số khác rụng tóc dần dần ở vùng đỉnh đầu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Still others develop distinct baldness at the crown of the head .</s>
+<s id='vn13'>Tuy nhiên những người khác lại bị hói rõ rệt ở đỉnh đầu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Unlike men , women rarely develop a receding front hairline .</s>
+<s id='vn14'>Không giống như nam giới , phụ nữ hiếm khi bị đường chân tóc hớt ra sau trán .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>How hair grows</s>
+<s id='vn15'>Tóc mọc như thế nào</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The average scalp has 100,000 hairs .</s>
+<s id='vn16'>Trên da đầu trung bình có 100.000 sợi tóc .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Each follicle produces a single hair that grows at a rate of half an inch per month .</s>
+<s id='vn17'>Mỗi nang mọc 1 sợi phát triển với tốc độ mỗi tháng là nửa in - sơ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>After growing for two to six years , the hair rests for awhile before falling out .</s>
+<s id='vn18'>Sau khi tóc mọc từ 2 đến 6 năm thì ngừng phát triển một thời gian trước khi rụng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It is soon replaced with a new hair , and the cycle begins again .</s>
+<s id='vn19'>Và tóc mới sẽ nhanh chóng mọc ra để thay thế , và một chu kỳ nữa lại bắt đầu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>At any given time , 85 % of the hair is growing , and the remainder is resting .</s>
+<s id='vn20'>Tại một thời điểm nhất định nào đó , thì trên đầu chúng ta luôn có 85% tóc đang phát triển , và phần còn lại đang ở giai đoạn ngừng phát triển .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>How much hair loss is normal ?</s>
+<s id='vn21'>Tóc rụng bao nhiêu là bình thường ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Because resting hairs routinely fall out , most people shed about 50-100 strands every day .</s>
+<s id='vn22'>Vì tóc ngừng phát triển sẽ rụng thường xuyên nên hầu hết mọi người đều rụng từ 50-100 sợi mỗi ngày .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>You 'll typically find a few in your hairbrush or on your clothes .</s>
+<s id='vn23'>Thường thì bạn sẽ thấy vài sợi tóc rụng trên lược hoặc trên quần áo của mình .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Abnormal hair loss can occur in several ways .</s>
+<s id='vn24'>Trường hợp rụng tóc bất thường có thể xảy ra một số kiểu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>You may notice dramatic clumps falling out when you shampoo or style .</s>
+<s id='vn25'>Bạn có thể phát hiện thấy tóc mình đột ngột rụng từng mảng khi gội đầu hoặc tạo dáng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Or the hair may thin slowly over time .</s>
+<s id='vn26'>Hoặc tóc có thể rụng dần qua thời gian .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If you 're concerned about changes in your hair , consult your doctor .</s>
+<s id='vn27'>Nếu bạn lo lắng về những thay đổi trên tóc của mình thì bạn nên tham khảo ý kiến của bác sĩ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Finding the roots of hair loss</s>
+<s id='vn28'>Tìm nguyên nhân gây rụng tóc</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Hair loss in women can be triggered by about 30 different medical conditions , as well as several lifestyle factors .</s>
+<s id='vn29'>Chứng rụng tóc ở phụ nữ có thể do khoảng 30 bệnh khác nhau gây ra , cũng như một số yếu tố về lối sống nữa .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Sometimes no specific cause can be found .</s>
+<s id='vn30'>Đôi khi người ta không tìm được một nguyên nhân cụ thể nào .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>As a starting point , hair loss experts recommend testing for thyroid problems and hormone imbalances .</s>
+<s id='vn31'>Như một điểm xuất phát , các chuyên gia về rụng tóc khuyến nghị nên làm xét nghiệm dò tìm các vấn đề về tuyến giáp và mất cân đối hooc - môn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In many cases , hair will grow back once the cause is addressed .</s>
+<s id='vn32'>Trong nhiều trường hợp thì tóc sẽ mọc lại khi đã xác định được nguyên nhân .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Measuring women 's hair loss</s>
+<s id='vn33'>Đo độ rụng tóc của phụ nữ</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The Savin scale is a common measure that ranges from normal hair density to a bald crown ( very rare ) .</s>
+<s id='vn34'>Người ta thường sử dụng thang chia độ Savin scale để xếp loại độ dày tóc từ bình thường đến hói ( rất hiếm thấy ) .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It 's helpful in documenting female pattern baldness , which affects about 30 million American women .</s>
+<s id='vn35'>Điều này cũng giúp đưa ra bằng chứng chú thích kiểu hói đầu ở nữ giới , mà hiện đang là vấn nạn của khoảng 30 triệu phụ nữ Mỹ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Experts think genetics and aging play a role in androgenic alopecia , along with the hormonal changes of menopause .</s>
+<s id='vn36'>Nhiều chuyên gia cho rằng di truyền học và tuổi tác đóng vai trò quan trọng đối với chứng rụng tóc do kích thích tố nam và những thay đổi hooc - môn do mãn kinh gây ra .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Hair may become thin all over , with the greatest loss along the center of the scalp .</s>
+<s id='vn37'>Tóc có thể rụng ở khắp đầu , mà dữ dội nhất là vùng dọc theo đỉnh đầu .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>A receding hairline is very rare in women .</s>
+<s id='vn38'>Rất hiếm gặp trường hợp chân tóc hớt ra sau trán ở phụ nữ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Hair loss trigger : Thyroid problems</s>
+<s id='vn39'>Vấn đề về tuyến giáp gây rụng tóc</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The thyroid is a butterfly-shaped gland at the front of the neck .</s>
+<s id='vn40'>Tuyến giáp là một tuyến hình bướm nằm ở trước cổ .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>It produces hormones that regulate many processes throughout the body .</s>
+<s id='vn41'>Tuyến giáp làm nhiệm vụ sản sinh hooc - môn điều chỉnh nhiều quá trình phát triển khắp cả cơ thể .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If the gland makes too much or too little thyroid hormone , the hair growth cycle may falter .</s>
+<s id='vn42'>Nếu tuyến giáp sản sinh ra quá nhiều hoặc quá ít hooc - môn tuyến giáp thì chu kỳ phát triển của tóc có thể không đều đặn bình thường nữa .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>But hair loss is rarely the only sign of a thyroid problem .</s>
+<s id='vn43'>Nhưng rụng tóc hiếm khi là dấu hiệu duy nhất do vấn đề tuyến giáp gây ra .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Other symptoms include weight gain or loss , sensitivity to cold or heat , and changes in heart rate .</s>
+<s id='vn44'>Các triệu chứng khác gồm tăng hoặc giảm cân , nhạy cảm với thời tiết nóng hoặc lạnh , và nhịp tim thay đổi .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Hair loss trigger : PCOS</s>
+<s id='vn45'>Hội chứng buồng trứng đa u nang gây rụng tóc</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Women with polycystic ovary syndrome ( PCOS ) have a chronic hormonal imbalance .</s>
+<s id='vn46'>Phụ nữ bị hội chứng buồng trứng đa u nang ( PCOS ) bị mất cân đối về hoóc - môn mãn tính .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The body makes higher levels of androgens than expected .</s>
+<s id='vn47'>Cơ thể tiết ra nhiều hoóc - môn nam hơn bình thường .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This often causes extra hair to sprout on the face and body , while the hair on the scalp grows thinner .</s>
+<s id='vn48'>Thường làm cho lông mọc nhiều hơn trên mặt và cơ thể , trong khi đó tóc trên da đầu lại mọc thưa hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>PCOS can also lead to ovulation problems , acne , and weight gain .</s>
+<s id='vn49'>PCOS cũng có thể dẫn đến các vấn đề về rụng trứng , mụn trứng cá , và tăng cân .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>But sometimes thinning hair is the only obvious sign .</s>
+<s id='vn50'>Nhưng đôi khi rụng tóc là một dấu hiệu rõ rệt duy nhất .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Hair loss trigger : Alopecia areata</s>
+<s id='vn51'>Chứng rụng tóc từng vùng gây rụng tóc</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Alopecia areata causes the hair to fall out in startling patches .</s>
+<s id='vn52'>Chứng rụng tóc từng vùng làm tóc rụng nhiều mảng khiến người ta giật mình , sửng sốt .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The culprit is the body 's own immune system , which mistakenly attacks healthy hair follicles .</s>
+<s id='vn53'>Nguyên nhân là hệ miễn dịch của cơ thể tấn công nhầm các nang tóc khỏe .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>In most cases , the damage is not permanent .</s>
+<s id='vn54'>Trong hầu hết các trường hợp thì tổn thương thường không lâu dài .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The missing patches usually grow back in six months to a year .</s>
+<s id='vn55'>Những mảng tóc rụng thường sẽ mọc lại trong vòng 6 tháng đến 1 năm .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>In rare cases , people may lose all of the hair on their scalp and body .</s>
+<s id='vn56'>Trường hợp bệnh nhân có thể rụng hết lông tóc trên cơ thể và trên da đầu là hiếm thấy .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Hair loss trigger : Ringworm</s>
+<s id='vn57'>Bệnh éc - pét mảng tròn gây rụng tóc</s>
+</spair>
+<spair id='58'>
+<s id='en58'>When ringworm affects the scalp , the fungus triggers a distinct pattern of hair loss -- itchy , round bald patches .</s>
+<s id='vn58'>Khi da đầu bị bệnh éc - pét mảng tròn , nấm sẽ làm rụng tóc đặc trưng – nhiều mảng hói tròn , ngứa .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Bald areas can appear scaly and red .</s>
+<s id='vn59'>Những vùng hói có thể đầy vảy và đỏ lên .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Ringworm of the scalp is treated with antifungal medication .</s>
+<s id='vn60'>Bệnh éc - pét mảng tròn trên da đầu được điều trị bằng thuốc diệt nấm .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The fungus is easily spread by direct contact , so family members should be checked for symptoms , too .</s>
+<s id='vn61'>Nấm dễ dàng phát tán bằng cách tiếp xúc trực tiếp , vì vậy người trong nhà cũng nên được kiểm tra các triệu chứng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Hair loss trigger : Childbirth</s>
+<s id='vn62'>Sinh đẻ gây rụng tóc</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Some women may notice their hair seems fuller during pregnancy .</s>
+<s id='vn63'>Một số phụ nữ có thể nhận thấy tóc của mình có vẻ dày hơn trong suốt quá trình thai nghén .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>That 's thanks to high levels of hormones that keep resting hairs from falling out as they normally would .</s>
+<s id='vn64'>Đó là nhờ nồng độ cao của các hoóc - môn giữ cho tóc ngừng phát triển không bị rụng như bình thường .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Alas , the reprieve is short-lived .</s>
+<s id='vn65'>Tiếc là , khoảng thời gian đó lại không dài .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>After childbirth , when hormone levels return to normal , those strands fall out quickly .</s>
+<s id='vn66'>Sau khi sinh , khi mà hàm lượng hoóc - môn trở về bình thường thì những mớ tóc ấy lại rụng đi một cách nhanh chóng .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>This can mean a surprising amount of hair loss at one time .</s>
+<s id='vn67'>Điều này có thể hiểu là tóc rụng cùng 1 lúc rất nhiều làm cho người ta phải kinh ngạc .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>It may take up to two years for the hair to return to normal .</s>
+<s id='vn68'>Có thể phải mất đến 2 năm thì tóc mới có thể trở lại bình thường .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Hair loss trigger : The pill</s>
+<s id='vn69'>Thuốc tránh thai làm rụng tóc</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A little known side effect of birth control pills is the potential for hair loss .</s>
+<s id='vn70'>Tác dụng phụ ít được biết đến của thuốc tránh thai là nó có thể gây rụng tóc .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>The hormones that suppress ovulation can cause the hair to thin in some women , particularly those with a family history of hair loss .</s>
+<s id='vn71'>Các hoóc - môn ngăn rụng trứng có thể làm rụng tóc ở một số phụ nữ , nhất là ở những người có tiền sử gia đình bị rụng tóc .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Sometimes hair loss begins when you stop taking the pill .</s>
+<s id='vn72'>Đôi khi chứng rụng tóc lại bắt đầu khi bạn ngưng không sử dụng thuốc tránh thai nữa .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Other drugs linked to hair loss include blood thinners and medicines that treat high blood pressure , heart disease , arthritis , and depression .</s>
+<s id='vn73'>Nhiều thuốc khác có liên quan đến rụng tóc gồm thuốc làm loãng máu và thuốc trị cao huyết áp , trị bệnh tim , trị viêm khớp , và trị trầm cảm .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Hair loss trigger : Crash diets</s>
+<s id='vn74'>Chế độ ăn kiêng nghiêm ngặt làm rụng tóc</s>
+</spair>
+<spair id='75'>
+<s id='en75'>You may lose more than weight with a crash diet .</s>
+<s id='vn75'>Với một chế độ ăn kiêng nghiêm ngặt , bạn có thể mất nhiều thứ ngoài trọng lượng của mình .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>People may notice hair loss 3-6 months after losing more than 15 pounds , but hair should regrow on its own with a healthy diet .</s>
+<s id='vn76'>Người ta có thể phát hiện tóc rụng từ 3-6 tháng sau khi giảm trên 15 cân Anh , nhưng tóc sẽ tự mọc lại khi có chế độ dinh dưỡng khỏe mạnh .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Be prepared to shed some locks if your diet is very low in protein or too high in vitamin A.</s>
+<s id='vn77'>Dăm ba mớ tóc sẽ rụng nếu chế độ dinh dưỡng của bạn quá nghèo protein hoặc quá giàu vitamin A .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Hair loss trigger : Tight hairstyles</s>
+<s id='vn78'>Các kiểu tóc cột chặt làm rụng tóc</s>
+</spair>
+<spair id='79'>
+<s id='en79'>It 's no myth : wearing cornrows or tight ponytails can irritate the scalp and cause hair to fall out .</s>
+<s id='vn79'>Thắt bím tóc sát da đầu hoặc cột tóc đuôi gà chặt có thể gây kích thích da đầu và làm rụng tóc , điều đó không ngoa đâu .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>The same is true of using tight rollers .</s>
+<s id='vn80'>Sử dụng ống cuốn chặt cũng gây ảnh hưởng tương tự như thế .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Let your hair down , and it should grow back normally .</s>
+<s id='vn81'>Hãy xoã tóc xuống , nó sẽ mọc trở lại bình thường .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Be aware that long-term use of these styles can cause scarring of the scalp and permanent hair loss .</s>
+<s id='vn82'>Bạn nên biết rằng sử dụng các kiểu tóc này lâu dài có thể làm tổn thương da đầu và gây rụng tóc trường kỳ .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Hair loss trigger : Cancer treatment</s>
+<s id='vn83'>Điều trị ung thư làm rụng tóc</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Hair loss is an infamous side effect of two cancer treatments , chemo and radiation therapy .</s>
+<s id='vn84'>Rụng tóc là tác dụng phụ rất tệ hại của hai loại điều trị ung thư , điều trị bằng hoá trị liệu và bằng bức xạ .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>In their quest to kill cancer cells , both treatments can harm the hair follicles , triggering dramatic hair loss .</s>
+<s id='vn85'>Khi dò tìm để giết hết các tế bào ung thư thì cả hai phương pháp điều trị trên có thể gây hại đến cho nang tóc , làm rụng tóc dữ dội .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>But the damage is almost always short-lived .</s>
+<s id='vn86'>Nhưng tổn thương này hầu như lúc nào cũng xảy ra trong một thời gian ngắn .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Once the therapy is finished , the hair usually grows back .</s>
+<s id='vn87'>Khi không sử dụng liệu pháp này nữa thì tóc thường sẽ mọc lại .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Hair loss trigger : Extreme stress</s>
+<s id='vn88'>Căng thẳng dữ dội làm rụng tóc</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Extreme physical or emotional stress can cause a sudden shedding of one-half to three-quarters of the hair on your head .</s>
+<s id='vn89'>Căng thẳng thể chất hoặc căng thẳng về mặt cảm xúc dữ dội có thể làm rụng từ một nửa đến ba phần tư tóc trên đầu một cách đột ngột .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Examples include :</s>
+<s id='vn90'>Chẳng hạn như :</s>
+</spair>
+<spair id='91'>
+<s id='en91'>* Serious illness or major surgery</s>
+<s id='vn91'>* Bệnh nặng hay đại phẫu</s>
+</spair>
+<spair id='92'>
+<s id='en92'>* Trauma involving blood loss</s>
+<s id='vn92'>* Chấn thương làm mất máu</s>
+</spair>
+<spair id='93'>
+<s id='en93'>* Severe emotional trauma</s>
+<s id='vn93'>* Tổn thương cảm xúc trầm trọng</s>
+</spair>
+<spair id='94'>
+<s id='en94'>The shedding may last six to eight months .</s>
+<s id='vn94'>Tóc có thể rụng kéo dài từ 6 đến 8 tháng .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Treating hair loss : Medicine</s>
+<s id='vn95'>Chữa rụng tóc bằng thuốc</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Minoxidil ( Rogaine ) is approved by the FDA for female pattern hair loss .</s>
+<s id='vn96'>Tổ chức FDA đã cho phép sử dụng Minoxidil ( Rogaine ) để chữa kiểu rụng tóc ở phụ nữ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>It can slow or stop hair loss in most women and may help hair grow back in up to a quarter of those who use it .</s>
+<s id='vn97'>Loại thuốc này có thể làm chậm hoặc ngưng rụng tóc ở hầu hết phụ nữ và có thể giúp cho tóc mọc trở lại ở một phần tư người sử dụng .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>The benefits are lost when you stop using it .</s>
+<s id='vn98'>Khi ngừng sử dụng thì Minoxidil ( Rogaine ) không còn tác dụng nữa .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>For women with alopecia areata , corticosteroids can help regrow hair .</s>
+<s id='vn99'>Đối với những phụ nữ bị rụng tóc từng vùng thì corticosteroid có thể giúp cho tóc mọc trở lại .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>And if you have an underlying medical problem or a nutritional deficiency , hair usually grows back on its own once that condition is under control .</s>
+<s id='vn100'>Nếu bạn bị một bệnh tật tiềm ẩn nào đó hoặc suy dinh dưỡng thì tóc thường tự mọc trở lại khi đã chữa hết chứng bệnh đó .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Treating hair loss : Laser devices</s>
+<s id='vn101'>Chữa rụng tóc bằng các thiết bị la - ze</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Devices that emit low-energy laser light may stimulate hair growth to help fight thinning hair .</s>
+<s id='vn102'>Các thiết bị phát ánh sáng la - ze ít tốn năng lượng có thể làm kích thích mọc tóc để chữa chứng rụng tóc .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>They 're available in some clinics and as hand-held devices to use at home .</s>
+<s id='vn103'>Chúng có ở một số phòng khám và như những thiết bị cầm tay để sử dụng ở nhà .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>At least one device has gained FDA approval for both men and women , based on a small study that showed effectiveness in at least some of those who tested it .</s>
+<s id='vn104'>Có ít nhất là một thiết bị đã được tổ chức FDA cho phép sử dụng đối với cả nam lẫn nữ , dựa trên một nghiên cứu nhỏ cho thấy tác dụng ở tối thiểu là một số người thử nghiệm nó .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>It took 2-4 months to see the results .</s>
+<s id='vn105'>Phải mất từ 2 đến 4 tháng mới có thể thấy được kết quả .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>The FDA does not require the same rigorous testing for devices as for medicines .</s>
+<s id='vn106'>FDA không yêu cầu phải thử nghiệm các thiết bị khắt khe tương tự như đối với thuốc .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Hair transplants in women</s>
+<s id='vn107'>Cấy ghép tóc ở phụ nữ</s>
+</spair>
+<spair id='108'>
+<s id='en108'>This procedure involves moving hair to thinning scalp areas from donor sites .</s>
+<s id='vn108'>Thủ thuật này bao gồm việc di chuyển tóc ở những vùng cho tóc đến các vùng da đầu có tóc thưa .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The trouble is , female pattern baldness causes thin hair all over , so good donor sites may be limited .</s>
+<s id='vn109'>Vấn đề là kiểu hói của nữ làm tóc rụng khắp đầu , nên những vùng tóc cho có thể bị giới hạn .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The exceptions are women with male pattern baldness or hair loss caused by scarring .</s>
+<s id='vn110'>Ngoại trừ trường hợp là phụ nữ bị hói kiểu nam hoặc bị rụng tóc do tổn thương gây ra .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Hair-loss products and devices</s>
+<s id='vn111'>Các sản phẩm và thiết bị trị rụng tóc</s>
+</spair>
+<spair id='112'>
+<s id='en112'>A quick Internet search will turn up dozens of products intended to stop hair loss or regrow hair .</s>
+<s id='vn112'>Tìm nhanh trên mạng sẽ cho kết quả hàng loạt các sản phẩm dùng để ngăn rụng tóc hoặc làm cho tóc mọc trở lại .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Unfortunately , there 's no way to know whether before and after pictures have been doctored .</s>
+<s id='vn113'>Tiếc là , chẳng có cách nào để biết liệu những hình ảnh ở trước và ở sau đó đã được điều trị hay chưa .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>To evaluate a hair-loss treatment , consumers can check with :</s>
+<s id='vn114'>Để đánh giá được phương pháp điều trị , người tiêu dùng có thể kiểm tra với :</s>
+</spair>
+<spair id='115'>
+<s id='en115'>* A dermatologist ( MD )</s>
+<s id='vn115'>* Bác sĩ da liễu ( MD )</s>
+</spair>
+<spair id='116'>
+<s id='en116'>* The FDA medical devices division</s>
+<s id='vn116'>* Ban thiết bị y tế của tổ chức FDA .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>* The Federal Trade Commission ( FTC )</s>
+<s id='vn117'>* Ủy Ban Thương mại Liên bang ( FTC )</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Coping with thinning hair</s>
+<s id='vn118'>Đối phó với chứng rụng tóc</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Ask your stylist for tips .</s>
+<s id='vn119'>Bạn nên hỏi bí quyết của nhà tạo dáng cho tóc .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>A styling product for thin hair may help hide hair loss .</s>
+<s id='vn120'>Sản phẩm tạo dáng cho tóc thưa có thể giúp che được vùng tóc rụng .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>You apply it to the root area and gently blow dry to build volume .</s>
+<s id='vn121'>Bạn thoa sản phẩm này vào chân tóc , sát da đầu và nhẹ nhàng sấy khô để làm cho lượng tóc trở nên nhiều hơn .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>( Let hair air dry partially before using a blow dryer . ) Special cosmetics can camouflage visible areas of scalp .</s>
+<s id='vn122'>( Hãy để tóc khô tự nhiên một phần trước khi sử dụng máy sấy . ) nhiều loại mỹ phẩm đặc biệt cũng có thể che được vùng da đầu có thể nhìn thấy được .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>And keratin fiber hair cosmetics may be worth a try .</s>
+<s id='vn123'>Bên cạnh đó các loại mỹ phẩm dành cho tóc xơ sừng cũng đáng được thử .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>They 're sprinkled over the thinning patch , where their static charge makes the hair appear thicker .</s>
+<s id='vn124'>Bạn nên rắc sản phẩm lên mảng da đầu thưa tóc , lực tĩnh điện làm cho tóc trở nên dày hơn .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Coping with significant hair loss</s>
+<s id='vn125'>Đối phó với tình trạng rụng tóc đáng kể</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Adjusting to permanent hair loss is challenging for most women .</s>
+<s id='vn126'>Thích nghi với tình trạng rụng tóc trường kỳ là thử thách đối với hầu hết phụ nữ .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>If thin areas are very conspicuous , consider a weave , a hairpiece , a scarf , or a hat to cover bald spots .</s>
+<s id='vn127'>Nếu vùng da đầu bị rụng tóc nổi lộ ra , bạn nên mang tóc giả , mang khăn choàng cổ , hoặc đội nón mũ để che đi chỗ hói của mình .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Good quality wigs are more comfortable than ever .</s>
+<s id='vn128'>Những lọn tóc giả chất lượng tốt lúc nào cũng mang lại cảm giác thoải mái .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>If hair loss interferes with your job or social life or makes you reluctant to leave the house , think about talking with a counselor .</s>
+<s id='vn129'>Nếu tình trạng rụng tóc làm cản trở công việc hoặc làm cho cuộc sống giao tiếp xã hội của bạn hoặc làm cho bạn có cảm giác không thoải mái , phải miễn cưỡng khi ra khỏi nhà , thì bạn nên nghĩ đến việc nói chuyện với một nhà cố vấn nào đó nhé .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,256 @@
+﻿<doc id='N0946'>
+<head>
+<title>The Basics Of Business Forecasting</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Basics Of Business Forecasting</s>
+<s id='vn1'>Những kiến thức cơ bản về dự báo kinh doanh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It is not unusual to hear a company 's management speak about forecasts : " Our sales did not meet the forecasted numbers , " or " we feel confident in the forecasted economic growth and expect to exceed our targets . "</s>
+<s id='vn2'>Không lạ gì khi nghe ban quản trị công ty nào đó nói về dự báo : " Doanh số của chúng tôi không đạt được so với dự báo " hoặc " chúng tôi cảm thấy tin tưởng vào mức tăng trưởng kinh tế dự báo và kỳ vọng vượt xa các mục tiêu của mình . "</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In the end , all financial forecasts , whether about the specifics of a business , like sales growth , or predictions about the economy as a whole , are informed guesses .</s>
+<s id='vn3'>Rốt cuộc thì tất cả các dự báo tài chính , dù là về các biến số cụ thể của một doanh nghiệp , như mức tăng trưởng doanh số , hoặc những dự báo về nền kinh tế nói chung , đều là những suy đoán có cơ sở .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In this article , we 'll look at some of the methods behind financial forecasts , as well as the actual process and some of the risks that crop up when we seek to predict the future .</s>
+<s id='vn4'>Trong bài báo này , chúng ta sẽ tìm hiểu một số phương pháp đằng sau những dự báo tài chính , cũng như quy trình trên thực tế và một vài rủi ro bất ngờ xảy ra khi chúng ta tìm cách dự đoán tương lai .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Financial Forecasting Methods</s>
+<s id='vn5'>Những phương pháp dự báo tài chính</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are a number of different methods by which a business forecast can be made .</s>
+<s id='vn6'>Có một số phương pháp khác nhau có thể dùng để tiến hành dự báo kinh doanh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>All the methods fall into one of two overarching approaches : qualitative and quantitative .</s>
+<s id='vn7'>Tất cả các phương pháp đều thuộc về một trong hai cách tiếp cận bao quát : định tính và định lượng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Qualitative Models</s>
+<s id='vn8'>Những mô hình định tính</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Qualitative models have generally been successful with short-term predictions , where the scope of the forecast is limited .</s>
+<s id='vn9'>Những mô hình định tính lâu nay thường thành công với những dự báo ngắn hạn , phạm vi dự báo có giới hạn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Qualitative forecasts can be thought of as expert-driven , in that they depend on market mavens or the market as a whole to weigh in with an informed consensus .</s>
+<s id='vn10'>Dự báo định tính có thể được coi là chịu tác động của các nhà chuyên môn , chúng phụ thuộc vào các chuyên gia thị trường hoặc thị trường nói chung để đưa ra một sự nhất trí có căn cứ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Qualitative models can be useful in predicting the short-term success of companies , products and services , but meets limitations due to its reliance on opinion over measurable data .</s>
+<s id='vn11'>Những mô hình định tính có thể hữu dụng khi dự báo về thành công ngắn hạn của công ty , sản phẩm và dịch vụ , nhưng bị hạn chế vì phụ thuộc vào sự đánh giá những dữ liệu đo được .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Qualitative models include :</s>
+<s id='vn12'>Các mô hình định tính bao gồm :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Market Research : Polling a large number of people on a specific product or service to predict how many people will buy or use it once launched .</s>
+<s id='vn13'>Nghiên cứu thị trường : thăm dò ý kiến nhiều người về một sản phẩm hoặc dịch vụ cụ thể nào đó để dự báo xem có bao nhiêu người sẽ mua hoặc sử dụng nó khi được tung ra .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Delphi Method : Asking field experts for general opinions and then compiling them into a forecast .</s>
+<s id='vn14'>Phương pháp Delphi : hỏi ý kiến chung của các chuyên gia trong ngành rồi đưa các ý kiến ấy vào dự báo .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Quantitative Models</s>
+<s id='vn15'>Những mô hình định lượng</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Quantitative models discount the expert factor and try to take the human element out of the analysis .</s>
+<s id='vn16'>Những mô hình định lượng thì xem nhẹ yếu tố chuyên gia và cố gắng loại bỏ yếu tố con người ra khỏi phép phân tích .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>These approaches are concerned solely with data and avoid the fickleness of the people underlying the numbers .</s>
+<s id='vn17'>Những cách tiếp cận này chỉ quan tâm đến các dữ liệu và tránh tính không kiên định của con người dưới những con số .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They also try to predict where variables like sales , gross domestic product , housing prices and so on , will be in the long-term , measured in months or years .</s>
+<s id='vn18'>Chúng cũng cố gắng dự báo các biến số như doanh thu , tổng sản phẩm quốc nội , giá nhà ở , v.v. sẽ như thế nào trong dài hạn , được tính bằng tháng hoặc năm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Quantitative models include :</s>
+<s id='vn19'>Các mô hình định lượng bao gồm :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The Indicator Approach : The indicator approach depends on the relationship between certain indicators , for example GDP and unemployment rates , remaining relatively unchanged over time .</s>
+<s id='vn20'>Phương pháp chỉ số : Phương pháp chỉ số phụ thuộc vào quan hệ giữa các chỉ số nhất định , ví dụ như GDP và tỷ lệ thất nghiệp , nó vẫn giữ nguyên , thay đổi tương đối ít qua thời gian .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>By following the relationships and then following indicators that are leading , you can estimate the performance of the lagging indicators , by using the leading indicator data .</s>
+<s id='vn21'>Bằng việc dựa vào các quan hệ và các chỉ số đang đứng hàng đầu , bạn có thể ước lượng được kết quả của chỉ số lạc hậu , nhờ sử dụng dữ liệu chỉ số hàng đầu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Econometric Modeling : This is a more mathematically rigorous version of the indicator approach .</s>
+<s id='vn22'>Lập mô hình kinh-toán học : Đây là loại phương pháp chỉ số khắt khe hơn về mặt toán học .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Instead of assuming that relationships stay the same , econometric modeling tests the internal consistency of data sets over time and the significance or strength of the relationship between data sets .</s>
+<s id='vn23'>Thay vì giả định các quan hệ giữ nguyên không đổi , mô hình toán kinh tế kiểm tra tính ổn định nội tại của các bộ dữ liệu qua thời gian và mức quan trọng hay sức bền của mối quan hệ giữa các bộ dữ liệu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Econometric modeling is sometimes used to create custom indicators that can be used for a more accurate indicator approach .</s>
+<s id='vn24'>Lập mô hình toán kinh tế đôi khi được sử dụng để tạo ra các chỉ số tuỳ chọn có thể được sử dụng cho phương pháp chỉ số chính xác hơn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>However , the econometric models are more often used in academic fields to evaluate economic policies .</s>
+<s id='vn25'>Tuy nhiên , các mô hình toán kinh tế thường được sử dụng trong những môi trường học thuật nhiều hơn nhằm đánh giá các chính sách kinh tế .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Time Series Methods : This refers to a collection of different methodologies that use past data to predict future events .</s>
+<s id='vn26'>Những phương pháp chuỗi thời gian : Đề cập đến một tập hợp các hệ phương pháp khác nhau sử dụng dữ liệu quá khứ để dự báo các sự kiện tương lai .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The difference between the time series methodologies is usually in fine details , like giving more recent data more weight or discounting certain outlier points .</s>
+<s id='vn27'>Sự khác biệt giữa các hệ phương pháp chuỗi thời gian thường ở những chi tiết nhỏ , như đưa ra nhiều dữ liệu gần đây hơn có tầm quan trọng hơn , hoặc giảm bớt một số điểm nằm ngoài .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>By tracking what happened in the past , the forecaster hopes to be able to give a better than average prediction about the future .</s>
+<s id='vn28'>Bằng việc theo dõi những gì đã diễn ra trong quá khứ , nhà dự báo hi vọng có thể đưa ra dự báo về tương lai chính xác hơn mức bình thường .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>This is the most common type of business forecasting , because it is cheap and really no better or worse than other methods .</s>
+<s id='vn29'>Đây là loại dự báo phổ biến nhất trong kinh doanh , vì nó rẻ và thật sự thì cũng không tốt hơn hay thua xa các phương pháp khác .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>How Does Forecasting Work ?</s>
+<s id='vn30'>Công tác dự báo được tiến hành như thế nào ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>There is a lot of variation on a practical level when it comes to business forecasting .</s>
+<s id='vn31'>Khi đề cập đến dự báo kinh doanh thì có rất nhiều thay đổi trên thực tế .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>However , on a conceptual level , all forecasts follow the same process .</s>
+<s id='vn32'>Tuy nhiên , về mặt lý thuyết thì tất cả các dự báo đều tuân theo quy trình giống nhau .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>1 . A problem or data point is chosen .</s>
+<s id='vn33'>1 . Điểm dữ liệu hay vấn đề được chọn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>This can be something like " will people buy a high-end coffee maker ? " or " what will our sales be in March next year ? "</s>
+<s id='vn34'>Có thể đại loại như là " mọi người sẽ mua một chiếc máy pha cà phê cao cấp ? " hoặc " doanh số của chúng ta tháng ba năm tới sẽ thế nào ? "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>2 . Theoretical variables and an ideal data set are chosen .</s>
+<s id='vn35'>2 . Các biến số lý thuyết và một tập hợp dữ liệu lý tưởng được chọn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>This is where the forecaster identifies the relevant variables that need to be considered and decides how to collect the data .</s>
+<s id='vn36'>Đây là trường hợp nhà dự báo nhận diện các biến số liên quan cần được xem xét và quyết định làm thế nào để thu thập dữ liệu .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>3 . Assumption time .</s>
+<s id='vn37'>3 . Thời gian giả định .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>To cut down the time and data needed to make a forecast , the forecaster makes some explicit assumptions to simplify the process .</s>
+<s id='vn38'>Để giảm thời gian và dữ liệu cần thiết khi dự báo , nhà dự báo thực hiện một số giả định rõ ràng nhằm đơn giản hoá quy trình .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>4 . A model is chosen .</s>
+<s id='vn39'>4 . Mô hình được chọn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The forecaster picks the model that fits the data set , selected variables and assumptions .</s>
+<s id='vn40'>Nhà dự báo chọn mô hình phù hợp với tập hợp dữ liệu , các biến số và các giả định đã chọn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>5 . Analysis .</s>
+<s id='vn41'>5 . Phân tích .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Using the model , the data is analyzed and a forecast made from the analysis .</s>
+<s id='vn42'>Sử dụng mô hình , dữ liệu được phân tích và đưa ra dự báo từ việc phân tích đó .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>6 . Verification .</s>
+<s id='vn43'>6 . Kiểm tra .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The forecaster compares the forecast to what actually happens to tweak the process , identify problems or in the rare case of an absolutely accurate forecast .</s>
+<s id='vn44'>Nhà dự báo đối chiếu dự báo với những gì diễn ra trên thực tế để điều chỉnh quy trình dự báo , nhận ra các vấn đề hoặc trong trường hợp hiếm hoi là dự báo hoàn toàn chính xác .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Problems With Forecasting</s>
+<s id='vn45'>Những vấn đề về dự báo</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Business forecasting is very useful for businesses , as it allows them to plan production , financing and so on .</s>
+<s id='vn46'>Dự báo kinh doanh rất hữu ích đối với các doanh nghiệp , vì nó cho phép họ lập kế hoạch sản xuất , huy động vốn , vân vân .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>However , there are three problems with relying on forecasts :</s>
+<s id='vn47'>Tuy nhiên , có ba vấn đề cùng với việc tin tưởng vào những dự báo :</s>
+</spair>
+<spair id='48'>
+<s id='en48'>1 . The data is always going to be old .</s>
+<s id='vn48'>1 . Dữ liệu bao giờ cũng càng ngày càng cũ .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Historical data is all we have to go on and there is no guarantee that the conditions in the past will persist into the future .</s>
+<s id='vn49'>Các dữ liệu lịch sử là tất cả những gì chúng ta có để căn cứ vào và không chắc chắn là những điều kiện trong quá khứ sẽ tiếp tục xuất hiện trong tương lai .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>2 . It is impossible to factor in unique or unexpected events , or externalities .</s>
+<s id='vn50'>2 . Không thể tính đến những sự kiện bất ngờ hoặc độc nhất vô nhị , hay các yếu tố ngoại vi .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Assumptions are dangerous , such as the assumptions that banks were properly screening borrows prior to the subprime meltdown , and black swan events have become more common as our dependence on forecasts has grown .</s>
+<s id='vn51'>Những giả định có rủi ro , chẳng hạn giả định ngân hàng đã thẩm tra thích đáng những khoản vay trước khi xảy ra cuộc khủng hoảng tài chính trên thị trường vay thế chấp ( cuộc khủng hoảng nợ dưới chuẩn ) , và những sự kiện thiên nga đen ngày càng trở nên phổ biến hơn khi chúng ta phụ thuộc ngày càng nhiều vào các dự báo .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>3 . Forecasts ca n't integrate their own impact .</s>
+<s id='vn52'>3 . Các dự báo không thể thoả lấp tác động của chính chúng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>By having forecasts , accurate or inaccurate , the actions of businesses are influenced by a factor that ca n't be included as a variable .</s>
+<s id='vn53'>Vì có các dự báo , chính xác hoặc không chính xác , các hoạt động của doanh nghiệp chịu ảnh hưởng của một yếu tố mà không bao gồm trong đó là một biến số bất kì .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>This is a conceptual knot .</s>
+<s id='vn54'>Đây là vấn đề lý thuyết nan giải .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In a worst case scenario , management becomes a slave to historical data and trends rather than worrying about what the business is doing now .</s>
+<s id='vn55'>Trong trường hợp xấu nhất có thể xảy ra , các nhà quản trị trở thành nô lệ của các dữ liệu và xu hướng trong quá khứ hơn là lo lắng xem công ty đang làm gì lúc này .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The Bottom Line</s>
+<s id='vn56'>Kết luận</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Forecasting can be a dangerous art , because the forecasts become a focus for companies and governments , mentally limiting their range of actions , by presenting the short to long-term future as already being determined .</s>
+<s id='vn57'>Dự báo có thể là một nghệ thuật chứa đựng rủi ro , vì các dự báo trở thành trung tâm gây chú ý đối với các công ty và chính phủ , hạn chế về mặt tinh thần phạm vi hoạt động của họ , vì hầu như đã xác định được tương lai từ trước mắt đến lâu dài .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Moreover , forecasts can easily breakdown due to random elements that ca n't be incorporated into a model , or they can be just plain wrong from the beginning .</s>
+<s id='vn58'>Tuy nhiên , các dự báo có thể dễ dàng vô tác dụng bởi những yếu tố ngẫu nhiên không thể hợp thành một mô hình , và chúng có thể rõ ràng là sai ngay từ đầu .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The negatives aside , business forecasting is n't going anywhere .</s>
+<s id='vn59'>Gạt hết những hạn chế sang một bên , thì dự báo kinh doanh sẽ không đi tới đâu cả .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Used properly , forecasting allows businesses to plan ahead of their needs , raising their chances of keeping healthy through all markets .</s>
+<s id='vn60'>Dự báo được sử dụng một cách đúng đắn sẽ cho phép các doanh nghiệp lập kế hoạch trước các nhu cầu của họ , tăng các cơ hội luôn thuận lợi trên mọi thị trường .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>That 's one function of business forecasting that all investors can appreciate .</s>
+<s id='vn61'>Đó là một nhiệm vụ của dự báo kinh doanh mà tất cả các nhà đầu tư đều có thể thấu hiểu rõ .</s>
+</spair>
+</text>
+</doc>

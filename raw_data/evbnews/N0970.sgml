@@ -1,0 +1,260 @@
+﻿<doc id='N0970'>
+<head>
+<title>Atrial Septal Defect</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Atrial Septal Defect</s>
+<s id='vn1'>Khuyết tật vách tâm nhĩ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Atrial septal defect or ASD for short , is a heart condition that can affect kids .</s>
+<s id='vn2'>Khuyết tật vách tâm nhĩ hay viết tắt là ASD , là bệnh tim có thể ảnh hưởng đến trẻ con .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>To understand an atrial septal defect , it helps to know how the heart works .</s>
+<s id='vn3'>Để biết khuyết tật vách tâm nhĩ là gì thì phải tìm hiểu xem tim hoạt động như thế nào .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The heart has four chambers .</s>
+<s id='vn4'>Tim có bốn ngăn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The lower chambers of the heart are called the ventricles .</s>
+<s id='vn5'>Các ngăn dưới của tim được gọi là tâm thất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are two ventricles : a left ventricle and a right ventricle .</s>
+<s id='vn6'>Có hai tâm thất : tâm thất trái và tâm thất phải .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The upper chambers are the atria and there are two of them - a left atrium and a right atrium .</s>
+<s id='vn7'>Các ngăn trên là tâm nhĩ và có hai tâm nhĩ - tâm nhĩ trái và tâm nhĩ phải .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>What Is an Atrial Septal Defect ?</s>
+<s id='vn8'>Khuyết tật vách tâm nhĩ là gì ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Atrial septal defect or ASD for short , is a heart condition that can affect kids .</s>
+<s id='vn9'>Khuyết tật vách tâm nhĩ hay viết tắt là ASD , là bệnh tim có thể ảnh hưởng đến trẻ con .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>To understand an atrial septal defect , it helps to know how the heart works .</s>
+<s id='vn10'>Để biết khuyết tật vách tâm nhĩ là gì thì phải tìm hiểu xem tim hoạt động như thế nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The heart has four chambers .</s>
+<s id='vn11'>Tim có bốn ngăn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The lower chambers of the heart are called the ventricles .</s>
+<s id='vn12'>Các ngăn dưới của tim được gọi là tâm thất .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>There are two ventricles : a left ventricle and a right ventricle .</s>
+<s id='vn13'>Có hai tâm thất : tâm thất trái và tâm thất phải .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The upper chambers are the atria and there are two of them - a left atrium and a right atrium .</s>
+<s id='vn14'>Các ngăn trên là tâm nhĩ và có hai tâm nhĩ - tâm nhĩ trái và tâm nhĩ phải .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>You may already know that your heart is a muscle that pumps blood throughout your body .</s>
+<s id='vn15'>Có thể bạn đã biết rằng tim là cơ bơm máu khắp cơ thể bạn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In a person without a heart defect , blood that 's low in oxygen flows first to the right atrium , then to the right ventricle , and is then pumped to the lungs to receive oxygen .</s>
+<s id='vn16'>Ở người không bị khuyết tật tim thì máu ít ô-xi ban đầu chảy đến tâm nhĩ phải rồi đến tâm thất phải , và sau đó được bơm đến phổi để nhận ô-xi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The red oxygen-rich blood then returns to the left atrium , flows from there into the left ventricle , and heads out to the body through the aorta , a large blood vessel that carries blood from the heart to the smaller blood vessels in the body .</s>
+<s id='vn17'>Sau đó máu đỏ giàu ô-xi quay lại tâm nhĩ trái , từ đó chảy vào tâm thất trái , và bắt đầu chảy đến khắp cơ thể qua động mạch chủ - mạch máu lớn vận chuyển máu từ tim đến các mạch máu nhỏ hơn trong cơ thể .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Between the right and left atria is a wall called the septum .</s>
+<s id='vn18'>Giữa tâm nhĩ phải và tâm nhĩ trái có một thành được gọi là vách ngăn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In a person with an atrial septal defect , there 's an opening in that wall .</s>
+<s id='vn19'>Ở người bị khuyết tật vách tâm nhĩ thì thành này có một lỗ hở .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This hole in the wall lets oxygen-rich blood from the left atrium mix with oxygen-poor blood on the other side .</s>
+<s id='vn20'>Lỗ này để cho máu giàu ô-xi từ tâm nhĩ trái hoà lẫn với máu thiếu ô-xi ở phía bên kia .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Many kids with an atrial septal defect do n't have any problems or symptoms because of it .</s>
+<s id='vn21'>Nhiều trẻ bị khuyết tật vách tâm nhĩ không gặp bất kỳ vấn đề hay triệu chứng gì vì lý do này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Occasionally , a kid with a very large atrial septal defect might have a poor appetite , may tire easily , may grow slowly , can experience shortness of breath , or have lung problems , like pneumonia .</s>
+<s id='vn22'>Thỉnh thoảng , trẻ bị khuyết tật rất rộng ở vách tâm nhĩ có thể chán ăn , dễ mệt mỏi , phát triển chậm , khó thở , hoặc gặp vấn đề về phổi , chẳng hạn như viêm phổi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Atrial Septal Defect Is One of the More Common Heart Defects</s>
+<s id='vn23'>Khuyết tật vách tâm nhĩ là một trong những khuyết tật tim thường gặp hơn</s>
+</spair>
+<spair id='24'>
+<s id='en24'>About 1 in every 100 babies is born with some type of heart defect .</s>
+<s id='vn24'>Cứ 100 bé sinh ra thì có khoảng 1 bé bị một loại khuyết tật tim nào đó .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Atrial septal defects are one of the more common types of these heart defects .</s>
+<s id='vn25'>Khuyết tật vách tâm nhĩ là một trong các loại khuyết tật tim thường gặp hơn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A person could be diagnosed with an atrial septal defect in infancy , childhood , during their teen years , or even as an adult .</s>
+<s id='vn26'>Một người có thể được chẩn đoán là bị khuyết tật vách tâm nhĩ từ lúc sơ sinh , thời thơ ấu , tuổi thanh thiếu niên , hoặc ngay cả khi trưởng thành .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In some kids with small-siz​ed atrial septal defects ( small-siz​e holes ) , the hole can close up on its own .</s>
+<s id='vn27'>Ở một số trẻ bị khuyết tật nhỏ ở vách tâm nhĩ ( lỗ nhỏ ) thì lỗ này có thể tự khép lại .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Most kids with a medium-sized or large-siz​ed atrial septal defect will need some kind of procedure to close the hole .</s>
+<s id='vn28'>Hầu hết trẻ bị khuyết tật vừa hoặc lớn ở vách tâm sẽ cần đến một biện pháp nào đó để làm cho lỗ này khép lại .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>If the hole is left open , later in life that person may develop other kinds of heart problems , such as an abnormal heartbeat .</s>
+<s id='vn29'>Nếu để hở lỗ này thì sau này người đó có thể gặp các vấn đề khác về tim , như là nhịp tim bất thường .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The person also could develop serious damage to the lung blood vessels .</s>
+<s id='vn30'>Người này cũng có thể bị tổn thương mạch máu phổi nghiêm trọng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The risk of having a stroke , a problem where a clot or air bubble clogs up a blood vessel in the brain , is also increased in someone with an atrial septal defect .</s>
+<s id='vn31'>Nguy cơ bị đột quỵ , vấn đề cục máu đông hoặc bọt khí làm nghẽn mạch máu trong não , cũng tăng lên ở người bị khuyết tật vách tâm nhĩ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>To prevent these problems , doctors often recommend closing the hole while the kid is still young .</s>
+<s id='vn32'>Để phòng tránh các vấn đề này , bác sĩ thường khuyên làm cho lỗ này khép lại khi trẻ vẫn còn nhỏ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>What Causes an Atrial Septal Defect ?</s>
+<s id='vn33'>Nguyên nhân gây khuyết tật vách tâm nhĩ là gì ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Atrial septal defects develop when a baby is still growing inside its mother .</s>
+<s id='vn34'>Khuyết tật vách tâm nhĩ phát triển khi bé vẫn còn phát triển trong bụng mẹ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Before birth , the heart begins as a large tube that folds and divides into sections that will become the walls and chambers of the baby 's heart .</s>
+<s id='vn35'>Trước khi chào đời thì tim là một ống lớn gập lại và chia thành các phần sẽ trở thành vách ngăn và các ngăn tim của bé .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>If a problem occurs during this process , a hole may develop in the wall between the left atrium and right atrium .</s>
+<s id='vn36'>Nếu vấn đề xảy ra trong quá trình này thì lỗ có thể phát triển trong vách ngăn nằm giữa tâm nhĩ trái và tâm nhĩ phải .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In some cases , the tendency to develop an atrial septal defect may be inherited , or genetic .</s>
+<s id='vn37'>Trong một số trường hợp thì khuynh hướng bị khuyết tật vách tâm nhĩ có thể là do di truyền , hay do gien .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>In other cases , an atrial septal defect might happen if the pregnant woman was exposed to chemicals while the baby was growing in her uterus .</s>
+<s id='vn38'>Trong những trường hợp khác thì khuyết tật vách tâm nhĩ có thể xảy ra nếu như thai phụ tiếp xúc với hoá chất khi bé đang phát triển trong tử cung .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>For most kids with atrial septal defects , no one knows why they developed this problem .</s>
+<s id='vn39'>Đối với hầu hết trẻ bị khuyết tật vách tâm nhĩ thì không ai biết sao chúng lại bị như thế .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>What Do Doctors Do ?</s>
+<s id='vn40'>Các bác sĩ làm gì ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Kids who have atrial septal defects may first find out that they have a heart murmur when examined by their doctor .</s>
+<s id='vn41'>Trước tiên trẻ bị khuyết tật vách tâm nhĩ có thể được phát hiện là chúng có tiếng thổi tim hay không khi được bác sĩ khám .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The next stop is usually to a pediatric cardiologist , a doctor who specializes in diagnosing and treating heart disease in kids and teens .</s>
+<s id='vn42'>Tiếp theo thường là đến bác sĩ tim mạch khoa nhi , bác sĩ chuyên về chẩn đoán và chữa bệnh tim ở trẻ em và thanh thiếu niên .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The pediatric cardiologist will ask about the kid 's medical history ( the mother 's health during pregnancy and illnesses the kid has had ) .</s>
+<s id='vn43'>Bác sĩ tim mạch khoa nhi sẽ hỏi về tiền sử sức khoẻ của trẻ ( sức khoẻ của mẹ khi mang thai và các bệnh mà trẻ từng mắc phải ) .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The cardiologist also will do an exam and listen to the kid 's heart .</s>
+<s id='vn44'>Bác sĩ tim mạch cũng sẽ kiểm tra và nghe tim của trẻ .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>If a doctor thinks a kid may have an atrial septal defect , some tests might be done .</s>
+<s id='vn45'>Nếu bác sĩ cho là có thể trẻ bị khuyết tật vách tâm nhĩ thì sẽ yêu cầu làm một số xét nghiệm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>In some kids , the doctor may recommend regular follow-up visits to see if a small defect will close on its own .</s>
+<s id='vn46'>Ở một số trẻ , có thể bác sĩ khuyên nên tái khám định kỳ để xem liệu khuyết tật nhỏ có thể tự khép lại hay không .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>A kid with a small atrial septal defect usually can participate in sports and regular activities .</s>
+<s id='vn47'>Thường thì trẻ bị khuyết tật nhỏ ở vách tâm nhĩ có thể chơi thể thao và sinh hoạt bình thường .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>What If The Hole Does n't Close on Its Own ?</s>
+<s id='vn48'>Chuyện gì sẽ xảy ra nếu như lỗ này không tự khép lại ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>If the hole needs to be closed , the doctor will decide whether the kid needs surgery or a cardiac catheterization .</s>
+<s id='vn49'>Nếu như cần phải khép lỗ này lại thì bác sĩ sẽ quyết định xem liệu trẻ cần được giải phẫu hay thông tim hay không .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In surgery , the doctor repairs the hole with stitches or a patch made out of either surgical material or the body 's own tissue .</s>
+<s id='vn50'>Trong phẫu thuật , bác sĩ chỉnh sửa lỗ này bằng mũi khâu hay chỗ vá được làm bằng vật liệu phẫu thuật hoặc mô của chính cơ thể .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>A kid may have to spend a few days in the hospital after surgery .</s>
+<s id='vn51'>Có thể trẻ phải ở lại bệnh viện vài ngày sau khi phẫu thuật .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Within about 6 months , the tissue of the heart heals over the patch or stitches .</s>
+<s id='vn52'>Trong khoảng 6 tháng , mô tim sẽ phủ luôn chỗ vá hoặc mũi khâu .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Another way to fix the hole is cardiac catheterization .</s>
+<s id='vn53'>Cách khác để chỉnh sửa lỗ này là thông tim .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>This method uses a thin , flexible tube called a catheter .</s>
+<s id='vn54'>Phương pháp này sử dụng một ống mỏng , mềm dẻo gọi là ống thông .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The cardiologist inserts the catheter into a blood vessel in the leg that leads to the heart .</s>
+<s id='vn55'>Bác sĩ tim mạch chèn ống thông vào một mạch máu ở cẳng chân dẫn đến tim .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The cardiologist then guides the tube into the heart and inserts a device that covers the hole .</s>
+<s id='vn56'>Sau đó bác sĩ tim mạch đưa ống này vào tim và chèn một thiết bị che phủ lỗ này .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The device is made out of metal mesh and is springy and flexible .</s>
+<s id='vn57'>Thiết bị này được làm bằng lưới kim loại , có tính đàn hồi và mềm dẻo .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The kid usually will spend a night at the hospital after the procedure .</s>
+<s id='vn58'>Thường thì trẻ sẽ ở lại bệnh viện một đêm sau khi được điều trị bằng phương pháp này .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Over time the heart 's tissue will grow to completely cover the device .</s>
+<s id='vn59'>Qua thời gian thì mô tim sẽ phát triển để che phủ hoàn toàn thiết bị này .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Kids who have had surgery or cardiac catheterization will need to follow their doctors " instructions for a while .</s>
+<s id='vn60'>Trẻ được giải phẫu hoặc thông tim sẽ cần làm theo hướng dẫn của bác sĩ trong một thời gian .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>But after just a few weeks , kids can return to their normal activities .</s>
+<s id='vn61'>Nhưng chỉ sau vài tuần , trẻ có thể sinh hoạt bình thường trở lại .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Kids with atrial septal defects rarely have any further heart problems .</s>
+<s id='vn62'>Trẻ bị khuyết tật vách tâm nhĩ hiếm khi gặp các vấn đề khác về tim .</s>
+</spair>
+</text>
+</doc>

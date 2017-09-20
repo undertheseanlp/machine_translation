@@ -1,0 +1,144 @@
+﻿<doc id='N0402'>
+<head>
+<title>A Quick Lesson in Ways Businesses Are Organized</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A Quick Lesson in Ways Businesses Are Organized</s>
+<s id='vn1'>Kiến thức cơ bản về các hình thức tổ chức doanh nghiệp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Businesses are structured in different ways to meet different needs .</s>
+<s id='vn2'>Các doanh nghiệp được tổ chức theo nhiều cách khác nhau để đáp ứng những nhu cầu khác nhau .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The simplest form of business is called an individual or sole proprietorship .</s>
+<s id='vn3'>Hình thức đơn giản nhất được gọi là doanh nghiệp do cá nhân sở hữu hay doanh nghiệp một chủ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The proprietor owns all of the property of the business and is responsible for everything .</s>
+<s id='vn4'>Chủ doanh nghiệp sở hữu mọi tài sản của doanh nghiệp và chịu trách nhiệm về mọi vấn đề .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>For legal purposes , with this kind of business , the owner and the company are the same .</s>
+<s id='vn5'>Đối với những mục đích hợp pháp , những doanh nghiệp dạng này , chủ sở hữu và doanh nghiệp là như nhau .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This means the proprietor gets to keep all of the profits of the business , but must also pay any debts .</s>
+<s id='vn6'>Nghĩa là người chủ sẽ được giữ lại toàn bộ lợi nhuận của doanh nghiệp , nhưng cũng phải thanh toán đầy đủ bất kỳ khoản nợ nào .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Another kind of business is the partnership .</s>
+<s id='vn7'>Một loại hình doanh nghiệp khác là doanh nghiệp hợp danh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Two or more people go into business together .</s>
+<s id='vn8'>Có từ hai người trở lên cùng góp vốn lập doanh nghiệp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>An agreement is usually needed to decide how much of the partnership each person controls .</s>
+<s id='vn9'>Thường cần phải có một thoả thuận để quyết định xem mỗi người kiểm soát doanh nghiệp ở mức độ là bao nhiêu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>One kind of partnership is called a limited liability partnership .</s>
+<s id='vn10'>Một loại hình doanh nghiệp hợp danh có tên là doanh nghiệp hợp danh trách nhiệm hữu hạn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>These have full partners and limited partners .</s>
+<s id='vn11'>Những doanh nghiệp này có hội viên đầy đủ và hội viên hữu hạn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Limited partners may not share as much in the profits , but they also have less responsibility for the business .</s>
+<s id='vn12'>Hội viên hữu hạn có thể không hưởng nhiều lợi nhuận , nhưng họ cũng ít phải chịu trách nhiệm về doanh nghiệp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Doctors , lawyers and accountants often form partnerships to share their risks and profits .</s>
+<s id='vn13'>Bác sĩ , luật sư và kế toán viên thường cùng thành lập những doanh nghiệp hợp danh nhằm chia sẻ rủi ro và lợi nhuận của mình .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A husband and wife can form a business partnership together .</s>
+<s id='vn14'>Một người chồng và một người vợ cũng có thể cùng nhau mở một doanh nghiệp hợp danh mà kinh doanh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Partnerships exist only for as long as the owners remain alive .</s>
+<s id='vn15'>Các doanh nghiệp hợp danh chỉ tồn tại khi các chủ sở hữu còn sống .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The same is true of individual proprietorships .</s>
+<s id='vn16'>Điều này cũng đúng với các doanh nghiệp một chủ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>But corporations are designed to have an unlimited lifetime.</s>
+<s id='vn17'>Nhưng những doanh nghiệp cổ phần thì lại được thành lập mà không bị một giới hạn nào về thời gian tồn tại .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A corporation is the most complex kind of business organization .</s>
+<s id='vn18'>Một doanh nghiệp cổ phần là một dạng tổ chức doanh nghiệp phức tạp nhất .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Corporations can sell stock as a way to raise money .</s>
+<s id='vn19'>Các doanh nghiệp cổ phần có thể bán cổ phiếu như là một cách nhằm huy động vốn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Stock represents shares of ownership in a company .</s>
+<s id='vn20'>Cổ phiếu đại diện cho những phần sở hữu trong một doanh nghiệp .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Investors who buy stock can trade their shares or keep them as long as the company is in business .</s>
+<s id='vn21'>Các nhà đầu tư mà mua cổ phiếu thì có thể bán cổ phần của mình hoặc giữ chúng lại trong thời gian doanh nghiệp còn hoạt động .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>A company might use some of its earnings to pay dividends as a reward to shareholders .</s>
+<s id='vn22'>Một doanh nghiệp có thể sử dụng một khoản tiền lời nào đó trả cổ tức như là tiền thưởng cho các cổ đông .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Or the company might reinvest the money back into the business .</s>
+<s id='vn23'>Hoặc có thể tái đầu tư số tiền đó trở lại doanh nghiệp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If shares lose value , investors can lose all of the money they paid for their stock .</s>
+<s id='vn24'>Nếu cổ phiếu trượt giá , các nhà đầu tư có thể mất hết số tiền mình đã bỏ ra .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But shareholders are not responsible for the debts of the corporation .</s>
+<s id='vn25'>Nhưng các cổ đông không phải chịu trách nhiệm về các khoản nợ của doanh nghiệp .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A corporation is recognized as an entity - its own legal being , separate from its owners .</s>
+<s id='vn26'>Một doanh nghiệp cổ phần được thừa nhận như một thực thể - tồn tại hợp pháp , tách biệt với các chủ sở hữu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>A board of directors controls corporate policies .</s>
+<s id='vn27'>Một hội đồng quản trị kiểm soát các chính sách của doanh nghiệp .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The directors appoint top company officers .</s>
+<s id='vn28'>Ban giám đốc chỉ định các chức vụ chủ chốt trong doanh nghiệp .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The directors might or might not hold shares in the corporation .</s>
+<s id='vn29'>Ban giám đốc có thể có hoặc không nắm giữ cổ phần trong doanh nghiệp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Corporations can have a few major shareholders .</s>
+<s id='vn30'>Các doanh nghiệp cổ phần có thể có một vài cổ đông lớn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Or ownership can be spread among the general public .</s>
+<s id='vn31'>Hoặc quyền sở hữu có thể chia ra cho công chúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>But not all corporations are traditional businesses that sell stock .</s>
+<s id='vn32'>Tuy nhiên không phải tất cả doanh nghiệp cổ phần đều là những doanh nghiệp theo truyền thống là bán cổ phiếu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Some nonprofit groups are also organized as corporations .</s>
+<s id='vn33'>Một số tổ chức phi lợi nhuận cũng được cơ cấu như những doanh nghiệp cổ phần .</s>
+</spair>
+</text>
+</doc>

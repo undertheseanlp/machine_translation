@@ -1,0 +1,100 @@
+﻿<doc id='N0379'>
+<head>
+<title>Adobe Tools HTML5 Delivers for Dreamweaver CS5</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Adobe Tools HTML5 Delivers for Dreamweaver CS5</s>
+<s id='vn1'>Adobe HTML5 phát triển công cụ bộ cung cấp cho Dreamweaver CS5</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Adobe Systems is providing a set of HTML5 tools for developers and designers , the Adobe HTML5 Pack .</s>
+<s id='vn2'>Adobe Systems sẽ cung cấp bộ công cụ HTML5 có tên là Adobe HTML5 Pack cho các nhà phát triển và nhà thiết kế .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The company made the announcement at the Google I O show .</s>
+<s id='vn3'>Công ty đã thông báo tại cuộc triển lãm Google I O .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Adobe Systems has announced a set of HTML5 tools for developers and designers , the Adobe HTML5 Pack .</s>
+<s id='vn4'>Adobe Systems đã công bố bộ công cụ HTML5 có tên là Adobe HTML5 Pack cho các nhà phát triển và nhà thiết kế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Adobe announced the tool set at the Google I O conference in San Francisco on May 18 . "</s>
+<s id='vn5'>Adobe công bố bộ công cụ tại hội nghị Google I O ở San Francisco vào ngày 18 5 . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The Adobe HTML5 Pack is an extension to Adobe Dreamweaver CS5 , the latest version of the industry-leading HTML authoring tool for Website design .</s>
+<s id='vn6'>Adobe HTML5 Pack là phần mở rộng cho Adobe Dreamweaver CS5 , phiên bản mới nhất của công cụ soạn thảo HTML tốt nhất để thiết kế website .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This extension provides more creative options to Adobe Creative Suite 5 users - so they can more easily create , deliver and optimize compelling content consistently , across the widest array of screens , to maximize revenue streams and forward their businesses , " Adobe said in a news release .</s>
+<s id='vn7'>Sự mở rộng này cung cấp thêm nhiều tuỳ chọn sáng tạo hơn cho người dùng Adobe Creative Suite 5 - để họ có thể dễ dàng tạo , cung cấp và tối ưu hóa nội dung có sức hấp dẫn một cách phù hợp thông qua việc hiển thị trên nhiều màn hình , để tăng tối đa dòng doanh thu và đẩy mạnh công việc kinh doanh của họ " Adobe đã cho biết trong một thông cáo với báo chí .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>During the May 18 keynote address at Google I O , Adobe CTO Kevin Lynch addressed the audience , saying , " HTML5 is great ; it 's a great move forward for the Web . "</s>
+<s id='vn8'>Trong bài diễn văn chính vào ngày 18/5 tại Google I O , Giám đốc kỹ thuật Kevin Lynch của Adobe phát biểu với khán giả rằng " HTML5 rất tuyệt ; nó là bước tiến lớn hướng đến Web .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Lynch 's pronouncement and the new HTML5 tools might help quell the notion that Adobe has had a different agenda regarding HTML5 .</s>
+<s id='vn9'>Lời tuyên bố của Lynch và công cụ HTML5 mới có thể giúp dập tắt ý kiến đã cho rằng Adobe có một cuộc hội đàm khác về HTML5 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Lynch went on to demonstrate the HTML5 tools and Dreamweaver 's capabilities .</s>
+<s id='vn10'>Lynch đã tiếp tục chứng minh công cụ HTML5 và khả năng của Dreamweaver .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Availability of this HTML5 Pack extension is the direct result of positive customer feedback that began at the Adobe Max 2009 ( developer conference ) when the company first gave a sneak peek of the technology , and then again most recently following a post on the Adobe Design and Web blog , where additional HTML5 and CSS3 ( Cascading Style Sheets 3 ) RD investments were discussed , " the company said .</s>
+<s id='vn11'>Công ty cho biết " Tính sẵn sàng của phần mở rộng HTML5 Pack này là kết quả trực tiếp về phản hồi tích cực của khách hàng mà bắt đầu vào ( hội nghị các nhà phát triển ) Adobe Max 2009 khi công ty tiết lộ trước một phần thông tin về công nghệ này , và sau đó lặp lại trong một bài viết đăng trên Adobe Design và Web blog gần đây nhất mà bổ sung thêm sự đầu tư vào HTML5 và CSS3 ( Cascading Style Sheets 3 ) được thảo luận đến " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" The HTML5 Pack extension includes new code hinting for HTML5 and CSS3 capabilities to enable Dreamweaver users to easily make use of new HTML5 tags , " Adobe continued .</s>
+<s id='vn12'>" Phần rộng HTML5 Pack bao gồm mã mới , gợi ý những khả năng cho CSS3 và HTML5 có thể cho phép người dùng Dreamweaver dễ dàng sử dụng các thẻ HTML5 mới " Adobe tiếp tục : .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" The extension also includes WebKit engine updates and improvements to support video and audio in Dreamweaver CS5 's Live View .</s>
+<s id='vn13'>" Sự mở rộng này cũng bao gồm cải tiến và cập nhật cho công cụ WebKit để hỗ trợ video và âm thanh trong Live View của Dreamweaver CS5 .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>With new CSS3 capabilities users can more easily design multiscreen Web pages , with previews of how they will render across multiple browsers and devices .</s>
+<s id='vn14'>Với người dùng khả năng mới của CSS3 , người dùng có thể thiết kế các trang Web đa màn hình một cách dễ dàng hơn , với việc xem trước cách các trang web sẽ hiển thị qua nhiều trình duyệt và thiết bị .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Additionally , the HTML5 Pack features HTML5 starter layouts to the New Document dialog box in Dreamweaver CS5 , making it easier for users to accelerate their efforts to design and develop with the latest in emerging Web standards . "</s>
+<s id='vn15'>Ngoài ra , HTML5 Pack mô tả cách bố trí ban đầu của HTML5 cho hộp thoại New Document trong Dreamweaver CS5 , làm cho nó trở nên dễ dàng hơn giúp người dùng có thể tăng tốc nỗ lực thiết kế và phát triển của họ với các chuẩn Web mới nhất .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Adobe prides itself on delivering industry-defining tools and being compatible with the most popular Web programming languages , formats , APIs and libraries , " Lea Hickman , senior director for Creative Solutions at Adobe , said in a statement .</s>
+<s id='vn16'>" Adobe tự hào vì đã cung cấp các công cụ chuyên nghiệp và tương thích với các ngôn ngữ lập trình web phổ biến , các định dạng , các API và các thư viện " Lea Hickman , giám đốc cao cấp của Trung tâm Giải pháp Sáng tạo tại Adobe cho biết trong một bài phát biểu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" We continue to move forward to support the leading edge of work in HTML , enabling our customers to deliver creative content taking advantage of the latest in HTML capabilities . "</s>
+<s id='vn17'>" Chúng tôi tiếp tục hướng đến để hỗ trợ HTML , cho phép khách hàng của chúng tôi cung cấp nội dung sáng tạo nhờ vào khả năng mới nhất của HTML "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Underscoring its commitment to this emerging standard , Adobe has made its HTML5 Pack extension for Dreamweaver CS5 immediately available , as a free download , at http://labs.adobe.com/downloads/html5pack.html , " the company said .</s>
+<s id='vn18'>Công ty cho biết " Khẳng định cam kết về chuẩn mới này , Adobe đã tạo ra phần mở rộng HTML5 PACK cho Dreamweaver CS5 , bạn có thể tải miễn phí tại http://labs.adobe.com/downloads/html5pack.html " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" One of Dreamweaver 's great strengths is its extensibility and it 's encouraging to see that Adobe has wasted no time in providing support for those parts of HTML 5 and CSS3 that are already supported by several browsers , "</s>
+<s id='vn19'>" Một trong những thế mạnh lớn nhất của Dreamweaver là tính mở rộng của nó và khích lệ khi thấy rằng Adobe đã không lãng phí thời gian trong việc cung cấp sự hỗ trợ cho các thành phần của HTML 5 và CSS3 mà nó thực sự đã được hỗ trợ bởi một số trình duyệt " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>David Powers , founder of and developer at Foundation PHP , said in a statement .</s>
+<s id='vn20'>David Powers , nhà sáng lập và phát triển tại Foundation PHP cho biết trong một bài phát biểu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" By adding support through an extension , rather than hard-baking it into the core program .</s>
+<s id='vn21'>" Bằng việc thêm sự hỗ trợ thông qua phần mở rộng thay vì nhúng trực tiếp mã vào trong lõi chương trình .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Dreamweaver should be able to keep pace with developments as the specifications and browsers evolve . "</s>
+<s id='vn22'>Dreamweaver sẽ có thể bắt kịp bước tiến phát triển của các đặc tả và trình duyệt " .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,84 @@
+﻿<doc id='N0598'>
+<head>
+<title>Soaring Food Prices Tied in Part to Oil prices</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Soaring Food Prices Tied in Part to Oil prices</s>
+<s id='vn1'>Giá lương thực gia tăng có liên hệ một phần với giá dầu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The United Nations warns that global food prices are rising at alarming levels .</s>
+<s id='vn2'>Liên hiệp quốc cảnh báo là giá thực phẩm toàn cầu đang gia tăng ở mức báo động .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Food and Agriculture Organization says the cost of staples such as cereals , meat and dairy products has risen for eight straight months to reach a new high in February .</s>
+<s id='vn3'>Tổ chức nông nghiệp và lương thực nói giá của những mặt hàng chủ yếu như là ngũ cốc , thịt và những sản phẩm từ sữa đã tăng trong 8 tháng liên tiếp để đạt đến một mức cao mới vào tháng 2 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The UN agency warns food prices could spike even higher because of the unrest in the Middle East and North Africa .</s>
+<s id='vn4'>Cơ quan Liên hiệp quốc cảnh báo giá thực phẩm có thể tăng cao hơn nữa do tình trạng bất ổn ở Trung Đông và Bắc Phi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Food prices are at their highest levels since the FAO began monitoring prices two decades ago .</s>
+<s id='vn5'>Giá thực phẩm đang ở mức cao nhất của chúng kể từ khi FAO bắt đầu quản lý giá 2 thập niên trước .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The agency 's senior grain economist , Abdolreza Abbassian , says except for sugar , the price of basic food commodities such as wheat , meat and dairy products has risen steadily since June .</s>
+<s id='vn6'>Abdolreza Abbassian , một nhà kinh tế học thâm niên của tổ chức nói ngoại trừ đường thì giá của những hàng hóa lương thực cơ bản khác như là lúa mì , thịt và những sản phẩm làm từ sữa đều đã tăng dần dần kể từ tháng 6 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" We are still in historic peaks .</s>
+<s id='vn7'>" Chúng ta vẫn đang ở những mức cao kỷ lục .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The February prices unfortunately rose even further , so whether you calculate it on real basis , inflation corrected , or nominal , the food prices , which are a measure of international prices for basic food commodities , have reach a new high . " Abbassian said .</s>
+<s id='vn8'>Giá cả vào tháng 2 không may là còn tăng cao hơn nữa , do đó dù bạn tính nó dựa trên cơ sở thực tế , điều chỉnh lạm phát hay danh nghĩa thì giá thực phẩm , một phương pháp để đo lường giá cả trên toàn thế giới của những hàng hóa thực phẩm đã chạm đến một mức cao mới " Abbassian đã nói như vậy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Higher food prices were among the triggers for protests in Egypt and Tunisia .</s>
+<s id='vn9'>Giá thực phẩm cao hơn đang có nguy cơ gây ra phản kháng ở Ai Cập và Tuy-ni-di .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But Abbassian says higher oil prices due to the continuing turmoil in Libya are making matters worse .</s>
+<s id='vn10'>Nhưng Abbassion nói giá dầu cao hơn do tình trạng bất ổn tiếp diễn ở Li-bi đang làm vấn đề trầm trọng hơn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" One of the strong linkages between the food and the energy sector is through biofuels , so when the oil prices are very high , there is definitively more incentive to produce more biofuels and that means using more food crops to produce them ," said Abbassian .</s>
+<s id='vn11'>Abbassian cũng nói thêm " Một trong những mối liên hệ mật thiết nhất giữa khu vực lương thực và khu vực năng lượng là thông qua nhiên liệu sinh học , cho nên khi giá dầu đang rất cao thì chắc chắn phải có nhiều động lực hơn để sản xuất nhiều nhiên liệu sinh học hơn và điều đó có nghĩa là sử dụng nhiều cây lương thực hơn để sản xuất chúng . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Economists say that 's what happened in 2007 and 2008 , when high oil prices prompted greater demand for biofuels such as ethanol .</s>
+<s id='vn12'>Các nhà kinh tế học nói đó là điều đã xảy ra vào năm 2007 và 2008 khi giá dầu tăng cao đã làm cầu đối với những nhiên liệu sinh học như là ê-ta-non tăng theo .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The international aid group Oxfam says millions of people around the world are sliding into poverty as they struggle to pay for basic foods .</s>
+<s id='vn13'>Nhóm viện trợ quốc tế Oxfam nói là hàng ngàn người khắp thế giới đang rơi vào tình trạng nghèo đói khi họ phải vật lộn để mua những thực phẩm cơ bản .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The organization is urging the international community to curb oil price speculation and reverse the demand for biofuels .</s>
+<s id='vn14'>Tổ chức này đang khuyến khích cộng đồng quốc tế hạn chế đầu cơ giá dầu và giảm lượng cầu cho nhiên liệu sinh học .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Until that happens , Abbassian warns food prices will continue to rise .</s>
+<s id='vn15'>Cho đến lúc điều đó xảy ra , Abbassian cảnh báo là giá thực phẩm sẽ tiếp tục tăng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Obviously the longer oil prices remain high , the more we have to think that it could have a spillover effect into the grain sector especially in the coming weeks and months , " Abbassian said .</s>
+<s id='vn16'>Theo Abbassian thì " Rõ ràng là giá dầu vẫn duy trì ở mức cao càng lâu thì chúng ta càng phải nghĩ rằng nó có thể có hiệu ứng lan tỏa sang khu vực lương thực trong những tuần và những tháng sắp tới "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Abbassian says a major difference between the current situation and the food crisis of 2008 is that the price of rice , a staple for half the world 's population , has risen less than four percent since last year .</s>
+<s id='vn17'>Abbassian nói một khác biệt chủ yếu giữa tình hình hiện tại và khủng hoảng lương thực vào năm 2008 là giá của gạo , một thực phẩm chủ yếu của phân nửa dân số thế giới đã tăng ít hơn 4% kể từ năm ngoái .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Wheat prices , on the other hand , are up 60 percent , while corn , a major ingredient for biofuels , has risen 93 percent since last year .</s>
+<s id='vn18'>Trong khi đó , giá của lúa mì tăng 60% , giá ngô và những nguyên liệu chủ yếu khác dùng để sản xuất nhiên liệu sinh học đã tăng 93% kể từ năm ngoái .</s>
+</spair>
+</text>
+</doc>

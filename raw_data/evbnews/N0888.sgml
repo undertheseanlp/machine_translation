@@ -1,0 +1,252 @@
+﻿<doc id='N0888'>
+<head>
+<title>How Economic Reality Influences The Market</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How Economic Reality Influences The Market</s>
+<s id='vn1'>Thực tiễn kinh tế ảnh hưởng đến thị trường ( chứng khoán ) như thế nào</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Quite simply , there is a link between real economic activity and stock prices .</s>
+<s id='vn2'>Hết sức đơn giản , có một mối liên hệ giữa hoạt động kinh tế trên thực tế và giá cổ phiếu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But this link is sometimes tenuous , and it is just not true that when the economy is doing well , you can be sure that stocks will go up in an appropriate manner , and vice versa .</s>
+<s id='vn3'>Nhưng mối liên hệ này đôi khi mơ hồ , và thật sự không đúng khi nền kinh tế đang hoạt động tốt , mà bạn lại có thể chắc chắn rằng cổ phiếu sẽ tăng giá một cách thích hợp , và ngược lại .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The problem is that the factors driving stock prices are just too complex , fragmented and contradictory for a simple " up and down " correlation to apply .</s>
+<s id='vn4'>Vấn đề là những yếu tố tác động đến giá cổ phiếu rất là phức tạp , rời rạc và mâu thuẫn khó mà áp dụng đối với một mối tương quan " lên xuống " đơn giản được .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Factors Driving the Stock Market</s>
+<s id='vn5'>Những yếu tố tác động đến thị trường chứng khoán</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Certainly , the business cycle does play a role .</s>
+<s id='vn6'>Chu kỳ kinh doanh đóng một vai trò nào đó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>If you look at a chart of business cycle fluctuations , superimposed on a stock market index , you will see that the stock market generally and roughly follows .</s>
+<s id='vn7'>Nếu bạn nhìn vào biểu đồ biến động chu kỳ kinh tế , bao trùm lên chỉ số thị trường chứng khoán , bạn sẽ thấy rằng thị trường chứng khoán thường và hầu như là đi theo sau .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But generally and roughly are the operative words , and that is the problem .</s>
+<s id='vn8'>Nhưng thường và hầu như là những từ ngữ quan trọng , và đó chính là vấn đề .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>If we consider some of the other factors that move the stock market , besides the economy simply doing well and growing , we easily see how complex it all becomes .</s>
+<s id='vn9'>Nếu chúng ta xem xét một số yếu tố khác có tác động đến thị trường chứng khoán , ngoài nền kinh tế hoàn toàn hoạt động hiệu quả và đang tăng trưởng ra , chúng ta dễ dàng nhận thấy chúng phức tạp như thế nào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Interest Rates</s>
+<s id='vn10'>Lãi suất</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If rates are likely to fall , stocks will be purchased and their prices will rise .</s>
+<s id='vn11'>Nếu lãi suất có khả năng giảm , người ta sẽ mua cổ phiếu và giá cổ phiếu sẽ tăng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But then there are also order quantities for American goods , which push up stock prices when they increase - and of course , the other way round .</s>
+<s id='vn12'>Nhưng sau đó lại xuất hiện nhiều đơn đặt hàng mua hàng hoá Mỹ , chúng đẩy giá cổ phiếu lên - và dĩ nhiên , ngược lại .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But , foreign orders depend partly on exchange rates , which also depend partly on the interest rate and so on .</s>
+<s id='vn13'>Nhưng , đơn hàng nước ngoài một phần phụ thuộc vào tỷ giá hối đoái , cái này cũng lại phụ thuộc một phần vào lãi suất ấy v . v .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Get the idea ?</s>
+<s id='vn14'>Bạn đã rõ rồi chứ ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Investor Psychology</s>
+<s id='vn15'>Tâm lý nhà đầu tư</s>
+</spair>
+<spair id='16'>
+<s id='en16'>People may plunge into overheated markets , which are best left alone .</s>
+<s id='vn16'>Mọi người có thể đầu tư một cách liều lĩnh vào các thị trường quá nóng , những thị trường tốt nhất bị bỏ sót lại .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And they panic and flee at exactly the best time to buy .</s>
+<s id='vn17'>Và họ hoảng loạn và tháo chạy đúng ngay tại thời điểm tốt nhất để mua .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Throughout economic history , we have seen how markets overshoot and push prices up to levels that are not justified by the real economy .</s>
+<s id='vn18'>Suốt chiều dài lịch sử kinh tế , chúng ta đã chứng kiến các thị trường tăng đột biến như thế nào và đẩy giá lên đến mức bất hợp lý với nền kinh tế trong thực tế .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>And there is the converse , with people selling out more than the economic situation justifies , simply because sentiment is negative .</s>
+<s id='vn19'>Và ngược lại , người ta bán ra nhiều hơn tình hình kinh tế có lý do , chỉ vì cảm xúc tiêu cực .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Political Factors and Sundry Disasters</s>
+<s id='vn20'>Các yếu tố chính trị và những thảm hoạ linh tinh</s>
+</spair>
+<spair id='21'>
+<s id='en21'>An election , an assassination , terrorists attacks , epidemics of diseases and many other shocks that can appear tomorrow and be gone the next , or be around for the next 20 years , can either make or lose you money .</s>
+<s id='vn21'>Bầu cử , ám sát , tấn công khủng bố , dịch bệnh và nhiều cú sốc khác có thể diễn ra vào ngày mai và rồi biến mất , hoặc đây đó trong 20 năm kế tiếp , có thể giúp bạn kiếm ra tiền hoặc làm bạn mất tiền .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Note that these are non-economic factors , meaning that the stock market reflects these too .</s>
+<s id='vn22'>Lưu ý đây là những yếu tố phi kinh tế , có nghĩa là thị trường chứng khoán cũng phản ánh những yếu tố này nữa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Additionally , some of these factors are inevitably driving share prices up , while others are pushing them down ; sometimes the same variable can have contradictory results when measured against other variables .</s>
+<s id='vn23'>Ngoài ra , một số yếu tố này chắc chắn làm cho giá cổ phiếu tăng lên trong khi những yếu tố khác đang đẩy giá xuống ; đôi khi biến số tương tự có thể có các kết quả trái ngược khi so với những biến số khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So we have a simultaneous and multifaceted interaction of forces working in all directions , with extremely variable and varied intensities .</s>
+<s id='vn24'>Vì vậy chúng ta có sự tác động qua lại đồng thời và nhiều mặt của các thế lực hoạt động khắp nơi , với những sức mạnh luôn biến đổi và rất đa dạng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Speculation</s>
+<s id='vn25'>Đầu cơ</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Apart from the hard and soft factors described above , a fundamental reason for buying stocks is , simply , that people think other buyers will pay more for them in the future .</s>
+<s id='vn26'>Ngoài những yếu tố cứng và mềm nêu trên , một lý do cơ bản để mua cổ phiếu , một cách đơn giản , là mọi người nghĩ những người mua khác sẽ mua lại của họ với giá cao hơn trong tương lai .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>This is the essence of speculation , and clearly has little to do with the productive process at the heart of economic development .</s>
+<s id='vn27'>Đây là đặc tính cơ bản của hiện tượng đầu cơ , và rõ ràng không ảnh hưởng nhiều đến quá trình sản xuất tại trung tâm của sự phát triển kinh tế .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Where Does This Leave Us ?</s>
+<s id='vn28'>Thực tiễn này đẩy chúng ta đến đâu ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Stock prices are driven by a very messy combination of economic , psychological and political fundamentals .</s>
+<s id='vn29'>Giá cổ phiếu chịu tác động của một sự kết hợp rất hỗn độn các yếu tố cơ bản về kinh tế , tâm lý và chính trị .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The result is that it is impossible to know in advance which " fundamentals " and non-fundamentals will really prevail .</s>
+<s id='vn30'>Kết quả là không thể biết trước " yếu tố cơ bản " nào và không cơ bản nào sẽ thực sự chiếm ưu thế .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Despite all this , the trend can still be your friend .</s>
+<s id='vn31'>Bất chấp tất cả những yếu tố này , thì xu hướng có thể vẫn là người bạn của bạn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It is often possible to figure out which factors will dominate over time , and , in particular , over a given period of time .</s>
+<s id='vn32'>Chúng ta thường xuyên có thể nhận ra yếu tố nào sẽ chiếm ưu thế theo thời gian , và , đặc biệt , trong một khoảng thời gian nhất định .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Likewise , some stocks , sectors and asset classes that look good , in themselves , are really worth having .</s>
+<s id='vn33'>Tương tự , một số cổ phiếu , lĩnh vực và nhóm tài sản mà trông rất tốt , bản thân chúng , thật sự có giá trị .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Predictions are possible , and it is not all a game of chance .</s>
+<s id='vn34'>Các dự báo là khả năng có thể xảy ra , và tất cả chúng không phải là trò may rủi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But , if you are looking for sure-fire indicators and think that the business cycle and the stock exchange cycle are one and the same , you will be in for a disappointment or worse .</s>
+<s id='vn35'>Nhưng , nếu bạn đang tìm kiếm những chỉ báo chắc chắn như kỳ vọng và nghĩ rằng chu kỳ kinh tế và chu kỳ thị trường chứng khoán là một và như nhau , thì bạn sẽ thất vọng hoặc thấy tồi tệ hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The trick is to not try and figure out all the angles , but to determine what factors are likely to count most over the time span of the investment .</s>
+<s id='vn36'>Bí quyết là không nên cố gắng xem xét tất cả mọi góc độ , mà cố gắng xác định yếu tố nào có vẻ đáng quan tâm nhất trong khoảng thời gian đầu tư .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Despite the multitude of influences that are potentially relevant , some are more important than others at certain times , and for certain assets .</s>
+<s id='vn37'>Mặc dù vô số ảnh hưởng có khả năng có liên quan , một số ảnh hưởng quan trọng hơn những ảnh hưởng khác ở những thời điểm nhất định , và đối với những tài sản nhất định .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Putting It into Practice</s>
+<s id='vn38'>Thực hiện</s>
+</spair>
+<spair id='39'>
+<s id='en39'>If a popular president of a major economic power is assassinated , the markets are likely to drop .</s>
+<s id='vn39'>Nếu một vị tổng thống nổi tiếng của một cường quốc kinh tế bị ám sát , các thị trường chứng khoán có thể sẽ mất điểm .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>For how long is another matter .</s>
+<s id='vn40'>Một sự kiện tương tự diễn ra trong bao lâu .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Likewise , truly disastrous unemployment figures must cause pessimism and eventually lead to stock sales .</s>
+<s id='vn41'>Giống như vậy , những con số thất nghiệp thực sự mang tính thảm họa chắc chắn gây ra tâm lý bi quan và rốt cuộc dẫn đến hành động bán cổ phiếu .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Certain national and international trends can also be accurately forecasted to continue .</s>
+<s id='vn42'>Một số xu hướng quốc gia và quốc tế cũng có thể được dự báo một cách chính xác sẽ tiếp tục diễn ra .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The demographic ascent of the aged , in the developed world , is most definitely going to continue for the foreseeable future .</s>
+<s id='vn43'>Quá trình tăng lên về mặt nhân khẩu học số người cao tuổi , trong thế giới phát triển , hoàn toàn chắc chắn sẽ tiếp tục diễn ra trong thời gian sắp tới .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>This undoubtedly makes some health- and age-related investments very promising .</s>
+<s id='vn44'>Điều này chắc chắn làm cho một số đầu tư liên quan đến sức khoẻ và tuổi già trở nên rất hứa hẹn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Some will still do better than others , and individual schemes and assets will likely go bust along the way , but the general economic reality of the " age of aging " will be reflected in stock prices .</s>
+<s id='vn45'>Một số sẽ vẫn tốt hơn một số khác , và những kế hoạch và tài sản cá nhân sẽ có khả năng phá sản giữa chừng , nhưng thực tiễn kinh tế nói chung của hiện tượng " tuổi đang già đi " sẽ được phản ánh bằng giá cổ phiếu .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>In a similar vein , climatic change doesn't seem to be going away .</s>
+<s id='vn46'>Giống như vậy , biến đổi khí hậu dường như không trở nên vô hình .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The fact that there is money to be made from jumping on this bandwagon is incontrovertible .</s>
+<s id='vn47'>Rõ ràng người ta kiếm ra tiền từ những người chạy theo phong trào này .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>But , exactly which investments will work and which will fail is difficult to determine , and demonstrates the lack of a clear link between sound economics and higher stock prices .</s>
+<s id='vn48'>Nhưng , chính xác là những khoản đầu tư nào sẽ thành công và khoản nào sẽ thất bại thì khó mà xác định được , và biểu thị sự thiếu một mối liên hệ rõ ràng giữa tình trạng kinh tế thịnh vượng và giá cả cổ phiếu cao hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>There is a link , but there 's no reliable correlation .</s>
+<s id='vn49'>Có một mối liên hệ , nhưng không có mối tương quan xác thực .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The same sorts of arguments apply to resources of various kinds .</s>
+<s id='vn50'>Các loại lý lẽ tương tự cũng có giá trị đối với nguồn tài nguyên các loại .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Nonetheless , this does not stop the resource sector from being volatile .</s>
+<s id='vn51'>Tuy nhiên , điều này không ngăn nổi yếu tố nguồn tài nguyên khỏi tình trạng dễ thay đổi .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Even if water , for example , will become a truly precious resource , over time , if you want a certain stream of income , a government bond is a more suitable investment than infrastructural projects in the Middle East .</s>
+<s id='vn52'>Chẳng hạn , ngay cả nước cũng sẽ trở thành một tài nguyên thực sự quý giá , theo thời gian , nếu bạn muốn một nguồn thu nhập nhất định nào đó thì trái phiếu chính phủ là khoản đầu tư thích hợp hơn các dự án cơ sở hạ tầng ở Trung Đông .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Conclusion</s>
+<s id='vn53'>Kết luận</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If the economy is performing well , the stock market is likely to do the same .</s>
+<s id='vn54'>Nếu nền kinh tế đang hoạt động tốt thì thị trường chứng khoán có thể cũng giống như vậy .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>But , there is no real reliable and consistent link that persists through all-market cycles in a predictable pattern .</s>
+<s id='vn55'>Nhưng , không có mối liên hệ nhất quán và chắc chắn thực sự tồn tại suốt các chu kỳ của mọi thị trường dưới một mô hình có thể tiên đoán được .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>There are simply too many forces at work and economic reality is just one of them .</s>
+<s id='vn56'>Đơn giản vì có quá nhiều thế lực đang hoạt động và thực tiễn kinh tế chỉ là một trong số đó .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>This does not mean that anything can happen , but it does mean that the financial sector and the real sector go hand in hand only part of the time , and part of the way .</s>
+<s id='vn57'>Điều này không có nghĩa là bất cứ chuyện gì cũng có thể xảy ra , mà có nghĩa là lĩnh vực tài chính và lĩnh vực bất động sản gắn liền với chỉ một phần thời gian và một phần quá trình .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>This process is well summed-up by one expert as being similar to a dog ( the stock market ) going for a walk with its master ( the real economy ) .</s>
+<s id='vn58'>Quá trình này được tóm tắt một cách rất rõ ràng bởi một chuyên gia ví von rằng giống như một chú chó ( thị trường chứng khoán ) đi dạo cùng với chủ nhân của nó ( nền kinh tế trong thực tế ) .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The dog often runs this way and that , often in a rather unpredictable matter .</s>
+<s id='vn59'>Chú chó thường chạy hướng này hướng kia , thường khó mà đoán trước được .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But it will come back to its master – until the next walk .</s>
+<s id='vn60'>Nhưng chú chó sẽ quay về với chủ nhân của mình - cho đến khi đi dạo lần nữa .</s>
+</spair>
+</text>
+</doc>

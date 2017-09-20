@@ -1,0 +1,112 @@
+﻿<doc id='N0587'>
+<head>
+<title>Apple Updates Desktops , Adds New Mac Pro with Intel Xeon Processors</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Apple Updates Desktops , Adds New Mac Pro with Intel Xeon Processors</s>
+<s id='vn1'>Apple Nâng Cấp Máy Tính Để Bàn , Mac Pro Mới Với Bộ Vi Xử Lí 4 Nhân Intel Xeon</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Apple announced a new Mac Pro featuring an Intel " Nehalem " Xeon processor as part of a wide-ranging March 3 product rollout .</s>
+<s id='vn2'>Apple đã gới thiệu máy Mac Pro mới trang bị bộ vi xử lí Xenon kiến trúc " Nehalem " như là một phần trong việc mở rộng phạm vi giới thiệu sản phẩm mới vào ngày 3 tháng 3 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The company also updated its iMac and Mac mini desktop lines with a 24-inch iMac and a Mac mini with Nvidia GeForce 9400M integrated graphics .</s>
+<s id='vn3'>Công ty cũng đã nâng cấp các dòng máy tính để bàn iMAC với màn hình 24 inch và Mac mini tích hợp card đồ họa Nvidia GeForce 9400M .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Apple announced on March 3 a new Mac Pro that utilizes Intel " Nehalem " Xeon processors , along with updates to its iMac and Mac mini desktop lines .</s>
+<s id='vn4'>Apple đã giới thiệu vào ngày 3 tháng 3 một máy Mac Pro mới sử dụng bộ vi xử lí Intel Xeon kiến trúc Nehalem cùng với việc nâng cấp các dòng máy để bàn iMac và Mac mini .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The quad-core Mac Pro , with a starting retail price of $ 2,499 , features one 2.66 GHz Quad-Core Intel Xeon 3500 series processor of L3 cache .</s>
+<s id='vn5'>Mac Pro với bộ vi xử lí 4 nhân có mức giá bán lẻ khởi điểm là 2.499 $ , được trang bị bộ vi xử lí 4 nhân 2.66 Ghz Intel Xeon 3500 series với bộ nhớ cache L3 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It also features 3GB of 1066 NHz DDR3 ECC SDRAM memory , expandable to 8GB .</s>
+<s id='vn6'>Bộ nhớ DDRAM3 ECC SDRAM 3Gb tốc độ bus 1066 MHz và có thể mở rộng lên tới 8Gb .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The 8-core Mac Pro , with a retail price starting at $ 3,299 , features two 2.26-GHz Quad-Core Intel Xeon 3500 series processors , also with 8MB of shared L3 cache .</s>
+<s id='vn7'>Mac Pro với bộ vi xử lí 8 nhân có mức giá bán lẻ khởi điểm là 3,299 $ được trang bị 2 bộ vi xử lí 4 nhân 2.26 Ghz Intel Xeon 3500 series với bộ nhớ cache L3 8Mb .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Its 6GB of 1066 MHz DDR3 ECC SDRAM memory is expandable up to a full 32GB.</s>
+<s id='vn8'>Bộ nhớ DDRAM3 ECC SDRAM 6Gb tốc độ bus 1066MHz có thể mở rộng lên tới 32Gb .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In addition , Apple also announced new products in its iMac and Mac mini lines , particularly a 24-inch iMac priced at $ 1,499 that features twice the memory and storage capacity .</s>
+<s id='vn9'>Ngoài ra Apple cũng đã giới thiệu những sản phẩm mới là dòng iMac và Mac mini , cụ thể là iMac 24 inch được bán với giá 1,499 $ với tính năng bộ nhớ và dung lượng lưu trữ tăng gấp đôi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The 24-inch iMac can include up to a 3.06 GHz Intel Core 2 Duo processor , along with 4GB of 1066 MHz DDR3 memory and a 640 GB or 1TB Serial ATA hard drive .</s>
+<s id='vn10'>iMac 24 inch bao gồm bộ vi xử lí Intel Core 2 Duo 3.06 Ghz cùng với bộ nhớ DDRAM3 4Gb tốc độ bus 1066 Mhz và ổ cứng SATA ( Serial ATA ) 640 GB hoặc 1Terabyte .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The 20-inch iMac , which retails for $ 1,199 , is driven by a 2.66 GHz Intel Core 2 Duo processor .</s>
+<s id='vn11'>iMac 20 inch có giá bán lẻ là 1.119 $ với bộ vi xử lí Intel Core 2 Duo 2.66 Ghz .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The 24-incher has 30 percent more screen real estate over its 20-inch cousin .</s>
+<s id='vn12'>Mac 24-incher có nhiều hơn 30% không gian ảnh thực so với người anh em 20 inch của nó .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The Mac mini , starting at $ 599 , features a 2 GHz Intel Core 2 Duo processor and up to 4GB of DDR3 1066 MHz memory squeezed into a unit that measures 6.5 inches by 6.5 inches by 2 inches .</s>
+<s id='vn13'>Mac mini có giá khởi điểm là 599 $ được trang bị bộ vi xử lí intel Core 2 Duo 2Ghz và bộ nhớ DDRAM3 4Gb tốc độ bus 1066 MHz được gói gọn lại thành một thiết bị có kích thước là 6.5 inches x 6.5 inches x 2 inches .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Also offered from Apple is a 2.0 GHz Mac mini with a suggested retail price of $ 799 , based on an Intel Core 2 Duo processor .</s>
+<s id='vn14'>Cũng được phía Apple đề xuất giá bán lẻ cho Mac mini với bộ vi xử lí intel Core 2 Duo 2.0 Ghz là 799 $ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Apple also chose to highlight the Mac mini 's energy-efficient capabilities ; the desktop draws less than 13 watts of power when idle , or 10 times less power than a typical desktop PC .</s>
+<s id='vn15'>Hãng Apple cũng đưa ra tính nổi bật của Mac mini là khả năng tiết kiệm năng lượng , nó chỉ tiêu thụ chưa tới 13 W điện năng khi ở trạng thái rỗi , ít hơn gấp 10 lần so với các máy tính để bàn cùng loại khác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>According to the company .</s>
+<s id='vn16'>Theo thông tin từ hãng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" The Mac mini is not only our most affordable Mac , it 's also the world 's most energy-efficient desktop computer , "</s>
+<s id='vn17'>" Mac mini không chỉ đem lại lợi ích về giá cả cho Mac , nó cũng là máy tính để bàn tiết kiệm điện năng nhất thế giới . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Tim Cook , chief operating officer of Apple , said in a statement .</s>
+<s id='vn18'>Tim Cook , giám đốc điều hành của Apple đã nói như thế trong một bài phát biểu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The new Mac Pro is also designed to be environmentally friendly , meeting Energy Star 4.0 requirements and featuring a " highly recyclable aluminum " enclosure .</s>
+<s id='vn19'>Mac pro mới cũng được thiết kế thân thiên với môi trường , đạt các yêu cầu chuẩn Energy Start 4.0 và có đặc điểm là làm bằng " nhôm chất lượng cao có thể tái chế " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The iMac and Mac mini also meet Energy Star 4.0 requirements , use PVC-free internal components and feature material-efficient system and packing designs .</s>
+<s id='vn20'>iMac và Mac mini cũng đạt các yêu cầu của Energy Start 4.0 , không sử dụng các thành phần bên trong máy bằng nhựa PVC cũng như hệ thống được làm bằng vật liệu có độ bền cao và thiết kế gọn gàng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" These days people are more concerned about price , and the Mac line has n't addressed that as well as ( Apple ) could , " Steve Baker , an analyst with NPD Group , said in an interview .</s>
+<s id='vn21'>" Ngày nay mọi người chỉ chú trọng nhiều về giá cả và dòng Mac cũng như Apple đã chưa thể giải quyết được " Steven Baker , chuyên gia phân tích thuộc tập đoàn NPD phát biểu trong một cuộc phỏng vấn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" They still need a $ 999 system , and I 'm disappointed they do n't have one .</s>
+<s id='vn22'>Họ ra giá hệ thống với giá 999 $ và tôi đã thất vọng vì họ đã không quan tâm đến giá cả .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>In the face of 30 percent sales declines , that 's what mainstream consumers want .</s>
+<s id='vn23'>Nên giảm 30% giá thành , đó là điều mà khách hàng chủ lực mong đợi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" They talked a lot more about Mac mini than they have in a long time , and that 's encouraging because of the mini 's price point , " Baker added .</s>
+<s id='vn24'>" Họ đã ca ngợi Mac mini hơn tất cả các sản phẩm của họ trước đây , và đó là điều đáng khuyến khích bởi vì mức giá của Mac mini " Baker nói thêm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" It gives them another story to tell – the fact they talked so much about the energy efficiency means they may spin off some marketing and advertising ( for ) the mini . "</s>
+<s id='vn25'>" Nó giúp họ có thêm câu chuyện khác để kể - Việc họ nói quá nhiều về hiệu quả điện năng là phần nào giúp họ có thể tiếp thị và quảng cáo cho Mac mini "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,500 @@
+﻿<doc id='N0368'>
+<head>
+<title>The mystery of time</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The mystery of time</s>
+<s id='vn1'>Điều bí ẩn của thời gian</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Time is One of the Great Mysteries of Our Universe</s>
+<s id='vn2'>Thời gian là một trong những bí ẩn lớn của vũ trụ chúng ta</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Time on Earth is set by the Sun 's position in the sky .</s>
+<s id='vn3'>Thời gian trên Trái đất sẽ được tính theo vị trí của Mặt trời trên bầu trời .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>If you can read a clock , you can know the time of day .</s>
+<s id='vn4'>Nếu bạn nhìn đồng hồ , bạn có thể biết được giờ trong ngày .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But no one knows what time itself is .</s>
+<s id='vn5'>Nhưng không ai biết được thời gian là gì .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>We cannot see it .</s>
+<s id='vn6'>Chúng ta không thể nhìn thấy nó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>We cannot touch it .</s>
+<s id='vn7'>Chúng ta không thể chạm vào nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>We cannot hear it .</s>
+<s id='vn8'>Chúng ta không thể nghe được nó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>We know it only by the way we mark its passing .</s>
+<s id='vn9'>Chúng ta chỉ biết nó bằng cách chúng ta đánh mốc vào mỗi thời điểm nó đi qua .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For all our success in measuring the smallest parts of time , time remains one of the great mysteries of this universe .</s>
+<s id='vn10'>Dù đã đo được những khoảng thời gian nhỏ nhất , thời gian vẫn cứ là một trong những bí ẩn lớn của vũ trụ này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>One way to think about time is to imagine a world without time .</s>
+<s id='vn11'>Có một cách để nghĩ về thời gian đó là tưởng tượng ra một thế giới không có thời gian .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>There could be no movement , because time and movement cannot be separated .</s>
+<s id='vn12'>Ở thế giới đó sẽ không có sự hoạt động , bởi vì thời gian và hoạt động không thể bị chia ra .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A world without time could exist only as long as there were no changes .</s>
+<s id='vn13'>Một thế giới không có thời gian có thể chỉ tồn tại đến chừng nào không có thay đổi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>For time and change are linked .</s>
+<s id='vn14'>Vì thời gian và thay đổi luôn liên hệ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>We know that time has passed when something changes .</s>
+<s id='vn15'>Chúng ta biết là thời gian trôi qua khi có cái gì đó thay đổi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the real world - the world with time - changes never stop .</s>
+<s id='vn16'>Trong thế giới thực - thế giới của thời gian - sự thay đổi không ngừng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Some changes happen only once in a while , like an eclipse of the moon .</s>
+<s id='vn17'>Một số thay đổi chỉ thỉnh thoảng xảy ra , giống như hiện tượng nguyệt thực của mặt trăng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Others happen repeatedly , like the rising and setting of the sun .</s>
+<s id='vn18'>Một số thay đổi khác xảy ra liên tục , giống như hiện tượng mặt trời mọc và lặn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Humans always have noted natural events that repeat themselves .</s>
+<s id='vn19'>Con người luôn để ý đến các hiện tượng tự nhiên tự lặp đi lặp lại .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>When people began to count such events , they began to measure time .</s>
+<s id='vn20'>Khi mọi người bắt đầu đếm những sự kiện như thế , họ bắt đầu biết tính thời gian .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In early human history , the only changes that seemed to repeat themselves evenly were the movements of objects in the sky .</s>
+<s id='vn21'>Trong lịch sử loài người thời sơ khai , những thay đổi đáng chú ý nhất mà tự lặp đi lặp lại đều đặn đó là các thiên thể .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The most easily seen result of these movements was the difference between light and darkness .</s>
+<s id='vn22'>Kết quả dễ thấy nhất của những chuyển động này là sự khác biệt giữa ban ngày và ban đêm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The sun rises in the eastern sky , producing light .</s>
+<s id='vn23'>Mặt trời mọc ở bầu trời hướng đông , toả ánh sáng lên vạn vật .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It moves across the sky and sinks in the west , causing darkness .</s>
+<s id='vn24'>Nó di chuyển trên bầu trời và lặn ở hướng tây , làm cho bầu trời tối om .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The appearance and disappearance of the sun was even and unfailing .</s>
+<s id='vn25'>Sự xuất hiện và biến mất của mặt trời luôn đều đặn và liên tục .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The periods of light and darkness it created were the first accepted periods of time .</s>
+<s id='vn26'>Những lúc sáng và tối ấy đã tạo ra những khoảng thời gian đầu tiên đã được công nhận .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>We have named each period of light and darkness one day .</s>
+<s id='vn27'>Chúng tôi đã đặt tên mỗi thời kỳ sáng rồi lại tối một ngày .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>People saw the sun rise higher in the sky during the summer than in winter .</s>
+<s id='vn28'>Người ta thấy mặt trời vào mùa hè mọc trên trời cao hơn vào mùa đông .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>They counted the days that passed from the sun 's highest position until it returned to that position .</s>
+<s id='vn29'>Họ đếm những ngày đi qua từ vị trí cao nhất mặt trời cho đến khi nó trở về vị trí cũ đó .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They counted three hundred sixty-five days .</s>
+<s id='vn30'>Họ đếm cả thảy là ba trăm sáu mươi lăm ngày .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>We now know that is the time Earth takes to move once around the sun .</s>
+<s id='vn31'>Hiện nay chúng ta biết đó là thời gian mà trái đất di chuyển một lần quanh mặt trời .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>We call this period of time a year .</s>
+<s id='vn32'>Chúng tôi gọi này khoảng thời gian này là một năm .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Early humans also noted changes in the moon .</s>
+<s id='vn33'>Loài người nguyên thuỷ cũng chú ý những thay đổi trên mặt trăng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>As it moved across the night sky , they must have wondered .</s>
+<s id='vn34'>Khi nó di chuyển trên bầu trời đêm , chắc là họ đã thắc mắc .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Why did it look different every night ?</s>
+<s id='vn35'>Tại sao mỗi đêm mỗi khác ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Why did it disappear ?</s>
+<s id='vn36'>Tại sao nó lặn đâu mất tiêu ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Where did it go ?</s>
+<s id='vn37'>Nó đã đi đâu ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Even before they learned the answers to these questions , they developed a way to use the changing faces of the moon to tell time .</s>
+<s id='vn38'>Thậm chí trước khi họ biết được câu trả lời cho những câu hỏi này , họ đã hình thành nên cách sử dụng sự biến đổi liên tục của mặt trăng để xác định thời gian .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The moon was " full " when its face was bright and round .</s>
+<s id='vn39'>Mặt trăng " rằm " khi nó sáng ngời và tròn trịa .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The early humans counted the number of times the sun appeared between full moons .</s>
+<s id='vn40'>Loài người nguyên thuỷ đếm số lần mặt trời xuất hiện giữa các lần trăng rằm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>They learned that this number always remained the same - about twenty-nine suns .</s>
+<s id='vn41'>Họ biết được con số này luôn vẫn vậy - khoảng hai mươi chín cái mặt trời .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Twenty-nine suns equaled one moon .</s>
+<s id='vn42'>Hai mươi chín cái mặt trời tương đương với một mặt trăng tròn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We now know this period of time as one month .</s>
+<s id='vn43'>Bây giờ chúng ta biết khoảng thời gian này là một tháng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Early humans hunted animals and gathered wild plants .</s>
+<s id='vn44'>Loài người nguyên thuỷ săn bắt động vật và hái trái cây dại .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>They moved in groups or tribes from place to place in search of food .</s>
+<s id='vn45'>Họ đi theo bầy hay bộ lạc từ nơi này sang nơi khác để tìm kiếm thức ăn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Then , people learned to plant seeds and grow crops .</s>
+<s id='vn46'>Sau đó , họ học trồng hạt và trồng các vụ mùa .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>They learned to use animals to help them work , and for food .</s>
+<s id='vn47'>Họ học cách dùng các con vật để giúp họ làm việc , và tìm kiếm thức ăn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>They found they no longer needed to move from one place to another to survive .</s>
+<s id='vn48'>Họ thấy họ không còn cần di chuyển từ nơi này đến nơi khác để tồn tại .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>As hunters , people did not need a way to measure time .</s>
+<s id='vn49'>Với những người thợ săn , người ta không cần cách tính thời gian .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>As farmers , however , they had to plant crops in time to harvest them before winter .</s>
+<s id='vn50'>Tuy nhiên , với nhhững nông phu , họ phải trồng các vụ mùa đúng lúc để thu hoạch chúng trước mùa đông .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>They had to know when the seasons would change .</s>
+<s id='vn51'>Họ phải biết khi nào đổi mùa .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>So , they developed calendars .</s>
+<s id='vn52'>Vì thế , họ đã phát triển lịch .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>No one knows when the first calendar was developed .</s>
+<s id='vn53'>Không ai biết lịch đầu tiên được phát triển khi nào .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>But it seems possible that it was based on moons , or lunar months .</s>
+<s id='vn54'>Nhưng có thể là nó được dựa vào mặt trăng , hoặc tháng âm lịch .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>When people started farming , the wise men of the tribes became very important .</s>
+<s id='vn55'>Khi người ta bắt đầu canh tác , những người thông thái của bộ lạc trở nên rất quan trọng .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>They studied the sky .</s>
+<s id='vn56'>Họ nghiên cứu bầu trời .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>They gathered enough information so they could know when the seasons would change .</s>
+<s id='vn57'>Họ tập hợp đủ thông tin để họ có thể biết khi nào các mùa sẽ thay đổi .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>They announced when it was time to plant crops .</s>
+<s id='vn58'>Họ công bố lúc nào gieo trồng mùa màng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The divisions of time we use today were developed in ancient Babylonia four thousand years ago .</s>
+<s id='vn59'>Cách chia thời gian mà chúng ta dùng ngày nay được phát triển ở xứ Babylon cổ đại cách đây 4 ngàn năm .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Babylonian astronomers believed the sun moved around the Earth every three hundred sixty-five days .</s>
+<s id='vn60'>Những nhà thiên văn học Babylon tin mặt trời quay xung quanh trái đất ba trăm sáu cứ mươi lăm ngày một lần .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>They divided this trip into twelve equal parts , or months .</s>
+<s id='vn61'>Họ chia chuyến đi này thành mười hai phần bằng nhau , hay còn gọi là tháng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Each month was thirty days .</s>
+<s id='vn62'>Mỗi tháng là ba mươi ngày .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Then , they divided each day into twenty-four equal parts , or hours .</s>
+<s id='vn63'>Sau đó , họ chia mỗi ngày thành 24 phần bằng nhau , hay còn gọi là giờ .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>They divided each hour into sixty minutes , and each minute into sixty seconds .</s>
+<s id='vn64'>Họ chia mỗi giờ thành sáu mươi phút , và mỗi phút thành 60 giây .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Humans have used many devices to measure time .</s>
+<s id='vn65'>Con người đã dùng nhiều công cụ để đo thời gian .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The sundial was one of the earliest and simplest .</s>
+<s id='vn66'>Đồng hồ mặt trời là một trong những phương tiện sớm nhất và đơn giản nhất .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>A sundial measures the movement of the sun across the sky each day .</s>
+<s id='vn67'>Đồng hồ mặt trời đo sự chuyển động của mặt trời trên bầu trời mỗi ngày .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>It has a stick or object that rises above a flat surface .</s>
+<s id='vn68'>Nó có một cái cây hoặc vật thể ở trên một mặt phẳng .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>This stick , blocking sunlight , creates a shadow .</s>
+<s id='vn69'>Cái cây này , ngăn chận ánh nắng mặt trời , tạo ra cái bóng .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>As the sun moves , so does the shadow of this stick across the flat surface .</s>
+<s id='vn70'>Khi mặt trời chuyển động , bóng của cái cây này cũng chuyển động trên mặt phẳng .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Marks on the surface show the passing of hours , and perhaps , minutes .</s>
+<s id='vn71'>Những dấu ấn trên bề mặt phẳng this cho biết những giờ , và có lẽ , phút trôi qua .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The sundial works well only when the sun is shining .</s>
+<s id='vn72'>Đồng hồ thời gian làm việc tốt chỉ vào lúc trời nắng thôi .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>So , other ways were invented to measure the passing of time .</s>
+<s id='vn73'>Vì vậy , người ta phát minh ra những công cụ khác để đo thời gian trôi qua .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>One device is the hourglass .</s>
+<s id='vn74'>Một thiết bị nữa là đồng hồ cát .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>It uses a thin stream of falling sand to measure time .</s>
+<s id='vn75'>Nó sử dụng luồng cát rơi xuống để đo thời gian .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The hourglass is shaped like the number eight --- wide at the top and bottom , but very thin in the middle .</s>
+<s id='vn76'>Đồng hồ cát có hình giống như con số tám - rộng ở trên đỉnh và đáy , nhưng rất nhỏ ở giữa .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>In a true " hour " glass , it takes exactly one hour for all the sand to drop from the top to the bottom through a very small opening in the middle .</s>
+<s id='vn77'>Ở cái đồng hồ cát , mất chính xác một giờ để tất cả các hạt cát trôi từ đỉnh xuống đáy thông qua khoảng mở nhỏ ở giữa .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>When the hourglass is turned with the upside down , it begins to mark the passing of another hour .</s>
+<s id='vn78'>Khi đồng hồ cát được quay lật ngược , nó bắt đầu đánh dấu một giờ nữa trôi qua .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>By the eighteenth century , people had developed mechanical clocks and watches .</s>
+<s id='vn79'>Vào thế kỷ mười tám , mọi người đã sản xuất ra các loại đồng hồ treo tường và đồng hồ đeo tay chạy bằng máy .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>And today , many of our clocks and watches are electronic .</s>
+<s id='vn80'>Và ngày nay , nhiều đồng hồ treo tường và đồng hồ đeo tay của chúng ta chạy bằng điện tử .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>So , we have devices to mark the passing of time .</s>
+<s id='vn81'>Vậy , chúng ta đã có các thiết bị để đánh dấu thời gian trôi qua .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>But what time is it now ?</s>
+<s id='vn82'>Nhưng bây giờ là mấy giờ ?</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Clocks in different parts of the world do not show the same time at the same time .</s>
+<s id='vn83'>Các đồng hồ ở những khu vực khác nhau trên thế giới không cho kết quả thời gian giống nhau ở cùng một thời điểm .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>This is because time on Earth is set by the sun 's position in the sky above .</s>
+<s id='vn84'>Đó là bởi vì thời gian trên trái đất được ấn định bởi vị trí mặt trời ở trên cao .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>We all have a twelve o'clock noon each day .</s>
+<s id='vn85'>Tất cả chúng ta có một giữa trưa đúng vào mười hai giờ mỗi ngày .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Noon is the time the sun is highest in the sky .</s>
+<s id='vn86'>Giữa trưa là lúc mặt trời lên cao nhất trên bầu trời .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>But when it is twelve o'clock noon where I am , it may be ten o'clock at night where you are .</s>
+<s id='vn87'>Nhưng có khi ở chỗ tôi là mười hai giờ trưa , ở chỗ bạn có thể là mười giờ đêm .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>As international communications and travel increased , it became clear that it would be necessary to establish a common time for all parts of the world .</s>
+<s id='vn88'>Khi các phương tiện truyền thông quốc tế và du lịch gia tăng , việc lập một giờ chung cho khắp nơi trên thế giới rõ ràng là rất cần thiết .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>In eighteen eighty-four , an international conference divided the world into twenty-four time areas , or zones .</s>
+<s id='vn89'>Vào năm một ngàn tám trăm tám mươi bốn , một hội nghị quốc tế chia thế giới thành 24 khu vực thời gian , hay còn gọi là múi giờ .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Each zone represents one hour .</s>
+<s id='vn90'>Mỗi múi giờ đại diện cho một giờ .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>The astronomical observatory in Greenwich , England , was chosen as the starting point for the time zones .</s>
+<s id='vn91'>Đài quan sát thiên văn học ở Greenwich , Anh , được chọn làm điểm khởi đầu cho các múi giờ .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Twelve zones are west of Greenwich.</s>
+<s id='vn92'>Mười hai múi giờ là ở phía tây của Greenwich .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Twelve are east .</s>
+<s id='vn93'>Còn 12 múi khác nằm ở phía Đông .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>The time at Greenwich - as measured by the sun - is called Universal Time .</s>
+<s id='vn94'>Thời gian ở Greenwich - như đo bằng mặt trời - được gọi là Universal Time .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>For many years it was called Greenwich Mean Time .</s>
+<s id='vn95'>Trong nhiều năm nó được gọi Greenwich Mean Time .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Some scientists say time is governed by the movement of matter in our universe .</s>
+<s id='vn96'>Một số nhà khoa học cho là thời gian chịu sự chi phối của sự chuyển động của vật chất trong vũ trụ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>They say time flows forward because the universe is expanding .</s>
+<s id='vn97'>Họ nói thời gian di chuyển về phía trước bởi vì vũ trụ đang rộng ra .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Some say it will stop expanding some day and will begin to move in the opposite direction , to grow smaller .</s>
+<s id='vn98'>Một số khác thì nói nó sẽ ngưng bành trướng vào một ngày nào đó và sẽ bắt đầu di chuyển theo chiều ngược lại , để co nhỏ lại hơn .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Some believe time will also begin to flow in the opposite direction - from the future to the past .</s>
+<s id='vn99'>Một số nữa thì tin rằng thời gian cũng sẽ bắt đầu di chuyển theo chiều ngược lại - từ tương lai trở về quá khứ .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Can time move backward ?</s>
+<s id='vn100'>Liệu thời gian di chuyển theo hướng ngược lại không ?</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Most people have no trouble agreeing that time moves forward .</s>
+<s id='vn101'>Hầu hết mọi người không ngần ngại đồng ý rằng thời gian luôn tiến về phía trước .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>We see people born and then grow old .</s>
+<s id='vn102'>Chúng ta thấy mọi người sinh ra rồi già đi .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>We remember the past , but we do not know the future .</s>
+<s id='vn103'>Chúng ta nhớ về quá khứ , nhưng chúng tôi không biết được tương lai .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>We know a film is moving forward if it shows a glass falling off a table and breaking into many pieces .</s>
+<s id='vn104'>Chúng ta biết một cuốn phim đang chiếu theo trình tự về phía trước nếu nó chiếu một cái ly rơi khỏi cái bàn và vỡ ra thành nhiều mảnh .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>If the film were moving backward , these pieces would re-join to form a glass and jump back up onto the table .</s>
+<s id='vn105'>Nếu cuốn phim chiếu thụt lùi , thì các mạnh vỡ này sẽ ráp trở lại và nhảy lùi lại lên trên bàn .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>No one has ever seen this happen .</s>
+<s id='vn106'>Chưa ai từng thấy cảnh này xảy ra bao giờ .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Except in a film .</s>
+<s id='vn107'>Ngoại trừ trong phim .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Some scientists believe there is one reason why time only moves forward .</s>
+<s id='vn108'>Một số nhà khoa học tin có một lý do thời gian chỉ tiến về phía trước .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>It is a well-known scientific law - the second law of thermodynamics .</s>
+<s id='vn109'>Đó là một quy luật khoa học nổi tiếng - quy luật thứ hai của nhiệt động lực học .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>That law says disorder increases with time .</s>
+<s id='vn110'>Quy luật này nói rằng sự rối loạn tăng lên cùng với thời gian .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>In fact , there are more conditions of disorder than of order .</s>
+<s id='vn111'>Thực ra , có nhiều trạng thái rối loạn hơn là trật tự .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>For example , there are many ways a glass can break into pieces .</s>
+<s id='vn112'>Chẳng hạn như , có nhiều cách cái ly có thể vỡ tan thành từng mảnh .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>That is disorder .</s>
+<s id='vn113'>Đó là sự rối loạn .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>But there is only one way the broken pieces can be organized to make a glass .</s>
+<s id='vn114'>Nhưng có chỉ một cách các mảnh vụn mới có thể sắp xếp lại để hình thành nên cái ly .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>That is order .</s>
+<s id='vn115'>Đó là sự trật tự .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>If time moved backward , these broken pieces could come together in a great many ways .</s>
+<s id='vn116'>Nếu thời gian di chuyển lùi , các mảnh vụn này có thể ráp lại với nhau trong rất nhiều cách .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Only one of these many ways , however , would re-form the glass .</s>
+<s id='vn117'>Tuy nhiên , chỉ một trong nhiều cách này , sẽ tái tạo lại thành cái ly .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>It is almost impossible to believe this would happen .</s>
+<s id='vn118'>Gần như không thể nào tin điều này sẽ xảy ra .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Not all scientists believe time is governed by the second law of thermodynamics .</s>
+<s id='vn119'>Không phải tất cả các nhà khoa học tin thời gian chịu sự chi phối bởi quy luật thứ hai của nhiệt động lực học .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>They do not agree that time must always move forward .</s>
+<s id='vn120'>Họ không đồng ý thời gian phải luôn tiến về phía trước .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>The debate will continue about the nature of time .</s>
+<s id='vn121'>Cuộc tranh luận về bản chất của thời gian sẽ tiếp tục .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>And time will remain a mystery .</s>
+<s id='vn122'>Và thời gian sẽ vẫn còn là điều bí ẩn .</s>
+</spair>
+</text>
+</doc>

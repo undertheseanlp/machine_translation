@@ -1,0 +1,120 @@
+﻿<doc id='N0316'>
+<head>
+<title>Breast milk analysis may enable the early detection of breast cancer</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Breast milk analysis may enable the early detection of breast cancer</s>
+<s id='vn1'>Phân tích sữa mẹ có thể cho phép phát hiện sớm ung thư vú</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Eighty percent of women give birth , and now there may be a chance that breast cancer can be detected earlier by examining cells in breast milk , according to a presentation at the American Association for Cancer Research 102nd Annual Meeting in Orlando , Florida this week .</s>
+<s id='vn2'>80% phụ nữ đều sinh con , và hiện đã có cơ hội để phát hiện bệnh ung thư vú sớm hơn bằng cách kiểm tra các tế bào trong sữa mẹ , theo một báo cáo tại cuộc họp thường niên lần thứ 102 của Hiệp hội Nghiên cứu Ung thư Mỹ tại Orlando , Florida hồi tuần này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Analyzing the epithelial cells may in future make it possible to assess an individual mother 's risk , researchers believe .</s>
+<s id='vn3'>Các nhà nghiên cứu tin tưởng là phân tích các tế bào biểu mô có thể giúp đánh giá nguy cơ cho người mẹ trong tương lai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Epithelial cells are joined together by cell junctions ( tight junctions found only in epithelial , but also adhering junctions and gap junctions , which are found also in other tissues ) .</s>
+<s id='vn4'>Các tế bào biểu mô được nối với nhau bằng các liên kết tế bào ( các liên kết chặt chẽ không chỉ thấy trong biểu mô , mà còn ở các cầu nối tiếp giáp và các khớp nối , cũng thấy trong các mô khác ) .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The epithelial cell layer is attached to the underlying connective tissue by a basement membrane , which is secreted in part by the epithelial cells and the underlying connective tissue cells .</s>
+<s id='vn5'>Lớp tế bào biểu mô được gắn vào mô liên kết nằm bên dưới bởi màng nền , sẽ bài tiết ra phần nào do tế bào biểu mô và tế bào mô liên kết bên dưới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Kathleen Arcaro of UMass Amherst says that because about 80% of women give birth , non-invasively testing their breast milk for early indicators of elevated breast cancer risk would provide screening for a majority of women earlier than currently available and at a time ( during pregnancy and lactation ) when it is difficult to diagnose breast cancer .</s>
+<s id='vn6'>Kathleen Arcaro của UMass Amherst nói rằng vì khoảng 80% phụ nữ sinh con , xét nghiệm sữa mẹ của họ bằng phương pháp chẩn đoán không rạch da hoặc tiêm chích cho các dấu hiệu dự báo sớm của nguy cơ mắc bệnh ung thư vú cao sẽ cung cấp sự kiểm tra cho đa số phụ nữ sớm hơn hiện tại sẵn có và vào thời điểm ( khi đang có thai và tiết sữa ) khó có thể chẩn đoán ung thư vú .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Other methods of obtaining breast cells to assess cancer risk in women of all ages exist , but techniques such as ductal lavage and nipple aspiration are invasive and yield very few cells , only tens or hundreds rather than the millions available from collecting breast milk .</s>
+<s id='vn7'>Có các phương pháp khác để lấy tế bào vú đánh giá nguy cơ ung thư trong phụ nữ ở mọi lứa tuổi , nhưng các kỹ thuật như là rửa ống dẫn sữa và hút đầu vú lại làm tổn thương cơ thể và lấy được rất ít tế bào , chỉ khoảng chục hoặc trăm tế bào chớ không phải là hàng triệu như lấy từ sữa mẹ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Early detection of methylation in breast tissue is a key in preventing cancer , Arcaro notes , and is the focus of a great deal of study .</s>
+<s id='vn8'>Phát hiện sớm sự methyl hóa ở các mô vú là mấu chốt trong việc ngăn ngừa ung thư , Arcaro lưu ý , và là trọng tâm của rất nhiều nghiên cứu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Epigenetic changes are not related to DNA mutations , and are often thought to be related to environmental exposures .</s>
+<s id='vn9'>Những thay đổi biểu sinh không liên quan đến đột biến ADN , và thường được cho là do phơi nhiễm môi trường .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>They are passed on to dividing cells .</s>
+<s id='vn10'>Chúng được truyền lại bởi các tế bào phân chia .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>However , methylation is reversible , so early detection increases treatment options .</s>
+<s id='vn11'>Tuy nhiên , sự methyl hóa có thể điều trị , vì vậy sự phát hiện sớm sẽ giúp tăng cơ may chữa trị .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>DNA methylation is essential for normal development and is associated with a number of key processes including genomic imprinting , X-chromosome inactivation , suppression of repetitive elements , and carcinogenesis .</s>
+<s id='vn12'>Sự methyl hóa ADN rất cần thiết cho sự phát triển bình thường và được kết hợp với một số quá trình then chốt như sự ghi dấu bộ gien , bất hoạt nhiễm sắc thể X , ngăn chặn các thành phần lặp lại , và gây ung thư .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Arcaro comments :</s>
+<s id='vn13'>Arcaro nhận xét :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" This in itself is not enough ; we need to look at a larger panel of genes .</s>
+<s id='vn14'>" Chỉ riêng điều này là không đủ , chúng ta cần phải nhìn vào một hệ thống gien lớn hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But to find these methylation differences between biopsied and non-biopsied breasts when we only looked at three genes is very interesting and encouraging .</s>
+<s id='vn15'>Nhưng để tìm thấy những khác biệt trong sự methyl hóa giữa sinh thiết và không sinh thiết vú khi chúng ta chỉ xem xét 3 gien là rất thú vị và thách thức .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>We 're seeing differences not related to lactation or pregnancy .</s>
+<s id='vn16'>Chúng tôi thấy rằng sự khác biệt không liên quan đến việc tiết sữa hoặc mang thai .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It clearly suggests that looking at a larger panel of genes would allow us to assess risk much more accurately , which leads to earlier detection of changes .</s>
+<s id='vn17'>Điều này rõ ràng cho thấy xem xét một hệ thống gien lớn hơn sẽ cho phép chúng ta đánh giá chính xác rủi ro nhiều hơn , dẫn đến việc phát hiện sớm các thay đổi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A woman might be able to have her breast milk tested when she has a baby at age 25 or 30 and put her mind at ease , or give her an early warning . "</s>
+<s id='vn18'>Phụ nữ có thể kiểm tra sữa của mình khi có em bé lúc 25 hoặc 30 tuổi để an tâm , hoặc đưa ra cảnh báo sớm . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Examining breast milk could show signs of elevated breast cancer risk in women at an earlier age than ever before , in a population currently not receiving mammograms or other screening .</s>
+<s id='vn19'>Kiểm tra sữa mẹ có thể cho thấy các dấu hiệu của nguy cơ ung thư vú cao ở phụ nữ ở độ tuổi trẻ hơn bao giờ hết , trong một cộng đồng hiện không được chụp X-quang tuyến vú hoặc các xét nghiệm khác .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>More studies are needed to expand the number of genes , and longterm studies are now underway with about 80 % of the original participants enrolled in longterm follow-up .</s>
+<s id='vn20'>Cần thêm nhiều nghiên cứu để mở rộng số lượng gien , và các nghiên cứu dài hạn hiện đang thực hiện với khoảng 80% người tham dự ban đầu đăng ký trong bước thực hiện lâu dài tiếp theo .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Arcaro continues regarding the next phase of research :</s>
+<s id='vn21'>Arcaro nói tiếp về các giai đoạn kế đến của nghiên cứu :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" We 'll take a little sample of colostrums , and with a totally noninvasive and accurate assay , be able to tell her how her breasts are doing . "</s>
+<s id='vn22'>" Chúng tôi sẽ lấy một ít mẫu sữa non , bằng phương pháp hoàn toàn chuẩn xác và không đòi hỏi phải rạch da hoặc tiêm chích , và có thể kiểm tra để biết được tình trạng sức khỏe của vú " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>A mammogram , or X-ray of the breast , is still one of the best tools available for the early detection of breast cancer .</s>
+<s id='vn23'>Chụp X-quang tuyến vú , hoặc X-quang ngực , vẫn là một trong những công cụ tốt nhất để phát hiện sớm ung thư vú .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It cannot cause cancer to spread , nor can the pressure put on the breast from the mammogram .</s>
+<s id='vn24'>Nó không thể làm ung thư di căn , áp suất cũng không chèn ép lên ngực bởi chụp X-quang vú .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Source : University of Massachusetts Amherst</s>
+<s id='vn25'>Nguồn : Đại học Massachusetts Amherst</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Written by Sy Kraft , B.A .</s>
+<s id='vn26'>Tác giả : Cử nhân Sy Kraft .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Copyright : Medical News Today</s>
+<s id='vn27'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

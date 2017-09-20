@@ -1,0 +1,84 @@
+﻿<doc id='N0348'>
+<head>
+<title>SGI intros Nehalem-based Altix UV supercomputers</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>SGI intros Nehalem-based Altix UV supercomputers</s>
+<s id='vn1'>SGI giới thiệu siêu máy tính Altix UV nền tảng Nehalem .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>SGI has introduced the Altix UV , a new series of supercomputers geared for large databases or analysis operations .</s>
+<s id='vn2'>SGI giới thiệu một loạt các siêu máy tính mới Altix UV hướng tới phục vụ cho các cơ sở dữ liệu lớn hay các hoạt động phân tích .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>These computers are based on Intel 's Nehalem platform , with support for configurations utilizing quad , six , or eight-core Xeon CPUs .</s>
+<s id='vn3'>Các máy tính này dựa trên nền tảng Nehalem của Intel , có hỗ trợ cho các cấu hình sử dụng bốn , sáu , hoặc tám lõi CPU Xeon .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Devices can be scaled to integrate up to 2,048 cores , with architectural provisioning for up to 262,144 cores .</s>
+<s id='vn4'>Thiết bị có thể mở rộng để tích hợp lên đến 2,048 lõi , có cung cấp kiến trúc lên tới 262.144 lõi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The UV 1000 systems ship with up to 256 sockets and 16TB of shared memory in four racks , reaching up to 18.6 teraflops of performance .</s>
+<s id='vn5'>Hệ thống UV 1000 bày bán lên đến 256 khe cắm và 16TB bộ nhớ chia sẻ trong bốn rack , hiệu suất đạt đến 18,6 teraflop .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The mid-range UV100 integrates up to 96 sockets and 6TB of shared memory for up to 7.0 teraflops performance , while these device fits into a standard 19-inch rackmount 3U .</s>
+<s id='vn6'>UV100 tầm trung tích hợp lên tới 96 khe cắm và 6TB bộ nhớ chia sẻ giúp cho hiệu suất đạt tới 7,0 teraflop , trong khi các thiết bị này vừa vặn với tiêu chuẩn 19-inch khung gá 3U .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Users can run unmodified Red Hat Linux or Novell 's openSUSE operating systems .</s>
+<s id='vn7'>Người dùng có thể chạy các hệ điều hành openSUSE của Novell hoặc Red Hat Linux chưa chỉnh sửa .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The basic hardware also integrates standard PCI Express expansion slots that can be used to add additional storage , networking , or graphics components .</s>
+<s id='vn8'>Phần cứng cơ bản cũng được tích hợp chuẩn khe cắm mở rộng PCI Express mà có thể được sử dụng để gắn thêm các thiết bị lưu trữ , kết nối mạng , hoặc các thành phần đồ họa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The Altix UV supercomputers are now available , with pricing provided directly from sales representatives .</s>
+<s id='vn9'>Các siêu máy tính Altix UV hiện đang được bày bán với mức giá được cung cấp trực tiếp từ các đại diện bán hàng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>NEC intros pocket WiMAX router with Wi-Fi</s>
+<s id='vn10'>NEC giới thiệu bộ định tuyến WiMAX bỏ túi có khả năng phát wi-fi</s>
+</spair>
+<spair id='11'>
+<s id='en11'>NEC Japan has introduced the world 's smallest WiMAX router with Wi-Fi capability on Tuesday .</s>
+<s id='vn11'>Vào hôm thứ ba , hãng NEC của Nhật đã giới thiệu bộ định tuyến WiMAX nhỏ nhất thế giới có khả năng phát Wi-Fi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The Aterm WM3300R is battery-powered but can still reach 40Mbps downstream and 10Mbps upstream when on a suitably fast 4G network .</s>
+<s id='vn12'>Bộ định tuyến Aterm WM3300R hoạt động bằng pin nhưng vẫn có thể đạt ( downstream ) tối đa là 40Mbps và ( upstream ) là 10Mbps khi trên một mạng 4G có tốc độ nhanh phù hợp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This pocketable device is meant to share access through Wi-Fi but can also be plugged into a PC using a USB adapter for mobile Internet access on a specific system .</s>
+<s id='vn13'>Thiết bị bỏ túi này dành cho việc chia sẻ truy cập thông qua mạng Wifi nhưng cũng có thể được gắn vào một PC bằng cách sử dụng cổng USB để truy cập Internet di động trên một hệ thống cụ thể .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>On the short-range network , traffic is locked down with up to 128-bit encryption and allows for both WEP and WPA .</s>
+<s id='vn14'>Trên mạng tầm ngắn , lưu lượng mạng được khoá chặt ở mức mã hoá 128-bit và cho phép cả mã hóa ở dạng WEP lẫn WPA .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>A multi-SSID feature lets users differentiate two connected Wi-Fi devices and run separate networks .</s>
+<s id='vn15'>Tính năng multi-SSID cho phép người dùng phân biệt giữa hai thiết bị Wi-fi được kết nối và hoạt động trên các mạng riêng biệt .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The rechargeable lithium-ion battery pack is said to provide as much as 2.5 hours of operation .</s>
+<s id='vn16'>Bộ pin sạc Li-on được cho là cung cấp tối đa 2.5 giờ hoạt động .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The Aterm WM3300R supports Windows 7 , Vista and XP SP2 or later .</s>
+<s id='vn17'>Bộ định tuyến Aterm WM3300R hỗ trợ Windows 7 , Vista và XP SP2 hay các hệ điều hành mới hơn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This device is expected to cost the equivalent of about $ 270 in Japan when it is released in mid April</s>
+<s id='vn18'>Thiết bị này dự kiến có giá tương đương khoảng 270 $ ở Nhật khi nó được tung ra vào hồi giữa tháng Tư .</s>
+</spair>
+</text>
+</doc>

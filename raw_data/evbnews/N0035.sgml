@@ -1,0 +1,716 @@
+﻿<doc id='N0035'>
+<head>
+<title>Can't Sleep ? Insomnia Causes , Cures , and Treatments</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Can't Sleep ?</s>
+<s id='vn1'>Không ngủ được ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Insomnia Causes , Cures , and Treatments</s>
+<s id='vn2'>Các nguyên nhân , thuốc , và biện pháp trị mất ngủ</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Do you struggle for hours to get to sleep , no matter how tired you are ?</s>
+<s id='vn3'>Có phải bạn thao thức hàng giờ mới có thể dỗ được giấc ngủ không , cho dù là bạn đang mệt mỏi thế nào đi nữa ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Or do you wake up in the middle of the night and lie awake for hours , anxiously watching the clock ?</s>
+<s id='vn4'>Hay là bạn thức giấc lúc nữa đêm và lại nằm thao thức hàng tiếng đồng hồ , bồn chồn nhìn thời gian trôi ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>If so , you 're in good company .</s>
+<s id='vn5'>Nếu vậy thì bạn được chia sẻ rồi đấy .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Insomnia is a very common sleep problem .</s>
+<s id='vn6'>Mất ngủ là một vấn đề rất phổ biến về giấc ngủ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's frustrating to toss and turn during the night , only to wake up bleary-eyed at the sound of the alarm and drag through the day exhausted .</s>
+<s id='vn7'>Thật bực bội khi phải trăn trở cả đêm , rồi cũng chỉ là thức dậy với đôi mắt lờ đờ nghe âm thanh gõ nhịp của chuông đồng hồ báo thức và lê một ngày dài mệt mỏi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Insomnia takes a toll on your energy , mood , and ability to function during the day .</s>
+<s id='vn8'>Mất ngủ ảnh hưởng xấu đến năng lượng , tâm trạng , và khả năng hoạt động vào ban ngày của bạn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Chronic insomnia can even contribute to health problems such as heart disease , high blood pressure , and diabetes .</s>
+<s id='vn9'>Bệnh mất ngủ mãn tính thậm chí có thể góp phần tạo nên các vấn đề về sức khoẻ là bệnh tim , cao huyết áp , và tiểu đường .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But you don't have to put up with insomnia .</s>
+<s id='vn10'>Nhưng bạn chẳng cần phải chịu đựng chứng bệnh này đâu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Simple changes to your lifestyle and daily habits can put a stop to sleepless nights .</s>
+<s id='vn11'>Những thay đổi đơn giản trong lối sống của bạn và trong thói quen hàng ngày có thể làm cho bạn hết mất ngủ vào ban đêm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Understanding insomnia and its symptoms</s>
+<s id='vn12'>Hiểu về chứng mất ngủ và các triệu chứng của nó</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Insomnia is the inability to get the amount of sleep you need to wake up feeling rested and refreshed .</s>
+<s id='vn13'>Chứng mất ngủ là sự mất khả năng để có được số lượng giấc ngủ mà bạn cần có để khi thức dậy có được cảm giác được nghỉ ngơi và được khoan khoái lại .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Because different people need different amounts of sleep , insomnia is defined by the quality of your sleep and how you feel after sleeping - not the number of hours you sleep or how quickly you doze off .</s>
+<s id='vn14'>Bởi vì những người khác nhau cần số lượng khác nhau về giấc ngủ , mất ngủ được định nghĩa bởi chất lượng giấc ngủ của bạn và bạn cảm thấy như thế nào sau khi ngủ - không phải số giờ bạn ngủ hoặc bạn ngủ lơ mơ nhanh chóng ra sao .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Even if you 're spending eight hours a night in bed , if you feel drowsy and fatigued during the day , you may be experiencing insomnia .</s>
+<s id='vn15'>Ngay cả khi bạn ngủ 8 tiếng trên giường , nếu bạn cảm thấy buồn ngủ và uể oải ban ngày thì bạn có thể đang bị mất ngủ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Although insomnia is the most common sleep complaint , it is not a single sleep disorder .</s>
+<s id='vn16'>Mặc dù mất ngủ là bệnh về giấc ngủ thường thấy nhất , nhưng nó không phải là một rối loạn giấc ngủ đơn thuần .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It 's more accurate to think of insomnia as a symptom of another problem .</s>
+<s id='vn17'>Chính xác hơn thì hãy liên tưởng bệnh mất ngủ như là một triệu chứng của một vấn đề sức khỏe khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The problem causing the insomnia differs from person to person .</s>
+<s id='vn18'>Nguyên nhân gây mất ngủ không phải ai cũng giống ai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It could be something as simple as drinking too much caffeine during the day or a more complex issue like an underlying medical condition or feeling overloaded with responsibilities .</s>
+<s id='vn19'>Nó có thể chỉ đơn giản như uống quá nhiều chất kích thích cà-phê-in vào ban ngày hoặc một vấn đề phức tạp hơn như một chứng bệnh tiềm ẩn khác hoặc đang cảm thấy trách nhiệm quá nặng nề .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The good news is that most cases of insomnia can be cured with changes you can make on your own - without relying on sleep specialists or turning to prescription or over-the-counter sleeping pills .</s>
+<s id='vn20'>Tin vui là hầu hết các trường hợp mất ngủ đều có thể được chữa khỏi bằng các thay đổi mà bạn có thể tự thực hiện được - không cần phải dựa vào các bác sĩ chuyên khoa về giấc ngủ hoặc chuyển sang dùng thuốc ngủ theo toa hoặc thuốc ngủ mua tự do không theo toa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Symptoms of insomnia :</s>
+<s id='vn21'>Các triệu chứng của bệnh mất ngủ :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>* Difficulty falling asleep despite being tired</s>
+<s id='vn22'>* Khó ngủ mặc dù là đang mệt mỏi</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Waking up frequently during the night</s>
+<s id='vn23'>* Thường xuyên thức giấc suốt đêm</s>
+</spair>
+<spair id='24'>
+<s id='en24'>* Trouble getting back to sleep when awakened</s>
+<s id='vn24'>* Khó ngủ lại khi đã thức giấc</s>
+</spair>
+<spair id='25'>
+<s id='en25'>* Unrefreshing sleep</s>
+<s id='vn25'>* Giấc ngủ không khoan khoái , thoải mái</s>
+</spair>
+<spair id='26'>
+<s id='en26'>* Relying on sleeping pills or alcohol to fall asleep</s>
+<s id='vn26'>* Lệ thuộc vào thuốc ngủ hoặc rượu bia mới ngủ được</s>
+</spair>
+<spair id='27'>
+<s id='en27'>* Waking up too early in the morning</s>
+<s id='vn27'>* Thức dậy quá sớm vào buổi sáng</s>
+</spair>
+<spair id='28'>
+<s id='en28'>* Daytime drow siness , fatigue , or irritability</s>
+<s id='vn28'>* Buồn ngủ vào ban ngày , mệt mỏi , hoặc dễ cáu gắt</s>
+</spair>
+<spair id='29'>
+<s id='en29'>* Difficulty concentrating during the day</s>
+<s id='vn29'>* Khó tập trung vào ban ngày</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Causes of insomnia : Figuring out why you can't sleep</s>
+<s id='vn30'>Các nguyên nhân gây mất ngủ : Phỏng đoán nguyên nhân làm bạn mất ngủ</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In order to properly treat and cure your insomnia , you need to become a sleep detective .</s>
+<s id='vn31'>Để chữa và điều trị chuẩn xác bệnh mất ngủ , bạn nên hiểu biết , khám phá về giấc ngủ của mình .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Emotional issues such as stress , anxiety , and depression cause half of all insomnia cases .</s>
+<s id='vn32'>Các vấn đề về xúc cảm như căng thẳng , lo âu , và trầm cảm là nguyên nhân gây phân nửa trong tổng số các trường hợp mất ngủ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>But your daytime habits , sleep routine , and physical health may also play a role .</s>
+<s id='vn33'>Nhưng những thói quen ban ngày của bạn , giờ giấc ngủ nghỉ thường ngày , và sức khỏe thể chất cũng có thể đóng một vai trò quan trọng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Try to identify all possible causes of your insomnia .</s>
+<s id='vn34'>Hãy cố gắng xác định tất cả các nguyên nhân gây mất ngủ có thể xảy ra .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Once you figure out the root cause , you can tailor treatment accordingly .</s>
+<s id='vn35'>Một khi đã tìm được nguyên nhân cơ bản thì bạn có thể điều chỉnh phương pháp điều trị cho phù hợp .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>* Are you under a lot of stress ?</s>
+<s id='vn36'>* Bạn có đang căng thẳng quá không ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>* Are you depressed ?</s>
+<s id='vn37'>* Bạn có đang bị trầm cảm không ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Do you feel emotionally flat or hopeless ?</s>
+<s id='vn38'>Có cảm thấy trống rỗng hay thất vọng không ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>* Do you struggle with chronic feelings of anxiety or worry ?</s>
+<s id='vn39'>* Bạn có vật vã với những cảm giác lo âu hoặc hồi hộp không dứt không ?</s>
+</spair>
+<spair id='40'>
+<s id='en40'>* Have you recently gone through a traumatic experience ?</s>
+<s id='vn40'>* Gần đây bạn có trải qua một biến động thương đau không ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>* Are you taking any medications that might be affecting your sleep ?</s>
+<s id='vn41'>* Bạn có đang sử dụng bất cứ loại thuốc nào có thể ảnh hưởng đến giấc ngủ không ?</s>
+</spair>
+<spair id='42'>
+<s id='en42'>* Do you have any health problems that may be interfering with sleep ?</s>
+<s id='vn42'>* Bạn có vấn đề sức khỏe nào đó có thể làm ảnh hưởng giấc ngủ không ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>* Is your sleep environment quiet and comfortable ?</s>
+<s id='vn43'>* Môi trường ngủ của bạn có yên tĩnh và thoải mái không ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* Do you try to go to bed and get up around the same time every day ?</s>
+<s id='vn44'>* Bạn có cố đi ngủ và thức dậy đúng giờ mỗi ngày không ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Common mental and physical causes of insomnia :</s>
+<s id='vn45'>Các nguyên nhân về thể chất lẫn tinh thần gây mất ngủ thường thấy :</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Sometimes , insomnia only lasts a few days and goes away on its own , especially when the insomnia is tied to an obvious temporary cause , such as stress over an upcoming presentation , a painful breakup , or jet lag .</s>
+<s id='vn46'>Đôi khi chứng mất ngủ chỉ kéo dài trong một vài ngày và có thể tự hết , nhất là khi gắn liền với một nguyên nhân tạm thời rõ ràng nào đó , chẳng hạn như căng thẳng vì một buổi thuyết trình sắp tới , chuyện tình cảm đổ vỡ gây tổn thương , đau khổ , hoặc tình trạng mệt mỏi sau một chuyến bay dài .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Insomnia is also stubbornly persistent .</s>
+<s id='vn47'>Mặt khác , chứng mất ngủ cũng dai dẳng , kéo dài .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Chronic insomnia is usually tied to an underlying mental or physical issue .</s>
+<s id='vn48'>Chứng mất ngủ mãn tính thường liên quan đến một vấn đề tiềm ẩn nào đó về thể chất lẫn tinh thần .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>* Psychological problems that can cause insomnia : depression , anxiety , chronic stress , bipolar disorder , post-traumatic stress disorder .</s>
+<s id='vn49'>* Các vấn đề tâm lý có thể gây mất ngủ : trầm cảm , lo âu , thường xuyên căng thẳng , rối loạn lưỡng cực , trầm cảm sau chấn thương .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>* Medications that can cause insomnia : antidepressants ; cold and flu medications that contain alcohol ; pain relievers that contain caffeine ( Midol , Excedrin ) ; diuretics , corticosteroids , thyroid hormone , high blood pressure medications .</s>
+<s id='vn50'>* Nhiều loại thuốc cũng có thể gây mất ngủ : thuốc chống trầm cảm ; thuốc cảm cúm chứa rượu cồn ; thuốc giảm đau chứa cà-phê-in ( Midol , Excedrin ) ; thuốc lợi tiểu , corticosteroids , hooc-môn tuyến giáp , và thuốc trị cao huyết áp .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>* Medical problems that can cause insomnia : asthma , allergies , Parkinson 's disease , hyperthyroidism , acid reflux , kidney disease , cancer , or chronic pain .</s>
+<s id='vn51'>* Nhiều chứng bệnh cũng có thể gây mất ngủ : hen suyễn , dị ứng , bệnh liệt rung , cường giáp , trào ngược a-xít , bệnh thận , ung thư , hoặc đau nhức kinh niên .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>* Sleep disorders that can cause insomnia : sleep apnea , narcolepsy , restless legs syndrome .</s>
+<s id='vn52'>* Rối loạn giấc ngủ cũng có thể gây ra mất ngủ : ngừng thở khi ngủ , ngủ rũ , hội chứng đau chân // tê chân khi bất động .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Anxiety and depression : Two of the most common causes of chronic insomnia</s>
+<s id='vn53'>Lo âu và trầm cảm : Hai nguyên nhân gây mất ngủ mãn tính thường thấy nhất</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Most people suffering from an anxiety disorder or depression have trouble sleeping .</s>
+<s id='vn54'>Hầu hết những người bị rối loạn lo âu hoặc trầm cảm đều cảm thấy khó ngủ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>What 's more , the sleep deprivation can make the symptoms of anxiety or depression worse .</s>
+<s id='vn55'>Hơn nữa , tình trạng thiếu ngủ có thể làm cho các triệu chứng lo âu hoặc trầm cảm càng tệ hại hơn .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If your insomnia is caused by anxiety or depression , treating the underlying psychological issue is the key to the cure .</s>
+<s id='vn56'>Nếu bạn bị mất ngủ do lo âu hoặc trầm cảm thì việc xử lý vấn đề tiềm ẩn về tâm lý là mấu chốt trị liệu .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Insomnia cures and treatments : Changing habits that disrupt sleep</s>
+<s id='vn57'>Các biện pháp chữa mất ngủ : Thay đổi những thói quen làm gián đoạn giấc ngủ</s>
+</spair>
+<spair id='58'>
+<s id='en58'>While treating underlying physical and mental issues is a good first step , it may not be enough to cure your insomnia .</s>
+<s id='vn58'>Cho dù xử lý các vấn đề tiềm ẩn về thể chất lẫn tinh thần là biện pháp có hiệu quả đầu tiên , nhưng đây có thể chưa đủ để có thể chữa lành bệnh mất ngủ .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>You also need to look at your daily habits .</s>
+<s id='vn59'>Bạn cũng cần nên xem lại các thói quen thường nhật của mình .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Some of the things you 're doing to cope with insomnia may actually be making the problem worse .</s>
+<s id='vn60'>Một số cách bạn đang áp dụng để đối phó với bệnh mất ngủ thực sự có thể làm cho vấn đề càng thêm nghiêm trọng hơn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>For example , maybe you 're using sleeping pills or alcohol to fall asleep , which disrupts sleep even more over the long-term .</s>
+<s id='vn61'>Ví dụ như , có thể bạn đang sử dụng thuốc ngủ hoặc bia rượu mới ngủ được , những thứ này làm gián đoạn giấc ngủ thậm chí nhiều hơn về lâu dài .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Or maybe you drink excessive amounts of coffee during the day , making it harder to fall asleep later .</s>
+<s id='vn62'>Hoặc có thể bạn uống quá nhiều cà phê vào ban ngày , làm khó ngủ hơn sau đó .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Oftentimes , changing the habits that are reinforcing sleeplessness is enough to overcome the insomnia altogether .</s>
+<s id='vn63'>Thông thường , việc thay đổi những thói quen làm giảm mất ngủ cũng đủ để khắc phục chứng mất ngủ theo luôn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It may take a few days for your body to get used to the change , but once you do , you will sleep better .</s>
+<s id='vn64'>Có thể phải mất vài ngày cơ thể của bạn mới quen với sự thay đổi đó , nhưng khi bạn đã thực hiện được thì bạn sẽ ngủ ngon hơn .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Using a sleep diary to identify insomnia-inducing habits</s>
+<s id='vn65'>Sử dụng quyển sổ tay ghi chép về giấc ngủ để xác định những thói quen làm mất ngủ</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Habits that make insomnia worse :</s>
+<s id='vn66'>Các thói quen làm cho tình trạng mất ngủ càng trầm trọng thêm :</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* drinking a lot of caffeine</s>
+<s id='vn67'>* uống nhiều chất cà-phê-in</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* drinking or smoking before bed</s>
+<s id='vn68'>* uống rượu bia hoặc hút thuốc trước khi đi ngủ</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* taking naps during the day</s>
+<s id='vn69'>* ngủ quá nhiều giấc vào ban ngày</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* an irregular sleep schedule</s>
+<s id='vn70'>* ngủ không đúng giờ</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Some habits are so ingrained that you may overlook them as a possible contributor to your insomnia .</s>
+<s id='vn71'>Một số thói quen quá ăn sâu vào người đến nỗi bạn có thể bỏ qua , không tính như là một yếu tố có thể góp phần làm cho bạn mất ngủ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Maybe your daily Starbucks habit affects your sleep more than you realize .</s>
+<s id='vn72'>Có thể những thói quen hằng ngày lâu năm ảnh hưởng đến giấc ngủ của bạn nhiều hơn mức độ bạn có thể nhận ra .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Or maybe you 've never made the connection between your late-night TV viewing or Internet surfing and your sleep difficulties .</s>
+<s id='vn73'>Hoặc là có thể bạn chẳng bao giờ nghĩ việc xem ti vi muộn hoặc lướt web và tình trạng khó ngủ có mối tương quan .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Keeping a sleep diary is a helpful way to pinpoint habits and behaviors contributing to your insomnia .</s>
+<s id='vn74'>Hãy sử dụng một quyển nhật ký giấc ngủ là biện pháp hỗ trợ tốt để điểm ra những thói quen và hành vi góp phần gây mất ngủ .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>All you have to do is jot down daily details about your daytime habits , sleep routine , and insomnia symptoms .</s>
+<s id='vn75'>Mỗi ngày bạn chỉ cần ghi nhanh các chi tiết về các thói quen ban ngày , giờ giấc ngủ nghỉ , và các triệu chứng mất ngủ .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>For example , you can keep track of when you go to sleep and when you wake up , where you fall asleep , what you eat and drink , and any stressful events that occur during the day .</s>
+<s id='vn76'>Chẳng hạn như , bạn có thể theo dõi khi nào đi ngủ và khi nào thức dậy , ngủ ở đâu , ăn và uống gì , và bất kỳ sự việc nào gây căng thẳng trong ngày của mình .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Adopting new habits to help you sleep</s>
+<s id='vn77'>Chấp nhận các thói quen mới giúp bạn ngủ ngon hơn</s>
+</spair>
+<spair id='78'>
+<s id='en78'>* Make sure your bedroom is quiet , dark , and cool .</s>
+<s id='vn78'>* Phải đảm bảo phòng ngủ của bạn được yên tĩnh , tối , và mát mẻ .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Noise , light , and heat can interfere with sleep .</s>
+<s id='vn79'>Tiếng ồn , ánh sáng , hơi nóng có thể làm bạn ngủ không ngon .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Try using a sound machine or earplugs to mask outside noise , an open window or fan to keep the room cool , and blackout curtains or an eye mask to block out light</s>
+<s id='vn80'>Hãy sử dụng máy cản âm thanh hoặc dùng đồ nhét tai để ngăn tiếng ồn bên ngoài , mở cửa sổ hoặc quạt máy để cho căn phòng được mát mẻ , và kéo rèm cửa hoặc che mắt để chắn ánh sáng vào .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>* Stick to a regular sleep schedule .</s>
+<s id='vn81'>* Hãy thực hiện kế hoạch ngủ nghỉ đúng giờ .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Support your biological clock by going to bed and getting up at the same time every day , including weekends .</s>
+<s id='vn82'>Hãy hỗ trợ đồng hồ sinh học của bạn bằng cách đi ngủ và thức dậy đúng giờ mỗi ngày , kể cả những ngày cuối tuần .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Get up at your usual time in the morning even if you 're tired .</s>
+<s id='vn83'>Hãy thức dậy đúng giờ vào buổi sáng cho dù bạn có mệt mỏi đi nữa .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>This will help you get back in a regular sleep rhythm .</s>
+<s id='vn84'>Điều này sẽ giúp bạn trở lại nhịp điệu giấc ngủ bình thường .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>* Avoid naps .</s>
+<s id='vn85'>* Tránh ngủ nhiều giấc ngắn vào ban ngày .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Napping during the day can make it more difficult to sleep at night .</s>
+<s id='vn86'>Việc chợp mắt suốt cả ngày có thể làm cho bạn khó ngủ hơn vào ban đêm .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>If you feel like you have to take a nap , limit it to 30 minutes before 3 p.m.</s>
+<s id='vn87'>Nếu bạn thấy cần phải ngủ trưa thì hãy giới hạn trong 30 phút trước 3 giờ chiều nhé .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>* Avoid stimulating activity and stressful situations before bedtime .</s>
+<s id='vn88'>* Hãy tránh các hoạt động có tính chất kích thích và các tình huống gây căng thẳng trước giờ ngủ .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>This includes vigorous exercise ; big discussions or arguments ; and TV , computer , or video game use .</s>
+<s id='vn89'>Vận động quá mức ; tranh luận hoặc cãi vã gay gắt ; ti vi , máy tính hoặc trò chơi điện tử .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Turn off all electronics at least an hour before bed .</s>
+<s id='vn90'>Hãy tắt hết tất cả các máy điện tử trước giờ đi ngủ ít nhất là 1 tiếng đồng hồ .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>* Limit caffeine , alcohol , and nicotine .</s>
+<s id='vn91'>* Hãy hạn chế cà-phê-in , rượu bia , và ni-cô-tin .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Stop drinking caffeinated beverages at least 8 hours before bed .</s>
+<s id='vn92'>Hãy ngưng các thức uống có chứa cà - phê-in trước khi đi ngủ ít nhất là 8 tiếng đồng hồ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Avoid drinking in the evening .</s>
+<s id='vn93'>Tránh uống rượu bia vào buổi tối .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>While alcohol can make you feel sleepy , it interferes with the quality of your sleep .</s>
+<s id='vn94'>Cho dù là bia rượu có thể làm bạn cảm thấy buồn ngủ , nhưng nó quấy nhiễu chất lượng giấc ngủ của bạn .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Quit smoking or avoid it at night , as nicotine is a stimulant .</s>
+<s id='vn95'>Hãy ngưng hút thuốc và tránh hút thuốc vào buổi tối , bởi ni-cô-tin là chất gây kích thích .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Insomnia cures and treatments : Neutralizing anxiety when you can't sleep</s>
+<s id='vn96'>Chữa mất ngủ : " Quẳng gánh lo đi " khi không ngủ được</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The more trouble you have with sleep , the more it starts to invade your thoughts .</s>
+<s id='vn97'>Bạn càng khó ngủ thì nỗi ám ảnh giấc ngủ càng bắt đầu xâm nhập vào đầu nhiều hơn .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>You may dread going to sleep because you just know that you 're going to toss and turn for hours or be up at 2 a.m. again .</s>
+<s id='vn98'>Bạn có thể sợ đi ngủ bởi biết ngay rằng mình cũng sẽ trằn trọc nhiều giờ liền hoặc lại tỉnh giấc vào lúc 2 giờ sáng .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Or maybe you 're worried because you have a big day tomorrow , and if you don't get a solid 8 hours , you 're sure you 'll blow it .</s>
+<s id='vn99'>Hoặc bạn có thể đang lo lắng bởi ngày mai sẽ là một ngày trọng đại , và nếu không ngủ được tròn 8 tiếng , thì chắc chắn là bạn không làm được tốt .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>But agonizing and expecting sleep difficulties only makes insomnia worse .</s>
+<s id='vn100'>Nhưng việc khổ sở và mong mỏi giấc ngủ khó khăn chỉ làm cho chứng mất ngủ thêm tệ hại hơn .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Worrying about getting to sleep or how tired you 're going to be floods your body with adrenaline , and before you know it , you 're wide-awake .</s>
+<s id='vn101'>Tâm trạng lo lắng để có được giấc ngủ hoặc lo bị mệt làm cho cơ thể tiết ra nhiều hooc - môn a - đrê-na-lin , và trước khi bạn biết được điều này thì bạn hoàn toàn tỉnh táo rồi .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Learning to associate your bed with sleeping , not sleeplessness</s>
+<s id='vn102'>Biết cách kết hợp giường với giấc ngủ , chứ không phải là tình trạng trằn trọc thâu đêm</s>
+</spair>
+<spair id='103'>
+<s id='en103'>If sleep worries are getting in the way of your ability to unwind at night , the following strategies may help .</s>
+<s id='vn103'>Nếu nỗi lo về giấc ngủ làm cho bạn không tài nào nghỉ ngơi , thư giãn được vào ban đêm thì những " chiến lược " dưới đây có thể giúp ích được cho bạn .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The goal is to train your body to associate the bed with sleep and nothing else-especially not frustration and anxiety .</s>
+<s id='vn104'>Mục tiêu là rèn cho cơ thể bạn biết kết hợp giường với giấc ngủ chứ không phải là thứ gì khác – nhất là tình trạng thất vọng và lo âu .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>* Use the bedroom only for sleeping and sex .</s>
+<s id='vn105'>* Chỉ sử dụng giường để ngủ và quan hệ tình dục .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Don't work , read , watch TV , or use your computer in bed or the bedroom .</s>
+<s id='vn106'>Đừng làm việc , đọc sách , xem ti vi , hoặc sử dụng máy tính trên giường hoặc phòng ngủ .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>The goal is to associate the bedroom with sleep alone , so that your brain and body get a strong signal that it 's time to nod off when you get in bed .</s>
+<s id='vn107'>Mục tiêu duy nhất là kết hợp phòng ngủ và việc ngủ mà thôi , sao cho não và cơ thể nhận được tín hiệu mạnh là đã đến giờ ngủ khi lên giường .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>* Get out of bed when you can't sleep .</s>
+<s id='vn108'>* Hãy ra khỏi giường khi không ngủ được .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Don't try to force yourself to sleep .</s>
+<s id='vn109'>Đừng cố ép mình phải ngủ .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Tossing and turning only amps up the anxiety .</s>
+<s id='vn110'>Việc trằn trọc chỉ làm cho tâm trạng bồn chồn lo âu trầm trọng thêm .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Get up , leave the bedroom , and do something relaxing , such as reading , drinking a warm cup of caffeine-free tea , taking a bath , or listening to soothing music .</s>
+<s id='vn111'>Hãy đứng dậy , ra khỏi phòng ngủ , và làm việc gì đó thư giãn , chẳng hạn như đọc sách , uống một tách trà ấm không chứa cà - phê-in , tắm rửa , hoặc nghe nhạc êm dịu .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>When you 're sleepy , go back to bed .</s>
+<s id='vn112'>Khi buồn ngủ , hãy trở lại giường .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>* Move bedroom clocks out of view .</s>
+<s id='vn113'>* Hãy dời đồng hồ ở phòng ngủ ra khuất tầm mắt của bạn .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Anxiously watching the minutes tick by when you can't sleep-knowing that you 're going to be exhausted when the alarm goes off-is a surefire recipe for insomnia .</s>
+<s id='vn114'>Việc nhìn nhịp đồng hồ trôi qua từng phút một cách bồn chồn khi không ngủ được – biết rằng bạn sẽ mệt mỏi , kiệt sức khi chuông báo thức vang lên – chắc chắn là nguyên nhân làm cho bạn mất ngủ .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>You can use an alarm , but make sure you can't see the time when you 're in bed .</s>
+<s id='vn115'>Bạn có thể sử dụng chuông báo thức , nhưng phải đảm bảo là không nhìn thấy đồng hồ khi đã lên giường ngủ .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Insomnia cures and treatments : Harnessing your body 's relaxation response</s>
+<s id='vn116'>Chữa mất ngủ bằng cách tận dụng , khai thác phản ứng thư giãn của cơ thể</s>
+</spair>
+<spair id='117'>
+<s id='en117'>If you feel wound up much of the time and unable to let go of stress at the end of the day , you may benefit from relaxation techniques .</s>
+<s id='vn117'>Nếu bạn cảm thấy căng thẳng phần lớn thời gian và không giải toả stress vào cuối ngày được , thì những kỹ thuật thư giãn có thể đem lại hiệu quả tốt cho bạn .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Not only do relaxation techniques help you quiet your mind and relieve tension in the body , but they also help you fall asleep faster and get back to sleep more quickly if you awaken in the middle of the night .</s>
+<s id='vn118'>Các kỹ thuật thư giãn không chỉ giúp bạn thanh thản đầu óc và giải toả căng thẳng cơ thể , mà còn làm cho bạn dỗ được giấc ngủ nhanh hơn và ngủ lại nhanh hơn trong trường hợp bạn thức giấc giữa đêm .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>And all without the side effects of sleep medication !</s>
+<s id='vn119'>Và các kỹ thuật này không có tác dụng phụ của thuốc ngủ !</s>
+</spair>
+<spair id='120'>
+<s id='en120'>A variety of relaxation techniques help you achieve the relaxation , including :</s>
+<s id='vn120'>Nhiều kỹ thuật thư giãn giúp cơ thể bạn được thư giãn , gồm :</s>
+</spair>
+<spair id='121'>
+<s id='en121'>* deep breathing</s>
+<s id='vn121'>* hít thở sâu</s>
+</spair>
+<spair id='122'>
+<s id='en122'>* progressive muscle relaxation</s>
+<s id='vn122'>* thả lỏng cơ tăng tiến</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* meditation</s>
+<s id='vn123'>* gạt hết mọi thứ ra khỏi đầu mình</s>
+</spair>
+<spair id='124'>
+<s id='en124'>* visualization</s>
+<s id='vn124'>* hình thành tư tưởng tích cực</s>
+</spair>
+<spair id='125'>
+<s id='en125'>* yoga</s>
+<s id='vn125'>* yoga</s>
+</spair>
+<spair id='126'>
+<s id='en126'>* tai chi</s>
+<s id='vn126'>* thái cực quyền</s>
+</spair>
+<spair id='127'>
+<s id='en127'>It takes regular practice to learn these techniques and harness their stress-relieving power .</s>
+<s id='vn127'>Phải luyện tập thường xuyên mới nắm được các kỹ thuật này và khai thác triệt để khả năng giải toả căng thẳng của mình .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>But the benefits can be huge .</s>
+<s id='vn128'>Nhưng những cái lợi đó có thể là to lớn lắm .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>You can do them as part of your bedtime routine , when you are lying down preparing for sleep , and if you wake up in the middle of the night .</s>
+<s id='vn129'>Bạn có thể thực hiện chúng như một công đoạn trong giờ giấc ngủ nghỉ hằng ngày của mình , khi bạn nằm chuẩn bị ngủ , và trong trường hợp bạn thức giấc lúc đêm nữa nhé .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Relaxation techniques that can help you sleep</s>
+<s id='vn130'>Các kỹ thuật thư giãn có thể giúp cho bạn ngủ ngon</s>
+</spair>
+<spair id='131'>
+<s id='en131'>* A relaxing bedtime routine .</s>
+<s id='vn131'>* Thói quen ngủ nghỉ thoải mái .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>As a start to your relaxation practice , develop a calming bedtime routine .</s>
+<s id='vn132'>Như một sự khởi đầu để rèn luyện sự buông xả thoải mái , hãy phát huy thói quen ngủ nghỉ yên ắng .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Focus on quiet , soothing activities , such as reading , knitting , or listening to soft music .</s>
+<s id='vn133'>Hãy tập trung vào sự yên lặng , các hoạt động nhẹ nhàng , chẳng hạn như đọc sách , đan len , hoặc nghe nhạc êm dịu .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Keep the lights low .</s>
+<s id='vn134'>Hãy để đèn ở độ sáng yếu .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The following relaxation and stress management techniques can help you enter a more relaxed state .</s>
+<s id='vn135'>Các kỹ thuật thư giãn và chế ngự stress dưới đây có thể giúp bạn đi vào trạng thái thoải mái hơn .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>* Abdominal breathing .</s>
+<s id='vn136'>* Thở bằng bụng .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Most of us do n't breathe as deeply as we should .</s>
+<s id='vn137'>Hầu hết chúng ta không hít thở sâu như chúng ta nên làm như vậy .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>When we breathe deeply and fully , involving not only the chest , but also the belly , lower back , and ribcage , it can actually help our parasympathetic nervous system , which controls relaxation .</s>
+<s id='vn138'>Khi hít thở sâu và đủ , không chỉ liên quan đến lồng ngực , mà còn bụng , thắt lưng , và sườn , nó thực sự có thể giúp hệ thần kinh phó giao cảm của chúng ta kiểm soát tình trạng thư giãn của mình .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Close your eyes , and try taking deep , slow breaths , making each breath even deeper than the last .</s>
+<s id='vn139'>Hãy nhắm mắt lại , và cố gắng hít sâu vào , hít thở chậm chậm nhẹ nhàng ,</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Breathe in through your nose and out through your mouth .</s>
+<s id='vn140'>Làm cho từng hơi thở thậm chí sâu hơn làn hơi trước đó .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>You can try making each exhale a little longer than each inhale .</s>
+<s id='vn141'>Bạn nên hít vào bằng mũi và thở ra bằng miệng và có thể cố gắng thở ra dài hơn một chút so với hít vào .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Most of us do n't breathe as deeply as we should .</s>
+<s id='vn142'>Hầu hết chúng ta không hít thở sâu như chúng ta nên làm như vậy .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>When we breathe deeply and fully , involving not only the chest , but also the belly , lower back , and ribcage , it can actually help our parasympathetic nervous system , which controls relaxation .</s>
+<s id='vn143'>Khi hít thở sâu và đủ , không chỉ liên quan đến lồng ngực , mà còn bụng , thắt lưng , và sườn , nó thực sự có thể giúp hệ thần kinh phó giao cảm của chúng ta kiểm soát tình trạng thư giãn của mình .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Close your eyes , and try taking deep , slow breaths , making each breath even deeper than the last .</s>
+<s id='vn144'>Hãy nhắm mắt lại , và cố gắng hít sâu vào , hít thở chậm chậm nhẹ nhàng ,</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Breathe in through your nose and out through your mouth .</s>
+<s id='vn145'>Làm cho từng hơi thở thậm chí sâu hơn làn hơi trước đó .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>You can try making each exhale a little longer than each inhale .</s>
+<s id='vn146'>Bạn nên hít vào bằng mũi và thở ra bằng miệng và có thể cố gắng thở ra dài hơn một chút so với hít vào .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Insomnia cures and treatments : Using supplements and medication wisely</s>
+<s id='vn147'>Chữa mất ngủ bằng cách sử dụng chất bổ sung và thuốc một cách khôn ngoan</s>
+</spair>
+<spair id='148'>
+<s id='en148'>When you 're tossing and turning at night , it can be tempting to turn to sleep aids for relief .</s>
+<s id='vn148'>Khi phải đang trằn trọc thao thức ban đêm , bạn có cảm giác rất muốn có biện pháp nào đó để chữa được chứng bệnh mất ngủ của mình .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>But before you do , here 's what you need to know .</s>
+<s id='vn149'>Nhưng trước khi làm một việc gì , bạn cũng nên cần biết những điều dưới đây .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Dietary supplements for insomnia</s>
+<s id='vn150'>Thực phẩm bổ sung chữa mất ngủ</s>
+</spair>
+<spair id='151'>
+<s id='en151'>There are many dietary and herbal supplements marketed for their sleep-promoting effects .</s>
+<s id='vn151'>Có nhiều thực phẩm và thảo dược bổ sung được bày bán trên thị trường có tác dụng giúp ngủ ngon hơn .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Although they may be described as " natural , " be aware that sleep remedies can still have side effects and interfere with other medications or vitamins you 're taking .</s>
+<s id='vn152'>Mặc dù có thể được mô tả là " chất tự nhiên // từ thiên nhiên " , nhưng bạn nên hiểu rằng các bài thuốc trị mất ngủ có thể gây tác dụng phụ và ảnh hưởng đến các loại thuốc hoặc vi - ta-min khác mà bạn đang sử dụng .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>For more information , talk to your doctor or pharmacist .</s>
+<s id='vn153'>Để biết thêm thông tin , bạn nên tham khảo ý kiến của bác sĩ hoặc dược sĩ nhé .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>While scientific evidence is still being gathered for alternative sleep remedies , you might find that some of them work wonderfully for you .</s>
+<s id='vn154'>Trong khi bằng chứng khoa học vẫn còn đang được thu thập về các bài thuốc trị mất ngủ có thể thay thế được thì bạn có thể thấy rằng một số bài thuốc đó cũng có tác dụng rất tốt .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>The two supplements with the most evidence supporting their effectiveness for insomnia are melatonin and valerian .</s>
+<s id='vn155'>Hai chất bổ sung có bằng chứng hỗ trợ hiệu quả nhất để chữa bệnh mất ngủ là mê-la-tô-nin và nữ lang .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>* Melatonin .</s>
+<s id='vn156'>* Mê-la-tô-nin .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Melatonin is a naturally occurring hormone that your body produces at night .</s>
+<s id='vn157'>Mê-la-tô-nin là hooc - môn tự nhiên do cơ thể tiết ra vào ban đêm .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Melatonin helps regulate your sleep-wake cycle .</s>
+<s id='vn158'>Mê-la-tô-nin giúp điều hoà chu kỳ thức - ngủ của cơ thể .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Melatonin is also available as an over-the-counter supplement .</s>
+<s id='vn159'>Mê-la-tô-nin cũng có bán như là chất bổ sung , có thể mua tự do không theo toa .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>While melatonin does n't work for everyone , it may be an effective insomnia treatment for you-especially if you 're an extreme " night owl " with a tendency to go to bed and get up much later than others .</s>
+<s id='vn160'>Mặc dù không phải bất kỳ người nào cũng ngủ ngon hơn khi sử dụng mê - la-tô-nin , nhưng nó có thể là bài thuốc trị mất ngủ hiệu quả đối với bạn – nhất là khi bạn bị mất ngủ trầm trọng " mắt mở thao láo như con cú đêm " có xu hướng đi ngủ và thức dậy muộn hơn những người khác .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>* Valerian .</s>
+<s id='vn161'>* Nữ lang .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Valerian is an herb with mild sedative effects that may help you sleep better .</s>
+<s id='vn162'>Nữ lang là một thảo dược có tác dụng an thần nhẹ // thuốc giảm đau nhẹ có thể giúp bạn ngủ ngon hơn .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>However , the quality of valerian supplements varies widely .</s>
+<s id='vn163'>Tuy nhiên , chất lượng của chất bổ sung nữ lang không giống nhau .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Prescription sleeping pills for insomnia</s>
+<s id='vn164'>Các loại thuốc trị mất ngủ theo toa</s>
+</spair>
+<spair id='165'>
+<s id='en165'>While prescription sleep medications can provide temporary relief , it 's important to understand that sleeping pills are not a cure for insomnia .</s>
+<s id='vn165'>Mặc dù các loại thuốc trị mất ngủ theo toa có thể làm cho bạn ngủ được tạm thời , nhưng quan trọng là bạn phải hiểu được rằng thuốc ngủ không phải là một cách chữa chứng mất ngủ .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>And if not used carefully , they actually make insomnia worse in the long run .</s>
+<s id='vn166'>Và nếu không được sử dụng cẩn thận , thì chúng thực sự làm cho bệnh mất ngủ càng tệ hại hơn về lâu dài .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>It 's best to use medication only as a last resort , and then , only on a very limited , as-needed basis .</s>
+<s id='vn167'>Tốt nhất là chỉ nên sử dụng thuốc như là một phương kế sau cùng , và rồi sau đó , hạn chế khi thật cần thiết , ngay khi thực sự cần thiết .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>First , try changing your sleep habits , your daily routine , and your attitudes about sleep .</s>
+<s id='vn168'>Trước tiên , hãy thử thay đổi thói quen ngủ nghỉ , thói quen công việc thường nhật của bạn , và quan niệm của bạn về giấc ngủ .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Evidence shows that lifestyle and behavioral changes make the largest and most lasting difference when it comes to insomnia .</s>
+<s id='vn169'>Bằng chứng cho thấy những thay đổi lối sống và hành vi đã tạo sự khác biệt lớn nhất và kéo dài nhất khi nói đến bệnh mất ngủ .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>When to consider seeking professional insomnia treatment</s>
+<s id='vn170'>Khi nào cần đến biện pháp chữa mất ngủ chuyên nghiệp</s>
+</spair>
+<spair id='171'>
+<s id='en171'>If you 've tried the insomnia cures and treatments listed above , and are still having trouble getting the sleep you need , a doctor or sleep disorder specialist may be able to help .</s>
+<s id='vn171'>Nếu bạn đã từng thử qua các biện pháp chữa mất ngủ được liệt kê trên và vẫn còn khó ngủ thì bác sĩ hoặc chuyên gia về rối loạn giấc ngủ có thể giúp đỡ được cho bạn .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>When to seek professional help for insomnia :</s>
+<s id='vn172'>Khi nào cần đến sự hỗ trợ của chuyên gia để chữa chứng mất ngủ :</s>
+</spair>
+<spair id='173'>
+<s id='en173'>* If your insomnia does n't respond to self-help strategies</s>
+<s id='vn173'>* Nếu bệnh mất ngủ của bạn không có phản hồi đối với những chiến lược / phương pháp tự cứu chữa của bản thân</s>
+</spair>
+<spair id='174'>
+<s id='en174'>* If your insomnia is causing major problems at home , work , or school</s>
+<s id='vn174'>* Nếu bệnh mất ngủ của bạn đang gây ra nhiều vấn đề nghiêm trọng ở nhà , chỗ làm , hoặc ở trường học</s>
+</spair>
+<spair id='175'>
+<s id='en175'>* If you 're experiencing scary symptoms like chest pain or shortness of breath</s>
+<s id='vn175'>* Nếu bạn bị các triệu chứng đáng sợ như đau ngực hoặc khó thở</s>
+</spair>
+<spair id='176'>
+<s id='en176'>* If your insomnia occurs almost every night and is getting worse</s>
+<s id='vn176'>* Nếu hầu như tối nào bạn cũng bị mất ngủ và tình trạng này càng ngày càng tệ hại hơn</s>
+</spair>
+</text>
+</doc>

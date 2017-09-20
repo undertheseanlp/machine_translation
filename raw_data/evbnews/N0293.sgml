@@ -1,0 +1,88 @@
+﻿<doc id='N0293'>
+<head>
+<title>Blocking a gene stops cancer cells spreading</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Blocking a gene stops cancer cells spreading</s>
+<s id='vn1'>Ức chế gien là ngăn chận tế bào ung thư lây lan</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A gene which encourages cancer to move around the body has been discovered by the University of East Anglia .</s>
+<s id='vn2'>Gien giúp ung thư phát tán quanh cơ thể đã được Đại học East Anglia tìm ra .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Experiments on tissue cultures , published in Oncogene , suggest that blocking it would prevent cancers spreading .</s>
+<s id='vn3'>Các thí nghiệm về nuôi cấy mô , được xuất bản trên Oncogene , cho thấy rằng ức chế nó sẽ ngăn chận được ung thư lây lan .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The researchers hope their work will lead to a new generation of cancer drugs within the decade .</s>
+<s id='vn4'>Các nhà nghiên cứu hy vọng công trình của họ sẽ dẫn tới một thế hệ thuốc mới điều trị ung thư trong vòng một thập kỷ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Cancer Research UK said the study improved understanding of this disease , but was still at the laboratory stage .</s>
+<s id='vn5'>Viện nghiên cứu ung thư Anh quốc nói rằng nghiên cứu đã mở mang kiến thức về căn bệnh này , nhưng nó vẫn còn trong giai đoạn thí nghiệm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are treatments for primary cancers , but tumours have the potential to spread .</s>
+<s id='vn6'>Có nhiều cách điều trị ung thư thời kỳ đầu , nhưng các khối u có khả năng lây lan .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Cells can break off and travel around the body , through the bloodstream or lymph fluid , and start a new or secondary tumour where they land , a process known as metastasis .</s>
+<s id='vn7'>Các tế bào có thể vỡ ra và di chuyển quanh cơ thể , qua dòng máu hoặc dịch bạch huyết , và bắt đầu hình thành khối u mới hoặc khối u thứ phát chỗ mà chúng tới , quá trình này được gọi là sự di căn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Breast cancers are known to spread to lymph nodes , the bones and the lungs .</s>
+<s id='vn8'>Ta biết là ung thư vú lan sang hạch bạch huyết , xương và phổi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>These secondary tumours are difficult to treat .</s>
+<s id='vn9'>Các khối u thứ phát này rất khó trị .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The rogue gene</s>
+<s id='vn10'>Gien sai lệch</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The team at the University of East Anglia has found a gene which helps the cancer spread .</s>
+<s id='vn11'>Nhóm tại Đại học East Anglia đã tìm ra gien giúp ung thư lây lan .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The gene , WWP2 , leads to the breakdown of an inhibitor that normally keeps cells in check .</s>
+<s id='vn12'>Gien , WWP2 , làm tan chất ức chế , bình thường chất này ức chế tế bào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The researchers showed , in tissue cultures , that without the inhibitor , Smad7 , cancer progressed very quickly and spread .</s>
+<s id='vn13'>Các nhà nghiên cứu cho thấy , trong khi nuôi cấy mô mà không có chất ức chế , Smad7 , ung thư phát triển rất nhanh và lây lan .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Blocking the gene prevented that spread .</s>
+<s id='vn14'>Ức chế gien là ngăn chặn lây lan .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Dr Andrew Chantry , who led the study , said : " I think we 're really onto something important if we can put a wall around a cancer and lock it in place . "</s>
+<s id='vn15'>Tiến sĩ Andrew Chantry , người dẫn đầu công trình nghiên cứu nói : " Tôi nghĩ chúng ta thật sự tìm được cái gì đó quan trọng nếu chúng ta có thể bao vây và phong toả ung thư . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" This discovery could lead to the development of a new generation of drugs within the decade that could be used to stop the aggressive spread of most forms of this disease . "</s>
+<s id='vn16'>" Khám phá này có thể dẫn đến việc phát triển một thế hệ thuốc mới trong một thập kỷ có thể dùng để ngăn chận việc lây lan nhanh bệnh này dưới nhiều hình thức . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This team are now recruiting chemists to help them design a drug which could interrupt the gene 's activity .</s>
+<s id='vn17'>Hiện nay nhóm này đang tuyển dụng các nhà hoá học để giúp họ tạo ra một loại kế thuốc có thể ngăn chận hoạt động của gien .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Dr Kat Arney , science information manager at Cancer Research UK , said : " Over recent decades researchers all over the world have discovered genes that drive the growth and spread of cancer , and this research adds one more to this ever-growing list .</s>
+<s id='vn18'>Tiến sĩ Kat Arney , người phụ trách về thông tin khoa học tại Viện nghiên cứu ung thư Anh quốc , đã nói : " Trong những thập kỷ gần đây các nhà nghiên cứu khắp thế giới đã khám phá ra gien làm phát triển và lây lan ung thư , và nghiên cứu này coi như làm cho danh sách này dài ra thêm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" But , while these new results aid our understanding of the complexities of cancer and could point towards potential leads for future anti-cancer drugs , this work is still at the laboratory stage . "</s>
+<s id='vn19'>" Nhưng trong khi các kết quả mới này giúp chúng tôi hiểu về tính phức tạp của ung thư và có thể hướng đến những bước tiến mới về thuốc trị ung thư trong tương lai , công trình này vẫn còn trong giai đoạn thí nghiệm . "</s>
+</spair>
+</text>
+</doc>

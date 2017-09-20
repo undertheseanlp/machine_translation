@@ -1,0 +1,256 @@
+﻿<doc id='N0894'>
+<head>
+<title>Muscular dystrophy</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Muscular dystrophy</s>
+<s id='vn1'>Loạn dưỡng cơ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Muscular dystrophy is a disease in which the muscles of the body get weaker and weaker and slowly stop working .</s>
+<s id='vn2'>Loạn dưỡng cơ là căn bệnh trong đó các cơ trong cơ thể dần dần yếu đi và ngừng hoạt động .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>What Is Muscular dystrophy ?</s>
+<s id='vn3'>Loạn dưỡng cơ là gì ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Muscular dystrophy is a disease in which the muscles of the body get weaker and weaker and slowly stop working .</s>
+<s id='vn4'>Loạn dưỡng cơ là căn bệnh trong đó các cơ trong cơ thể dần dần yếu đi và ngừng hoạt động .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Muscles and membranes need many different kinds of proteins to stay healthy .</s>
+<s id='vn5'>Các cơ và màng cần nhiều nhiều loại prô-tê-in để mạnh khoẻ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When you hear the word " protein " you might think of food because foods , such as meat and peanut butter , contain protein .</s>
+<s id='vn6'>Khi nghe nói đến " prô-tê-in " , có lẽ bạn nghĩ đến thực phẩm vì các loại thực phẩm , chẳng hạn như là thịt và bơ đậu phộng , có chứa prô-tê-in .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But we 're talking about another kind of protein — the kind your body creates .</s>
+<s id='vn7'>Nhưng chúng tôi đang nói về một loại prô-tê-in khác - loại mà cơ thể bạn tự tạo ra .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Your genes tell your body how to make the proteins your muscles need .</s>
+<s id='vn8'>Gien điều khiển cơ thể bạn cách tạo ra prô-tê-in mà cơ của bạn cần .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But in people with muscular dystrophy , these genes have wrong information or leave out important information , so the body can't make these proteins properly .</s>
+<s id='vn9'>Nhưng ở những người bị loạn dưỡng cơ thì các gien này mang thông tin sai lệch hoặc bỏ qua những thông tin quan trọng , cho nên cơ thể không thể tạo ra các prô-tê-in này đúng cách .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Without these proteins , the muscles break down and weaken over time .</s>
+<s id='vn10'>Nếu như không có các prô-tê-in này thì cơ bị suy nhược và yếu dần .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>As this happens to muscles , people with muscular dystrophy begin to have problems with the way their bodies work .</s>
+<s id='vn11'>Khi cơ bị như thế thì người bị loạn dưỡng cơ bắt đầu gặp rắc rối về hoạt động trong cơ thể .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Different Types of muscular dystrophy</s>
+<s id='vn12'>Các loại loạn dưỡng cơ khác nhau</s>
+</spair>
+<spair id='13'>
+<s id='en13'>There are more than 30 types of muscular dystrophy .</s>
+<s id='vn13'>Có hơn 30 loại loạn dưỡng cơ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In some types , muscle problems start when the person is very young .</s>
+<s id='vn14'>Đối với một số loại thì các vấn đề về cơ bắt đầu khi người bệnh còn rất trẻ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>With other types , symptoms of muscular dystrophy start later , sometimes not until the person is a grown-up .</s>
+<s id='vn15'>Đối với các loại khác thì triệu chứng loạn dưỡng cơ bắt đầu muộn hơn , đôi khi không có triệu chứng cho đến lúc trưởng thành .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This article talks about two types : Duchenne and Becker muscular dystrophy .</s>
+<s id='vn16'>Bài báo này đề cập đến hai loại : loạn dưỡng cơ Duchenne và loạn dưỡng cơ Becker .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Generally , only boys get Duchenne muscular dystrophy and Becker muscular dystrophy , but girls are affected by these types in rare cases and can get other forms of muscular dystrophy .</s>
+<s id='vn17'>Thường thì chỉ có bé trai mới bị loạn dưỡng cơ Duchenne và loạn dưỡng cơ Becker , nhưng trong một số trường hợp hiếm gặp thì bé gái cũng bị loạn dưỡng dạng này và có thể bị các dạng loạn dưỡng cơ khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Most kids with muscular dystrophy have Duchenne muscular dystrophy .</s>
+<s id='vn18'>Hầu hết trẻ bị loạn dưỡng cơ đều bị loạn dưỡng cơ Duchenne .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Kids with Duchenne muscular dystrophy look and act just like other kids when they 're babies .</s>
+<s id='vn19'>Trẻ bị loạn dưỡng cơ Duchenne trông và hành động cũng giống như những trẻ khác khi còn nhỏ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But when they 're between 2 and 6 years old , the muscles in their arms , legs , and pelvis ( hips ) begin to get weaker .</s>
+<s id='vn20'>Nhưng khi chúng lên 2 đến 6 tuổi thì cơ ở cánh tay , cẳng chân , và khung xương chậu ( hông ) bắt đầu yếu đi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>First signs of weakness may be difficulty running , getting up stairs , or up off of the floor .</s>
+<s id='vn21'>Những dấu hiệu đầu tiên cho thấy cơ bị yếu có thể là khó chạy , leo cầu thang , hoặc nhảy lên khỏi sàn nhà .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>A boy with Duchenne muscular dystrophy will have trouble walking and eventually will stop walking .</s>
+<s id='vn22'>Bé trai bị loạn dưỡng cơ Duchenne gặp khó khăn trong việc đi lại và cuối cùng là không đi lại được nữa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The boy may also have trouble feeding himself , difficulty breathing , and trouble with his heart , which is a muscle .</s>
+<s id='vn23'>Bé cũng có thể gặp khó khăn khi trong việc tự ăn uống , khó thở , và gặp rắc rối về tim vì tim cũng là cơ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>How Does a Kid Get Muscular dystrophy ?</s>
+<s id='vn24'>Trẻ bị loạn dưỡng cơ như thế nào ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Muscular dystrophy is not contagious , which means you can't catch it from another person .</s>
+<s id='vn25'>Loạn dưỡng cơ không lây , có nghĩa là bạn không thể mắc bệnh này từ người khác .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Muscular dystrophy happens because of a problem with a person 's genes .</s>
+<s id='vn26'>Loạn dưỡng cơ xảy ra vì vấn đề gien của con người .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Your genes are passed down to you from parents and they contain information about all kinds of stuff .</s>
+<s id='vn27'>Gien của bạn thừa kế từ cha mẹ bạn và chúng chứa thông tin về mọi thứ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>They determine your eye color , hair color , height , and also whether you will have certain medical problems .</s>
+<s id='vn28'>Gien quy định màu mắt , màu tóc , chiều cao , cũng như liệu bạn có mắc một số căn bệnh nào hay không .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>When they 're young , kids with muscular dystrophy do n't look any different from other kids .</s>
+<s id='vn29'>Khi còn nhỏ , trẻ bị loạn dưỡng cơ trông không khác gì so với những trẻ khác .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Later on , they may need wheelchairs or leg braces to get around .</s>
+<s id='vn30'>Nhưng về sau , có thể chúng phải ngồi xe lăn hoặc đeo dụng cụ chỉnh hình ở chân để đi lại .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>It 's hard to imagine what it might feel like if you had trouble getting up from a chair , playing sports , or even walking .</s>
+<s id='vn31'>Thật khó mà tưởng tượng bạn cảm thấy như thế nào nếu như bạn khó mà đứng dậy khỏi ghế , chơi thể thao , hoặc thậm chí đi lại .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>If you do n't have muscular dystrophy , your muscle weakness from exercise will go away after a short time .</s>
+<s id='vn32'>Nếu như bạn không bị loạn dưỡng cơ , thì việc cơ của bạn bị yếu do luyện tập sẽ khỏi sau một thời gian ngắn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>But for kids with muscular dystrophy , muscle weakness is always there — when they wake up and when they go to sleep .</s>
+<s id='vn33'>Nhưng đối với trẻ bị loạn dưỡng cơ thì cơ vẫn còn yếu mãi - khi chúng thức và ngủ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Muscular dystrophy can also affect the brain , which can cause learning problems , but most kids with muscular dystrophy can go to school in a regular classroom with other kids .</s>
+<s id='vn34'>Loạn dưỡng cơ cũng có thể ảnh hưởng đến não , có thể gây ra rắc rối trong việc học hành , nhưng hầu hết trẻ bị loạn dưỡng cơ đều có thể học ở các lớp bình thường với những trẻ khác .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>What Does the Doctor Do ?</s>
+<s id='vn35'>Bác sĩ làm gì ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>When kids begin to have muscle problems and weakness , they go to the doctor , who can do tests to see if a kid has muscular dystrophy .</s>
+<s id='vn36'>Khi trẻ bắt đầu gặp các vấn đề cơ và yếu cơ thì nên cho trẻ đi đến bác sĩ , bác sĩ có thể làm xét nghiệm để xem liệu trẻ có bị loạn dưỡng cơ hay không .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The doctor will examine the weak muscles and test the kid 's blood .</s>
+<s id='vn37'>Bác sĩ sẽ kiểm tra các cơ bị yếu và xét nghiệm máu cho trẻ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Or the doctor might take a small piece of the muscle and look at it under a microscope to help tell whether a kid has muscular dystrophy .</s>
+<s id='vn38'>Hoặc là bác sĩ có thể lấy một mẩu cơ nhỏ và quan sát qua kính hiển vi để kết luận xem trẻ có bị loạn dưỡng cơ hay không .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Other tests measure the work that nerves are doing in the muscles and can help doctors figure out if something else is causing the muscle weakness .</s>
+<s id='vn39'>Các xét nghiệm khác đo được hoạt động của dây thần kinh trong cơ và có thể giúp bác sĩ xác định xem liệu có nguyên nhân nào khác làm cho cơ bị yếu hay không .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Helping Kids With Muscular Dystrophy</s>
+<s id='vn40'>Giúp trẻ bị loạn dưỡng cơ</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Kids with muscular dystrophy can do a few things to help their muscles .</s>
+<s id='vn41'>Trẻ bị loạn dưỡng cơ có thể làm một số việc để giúp cho cơ của chúng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Certain exercises help keep their muscles as strong as possible .</s>
+<s id='vn42'>Một số bài tập giúp giữ cho cơ của trẻ càng mạnh khoẻ càng tốt .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Also , special braces help keep the tendons flexible .</s>
+<s id='vn43'>Ngoài ra thì các dụng cụ chỉnh hình đặc biệt giúp giữ cho gân mềm dẻo .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Tendons are like very strong rubber bands that keep your muscles attached to your bones .</s>
+<s id='vn44'>Gân giống như các dải cao su bền bỉ giữ cho cơ dính với xương .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>If the tendons get tight , the muscles can't work as well , so the braces keep the tendons from tightening up too much .</s>
+<s id='vn45'>Nếu gân bị kéo căng thì cơ cũng không thể hoạt động , vì vậy dụng cụ chỉnh hình giữ cho gân khỏi bị căng quá mức .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Kids with muscular dystrophy also do breathing exercises , or play instruments .</s>
+<s id='vn46'>Trẻ bị loạn dưỡng cơ cũng có thể thực hiện các bài tập hít thở , hay chơi nhạc cụ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>This helps fill their lungs with air and helps prevent them from getting pneumonia , an infection of the lungs .</s>
+<s id='vn47'>Việc này giúp cho không khí vào phổi của trẻ và ngăn ngừa viêm phổi - một chứng nhiễm trùng phổi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Some kids with muscular dystrophy take medications to keep their muscles stronger .</s>
+<s id='vn48'>Một số trẻ bị loạn dưỡng cơ uống thuốc để giữ cho cơ mạnh hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>For some kids , medications called steroids may slow down the weakening of the muscles .</s>
+<s id='vn49'>Đối với một số trẻ thì thuốc được gọi là xtê-rô-ít có thể làm cho quá trình yếu cơ chậm lại .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>A side effect of steroids is that they can cause a kid to gain weight .</s>
+<s id='vn50'>Tác dụng phụ của xtê-rô-ít là chúng có thể làm cho trẻ tăng cân .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Many scientists are working on ways to help people with muscular dystrophy .</s>
+<s id='vn51'>Nhiều nhà khoa học đang tìm cách để giúp cho những người bị loạn dưỡng cơ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Some scientists are trying to fix the genes so they will make the right proteins .</s>
+<s id='vn52'>Một số nhà khoa học cố gắng chỉnh sửa gien để chúng tạo ra các prô-tê-in thích hợp .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Other scientists are trying to make chemicals that will act like these proteins .</s>
+<s id='vn53'>Các nhà khoa học khác cố gắng làm cho các hoá chất có tác dụng giống như các prô-tê-in này .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>They hope that this will help the muscles work better in people with muscular dystrophy .</s>
+<s id='vn54'>Họ hy vọng là việc này sẽ giúp cho cơ của người bệnh hoạt động tốt hơn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Living With Muscular Dystrophy</s>
+<s id='vn55'>Sống với chứng loạn dưỡng cơ</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Kids with muscular dystrophy may use crutches , walkers , and leg braces to help them walk .</s>
+<s id='vn56'>Trẻ bị loạn dưỡng cơ có thể dùng nạng , khung tập đi , và dụng cụ chỉnh hình để giúp chúng đi lại .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>They might even use wheelchairs when their muscles get weaker .</s>
+<s id='vn57'>Thậm chí chúng có thể phải ngồi xe lăn khi cơ yếu đi .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Some kids have specially trained dogs to open doors for them and carry stuff , like books or toys .</s>
+<s id='vn58'>Một số trẻ được trang bị chó được huấn luyện đặc biệt để mở cửa cho chúng và mang đồ đạc như là sách hay đồ chơi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>But kids with muscular dystrophy like to do the same things as other kids .</s>
+<s id='vn59'>Nhưng trẻ bị loạn dưỡng cơ lại thích làm mọi việc giống như bao trẻ khác .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>They like to be outside , play games , and watch TV .</s>
+<s id='vn60'>Chúng thích đi ra ngoài , chơi game , và xem ti-vi .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Kids who have muscular dystrophy can even go to special summer camps .</s>
+<s id='vn61'>Thậm chí trẻ bị loạn dưỡng cơ có thể tham gia các hè đặc biệt .</s>
+</spair>
+</text>
+</doc>

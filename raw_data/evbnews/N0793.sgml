@@ -1,0 +1,2420 @@
+﻿<doc id='N0793'>
+<head>
+<title>Pregnancy calendar</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Pregnancy calendar</s>
+<s id='vn1'>Lịch thai kỳ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Congratulations !</s>
+<s id='vn2'>Chúc mừng !</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Pregnancy is an exciting time and a great opportunity to learn about your child 's growth and development .</s>
+<s id='vn3'>Thai nghén là khoảng thời gian thú vị và là một dịp tốt cho bạn tìm hiểu về sự phát triển và tăng trưởng của con mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But with so much pregnancy information available in books , in magazines , and on websites , how can you hope to cover it all before giving birth ?</s>
+<s id='vn4'>Nhưng hiện có quá nhiều sách , tạp chí , mạng cung cấp thông tin về việc mang thai thì làm sao bạn có thể mong thu thập hết các kinh nghiệm đó trước khi sinh con đây ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>We 've made it easy for you to get all the pregnancy info you need in one place .</s>
+<s id='vn5'>Chúng tôi đã tập hợp tất cả các thông tin về thai kỳ vào một nơi nhằm giúp cho bạn có được những điều cần thiết một cách dễ dàng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Our illustrated pregnancy calendar is a detailed guide to all the changes taking place in your baby - and in you !</s>
+<s id='vn6'>Lịch thai kỳ có minh hoạ của chúng tôi là một bảng hướng dẫn chi tiết về tất cả những thay đổi xảy ra trong cơ thể của con bạn – và cả bạn nữa !</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Each week of pregnancy includes a description of your baby 's development , as well as an explanation of the changes taking place in your body .</s>
+<s id='vn7'>Mỗi tuần thai sẽ miêu tả về sự phát triển của bé cũng như giải thích hết những thay đổi bên trong cơ thể của mẹ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>You 'll also find important medical info that will help keep you and your baby healthy .</s>
+<s id='vn8'>Bạn có thể sẽ phát hiện nhiều thông tin sức khoẻ quan trọng giúp cho bạn và con mình được khoẻ mạnh đấy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A word about due dates and trimesters</s>
+<s id='vn9'>Thông báo về ngày sinh và các quý thai kỳ</s>
+</spair>
+<spair id='10'>
+<s id='en10'>After you announce your pregnancy , the first question you 'll probably be asked is " When are you due ? "</s>
+<s id='vn10'>Sau khi thông báo là mình có thai thì câu hỏi đầu tiên bạn sẽ được nghe người khác hỏi " Khi nào sinh ? "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>At your first prenatal visit , your health care provider will help you determine an expected delivery date ( EDD ) .</s>
+<s id='vn11'>Vào lần khám thai đầu tiên , bác sĩ sẽ giúp bạn xác định ngày dự sinh ( EDD ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Your EDD is 40 weeks from the first day of your last menstrual period ( LMP ) .</s>
+<s id='vn12'>Ngày dự sinh của bạn sẽ rơi vào tuần 40 tính từ ngày đầu của kỳ kinh cuối ( LMP ) của bạn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If you deliver on your EDD , your baby is actually only about 38 weeks old - that 's because your egg did n't become fertilized until about 2 weeks after the start of your last menstrual period .</s>
+<s id='vn13'>Nếu sinh bé đúng vào ngày dự sinh thì con bạn thực ra chỉ khoảng 38 tuần tuổi thôi – vì sau khi bắt đầu kỳ kinh cuối khoảng 2 tuần thì trứng của bạn mới được thụ tinh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It 's important to remember that your due date is only an estimate - most babies are born between 38 and 42 weeks from the first day of their mom 's LMP and only a small percentage of women actually deliver on their due date .</s>
+<s id='vn14'>Điều quan trọng là nên nhớ rằng ngày dự sinh chỉ là ước tính dự đoán thôi - hầu hết trẻ được sinh khoảng từ tuần 38 đến tuần 42 tính từ ngày đầu của kỳ kinh cuối của mẹ và chỉ một số ít bà mẹ sinh con thực sự đúng vào ngày dự sinh của mình .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Another common term you 'll hear throughout your pregnancy is trimester .</s>
+<s id='vn15'>Một thuật ngữ khác mà bạn cũng thường hay nghe suốt thời gian thai kỳ đó là quý thai kỳ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A pregnancy is divided into trimesters :</s>
+<s id='vn16'>Thời gian thai nghén được chia ra thành nhiều quý :</s>
+</spair>
+<spair id='17'>
+<s id='en17'>- the first trimester is from week 1 to the end of week 12</s>
+<s id='vn17'>- quý đầu tiên là từ tuần 1 cho đến cuối tuần 12</s>
+</spair>
+<spair id='18'>
+<s id='en18'>- the second trimester is from week 13 to the end of week 26</s>
+<s id='vn18'>- quý thứ hai là từ tuần 13 cho đến cuối tuần 26</s>
+</spair>
+<spair id='19'>
+<s id='en19'>- the third trimester is from week 27 to the end of the pregnancy</s>
+<s id='vn19'>- quý thứ ba là từ tuần 27 cho đến cuối thời kỳ thai nghén</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Getting started</s>
+<s id='vn20'>Bắt đầu thai nghén</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Check back every week of your pregnancy to see how your baby is developing and to find out what changes you can expect in your own body , too !</s>
+<s id='vn21'>Nên kiểm tra lại mỗi tuần thai kỳ để xem bé có phát triển không và để phát hiện ra những thay đổi mà bạn nghĩ cơ thể mình đang có nữa nhé !</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Week 1</s>
+<s id='vn22'>Tuần 1</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Your baby 's development</s>
+<s id='vn23'>Sự phát triển của bé</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This first week is actually your menstrual period .</s>
+<s id='vn24'>Tuần đầu này thực ra là trong kỳ kinh của bạn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Because your expected delivery date ( EDD ) is calculated from the first day of your last period , this week counts as part of your 40-week pregnancy even though your baby has n't been conceived yet .</s>
+<s id='vn25'>Vì ngày dự sinh ( EDD ) của bạn được tính từ ngày đầu của kỳ kinh cuối , tuần này nằm trong thời gian mang thai 40 tuần mặc dù con bạn chưa được thụ thai .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Your body</s>
+<s id='vn26'>Cơ thể của mẹ</s>
+</spair>
+<spair id='27'>
+<s id='en27'>During pregnancy , your healthy habits and your baby 's health go hand in hand .</s>
+<s id='vn27'>Các thói quen có lợi cho sức khỏe của bạn sẽ gắn liền với sức khoẻ của bé trong suốt thời gian thai nghén .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>While planning to conceive , take the time to prepare your body for motherhood .</s>
+<s id='vn28'>Khi lên kế hoạch mang thai , bạn nên dành thời gian để chuẩn bị cho cơ thể sẵn sàng thực hiện chức năng làm mẹ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Before becoming pregnant , you should :</s>
+<s id='vn29'>Trước khi mang thai , bạn nên :</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Avoid alcohol , drugs , and tobacco products .</s>
+<s id='vn30'>Tránh rượu bia , thuốc phiện , và thuốc lá .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>These substances can cause birth defects , fetal alcohol syndrome , respiratory problems , low birth weight , and other health problems .</s>
+<s id='vn31'>Những chất này có thể gây dị tật bẩm sinh , hội chứng nhiễm rượu ở bào thai , vấn đề đường hô hấp , sinh thiếu ký , và nhiều vấn đề sức khỏe khác .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Talk to your doctor about any prescription and nonprescription (OTC) drugs you are taking .</s>
+<s id='vn32'>Nên cho bác sĩ biết bất cứ loại thuốc theo toa và không theo toa mà bạn đang sử dụng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>You 'll need to take special precautions with medications because many prescription and over-the-counter medications can negatively affect the fetus .</s>
+<s id='vn33'>Bạn nên đề phòng đặc biệt nhiều dược phẩm vì nhiều loại thuốc theo toa và thuốc mua tự do không theo toa có thể gây ảnh hưởng bất lợi cho bào thai .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But do n't stop taking prescription drugs without consulting your health care provider , who will help you weigh the potential benefits and risks of stopping your medications .</s>
+<s id='vn34'>Nhưng bạn cũng không nên ngưng dùng thuốc theo toa mà không tham khảo ý kiến của bác sĩ , họ sẽ giúp bạn cân nhắc các lợi ích khả thi và những nguy hiểm nếu bạn ngưng thuốc của mình .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Maintain a diet that contains an adequate amount of vitamins , especially folic acid .</s>
+<s id='vn35'>Duy trì chế độ ăn uống đủ vi-ta-min , nhất là a-xít phô-lích .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Women who are attempting to become pregnant should take 400 micrograms of folic acid a day .</s>
+<s id='vn36'>Phụ nữ muốn có thai mỗi ngày nên bổ sung 400mg a-xít phô-lích .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Adequate folic acid intake reduces the risk of neural tube defects ( birth defects caused by incomplete development of the brain or spinal cord ) , such as spina bifida .</s>
+<s id='vn37'>Việc bổ sung đầy đủ a-xít phô-lích làm giảm nguy cơ khuyết tật ống thần kinh phôi ( dị tật bẩm sinh do não và tủy sống phát triển không đầy đủ ) , như tật nứt đốt sống .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Be sure to talk to your health care provider about taking a folic acid supplement while you are trying to conceive .</s>
+<s id='vn38'>Nên cho bác sĩ biết về việc bổ sung a-xít phô-lích trong thời gian bạn muốn có thai .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Week 2</s>
+<s id='vn39'>Tuần 2</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Your baby 's development</s>
+<s id='vn40'>Sự phát triển của bé</s>
+</spair>
+<spair id='41'>
+<s id='en41'>This may sound strange , but you 're still not pregnant !</s>
+<s id='vn41'>Điều này nghe có vẻ kỳ lạ , nhưng bạn vẫn chưa có thai !</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Fertilization of your egg by the sperm will only take place near the end of this week - read more about fertilization in the Your Body section below .</s>
+<s id='vn42'>Tinh trùng sẽ chỉ có thể làm trứng thụ tinh vào thời gian gần cuối tuần này – đọc thêm thông tin về sự thụ tinh trong phần Your Body bên dưới nhé .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Although you 'll have to wait to find out what color to paint the nursery , your baby 's gender will be determined at the moment of fertilization .</s>
+<s id='vn43'>Dẫu rằng bạn sẽ phải chờ xem nên dùng màu gì để sơn phòng cho bé thì thời điểm thụ tinh sẽ quyết định giới tính con của bạn đấy .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Out of the 46 chromosomes that make up a baby 's genetic material , only two - one from the sperm and one from the egg - determine the baby 's sex .</s>
+<s id='vn44'>Trong số 46 nhiễm sắc thể tạo nên vật liệu di truyền của trẻ thì chỉ có 2 nhiễm sắc thể - 1 từ tinh trùng và 1 từ trứng - xác định giới tính của bé .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>These are known as the sex chromosomes .</s>
+<s id='vn45'>Các nhiễm sắc thể này được gọi là nhiễm sắc thể giới tính .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Every egg has an X sex chromosome ; a sperm can have either an X or a Y sex chromosome .</s>
+<s id='vn46'>Mỗi trứng có 1 nhiễm sắc thể giới tính X ; mỗi tinh trùng có hoặc 1 nhiễm sắc thể giới tính X hoặc 1 nhiễm sắc thể giới tính Y .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>If the sperm that fertilizes your egg has an X chromosome , your baby 'll be a girl ; if it has a Y chromosome , your baby will be a boy .</s>
+<s id='vn47'>Nếu tinh trùng thụ tinh với trứng mang nhiễm sắc thể giới tính X thì con bạn sẽ là gái ; ngược lại nếu mang nhiễm sắc thể giới tính Y thì con bạn sẽ là trai .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Your body</s>
+<s id='vn48'>Cơ thể của mẹ</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Your uterine lining , which will nourish the baby , is developing , and your body secretes follicle-stimulating hormone ( FSH ) , which stimulates an egg to mature .</s>
+<s id='vn49'>Niêm mạc tử cung nuôi bào thai sẽ phát triển to ra và cơ thể bạn sẽ tiết ra hooc-môn sinh sản ( FSH ) , có tác dụng kích thích làm trứng chín .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>At the end of this week , you will be at the midpoint of your menstrual cycle ( if you have a regular 28-day cycle ) , and ovulation will occur ( your ovary will release an egg into the fallopian tube ) .</s>
+<s id='vn50'>Vào cuối tuần thứ 2 , đây là thời điểm giữa của chu kỳ kinh nguyệt của bạn ( nếu bạn có chu kỳ 28 ngày đều đặn ) , và trứng sẽ rụng vào thời điểm này ( buồng trứng sẽ làm rụng một trứng vào ống dẫn trứng ) .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>This is when you 're most likely to conceive .</s>
+<s id='vn51'>Đây là thời điểm rất dễ có thai .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If you have sexual intercourse without protection around the time that you ovulate , you can become pregnant .</s>
+<s id='vn52'>Nếu bạn giao hợp không dùng biện pháp ngừa thai nào gần thời điểm rụng trứng thì bạn có thể dễ dàng thụ thai .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>After your partner ejaculates , millions of sperm travel through the vagina , and hundreds make it to the fallopian tube , where your egg is waiting .</s>
+<s id='vn53'>Sau khi người đàn ông xuất tinh , hàng triệu tinh trùng vào âm đạo , và hàng trăm tinh trùng vào ống dẫn trứng , nơi đây trứng đã chờ sẵn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>One sperm generally succeeds in penetrating the egg , and fertilization takes place .</s>
+<s id='vn54'>Thường thì một tinh trùng lọt được vào trong trứng và gây nên quá trình thụ thai .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>When that happens , you will be pregnant - although you will not be feeling any body changes just yet .</s>
+<s id='vn55'>Khi đó , bạn có thai rồi đấy – mặc dù là bạn chưa nhận biết được bất cứ thay đổi nào trong cơ thể mình hết .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Week 3</s>
+<s id='vn56'>Tuần 3</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Your baby 's development</s>
+<s id='vn57'>Sự phát triển của bé</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Even though you may not feel that you 're pregnant yet , you have a baby growing and developing inside of you !</s>
+<s id='vn58'>Mặc dù bạn có thể không cảm nhận được là mình đã có thai nhưng em bé lại đang phát triển và lớn lên trong cơ thể của bạn rồi đấy !</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Although your baby was just conceived , he or she is working overtime .</s>
+<s id='vn59'>Dẫu rằng chỉ mới được thụ thai nhưng bào thai cũng phát triển không ngừng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>The fertilized egg goes through a process of cell division .</s>
+<s id='vn60'>Trứng được thụ tinh qua quá trình phân bào .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>About 30 hours after fertilization , it divides into two cells , then four cells , then eight , and continues to divide as it moves from the fallopian tube to the uterus .</s>
+<s id='vn61'>Khoảng 30 tiếng đồng hồ sau khi thụ tinh , trứng phân chia thành 2 tế bào , rồi 4 tế bào , rồi 8 tế bào và tiếp tục như thế khi đi từ ống dẫn trứng đến tử cung .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>By the time it gets to the uterus , this group of cells looks like a tiny ball and is called a morula .</s>
+<s id='vn62'>Khi vào đến tử cung , nhóm tế bào này trông giống như một quả banh nhỏ xíu và được gọi là phôi dâu .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The morula becomes hollow and fills with fluid - it is then known as a blastocyst .</s>
+<s id='vn63'>Phôi dâu trở nên bị rỗng và chứa đầy dịch – gọi là phôi .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Near the end of this week , the blastocyst will attach itself to the endometrium , the lining of the uterus .</s>
+<s id='vn64'>Gần cuối tuần thứ 3 thì phôi sẽ bám vào màng trong dạ con , niêm mạc tử cung .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>This is called implantation .</s>
+<s id='vn65'>Đây gọi là quá trình phôi bám vào niêm mạc tử cung ; .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The implantation in the uterus creates an essential connection - the endometrium will provide the developing embryo with nutrients and will remove wastes .</s>
+<s id='vn66'>Quá trình này tạo nên mối kết nối quan trọng - nội mạc tử cung sẽ cung cấp dưỡng chất cho phôi thai đang phát triển và giúp phôi thai tống khứ chất thải ra ngoài .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Over time , this implantation site will develop into the placenta .</s>
+<s id='vn67'>Dần dần , ở đây phát triển thành nhau thai .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Your body</s>
+<s id='vn68'>Cơ thể của mẹ</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Adequate intake of certain nutrients , such as folic acid , protein , calcium , and iron , is essential for nourishing your baby .</s>
+<s id='vn69'>Việc bổ sung đầy đủ các dưỡng chất cần thiết như a-xít folic , prô-tê-in , can-xi , và sắt là hết sức quan trọng giúp nuôi dưỡng bào thai .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A folic acid supplement - which , ideally , you 've been taking since before you conceived - is particularly important because folic acid helps prevent defects of the neural tube ( the structure that gives rise to the brain and spinal cord ) , which forms very early in pregnancy .</s>
+<s id='vn70'>Tốt hơn hết là nên bổ sung a-xít folic từ trước khi bạn mang thai - điều này rất cần thiết vì a-xít folic có tác dụng phòng tránh dị tật ống thần kinh phôi ( cấu trúc tạo não và tuỷ sống ) , hình thành từ rất sớm trong thời gian thai kỳ .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Your intake of protein , which is used to create new tissue , should increase during pregnancy .</s>
+<s id='vn71'>Trong suốt thời kỳ thai nghén bạn nên tăng cường hấp thu prô-tê-in để tạo mô mới .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>In addition , calcium is necessary for the development of bones and teeth , so make sure you 're getting a good dose of dairy products , leafy green vegetables , and legumes .</s>
+<s id='vn72'>Ngoài ra , can-xi cũng rất cần thiết cho sự phát triển của xương và răng , vì vậy nên đảm bảo bạn có một chế độ ăn uống đầy đủ các sản phẩm sữa , rau củ có màu xanh , và rau đậu .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Iron is essential during pregnancy as you support the continual increase of your baby 's blood volume .</s>
+<s id='vn73'>Sắt cũng rất cần thiết suốt quá trình mang thai vì bạn phải cung cấp cho nhu cầu ngày càng tăng thể tích máu của thai nhi .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Good sources of iron include red meat , legumes , eggs , and leafy green vegetables .</s>
+<s id='vn74'>Các nguồn dinh dưỡng dồi dào chất sắt bao gồm các loại thịt đỏ , rau đậu , trứng , và rau có lá xanh .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Week 4</s>
+<s id='vn75'>Tuần 4</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Your baby 's development</s>
+<s id='vn76'>Sự phát triển của bé</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Four weeks into your pregnancy , your baby ( called an embryo ) consists of two layers of cells - the epiblast and the hypoblast - that will eventually develop into all of your baby 's organs and body parts .</s>
+<s id='vn77'>Qua 4 tuần thai nghén thì thai nhi của bạn ( gọi là phôi thai ) có 2 lớp tế bào - lá mặt và lá phôi trong - giai đoạn cuối sẽ phát triển thành tất cả các cơ quan và bộ phận trên cơ thể của em bé .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Two other structures that develop at this time are the amnion and the yolk sac .</s>
+<s id='vn78'>Hai cấu trúc khác cùng phát triển vào thời điểm này là màng ối và màng phôi .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The amnion , filled with amniotic fluid , will surround and protect the growing embryo .</s>
+<s id='vn79'>Màng ối , chứa nước ối , sẽ bao bọc và bảo vệ phôi thai phát triển .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>The yolk sac will produce blood and help to nourish the embryo until the placenta takes over that role .</s>
+<s id='vn80'>Màng phôi sẽ tạo máu và giúp nuôi phôi cho đến khi nào nhau thai đảm nhận vai trò đó .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Your body</s>
+<s id='vn81'>Cơ thể của mẹ</s>
+</spair>
+<spair id='82'>
+<s id='en82'>This week your baby continues to implant in your uterus , burying itself deep within the endometrium .</s>
+<s id='vn82'>Ở tuần thứ 4 này thì phôi thai tiếp tục bám vào tử cung của bạn , nằm khuất sâu bên trong nội mạc tử cung .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Once implanted , your baby starts to produce a hormone called human chorionic gonadotropin ( hCG ) , which helps to maintain the lining of the uterus .</s>
+<s id='vn83'>Khi đã bám vào tử cung thì thai bắt đầu tiết ra một loại hooc-môn có tên là kích thích tố được tiết ra từ nhau thai người ( hCG ) , có tác dụng giúp bảo vệ niêm mạc tử cung .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>It also sends a signal to the ovary to stop releasing an egg each month , which stops your monthly periods .</s>
+<s id='vn84'>Hooc-môn này cũng giúp cho buồng trứng ngưng rụng trứng mỗi tháng , làm ngưng chu kỳ kinh nguyệt hàng tháng của bạn .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Some women experience slight cramping and spotting of blood during this week while implantation is taking place , and they may mistake this for a period , as it often occurs around the time their monthly period was due .</s>
+<s id='vn85'>Một số phụ nữ có cảm giác hơi bị chuột rút và thấy đốm máu trong suốt tuần thứ 4 này khi phôi thai bám vào tử cung và nhầm tưởng là chu kỳ kinh nguyệt , bởi điều này cũng thường xảy ra gần thời gian hành kinh hàng tháng .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>hCG is the hormone that is measured in pregnancy tests .</s>
+<s id='vn86'>hCG là loại hoóc-môn được đo bằng các biện pháp thử thai .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>This week a pregnancy test will probably be able to detect your pregnancy !</s>
+<s id='vn87'>Thử thai ở tuần này thì có thể phát hiện được thai của bạn !</s>
+</spair>
+<spair id='88'>
+<s id='en88'>hCG also causes the symptoms of pregnancy , which can appear this week .</s>
+<s id='vn88'>hCG cũng gây các triệu chứng thai nghén , có thể thấy ở thời gian này .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Fatigue , tingling or aching breasts , or nausea might lead you to believe your period will be starting any day because the first pregnancy symptoms resemble premenstrual syndrome ( PMS ) .</s>
+<s id='vn89'>Mệt mỏi , ù tai hoặc đau vú , hoặc buồn nôn có thể làm bạn nghĩ là chu kỳ kinh nguyệt của mình sắp tới vào bất kỳ ngày nào vì các triệu chứng mang thai ban đầu giống như hội chứng tiền kinh nguyệt ( PMS ) .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>But by the end of this week , your expected period will not take place .</s>
+<s id='vn90'>Nhưng vào cuối tuần thứ 4 này thì chu kỳ kinh mong đợi của bạn cũng chưa xuất hiện .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Your pregnancy is well on its way !</s>
+<s id='vn91'>Vậy là quá trình thai nghén của bạn đang tiến triển tốt rồi đấy !</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Week 5</s>
+<s id='vn92'>Tuần 5</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Your baby 's development</s>
+<s id='vn93'>Sự phát triển của bé</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Until now , the embryo has been a mass of cells , but by this point in your pregnancy a distinct shape begins to form .</s>
+<s id='vn94'>Cho đến bây giờ thì phôi đã là một khối tế bào nhưng vào thời điểm này của thai kỳ thì hình dáng thai rõ ràng mới bắt đầu định hình .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The neural tube , which will eventually form into the spinal cord and brain , runs from the top to the bottom of the embryo .</s>
+<s id='vn95'>Ống thần kinh phôi , giai đoạn cuối sẽ hình thành nên tuỷ sống và não , chạy từ đầu đến đuôi phôi .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>A bulge in the center of the embryo will develop into your baby 's heart .</s>
+<s id='vn96'>Chỗ phình giữa phôi thai sẽ phát triển thành tim của em bé .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>At this time , the placenta develops .</s>
+<s id='vn97'>Nhau thai cũng phát triển vào thời điểm này .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>It is through the placenta and its fingerlike projections , called chorionic villi , that an embryo receives nourishment from its mother .</s>
+<s id='vn98'>Phôi thai nhận chất dinh dưỡng từ mẹ qua nhau và các chỗ lồi ra giống như ngón tay được gọi là lông nhung màng đệm .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Your body</s>
+<s id='vn99'>Cơ thể của mẹ</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Even if nausea has n't hit you yet , you 'll want to steer clear of certain foods when you 're pregnant .</s>
+<s id='vn100'>Cho dù là bạn chưa có cảm giác buồn nôn nhưng bạn muốn tránh xa một số thức ăn nào đó khi mang thai .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Foodborne illnesses , such as listeriosis and toxoplasmosis , may cause birth defects or even miscarriage .</s>
+<s id='vn101'>Các chứng ngộ độc thức ăn như bệnh làm ảnh hưởng lên hệ thần kinh do vi khuẩn gây ra và bị nhiễm giun từ động vật có thể gây dị tật bẩm sinh hoặc thậm chí gây sẩy thai .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Here are some foods you 'll want to avoid :</s>
+<s id='vn102'>Dưới đây là một số thực phẩm mà bạn cần tránh xa :</s>
+</spair>
+<spair id='103'>
+<s id='en103'>- Soft cheeses such as feta , goat , brie , Camembert , and blue cheese</s>
+<s id='vn103'>- Các loại phô-mai mềm như là phô-mai mặn , phô-mai dê , phô-mai mềm của Pháp , phô-mai Camembert , và phô-mai xanh</s>
+</spair>
+<spair id='104'>
+<s id='en104'>- Unpasteurized milk and juices</s>
+<s id='vn104'>- Các loại nước ép trái cây và sữa chưa tiệt trùng</s>
+</spair>
+<spair id='105'>
+<s id='en105'>- Raw or undercooked meats , including hot dogs and deli meats</s>
+<s id='vn105'>- Các loại thịt chưa nấu chín hay tái sống bao gồm xúc xích xông khói và thịt deli</s>
+</spair>
+<spair id='106'>
+<s id='en106'>- raw eggs or foods containing raw eggs , including mousse and tiramisu</s>
+<s id='vn106'>- trứng sống hoặc các loại thức ăn có trứng sống như món kem mút và tiramisu</s>
+</spair>
+<spair id='107'>
+<s id='en107'>- raw shellfish</s>
+<s id='vn107'>- tôm cua sống</s>
+</spair>
+<spair id='108'>
+<s id='en108'>- paté</s>
+<s id='vn108'>- paté</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Toxoplasmosis can also be spread from soiled cat litter boxes , so try to have someone else clean the litter box during your pregnancy .</s>
+<s id='vn109'>Bệnh nhiễm giun từ động vật cũng có thể lây lan từ các hộp cho mèo ị bị nhiễm bẩn , vì vậy bạn nên nhờ một người nào đó rửa những thùng hộp dơ bẩn này khi đang mang thai nhé .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Week 6</s>
+<s id='vn110'>Tuần 6</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Your baby 's development</s>
+<s id='vn111'>Sự phát triển của bé</s>
+</spair>
+<spair id='112'>
+<s id='en112'>By week 6 , your baby 's brain and nervous system are developing at a rapid pace .</s>
+<s id='vn112'>Vào khoảng tuần thứ 6 , não và hệ thần kinh của em bé phát triển nhanh chóng .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Optic vesicles , which later form the eyes , begin to develop this week on the sides of the head , as do the passageways that will make up the inner ear .</s>
+<s id='vn113'>Túi thị giác , về sau hình thành nên mắt , bắt đầu phát triển vào tuần này ở 2 bên đầu và tương tự các rãnh cũng sẽ hình thành nên tai trong của bé .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Your baby 's heart will begin to beat around this time , and it may even be detected on ultrasound examination .</s>
+<s id='vn114'>Tim của bé cũng sẽ bắt đầu đập vào khoảng thời gian này , và thậm chí có thể được phát hiện ra bằng xét nghiệm siêu âm .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>And the beginnings of the digestive and respiratory systems are forming , too .</s>
+<s id='vn115'>Hệ hô hấp và tiêu hoá cũng bắt đầu được hình thành .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Small buds that will grow into your baby 's arms and legs also appear this week .</s>
+<s id='vn116'>Các chồi nhỏ cũng sẽ phát triển thành cánh tay của bé và chân cũng xuất hiện vào tuần thứ 6 này .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Because their legs are curled up against the torso for much of the pregnancy , making a full-length measurement difficult , babies often are measured from the crown to rump rather than from head to toe .</s>
+<s id='vn117'>Vì trong hầu hết thời gian thai nghén chân bé thường cuộn lại với thân trên nên đo chiều dài đầy đủ rất khó khăn , và các bé thường được đo từ đỉnh đầu tới mông chớ không phải là từ đầu đến chân .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>This week , your baby only measures 0.08 to 0.2 inches ( 2 to 5 millimeters ) from crown to rump !</s>
+<s id='vn118'>Ở tuần thứ 6 này , bé của bạn chỉ đo được từ 0.08 đến 0.2 in-sơ ( 2 đến 5 mm ) từ đỉnh đầu đến mông !</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Your body</s>
+<s id='vn119'>Cơ thể của mẹ</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Common pregnancy complaints may hit in full force this week .</s>
+<s id='vn120'>Những lời than phiền về thai nghén thường nghe nhất có thể rất nhiều trong tuần này .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>You may feel extreme fatigue as your body adjusts to the demands of pregnancy .</s>
+<s id='vn121'>Bạn có thể sẽ cảm thấy hết sức mệt mỏi vì cơ thể mình phải điều chỉnh cho phù hợp với nhu cầu của thai nghén .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Tender , aching breasts and nausea and vomiting ( morning sickness ) may leave you feeling uncomfortable .</s>
+<s id='vn122'>Cảm giác hơi đau vú và buồn nôn , ói mửa ( ốm nghén ) cũng có thể khiến cho bạn cảm thấy khó chịu .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Despite its name , morning sickness can occur at any hour or all day , so do n't be surprised if your queasy stomach does n't pass by noon .</s>
+<s id='vn123'>Dẫu có tên là " morning sickness " nhưng chứng ốm nghén có thể xảy ra vào bất cứ lúc nào trong ngày hoặc cả ngày , thế nên chớ ngạc nhiên khi thấy chứng buồn nôn ở dạ dày của bạn không hết vào giữa trưa nhé .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Nausea is n't the only thing that has you running to the toilet , though - hormonal changes and other factors , such as your kidneys working extra hard to flush wastes out of your body , cause you to urinate more frequently , too .</s>
+<s id='vn124'>Chứng buồn nôn không phải là thứ duy nhất bắt bạn phải chạy vào nhà vệ sinh , mà các thay đổi hooc-môn và nhiều yếu tố khác như thận làm việc nhiều hơn để đẩy chất thải ra khỏi cơ thể cũng làm cho bạn đi tiểu thường hơn .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Week 7</s>
+<s id='vn125'>Tuần 7</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Your baby 's development</s>
+<s id='vn126'>Sự phát triển của bé</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Your baby is constantly adapting to life inside the uterus .</s>
+<s id='vn127'>Bé của bạn luôn thích nghi được với cuộc sống bên trong tử cung .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>By this week , the umbilical cord has formed .</s>
+<s id='vn128'>Ở tuần 7 này thì dây rốn đã hình thành .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>It will be your baby 's connection to you throughout your pregnancy , providing oxygen and nourishment for your baby and disposing of your baby 's wastes .</s>
+<s id='vn129'>Dây rốn là mối dây kết liền giữa mẹ và bé trong suốt thời gian thai kỳ , dây rốn cung cấp khí ô-xy và dưỡng chất cho bé và giúp thải chất thải của bé ra ngoài .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>In addition , your baby 's digestive tract and lungs continue to form .</s>
+<s id='vn130'>Ngoài ra , hệ tiêu hoá và phổi của bé cũng hình thành vào giai đoạn này .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Are you waiting impatiently to see your baby 's face on his or her birth day ?</s>
+<s id='vn131'>Có phải là bạn đang rất sốt ruột muốn thấy mặt của con mình vào ngày sinh lắm phải không ?</s>
+</spair>
+<spair id='132'>
+<s id='en132'>You have a long way to go until then , but in the meantime , your baby 's face is taking shape .</s>
+<s id='vn132'>Đến lúc đó vẫn còn lâu lắm đấy , nhưng giờ đây , khuôn mặt của bé cũng đang rõ hình dạng rồi .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>The mouth , nostrils , ears , and eyes are some of the facial features that become more defined this week .</s>
+<s id='vn133'>Miệng , mũi , tai , và mắt là một số nét trên khuôn mặt có thể được thấy rõ vào tuần này .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Dreaming of a son or daughter to play ball with ?</s>
+<s id='vn134'>Bạn đang tưởng tượng đến một đứa con trai hay một đứa con gái để cùng chơi bóng với bạn phải không ?</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The arm bud that developed just last week has a hand on the end of it , which looks like a tiny paddle .</s>
+<s id='vn135'>Chồi tay chỉ mới phát triển hồi tuần rồi mà giờ đã có bàn tay rồi , trông giống như một cái mái chèo nhỏ xíu vậy .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Your body</s>
+<s id='vn136'>Cơ thể của mẹ</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Pregnancy causes many changes in your cervix .</s>
+<s id='vn137'>Giai đoạn thai nghén cũng có thể làm cho cổ tử cung bạn biến đổi nữa .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>By this week you 'll have developed a mucous plug , which forms in the opening of the cervical canal and seals off the uterus for protection .</s>
+<s id='vn138'>Vào tuần này , cơ thể bạn sẽ sản sinh nhiều chất nhầy , nằm trong lỗ ống cổ tử cung và bịt kín tử cung để bảo vệ em bé .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>( You 'll lose this plug as your cervix dilates in preparation for labor . )</s>
+<s id='vn139'>( Chất nhầy này sẽ hết khi cổ tử cung của bạn giãn ra để chuẩn bị cho cơn đau đẻ . )</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Week 8</s>
+<s id='vn140'>Tuần 8</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Your baby 's development</s>
+<s id='vn141'>Sự phát triển của bé</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Marveling over a baby 's tiny fingers and toes is one of the joys of the first day of life .</s>
+<s id='vn142'>Lạ lẫm , ngạc nhiên với các ngón tay và ngón chân nhỏ xíu của bé là một trong những niềm vui ngày đầu trong đời .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Those fingers and toes are just beginning to form this week , and the arms can even flex at the elbows and wrists .</s>
+<s id='vn143'>Các ngón tay , ngón chân đó chỉ mới bắt đầu hình thành vào tuần này thôi , và cánh tay có thể đã gập ở khuỷu tay và cổ tay .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>The eyes are becoming more obvious because they 've begun to develop pigment ( color ) in the retina ( back of the eye ) .</s>
+<s id='vn144'>Mắt cũng trở nên rõ hơn vì đã bắt đầu phát triển sắc tố ( màu ) ở võng mạc ( phía sau mắt ) .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Also , the intestines are getting longer and there is n't enough room for them in the baby 's abdomen , so they protrude into the umbilical cord until week 12 .</s>
+<s id='vn145'>Hơn nữa , ruột cũng trở nên dài hơn và không đủ chỗ cho ruột nằm trong bụng bé nên ruột phải lồi ra thành dây rốn cho đến tuần thứ 12 .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>By now , the beginnings of the buds that will develop into your baby 's genitals have made their appearance , although they 've not yet developed enough to reveal whether your baby_sex is a boy or a girl .</s>
+<s id='vn146'>Giờ đây , các chồi sẽ bắt đầu phát triển thành cơ quan sinh dục ngoài của bé làm cho xuất hiện chúng , mặc dù là chúng chưa phát triển đầy đủ để có thể tiết lộ giới tính con bạn là gái hay là trai .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Your body</s>
+<s id='vn147'>Cơ thể của mẹ</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Pregnancy symptoms such as a missed period , nausea , extreme fatigue , or tight clothes due to the swelling of your uterus have probably prompted you to wonder whether you 're pregnant .</s>
+<s id='vn148'>Các triệu chứng mang thai như mất kinh , buồn nôn , mệt mỏi tột độ , hoặc quần áo chật vì tử cung của bạn đang phồng to lên có thể đã gợi cho bạn thắc mắc là liệu có phải mình có thai rồi không .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Once you have confirmation of your pregnancy from a home pregnancy test or blood or urine test at the doctor 's office , you should call and schedule your first prenatal visit .</s>
+<s id='vn149'>Một khi bạn đã biết chính xác có thai nhờ vào biện pháp thử thai tại nhà hay thử máu hay thử nước tiểu tại phòng khám của bác sĩ , bạn nên gọi điện thoại và lên lịch cho lần khám thai đầu tiên .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Your pregnancy may be monitored by one of several health care professionals , including an obstetrician , nurse practitioner , midwife , or family doctor .</s>
+<s id='vn150'>Thời gian thai nghén của bạn có thể được theo dõi bởi một trong những chuyên gia sức khoẻ như bác sĩ khoa sản , y sĩ , bà mụ , hay bác sĩ đa khoa .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>If your pregnancy is considered high risk ( for example , if you have had multiple miscarriages , are older than 35 , or have a history of pregnancy complications ) , your doctor may want to see you as early as possible and more often during the course of your pregnancy .</s>
+<s id='vn151'>Nếu thai nghén của bạn có nguy cơ gặp nguy hiểm cao ( chẳng hạn như nếu bạn đã sẩy thai nhiều lần , bạn mang thai sau 35 tuổi , hoặc có tiền sử biến chứng thai nghén ) , bác sĩ cũng cần khám cho bạn càng sớm càng tốt và khám thường xuyên hơn cho bạn trong suốt thời gian thai kỳ của bạn .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Good prenatal care is extremely important for the health and safe delivery of your baby , so be sure to make prenatal appointments a top priority .</s>
+<s id='vn152'>Việc chăm sóc kỹ lưỡng trước khi sinh là điều vô cùng quan trọng đối với sức khoẻ và sự an toàn sinh đẻ cho bé , vì vậy phải đảm bảo rằng các cuộc khám thai trước khi sinh là việc quan trọng hàng đầu .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>Week 9</s>
+<s id='vn153'>Tuần 9</s>
+</spair>
+<spair id='154'>
+<s id='en154'>Your baby 's development</s>
+<s id='vn154'>Sự phát triển của bé</s>
+</spair>
+<spair id='155'>
+<s id='en155'>The tail at the bottom of your baby 's spinal cord has shrunk and almost disappeared by this week .</s>
+<s id='vn155'>Phần đuôi cuối tuỷ sống của bé đã rút nhỏ lại và hầu như biến mất vào giai đoạn này .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>In contrast , your baby 's head has been growing - it 's quite large compared with the rest of the body and it curves onto the chest .</s>
+<s id='vn156'>Ngược lại , đầu của bé phát triển nhiều hơn – đầu khá lớn so với các phần khác của cơ thể và nằm cong trên ngực .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>By this week , your baby measures about 0.6 to 0.7 inches ( 16 to 18 millimeters ) from crown to rump and weighs around 0.1 ounces ( 3 grams ) .</s>
+<s id='vn157'>Ở tuần thứ 9 này thì bé đo được khoảng chừng 0,6 đến 0,7 in-sơ ( khoảng từ 16 đến 18mm ) từ đỉnh đầu đến mông và cân nặng khoảng 0,1 ao-xơ ( 3gram ) .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>The tip of the nose has developed and can be seen in profile , and flaps of skin over the eyes have begun to shape into eyelids , which will become more noticeable in the next few weeks .</s>
+<s id='vn158'>Chóp mũi đã phát triển và có thể được nhìn thấy ở mặt nghiêng , và các nếp gấp da trên mắt đã bắt đầu hình thành nên mí mắt , và sẽ trở nên rõ rệt hơn trong một vài tuần tới nữa .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>The digestive system continues to develop .</s>
+<s id='vn159'>Hệ tiêu hoá tiếp tục phát triển .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>The anus is forming , and the intestines are growing longer .</s>
+<s id='vn160'>Hậu môn cũng đang hình thành , và ruột cũng phát triển dài hơn .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>In addition , internal reproductive features , such as testes and ovaries , start to form .</s>
+<s id='vn161'>Ngoài ra , các đặc điểm sinh sản bên trong như buồng trứng và tinh hoàn cũng bắt đầu hình thành .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Your baby may make some first movements this week as muscles develop .</s>
+<s id='vn162'>Bé có thể sẽ có một vài cử động đầu tiên trong tuần này vì các cơ bắt đầu phát triển .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>If you had an ultrasound now , those movements might even be visible , but you wo n't be able to feel them for several more weeks .</s>
+<s id='vn163'>Nếu giờ đây bạn siêu âm thì thậm chí các cử động này có thể nhìn thấy được đấy nhưng phải thêm một vài tuần nữa bạn mới có thể cảm nhận được chúng .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Your body</s>
+<s id='vn164'>Cơ thể của mẹ</s>
+</spair>
+<spair id='165'>
+<s id='en165'>In preparation for your first prenatal visit , take the time to familiarize yourself with your family 's health history and to review your medical records .</s>
+<s id='vn165'>Để chuẩn bị cho lần khám thai đầu tiên , bạn nên dành chút thời gian để nghiệm lại tiền sử sức khỏe của gia đình và để xem lại các bệnh án của bạn nữa .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Have you had any chronic illnesses , allergies , or surgeries ?</s>
+<s id='vn166'>Bạn có bao giờ bị bệnh mãn tính , dị ứng , hoặc phẫu thuật nào không ?</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Are you currently taking any prescription medications ?</s>
+<s id='vn167'>Hiện bạn có đang sử dụng một loại thuốc theo toa nào không ?</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Do you know of any genetic disorders that run in your family ?</s>
+<s id='vn168'>Bạn có biết là trong gia đình mình có bệnh di truyền nào không ?</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Has your menstrual cycle been regular , and have you had any past pregnancies ?</s>
+<s id='vn169'>Chu kỳ kinh nguyệt của bạn có đều đặn không , và trước đây bạn có bao giờ mang thai lần nào chưa ?</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Do you smoke or drink alcohol ?</s>
+<s id='vn170'>Bạn có hút thuốc hay uống rượu không ?</s>
+</spair>
+<spair id='171'>
+<s id='en171'>What are your exercise habits ?</s>
+<s id='vn171'>Thói quen tập luyện của bạn là gì ?</s>
+</spair>
+<spair id='172'>
+<s id='en172'>These are the things your health care provider will want to discuss with you , so it will help to have this information ready when you go .</s>
+<s id='vn172'>Đây là những điều mà bác sĩ muốn thảo luận với bạn , thế nên hãy chuẩn bị những thông tin này khi bạn đi khám thai lần đầu nhé .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>week 10</s>
+<s id='vn173'>Tuần 10</s>
+</spair>
+<spair id='174'>
+<s id='en174'>Your baby 's development</s>
+<s id='vn174'>Sự phát triển của bé</s>
+</spair>
+<spair id='175'>
+<s id='en175'>By week 10 , all of your baby 's vital organs have been formed and are starting to work together .</s>
+<s id='vn175'>Vào khoảng tuần thứ 10 , tất cả các cơ quan quan trọng của em bé đã hình thành và bắt đầu hoạt động kết hợp với nhau .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>As external changes such as the separation of fingers and toes and the disappearance of the tail takes place , internal developments are taking place too .</s>
+<s id='vn176'>Các thay đổi bề ngoài như các ngón chân , ngón tay tách rời nhau và đuôi biến mất , các bộ phận bên trong cơ thể cũng đang dần biến đổi .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Tooth buds form inside the mouth , and if you 're having a boy , his testes will begin producing the male hormone testosterone .</s>
+<s id='vn177'>Nhiều nụ răng xuất hiện bên trong miệng , và nếu bạn có con trai thì tinh hoàn của bé sẽ bắt đầu tiết ra hooc-môn sinh dục nam .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>Congenital abnormalities are unlikely to develop after week 10 .</s>
+<s id='vn178'>Các dị tật bẩm sinh khó có thể phát triển sau tuần thứ 10 .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>This also marks the end of the embryonic period - in general , the embryo now has a distinctly human appearance and starting next week your baby will officially be considered a fetus .</s>
+<s id='vn179'>Ở đây kết thúc thời kỳ phôi thai – nhìn chung thì giờ đây phôi đã có hình dáng con người rõ ràng và đầu tuần sau bé của bạn sẽ chính thức được xem như một bào thai .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>Your body</s>
+<s id='vn180'>Cơ thể của mẹ</s>
+</spair>
+<spair id='181'>
+<s id='en181'>Your first prenatal visit , which often takes place around this time , is a milestone .</s>
+<s id='vn181'>Lần khám thai đầu tiên của bạn thường là vào thời gian này , đây là một cột mốc quan trọng .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>At the doctor 's office , you 'll go through a series of tests and checks , including having your weight and blood pressure checked .</s>
+<s id='vn182'>Tại phòng khám của bác sĩ , bạn sẽ phải làm một loạt các xét nghiệm và kiểm tra , như kiểm tra cân nặng và huyết áp .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>You might also have an external abdominal examination to check the size and position of your baby and have your urine tested .</s>
+<s id='vn183'>Bạn cũng có thể được khám bên ngoài bụng để kiểm tra kích cỡ và vị trí của bé và bạn còn phải làm xét nghiệm nước tiểu nữa .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>During this first prenatal visit , your health care provider will thoroughly examine you , including an internal examination and a breast exam .</s>
+<s id='vn184'>Trong lần khám thai đầu tiên này , bác sĩ sẽ khám tổng quát hết cho bạn như khám nội và khám ngực nữa .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>Your health care provider will also ask you many questions about your medical history and any family health problems , to determine if your baby is at risk for genetic diseases .</s>
+<s id='vn185'>Bác sĩ sẽ hỏi bạn nhiều câu hỏi về tiền sử sức khỏe của bạn và bất kỳ vấn đề sức khỏe nào khác trong gia đình của bạn , để xác định xem liệu em bé của bạn có nguy cơ mắc bệnh di truyền nào đó không .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>Another thing your provider will check ?</s>
+<s id='vn186'>Bác sĩ còn muốn kiểm tra thêm điều gì nữa không ?</s>
+</spair>
+<spair id='187'>
+<s id='en187'>Your baby 's heartbeat !</s>
+<s id='vn187'>Nhịp tim của em bé nữa !</s>
+</spair>
+<spair id='188'>
+<s id='en188'>Using a Doppler stethoscope , you should get to hear it for the first time .</s>
+<s id='vn188'>Nhờ vào ống nghe Doppler , bạn sẽ nghe được nhịp tim của bé trong lần đầu tiên này .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>As you leave your first appointment , your health care provider will probably send you for a blood test to find out whether you are immunized against varicella , measles , mumps , and rubella , as well as to determine your blood type and Rh factor .</s>
+<s id='vn189'>Khi bạn khám thai lần đầu tiên xong , bác sĩ sẽ có thể cho bạn làm xét nghiệm máu để phát hiện xem bạn có được gây miễn dịch với bệnh thuỷ đậu , sởi , quai bị , và sởi ru-bê-la chưa , đồng thời để xác định nhóm máu của bạn và nhân tố Rh .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>Week 11</s>
+<s id='vn190'>Tuần 11</s>
+</spair>
+<spair id='191'>
+<s id='en191'>Your baby 's development</s>
+<s id='vn191'>Sự phát triển của bé</s>
+</spair>
+<spair id='192'>
+<s id='en192'>From this week until week 20 , your baby will be growing rapidly - increasing in size from about 2 inches ( 5cm ) to about 8 inches ( 20cm ) from crown to rump .</s>
+<s id='vn192'>Từ tuần này cho đến tuần 20 , bé sẽ phát triển rất nhanh - tăng kích cỡ từ khoảng 2 in-sơ ( 5cm ) tăng lên khoảng 8 in-sơ ( 20cm ) từ đỉnh đầu đến mông .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>To accommodate all this growth , the blood vessels in the placenta are increasing in both size and number to provide the baby with more nutrients .</s>
+<s id='vn193'>Để phù hợp với sự phát triển của bé thì mạch máu ở nhau thai cũng tăng lên cả về kích cỡ và số lượng để cung cấp nhiều dưỡng chất hơn cho bé .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>Facial development continues as the ears move toward their final position on the sides of the head .</s>
+<s id='vn194'>Khuôn mặt tiếp tục phát triển vì tai phát triển về điểm cuối hai bên đầu .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>If you saw a picture of your baby now , you 'd think you had a genius on your hands - the baby 's head accounts for about half of the body length !</s>
+<s id='vn195'>Nếu giờ đây bạn thấy được hình ảnh của em bé , chắc bạn sẽ nghĩ con mình là thiên tài đây – đầu của bé chiếm khoảng chừng một nửa chiều dài của cơ thể !</s>
+</spair>
+<spair id='196'>
+<s id='en196'>Although your baby 's reproductive organs are developing rapidly , the external genitals of boys and girls appear somewhat similar until the end of week 11 .</s>
+<s id='vn196'>Mặc dù cơ quan sinh sản của bé phát triển rất nhanh nhưng các cơ quan sinh dục ngoài của bé trai và bé gái đều có vẻ như rất giống nhau mãi cho đến cuối tuần thứ 11 .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>They will be clearly differentiated by week 14 .</s>
+<s id='vn197'>Chúng sẽ khác biệt rõ ràng vào tuần thứ 14 .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>Your body</s>
+<s id='vn198'>Cơ thể của mẹ</s>
+</spair>
+<spair id='199'>
+<s id='en199'>Nourishing your baby usually requires that you gain weight - and in most cases , the recommended weight gain is 25 to 35 pounds ( 11.33 to 15.87kg ) over the course of the pregnancy .</s>
+<s id='vn199'>Việc nuôi em bé thường đòi hỏi bạn phải tăng cân - và thường thì chỉ số tăng trọng được khuyến nghị là từ 25 đến 35 pao ( từ 11,33 đến 15,87kg ) trong suốt thời gian thai kỳ .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>If you were overweight or underweight before pregnancy , your health care provider may have different recommendations for weight gain</s>
+<s id='vn200'>Nếu bạn béo phì hay nhẹ cân trước thai kỳ thì bác sĩ có thể cho bạn nhiều khuyến nghị khác về tăng cân .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>Week 12</s>
+<s id='vn201'>Tuần 12</s>
+</spair>
+<spair id='202'>
+<s id='en202'>Your baby 's development</s>
+<s id='vn202'>Sự phát triển của bé</s>
+</spair>
+<spair id='203'>
+<s id='en203'>Your baby 's brain continues to develop , and tiny fingernails and toenails start to form .</s>
+<s id='vn203'>Não của bé tiếp tục phát triển ở giai đoạn này , và các móng tay và móng chân nhỏ xíu bắt đầu được hình thành .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>Vocal cords are formed this week , which is the last of your first trimester .</s>
+<s id='vn204'>Các dây thanh âm cũng hình thành vào tuần thứ 12 này , đây là giai đoạn cuối của quý thai đầu tiên của bạn .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>Your baby 's kidneys are functioning !</s>
+<s id='vn205'>Thận của bé cũng đang hoạt động rồi đấy !</s>
+</spair>
+<spair id='206'>
+<s id='en206'>After swallowing amniotic fluid , your baby will now be able to pass it out of the body as urine .</s>
+<s id='vn206'>Sau khi nuốt nước ối , bé giờ đây cũng có thể đưa nước ối ra ngoài cơ thể bằng đường tiểu được .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>And the intestines will make their way into the abd omen , since there is room for them now .</s>
+<s id='vn207'>Và giờ thì ruột sẽ có thể nằm vào trong bụng , vì đã có chỗ để chứa ruột trong bụng của bé .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>Your body</s>
+<s id='vn208'>Cơ thể của mẹ</s>
+</spair>
+<spair id='209'>
+<s id='en209'>Has anyone told you that you have that " pregnant glow " ?</s>
+<s id='vn209'>Có ai nói với bạn là bạn đang " đẹp lên hồng hào hơn vì mang thai " chưa ?</s>
+</spair>
+<spair id='210'>
+<s id='en210'>It 's not just the joy you may feel because you 're having a baby - there 's a physiological reason for smo other , more radiant skin during pregnancy .</s>
+<s id='vn210'>Không chỉ là niềm vui vì bạn sắp có con - mà còn vì một lý do mang tính sinh lý khác làm cho da của bạn thêm mượt mà hơn suốt thời kỳ thai nghén .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>Increased blood volume and pregnancy hormones work together to give you that glow .</s>
+<s id='vn211'>Thể tích máu tăng lên kết hợp với các hooc-môn thai nghén làm cho bạn thêm hồng hào hơn .</s>
+</spair>
+<spair id='212'>
+<s id='en212'>The greater blood volume brings more blood to the blood vessels and hormones increase oil gland secretion , resulting in a flushed , plumper , smoother skin appearance .</s>
+<s id='vn212'>Thể tích máu tăng lên làm cho máu đến các mạch máu nhiều hơn và hooc-môn làm tuyến nhờn tiết nhiều hơn , làm cho da bạn trông có vẻ hồng hơn , căng hơn , và láng mịn hơn .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>Sometimes , though , the increased oil gland secretion can cause temporary acne .</s>
+<s id='vn213'>Mặc dù vậy , đôi khi sự tăng tiết tuyến nhờn này có thể gây nên nổi mụn trứng cá tạm thời .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>Week 13</s>
+<s id='vn214'>Tuần 13</s>
+</spair>
+<spair id='215'>
+<s id='en215'>Your baby 's development</s>
+<s id='vn215'>Sự phát triển của bé</s>
+</spair>
+<spair id='216'>
+<s id='en216'>As you begin the second trimester of pregnancy , your placenta has developed and is providing your baby with oxygen , nutrients , and waste disposal .</s>
+<s id='vn216'>Khi bạn bắt đầu quý hai của thai kỳ thì nhau đã phát triển tốt và có nhiệm vụ cung cấp khí ô-xy , dưỡng chất cho bé và giúp thải chất thải của bé ra ngoài .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>The placenta also produces the hormones progesterone and estrogen , which help to maintain the pregnancy .</s>
+<s id='vn217'>Nhau thai cũng tiết ra hooc-môn progesterone và estrogen , giúp nuôi dưỡng thai .</s>
+</spair>
+<spair id='218'>
+<s id='en218'>By now , the baby 's eyelids have fused together to protect the eyes as they develop .</s>
+<s id='vn218'>Giờ đây thì mí mắt của bé đã kết hợp với nhau để bảo vệ mắt khi mắt phát triển .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>Once you take your newborn home , you might be wishing for those eyes to close once in a while so you can get some rest !</s>
+<s id='vn219'>Khi bạn đưa bé mới sinh của mình về nhà , chắc bạn cũng muốn thỉnh thoảng con mình ngủ đi để bạn có thể nghỉ ngơi một chút !</s>
+</spair>
+<spair id='220'>
+<s id='en220'>Your baby may also be able to put a thumb in his or her mouth this week , although the sucking muscles are n't completely developed yet .</s>
+<s id='vn220'>Trong tuần thứ 13 này thì bé cũng có thể biết bỏ ngón tay cái vô miệng rồi đấy , mặc dù là cơ mút chưa phát triển đầy đủ .</s>
+</spair>
+<spair id='221'>
+<s id='en221'>Your body</s>
+<s id='vn221'>Cơ thể của mẹ</s>
+</spair>
+<spair id='222'>
+<s id='en222'>At your first prenatal appointment , your health care provider probably gave you a prescription for prenatal vitamins .</s>
+<s id='vn222'>Vào lần khám thai đầu tiên của quý thai kỳ thứ 2 này , bác sĩ có thể kê toa thuốc vi-ta-min dùng trước khi sinh cho bạn .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>Taking these supplements , in addition to eating a healthy diet , ensures your baby gets additional vitamins and minerals , such as folic acid , zinc , iron , and calcium , which are necessary for growth and development .</s>
+<s id='vn223'>Ngoài chế độ dinh dưỡng có lợi cho sức khỏe thì việc bổ sung này đảm bảo cho bé của bạn được bổ sung thêm vi-ta-min và khoáng chất , như a-xít folic , kẽm , sắt , và can-xi , rất cần thiết cho sự tăng trưởng và phát triển của bé .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>Talk to your pharmacist about the best way to take your vitamins , such as whether they should be taken with food or beverages .</s>
+<s id='vn224'>Bạn nên tham khảo dược sĩ về cách hấp thụ vi-ta-min tốt nhất cho cơ thể , như nên bổ sung vi-ta-min bằng thức ăn hay bằng nước uống .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>Week 14</s>
+<s id='vn225'>Tuần 14</s>
+</spair>
+<spair id='226'>
+<s id='en226'>Your baby 's development</s>
+<s id='vn226'>Sự phát triển của bé</s>
+</spair>
+<spair id='227'>
+<s id='en227'>By this week , some fine hairs have developed on your baby 's face .</s>
+<s id='vn227'>Vào tuần thứ 14 này thì trên mặt bé đã xuất hiện một ít lông mịn .</s>
+</spair>
+<spair id='228'>
+<s id='en228'>This soft colorless hair is called lanugo , and it will eventually cover most of your baby 's body until it is shed just before delivery .</s>
+<s id='vn228'>Thứ lông mềm mịn không màu này gọi là lông tơ , và nó sẽ phủ hầu hết toàn thân của bé và cho đến trước khi sinh thì lông tơ này sẽ rụng .</s>
+</spair>
+<spair id='229'>
+<s id='en229'>By now , your baby 's genitals have fully developed , though they may still be difficult to detect on an ultrasound examination .</s>
+<s id='vn229'>Các cơ quan sinh dục ngoài của bé giờ đây đã phát triển đầy đủ , mặc dù có thể rất khó thấy qua kiểm tra siêu âm .</s>
+</spair>
+<spair id='230'>
+<s id='en230'>In addition , your baby starts to produce thyroid hormones because the thyroid gland has matured .</s>
+<s id='vn230'>Ngoài ra , bé bắt đầu tiết ra hooc-môn tuyến giáp vì tuyến giáp đã phát triển .</s>
+</spair>
+<spair id='231'>
+<s id='en231'>Your baby now weighs about 1.6 ounces ( 45 grams ) and is about 3.5 inches ( 9cm ) long from crown to rump .</s>
+<s id='vn231'>Bây giờ thì bé cân nặng khoảng từ 1,6 ao-xơ ( 45gram ) và dài khoảng chừng 3,5 in-sơ ( 9cm ) từ đỉnh đầu đến mông .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>Your body</s>
+<s id='vn232'>Cơ thể của mẹ</s>
+</spair>
+<spair id='233'>
+<s id='en233'>Under certain circumstances ( for example , if you 're older than 35 ) , your health care provider may discuss amniocentesis with you .</s>
+<s id='vn233'>Tùy từng trường hợp cụ thể ( ví dụ như bạn mang thai sau 35 tuổi ) , bác sĩ có thể bàn thảo với bạn phương pháp chọc ối .</s>
+</spair>
+<spair id='234'>
+<s id='en234'>Amniocentesis is a test usually done between 15 and 18 weeks that can detect abnormalities in a fetus , such as Down syndrome .</s>
+<s id='vn234'>Chọc ối là biện pháp xét nghiệm thường làm cho thai khoảng từ 15 đến 18 tuần tuổi để có thể phát hiện dị tật bào thai , như hội chứng Down .</s>
+</spair>
+<spair id='235'>
+<s id='en235'>During this test , a very thin needle is inserted into the amniotic fluid surrounding the baby in the uterus and a sample of the fluid is taken and analyzed .</s>
+<s id='vn235'>Trong cuộc xét nghiệm này thì người ta dùng một kim tiêm rất nhỏ để chọc vào nước ối nằm bao quanh em bé trong tử cung và mẫu dịch được lấy ra và đem phân tích .</s>
+</spair>
+<spair id='236'>
+<s id='en236'>Amniocentesis does carry a very slight risk of miscarriage , so talk to your health care provider about your concerns and the risks and advantages of the test .</s>
+<s id='vn236'>Phương pháp chọc ối có nguy cơ sẩy thai rất nhỏ , thế nên bạn hãy cho bác sĩ biết về mối lo ngại của mình và về những rủi ro và lợi ích của biện pháp này nhé .</s>
+</spair>
+<spair id='237'>
+<s id='en237'>Week 15</s>
+<s id='vn237'>Tuần 15</s>
+</spair>
+<spair id='238'>
+<s id='en238'>Your baby 's development</s>
+<s id='vn238'>Sự phát triển của bé</s>
+</spair>
+<spair id='239'>
+<s id='en239'>Parents are often amazed by the softness of their newborn 's skin .</s>
+<s id='vn239'>Bố mẹ thường cảm thấy rất ngạc nhiên bởi làn da của trẻ sơ sinh rất mềm mại .</s>
+</spair>
+<spair id='240'>
+<s id='en240'>Your baby 's skin has been continuously developing , and it is so thin and translucent that you can see the blood vessels through it .</s>
+<s id='vn240'>Vào tuần thứ 15 này thì da của bé tiếp tục phát triển và trông rất mỏng và trong mờ đến nỗi bạn cũng có thể nhìn thấy được các mạch máu nhỏ li ti nằm bên trong da của bé .</s>
+</spair>
+<spair id='241'>
+<s id='en241'>Your baby 's ears are almost in position now , although they are still set a bit low on the head .</s>
+<s id='vn241'>Tai của bé giờ đây hầu như cũng đã định vị rồi mặc dù chúng vẫn còn hơi thấp so với đầu của trẻ .</s>
+</spair>
+<spair id='242'>
+<s id='en242'>Internally , your baby 's skeletal system continues to develop .</s>
+<s id='vn242'>Bên trong thì hệ xương của bé cũng không ngừng phát triển .</s>
+</spair>
+<spair id='243'>
+<s id='en243'>Muscle development continues too , and your baby is probably making lots of movements with his or her head , mouth , arms , wrists , hands , legs , and feet .</s>
+<s id='vn243'>Cơ cũng phát triển liên tục , và bé giờ đây cũng có thể làm nhiều cử động bằng đầu , miệng , cánh tay , cổ tay , bàn tay , chân , và bàn chân rồi .</s>
+</spair>
+<spair id='244'>
+<s id='en244'>Your body</s>
+<s id='vn244'>Cơ thể của mẹ</s>
+</spair>
+<spair id='245'>
+<s id='en245'>Has it sunk in yet that you 're pregnant ?</s>
+<s id='vn245'>Người ngoài biết bạn có thai chưa ?</s>
+</spair>
+<spair id='246'>
+<s id='en246'>Many women say that it is n't until they trade in their jeans for maternity clothes and others start noticing their swelling abdomens that the reality of pregnancy sets in .</s>
+<s id='vn246'>Nhiều phụ nữ cho biết người khác hoàn toàn không biết cho đến khi thấy họ thay quần jeans bằng trang phục bầu và người ta bắt đầu chú ý tới bụng của họ lớn dần lên và sự thực là họ bắt đầu có thai .</s>
+</spair>
+<spair id='247'>
+<s id='en247'>For many , this realization is both joyful and scary .</s>
+<s id='vn247'>Đối với nhiều người thì việc biết mình có thai vừa vui vừa sợ .</s>
+</spair>
+<spair id='248'>
+<s id='en248'>It 's normal to feel as if you 're on an emotional roller coaster ( you have your hormones to thank ) .</s>
+<s id='vn248'>Điều này cũng hoàn toàn bình thường thôi như thể bạn rất hay xúc động ( các hooc-môn của bạn gây ra điều này ) .</s>
+</spair>
+<spair id='249'>
+<s id='en249'>Another thing you may be feeling ?</s>
+<s id='vn249'>Bạn có nhận thấy điều gì nữa không ?</s>
+</spair>
+<spair id='250'>
+<s id='en250'>Scatterbrained .</s>
+<s id='vn250'>Đãng trí .</s>
+</spair>
+<spair id='251'>
+<s id='en251'>Even the most organized women report that pregnancy somehow makes them forgetful , clumsy , and unable to concentrate .</s>
+<s id='vn251'>Thậm chí là những phụ nữ có trật tự nhất cũng cho biết là thai nghén làm cho họ hay quên , vụng về , và không thể tập trung được .</s>
+</spair>
+<spair id='252'>
+<s id='en252'>Try to keep the stress in your life to a minimum and take your " mental lapses " in stride - they 're only temporary .</s>
+<s id='vn252'>Hãy nên cố làm cho mình càng ít bị căng thẳng càng tốt và giúp cho " sự đãng trí " đó có thể vượt qua một cách dễ dàng - chúng chỉ mang tính chất tạm thời thôi .</s>
+</spair>
+<spair id='253'>
+<s id='en253'>Week 16</s>
+<s id='vn253'>Tuần 16</s>
+</spair>
+<spair id='254'>
+<s id='en254'>Your baby 's development</s>
+<s id='vn254'>Sự phát triển của bé</s>
+</spair>
+<spair id='255'>
+<s id='en255'>Your baby now weighs about 3.9 ounces ( 110 grams ) and measures about 4.7 inches ( 12cm ) in length from crown to rump .</s>
+<s id='vn255'>Bé của bạn giờ đây đã cân nặng được khoảng chừng 3,9 ao-xơ ( 110 gram ) và dài khoảng chừng 4,7 in-sơ ( 12cm ) từ đỉnh đầu đến mông .</s>
+</spair>
+<spair id='256'>
+<s id='en256'>Your baby can hold his or her head erect , and the development of facial muscles allows for a variety of expressions , such as squinting and frowning .</s>
+<s id='vn256'>Bé có thể giữ đầu mình thẳng và cơ mặt tiếp tục phát triển giúp bé thể hiện nhiều cử chỉ như liếc mắt hoặc cau mày .</s>
+</spair>
+<spair id='257'>
+<s id='en257'>Your body</s>
+<s id='vn257'>Cơ thể của mẹ</s>
+</spair>
+<spair id='258'>
+<s id='en258'>Between weeks 16 and 18 of pregnancy , your health care provider may offer you the maternal blood screening test , also known as a " triple marker " test or " triple screen , " which measures the levels of alpha-fetoprotein ( AFP ) , a protein produced by the fetus , and the pregnancy hormones hCG and estriol in the mother 's blood .</s>
+<s id='vn258'>Khoảng từ tuần thứ 16 đến 18 , bác sĩ có thể cho bạn làm xét nghiệm máu tiền sản của mẹ , đây cũng là xét nghiệm " triple marker " hoặc " triple screen " dùng để đo thông số alpha-fetoprotein ( AFP ) , prô-tê-in do bào thai sản sinh ra , và hooc-môn thai nghén hCG và hooc-môn estriol trong máu của mẹ .</s>
+</spair>
+<spair id='259'>
+<s id='en259'>The test is sometimes called a quadruple test when the level of inhibin-A , is also measured .</s>
+<s id='vn259'>Xét nghiệm này đôi khi cũng được gọi là xét nghiệm Quad , đo được nồng độ inhibin-A .</s>
+</spair>
+<spair id='260'>
+<s id='en260'>The results of these tests can tell moms whether their babies are at risk for neural tube defects such as spina bifida or chromosomal abnormalities such as Down syndrome .</s>
+<s id='vn260'>Kết quả của những xét nghiệm này có thể cho mẹ biết con mình có nguy cơ bị khuyết tật ống thần kinh phôi như tật nứt đốt sống hoặc dị dạng nhiễm sắc thể như là hội chứng Down hay không .</s>
+</spair>
+<spair id='261'>
+<s id='en261'>Out of every 1,000 women who take these tests , about 50 will have abnormal results , but only one or two women will actually have babies with a problem .</s>
+<s id='vn261'>Cứ trong số 1000 phụ nữ làm xét nghiệm này thì có khoảng 50 người có kết quả không bình thường , nhưng chỉ 1 hoặc 2 người là sinh con bị dị tật .</s>
+</spair>
+<spair id='262'>
+<s id='en262'>Talk to your health care provider about the risks and advantages of these tests .</s>
+<s id='vn262'>Bạn nên tham khảo với bác sĩ về những rủi ro và ích lợi của những loại xét nghiệm này nhé .</s>
+</spair>
+<spair id='263'>
+<s id='en263'>Week 17</s>
+<s id='vn263'>Tuần 17</s>
+</spair>
+<spair id='264'>
+<s id='en264'>Your baby 's development</s>
+<s id='vn264'>Sự phát triển của bé</s>
+</spair>
+<spair id='265'>
+<s id='en265'>At about 5.1 inches ( 13cm ) from crown to rump and weighing 4.9 ounces ( 140 grams ) , your baby is still very tiny .</s>
+<s id='vn265'>Chiều dài của bé từ đỉnh đầu đến mông là khoảng chừng 5,1 in-sơ ( 13cm ) và cân nặng khoảng 4,9 ao-xơ ( 140 gram ) , lúc này em bé vẫn còn nhỏ lắm .</s>
+</spair>
+<spair id='266'>
+<s id='en266'>The placenta , which nourishes the fetus with nutrients and oxygen and removes wastes , is growing to accommodate your baby .</s>
+<s id='vn266'>Nhau , nuôi bào thai bằng dưỡng chất và khí ô-xy và làm nhiệm vụ thải chất thải ra ngoài , nhau phát triển để làm thích nghi với bé .</s>
+</spair>
+<spair id='267'>
+<s id='en267'>It now contains thousands of blood vessels that bring nutrients and oxygen from your body to your baby 's developing body .</s>
+<s id='vn267'>Giờ đây nhau thai chứa hàng ngàn mạch máu mang chất dinh dưỡng và khí ôxy từ cơ thể mẹ sang cho cơ thể đang ngày càng phát triển của em bé .</s>
+</spair>
+<spair id='268'>
+<s id='en268'>Your body</s>
+<s id='vn268'>Cơ thể của mẹ</s>
+</spair>
+<spair id='269'>
+<s id='en269'>You may notice that your breasts have changed considerably since your pregnancy began.</s>
+<s id='vn269'>Bạn có thể nhận thấy bầu ngực của mình thay đổi rất nhiều kể từ khi mang thai .</s>
+</spair>
+<spair id='270'>
+<s id='en270'>Hormones are preparing your breasts for milk production - more blood is flowing to the breasts , and the glands that produce milk are growing in preparation for breastfeeding .</s>
+<s id='vn270'>Hooc-môn chuẩn bị cho vú tiết sữa – máu được truyền đến ngực nhiều hơn , và các tuyến sữa phát triển để chuẩn bị cho việc nuôi con bằng sữa mẹ .</s>
+</spair>
+<spair id='271'>
+<s id='en271'>This can increase your breast size ( many women increase one to two cup sizes ) and cause veins to become visible .</s>
+<s id='vn271'>Điều này cũng làm cho kích cỡ ngực của bạn tăng lên ( nhiều phụ nữ tăng lên từ 1 đến 2 số của bầu áo ngực ) và làm cho các tĩnh mạch có thể nhìn thấy được .</s>
+</spair>
+<spair id='272'>
+<s id='en272'>Buy supportive bras in a variety of sizes to accommodate your breast growth during pregnancy .</s>
+<s id='vn272'>Bạn nên mua áo nâng ngực có nhiều kích cỡ để phù hợp với sự phát triển của ngực mình trong suốt quá trình thai nghén nhé .</s>
+</spair>
+<spair id='273'>
+<s id='en273'>Week 18</s>
+<s id='vn273'>Tuần 18</s>
+</spair>
+<spair id='274'>
+<s id='en274'>Your baby 's development</s>
+<s id='vn274'>Sự phát triển của bé</s>
+</spair>
+<spair id='275'>
+<s id='en275'>Ears move to their final position and they stand out from the head .</s>
+<s id='vn275'>Tai di chuyển đến điểm cuối và chìa ra ngoài đầu của bé .</s>
+</spair>
+<spair id='276'>
+<s id='en276'>And start brushing up on your lullabies - in the coming weeks , your baby will probably be able to hear !</s>
+<s id='vn276'>Giờ này đây bạn nên ôn lại các bài hát ru của mình – trong vài tuần tới đây , bé của bạn đã có thể nghe được rồi !</s>
+</spair>
+<spair id='277'>
+<s id='en277'>The bones of the middle ear and the nerve endings from the brain are developing so that your baby will hear sounds such as your heartbeat and blood moving through the umbilical cord .</s>
+<s id='vn277'>Xương tai giữa và các đầu mút thần kinh não cũng dần phát triển để bé có thể nghe thấy tiếng nhịp tim của bạn và tiếng máu chảy qua dây rốn .</s>
+</spair>
+<spair id='278'>
+<s id='en278'>He or she may even be startled by loud noises !</s>
+<s id='vn278'>Bé thậm chí cũng bị giật mình khi nghe tiếng động mạnh nữa !</s>
+</spair>
+<spair id='279'>
+<s id='en279'>Your baby 's eyes are also developing - they 're now facing forward rather than to the sides , and the retinas may be able to detect the beam of a flashlight if you hold it to your abd omen .</s>
+<s id='vn279'>Mắt bé cũng phát triển – mắt giờ đây đã nhìn thẳng về trước chớ không nhìn sang 2 bên nữa , và võng mạc có thể nhìn thấy ánh đèn pin nếu bạn để đèn pin trước bụng mình .</s>
+</spair>
+<spair id='280'>
+<s id='en280'>Until now , your baby 's bones had been developing but were still soft .</s>
+<s id='vn280'>Xương của bé giờ này đã phát triển nhưng vẫn còn mềm và yếu .</s>
+</spair>
+<spair id='281'>
+<s id='en281'>This week , they begin to harden , or ossify .</s>
+<s id='vn281'>Vào tuần 18 này thì xương bé bắt đầu cứng hẳn lên .</s>
+</spair>
+<spair id='282'>
+<s id='en282'>Some of the first bones to ossify are those in the clavicles and the legs .</s>
+<s id='vn282'>Một số xương đầu tiên cứng chắc lên là xương đòn và xương chân .</s>
+</spair>
+<spair id='283'>
+<s id='en283'>Your body</s>
+<s id='vn283'>Cơ thể của mẹ</s>
+</spair>
+<spair id='284'>
+<s id='en284'>You 're probably beginning to prepare for life with baby .</s>
+<s id='vn284'>Bạn có lẽ sẽ phải chuẩn bị cuộc sống của mình với bé từ đây .</s>
+</spair>
+<spair id='285'>
+<s id='en285'>Your preparations should extend beyond gathering the layette and decorating the nursery , though .</s>
+<s id='vn285'>Dù vậy bạn sẽ phải chuẩn bị nhiều thứ không chỉ là gom góp tã lót và trang trí phòng bé đâu .</s>
+</spair>
+<spair id='286'>
+<s id='en286'>This is a good week to begin your search for a pediatrician or other health care provider for your child .</s>
+<s id='vn286'>Bạn nên tìm hiểu và tra cứu thông tin về bác sĩ nhi và bác sĩ khác cho con mình từ tuần này được rồi .</s>
+</spair>
+<spair id='287'>
+<s id='en287'>Schedule visits to meet with potential doctors to discuss issues such as appointment availability , immunization scheduling , and when to call in an emergency .</s>
+<s id='vn287'>Bên cạnh đó bạn cũng nên lên lịch khám những bác sĩ cần thiết để tham khảo và bàn bạc các vấn đề như khi nào có thể khám được , kế hoạch chủng ngừa , và gọi điện cho bác sĩ khi nguy cấp .</s>
+</spair>
+<spair id='288'>
+<s id='en288'>Some good questions to ask :</s>
+<s id='vn288'>Một số câu hỏi bạn nên hỏi là :</s>
+</spair>
+<spair id='289'>
+<s id='en289'>How many health care providers are in the practice ?</s>
+<s id='vn289'>Có bao nhiêu bác sĩ làm việc ?</s>
+</spair>
+<spair id='290'>
+<s id='en290'>Who covers nights and weekends ?</s>
+<s id='vn290'>Ai trực ban đêm và ai trực cuối tuần ?</s>
+</spair>
+<spair id='291'>
+<s id='en291'>What is their policy on phone calls ?</s>
+<s id='vn291'>Quy định về các cuộc gọi điện thoại của họ là gì ?</s>
+</spair>
+<spair id='292'>
+<s id='en292'>Which hospitals are they affiliated with ?</s>
+<s id='vn292'>Họ làm việc với những bệnh viện nào ?</s>
+</spair>
+<spair id='293'>
+<s id='en293'>What insurance do they accept ?</s>
+<s id='vn293'>Bác sĩ chấp thuận chế độ bảo hiểm nào ?</s>
+</spair>
+<spair id='294'>
+<s id='en294'>What specialists do they work with ?</s>
+<s id='vn294'>Họ làm việc với các chuyên gia nào ?</s>
+</spair>
+<spair id='295'>
+<s id='en295'>How are emergencies hand led ?</s>
+<s id='vn295'>Họ sẽ xử lý các trường hợp nguy cấp bằng cách nào ?</s>
+</spair>
+<spair id='296'>
+<s id='en296'>It 's important that you feel comfortable with your child 's doctor , so do your homework and make your decision carefully .</s>
+<s id='vn296'>Điều quan trọng là bạn nên cảm thấy thoải mái với bác sĩ nhi khoa và thoải mái với công việc nhà của mình và nên đưa ra quyết định một cách cẩn thận .</s>
+</spair>
+<spair id='297'>
+<s id='en297'>Week 19</s>
+<s id='vn297'>Tuần 19</s>
+</spair>
+<spair id='298'>
+<s id='en298'>Your baby 's development</s>
+<s id='vn298'>Sự phát triển của bé</s>
+</spair>
+<spair id='299'>
+<s id='en299'>Your baby is now covered with a white , waxy substance called vernix caseosa , which helps prevent delicate skin from becoming chapped or scratched .</s>
+<s id='vn299'>Giờ này , toàn thân của bé phủ đầy một chất màu trắng , giống sáp được gọi là bã nhờn thai nhi , có tác dụng giúp lớp da mềm của bé không bị nứt nẻ hay trầy xước .</s>
+</spair>
+<spair id='300'>
+<s id='en300'>Premature babies may be covered in this cheesy coating at delivery .</s>
+<s id='vn300'>Các trẻ sinh non cũng có thể bị phủ lớp bã trắng nhờn này lúc sinh .</s>
+</spair>
+<spair id='301'>
+<s id='en301'>Your baby is still tiny , but this week brings the development of brown fat , which will help keep your baby warm after birth .</s>
+<s id='vn301'>Bé của bạn giờ đây vẫn còn nhỏ lắm , nhưng tuần này thì cơ thể bé đã phát triển lớp mỡ nâu , có tác dụng giữ cho cơ thể bé được ấm sau khi sinh .</s>
+</spair>
+<spair id='302'>
+<s id='en302'>During the last trimester , your baby will add more layers of fat for warmth and protection .</s>
+<s id='vn302'>Suốt quý thai cuối thì bé cũng sẽ tích thêm nhiều lớp mỡ nữa để bảo vệ và giữ ấm .</s>
+</spair>
+<spair id='303'>
+<s id='en303'>Your body</s>
+<s id='vn303'>Cơ thể của mẹ</s>
+</spair>
+<spair id='304'>
+<s id='en304'>Your constant concern for your baby 's health may give way to reassurance if you feel your baby 's first movements , which often happens between weeks 18 and 20 .</s>
+<s id='vn304'>Những lo lắng của bạn về sức khỏe của bé sẽ yên tâm khi bạn cảm nhận được những cử động đầu tiên của bé , thì chúng thường xảy ra vào giữa tuần 18 đến 20 .</s>
+</spair>
+<spair id='305'>
+<s id='en305'>These first movements are known as quickening , and they may feel like butterflies in your stomach or a growling stomach .</s>
+<s id='vn305'>Các cử động đầu tiên này như là thai máy , và giống như cảm giác bồn chồn hay sôi bụng vậy .</s>
+</spair>
+<spair id='306'>
+<s id='en306'>Later in your pregnancy , you 'll feel kicks , punches , and possibly hiccups !</s>
+<s id='vn306'>Trong giai đoạn sau của thai kỳ , bạn sẽ có cảm giác bụng mình bị đá , thoi thụi và có thể nấc cụt nữa !</s>
+</spair>
+<spair id='307'>
+<s id='en307'>Each baby has different movement patterns , but if you 're concerned or if the movements have decreased in frequency or intensity , talk to your doctor .</s>
+<s id='vn307'>Mỗi em bé có những kiểu máy khác nhau nhưng nếu bạn lo lắng hay nếu các cử động thai máy giảm dần về tần số hay cường độ thì bạn nên thông báo cho bác sĩ biết .</s>
+</spair>
+<spair id='308'>
+<s id='en308'>Many women wonder around this time whether having sex will hurt their developing baby , and the answer is no .</s>
+<s id='vn308'>Nhiều phụ nữ tỏ ra lo ngại là liệu quan hệ tình dục vào thời điểm này có làm đau em bé đang phát triển , và câu trả lời là không .</s>
+</spair>
+<spair id='309'>
+<s id='en309'>Sex is considered safe at all stages of pregnancy , as long as your pregnancy is normal .</s>
+<s id='vn309'>Quan hệ tình dục được coi là an toàn vào bất cứ giai đoạn nào của thai nghén , miễn là thai nghén của bạn bình thường là được .</s>
+</spair>
+<spair id='310'>
+<s id='en310'>But that does n't necessarily mean you 're going to want to have sex .</s>
+<s id='vn310'>Nhưng không nhất thiết là bạn cần phải quan hệ tình dục .</s>
+</spair>
+<spair id='311'>
+<s id='en311'>Many expectant women find that their desire for sex fluctuates during the various stages of pregnancy , depending on their fatigue , growing size , anxiousness over the birth , and a host of other body changes .</s>
+<s id='vn311'>Nhiều phụ nữ mang thai phát hiện ra nhu cầu ham muốn tình dục của mình thay đổi bất thường trong suốt các giao đoạn thai nghén khác nhau , tuỳ thuộc vào sự mệt mỏi , kích cỡ tăng trọng , sự lo lắng về sinh nở , và hàng loạt các thay đổi khác của cơ thể .</s>
+</spair>
+<spair id='312'>
+<s id='en312'>Keep the lines of communication with your partner open as these issues come up .</s>
+<s id='vn312'>Hãy hoà hợp với chồng khi có nhu cầu .</s>
+</spair>
+<spair id='313'>
+<s id='en313'>Even though you may both be preoccupied with the baby , it 's also important to have some " together time . "</s>
+<s id='vn313'>Dẫu rằng cả hai đều có thể lo lắng về thai nhi nhưng điều quan trọng là cũng nên có " thời gian vui vẻ bên nhau . "</s>
+</spair>
+<spair id='314'>
+<s id='en314'>Week 20</s>
+<s id='vn314'>Tuần 20</s>
+</spair>
+<spair id='315'>
+<s id='en315'>Your baby 's development</s>
+<s id='vn315'>Sự phát triển của bé</s>
+</spair>
+<spair id='316'>
+<s id='en316'>You 're halfway there !</s>
+<s id='vn316'>Bạn đã đi được phân nửa đoạn đường !</s>
+</spair>
+<spair id='317'>
+<s id='en317'>Twenty weeks into your pregnancy , your baby has grown significantly from that first dividing cell and now weighs about 11 ounces ( 312 grams ) and measures about 6.3 inches ( 16 cm ) from crown to rump .</s>
+<s id='vn317'>Qua 20 tuần thai nghén thì giờ đây bé của bạn đã phát triển rất nhiều rồi từ một tế bào phân chia đầu tiên và hiện bé đã cân nặng được khoảng chừng 11 ao-xơ ( 312 gram ) và chiều dài từ đỉnh đầu tới mông là khoảng chừng 6,3 in-sơ ( 16cm ) .</s>
+</spair>
+<spair id='318'>
+<s id='en318'>The baby is taking up increasing room in your uterus , and continued growth will put pressure on your lungs , stomach , bladder , and kidneys .</s>
+<s id='vn318'>Bé lớn lên làm tăng kích cỡ trong tử cung của bạn , và bé phát triển liên tục đè lên phổi , dạ dày , bàng quang , và thận của bạn .</s>
+</spair>
+<spair id='319'>
+<s id='en319'>Under the vernix caseosa ( a protective , waxy coating ) , your baby 's skin is thickening and developing layers .</s>
+<s id='vn319'>Được phủ dưới lớp bã nhờn thai nhi ( một lớp phủ bảo vệ , giống như chất sáp ) , da của bé phát triển dày lên và thành nhiều lớp .</s>
+</spair>
+<spair id='320'>
+<s id='en320'>Hair and nail growth continue .</s>
+<s id='vn320'>Tóc và móng tay cũng không ngừng phát triển .</s>
+</spair>
+<spair id='321'>
+<s id='en321'>Your body</s>
+<s id='vn321'>Cơ thể của mẹ</s>
+</spair>
+<spair id='322'>
+<s id='en322'>Your health care provider may recommend that you receive an ultrasound , a diagnostic test that uses sound waves to create an image .</s>
+<s id='vn322'>Bác sĩ có thể cho bạn siêu âm , đây là một xét nghiệm chẩn đoán dùng sóng âm thanh để tạo ảnh .</s>
+</spair>
+<spair id='323'>
+<s id='en323'>An ultrasound can determine the size and position of the fetus , and any structural abnormalities of bones and organs that are visible by this time .</s>
+<s id='vn323'>Siêu âm ở thời điểm này có thể xác định được kích cỡ và vị trí của bào thai , và có thể phát hiện bất kỳ dị tật nào về cấu trúc xương và các cơ quan .</s>
+</spair>
+<spair id='324'>
+<s id='en324'>Depending on the position of the fetus , the sex can usually be determined by now .</s>
+<s id='vn324'>Tùy vào vị trí của bào thai , mà bác sĩ có thể biết được giới tính của trẻ .</s>
+</spair>
+<spair id='325'>
+<s id='en325'>During an ultrasound , the umbilical cord , placenta , and amniotic fluid can also be examined .</s>
+<s id='vn325'>Dây rốn , nhau thai và nước ối cũng có thể được kiểm tra bằng phương pháp siêu âm .</s>
+</spair>
+<spair id='326'>
+<s id='en326'>Talk to your health care provider about the risks and advantages of this test .</s>
+<s id='vn326'>Hãy tham khảo với bác sĩ về những rủi ro và lợi ích của loại xét nghiệm này .</s>
+</spair>
+<spair id='327'>
+<s id='en327'>Week 21</s>
+<s id='vn327'>Tuần 21</s>
+</spair>
+<spair id='328'>
+<s id='en328'>Your baby 's development</s>
+<s id='vn328'>Sự phát triển của bé</s>
+</spair>
+<spair id='329'>
+<s id='en329'>The amniotic fluid that has cushioned and supported your baby in the uterus now serves another purpose .</s>
+<s id='vn329'>Nước ối làm chỗ đệm và giúp nuôi em bé trong tử cung hiện mang một mục đích khác nữa .</s>
+</spair>
+<spair id='330'>
+<s id='en330'>The intestines have developed enough that small amounts of sugars can be absorbed from the fluid that is swallowed and passed through the digestive system to the large bowel .</s>
+<s id='vn330'>Giờ đây ruột đã phát triển đầy đủ và có thể hấp thu một lượng đường nhỏ từ nước ối mà bé nuốt vào và đi qua hệ tiêu hoá đến ruột già .</s>
+</spair>
+<spair id='331'>
+<s id='en331'>Almost all of your baby 's nourishment , however , still comes from you through the placenta .</s>
+<s id='vn331'>Tuy nhiên , tất cả các dưỡng chất của em bé vẫn nhận từ mẹ qua nhau thai .</s>
+</spair>
+<spair id='332'>
+<s id='en332'>Until now your baby 's liver and spleen have been responsible for the production of blood cells .</s>
+<s id='vn332'>Cho đến bây giờ thì gan và lá lách của bé đã phát triển và làm nhiệm vụ sản sinh tế bào máu .</s>
+</spair>
+<spair id='333'>
+<s id='en333'>But now the bone marrow spaces are developed enough to contribute to blood cell formation as well , and bone marrow will become the major site of blood cell production in the third trimester and after birth .</s>
+<s id='vn333'>Nhưng hiện giờ thì các lỗ trống trong tủy xương đã phát triển đầy đủ cũng nhằm góp phần hình thành tế bào máu , và tuỷ xương sẽ trở thành nơi sản sinh tế bào máu chủ yếu trong quý thai thứ 3 và sau khi sinh .</s>
+</spair>
+<spair id='334'>
+<s id='en334'>( The spleen will stop producing blood cells by week 30 , and the liver will stop a few weeks before birth . )</s>
+<s id='vn334'>( Lá lách sẽ ngưng tạo tế bào máu vào khoảng tuần 30 , và gan sẽ ngưng tạo tế bào máu trước khi sinh một vài tuần . )</s>
+</spair>
+<spair id='335'>
+<s id='en335'>Your body</s>
+<s id='vn335'>Cơ thể của mẹ</s>
+</spair>
+<spair id='336'>
+<s id='en336'>Is exercise safe during pregnancy ?</s>
+<s id='vn336'>Tập thể dục có an toàn khi mang thai không ?</s>
+</spair>
+<spair id='337'>
+<s id='en337'>Exercise can be a great way to stay in shape during pregnancy and can even keep some symptoms - such as varicose veins , excessive weight gain , and backache - to a minimum .</s>
+<s id='vn337'>Thể dục là một biện pháp rất tốt nhằm giữ được vóc dáng khi đang mang thai và thậm chí có thể làm hạn chế triệu chứng như giãn tĩnh mạch , tăng cân quá mức , và đau lưng đến mức thấp nhất .</s>
+</spair>
+<spair id='338'>
+<s id='en338'>But pregnancy is not the time to start training for a triathlon - going slowly is the name of the game .</s>
+<s id='vn338'>Nhưng giai đoạn thai kỳ không phải là lúc để bạn bắt đầu huấn luyện cho cuộc thi thể thao 3 môn phối hợp - tốt nhất là bạn nên tập thể dục từ từ , chầm chậm .</s>
+</spair>
+<spair id='339'>
+<s id='en339'>Because ligaments become more relaxed during pregnancy , you 're at higher risk for injury , so low - or non-impact exercise such as yoga , swimming , and walking are your best bets .</s>
+<s id='vn339'>Bởi rằng suốt thời gian mang thai , dây chằng của bạn giãn ra nhiều hơn , bạn dễ bị chấn thương nhiều hơn , vì thế hãy nên tập những bài tập chậm hoặc tránh va chạm như yoga , bơi lội , và đi bộ là tốt nhất .</s>
+</spair>
+<spair id='340'>
+<s id='en340'>Talk to your health care provider before beginning any exercise program while you 're pregnant .</s>
+<s id='vn340'>Hãy tham khảo ý kiến của bác sĩ trước khi bạn bắt đầu bất cứ chương trình luyện tập thể thao nào trong giai đoạn mang thai nhé .</s>
+</spair>
+<spair id='341'>
+<s id='en341'>Week 22</s>
+<s id='vn341'>Tuần 22</s>
+</spair>
+<spair id='342'>
+<s id='en342'>Your baby 's development</s>
+<s id='vn342'>Sự phát triển của bé</s>
+</spair>
+<spair id='343'>
+<s id='en343'>The senses your baby will use to learn about the world are developing daily .</s>
+<s id='vn343'>Các giác quan mà bé sử dụng để nhận biết về thế giới đang phát triển từng ngày .</s>
+</spair>
+<spair id='344'>
+<s id='en344'>Taste buds have started to form on the tongue , and the brain and nerve endings are formed enough so that the fetus can feel touch .</s>
+<s id='vn344'>Trên lưỡi bé đã hình thành nhiều chồi vị giác , não và các đầu mút thần kinh cũng hình thành đầy đủ sao cho bào thai có thể cảm nhận được sự va chạm .</s>
+</spair>
+<spair id='345'>
+<s id='en345'>Your baby may experiment with this newfound sense of touch by stroking his or her face or sucking on a thumb , as well as feeling other body parts and seeing how they move .</s>
+<s id='vn345'>Bé có thể thử cảm giác va chạm mới phát hiện này bằng cách vuốt mặt hoặc nút ngón tay cái , bé cũng cảm nhận được các phần khác trên cơ thể và thấy chúng nhúc nhích , cử động như thế nào .</s>
+</spair>
+<spair id='346'>
+<s id='en346'>Your baby 's reproductive system is continuing to develop , too .</s>
+<s id='vn346'>Hệ thống sinh sản của bé cũng đang phát triển không ngừng .</s>
+</spair>
+<spair id='347'>
+<s id='en347'>In boys , the testes have begun to descend from the abd omen , and in girls , the uterus and ovaries are in place and the vagina is developed .</s>
+<s id='vn347'>Ở bé trai , tinh hoàn đã bắt đầu hạ xuống dưới bụng , và ở bé gái , tử cung và buồng trứng đã định vị và âm đạo cũng đã phát triển .</s>
+</spair>
+<spair id='348'>
+<s id='en348'>Your body</s>
+<s id='vn348'>Cơ thể của mẹ</s>
+</spair>
+<spair id='349'>
+<s id='en349'>You may soon notice your uterus practicing for delivery with irregular , painless contractions called Braxton Hicks contractions .</s>
+<s id='vn349'>Bạn có thể sớm phát hiện thấy tử cung của mình chuẩn bị cho việc sinh nở bằng nhiều cơn co thắt bất thường , không gây đau đớn được gọi là cơn chuyển dạ giả .</s>
+</spair>
+<spair id='350'>
+<s id='en350'>You may feel a squeezing sensation in your abd omen .</s>
+<s id='vn350'>Bạn cũng có thể thấy bụng mình co thắt lại .</s>
+</spair>
+<spair id='351'>
+<s id='en351'>Do n't worry , though : Your baby may be able to feel the contraction as it squeezes the uterus , but Braxton Hicks contractions are n't dangerous or harmful .</s>
+<s id='vn351'>Cho dù là vậy thì bạn cũng không nên lo lắng gì : Bé của bạn cũng có thể cảm thấy bị co thắt khi tử cung bị siết , nhưng những cơn chuyển dạ giả này không gây hại hay nguy hiểm gì cả .</s>
+</spair>
+<spair id='352'>
+<s id='en352'>If , however , the contractions become more intense , painful , or frequent , contact your health care provider immediately because painful , regular contractions may be a sign of preterm labor .</s>
+<s id='vn352'>Tuy nhiên , nếu chúng xuất hiện dữ dội hơn , đau đớn hơn hoặc thường xuyên hơn thì hãy liên lạc với bác sĩ ngay lập tức vì các cơn co thắt đau đớn , thường xuyên có thể là dấu hiệu của sinh non .</s>
+</spair>
+<spair id='353'>
+<s id='en353'>Week 23</s>
+<s id='vn353'>Tuần 23</s>
+</spair>
+<spair id='354'>
+<s id='en354'>Your baby 's development</s>
+<s id='vn354'>Sự phát triển của bé</s>
+</spair>
+<spair id='355'>
+<s id='en355'>Even though fat is beginning to accumulate on your baby 's body , the skin still hangs loosely , giving your baby a wrinkled appearance .</s>
+<s id='vn355'>Mặc dù cơ thể bé đang bắt đầu tích mỡ nhưng lớp da vẫn còn nhũn nhão lắm , điều này làm cho da bé trông có vẻ nhăn nheo .</s>
+</spair>
+<spair id='356'>
+<s id='en356'>Your baby 's daily workout routine includes moving the muscles in the fingers , toes , arms , and legs regularly .</s>
+<s id='vn356'>Các hoạt động thường nhật của bé bao gồm hoạt động nhúc nhích ngón tay , ngón chân , cánh tay , và cẳng chân một cách đều đặn .</s>
+</spair>
+<spair id='357'>
+<s id='en357'>As a result , you may feel more forceful movements .</s>
+<s id='vn357'>Kết quả là bạn cảm thấy các hoạt động này ngày càng cứng cáp , mạnh mẽ hơn .</s>
+</spair>
+<spair id='358'>
+<s id='en358'>By now your baby weighs a little more than 1 pound ( 454 grams ) .</s>
+<s id='vn358'>Giờ đây thì bé đã nặng hơn 1 pao ( 454 gram ) một chút .</s>
+</spair>
+<spair id='359'>
+<s id='en359'>If preterm labor and delivery were to occur this week , a baby could survive with expert medical care , but might have mild to severe disabilities .</s>
+<s id='vn359'>Nếu bé sinh non trong tuần này thì cũng có thể sống được nhờ sự hỗ trợ , chăm sóc của chuyên gia y tế , nhưng bé có thể bị bệnh tật từ nhẹ đến nặng .</s>
+</spair>
+<spair id='360'>
+<s id='en360'>With increasing research and knowledge in the field of fetal medicine , the prognosis for premature babies improves every year .</s>
+<s id='vn360'>Bằng cách tăng cường công việc nghiên cứu và nâng cao kiến thức về lĩnh vực chăm sóc thai nhi thì mỗi năm việc chẩn đoán trẻ sinh non đã được cải thiện .</s>
+</spair>
+<spair id='361'>
+<s id='en361'>Your body</s>
+<s id='vn361'>Cơ thể của mẹ</s>
+</spair>
+<spair id='362'>
+<s id='en362'>The closer you get to your delivery date , the more trouble you may have sleeping .</s>
+<s id='vn362'>Càng gần đến ngày sinh thì bạn càng khó ngủ .</s>
+</spair>
+<spair id='363'>
+<s id='en363'>Anxiety , frequent urination , heartburn , leg cramps , and general discomfort can translate into a short night 's sleep for a pregnant woman .</s>
+<s id='vn363'>Cảm giác lo âu , đi tiểu nhiều lần , ợ chua , chuột rút chân , và nỗi khó chịu khắp người có thể là nguyên nhân làm cho phụ nữ mang thai ngủ không được lâu .</s>
+</spair>
+<spair id='364'>
+<s id='en364'>But your baby 's health and your own depend on you getting adequate rest .</s>
+<s id='vn364'>Nhưng sức khỏe của bé và bạn tuỳ thuộc vào chế độ nghỉ dưỡng đầy đủ của bạn .</s>
+</spair>
+<spair id='365'>
+<s id='en365'>Try a warm bath , soothing music , a relaxing book , or a cup of herbal tea to put you in the mood to snooze .</s>
+<s id='vn365'>Bạn nên thử tắm bằng nước ấm , nghe nhạc êm dịu , đọc sách thư giãn , hoặc uống một tách trà thảo dược có thể giúp bạn dễ dàng ngủ ngon .</s>
+</spair>
+<spair id='366'>
+<s id='en366'>Many doctors recommend that pregnant women sleep on their sides , not their backs or stomachs , so that blood flow to the placenta is not restricted .</s>
+<s id='vn366'>Nhiều bác sĩ khuyên phụ nữ mang thai nên ngủ nằm nghiêng , không nằm ngửa hay nằm sấp , để máu lưu thông đến nhau thai không bị thiếu .</s>
+</spair>
+<spair id='367'>
+<s id='en367'>If you find this uncomfortable , try placing a pillow between your knees to relieve the pressure of your weight while lying on your side .</s>
+<s id='vn367'>Nếu bạn cảm thấy không thoải mái với tư thế nằm ngủ này , bạn nên thử đặt một chiếc gối giữa hai đầu gối để làm giảm sức ép trọng lượng của mình trong lúc nằm nghiêng sang một phía .</s>
+</spair>
+<spair id='368'>
+<s id='en368'>Week 24</s>
+<s id='vn368'>Tuần 24</s>
+</spair>
+<spair id='369'>
+<s id='en369'>Your baby 's development</s>
+<s id='vn369'>Sự phát triển của bé</s>
+</spair>
+<spair id='370'>
+<s id='en370'>Your baby is still receiving oxygen through the placenta .</s>
+<s id='vn370'>Bé vẫn còn đang nhận khí ô-xy qua nhau thai .</s>
+</spair>
+<spair id='371'>
+<s id='en371'>But once birth occurs , his or her lungs will start taking in oxygen on their own .</s>
+<s id='vn371'>Nhưng khi đã sinh ra thì phổi bé sẽ bắt đầu tự lấy khí ô-xy cho mình .</s>
+</spair>
+<spair id='372'>
+<s id='en372'>In preparation for that , your baby 's lungs are developing the ability to produce surfactant .</s>
+<s id='vn372'>Để chuẩn bị cho việc này thì phổi bé cũng phát triển khả năng tạo chất có hoạt tính bề mặt .</s>
+</spair>
+<spair id='373'>
+<s id='en373'>Surfactant is a substance that keeps the air sacs in our lungs from collapsing and sticking together when we exhale , allowing us to breathe properly .</s>
+<s id='vn373'>chất có hoạt tính bề mặt là chất giữ cho túi khí trong phổi của chúng ta không bị xẹp và gắn chặt với nhau khi chúng ta thở , giúp chúng ta có thể hít thở bình thường .</s>
+</spair>
+<spair id='374'>
+<s id='en374'>Because the inner ear - which controls balance in the body - is now completely developed , your baby may be able to tell when he or she is upside down or right side up while floating and making movements in the amniotic fluid .</s>
+<s id='vn374'>Vì tai trong hiện đã phát triển một cách đầy đủ ( là một bộ phận giúp kiểm soát độ cân bằng cơ thể ) , nên bé có thể cho biết khi nào bé nằm sấp hoặc nằm nghiêng bên phải khi nổi hay cử động trong nước ối .</s>
+</spair>
+<spair id='375'>
+<s id='en375'>Your body</s>
+<s id='vn375'>Cơ thể của mẹ</s>
+</spair>
+<spair id='376'>
+<s id='en376'>An important prenatal test , glucose screening , is usually performed sometime during weeks 24 to 28 .</s>
+<s id='vn376'>Từ tuần 24 đến 28 thì mẹ được làm xét nghiệm kiểm tra đường glucose , đây là một xét nghiệm quan trọng trong thời gian thai kỳ .</s>
+</spair>
+<spair id='377'>
+<s id='en377'>The glucose screening test checks for gestational diabetes , a temporary type of diabetes that occurs during pregnancy and can cause problems in the newborn , such as low blood sugar .</s>
+<s id='vn377'>Phương pháp xét nghiệm đường glucose có tác dụng kiểm tra các chứng tiểu đường thai nghén , tiểu đường tạm thời là loại tiểu đường chỉ xảy ra suốt thời gian thai nghén và có thể gây ra nhiều vấn đề cho trẻ sơ sinh , như chứng hạ đường huyết .</s>
+</spair>
+<spair id='378'>
+<s id='en378'>Gestational diabetes may also increase the chances that a woman would need a cesarean section because it can lead to the big growth of babies .</s>
+<s id='vn378'>Tiểu đường thai nghén cũng có thể là nguyên nhân làm tăng nguy cơ mổ bắt con vì làm cho bé lớn rất nhanh .</s>
+</spair>
+<spair id='379'>
+<s id='en379'>During the glucose screening test , you 'll drink a sugary solution and then have your blood drawn .</s>
+<s id='vn379'>Khi làm xét nghiệm đường glucose , bạn sẽ uống một loại dung dịch ngọt và được rút máu .</s>
+</spair>
+<spair id='380'>
+<s id='en380'>If your blood sugar levels are too high , you 'll have further tests , which your health care provider will discuss with you .</s>
+<s id='vn380'>Nếu lượng đường trong máu của bạn quá cao , bác sĩ sẽ bàn thảo và cho bạn làm thêm nhiều xét nghiệm nữa .</s>
+</spair>
+<spair id='381'>
+<s id='en381'>Gestational diabetes usually can be controlled by eating a well-planned diet and getting regular exercise , but sometimes medication , such as daily insulin , will be needed during the pregnancy .</s>
+<s id='vn381'>Bạn cũng có thể phòng chống chứng tiểu đường thai nghén bằng một chế độ dinh dưỡng cân đối , có lợi cho sức khỏe và thường xuyên tập thể dục , nhưng đôi khi bạn cũng nên dùng thuốc , như Insulin bổ sung hằng ngày chẳng hạn , trong suốt quá trình mang thai .</s>
+</spair>
+<spair id='382'>
+<s id='en382'>Week 25</s>
+<s id='vn382'>Tuần 25</s>
+</spair>
+<spair id='383'>
+<s id='en383'>Your baby 's development</s>
+<s id='vn383'>Sự phát triển của bé</s>
+</spair>
+<spair id='384'>
+<s id='en384'>You may notice that your baby has resting and alert periods .</s>
+<s id='vn384'>Bạn có thể dễ dàng nhận biết được lúc nào bé nghỉ ngơi và lúc nào bé máy nhiều hơn .</s>
+</spair>
+<spair id='385'>
+<s id='en385'>You 'll notice fetal activity more readily when you are more sedentary .</s>
+<s id='vn385'>Càng ngồi yên thì bạn sẽ càng dễ phát hiện các hoạt động của bào thai hơn .</s>
+</spair>
+<spair id='386'>
+<s id='en386'>Your baby 's hearing has continued to develop , too - he or she may now be able to hear your voice !</s>
+<s id='vn386'>Thính giác của bé cũng không ngừng phát triển – giờ đây bé có thể nghe được giọng nói của mẹ !</s>
+</spair>
+<spair id='387'>
+<s id='en387'>Your body</s>
+<s id='vn387'>Cơ thể của mẹ</s>
+</spair>
+<spair id='388'>
+<s id='en388'>Pregnancy can cause some unpleasant side effects when it comes to digestion .</s>
+<s id='vn388'>Thai nghén cũng có thể gây nên một số tác dụng phụ khó chịu cho hệ tiêu hoá .</s>
+</spair>
+<spair id='389'>
+<s id='en389'>Not only does the hormone progesterone slow the emptying of the stomach , but it also relaxes the valve at the entrance to the stomach so that it does n't close properly .</s>
+<s id='vn389'>Hooc-môn progesterone không chỉ làm chậm quá trình tiêu hoá mà còn làm lỏng van chặn vào dạ dày làm cho van này không đóng kín lại hoàn toàn .</s>
+</spair>
+<spair id='390'>
+<s id='en390'>This allows acidic stomach contents to move upward into the esophagus .</s>
+<s id='vn390'>Điều này làm cho lượng a-xít trong dạ dày có thể trào ngược lên vào thực quản .</s>
+</spair>
+<spair id='391'>
+<s id='en391'>The result : reflux ( also known as heartburn ) that can make eating your favorite meals a nightmare .</s>
+<s id='vn391'>Kết quả là chứng trào ngược ( cũng như chứng ợ chua ) làm cho việc thưởng thức bữa ăn yêu thích của bạn trở thành cơn ác mộng .</s>
+</spair>
+<spair id='392'>
+<s id='en392'>The expanding uterus puts additional pressure on the stomach in the last few months of pregnancy .</s>
+<s id='vn392'>Tử cung ngày càng giãn nở ra cũng làm đè nặng thêm lên dạ dày trong một vài tháng cuối của thai kỳ .</s>
+</spair>
+<spair id='393'>
+<s id='en393'>Try eating smaller , more frequent meals , and avoid spicy and fatty foods .</s>
+<s id='vn393'>Bạn nên chia nhỏ bữa ăn và ăn nhiều lần hơn và nên tránh thức ăn cay nóng và có nhiều chất béo .</s>
+</spair>
+<spair id='394'>
+<s id='en394'>Week 26</s>
+<s id='vn394'>Tuần 26</s>
+</spair>
+<spair id='395'>
+<s id='en395'>Your baby 's development</s>
+<s id='vn395'>Sự phát triển của bé</s>
+</spair>
+<spair id='396'>
+<s id='en396'>Although your baby 's eyes have been sealed shut for the last few months , they will soon open and begin to blink .</s>
+<s id='vn396'>Mặc dù mắt của bé bị bịt kín trong vài tháng qua nhưng bé sẽ sớm mở mắt và bắt đầu chớp mắt thôi .</s>
+</spair>
+<spair id='397'>
+<s id='en397'>Depending on ethnicity , some babies will be born with blue or gray-blue eyes ( which may change color in the first year of life ) and some will be born with brown or dark eyes .</s>
+<s id='vn397'>Tùy vào tính cách sắc tộc mà có những bé sinh ra có mắt màu xanh hay xám-xanh ( mắt bé có thể đổi màu trong năm đầu đời ) và có những bé sinh ra có mắt màu nâu hay màu đen .</s>
+</spair>
+<spair id='398'>
+<s id='en398'>Eyelashes are growing in , as is more hair on the head .</s>
+<s id='vn398'>Mi mắt của bé cũng phát triển và trên đầu có mọc tóc nhiều hơn .</s>
+</spair>
+<spair id='399'>
+<s id='en399'>Your baby , weighing a little less than 2 pounds ( 907 grams ) , still looks wrinkly but will continue to gain weight steadily over the next 14 weeks until birth .</s>
+<s id='vn399'>Bé của bạn hiện đã cân được dưới 2 pao ( 907 gram ) một chút , và da bé trông vẫn còn nhăn nheo lắm nhưng bé sẽ tiếp tục tăng cân đều đặn trong 14 tuần tới cho đến khi chào đời .</s>
+</spair>
+<spair id='400'>
+<s id='en400'>Your body</s>
+<s id='vn400'>Cơ thể của mẹ</s>
+</spair>
+<spair id='401'>
+<s id='en401'>Your uterus provides a safe haven for your baby before birth .</s>
+<s id='vn401'>Tử cung của bạn là chỗ an toàn cho bé trước khi chào đời .</s>
+</spair>
+<spair id='402'>
+<s id='en402'>But what about after delivery ?</s>
+<s id='vn402'>Nhưng sau khi bé được sinh ra thì sao ?</s>
+</spair>
+<spair id='403'>
+<s id='en403'>Your baby will be moving about your home .</s>
+<s id='vn403'>Bé sẽ lăng xăng đi lại khắp nhà .</s>
+</spair>
+<spair id='404'>
+<s id='en404'>Take the time now to safeguard your home by baby_proofing .</s>
+<s id='vn404'>Bạn nên dành thời gian để đảm bảo ngôi nhà của mình được an toàn bằng các thiết bị bảo vệ trẻ em nhé .</s>
+</spair>
+<spair id='405'>
+<s id='en405'>Covering electrical outlets , removing choking hazards , installing smoke alarms , and blocking off staircases are just some of the steps to ensuring your child 's safety .</s>
+<s id='vn405'>Bọc mặt nạ cho các lỗ cắm điện , dẹp bỏ các vật dụng nguy hiểm gây ngạt , cài đặt thiết bị báo khói , và chặn cầu thang chỉ là một vài bước nhỏ nhằm đảm bảo an toàn cho bé của bạn .</s>
+</spair>
+<spair id='406'>
+<s id='en406'>Take every precaution you can think of , but remember : No amount of babyproofing can substitute for careful supervision of your child .</s>
+<s id='vn406'>Hãy nên cẩn thận đề phòng bất cứ chuyện gì mà bạn nghĩ ra nhưng nên nhớ là : Không một thiết bị bảo vệ an toàn cho trẻ nào có thể thay thế cho sự trông nom , giám sát cẩn thận của bạn dành cho con cả .</s>
+</spair>
+<spair id='407'>
+<s id='en407'>Week 27</s>
+<s id='vn407'>Tuần 27</s>
+</spair>
+<spair id='408'>
+<s id='en408'>Your baby 's development</s>
+<s id='vn408'>Sự phát triển của bé</s>
+</spair>
+<spair id='409'>
+<s id='en409'>By this first week of the third trimester , your baby looks similar to what he or she will look like at birth , except thinner and smaller .</s>
+<s id='vn409'>Vào tuần đầu này của quý ba thai kỳ thì hình hài của bé đã có thể trông giống như lúc sinh ra vậy , chỉ là bé lúc này ốm hơn và nhỏ hơn thôi .</s>
+</spair>
+<spair id='410'>
+<s id='en410'>The lungs , liver , and immune system still need to fully mature , but if born now , your baby would have a very good chance of surviving .</s>
+<s id='vn410'>Phổi , gan , và hệ miễn dịch của bé vẫn rất cần thêm thời gian để phát triển hoàn thiện , nhưng nếu sinh bé ra lúc này thì bé vẫn có cơ hội sống rất cao .</s>
+</spair>
+<spair id='411'>
+<s id='en411'>As hearing continues to develop , your baby may start to recognize your voice as well as your partner 's .</s>
+<s id='vn411'>Vì thính giác của bé vẫn đang phát triển và bé giờ đây có thể bắt đầu nhận biết giọng của mẹ cũng như giọng của bố đấy .</s>
+</spair>
+<spair id='412'>
+<s id='en412'>Sounds may be muffled , though , because the ears are still covered with vernix , the thick waxy coating that protects the skin from becoming chapped by the amniotic fluid .</s>
+<s id='vn412'>Dẫu vậy , âm thanh đến với tai bé vẫn còn bị hạn chế , vì tai bé vẫn còn phủ đầy lớp bã nhờn thai nhi , một lớp chất phủ dày giống như sáp có tác dụng bảo vệ cho da của bé không bị nước ối làm nứt nẻ .</s>
+</spair>
+<spair id='413'>
+<s id='en413'>Your body</s>
+<s id='vn413'>Cơ thể của mẹ</s>
+</spair>
+<spair id='414'>
+<s id='en414'>Your body instinctively nourishes and protects your baby during pregnancy , but caring for a newborn is a learned skill .</s>
+<s id='vn414'>Theo bản năng thì cơ thể của bạn có thể đảm nhận được việc nuôi dưỡng và bảo vệ bé suốt giai đoạn thai nghén , nhưng đối với việc chăm sóc một đứa trẻ sơ sinh lại là một kỹ năng phải nên được học trước .</s>
+</spair>
+<spair id='415'>
+<s id='en415'>Consider signing up for childbirth classes through your local community center or hospital to learn about topics such as labor , options for pain relief , what to expect after delivery , common newborn problems , babyproofing , breastfeeding and formula feeding , and infant CPR.</s>
+<s id='vn415'>Bạn nên đăng ký các lớp học về sinh đẻ ở bệnh viện hoặc trung tâm cộng đồng địa phương của mình để tìm hiểu về các chủ đề như cơn đau đẻ như thế nào , lựa chọn phương pháp sinh bớt đau đớn , điều gì thường xảy ra sa khi sinh , các vấn đề thường gặp đối với trẻ sơ sinh , biện pháp an toàn cho bé , nuôi con bằng sữa mẹ và sữa bột , và biện pháp hô hấp nhân tạo cho trẻ sơ sinh .</s>
+</spair>
+<spair id='416'>
+<s id='en416'>Learning all you can about birth and babies will help you feel more confident , especially if you 're a first-time parent .</s>
+<s id='vn416'>Việc tìm hiểu hết các thứ liên quan đến sinh đẻ và trẻ sơ sinh sẽ giúp cho bạn thêm tự tin , nhất là khi bạn làm mẹ lần đầu .</s>
+</spair>
+<spair id='417'>
+<s id='en417'>Week 28</s>
+<s id='vn417'>Tuần 28</s>
+</spair>
+<spair id='418'>
+<s id='en418'>Your baby 's development</s>
+<s id='vn418'>Sự phát triển của bé</s>
+</spair>
+<spair id='419'>
+<s id='en419'>Your baby now weighs about 2 pounds , 2 ounces ( 1,000 grams ) and measures about 10 inches from crown to rump .</s>
+<s id='vn419'>Bé của bạn hiện giờ cân nặng khoảng chừng 2 pao , 2 ao-xơ ( 1,000 gram ) và chiều dài từ dầu đến mông khoảng chừng 10 in-sơ .</s>
+</spair>
+<spair id='420'>
+<s id='en420'>At your next prenatal appointment , your health care provider may tell you whether your baby is headfirst or bottom-first in the womb .</s>
+<s id='vn420'>Vào lần khám thai tới , bác sĩ có thể cho bạn biết là bé đang có ngôi đầu hay ngôi mông trong tử cung .</s>
+</spair>
+<spair id='421'>
+<s id='en421'>Babies who are in the breech position may need to be delivered by cesarean section .</s>
+<s id='vn421'>Trẻ có vị trí ngôi mông có thể phải được sinh bằng thuật mổ bắt con .</s>
+</spair>
+<spair id='422'>
+<s id='en422'>Your baby still has 2 months to change position , though , so do n't worry if your baby is in the breech position right now .</s>
+<s id='vn422'>Dẫu sao thì bé vẫn còn 2 tháng để có thể tự di chuyển vị trí , thế nên đừng lo lắng nếu hiện giờ bé của bạn đang ở vị trí ngôi mông .</s>
+</spair>
+<spair id='423'>
+<s id='en423'>Most babies will switch positions on their own .</s>
+<s id='vn423'>Hầu hết trẻ đều có thể tự xoay chuyển vị trí của mình .</s>
+</spair>
+<spair id='424'>
+<s id='en424'>The folds and grooves of your baby 's brain continue to develop and expand .</s>
+<s id='vn424'>Các nếp gấp và rãnh não của bé tiếp tục phát triển và rộng hơn .</s>
+</spair>
+<spair id='425'>
+<s id='en425'>In addition , your baby continues to add layers of fat and has continued hair growth .</s>
+<s id='vn425'>Ngoài ra , bé cũng tích thêm nhiều lớp mỡ nữa và tóc cũng mọc nhiều hơn .</s>
+</spair>
+<spair id='426'>
+<s id='en426'>Your body</s>
+<s id='vn426'>Cơ thể của mẹ</s>
+</spair>
+<spair id='427'>
+<s id='en427'>Your health care provider probably sent you for some blood tests early in your pregnancy .</s>
+<s id='vn427'>Bác sĩ có lẽ đã cho bạn làm một vài xét nghiệm máu vào giai đoạn đầu của thai kỳ .</s>
+</spair>
+<spair id='428'>
+<s id='en428'>One thing blood tests measure is the Rh factor , a substance found in the red blood cells of most people .</s>
+<s id='vn428'>Xét nghiệm máu đo Rh , đây là chất tồn tại trong hồng cầu mà hầu hết mọi người .</s>
+</spair>
+<spair id='429'>
+<s id='en429'>If you do n't have it ( if you 're Rh negative ) but your baby does ( is Rh positive ) , there is potential for your baby to have health problems , such as jaundice and anemia .</s>
+<s id='vn429'>Nếu bạn không có nó ( nếu Rh của bạn âm tính ) nhưng bé lại có Rh ( Rh dương tính ) , thì bé có khả năng sẽ bị nhiều vấn đề về sức khỏe như bị vàng da hay thiếu máu .</s>
+</spair>
+<spair id='430'>
+<s id='en430'>Your doctor can prevent these problems by giving you a vaccine called Rh immune globulin at 28 weeks and again after delivery .</s>
+<s id='vn430'>Bác sĩ có thể phòng tránh các vấn đề này bằng cách cho bạn tiêm một loại vắc-xin tên là globulin miễn dịch Rh vào khoảng tuần 28 và tiêm nhắc lại sau khi sinh .</s>
+</spair>
+<spair id='431'>
+<s id='en431'>Week 29</s>
+<s id='vn431'>Tuần 29</s>
+</spair>
+<spair id='432'>
+<s id='en432'>Your baby 's development</s>
+<s id='vn432'>Sự phát triển của bé</s>
+</spair>
+<spair id='433'>
+<s id='en433'>Your baby continues to be active , and those first few flutters of movement have given way to hard jabs and punches that may take your breath away .</s>
+<s id='vn433'>Bé của bạn không ngừng phát triển , và một vài động tác máy nhanh giờ đây không còn nữa mà thay bằng nhiều cú đấm , thụi mạnh có thể làm cho bạn nghẹt thở .</s>
+</spair>
+<spair id='434'>
+<s id='en434'>If you notice a decrease in movement , do a fetal kick count : your baby should move at least 10 times in an hour .</s>
+<s id='vn434'>Nếu bạn phát hiện thấy thai giảm máy , hãy đếm số lần máy của thai nhé : bé sẽ máy ít nhất là 10 lần trong 1 tiếng đồng hồ .</s>
+</spair>
+<spair id='435'>
+<s id='en435'>If your baby moves less , talk to your health care provider .</s>
+<s id='vn435'>Nếu bé máy ít hơn thì bạn nên cho bác sĩ của mình biết nhé .</s>
+</spair>
+<spair id='436'>
+<s id='en436'>Your body</s>
+<s id='vn436'>Cơ thể của mẹ</s>
+</spair>
+<spair id='437'>
+<s id='en437'>During pregnancy , iron is important for replenishing the red blood cell supply .</s>
+<s id='vn437'>Sắt rất quan trọng trong việc bổ sung nguồn cung cấp hồng cầu trong suốt thời gian mang thai .</s>
+</spair>
+<spair id='438'>
+<s id='en438'>You should be eating at least 30 milligrams of iron each day .</s>
+<s id='vn438'>Bạn nên bổ sung ít nhất là 30 miligam sắt mỗi ngày .</s>
+</spair>
+<spair id='439'>
+<s id='en439'>Because iron deficiency is common during pregnancy , your health care provider may recommend that you receive a blood test to check your iron level .</s>
+<s id='vn439'>Vì chứng thiếu sắt là chứng bệnh thường thấy trong giai đoạn thai nghén nên bác sĩ cũng có thể cho bạn làm xét nghiệm máu để kiểm tra nồng độ sắt của bạn .</s>
+</spair>
+<spair id='440'>
+<s id='en440'>If it 's low , you may be prescribed an iron supplement .</s>
+<s id='vn440'>Nếu là thấp , bạn có thể sẽ được bác sĩ kê toa cho bổ sung chất sắt .</s>
+</spair>
+<spair id='441'>
+<s id='en441'>Week 30</s>
+<s id='vn441'>Tuần 30</s>
+</spair>
+<spair id='442'>
+<s id='en442'>Your baby 's development</s>
+<s id='vn442'>Sự phát triển của bé</s>
+</spair>
+<spair id='443'>
+<s id='en443'>Now weighing about 3 pounds ( 1,400 grams ) and measuring about 10.8 inches ( 27 c m ) from crown to rump , your baby continues to gain weight and layers of fat .</s>
+<s id='vn443'>Ở tuần 30 , bé đã cân nặng đươc khoảng 3 pao ( 1,400 gram ) và chiều dài từ đầu đến mông khoảng 10.8 in-sơ ( 27 cm ) , thời kỳ này bé sẽ tiếp tục tăng trọng và tích thêm mỡ .</s>
+</spair>
+<spair id='444'>
+<s id='en444'>This fat makes the baby look less wrinkly and will help provide warmth after birth .</s>
+<s id='vn444'>Lượng mỡ này có tác dụng giúp cho bé trông bớt nhăn nheo và giữ nhiệt cho bé , làm cho bé ấm sau khi sinh .</s>
+</spair>
+<spair id='445'>
+<s id='en445'>In preparation for respiration after birth , your baby will mimic breathing movements by repeatedly moving the diaphragm .</s>
+<s id='vn445'>Để chuẩn bị cho việc hô hấp sau khi ra đời thì bé sẽ bắt chước các động tác thở bằng cách liên tục di chuyển cơ hoành .</s>
+</spair>
+<spair id='446'>
+<s id='en446'>Your baby can even get the hiccups , which you may feel as rhythmic twitches in your uterus .</s>
+<s id='vn446'>Bé thậm chí còn có thể bị nấc cụt , khiến bạn có cảm giác như những cử động co giật đều đặn nhịp nhàng trong tử cung mình vậy .</s>
+</spair>
+<spair id='447'>
+<s id='en447'>Your body</s>
+<s id='vn447'>Cơ thể của mẹ</s>
+</spair>
+<spair id='448'>
+<s id='en448'>Constipation is a common complaint of pregnancy .</s>
+<s id='vn448'>Các bà mẹ thường hay than phiền bị táo bón trong thời gian thai kỳ .</s>
+</spair>
+<spair id='449'>
+<s id='en449'>The pregnancy hormones that allow you to maintain your pregnancy also slow the digestive process considerably .</s>
+<s id='vn449'>Các hooc-môn thai nghén giúp bạn duy trì thai cũng làm chậm quá trình tiêu hoá một cách đáng kể .</s>
+</spair>
+<spair id='450'>
+<s id='en450'>Exercising regularly and eating foods high in fiber , such as vegetables and whole grains , are great ways to keep everything regular .</s>
+<s id='vn450'>Tập thể dục thường xuyên và ăn thức ăn giàu chất xơ , như rau và ngũ cốc nguyên hạt , là các biện pháp rất tốt giúp ngăn ngừa táo bón .</s>
+</spair>
+<spair id='451'>
+<s id='en451'>Week 31</s>
+<s id='vn451'>Tuần 31</s>
+</spair>
+<spair id='452'>
+<s id='en452'>Your baby 's development</s>
+<s id='vn452'>Sự phát triển của bé</s>
+</spair>
+<spair id='453'>
+<s id='en453'>By now your baby is urinating approximately several cups of urine a day into the amniotic fluid .</s>
+<s id='vn453'>Vào lúc này thì mỗi ngày bé đã có thể tiểu chừng vài tách nước tiểu ra nước ối rồi .</s>
+</spair>
+<spair id='454'>
+<s id='en454'>He or she is also swallowing amniotic fluid , which is completely replaced several times a day .</s>
+<s id='vn454'>Bé cũng nuốt nước ối , nó được thay mới hoàn toàn vài lần trong ngày .</s>
+</spair>
+<spair id='455'>
+<s id='en455'>Excess fluid in the amniotic sac ( known as poly hydramnios ) may mean that the baby is n't swallowing normally or that there is a gastrointestinal obstruction .</s>
+<s id='vn455'>Lượng ối dư thừa trong túi ối ( gọi là tình trạng đa ối ) có nghĩa là bé không nuốt nước ối bình thường hoặc bị tắc dạ dày - ruột .</s>
+</spair>
+<spair id='456'>
+<s id='en456'>Inadequate fluid in the amniotic sac ( oligohydramnios ) may mean that the baby is n't urinating properly and could indicate a problem with the kidneys or urinary tract .</s>
+<s id='vn456'>Lượng ối trong túi ối bị thiếu ( tình trạng thiểu ối ) có nghĩa là bé không đi tiểu được bình thường và có thể là dấu hiệu cho biết thận hay đường tiểu của bé có vấn đề .</s>
+</spair>
+<spair id='457'>
+<s id='en457'>Your health care provider will measure your levels of amniotic fluid as part of your routine ultrasound .</s>
+<s id='vn457'>Bác sĩ sẽ đo lượng nước ối bằng phương pháp siêu âm theo thường lệ .</s>
+</spair>
+<spair id='458'>
+<s id='en458'>Your body</s>
+<s id='vn458'>Cơ thể của mẹ</s>
+</spair>
+<spair id='459'>
+<s id='en459'>Have you decided whether to breastfeed or formula feed your baby ?</s>
+<s id='vn459'>Bạn đã quyết định nuôi con bằng sữa mẹ hay nuôi con bằng sữa bột chưa ?</s>
+</spair>
+<spair id='460'>
+<s id='en460'>Although the American Academy of Pediatrics ( AAP ) recommends breast milk as the best form of infant nutrition , the decision about how to feed your child is a personal one .</s>
+<s id='vn460'>Dẫu Viện Hàn lâm Nhi khoa Hoa Kỳ ( AAP ) có khuyến nghị sữa mẹ là dưỡng chất tốt nhất cho trẻ sơ sinh nhưng sự quyết định lựa chọn nuôi con theo cách nào thuộc về quyền cá nhân mỗi người .</s>
+</spair>
+<spair id='461'>
+<s id='en461'>Talk to your health care provider or a lactation consultant if you need more information before making your choice .</s>
+<s id='vn461'>Bạn nên tham khảo ý kiến của bác sĩ hoặc một chuyên viên tư vấn về sữa mẹ nếu bạn cần có thêm thông tin trước khi đưa ra sự quyết định lựa chọn của mình nhé .</s>
+</spair>
+<spair id='462'>
+<s id='en462'>The milk glands in your breasts may have started to make colostrum by now .</s>
+<s id='vn462'>Hiện tuyến sữa dưới vú của bạn có thể đã bắt đầu tiết ra sữa non rồi đấy .</s>
+</spair>
+<spair id='463'>
+<s id='en463'>Colostrum is the pre-milk that provides your baby with calories and nutrients for the first few days before your milk comes in if you plan to breastfeed .</s>
+<s id='vn463'>Sữa non là sữa ban đầu có tác dụng cung cấp cho bé nhiều ca-lo và dưỡng chất thiết yếu trong vài ngày đầu trước khi sữa tiết ra nhiều hơn nếu bạn có ý định nuôi con bằng sữa mẹ .</s>
+</spair>
+<spair id='464'>
+<s id='en464'>For others , it is thick and yellowish .</s>
+<s id='vn464'>Với nhiều người khác thì sữa non có màu vàng nhạt và nhiều .</s>
+</spair>
+<spair id='465'>
+<s id='en465'>If you notice your breasts leaking colostrum , you can buy disposable or washable breast pads to protect your clothing .</s>
+<s id='vn465'>Nếu bạn phát hiện thấy vú mình tiết ra sữa non thì bạn có thể mua miếng lót ngực dùng một lần hoặc có thể giặt được để bảo vệ quần áo của mình nhé .</s>
+</spair>
+<spair id='466'>
+<s id='en466'>Week 32</s>
+<s id='vn466'>Tuần 32</s>
+</spair>
+<spair id='467'>
+<s id='en467'>Your baby 's development</s>
+<s id='vn467'>Sự phát triển của bé</s>
+</spair>
+<spair id='468'>
+<s id='en468'>The final touches are being placed on your baby masterpiece .</s>
+<s id='vn468'>Kiệt tác của bạn đang được định hình một vài nét cuối cùng .</s>
+</spair>
+<spair id='469'>
+<s id='en469'>Eyelashes , eyebrows , and the hair on your baby 's head are evident .</s>
+<s id='vn469'>Mi mắt , lông mày , và tóc trên đầu bé đã có thể nhìn thấy rõ ràng hơn .</s>
+</spair>
+<spair id='470'>
+<s id='en470'>The lanugo hair that has covered your baby since the beginning of the second trimester is falling off , although some may remain on the shoulders and back at birth .</s>
+<s id='vn470'>Lớp lông tơ phủ đầy cơ thể bé từ đầu quý thai kỳ thứ hai bắt đầu rụng , dẫu rằng lúc sinh ra bé vẫn còn một ít vẫn còn trên vai và lưng .</s>
+</spair>
+<spair id='471'>
+<s id='en471'>At about 4 pounds ( 1,800 grams ) and 11.4 inches ( 29cm ) from crown to rump , your baby would have an excellent chance of survival outside the womb if you delivered now .</s>
+<s id='vn471'>Bé cân nặng khoảng 4 pao ( 1,800 gram ) và chiều dài từ đầu đến mông khoảng 11.4 in-sơ ( 29 cm ) , bé của bạn sẽ có khả năng sống sót bên ngoài tử cung nếu bạn sinh vào thời điểm này .</s>
+</spair>
+<spair id='472'>
+<s id='en472'>Your body</s>
+<s id='vn472'>Cơ thể của mẹ</s>
+</spair>
+<spair id='473'>
+<s id='en473'>During your prenatal visits , your health care provider will monitor your blood pressure , urine , and any swelling that may develop , but symptoms such as sudden weight gain , swelling in the hands or face , headaches , or changes in vision can be signs of preeclampsia .</s>
+<s id='vn473'>Trong lần khám thai vào tuần này , bác sĩ sẽ theo dõi huyết áp , kiểm tra nước tiểu , và bất cứ triệu chứng sưng phù nào của bạn , nhưng các triệu chứng như tăng cân đột ngột , sưng phù tay và mặt , nhức đầu hay thay đổi thị giác có thể là dấu hiệu của chứng tiền sản giật .</s>
+</spair>
+<spair id='474'>
+<s id='en474'>This condition causes high blood pressure and protein in the urine .</s>
+<s id='vn474'>Chứng tiền sản giật này có thể làm cao huyết áp và sinh prô-tê-in trong nước tiểu .</s>
+</spair>
+<spair id='475'>
+<s id='en475'>Be sure to tell your healthcare provider if you experience any of these symptoms , since this condition can affect both the mother and fetus during the second half of pregnancy .</s>
+<s id='vn475'>Hãy nói cho bác sĩ biết nếu bạn phát hiện bất cứ các triệu chứng này , vì chứng bệnh này có thể gây ảnh hưởng đến cả mẹ và thai nhi trong nửa sau của thai kỳ .</s>
+</spair>
+<spair id='476'>
+<s id='en476'>Week 33</s>
+<s id='vn476'>Tuần 33</s>
+</spair>
+<spair id='477'>
+<s id='en477'>Your baby 's development</s>
+<s id='vn477'>Sự phát triển của bé</s>
+</spair>
+<spair id='478'>
+<s id='en478'>In these last few weeks before delivery , the billions of developed neurons in your baby 's brain are helping him or her to learn about the in-utero environment - your baby can listen , feel , and even see somewhat .</s>
+<s id='vn478'>Trong một vài tuần cuối trước khi sinh , hàng tỉ tế bào phát triển trong não của bé có thể giúp bé nhận biết về môi trường bên trong tử cung - bé có thể nghe được , sờ chạm được và thậm chí còn có thể nhìn thấy được chút ít .</s>
+</spair>
+<spair id='479'>
+<s id='en479'>Your baby 's eyes can detect light and the pupils can constrict and dilate in response to light .</s>
+<s id='vn479'>Mắt của bé có thể nhận biết được ánh sáng và đồng tử đã có thể co giãn để phản ứng với ánh sáng .</s>
+</spair>
+<spair id='480'>
+<s id='en480'>Like a newborn , your baby sleeps much of the time and even experiences the rapid eye movement stage , the sleep stage during which our most vivid dreams occur !</s>
+<s id='vn480'>Giống như một đứa trẻ sơ sinh , giờ đây bé ngủ rất nhiều và thậm chí còn trải qua giai đoạn cử động mắt rất nhanh , giai đoạn ngủ mà trong đó hầu hết các giấc mơ sống động nhất của chúng ta thường xảy đến !</s>
+</spair>
+<spair id='481'>
+<s id='en481'>Your baby 's lungs are almost completely matured .</s>
+<s id='vn481'>Phổi của bé giờ đây hầu như đã phát triển hoàn thiện .</s>
+</spair>
+<spair id='482'>
+<s id='en482'>Fat will continue to be deposited on your baby 's body for protection and warmth .</s>
+<s id='vn482'>Cơ thể bé vẫn tiếp tục tích tụ mỡ để bảo vệ cho bé và giữ nhiệt cho cơ thể bé .</s>
+</spair>
+<spair id='483'>
+<s id='en483'>Babies gain a good deal of their weight in the final few weeks before birth .</s>
+<s id='vn483'>Bé tăng cân nhanh vào một vài tuần cuối trước khi sinh .</s>
+</spair>
+<spair id='484'>
+<s id='en484'>Your body</s>
+<s id='vn484'>Cơ thể của mẹ</s>
+</spair>
+<spair id='485'>
+<s id='en485'>With labor and delivery only 2 months away , you may be considering how you 'll cope with pain during childbirth .</s>
+<s id='vn485'>Chỉ còn 2 tháng nữa thôi là bạn sẽ đau đẻ và sẽ sinh con , điều bạn quan tâm hiện giờ là làm sao để có thể đối phó với cơn đau đẻ .</s>
+</spair>
+<spair id='486'>
+<s id='en486'>Among the things you 'll want to learn about are the most commonly used techniques for pain relief .</s>
+<s id='vn486'>Bạn cũng muốn tìm hiểu về các kĩ thuật hỗ trợ giảm đau khi sinh phổ biến nhất .</s>
+</spair>
+<spair id='487'>
+<s id='en487'>These include breathing techniques such as those taught in Lamaze classes , pain-relief medications given through injection , and epidurals , where doctors can give an anesthetic by means of a soft , thin catheter that 's placed in your lower back .</s>
+<s id='vn487'>Những kĩ thuật đó bao gồm kĩ thuật hít thở như những điều được dạy ở phương pháp sinh đẻ tự nhiên chuẩn bị tâm lý chu đáo trước khi sinh , sử dụng thuốc giảm đau đường tiêm , và phương pháp gây tê ngoài màng cứng , bác sĩ sẽ gây tê bằng một ống thông tiểu nhỏ và mềm và định vị ở vùng lưng dưới của bạn .</s>
+</spair>
+<spair id='488'>
+<s id='en488'>Whatever your ultimate choice , the more you know , the better informed your decision can be .</s>
+<s id='vn488'>Dù cho sự lựa chọn cuối cùng của bạn là gì đi nữa , thì nếu bạn càng hiểu biết nhiều thì bạn càng đưa ra quyết đinh am hiểu hơn .</s>
+</spair>
+<spair id='489'>
+<s id='en489'>Although you do n't have to make a decision yet , talk to your health care provider now about your choices .</s>
+<s id='vn489'>Dẫu là giờ đây bạn chưa cần phải quyết định gì cả , bạn nên tham khảo ý kiến của bác sĩ về sự lựa chọn của mình .</s>
+</spair>
+<spair id='490'>
+<s id='en490'>Week 34</s>
+<s id='vn490'>Tuần 34</s>
+</spair>
+<spair id='491'>
+<s id='en491'>Your baby 's development</s>
+<s id='vn491'>Sự phát triển của bé</s>
+</spair>
+<spair id='492'>
+<s id='en492'>Maternal calcium intake is extremely important during pregnancy because the baby will draw calcium from the mother to make and harden bone .</s>
+<s id='vn492'>Việc bổ sung can-xi cho người mẹ là điều vô cùng quan trọng trong thời kỳ thai nghén vì bé sẽ lấy can-xi của mẹ để tạo xương và làm cho xương cứng cáp .</s>
+</spair>
+<spair id='493'>
+<s id='en493'>If a pregnant woman does n't get enough calcium during pregnancy , it can affect her own bones because the developing fetus will take minerals from the mother 's skeletal structure as needed .</s>
+<s id='vn493'>Nếu phụ nữ mang thai không bổ sung đầy đủ can-xi trong thời gian thai kỳ thì nó có thể ảnh hưởng đến xương của chính người mẹ vì bào thai đang phát triển sẽ lấy khoáng chất từ cấu trúc xương của người mẹ khi cần thiết .</s>
+</spair>
+<spair id='494'>
+<s id='en494'>The vernix coating on the baby 's skin is becoming thicker , whereas lanugo hair is almost completely gone .</s>
+<s id='vn494'>Lớp bã nhờn thai nhi trên da bé ngày càng trở nên dày hơn , trong khi đó lớp lông tơ hầu như hoàn toàn biến mất .</s>
+</spair>
+<spair id='495'>
+<s id='en495'>By now most babies will be in position for delivery .</s>
+<s id='vn495'>Ở thời điểm này thì hầu hết em bé đều ở vị trí sẵn sàng cho việc sinh nở .</s>
+</spair>
+<spair id='496'>
+<s id='en496'>Your health care provider can tell you if your baby is positioned head - or bottom-first .</s>
+<s id='vn496'>Bác sĩ có thể cho bạn biết bé hiện đang có ngôi đầu hay ngôi mông .</s>
+</spair>
+<spair id='497'>
+<s id='en497'>Babies born at 34 weeks usually have fairly well-developed lungs , and their average size of 5 pounds ( 2,250 grams ) and 12.6 inches ( 32cm ) from crown to rump allows them to survive outside the womb without extensive medical intervention .</s>
+<s id='vn497'>Bé được sinh ở tuần 34 này thường có phổi phát triển khá đầy đủ , kích thước trung bình của bé là 5 pao ( 2,250 gram ) và dài 12.6 in-sơ ( 32 cm ) từ đỉnh đầu đến mông ; bé có thể sống khoẻ mạnh bên ngoài tử cung mà không cần y học can thiệp gì nhiều .</s>
+</spair>
+<spair id='498'>
+<s id='en498'>Your body</s>
+<s id='vn498'>Cơ thể của mẹ</s>
+</spair>
+<spair id='499'>
+<s id='en499'>Fatigue is a common complaint of late pregnancy .</s>
+<s id='vn499'>Vào giai đoạn cuối thai kỳ , các bà mẹ thường hay than phiền là mệt mỏi .</s>
+</spair>
+<spair id='500'>
+<s id='en500'>Difficult sleeping , aches and pains , weight gain , and anxiety about labor , delivery , and taking care of a newborn may contribute to your exhaustion .</s>
+<s id='vn500'>Sự khó ngủ , đau nhức , tăng cân , lo lắng về cơn đau đẻ , sinh nở , và cả việc chăm sóc trẻ sơ sinh có thể là những nguyên nhân góp phần làm cho bạn thêm mệt mỏi .</s>
+</spair>
+<spair id='501'>
+<s id='en501'>Rest as much as you can and take naps if possible .</s>
+<s id='vn501'>Bạn nên nghỉ ngơi càng nhiều càng tốt và ngủ bất cứ khi nào có thể nhé .</s>
+</spair>
+<spair id='502'>
+<s id='en502'>Week 35</s>
+<s id='vn502'>Tuần 35</s>
+</spair>
+<spair id='503'>
+<s id='en503'>Your baby 's development</s>
+<s id='vn503'>Sự phát triển của bé</s>
+</spair>
+<spair id='504'>
+<s id='en504'>Your baby already weighs about 5 pounds , 5 ounces ( 2,400 grams ) , but this week begins your baby 's most rapid period of weight gain - about 8 to 12 ounces ( 226 to 340 grams ) each week !</s>
+<s id='vn504'>Bé đã có thể cân nặng khoảng 5 pao , 5 ao-xơ ( 2,400 gram ) , nhưng ở tuần này là thời gian giúp bé có thể tăng cân nhanh nhất – khoảng chừng từ 8 đến 12 ao-xơ ( 226 đến 340 gram ) mỗi tuần !</s>
+</spair>
+<spair id='505'>
+<s id='en505'>Fat is being deposited all over your baby 's body , especially around the shoulders .</s>
+<s id='vn505'>Cơ thể bé hiện giờ đã tích mỡ khắp cả người , nhất là vùng quanh vai .</s>
+</spair>
+<spair id='506'>
+<s id='en506'>Because of this increasing size , your baby is now cramped and restricted inside the uterus - so fetal movements may decrease , but they may be stronger and more forceful .</s>
+<s id='vn506'>Vì kích thước của bé ngày càng lớn nên bé hiện giờ cảm thấy rất chật chội và bị hạn chế trong tử cung - vì thế các cử động của bé sẽ có thể giảm , nhưng bù lại chúng có thể là mạnh hơn và cứng cáp hơn .</s>
+</spair>
+<spair id='507'>
+<s id='en507'>If your baby is in a headfirst position , his or her head will rest on your pubic bone in preparation for labor .</s>
+<s id='vn507'>Nếu bé có ngôi đầu thì đầu của bé hiện tựa trên xương mu của bạn để chuẩn bị chào đời .</s>
+</spair>
+<spair id='508'>
+<s id='en508'>Your body</s>
+<s id='vn508'>Cơ thể của mẹ</s>
+</spair>
+<spair id='509'>
+<s id='en509'>The bond you may already feel with the baby growing inside of you will only grow stronger once your baby is born .</s>
+<s id='vn509'>Mối dây liên kết mà bạn có thể đã cảm nhận được với đứa con đang ngày càng lớn lên trong bụng mình sẽ chỉ có thể mạnh mẽ hơn khi bé ra đời .</s>
+</spair>
+<spair id='510'>
+<s id='en510'>Bonding - the intense attachment that develops between you and your baby - is not something that only occurs within minutes or days after birth .</s>
+<s id='vn510'>Sợi dây liên kết – sự gắn bó sâu sắc giữa bạn và con không ngừng phát triển – đây không phải là thứ tình cảm chỉ xuất hiện trong một vài phút hay một vài ngày sau khi sinh .</s>
+</spair>
+<spair id='511'>
+<s id='en511'>It may happen later and it may develop over time .</s>
+<s id='vn511'>Nó có thể sẽ xuất hiện về sau và phát triển theo thời gian ; .</s>
+</spair>
+<spair id='512'>
+<s id='en512'>Bonding not only makes you want to protect your baby and shower him or her with affection , but it also fosters your baby 's sense of security in the world outside your womb .</s>
+<s id='vn512'>Nó không những thôi thúc bạn ước muốn bảo vệ cho con , dành tình cảm cho con mà còn là nguồn động lực giúp bé cảm thấy an toàn ở một thế giới bên ngoài tử cung nữa .</s>
+</spair>
+<spair id='513'>
+<s id='en513'>Week 36</s>
+<s id='vn513'>Tuần 36</s>
+</spair>
+<spair id='514'>
+<s id='en514'>Your baby 's development</s>
+<s id='vn514'>Sự phát triển của bé</s>
+</spair>
+<spair id='515'>
+<s id='en515'>The wrinkly , tiny fetus you may have seen on earlier ultrasounds has given way to an almost plump baby .</s>
+<s id='vn515'>Hình ảnh em bé nhỏ xíu , nhăn nheo mà bạn có thể đã nhìn thấy qua xét nghiệm siêu âm trước đây đã được thay bằng hình ảnh một em bé gần như là bụ bẫm dễ thương .</s>
+</spair>
+<spair id='516'>
+<s id='en516'>There is fat on your baby 's cheeks , and powerful sucking muscles also contribute to your baby 's full face .</s>
+<s id='vn516'>Lớp mỡ trên má , và cơ mút cứng cáp hơn cũng góp phần làm cho khuôn mặt bé trông có vẻ đầy đặn hơn .</s>
+</spair>
+<spair id='517'>
+<s id='en517'>Your baby now weighs a little under 6 pounds ( 2,721 grams ) .</s>
+<s id='vn517'>Hiện giờ bé đã có thể cân nặng duới 6 pao một chút ( 2,721 gram ) .</s>
+</spair>
+<spair id='518'>
+<s id='en518'>The bones that make up your baby 's skull can move relative to one another and overlap each other while your baby 's head is inside your pelvis .</s>
+<s id='vn518'>Khi đầu của bé nằm trong khung chậu của bạn thì các xương tạo nên hộp sọ của bé cũng đã có thể di chuyển cân xứng với nhau và chồng chéo vào nhau .</s>
+</spair>
+<spair id='519'>
+<s id='en519'>This phenomenon is called molding , and it helps the baby pass through the birth canal .</s>
+<s id='vn519'>Hiện tượng này được gọi là sự đúc khuôn hộp sọ , và giúp cho em bé qua đường sinh .</s>
+</spair>
+<spair id='520'>
+<s id='en520'>Do n't be surprised if your baby arrives with a pointy or misshapen head !</s>
+<s id='vn520'>Thế nên đừng ngạc nhiên khi thấy bé được sinh ra có đầu nhọn hay bị méo nhé !</s>
+</spair>
+<spair id='521'>
+<s id='en521'>After a few hours or days , your baby 's head will be back to a rounded shape .</s>
+<s id='vn521'>Sau một vài tiếng đồng hồ hay một vài ngày thì đầu của bé sẽ trở lại hình dạng tròn thôi .</s>
+</spair>
+<spair id='522'>
+<s id='en522'>Your body</s>
+<s id='vn522'>Cơ thể của mẹ</s>
+</spair>
+<spair id='523'>
+<s id='en523'>Starting this week , you may begin to see your health care provider every week .</s>
+<s id='vn523'>Bắt đầu từ tuần này , bạn có thể phải đến khám bác sĩ mỗi tuần rồi .</s>
+</spair>
+<spair id='524'>
+<s id='en524'>Your doctor or midwife may give you an internal exam to determine if thinning of the cervix or opening of the cervix has begun .</s>
+<s id='vn524'>Bác sĩ hoặc bà mụ có thể khám bên trong để phát hiện xem cổ tử cung của bạn có hẹp hay giãn không .</s>
+</spair>
+<spair id='525'>
+<s id='en525'>You may experience engagement , which is when the baby drops into the mother 's pelvis in preparation for labor .</s>
+<s id='vn525'>Bạn cũng có thể có cảm giác sa bụng , khi bé đã xuống khung chậu của mẹ để chuẩn bị cho cơn đau đẻ .</s>
+</spair>
+<spair id='526'>
+<s id='en526'>Your appetite may return because the baby is no longer putting as much pressure on your stomach and intestines , and if you 've been experiencing heartburn , the baby 's descent may somewhat alleviate it .</s>
+<s id='vn526'>Hiện giờ bạn cũng có thể có cảm giác thèm ăn trở lại vì bé đã không còn nằm đè lên dạ dày và ruột của bạn nhiều nữa , và nếu bạn bị ợ nóng thì việc bé nằm tụt xuống cũng có thể làm cho bạn dịu bớt phần nào .</s>
+</spair>
+<spair id='527'>
+<s id='en527'>Week 37</s>
+<s id='vn527'>Tuần 37</s>
+</spair>
+<spair id='528'>
+<s id='en528'>Your baby 's development</s>
+<s id='vn528'>Sự phát triển của bé</s>
+</spair>
+<spair id='529'>
+<s id='en529'>This week , your baby is considered full-term !</s>
+<s id='vn529'>Vào tuần này thì bé của bạn đã được coi là đủ tháng rồi đấy !</s>
+</spair>
+<spair id='530'>
+<s id='en530'>But your baby has n't stopped growing yet .</s>
+<s id='vn530'>Nhưng bé vẫn còn tiếp tục phát triển .</s>
+</spair>
+<spair id='531'>
+<s id='en531'>He or she continues to develop fat at the rate of half an ounce ( 14 grams ) a day .</s>
+<s id='vn531'>Bé tiếp tục tích thêm mỡ với tỉ lệ 0,5 ao-xơ ( 14 gram ) mỗi ngày .</s>
+</spair>
+<spair id='532'>
+<s id='en532'>In general , boys weigh more than girls at birth .</s>
+<s id='vn532'>Thông thường thì khi sinh ra bé trai sẽ cân nặng hơn bé gái .</s>
+</spair>
+<spair id='533'>
+<s id='en533'>Your baby has developed enough coordination to grasp with the fingers .</s>
+<s id='vn533'>Bé hiện đã phát triển đầy đủ để có thể dùng các ngón tay để phối hợp nắm bắt .</s>
+</spair>
+<spair id='534'>
+<s id='en534'>If shown a bright light , your baby may turn toward it in your uterus .</s>
+<s id='vn534'>Nếu bị chiếu ánh đèn sáng vào thì bé có thể quay mặt về phía bên trong tử cung của bạn .</s>
+</spair>
+<spair id='535'>
+<s id='en535'>Your body</s>
+<s id='vn535'>Cơ thể của mẹ</s>
+</spair>
+<spair id='536'>
+<s id='en536'>After this week , you may lose the mucous plug that sealed off your uterus from infection .</s>
+<s id='vn536'>Sau tuần này , nút nhầy trong tử cung bạn có thể sẽ bong ra - nó có tác dụng bít kín cổ tử cung tránh viêm nhiễm .</s>
+</spair>
+<spair id='537'>
+<s id='en537'>The mucous plug can be lost a few weeks , days , or hours before labor and is thick , yellowish , and may be tinged with blood ( the mucous plug is also called bloody show ) .</s>
+<s id='vn537'>Tuy nhiên nút nhầy này chỉ có thể mất đi trước khi đau đẻ một vài tuần , một vài ngày , hay một vài tiếng đồng hồ và trông có vẻ sền sệt , màu vàng nhạt , và cũng có thể lẫn một chút máu ( chất nhầy này cũng gọi là nước đầu ối có máu ) .</s>
+</spair>
+<spair id='538'>
+<s id='en538'>As the cervix dilates in preparation for the labor , the plug is discharged from the body .</s>
+<s id='vn538'>Khi cổ tử cung giãn ra để chuẩn bị cho cơn đau đẻ thì chất nhầy được thải ra hết khỏi cơ thể .</s>
+</spair>
+<spair id='539'>
+<s id='en539'>Be sure to speak with your health care provider about any discharge you may be having .</s>
+<s id='vn539'>Bạn nên cho bác sĩ biết về bất cứ hiện tượng tiết chất nhầy này bên trong cơ thể của mình nhé .</s>
+</spair>
+<spair id='540'>
+<s id='en540'>Week 38</s>
+<s id='vn540'>Tuần 38</s>
+</spair>
+<spair id='541'>
+<s id='en541'>Your baby 's development</s>
+<s id='vn541'>Sự phát triển của bé</s>
+</spair>
+<spair id='542'>
+<s id='en542'>Your baby weighs about 6 pounds , 6 ounces ( 2,900 grams ) by now and measures about 13.4 inches ( 34 c m ) in length from crown to rump .</s>
+<s id='vn542'>Lúc này bé đã cân nặng được khoảng 6 pao , 6 ao-xơ ( 2,900 gram ) và chiều dài từ đầu đến mông khoảng 13.4 in-sơ .</s>
+</spair>
+<spair id='543'>
+<s id='en543'>Fat is still accumulating , although growth is slower now .</s>
+<s id='vn543'>Cơ thể tiếp tục tích thêm mỡ mặc dù sức tăng trọng hiện giờ chậm hơn .</s>
+</spair>
+<spair id='544'>
+<s id='en544'>You may notice that your weight gain has decreased or ceased .</s>
+<s id='vn544'>Bạn cũng có thể phát hiện thấy mức tăng trọng của bé đã giảm hoặc ngưng lại .</s>
+</spair>
+<spair id='545'>
+<s id='en545'>Since your baby has had the muscles to suck and swallow amniotic fluid , waste material has been accumulating in his or her intestines .</s>
+<s id='vn545'>Vì bé đã phát triển cơ mút và nuốt nước ối nên chất thải đã tích tụ lại trong ruột của bé .</s>
+</spair>
+<spair id='546'>
+<s id='en546'>Cells shed from the intestines , dead skin cells , and lanugo hair are some of the waste products that contribute to meconium , a greenish-black substance that constitutes your baby 's first bowel movement .</s>
+<s id='vn546'>Các tế bào thải ra từ ruột , tế bào da chết , và lông măng rụng đi là các chất thải tạo thành phân của bé , phân su có màu xanh sẫm trong lần bé đi tiêu đầu tiên .</s>
+</spair>
+<spair id='547'>
+<s id='en547'>If you 're having a boy , his testicles have descended into the scrotum , unless he has a condition called undescended testicle .</s>
+<s id='vn547'>Nếu bé của bạn là trai thì tinh hoàn đã tụt xuống bìu , trừ khi bé có dấu hiệu gọi là chứng tinh hoàn ẩn .</s>
+</spair>
+<spair id='548'>
+<s id='en548'>If you 're having a girl , the labia are now completely developed .</s>
+<s id='vn548'>Nếu bé của bạn là gái thì môi âm hộ đã phát triển hoàn chỉnh .</s>
+</spair>
+<spair id='549'>
+<s id='en549'>Your body</s>
+<s id='vn549'>Cơ thể của mẹ</s>
+</spair>
+<spair id='550'>
+<s id='en550'>Because your baby is engaged in your pelvis , your bladder is extremely compressed , making frequent bathroom trips a necessity .</s>
+<s id='vn550'>Vì thai nhi giờ đây đã tụt xuống khung xương chậu nên bàng quang của bạn bị chèn ép rất nhiều , đó là lý do khiến bạn đi tiểu thường xuyên hơn .</s>
+</spair>
+<spair id='551'>
+<s id='en551'>Have you and your partner made a decision about circumcision ?</s>
+<s id='vn551'>Bạn và ông xã đã nghĩ đến chuyện cắt bao quy đầu cho bé chưa ?</s>
+</spair>
+<spair id='552'>
+<s id='en552'>Circumcision is a surgical procedure to remove the foreskin of the penis in male babies .</s>
+<s id='vn552'>Cắt bao quy đầu là một thủ thuật cắt bỏ đi lớp da thừa phía trên đầu dương vật của bé trai .</s>
+</spair>
+<spair id='553'>
+<s id='en553'>For some parents the decision to circumcise is a religious one .</s>
+<s id='vn553'>Một số bậc bố mẹ tiến hành làm thủ thuật này cho con vì lý do tôn giáo .</s>
+</spair>
+<spair id='554'>
+<s id='en554'>For others , the choice is not as easily made .</s>
+<s id='vn554'>Đối với một số khác thì quyết định này quả thực là không dễ dàng .</s>
+</spair>
+<spair id='555'>
+<s id='en555'>Talk to your health care provider about the issues surrounding circumcision , including pain relief options for the baby .</s>
+<s id='vn555'>Bạn nên tham khảo ý kiến của bác sĩ xung quanh vấn đề về thủ thuật cắt bao quy đầu này , bao gồm cả những biện pháp giảm đau cho bé nữa nhé .</s>
+</spair>
+<spair id='556'>
+<s id='en556'>Week 39</s>
+<s id='vn556'>Tuần 39</s>
+</spair>
+<spair id='557'>
+<s id='en557'>Your baby 's development</s>
+<s id='vn557'>Sự phát triển của bé</s>
+</spair>
+<spair id='558'>
+<s id='en558'>Umbilical cords , which carry nutrients from the placenta to the baby , vary in size but average about 22 inches ( 55cm ) long and half an inch ( 1-2 cm ) thick .</s>
+<s id='vn558'>Dây rốn , cung cấp dưỡng chất cho bé qua nhau thai hiện đã thay đổi kích thước nhưng trung bình dài khoảng chừng 22 in-sơ ( 55 cm ) và dày khoảng 0,5 in-sơ ( 1-2 cm ) .</s>
+</spair>
+<spair id='559'>
+<s id='en559'>Sometimes the umbilical cord can become wrapped around a baby 's neck .</s>
+<s id='vn559'>Đôi khi dây rốn quấn quanh cổ của bé .</s>
+</spair>
+<spair id='560'>
+<s id='en560'>Generally , this does n't cause problems , although a cesarean delivery could be required if it causes pressure on the umbilical cord during labor or delivery .</s>
+<s id='vn560'>Thông thường thì điều này không gây vấn đề hay nguy hiểm gì cho bé , và nếu dây rốn bị đè trong khi mẹ đau đẻ hay lúc sinh thì phải dùng đến thuật mổ bắt con .</s>
+</spair>
+<spair id='561'>
+<s id='en561'>Most of the vernix that covered your baby 's skin has disappeared , as has the lanugo .</s>
+<s id='vn561'>Hầu hết lớp lông măng phủ trên da của bé giờ đây đã biến mất .</s>
+</spair>
+<spair id='562'>
+<s id='en562'>Your body has been supplying the baby with antibodies through the placenta that will help the baby 's immune system fight infection for the first 6-12 months of life .</s>
+<s id='vn562'>Cơ thể của bạn cung cấp kháng thể cho bé qua nhau thai giúp hệ miễn dịch của bé có thể kháng lại nhiễm trùng trong 6 đến 12 tháng đầu đời .</s>
+</spair>
+<spair id='563'>
+<s id='en563'>Your body</s>
+<s id='vn563'>Cơ thể của mẹ</s>
+</spair>
+<spair id='564'>
+<s id='en564'>Braxton Hicks contractions may become more pronounced .</s>
+<s id='vn564'>Các cơn chuyển dạ giả hiện có thể trở nên rõ rệt hơn .</s>
+</spair>
+<spair id='565'>
+<s id='en565'>Also called " false labor , " these contractions may be as painful and strong as true labor contractions but do not become regular and do not increase in frequency as true contractions do .</s>
+<s id='vn565'>Mặc dù được gọi là " cơn chuyển dạ giả " nhưng những cơn co thắt này có thể mạnh và gây đau đớn như cơn co thắt chuyển dạ thật nhưng không thường xuyên và không tăng về tần số như các co thắt thật .</s>
+</spair>
+<spair id='566'>
+<s id='en566'>Another sign of labor , the rupture of your amniotic sac , could happen any day now .</s>
+<s id='vn566'>Một dấu hiệu đau đẻ khác là hiện tượng vỡ túi ối , có thể xuất hiện vào bất cứ lúc nào kể từ tuần này .</s>
+</spair>
+<spair id='567'>
+<s id='en567'>When their water breaks , some women experience a large gush of water and some feel a steady trickle .</s>
+<s id='vn567'>Một số thai phụ chảy rất nhiều nước ối trong khi số khác chỉ rỉ đều đều rất ít nước ối khi vỡ ối .</s>
+</spair>
+<spair id='568'>
+<s id='en568'>Many women do n't experience their water breaking until they 're well into labor .</s>
+<s id='vn568'>Nhiều thai phụ đến khi đau đẻ nhiều mới bị vỡ ối .</s>
+</spair>
+<spair id='569'>
+<s id='en569'>Others need to have their water broken by their health care providers to get their labor started or to speed it up .</s>
+<s id='vn569'>Số khác cần đến bác sĩ hỗ trợ để làm vỡ ối nhằm gây đau đẻ hoặc giục sanh .</s>
+</spair>
+<spair id='570'>
+<s id='en570'>If you think your water has broken or you are experiencing regular contractions , contact your health care provider .</s>
+<s id='vn570'>Nếu bạn nghĩ mình đã vỡ ối hay thấy các cơn co thắt xuất hiện thường xuyên thì nên liên lạc với bác sĩ ngay lập tức .</s>
+</spair>
+<spair id='571'>
+<s id='en571'>Week 40</s>
+<s id='vn571'>Tuần 40</s>
+</spair>
+<spair id='572'>
+<s id='en572'>You baby 's development</s>
+<s id='vn572'>Sự phát triển của bé</s>
+</spair>
+<spair id='573'>
+<s id='en573'>After many weeks of anticipation and preparation , your baby is here !</s>
+<s id='vn573'>Sau nhiều tuần chờ đợi và chuẩn bị thì giờ đây em bé của bạn đã ra đời rồi đấy !</s>
+</spair>
+<spair id='574'>
+<s id='en574'>Or maybe not - only 5% of women deliver on their estimated due dates , and many first-time mothers find themselves waiting up to 2 weeks after their due date for their baby to arrive .</s>
+<s id='vn574'>Hoặc có thể là chưa ra đời - chỉ 5% thai phụ sinh con đúng vào ngày dự sinh , và nhiều phụ nữ sinh con đầu lòng thường chuyển dạ chậm hơn ngày dự sinh đến 2 tuần .</s>
+</spair>
+<spair id='575'>
+<s id='en575'>A baby born at 40 weeks weighs , on average , about 7 pounds , 4 ounces ( 3,300 grams ) and measures about 20 inches ( 51 cm ) .</s>
+<s id='vn575'>Bé được sinh vào tuần 40 thường có cân nặng trung bình khoảng chừng 7 pao , 4 ao-xơ ( 3,300 gram ) và dài khoảng 20 in-sơ ( 51 cm ) .</s>
+</spair>
+<spair id='576'>
+<s id='en576'>Do n't expect your baby to look like the Gerber baby right off the bat - newborns often have heads temporarily misshapen from the birth canal and may be covered with vernix and blood .</s>
+<s id='vn576'>Đừng mong là con mình sẽ trông bụ bẫm như một em bé trên hình quảng cáo nào đó nhé - trẻ sơ sinh thường có đầu méo vì phải qua đường sinh của mẹ và có thể dính đầy bã nhờn thai nhi và máu nữa .</s>
+</spair>
+<spair id='577'>
+<s id='en577'>Your baby 's skin may have skin discolorations , dry patches , and rashes - these many variations are completely normal .</s>
+<s id='vn577'>Da của bé hiện giờ có thể trông bạc thếch , có nhiều mảng khô , và rôm bớt - các sự thay đổi này đều là bình thường thôi .</s>
+</spair>
+<spair id='578'>
+<s id='en578'>Because of the presence of your hormones in your baby 's system , your baby 's genitals ( scrotum in boys and labia in girls ) may appear enlarged .</s>
+<s id='vn578'>Vì các hooc-môn của bạn tồn tại trong cơ thể bé nên bộ phận sinh dục ngoài của bé ( bìu của bé trai và môi âm hộ của bé gái ) có thể trông lớn hơn bình thường .</s>
+</spair>
+<spair id='579'>
+<s id='en579'>Your baby , whether a boy or a girl , may even secrete milk from the tiny nipples .</s>
+<s id='vn579'>Bất kể bé là trai hay gái , trên đầu vú của bé có thể tiết ra một tí sữa .</s>
+</spair>
+<spair id='580'>
+<s id='en580'>This should disappear in a few days and is completely normal .</s>
+<s id='vn580'>Điều này hoàn toàn bình thường và biến mất trong một vài ngày thôi .</s>
+</spair>
+<spair id='581'>
+<s id='en581'>Right after birth , your health care provider will suction mucus out of your baby 's mouth and nose , and you 'll hear that long-awaited first cry .</s>
+<s id='vn581'>Ngay sau khi sinh , bác sĩ sẽ hút hết các chất nhầy trong miệng và mũi của bé , và bạn sẽ nghe được tiếng khóc đầu tiên được chờ đợi rất lâu .</s>
+</spair>
+<spair id='582'>
+<s id='en582'>Your baby may then be placed on your stomach , and the umbilical cord will be cut .</s>
+<s id='vn582'>Bác sĩ sẽ đặt bé trên bụng của bạn và cắt dây rốn cho bé .</s>
+</spair>
+<spair id='583'>
+<s id='en583'>A series of quick screening tests , such as the Apgar score , will be performed to assess your baby 's responsiveness and vital signs , and he or she will be weighed and measured .</s>
+<s id='vn583'>Bé sẽ được làm một chuỗi các thủ thuật kiểm tra nhanh , như đo chỉ số Apgar , để xác định các phản ứng và dấu hiệu sự sống của bé , đồng thời bé còn được đo chỉ số cân nặng và chiều dài nữa .</s>
+</spair>
+<spair id='584'>
+<s id='en584'>If your pregnancy was high risk , or if a cesarean section was necessary , a neonatologist ( a doctor who specializes in newborn intensive care ) will be present at your delivery to take care of your baby right away .</s>
+<s id='vn584'>Nếu tình trạng thai nghén của bạn có nhiều rủi ro , hoặc nếu bạn phải mổ bắt con thì bác sĩ sơ sinh ( bác sĩ chuyên chăm sóc đặc biệt cho trẻ sơ sinh ) sẽ có mặt khi bạn sinh để chăm sóc cho bé của bạn ngay tức khắc và bác sĩ sẽ hỗ trợ .</s>
+</spair>
+<spair id='585'>
+<s id='en585'>If your baby needs any special care to adjust to life outside the womb , it will be given - and then your newborn will be placed in your waiting arms .</s>
+<s id='vn585'>Nếu bé cần chăm sóc đặc biệt để thích nghi với môi trường sống bên ngoài tử cung – và bé sẽ được đặt nằm trong vòng tay ấm áp chờ đợi của bạn ngay ấy mà .</s>
+</spair>
+<spair id='586'>
+<s id='en586'>Your body</s>
+<s id='vn586'>Cơ thể của mẹ</s>
+</spair>
+<spair id='587'>
+<s id='en587'>This week you 'll experience the moment you 've been anticipating - your introduction to your baby !</s>
+<s id='vn587'>Tuần lễ này bạn sẽ phải trải qua những giây khắc mà bạn đã tiên lượng trước – đó là được gặp em bé của mình !</s>
+</spair>
+<spair id='588'>
+<s id='en588'>Before you can meet your baby , though , you have to go through labor and delivery .</s>
+<s id='vn588'>Dẫu vậy , để gặp được bé , bạn phải trải qua cuộc đau đẻ và sinh con đầy gian khổ đấy .</s>
+</spair>
+<spair id='589'>
+<s id='en589'>You may have learned about the three stages of birth in your prenatal classes .</s>
+<s id='vn589'>Bạn có thể đã biết 3 giai đoạn trong quá trình chuyển dạ ở các lớp học tiền sản rồi .</s>
+</spair>
+<spair id='590'>
+<s id='en590'>The first stage of labor works to thin and stretch your cervix by contracting your uterus at regular intervals .</s>
+<s id='vn590'>Giai đoạn đầu của quá trình chuyển dạ làm co giãn cổ tử cung bằng cách làm co thắt tử cung của bạn một cách đều đặn .</s>
+</spair>
+<spair id='591'>
+<s id='en591'>The second stage of labor is when you push your baby into the vaginal canal and out of your body .</s>
+<s id='vn591'>Giai đoạn thứ hai là lúc bạn rặn để đẩy em bé qua đường sinh và ra ngoài cơ thể .</s>
+</spair>
+<spair id='592'>
+<s id='en592'>The third and final stage of labor is when you deliver the placenta .</s>
+<s id='vn592'>Giai đoạn thứ ba , giai đoạn cuối là lúc nhau thai của bạn bong tróc ra .</s>
+</spair>
+<spair id='593'>
+<s id='en593'>If you do n't go into labor within a week of your due date , your health care provider may recommend you receive a nonstress test , which monitors fetal heart rate and movement to be sure that the baby is receiving adequate oxygen and that the nervous system is responding .</s>
+<s id='vn593'>Nếu sau ngày dự sinh một tuần mà bạn vẫn chưa có dấu hiệu chuyển dạ , bác sĩ sẽ có thể cho bạn làm xét nghiệm theo dõi nhịp tim thai và hoạt động của thai nhi để chắc rằng bé đang được nhận đủ khí ô-xy và hệ thần kinh của bé đang hoạt động tốt .</s>
+</spair>
+<spair id='594'>
+<s id='en594'>Talk to your health care provider to find out more about this test .</s>
+<s id='vn594'>Hãy tham khảo ý kiến của bác sĩ để hiểu hơn về phương pháp xét nghiệm này nhé .</s>
+</spair>
+<spair id='595'>
+<s id='en595'>If your labor is n't progressing , or if your health or your baby 's health requires it , your health care provider may induce labor by artificially rupturing the membranes or by administering the hormone oxytocin or other medications .</s>
+<s id='vn595'>Nếu quá trình chuyển dạ của bạn chẳng có gì tiến triển hoặc nếu sức khỏe của bạn và của bé không ổn định , bác sĩ sẽ tiến hành giục sanh cho bạn bằng cách chọc ối hay bằng cách tiêm hooc-môn oxytocin hoặc các loại thuốc khác .</s>
+</spair>
+<spair id='596'>
+<s id='en596'>If your pregnancy is high risk , or if there are any other potential complications , you may require a cesarean section delivery .</s>
+<s id='vn596'>Nếu thai của bạn có nguy cơ rủi ro cao , hoặc nếu thai có biến chứng tiềm ẩn khác thì bạn cần phải mổ bắt con đấy .</s>
+</spair>
+<spair id='597'>
+<s id='en597'>Some women know ahead of time that they will be delivering via cesarean section and are able to schedule their baby 's " birth day " well in advance .</s>
+<s id='vn597'>Một số thai phụ biết trước rằng mình sẽ sinh mổ và có thể lựa chọn ngày sinh cho bé .</s>
+</spair>
+<spair id='598'>
+<s id='en598'>If you 're one of them , you 've probably been able to prepare yourself emotionally and mentally for the birth - which can help to lessen the feelings of disappointment that many mothers who are unable to deliver vaginally experience .</s>
+<s id='vn598'>Nếu bạn cũng ở trong trường hợp phải sinh mổ như vậy thì ắt bạn cũng đã tự chuẩn bị tinh thần và nhẩm tính ngày sinh – điều này cũng giúp bạn đỡ thất vọng khi biết rằng cũng có nhiều phụ nữ không sinh con qua đường âm đạo bình thường được .</s>
+</spair>
+<spair id='599'>
+<s id='en599'>But even if you have to undergo a cesarean section that was n't planned , rest assured that you 'll still be able to bond with your baby .</s>
+<s id='vn599'>Nhưng dẫu bạn có phải qua một cuộc phẫu thuật mổ bắt con không được dự trù trước thì bạn cũng nên tin là giữa bạn và bé vẫn có một mối dây ràng buộc rất đặc biệt .</s>
+</spair>
+<spair id='600'>
+<s id='en600'>It might not be the birth experience you imagined , but your beautiful newborn has arrived nonetheless .</s>
+<s id='vn600'>Đó có thể không là những trải nghiệm về một cuộc sinh nở mà bạn hằng tưởng tượng nhưng dù sao thì giờ đây bên cạnh bạn đã có sự hiện diện của đứa con yêu thương xinh xắn của mình rồi .</s>
+</spair>
+<spair id='601'>
+<s id='en601'>The months of waiting are over !</s>
+<s id='vn601'>Những tháng ngày chờ mong bây giờ đã khép lại !</s>
+</spair>
+<spair id='602'>
+<s id='en602'>Good luck with your baby !</s>
+<s id='vn602'>Chúc thiên thần bé nhỏ của bạn được nhiều may mắn trong đời nhé !</s>
+</spair>
+</text>
+</doc>

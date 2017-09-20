@@ -1,0 +1,144 @@
+﻿<doc id='N0254'>
+<head>
+<title>Doctors ' Religious Faith Influences End Of Life Care</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Doctors ' Religious Faith Influences End Of Life Care</s>
+<s id='vn1'>Đức tin tôn giáo của bác sĩ ảnh hưởng đến việc Chăm sóc cuối đời</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A new study from the UK suggests that doctors ' religious faith strongly influences end of life care .</s>
+<s id='vn2'>Một nghiên cứu mới từ Vương quốc Anh cho thấy rằng đức tin tôn giáo của bác sĩ có ảnh hưởng mạnh mẽ đối với việc chăm sóc cuối đời .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Agnostic and atheist doctors nearly twice as willing to take decisions that speed up end of life for very sick patients compared to their deeply religious peers .</s>
+<s id='vn3'>Các bác sĩ theo thuyết vô thần và thuyết bất khả tri thường sẵn sàng chấp nhận quyết định đẩy nhanh thời gian kết thúc cuộc sống cho những bệnh nhân bị bệnh rất nặng gần gấp hai lần so với những đồng nghiệp có niềm tin tôn giáo sâu sắc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Dr Clive Seale , a professor in the Centre for Health Sciences at Barts and The London School of Medicine and Dentistry , Queen Mary University of London , wrote about this findings in a paper published online 23 August in the Journal of Medical Ethics .</s>
+<s id='vn4'>Tiến sĩ Clive Seale , giáo sư tại Trung tâm Khoa học Y tế Barts và Trường Y khoa và Nha khoa London , Đại học Luân Đôn Queen Mary , đã viết về những phát hiện này trong báo cáo khoa học được xuất bản trực tuyến ngày 23 tháng 8 trên Tạp chí Y đức .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Data for the study came from a postal survey of UK doctors working in a range of specialisms where end of life decisions are most likely to occur , such as care of the elderly , palliative care , intensive care , certain hospital specialties , and general practice .</s>
+<s id='vn5'>Dữ liệu dùng để nghiên cứu được thu thập từ một cuộc khảo sát qua bưu chính của những bác sĩ ở Anh làm việc trong các chuyên khoa nơi mà những quyết định về quyền được chết có nhiều khả năng xảy ra , chẳng hạn như chăm sóc người già , chăm sóc giảm nhẹ , chăm sóc đặc biệt , những chuyên khoa nhất định trong bệnh viện , và chăm sóc y tế nói chung .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The survey asked participants questions about their own faith and religious beliefs , ethnicity , and views on assisted dying and euthanasia .</s>
+<s id='vn6'>Cuộc khảo sát đã phỏng vấn những người tham gia về đức tin và niềm tin tôn giáo , sắc tộc , quan điểm về cái chết nhẹ nhàng và giúp được chết .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It also asked them a series of questions about the care of their last patient who died ( if relevant ) , including whether they had given them continuous deep sedation until death , and if they had talked to the patient about decisions judged likely to shorten life .</s>
+<s id='vn7'>Khảo sát cũng yêu cầu người tham dự trả lời một loạt các câu hỏi về việc chăm sóc của bệnh nhân đã chết trong thời gian gần nhất của họ ( nếu có ) , bao gồm cả việc họ có cho bệnh nhân liên tục dùng thuốc an thần giảm đau cho đến khi chết , và họ có trao đổi với bệnh nhân về xem xét quyết định rút ngắn thời gian chờ chết hay không .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>3,733 doctors responded to the survey ( 42 percent of the total invited ) .</s>
+<s id='vn8'>3.733 bác sĩ đã trả lời cuộc khảo sát ( 42% của tổng số phiếu khảo sát ) .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Of these , 2,933 answered questions on the care of a patient who died .</s>
+<s id='vn9'>Trong số này , 2.933 người đã trả lời câu hỏi về sự chăm sóc cuối đời cho một bệnh nhân .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The results showed that :</s>
+<s id='vn10'>Kết quả cho thấy :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Specialists in care of the elderly were more likely to be Hindu or Muslim .</s>
+<s id='vn11'>Các chuyên gia chăm sóc người cao tuổi thường là người Hindu hoặc Hồi giáo .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In contrast , specialists in palliative care were more likely to be Christian or white and to agree to the question asking them if they were " religious " .</s>
+<s id='vn12'>Ngược lại , các chuyên gia chăm sóc giảm nhẹ có nhiều khả năng là người Thiên Chúa Giáo hay người da trắng và trả lời đồng ý với câu hỏi yêu cầu họ có niềm tin tín ngưỡng hay không .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>However , overall , white doctors , the largest ethnic group , were the least likely to report having strong religious beliefs .</s>
+<s id='vn13'>Tuy nhiên , về tổng thể , các bác sĩ da trắng , nhóm dân tộc lớn nhất , là những người ít cho thấy khả năng có niềm tin tôn giáo mạnh mẽ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Doctors with strong religious beliefs were less likely to discuss treatments judged likely to end life with their patients .</s>
+<s id='vn14'>Các bác sĩ có niềm tin tôn giáo mạnh mẽ thường ít chịu thảo luận về những phương pháp trị liệu được cho là có khả năng kết thúc cuộc sống của bệnh nhân của họ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>On the whole , ethnicity was not linked to rates of reporting ethically controversial decisions , but it was linked to support for assisted dying or euthanasia legislation .</s>
+<s id='vn15'>Xét toàn diện , sự khác biệt sắc tộc không liên hệ đến tỷ lệ của những quyết định được xem là gây tranh cãi về đạo đức , nhưng lại ảnh hưởng đến việc ủng hộ dự luật quyền được chết hoặc trợ tử .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>There was a strong link between specialty and reporting decisions that were expected or partly intended to hasten the end of a sick patient 's life .</s>
+<s id='vn16'>Có một liên kết mạnh mẽ giữa mặt chuyên môn và các quyết định được báo cáo đã dự định hoặc phần nào muốn đẩy nhanh việc chấm dứt cuộc sống của một bệnh nhân bị bệnh .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Hospital specialists were nearly 10 times more likely to report such decisions than palliative care doctors .</s>
+<s id='vn17'>Các bác sĩ chuyên khoa trong bệnh viện có xu hướng đồng ý với Quyền được chết gần gấp 10 lần so với các bác sĩ chăm sóc giảm nhẹ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>However , doctors who said they were " extremely " or " very " non-religious were nearly twice as likely to report having made these kinds of decisions than peers who described themselves as having religious beliefs , and this was regardless of specialism .</s>
+<s id='vn18'>Tuy nhiên , những bác sĩ khẳng định mình không có tín ngưỡng tôn giáo có gần gấp 2 lần khả năng đồng ý thực hiện các quyết định như vậy so với những đồng nghiệp xem bản thân là có niềm tin tôn giáo , và điều này được phân biệt rõ ràng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>There were only a few cases of the most religious doctors having made such decisions ( ie expected or partly intended to hasten end of life ) , but those that did were also signficantly less likely to have discussed them with their patients than their less religious peers .</s>
+<s id='vn19'>Chỉ có một số ít trường hợp các bác sĩ rất có tín ngưỡng tôn giáo thực hiện quyết định như vậy ( tức là có ý định hoặc phần nào có ý định đẩy nhanh đoạn cuối đời ) , nhưng những bác sĩ này cũng rất hiếm khi thảo luận với bệnh nhân của mình so với các đồng nghiệp ít có niềm tin tôn giáo hơn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>There was a similar pattern regarding support for assisted dying and euthanasia legislation .</s>
+<s id='vn20'>Có một mối liên hệ tương tự liên quan đến việc ủng hộ dự luật quyền được chết và trợ tử .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Palliative care specialists and those with strong religious beliefs were the most strongly opposed to such legislation .</s>
+<s id='vn21'>Các bác sĩ chuyên về chăm sóc giảm nhẹ và những người có niềm tin tôn giáo mạnh mẽ là những đối tượng phản đối mạnh mẽ nhất đối với Quyền được chết .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Asian and white doctors were less opposed than doctors from other ethnic groups .</s>
+<s id='vn22'>Các bác sĩ Châu Á và người da trắng ít phản đối hơn so với những người thuộc các nhóm dân tộc khác .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Seal concluded that there is a need to acknowledge more strongly the links between doctors ' religious beliefs and values and the clinical decisions they make .</s>
+<s id='vn23'>Seal đã kết luận rằng cần phải thừa nhận mạnh mẽ hơn nữa mối liên hệ giữa niềm tin và các giá trị tôn giáo của một bác sĩ với những quyết định lâm sàng họ thực hiện .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Some medical organizations and charities have expressed concern about the study 's findings , saying that doctors should put patient needs before their own beliefs .</s>
+<s id='vn24'>Một số tổ chức y tế và từ thiện đã bày tỏ lo ngại về những phát hiện của nghiên cứu , cho rằng các bác sĩ nên đặt nhu cầu của bệnh nhân lên trên niềm tin của riêng mình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Dr Ann McPherson CBE , a patron of Dignity in Dying , a charity that promotes the idea that people should have greater choice , control and access to high quality care at the end of life , said in a statement that the study results are a concern and that :</s>
+<s id='vn25'>Tiến sĩ Ann McPherson CBE , người bảo trợ của Quyền được chết , một tổ chức từ thiện ủng hộ quan điểm rằng mọi người nên có sự lựa chọn tốt hơn , kiểm soát và có quyền được hưởng sự chăm sóc chất lượng cao vào cuối đời , phát biểu trong một tuyên bố rằng các kết quả nghiên cứu là một điều đáng lo ngại rằng :</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Important decisions , on withholding , withdrawing treatment or on levels of pain relief , should always where possible be taken in conjunction with the patient , whose views are of paramount importance . "</s>
+<s id='vn26'>" Những quyết định quan trọng , về sự từ chối thực hiện , từ chối điều trị hoặc trên các mức độ giảm đau , nên luôn được kết hợp với bệnh nhân nếu có thể , vì nhu cầu của bệnh nhân là hết sức quan trọng . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>She said this research shows there is still some way to go before we reach the standard set by the recent end-of-life decision making guidelines from the General Medical Council ( GMC ) , and " the fact that some doctors are not discussing possible options at the end of life with their patients on account of their religious beliefs is deeply troubling " .</s>
+<s id='vn27'>Bà cho biết nghiên cứu này cho thấy vẫn còn một số vấn đề phải thông qua trước khi chúng ta có được quy định tiêu chuẩn cho các quyết định trợ tử gần đây theo chủ trương của Đại hội đồng y tế ( GMC ) , và " thực tế là một số bác sĩ không thảo luận về những khả năng có thể lựa chọn ở giai đoạn cuối đời với bệnh nhân của họ bởi vì niềm tin tôn giáo của họ đã cản trở việc đó " .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Whilst entitled to their beliefs , doctors should not let them come in the way of providing patient centred care at the end of life ," she urged .</s>
+<s id='vn28'>" Mặc dù có quyền có tín ngưỡng , các bác sĩ không nên để cho điều này cản trở việc đặt nhu cầu của bệnh nhân lên hàng đầu vào lúc cuối đời " , bà kêu gọi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The British Medical Association also said doctors should not allow their beliefs to influence decisions about patient care , which should be taken on the basis of individual assessment and include discussions with the patient and close family , if possible and appropriate .</s>
+<s id='vn29'>Hiệp hội Y khoa Anh Quốc cũng cho biết các bác sĩ không nên cho phép tín ngưỡng của mình gây ảnh hưởng những quyết định về chăm sóc bệnh nhân , mà nên được thực hiện trên cả cơ sở đánh giá cá nhân cùng với thảo luận với bệnh nhân và gia đình người bệnh , nếu có thể và thích hợp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" End-of-life decisions must always be made in the best interests of patients , " said the BMA , according to a BBC report .</s>
+<s id='vn30'>" Những quyết định về Trợ tử phải luôn được thực hiện vì lợi ích tốt nhất của bệnh nhân , " theo Hiệp hội Y khoa Anh Quốc , BBC trích lời .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" The role of doctors ' religious faith and ethnicity in taking ethically controversial decisions during end-of-life care . "</s>
+<s id='vn31'>" Vai trò của đức tin tôn giáo và dân tộc của các bác sĩ trong việc đưa ra những quyết định gây tranh cãi về đạo đức đối với Chăm sóc cuối đời . "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Written by : Catharine Paddock , PhD</s>
+<s id='vn32'>Tác giả : Tiến sĩ Paddock Catharine</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Copyright : Medical News Today</s>
+<s id='vn33'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

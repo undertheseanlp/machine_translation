@@ -1,0 +1,84 @@
+﻿<doc id='N0382'>
+<head>
+<title>Samsung to Put Skyhook on Mobile Devices</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Samsung to Put Skyhook on Mobile Devices</s>
+<s id='vn1'>Samsung Đưa Skyhook Vào Các Thiết bị Di động</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Skyhook Wireless grabs another partner as Samsung signs up to put Skyhook 's location-based services technology on the Wave smartphone .</s>
+<s id='vn2'>Skyhook Wireless sẽ thu hút đối tác khác khi Samsung ký hợp đồng đầu tư công nghệ dịch vụ định vị của Skyhook trên điện thoại thông minh Wave .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" Skyhook Wireless , provider of the Core Location platform , today announced that Samsung will deploy Skyhook 's technology across multiple mobile devices , " Skyhook said in a news release July 2 . "</s>
+<s id='vn3'>" Nhà cung cấp nền tảng Định vị Lõi Skyhook Wireless hôm nay đã công bố rằng Samsung sẽ triển khai công nghệ của Skyhook trên nhiều thiết bị di động , " Skyhook đã cho biết trong một thông cáo báo chí phát hành vào ngày 2 tháng 7 . "</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The first handset to launch with Skyhook embedded will be the Samsung Wave " smartphone , first announced at the Mobile World Congress in Barcelona , Spain .</s>
+<s id='vn4'>Chiếc điện thoại cầm tay ra mắt đầu tiên mà được nhúng Skyhook sẽ là chiếc Samsung Wave " điện thoại thông minh được công bố đầu tiên tại Mobile World Congress ở Barcelona , Tây Ban Nha .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" The Wave is the initial handset to be released with Samsung 's new , open mobile platform , Samsung Bada , and is the cornerstone of the company 's commitment to provide a smartphone for every lifestyle .</s>
+<s id='vn5'>" Wave là chiếc điện thoại đầu tiên sẽ được phát hành cùng với nền tảng Samsung Bada , nền tảng di động mới mã nguồn mở của Samsung , và là nền tảng cam kết của công ty để mang lại một chiếc điện thoại thông minh phù hợp với mỗi phong cách sống .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>With the addition of Skyhook , Samsung devices , such as the Wave , will better enable all location-aware applications by providing " accurate location information .</s>
+<s id='vn6'>Với sự thêm vào của Skyhook , các thiết bị của Samsung chẳng hạn như Wave sẽ cho phép tất cả các ứng dụng nhận biết vị trí tốt hơn bằng cách cung cấp thông tin định vị chính xác .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" In 2003 , Skyhook pioneered the development of the Wi-Fi Positioning System to provide precise and reliable location results in urban areas , " the company said .</s>
+<s id='vn7'>Công ty cho biết " Vào năm 2003 , Skyhook đã đi đầu trong việc phát triển Hệ thống Định vị Wi-Fi cung cấp những kết quả định vị chính xác và đáng tin cậy ở các khu đô thị "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Skyhook argued , " For some experiences , such as turn-by-turn navigation or local search , location is the central feature , but increasingly ( social ) applications such as Twitter , Shazam and OpenTable incorporate location to simplify user experience and to personalize content delivery . "</s>
+<s id='vn8'>Skyhook lập luận " Đối với một số trải nghiệm như định vị thay đổi hoặc tìm kiếm cục bộ , định vị là đặc điểm chính , nhưng các ứng dụng ngày càng gia tăng chẳng hạn như Twitter , Shazam và OpenTable kết hợp định vị để đơn giản hóa trải nghiệm người dùng và cá nhân hoá phân phối nội dung .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Samsung is committed to delivering the maximum benefits of smartphones for our customers and developer partners , " said Hyungmoon Noh , vice president of the RD planning team at Samsung Electronics .</s>
+<s id='vn9'>Hyungmoon Noh phó chủ tịch của nhóm lên kế hoạch RD tại Samsung Electronics đã cho biết " Samsung cam kết mang lại lợi ích tối đa về các điện thoại thông minh cho các khách hàng và các đối tác phát triển " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Precise location is central to the mobile experience , and Skyhook 's Core Location will provide Samsung mobile devices with market-leading location capabilities . "</s>
+<s id='vn10'>" Định vị chính xác là mối quan tâm chủ yếu cho trải nghiệm di động , và Core Location của Skyhook sẽ cung cấp cho các thiết bị di động của Samsung với các khả năng định vị dẫn đầu thị trường " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The company said its Core Location system " uses a combination of WiFi , cellular and GPS readings to produce a single , accurate location quickly and in all environments . "</s>
+<s id='vn11'>Công ty cho biết Hệ thống Định vị Lõi " sử dụng sự kết hợp của WiFi , mạng di động và GPS để có được một vị trí chính xác duy nhất một cách nhanh chóng và trong tất cả các điều kiện môi trường . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Samsung creates innovative mobile platforms and user experiences , " said Michael Shean , co-founder and senior vice president of business development for Skyhook Wireless .</s>
+<s id='vn12'>Michael Shean người đồng sáng lập kiêm phó chủ tịch kinh doanh phát triển cho Skyhook Wireless cho biết " Samsung tạo ra nền tảng di động và những trải nghiệm người dùng sáng tạo " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Skyhook is thrilled to further enhance the Samsung smartphone experience with superior location accuracy and availability on Samsung Bada and other platforms . "</s>
+<s id='vn13'>" Skyhook hài lòng khi tiếp tục nâng cao trải nghiệm điện thoại thông minh của Samsung với tính sẵn sàng và độ định vị chính xác vượt trội trên nền tảng Samsung Bada và các nền tảng khác " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>According to Skyhook 's Website , The Core Engine synthesizes data from Skyhook 's Wi-Fi Positioning System ( WPS ) , GPS satellites and cell towers with advanced hybrid positioning algorithms ....</s>
+<s id='vn14'>Theo trang web của Skyhook , Core Engine tổng hợp dữ liệu từ Hệ thống Định vị Wi-Fi của Skyhook ( WPS ) , các vệ tinh GPS và các trạm thu phát di động với các thuật toán định vị kết hợp tiên tiến …</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Skyhook maintains a worldwide database of cell tower locations , which increases Core Engine coverage area and helps improve GPS satellite acquisition time .</s>
+<s id='vn15'>Skyhook duy trì một cơ sở dữ liệu toàn cầu về các vị trí đặt trạm thu phát , gia tăng vùng phủ sóng Core Engine và giúp cải thiện thời gian thu nhận từ vệ tinh GPS .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The company also said , " To develop this database , Skyhook has deployed drivers to survey every single street , highway and alley in tens of thousands of cities and towns worldwide , scanning for WiFi access points and cell towers plotting their precise geographic locations . "</s>
+<s id='vn16'>Công ty cũng cho biết " để phát triển cơ sở dữ liệu này , Skyhook đã triển khai các xe để khảo sát từng đường phố , đường cao tốc và con hẻm trong hàng chục ngàn tỉnh thành và thành phố trên toàn thế giới , quét các điểm truy cập WiFi và các trạm thu phát vẽ sơ đồ vị trí địa lý chính xác của họ "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Skyhook boasts that its " coverage area includes most major metro areas in North America , Europe , Asia and Australia . "</s>
+<s id='vn17'>Skyhook tự hào rằng " vùng phủ sóng của họ bao gồm hầu hết các vùng đô thị lớn nhất ở Bắc Mỹ Châu Âu , Châu Á và Úc . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The Samsung announcement marks the second mobile platform partnership for Skyhook in 2010 : In April , Motorola announced it would deploy the Core Location platform across much of the company 's portfolio of Google Android-based mobile devices .</s>
+<s id='vn18'>Samsung công bố đánh dấu sự hợp tác nền tảng di động lần thứ 2 của Skyhook trong năm 2010 : Trong tháng tư Motorola đã công bố họ sẽ triển khai trên nền tảng Core Location thông qua nhiều danh mục đầu tư của công ty về các thiết bị di động dựa trên Android của Google .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,460 @@
+﻿<doc id='N0631'>
+<head>
+<title>" Where 's My Kiss , Then ? "</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>" Where 's My Kiss , Then ? "</s>
+<s id='vn1'>" Nụ Hôn Dành Cho Tôi Đâu Rồi Nhỉ "</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By M.A. Urquhart</s>
+<s id='vn2'>Tác giả M.A. Urquhart</s>
+</spair>
+<spair id='3'>
+<s id='en3'>There once was a little girl named Cindy .</s>
+<s id='vn3'>Có một cô bé tên là Cindy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Cindy 's father worked six days a week , and often came home tired from the office .</s>
+<s id='vn4'>Bố của Cindy làm việc sáu ngày một tuần , và thường về nhà trong tâm trạng mệt vì công việc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Her mother worked equally hard , doing the cleaning , the cooking and the many tasks needed to run a family .</s>
+<s id='vn5'>Mẹ của cô ấy cũng làm việc vất vả giống như thế , như giặt giũ , nấu nướng và nhiều việc khác để quán xuyến nhà cửa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Theirs was a good family , living a good life .</s>
+<s id='vn6'>Gia đình của họ là một gia đình hạnh phúc và sung túc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Only one thing was missing , but Cindy did n't even realize it .</s>
+<s id='vn7'>Chỉ có thiếu một thứ , nhưng ngay cả Cindy cũng không biết đó là gì .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>One day , when she was nine , she went on her first sleepover .</s>
+<s id='vn8'>Một ngày nọ , khi cô bé lên chín , lần đầu tiên cô bé được đi ngủ nhờ ở nhà bạn bè .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>She stayed with her friend Debbie .</s>
+<s id='vn9'>Cô ở với bạn mình là Debbie .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>At bedtime , Debbie 's mother tucked the girls into bed .</s>
+<s id='vn10'>Đến giờ ngủ , mẹ của Debbie đắp mền cho hai cô bé .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>She kissed them both good night .</s>
+<s id='vn11'>Cô ấy hôn chúc cả hai ngủ ngon .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Love you , " said Debbie 's mother .</s>
+<s id='vn12'>" Mẹ yêu con , " mẹ của Debbie nói .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Love you , too , " said Debbie .</s>
+<s id='vn13'>" Con cũng yêu mẹ , " Debbie nói .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Cindy was so amazed that she could n't sleep .</s>
+<s id='vn14'>Cindy kinh ngạc đến nỗi cô bé không ngủ được .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>No one had ever kissed her good night .</s>
+<s id='vn15'>Không một ai từng hôn và chúc cô bé ngủ ngon .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>No one had ever kissed her at all .</s>
+<s id='vn16'>Không một ai từng hôn cô bé .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>No one had ever told her that they loved her .</s>
+<s id='vn17'>Không một ai từng nói với cô rằng họ yêu cô .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>All night long , she lay there , thinking over and over .</s>
+<s id='vn18'>Suốt cả đêm , cô ấy nằm thao thức , suy nghĩ mãi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This is the way it should be .</s>
+<s id='vn19'>Lẽ ra phải như vậy .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>When she went home , her parents seemed pleased to see her .</s>
+<s id='vn20'>Khi cô bé về nhà , bố mẹ cô có vẻ vui khi gặp cô ấy .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Did you have fun at Debbie 's house ? " asked her mother .</s>
+<s id='vn21'>" Ở nhà Debbie có vui không con ? " mẹ của cô hỏi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" The house felt awfully quiet without you , " said her father .</s>
+<s id='vn22'>Bố cô nói " Nhà mình đã rất yên lặng khi không có con đấy . " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Cindy did n't answer .</s>
+<s id='vn23'>Cindy không trả lời .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>She ran up to her room .</s>
+<s id='vn24'>Cô bé chạy lên phòng mình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>She hated them both .</s>
+<s id='vn25'>Cô ghét họ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Why had they never kissed her ?</s>
+<s id='vn26'>Tại sao họ không bao giờ hôn cô bé ?</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Why had they never hugged her or told her they loved her ?</s>
+<s id='vn27'>Tại sao họ không bao giờ ôm cô hoặc nói với cô là họ yêu cô ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Did n't they love her ?</s>
+<s id='vn28'>Hay là họ không yêu cô ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>She wished she could run away .</s>
+<s id='vn29'>Cô bé ước ao có thể bỏ nhà đi .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>She wished she could live with Debbie 's mother .</s>
+<s id='vn30'>Cô bé ước ao có thể sống với mẹ của Debbie .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Maybe there had been a mistake and these were n't her real parents .</s>
+<s id='vn31'>Có lẽ đã có một nhầm lẫn và họ không phải là bố mẹ ruột của cô .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Maybe Debbie 's mother was her real mother .</s>
+<s id='vn32'>Có lẽ mẹ của Debbie mới chính là mẹ ruột của cô .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>That night before bed , she went to her parents .</s>
+<s id='vn33'>Cũng vào đêm đó trước khi đi ngủ , cô bé đến bên bố mẹ mình .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Well good night , then , " she said .</s>
+<s id='vn34'>" À , chúc bố mẹ ngủ ngon , " cô bé nói .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Her father looked up from his paper .</s>
+<s id='vn35'>Bố cô ngước mắt lên từ trang báo đang đọc .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" Good night , " he said .</s>
+<s id='vn36'>" Chúc con ngủ ngon , " bố cô nói .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Her mother put down her sewing and smiled .</s>
+<s id='vn37'>Mẹ cô bỏ đồ quần áo đang may xuống và cười .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>" Good night , Cindy . "</s>
+<s id='vn38'>" Chúc con ngủ ngon , Cindy . "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>No one made a move .</s>
+<s id='vn39'>Rồi không ai cử động gì nữa .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Cindy could n't stand it any longer .</s>
+<s id='vn40'>Cindy không thể chịu điều này nữa .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" Why do n't you ever kiss me ? " she asked .</s>
+<s id='vn41'>" Tại sao mẹ không bao giờ hôn con ? " cô bé hỏi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Her mother looked flustered .</s>
+<s id='vn42'>Mẹ của cô trông bối rối .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" Well , " she stammered , " because I guess ... because no one ever kissed me when I was little .</s>
+<s id='vn43'>" À , " cô ấy lắp bắp , " vì mẹ đoán là … vì đã không có ai từng hôn mẹ khi mẹ còn nhỏ con à .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>That 's just the way it was . "</s>
+<s id='vn44'>Chỉ vậy thôi . "</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Cindy cried herself to sleep .</s>
+<s id='vn45'>Cindy khóc thầm trong đêm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>For many days she was angry .</s>
+<s id='vn46'>Cô bé giận mấy ngày .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Finally she decided to run away .</s>
+<s id='vn47'>Cuối cùng cô bé quyết định bỏ nhà đi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>She would go to Debbie 's house .</s>
+<s id='vn48'>Cô bé sẽ đến nhà của Debbie .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>She would never go back to the parents who did n't love her .</s>
+<s id='vn49'>Cô bé sẽ không bao giờ quay về bố mẹ mình , những người mà đã không yêu thương cô ấy .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>She packed her backpack and left without a word .</s>
+<s id='vn50'>Cô bé xếp đồ vào ba lô cô ấy và rời khỏi mà không nói lời nào .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>But once she got to Debbie 's house , she could n't go in .</s>
+<s id='vn51'>Nhưng một khi đến nhà của Debbie , cô bé không thể vào được .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>She decided that no one would believe her .</s>
+<s id='vn52'>Cô nghĩ rằng sẽ không ai tin cô ấy .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>No one would ler het live with Debbie 's parents .</s>
+<s id='vn53'>Sẽ không có ai cho cô với bố mẹ của Debbie .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>She gave up her plan and walked away .</s>
+<s id='vn54'>Cô ấy từ bỏ kế hoạch của mình và bỏ đi .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Every thing felt bleak and hopeless and awful .</s>
+<s id='vn55'>Mỗi thứ trở nên ảm đạm và tuyệt vọng và khủng khiếp .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>She would never have a family like Debbie 's .</s>
+<s id='vn56'>Cô sẽ không bao giờ có được một gia đình như của Debbie .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>She was stuck forever with the worst , most loveless parents in the world .</s>
+<s id='vn57'>Cô sẽ mãi bị mắc kẹt với người bố người mẹ tệ nhất , vô tình nhất trên thế gian .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Instead of going home , she went to a park and sat on a park bench .</s>
+<s id='vn58'>Thay vì về nhà , cô bé đi vào một công viên và ngồi ở một băng ghế công viên .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>She sat there for a long time , thinking , until it grew dark .</s>
+<s id='vn59'>Cô bé ngồi đó nghĩ ngợi thật lâu , cho đến khi trời tối dần .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>All of a sudden , she saw the way .</s>
+<s id='vn60'>Bất thình lình , cô bé nảy ra một cách .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The plan would work .</s>
+<s id='vn61'>Kế hoạch sẽ thành công .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>She would make it work .</s>
+<s id='vn62'>Cô sẽ làm cho nó thành công .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>When she walked into her house , her father was on the phone .</s>
+<s id='vn63'>Khi cô bé vào căn nhà , bố cô đang nói chuyện điện thoại .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>He hung up immediately .</s>
+<s id='vn64'>Ông ấy lập tức gác máy .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Her mother was sitting with an anxious expression on her face .</s>
+<s id='vn65'>Mẹ cô đang ngồi với nỗi lo lắng hiện rõ trên gương mặt .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The moment Cindy walked in , her mother called out , " Where have you been ?</s>
+<s id='vn66'>Vào lúc Cindy bước vào , mẹ cô lớn tiếng hỏi , " Con đã ở đâu ?</s>
+</spair>
+<spair id='67'>
+<s id='en67'>We 've been worried to death ! "</s>
+<s id='vn67'>Bố mẹ lo cho con đến chết đi được ! "</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Cindy did n't answer .</s>
+<s id='vn68'>Cindy không trả lời .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Instead she walked up to her mother , gave her a kiss on the cheek and said , " I love you , Mom . "</s>
+<s id='vn69'>Thay vào đó , cô ấy tiến lại gần mẹ và hôn lên má của bà và nói , " Mẹ ơi , con yêu mẹ "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Her mother was so startled that she could n't speak .</s>
+<s id='vn70'>Mẹ cô ấy bàng hoàng đến không thể nói được lời nào .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Cindy marched up to her dad .</s>
+<s id='vn71'>Cindy đi đến bên bố cô .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>She gave him a hug .</s>
+<s id='vn72'>Cô ôm ông ấy và nói .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>" Good night , Dad , " she said .</s>
+<s id='vn73'>" Chúc bố ngủ ngon .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>" I love you . "</s>
+<s id='vn74'>" Con yêu bố . "</s>
+</spair>
+<spair id='75'>
+<s id='en75'>And then she went to bed , leaving her speechless parents in the kitchen .</s>
+<s id='vn75'>Và sau đó cô đi ngủ , bỏ lại bố mẹ cô đứng trong bếp và lặng yên không nói gì .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The next morning when she came down to breakfast , she gave her mother a kiss .</s>
+<s id='vn76'>Sáng hôm sau khi cô bé xuống ăn sáng , cô hôn mẹ mình một cái .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>She gave her father a kiss .</s>
+<s id='vn77'>Cô cũng hôn bố cô một cái .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>At the bus stop , she stood on tiptoe and kissed her mother .</s>
+<s id='vn78'>Ở trạm xe buýt , cô bé đứng nhón chân để hôn mẹ .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" Bye , Mom , " Cindy said .</s>
+<s id='vn79'>" Tạm biệt , mẹ , " Cindy nói .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>" I love you . "</s>
+<s id='vn80'>" Con yêu mẹ . "</s>
+</spair>
+<spair id='81'>
+<s id='en81'>And that 's what Cindy did , every day of every week of every month .</s>
+<s id='vn81'>Và đó là điều mà Cindy đã làm hàng ngày , hàng tuần , hàng tháng .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Sometimes her parents drew back from her , stiff and awkward .</s>
+<s id='vn82'>Đôi khi bố mẹ cô lùi lại né tránh cô , tỏ vẻ lúng túng thiếu tự nhiên .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Sometimes they laughed about it .</s>
+<s id='vn83'>Đôi khi họ lại cười về việc này .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>But they never returned the kiss .</s>
+<s id='vn84'>Nhưng họ không bao giờ hôn đáp lại .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>But Cindy did n't stop .</s>
+<s id='vn85'>Cindy vẫn không chịu ngừng .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>She has made her plan .</s>
+<s id='vn86'>Cô bé thực hiện kế hoạch của mình .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>She kept right at it .</s>
+<s id='vn87'>Cô ấy vẫn tiếp tục .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Then , one evening , she forgot to kiss her mother before bed .</s>
+<s id='vn88'>Và rồi một buổi tối nọ , cô bé quên hôn mẹ trước khi đi ngủ .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>A short time later , the door of her room opened .</s>
+<s id='vn89'>Một lúc sau , cửa phòng của cô mở ra .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Her mother came in .</s>
+<s id='vn90'>Mẹ cô ấy đi vào .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>" Where 's my kiss , then ? "</s>
+<s id='vn91'>" Nụ hôn dành cho tôi đâu rồi nhỉ ? "</s>
+</spair>
+<spair id='92'>
+<s id='en92'>She asked , pretending to be cross .</s>
+<s id='vn92'>Bà hỏi , giả vờ như đang giận .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Cindy sat up .</s>
+<s id='vn93'>Cindy ngồi dậy .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>" Oh , I forgot , " she said .</s>
+<s id='vn94'>" Ồ , con quên mất , " cô bé nói .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>She kissed her mother .</s>
+<s id='vn95'>Cô hôn mẹ mình .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>" I love you , Mom . "</s>
+<s id='vn96'>" Con yêu mẹ . "</s>
+</spair>
+<spair id='97'>
+<s id='en97'>She lay down again .</s>
+<s id='vn97'>Cô bé nằm xuống lại .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" Good night , " she said and closed her eyes .</s>
+<s id='vn98'>" Chúc mẹ ngủ ngon , " cô bé nói và nhắm mắt lại .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>But her mother did n't leave .</s>
+<s id='vn99'>Nhưng mẹ của cô ấy vẫn chưa rời đi .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Finally she spoke .</s>
+<s id='vn100'>Cuối cùng bà đã nói .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>" I love you , too , " her mother said .</s>
+<s id='vn101'>" Mẹ cũng yêu con , " mẹ cô nói .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Then her mother bent down and kissed Cindy , right on the cheek .</s>
+<s id='vn102'>Sau đó bà cúi người xuống và hôn Cindy , ngay lên má của cô bé .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>" And do n't ever forget my kiss again , " she said , pretending to be stern .</s>
+<s id='vn103'>" Và đừng bao giờ quên hôn mẹ nữa nhé , " bà nói giả vờ nghiêm nghị .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Cindy laughed .</s>
+<s id='vn104'>Cindy cười .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>" I won't , " she said .</s>
+<s id='vn105'>" Con sẽ không quên đâu , " cô bé nói .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>And she did n't .</s>
+<s id='vn106'>Và đúng là cô bé không quên .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Many years later , Cindy had a child of her own , and she kissed that baby until , as she put it , " Her little cheeks were red . "</s>
+<s id='vn107'>Nhiều năm sau , Cindy có một đứa con , và cô ấy hôn em bé cho đến khi " Đôi má bé bỏng của đứa bé ửng đỏ " cô đã nói như thế .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>And everytime she went home , the first thing her mother would say to her was , " Where 's my kiss , then ? "</s>
+<s id='vn108'>Và mỗi khi cô về nhà , điều đầu tiên mẹ cô sẽ nói với cô là " Nụ hôn dành cho tôi đâu rồi nhỉ ? "</s>
+</spair>
+<spair id='109'>
+<s id='en109'>And when it time to leave , she 'd say , " I love you .</s>
+<s id='vn109'>Và khi đến giờ về , bà sẽ nói , " Mẹ yêu con .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>You know that , do n't you ? "</s>
+<s id='vn110'>Con biết điều đó mà phải không ? "</s>
+</spair>
+<spair id='111'>
+<s id='en111'>" Yes , Mom , " Cindy would say .</s>
+<s id='vn111'>" Vâng , mẹ , " Cindy nói .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>" I 've always known that . "</s>
+<s id='vn112'>" Con vẫn luôn biết điều đó . "</s>
+</spair>
+</text>
+</doc>

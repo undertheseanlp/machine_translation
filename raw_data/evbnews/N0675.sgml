@@ -1,0 +1,280 @@
+﻿<doc id='N0675'>
+<head>
+<title>Pancreatic cancer</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Pancreatic cancer</s>
+<s id='vn1'>Ung thư tuyến tuỵ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Pancreatic cancer has gained attention from the diagnoses of several prominent figures , including Apple co-founder Steve Jobs , who was diagnosed in 2003 and died Oct. 5 , 2011 .</s>
+<s id='vn2'>Người ta đã chú ý đến ung thư tuyến tuỵ bởi một vài nhân vật nổi tiếng bị chẩn đoán mắc chứng bệnh này , như Steve Jobs - người đồng sáng lập công ty Apple , được chẩn đoán năm 2003 và qua đời vào ngày 5 tháng 10 năm 2011 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Pancreatic cancer in the limelight</s>
+<s id='vn3'>Bệnh ung thư tuyến tuỵ thu hút sự chú ý</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Pancreatic cancer has gained attention from the diagnoses of several prominent figures , including Apple co-founder Steve Jobs , who was diagnosed in 2003 and died Oct. 5 , 2011 .</s>
+<s id='vn4'>Người ta đã chú ý đến ung thư tuyến tuỵ bởi một vài nhân vật nổi tiếng bị chẩn đoán mắc chứng bệnh này , như Steve Jobs - người đồng sáng lập công ty Apple , được chẩn đoán năm 2003 và qua đời vào ngày 5 tháng 10 năm 2011 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Jobs had an islet cell neuroendocrine tumor , a rare form of the disease .</s>
+<s id='vn5'>Jobs bị một khối u tế bào thần kinh nội tiết nhỏ , đây là một dạng bệnh hiếm gặp .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>U.S. Supreme Court Justice Ruth Bader Ginsburg and actor Patrick Swayze have also faced pancreatic cancer .</s>
+<s id='vn6'>Tòa án tối cao Hoa Kỳ Ruth Bader Ginsburg và nam diễn viên Patrick Swayze cũng từng bị chứng bệnh này .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Swayze died in 2009 .</s>
+<s id='vn7'>Swayze đã qua đời năm 2009 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The lifetime risk of pancreatic cancer is about 1 in 71 .</s>
+<s id='vn8'>Tỉ lệ người có nguy cơ ung thư tuyến tuỵ suốt đời khoảng chừng 1 : 71 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What is the pancreas ?</s>
+<s id='vn9'>Tuyến tuỵ là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The pancreas is a 6-inch-long spongy , tube-shaped organ located in the back of the abdomen , behind the stomach .</s>
+<s id='vn10'>Tuyến tuỵ là một cơ quan hình ống , xốp , dài 6 in-sơ nằm sau bụng , phía sau dạ dày ; .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It has two major jobs in the body : to make digestive juices ( enzymes ) that help the intestines break down food , and to produce hormones - including insulin - that regulate the body 's use of sugars and starches .</s>
+<s id='vn11'>Thực hiện 2 nhiệm vụ chính : tạo dịch tiêu hoá ( en-zim ) giúp cho ruột phân huỷ thức ăn , và sản sinh hoóc-môn - gồm insulin - đây là hoóc-môn điều hoà việc sử dụng đường và tinh bột trong cơ thể .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Pancreatic cancer occurs when malignant ( cancerous ) cells grow , divide , and spread in the tissues of the pancreas .</s>
+<s id='vn12'>Ung thư tuyến tụy xảy ra khi các tế bào ( ung thư ) ác tính phát triển , phân chia , và phát tán trong các mô tuỵ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Symptoms of pancreatic cancer</s>
+<s id='vn13'>Các triệu chứng ung thư tuyến tuỵ</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Pancreatic cancer is called a " silent " disease because symptoms typically do not present in the early stages .</s>
+<s id='vn14'>Ung thư tuyến tuỵ được gọi là chứng bệnh " thầm lặng " bởi các triệu chứng thường không biểu hiện trong những giai đoạn đầu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But as the cancer grows and spreads , pain often develops in the upper abdomen and sometimes spreads to the back .</s>
+<s id='vn15'>Nhưng khi ung thư đã phát triển và lây lan thì bệnh nhân thường sẽ đau ở bụng trên và đôi khi còn lan sang sau lưng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The pain may become worse after the person eats or lies down .</s>
+<s id='vn16'>Cơn đau có thể trở nên dữ dội hơn sau khi bệnh nhân ăn xong hoặc nằm xuống .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Other symptoms may include jaundice , nausea , loss of appetite , weight loss , fatigue , weakness , and depression .</s>
+<s id='vn17'>Các triệu chứng khác có thể gồm vàng da , buồn nôn , chán ăn , giảm cân , mệt mỏi , ốm yếu , và trầm cảm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Causes of pancreatic cancer</s>
+<s id='vn18'>Các nguyên nhân gây ung thư tuyến tuỵ</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Although the exact cause of pancreatic cancer is not known , smoking is the main risk factor , with smokers 2-3 times more likely to have the disease than nonsmokers .</s>
+<s id='vn19'>Mặc dù người ta chưa biết chính xác nguyên nhân gây ung thư tuyến tuỵ , nhưng thuốc lá là yếu tố rủi to chính , người hút thuốc lá có thể mắc bệnh cao hơn từ 2 đến 3 lần so với người không hút thuốc .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Age is also related , with the disease usually striking after age 45 .</s>
+<s id='vn20'>Tuổi tác cũng có liên quan đến bệnh , thường xảy ra ở tuổi ngoài 45 .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Diabetes is also linked to pancreatic cancer , with about 10- 20 % of those diagnosed with the cancer having diabetes .</s>
+<s id='vn21'>Bệnh tiểu đường cũng có mối tương quan mật thiết với ung thư tuyến tuỵ , khoảng chừng 10-20 % người bị chẩn đoán là ung thư bị bệnh tiểu đường .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Other risks include chronic pancreatitis and cirrhosis of the liver .</s>
+<s id='vn22'>Những rủi ro khác gồm viêm tuyến tuỵ mãn tính và bệnh xơ gan .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>And family history of pancreatic cancer , high fat diet , obesity , and lack of exercise can also play a part .</s>
+<s id='vn23'>Bên cạnh đó , tiền sử gia đình bị ung thư tuyến tụy , chế độ ăn uống nhiều chất béo , béo phì , và thiếu vận động cũng có thể gây bệnh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Diagnosing pancreatic cancer</s>
+<s id='vn24'>Chẩn đoán ung thư tuyến tuỵ</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The challenge of this disease is finding it early .</s>
+<s id='vn25'>Cái khó của chứng bệnh này là phát hiện ra sớm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A doctor cannot see or feel a tumor during a routine exam .</s>
+<s id='vn26'>Bác sĩ không thấy được hoặc không sờ được khối u trong cuộc kiểm tra sức khỏe định kỳ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>To help make the diagnosis ( and determine the most appropriate treatment ) , imaging tests are performed ( such as an ultrasound or CT scan ) to view pictures of the abdomen and determine the extent of the problem .</s>
+<s id='vn27'>Để giúp chẩn đoán ( và để xác định được phương pháp điều trị phù hợp nhất ) thì người ta thực hiện các xét nghiệm bằng hình ảnh ( chẳng hạn như siêu âm hoặc chụp cắt lớp ) để thấy hình ảnh bụng và khoanh vùng bệnh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The green region shown in this colorized CT scan indicates cancer in the pancreas and liver .</s>
+<s id='vn28'>Vùng màu xanh lá trong ảnh chụp cắt lớp có màu này cho thấy ung thư ở tụy và gan .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The diagnosis comes from a biopsy - taking a tissue sample from the tumor - performed either with a needle through the skin or during an operation .</s>
+<s id='vn29'>Người ta cũng có thể chẩn đoán bằng phương pháp sinh thiết - lấy mẫu mô ở khối u – thực hiện hoặc bằng kim tiêm qua da hoặc thực hiện trong khi phẫu thuật .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Treatment : Surgery</s>
+<s id='vn30'>Điều trị ung thư tuyến tuỵ bằng phẫu thuật</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Surgery can cure the cancer if it has not spread past the pancreas .</s>
+<s id='vn31'>Phẫu thuật có thể chữa lành được bệnh ung thư nếu nó chưa phát tán qua tuỵ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Since side effects depend on the extent of the surgery , the tumor is removed leaving as much of the normal pancreas intact as possible .</s>
+<s id='vn32'>Bởi các tác dụng phụ tuỳ thuộc vào phạm vi phẫu thuật , nên khối u được cắt bỏ để lại tuyến tuỵ bình thường còn nguyên vẹn càng nhiều càng tốt .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Unfortunately , with pancreatic cancer , the malignant cells usually have spread past the pancreas at the point of diagnosis .</s>
+<s id='vn33'>Tiếc là , với chứng bệnh ung thư tuyến tuỵ này thì các tế bào ác tính thường phát tán qua tuỵ vào thời điểm chẩn đoán .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Surgery still may be performed , even if the tumor is too large to remove .</s>
+<s id='vn34'>Phẫu thuật vẫn có thể được tiến hành , cho dù là khối u có quá lớn đến nỗi không cắt bỏ được đi chăng nữa .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The surgery would involve procedures to help lessen some of the symptoms and prevent certain problems related to the size of the cancerous mass .</s>
+<s id='vn35'>Phẫu thuật gồm nhiều quy trình giúp làm giảm một số triệu chứng và ngăn ngừa một số vấn đề nào đó liên quan đến kích cỡ của khối ung thư .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Treatment : Radiation therapy</s>
+<s id='vn36'>Điều trị ung thư tuyến tuỵ bằng bức xạ</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Radiation therapy uses high-powered radiation to kill cancer cells .</s>
+<s id='vn37'>Điều trị bằng bức xạ sử dụng chiếu xạ có công suất cao để làm chết tế bào ung thư .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Radiation is usually given five days a week for several weeks or months .</s>
+<s id='vn38'>Chiếu xạ thường được sử dụng 5 ngày một tuần kéo dài trong vài tuần hoặc vài tháng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>This schedule helps to protect normal tissue by spreading out the total dose of radiation .</s>
+<s id='vn39'>Lịch điều trị này giúp bảo vệ mô bình thường bằng cách dàn trải lượng chiếu xạ tổng hợp .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Radiation is also being studied as a way to kill cancer cells that remain in the area after surgery .</s>
+<s id='vn40'>Người ta cũng đang nghiên cứu chiếu xạ như là một cách để diệt các tế bào ung thư vẫn còn sót lại ở vùng ung thư sau khi phẫu thuật xong .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Radiation therapy can help relieve pain or digestive problems caused by large cancerous masses .</s>
+<s id='vn41'>Điều trị bằng bức xạ có thể giúp giảm đau hoặc làm giảm bớt các vấn đề về tiêu hoá do những khối ung thư lớn gây ra .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Treatment : Chemotherapy</s>
+<s id='vn42'>Điều trị ung thư tuyến tuỵ bằng hoá trị liệu</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Chemotherapy uses drugs to destroy cancer cells and stop them from growing or multiplying .</s>
+<s id='vn43'>Hoá trị liệu sử dụng thuốc để diệt tế bào ung thư và ngăn không cho chúng phát triển hoặc tăng lên .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Treatment may consist of just one drug or a combination of drugs .</s>
+<s id='vn44'>Phương pháp điều trị có thể gồm chỉ một loại thuốc hoặc kết hợp nhiều loại thuốc khác nhau .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It may be given by mouth or by injection .</s>
+<s id='vn45'>Thuốc có thể sử dụng bằng đường uống hoặc bằng đường tiêm chích .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The drugs enter the bloodstream and travel through the body , making chemotherapy a good choice for cancer that has spread .</s>
+<s id='vn46'>Thuốc vào máu và đi khắp cơ thể , làm cho hoá trị liệu trở thành một lựa chọn tốt để điều trị ung thư đã phát tán .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It is also useful after surgery to kill any cancer cells left behind .</s>
+<s id='vn47'>Bên cạnh đó nó còn giúp diệt được bất kỳ tế bào ung thư nào còn sót lại sau khi phẫu thuật xong .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Treatment : Targeted therapy</s>
+<s id='vn48'>Điều trị ung thư tuyến tuỵ bằng liệu pháp nhắm trúng đích</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Newer drugs on the market have the ability to attack specific parts of the cancer cells .</s>
+<s id='vn49'>Nhiều thuốc mới hơn trên thị trường có khả năng tấn công các phần cụ thể của tế bào ung thư .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Targeted therapies appear to have fewer side effects than chemotherapy and are less harmful to normal cells .</s>
+<s id='vn50'>Liệu pháp nhắm trúng đích có vẻ ít bị tác dụng phụ hơn hoá trị liệu và ít có hại cho tế bào bình thường .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Targeted therapy is currently being studied for treatment of pancreatic cancer .</s>
+<s id='vn51'>Hiện người ta cũng đang nghiên cứu liệu pháp này để điều trị ung thư tuyến tụy .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>New anticancer treatment : Immunotherapy</s>
+<s id='vn52'>Phương pháp điều trị chống ung thư mới : Liệu pháp miễn dịch</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Also called biological therapy , immunotherapy aims to boost a person 's immune system to fight disease .</s>
+<s id='vn53'>Cũng được gọi là liệu pháp sinh học , nhưng liệu pháp miễn dịch có tác dụng nhằm làm tăng cường hệ miễn dịch của con người chống lại bệnh tật .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Immunotherapy is not yet available for pancreatic cancer , but is being actively researched , along with the investigation into vaccines that arm the immune system to attack cancer cell .</s>
+<s id='vn54'>Liệu pháp này vẫn chưa được sử dụng để trị ung thư tuyến tụy , nhưng đang được nghiên cứu một cách tích cực , cùng với nghiên cứu vắc - xin làm mạnh thêm cho hệ miễn dịch để tấn công tế bào ung thư .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Treatment : Palliative therapy</s>
+<s id='vn55'>Điều trị ung thư tuyến tuỵ bằng liệu pháp giảm đau tạm thời</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Palliative therapy is used to ease symptoms and manage pain regardless of the stage of the disease or the need for other therapies .</s>
+<s id='vn56'>Liệu pháp giảm đau tạm thời được sử dụng để làm giảm các triệu chứng và làm giảm đau bất kể là bệnh đang ở giai đoạn nào hoặc đang cần được sử dụng các liệu pháp khác .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The goal of palliative care is to improve quality of life not just in the body , but in the mind and spirit .</s>
+<s id='vn57'>Mục tiêu của việc điều trị bằng thuốc giảm đau tạm thời là để cải thiện chất lượng cuộc sống không chỉ đối với cơ thể mà còn đối với đầu óc và tinh thần người bệnh nữa .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>While palliative therapies are clearly appropriate at the very advanced stages of the disease , they are also helpful when given in tandem with other cancer treatments still working to fight the disease .</s>
+<s id='vn58'>Mặc dù liệu pháp này rõ ràng là phù hợp với các giai đoạn bệnh rất nặng , nhưng chúng cũng có lợi khi được sử dụng cùng lúc với các phương pháp điều trị ung thư khác vẫn còn đang được áp dụng để chống lại bệnh tật .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Getting support</s>
+<s id='vn59'>Được hỗ trợ</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Living with pancreatic cancer is n't easy ; a support system is critical to help cope with the emotional and practical aspects of this aggressive disease .</s>
+<s id='vn60'>Sống chung với bệnh ung thư tuyến tụy không dễ dàng chút nào , nên hệ thống hỗ trợ là rất quan trọng nhằm giúp bệnh nhân đối phó với nhiều khía cạnh về xúc cảm và thực tế của căn bệnh dữ dội này .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>* Pancreatic cancer action network : 877-272-6226</s>
+<s id='vn61'>* Mạng hoạt động vì ung thư tuyến tụy : 877-272-6226</s>
+</spair>
+<spair id='62'>
+<s id='en62'>* American Cancer Society : 800-AC S-2345</s>
+<s id='vn62'>* Hiệp hội ung thư Mỹ : 800-ACS-2345</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Is prevention possible ?</s>
+<s id='vn63'>Có thể ngăn ngừa được ung thư tuyến tuỵ không ?</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Although there 's no one definite action you can take to prevent pancreatic cancer , start by avoiding the risk factors you can control .</s>
+<s id='vn64'>Mặc dù chẳng có một hoạt động nào rõ ràng có thể giúp bạn ngăn ngừa được ung thư tuyến tụy , nhưng hãy bắt đầu bằng việc tránh các nguy cơ rủi ro mà mình có thể kiểm soát được .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>* If you smoke , quit now .</s>
+<s id='vn65'>* Nếu bạn hút thuốc thì nên bỏ ngay bây giờ nhé .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>* If your diet is high in fat , work to eat more healthfully .</s>
+<s id='vn66'>* Nếu chế độ dinh dưỡng của bạn nhiều chất béo thì hãy nên ăn uống khỏe mạnh hơn nhé .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* Adopt a regular exercise routine , since exercise has been shown to lower the risk of pancreatic cancer .</s>
+<s id='vn67'>* Áp dụng thói quen tập luyện thường xuyên , bởi luyện tập thể dục đã được chứng minh là có thể làm giảm nguy cơ ung thư tuyến tụy .</s>
+</spair>
+</text>
+</doc>

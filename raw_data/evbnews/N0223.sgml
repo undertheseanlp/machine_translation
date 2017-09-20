@@ -1,0 +1,168 @@
+﻿<doc id='N0223'>
+<head>
+<title>Dogs Trained To Effectively Sniff Out Prostate Cancer</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Dogs Trained To Effectively Sniff Out Prostate Cancer</s>
+<s id='vn1'>Chó được huấn luyện để đánh hơi phát hiện ung thư tuyến tiền liệt</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Dogs can be trained to correctly identify certain prostate cancer cell-derived volatile organic compounds ( VOCs ) in urine , according to new data from researchers in Paris .</s>
+<s id='vn2'>Theo dữ kiện mới từ các nhà nghiên cứu ở Paris , chó có thể được huấn luyện để thực hiện nhận biết chính xác một số hợp chất hữu cơ dễ bay hơi ( VOCs ) từ những tế bào ung thư tuyến tiền liệt trong nước tiểu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>These promising new data were presented on June 1 , 2010 during the 105th Annual Scientific Meeting of the American Urological Association ( AUA ) .</s>
+<s id='vn3'>Dữ kiện mới đầy hứa hẹn này được công bố vào ngày 1 tháng 6 năm 2010 trong lần thứ 15 của Hội nghị Khoa học hàng năm của Hội Tiết niệu Hoa Kỳ ( AUA ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The session was moderated by AUA Public Media Committee Chair Anthony Y. Smith , MD.</s>
+<s id='vn4'>Phiên họp được điều hành bởi Chủ tịch Uỷ ban truyền thông công cộng AUA , tổng giám đốc Anthony Y. Smith .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In recent years , new findings have emerged to indicate that dogs , due to their strong scenting ability , are capable of detecting cancer .</s>
+<s id='vn5'>Trong những năm gần đây , những phát hiện mới đã gây chú ý khi cho rằng loài chó , do khả năng đánh hơi giỏi , có thể phát hiện bệnh ung thư .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Past studies have focused on breast , lung and bladder cancers .</s>
+<s id='vn6'>Các nghiên cứu trước đây đã tập trung vào ung thư ngực , phổi và bàng quang .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This new study addresses the ability of canines to accurately detect the presence of prostate cancer .</s>
+<s id='vn7'>Nghiên cứu mới này nhắm đến khả năng của chó để phát hiện chính xác sự hiện diện của ung thư tuyến tiền liệt .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Using urine samples from 33 patients with biopsy-confirmed prostate cancer , researchers trained dogs ( using the clicker-training method ) to recognize the characteristic olfactory signatures of prostate cancer-derived VOCs .</s>
+<s id='vn8'>Sử dụng mẫu nước tiểu từ 33 bệnh nhân bị ung thư tuyến tiền liệt xác nhận bằng sinh thiết , các nhà nghiên cứu huấn luyện chó ( sử dụng phương pháp bấm âm thanh lách cách ) để nhận biết dấu hiệu khứu giác đặc trưng ký từ những tế bào ung thư tuyến tiền liệt trong nước tiểu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The dogs were then trained to discern cancer urine from control urine and , finally , were asked to signal cancer urine from among five individual samples ( only one was from a patient with confirmed cancer ) .</s>
+<s id='vn9'>Các chú chó sau đó được huấn luyện để phân biệt nước tiểu của người bị ung thư với nước tiểu so sánh và , cuối cùng , được yêu cầu chỉ ra nước tiểu của người bị ung thư trong năm mẫu riêng biệt ( chỉ có duy nhất một mẫu là từ bệnh nhân đã xác nhận bị ung thư ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Sensitivity and specificity were 100 percent and 91 percent respectively ; of the 66 total urine samples ( 33 in each group ) , the dogs correctly classified 63 samples .</s>
+<s id='vn10'>Tính nhạy cảm và đặc trưng tương ứng là 100% và 91% ; trong tổng cộng 66 mẫu nước tiểu ( 33 mẫu trong mỗi nhóm ) , chó phân loại chính xác 63 mẫu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The negative predictive value was 100 percent .</s>
+<s id='vn11'>Giá trị tiên đoán âm tính là 100% .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" These data suggest that prostate cancer tumors may excrete certain VOCs that turn up in a patient 's urine and that this " scent " may be specific to prostate cancer , " said Dr. Smith .</s>
+<s id='vn12'>" Những dữ liệu này gợi ý rằng các khối u ung thư tuyến tiền liệt có thể bài tiết các chất VOCs xuất hiện trong nước tiểu của bệnh nhân và " mùi hương " này có thể là đặc trưng cho ung thư tuyến tiền liệt , " theo bác sĩ Smith .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" What we need to do now is figure out what those VOCs are and whether or not we can develop a specific test to identify them .</s>
+<s id='vn13'>" Những gì chúng ta cần làm bây giờ là tìm ra các chất VOC đó là gì và chúng ta có thể phát triển một xét nghiệm cụ thể để nhận biết chúng hay không .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But , do n't be surprised in a few years if we have to " call in the dogs " to make a diagnosis - if it holds up , the dogs are better than PSA ! "</s>
+<s id='vn14'>Nhưng đừng ngạc nhiên trong vài năm nữa nếu chúng ta vẫn phải nhờ đến các chú chó để chẩn đoán – nếu cần thiết , chó vẫn giỏi hơn PSA ! "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Source : American Urological Association</s>
+<s id='vn15'>Nguồn : Hiệp hội Tiết niệu Hoa Kỳ</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Copyright : Medical News Today</s>
+<s id='vn16'>Bản quyền : Medical News Today</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Dogs Helped Kids Improve Reading Fluency</s>
+<s id='vn17'>Chó giúp trẻ đọc lưu loát</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Researchers in the US found that reading to dogs helped children improve their fluency by up to 30 percent .</s>
+<s id='vn18'>Các nhà nghiên cứu Hoa Kỳ nhận thấy việc đọc cho các chú chó giúp trẻ em cải tiến khả năng đọc lưu loát đến 30% .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Many animal organizations and libraries in the US already have reading improvement schemes where they pair up children and dogs , but until now the evidence has been more anecdotal than research-based .</s>
+<s id='vn19'>Nhiều hiệp hội động vật và thư viện ở Hoa Kỳ đã có kế hoạch giúp cải tiến kỹ năng đọc bằng cách ghép cặp trẻ em và chó , nhưng cho đến hiện tại thì bằng chứng vẫn chỉ có tính lý thuyết hơn là dựa trên kết quả nghiên cứu thực nghiệm .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The findings are the result of a collaboration between the University of California Davis School of Veterinary Medicine and Tony La Russa 's Animal Rescue Foundation of Walnut Creek , California .</s>
+<s id='vn20'>Các phát hiện là kết quả của sự cộng tác giữa Trường Thú y Davis của Đại học California và Quỹ Cứu trợ Động vật Tony La Russa của Walnut Creek , California .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Together they studied participants of the Tony La Russa 's Foundation already established animal assisted therapy scheme called the All Ears Reading Program , according to a statement released by UC Davis earlier this month .</s>
+<s id='vn21'>Cùng với nhau họ nghiên cứu những người tham dự của kế hoạch điều trị nhờ hỗ trợ của động vật đã được xây dựng bởi Quỹ Tony La Russa , gọi là Chương trình lắng nghe lời đọc , theo lời tuyên bố của UC Davis vào đầu tháng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Lead researcher Martin Smith , a veterinary school science educator with UC Davis , told the press that :</s>
+<s id='vn22'>Nhà nghiên cứu trưởng Martin Smith , giảng viên khoa học của Trường Thú y UC Davis , cho hay :</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" The dogs , in contrast to a human , don't judge the individual , aren't grading the individual , and hopefully that allows the children to build some confidence in their reading skills . "</s>
+<s id='vn23'>" Loài chó , trái với con người , không đánh giá cá nhân , không phân loại cá nhân , và tràn đầy hy vọng nên cho phép trẻ em xây dựng sự tin tưởng vào kỹ năng đọc của mình . "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Smith and colleagues explored changes in reading skills among third graders at school and among home-schooled students .</s>
+<s id='vn24'>Smith và đồng nghiệp tìm hiểu những thay đổi của kỹ năng đọc trong các bé lớp 3 đến trường và những bé học tại nhà .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>They found reading fluency went up 12 percent in the school-based students and 30 percent in the home-schooled students .</s>
+<s id='vn25'>Họ thấy rằng sự đọc lưu loát tăng lên 12% trong các bé đi học ở trường và 30% trong các bé học tại nhà .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Reading speeds also increased by up to 30 words per minute .</s>
+<s id='vn26'>Tốc độ đọc cũng tăng lên đến 30 từ trong một phút .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>These children regularly read out loud to three shelter-rescued dogs called Molly , Digory and Lollipop ( a Chihuahua-terrier mix ) from Tony La Russa 's Animal Rescue Foundation .</s>
+<s id='vn27'>Các trẻ này thường xuyên đọc to cho 3 chú chó hỗ trợ có tên là Molly , Digory và Lollipop ( một chú chó lai giữa giống Chihuahua ) từ Quỹ Cứu trợ Động vật của Tony La Russa .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The home-schooled children visited the veterinary school every week for 10 weeks during which time each child read out loud to one of the dogs for 15 to 20 minutes .</s>
+<s id='vn28'>Các trẻ học tại nhà đi thăm trường thú y mỗi tuần trong vòng 10 tuần và trong suốt thời gian đó mỗi trẻ đọc to cho một trong các chú chó trong vòng 15 đến 20 phút .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>One child told that :</s>
+<s id='vn29'>Một bé cho biết :</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" I feel relaxed when I am reading to a dog because I am having fun . "</s>
+<s id='vn30'>" Con cảm thấy dễ chịu khi con đọc cho chó vì con thấy vui . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Another added that :</s>
+<s id='vn31'>Một bé khác nói thêm :</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" The dogs don't care if you read really bad so you just keep going . "</s>
+<s id='vn32'>" Các chú chó không quan tâm nếu con đọc thực sự tệ cho nên con cứ việc tiếp tục đọc . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>After the study , 75 percent of parents reported that their child was now reading aloud more frequently and with more confidence .</s>
+<s id='vn33'>Sau cuộc nghiên cứu , 75% phụ huynh báo cáo con của họ bây giờ thường xuyên đọc to hơn và cũng tự tin hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Smith and colleagues proposed that because the children perceived the dogs as patient and non-judgemental , this changed their attitude to reading .</s>
+<s id='vn34'>Smith và đồng nghiệp giả thuyết vì trẻ em thấy các chú chó rất kiên nhẫn và không chê bai mình , điều đó làm thay đổi thái độ đọc của các bé .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Research into animal assisted therapy ( AAT ) shows that pets can also improve people 's health .</s>
+<s id='vn35'>Nghiên cứu dựa trên liệu pháp động vật ( AAT ) cho thấy thú cưng cũng có thể cải thiện sức khỏe của con người .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>In 2004 , Dr Daniel Joffe , a Canadian veterinarian reviewed the medical literature and found pet therapy increased social interaction among long stay psychiatric patients , opened up social and recreational opportunities in nursing homes , gave valuable companionship to low-mobility orthopedic patients , helped dementia patients be less agitated and reduced loneliness in patients with HIV AIDS .</s>
+<s id='vn36'>Năm 2004 , tiến sĩ Daniel Joffe , một bác sĩ thú y người Canađa đã xem xét các tài liệu y học và thấy rằng liệu pháp thú cưng giúp tăng sự tương tác xã hội giữa những bệnh nhân tâm thần lâu năm , mở rộng các cơ hội xã hội và giải trí trong bệnh xá , tạo nên tình bè bạn quý báu cho các bệnh nhân gặp khó khăn trong việc đi lại , giúp những bệnh nhân sa sút trí tuệ cảm thấy ít lo lắng bồn chồn và giảm mặc cảm cô đơn của các bệnh nhân nhiễm HIV AIDS .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>There is also evidence to suggest that babies who have greater exposure to dirt and allergens , such as when they share a home with a dog or a cat , have a stronger immune system , according to Dr James E. Gern , a pediatrician at the University of Wisconsin-Madison , who co-authored a paper about it in the 2004 issue of the Journal of Allergy and Clinical Immunology .</s>
+<s id='vn37'>Cũng có bằng chứng cho rằng những em bé có tiếp xúc nhiều với chất bẩn và các dị ứng nguyên , như là khi nhà của các bé có nuôi chó hoặc mèo , sẽ có hệ miễn dịch mạnh hơn , theo tiến sĩ James E. Gern , bác sĩ nhi khoa tại Đại học Wisconsin-Madison , đồng tác giả của báo cáo về nghiên cứu này trong số năm 2004 của Tạp chí của Dị ứng và Miễn dịch học Lâm sàng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Written by : Catharine Paddock , PhD</s>
+<s id='vn38'>Tác giả : TS. Catharine Paddock ,</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Copyright : Medical News Today</s>
+<s id='vn39'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

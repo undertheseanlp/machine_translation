@@ -1,0 +1,248 @@
+﻿<doc id='N0431'>
+<head>
+<title>Women And Finances : Is There A Gender Bias ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Women And Finances : Is There A Gender Bias ?</s>
+<s id='vn1'>Phụ nữ và tài chính : Có không thành kiến về giới ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Men and women both wear the jeans in heading today 's households , but they still have gender-unique wallet-handling issues due to " jeanetic " differences and societal circumstances .</s>
+<s id='vn2'>Cả nam giới lẫn nữ giới đều mặc quần jean trong các gia đình hiện đại , tuy nhiên họ vẫn có những vấn đề quản lý túi tiền đặc thù theo từng giới tính vì những chênh lệch về chiếc " quần jean " và hoàn cảnh xã hội .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Although these differences don't uniformly favor one gender over the other , they collectively challenge women more by limiting their incomes , making their lives more expensive and complicating money management .</s>
+<s id='vn3'>Mặc dù những khác biệt này đều không thiên vị hoàn toàn giới này so với giới kia , nhưng nhìn chung chúng thường thử thách phụ nữ nhiều hơn bằng việc hạn chế thu nhập , làm cho cuộc sống của họ tốn kém hơn và gây rắc rối trong việc quản lý tiền bạc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Confronting this challenge is the next step in the female financial revolution , which began with women becoming a permanent fixture in every part of the workplace .</s>
+<s id='vn4'>Đương đầu với thử thách này là bước kế tiếp trong cuộc cách mạng tài chính của phụ nữ , cuộc cách mạng bắt đầu bằng việc phụ nữ góp mặt thường xuyên ở mọi vị trí trong sở làm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They first conformed to the expectation that they dress and act like male managers and executives whose jobs they aspired to - but they ultimately succeeded by understanding and accepting male business behavior , while embracing their own gender-unique traits to rival male professional success .</s>
+<s id='vn5'>Đầu tiên họ làm theo mong muốn là ăn mặc và cư xử giống như các giám đốc và quản lý nam có công việc mà họ hằng mơ ước – nhưng rút cục họ thành công bằng việc hiểu ra và chấp nhận hành vi kinh doanh của nam giới , trong khi nắm giữ những đặc tính riêng của giới mình để cạnh tranh với thành công trong công việc của phái đối lập .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Women can now apply those workplace lessons to their personal " wealth-place " financials .</s>
+<s id='vn6'>Bây giờ phụ nữ có thể áp dụng những bài học tại nơi làm việc ấy cho những vấn đề tài chính thuộc " nơi để tài sản " cá nhân .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Regardless of relationship status , they can increasingly take full charge of their own financial fates by embracing and adapting for their unique fiscal gender characteristics .</s>
+<s id='vn7'>Bất kể tình trạng hôn nhân thế nào , họ cũng có thể ngày càng gánh vác đầy đủ vận mệnh tài chính của riêng mình bằng việc nắm giữ và sử dụng những đặc trưng giới tính về tài chính độc đáo của họ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Earnings</s>
+<s id='vn8'>Thu nhập</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The biggest gender difference is no surprise ; studies , such as the one published by the United States General Accounting Office in 2003 entitled " Women 's Earnings " , show that women are paid at a lower rate and earn significantly less overall than men - thus accruing lower Social Security benefits and retirement plan accumulations .</s>
+<s id='vn9'>Sự khác biệt giới tính lớn nhất là điều không gây ngạc nhiên ; những nghiên cứu , chẳng hạn một báo cáo có tên là " Thu nhập của phụ nữ " do Văn phòng Tổng Kiểm toán Hoa Kỳ công bố năm 2003 , cho thấy rằng phụ nữ được trả lương thấp hơn và kiếm được tiền ít hơn nhiều so với đa số nam giới – do vậy dẫn đến các quyền lợi hưởng trợ cấp an sinh xã hội và để dành tiền về hưu được ít hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But , the reasons are surprisingly complex :</s>
+<s id='vn10'>Tuy nhiên , các lý do phức tạp đến ngạc nhiên :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Total Work Time</s>
+<s id='vn11'>Tổng thời gian làm việc</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Because caregiving tasks ( for kids , elderly parents and_or extended family ) traditionally falls more on women , they end up having less time to devote to work .</s>
+<s id='vn12'>Vì những công việc chăm sóc ( cho trẻ nhỏ , cha mẹ già và hoặc đại gia đình ) theo truyền thống do phụ nữ đảm nhiệm nhiều hơn , họ thành ra có ít thời gian dành cho sự nghiệp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Single women without children are often seen as more available to care for an aging parent .</s>
+<s id='vn13'>Chúng ta thường thấy phụ nữ đơn thân không có con nhỏ sẵn lòng chăm sóc cha mẹ già .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>These responsibilities cause them to more often opt for work that requires less travel and overtime , and also take more family leave , all of which affects career advancement .</s>
+<s id='vn14'>Những trách nhiệm này khiến họ có xu hướng chọn công việc mà ít phải đi xa và làm thêm giờ , và còn nghỉ phép vì việc nhà nhiều hơn , tất cả những chuyện như vậy ảnh hưởng đến thăng tiến sự nghiệp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Although men increasingly have joint custody , single women are more often custodial parents , requiring them to take more time off , work fewer hours or develop a scheduled work relationship ( such as telecommuting ) where they can work from home .</s>
+<s id='vn15'>Mặc dù nam giới ngày càng góp tay nhiều hơn vào việc chăm sóc gia đình , nhưng phụ nữ đơn thân vẫn thường là những người chăm lo nhiều hơn , đòi hỏi họ mất nhiều thời gian hơn , làm việc ít giờ hơn hoặc phát triển mối quan hệ công việc đã định theo kế hoạch mà họ có thể làm việc tại nhà ( chẳng hạn làm việc qua mạng ) .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Career Choice</s>
+<s id='vn16'>Lựa chọn nghề nghiệp</s>
+</spair>
+<spair id='17'>
+<s id='en17'>According to a study by Shelly J. Correll entitled " Gender and the Career Choice Process : The Role of Biased Self-Assessments " published in the American Journal of Sociology in 2001 , parents , teachers and particularly the popular culture send a message based on traditional cultural beliefs to a significant percentage of girls .</s>
+<s id='vn17'>Theo một nghiên cứu mang tên " Giới tính và Quá trình Chọn lựa Nghề nghiệp : Vai trò của các hoạt động Tự đánh giá Thiên vị " do Shelly J. Correll công bố trong Tạp chí Xã hội học Mỹ vào năm 2001 , thì cha mẹ , thầy cô giáo và đặc biệt văn hoá phổ thông gửi thông điệp cho hầu hết các cô gái trên cở sở những niềm tin vào văn hoá truyền thống .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This message says : their career planning and choices are less important than boys ' choices - although more than 55% of fulltime college students are female .</s>
+<s id='vn18'>Thông điệp có nội dung : sự lựa chọn và việc chuẩn bị cho sự nghiệp của phụ nữ ít quan trọng hơn so với sự lựa chọn của nam giới - dù hơn 55% các sinh viên bậc đại học chính quy là nữ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>So it 's not surprising that they 're attracted to careers in traditional female-track or lower-paying jobs , where alternate work arrangements are usually more available .</s>
+<s id='vn19'>Vì vậy chẳng có gì ngạc nhiên khi phụ nữ thích những công việc theo hướng các bà , các mẹ , các chị mình đã làm hoặc những công việc lương thấp , mà tại đó thường dễ dàng bố trí công việc linh hoạt hơn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Statistics show that adult women with children ( or women planning to have children ) disproportionately favor such careers despite widened opportunities in all fields - such as scientific research and applied science , where women are woefully under-represented .</s>
+<s id='vn20'>Các số liệu thống kê cho thấy phụ nữ trưởng thành có con nhỏ ( hoặc dự định có con ) ưa thích một cách thiên lệch những công việc như vậy dù các cơ hội mở ra trong mọi lĩnh vực - chẳng hạn như nghiên cứu khoa học và khoa học ứng dụng , lĩnh vực mà phụ nữ đáng tiếc là chưa được đánh giá đúng mức .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Furthermore , women less frequently choose more physically dangerous professions - such as law enforcement - that reward higher risk with premium wages and pensions .</s>
+<s id='vn21'>Hơn nữa , phụ nữ ít khi chọn những công việc nguy hiểm đến thân thể - ví dụ lĩnh vực thi hành pháp luật - những công việc này có các khoản trợ cấp hưu trí và lương phụ trội cho rủi ro cao mà người làm phải chịu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Most significantly , women are controlling their work schedules by starting businesses - often from home when children are very young - to the tune of more than 10 million female ( majority-owned ) U.S. businesses .</s>
+<s id='vn22'>Đáng nói nhất là những người phụ nữ đang quản lý các kế hoạch làm việc của mình với việc bắt đầu hoạt động kinh doanh - thường ra xã hội khi con cái còn rất nhỏ - hoà vào hơn 10 triệu doanh nghiệp Hoa Kỳ ( sở hữu đa số ) của phụ nữ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Divorce and Widowhood</s>
+<s id='vn23'>Ly hôn và Góa bụi</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The divorce rate is around 40% and the average age of widowhood is around 56 ; both forms of " losing " husbands are hazardous to women 's financial health .</s>
+<s id='vn24'>Tỷ lệ ly hôn khoảng 40% và tuổi trung bình của người goá là 56 ; cả hai hình thức " mất chồng " đều nguy hiểm cho tình hình tài chính của phụ nữ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Changing and evolving divorce laws and the way courts apply them , combined with women 's increased numbers and earnings in the workplace , have put downward pressure on the length and amount of spousal support negotiated by or awarded to women ( while also modestly increasing instances and amounts awarded to men ) .</s>
+<s id='vn25'>Sự thay đổi và phát triển luật ly hôn và cách toà án áp dụng chúng , cùng với số lượng ngày càng nhiều phụ nữ đi làm và có thu nhập , đã giảm dần áp lực lên thời gian và số tiền hỗ trợ hôn nhân được thoả thuận hoặc dành cho phụ nữ ( trong khi lại gia tăng không đáng kể những trường hợp và số tiền phạt nam giới ) .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So women who leave ultimately lucrative careers to become stay-at-home mothers are often forced to work for inadequate pay when the support runs out before they 've been able to catch up with experience , education , skills and experience needed for higher compensation .</s>
+<s id='vn26'>Cho nên những người phụ nữ mà rút cục cũng sẽ bỏ công việc có lợi để làm những người mẹ nội trợ thường buộc phải làm việc để nhận lấy đồng lương không tương xứng khi tiền hỗ trợ hết trước thời gian họ có khả năng đạt được kinh nghiệm , trình độ học vấn , kỹ năng làm việc cần thiết để có khoản bồi thường cao hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Similarly , pre-retirement homemaker widows are sometimes left with insufficient life insurance or other assets and , as a result , are also forced into low-paying jobs because they can't afford fulltime education to jumpstart a new career .</s>
+<s id='vn27'>Tương tự , những bà goá làm nội trợ trước khi về hưu thường bỏ bảo hiểm nhân thọ không đóng đủ phí và những tài sản khác và , như là kết quả tất yếu , cũng phải làm những công việc lương thấp vì họ không thể có đủ điều kiện đi học đầy đủ để bắt đầu tìm một công việc mới .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Social-Security Formula Anomalies</s>
+<s id='vn28'>Những điều bất bình thường về cách tính an sinh xã hội</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Women are disproportionately hurt by the average-of-highest-35-years earnings formula , both because of getting zeros for non-working years and because earnings are limited by the taxable caps in each year .</s>
+<s id='vn29'>Phụ nữ bị thiệt thòi một cách bất công bởi cách tính thu nhập bình quân 35 năm cao nhất , cả vì có những số 0 đối với những năm không làm việc và vì thu nhập bị hạn chế bởi những mức trần chịu thuế trong từng năm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Thus , a woman who spends several years earning small amounts while establishing a successful business doesn't get full credit for six-figure earnings once the business becomes successful .</s>
+<s id='vn30'>Vì vậy một phụ nữ mất vài năm mới kiếm được số tiền nhỏ trong khi xây dựng doanh nghiệp thành công không có tín dụng đầy đủ cho thu nhập 6 con số ngay khi kinh doanh gặt hái thành công .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Furthermore , divorced women are entitled to get the potentially larger husband-based benefit only if the marriage lasts at least 10 years - and then ( along with widows ) lose the right to that benefit under some circumstances if they later remarry .</s>
+<s id='vn31'>Hơn nữa , những phụ nữ ly hôn được quyền nhận trợ cấp dựa vào người chồng có khả năng lớn hơn chỉ khi cuộc hôn nhân kéo dài ít nhất là 10 năm - và rồi ( cùng với những người goá chồng ) họ mất quyền hưởng số trợ cấp đó trong một số trường hợp nếu họ đi bước nữa .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This can be grossly damaging to Social Security benefits if these women were mainly stay-at-home moms during their first marriages .</s>
+<s id='vn32'>Điều này có thể đang gây thiệt hại nặng cho các khoản trợ cấp an sinh xã hội nếu những người phụ nữ ấy chủ yếu là những người mẹ nội trợ trong những lần kết hôn đầu của họ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Lower Raise Expectations</s>
+<s id='vn33'>Ít có hy vọng được tăng lương hơn</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Women tend to be less assertive than men about asking for raises and often less effective at negotiating them .</s>
+<s id='vn34'>Phụ nữ thường thiếu tự tin hơn nam giới về khoản yêu cầu tăng lương và thường ít có hiệu quả khi thương lượng chuyện này .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Residual Discrimination</s>
+<s id='vn35'>Sự kỳ thị còn rơi rớt lại</s>
+</spair>
+<spair id='36'>
+<s id='en36'>A shrinking but still significant part of the wage gap remains due to lingering discriminatory attitudes about women 's professional commitment , which ultimately reduces their share of higher-paying jobs , promotions , professional partnerships and funding for major entrepreneurial business ventures .</s>
+<s id='vn36'>Khoảng cách lương thu hẹp lại nhưng vẫn chênh lệch đáng kể vì còn những thái độ kì thị về trách nhiệm công việc của phụ nữ , điều mà cuối cùng sẽ hạn chế phần công việc lương cao , sự thăng tiến , quan hệ đối tác trong công việc của họ và việc cấp vốn cho những dự án kinh doanh sáng nghiệp lớn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Expenses</s>
+<s id='vn37'>Chi phí</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The longer you live and the more years you have of not earning income , the more it costs and the more years of earned income you will need to offset those costs .</s>
+<s id='vn38'>Càng sống lâu và số năm không có thu nhập càng nhiều thì càng phải chi tiêu nhiều và số năm có thu nhập sẽ cần càng nhiều để bù đắp lại những chi tiêu đó .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>This adds up when you consider that the life expectancy of women is about five years longer than men .</s>
+<s id='vn39'>Ở đây tính chung trường hợp cho rằng tuổi thọ trung bình của phụ nữ cao hơn nam giới khoảng 5 năm , cùng với khả năng hồi phục nhanh hơn nam giới .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Combined with their greater resilience compared to men who succumb faster to chronic diseases , this results in ( mostly single ) women spending more old-age time getting in a savings-depleting , expensive longterm care service ( such as in-home nursing care or in assisted living , rehabilitation and nursing facilities ) .</s>
+<s id='vn40'>Những người mất sự kháng cự trước bệnh tật mãn tính nhanh hơn , thì kết quả là phụ nữ ( hầu hết đơn thân ) sống thời gian tuổi già nhiều hơn cần dịch vụ y tế thường xuyên tốn kém , làm cạn kiệt tiền tiết kiệm ( chẳng hạn dịch vụ chăm sóc điều dưỡng tại nhà hoặc các tiện ích điều dưỡng , phục hồi và hỗ trợ sinh hoạt ) .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Finally , even young women 's health care is more expensive - as reflected in an average $ 25 per month higher premiums for individual health insurance .</s>
+<s id='vn41'>Cuối cùng , ngay cả việc chăm sóc y tế cho phụ nữ trẻ cũng tốn kém hơn – được minh hoạ bằng số tiền bình quân hàng tháng trả phí bảo hiểm y tế cá nhân cao hơn 25 đô la so với nam giới .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Women also have several potentially higher living costs :</s>
+<s id='vn42'>Phụ nữ còn có một số chi phí sinh hoạt có thể phát sinh :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Appearance</s>
+<s id='vn43'>Diện mạo</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Looks do matter .</s>
+<s id='vn44'>Vẻ bề ngoài có vai trò quan trọng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Attractive people tend to make better career progress in the business world .</s>
+<s id='vn45'>Những người có vẻ ngoài ưa nhìn thường thăng tiến dễ dàng hơn trong giới kinh doanh .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Add in societal expectations regarding female attractiveness and what 's appropriate in the workplace , and that makes it very enticing for women to spend much more for high-end clothing , cosmetic items , personal care and , in extreme cases , cosmetic surgery .</s>
+<s id='vn46'>Cộng với việc xã hội chuộng sự lôi cuốn của người phụ nữ và những gì thích hợp ở nơi làm việc , thì vấn đề làm đẹp thôi thúc phụ nữ chi tiêu nhiều hơn vào những bộ đồ cao cấp , những món hàng mỹ phẩm , chăm sóc cá nhân và , trong trường hợp đặc biệt , là vào giải phẫu thẩm mỹ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Safety and Security</s>
+<s id='vn47'>Tính chắc chắn và an toàn</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Women by nature tend to be more risk averse - especially as mothers - so their choices in vehicles and safer-neighborhood housing cost more .</s>
+<s id='vn48'>Phụ nữ về bản chất thường không thích mạo hiểm hơn - đặc biệt là những bà mẹ - cho nên lựa chọn của họ khi mua xe và định cư ở khu vực an toàn hơn khiến tốn kém nhiều hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Money Momma</s>
+<s id='vn49'>Làm Mẹ nên phải chi tiêu</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Women may spend more on holiday gifts for friends , family and associates .</s>
+<s id='vn50'>Phụ nữ có thể chi nhiều hơn vào những món quà dịp lễ tết cho bạn bè , gia đình và hội này hội nọ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Furthermore , women 's willingness to open their purse strings is a new emphasis of charitable organizations , who are increasingly targeting female donors for larger gifts - given women 's improved financial status , more altruistic attitudes and higher percentage ( but lower per gift ) affirmative and continuing response to charitable appeals .</s>
+<s id='vn51'>Hơn nữa , sự sẵn lòng mở hầu bao của họ là một mối quan tâm mới của các tổ chức từ thiện - họ ngày càng nhắm đến các mạnh thường quân nữ với những món quà lớn hơn - căn cứ vào tình hình tài chính tốt đẹp , thái độ vị tha nhiều hơn , sự hưởng ứng không ngừng và đồng ý đạt tỷ lệ cao hơn ( nhưng thấp hơn với mỗi món quà ) của phụ nữ đối với những đề nghị xin giúp đỡ từ thiện .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Money Management and Investing</s>
+<s id='vn52'>Đầu tư và quản lý tiền bạc</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Although married women have traditionally been in charge of managing the checkbook , their husbands still make most of the major financial decisions regarding big-ticket purchases and investing .</s>
+<s id='vn53'>Mặc dù phụ nữ đã kết hôn theo truyền thống có trách nhiệm quản lý tiền bạc , nhưng chồng họ vẫn quyết định hầu hết các vấn đề tài chính lớn liên quan đến đầu tư và mua sắm vật dụng giá trị cao .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>And children of divorce or of single parents more often grow up in financially strapped families that invest less and made fewer big purchases .</s>
+<s id='vn54'>Và con cái có cha mẹ đơn thân hoặc ly dị thường lớn lên trong những gia đình thiếu thốn tiền bạc mà đầu tư ít và mua sắm những thứ rẻ tiền .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>When combined with statistics showing 80% of purchases are female-driven ( direct or decision ) , this makes a case for many women being more prepared for smart , substantial spending than for stingy saving and informed investing .</s>
+<s id='vn55'>Khi kết hợp với các số liệu thống kê cho thấy 80% hoạt động mua sắm do phụ nữ thực hiện ( trực tiếp hoặc quyết định ) , giải thích lý do vì sao mà nhiều phụ nữ có chuẩn bị chu đáo hơn việc đầu tư khôn ngoan và chi tiêu đúng mực , thông minh , hơn là tiết kiệm kiểu vắt cổ chày ra nước .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The Bottom Line</s>
+<s id='vn56'>Kết luận</s>
+</spair>
+<spair id='57'>
+<s id='en57'>As investors , women face unique challenges both in terms of making money and making that money grow for the future .</s>
+<s id='vn57'>Với tư cách là nhà đầu tư , phụ nữ đối mặt với những thách thức cả về mặt kiếm tiền lẫn việc làm cho số tiền đó sinh sôi nảy nở cho trong tương lai .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Despite this , women also have equal access to investing and investment advice .</s>
+<s id='vn58'>Mặc dù vậy , phụ nữ còn có quyền tiếp cận như nam giới với công việc đầu tư và thông tin tư vấn đầu tư .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Accumulating adequate resources for longer lives and higher health-care expenses requires substantial savings coupled with reasonably aggressive investing - both of which women are more than able to do .</s>
+<s id='vn59'>Việc tiết kiệm các nguồn lực thích hợp cho cuộc sống lâu dài hơn và cho những chi phí chăm sóc sức khoẻ cao hơn đòi hỏi những khoản tiền để dành đáng kể cộng với việc đầu tư năng động một cách hợp lý - cả hai nhiệm vụ này phụ nữ đều có nhiều khả năng thực hiện .</s>
+</spair>
+</text>
+</doc>

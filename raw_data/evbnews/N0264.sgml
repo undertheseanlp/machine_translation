@@ -1,0 +1,148 @@
+﻿<doc id='N0264'>
+<head>
+<title>Child Mortality Closely Linked To Women 's Education Levels</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Child Mortality Closely Linked To Women 's Education Levels</s>
+<s id='vn1'>Tỷ lệ tử vong ở trẻ em gắn liền với trình độ học vấn của phụ nữ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Over half of the reduction in the global mortality of children under 5 years of age is linked to increased education among females of reproductive age , says a reports from the Institute for Health Metrics and Evaluation , University of Washington , published in the medical journal The Lancet .</s>
+<s id='vn2'>Hơn một nửa số ca giảm trong tỷ lệ tử vong của trẻ em dưới 5 tuổi trên toàn cầu liên quan với trình độ học vấn tăng lên của phụ nữ trong độ tuổi sinh sản , theo một báo cáo từ Viện Y học Metrics , Đại học Washington , công bố trong tạp chí y học The Lancet .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Sixteen million children under the age of five died in 1970 , compared to 7.8 million in 2009 , the report informs - 4.2 million fewer children died in 2009 thanks in large part to better and more widely accessible schooling for women .</s>
+<s id='vn3'>16 triệu trẻ em dưới 5 tuổi tử vong vào năm 1970 , so với 7.9 triệu trong năm 2009 , các báo cáo các tổng kết - giảm 4.2 triệu trẻ em tử vong vào năm 2009 một phần lớn nhờ vào việc phụ nữ đã có điều kiện tốt hơn để học hành .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The authors write that education is growing in every part of the world .</s>
+<s id='vn4'>Theo báo cáo , giáo dục đang phát triển ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The report states that :</s>
+<s id='vn5'>Các tác giả cho biết :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Average years of schooling for women of reproductive age ( ages 15 to 44 ) in developing countries have grown from 2.2 years to 7.2 years .</s>
+<s id='vn6'>Thời gian được đi học trung bình của phụ nữ trong độ tuổi sinh sản ( lứa tuổi 15-44 ) ở các nước đang phát triển đã tăng từ 2,2 lên 7,2 năm .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In some countries , however , women still receive no more than one year of schooling .</s>
+<s id='vn7'>Tuy nhiên ở một số nước , phụ nữ vẫn không được đi học hơn 1 năm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Those countries include , Burkina Faso , Yemen , Niger , Chad , Mali and Afghanistan .</s>
+<s id='vn8'>Những quốc gia này bao gồm , Burkina Faso , Yemen , Niger , Chad , Mali và Afghanistan .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Dr. Emmanuela Gakidou , lead author , Associate Professor of Global Health at the Institute for Health Metrics and Evaluation ( IHME ) , said :</s>
+<s id='vn9'>Tiến sĩ Emmanuela Gakidou , tác giả chính , Phó Giáo sư Y tế Toàn cầu tại Viện Số liệu và Đánh giá Sức khỏe ( IHME ) , cho biết :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>We know that direct health interventions , such as immunizations , preventive care , and hygiene classes , are crucial to improving health worldwide .</s>
+<s id='vn10'>Chúng ta biết rằng những can thiệp y tế trực tiếp , chẳng hạn như chủng ngừa , chăm sóc phòng ngừa , và các lớp học vệ sinh , rất quan trọng đối với việc cải thiện sức khỏe trên toàn thế giới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>What this study shows is that by focusing on education as well , we can increase the impact that we are having on health .</s>
+<s id='vn11'>Nghiên cứu này cho thấy bằng cách tập trung vào giáo dục , chúng ta có thể tăng ảnh hưởng mà chúng ta đang can thiệp để cải thiện sức khỏe .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In 87 countries in 2009 , women had greater levels of education than men .</s>
+<s id='vn12'>Năm 2009 , ở 87 quốc gia , phụ nữ có trình độ học vấn cao hơn nam giới .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In 40 nations , however , the gender gap grew during the period 1970 to 2009 .</s>
+<s id='vn13'>Tuy nhiên , tại 40 quốc gia , khoảng cách giới tính đã tăng lên trong thời kỳ 1970-2009 .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Dr. Emmanuela Gakidou and team collected data from 915 censuses and national surveys globally to create a time series of education levels for 175 nations .</s>
+<s id='vn14'>Tiến sĩ Emmanuela Gakidou và nhóm nghiên cứu thu thập dữ liệu từ 915 khảo sát và thống kê dân số quốc gia trên toàn cầu để tạo số liệu theo thời gian của trình độ học vấn cho 175 quốc gia .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>They found that :</s>
+<s id='vn15'>Họ thấy rằng :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>31 nations had improved average years of schooling of women of reproductive age by over three years between 1990 and 2009 .</s>
+<s id='vn16'>31 quốc gia đã cải thiện số năm được đi học trung bình của phụ nữ trong độ tuổi sinh sản trên 3 năm trong giai đoạn 1990-2009 .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Saudi Arabia , the Lebanon and the United Arab Emirates were among these countries .</s>
+<s id='vn17'>Ả Rập Xê-út , Li-băng và các tiểu vương quốc Ả Rập thống nhất nằm trong số các nước này .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Out of the ten countries with the highest populations in the world , women of reproductive age had complete at least primary school in seven of them .</s>
+<s id='vn18'>Trong số 10 quốc gia có dân số cao nhất thế giới , có ít nhất 7 nước có phụ nữ trong độ tuổi sinh sản đã hoàn tất ít nhất là bậc tiểu học .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Most of the countries that are on track to achieving the Millennium Development Goal 4 - reducing the child mortality rate by 66 % between 1990 and 2015 - have achieved a faster improvement for average rate of schooling for women of reproductive age than the global 1.9 years over the last two decades .</s>
+<s id='vn19'>Hầu hết các nước đang đi đúng hướng để đạt được Mục tiêu Phát triển Thiên niên kỷ 4 - giảm tỷ lệ tử vong trẻ em xuống còn 66% trong năm 1990 và 2015 - đạt được cải tiến nhanh hơn nhờ vào tỷ lệ được đến trường trung bình của phụ nữ trong độ tuổi sinh sản đã tăng lên 1,9 năm trên toàn cầu trong 2 thập niên qua .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>According to their findings , economic growth accounted for just 7.2 % of the reduction in child mortality during the 1970-2009 period .</s>
+<s id='vn20'>Theo phát hiện của họ , tăng trưởng kinh tế chỉ chiếm 7,2% của việc giảm tỷ lệ tử vong trẻ em trong giai đoạn 1970-2009 .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Dr. Christopher Murray , IHME Director and one of the paper 's co-authors , said :</s>
+<s id='vn21'>Tiến sĩ Christopher Murray , Giám đốc IHME và là một trong các đồng tác giả của báo cáo , cho biết :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>More education helps mothers make better choices in a range of areas - personal hygiene , nutrition , parenting approaches .</s>
+<s id='vn22'>Học vấn cao hơn giúp các bà mẹ có những lựa chọn tốt hơn trong nhiều lĩnh vực - vệ sinh cá nhân , dinh dưỡng , phương pháp nuôi dạy con cái .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It also helps them take better care of their own health when pregnant , and , after the child is born , they are able to navigate the expanding array of health services being offered to their families .</s>
+<s id='vn23'>Nó cũng giúp họ có thể chăm sóc tốt sức khỏe bản thân khi mang thai , và sau khi đứa trẻ được sinh ra , họ có thể tìm cách mở rộng mảng dịch vụ y tế đang được cung cấp cho gia đình của họ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The authors believe that mothers with more education will drive advances in global health , embracing immunization programs , for example .</s>
+<s id='vn24'>Các tác giả tin rằng khi các bà mẹ có học vấn cao hơn sẽ đưa đến những tiến bộ trong y tế toàn cầu , ví dụ như bao gồm các chương trình tiêm chủng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Dr. Rafael Lozano , Professor of Global Health at IHME :</s>
+<s id='vn25'>Tiến sĩ Rafael Lozano , Giáo sư Y tế Toàn cầu tại IHME :</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The next phase could include building new secondary schools and hiring teachers .</s>
+<s id='vn26'>Giai đoạn kế tiếp có thể bao gồm việc xây dựng thêm các trường trung học và tuyển dụng giáo viên .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>But before that work begins , it would be wise to weigh the potential benefits and costs of this approach against building clinics and hiring health workers .</s>
+<s id='vn27'>Nhưng trước khi công việc bắt đầu , nên cân nhắc các lợi ích tiềm năng và chi phí của phương pháp so với việc xây dựng bệnh viện và thuê nhân viên y tế .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Source : The Institute for Health Metrics and Evaluation</s>
+<s id='vn28'>Nguồn : Viện Y tế và Đánh giá Metrics</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Increased educational attainment and its effect on child mortality in 175 countries between 1970 and 2009 : a systematic analysis</s>
+<s id='vn29'>Tăng cường giáo dục và hiệu quả đạt được về tỷ lệ tử vong trẻ em tại 175 quốc gia giữa các năm 1970 và 2009 : một phân tích có hệ thống</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Dr Emmanuela Gakidou PhD , Krycia Cowling BS , Prof Rafael Lozano MD , Prof Christopher JL Murray MD</s>
+<s id='vn30'>Tiến sĩ bác sĩ Emmanuela Gakidou , BS Krycia Cowling , Giáo sư Rafael Lozano MD , giáo sư Christopher JL Murray MD</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The Lancet , Volume 376 , Issue 9745 , Pages 959-974 , 18 September 2010</s>
+<s id='vn31'>The Lancet , Volume 376 , Issue 9.745 , trang 959-974 , ngày 18 tháng chín 2010</s>
+</spair>
+<spair id='32'>
+<s id='en32'>doi:10.1016</s>
+<s id='vn32'>doi:10.1016</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Written by Christian Nordqvist</s>
+<s id='vn33'>Tác giả : Christian Nordqvist</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Copyright : Medical News Today</s>
+<s id='vn34'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

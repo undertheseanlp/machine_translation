@@ -1,0 +1,1136 @@
+﻿<doc id='N0495'>
+<head>
+<title>The Monkey 's Paw - by W.W. Jacobs</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Monkey 's Paw - by W.W. Jacobs</s>
+<s id='vn1'>Bàn tay khỉ - tác giả : W.W. Jacobs</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Without , the night was cold and wet , but in the small parlor of Lakesnam Villa the blinds were drawn and the fire burned brightly .</s>
+<s id='vn2'>Bên ngoài trời trở lạnh và ẩm ướt nhưng trong gian phòng nhỏ của biệt thự Lakesnam rèm buông kín cửa , ánh lửa sáng bập bùng trong lò sưởi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Father and son were at chess , the former , who possessed ideas about the game involving radical changes , putting his king into such sharp and unnecessary perils that it even provoked comment from the whitehaired old lady knitting placidly by the fire .</s>
+<s id='vn3'>Hai bố con đang ngồi chơi cờ , người bố mải mê suy tính những nước cờ cơ bản , vô tình đã đưa con vua của mình vào tình thế nguy hiểm không cần thiết đến độ người phụ nữ lớn tuổi tóc bạc trắng đang ngồi cặm cụi đan áo bên lò sưởi phải buột miệng lên tiếng bình luận .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>" Hark at the wind , " said Mr. White , who , having seen a fatal mistake after it was too late , was amiably desirous of preventing his son from seeing it .</s>
+<s id='vn4'>Nhận ra sai lầm trong nước cờ của mình trước khi quá muộn , ông White bèn giả lả : " Nghe tiếng gió rít kia kìa " - với hi vọng hòng đánh lạc hướng cậu con trai .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" I 'm listening , " said the latter , grimly surveying the board as he stretched out his hand .</s>
+<s id='vn5'>" Con đang nghe đấy thôi , " người con nói , mắt nhìn đăm đăm vào bàn cờ và rồi với tay .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Check . "</s>
+<s id='vn6'>" Chiếu . "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" I should hardly think that he 'd come tonight , " said his father , with his hand poised over the board .</s>
+<s id='vn7'>" Tôi nghĩ tối nay khó lòng mà ông ấy đến được , " người bố nói , bàn tay ông vẫn còn do dự trên bàn cờ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" Mate , " replied the son .</s>
+<s id='vn8'>" Tướng , " đứa con đáp lời .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>"That 's the worst of living so far out , " bawled Mr. White , with sudden and unlooked-for violence ; " of all the beastly , slushy , out-of-the-way places to live in , this is the worst .</s>
+<s id='vn9'>" Thật tệ hại khi phải sống một nơi xa xôi như thế này , " ông White chợt lớn tiếng nhưng trong giọng nói không hề cay cú " trong tất cả những chỗ ở bẩn thỉu , dơ dáy , khỉ ho cò gáy thì nơi này là tệ lậu nhất .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Path way 's a bog , and the road 's a torrent .</s>
+<s id='vn10'>Đường nhỏ thì lầy lội và đường lớn thì ngập thành sông .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I do n't know what people are thinking about .</s>
+<s id='vn11'>Tôi chẳng biết người ta đang nghĩ gì nữa .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>I suppose because only two houses on the road are let , they think it does n't matter . "</s>
+<s id='vn12'>Tôi nghi là chỉ vì trên đường này có hai hộ dân thôi nên họ chả thèm quan tâm gì sấc . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Never mind , dear , " said his wife soothingly ; " perhaps you 'll win the next one . "</s>
+<s id='vn13'>Bà vợ dịu dàng an ủi " Bớt giận nào ông nó ơi , biết đâu ván sau tới phiên ông thắng thì sao . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Mr. White looked up sharply , just in time to intercept a knowing glance between mother and son .</s>
+<s id='vn14'>Ông White quắt nhìn lên , vừa đúng lúc bắt gặp ánh mắt ranh mãnh giữa hai mẹ con .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The words died away on his lips , and he hid a guilty grin in his thin grey beard .</s>
+<s id='vn15'>Lời nói đó chợt làm môi ông nín bặt , ông bèn che đậy nụ cười tội lỗi đằng sau hàm râu thưa màu xám bạc .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" There he is ," said Herbert White , as the gate banged to loudly and heavy footsteps came toward the door .</s>
+<s id='vn16'>" Ông ấy đến rồi kìa , " cậu Herbert White nói khi nghe tiếng cổng đập mạnh và tiếng bước chân thình thịch hướng về phía cửa .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The old man rose with hospitable haste , and opening the door , was heard condoling with the new arrival .</s>
+<s id='vn17'>Ông lão vội vàng bật dậy với vẻ hiếu khách , lao ra mở cửa , biết tin chia buồn với vị khách mới đến .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The new arrival also condoled with himself , so that Mrs. White said , " Tut , tut ! " and coughed gently as her husband entered the room , followed by a tall , burly man , beady of eyes and rubicund of visage .</s>
+<s id='vn18'>Người khách này cũng than vãn với ông về tình cảnh của mình đến độ bà White phải tặc lưỡi xót thương , và cất tiếng ho khẽ khi chồng bà bước vào phòng theo sau là một người đàn ông cao lớn khoẻ mạnh , đôi mắt to tròn và gương mặt hồng hào .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Sergeant Major Morris , " he said , introducing him .</s>
+<s id='vn19'>" Đây là Thượng sĩ Morris , " ông giới thiệu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The sergeant major shook hands , and taking the proffered seat by the fire , watched contentedly while his host got out whisky and tumblers and stood a small copper kettle on the fire .</s>
+<s id='vn20'>Ông thượng sĩ bắt tay xong thì ngồi ngay vào chiếc ghế được mời ngay cạnh lò sưởi , tỏ vẻ khoan khoái trong khi người chủ nhà mang ra một chai uýt-xki , vài chiếc ly và đặt một ấm đồng nhỏ trên bếp lửa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>At the third glass his eyes got brighter , and he began to talk , the little family circle regarding with eager interest this visitor from distant parts , as he squared his broad shoulders in the chair and spoke of strange scenes and doughty deeds , of wars and plagues and strange peoples .</s>
+<s id='vn21'>Khi uống tới ly thứ ba , mắt người khách trông sáng sủa hơn , và ông bắt đầu kể chuyện , bên cạnh ông là những thành viên trong gia đình nhỏ tỏ vẻ thích thú đối với người khách đến từ phương xa , khi ông ngồi thẳng lưng trên ghế và kể về những nơi xa lạ cùng những chiến công đầy hiển hách , về chiến tranh , bệnh dịch và những con người kỳ dị .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Twenty-one years of it , " said Mr. White , nodding at his wife and son .</s>
+<s id='vn22'>" 21 năm của cuộc đời này , " ông White vừa nói vừa gật đầu về phía vợ và con trai .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" When he went away he was a slip of a youth in the warehouse .</s>
+<s id='vn23'>" Khi ra đi chỉ là một cậu bé gầy nhòm làm việc trong nhà kho .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Now look at him . "</s>
+<s id='vn24'>Còn giờ đây nhìn ông ấy xem . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" He do n't look to have taken much harm , " said Mrs. White politely .</s>
+<s id='vn25'>" Ông ta có vẻ không phải nằm gai nếm mật nhiều lắm thì phải , " bà White nhận xét một cách lịch sự .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" I 'd like to go to India myself , " said the old man , " just to look round a bit , you know . "</s>
+<s id='vn26'>" Tôi cũng muốn tự mình đến Ấn Độ , " ông lão nói , " chỉ để tham quan một chút cho biết . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" Better where you are , " said the sergeant major , shaking his head .</s>
+<s id='vn27'>" Nơi ông đang ở tốt hơn chỗ đó , " thượng sĩ vừa nói vừa lắc đầu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>He put down the empty glass , and sighing softly , shook it again .</s>
+<s id='vn28'>Ông đặt cái ly đã uống cạn xuống , và khẽ thở dài , rồi lại lắc đầu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" I should like to see those old temples , fakirs and jugglers , " said the old man .</s>
+<s id='vn29'>" Tôi muốn đi xem những đền đài cổ xưa , những vị pha-kia và những tay làm trò ma thuật , " ông lão nói .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" What was that you started telling me the other day about a monkey 's paw or something , Morris ? "</s>
+<s id='vn30'>" Chuyện hôm nọ ông tính kể cho tôi về bàn tay khỉ hay gì đó ra sao ông Morris ? "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" Nothing , " said the soldier hastily .</s>
+<s id='vn31'>" Không có gì , " người lính vội nói .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" Leastways , nothing worth hearing . "</s>
+<s id='vn32'>" Ít ra là chẳng có gì đáng nghe cả . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Monkey 's paw ? " said Mrs. White curiously .</s>
+<s id='vn33'>" Bàn tay khỉ ư ? " bà White tò mò .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Well , it 's just a bit of what you might call magic , perhaps , " said the sergeant major offhandedly .</s>
+<s id='vn34'>" Ừm , chỉ là thứ mà bà có thể gọi là ma thuật , có lẽ thế , " thượng sĩ liền đáp gọn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>His three listeners leaned forward eagerly .</s>
+<s id='vn35'>Ba vị thính giả của ông chồm người về phía trước với vẻ háo hức .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The visitor absentmindedly put his empty glass to his lips and then set it down again .</s>
+<s id='vn36'>Vị khách lơ đãng kề cái ly rỗng vào miệng rồi lại đặt nó xuống .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>His host filled it for him .</s>
+<s id='vn37'>Người chủ nhà rót đầy ly cho ông .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>" To look at , " said the sergeant major , fumbling in his pocket , " it 's just an ordinary little paw , dried to a mummy . "</s>
+<s id='vn38'>" Nhìn bề ngoài , " thượng sĩ vừa nói vừa mò mẫm trong túi áo của mình , " nó chỉ là một bàn tay nhỏ bình thường , khô đét như xác ướp . "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>He took something out of his pocket and proffered it .</s>
+<s id='vn39'>Ông lấy cái gì đó ra khỏi túi của mình rồi chìa ra cho mọi người xem .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Mrs. White drew back with a grimace , but her son , taking , examined it curiously .</s>
+<s id='vn40'>Bà White dội lại với vẻ mặt nhăn nhó , nhưng con trai cầm lấy xem xét nó một cách tò mò .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" And what is there special about it ? "</s>
+<s id='vn41'>" Và nó có gì đó đặc biệt không ? "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Mr. White inquired , as he took it from his son , and having examined it , placed it upon the table .</s>
+<s id='vn42'>Ông White hỏi , khi ông cầm lấy nó từ người con trai , sau khi kiểm tra ông đặt nó trên bàn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" It had a spell put on it by an old fakir , " said the sergeant major , " a very holy man .</s>
+<s id='vn43'>" Một vị pha-kia đã niệm vào nó một câu thần chú , " thượng sĩ trả lời , " Ông ta rất linh thiêng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>He wanted to show that fate ruled people 's lives , and that those who interfered with it did so to their sorrow .</s>
+<s id='vn44'>Ông muốn chứng tỏ rằng định mệnh định đoạt sinh mệnh con người và những ai chống lại định mệnh sẽ phải gánh chịu nỗi đau khổ .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>He put a spell on it so that three separate men could each have three wishes from it . "</s>
+<s id='vn45'>Ông ta đã niệm chú vào bàn tay này để ba người đàn ông khác nhau có thể có được ba điều ước . "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>His manner was so impressive that his hearers were conscious that their light laughter jarred somewhat .</s>
+<s id='vn46'>Điệu bộ của ông ta ra vẻ trịnh trọng đến nỗi những vị thính giả ngồi nghe ông nói nhận thấy tiếng cười rúc rích mà họ phát ra dường như hơi vô duyên .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>" Well , why do n't you have three , sir ? " said Herbert White cleverly .</s>
+<s id='vn47'>" Ừm , thưa ngài thế tại sao ngài không ước ba điều gì đó đi ? " cậu Herbert White hỏi khéo .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The soldier regarded him in the way that middle age is wont to regard presumptuous youth .</s>
+<s id='vn48'>Người lính nhìn chằm chằm vào chàng thanh niên với ánh mắt của một người trung niên vốn hay soi mói bọn trai trẻ tự phụ .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" I have , " he said quietly , and his blotchy face whitened .</s>
+<s id='vn49'>" Tôi có ước đấy chứ , " ông khẽ trả lời , gương mặt đỏ au dần trở nên trắng bệt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" And did you really have the three wishes granted ?"</s>
+<s id='vn50'>" Và có thật sự là ông đã được toại nguyện cả ba điều ước ?</s>
+</spair>
+<spair id='51'>
+<s id='en51'>asked Mrs. White .</s>
+<s id='vn51'>" bà White hỏi .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" I did , " said the sergeant major , and his glass tapped against his strong teeth .</s>
+<s id='vn52'>" Vâng , " thượng sĩ đáp , hai hàm răng nghiến chặt quanh miệng ly .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>" And has anybody else wished ?"</s>
+<s id='vn53'>" Và có người nào ước nữa không ? "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>inquired the old lady .</s>
+<s id='vn54'>bà cụ hỏi .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" The first man had his three wishes , yes , " was the reply .</s>
+<s id='vn55'>" Vâng , người đầu tiên cũng đã ước ba điều ước .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" I do n't know what the first two were , but the third was for death .</s>
+<s id='vn56'>Tôi không biết hai điều ước đầu tiên của ông ta là gì , nhưng điều ước thứ ba là ông ước được chết .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>That 's how I got the paw . "</s>
+<s id='vn57'>Thế là tôi sở hữu được bàn tay này . "</s>
+</spair>
+<spair id='58'>
+<s id='en58'>His tones were so grave that a hush fell upon the group .</s>
+<s id='vn58'>Giọng nói ông trang nghiêm đến nỗi mọi người đều lặng câm .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>" If you 've had your three wishes , it 's no good to you now , then , Morris , " said the old man at last .</s>
+<s id='vn59'>" Nếu ông đã có điều ước thì giờ đây nó chẳng có ích gì với ông nữa rồi , Morris " cuối cùng ông lão cất giọng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>" What do you keep it for ? "</s>
+<s id='vn60'>" Thế ông giữ lại nó làm gì cơ chứ ? "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The soldier shook his head .</s>
+<s id='vn61'>Người lính lắc đầu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>" Fancy , I suppose , " he said slowly .</s>
+<s id='vn62'>" Chỉ để cho vui thế thôi " ông trả lời chầm chậm .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>" I did have some idea of selling it , but I do n't think I will .</s>
+<s id='vn63'>" Tôi từng có ý nghĩ bán nó đi nhưng rồi lại thôi .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It has caused enough mischief already .</s>
+<s id='vn64'>Nó đã gây ra đủ nỗi phiền toái rồi .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Besides , people won't buy .</s>
+<s id='vn65'>Hơn nữa , người ta cũng chẳng thèm mua nó .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>They think it 's a fairy tale , some of them , and those who do think anything of it want to try it first and pay me afterward . "</s>
+<s id='vn66'>Họ cho rằng nó chỉ là chuyện hư cấu , một số người hơi tin tin thì đòi thử trước khi mua . "</s>
+</spair>
+<spair id='67'>
+<s id='en67'>" If you could have another three wishes , " said the old man , eyeing him keenly , " would you have them ?"</s>
+<s id='vn67'>" Nếu có thêm ba điều ước , " ông lão nói , mắt nhìn chòng chọc vào vị khách , " Ông sẽ ước nữa chứ ? "</s>
+</spair>
+<spair id='68'>
+<s id='en68'>" I do n't know , " said the other .</s>
+<s id='vn68'>" Tôi không biết , " vị khách trả lời .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" I do n't know . "</s>
+<s id='vn69'>" Thật tình là tôi không biết . "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>He took the paw , and dangling it between his front finger and thumb , suddenly threw it upon the fire .</s>
+<s id='vn70'>Ông cầm lấy cái bàn tay khỉ , đung đưa lủng lẳng giữa ngón trỏ và ngón tay cái , rồi bất thình lình ném nó vào trong lửa .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>White , with a slight cry , stooped down and snatched it off .</s>
+<s id='vn71'>Ông White khẽ kêu lên , liền khom người xuống lôi nó ra .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>" Better let it burn , " said the soldier solemnly .</s>
+<s id='vn72'>" Tốt hơn hết là đốt cháy nó , " người lính nghiêm giọng .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>" If you do n't want it , Morris , " said the old man , " give it to me . "</s>
+<s id='vn73'>" Nếu ông không cần nó , Morris , " ông lão nói , " thì hãy cho tôi . "</s>
+</spair>
+<spair id='74'>
+<s id='en74'>" I won't , " said his friend doggedly .</s>
+<s id='vn74'>" Không đâu , " người bạn khăng khăng nói .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>" I threw it on the fire .</s>
+<s id='vn75'>" Tôi đã ném nó vào lửa .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>If you keep it , do n't blame me for what happens .</s>
+<s id='vn76'>Nếu ông cứ giữ nó thì đừng đổ tội cho tôi .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Pitch it on the fire again , like a sensible man . "</s>
+<s id='vn77'>Hãy quẳng nó vào lửa đi nếu ông là một người hiểu biết "</s>
+</spair>
+<spair id='78'>
+<s id='en78'>The other shook his head and examined his new possession closely .</s>
+<s id='vn78'>Người kia lắc đầu và xem xét kỹ lưỡng món đồ mới của mình .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" How do you do it ? " he inquired .</s>
+<s id='vn79'>" Làm cách nào để ước đây ? " ông hỏi .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>" Hold it up in your right hand and wish aloud , " said the sergeant major , " but I warn you of the consequences . "</s>
+<s id='vn80'>" Cầm nó trong bàn tay phải và đọc to điều ước , " thượng sĩ nói , " nhưng tôi cảnh báo là nó sẽ gây ra những hậu quả đáng tiếc đấy . "</s>
+</spair>
+<spair id='81'>
+<s id='en81'>" Sounds like the Arabian Nights , " said Mrs. White , as she rose and began to set the supper .</s>
+<s id='vn81'>" Nghe giống chuyện Ngàn lẻ một đêm quá , " bà White nói , khi nhỏm dậy bắt đầu dọn bữa ăn .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>" Do n't you think you might wish for four pairs of hands for me ? "</s>
+<s id='vn82'>" Ông có thể ước cho tôi mọc thêm 8 tay nữa không ? "</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Her husband drew the talisman from his pocket and then all three burst into laughter as the sergeant major , with a look of alarm on his face , caught him by the arm .</s>
+<s id='vn83'>Chồng bà lấy lá bùa ra khỏi túi và rồi cả ba cùng phá lên cười khi thấy ông thượng sĩ hốt hoảng chộp lấy tay ông White .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>" If you must wish , " he said gruffly , " wish for something sensible . "</s>
+<s id='vn84'>" Nếu muốn ước , " ông nói nghiêm nghị , " thì hãy ước một cái gì đó hợp lý . "</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Mr. White dropped it back into his pocket , and placing chairs , motioned his friend to the table .</s>
+<s id='vn85'>Ông White bỏ nó lại vào túi áo , và đi xếp ghế , mời người bạn ra bàn ăn .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>In the business of supper the talisman was partly forgotten , and afterward the three sat listening in an enthralled fashion to a second installment of the soldier 's adventures in India .</s>
+<s id='vn86'>Trong lúc ăn uống , mọi người hầu như quên mất lá bùa , và sau đó cả ba say mê ngồi nghe tiếp những câu chuyện phiêu lưu mới của người lính trên đất nước Ấn Độ .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>" If the tale about the monkey 's paw is not more truthful than those he has been telling us ," said Herbert , as the door closed behind their guest , just in time for him to catch the last train , " we shan't make much out of it . "</s>
+<s id='vn87'>" Nếu câu chuyện về bàn tay khỉ là đúng thật như những gì ông ta kể cho chúng ta nghe , " Herbert nói , khi cánh cửa khép lại sau khi vị khách của họ ra về vừa đúng lúc để ông ta bắt được chuyến xe lửa cuối cùng , " thì chúng ta không nên đụng tới nó . "</s>
+</spair>
+<spair id='88'>
+<s id='en88'>" Did you give him anything for it , Father ? "</s>
+<s id='vn88'>" Bố nó có trả cho ông bạn của ông cái gì đấy phải không ? "</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Mrs. White inquired , regarding her husband closely .</s>
+<s id='vn89'>bà White soi mói nhìn chồng và gặng hỏi .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>" A trifle , " said he , coloring slightly .</s>
+<s id='vn90'>" Chút đỉnh thôi " ông trả lời , sắc mặt hơi ửng lên .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>" He did n't want it , but I made him take it .</s>
+<s id='vn91'>" Ông ta đã khước từ , nhưng tôi nài ông ta cứ nhận lấy .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>And he pressed me again to throw it away . "</s>
+<s id='vn92'>Và ông ta lại van xin tôi phải vứt nó đi . "</s>
+</spair>
+<spair id='93'>
+<s id='en93'>" Likely , " said Herbert , with pretended horror .</s>
+<s id='vn93'>" Xin đừng , " Herbert nói , giả vờ hoảng hốt .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>" Why , we 're going to be rich , famous , and happy .</s>
+<s id='vn94'>" Này nhé , chúng ta sẽ giàu có , nổi tiếng , và hạnh phúc .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Wish to be an emperor , Father , to begin with ; then you can't be henpecked . "</s>
+<s id='vn95'>Đầu tiên , Bố hãy ước trở thành hoàng đế đi ; rồi như thế bố sẽ không còn phải lo sợ mẹ nữa . "</s>
+</spair>
+<spair id='96'>
+<s id='en96'>He darted around the table , pursued by the maligned Mrs. White armed with an antimacassar .</s>
+<s id='vn96'>Cậu vụt chạy quanh bàn ăn , theo sau là bà White hung dữ tay cầm tấm vải bọc ghế đuổi đánh .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Mr. White took the paw from his pocket and eyed it dubiously .</s>
+<s id='vn97'>Ông White lấy cái bàn tay ra khỏi túi áo rồi nhìn nó đầy nghi hoặc .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" I do n't know what to wish for , and that 's a fact , " he said slowly .</s>
+<s id='vn98'>" Thật sự là tôi không biết phải ước cái gì nữa , " ông chậm rãi nói .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>" It seems to me I 've got all I want . "</s>
+<s id='vn99'>" Với tôi thì dường như tôi đã có mọi thứ tôi cần . "</s>
+</spair>
+<spair id='100'>
+<s id='en100'>" If you only cleared the house , you 'd be quite happy , would n't you ? " said Herbert , with his hand on his shoulder .</s>
+<s id='vn100'>" Nếu bố trả hết tiền vay ngôi nhà này thì chắc bố sẽ mừng lắm hả ? " Herbert nói , tay cậu đặt lên vai ông .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>" Well , wish for two hundred pounds , then ; that 'll just do it . "</s>
+<s id='vn101'>" Ừm , hãy ước số tiền 200 pao , sau đó nhà ta sẽ sạch nợ . "</s>
+</spair>
+<spair id='102'>
+<s id='en102'>His father , smiling shamefacedly at his own credulity , held up the talisman , as his son , with a solemn face somewhat marred by a wink at his mother , sat down at the piano and struck a few impressive chords .</s>
+<s id='vn102'>Ông bố ngượng cười vì bản tính nhẹ dạ của mình , ông giơ lá bùa lên , trong khi đó cậu con trai , với gương mặt vờ vẻ trang nghiêm rồi nháy mắt với bà mẹ , ngồi vào đàn dương cầm và đánh một vài hợp âm hùng hồn .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>" I wish for two hundred pounds , " said the old man distinctly .</s>
+<s id='vn103'>" Tôi ước có được 200 pao , " ông lão nói rõ từng tiếng một .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>A fine crash from the piano greeted the words , interrupted by a shuddering cry from the old man .</s>
+<s id='vn104'>Tiếng đàn dương cầm hoà cùng lời nói , bỗng im bặt bới tiếng kêu sợ hãi phát ra từ ông lão .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>His wife and son ran toward him .</s>
+<s id='vn105'>Bà vợ cùng cậu con trai vội chạy đến bên ông .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>" It moved , " he cried , with a glance of disgust at the object as it lay on the floor .</s>
+<s id='vn106'>" Nó di chuyển , " ông la lên , mắt liếc nhìn cái vật thể gớm ghiếc nằm trên sàn nhà .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>"As I wished , it twisted in my hand like a snake . "</s>
+<s id='vn107'>" Khi tôi ước , nó vặn vẹo trên tay tôi như một con rắn . "</s>
+</spair>
+<spair id='108'>
+<s id='en108'>" Well , I do n't see the money ," said his son , as he picked it up and placed it on the table , " and I bet I never shall . "</s>
+<s id='vn108'>" Ừm , con chả thấy tiền đâu cả , " cậu con trai nói , khi nhặt bàn tay lên và đặt nó trên bàn , " con cá là chúng ta không bao giờ có được tiền . "</s>
+</spair>
+<spair id='109'>
+<s id='en109'>" It must have been your fancy , Father , " said his wife , regarding him anxiously .</s>
+<s id='vn109'>" Bố nó ơi hẳn là ông tưởng tượng thôi " bà vợ nhìn chồng lo lắng .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>He shook his head .</s>
+<s id='vn110'>Ông lắc đầu .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>" Never mind , though ; there 's no harm done , but it gave me a shock all the same . "</s>
+<s id='vn111'>" Đừng bận tâm ; tôi không sao cả , nhưng dù sao nó cũng làm hoảng vía cả lên . "</s>
+</spair>
+<spair id='112'>
+<s id='en112'>They sat down by the fire again while the two men finished their pipes .</s>
+<s id='vn112'>Rồi họ lại ngồi xuống bên cạnh lò sưởi trong khi đó hai người đàn ông hút hết tẩu thuốc của mình .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Outside , the wind was higher than ever , and the old man started nervously at the sound of a door banging upstairs .</s>
+<s id='vn113'>Bên ngoài , gió thét gào ngày càng hung tợn hơn , và ông lão bắt đầu lo lắng khi nghe tiềng sầm sập phát ra từ cánh cửa trên lầu .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>A silence unusual and depressing settled upon all three , which lasted until the old couple rose to retire for the night .</s>
+<s id='vn114'>Một không gian thinh lặng kỳ quái và buồn tẻ bao trùm lên cả ba người họ , cứ thế mãi cho đến khi đôi vợ chồng già nhỏm dậy đi ngủ .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>" I expect you 'll find the cash tied up in a big bag in the middle of your bed , " said Herbert , as he bade them good night , " and something horrible squatting up on top of the wardrobe watching you as you pocket your ill-gotten gains . "</s>
+<s id='vn115'>" Con mong là bố mẹ sẽ tìm thấy 200 pao buộc trong một chiếc túi lớn nằm giữa chiếc giường của bố mẹ , " Herbert nói , khi cậu chúc họ ngủ ngon , " và một cái gì đó thật khủng khiếp thù lù trên tủ quần áo nhìn xuống khi bố mẹ cố tình cất giấu số của cải bất chính ấy . "</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Part II</s>
+<s id='vn116'>Phần Ii</s>
+</spair>
+<spair id='117'>
+<s id='en117'>In the brightness of the wintry sun next morning as it streamed over the breakfast table , Herbert laughed at his fears.</s>
+<s id='vn117'>Hôm sau , vào buổi sáng mùa đông nắng rọi qua chiếc bàn điểm tâm , Herbert cười giễu nỗi sợ hãi của ông bố .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>There was an air of prosaic wholesomeness about the room which it had lacked on the previous night , and the dirty , shriveled little paw was pitched on the sideboard with a carelessness which betokened no great belief in its virtues .</s>
+<s id='vn118'>Một bầu không khí rất đỗi bình thường bao trùm cả căn phòng , khác hẳn với tối hôm trước , và cái bàn tay nhỏ bé rúm ró dơ bẩn nằm lăn lóc trên chiếc tủ chứng tỏ chẳng ai còn tin trưởng gì vào tài ma thuật của nó .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>" I suppose all old soldiers are the same , " said Mrs. White .</s>
+<s id='vn119'>" Tôi cho rằng mấy tay lính già thì ai cũng như ai , " bà White nói .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>" The idea of our listening to such nonsense !</s>
+<s id='vn120'>" Những thứ mà ta nghe thấy thật đúng là nhảm nhí !</s>
+</spair>
+<spair id='121'>
+<s id='en121'>How could wishes be granted in these days ?</s>
+<s id='vn121'>Thời buổi này làm gì có chuyện thần thánh nào ban cho ta những điều ước cơ chứ ?</s>
+</spair>
+<spair id='122'>
+<s id='en122'>And if they could , how could two hundred pounds hurt you , Father ? "</s>
+<s id='vn122'>Và nếu quả đúng là như thế thì làm sao mà 200 pao có thể mang đến tai hoạ cho ông chứ , bố nó ? "</s>
+</spair>
+<spair id='123'>
+<s id='en123'>" Might drop on his head from the sky , " said the frivolous Herbert .</s>
+<s id='vn123'>" Nó có thể rơi từ trên trời xuống trúng ngay đầu bố " cậu Herbert châm chọc .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>" Morris said the things happened so naturally , " said his father , "that you might , if you so wished , attribute it to coincidence . "</s>
+<s id='vn124'>" Ông Morris nói những phép màu xảy ra rất tự nhiên , " bố cậu nói , " đến nỗi ta có thể nghĩ rằng nó chỉ là một sự trùng hợp ngẫu nhiên . "</s>
+</spair>
+<spair id='125'>
+<s id='en125'>" Well , do n't break into the money before I come back , " said Herbert , as he rose from the table .</s>
+<s id='vn125'>" Vậy thì đừng có động tới một xu nào trong số tiền đó trước khi con đi làm về nhé , " Herbert nói khi đứng dậy rời khỏi bàn ăn .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>" I 'm afraid it 'll turn you into a mean , avaricious man , and we shall have to disown you . "</s>
+<s id='vn126'>" Con chỉ e nó sẽ biến bố thành một kẻ tham lam keo kiệt , và rồi hai mẹ con con sẽ phải từ bố thôi "</s>
+</spair>
+<spair id='127'>
+<s id='en127'>His mother laughed , and following him to the door , watched him down the road , and returning to the breakfast table , was very happy at the expense of her husband 's credulity .</s>
+<s id='vn127'>Mẹ cậu cười , và tiễn cậu ra đến cửa , nhìn cậu đi xuống phố , và quay trở lại bàn điểm tâm , cười cợt trên sự cả tin của ông chồng .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>All of which did not prevent her from scurrying to the door at the postman 's knock , nor prevent her from referring somewhat shortly to retired sergeant majors of bibulous habits , when she found that the post brought a tailor 's bill .</s>
+<s id='vn128'>Dù thế khi nghe tiếng gõ cửa của người đưa thư bà vẫn vội vội vàng vàng lao ra cửa , rồi bà cũng không quên ám chỉ đôi chút đến tay thượng sĩ về hưu nát rượu khi nhận ra người đưa thư mang đến hoá đơn yêu cầu thanh toán từ nhà may .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>" Herbert will have some more of his funny remarks , I expect , when he comes home , " she said , as they sat at dinner .</s>
+<s id='vn129'>" Herbert thế nào cũng châm chọc ông nữa khi nó đi làm về cho xem , " bà nói , khi họ ngồi dùng bữa tối .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>" I daresay , " said Mr. White , pouring himself out some beer ; " but for all that , the thing moved in my hand ; that I 'll swear to . "</s>
+<s id='vn130'>" Tôi chắc chắn rằng , " ông White vừa nói vừa rót cho mình một ly bia ; " cái vật đó đã động đậy trên tay tôi ; tôi thề chuyện này hoàn toàn là sự thật . "</s>
+</spair>
+<spair id='131'>
+<s id='en131'>" You thought it did , " said the old lady soothingly .</s>
+<s id='vn131'>" Ông nghĩ là nó nhúc nhích thôi , " bà cụ dịu dàng nói .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>" I say it did , " replied the other .</s>
+<s id='vn132'>" Tôi nói là nó đã nhúc nhích , " ông chồng đáp lại .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" There was no thought about it ; I had just -- What 's the matter ? "</s>
+<s id='vn133'>" Không hề có sự suy diễn nào ở đây hết ; tôi đã vừa - - Chuyện gì vậy bà ? "</s>
+</spair>
+<spair id='134'>
+<s id='en134'>His wife made no reply .</s>
+<s id='vn134'>Bà vợ không trả lời .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>She was watching the mysterious movements of a man outside , who , peering in an undecided fashion at the house , appeared to be trying to make up his mind to enter .</s>
+<s id='vn135'>Bà đang nhìn dõi theo một dáng người đàn ông lởn vởn bí hiểm phía bên ngoài , anh ta đang lưỡng lự nhìn vào ngôi nhà của họ , dường như đang cố cương quyết bước vào .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>In mental connection with the two hundred pounds , she noticed that the stranger was well dressed and wore a silk hat of glossy newness .</s>
+<s id='vn136'>Liên tưởng đến số tiền 200 pao , bà liền chú ý tới việc người lạ mặt ấy đang ăn mặc lịch sự và đội một cái nón lụa bóng tinh tươm .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Three times he paused at the gate , and then walked on again .</s>
+<s id='vn137'>Anh ta dừng chân ở ngay cổng ba lần và lại bước đi .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>The fourth time he stood with his hand upon it , and then with sudden resolution flung it open and walked up the path .</s>
+<s id='vn138'>Lần thứ tư anh ta đứng đó tay đặt trên cánh cổng và rồi thình lình quyết định đẩy cánh cổng mở ra và bước vào lối đi dẫn vào ngôi nhà .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Mrs. White at the same moment placed her hands behind her , and hurriedly unfastening the strings of her apron , put that useful article of apparel beneath the cushion of her chair .</s>
+<s id='vn139'>Vừa lúc đó bà White đưa tay ra sau lưng vội tháo chiếc dây tạp dề , và nhét nó xuống dưới tấm nệm ghế .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>She brought the stranger , who seemed ill at ease , into the room .</s>
+<s id='vn140'>Bà dẫn người lạ vào phòng khách , trông anh ta có vẻ căng thẳng .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>He gazed furtively at Mrs. White , and listened in a preoccupied fashion as the old lady apologized for the appearance of the room , and her husband 's coat , a garment which he usually reserved for the garden .</s>
+<s id='vn141'>Anh ta len lén nhìn bà White , và không để tâm lắng nghe bà cụ xin lỗi về vẻ ngoài của căn phòng , và cái áo khoác của chồng bà , cái thứ mà ông thường mặc khi làm vườn .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>She then waited as patiently as her sex would permit for him to broach his business , but he was at first strangely silent .</s>
+<s id='vn142'>Rồi bà kiên nhẫn ngồi vị khách cho biết lý do viếng thăm , nhưng anh ta im lặng đến kỳ lạ .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>" I--was asked to call , " he said at last , and stooped and picked a piece of cotton from his trousers .</s>
+<s id='vn143'>" Tôi - - được yêu cầu đến thăm ông bà , " cuối cùng thì anh ta cũng lên tiếng , khi cúi người nhặt một sợi chỉ dính trên quần .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>" I come from Maw and Meggins . "</s>
+<s id='vn144'>" Tôi đến từ công ty Maw and Meggins . "</s>
+</spair>
+<spair id='145'>
+<s id='en145'>The old lady started .</s>
+<s id='vn145'>Bà cụ liền hỏi .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>" Is anything the matter ? "</s>
+<s id='vn146'>" Có chuyện gì vậy thưa ông ? "</s>
+</spair>
+<spair id='147'>
+<s id='en147'>She asked breathlessly .</s>
+<s id='vn147'>Bà nín thở hỏi tiếp .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>" Has anything happened to Herbert ?</s>
+<s id='vn148'>" Có chuyện gì xảy ra với Herbert ?</s>
+</spair>
+<spair id='149'>
+<s id='en149'>What is it ?</s>
+<s id='vn149'>Hãy nói cho tôi biết chuyện gì đã xảy ra ? "</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Her husband interposed .</s>
+<s id='vn150'>Chồng bà nói xen vào .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>" There , there , Mother , " he said hastily .</s>
+<s id='vn151'>" Nào , nào , mẹ nó ơi , " ông vội nói .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>" Sit down , and do n't jump to conclusions .</s>
+<s id='vn152'>" Hãy ngồi xuống , và đừng vội đưa ra kết luận .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>You 've not brought bad news , I 'm sure , sir , "</s>
+<s id='vn153'>Tôi chắc là ông không mang đến tin buồn cho chúng tôi đâu , phải không ? "</s>
+</spair>
+<spair id='154'>
+<s id='en154'>And he eyed the other wistfully .</s>
+<s id='vn154'>Và ông bâng khuâng quan sát vị khách .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>" I 'm sorry-- " began the visitor .</s>
+<s id='vn155'>" Tôi rất tiếc - - " vị khách đáp .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>" Is he hurt ? "</s>
+<s id='vn156'>" Nó có bị thương gì không ? "</s>
+</spair>
+<spair id='157'>
+<s id='en157'>demanded the mother .</s>
+<s id='vn157'>bà mẹ gặng hỏi .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>The visitor bowed in assent .</s>
+<s id='vn158'>Vị khách gật đầu .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>" Badly hurt , " he said quietly , " but he is not in any pain . "</s>
+<s id='vn159'>" Bị thương rất nặng , " anh ta nói khẽ , " nhưng anh ấy không còn đau đớn nữa . "</s>
+</spair>
+<spair id='160'>
+<s id='en160'>" Oh , thank God ! " said the old woman , clasping her hands .</s>
+<s id='vn160'>" Ồ , tạ ơn Chúa ! " bà cụ nói , siết chặt tay lại .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>" Thank God for that !</s>
+<s id='vn161'>" Tạ ơn Chúa vì chuyện đó !</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Thank-- "</s>
+<s id='vn162'>Cám ơn - - "</s>
+</spair>
+<spair id='163'>
+<s id='en163'>She broke off suddenly as the sinister meaning of the assurance dawned upon her and she saw the awful confirmation of her fears in the other 's averted face .</s>
+<s id='vn163'>Bà đột ngột khựng lại khi hiểu ra ý nghĩa tai hoạ trong câu nói an ủi ấy và bà lại xác nhận sự kinh khủng trong nỗi sợ hãi của mình khi thấy anh ta nhìn ngoảnh mặt đi nơi khác .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>She caught her breath , and turning to her slower-witted husband , laid her trembling old hand upon his .</s>
+<s id='vn164'>Bà nín thở , và hướng mắt nhìn về phía người chồng hơi chậm hiểu của bà , bà đặt bàn tay run rẩy của mình lên tay ông .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>There was a long silence .</s>
+<s id='vn165'>Rồi họ im lặng một hồi lâu .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>" He was caught in the machinery , " said the visitor at length , in a low voice .</s>
+<s id='vn166'>" Anh ấy bị máy cuốn , " cuối cùng người khách khẽ nói .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>" Caught in the machinery , " repeated Mr. White , in a dazed fashion , " yes . "</s>
+<s id='vn167'>" Bị máy cuốn ư , " ông White lặp lại đầy ngơ ngác , " Vâng . "</s>
+</spair>
+<spair id='168'>
+<s id='en168'>He sat staring blankly out at the window , and taking his wife 's hand between his own , pressed it as he had been wont to do in their old courting days nearly forty years before .</s>
+<s id='vn168'>Ông ngây người nhìn ra ngoài cửa sổ , và nắm lấy bàn tay vợ ông trong tay mình , siết chặt nó như ông hay làm như thế trong khoảng thời gian họ còn hẹn hò yêu đương cách đây gần 40 năm .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>" He was the only one left to us ," he said , turning gently to the visitor .</s>
+<s id='vn169'>" Nó là đứa con duy nhất của chúng tôi , " ông nói chậm rãi xoay sang vị khách .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>" It is hard . "</s>
+<s id='vn170'>" Thật là nghiệt ngã . "</s>
+</spair>
+<spair id='171'>
+<s id='en171'>The other coughed , and rising , walked slowly to the window .</s>
+<s id='vn171'>Vị khách ho vài tiếng , và đứng lên , đi chậm rãi đến bên cửa sổ .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>" The firm wished me to convey their sincere sympathy with you in your great loss , " he said , without looking around .</s>
+<s id='vn172'>" Công ty cử tôi đến chia buồn với nỗi mất mát to lớn của ông bà , " anh ta nói , mà không nhìn lên .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>" I beg that you will understand I am only their servant and merely obeying orders . "</s>
+<s id='vn173'>" Tôi xin ông bà hiểu cho tôi chỉ là một nhân viên thừa lệnh cấp trên mà thôi . "</s>
+</spair>
+<spair id='174'>
+<s id='en174'>There was no reply ; the old woman 's face was white , her eyes staring , and her breath inaudible ; on the husband 's face was a look such as his friend the sergeant might have carried into his first action .</s>
+<s id='vn174'>Không có câu đáp trả ; khuôn mặt bà cụ tái đi , mắt bà nhìn trân trân , và hơi thở đứt quãng ; trên khuôn mặt của chồng bà phảng phất nét mặt giống như người bạn của ông – ngài thượng sĩ – có lẽ đã trải qua trong lần đầu tiên mà ông đã ước .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>" I was to say that Maw and Meggins disclaim all responsibility , " continued the other .</s>
+<s id='vn175'>" Tôi xin thông báo là công ty Maw and Meggins không chịu bất kỳ trách nhiệm nào , " vị khách tiếp tục nói .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>" They admit no liability at all , but in consideration of your son 's services they wish to present you with a certain sum as compensation . "</s>
+<s id='vn176'>" Họ không thừa nhận trách nhiệm trong chuyện này , nhưng đáp lại công lao làm việc của con trai ông bà , họ muốn biếu tặng ông bà một số tiền coi như đền bù nỗi mất mát . "</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Mr. White dropped his wife 's hand , and rising to his feet , gazed with a look of horror at his visitor .</s>
+<s id='vn177'>Ông White buông tay người vợ , và đứng lên , mắt nhìn chằm chằm vào vị khách với vẻ kinh hoàng .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>His dry lips shaped the words , " How much ? "</s>
+<s id='vn178'>Đôi môi khô khốc của ông phát ra từng tiếng một , " Bao nhiêu ? "</s>
+</spair>
+<spair id='179'>
+<s id='en179'>" Two hundred pounds , " was the answer .</s>
+<s id='vn179'>" Hai trăm pao , " vị khách đáp .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>Unconscious of his wife 's shriek , the old man smiled faintly , put out his hands like a sightless man , and dropped , a senseless heap , to the floor .</s>
+<s id='vn180'>Bỏ ngoài tai tiếng gào thét của bà vợ , ông lão nở nụ cười yếu ớt , giang hai tay ra phía trước như kẻ mù loà , và ngã khuỵ xuống sàn nhà .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>In the huge new cemetery , some two miles distant , the old people buried their dead , and came back to a house steeped in shadow and silence .</s>
+<s id='vn181'>Tại một nghĩa trang lớn mới xây cách đó chừng hai dặm , hai vợ chồng già chôn cất đứa con trai của mình và quay về ngôi nhà tối tăm và cô quạnh .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>It was all over so quickly that at first they could hardly realize it , and remained in a state of expectation , as though of something else to happen--something else which was to lighten this load , too heavy for old hearts to bear .</s>
+<s id='vn182'>Mọi chuyện chấm dứt quá nhanh đến độ họ không kịp hiểu được chuyện gì đang diễn ra và họ vẫn còn kỳ vọng một chuyện nào khác xảy ra – một chuyện nào đó mà có thể trút bớt cái gánh nặng đang đè lên hai trái tim già nua cằn cỗi .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>But the days passed , and expectation gave place to resignation--the hopeless resignation of the old , sometimes miscalled apathy .</s>
+<s id='vn183'>Rồi ngày ngày lại trôi qua , kỳ vọng đó nhường chỗ cho nỗi cam chịu – một sự cam chịu vô vọng của người già , mà đôi khi người ta tưởng nhầm là sự thờ ơ lãnh cảm .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>Sometimes they hardly exchanged a word , for now they had nothing to talk about , and their days were long to weariness .</s>
+<s id='vn184'>Đôi khi , họ hầu như không nói với nhau lời nào , vì rằng giờ đây chẳng có gì để nói , và ngày dài lê thê cứ trôi qua trong sầu não .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>It was about a week after that that the old man , waking suddenly in the night , stretched out his hand and found himself alone .</s>
+<s id='vn185'>Khoảng một tuần cái chết người con , một đêm nọ ông lão giật mình thức giấc lúc giữa đêm , ông với tay sang phía vợ và chẳng thấy bà đâu cả trên chiếc giường của họ .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>The room was in darkness , and the sound of subdued weeping came from the window .</s>
+<s id='vn186'>Căn phòng dày đặc trong bóng tối , và ông nghe đâu có tiếng than khóc ỉ ôi bên cửa sổ .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>He raised himself in bed and listened .</s>
+<s id='vn187'>Ông ngồi nhỏm dậy và lắng nghe .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>" Come back , " he said tenderly .</s>
+<s id='vn188'>" Hãy đi ngủ đi , " ông dịu dàng nói .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>" You will be cold . "</s>
+<s id='vn189'>" Coi chừng bà bị cảm lạnh đấy . "</s>
+</spair>
+<spair id='190'>
+<s id='en190'>" It is colder for my son , " said the old woman , and wept afresh .</s>
+<s id='vn190'>" Con trai tôi còn chịu cái lạnh hơn thế , " bà cụ nói , và lại oà khóc .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>The sound of her sobs died away on his ears .</s>
+<s id='vn191'>Tiếng khóc nức nở của bà dần chìm đi bên tai ông .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>The bed was -warm , and his eyes heavy with sleep .</s>
+<s id='vn192'>Chiếc giường ấm áp và đôi mắt ông nặng trĩu với cơn buồn ngủ ập đến .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>He dozed fitfully , and then slept until a sudden cry from his wife awoke him with a start .</s>
+<s id='vn193'>Ông chìm trong giấc ngủ chập chờn , rồi ngủ thiếp đi cho đến khi bà vợ đột ngột thét lên khiến ông tỉnh giấc .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>" The monkey 's paw ! " she cried wildly .</s>
+<s id='vn194'>" Bàn tay khỉ ! " bà kêu lên thảm thiết .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>" The monkey 's paw ! "</s>
+<s id='vn195'>" Bàn tay khỉ ! "</s>
+</spair>
+<spair id='196'>
+<s id='en196'>He started up in alarm .</s>
+<s id='vn196'>Ông hoảng hốt bật dậy .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>" Where ?</s>
+<s id='vn197'>" Đâu ?</s>
+</spair>
+<spair id='198'>
+<s id='en198'>Where is it ?</s>
+<s id='vn198'>Nó đâu ?</s>
+</spair>
+<spair id='199'>
+<s id='en199'>What 's the matter ? "</s>
+<s id='vn199'>Có chuyện gì ? "</s>
+</spair>
+<spair id='200'>
+<s id='en200'>She came stumbling across the room toward him .</s>
+<s id='vn200'>Bà loạng choạng băng ngang phòng đến bên ông .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>" I want it , " she said quietly .</s>
+<s id='vn201'>" Tôi muốn nó , " bà khẽ nói .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>" You 've not destroyed it ? "</s>
+<s id='vn202'>" Ông chưa vứt nó đi chứ ? "</s>
+</spair>
+<spair id='203'>
+<s id='en203'>" It 's in the parlor , on the bracket , " he replied , marveling .</s>
+<s id='vn203'>" Nó ở trên kệ trong phòng khách " ông trả lời kinh ngạc .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>" Why ? "</s>
+<s id='vn204'>" Tại sao bà cần nó ? "</s>
+</spair>
+<spair id='205'>
+<s id='en205'>She cried and laughed together , and bending over , kissed his cheek .</s>
+<s id='vn205'>Bà vừa cười vừa khóc , và cúi xuống , hôn lên má ông .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>" I only just thought of it , " she said hysterically .</s>
+<s id='vn206'>" Tôi mới vừa nghĩ ra nó , " bà nói lắp bắp .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>" Why did n't I think of it before ?</s>
+<s id='vn207'>" Tại sao tới bây giờ tôi mới nghĩ ra nhỉ ?</s>
+</spair>
+<spair id='208'>
+<s id='en208'>Why did n't you think of it ? "</s>
+<s id='vn208'>Tại sao ông không nghĩ đến nó ? "</s>
+</spair>
+<spair id='209'>
+<s id='en209'>" Think of what ? " he questioned .</s>
+<s id='vn209'>" Nghĩ đến cái gì ? " ông hỏi .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>" The other two wishes , " she replied rapidly .</s>
+<s id='vn210'>" Hai điều ước còn lại , " bà liền trả lời .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>" We 've only had one . "</s>
+<s id='vn211'>" Chúng ta chỉ mới ước có một điều thôi . "</s>
+</spair>
+<spair id='212'>
+<s id='en212'>" Was not that enough ? " he demanded fiercely .</s>
+<s id='vn212'>" Như thế vẫn chưa đủ hay sao ? " ông gắt gỏng .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>" No , " she cried triumphantly ; " we 'll have one more .</s>
+<s id='vn213'>" Chưa , " bà đắc chí ; " Chúng ta sẽ ước một điều nữa .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>Go down and get it quickly , and wish our boy alive again . "</s>
+<s id='vn214'>Hãy xuống dưới nhà và lấy nó nhanh lên , và ước con trai chúng ta sẽ sống lại . "</s>
+</spair>
+<spair id='215'>
+<s id='en215'>The man sat up in bed and flung the bedclothes from his quaking limbs .</s>
+<s id='vn215'>Người đàn ông ngồi bật dậy trên giường và ném đống mền gối trong đôi tay run rẩy .</s>
+</spair>
+<spair id='216'>
+<s id='en216'>" Good God , you are mad ! " he cried , aghast .</s>
+<s id='vn216'>" Ôi lạy Chúa lòng lành , bà điên mất rồi ! " ông thốt lên kinh hoàng .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>" Get it , " she panted ; " get it quickly , and wish - Oh , my boy , my boy ! "</s>
+<s id='vn217'>" Hãy lấy nó , " bà giục ; " hãy lấy nó mau và ước nhanh đi - Ôi , con trai tôi , con trai của tôi ! "</s>
+</spair>
+<spair id='218'>
+<s id='en218'>Her husband struck a match and lit the candle .</s>
+<s id='vn218'>Người chồng quẹt một que diêm và châm nến .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>" Get back to bed , " he said unsteadily .</s>
+<s id='vn219'>" Trở lại giường ngủ đi , " ông nói với giọng lung lay .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>" You do n't know what you are saying . "</s>
+<s id='vn220'>" Bà không biết bà đang nói cái gì đâu . "</s>
+</spair>
+<spair id='221'>
+<s id='en221'>" We had the first wish granted , " said the old woman feverishly ; " why not the second ?"</s>
+<s id='vn221'>" Chúng ta đã được toại nguyện điều ước đầu tiên , " bà cụ vội nói ; " tại sao lại không thử điều ước thứ hai ? "</s>
+</spair>
+<spair id='222'>
+<s id='en222'>" A coincidence , " stammered the old man .</s>
+<s id='vn222'>" Đó là một sự trùng hợp ngẫu nhiên , " ông lão lắp bắp .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>" Go and get it and wish , " cried the old woman , and dragged him toward the door .</s>
+<s id='vn223'>" Hãy đi tìm nó và ước đi , " bà cụ van nài , và đẩy ông ra cửa .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>He went down in the darkness , and felt his way to the parlor , and then to the mantelpiece .</s>
+<s id='vn224'>Ông đi xuống lầu trong bóng tối , và dò dẫm tìm đường đi ra phòng khách , rồi đến bên mặt lò sưởi .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>The talisman was in its place , and a horrible fear that the unspoken wish might bring his mutilated son before him ere he could escape from the room seized upon him , and he caught his breath as he found that he had lost the direction of the door .</s>
+<s id='vn225'>Lá bùa vẫn còn yên vị ở chỗ của nó , và một nỗi sợ hãi châm chiếm ông – ông sợ lời ước chưa nói ấy sẽ mang người con trai hình hài không còn nguyên vẹn xuất hiện trước mặt ông trước khi ông kịp chạy ra khỏi căn phòng , và khi nhận thấy không tìm thấy cửa ra , ông cố trấn an mình .</s>
+</spair>
+<spair id='226'>
+<s id='en226'>His brow cold with sweat , he felt his way around the table , and groped along the wall until he found himself in the small passage with the unwholesome thing in his hand .</s>
+<s id='vn226'>Trán ông lạnh toát mồ hôi và ông lần mò đi quanh bàn và men theo tường cho đến khi ra được hàng lang nhỏ với cái thứ bùa độc trên tay .</s>
+</spair>
+<spair id='227'>
+<s id='en227'>Even his wife 's face seemed changed as he entered the room .</s>
+<s id='vn227'>Gương mặt bà vợ dường như biến sắc khi ông bước vào phòng .</s>
+</spair>
+<spair id='228'>
+<s id='en228'>It was white and expectant , and to his fears seemed to have an unnatural look upon it .</s>
+<s id='vn228'>Sắc mặc vừa tái nhợt lại vừa hăm hở , và ông cảm thấy sợ hãi khi nhìn thấy cái nét mặt khác thường đó của bà .</s>
+</spair>
+<spair id='229'>
+<s id='en229'>He was afraid of her .</s>
+<s id='vn229'>Ông sợ bà .</s>
+</spair>
+<spair id='230'>
+<s id='en230'>" Wish ! " she cried , in a strong voice .</s>
+<s id='vn230'>" Ước đi ! " bà quát lên .</s>
+</spair>
+<spair id='231'>
+<s id='en231'>" It is foolish and wicked , " he faltered .</s>
+<s id='vn231'>" Việc này hết sức dại dột và điên rồ " ông ấp úng .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>" Wish ! " repeated his wife .</s>
+<s id='vn232'>" Ước đi ! " vợ ông lặp lại .</s>
+</spair>
+<spair id='233'>
+<s id='en233'>He raised his hand .</s>
+<s id='vn233'>Ông giơ tay lên .</s>
+</spair>
+<spair id='234'>
+<s id='en234'>" I wish my son alive again . "</s>
+<s id='vn234'>" Tôi ước con trai tôi sống lại . "</s>
+</spair>
+<spair id='235'>
+<s id='en235'>The talisman fell to the floor , and he regarded it shudderingly .</s>
+<s id='vn235'>Lá bùa rơi xuống sàn nhà , và ông trừng trừng nhìn nó , rùng mình hoảng sợ .</s>
+</spair>
+<spair id='236'>
+<s id='en236'>Then he sank trembling into a chair as the old woman , with burning eyes , walked to the window and raised the blind .</s>
+<s id='vn236'>Sau đó ông run rẩy thả mình xuống cái ghế khi bà cụ với đôi mắt háo hức đi đến cửa sổ và vén bức màn lên .</s>
+</spair>
+<spair id='237'>
+<s id='en237'>He sat until he was chilled with the cold , glancing occasionally at the figure of the old woman peering through the window .</s>
+<s id='vn237'>Ông ngồi đó cho đến khi rùng mình vì lạnh , thỉnh thoảng ông liếc nhìn sang bà vợ đang trông ngóng ra cửa sổ .</s>
+</spair>
+<spair id='238'>
+<s id='en238'>The candle end , which had burned below the rim of the china candlestick , was throwing pulsating shadows on the ceiling and walls , until , with a flicker larger than the rest , it expired .</s>
+<s id='vn238'>Ngọn đèn cầy cháy gần hết bên dưới mép giá đỡ bằng sứ , hắt những cái bóng nhập nhoạng lên trần nhà và bốn bức tường , cho đến khi nó cháy sáng rực hơn bao giờ hết rồi phụt tắt .</s>
+</spair>
+<spair id='239'>
+<s id='en239'>The old man , with an unspeakable sense of relief at the failure of the talisman , crept back to his bed , and a minute or two afterward the old woman came silently and apathetically beside him .</s>
+<s id='vn239'>Ông lão , với cảm giác nhẹ nhõm trong bụng khi nghĩ rằng cái bùa không còn linh nghiệm , đã quay trở lại giường , và một hai phút sau bà cụ lặng lẽ đến bên và thờ ơ nằm bên cạnh ông .</s>
+</spair>
+<spair id='240'>
+<s id='en240'>Neither spoke , but both lay silently listening to the ticking of the clock .</s>
+<s id='vn240'>Cả hai đều không nói với ai lời nào , nhưng họ nằm đó trong im lặng , lắng nghe tiếng đồng hồ tích tắc .</s>
+</spair>
+<spair id='241'>
+<s id='en241'>A stair creaked , and a squeaky mouse scurried noisily through the wall .</s>
+<s id='vn241'>Cầu thang cót két , và một con chuột vụt chạy qua bức tường kêu chít chít .</s>
+</spair>
+<spair id='242'>
+<s id='en242'>The darkness was oppressive , and after lying for some time screwing up his courage , the husband took the box of matches , and striking one , went downstairs for a candle .</s>
+<s id='vn242'>Bóng tối đè nặng không gian , và sau khi nằm được một hồi thu hết can đảm , ông chồng cầm một hộp diêm và quẹt một que diêm , đi xuống cầu thang để lấy đèn cầy .</s>
+</spair>
+<spair id='243'>
+<s id='en243'>At the foot of the stairs the match went out , and he paused to strike another , and at the same moment a knock , so quiet and stealthy as to be scarcely audible , sounded on the front door .</s>
+<s id='vn243'>Khi xuống hết cầu thang que diêm tắt liệm , ông dừng và quẹt một que diêm khác , và ngay khoảnh khắc đó , một tiếng gõ cửa len lén và khẽ khàng đến độ khó mà nghe thấy vang lên ngoài cửa chính .</s>
+</spair>
+<spair id='244'>
+<s id='en244'>The matches fell from his hand .</s>
+<s id='vn244'>Hộp diêm rơi từ trên tay ông xuống đất .</s>
+</spair>
+<spair id='245'>
+<s id='en245'>He stood motionless , his breath suspended until the knock was repeated .</s>
+<s id='vn245'>Ông đứng đó bất động , nín thở cho đến khi tiếng gõ cửa lại vang lên .</s>
+</spair>
+<spair id='246'>
+<s id='en246'>Then he turned and fled swiftly back to his room , and closed the door behind him .</s>
+<s id='vn246'>Rồi ông quay đầu , chạy nhanh trốn về phòng và đóng cánh cửa phòng lại sau lưng ông .</s>
+</spair>
+<spair id='247'>
+<s id='en247'>A third knock sounded through the house .</s>
+<s id='vn247'>Tiếng gõ cửa thứ ba vang dội khắp căn nhà .</s>
+</spair>
+<spair id='248'>
+<s id='en248'>" What 's that ? " cried the old woman , starting up .</s>
+<s id='vn248'>" Chuyện gì thế ? " bà cụ giật mình hỏi .</s>
+</spair>
+<spair id='249'>
+<s id='en249'>" A rat , " said the old man , in shaking tones , " a rat .</s>
+<s id='vn249'>" Chuột , " ông lão run sợ đáp , " một con chuột .</s>
+</spair>
+<spair id='250'>
+<s id='en250'>It passed me on the stairs . "</s>
+<s id='vn250'>Nó đã chạy qua chân tôi trên cầu thang . "</s>
+</spair>
+<spair id='251'>
+<s id='en251'>His wife sat up in bed listening .</s>
+<s id='vn251'>Bà vợ ông ngồi bật dậy trên giường lắng nghe .</s>
+</spair>
+<spair id='252'>
+<s id='en252'>A loud knock resounded through the house .</s>
+<s id='vn252'>Một tiếng gõ cửa lớn lại đánh động cả căn nhà .</s>
+</spair>
+<spair id='253'>
+<s id='en253'>" It 's Herbert ! " she screamed .</s>
+<s id='vn253'>" Herbert ! " bà thét lên .</s>
+</spair>
+<spair id='254'>
+<s id='en254'>" It 's Herbert ! "</s>
+<s id='vn254'>" Chính là Herbert ! "</s>
+</spair>
+<spair id='255'>
+<s id='en255'>She ran to the door , but her husband was before her , and catching her by the arm , held her tightly .</s>
+<s id='vn255'>Bà chạy ra đến cửa , nhưng chồng bà ngăn bà lại , chộp lấy cánh tay bà và ôm bà thật chặt .</s>
+</spair>
+<spair id='256'>
+<s id='en256'>" What are you going to do ? " he whispered hoarsely .</s>
+<s id='vn256'>" Bà tính làm gì ? " ông thì thầm bằng giọng khản đục .</s>
+</spair>
+<spair id='257'>
+<s id='en257'>" It 's my boy ; it 's Herbert ! " she cried , struggling mechanically .</s>
+<s id='vn257'>" Đó là con trai tôi ; là Herbert ! " bà khóc , cố vùng vẫy thoát ra .</s>
+</spair>
+<spair id='258'>
+<s id='en258'>" I forgot it was two miles away .</s>
+<s id='vn258'>" Tôi quên nghĩa trang cách nhà mình đến hai dặm .</s>
+</spair>
+<spair id='259'>
+<s id='en259'>What are you holding me for ?</s>
+<s id='vn259'>Tại sao ông lại cản tôi ?</s>
+</spair>
+<spair id='260'>
+<s id='en260'>Let go .</s>
+<s id='vn260'>Thả tôi ra .</s>
+</spair>
+<spair id='261'>
+<s id='en261'>I must open the door . "</s>
+<s id='vn261'>Tôi phải mở cửa . "</s>
+</spair>
+<spair id='262'>
+<s id='en262'>" For God 's sake do n't let it in , " cried the old man , trembling .</s>
+<s id='vn262'>" Vì Chúa xin bà đừng mở cửa cho nó vào , " ông lão run rẩy hét lên .</s>
+</spair>
+<spair id='263'>
+<s id='en263'>"You 're afraid of your own son , " she cried , struggling .</s>
+<s id='vn263'>" Ông sợ hãi chính đứa con trai của mình , " bà vừa than khóc vừa vùng vẫy .</s>
+</spair>
+<spair id='264'>
+<s id='en264'>" Let me go .</s>
+<s id='vn264'>" Hãy để tôi đi .</s>
+</spair>
+<spair id='265'>
+<s id='en265'>I 'm coming , Herbert ; I 'm coming . "</s>
+<s id='vn265'>Mẹ đến đây , Herbert ; mẹ đang đến đây . "</s>
+</spair>
+<spair id='266'>
+<s id='en266'>There was another knock , and another .</s>
+<s id='vn266'>Một tiếng gõ cửa khác vang lên rồi một tiếng nữa nối tiếp sau đó .</s>
+</spair>
+<spair id='267'>
+<s id='en267'>The old woman with a sudden wrench broke free and ran from the room .</s>
+<s id='vn267'>Bà cụ đột ngột giật mạnh thoát ra và chạy ra khỏi phòng .</s>
+</spair>
+<spair id='268'>
+<s id='en268'>Her husband followed to the landing , and called after her appealingly as she hurried downstairs .</s>
+<s id='vn268'>Chồng bà chạy ra tới cầu thang và gọi theo giọng khẩn nài khi bà lao xuống cầu thang .</s>
+</spair>
+<spair id='269'>
+<s id='en269'>He heard the chain rattle back and the bottom bolt drawn slowly and stiffly from the socket .</s>
+<s id='vn269'>Ông nghe thấy tiếng dây xích lách cách và tiếng chốt cửa dưới rít chầm chậm bật ra khỏi hốc cửa .</s>
+</spair>
+<spair id='270'>
+<s id='en270'>Then the old woman 's voice , strained and panting .</s>
+<s id='vn270'>Và tiếng bà cụ vang lên hổn hển .</s>
+</spair>
+<spair id='271'>
+<s id='en271'>" The bolt , " she cried loudly .</s>
+<s id='vn271'>" Cái chốt , " bà réo lên ầm ĩ .</s>
+</spair>
+<spair id='272'>
+<s id='en272'>" Come down .</s>
+<s id='vn272'>" Xuống đây mau .</s>
+</spair>
+<spair id='273'>
+<s id='en273'>I can't reach it . "</s>
+<s id='vn273'>Tôi không thể với tới cái chốt trên . "</s>
+</spair>
+<spair id='274'>
+<s id='en274'>But her husband was on his hands and knees groping wildly on the floor in search of the paw .</s>
+<s id='vn274'>Nhưng ông chồng bà đang bò ra sàn , hai tay quơ quào cuồng loạn tìm bàn tay khỉ .</s>
+</spair>
+<spair id='275'>
+<s id='en275'>If he could only find it before the thing outside got in .</s>
+<s id='vn275'>Ông chỉ mong sao tìm thấy nó trước khi cái thứ đang ở bên ngoài ấy bước vào nhà .</s>
+</spair>
+<spair id='276'>
+<s id='en276'>A perfect fusillade of knocks reverberated through the house , and he heard the scraping of a chair as his wife put it down in the passage against the door .</s>
+<s id='vn276'>Tiếng đập cửa ầm ầm vang dội khắp căn nhà , và ông nghe tiếng bà vợ kéo lê một chiếc ghế đặt ngay lối đi sát cánh cửa .</s>
+</spair>
+<spair id='277'>
+<s id='en277'>He heard the creaking of the bolt as it came slowly back , and at the same moment , he found the monkey 's paw , and frantically breathed his third and last wish .</s>
+<s id='vn277'>Ông nghe tiếng chốt cửa khi nó từ từ kéo lùi lại , và ngay lúc đó , ông tìm thấy bàn tay khỉ , và ông hốt hoảng thốt lên điều ước thứ ba và cũng là điều ước cuối cùng .</s>
+</spair>
+<spair id='278'>
+<s id='en278'>The knocking ceased suddenly , although the echoes of it were still in the house .</s>
+<s id='vn278'>Tiếng gõ cửa đột ngột im bặt , mặc dù tiếng vọng của nó vẫn còn lanh lảnh âm vang trong ngôi nhà .</s>
+</spair>
+<spair id='279'>
+<s id='en279'>He heard the chair drawn back and the door opened .</s>
+<s id='vn279'>Ông nghe thấy tiếng ghế kéo xê dịch lại và cánh cửa mở ra .</s>
+</spair>
+<spair id='280'>
+<s id='en280'>A cold wind rushed up the staircase , and a long , loud wail of disappointment and misery from his wife gave him courage to run down to her side , and then to the gate beyond .</s>
+<s id='vn280'>Một cơn gió lạnh lùa vào cầu thang và rồi bà vợ cất lên tiếng rên khóc dai dẳng đau khổ và tuyệt vọng , khiến ông lấy hết can đảm chạy xuống đến bên bà , rồi ông chạy đến cánh cổng phía ngoài .</s>
+</spair>
+<spair id='281'>
+<s id='en281'>The streetlamp flickering opposite shone on a quiet and deserted road .</s>
+<s id='vn281'>Ngọn đèn đường đối diện phả thứ ánh sáng lập loè xuống con đường vắng lặng không một bóng người .</s>
+</spair>
+</text>
+</doc>

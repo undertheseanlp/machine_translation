@@ -1,0 +1,948 @@
+﻿<doc id='N0687'>
+<head>
+<title>Abby Cooper</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Abby Cooper</s>
+<s id='vn1'>Abby Cooper</s>
+</spair>
+<spair id='2'>
+<s id='en2'>PROLOGUE</s>
+<s id='vn2'>MỞ ĐẦU</s>
+</spair>
+<spair id='3'>
+<s id='en3'>On May 28 of this year , at approximately four thirty p.m. , Officer Shawn Bennington was summoned to 1865 Meadowlawn in response to a 911 emergency .</s>
+<s id='vn3'>Khoảng 4 giờ rưỡi chiều ngày 28 tháng 5 năm nay , cảnh sát Shawn Bennington nhận được cú điện thoại từ đường dây khẩn 911 liền tức tốc đến số nhà 1865 đường Meadowlawn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The following is an excerpt from his notes in that file :</s>
+<s id='vn4'>Sau đây là một đoạn trích từ sổ tay ghi chép của ông trong hồ sơ :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Victim was a twenty-eight-year-old female Caucasian dead at the scene from a single gunshot wound to the left temple .</s>
+<s id='vn5'>Nạn nhân là một phụ nữ da trắng 28 tuổi đã chết tại hiện trường vì bị một phát súng bắn vào thái dương bên trái .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Victim was discovered in a quasi-fetal position on the bed in her room .</s>
+<s id='vn6'>Nạn nhân được tìm thấy trong tư thế nằm gập người trên giường trong phòng ngủ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A neighbor at 1863 Meadowlawn reported hearing a " loud popping noise " at approximately 3:00 p.m.</s>
+<s id='vn7'>Một người hàng xóm ở số nhà 1863 Meadowlawn khai rằng vào khoảng 3 giờ chiều có nghe thấy một " tiếng nổ lớn " .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Victim was discovered at approximately 4:20p.m. , when her fiancé came over to check on the victim after not being able to reach her by phone .</s>
+<s id='vn8'>Nạn nhân được phát hiện vào khoảng 4 giờ 20 khi vị hôn phu của cô đến nhà tìm găp cô ta sau khi không liên lạc được với cô qua điện thoại .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>911 emergency was alerted within minutes of discovery .</s>
+<s id='vn9'>Vài phút sau khi phát hiện , anh ta liền gọi báo 911 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The handgun used was a twenty-five-caliber Smith and Wesson , registered to the victim .</s>
+<s id='vn10'>Khẩu súng được sử dụng là một khẩu Smith Wesson đường kính 25 ly được đăng ký dưới tên của nạn nhân .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Fingerprints found on the gun appear to match those of the victim .</s>
+<s id='vn11'>Dấu vân tay tìm thấy trên súng có vẻ khớp với vân tay của nạn nhân .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A suicide note was recovered from the top of the victim 's dresser ( see enclosure in file ) and a mutilated wedding dress was also discovered crumpled in a heap near the bed .</s>
+<s id='vn12'>Một lá thư tuyệt mệnh được tìm thấy trên đầu tủ quần áo của nạn nhân ( xem nội dung trong hồ sơ ) và một chiếc áo cưới tả tơi cũng được tìm thấy bị dồn thành một đống nhàu nát cạnh giường .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Signs of depression were recently noted by the victim 's sister , who suggested that the victim seemed tense and edgy in last few days , and had complained of feeling tired .</s>
+<s id='vn13'>Người chị gái của nạn nhân nhận thấy gần đây cô ta có những biểu hiện suy nhược và cho biết rằng cô ta có vẻ căng thẳng , cáu kỉnh , hay than mệt mấy ngày qua .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Lately the victim had been known to take long naps in the afternoon .</s>
+<s id='vn14'>Gần đây nạn nhân thường hay ngủ trưa lâu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Victim 's sister was not present at the time of shooting .</s>
+<s id='vn15'>Chị gái của nạn nhân không có mặt vào lúc cô ta bị bắn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>File is tentatively being marked as " Suicide , " pending completion of forensic evidence for powder burns , fingerprints and handwriting analysis .</s>
+<s id='vn16'>Hồ sơ bị bỏ ngỏ được đánh dấu là " Tự sát , " vẫn còn chờ hoàn tất những kết quả giám định pháp y khi phân tích vết cháy do thuốc súng , dấu vân tay và chữ viết tay .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Chapter 1</s>
+<s id='vn17'>Chương 1</s>
+</spair>
+<spair id='18'>
+<s id='en18'>My basic philosophy is simple : People are like ice cream .</s>
+<s id='vn18'>Về cơ bản , triết lý sống của tôi vô cùng đơn giản : Con người ta giống như kem tươi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Take me , for instance .</s>
+<s id='vn19'>Hãy lấy tôi đây làm thí dụ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>You 'd think that by my profession alone - professional psychic - I 'd be a ringer for Nutty Coconut , but the reality is that I 'm far more like vanilla-consistent , a little bland , missing some hot fudge .</s>
+<s id='vn20'>Bạn những tưởng khi nói đến nghề nghiệp của tôi - nghề đồng bóng - tôi sẽ vô cùng hảo hạng ví như một ly kem dừa trộn quả hạch , nhưng thực tế tôi chỉ xứng với một cục kem vani đặc quẹo , nhàn nhạt , và chẳng có lấy vài viên kẹo mềm bên trên .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The exception , of course , is my rather unique ability to predict the future .</s>
+<s id='vn21'>Tất nhiên , ngoại trừ khả năng " hơi bị độc " của tôi là có thể tiên đoán được tương lai .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Okay , so maybe with that added in I 'm at least a candidate for French vanilla .</s>
+<s id='vn22'>OK , có lẽ nếu bổ sung thêm chừng ấy , ít nhất tôi sẽ trở thành một ứng viên sáng giá cho một cốc kem vani Pháp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Still , overall my life is sadly that boring .</s>
+<s id='vn23'>Ngặt một nỗi , cuộc sống của tôi quá là tẻ nhạt .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I 'm single with no immediate prospects , I rarely go out ( hence the no immediate prospects ) , I pay all my bills on time , I have very few vices and only two close friends .</s>
+<s id='vn24'>Tôi vẫn còn " phòng không chiếc bóng " , chẳng hề có một viễn cảnh sáng sủa nào ngay trước mắt ; hiếm khi tôi chịu đi chơi ( haiz ... chả trách sao viễn cảnh ấy lại quá xa xôi ) , tôi luôn chi trả hoá đơn đúng hạn , tôi có rất ít nhược điểm và chỉ có lấy hai người bạn thân .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>See what I mean ?</s>
+<s id='vn25'>Hiểu ý tôi chứ ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Vanilla .</s>
+<s id='vn26'>Vani .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Now , I 'm not saying my life is all bad .</s>
+<s id='vn27'>Thôi không nói " chuyện đời tôi cô đơn " nữa .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>At the very least I 'm privy to the richly flavorful lives of my clients .</s>
+<s id='vn28'>Ít ra là tôi cũng có thể bật mí với các bạn về cuộc sống giàu sang nhung lụa của những vị thân chủ của tôi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Take the Tooty-Fruity sitting in front of me for example .</s>
+<s id='vn29'>Chẳng hạn như " món kem tươi trái cây " đang ngồi trước mặt tôi đây .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Sharon is a pretty young woman in her mid-thirties , with short blond hair , too much makeup , a recent boob job and not a clue in sight .</s>
+<s id='vn30'>Sharon là một người phụ nữ chừng 35 tuổi , trẻ đẹp , với mái tóc ngắn vàng óng , gương mặt trang điểm loè loẹt , ngọn núi đôi gần đây mới được " dao kéo " và một vẻ ngoài khó đoán .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>On her left hand dangles a rather opulent diamond wedding ring , and over the course of the last twenty minutes all I 've been able to do is feel sorry for the poor schmuck who gave it to her .</s>
+<s id='vn31'>Trên bàn tay trái lòng thòng của cô ta là một chiếc nhẫn cưới có gắn một viên kim cương khá " hoành tráng " và trong suốt khoảng thời gian hai mươi phút vừa qua , tất cả những gì tôi có thể làm là cảm thấy tội nghiệp cho gã khờ đáng thương nào đó đã tặng nó cho cô ta .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" Okay , I 'm getting the feeling that there 's a triangle here ... like there 's someone else moving in on your marriage , " I said .</s>
+<s id='vn32'>" OK , tôi cảm thấy dường như có một chuyện tình tay ba ... giống như có một ai đó đang chen vào giữa cuộc hôn nhân của cô , " tôi nói .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Yes . "</s>
+<s id='vn33'>" Vâng . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" And it 's someone you 're romantically interested in . "</s>
+<s id='vn34'>" Và đó là một người đàn ông mà cô đang yêu say đắm . "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Yes . "</s>
+<s id='vn35'>" Vâng . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" And they 're telling me that you think this is true love… "</s>
+<s id='vn36'>" Và họ mách với tôi rằng cô nghĩ đấy là một tình yêu đích thực ... "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>" Yes , but , uh , Abigail ?</s>
+<s id='vn37'>" Vâng , nhưng , ừm , Abigail à ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Who are " they " ? "</s>
+<s id='vn38'>" Họ " là ai ? "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>she asked , looking around nervously .</s>
+<s id='vn39'>Cô hỏi , nhìn quanh quất thoáng chút lo âu .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>I get this question all the time , and you would think I would have learned by now to prepare my clients before beginning the session , but change was never my strong suit .</s>
+<s id='vn40'>Người ta luôn hỏi tôi câu hỏi như thế , và bạn sẽ nghĩ rằng tôi đã luôn chuẩn bị sẵn tinh thần để trả lời câu hỏi đó cho thân chủ tôi trước khi bắt đầu cuộc " lên đồng " , nhưng thay đổi chưa bao giờ là sở trường của tôi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" Oh , sorry .</s>
+<s id='vn41'>" Ồ , tôi xin lỗi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" They " are my crew , or rather , my spirit guides .</s>
+<s id='vn42'>" Họ " ở đây là " lính " của tôi , hay nói đúng hơn là " cái vía " của tôi .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I believe that they talk to your spirit guides and it all gets communicated back to me . "</s>
+<s id='vn43'>Tôi nghĩ họ trò chuyện với " cái vía " của cô và tất cả được truyền đạt lại với tôi . "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" Really ?</s>
+<s id='vn44'>" Thật sao ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Can they tell you their names ? "</s>
+<s id='vn45'>Họ có nói cho cô biết về danh tính của họ không ? "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>she whispered , still looking around bug-eyed .</s>
+<s id='vn46'>cô thì thầm , giương đôi mắt lồ lộ về phía tôi .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>We were getting off track here .</s>
+<s id='vn47'>chúng tôi đang đi lạc đề .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>I pulled us back on course , afraid I would lose the train of thought flittering through my brain .</s>
+<s id='vn48'>Tôi phải kéo lại đúng quỹ đạo của nó , vì e rằng tôi sẽ mất tập trung vào cái tư tưởng đang lửng lơ trong đầu tôi .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" Uh , no , Sharon , I don't typically get names , I only get pictures and thoughts .</s>
+<s id='vn49'>" Ừ , không , Sharon , thường thì tôi không biết tên tuổi ai hết , tôi chỉ lấy những suy nghĩ và hình ảnh .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>So , as I was saying , we were talking about this love triangle , right ? "</s>
+<s id='vn50'>Như tôi đang nói , chúng ta đang nói về mối tình tay ba , phải không nào ? "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>" Yes , " she answered , leaning forward to hang on my every word .</s>
+<s id='vn51'>" Vâng " , cô ấy trả lời , chồm người về phía trước cố lắng nghe kỹ từng lời nói của tôi .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" Okay , I 'm just going to give it to you the way they 're giving it to me…</s>
+<s id='vn52'>" OK , tôi vừa truyền đạt lại cho cô theo đúng cách mà họ truyền đạt lại cho tôi …</s>
+</spair>
+<spair id='53'>
+<s id='en53'>They 're giving me the feeling that this other guy is saying all the right things , that he may say he 's interested in you and that he wants to be with you but he 's not telling you the whole story . "</s>
+<s id='vn53'>Họ khiến tôi có cảm giác người đàn ông này luôn nói điều hay ho , anh ta nói anh ta rất thích cô và chỉ muốn kề cận bên cô nhưng anh ta giấu giếm cô chuyện gì đó . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Sharon 's bug eyes squinted now as she looked at me critically .</s>
+<s id='vn54'>Đôi mắt lồ lộ của Sharon nheo lại khi cô nhìn tôi với vẻ trách cứ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" Okay , does this other guy have blond hair ? "</s>
+<s id='vn55'>" OK , thế có phải tóc của anh ta màu vàng không ? "</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" Yes . "</s>
+<s id='vn56'>" Đúng vậy . "</s>
+</spair>
+<spair id='57'>
+<s id='en57'>" And he works some sort of night job , like , he works at night … Is he a bartender ? "</s>
+<s id='vn57'>" Và anh ta làm công việc làm đêm , kiểu như công việc vào buổi tối ... Có phải anh ta là 1 bartender không ? "</s>
+</spair>
+<spair id='58'>
+<s id='en58'>" Oh my God … yes , he is ! "</s>
+<s id='vn58'>" Ồ lạy Chúa … đúng là như thế ! "</s>
+</spair>
+<spair id='59'>
+<s id='en59'>" And your husband , he 's the guy with dark brown hair and a beard or facial hair , right ? "</s>
+<s id='vn59'>" Và chồng của cô , anh ấy có mái tóc màu nâu sẫm và có râu , đúng không ?</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Sharon sucked in a breath of surprise and replied , " Yes , he 's got a goatee . "</s>
+<s id='vn60'>Sharon hít một hơi thở ngạc nhiên rồi trả lời , " Phải , anh ấy có một chòm râu dê . "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" And your husband does something with computers , like he has something to do with making computers or something . "</s>
+<s id='vn61'>" Và chồng cô làm việc trên máy tính , kiểu như sản xuất máy tính hay cái gì đó đại loại như thế . "</s>
+</spair>
+<spair id='62'>
+<s id='en62'>"He 's a computer engineer … "</s>
+<s id='vn62'>" Anh ấy là kỹ sư máy tính … "</s>
+</spair>
+<spair id='63'>
+<s id='en63'>" Okay , Sharon , they 're telling me that the blond is a liar , and that you may not think your husband is Mr. Don Juan but he loves you .</s>
+<s id='vn63'>" OK , nghe này Sharon , họ đang nói với tôi rằng gã trai tóc vàng đó là một kẻ nói dối , và cô có thể cho rằng chồng cô không phải là một tên sở khanh nhưng anh ấy yêu cô .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>They 're saying if you leave your husband for this other guy with the blond hair that there won't be any going back .</s>
+<s id='vn64'>Họ bảo rằng nếu cô bỏ chồng đi theo gã tóc vàng đó thì cô sẽ không bao giờ có cơ hội làm lại cuộc đời .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You won't be able to fix it once it 's out in the open .</s>
+<s id='vn65'>Cô sẽ không bao giờ sửa chữa được điều đó một khi mọi thứ bị phơi bày ra ánh sáng .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>And I get the feeling that if you continue to fool around on the side you 're going to get caught .</s>
+<s id='vn66'>Và tôi có cảm giác nếu cô tiếp tục lăng nhăng với gã đó thì sớm muộn gì cô cũng bị bắt được quả tang .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>If you think you won't , then you 're kidding yourself .</s>
+<s id='vn67'>Nếu cô nghĩ cô sẽ bình yên vô sự thì cô chỉ đang tự lừa dối bản thân mình .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>They 're saying there is already a woman , I think she 's older than you , with red hair , who 's very nosy .</s>
+<s id='vn68'>Họ còn cho biết thêm là đã xuất hiện một người phụ nữ tóc đỏ rất ư là tò mò , tôi cho rằng bà ta lớn tuổi hơn cô .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>She already suspects , and she wouldn't think twice about telling your husband .</s>
+<s id='vn69'>Bà ta đã nghi ngờ cô và sẽ không thèm suy nghĩ chín chắn về việc méc với chồng cô .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>I think this is like a neighbor or something … "</s>
+<s id='vn70'>Tôi cho rằng bà ta giống một bà hàng xóm hay gì đó … "</s>
+</spair>
+<spair id='71'>
+<s id='en71'>" Oh my God !</s>
+<s id='vn71'>" Ôi Lạy chúa tôi !</s>
+</spair>
+<spair id='72'>
+<s id='en72'>My neighbor , Mrs. O'Connor , has red hair , and she would tell my husband ! "</s>
+<s id='vn72'>Là bà hàng xóm tóc đỏ của tôi , bà O'Connor , và bà ta sẽ kể tội với chồng tôi ! "</s>
+</spair>
+<spair id='73'>
+<s id='en73'>" See ? She 's already very suspicious , and I get the feeling that if you don't rethink this whole thing you could end up divorced and alone .</s>
+<s id='vn73'>" Cô thấy chưa ? Bà ta rất đa nghi , và tôi thấy nếu cô không cân nhắc lại toàn bộ những gì tôi nói thì cái kết cục dành cho cô sẽ là ly dị và cuộc sống cô đơn một mình .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>This bartender guy is n't going to marry a divorced woman with two kids .</s>
+<s id='vn74'>Gã bartender đó sẽ chẳng thèm kết hôn với một người phụ nữ đã ly dị có hai đứa con .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>You have two , right ? A boy and a girl ? "</s>
+<s id='vn75'>Cô có hai đứa con , một trai một gái , đúng không ? "</s>
+</spair>
+<spair id='76'>
+<s id='en76'>" Yes , but … " she squeaked .</s>
+<s id='vn76'>" Đúng , nhưng … " cô ta ré lên .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" No , No buts . " I said firmly .</s>
+<s id='vn77'>Tôi nghiêm giọng , " Không nhưng nhị gì cả .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>You need to do some hard thinking here , 'cuz there will be no going back , and if you continue down this path I 'm seeing nothing but heartache in your life .</s>
+<s id='vn78'>Cô phải cân nhắc thật nghiêm túc , vì cô sẽ không có cơ hội quay trở lại , và nếu cô cứ khăng khăng đi theo con đường tội lỗi này , tôi có thể thấy cuộc sống mai đây của cô không có gì khác ngoài nỗi đau khổ giày vò trong tim .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>You won't really know what you 've lost until it 's gone . "</s>
+<s id='vn79'>Cô thật sự sẽ không biết mình đã đánh mất thứ gì cho đến khi nó không còn hiện hữu . "</s>
+</spair>
+<spair id='80'>
+<s id='en80'>At that moment I heard the blissful sound of my chime clock dinging and the tape in the cassette player clicked off .</s>
+<s id='vn80'>Vào đúng lúc đó tôi nghe thấy hồi chuông êm ái vang lên từ chiếc đồng hồ và băng ghi âm trong máy cát-xét bật lên cái tách .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>I instantly felt relieved .</s>
+<s id='vn81'>Tôi liền cảm thấy nhẹ nhõm trong lòng .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>This woman wasn't picking up what I was laying down and it was pretty frustrating to me .</s>
+<s id='vn82'>Người phụ nữ này vẫn chưa tiếp thu những gì tôi truyền đạt cho cô ta và điều này làm tôi có chút phiền lòng .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>I stood and said gently but firmly ,</s>
+<s id='vn83'>Tôi đứng dậy và nói một cách nhẹ nhàng nhưng không kém phần nghiêm nghị ,</s>
+</spair>
+<spair id='84'>
+<s id='en84'>" And that 's all the time we have . "</s>
+<s id='vn84'>" Tôi e thời gian dành cho chúng ta đã hết . "</s>
+</spair>
+<spair id='85'>
+<s id='en85'>I flipped open the cassette player and removed the tape , enclosed it in its plastic case and handed it to her along with a tissue .</s>
+<s id='vn85'>Tôi bật mở máy cát-xét và lấy cuộn băng ra , bỏ vào trong hộp nhựa và đưa nó cho cô ta kèm theo một miếng khăn giấy .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Sharon got up with me and walked with bent head and a forced smile toward the door .</s>
+<s id='vn86'>Sharon đứng dậy theo tôi và cúi đầu lầm lũi bước tới cửa với nụ cười gượng gạo .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>She thanked me for my time and was asking when she could come back when I said ,</s>
+<s id='vn87'>Cô ấy cám ơn tôi đã dành thời gian cho cô ấy và hỏi tôi khi nào cô có thể quay lại nhưng tôi trả lời ,</s>
+</spair>
+<spair id='88'>
+<s id='en88'>" Actually , Sharon , I 'd prefer it if you made an appointment with a friend of mine . "</s>
+<s id='vn88'>" Sharron ạ , thực ra tôi cảm thấy tốt hơn hết là cô nên sắp xếp một cuộc hẹn với một người bạn của tôi . "</s>
+</spair>
+<spair id='89'>
+<s id='en89'>I walked back toward my credenza and retrieved a card from a stack piled there .</s>
+<s id='vn89'>Tôi bước trở lại kệ sách và rút từ đống giấy tờ ra một danh thiếp .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>" This is Lori Sellers .</s>
+<s id='vn90'>" Lori Sellers .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>She 's a psychotherapist with an office over on Eleven Mile .</s>
+<s id='vn91'>Cô ấy là một chuyên gia tâm lý , văn phòng ở Eleven Mile .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>She 's very good and I think it would be a good thing for you to talk to her about the choices in front of you . "</s>
+<s id='vn92'>Cô ấy rất tốt và tôi nghĩ sẽ hiệu quả hơn nếu cô trò chuyện với cô ấy về những chọn lựa của cô . "</s>
+</spair>
+<spair id='93'>
+<s id='en93'>I put the card in her outstretched hand .</s>
+<s id='vn93'>Tôi đặt tấm danh thiếp vào bàn tay đang xoè ra của cô ta . "</s>
+</spair>
+<spair id='94'>
+<s id='en94'>" If you want to come back and see me , I allow only two visits per year , and that 's a good rule of thumb .</s>
+<s id='vn94'>Còn nếu cô vẫn muốn tìm gặp tôi , xin nói rõ , tôi chỉ tiếp mỗi thân chủ một năm hai lần mà thôi , và đó là quy tắc bất di bất dịch .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>You shouldn't get hooked on readers ; remember that all of the answers are inside you .</s>
+<s id='vn95'>Cô không nên quá chú tâm đến điều người ta nói , hãy nhớ là mọi đáp án đều ở trong cô .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>All you have to do is trust yourself and listen . "</s>
+<s id='vn96'>Tất cả những gì cô phải làm là tin vào bản thân và nghe theo nó . "</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Sharon didn't look convinced , so I placed my hand on her arm and walked her gently to the door .</s>
+<s id='vn97'>Sharon không có vẻ gì là bị thuyết phục , cho nên tôi đặt tay mình lên cánh tay cô ta và nhẹ nhàng dẫn ra cửa .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" Now I want you to go home and replay the tape and consider everything I 've said .</s>
+<s id='vn98'>" Bây giờ tôi muốn cô về nhà , nghe lại đoạn băng và cân nhắc những gì tôi đã nói .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>You have the gift of free will , and it 's a powerful force .</s>
+<s id='vn99'>Cô được ban cho một ý chí tự do và đó là một sức mạnh .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>You can change your own destiny if you put your mind to it .</s>
+<s id='vn100'>Cô có thể thay đổi số phận của mình nếu cô thật sự nỗ lực .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Just be careful , okay ?</s>
+<s id='vn101'>Bảo trọng nhé , OK ?</s>
+</spair>
+<spair id='102'>
+<s id='en102'>I mean , you 've been married , for … what ?</s>
+<s id='vn102'>Ý tôi là cô đã kết hôn , vì … cái gì ?</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Ten years ? "</s>
+<s id='vn103'>Lại kéo dài được 10 năm ? "</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Another sucked-in breath of surprise .</s>
+<s id='vn104'>Một hơi thở tắc nghẹn trong sự sửng sốt .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>" Yes .</s>
+<s id='vn105'>" Đúng là 10 năm .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>How did you know that ? "</s>
+<s id='vn106'>Mà sao cô biết ? "</s>
+</spair>
+<spair id='107'>
+<s id='en107'>I smiled and spread my hands in an " aha " gesture .</s>
+<s id='vn107'>Tôi mỉm cười và duỗi tay ra với điệu bộ " à ha " .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>" I 'm psychic . "</s>
+<s id='vn108'>" Tôi là bà đồng mà . "</s>
+</spair>
+<spair id='109'>
+<s id='en109'>As I watched Sharon leave I couldn't help but consider for the billionth time how much that word " psychic " still caught in my throat .</s>
+<s id='vn109'>Nhìn Sharon rời đi , tôi không khỏi xem xét hàng tỉ lần hai từ " bà đồng " đã nghèn nghẹt trong cổ họng tôi nhiều đến độ nào .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>It 's just too close to the word " psycho " for my taste .</s>
+<s id='vn110'>Tôi vẫn nghĩ nó gần với từ " kẻ bị bệnh tâm thần " .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Typically , when asked what I do for a living I tack on a softer word , like " psychic intuitive " to lend a smidgen of legitimacy .</s>
+<s id='vn111'>Thường thường , khi bị hỏi về nghề nghiệp của mình , tôi đã thêm thắt vào vài từ mềm mại hơn , kiểu như " bà đồng sử dụng trực giác " nghe cho có hơi hướng hợp pháp hoá .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>I 'd even had business cards made up reading , Abigail cooper , p.i . with teeny-weeny little letters underneath in parentheses spelling out psychic intuitive .</s>
+<s id='vn112'>Thậm chí tôi còn làm danh thiếp với hàng chữ Abigail Cooper , và theo sau là những chữ cái viết tắt nhỏ xíu ám chỉ cái nghề nghiệp đồng bóng của tôi .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Most people think I 'm trying to be clever .</s>
+<s id='vn113'>Hầu hết mọi người đều nghĩ tôi đang đang cố tỏ ra chuyên nghiệp .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The truth is , I 'm a chickenshit .</s>
+<s id='vn114'>Thật ra tôi chả là cái quái gì cả .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>I never wanted to be a psychic , professional or otherwise .</s>
+<s id='vn115'>Tôi chưa bao giờ mong mỏi trở thành một bà đồng , hay theo đuổi cái nghiệp này .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>It 's something that was more or less thrust upon me , and I 've never really felt comfortable with it .</s>
+<s id='vn116'>Ý nghĩ đó ít nhiều cũng đã ám ảnh tôi , và thú thật là tôi chưa bao giờ cảm thấy thoải mái về điều này .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>It is n't that I 'm not proud of what I do ; it 's just that I 've always been conscious of the fact that I 'm different .</s>
+<s id='vn117'>Không phải là tôi không tự hào về những gì tôi làm ; chỉ là tôi luôn bị giày vò bởi cái tư tưởng tôi là một kẻ lập dị .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>For instance , there are plenty of people out there who will engage me in casual conversation and might even find me amusing until they discover what I do for a living…and then they recede like a tide from the beach and I 'm left in the sand feeling like I 've got a big red X on my forehead .</s>
+<s id='vn118'>Chẳng hạn như có nhiều người ngoài kia sẽ hứng thú lôi kéo tôi vào những cuộc xã giao thông thường và thậm chí có thể nhận thấy tôi là một người khá hài hước cho đến khi họ phát hiện cái nghề nghiệp của tôi … thì họ thụt lùi lại y như triều rút cạn nước trên bờ biển và bỏ lại mình tôi trên bãi cát với cảm giác hình như trên trán tôi có in một dấu chéo đỏ lòm to tổ bố .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>I 've been a professional psychic for four years now , and I 'm still waiting for the proverbial tide to come back in .</s>
+<s id='vn119'>Tôi đã là một bà đồng chuyên nghiệp trong bốn năm nay , và tôi vẫn đang chờ đợi một cơn triều dâng trở lại .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>I was just about to close the door after Sharon when one of my regulars , Candice Fusco , came walking down the corridor , carrying a large manila envelope .</s>
+<s id='vn120'>Tôi vừa định đóng cửa lại thì Candice Fusco , một trong những vị khách hàng thân thuộc của tôi , đang đi tới trên hành lang , tay cầm một phong bì lớn .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>" Hey , Candice , " I called as she caught sight of me .</s>
+<s id='vn121'>" Chào cậu , Candice , " tôi gọi khi cô vừa nhìn thấy tôi .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>" Hi , Abby .</s>
+<s id='vn122'>" Abby .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>I 'm on time , right ? "</s>
+<s id='vn123'>Tớ đến đúng giờ chứ ? "</s>
+</spair>
+<spair id='124'>
+<s id='en124'>She glanced at her watch and hurried her step .</s>
+<s id='vn124'>Cô liếc nhìn đồng hồ rồi bước vội .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>" Yup .</s>
+<s id='vn125'>" Ừ .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>I was just seeing my last client out . "</s>
+<s id='vn126'>Tớ vừa tiễn chân vị thân chủ cuối cùng ra cửa . "</s>
+</spair>
+<spair id='127'>
+<s id='en127'>I stepped sideways , holding the door open and allowing her to enter .</s>
+<s id='vn127'>Tôi bước sang một bên , giữ cửa mở để cô bước vào .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Candice was probably only an inch or two taller than me , but the three-inch heels I had never seen her go without made her tower over me .</s>
+<s id='vn128'>Candice có lẽ chỉ cao hơn tôi 4-5 phân nhưng cộng thêm đôi giày cao 6 phân – vật bất ly thân của cô ta – thì tôi như đứng cạnh một toà tháp .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>She was an elegant woman , with a fondness for expensive suits .</s>
+<s id='vn129'>Candice là một người phụ nữ sang trọng , ưa chuộng thứ đồ đắt tiền .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Today she wore cream silk that flowed and rippled with the breeze of her movements and set off the tan of her skin and her light blond hair .</s>
+<s id='vn130'>Hôm nay cô ta diện một bộ đầm lụa màu kem , rủ rượi và bồng bềnh theo mỗi chuyển động của cơ thể , làm nổi bật làn da rám nắng cùng mái tóc vàng óng ả .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Her femininity usually makes me a little self-conscious , but within a minute or two I 'm over it , eased , I think , by her genuine nature .</s>
+<s id='vn131'>Vẻ nữ tính của cô luôn khiến tôi có đôi chút rụt rè , nhưng cảm giác ngượng ngập này nhanh chóng tiêu tan sau vài phút vì nó đã được xoa dịu nhờ vào tính cách bộc trực khẳng khái của cô .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>You would never guess by her dress and mannerisms that Candice is a private investigator , and a damn good one at that -although her most recent successes were helped a bit by yours truly .</s>
+<s id='vn132'>Nếu chỉ căn cứ vào chiếc đầm và phong cách gợi cảm kia ắt hẳn bạn sẽ không tài nào đoán được Candice lại là một thám tử tư , mà lại là một thám tử tư cực giỏi dù rằng những thành công gần đây mà cô đạt được là nhờ có sự trợ giúp nho nhỏ của chính tôi .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" Would you like to sit here or in my reading room ?"</s>
+<s id='vn133'>" Cậu muốn ngồi ở đây hay trong phòng làm việc ? "</s>
+</spair>
+<spair id='134'>
+<s id='en134'>I asked , closing the door behind Candice .</s>
+<s id='vn134'>Tôi hỏi trong khi đóng cửa lại .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>" Here would be fine , Abby , this shouldn't take us too long , " she replied , pulling the straps from her purse and shoulder bag off her shoulder .</s>
+<s id='vn135'>" Ở đây cũng được Abby , sẽ không lâu lắm đâu , " cô trả lời , cởi dây quai túi xách khỏi vai .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>" So how 's Kalamazoo these days ? "</s>
+<s id='vn136'>" Kalamazoo dạo này ra sao ? "</s>
+</spair>
+<spair id='137'>
+<s id='en137'>I asked , gesturing toward the two chairs in the office waiting room for us to sit in .</s>
+<s id='vn137'>Tôi hỏi khi bước về phía hai chiếc ghế trong phòng chờ dành cho khách .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>" Still there . "</s>
+<s id='vn138'>" Vẫn còn ở đó . "</s>
+</spair>
+<spair id='139'>
+<s id='en139'>she said taking a seat ,</s>
+<s id='vn139'>Cô ngồi xuống ghế ,</s>
+</spair>
+<spair id='140'>
+<s id='en140'>" I swear this drive takes longer every time . "</s>
+<s id='vn140'>" Tớ thề rằng cứ mỗi lần lái xe đến đây là mỗi một lâu hơn . "</s>
+</spair>
+<spair id='141'>
+<s id='en141'>" The way you drive ?</s>
+<s id='vn141'>" Do đường đi sao ?</s>
+</spair>
+<spair id='142'>
+<s id='en142'>I doubt it .</s>
+<s id='vn142'>Tớ nghi ngờ điều đó .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>How long did it take you today ? "</s>
+<s id='vn143'>Thế hôm nay cậu lái xe mất bao lâu để đến đây ? "</s>
+</spair>
+<spair id='144'>
+<s id='en144'>" An hour and forty-five minutes . "</s>
+<s id='vn144'>" 1 tiếng 45 phút . "</s>
+</spair>
+<spair id='145'>
+<s id='en145'>" New record ?"</s>
+<s id='vn145'>" Kỷ lục mới ư ? "</s>
+</spair>
+<spair id='146'>
+<s id='en146'>" Nah .</s>
+<s id='vn146'>" Không .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>I 've done it in an hour and thirty-five before .</s>
+<s id='vn147'>Trước đây tớ chỉ mất 1 tiếng 35 phút thôi .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Of course , I was doing ninety-five the whole time , but I 've slowed it down a notch since you told me to . "</s>
+<s id='vn148'>Tất nhiên lúc nào tớ cũng lái trong chừng ấy thời gian , nhưng tớ đã lái chậm lại kể từ khi cậu khuyên tớ . "</s>
+</spair>
+<spair id='149'>
+<s id='en149'>" Yeah , not a good idea to ignore a warning like that when it comes up . "</s>
+<s id='vn149'>" Ờ , thật không phải là một ý tưởng hay nếu lờ đi lời cảnh báo như thế khi nó sắp xảy ra . "</s>
+</spair>
+<spair id='150'>
+<s id='en150'>I 'd told Candice the last time we saw each other to watch her lead foot or she could end up with a hefty speeding ticket .</s>
+<s id='vn150'>Trong lần gặp nhau gần đây nhất tôi đã cảnh báo Candice phải lái xe cẩn thận nếu không muốn lãnh một vé phạt " cắt cổ " vì chạy xe quá tốc độ .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>" So , is that the stuff ? "</s>
+<s id='vn151'>" Đó có phải là phi vụ mới không ? "</s>
+</spair>
+<spair id='152'>
+<s id='en152'>I asked , pointing to the manila envelope she still held .</s>
+<s id='vn152'>Tôi hỏi , chỉ vào cái phong bì cô đang cầm trên tay .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>" Yes , these are the three employees we 've narrowed it down to , " Candice said , extending the envelope toward me .</s>
+<s id='vn153'>" Ừ , đây là ảnh của ba nhân viên sau khi chúng tớ đã sàng lọc các diện tình nghi , " Candice nói , chìa nó về phía tôi .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>I took it and opened the flap , extracting three pictures - two women and one man , all posing for mug shots of the employee-badge variety .</s>
+<s id='vn154'>Tôi cầm lấy và mở nắp phong bì , rút ra ba bức ảnh - một nam và hai nữ - đều là ảnh chụp chân dung dùng để dán vào thẻ nhân viên .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>I flipped quickly from photo to photo , then back through more slowly , taking my time to open my intuition to each person .</s>
+<s id='vn155'>Tôi lật nhanh từ tấm này đến tấm khác , rồi quay trở lại lật chậm hơn trước , tận dụng thời gian kêu gọi trực giác rà soát từng người .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Candice had called me the previous evening about a new case she was working on .</s>
+<s id='vn156'>Chiều hôm trước Candice đã gọi điện cho tôi kể về một phi vụ mới mà cô đang điều tra .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>A large company that handled mutual funds had discovered several thousand dollars missing from its clients " portfolios .</s>
+<s id='vn157'>Một công ty lớn quản lý quỹ đầu tư tín thác đã phát hiện vài ngàn đô la từ danh mục đầu tư của nhiều khách hàng công ty đã không cánh mà bay .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>The company had not made the discovery public yet and wanted Candice 's help in identifying the embezzler .</s>
+<s id='vn158'>Công ty đó vẫn chưa hé lộ thông tin này ra bên ngoài và muốn Candice điều tra danh tính kẻ biển thủ này .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>" Okay - these two ? "</s>
+<s id='vn159'>" OK - hai người này à ? "</s>
+</spair>
+<spair id='160'>
+<s id='en160'>I said , holding up a photo of a man in his mid-forties , with droopy jowls and yellowed teeth , and another of a woman in her twenties , with bangs poufed high above her head and gobby eyes coated with too much mascara .</s>
+<s id='vn160'>Tôi nói khi giơ tấm ảnh một người đàn ông chừng bốn mươi mấy tuổi , hàm trễ , răng nhuốm vàng , và ảnh một người phụ nữ xấp xỉ 30 , mái tóc búi cao , cặp mắt láu táu chải mascara dày cộp .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>" There 's something going on between them .</s>
+<s id='vn161'>" Có chuyện gì đó diễn ra giữa hai người này .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>I get the feeling that they two have some sort of romantic connection .</s>
+<s id='vn162'>Tớ có cảm giác hình như họ đang yêu nhau .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>This guy " - I pointed to the photo of the man - " He 's up to no good .</s>
+<s id='vn163'>Gã này " - tôi chỉ vào tấm ảnh người đàn ông - " Hắn có làm chuyện gì đó sai trái .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>I get the feeling that he 's sneaky , and it 's not just about fooling around with another employee .</s>
+<s id='vn164'>Tớ nhận thấy hắn có vẻ lén lút , và không chỉ chòng ghẹo các nhân viên khác .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>There 's something more sinister here .</s>
+<s id='vn165'>Mà còn là một chuyện gì đó mờ ám hơn .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Did he just buy a new boat ? "</s>
+<s id='vn166'>Hắn mới mua một con tàu mới phải không ? "</s>
+</spair>
+<spair id='167'>
+<s id='en167'>"He 's made quite a few purchases lately , which is one of the reasons the company suspects him .</s>
+<s id='vn167'>" Dạo gần đây hắn mua sắm khá nhiều , đó là lí do mà công ty đã nghi ngờ hắn ta .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>And yes , one of his purchases was a boat . "</s>
+<s id='vn168'>Và đúng là một trong những thứ mới tậu đó có một con tàu . "</s>
+</spair>
+<spair id='169'>
+<s id='en169'>" Okay , this is your guy .</s>
+<s id='vn169'>" OK , gã này dành cho cậu giải quyết .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>There 's something about this boat , though .</s>
+<s id='vn170'>Thế nhưng có vài điều liên quan đến con tàu này .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>I get the feeling that he 's covered his tracks pretty good , but there 's evidence hidden on the boat .</s>
+<s id='vn171'>Tớ có cảm giác hắn ta xoá sạch mọi dấu vết khá cẩn thận , nhưng bằng chứng được ẩn giấu trong chiếc tàu này .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>I 'd start by snooping around on it and seeing what you turn up . "</s>
+<s id='vn172'>Tớ sẽ bắt đầu bằng việc rình mò nó và tìm thứ mà cậu đang tìm . "</s>
+</spair>
+<spair id='173'>
+<s id='en173'>" What about the third photo ? "</s>
+<s id='vn173'>" Còn tấm hình thứ ba thì sao ? "</s>
+</spair>
+<spair id='174'>
+<s id='en174'>Candice asked .</s>
+<s id='vn174'>Candice hỏi .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>I looked at the third photo , an older woman roughly in her late fifties to early sixties , with washed-out gray hair , a prominent nose and muddy eyes .</s>
+<s id='vn175'>Tôi nhìn vào tấm hình thứ ba , một người phụ nữ gần 60 tuổi , tóc muối tiêu , mũi cao và đôi mắt ngầu đục .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>I held the photo and felt around using my radar .</s>
+<s id='vn176'>Tôi cầm tấm ảnh và dùng ra-đa trực giác dò tìm .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>" I get the feeling this woman has no clue about what 's going on , that she 's being used as a pawn or something .</s>
+<s id='vn177'>" Tớ cảm thấy người phụ nữ này không hề biết chuyện gì đang xảy ra , và bà ta đang bị điều khiển như một con tốt hay cái gì đó đại loại như thế .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>This guy may be using her in some way to cover his tracks , setting her up to take the blame for the crime . "</s>
+<s id='vn178'>Gã đàn ông này có thể đã sử dụng bà ta hòng che đậy mọi dấu vết của hắn , đưa bà ta vào tình thế đứng mũi chịu sào . "</s>
+</spair>
+<spair id='179'>
+<s id='en179'>" That makes a lot of sense , " Candice said .</s>
+<s id='vn179'>" Nghe chừng rất hợp lý , " Candice nói .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>" Most of the evidence is pointing to her right now , but she 's been an exemplary employee at the company for almost thirty years .</s>
+<s id='vn180'>" Ngay lúc này đây thì hầu hết các bằng chứng đều bất lợi cho bà ta , người luôn là một nhân viên gương mẫu của công ty trong gần ba mươi năm nay .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>She 's about to retire , and we couldn't figure out why , after all this time , she would start stealing from the company . "</s>
+<s id='vn181'>Bà ta sắp sửa nghỉ hưu , và thật tình là tớ không hình dung được tại sao đến bây giờ bà ta mới " thụt két " công ty sau ngần ấy năm làm việc . "</s>
+</spair>
+<spair id='182'>
+<s id='en182'>" Yeah , I agree with your instincts .</s>
+<s id='vn182'>" Ờ , tớ cũng đồng ý với khả năng phán đoán của cậu .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>It really feels to me like she 's being set up .</s>
+<s id='vn183'>Thực sự tớ có cảm giác bà ta đang bị gài bẫy .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>Look on the boat , Candice .</s>
+<s id='vn184'>Candice này , cậu hãy khám xét con tàu này nhé .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>There 's something there . "</s>
+<s id='vn185'>Có vài thứ đáng xem ở đó .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>Candice gave me a big smile as I put the photos back in the envelope .</s>
+<s id='vn186'>Candice nở một nụ cười rạng rỡ khi tôi bỏ những tấm ảnh vào lại phong bì .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>" Thanks , Abby .</s>
+<s id='vn187'>" Cảm ơn cậu , Abby .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>You 've probably saved me a ton of legwork on this . "</s>
+<s id='vn188'>Cậu đã cứu tớ ra khỏi một núi công việc chạy lăng quăng thu thập thông tin . "</s>
+</spair>
+<spair id='189'>
+<s id='en189'>" No sweat , Candice .</s>
+<s id='vn189'>" Không sao đâu Candice .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>By the way , what 's the deal with Ireland ?"</s>
+<s id='vn190'>À mà có chuyện gì phải đi Ai-len thế ? "</s>
+</spair>
+<spair id='191'>
+<s id='en191'>Candice gave a startled laugh .</s>
+<s id='vn191'>Candice giật mình cười lớn .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>" God !</s>
+<s id='vn192'>" Lạy Chúa !</s>
+</spair>
+<spair id='193'>
+<s id='en193'>Does anything get by you ?</s>
+<s id='vn193'>Có điều gì mà cậu còn biết nữa không ?</s>
+</spair>
+<spair id='194'>
+<s id='en194'>I 'm going there next month for a six-week vacation . "</s>
+<s id='vn194'>Tháng tới tớ sẽ đi nghỉ mát ở đó trong sáu tuần . "</s>
+</spair>
+<spair id='195'>
+<s id='en195'>" Wow , " I said enviously .</s>
+<s id='vn195'>" Chà , " tôi ghanh tị .</s>
+</spair>
+<spair id='196'>
+<s id='en196'>" Well , you 're going to have a great time , but you 'll need to pack warmer than you think . "</s>
+<s id='vn196'>" Cậu sẽ có một thời gian tuyệt vời lắm , nhưng cậu cần mang theo nhiều áo ấm , ở đó lạnh hơn là cậu tưởng . "</s>
+</spair>
+<spair id='197'>
+<s id='en197'>" Thanks .</s>
+<s id='vn197'>" Cảm ơn .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>I 'll make sure I do .</s>
+<s id='vn198'>Tớ sẽ nghe lời cậu .</s>
+</spair>
+<spair id='199'>
+<s id='en199'>I 'll be back in September , and I 'm sure I 'll be calling you for help on the next big case I get . "</s>
+<s id='vn199'>Tớ sẽ về vào tháng 9 , và chắc chắn tớ sẽ cần đến sự trợ giúp đắc lực của cậu trong những phi vụ lớn tiếp theo của tớ . "</s>
+</spair>
+<spair id='200'>
+<s id='en200'>" Anytime , " I said , standing up as she handed me a check and we walked to the door .</s>
+<s id='vn200'>" Tớ luôn sẵn lòng , " tôi đứng dậy khi cô ấy trao cho tôi một tờ ngân phiếu và chúng tôi bước ra cửa .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>" Say , by the way , " Candice said as she stooped to gather up her purse and briefcase , " I saw this documentary the other night on the Discovery Channel about a psychic who works with the police to solve some of their toughest cases , and while I was watching I immediately thought of you .</s>
+<s id='vn201'>" À mà này , " Candice chợt nói khi đang cắm cúi sắp xếp ví tiền và va-li của cô ta , " Đêm hôm trước tớ đã xem một bộ phim tài liệu trên kênh Discovery có nói về một bà đồng hợp tác với cảnh sát điều tra vài vụ án hóc búa nhất và trong khi xem phim tớ liền nghĩ ngay đến cậu .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>You know , I think you 'd make a great police psychic . "</s>
+<s id='vn202'>Cậu biết đấy , tớ nghĩ cậu sẽ trở thành một bà đồng - cớm tài ba . "</s>
+</spair>
+<spair id='203'>
+<s id='en203'>My eyes widened at the suggestion .</s>
+<s id='vn203'>Tôi tròn xoe mắt nhìn trước lời đề nghị .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>She had to be kidding , " No way ! "</s>
+<s id='vn204'>Cô ấy chắc là đang đùa bỡn tôi , " Không đời nào ! "</s>
+</spair>
+<spair id='205'>
+<s id='en205'>I laughed as if she 'd made a particularly funny joke .</s>
+<s id='vn205'>Tôi cười to như thể cô vừa thốt ra một câu nói đùa hài hước .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>" Why not ?</s>
+<s id='vn206'>" Tại sao lại không ?</s>
+</spair>
+<spair id='207'>
+<s id='en207'>You 've helped me find all sorts of clues to white collar crimes .</s>
+<s id='vn207'>Cậu đã giúp tớ tìm ra đủ mọi manh mối xử lý các vụ phạm tội của giới văn phòng .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>Why not lend that same talent to your community ? "</s>
+<s id='vn208'>Tại sao lại không lấy tài năng ấy phục vụ cho cộng đồng của chúng ta ?</s>
+</spair>
+<spair id='209'>
+<s id='en209'>I looked at Candice for a long moment , struggling to come up with a valid reason she would accept as to why I wouldn't go near the police , when my intuition went suddenly haywire and several very quick flashes bulleted through my mind 's eye .</s>
+<s id='vn209'>Tôi nhìn Candice một hồi lâu , cố nghĩ ra một lý do chính đáng để cô ấy chấp nhận việc tôi không muốn giao du với bọn cớm thì trực giác của tôi đột ngột bấn loạn và vài tia chớp cực nhanh bắn loạn xạ trong tâm trí tôi .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>The vision was so intense that I stepped back abruptly , nearly losing my balance as Candice reached forward quickly to grab my arm and steady me .</s>
+<s id='vn210'>Cảnh tượng ấy quá mãnh liệt đến độ tôi đột ngột giật lùi lại , gần như mất thăng bằng khi Candice nhanh như cắt với tay chộp lấy tay tôi và giữ tôi đứng vững .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>" Abby ? " she asked alarmed , " Abby , are you okay ? "</s>
+<s id='vn211'>" Abby ? " cô hoảng vía , " Abby , cậu có sao không ? "</s>
+</spair>
+<spair id='212'>
+<s id='en212'>Startled out of my trance , I snapped my head up and quickly recovered myself .</s>
+<s id='vn212'>Giật mình bừng tỉnh khỏi cơn mê , tôi ôm đầu mình và nhanh chóng bình tâm trở lại .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>" Yeah , just a really weird déjàvu moment there , " I said , shaking my head to clear it .</s>
+<s id='vn213'>" Ờ , chỉ là cảm giác ngờ ngợ quái lạ , " tôi nói , lắc lư đầu để tống khứ nó đi .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>Trying to reassure her , I said , " Listen , you drive safe back home , okay ?</s>
+<s id='vn214'>Tôi cố trấn an cô ta , " Nghe này , cậu lái xe về nhà cẩn thận nhé , OK ?</s>
+</spair>
+<spair id='215'>
+<s id='en215'>And call me next time you get into town and we 'll have lunch or something . "</s>
+<s id='vn215'>Và lần tới khi vào thành phố hãy gọi cho tớ , mình sẽ đi đâu đó ăn uống với nhau cho vui . "</s>
+</spair>
+<spair id='216'>
+<s id='en216'>Candice still looked worried , but being the talented detective that she is , took the hint that I didn't want to talk about what had just happened .</s>
+<s id='vn216'>Candice vẫn có vẻ lo lắng , nhưng là một thám tử tài năng cô ấy ngầm hiểu là tôi không muốn nói về những gì vừa diễn ra .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>" Sounds great .</s>
+<s id='vn217'>" Có vẻ hay đấy .</s>
+</spair>
+<spair id='218'>
+<s id='en218'>Take care , Abby , " she said , squeezing my shoulder .</s>
+<s id='vn218'>Bảo trọng nhé Abby " cô ấy vừa nói vừa siết vai tôi .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>I closed the door behind Candice and sighed deeply , rubbing my temples .</s>
+<s id='vn219'>Khép cửa lại sau lưng Candice , tôi thở dài sườn sượt đưa tay chà xát hai bên thái dương .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>It had been a long morning .</s>
+<s id='vn220'>Thật là một buổi sáng dài lê thê .</s>
+</spair>
+<spair id='221'>
+<s id='en221'>I walked over to my appointment book to check what the rest of my day looked like , scrolling my finger down to the next appointment .</s>
+<s id='vn221'>Tôi bước đến cuốn sổ hẹn để xem lịch làm việc từ giờ đến cuối ngày , tôi di di ngón tay đến cuộc hẹn kế tiếp .</s>
+</spair>
+<spair id='222'>
+<s id='en222'>My eleven o'clock had canceled , and my next client was n't until one .</s>
+<s id='vn222'>Cuộc hẹn vào lúc 11 giờ đã bị huỷ và đến 1 giờ trưa mới có cuộc hẹn tiếp theo .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>I did a small " hurrah " with my hands .</s>
+<s id='vn223'>Tôi khấp khởi như mở cờ trong bụng .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>With the cancellation I had a two-hour break for lunch and whatever .</s>
+<s id='vn224'>Với cuộc hẹn bị huỷ , tôi có đến hai giờ nghỉ ngơi thoải mái để ăn trưa và làm gì tuỳ thích .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>Not wanting to waste a minute of it , I blew out all the candles I 'd lit earlier , grabbed my purse and bolted out the door .</s>
+<s id='vn225'>Không muốn phí phạm một giây phút quý báu nào , tôi thổi tắt tất cả những nến tôi đã đốt vào sáng sớm , vơ lấy ví tiền và lao nhanh ra cửa .</s>
+</spair>
+<spair id='226'>
+<s id='en226'>As I entered the hallway of my office building , the coolness of the central air wafted over me , instantly rejuvenating me .</s>
+<s id='vn226'>Khi tôi bước đi trên hành lang toà cao ốc văn phòng của tôi , luồng không khí mát mẻ từ máy lạnh trung ương phả ra làm con người tôi bỗng trở nên tươi trẻ lại .</s>
+</spair>
+<spair id='227'>
+<s id='en227'>One of the hazards of my job is that air pressure and temperature often change when I 'm in session with a client .</s>
+<s id='vn227'>Một trong những hiểm nguy của nghề nghiệp tôi là áp suất không khí và nhiệt độ thường thay đổi khi tôi đang " lên đồng " cho khách hàng .</s>
+</spair>
+<spair id='228'>
+<s id='en228'>Cold rooms get warm , warm rooms get hot , and sometimes my ears ring with a high-pitched whine .</s>
+<s id='vn228'>Những gian phòng lạnh trở nên ấm , còn phòng ấm thì trở nên nóng nực , và đôi khi tai tôi cứ ù đi với những tiếng rền rỉ chói lói .</s>
+</spair>
+<spair id='229'>
+<s id='en229'>I 'd learned over the past few years to ignore most of it , but in the middle of July it was typically more of a struggle .</s>
+<s id='vn229'>Vài năm qua tôi đã học cách lờ đi hầu hết những thứ khó chịu ấy , nhưng vào giữa cái tháng bảy oi bức này dường như tôi phải chống chọi lại nhiều hơn .</s>
+</spair>
+<spair id='230'>
+<s id='en230'>My office was located in one of the older buildings in town , and the central air , while fabulous in the main hallway , seemed only to leak stingily out of the vent in my suite .</s>
+<s id='vn230'>Văn phòng của tôi nằm ở một trong những toà nhà cổ kính trong thành phố , và ngoài hành lang , hệ thống máy lạnh trung ương hào phóng cái hơi lạnh của nó bao nhiêu thì trong phòng tôi nó keo kiệt bủn xỉn đến bấy nhiêu .</s>
+</spair>
+<spair id='231'>
+<s id='en231'>Reaching the stairs , I pitched forward , grabbing the railings and thrusting my hips out in front of me , launching myself down several steps at a time .</s>
+<s id='vn231'>Khi đến cầu thang , tôi chồm người về phía trước , tay chộp lấy rào chắn và đẩy hông ra trước , nhảy xuống nhiều bậc thang cùng một lúc .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>What can I say ?</s>
+<s id='vn232'>Biết nói gì đây ?</s>
+</spair>
+<spair id='233'>
+<s id='en233'>I was always the last kid off the monkey bars when recess ended .</s>
+<s id='vn233'>Tôi luôn là con nhóc cuối cùng khỏi khỏi cái khung leo trèo cho trẻ con khi hết giờ ra chơi .</s>
+</spair>
+<spair id='234'>
+<s id='en234'>Hitting the ground floor with a loud thunk , I stood for just a minute in the marble enclosure , soaking up the cool air before braving the heat and the bustle of people I knew would be waiting for me outside .</s>
+<s id='vn234'>Tiếp đất với một tiếng thịch lớn , tôi dừng lại cạnh hàng rào đá hoa cương chỉ trong một phút , cố lặn hụp chút hơi lạnh trước khi đương đầu với cái nóng và gieo mình vào dòng người náo nhiệt mà tôi biết là đang chờ đón tôi ngoài kia .</s>
+</spair>
+</text>
+</doc>

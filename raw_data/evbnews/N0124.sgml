@@ -1,0 +1,172 @@
+﻿<doc id='N0124'>
+<head>
+<title>Why Americans hate paying taxes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Why Americans hate paying taxes</s>
+<s id='vn1'>Tại sao người Mỹ ghét nộp thuế</s>
+</spair>
+<spair id='2'>
+<s id='en2'>" Our Mann in America " is a weekly column discussing the big talking points in the U.S. for an international audience .</s>
+<s id='vn2'>" Ông Mann của chúng tôi ở Mỹ " là mục báo hàng tuần thảo luận những vấn đề lớn ở Hoa Kỳ cho độc giả quốc tế .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Jonathan Mann is an anchor for CNN International and the host of Political Mann .</s>
+<s id='vn3'>Jonathan Mann là phóng viên bình luận cho CNN International và dẫn chương trình Mann .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>( CNN ) - Nobody likes paying taxes , but American culture seems to increasingly treat taxation as a something close to a crime committed by the ruling class .</s>
+<s id='vn4'>( CNN ) - Không ai thích nộp thuế , nhưng văn hoá Mỹ có vẻ ngày càng coi thuế gần như một thứ tội lỗi mà tầng lớp cai trị đã phạm tội .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" Americans hate everything about taxation with a passion , " writes historian Robin Einhorn .</s>
+<s id='vn5'>" Người Mỹ rất ghét chuyện đóng thuế " nhà sử học Robin Einhorn viết .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" No campaign promise works better than the promise to cut taxes . "</s>
+<s id='vn6'>" Không có hứa hẹn cho cuộc vận động nào thực hiện tốt hơn việc hứa hẹn cắt giảm thuế . "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This week , American lawmakers grappled with that as they voted on whether to extend sweeping tax cuts first enacted under president George W. Bush .</s>
+<s id='vn7'>Tuần này , những nhà lập pháp Mỹ đã vật lộn với chuyện này khi họ bỏ phiếu xem có nên mở rộng ra việc giảm thuế mà lúc đầu được ban hành dưới thời tổng thống George W. Bush .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The country 's airwaves and editorial pages have been filled with arguments support and against .</s>
+<s id='vn8'>Các làn sóng truyền hình và những bài xã luận của quốc gia đã lấp đầy những lập luận ủng hộ và chống lại nó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The U.S. government is heavily indebted and could certainly use hundreds of billions of dollars in extra revenue .</s>
+<s id='vn9'>Chính phủ Hoa Kỳ đang chìm ngập trong nợ nần và chắc có thể phải sử dụng hàng trăm tỷ đô la trong khoản thu thêm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Right now , though , with the country slow to emerge from recession , letting taxpayers " spend that money themselves may be the best way to stimulate growth .</s>
+<s id='vn10'>Hiện tại , cho dù quốc gia chậm phát triển do suy thoái kinh tế nhưng vẫn để cho những người đóng thuế xài số tiền đấy coi như là cách tốt nhất để kích thích phát triển .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Many members of President Barack Obama 's Democratic Party wanted a compromise - keeping the tax cuts for most Americans and while re-imposing higher rates for the rich .</s>
+<s id='vn11'>Nhiều thành viên Đảng Dân chủ của tổng thống Barack Obama đã muốn thoả hiệp - vẫn giảm thuế cho hầu hết người Mỹ và cùng lúc đó ấn định lại mức thuế cao cho những người giàu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The politics of it touch on something primal because when America talks taxes , economics are hardly the only issue .</s>
+<s id='vn12'>Xét về chính trị chuyện này động chạm đến cái gì đó rất quan trọng vì nước Mỹ hay nói đến chuyện thuế má , còn trong khi đó kinh tế học thì hiếm được xem là vấn đề đáng xem xét .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The instinct against giving the government money is older than the country itself and has never gone away .</s>
+<s id='vn13'>Bản năng chống lại việc nộp tiền cho chính phủ là vấn đề cũ mèm so với lịch sử quốc gia này và chẳng bao giờ mai một đi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This week in 1773 , British colonists dumped a shipload of tea into Boston Harbor to protest against tea taxes .</s>
+<s id='vn14'>Cũng vào tuần này vào năm 1773 , thực dân Anh đã đổ ầm nguyên một tàu trà vào cảng Boston để chống lại thuế trà .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The Boston Tea Party is remembered as one of the seminal events leading up to the American Revolution .</s>
+<s id='vn15'>Bữa tiệc trà ở cảng Boston được nhớ đến như là một trong những sự kiện khởi đầu dẫn đến cách mạng Mỹ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Today a new movement that calls itself the Tea Party is sweeping the country and threatening to take control of the Republican Party .</s>
+<s id='vn16'>Hôm nay , một phong trào mới mang tên là " Bữa tiệc trà " đang lan rộng cả nước và đe doạ sự thống trị của Đảng Cộng hoà .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This name evokes both the 18th century uprising and conveniently the acronym T.E.A. , Taxed Enough Already .</s>
+<s id='vn17'>Cái tên này gợi lên hai cuộc nổi dậy vào thế kỷ 18 và tiện lợi là từ viết tắt bằng các chữ đầu T.E.A , nghĩa là Nộp Thuế Đủ Rồi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>As it so happens , U.S. taxes are light by international standards , roughly tied with Japan as the lowest among G-7 nations .</s>
+<s id='vn18'>Ngẫu nhiên mà , thuế của Hoa Kỳ là có vẻ nhẹ bởi các Tiêu chuẩn Quốc tế , gắn liền với Nhật Bản là một nước thuế thấp nhất trong số các quốc gia G-7 .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A grateful citizen or observant visitor might even regard them as money well spent ; Americans have excellent roads , dependable public services and most of the basic benefits of good government .</s>
+<s id='vn19'>Một công dân có lòng biết ơn hay một du khách có óc quan sát thậm chí có thể xem chúng như món tiền được sử dụng tốt ; người Mỹ có đường sá tốt , dịch vụ hành chính công đáng tin cậy và hầu hết các lợi ích cơ bản của một chính phủ tốt .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Taxes , after all ," said late president Franklin Roosevelt " are dues that we pay for the privileges of membership in an organized society . "</s>
+<s id='vn20'>" Thuế , xét cho cùng , " , theo cố tổng thống Franklin Roosevelt " cũng chỉ là thuế chúng ta trả tiền cho cái quyền lợi với tư cách là thành viên trong một xã hội có tổ chức . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>So where does the antipathy spring from ?</s>
+<s id='vn21'>Vậy thì ác cảm về vấn đề này xuất phát từ đâu ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Most Americans would probably agree that our hatred for taxes has something to do with a more profound aversion to government in general - an aversion with deep roots in our history , " writes Einhorn , a historian at the University of California .</s>
+<s id='vn22'>" Hầu hết mọi người Mỹ có lẽ cũng đồng ý rằng việc chúng tôi ghét đóng thuế nghĩa là làm chuyện gì đó với ác cảm sâu xa đối với chính phủ nói chung - hay là ác cảm với cội rễ xâu xa trong lịch sử của chúng tôi , " Einhorn , sử học gia tại đại học California đã viết .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It 's easy to see those roots in the American Revolution and this young nation 's veneration of individual effort and free enterprise .</s>
+<s id='vn23'>Thật dễ thấy những cái rễ đó trong cuộc cách mạng Mỹ và sự sùng bái nỗ lực của cá nhân và doanh nghiệp tự do ở quốc gia non trẻ này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Einhorn suggests that slave-owners were particularly opposed to any government measures affecting private property .</s>
+<s id='vn24'>Einhorn đề nghị người sở hữu nô lệ đặc biệt phải phản đối bất kỳ biện pháp nào của chính phủ đưa ra mà ảnh hưởng đến tài sản riêng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But 18th century American philosopher Henry David Thoreau is probably best remembered for refusing to pay his taxes as a form of civil disobedience against slavery .</s>
+<s id='vn25'>Nhưng nhà triết học Mỹ thế kỷ 18 Henry David Thoreau có lẽ được nhớ nhất khi không chịu trả thuế bằng cách kháng cự thụ động chống lại sự nô lệ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Taxes have proven to be a convenient target for just about anyone .</s>
+<s id='vn26'>Thuế đã chứng tỏ là một mục tiêu thuận lợi nhắm vào hầu hết mọi người .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Even today .</s>
+<s id='vn27'>Ngay cả ngày nay cũng vậy .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>American authorities are still fighting a small but determined movement that argues that income taxes are illegal under the U.S. constitution .</s>
+<s id='vn28'>Các nhà chức trách Mỹ vẫn còn đang chống lại một phong trào nhỏ nhưng cương quyết với luận điệu rằng thuế thu nhập là bất hợp pháp theo hiến pháp Hoa kỳ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some of its most militant members have tried low-level terrorism .</s>
+<s id='vn29'>Vài thành viên trong số các chiến sĩ của nó đã thử cách khủng bố nhẹ nhàng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Some simply end up behind bars .</s>
+<s id='vn30'>Một số khác đơn giản là vào tù .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Hollywood tough-guy Wesley Snipes , who starred most recently as a vampire hunter in the " Blade " film trilogy , began serving a three-year sentence this month for failing to pay $ 17 million in taxes under the guidance .</s>
+<s id='vn31'>Gã ngoan cố Hollywood - Wesley Snipes , người đóng vai chính là tên săn ma cà rồng gần đây nhất trong phim bộ ba " Lưỡi dao " , phải ngồi tù ba năm bắt đầu từ tháng này vì không trả 17 triệu đô la Mỹ các khoản thuế theo như hướng dẫn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Of course , many conservative economists and Republican leaders would say that low taxes are simply good policy and lower taxes are even better policy .</s>
+<s id='vn32'>Tất nhiên , nhiều nhà kinh tế bảo thủ và các nhà lãnh đạo Đảng Cộng hoà sẽ nói rằng mức thuế thấp đơn thuần là chính sách tốt và mức thuế thấp hơn được xem là chính sách tốt hơn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>They take their cue from the late Nobel Prize winning economist Milton Friedman who argued for " cutting taxes under any circumstances and for any excuse , for any reason , whenever it 's possible . "</s>
+<s id='vn33'>Họ noi gương nhà kinh tế học quá cố Milton Friedman - người đoạt giải Nô-ben - lập luận rằng " giảm thuế trong bất cứ hoàn cảnh nào và trong bất kỳ điều kiện nào , vì bất kỳ lý do nào đó , bất cứ khi nào đều có thể áp dụng được . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Making it possible is the tough part .</s>
+<s id='vn34'>Việc áp dụng thuế có hiệu lực là vấn đề gay go .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Conservatives are caught between their hatred of taxes and their fear of government deficits .</s>
+<s id='vn35'>Những Đảng viên bảo thủ bị vướng vào tội căm ghét đóng thuế lẫn nỗi sợ chính phủ bị thâm hụt .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>They argue that in the U.S. , both are too high .</s>
+<s id='vn36'>Họ luận điệu rằng ở Hoa Kỳ , cả hai vấn đề này đều mang mục đích cao cả .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The only alternative would be the one that European governments are already adopting : Dramatic spending cuts .</s>
+<s id='vn37'>Giải pháp thay thế duy nhất sẽ là giải pháp mà chính phủ châu Âu đã và đang áp dụng : cắt giảm chi tiêu thật ấn tượng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>But voters don't resign themselves easily to reduced government services ; civil servants don't often volunteer for pay cuts .</s>
+<s id='vn38'>Thế nhưng các cử tri không dễ dàng chịu chuyện giảm đi dịch vụ từ phía chính phủ ; các công chức thường không tình nguyện trả cho các khoản giảm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The tough decisions about how Washington trim its budget are still ahead .</s>
+<s id='vn39'>Những quyết định cứng rắn về cách Washington cắt xén ngân sách của nó là chuyện vẫn còn ở phía trước .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>For now , the attention has been on taxes .</s>
+<s id='vn40'>Bây giờ , mục tiêu chú ý vẫn là vấn đề về thuế .</s>
+</spair>
+</text>
+</doc>

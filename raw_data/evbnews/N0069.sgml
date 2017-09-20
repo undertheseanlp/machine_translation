@@ -1,0 +1,168 @@
+﻿<doc id='N0069'>
+<head>
+<title>Oil Spill Spreads Fears Along US Coast Gulf</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Oil Spill Spreads Fears Along US Coast Gulf</s>
+<s id='vn1'>Sự cố tràn dầu đang đe doạ Bờ Vịnh Hoa Kỳ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Five years ago this August , Hurricane Katrina struck .</s>
+<s id='vn2'>Vào đúng tháng 8 cách đây năm năm đã xảy ra cơn bão Katrina .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Now , American states along the Gulf of Mexico are fearing a different kind of environmental disaster .</s>
+<s id='vn3'>Giờ đây các tiểu bang Hoa Kỳ dọc Vịnh Mexico đang bị đe doạ bởi một thảm hoạ môi trường khác .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Oil is flowing from a damaged well 1500 meters under the sea .</s>
+<s id='vn4'>Dầu đang lan ra từ một giếng dầu sâu bên dưới mặt nước biển 1500 mét .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>JANET NAPOLITANO : " This is a spill of national significance . "</s>
+<s id='vn5'>JANET NAPOLITANO : " Sự cố tràn dầu này là một thảm hoạ của quốc gia . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>That was Homeland Security Secretary Janet Napolitano , announcing a higher level of government action .</s>
+<s id='vn6'>Janet Napolitano , Bộ trưởng Bộ an ninh nội địa , ban bố hành động của chính phủ ở mức cao hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>President Obama on Thursday ordered federal officials to intensify efforts to deal with the huge spill .</s>
+<s id='vn7'>Vào ngày thứ năm , Tổng thống Obama đã ra lệnh những quan chức liên bang tăng cường nỗ lực xử lý vết dầu loang khổng lồ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The Deepwater Horizon oil drilling rig exploded and sank last week .</s>
+<s id='vn8'>Dàn khoan dầu Deepwater Horizon đã bị nổ và chìm xuống nước tuần trước .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Eleven workers are missing .</s>
+<s id='vn9'>Mười một công nhân bị mất tích .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>British Petroleum leased the rig , owned by Switzerland-based Transocean .</s>
+<s id='vn10'>British Petroleum đã thuê dàn khoan thuộc sở hữu của Transocean có trụ sở ở Thuỵ Sĩ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The president said again Friday that BP is " ultimately responsible " under the law for paying all the costs of response and cleanup operations .</s>
+<s id='vn11'>Tổng thống đã phát biểu lại hôm thứ Sáu rằng BP sẽ " chịu trách nhiệm cuối cùng " về mặt pháp lý trong việc thanh toán mọi chi phí cho đối phó và dọn dẹp sự cố tràn dầu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>BARACK OBAMA : " But we are fully prepared to meet our responsibilities to help all affected communities . "</s>
+<s id='vn12'>BARACK OBAMA : " Nhưng chúng ta luôn phải sẵn sàng chịu mọi trách nhiệm giúp đỡ tất cả những cộng đồng đang chịu thiệt hại . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>he has ordered a report in thirty days on what , if any , additional safety measures and technologies should be required to prevent future spills .</s>
+<s id='vn13'>Ông ấy đã yêu cầu trong 30 ngày phải trình báo cáo về những biện pháp và công nghệ an toàn bổ sung nhằm tránh sự cố tràn dầu trong tương lai .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Oil reached the coastline late Thursday near the mouth of the Mississippi River in the southern state of Louisiana .</s>
+<s id='vn14'>Dầu dạt vào bờ biển cuối ngày thứ Năm gần cửa sông Mississippi ở bang miền nam Louisiana .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This oil could also affect parts of Alabama , Florida , Mississippi and Texas .</s>
+<s id='vn15'>Tình trạng này cũng ảnh hưởng đến nhiều khu vực thuộc Alabama , Florida , Mississippi và Texas .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It threatens birds , fish , shrimp and other wildlife .</s>
+<s id='vn16'>Nó đe doạ các loài chim , cá , tôm và nhiều động vật hoang dã khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Seafood is a big industry along the gulf .</s>
+<s id='vn17'>Thuỷ hải sản là ngành công nghiệp lớn dọc bờ vịnh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Eric Drury is a shrimper but knows that his business is not the only one threatened .</s>
+<s id='vn18'>Eric Drury là một ngư dân đánh bắt tôm biết rõ rằng công việc làm ăn của anh ấy không phải là nạn nhân duy nhất chịu đe doạ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>ERIC DRURY : " Everybody 's in the same boat .</s>
+<s id='vn19'>ERIC DRURY : " Tất cả mọi người đều cùng hội cùng thuyền .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It 's going to hurt everything : oyster fisherman , everybody . "</s>
+<s id='vn20'>Nó sẽ gây thiệt hại đến tất cả : ngư dân , tất cả mọi người . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Workers have been placing long lengths of containment booms around the oil as winds and waves push it toward shore .</s>
+<s id='vn21'>Những công nhân đang lắp đặt những đoạn dài phao quây dầu tràn xung quanh khi sóng và gió đẩy nó về phía bờ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Cleanup efforts have included controlled burns .</s>
+<s id='vn22'>Nỗ lực dọn dẹp bao gồm cả việc kiểm soát vết cháy .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>And robotic submarines are being used to try to stop the leak -- a process that could take weeks .</s>
+<s id='vn23'>Và một tàu ngầm rô-bốt được sử dụng để cố ngăn chặn sự rò rỉ -- quá trình này có thể mất nhiều tuần .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>What caused the explosion was not known .</s>
+<s id='vn24'>Nguyên nhân vụ nổ chưa được xác định .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Also , the damaged well did not stop the flow of oil .</s>
+<s id='vn25'>Hơn nữa , giếng dầu bị hư hỏng tiếp tục làm tràn dầu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>At the end of March , President Obama called for the United States to expand offshore oil and gas exploration .</s>
+<s id='vn26'>Vào cuối tháng Ba , Tổng thống Obama yêu cầu Hoa Kỳ để mở rộng các thăm dò dầu và khí đốt ở ngoài khơi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>He said this plan would balance the need for energy with the need to protect natural resources .</s>
+<s id='vn27'>Ông nói kế hoạch này sẽ làm cân đối nhu cầu năng lượng với nhu cầu bảo vệ tài nguyên thiên nhiên .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Now the White House says there will be no additional drilling while the spill in the Gulf of Mexico is investigated .</s>
+<s id='vn28'>Hiện tại Nhà Trắng tuyên bố sẽ không có khoan dầu thêm trong khi điều tra sự cố tràn dầu ở Vịnh Méc xích .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Another issue facing the administration this was immigration .</s>
+<s id='vn29'>Vấn đề khác mà chính quyền này đang phải đối mặt là vấn đề nhập cư .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Federal law makes being in United States illegally a civil offense .</s>
+<s id='vn30'>Luật liên bang quy định định cư bất hợp pháp ở Hoa Kỳ là một sự vi phạm dân luật .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But a new state law in Arizona will make it's a crime .</s>
+<s id='vn31'>Nhưng một luật tiểu bang mới ở Arizona quy định rằng đó là một tội hình sự .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This law was signed last week and goes into effect in a few months .</s>
+<s id='vn32'>Luật này đã ký tuần trước và sẽ có hiệu lực trong vài tháng nữa .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Police could have to take action if they have a " reasonable suspicion " that someone is in this country illegally .</s>
+<s id='vn33'>Cảnh sát có thể sẽ phải hành động nếu họ " nghi ngờ có căn cứ " về một người nào đó đang cư trú bất hợp pháp tại nước này .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Supporters say this law will help reduce crime by illegal immigrants who cross the border from Mexico into Arizona .</s>
+<s id='vn34'>Người ủng hộ nói điều luật này sẽ giúp làm giảm tội ác do dân nhập cư bất hợp pháp vượt biên từ Mexico vào Arizona .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Critics say it will support racial discrimination .</s>
+<s id='vn35'>Những người chỉ trích thì nói rằng nó sẽ chỉ làm tăng thêm nạn phân biệt chủng tộc .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Some urge economic boycotts of the state .</s>
+<s id='vn36'>Một số người khác kêu gọi tẩy chay kinh tế ở tiểu bang này .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Different groups are moving to fight this new law in court , and the federal government could join them .</s>
+<s id='vn37'>Nhiều nhóm khác đang dự định kiện điều luật mới này ra toà , và chính quyền liên bang có thể đứng về phía họ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>President Obama calls this Arizona law " misguided " and said Congress needs to pass immigration reform .</s>
+<s id='vn38'>Tổng thống Obama cho rằng điều luật Arizona này " lầm đường lạc lối " và cho hay Quốc hội cần thông qua một sự cải cách về vấn đề di cư .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>But in this election year , that does not seem very likely to happen .</s>
+<s id='vn39'>Nhưng trong cuộc bầu cử năm nay , điều đó có vẻ hiếm có khả năng xảy ra .</s>
+</spair>
+</text>
+</doc>

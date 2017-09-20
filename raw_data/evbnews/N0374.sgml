@@ -1,0 +1,88 @@
+﻿<doc id='N0374'>
+<head>
+<title>Adobe , Oracle Plug Over 60 Security Vulnerabilities in Updates</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Adobe , Oracle Plug Over 60 Security Vulnerabilities in Updates</s>
+<s id='vn1'>Adobe , Oracle vá hơn 60 lỗ hổng bảo mật trong bản cập nhật</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Adobe Systems and Oracle joined Microsoft today in releasing security updates , fixing a total of 62 vulnerabilities between the two of them</s>
+<s id='vn2'>Hôm nay Adobe Systems và Oracle cùng với Microsoft phát hành bản cập nhật bảo mật , cùng vá tổng cộng 62 lỗ hổng giữa hai trong số ba hãng này</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft was n't the only company to issue security patches today .</s>
+<s id='vn3'>Ngày nay Microsoft không còn là công ty duy nhất đưa ra bản vá bảo mật .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Oracle and Adobe Systems pushed out updates to their products as well .</s>
+<s id='vn4'>Oracle và Adobe Systems cũng đã tung ra bản cập nhật cho các sản phẩm của họ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Oracle plugged 47 security holes in a massive update , the company 's second of the year .</s>
+<s id='vn5'>Oracle đã vá 47 lỗ hổng bảo mật bằng một bản cập nhật lớn , đây là lần cập nhật thứ hai trong năm của hãng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Sixteen of the Oracle vulnerabilities are tied to the Oracle Solaris ( formerly under Sun Microsystems ) product suite .</s>
+<s id='vn6'>16 lỗ hổng bảo mật của Oracle vẫn nằm trong bộ sản phẩm Oracle Solaris ( trước đây là thuộc công ty Sun Microsystems ) .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Eight of those 16 are remotely exploitable without user authentication .</s>
+<s id='vn7'>8 trong 16 lỗi này có thể được khai thác từ xa mà không cần xác nhận người dùng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Oracle also fixed eight bugs in its e-business suite portfolio , seven database vulnerabilities , one flaw in the Oracle Collaboration suite and five security fixes for Oracle Fusion Middleware .</s>
+<s id='vn8'>Oracle cũng đã vá 8 lỗi trong danh mục bộ phần mềm kinh doanh điện tử , 7 lỗ hổng cơ sở dữ liệu , 1 lỗi trong bộ phần mềm Oracle Collaboration và 5 bản vá bảo mật cho Oracle Fusion Middleware .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The update also included patches for four bugs in Oracle People Soft and JD Edwards Enterprise One Suite and six fixes for vulnerabilities in the Oracle Industry Applications Suite .</s>
+<s id='vn9'>Bản cập nhật cũng bao gồm bản vá cho 4 lỗi trong Oracle People Soft và JD Edwards Enterprise One Suite và 6 bản vá lỗ hổng bảo mật trong Oracle Industry Applications Suite .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Adobe meanwhile fixed 15 vulnerabilities in Adobe Reader and Acrobat and went forward with its plans for its new updater technology .</s>
+<s id='vn10'>Đồng thời Adobe cũng vá được 15 lỗ hổng trong Adobe Reader và Acrobat và tiến tới thực hiện kế hoạch phát triển cho công nghệ trình cập nhật mới của hãng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The feature , explained Adobe Security Product of Director and Privacy Brad Arkin , will help protect users by ensuring they are running the most current versions of Adobe software .</s>
+<s id='vn11'>Tính năng này theo Giám đốc bộ phận Bảo đảm về Bảo mật Sản phẩm của hãng Adobe Brad Arkin giải thích nó sẽ giúp bảo vệ người dùng bằng cách đảm bảo rằng họ đang chạy các phiên bản mới nhất của phần mềm Adobe .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Most users who ever encountered a security problem using Adobe products were attacked via a known vulnerability that was patched in more recent versions of the software , " he blogged .</s>
+<s id='vn12'>Ông đã viết trong blog rằng " Hầu hết những người dùng đã từng gặp vấn đề về bảo mật khi dùng các sản phẩm của Adobe đã bị tấn công thông qua một lỗ hổng đã phát hiện và đã được vá trong nhiều phiên bản phần mềm gần đây hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The new updater technology was designed to address part of this problem .</s>
+<s id='vn13'>Công nghệ của trình cập nhật mới được thiết kế để giải quyết phần nào vấn đề này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>With the new updater , Windows users will be able to set Adobe Reader and Acrobat to automatically download updates without any user interaction .</s>
+<s id='vn14'>Với trình cập nhật mới , người dùng Windows sẽ có thể thiết lập Adobe Reader và Acrobat tự động tải các bản cập nhật mà không cần bất cứ sự tương tác nào của người dùng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Qualys CTO Wolfgang Kandek said the feature should help slash the half-life - the time it takes to cut the occurrence of a vulnerability by half - for many users .</s>
+<s id='vn15'>Giám đốc công nghệ Qualys Wolfgang Kandek cho biết tính năng này sẽ giúp giảm bớt phân nửa chu kì cập nhật mà họ phải bỏ ra để giảm đi phân nữa sự xuất hiện một lỗ hổng cho nhiều người dùng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" The overall half-life for Adobe Reader is slightly over 60 days , compared to just under 30 days for all software , and under 15 days for core Operating System software , " he said .</s>
+<s id='vn16'>Ông ta cho biết " Nữa chu kì cập nhật toàn bộ cho Adobe Reader là nhỉnh hơn 60 ngày so với dưới 30 ngày cho tất cả phần mềm , và dưới 15 ngày dành cho phần mềm Hệ điều hành lõi " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" The silent updater will have a positive effect on updates for Adobe .</s>
+<s id='vn17'>Trình cập nhật ngầm sẽ có một ảnh hưởng khả quan đối với bản cập nhật cho Adobe .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>We see much better update performance on Adobe Reader v9 then for the mix of v9.8 and v7 and attribute that to the existing updater in v9 .</s>
+<s id='vn18'>Chúng tôi thấy hiệu suất cập nhật tốt hơn rất nhiều trên Adobe Reader v9 sau đó cho phiên bản hỗn hợp v9.8 và v7 và thuộc tính mà có trong trình cập nhật hiện có ở phiên bản v9 .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I would expect the silent updater to further increase this gap . "</s>
+<s id='vn19'>Tôi hi vọng bản cập nhật ngầm sẽ tăng thêm khoảng cách này . "</s>
+</spair>
+</text>
+</doc>

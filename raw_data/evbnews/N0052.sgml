@@ -1,0 +1,188 @@
+﻿<doc id='N0052'>
+<head>
+<title>China 's War for Ore</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China 's War for Ore</s>
+<s id='vn1'>Cuộc chiến giành quặng mỏ của Trung quốc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Business is being reshaped around the world .</s>
+<s id='vn2'>Kinh doanh đang được phục hồi ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>China was miffed by the outcome of what we last year called the corporate " deal of the century . "</s>
+<s id='vn3'>Trung Quốc phật ý vì kết quả của những gì mà năm ngoái chúng ta gọi là " vụ hợp tác làm ăn thế kỷ " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But shareholder interests preva iled .</s>
+<s id='vn4'>Nhưng quyền lợi của cổ đông thắng thế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>How often will that be said in the future ?</s>
+<s id='vn5'>Điều đó sẽ được phát biểu bao lâu một lần trong tương lai ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Politics , that ugly dynamic when mixed with business , was already back in play last week as Rio Tinto , an Australian mining giant at the heart of the controversy , saw four of its Chinese executives arrested in Shanghai on spying charges .</s>
+<s id='vn6'>Chính trị , động lực xấu xa khi liên quan đến kinh doanh , đã quay lại cuộc chơi hồi tuần trước khi Rio Tinto , một công ty khai thác mỏ lớn của Úc đang nằm ở tâm điểm của mối bất đồng , nhìn thấy bốn người điều hành Trung Quốc của nó bị bắt ở Thượng Hải với tội danh làm gián điệp .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>China says the busts are not retribution for the cancelled deal between Rio and a state-owned company , which received angry press in China .</s>
+<s id='vn7'>Trung Quốc nói việc bắt giữ không phải là sự trả thù cho vụ làm ăn bị hủy bỏ giữa Rio và một công ty quốc doanh , một vụ khiến cho giới thuyền thông của Trung Quốc phẫn nộ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Instead , the arrests supposedly arise from skullduggery by Rio officials during fraught annual ore-price negotiations with mainland steelmakers .</s>
+<s id='vn8'>Mà thay vào đó , vụ bắt bớ được cho là phát sinh từ sự lừa bịp của các viên chức Rio trong cuộc đàm phán căng thẳng về giá quặng hằng năm với nhà sản xuất thép ở đại lục .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But the distinction may be irrelevant .</s>
+<s id='vn9'>Nhưng phân biệt này có thể là không liên quan .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Ore has become a major neuralgic concern for China .</s>
+<s id='vn10'>Quặng đã trở thành nỗi lo âu lớn làm đau đầu Trung Quốc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It sees its dependence on imported supply as strategically risky .</s>
+<s id='vn11'>Đất nước này xem sự phụ thuộc của mình về nguồn nhập khẩu như sự rủi ro về chiến lược .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It fears that its massive attempts to " stimulate " domestic job growth are being drained off as fatter profits for Australian mining companies .</s>
+<s id='vn12'>Nó sợ rằng những nỗ lực to lớn của nó nhằm " kích thích " gia tăng công ăn việc làm trong nước đang chuyển thành lợi nhuận béo bở hơn cho các công ty khai khoáng của Úc .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>When the intrigue is unraveled , moreover , do n't be surprised if the arrests are partly aimed at corralling the mainland 's own restive steelmakers , many of whom have not cooperated in Beijing 's ore strategy but have been striking their own spot market deals at higher prices .</s>
+<s id='vn13'>Hơn nữa , khi mưu đồ được làm sáng tỏ , thì không có gì ngạc nhiên khi hoạt động bắt giữ một phần nhắm đến việc thu tóm những nhà sản xuất thép ngang bướng riêng của đại lục , nhiều người trong số họ đã không hợp tác trong chiến lược quặng mỏ của Bắc Kinh nhưng đã và đang nhắm vào các giao dịch trên thị trường giao ngay của riêng họ với giá cao hơn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But let 's step back .</s>
+<s id='vn14'>Nhưng chúng ta hãy dừng lại suy nghĩ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Rio has been wrongfooted over and over lately amid the zigzagging of the world 's monetary conditions , whose chaos is now disastrously reshaping business- government relations globally ( think the Obama administration 's ownership of most of the Detroit auto industry ) .</s>
+<s id='vn15'>Gần đây Rio liên tục thực hiện những động tác giả giữa những biến đổi của tình hình tiền tệ thế giới , mà sự lộn xộn của những biến đổi này đang phục hồi một cách thảm hại quan hệ giữa giới kinh doanh và chính phủ toàn cầu ( nghĩ rằng quyền sở hữu hầu hết ngành công nghiệp xe hơi Detroit là của chính quyền Obama ) .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>When China was booming , Rio played coy in the face of a merger bid from fellow miner BHP Billiton 18 months ago , acknowledging the " industrial logic " of the deal but insisting the offering price was " several ballparks " short of fair value .</s>
+<s id='vn16'>Khi Trung Quốc đang bùng nổ , Rio tỏ vẻ kín đáo đối mặt với nỗ lực sáp nhập từ nhà khai thác mỏ đồng hội đồng thuyền BHP Billiton cách đây 18 tháng , thừa nhận " lô-gích của ngành " về thoả thuận này nhưng khăng khăng là giá đưa ra quá thấp so với giá hợp lý .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Oops .</s>
+<s id='vn17'>Tiếc quá .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>With the collapse of Lehman and the global meltdown , ore prices plummeted and BHP withdrew its bid .</s>
+<s id='vn18'>Với sự sụp đổ của Lehman và sự sụp đổ toàn cầu hoàn toàn , giá quặng tụt xuống và BHP không tham gia đấu thầu nữa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Suddenly , Rio needed its own debt bailout and turned to a company on the cash-rich mainland , state-owned Chinalco .</s>
+<s id='vn19'>Bất ngờ , Rio cần hành động để cứu nguy tài chính riêng của mình và hướng về công ty trên đại lục lắm tiền , Chinalco quốc doanh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Beijing was doubly pleased by the $ 19.5 billion Chinalco deal .</s>
+<s id='vn20'>Bắc Kinh hài lòng gấp đôi vì vụ làm ăn 19.5 tỉ đô-la Mỹ của Chinalco .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Not only was China getting ownership of Australian ore assets at a bargain price , but the deal also killed off any chance of a BHP merger , seen on the mainland as an Aussie plot to gouge China .</s>
+<s id='vn21'>Không chỉ là Trung Quốc nắm quyền sở hữu tài sản quặng của Úc với giá hời , mà vụ làm ăn cũng tiêu diệt mọi cơ hội sáp nhập với BHP , mà đại lục xem là âm mưu của Úc nhằm đục thủng Trung Quốc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Oops .</s>
+<s id='vn22'>Tiếc quá .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The Chinalco proposal ran into a buzzsaw of nationalist opposition in Australia .</s>
+<s id='vn23'>Kế hoạch của Chinalco đụng phải lưỡi cưa tròn của phe đối lập theo chủ nghĩa dân tộc ở châu Úc .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>And while a government review board dragged its feet , the delay allowed Ben Bernanke to rev up the monetary engine and China to launch its own massive stimulus .</s>
+<s id='vn24'>Và trong khi một ủy ban đánh giá đầu tư của chính phủ làm chậm chạp , thì sự trì hoãn này đã cho phép Ben Bernanke tăng cường cỗ máy in tiền và Trung Quốc cho ra mắt kích thích ồ ạt riêng của mình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Ore prices recovered .</s>
+<s id='vn25'>Giá quặng khôi phục .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A BHP joint venture was back on the table .</s>
+<s id='vn26'>Liên doanh với BHP quay lại bàn này .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In a jilting worthy of a Judy Blume novel , Rio last month dumped its Chinese savior and leapt into bed with its erstwhile Australian suitor .</s>
+<s id='vn27'>Trong một tiểu thuyết về kẻ phụ tình của Judy Blume , Rio tháng trước đã ruồng rẫy vị cứu tinh Trung quốc của nó và nhảy lên giường với người theo đuổi Úc ngày xưa của nó .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Now the Chinese naturally see dirty politics at work , but the deal was actually scuttled by Rio 's shareholders , who rightly saw more upside in BHP 's offer .</s>
+<s id='vn28'>Bây giờ Trung Quốc tự nhiên nhìn thấy chính trị bẩn thỉu can thiệp vào công việc , nhưng vụ làm ăn đã thực sự bị chấm dứt bởi cổ đông của Rio , người nhìn thấy một cách đúng đắn nhiều hứa hẹn hơn trong lời mời chào của BHP .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Yet it 's also true the Chinalco bid would likely eventually have been torpedoed by the Australian government .</s>
+<s id='vn29'>Tuy nhiên cũng đúng là việc đấu thầu của Chinalco sẽ có thể cuối cùng bị chính phủ Úc phá hoại .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Polls were running strongly against selling the country 's mineral patrimony to a company ultimately controlled by the Chinese Communist Party .</s>
+<s id='vn30'>Các cuộc thăm dò ý kiến dư luận đang được thực hiện cực lực phản đối việc bán tài nguyên khoáng sản của đất nước cho công ty bị kiểm soát tuyệt đối bởi Đảng Cộng sản Trung quốc .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Australia Prime Minister Kevin Rudd , who prides himself on being an old China hand , must have been overjoyed when this icky chalice was taken from his lips by Rio 's shareholders</s>
+<s id='vn31'>Thủ tướng Úc Kevin Rudd , người lấy làm tự hào là hiểu rõ Trung quốc , chắc hẳn vui mừng khôn xiết khi ly rượu bẩn thỉu này được cổ đông của Rio lấy ra khỏi môi ông ấy .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Yet the politics have only turned ickier since the Rio arrests .</s>
+<s id='vn32'>Tuy nhiên chính trị chỉ tỏ ra bẩn thỉu hơn kể từ các vụ bắt bớ Rio .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>And Beijing has other cards up its sleeve .</s>
+<s id='vn33'>Bắc Kinh có những quân bài khác giấu trong tay áo .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It can take its opposition to the BHP-Rio deal to Europe 's trustbusters , who voiced qualms about their earlier proposed tie-up .</s>
+<s id='vn34'>Nó có thể đưa đối thủ của nó trong vụ làm ăn BHP-Rio đến nhân viên chính phủ của Châu Âu , người có vẻ day dứt về thoả thuận đưa ra trước đây của họ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>China also can make use of its own new anti-monopoly law , which has already been used to punish the U.S. for blocking an oil deal .</s>
+<s id='vn35'>Trung Quốc cũng có thể sử dụng luật chống độc quyền mới của mình , đã được sử dụng để trừng phạt Hoa Kỳ vì ngăn chặn thoả thuận dầu lửa .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Earlier this year , Chinese regulators nixed Coca-Cola 's purchase of a local juicemaker on " competition " grounds that antitrust lawyers considered ludicrous .</s>
+<s id='vn36'>Đầu năm nay , quan chức Trung quốc bác bỏ việc Coca-Cola mua hãng sản xuất nước trái cây trong nước với lý do " cạnh tranh " mà các luật sư chống độc quyền cho là lố bịch .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>More disturbing , China has upped its ore purchases in recent weeks even as mainland growth seems to be slowing , suggesting an effort to lay in a stockpile for a longer showdown against Rio-BHP .</s>
+<s id='vn37'>Đáng ngại hơn nữa , Trung Quốc đã gia tăng mua quặng của nó trong những tuần vừa qua ngay khi tăng trưởng ở đại lục dường như đang chậm lại , điều này cho thấy một nỗ lực nhằm để dành kho dự trữ cho cuộc đối đầu lâu dài hơn chống lại Rio-BHP .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>If the Rio arrests mark the beginning of a Chinese war to remake the global ore market more to China 's liking , Beijing might want to think again .</s>
+<s id='vn38'>Nếu các vụ bắt bớ Rio đánh dấu bước khởi đầu cuộc chiến của Trung quốc để thiết lập lại một thị trường quặng toàn cầu hợp ý Trung Quốc hơn , thì Bắc Kinh có lẽ phải nghĩ lại .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Its clumsy attempt to make computer makers instruments of Internet censorship was not exactly confidence-inspiring .</s>
+<s id='vn39'>Sự cố gắng vụng về của nó trong việc biến các nhà sản xuất máy tính thành công cụ kiểm duyệt mạng Internet không hề mang lại cảm giác tự tin .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Ensuring nobody wants to do a business deal with China for fear of being charged with a death penalty crime hardly improves the case .</s>
+<s id='vn40'>Chắc chắn chẳng ai muốn làm ăn kinh doanh với Trung Quốc vì sợ bị kết tội tử hình thì khó lòng cải thiện được tình hình này .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Then there 's the epic civil disorder in Xinjiang .</s>
+<s id='vn41'>Sau đó có bạo loạn dân sự quy mô lớn ở Tân Cương .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The final casualty may be China 's overblown reputation for macroeconomic competence , on which so many hopes for global recovery depend .</s>
+<s id='vn42'>Tổn thất cuối cùng có thể là danh tiếng được thổi phồng quá mức của Trung quốc về khả năng kinh tế vĩ mô , dựa trên quá nhiều hy vọng cho sự khôi phục toàn cầu .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>There are already signs its stimulus efforts are running off the rails .</s>
+<s id='vn43'>Rồi có dấu hiệu nỗ lực kích thích của nó đang trật đường ray .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The world might appreciate a signal right now that China 's government actually knows what it 's doing .</s>
+<s id='vn44'>Thế giới hẳn sẽ cảm kích nếu ngay bây giờ có một tín hiệu cho thấy chính phủ Trung Quốc thực sự hiểu được điều nó đang làm .</s>
+</spair>
+</text>
+</doc>

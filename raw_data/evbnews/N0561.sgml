@@ -1,0 +1,188 @@
+﻿<doc id='N0561'>
+<head>
+<title>Nail-Biting</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Nail-Biting</s>
+<s id='vn1'>Cắn móng tay</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Nail-biting ( onychophagia ) is a common stress-relieving habit .</s>
+<s id='vn2'>Cắn móng tay ( tật gặm móng tay ) là một thói quen làm giảm căng thẳng thường gặp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>You may bite your nails in times of stress or excitement , or in times of boredom or inactivity .</s>
+<s id='vn3'>Bạn có thể sẽ cắn móng tay trong những lúc căng thẳng hay phấn khích , hay lúc bạn buồn chán không có việc gì làm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It can also be a learned behavior from family members .</s>
+<s id='vn4'>Đó cũng là một thói quen bắt chước từ những người thân trong gia đình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Nail-biting is the most common of the typical " nervous habits " , which include thumb-sucking , nose-picking , hair-twisting or -pulling , tooth-grinding , and picking at skin .</s>
+<s id='vn5'>Cắn móng tay là thói quen biểu hiện khi căng thẳng thường gặp nhất , những thói quen đó bao gồm mút ngón tay , ngoáy mũi , xoắn hay giật tóc , nghiến răng và lột da .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You may bite your nails without realizing you are doing it .</s>
+<s id='vn6'>Có thể bạn sẽ cắn móng tay mà không nhận ra là mình đang làm vậy .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>You might be involved in another activity , such as reading , watching television , or talking on the phone , and bite your nails without thinking about it .</s>
+<s id='vn7'>Bạn cắn móng tay một cách không chủ ý khi bạn đang làm những hoạt động khác ví dụ như là đọc sách , coi ti-vi hay nói chuyện điện thoại .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Nail-biting includes biting the cuticle and soft tissue surrounding the nail as well as biting the nail itself .</s>
+<s id='vn8'>Cắn móng tay bao gồm việc gặm móng cũng như lớp biểu bì và mô mềm bao quanh móng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Who bites their nails ?</s>
+<s id='vn9'>Những người nào cắn móng tay ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>People of all ages bite their nails</s>
+<s id='vn10'>Mọi người đều cắn móng tay .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>About 50 % of children between the ages of 10 and 18 bite their nails at one time or another .</s>
+<s id='vn11'>Khoảng 50% trẻ em ở độ tuổi từ 10 - 18 cắn móng tay trong một khoảng thời gian nào đó .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Nail-biting occurs most often as teens are going through puberty changes .</s>
+<s id='vn12'>Việc cắn móng tay xảy ra thường xuyên nhất khi trẻ vị thành niên trải qua các thay đổi của lứa tuổi dậy thì .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>About 23 % of young adults , ages 18 to 22 years , bite their nails .</s>
+<s id='vn13'>Khoảng 23% thanh niên tuổi từ 18 đến 22 cũng cắn móng tay .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Only a small number of other adults bite their nails .</s>
+<s id='vn14'>Chỉ một số ít người trưởng thành không cắn móng tay .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Most people stop biting their nails on their own by age 30 .</s>
+<s id='vn15'>Hầu hết mọi người thôi không cắn móng tay vào khoảng độ tuổi 30 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>About 10% of men over the age of 30 bite their nails .</s>
+<s id='vn16'>Khoảng 10% đàn ông sau 30 tuổi vẫn còn cắn móng tay .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Boys bite their nails more often than girls after age 10 .</s>
+<s id='vn17'>Sau 10 tuổi , con trai thường cắn móng tay hơn so với con gái .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Nail-biting may occur with other body-focused repetitive behaviors ( BFRB ) such as hair-pulling or skin-picking .</s>
+<s id='vn18'>Cắn móng tay có thể xảy ra cùng với các thói sờ mó hiện bộ khác ( BFRB ) như thói quen giật tóc , lột da .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>What treatments are available for nail-biting ?</s>
+<s id='vn19'>Những cách nào giúp bỏ tật cắn móng tay ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Several treatment measures may help you stop biting your nails .</s>
+<s id='vn20'>Có rất nhiều cách có thể giúp bạn thôi cắn móng tay .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Some focus on behavior changes and some focus on physical barriers to nail-biting .</s>
+<s id='vn21'>Một số cách tập trung vào việc thay đổi thói quen và một số thì dùng các biện pháp tự nhiên để ngăn chặn thói quen cắn móng tay .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Keep your nails trimmed and filed .</s>
+<s id='vn22'>Giữ móng tay luôn được cắt ngắn và sạch sẽ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Taking care of your nails can help reduce your nail-biting habit and encourage you to keep your nails attractive .</s>
+<s id='vn23'>Việc chăm sóc móng tay có thể giúp làm giảm thói quen cắn móng tay và khích lệ bạn giữ cho móng tay mình trông dễ nhìn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Have a manicure regularly or use nail polish .</s>
+<s id='vn24'>Cắt móng tay thường xuyên hoặc dùng sơn móng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Men can use a clear polish .</s>
+<s id='vn25'>Nam giới có thể dùng sơn không màu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Wearing artificial nails may stop you from biting your nails and protect them as they grow out .</s>
+<s id='vn26'>Đeo móng tay giả có thể ngăn bạn không cắn móng tay và bảo vệ móng khi chúng dài ra .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Try stress-management techniques if you bite your nails because you are anxious or stressed .</s>
+<s id='vn27'>Nếu bạn cắn móng tay là do bạn bị lo âu hay căng thẳng thì hãy thử học các kỹ năng kiểm soát căng thẳng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Paint a bitter-tasting polish , such as CONTROL-IT or Thum , on your nails .</s>
+<s id='vn28'>Dùng sơn móng tay có vị đắng sơn lên móng tay của bạn , ví dụ như CONTROL-IT hay Thum .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The awful taste will remind you to stop every time you start to bite your nails</s>
+<s id='vn29'>Vị khó chịu đó sẽ ngăn bạn cắn móng tay mỗi khi bạn vừa bắt đầu .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Try substituting another activity , such as drawing or writing or squeezing a stress ball or Silly Putty , when you find yourself biting your nails .</s>
+<s id='vn30'>Cố gắng làm các hoạt động khác , ví dụ như vẽ , viết , cầm bóp 1 quả bóng dẻo hay món đồ chơi Silly Putty , khi bạn thấy là mình đang cắn móng tay .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you keep a record of nail-biting , you will become more aware of the times when you bite your nails and be able to stop the habit .</s>
+<s id='vn31'>Nếu bạn để ý đến việc cắn móng tay , bạn sẽ nhận thức được là mình cắn móng tay của mình và có thể ngừng thói quen đó lại .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Wear gloves , adhesive bandages , or colored stickers whenever possible to remind you not to bite your nails .</s>
+<s id='vn32'>Đeo bao tay , băng dính hay dùng các giấy ghi chú nhiều màu sắc nếu cần để nhắc nhở bản thân không cắn móng tay .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Snap a rubber band on the inside of your wrist when you start to bite your nails so you have a negative physical response to nail-biting .</s>
+<s id='vn33'>Đeo một dây thun ở mặt trong cổ tay khi bạn bắt đầu cắn móng tay để bạn có phản ứng chống lại việc cắn móng tay .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Children may bite their nails more often when they are having problems at school or with friends .</s>
+<s id='vn34'>Trẻ em có thể sẽ cắn móng tay thường xuyên hơn khi chúng gặp rắc rối ở trường hoặc với bạn bè .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Talk with your child or his or her teacher about any new stress at school .</s>
+<s id='vn35'>Hãy trò chuyện với trẻ hoặc giáo viên của chúng về bất kỳ sức ép nào ở trường học .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Children are more likely to stop biting their nails when they understand what may trigger it .</s>
+<s id='vn36'>Trẻ em sẽ dễ ngưng cắn móng tay hơn khi chúng hiểu được lý do gây nên tật xấu đó .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>It is also important for your child to help choose a treatment method so he or she can use the treatment successfully .</s>
+<s id='vn37'>Việc giúp trẻ lựa chọn một cách thức để giúp bỏ thói quen đó cũng quan trọng vì trẻ sẽ áp dụng điều đó thành công .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>What problems can develop from nail-biting ?</s>
+<s id='vn38'>Cắn móng tay sẽ dẫn đến những hậu quả gì ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Nail-biting can cause your fingertips to be red and sore and your cuticles to bleed .</s>
+<s id='vn39'>Cắn móng tay có thể làm cho đầu ngón tay đỏ , đau và chảy máu lớp biểu bì .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Nail-biting also increases your risk for infections around your nailbeds and in your mouth .</s>
+<s id='vn40'>Cắn móng tay cũng làm tăng nguy cơ nhiễm trùng quanh nền móng và cả nhiễm trùng trong miệng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Dental problems and infections of the gums can be caused by nail-biting .</s>
+<s id='vn41'>Cắn móng tay cũng có thể gây ra các vấn đề răng miệng và viêm lợi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Long-term nail-biting can also interfere with normal nail growth and cause deformed nails .</s>
+<s id='vn42'>Về lâu dài , cắn móng tay cũng cản trở sự sinh trưởng bình thường của móng và gây ra dị tật cho móng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Rarely , nail-biting may be a symptom of obsessive-compulsive disorder ( OCD ) .</s>
+<s id='vn43'>Trong trường hợp hiếm , cắn móng tay có thể là một triệu chứng của rối loạn ám ảnh - cưỡng bức ( một dạng rối loạn nhân cách ) .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>OCD symptoms are usually treated with medications .</s>
+<s id='vn44'>Các triệu chứng rối loạn ám ảnh - cưỡng bức thì cần được chữa trị bằng thuốc .</s>
+</spair>
+</text>
+</doc>

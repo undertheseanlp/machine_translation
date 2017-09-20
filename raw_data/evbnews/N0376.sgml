@@ -1,0 +1,100 @@
+﻿<doc id='N0376'>
+<head>
+<title>More evidence that virtual desktops are trending up</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>More evidence that virtual desktops are trending up</s>
+<s id='vn1'>Nhiều dấu hiệu cho thấy máy tính ảo đang có xu hướng gia tăng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Researcher Jefferies Co. reports that in its latest survey , 44 percent of the enterprise reseller respondents - the highest figure yet in this category - said they believe there is high interest in virtualizing hundreds or thousands of corporate desktops across an IT system .</s>
+<s id='vn2'>Công ty nghiên cứu Jefferies Co. báo cáo rằng trong cuộc khảo sát mới nhất có 44 phần trăm câu trả lời từ đại lý của doanh nghiệp - con số cao nhất cho đến nay trong phạm trù này - cho biết họ tin là có sự quan tâm cao đến việc ảo hoá hàng trăm hoặc hàng ngàn máy tính của công ty thông qua hệ thống CNTT .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>VMware , which makes a hypervisor that is present in most of the world 's largest IT systems and which will reveal its quarterly numbers April 20 , is certainly a leading figure in the virtualization software business .</s>
+<s id='vn3'>Vmware tạo ra một công nghệ ảo hoá có mặt trong hầu hết của các hệ thống CNTT lớn nhất thế giới và sẽ tiết lộ con số từng quý vào ngày 20 4 , chắc chắn sẽ là con số dẫn đầu trong lĩnh vực kinh doanh phần mềm ảo hoá .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>However , other market indicators are coming to the fore , and most of them are pointing to one very clear trend : Virtual desktops are picking up momentum in replacing conventional client server desktops .</s>
+<s id='vn4'>Tuy nhiên , những chỉ báo thị trường khác đang dẫn đầu và hầu hết họ đang nhắm đến một xu hướng rất rõ ràng : máy tính ảo đang bắt kịp đà để thay thế những máy khách máy chủ truyền thống .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Jefferies Co. came out with some virtualization research April 19 , reporting that 44 percent of enterprise reseller respondents to its latest survey - the highest figure yet in this category - said they believe there is high interest in virtualizing hundreds or thousands of corporate desktops across an IT system .</s>
+<s id='vn5'>Jefferies Co. đưa ra một số nghiên cứu ảo hoá vào ngày 19 4 , cho biết rằng có 44 phần trăm câu trả lời từ nhà bán lẻ của doanh nghiệp cho cuộc khảo sát mới nhất của họ - con số cao nhất cho đến nay trong phạm trù này - đã cho biết rằng họ tin là có mối quan tâm cao trong việc ảo hoá hàng trăm hoặc hàng ngàn máy tính của công ty thông qua hệ thống CNTT .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" VMware is heavily marketing their products , and their efforts seem to be resulting in increased awareness of both their solution and Citrix 's , " Jefferies said in its executive summary .</s>
+<s id='vn6'>" VMware đang tiếp thị một cách mạnh mẽ về các sản phẩm của họ và nổ lực này dường đem lại kết quả trong việc làm gia tăng nhận thức về cả giải pháp của họ và của Citrix " , Jefferies cho biết trong bản tóm lược điều hành .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Some VARs see VDI as the next logical step after application virtualization . "</s>
+<s id='vn7'>" Một số VAR xem giải pháp VDI như bước đi logic kế tiếp sau việc ảo hoá ứng dụng " .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>VMware and Citrix Systems have been Nos. 1 and 2 in the VDI market for the past several years , according to IT research companies Gartner , IDC , The 451 Group and Forrester .</s>
+<s id='vn8'>Theo các công ty nghiên cứu CNTT Gartner , IDC , 451 Group và Forrester thì VMware và Citrix Systems lần lượt đứng vị trí số 1 và 2 trong thị trường VDI trong nhiều năm qua .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The main cause of this trend ?</s>
+<s id='vn9'>Nguyên nhân chính của xu hướng này là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Frankly , many companies are rethinking the conventional client server desktop setup and beginning to see it as a thing of the past , as yearly licensing becomes a drag on expenses and as software upgrades and weekly security patching continue to be thorns in the sides of IT administrators .</s>
+<s id='vn10'>Thực ra , nhiều công ty đang cân nhắc lại việc thiết lập máy khách chủ truyền thống và bắt đầu xem nó như một thứ của dĩ vãng , khi giấy phép hàng năm trở thành một gánh nặng về chi phí và khi nâng cấp phần mềm , cập nhật bản vá bảo mật hàng tuần tiếp tục trở thành các khó khăn cho phía các quản trị viên CNTT .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The main objections to VDI in the past have been performance issues , such as latency , and the expensive overall entry to the technology .</s>
+<s id='vn11'>Những sự phản đối chính với VDI trong quá khứ là vấn đề hiệu suất chẳng hạn như sự chậm trễ và các hạng mục công nghệ tổng thể đắt tiền .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Virtualization of corporate desktops is a major paradigm shift from conventional single-purpose desktop computers and servers .</s>
+<s id='vn12'>Ảo hoá trong các máy tính của công ty là một mô hình chuyển từ các máy chủ và máy tính để bàn chuyên dụng truyền thống .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Like virtualized servers and storage arrays , VDI uses a centralized pool of computing power - either inside a data center or from cloud computing services - that encompasses any number of desktop workstations , enabling performance gains and a lessening of the electrical energy used to run them .</s>
+<s id='vn13'>Giống như các máy chủ ảo và các mảng lưu trữ , VDI sử dụng nguồn sức mạnh điện toán tập trung - bên trong trung tâm dữ liệu hoặc từ các dịch vụ điện toán đám mây - bao gồm một số máy trạm , cho phép tăng hiệu suất và giảm bớt điện năng được sử dụng để chạy chúng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>New companies such as Kaviza , NComputing and Parallels offer lower-cost VDI alternatives for small and midsize businesses , while market leaders Hewlett-Packard , VMware and Citrix aim for larger enterprises .</s>
+<s id='vn14'>Những công ty mới như là Kaviza , Ncomputing và Parallels cung cấp các giải pháp VDI có chi phí thấp hơn cho các doanh nghiệp vừa và nhỏ , trong khi các nhà dẫn đầu trên thị trường là Hewlett-Packard , Vmware và Citrix nhắm đến các doanh nghiệp lớn hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Kaviza provides built-in high availability , does not require shared storage and is a turnkey deployment .</s>
+<s id='vn15'>Kaviza cung cấp tính sẵn sàng hoạt động cao , không đòi hỏi lưu trữ chia sẻ và là sự triển khai trọn gói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>NComputing offers a performance-based , hardwired VDI that it says is ideal for classrooms of up to 30 users .</s>
+<s id='vn16'>Ncomputing cung cấp một giải pháp VDI nối cứng dựa trên hiệu suất mà họ cho biết sẽ lý tưởng cho các phòng học lên đến 30 người dùng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Parallels ' offering features enterprise-class manageability tools while maintaining a familiar-looking user interface .</s>
+<s id='vn17'>Parallel cung cấp các tính năng cho các công cụ có khả năng quản lí ở mức doanh nghiệp trong khi đó vẫn duy trì giao diện người dùng thân thiện .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Windows 7 upgrades are causing IT departments to reassess their entire desktop infrastructure , " Jefferies said .</s>
+<s id='vn18'>Jefferies cho biết " Bản nâng cấp Windows 7 làm cho các lĩnh vực CNTT đánh giá lại toàn bộ cơ sở hạ tầng máy tính của họ " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Ironically , some customers are looking to use VDI as a way to increase life of their existing hardware .</s>
+<s id='vn19'>Trớ trêu thay , một số khách hàng đang tìm cách sử dụng VDI như một cách để tăng tuổi thọ của phần cứng hiện có của họ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>IT buyers in health care and education verticals are the most frequently cited users of VDI , mostly due to their interest in sharing hardware among diverse end users as way to save money .</s>
+<s id='vn20'>Khách hàng CNTT trong lĩnh vực chăm sóc sức khỏe và giáo dục là những người dùng VDI được trích dẫn thường xuyên nhất , chủ yếu vì mối quan tâm của họ về việc chia sẻ phần cứng giữa những người dùng cuối khác nhau như là một cách để tiết kiệm tiền .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Jefferies said resellers expect virtualization software sales in 2010 to increase about 13 percent over 2009 .</s>
+<s id='vn21'>Jefferies cho biết các nhà bán lẻ mong đợi phần mềm ảo hoá bán được vào năm 2010 tăng khoảng 13 phần trăm so với năm 2009 .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The researcher said the high expectations for virtualization are due largely to the improving world economy and resultant loosening of IT budgets .</s>
+<s id='vn22'>Nhà nghiên cứu cho biết mong đợi lớn nhất dành cho ảo hoá là hưởng thụ phần lớn từ nền kinh tế thế giới được cải thiện và việc nới lỏng ngân sách CNTT .</s>
+</spair>
+</text>
+</doc>

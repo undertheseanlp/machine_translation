@@ -1,0 +1,288 @@
+﻿<doc id='N0478'>
+<head>
+<title>When your parents fight</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>When your parents fight</s>
+<s id='vn1'>Khi bố mẹ bạn tranh cãi</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's normal for parents to disagree and argue .</s>
+<s id='vn2'>Bố mẹ đôi khi cũng bất đồng và tranh cãi , điều ấy hoàn toàn bình thường thôi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Parents might disagree about money , home chores , or how to spend time .</s>
+<s id='vn3'>Bố mẹ có thể bất đồng về tiền bạc , công việc vặt trong nhà , hoặc cách dùng thì giờ như thế nào .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>They might disagree about big things - like important decisions they need to make for the family .</s>
+<s id='vn4'>Bố mẹ có thể không đồng nhất nhau nhiều chuyện lớn - như những quyết định quan trọng đối với gia đình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They might even disagree about little things that do n't seem important at all - like what 's for dinner or what time someone gets home .</s>
+<s id='vn5'>Thậm chí là những chuyện nhỏ nhặt , không quan trọng thì họ cũng có thể bất đồng - như bữa tối ăn gì hoặc mấy giờ thì về nhà .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Sometimes parents can disagree with each other and still manage to talk about it in a calm way , where both people get a chance to listen and to talk .</s>
+<s id='vn6'>Bố mẹ đôi khi cũng có thể bất đồng và vẫn cố nói chuyện với nhau một cách bình tĩnh , cả hai người vẫn còn được nói và được nghe .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But many times when parents disagree , they argue .</s>
+<s id='vn7'>Nhưng cũng lắm lần khi bố mẹ không đồng quan điểm thì họ cãi nhau .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>An argument is a fight using words .</s>
+<s id='vn8'>Cuộc cãi vã ấy là cuộc đấu khẩu bằng lời .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Most kids worry when their parents argue .</s>
+<s id='vn9'>Hầu hết trẻ con đều cảm thấy bất an khi bố mẹ cãi nhau .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Loud voices and angry words parents might use can make kids feel scared , sad , or upset .</s>
+<s id='vn10'>Sự to tiếng , lời nói giận dữ có thể khiến cho trẻ sợ hãi , buồn bã , hoặc khó chịu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Even arguments that use silence - like when parents act angry and do n't talk to each other at all - can be upsetting for kids .</s>
+<s id='vn11'>Thậm chí là những cuộc cãi vã ngầm - như khi bố mẹ cư xử nóng giận và không nói với nhau một lời nào - thì cũng có thể làm cho trẻ cảm thấy khó chịu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>If the argument has anything to do with the kids , kids might think they have caused their parents to argue and fight .</s>
+<s id='vn12'>Nếu cuộc đấu khẩu của bố mẹ có dính dáng đến trẻ thì chúng có thể nghĩ là do mình mà bố mẹ mới cãi vã và lục đục .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If kids think it 's their fault , they might feel guilty or even more upset .</s>
+<s id='vn13'>Nếu trẻ nghĩ đó là lỗi của mình thì chúng cũng có thể cảm thấy tội lỗi hoặc thậm chí còn khó chịu hơn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But parents ' behavior is never the fault of kids .</s>
+<s id='vn14'>Nhưng hành vi của bố mẹ thì chưa bao giờ là lỗi của con cả .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>What does it mean when parents fight ?</s>
+<s id='vn15'>Khi bố mẹ cãi nhau , có nghĩa là gì ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Kids often worry about what it means when parents fight .</s>
+<s id='vn16'>Trẻ con thường lo lắng không biết bố mẹ mình cãi nhau là có ý gì .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>They might jump to conclusions and think arguments mean their parents do n't love each other anymore.</s>
+<s id='vn17'>Chúng cũng có thể vội kết luận và nghĩ là bố mẹ không còn thương yêu nhau nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They might think it means their parents will get a divorce .</s>
+<s id='vn18'>Trẻ có thể nghĩ điều đó có nghĩa là bố mẹ chúng sẽ ly hôn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But parents ' arguments usually do n't mean that they do n't love each other or that they 're getting a divorce .</s>
+<s id='vn19'>Nhưng bố mẹ cãi nhau thường không có nghĩa là họ không còn thương yêu nhau nữa hoặc bố mẹ sắp ly hôn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Most of the time the arguments are just a way to let off steam when parents have a bad day or feel stressed out over other things .</s>
+<s id='vn20'>Hầu hết bất cứ khi nào bố mẹ gây gổ là chỉ là cách để giảm áp lực khi gặp phải một ngày xui xẻo hoặc căng thẳng vì điều gì đó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Most people lose their cool now and then .</s>
+<s id='vn21'>Phần đông người ta mất bình tĩnh vì chuyện này chuyện khác .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Just like kids , when parents get upset they might cry , yell , or say things they do n't really mean .</s>
+<s id='vn22'>Cũng giống như trẻ con , khi bố mẹ cảm thấy khó chịu thì họ cũng có thể khóc lóc , la lối , hoặc nói ra điều mà thực sự là không có ý như vậy .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Sometimes an argument might not mean anything except that one parent or both just lost their temper .</s>
+<s id='vn23'>Đôi khi cuộc cãi vã có thể là không có gì hết mà chỉ là một người trong bố mẹ hoặc cả hai nổi nóng thôi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Just like kids , parents might argue more if they 're not feeling their best or are under a lot of stress from a job or other worries .</s>
+<s id='vn24'>Giống như trẻ con , bố mẹ cũng có thể cãi vã nhiều hơn khi cảm thấy không khoẻ khoắn hoặc chịu nhiều áp lực từ công việc hoặc nhiều mối bận tâm khác .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>How do kids feel when their parents fight ?</s>
+<s id='vn25'>Trẻ con cảm thấy như thế nào khi bố mẹ cãi nhau ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Kids usually feel upset when they see or hear parents arguing .</s>
+<s id='vn26'>Trẻ con thường cảm thấy khó chịu khi chứng kiến hoặc nghe bố mẹ cãi nhau .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It 's hard to hear the yelling and the unkind words .</s>
+<s id='vn27'>Nghe tiếng gào thét và những lời lẽ chẳng tử tế gì thì quả là điều không dễ dàng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Seeing parents upset and out of control can make kids feel unprotected and scared .</s>
+<s id='vn28'>Việc tận mắt thấy bố mẹ cáu có và mất bình tĩnh có thể khiến cho trẻ cảm thấy sợ hãi và không được bảo vệ nữa .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Kids might worry about one parent or the other during an argument .</s>
+<s id='vn29'>Trẻ có thể lo lắng về bố hoặc mẹ khi họ cãi nhau .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They might worry that one parent may feel especially sad or hurt because of being yelled at by the other parent .</s>
+<s id='vn30'>Chúng sợ rằng một trong bố mẹ có thể cảm thấy hết sức buồn bã hoặc tổn thương vì bị người kia la hét .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>They might worry that one parent seems angry enough to lose control .</s>
+<s id='vn31'>Chúng cũng sợ bố hoặc mẹ có thể nóng giận và mất bình tĩnh .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Sometimes parents ' arguments make kids cry or give them a stomachache .</s>
+<s id='vn32'>Đôi khi bố mẹ cãi nhau cũng làm cho trẻ khóc hoặc bị đau dạ dày .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Worry from arguments can even make it hard for a kid to go to sleep or go to school .</s>
+<s id='vn33'>Tâm trạng lo âu vì bố mẹ cãi cọ thậm chí có thể làm trẻ khó ngủ hoặc khó đi học được .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>What to do when parents fight</s>
+<s id='vn34'>Làm gì khi bố mẹ cãi nhau</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It 's important to remember that the parents are arguing or fighting , not the kids .</s>
+<s id='vn35'>Điều quan trọng nên nhớ là bố mẹ cãi cọ hoặc lục đục với nhau chứ không phải trẻ con .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>So the best thing to do is to stay out of the argument and go somewhere else in the house to get away from the fighting or arguing .</s>
+<s id='vn36'>Vì vậy tốt hơn hết là nên tránh xa và đi chỗ khác trong nhà để khỏi nghe cãi vã hoặc lục đục như thế .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So go to your room , close the door , find something else to do until it is over .</s>
+<s id='vn37'>Hãy vào phòng , đóng kín cửa lại , tìm thứ gì khác để làm cho đến khi bố mẹ cãi nhau xong .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>It 's not the kid 's job to be a referee .</s>
+<s id='vn38'>Trẻ con không có nhiệm vụ làm trọng tài đâu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>When parents ' fighting goes too far</s>
+<s id='vn39'>Khi chuyện cãi cọ của bố mẹ đi quá xa</s>
+</spair>
+<spair id='40'>
+<s id='en40'>When parents argue , there can be too much yelling and screaming , name calling , and too many unkind things said .</s>
+<s id='vn40'>Khi bố mẹ cãi vã , có thể có rất nhiều tiếng la hét , gào thét , gọi tên , và những điều chẳng mấy tử tế gì cũng được nói ra .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Even though many parents may do this , it 's never OK to treat people in your family with disrespect , use unkind words , or yell and scream at them .</s>
+<s id='vn41'>Mặc dù nhiều bố mẹ có thể nặng lời với nhau đấy , nhưng không bao giờ được đối xử với người thân trong gia đình mình với thái độ vô lễ , nói năng không đàng hoàng , hoặc la mắng và gào thét với họ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Sometimes parents ' fighting may go too far , and include pushing and shoving , throwing things , or hitting .</s>
+<s id='vn42'>Đôi khi chuyện cãi vã của bố mẹ cũng có thể đi quá xa , như xô xát và ẩu đả , quăng nhiều thứ , hay cả đánh nhau nữa .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>These things are never OK .</s>
+<s id='vn43'>Những điều này không bao giờ chấp nhận được .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>When parents ' fights get physical in these ways , the parents need to learn to get their anger under control .</s>
+<s id='vn44'>Khi cuộc cãi cọ đến hồi " thượng cẳng chân hạ cẳng tay " như thế này thì bố mẹ nên học cách kiềm nén cơn nóng giận của mình lại .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>They might need the help of another adult to do this .</s>
+<s id='vn45'>Một người lớn nào đó nên giúp bố mẹ thực hiện điều này .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Kids who live in families where the fighting goes too far can let someone know what 's going on .</s>
+<s id='vn46'>Trẻ sống trong những gia đình có chuyện cãi cọ , xô xát như vậy có thể nói cho người khác biết .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Talking to other relatives , a teacher , a school counselor , or any adult you trust about the fighting can be important .</s>
+<s id='vn47'>Việc thông báo cho họ hàng , giáo viên , nhân viên tư vấn nhà trường , hoặc bất kỳ một người lớn tuổi nào đó mà bạn tin tưởng về chuyện cãi cọ của bố mẹ có thể cũng rất quan trọng đấy .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If someone gets hurt</s>
+<s id='vn48'>Nếu có ai đó bị tổn thương</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Sometimes parents who fight can get so out of control that they hurt each other , and sometimes kids can get hurt , too .</s>
+<s id='vn49'>Đôi khi bố mẹ cãi cọ nhau có thể trở nên mất bình tĩnh làm tổn thương đến nhau và đôi khi còn làm tổn thương cho con trẻ nữa .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>If this happens , kids can let an adult know , so that the family can be helped and protected from fighting in a way that hurts people .</s>
+<s id='vn50'>Nếu có , thì trẻ có thể cho người lớn biết để gia đình có thể được giúp đỡ và ngăn tình trạng cãi vã làm tổn thương nhiều người .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>If fighting is out of control in a family , if people are getting hurt from fighting , or if people in the family are tired of too much fighting , there is help .</s>
+<s id='vn51'>Nếu chuyện cãi vã cứ thường xuyên xảy ra trong gia đình , và nhiều người bị tổn thương do mâu thuẫn đó , hoặc người thân trong gia đình đã quá mệt mỏi bởi quá nhiều chuyện cãi cọ thì cũng có cách giải quyết đấy .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Family counselors and therapists know how to help families work on problems , including fighting .</s>
+<s id='vn52'>Các nhà tư vấn gia đình , các nhà trị liệu sẽ biết cách giúp gia đình giải quyết những khúc mắc đó , bao gồm chuyện tranh cãi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>They can help by teaching family members to listen to each other and talk about feelings without yelling and screaming .</s>
+<s id='vn53'>Họ cũng có thể hướng dẫn cho các thành viên trong gia đình luôn biết cách lắng nghe và tâm sự về tình cảm , cảm xúc của mình mà không phải la hét hay gào thét gì .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Though it may take some work , time , and practice , people in families can always learn to get along better .</s>
+<s id='vn54'>Dẫu rằng việc làm này có thể mất nhiều công sức , thời gian , và nỗ lực duy trì , nhưng người ta có thể sẽ luôn biết cách hoà thuận với nhau hơn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Is it ok for parents to argue sometimes ?</s>
+<s id='vn55'>Bố mẹ đôi khi cũng cãi cọ với nhau , chuyện đó có bình thường không ?</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Having arguments once in a while can be healthy if it helps people get feelings out in the open instead of bottling them up inside .</s>
+<s id='vn56'>Chuyện tranh cãi đôi khi cũng có thể lành mạnh trong trường hợp giúp cho người ta giải toả cảm xúc một cách cởi mở thay vì phải đè nén , giữ chặt trong lòng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>It 's important for people in a family to be able to tell each other how they feel and what they think , even when they disagree .</s>
+<s id='vn57'>Điều quan trọng là người thân trong gia đình có thể nói ra được cảm xúc và suy nghĩ của mình , thậm chí khi họ không đồng quan điểm nào đó .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The good news about disagreeing is that afterward people usually understand each other better and feel closer .</s>
+<s id='vn58'>Một tin vui là sau khi tranh cãi với nhau xong , thường thì người ta hiểu nhau hơn và cảm thấy gần gũi hơn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Parents fight for different reasons .</s>
+<s id='vn59'>Có nhiều nguyên nhân khiến cho bố mẹ lục đục , bất hoà .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Maybe they had a bad day at work , or they 're not feeling well , or they 're really tired .</s>
+<s id='vn60'>Có thể là do bố mẹ gặp phải một ngày làm việc tồi tệ , hoặc cảm thấy không khỏe trong người , hoặc thực sự rất mệt mỏi .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Just like kids , when parents are n't feeling their best , they can get upset and might be more likely to argue .</s>
+<s id='vn61'>Cũng giống như trẻ con , khi bố mẹ không cảm thấy thoải mái , họ có thể khó chịu và có thể dễ dàng cãi nhau .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Most of the time , arguments are over quickly , parents apologize and make up , and everyone feels better again .</s>
+<s id='vn62'>Hầu như lúc nào cũng vậy , chuyện bất đồng của bố mẹ sẽ qua nhanh thôi , bố mẹ xin lỗi , làm lành với nhau và ai cũng lại thấy thoải mái hơn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Happy , healthy families</s>
+<s id='vn63'>Gia đình khỏe mạnh , hạnh phúc</s>
+</spair>
+<spair id='64'>
+<s id='en64'>No family is perfect .</s>
+<s id='vn64'>Không có một gia đình nào là hoàn hảo cả .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Even in the happiest home , problems pop up and people argue from time to time .</s>
+<s id='vn65'>Thậm chí là gia đình hạnh phúc nhất thì cũng có nhiều vấn đề nảy sinh và thỉnh thoảng người ta cũng tranh cãi và bất hoà .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Usually , the family members talk about what 's bothering them out in the open way .</s>
+<s id='vn66'>Người thân trong gia đình thường nói ra điều làm họ phiền toái một cách cởi mở .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Everyone feels better , and life can get back to normal .</s>
+<s id='vn67'>Ai cũng thấy thoải mái hơn và cuộc sống có thể trở lại bình thường .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Being part of a family means everyone pitches in and tries to make life better for each other .</s>
+<s id='vn68'>Là thành viên trong gia đình có nghĩa là ai cũng sẵn sàng giúp đỡ cho nhau và cố xây dựng cuộc sống tốt đẹp hơn cho nhau .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Arguments happen and that 's OK , but with love , understanding , and some work , families can solve almost any problem .</s>
+<s id='vn69'>Chuyện tranh cãi bất đồng đôi khi cũng xảy ra và điều đó hoàn toàn bình thường , nhưng với tình yêu , sự thông cảm , và công sức dành cho nhau thì gia đình có thể giải quyết ổn thoả hầu hết bất kỳ vấn đề nào xảy ra .</s>
+</spair>
+</text>
+</doc>

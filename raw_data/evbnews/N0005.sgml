@@ -1,0 +1,552 @@
+﻿<doc id='N0005'>
+<head>
+<title>Out of a world of darkness and silence , Helen Keller brought hope to millions</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Out of a world of darkness and silence , Helen Keller brought hope to millions</s>
+<s id='vn1'>Thoát khỏi thế giới của bóng tối và tĩnh lặng , Helen Keller đã mang hi vọng đến hàng triệu con người</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The name Helen Keller has had special meaning for millions of people in all parts of the world .</s>
+<s id='vn2'>Cái tên Helen Keller có một ý nghĩa đặc biệt đối với hàng triệu người khắp nơi trên thế giới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She could not see or hear .</s>
+<s id='vn3'>Cô ấy không thể nhìn cũng như nghe .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Yet Helen Keller was able to do so much with her days and years .</s>
+<s id='vn4'>Tuy nhiên Helen Keller đã có thể làm được rất nhiều việc ngày này qua năm nọ của mình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Her success gave others hope .</s>
+<s id='vn5'>Thành công của cô ấy đã mang lại hy vọng cho người khác .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Helen Keller was born June 22th , eighteen eighty in a small town in northern Alabama .</s>
+<s id='vn6'>Helen Keller sinh ra ngày 22 tháng 6 , năm 1880 tại một thành phố nhỏ miền bắc Alabama .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Her father , Arthur Keller , was a captain in the army of the South during the American Civil War .</s>
+<s id='vn7'>Cha cô ấy , Arthur Keller , là đại uý quân đội miền Nam trong cuộc nội chiến Mỹ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Her mother was his second wife .</s>
+<s id='vn8'>Mẹ của cô ấy là vợ hai của ông ấy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>She was much younger than her husband .</s>
+<s id='vn9'>Bà trẻ hơn chồng rất nhiều .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Helen was their first child .</s>
+<s id='vn10'>Helen là con đầu lòng của họ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Until she was a year-and-one-half old , Helen Keller was just like any other child .</s>
+<s id='vn11'>Cho đến năm cô ấy được một tuổi rưỡi , Helen Keller giống như mọi đứa trẻ khác .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>She was very active .</s>
+<s id='vn12'>Cô bé rất hiếu động .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>She began walking and talking early .</s>
+<s id='vn13'>Cô bắt đầu biết đi và nói sớm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Then , nineteen months after she was born , Helen became very sick .</s>
+<s id='vn14'>Sau đó , khi được 19 tháng tuổi , Helen lâm bệnh nặng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It was a strange sickness that made her completely blind and deaf .</s>
+<s id='vn15'>Đó là một bệnh lạ lùng khiến cô bị mù và điếc hoàn toàn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The doctor could not do anything for her .</s>
+<s id='vn16'>Bác sĩ cũng bất lực .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Her bright , happy world now was filled with silence and darkness .</s>
+<s id='vn17'>Cái thế giới tươi sáng và hạnh phúc giờ đây bao trùm bởi sự im lặng và màn đêm u tối .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>From that time until she was almost seven years old , Helen could communicate only by making signs with her hands .</s>
+<s id='vn18'>Từ lúc đó cho đến khi gần bảy tuổi , Helen chỉ có thể giao tiếp bằng cách ra dấu hiệu bằng tay .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But she learned how to be active in her silent , dark environment .</s>
+<s id='vn19'>Nhưng cô ấy cũng học cách chủ động trong môi trường tối tăm và lặng im ấy .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The young child had strong desires .</s>
+<s id='vn20'>Trẻ em luôn có những khao khát mãnh liệt .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>She knew what she wanted to do .</s>
+<s id='vn21'>Cô ấy biết mình muốn làm gì .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>No one could stop her from doing it .</s>
+<s id='vn22'>Không ai có thể ngăn cô làm bất cứ thứ gì .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>More and more , she wanted to communicate with others .</s>
+<s id='vn23'>Càng ngày cô muốn giao tiếp với người khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Making simple signs with her hands was not enough .</s>
+<s id='vn24'>Việc dùng tay để làm những dấu hiệu đơn giản vẫn không đủ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Something was ready to explode inside of her because she could not make people understand her .</s>
+<s id='vn25'>Cái gì đó sẵn sàng bộc phát bên trong người cô vì cô không thể khiến mọi người xung quanh hiểu được mình .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>She screamed and struggled when her mother tried to control her .</s>
+<s id='vn26'>Cô ấy la hét và chống chọi khi mẹ cô cố kiểm soát cô ấy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>When Helen was six , her father learned about a doctor in Baltimore , Maryland .</s>
+<s id='vn27'>Khi Helen lên sáu , cha cô nghe nói có một ông bác sĩ ở Baltimore , Maryland .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The doctor had successfully treated people who were blind .</s>
+<s id='vn28'>Vị bác sĩ này đã thành công khi chữa trị người mù .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Helen 's parents took her on the train to Baltimore .</s>
+<s id='vn29'>Cha mẹ của Helen đưa cô ấy đi bằng xe lửa đến Baltimore .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>But the doctor said he could do nothing to help Helen .</s>
+<s id='vn30'>Nhưng ông bác sĩ nói ông ấy không thể giúp gì cho Helen .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>He suggested the Kellers get a teacher for the blind who could teach Helen to communicate .</s>
+<s id='vn31'>Ông ta đề nghị gia đình Kellers kiếm một giáo viên chuyên dạy cho người mù để dạy Helen cách giao tiếp .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>A teacher arrived from the Perkins Institution for the Blind in Boston .</s>
+<s id='vn32'>Có một giáo viên đến từ Trường Perkins dành cho người khiếm thị ở Boston .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Her name was Anne Sullivan .</s>
+<s id='vn33'>Tên của cô ta là Anne Sullivan .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>She herself had once been almost completely blind .</s>
+<s id='vn34'>Bản thân cô ấy đã từng gần như bị mù hoàn toàn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But she had regained her sight .</s>
+<s id='vn35'>Nhưng rồi cô lại được nhìn thấy ánh sáng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>At Perkins , she had learned the newest methods of teaching the blind .</s>
+<s id='vn36'>Ở Perkins , cô đã học được các phương pháp mới nhất để dạy cho người mù .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Anne Sullivan began by teaching Helen that everything had a name .</s>
+<s id='vn37'>Anne Sullivan bắt đầu bằng cách dạy cho Helen biết rằng mọi thứ đều có một cái tên .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The secret to the names was the letters that formed them .</s>
+<s id='vn38'>Bí quyết để biết được những cái tên đó là những chữ cái tạo nên chúng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The job was long and difficult .</s>
+<s id='vn39'>Công việc này thật khó khăn và tốn nhiều thời gian .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Helen had to learn how to use her hands and fingers to speak for her .</s>
+<s id='vn40'>Helen phải học cách sử dụng bàn tay và các ngón tay để nói thay cho mình .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>But she was not yet ready to learn .</s>
+<s id='vn41'>Nhưng cô bé vẫn chưa sẵn sàng việc học .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>First , she had to be taught how to obey , and how to control her anger .</s>
+<s id='vn42'>Trước tiên , cô ấy phải được dạy cách biết vâng lời và biết kiềm chế cơn giận của mình .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Miss Sullivan was quick to understand this .</s>
+<s id='vn43'>Cô Sullivan nhanh chóng hiểu được điều này .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>She wrote to friends in Boston about her experiences teaching Helen .</s>
+<s id='vn44'>Cô ấy viết thư cho bạn bè ở Boston về những kinh nghiệm cô đã dạy cho Helen .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The first night I arrived I gave Helen a doll .</s>
+<s id='vn45'>Đêm đầu tiên tôi đến tôi đã cho Helen một con búp bê .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>As she felt the doll with one hand I slowly formed the letters , d-o-l-l with my fingers in her other hand .</s>
+<s id='vn46'>Khi cô ấy cảm nhận được con búp bê bằng một tay tôi từ từ dùng ngón tay mình viết những chữ cái d-o-l-l trên bàn tay kia của cô bé .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Helen looked in wonder and surprise as she felt my hand .</s>
+<s id='vn47'>Helen nhìn với vẻ thắc mắc và kinh ngạc khi cô bé cảm nhận được tay tôi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Then she formed the letters in my hand just as I had done in hers .</s>
+<s id='vn48'>Sau đó cô bé viết những chữ cái vào tay tôi y như cách tôi làm vào tay cô bé .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>She was quick to learn , but she was also quick in anger .</s>
+<s id='vn49'>Cô bé tiếp thu nhanh , nhưng cũng mau giận .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>For seven years , no one had taught her self-control .</s>
+<s id='vn50'>Trong bảy năm , không ai dạy cô bé cách tự chủ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Instead of continuing to learn , she picked up the doll and threw it on the floor .</s>
+<s id='vn51'>Thay vì tiếp tục học , cô ấy nhặt con búp bê lên và ném xuống sàn nhà .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>She was this way in almost everything she did .</s>
+<s id='vn52'>Cô bé vẫn luôn như thế khi làm hầu như bất cứ việc gì .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Even at the table , while eating , she did exactly as she pleased .</s>
+<s id='vn53'>Ngay cả khi ở bàn ăn , cô bé muốn cái gì là làm cái ấy .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>She even put her hands in our plates and ate our food .</s>
+<s id='vn54'>Thậm chí cô bé còn thò tay sang đĩa của chúng tôi và ăn thức ăn của chúng tôi .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The second morning , I would not let her put her hand on my plate .</s>
+<s id='vn55'>Sáng thứ hai , tôi không cho cô bé đặt tay vào đĩa của tôi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The family became troubled and left the room .</s>
+<s id='vn56'>Gia đình cảm thấy bối rối và rời khỏi phòng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>I closed the door and continued to eat .</s>
+<s id='vn57'>Tôi đóng cửa và tiếp tục ăn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Helen was on the floor , kicking , screaming and trying to pull the chair out from under me .</s>
+<s id='vn58'>Helen ngồi dưới sàn nhà , đá lung tung , la hét và cố lôi kéo chiếc ghế tôi đang ngồi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This continued for half an hour or so .</s>
+<s id='vn59'>Việc này kéo dài khoảng chừng nửa tiếng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Then she got up from the floor and came to find out what I was doing .</s>
+<s id='vn60'>Sau đó bé đứng dậy trên sàn nhà và đến xem tôi đang làm gì .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Suddenly she hit me .</s>
+<s id='vn61'>Bất ngờ cô bé đánh tôi .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Every time she did this I hit her hand .</s>
+<s id='vn62'>Cứ mỗi lần cô bé làm như thế tôi đánh vào tay cô ấy .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>After a few minutes of this , she went to her place at the table and began to eat with her fingers .</s>
+<s id='vn63'>Sau vài phút , cô bé đi đến chỗ của mình ở bàn ăn và bắt đầu bốc tay để ăn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>I gave her a spoon .</s>
+<s id='vn64'>Tôi đưa cho cô một chiếc muỗng .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>She threw it on the floor .</s>
+<s id='vn65'>Cô bé ném nó xuống sàn .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>I forced her to get out of her chair to pick the spoon up .</s>
+<s id='vn66'>Tôi bắt cô rời khỏi ghế và nhặt chiếc muỗng lên .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>At last , after two hours , she sat down and ate like other people .</s>
+<s id='vn67'>Rốt cuộc , sau hai tiếng đồng hồ , cô ấy ngồi xuống và ăn như người bình thường .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>I had to teach her to obey .</s>
+<s id='vn68'>Tôi phải dạy cô ấy biết vâng lời .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>But it was painful to her family to see their deaf and blind child punished .</s>
+<s id='vn69'>Nhưng thật đau lòng khi để gia đình của cô ấy phải chứng kiến cảnh đứa con vừa mù vừa điếc bị trừng phạt .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>So I asked them to let me move with Helen into a small one-room house nearby .</s>
+<s id='vn70'>Vì thế tôi yêu cầu họ để tôi cùng Helen dời đến một căn nhà nhỏ có một phòng gần đó .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>The first day Helen was away from her family she kicked and screamed most of the time .</s>
+<s id='vn71'>Ngày đầu tiên xa gia đình Helen đá lung tung và la hét suốt .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>That night I could not make her get into bed .</s>
+<s id='vn72'>Đêm đó tôi không thể bắt cô bé lên giường đi ngủ .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>We struggled , but I held her down on the bed .</s>
+<s id='vn73'>Chúng tôi vật lộn với nhau , nhưng tôi giữ cô bé nằm xuống giường .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Luckily , I was stronger than she .</s>
+<s id='vn74'>May mắn thay , tôi mạnh hơn cô ấy .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>The next morning I expected more of the same , but to my surprise she was calm , even peaceful .</s>
+<s id='vn75'>Sáng hôm sau tôi nghĩ mọi chuyện còn tồi tệ hơn như thế , nhưng thật bất ngờ cô ấy trở nên điềm đạm , thậm chí là hiền lành .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Two weeks later , she had become a gentle child .</s>
+<s id='vn76'>Hai tuần sau , cô bé đã trở thành một đứa trẻ ngoan .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>She was ready to learn .</s>
+<s id='vn77'>Cô ấy sẵn sàng học .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>My job now was pleasant .</s>
+<s id='vn78'>Công việc của tôi bây giờ đã nhẹ nhàng .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Helen learned quickly .</s>
+<s id='vn79'>Helen học nhanh .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Now I could lead and shape her intelligence .</s>
+<s id='vn80'>Bây giờ tôi có chỉ dẫn và định hình óc thông minh của cô ấy .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>We spent all day together .</s>
+<s id='vn81'>Suốt ngày chúng tôi ở cùng nhau .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>I formed words in her hand , the names of everything we touched .</s>
+<s id='vn82'>Tôi viết chữ trong tay của cô bé , tên của bất cứ thứ gì chúng tôi chạm vào .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>But she had no idea what the words meant .</s>
+<s id='vn83'>Nhưng cô ấy không biết những chữ này nghĩa là gì .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>As time passed , she learned how to sew clothes and make things .</s>
+<s id='vn84'>Khi thời gian trôi qua , cô ấy học cách may vá quần áo và làm được vài thứ .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Every day we visited the farm animals and searched for eggs in the chicken houses .</s>
+<s id='vn85'>Mỗi ngày chúng tôi đi thăm gia súc và tìm trứng trong chuồng gà .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>All the time , I was busy forming letters and words in her hand with my fingers .</s>
+<s id='vn86'>Tôi luôn bận rộn với việc viết chữ cái và từ ngữ vào tay của cô bé với ngón tay của mình .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Then one day , about a month after I arrived , we were walking outside .</s>
+<s id='vn87'>Rồi một hôm nọ , khoảng 1 tháng sau ngày tôi đến , chúng tôi đang đi dạo bên ngoài .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Something important happened .</s>
+<s id='vn88'>Có một sự kiện trọng đại xảy ra .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>We heard someone pumping water .</s>
+<s id='vn89'>Chúng tôi nghe ai đó đang bơm nước .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>I put Helen 's hand under the cool water and formed the word w-a-t-e-r in her other hand .</s>
+<s id='vn90'>Tôi đặt tay Helen dưới dòng nước lạnh và viết các chữ cái w-a-t-e-r trong tay kia của cô bé .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>W-a-t-e-r , w-a-t-e-r. .</s>
+<s id='vn91'>W-a-t-e-r , w-a-t-e-r. .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>I formed the word again and again in her hand .</s>
+<s id='vn92'>Tôi viết đi viết lại từ này trong tay của cô ấy .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Helen looked straight up at the sky as if a lost memory or thought of some kind was coming back to her .</s>
+<s id='vn93'>Helen nhìn lên bầu trời như thể ký ức đã bị đánh mất hay một ý nghĩ gì đó đang tràn về trong cô bé .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Suddenly , the whole mystery of language seemed clear to her .</s>
+<s id='vn94'>Bất ngờ , toàn bộ những điều bí ẩn về ngôn ngữ có vẻ đã sáng tỏ với cô ấy .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>I could see that the word w-a-t-e-r meant something wonderful and cool that flowed over her hand .</s>
+<s id='vn95'>Tôi có thể thấy từ w-a-t-e-r có nghĩa là một thứ gì đó thật tuyệt vời và mát mẻ chảy trên bàn tay của cô bé .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>The word became alive for her .</s>
+<s id='vn96'>Từ ấy đã trờ nên sống động với cô bé .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>It awakened her spirit , gave it light and hope .</s>
+<s id='vn97'>Nó đánh thức tâm hồn cô ấy , mang lại ánh sáng và hi vọng .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>She ran toward the house .</s>
+<s id='vn98'>Cô ấy chạy về nhà .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>I ran after her .</s>
+<s id='vn99'>Tôi đuổi theo cô ấy .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>One by one she touched things and asked their name .</s>
+<s id='vn100'>Cô ấy chạm từng đồ vật và hỏi tên chúng .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>I told her .</s>
+<s id='vn101'>Tôi nói cô bé nghe .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>She went on asking for names and more names .</s>
+<s id='vn102'>Cô tiếp tục hỏi về những cái tên và nhiều hơn nữa .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>From that time on Helen left the house each day , searching for things to learn .</s>
+<s id='vn103'>Từ lúc đó mỗi ngày Helen rời khỏi nhà , tìm kiếm mọi thứ để học .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Each new name brought new thoughts .</s>
+<s id='vn104'>Mỗi cái tên mới mang lại suy nghĩ mới .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Everything she touched seemed alive .</s>
+<s id='vn105'>Mọi thứ cô ấy chạm vào dường như sống lại .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>One day , Helen remembered a doll she had broken .</s>
+<s id='vn106'>Một hôm nọ , Helen nhớ lại con búp bê cô bé đã làm vỡ .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>She searched everywhere for the pieces .</s>
+<s id='vn107'>Cô ấy tìm kiếm mảnh vỡ khắp nơi .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>She tried to put the pieces together but could not .</s>
+<s id='vn108'>Cô bé cố ghép những mảnh vỡ lại nhưng không được .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>She understood what she had done and was not happy .</s>
+<s id='vn109'>Cô ấy hiểu những gì cô ấy đã làm và cảm thấy buồn .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Miss Sullivan taught Helen many things - to read and write , and even to use a typewriter .</s>
+<s id='vn110'>Cô Sullivan dạy cho Helen nhiều thứ - đọc và viết , và thậm chí sử dụng máy đánh chữ .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>But most important , she taught Helen how to think .</s>
+<s id='vn111'>Nhưng quan trọng nhất , cô ấy dạy Helen cách suy nghĩ .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>For the next three years , Helen learned more and more new words .</s>
+<s id='vn112'>Trong ba năm sau đó , Helen học ngày càng nhiều từ mới .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>All day Miss Sullivan kept touching Helen 's hand , spelling words that gave Helen a language .</s>
+<s id='vn113'>Suốt ngày cô Sullivan chạm vào tay của Helen , đánh vần và nói cho Helen một ngôn ngữ .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>In time , Helen showed she could learn foreign languages .</s>
+<s id='vn114'>Đồng thời , Helen tỏ ra mình có thể học được những ngoại ngữ khác .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>She learned Latin , Greek , French and German .</s>
+<s id='vn115'>Cô ấy học tiếng La-tinh , Hy Lạp , Pháp và Đức .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Helen was able to learn many things , not just languages .</s>
+<s id='vn116'>Helen còn có thể học nhiều thứ , không riêng gì ngôn ngữ .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>She was never willing to leave a problem unfinished , even difficult problems in mathematics .</s>
+<s id='vn117'>Cô ấy không bao giờ chịu từ bỏ một vấn đề nào còn dở dang , ngay cả những bài toán khó .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>One time , Miss Sullivan suggested leaving a problem to solve until the next day .</s>
+<s id='vn118'>Một lần , cô Sullivan đề nghị để một bài toán sang ngày hôm sau giải tiếp .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>But Helen wanted to keep trying .</s>
+<s id='vn119'>Nhưng Helen vẫn muốn tiếp tục làm .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>She said , " I think it will make my mind stronger to do it now . "</s>
+<s id='vn120'>Cô ấy nói , " Con nghĩ nếu con làm nó ngay bây giờ thì nó sẽ làm tâm trí con mạnh mẽ hơn . "</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Helen traveled a lot with her family or alone with Miss Sullivan .</s>
+<s id='vn121'>Helen đi du lịch nhiều với gia đình hoặc đi riêng với cô Sullivan .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>In eighteen eighty-eight , Helen , her mother and Miss Sullivan went to Boston , Massachusetts .</s>
+<s id='vn122'>Vào năm 1888 , Helen , mẹ cô và cô Sullivan đi Boston , Massachusetts .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>They visited the Perkins Institution where Miss Sullivan had learned to teach .</s>
+<s id='vn123'>Họ đi thăm trường Perkins nơi cô Sullivan đã học nghề sư phạm .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>They stayed for most of the summer at the home of family friends near the Atlantic Ocean .</s>
+<s id='vn124'>Họ ở lại đó gần hết mùa hè tại nhà của bạn bè của gia đình gần biển Đại Tây Dương .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>In Helen 's first experience with the ocean , she was caught by a wave and pulled under the water .</s>
+<s id='vn125'>Trong lần trải nghiệm về biển đầu tiên của Helen , cô bị sóng cuốn và chìm xuống nước .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Miss Sullivan rescued her .</s>
+<s id='vn126'>Cô Sullivan đã cứu cô .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>When Helen recovered , she demanded , " Who put salt in the water ? "</s>
+<s id='vn127'>Khi Helen tỉnh lại , cô ấy đã hỏi " Ai nêm muối vào trong nước ? "</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Three years after Helen started to communicate with her hands , she began to learn to speak as other people did .</s>
+<s id='vn128'>Ba năm sau Helen bắt đầu giao tiếp bằng tay , cô ấy bắt đầu học nói như những người khác .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>She never forgot these days .</s>
+<s id='vn129'>Cô ấy không bao giờ quên được những ngày này .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Later in life , she wrote :</s>
+<s id='vn130'>Về sau , cô ấy đã viết :</s>
+</spair>
+<spair id='131'>
+<s id='en131'>No deaf child can ever forget the excitement of his first word .</s>
+<s id='vn131'>Không có một đứa trẻ khiếm thính nào lại có thể quên được cảm giác phấn khích về những từ đầu tiên của nó .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Only one who is deaf can understand the loving way I talked to my dolls , to the stones , to birds and animals .</s>
+<s id='vn132'>Chỉ có những ai bị điếc thì có thể hiểu cái nét dễ thương khi tôi nói chuyện với con búp bê của tôi , với những hòn đá , với những con chim và các con vật .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Only the deaf can understand how I felt when my dog obeyed my spoken command .</s>
+<s id='vn133'>Chỉ có người điếc mới hiểu được cảm giác của tôi thế nào khi thấy chú chó nghe theo câu lệnh của tôi . .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Those first days when Helen Keller developed the ability to talk were wonderful .</s>
+<s id='vn134'>Những ngày đầu tiên Helen Keller phát triển khả năng nói thật kỳ diệu .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>But they proved to be just the beginning of her many successes .</s>
+<s id='vn135'>Nhưng chúng đã chứng minh được đây chỉ là khởi đầu cho nhiều thành công khác của cô .</s>
+</spair>
+</text>
+</doc>

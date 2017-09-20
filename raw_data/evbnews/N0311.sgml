@@ -1,0 +1,104 @@
+﻿<doc id='N0311'>
+<head>
+<title>Gene therapy " treats " Parkinson 's disease</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gene therapy " treats " Parkinson 's disease</s>
+<s id='vn1'>Liệu pháp gien " trị " bệnh liệt rung</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Treating Parkinson 's disease with gene therapy has been shown to be successful in clinical trials for the first time , say US researchers .</s>
+<s id='vn2'>Điều trị bệnh liệt rung bằng liệu pháp gien đã tỏ ra thành công trong các cuộc thử nghiệm lâm sàng lần đầu tiên , các nhà nghiên cứu Hoa Kỳ nói .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The illness causes uncontrolled shaking , stiffness and slow movement as part of the brain dies .</s>
+<s id='vn3'>Bệnh này làm cho cử động chậm chạp , cứng đơ và rung không kềm chế được do não chết .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The small study in The Lancet Neurology used a virus to add genes to brain cells , which resulted in reduced symptoms for half of patients .</s>
+<s id='vn4'>Nghiên cứu nhỏ trên The Lancet Neurology sử dụng vi-rút để đưa gien vào tế bào não , dẫn đến kết quả là một nửa bệnh nhân đã giảm triệu chứng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Parkinson 's UK welcomed the study , but said further research was needed .</s>
+<s id='vn5'>Hiệp hội bệnh liệt rung của Vương quốc Anh vui mừng về nghiên cứu này , nhưng họ nói rằng cần phải nghiên cứu thêm nữa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The disease affects 120,000 people in the UK , mostly in the over-50s .</s>
+<s id='vn6'>Bệnh này ảnh hưởng tới 120.000 người Vương quốc Anh , hầu hết ở những người trên 50 tuổi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There is no cure , although drugs and deep brain stimulation have been shown to reduce symptoms .</s>
+<s id='vn7'>Chưa có thuốc chữa , dù rằng các loại thuốc và phương pháp kích thích não sâu tỏ ra đã làm giảm triệu chứng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Gene treatment</s>
+<s id='vn8'>Điều trị bằng gien</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Patients with Parkinson 's have reduced levels of a chemical - GABA - in part of the brain known as the subthalamic nucleus .</s>
+<s id='vn9'>Các bệnh nhân bị liệt rung đã giảm mức hoá chất - GABA - trong phần não được gọi là nhân dưới đồi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The researchers created a virus which " infects " cells with a gene to increasing GABA production .</s>
+<s id='vn10'>Các nhà nghiên cứu đã tạo ra một loại vi-rút " lây nhiễm " tế bào bằng gien để làm tăng khả năng tạo GABA .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In the trial , 22 patients had the virus injected into their brains while 23 patients had " sham surgery " , to make them think they had the virus injected .</s>
+<s id='vn11'>Trong cuộc thử nghiệm , có 22 bệnh nhân được tiêm vi-rút vào não trong khi 23 bệnh nhân khác được " phẫu thuật giả " , để tạo cho họ cảm giác là họ đã được tiêm vi-rút .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Their motor function was then scored over six months .</s>
+<s id='vn12'>Sau đó chức năng dây thần kinh vận động của họ được ghi nhận lại trong sáu tháng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Patients who had gene therapy showed a 23.1% improvement in their motor score , those with sham surgery improved by 12.7% .</s>
+<s id='vn13'>Các bệnh nhân được chữa trị bằng liệu pháp gien đã cải thiện được 23,1% trong kết quả ghi nhận về dây thần kinh vận động của họ , còn các bệnh nhân được giải phẫu giả chỉ cải thiện được 12,7% .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The report 's authors say this " offers a novel alternative to conventional pharmacological or surgical treatment " and that it " shows the promise of gene therapy for other neurological disorders . "</s>
+<s id='vn14'>Tác giả của bản báo cáo nói rằng điều này " đưa ra một sự lựa chọn mới thay thế cho cách điều trị bằng thuốc hay phẫu thuật thông thường " và nó " cho thấy liệu pháp gien đầy hứa hẹn cho các rối loạn khác về thần kinh . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Professor Nicholas Mazarakis , who is a specialist in gene therapy at Imperial College London , told the BBC that the positive result was " very encouraging . "</s>
+<s id='vn15'>Giáo sư Nicholas Mazarakis , chuyên gia về liệu pháp gien tại Đại học Hoàng gia Luân Đôn , nói với BBC rằng kết quả khả quan này " rất đáng khích lệ . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He added : " This result should be taken with some caution though , as it constitutes a rather small mean improvement , only 10.4% , in the clinical rating scale motor scores between those patients receiving the gene therapy and the placebo group . "</s>
+<s id='vn16'>Ông nói thêm : " Tuy vậy , kết quả này nên được ứng dụng một cách thận trọng , vì nó chỉ cải thiện một mức độ khá nhỏ , chỉ 10,4% , trong các ghi nhận về dây thần kinh vận động trong thử nghiệm lâm sàng ở các bệnh nhân được chữa trị bằng liệu pháp gien và nhóm dùng thuốc trấn an . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In addition the absence of significant improvements in other secondary outcome measures such as dyskinesia and quality of life between the two groups , warrants further long-term evaluation of this treatment in more patients . "</s>
+<s id='vn17'>Ngoài ra , không có cải tiến đáng kể trong biện pháp tác động phụ khác như là chứng loạn vận động và chất lượng sống giữa hai nhóm , cho phép đánh giá lâu dài cách điều trị này cho thêm nhiều bệnh nhân . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>There have been concerns about the safety of gene therapy .</s>
+<s id='vn18'>Có sự lo ngại về an toàn của liệu pháp gien .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In 1999 , Jesse Gelsinger died during a trial in the US and there were cases of leukaemia after treatment in France .</s>
+<s id='vn19'>Vào năm 1999 , Jesse Gelsinger đã chết trong một cuộc thử nghiệm ở Hoa Kỳ và có các trường hợp bị ung thư máu sau khi được điều trị ở Pháp .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The authors say this procedure is safe .</s>
+<s id='vn20'>Các tác giả nói rằng phương phàp này an toàn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Dr Michelle Gardner , research development manager at Parkinson 's UK said : " This research shows the promise of gene therapy for neurological conditions like Parkinson's , but further research is still needed .</s>
+<s id='vn21'>Tiến sĩ Michelle Gardner , giám đốc phát triển nghiên cứu tại Hiệp hội bệnh liệt rung của Vương quốc Anh nói : " Nghiên cứu này cho thấy liệu pháp gien đầy hứa hẹn cho các bệnh thần kinh như bệnh liệt rung , nhưng cũng cần phải nghiên cứu thêm nữa .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" We still don't know for how long the benefits of this treatment may last , or whether there may be long-term problems due to introducing viruses into the brain .</s>
+<s id='vn22'>" Chúng ta vẫn chưa biết lợi ích của việc điều trị này có thể kéo dài bao lâu , hoặc liệu có xảy ra những vấn đề lâu dài vì đưa vi-rút vào não hay không .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" In addition , any new treatment must be shown to be more effective than those currently available for Parkinson 's , which this treatment has not yet been shown to do . "</s>
+<s id='vn23'>" Hơn nữa , bất kỳ cách điều trị mới nào phải tỏ ra có hiệu quả hơn các cách điều trị bệnh liệt rung hiện thời , nhưng cách điều trị này lại chưa chứng minh được như vậy . "</s>
+</spair>
+</text>
+</doc>

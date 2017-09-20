@@ -1,0 +1,84 @@
+﻿<doc id='N0897'>
+<head>
+<title>China 's export growth slows down as global demand falls</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China 's export growth slows down as global demand falls</s>
+<s id='vn1'>Xuất khẩu của Trung Quốc chậm lại do nhu cầu toàn cầu giảm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>China 's export growth slowed further in October as the eurozone debt crisis and fears of a slowdown in the US dented demand for its goods , figures show .</s>
+<s id='vn2'>Số liệu cho thấy tăng trưởng xuất khẩu của Trung Quốc giảm hơn nữa trong tháng Mười do khủng hoảng nợ khu vực đồng euro và nỗi lo trì trệ ở Mỹ làm giảm nguồn cầu đối với hàng Trung Quốc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>China 's export growth slowed further in October as the eurozone debt crisis and fears of a slowdown in the US dented demand for its goods , figures show .</s>
+<s id='vn3'>Số liệu cho thấy tăng trưởng xuất khẩu của Trung Quốc giảm hơn nữa trong tháng Mười do khủng hoảng nợ khu vực đồng euro và nỗi lo trì trệ ở Mỹ làm giảm nguồn cầu đối với hàng Trung Quốc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Shipments from China rose 15.9 % from a year earlier , down from a 17.9 % growth in September and 24.5 % in August .</s>
+<s id='vn4'>Lượng giao hàng từ Trung Quốc tăng 15,9% so với năm trước , giảm so với mức tăng 17,9% trong tháng Chín và 24,5% trong tháng Tám .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Meanwhile , imports grew 28.7_% , resulting in a trade surplus of $ 17bn ( £10.7bn )</s>
+<s id='vn5'>Trong khi đó , nhập khẩu tăng 28,7% , dẫn đến thặng dư mậu dịch 17 tỷ đô la ( 10,7 tỷ bảng Anh ) .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The data has raised fresh concerns about the impact of a global slowdown on China 's export-led growth .</s>
+<s id='vn6'>Số liệu dấy lên những lo ngại về tác động của sự suy giảm toàn cầu đối với đà tăng trưởng theo hướng xuất khẩu của Trung Quốc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Export growth continued to drop last month against the backdrop of a sputtering economy in European countries , which is the largest export destination of our country , " said Wang Hu of Guotai Securities in Shanghai .</s>
+<s id='vn7'>" Tăng trưởng xuất khẩu tiếp tục giảm trong tháng trước trong bối cảnh kinh tế đang phập phù ở các nước Châu Âu , thị trường xuất khẩu lớn nhất của nước chúng tôi , " đó là lời của Wang Hu thuộc Công ty Guotai Securities ở Thượng Hải .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" With the euro debt crisis spreading , we expect export growth to further decline in the months ahead . "</s>
+<s id='vn8'>Trong lúc khủng hoảng nợ khối euro lan rộng , chúng tôi dự đoán tăng trưởng xuất khẩu sẽ giảm thêm vào các tháng tới . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Domestic boost ?</s>
+<s id='vn9'>Cú hích nội địa ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>China 's growth in recent years has been led by the success of its manufacturing and export sector , which has helped it become the world 's second-largest economy .</s>
+<s id='vn10'>Tăng trưởng của Trung Quốc những năm gần đây nhờ vào thành công trong lĩnh vực sản xuất và xuất khẩu , giúp nước này trở thành nền kinh tế lớn thứ hai trên thế giới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>However , economic troubles in the US and eurozone , two of the biggest markets for Chinese goods , have led to a decline consumer demand , raising concerns about the prospects for China 's economy .</s>
+<s id='vn11'>Tuy nhiên , bất ổn kinh tế ở Mỹ và khu vực sử dụng đồng euro , hai trong số các thị trường lớn nhất của hàng Trung Quốc , dẫn đến suy giảm nhu cầu tiêu dùng , dấy lên lo ngại về triển vọng kinh tế Trung Quốc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>On Wednesday , Christian Lagarde , the head of the International Monetary Fund ( IMF ) , called upon China to alter its export-led growth policy and focus on boosting domestic demand in order to sustain growth .</s>
+<s id='vn12'>Hôm thứ Tư , Christian Lagarde , lãnh đạo Quỹ Tiền Tệ Quốc Tế ( IMF ) , kêu gọi Trung Quốc nên thay đổi chính sách phát triển theo hướng xuất khẩu của họ và tập trung vào thúc đẩy nhu cầu trong nước để duy trì tăng trưởng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Analysts said the latest data showed that demand in China was growing steadily .</s>
+<s id='vn13'>Giới phân tích cho biết dữ liệu mới nhất cho thấy nhu cầu ở Trung Quốc vẫn đang tăng đều đặn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Import growth is a bit higher than we expected , showing that domestic demand is still resilient , " said Mr Wang .</s>
+<s id='vn14'>Ông Wang phát biểu , " tăng trưởng nhập khẩu cao hơn chúng tôi dự đoán một chút , cho thấy nhu cầu trong nước vẫn còn sức bật . " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>However , some analysts said the jump in import numbers was not a true indicator of domestic demand .</s>
+<s id='vn15'>Tuy nhiên , một số nhà phân tích lại nói tăng số lượng nhập khẩu không phải là dấu chỉ báo đúng của nhu cầu nội địa .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They said that manufacturers were taking advantage of a drop in commodity prices to build up stock levels and that was impacting the import numbers .</s>
+<s id='vn16'>Theo họ thì các nhà sản xuất đang lợi dụng tình hình giảm giá hàng hóa để tăng mức tồn kho và điều đó đang ảnh hưởng đến lượng hàng nhập khẩu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It 's likely that the inventory building still continues , partly because of the declining global prices , " said Li Cui of Royal Bank of Scotland .</s>
+<s id='vn17'>" Có thể việc tích tụ hàng hóa còn tiếp diễn , một phần do giá cả toàn cầu đang giảm , " theo lời của Li Cui làm việc cho Royal Bank of Scotland .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" The producers take this opportunity to build their inventories . "</s>
+<s id='vn18'>" Các nhà sản xuất tận dụng cơ hội này để tích trữ hàng tồn kho . "</s>
+</spair>
+</text>
+</doc>

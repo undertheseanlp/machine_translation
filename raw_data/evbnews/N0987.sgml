@@ -1,0 +1,120 @@
+﻿<doc id='N0987'>
+<head>
+<title>Apache HTTP Server Marks 17th Anniversary With New Version 2.4</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Apache HTTP Server Marks 17th Anniversary With New Version 2.4</s>
+<s id='vn1'>Apache HTTP Server đánh dấu kỷ niệm lần thứ 17 bằng phiên bản 2.4 mới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Apache Software Foundation ( ASF ) celebrates the 17th anniversary of the Apache HTTP Server by delivering version 2.4 of the technology , which has been tuned for cloud computing .</s>
+<s id='vn2'>Tổ chức phần mềm Apache ( Apache Software Foundation – ASF ) tổ chức kỷ niệm lần thứ 17 của phần mềm máy chủ web Apache HTTP Server bằng cách cho ra mắt phiên bản 2.4 của công nghệ này , đã được thiết kế phù hợp cho điện toán đám mây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Apache Software Foundation ( ASF ) celebrated the 17th anniversary of the Apache HTTP Server by delivering version 2.4 of the technology .</s>
+<s id='vn3'>Tổ chức phần mềm Apache ( ASF ) tổ chức lễ kỷ niệm lần 17 của phần mềm máy chủ Web Apache HTTP Server bằng cách cho ra mắt phiên bản 2.4 của công nghệ này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>ASF officials said as of Feb. 21 there are nearly 400 million Websites powered by the Apache HTTP Server , which has been the most popular Web server on the Internet since April 1996 .</s>
+<s id='vn4'>Các viên chức của ASF cho biết kể từ ngày 21/02 có gần 400 triệu trang web sử dụng phần mềm máy chủ Web Apache HTTP Server để vận hành , là máy chủ Web phổ biến nhất trên Internet kể từ tháng 4 năm 1996 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Within less than a year of the Apache Group 's formation in 1994 , the Apache server surpassed NCSA httpd as the No. 1 Web server on the Internet , and remains so to this day .</s>
+<s id='vn5'>Năm 1994 , trong vòng chưa đầy một năm thành lập Apache Group , máy chủ Apache đã vượt qua máy chủ NCSA httpd trở thành máy chủ web số một trên Internet và duy trì như vậy cho đến nay .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The initial eight developers working on the Apache HTTP Server began their efforts in 1994 and became known as the Apache Group .</s>
+<s id='vn6'>Tám nhà phát triển ban đầu làm việc trên phần mềm máy chủ Apache HTTP Server đã bắt đầu các nỗ lực của họ vào năm 1994 và được biết đến với tên gọi Apache Group .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>By March 1999 , membership of the Apache Group expanded and they formed The Apache Software Foundation to provide organizational , legal and financial support for the Apache HTTP Server .</s>
+<s id='vn7'>Vào tháng 3/1999 thành viên của Apache Group được mở rộng và thành lập Tổ chức phần mềm Apache để cung cấp hỗ trợ pháp lý và tài chính , tổ chức cho máy chủ Web Apache HTTP Server .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" It is with great pleasure that we announce the availability of Apache HTTP Server 2.4 , " Eric Covener , vice president of the Apache HTTP Server Project , said in a statement .</s>
+<s id='vn8'>" Đó là điều thú vị tuyệt vời để chúng tôi công bố sự ra mắt của phần máy chủ Web Apache HTTP Server phiên bản 2.4 " Eric Covener , Chủ tịch của Dự án Máy chủ Apache HTTP Server , đã cho biết trong một bài phát biểu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" This release delivers a host of evolutionary enhancements throughout the server that our users , administrators and developers will welcome .</s>
+<s id='vn9'>" Phiên bản này mang lại hàng loạt cải tiến đột phá trên các máy chủ mà người dùng , quản trị viên và nhà phát triển của chúng tôi sẽ chào đón .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>We 've added many new modules in this release , as well as broadened the capability and flexibility of existing features . "</s>
+<s id='vn10'>Chúng tôi đã bổ sung nhiều mô-đun mới trong phiên bản này , cũng như mở rộng khả năng và tính linh hoạt của các tính năng hiện có . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>ASF officials said the new Apache HTTP Server version 2.4 is ideally suited for cloud computing environments , with enhancements , including :</s>
+<s id='vn11'>Các nhân viên của ASF cho biết phiên bản Apache HTTP Server 2.4 mới này là lý tưởng nhất thích hợp cho môi trường điện toán đám mây với các cải tiến bao gồm :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>• improved performance ( lower resource utilization and better concurrency )</s>
+<s id='vn12'>• hiệu suất cải thiện ( sử dụng nguồn tài nguyên ít hơn và khả năng truy cập đồng thời tốt hơn ) ;</s>
+</spair>
+<spair id='13'>
+<s id='en13'>• reduced memory usage ;</s>
+<s id='vn13'>• giảm thiểu tài nguyên bộ nhớ ;</s>
+</spair>
+<spair id='14'>
+<s id='en14'>• asynchronous I/O support ;</s>
+<s id='vn14'>• hỗ trợ Nhập/Xuất không đồng bộ ;</s>
+</spair>
+<spair id='15'>
+<s id='en15'>• dynamic reverse proxy configuration ;</s>
+<s id='vn15'>• cấu hình proxy đảo ngược động</s>
+</spair>
+<spair id='16'>
+<s id='en16'>• performance on par , or better , than pure event-driven Web servers ;</s>
+<s id='vn16'>• hiệu suất ngang tầm hoặc tốt hơn các máy chủ Web điều khiển theo sự kiện thuần tuý .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>• more granular time-out and rate/resource limiting capability ;</s>
+<s id='vn17'>• thời gian chờ có thể chia nhỏ hơn và khả năng giới hạn tốc độ // tài nguyên ;</s>
+</spair>
+<spair id='18'>
+<s id='en18'>• more finely tuned caching support , tailored for high traffic servers and proxies .</s>
+<s id='vn18'>• hỗ trợ bộ nhớ đệm được tinh chỉnh phù hợp hơn , thích hợp cho các máy chủ và proxy có lưu lượng truy cập cao .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Additional features include easier problem analysis , improved configuration flexibility , more powerful authentication and authorization , and documentation overhaul , ASF officials said .</s>
+<s id='vn19'>Các viên chức ASF cho biết , những tính năng bổ sung bao gồm phân tích sự cố dễ dàng hơn , cấu hình linh hoạt được cải thiện , tính xác thực và quyền hạn mạnh hơn , và kiểm tra toàn bộ tài liệu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Version 2.4 is the first major upgrade of the Apache Web server in several years .</s>
+<s id='vn20'>Phiên bản 2.4 là bản nâng cấp quan trọng đầu tiên của phần mềm máy chủ Web Apache trong nhiều năm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The Apache Web Server began as a fork ( an independent development stream ) of the NCSA httpd Web server created by Rob McCool at the National Center for Supercomputing Applications ( NCSA ) .</s>
+<s id='vn21'>Máy chủ Web Apache đã bắt đầu rẽ nhánh ( một hướng phát triển độc lập ) của máy chủ Web NCSA httpd được tạo ra bởi Rob McCool ở Trung tâm Ứng dụng Siêu Máy tính Quốc gia ( NCSA ) .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>After McCool 's departure from NCSA in 1994 , an online community of individuals called the Apache Group formed to support and enhance its software via email collaboration .</s>
+<s id='vn22'>Sau khi McCool rời khỏi NCSA vào năm 1994 , một cộng đồng trực tuyến gồm các cá nhân được gọi là Apache Group được thành lập để hỗ trợ và cải tiến phần mềm của họ qua sự cộng tác bằng email .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The Apache Group 's founding members included Brian Behlendorf , Roy Fielding , Rob Hartill , David Robinson , Cliff Skolnick , Randy Terbush , Robert Thau and Andrew Wilson .</s>
+<s id='vn23'>Các thành viên sáng lập Apache Group gồm có Brian Behlendorf , Roy Fielding , Rob Hartill , David Robinson , Cliff Skolnick , Randy Terbush , Robert Thau and Andrew Wilson .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>For the complete feature list , click here .</s>
+<s id='vn24'>Để xem danh sách tính năng hoàn chỉnh , nhấp chuột vào đây .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Apache HTTP Server software is released under the Apache License v2.0 , and is overseen by a self-selected team of active contributors to the project .</s>
+<s id='vn25'>Phần mềm máy chủ web Apache HTTP Server được phát hành theo Apache License v2.0 và được giám sát bởi một nhóm tự chọn gồm những người đóng góp tích cực cho dự án này .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A project management committee ( PMC ) guides the project 's day-to-day operations , including community development and product releases .</s>
+<s id='vn26'>Ban Quản lí dự án ( PMC ) hướng dẫn các hoạt động hàng ngày của dự án , bao gồm phát triển cộng đồng và phát hành sản phẩm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Apache HTTP Server source code , documentation , mailing lists and related resources are available here .</s>
+<s id='vn27'>Mã nguồn Apache HTTP Server , tài liệu hướng dẫn , danh sách gửi thư và các tài nguyên liên quan sẵn có ở đây .</s>
+</spair>
+</text>
+</doc>

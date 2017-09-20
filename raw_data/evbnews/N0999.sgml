@@ -1,0 +1,132 @@
+﻿<doc id='N0999'>
+<head>
+<title>Oil increases to highest level since 2008</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Oil increases to highest level since 2008</s>
+<s id='vn1'>Giá dầu tăng lên mức cao nhất kể từ năm 2008</s>
+</spair>
+<spair id='2'>
+<s id='en2'>( CNN ) - Oil prices spiked to their highest levels since 2008 on fears that tensions with Iran have the potential to disrupt supplies through the Strait of Hormuz .</s>
+<s id='vn2'>( CNN ) - Giá dầu đã tăng lên mức cao nhất kể từ năm 2008 vì nỗi lo ngại rằng tình trạng căng thẳng với Iran có thể dẫn đến việc ngừng cung cấp dầu qua eo biển Hormuz .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The price of a barrel of brent crude hit $ 128.40 a barrel and eclipsed $ 110 on the New York Mercantile Exchange after a disputed report Thursday on Iran 's Press TV and other Middle East outlets of a pipeline explosion in Saudi Arabia .</s>
+<s id='vn3'>Giá một thùng dầu thô đạt mức 128,40 đô la Mỹ và vượt mức 110 đô la Mỹ tại Sở Giao dịch Buôn bán New York ( NYMEX ) sau khi một bản tin gây tranh cãi được phát hôm thứ Năm trên kênh Press TV của Iran và trên các kênh phát lại của các nuớc Trung Đông khác xoay quanh vụ nổ đường ống dẫn dầu tại Ả Rập Xê-út .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Prices for brent crude dropped to $ 125.45 and $ 108.50 on the NYMEX early Friday .</s>
+<s id='vn4'>Đầu hôm thứ Sáu vừa rồi , giá dầu thô giảm còn 125,45 và 108,50 đô la Mỹ trên NYMEX .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" I think the main problems are coming from some supply disruptions , or some fear to supply disruptions , particularly Iran , " U.S. Federal Reserve Chief Ben Bernanke told a U.S. House Financial Services Committee on Wednesday .</s>
+<s id='vn5'>" Tôi cho rằng vấn đề chính xuất phát từ việc một số nguồn cung ứng dầu bị gián đoạn , hoặc nỗi lo sợ rằng việc này sẽ tiếp tục diễn ra , đặc biệt là phía Iran " , ông Ben Bernanke , Chủ tịch Cục dự trữ liên bang Hoa kỳ , phát biểu hôm thứ Tư truớc Ủy ban Dịch vụ Tài chính Hạ viện Mỹ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" So I 'm not sure what could provide relief in the very short term . "</s>
+<s id='vn6'>" Vì vậy tôi không chắc đâu sẽ là nguồn cứu trợ dầu trong thời gian ngắn sắp tới " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The price of North Sea brent crude has risen more than 15 % this year , while NYMEX crude has risen more than 8.5 % on growing tensions surrounding Iran and fears that may lead to the closure of the Strait of Hormuz , a critical pathway for petroleum exports .</s>
+<s id='vn7'>Năm nay , giá dầu thô ở Biển Bắc đã tăng hơn 15% trong khi giá dầu thô ở NYMEX cũng tăng hơn 8.5% vì những căng thẳng đang gia tăng xung quanh vấn đề Iran và nỗi lo sợ rằng việc này có thể dẫn đến việc đóng cửa eo biển Hormuz , con đường xuất khẩu dầu trọng yếu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Opinion : America , quit whining about gas</s>
+<s id='vn8'>Ý kiến : Hoa Kỳ hãy thôi than vãn về giá xăng dầu</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Frankly , it has nothing to do with supply and demand there -- these are geopolitical situations , " Angel Gurria , head of the Organization for Economic Co-operation and Development , told CNN.</s>
+<s id='vn9'>Ông Angel Gurria , Chủ tịch Tổ chức Hợp tác và Phát triển kinh tế bày tỏ ý kiến với CNN , " Thành thật mà nói , việc giá dầu tăng chẳng liên quan gì đến cung và cầu - mà đây là vấn đề mang tính địa lí và chính trị .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" So it has to be solved at that level . "</s>
+<s id='vn10'>Vì vậy , nó phải được giải quyết ở cấp độ đó " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>While worries in the Middle East have caused a spike , oil prices face longer-term pressure due to increased demand from China and other emerging economies .</s>
+<s id='vn11'>Trong khi những lo ngại ở Trung Đông đã làm dầu tăng giá thì giá dầu cũng đối mặt với áp lực dài hạn hơn vì nhu cầu dầu gia tăng ở Trung Quốc và nền kinh tế mới nổi khác .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>At 9.4 million barrels a day , China consumes half the amount of oil of the U.S. , according to 2010 data from the U.S. Energy Information Administration .</s>
+<s id='vn12'>Theo số liệu năm 2010 của Cơ quan Quản lý Thông tin Năng lượng Mỹ , Trung Quốc tiêu thụ 9,4 triệu thùng dầu một ngày , bằng một nửa con số của Hoa Kỳ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But while U.S. usage has remained flat , China 's oil consumption rises about 5 % per year .</s>
+<s id='vn13'>Tuy nhiên , trong khi lượng dầu tiêu thụ của Hoa Kỳ vẫn bình ổn thì lượng tiêu thụ của Trung Quốc lại tăng khoảng 5% mỗi năm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>China is now the world 's largest automobile market .</s>
+<s id='vn14'>Trung Quốc hiện là thị trường tiêu thụ xe hơi lớn nhất thế giới .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Last year , 18 million vehicles were sold in China , compared with about 13 million in the United States .</s>
+<s id='vn15'>Năm ngoái , có 18 triệu chiếc đuợc bán ra ở nước này trong khi con số này ở Mỹ chỉ khoảng 13 triệu .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Obama on soaring gas prices : No silver bullet</s>
+<s id='vn16'>Ý kiến của Tổng thống Obama về giá dầu tăng cao : Không hề có giải pháp đơn giản</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It 's not just more people driving , it 's also every product that you buy is made of plastic or synthetic materials out of China is made with oil , " said Patrick Chovanec of Tsinghua University .</s>
+<s id='vn17'>Giáo sư Patrick Chovanec của trường Đại học Tsinghua cho rằng : " Vấn đề không chỉ là ngày càng có nhiều người lái xe , mà còn nằm ở chỗ mỗi sản phẩm bạn mua từ Trung Quốc dù được làm bằng nhựa hay vật liệu tổng hợp thì đều được sản xuất với dầu " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>After the U.S. and China , Japan is a top consumer with 4.4 million barrels a day , followed by India ( 3.1 million ) and Russia ( 3 million ) .</s>
+<s id='vn18'>Sau Mỹ và Trung Quốc thì Nhật Bản là quốc gia tiêu thụ dầu cao nhất với 4,4 triệu thùng một ngày , sau đó là Ấn Độ ( 3,1 triệu ) và Nga ( 3 triệu ) .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>If oil prices continue to rise , analysts worry it will hurt developing economies .</s>
+<s id='vn19'>Nếu giá dầu tiếp tục tăng thì các nhà phân tích kinh tế lo ngại rằng việc này sẽ gây thiệt hại đến các nền kinh tế đang phát triển .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The growth has helped buoy Western economies struggling with tepid growth and the threat of recession .</s>
+<s id='vn20'>Sự tăng trưởng này đã giúp ích cho các nền kinh tế phương Tây vốn đang phải đấu tranh chống tăng trưởng kinh tế ảm đạm và mối đe doạ về suy thoái kinh tế .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Very high oil prices will dampen any kind of recovery and any kind of growth even during normal times , " Gurria said .</s>
+<s id='vn21'>" Giá dầu tăng quá cao sẽ làm giảm sự phục hồi và tăng trưởng kinh tế thậm chí trong những thời điểm thông thường , " ông Gurria nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" It is something we would like not to have . "</s>
+<s id='vn22'>" Đây là điều mà chúng tôi không mong muốn " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>U.S. gas high ?</s>
+<s id='vn23'>Giá dầu ở Mỹ ở mức cao ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Not as high as UK</s>
+<s id='vn24'>Vẫn không cao bằng ở Vương quốc Anh .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Rising oil prices , however , present a silver lining for Japan , which has been struggling with deflation for years , says Jesper Koll , managing director of research of JP Morgan in Tokyo .</s>
+<s id='vn25'>Ông Jesper Koll , Trưởng bộ phận nghiên cứu của JP Morgan tại Tokyo , bày tỏ quan điểm : " Giá dầu tăng lại mang đến niềm an ủi trong cơn bĩ cực cho Nhật Bản khi nuớc này đã và đang phải đấu tranh chống lại giảm phát trong nhiều năm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Oil is rising because global demand for goods and services is accelerating .</s>
+<s id='vn26'>" Giá dầu tăng vì nhu cầu về hàng hóa và dịch vụ trên thế giới cũng đang tăng nhanh .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>And Japan is a big beneficiary of that because Japan is such a powerful exporter .</s>
+<s id='vn27'>Nhật Bản là nước hưởng lợi nhiều nhất vì nuớc này là quốc gia rất mạnh về xuất khẩu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>So volumes are picking up much , much faster than costs are picking up for corporate Japan ," Koll said .</s>
+<s id='vn28'>Vì vậy , khối lượng hàng hoá tăng nhanh hơn rất nhiều so với chi phí đối với các công ty Nhật Bản , " ông Koll nói thêm .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Bad news would be a supply shock - if you did have a blockade of the Strait of Hormuz or a war in the Middle East , " Koll said .</s>
+<s id='vn29'>" Tin xấu là sẽ một cú sốc đối với nguồn cung ứng dầu - nếu eo biển Hormuz thật sự bị phong toả hoặc có chiến tranh ở Trung Đông , thì nguồn cung ứng dầu lớn này sẽ bị gián đoạn .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" You 'd have a big supply disruption , that would be cost push and Japan would get a double punch with declining global growth as well as an increase in costs really squeezing profits . "</s>
+<s id='vn30'>Điều này đẩy chi phí tăng cao và Nhật Bản sẽ bị sốc gấp đôi vì tăng trưởng kinh tế toàn cầu đang giảm và chi phí gia tăng làm giảm lợi nhuận đáng kể " .</s>
+</spair>
+</text>
+</doc>

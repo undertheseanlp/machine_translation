@@ -1,0 +1,80 @@
+﻿<doc id='N0462'>
+<head>
+<title>Fields Medal - Ngô Bảo Châu</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Fields Medal - Ngô Bảo Châu</s>
+<s id='vn1'>Huy chương Fields - Ngô Bảo Châu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Ngô Bảo Châu is being awarded the 2010 Fields Medal for his proof of the Fundamental Lemma in the theory of automorphic forms through the introduction of new algebro-geometric methods .</s>
+<s id='vn2'>Ngô Bảo Châu được trao giải thưởng Huy chương Fields 2010 cho công trình chứng minh Bổ đề cơ bản của lý thuyết hình thức tự cấu nhờ vào sự ứng dụng những phương pháp đại số hình học mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In the 1960 's and 70 's Robert Langlands formulated various basic unifying principles and conjectures relating automorphic forms on different groups , Galois representations and L-functions .</s>
+<s id='vn3'>Vào thập niên 60 và 70 , Robert Langlands đã hình thành những nguyên tắc thống nhất cơ bản khác nhau dựa trên những nhóm khác nhau , biểu diễn Galois và L-hàm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>These led to what today is referred to as the Langlands programme .</s>
+<s id='vn4'>Ngày nay , những nguyên tắc này có tên gọi là Chương trình Langlands .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The main tool in establishing some cases of these conjectures is the trace formula and in applying it for the above purposes a central difficulty intervenes : to establish some natural identities in harmonic analysis on local groups as well as ones connected to arithmetic geometric objects .</s>
+<s id='vn5'>Công cụ chính trong việc thiết lập một số trường hợp của những giả thuyết này là công thức vết và trong khi áp dụng nó cho những mục đích trên thì nảy sinh một vấn đề nan giải : thiết lập một số đồng nhất thức tự nhiên trong giải tích điều hoà vào nhóm địa phương cũng như những nhóm có liên quan đến những vật thể hình học đại số .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This problem became known as the Fundamental Lemma .</s>
+<s id='vn6'>Vấn đề này được biết đến với tên gọi là Bổ đề Cơ bản .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>After many advances by a number of researchers in 2004 , Laumon and Ngô Bao Chau established the Fundamental Lemma for a special family of groups , and recently Ngô Bao Chau established the Lemma in general .</s>
+<s id='vn7'>Sau nhiều cải tiến của số nhà nghiên cứu vào năm 2004 , Laumon và Ngô Bảo Châu chứng minh bổ đề cơ bản cho một nhóm đặc biệt , và gần đây Ngô Bảo Châu chứng minh bổ đề trong trường hợp tổng quát .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Ngô 's brilliant proof of this important long standing conjecture is based in part on the introduction of novel geometric objects and techniques into this sophisticated analysis .</s>
+<s id='vn8'>Công trình chứng minh xuất sắc của ông đối với giả thuyết quan trọng tồn tại lâu đời này một phần được dựa trên sự áp dụng những vật thể hình học và kỹ thuật tân tiến vào quá trình phân tích công phu này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>His achievement , which lies at the crossroads between algebraic geometry , group theory and automorphic forms , is leading to many striking advances in the Langlands programme as well as the subjects linked with it .</s>
+<s id='vn9'>Thành tựu của ông , nằm ở giao lộ giữa hình học đại số , lý thuyết nhóm hình thức tự cấu , đang dẫn đến nhiều kỳ tích trong Chương trình Langlands cũng như những đề tài có liên quan .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Brief Biodata</s>
+<s id='vn10'>Tiểu sử</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Ngô Bảo Châu was born on June 28 , 1972 , in Hanoi , Vietnam .</s>
+<s id='vn11'>Ngô Bảo Châu sinh ngày 28 tháng 6 năm 1972 tại Hà Nội , Việt Nam .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>After high school in Vietnam , he moved to France and studied at the Université Paris 6 , Ecole Normale Supérieure de Paris .</s>
+<s id='vn12'>Sau khi tốt nghiệp trung học ở VN , ông đến Pháp và học ở Trường Đại học Paris 6 Ecole Normale Supérieure de Paris .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He completed his PhD Degree in Orsay under the supervision of Gérard Laumon .</s>
+<s id='vn13'>Ông hoàn tất học vị tiến sĩ ở Orsay dưới sự hướng dẫn của Giáo sư Gérard Laumon .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He is currently Professor in the Faculté des Sciences at Orsay and Member of the Institute for Advanced Study in Princeton .</s>
+<s id='vn14'>Hiện tại ông là Giáo sư của Viện Khoa học tại Orsat và là thành viên của Viện nghiên cứu cao cấp ở Princeton .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In September 2010 , he will start his new appointment at the University of Chicago .</s>
+<s id='vn15'>Vào tháng 9 năm 2010 ông sẽ bắt đầu công tác tại Đại học Chicago .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Jointly with Laumon , Ngô was awarded the Clay research award in 2004 .</s>
+<s id='vn16'>Cùng với Laumon , ông đã giành được Giải thưởng nghiên cứu Clay vào năm 2004 .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In 2007 , he was awarded the Sophie Germain prize and the Oberwolfach prize .</s>
+<s id='vn17'>Năm 2007 , ông được trao giải thưởng Sophie Germain và giải thưởng Oberwolfach .</s>
+</spair>
+</text>
+</doc>

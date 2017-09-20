@@ -1,0 +1,100 @@
+﻿<doc id='N0364'>
+<head>
+<title>Beauty Is in the Gendered Eye of the Beholder</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Beauty Is in the Gendered Eye of the Beholder</s>
+<s id='vn1'>Sắc đẹp phụ thuộc vào cặp mắt giới tính của người ngắm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The brain of the beholder dictates the manner in which beauty will be appreciated .</s>
+<s id='vn2'>Não của người ngắm điều khiển cách thức mà người đó đánh giá vẻ đẹp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>While men process beauty with only the right side of their brains , women employ their entire brain for the activity .</s>
+<s id='vn3'>Trong khi nam giới cảm nhận cái đẹp chỉ bằng não phải của họ , phụ nữ lại dùng toàn bộ não của mình cho sự đánh giá đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Researchers were surprised at the findings that are detailed in a report published in the online edition of Proceedings of the National Academy of Science .</s>
+<s id='vn4'>Các nhà nghiên cứu đã ngạc nhiên với những phát hiện được trình bày chi tiết trong một bản báo cáo công bố trong ấn bản trực tuyến của tờ Proceedings of the National Academy of Science .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>According to researcher Camilo J. Cela-Conde of the University of Baleares in Palma de Mallorca , Spain , " It is well known that there are differences between brain activity in women and men in cognitive tasks .</s>
+<s id='vn5'>Theo nhà nghiên cứu Camilo J. Cela-Conde của Đại học Baleares tại Palma de Mallorca , Tây Ban Nha , " Chúng ta đã biết là có sự khác biệt giữa hoạt động não ở phụ nữ và nam giới trong các hoạt động nhận thức .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>However , why should this kind of difference appear in the case of appreciation of beauty ? "</s>
+<s id='vn6'>Tuy nhiên , tại sao loại khác biệt này xuất hiện trong trường hợp cảm nhận sắc đẹp ? "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>His answer reveals an idea that women link an object to language when they ponder it , whereas men tend to focus on an object 's spatial aspects .</s>
+<s id='vn7'>Ông đưa ra ý tưởng là phụ nữ liên kết một đối tượng với ngôn ngữ khi họ suy nghĩ về nó , trong khi nam giới có khuynh hướng tập trung vào các phần không gian của vật thể .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Men appear to focus on " coordinate " spatial awareness that is located in the right side of the brain and involves precision mental mapping with the use of co-ordinates to establish an object 's position in space .</s>
+<s id='vn8'>Nam giới có vẻ tập trung vào nhận thức không gian " phối hợp " nằm ở bên phải của não và liên quan đến việc sắp xếp trí tuệ chính xác bằng cách sử dụng các toạ độ để xác định vị trí của một vật thể trong không gian .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The " categorical " spatial awareness is located in the left side of the brain and involves evaluating the position of objects in accordance with categories such as above , below , left , and right .</s>
+<s id='vn9'>Nhận thức không gian " tuyệt đối " nằm ở bên trái của não và liên quan đến việc đánh giá vị trí của các vật thể phù hợp với các khía cạnh như là trên , dưới , trái , và phải .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Cela-Conde acknowledged that the explanation of differences in the perception of beauty does not explain why or how the human capacity to appreciate beauty evolved .</s>
+<s id='vn10'>Cela-Conde thừa nhận rằng giải thích về sự khác biệt trong nhận thức về vẻ đẹp không giải thích được tại sao hoặc làm thế nào mà khả năng đánh giá cái đẹp của con người tiến triển .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>However , he noted , " The differences that we have found might relate to the different social roles that , hypothetically , men and women had during human evolution . "</s>
+<s id='vn11'>Tuy nhiên , ông ấy lưu ý , " Sự khác biệt mà chúng ta đã tìm ra có thể liên quan đến các vai trò xã hội khác , mà theo giả thuyết , phụ nữ và nam giới đã có trong suốt sự tiến hóa của con người . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>For the study , the researchers put 10 men and 10 women to the test by presenting paintings and photos of urban scenes and landscapes to them then asking them to evaluate each scene and describe it as being either beautiful or not .</s>
+<s id='vn12'>Để nghiên cứu , các nhà khoa học thử nghiệm trên 10 người đàn ông và 10 phụ nữ bằng cách đưa cho họ xem các tấm hình và bức tranh phong cảnh đô thị rồi yêu cầu họ đánh giá mỗi cảnh và cho biết là nó đẹp hay không .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>During the evaluations by the participants , the researchers used imaging technology called magnetoencephalography to monitor images of magnetic fields produced by electrical currents in their brains .</s>
+<s id='vn13'>Trong đánh giá của những người tham dự , các nhà nghiên cứu sử dụng công nghệ tạo hình ảnh gọi là chụp từ não đồ để kiểm soát các hình ảnh của từ trường tạo ra do dòng điện trong não của những người tham gia .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>No differences were noted between male and female brains during the first 300 milliseconds , but increased activity was seen in all participants from 300 to 700 milliseconds for objects that were described as beautiful .</s>
+<s id='vn14'>Không có sự khác biệt nào được ghi nhận giữa não của nữ giới và nam giới trong 300 mi-li giây đầu tiên , nhưng hoạt động tăng cường được thấy trong tất cả người tham dự từ mi-li giây thứ 300 đến 700 đối với các hình ảnh mà được miêu tả là đẹp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The most active brain region among participants was the parietal lobe , which manages visual perception , spatial orientation and information processing .</s>
+<s id='vn15'>Vùng não hoạt động nhiều nhất trong số những người tham dự là thùy đỉnh , điều khiển nhận thức thị giác , định hướng không gian và xử lý thông tin .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The difference noted was that for the men , the activity was focused only on the right side of the brain , while both sides were active in the women .</s>
+<s id='vn16'>Sự khác biệt ghi nhận được là đối với nam giới , hoạt động chỉ tập trung ở bên phải của não , trong khi đối với nữ giới thì cả hai bên não đều hoạt động .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Although there were differences between people as to what was described as beautiful and what not , the researchers found no identifiable differences related to gender .</s>
+<s id='vn17'>Mặc dù có sự khác biệt khi mọi người nhận định cái gì là đẹp và cái gì không , các nhà nghiên cứu phát hiện rằng không có sự khác biệt có thể nhận biết được liên quan đến giới tính .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Regarding this aspect of the research , Cela-Conde said , " Any person can find beautiful a landscape , a building or a canvas that some others will find awful .</s>
+<s id='vn18'>Liên quan đến khía cạnh này của nghiên cứu , Cela-Conde cho rằng , " Bất cứ người nào cũng có thể cho rằng một phong cảnh là đẹp , một toà nhà hay một bức tranh sơn dầu trong khi người khác lại cho rằng nó xấu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But sex has little to do with those differences .</s>
+<s id='vn19'>Nhưng giới tính ít có liên quan đến các sự khác biệt đó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Perhaps they relate with other variables , such as age or education . "</s>
+<s id='vn20'>Có lẽ những khác biệt ấy là do nhiều khác biệt khác , như là tuổi tác hoặc giáo dục . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He also noted , " It is curious that , using different neural networks , the final result is very similar in women and men .</s>
+<s id='vn21'>Ông ấy cũng lưu ý , " Điều đáng tò mò là , dù sử dụng các mãng lưới thần kinh khác nhau , kết quả chung cuộc rất tương tự ở nữ giới và nam giới .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>But this seems to be the case . "</s>
+<s id='vn22'>Nhưng dường như điều này là đúng . "</s>
+</spair>
+</text>
+</doc>

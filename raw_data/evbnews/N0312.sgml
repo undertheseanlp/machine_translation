@@ -1,0 +1,272 @@
+﻿<doc id='N0312'>
+<head>
+<title>How To Choose The Best Stock Valuation Method</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How To Choose The Best Stock Valuation Method</s>
+<s id='vn1'>Làm thế nào để chọn được phương pháp định giá cổ phiếu tốt nhất ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Each stock is different , and each industry sector has unique properties that may require varying valuation approaches .</s>
+<s id='vn2'>Mỗi cổ phiếu mỗi khác , và mỗi ngành lại có những đặc tính độc nhất vô nhị có thể đòi hỏi bạn phải thay đổi phương pháp định giá khác nhau .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The good news is that this article will attempt to explain the general cases of when to use most of the valuation methods .</s>
+<s id='vn3'>Tin tức tốt lành là bài này sẽ cố gắng giải thích các trường hợp tổng quát khi nào thì thường dùng phương pháp định giá nấy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>When trying to figure out which valuation method to use to value a stock for the first time , most investors will quickly discover the overwhelming number of valuation techniques available to them today .</s>
+<s id='vn4'>Khi cố gắng tìm xem phương pháp định giá nào dùng để định giá một cổ phiếu trong lần đầu tiên , hầu hết các nhà đầu tư đều nhanh chóng nhận thấy rằng hiện nay có vô số phương pháp kỹ thuật định giá .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>There are the simple to use ones , such as the comparables method , and there are the more involved methods , such as the discounted cash flow model .</s>
+<s id='vn5'>Có những phương pháp đơn giản , chẳng hạn phương pháp so sánh , và có những phương pháp phức tạp hơn , chẳng hạn phương pháp mô hình luồng tiền mặt chiết khấu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Which one should you use ?</s>
+<s id='vn6'>Bạn nên sử dụng phương pháp nào ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Unfortunately , there is no one method that is best suited for every situation .</s>
+<s id='vn7'>Đáng tiếc , không có một phương pháp tối ưu đối với mọi tình huống .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Each stock is different , and each industry sector has unique properties that may require varying valuation approaches .</s>
+<s id='vn8'>Mỗi cổ phiếu mỗi khác , và mỗi ngành lại có những đặc tính độc nhất vô nhị có thể đòi hỏi bạn phải thay đổi phương pháp định giá khác nhau .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The good news is that this article will attempt to explain the general cases of when to use most of the valuation methods .</s>
+<s id='vn9'>Thật vui mừng là bài này sẽ cố gắng giải thích các trường hợp tổng quát khi nào thì thường dùng phương pháp định giá nấy .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Two Categories of Valuation Models</s>
+<s id='vn10'>Hai loại mô hình định giá</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Valuation methods typically fall into two main categories : absolute and relative valuation models .</s>
+<s id='vn11'>Các phương pháp định giá thường rơi vào hai loại chính : mô hình định giá tương đối và tuyệt đối .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Absolute valuation models attempt to find the intrinsic or " true " value of an investment based only on fundamentals .</s>
+<s id='vn12'>Những mô hình định giá tuyệt đối cố gắng tìm ra giá trị bản chất hay giá trị " thực " của một khoản đầu tư chỉ dựa trên những yếu tố cơ bản .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Looking at fundamentals simply mean you would only focus on such things as dividends , cash flow and growth rate for a single company , and not worry about any other companies .</s>
+<s id='vn13'>Xem xét những yếu tố cơ bản đơn giản có nghĩa là bạn chỉ tập trung vào những thứ như cổ tức , luồng tiền mặt , tốc độ tăng trưởng của một công ty riêng lẻ , và không bận tâm về bất kỳ công ty nào khác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Valuation models that fall into this category include the dividend discount model , discounted cash flow model , residual income models and asset-based models .</s>
+<s id='vn14'>Những mô hình kinh doanh thuộc nhóm này bao gồm mô hình chiết khấu cổ tức , mô hình luồng tiền mặt chiết khấu , những mô hình thu nhập thặng dư và mô hình dựa trên tài sản .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In contrast to absolute valuation models , relative valuation models operate by comparing the company in question to other similar companies .</s>
+<s id='vn15'>Ngược lại các mô hình định giá tuyệt đối , mô hình định giá tương đối so sánh công ty đang bàn với những công ty tương tự khác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>These methods generally involve calculating multiples or ratios , such as the price-to-earnings multiple , and comparing them to the multiples of other comparable firms .</s>
+<s id='vn16'>Những phương pháp này thường đòi hỏi phải tính bội số hoặc tỷ số , chẳng hạn bội số giá trên thu nhập , và so sánh chúng với bội số của các công ty có thể so sánh được khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For instance , if the P/E of the firm you are trying to value is lower than the P/E multiple of a comparable firm , that company may be said to be relatively undervalued .</s>
+<s id='vn17'>Ví dụ , nếu bội số giá trên thu nhập của công ty bạn đang cố gắng định giá mà thấp hơn bội số P/E của một công ty có thể so sánh nào đó , thì công ty ấy có thể được cho là bị định giá tương đối thấp .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Generally , this type of valuation is a lot easier and quicker to do than the absolute valuation methods , which is why many investors and analysts start their analysis with this method .</s>
+<s id='vn18'>Nhìn chung , loại định giá này thực hiện dễ dàng và nhanh chóng hơn nhiều các phương pháp định giá tuyệt đối , đây là lý do tại sao nhiều nhà đầu tư và chuyên gia phân tích bắt đầu những phân tích của họ với phương pháp này .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Let 's take a look at some of the more popular valuation methods available to investors , and see when it is appropriate to use each model .</s>
+<s id='vn19'>Chúng ta hãy tìm hiểu một số phương pháp định giá phổ biến hơn , có sẵn cho nhà đầu tư , và xem khi nào sử dụng chúng thì thích hợp .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Dividend Discount Model ( DDM )</s>
+<s id='vn20'>Mô hình chiết khấu cổ tức ( DDM )</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The dividend discount model ( DDM ) is one of the most basic of the absolute valuation models .</s>
+<s id='vn21'>Mô hình chiết khấu cổ tức ( DDM ) là một trong những mô hình cơ bản nhất về định giá tuyệt đối .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The dividend model calculates the " true " value of a firm based on the dividends the company pays its shareholders .</s>
+<s id='vn22'>Mô hình cổ tức tính giá trị " thực " của một doanh nghiệp dựa trên cổ tức doanh nghiệp này trả cho các cổ đông của mình .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The justification for using dividends to value a company is that dividends represent the actual cash flows going to the shareholder , thus valuing the present value of these cash flows should give you a value for how much the shares should be worth .</s>
+<s id='vn23'>Lý lẽ cho việc sử dụng cổ tức để định giá công ty là cổ tức đại diện cho các luồng tiền mặt trên thực tế đến với cổ đông , do đó định giá giá trị hiện tại các dòng tiền này sẽ cho bạn biết giá trị cổ phiếu đáng là bao nhiêu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So , the first thing you should check if you want to use this method is if the company actually pays a dividend .</s>
+<s id='vn24'>Vì thế , nếu bạn muốn dùng phương pháp này , điều đầu tiên cần kiểm tra là công ty thực sự có trả cổ tức hay không .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Secondly , it is not enough for the company to just a pay dividend ; the dividend should also be stable and predictable .</s>
+<s id='vn25'>Thứ hai , nếu chỉ là công ty có trả cổ tức thôi thì chưa đủ ; mà cổ tức còn phải ổn định và có thể ước tính được .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The companies that pay stable and predictable dividends are typically mature blue-chip companies in mature and well-developed industries .</s>
+<s id='vn26'>Những công ty trả cổ tức ổn định và có thể ước tính được thường là những công ty lớn hàng đầu , đang phát đạt thuộc những ngành rất phát triển và thịnh vượng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>These type of companies are often best suited for this type of valuation method .</s>
+<s id='vn27'>Những công ty như vậy thường thích hợp nhất với loại phương pháp định giá này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>For instance , take a look at the dividends and earnings of company XYZ below and see if you think the DDM model would be appropriate for this company :</s>
+<s id='vn28'>Chẳng hạn , hãy nhìn vào cổ tức và lợi nhuận của công ty XYZ dưới đây và thấy rằng mô hình DDM phù hợp với nó :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In this example , the earnings per share are consistently growing at an average rate of 5 % , and the dividends are also growing at the same rate .</s>
+<s id='vn29'>Trong ví dụ này , lợi nhuận mỗi cổ phiếu đang tăng trưởng ổn định với tốc độ bình quân 5% và cổ tức cũng tăng giống như vậy .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>This means the firm 's dividend is consistent with its earnings trend which would make it easy to predict for future periods .</s>
+<s id='vn30'>Nghĩa là cổ tức của công ty phù hợp với xu hướng lợi nhuận của nó - giúp dễ dàng dự đoán tương lai .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In addition , you should check the payout ratio to make sure the ratio is consistent .</s>
+<s id='vn31'>Ngoài ra , bạn nên kiểm tra tỷ lệ chi trả cổ tức để chắc chắn tỷ lệ đó trước sau như một .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In this case the ratio is 0.125 for all six years which is good , and makes this company an ideal candidate for the dividend model .</s>
+<s id='vn32'>Trong trường hợp này tỷ lệ này là 0,125 đều trong 6 năm - tỷ lệ rất tốt , thì trường hợp công ty này ta sử dụng mô hình cổ tức sẽ là lý tưởng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Discounted Cash Flow Model ( DCF )</s>
+<s id='vn33'>Mô hình luồng tiền mặt chiết khấu ( DCF )</s>
+</spair>
+<spair id='34'>
+<s id='en34'>What if the company does n't pay a dividend or its dividend pattern is irregular ?</s>
+<s id='vn34'>Nếu công ty không trả cổ tức hoặc cổ tức trả không đều đặn thì sao ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In this case , move on to check if the company fits the criteria to use the discounted cash flow model .</s>
+<s id='vn35'>Trong trường hợp này , hãy tiếp tục kiểm tra xem công ty đó có phù hợp với các tiêu chuẩn sử dụng mô hình luồng tiền mặt chiết khấu hay không .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Instead of looking at dividends , the DCF model uses a firm 's discounted future cash flows to value the business .</s>
+<s id='vn36'>Thay vì xem xét cổ tức , mô hình DCF sử dụng những luồng tiền mặt trong tương lai được chiết khấu của doanh nghiệp để định giá doanh nghiệp .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The big advantage of this approach is that it can be used with a wide variety of firms that do n't pay dividends , and even for companies that do pay dividends , such as company XYZ in the previous example .</s>
+<s id='vn37'>Ưu điểm lớn của phương pháp này là có thể sử dụng cho nhiều doanh nghiệp không trả cổ tức , và thậm chí cho cả những công ty có trả cổ tức , chẳng hạn công ty XYZ trong ví dụ trên .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The DCF model has several variations , but the most commonly used form is the Two-Stage DCF model .</s>
+<s id='vn38'>Mô hình DCF có một số biến thể , nhưng hình thức thông dụng nhất là mô hình luồng tiền mặt chiết khấu hai giai đoạn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>In this variation , the free cash flows are generally forecasted for five to ten years , and then a terminal value is calculated to account for all the cash flows beyond the forecast period .</s>
+<s id='vn39'>Trong biến thể này , các luồng tiền tự do thường được dự báo 5 đến 10 năm , và sau đó giá trị còn lại ở cuối kỳ dự báo được tính để phát hiện ra tất cả các luồng tiền ngoài thời gian dự báo .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>So , the first requirement for using this model is for the company to have predictable free cash flows , and for the free cash flows to be positive .</s>
+<s id='vn40'>Vì vậy , yêu cầu đầu tiên của việc sử dụng mô hình này là công ty có những luồng tiền tự do có thể dự báo , và những luồng tiền tự do ấy là luồng tiền dương .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Based on this requirement alone , you will quickly find that many small high-growth firms and non-mature firms will be excluded due to the large capital expenditures these companies generally face .</s>
+<s id='vn41'>Chỉ căn cứ vào mỗi yêu cầu ấy thôi , bạn sẽ nhanh chóng phát hiện ra nhiều công ty nhỏ tăng trưởng cao và những công ty không lớn mạnh sẽ bị loại trừ vì những khoản chi tiêu đầu tư lớn họ thường phải đối mặt .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>For example , take a look at the simplified cash flows of the following firm :</s>
+<s id='vn42'>Ví dụ , hãy xem xét những luồng tiền mặt được giản hoá của doanh nghiệp sau :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>In this snapshot , the firm has produced increasing positive operating cash flow , which is good .</s>
+<s id='vn43'>Trong bản kê ngắn này , doanh nghiệp nọ đã tạo ra luồng tiền dương tăng dần từ hoạt động kinh doanh , điều đó rất tốt .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>But you can see by the high level of capital expenditures that the company is still investing a lot of its cash back into the business in order to grow .</s>
+<s id='vn44'>Nhưng bạn có thể thấy qua mức độ chi tiêu đầu tư cao là công ty vẫn đang đầu tư nhiều tiền trở lại hoạt động kinh doanh để phát triển .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>This results in negative free cash flows for four of the six years , and would make it extremely difficult or impossible to predict the cash flows for the next five to ten years .</s>
+<s id='vn45'>Việc này dẫn đến những luồng tiền tự do âm 4 trong 6 năm , và sẽ gây rất nhiều khó khăn hoặc khiến cho không thể dự báo nổi các luồng tiền 5 đến 10 năm tiếp theo .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>So , in order to use the DCF model most effectively , the target company should generally have stable , positive and predictable free cash flows .</s>
+<s id='vn46'>Vì vậy , để sử dụng hiệu quả nhất mô hình DCF , công ty mục tiêu nói chung cần có luồng tiền mặt tự do dương , ổn định và có thể dự báo .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Companies that have the ideal cash flows suited for the DCF model are typically the mature firms that are past the growth stages .</s>
+<s id='vn47'>Những công ty có các luồng tiền mặt lý tưởng thích hợp với mô hình DCF thường là những công ty lớn mạnh đã trải qua các giai đoạn tăng trưởng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Comparables Method</s>
+<s id='vn48'>Phương pháp so sánh</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The last method we 'll look at is sort of a catch-all method that can be used if you are unable to value the company using any of the other models , or if you simply do n't want to spend the time crunching the numbers .</s>
+<s id='vn49'>Phương pháp cuối cùng chúng ta tìm hiểu là loại phương pháp bao trùm có thể dùng khi bạn không thể định giá công ty bằng bất kì mô hình nào ở trên , hoặc trường hợp bạn chỉ đơn giản là không muốn tốn thời gian nghiền ngẫm những con số .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The method does n't attempt to find an intrinsic value for the stock like the previous two valuation methods do ; it simply compares the stock 's price multiples to a benchmark to determine if the stock is relatively undervalued or overvalued .</s>
+<s id='vn50'>Phương pháp này không cố tìm ra giá trị thực của cổ phiếu giống như hai phương pháp kia ; nó chỉ so sánh bội số giá cổ phiếu với một chuẩn nào đó để xác định người ta định giá cổ phiếu tương đối cao hay thấp .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>The rationale for this is based off of the Law of One Price , which states that two similar assets should sell for similar prices .</s>
+<s id='vn51'>Nguyên lý căn bản của phương pháp này được dựa trên quy luật một giá , phát biểu rằng 2 tài sản giống nhau phải bán đồng giá .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The intuitive nature of this method is one of the reasons it is so popular .</s>
+<s id='vn52'>Bản chất trực giác của phương pháp này là một trong những lý do vì sao nhiều người sử dụng nó .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The reason why it can be used in almost all circumstances is due to the vast number of multiples that can be used , such as the price-to-earnings ( P/E ) , price-to-book ( P/B ) , price-to-sales ( P/S ) , price-to-cash flow ( P/CF ) , and many others .</s>
+<s id='vn53'>Lý do phương pháp này có thể được mọi người sử dụng trong hầu hết mọi trường hợp là vì có thể sử dụng rất nhiều bội số , chẳng hạn , giá-trên-thu nhập ( P/E ) , giá-trên-giá trị sổ sách ( P/B ) , giá-trên-doanh thu ( P/S ) , giá-trên-dòng tiền ( P/CF ) , và nhiều bội số khác .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Of these ratios though , the P/E ratio is the most commonly used one because it focuses on the earnings of the company , which is one of the primary drivers of an investments value .</s>
+<s id='vn54'>Mặc dù nằm trong đám những tỷ số này , nhưng tỷ số P/E là tỷ số thông dụng nhất vì nó tập trung vào lợi nhuận của công ty , một trong những động lực quan trọng nhất của giá trị đầu tư .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>When can you use the P/E multiple for a comparison ?</s>
+<s id='vn55'>Khi nào bạn có thể dùng bội số P/E để so sánh ?</s>
+</spair>
+<spair id='56'>
+<s id='en56'>You can generally use it if the company is publicly traded because you need the price of the stock and you need to know the earnings of the company .</s>
+<s id='vn56'>Nói chung bạn có thể sử dụng nó khi công ty được giao dịch trên thị trường chứng khoán vì bạn cần giá cổ phiếu và cần biết lợi nhuận của công ty .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Secondly , the company should be generating positive earnings because a comparison using a negative P/E multiple would be meaningless .</s>
+<s id='vn57'>Thứ hai , công ty phải đang có lợi nhuận dương vì nếu so sánh mà sử dụng bội số P // E âm thì sẽ vô nghĩa .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>And lastly , the earnings quality should be strong .</s>
+<s id='vn58'>Và cuối cùng , chất lượng lợi nhuận phải tốt .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>That is , earnings should not be too volatile and the accounting practices used by management should not distort the reported earnings drastically .</s>
+<s id='vn59'>Như vậy , lợi nhuận phải thật ổn định và các phương pháp kế toán lãnh đạo công ty sử dụng không được bóp méo trầm trọng lợi nhuận báo cáo .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>These are just some of the main criteria investors should look at when choosing which ratio or multiples to use .</s>
+<s id='vn60'>Đây chỉ là một vài trong số các tiêu chuẩn chính nhà đầu tư nên xem xét khi chọn dùng tỷ lệ hay bội số nào .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If the P/E multiple cannot be used , simply look at using a different ratio such as the price-to-sales multiple .</s>
+<s id='vn61'>Nếu không thể sử dụng bội số P/E , thì đơn giản là xem xét dùng một tỷ số khác chẳng hạn như bội số giá-trên-doanh thu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The Bottom Line</s>
+<s id='vn62'>Kết luận</s>
+</spair>
+<spair id='63'>
+<s id='en63'>No one valuation method is perfect for every situation , but by knowing the characteristics of the company , you can select a valuation method that best suits the situation .</s>
+<s id='vn63'>Không có một phương pháp định giá nào hoàn hảo với mọi tình huống , nhưng nếu bạn biết được các đặc điểm của công ty thì có thể lựa chọn một phương pháp định giá thích hợp nhất với trường hợp đó .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>In addition , investors are not limited to just using one method .</s>
+<s id='vn64'>Ngoài ra , các nhà đầu tư có rất nhiều phương pháp khác nhau để sử dụng .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Often , investors will perform several valuations to create a range of possible values or average all of the valuations into one .</s>
+<s id='vn65'>Trong nhiều trường hợp , nhà đầu tư sẽ định giá một vài lần nhằm tạo ra một loạt giá trị khả dĩ hoặc lấy giá trị bình quân .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,160 @@
+﻿<doc id='N0983'>
+<head>
+<title>Six Features You 'll Love in Office 15</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Six Features You 'll Love in Office 15</s>
+<s id='vn1'>Sáu tính năng trong Office 15 mà bạn sẽ thích</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Most of the attention on Redmond ( * ) this year is focused on the upcoming Windows 8 operating system .</s>
+<s id='vn2'>Hầu hết sự chú ý vào hãng Microsoft năm nay đều tập trung vào hệ điều hành Windows 8 sắp phát hành .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But , the next generation of Microsoft Office is also currently under development--ostensibly to be launched along side Windows 8 this fall--and Office 15 has the potential to be the real hero among the two .</s>
+<s id='vn3'>Tuy nhiên , thế hệ kế tiếp của bộ phần mềm Microsoft Office cũng đang được phát triển – có vẻ như sẽ được phát hành cùng thời điểm với Windows 8 vào mùa thu năm nay .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>---( * ) Thành ph ố thu ộ c ti ểu bang Washington , Hoa Kỳ . Đây là nơi Microsoft đặt trụ sở .</s>
+<s id='vn4'>Office 15 có thể sẽ trở thành " nhân vật chính " trong số hai sản phẩm trên .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Microsoft has made a number of major changes to the latest version of Windows—not the least of which are the touchscreen optimized Metro interface , and adding ARM-based tablets as an option .</s>
+<s id='vn5'>Microsoft đã thực hiện nhiều thay đổi lớn đối với phiên bản Windows mới nhất – một trong số đó bao gồm giao diện Metro tối ưu hóa cho màn hình cảm ứng và bổ sung lựa chọn máy tính bảng nền tảng ARM .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But , as the de facto productivity suite for businesses , Microsoft Office is the standard bearer of the Microsoft Windows operating system .</s>
+<s id='vn6'>Thế nhưng , là bộ sản phẩm hiệu suất thực dành cho doanh nghiệp , Microsoft Office là phần chính của hệ điều hành Microsoft Windows .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Office 15 has the power to drive adoption of Windows 8 by taking advantage of the unique capabilities of the new OS.</s>
+<s id='vn7'>Office 15 có thể thúc đẩy người dùng chuyển sang Windows 8 bằng cách tận dụng những khả năng độc đáo của hệ điều hành mới này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>I have not personally had a chance to play with the Office 15 beta yet , but I have had the opportunity to live vicariously through Paul Thurrott , a respected authority on Microsoft and technology in general .</s>
+<s id='vn8'>Cá nhân tôi chưa có cơ hội " vọc " phiên bản beta của Office 15 , nhưng tôi cũng được trải nghiệm gián tiếp thông qua Paul Thurrott , một viên chức đáng kính của Microsoft và lĩnh vực công nghệ nói chung .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>After reading Paul 's feedback on Office 15 , it seems to me there are certain aspects that users and IT admins will appreciate .</s>
+<s id='vn9'>Sau khi đọc nhận xét của ông về Office 15 , tôi nghĩ dường như Office 15 có những khía cạnh nhất định mà người dùng và quản trị viên CNTT sẽ đánh giá cao .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>1 . Hidden Ribbon</s>
+<s id='vn10'>1 . Giao diện ribbon ẩn</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Personally , I like the ribbon interface , and I 'm glad that Microsoft is extending that same functionality across virtually every product it makes .</s>
+<s id='vn11'>Bản thân tôi thích giao diện ribbon , và tôi cảm thấy vui mừng là Microsoft đang mở rộng chức năng tương tự trên hầu hết mỗi sản phẩm mà hãng sản xuất .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But , many people do n't appreciate it like I do , and even though I 'm a fan I 'd still like to work on a less cluttered workspace sometimes .</s>
+<s id='vn12'>Tuy nhiên , có nhiều người không đánh giá cao giao diện này giống như tôi , và mặc dù tôi yêu thích giao diện này , đôi khi tôi cũng muốn có một không gian làm việc ít rối rắm hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Thurrott reports that Office 15 continues the legacy of the ribbon UI , but that it is hidden by default .</s>
+<s id='vn13'>Ông Paul Thurrott cho biết Office 15 sẽ tiếp tục kế thừa giao diện ribbon , nhưng mặc định nó bị ẩn đi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He points out that the move probably has something to do with accommodating the simplicity of the Metro interface .</s>
+<s id='vn14'>Ông chỉ ra rằng động thái này có thể liên quan đến việc đơn giản hoá giao diện Metro .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>2 . Touch Mode</s>
+<s id='vn15'>2 . Chế độ cảm ứng</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Microsoft is jumping into the tablet game with Windows 8--with both traditional Intel/AMD-based architecture , as well as Windows on ARM ( WOA ) for ARM-based tablet hardware .</s>
+<s id='vn16'>Microsoft đang có ý định gia nhập thị trường máy tính bảng bằng Windows 8 – với cả cấu trúc nền tảng Intel/AMD truyền thống lẫn phiên bản Windows trên nền tảng ARM ( WOA ) cho phần cứng máy tính bảng nền tảng ARM .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>One of the defining elements of tablets is the lack of a physical keyboard , and the dependence on a touchscreen interface for multi-gesture navigation .</s>
+<s id='vn17'>Một trong những yếu tố đặc thù của máy tính bảng là chúng không có bàn phím vật lý , và phụ thuộc vào giao diện màn hình cảm ứng để thực hiện điều hướng đa cử chỉ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Office 15 applications have a Touch Mode button to make the software easier to use with a touchscreen device .</s>
+<s id='vn18'>Các ứng dụng trong bộ Office 15 có một nút Touch Mode nhằm tạo sự dễ dàng cho việc sử dụng trên thiết bị cảm ứng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>According to Thurrott , Touch Mode enlarges the ribbon buttons and other controls , and spaces things out more so you can swipe and tap more accurately with your fingers .</s>
+<s id='vn19'>Theo ông Paul Thurrott , chế độ cảm ứng có thể phóng to các nút ribbon và các nút điều khiển khác cũng như tạo thêm khoảng cách giữa các nút để bạn có thể quét tay ( swipe ) và chạm chính xác hơn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>3 . Office Marketplace</s>
+<s id='vn20'>3 . Office Marketplace – chợ ứng dụng Office</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You ca n't develop anything these days without launching some sort of app store , and Office 15 wo n't be an exception to that rule .</s>
+<s id='vn21'>Ngày nay bạn không thể phát triển bất cứ thứ gì mà không có kho ứng dụng , và Office 15 cũng không ngoại lệ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Microsoft is planning the Office Marketplace as a resource for users to find extensions and tools to expand the capabilities of the Office software , and customize it to work the way you need it to .</s>
+<s id='vn22'>Microsoft dự định sẽ phát triển Marketplace thành một kho ứng dụng để người dùng có thể tìm kiếm tiện ích mở rộng và công cụ để mở rộng tính năng của bộ Office và tùy chỉnh nó theo cách của bạn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>4 . Password Protected Change Tracking</s>
+<s id='vn23'>4 . Tính năng " track changes " bảo mật</s>
+</spair>
+<spair id='24'>
+<s id='en24'>As a writer , I love being able to track changes within a document .</s>
+<s id='vn24'>Là người viết báo , tôi thích theo dõi những thay đổi trong một tài liệu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It makes it much easier to follow feedback and comments , and to be able to see what was added , deleted , or changed , from the original .</s>
+<s id='vn25'>Nó tạo sự dễ dàng cho việc theo dõi các nhận xét và chú thích và nhìn thấy những phần nội dung bổ sung , xóa bỏ , hoặc thay đổi từ bản gốc .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>However , anyone with access to the file can accept changes or delete comments , and the tracking will be gone .</s>
+<s id='vn26'>Tuy nhiên , bất cứ ai có thể truy cập tài liệu này đều có thể chấp nhận phần nội dung thay đổi hoặc xóa bỏ chú thích và như thế thì tính năng " tracking " cũng mất đi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Word 15 , the Office 15 version of Microsoft Word , allows you to password protect change tracking so that only you—or someone with the designated password—can delete those changes .</s>
+<s id='vn27'>Word 15 , phiên bản Microsoft Word trong bộ Office 15 , cho phép bạn bảo vệ tính năng " track changes " bằng mật khẩu để chỉ có bạn hoặc người có mật khẩu mới có thể xóa những thay đổi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>5 . Weather Bar</s>
+<s id='vn28'>5 . Thanh dự báo thời tiết</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Outlook 15 sports a weather bar in Calendar mode .</s>
+<s id='vn29'>Điểm nổi bật của Outlook 15 là thanh dự báo thời tiết ở chế độ Lịch ( Calendar ) .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Obviously the weather updates can only predict so far into the future--usually a week to 10 days tops--but , now you can have at-a-glance access to the predicted weather conditions on a given day to help you plan out your week .</s>
+<s id='vn30'>Rõ ràng là các bản cập nhật thời tiết chỉ có thể dự báo trong khoảng thời gian thường là từ một tuần đến 10 ngày – nhưng , bây giờ bạn có thể truy cập nhanh các điều kiện thời tiết được dự đoán vào một ngày nhất định để lập ra kế hoạch trong tuần .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>6 . Inline Replies</s>
+<s id='vn31'>6 . Tính năng trả lời theo mạch ( Inline Replies )</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Following the lead of the Office Web Apps version of Outlook , Outlook 15 will no longer pop open a new window to reply to an email message .</s>
+<s id='vn32'>Kế thừa phiên bản nền web ( Office Web Apps ) của Outlook , Outlook 15 sẽ không mở ra cửa sổ mới khi bạn trả lời email .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Thurrott says , " Now , replies happen inline by default , and in the area normally reserved for the reading pane . "</s>
+<s id='vn33'>Ông Paul Thurrott cho biết : " Mặc định , các email trả lời sẽ xuất hiện cùng mạch với email gốc và nằm trong phần đọc email dành riêng " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>This is just the tip of the iceberg , really .</s>
+<s id='vn34'>Đây thực sự chỉ là những cải tiến dễ nhận thấy .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Microsoft seems to be going to great lengths to make Office 15 perform a delicate balancing act .</s>
+<s id='vn35'>Microsoft dường như đang rất nỗ lực để làm cho Office 15 trở nên thật hài hoà .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>It appears to be designed with tablets and touchscreen in mind , and take advantage of various elements of Windows 8 , but it also contains a variety of updates and improvements that will benefit users on legacy Windows 7 desktops as well .</s>
+<s id='vn36'>Có vẻ như nó được thiết kế cho máy tính bảng và màn hình cảm ứng cũng như tận dụng lợi thế của Windows 8 , nhưng nó cũng có nhiều nâng cấp và cải tiến sẽ có lợi cho người dùng máy tính bàn chạy Windows 7 .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I 'm not entirely confident in the overall success of Windows 8 yet , but it seems to me that Office 15 has a lot of promise .</s>
+<s id='vn37'>Tôi không hoàn toàn tin tưởng vào thành công chung của Windows 8 , nhưng đối với tôi thì có vẻ như Office 15 rất hứa hẹn .</s>
+</spair>
+</text>
+</doc>

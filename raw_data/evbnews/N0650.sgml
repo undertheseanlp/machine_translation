@@ -1,0 +1,160 @@
+﻿<doc id='N0650'>
+<head>
+<title>A Christmas Carol - Charles Dickens</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A Christmas Carol - Charles Dickens</s>
+<s id='vn1'>Khúc Hát Giáng Sinh - Charles Dickens</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A mean-spirited , miserly old man named Ebenezer Scrooge sits in his counting-house on a frigid Christmas Eve .</s>
+<s id='vn2'>Một lão già keo kiệt bủn xỉn tên là Ebenezer Scrooge đang ngồi trong phòng tài vụ của mình vào một đêm Giáng sinh lạnh lẽo .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>His clerk , Bob Cratchit , shivers in the anteroom because Scrooge refuses to spend money on heating coals for a fire .</s>
+<s id='vn3'>Người thư ký của lão , Bob Cratchit , đang lạnh run rẩy trong phòng chờ vì lão Scrooge không chịu bỏ tiền để mua than đốt lò sưởi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Scrooge 's nephew , Fred , pays his uncle a visit and invites him to his annual Christmas party .</s>
+<s id='vn4'>Cháu trai của lão , Fred , đến thăm và mời lão đến dự buổi tiệc Giáng sinh hàng năm ở nhà nó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Two portly gentlemen also drop by and ask Scrooge for a contribution to their charity .</s>
+<s id='vn5'>Hai người đàn ông phụng phệ ghé đến và xin lão quyên góp từ thiện .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Scrooge reacts to these holiday visitors with bitterness and venom , spitting out an angry " Bah !</s>
+<s id='vn6'>Lão Scrooge xua đuổi những vị khách này với vẻ gay gắt và căm ghét , hằn học trong cơn giận dữ " Hừm !</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Humbug ! " in response to his nephew 's " Merry Christmas ! "</s>
+<s id='vn7'>" Một lũ láo toét ! " để đáp lại lời chúc mừng giáng sinh vui vẻ của người cháu trai của lão .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Later that evening , after returning to his dark , cold apartment , Scrooge receives a chilling visitation from the ghost of his dead partner , Jacob Marley .</s>
+<s id='vn8'>Vào tối hôm đó , sau khi quay về căn hộ tối tăm , lạnh lẽo của mình , lão Scrooge được hồn ma của người đối tác quá cố của lão , Jacob Marley , ghé thăm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Marley , looking haggard and pallid , relates his unfortunate story .</s>
+<s id='vn9'>Marley , với vẻ ngoài hốc hác và xanh xao , kể lại câu chuyện bất hạnh của ông ấy .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>As punishment for his greedy and self-serving life his spirit has been condemned to wander the Earth weighted down with heavy chains .</s>
+<s id='vn10'>Để trừng phạt cho cuộc đời chỉ biết tham lam và ích kỷ , vong hồn của ông bị kết tội là phải mang xiềng xích đi lang thang khắp nơi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Marley hopes to save Scrooge from sharing the same fate .</s>
+<s id='vn11'>Marley hy vọng có thể cứu vớt Scrooge thoát khỏi viễn cảnh sẽ cùng chung số phận với ông .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Marley informs Scrooge that three spirits will visit him during each of the next three nights .</s>
+<s id='vn12'>Marley thông báo với Scrooge rằng sẽ có ba bóng ma đến thăm lão trong ba đêm tới .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>After the wraith disappears , Scrooge collapses into a deep sleep .</s>
+<s id='vn13'>Sau khi hồn ma biến mất , lão Scrooge chìm vào giấc ngủ say .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He wakes moments before the arrival of the Ghost of Christmas Past , a strange childlike phantom with a brightly glowing head .</s>
+<s id='vn14'>Lão thức giấc ngay lúc trước khi bóng ma Giáng sinh Quá khứ đến , một con ma quái dị như trẻ con với cái đầu sáng loá .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The spirit escorts Scrooge on a journey into the past to previous Christmases from the curmudgeon 's earlier years .</s>
+<s id='vn15'>Con ma ấy hộ tống lão trên một chuyến hành trình về quá khứ về lại những mùa Giáng sinh xưa từ thời thơ ấu của lão keo kiệt này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Invisible to those he watches , Scrooge revisits his childhood school days , his apprenticeship with a jolly merchant named Fezziwig , and his engagement to Belle , a woman who leaves Scrooge because his lust for money eclipses his ability to love another .</s>
+<s id='vn16'>Trở nên vô hình trước những gì lão chứng kiến , Scrooge về thăm lại những ngày đi học thời thơ ấu của lão , thời gian học việc với một thương nhân vui vẻ tên là Fezziwig , và lễ đính hôn với Belle , người phụ nữ đã bỏ Scrooge mà đi vì lòng tham tiền của lão đã lấn át khả năng để lão có thể yêu người khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Scrooge , deeply moved , sheds tears of regret before the phantom returns him to his bed .</s>
+<s id='vn17'>Scrooge , xúc động sâu sắc , đã rơi những giọt nước mắt hối tiếc trước khi bóng ma mang lão trở lại với chiếc giường của lão .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The Ghost of Christmas Present , a majestic giant clad in a green fur robe , takes Scrooge through London to unveil Christmas as it will happen that year .</s>
+<s id='vn18'>Bóng ma Giáng sinh Hiện tại , một gã khổng lồ oai vệ khoác chiếc áo choàng lông thú màu xanh , dắt Scrooge đi băng qua Luân Đôn để tiết lộ những gì sắp xảy ra trong mùa Giáng Sinh năm nay .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Scrooge watches the large , bustling Cratchit family prepare a miniature feast in its meager home .</s>
+<s id='vn19'>Lão Scrooge nhìn thấy gia đình đông đúc của Cratchit đang lăng xăng chuẩn bị bữa tiệc nho nhỏ trong căn nhà nghèo nàn của anh ta .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He discovers Bob Cratchit 's crippled son , Tiny Tim , a courageous boy whose kindness and humility warms Scrooge 's heart .</s>
+<s id='vn20'>Lão còn phát hiện ra rằng thằng con trai nhỏ của Cratchit là cậu bé Tim bị què chân , một cậu bé dũng cảm đã sưởi ấm trái tim Scrooge bằng lòng nhân ái và khiêm nhường của nó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The specter then zips Scrooge to his nephew 's to witness the Christmas party .</s>
+<s id='vn21'>Bóng ma lại kéo lão đến ngôi nhà của thằng cháu trai để chứng kiến buổi tiệc giáng sinh .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Scrooge finds the jovial gathering delightful and pleads with the spirit to stay until the very end of the festivities .</s>
+<s id='vn22'>Lão Scrooge cảm thấy thích thú trước cảnh sum họp vui vẻ và van nài bóng ma cho mình được ở lại cho đến cuối buổi tiệc .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>As the day passes , the spirit ages , becoming noticeably older .</s>
+<s id='vn23'>Khi thời gian trôi qua , bóng ma trờ nên già đi thấy rõ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Toward the end of the day , he shows Scrooge two starved children , Ignorance and Want , living under his coat .</s>
+<s id='vn24'>Đến cuối ngày , hắn cho lão thấy hai đứa bé đang đói ăn , tên là Ngu dốt và Bần cùng , đang sống dưới lớp áo choàng của hắn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>He vanishes instantly as Scrooge notices a dark , hooded figure coming toward him .</s>
+<s id='vn25'>Rồi hắn biến mất ngay khi Scrooge nhận ra có một bóng dáng đen ngòm của một người đội mũ đang tiến dần về phía lão .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The Ghost of Christmas Yet to Come leads Scrooge through a sequence of mysterious scenes relating to an unnamed man 's recent death .</s>
+<s id='vn26'>Bóng ma Giáng sinh Tương lai dẫn Scrooge băng qua một chuỗi những cảnh tượng kỳ bí liên quan đến cái chết gần đây của một đàn ông vô danh .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Scrooge sees businessmen discussing the dead man 's riches , some vagabonds trading his personal effects for cash , and a poor couple expressing relief at the death of their unforgiving creditor .</s>
+<s id='vn27'>Scrooge nghe thấy các thương gia bàn luận về tài sản của người chết , vài thằng bé bán đồ tư trang của lão để lấy tiền , và một đôi vợ chồng nghèo đang thở dài nhẹ nhõm trước cái chết của gã chủ nợ hẹp hòi của họ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Scrooge , anxious to learn the lesson of his latest visitor , begs to know the name of the dead man .</s>
+<s id='vn28'>Scrooge tỏ vẻ lo lắng sau bài học về người khách cuối cùng của lão , van xin được biết tên của người chết .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>After pleading with the ghost , Scrooge finds himself in a churchyard , the spirit pointing to a grave .</s>
+<s id='vn29'>Sau khi khẩn nài với con ma , Scrooge thấy mình đang ở trong nghĩa trang nhà thờ , con ma chỉ đến một ngôi mộ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Scrooge looks at the headstone and is shocked to read his own name .</s>
+<s id='vn30'>Scrooge nhìn tấm bia mộ và sửng sờ khi thấy để tên của mình .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>He desperately implores the spirit to alter his fate , promising to renounce his insensitive , avaricious ways and to honor Christmas with all his heart .</s>
+<s id='vn31'>Ông ấy tuyệt vọng van xin bóng ma thay đổi vận mệnh của mình , hứa sẽ không chạy theo thói tham lam vụ lợi và sẽ một lòng tri ân Giáng sinh .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Whoosh !</s>
+<s id='vn32'>Vèo !</s>
+</spair>
+<spair id='33'>
+<s id='en33'>He suddenly finds himself safely tucked in his bed .</s>
+<s id='vn33'>Đột ngột ông thấy mình đang an toàn trên giường của mình .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Overwhelmed with joy by the chance to redeem himself and grateful that he has been returned to Christmas Day , Scrooge rushes out onto the street hoping to share his newfound Christmas spirit .</s>
+<s id='vn34'>Vô cùng vui sướng với cơ hội được chuộc mọi lỗi lầm và biết ơn vì mình được quay về ngay ngày Giáng Sinh , Scrooge vội vã ra phố với hi vọng chia sẻ một tâm hồn Giáng sinh mà ông vừa tìm thấy được .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>He sends a giant Christmas turkey to the Cratchit house and attends Fred 's party , to the stifled surprise of the other guests .</s>
+<s id='vn35'>Ông gửi một con gà tây khổng lồ đến nhà của Cratchit và tham dự buổi tiệc của Fred trước sự bất ngờ cực độ của những vị khách khác .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>As the years go by , he holds true to his promise and honors Christmas with all his heart : he treats Tiny Tim as if he were his own child , provides lavish gifts for the poor , and treats his fellow human beings with kindness , generosity , and warmth .</s>
+<s id='vn36'>Và nhiều năm trôi qua , ông vẫn giữ đúng lời hứa của mình và ca ngợi Giáng sinh hết lòng : ông đối xử cậu bé Tim như thể nó là con ruột của mình , tặng quà cho người nghèo , và đối xử với những người bạn của mình với tất cả lòng tốt bụng , sự hào hiệp , và nhân ái .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>God Bless Us , Every One !</s>
+<s id='vn37'>Cầu Chúa ban phước lành cho tất cả chúng ta !</s>
+</spair>
+</text>
+</doc>

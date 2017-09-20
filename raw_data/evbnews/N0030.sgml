@@ -1,0 +1,76 @@
+﻿<doc id='N0030'>
+<head>
+<title>World Cup Begins</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>World Cup Begins</s>
+<s id='vn1'>World Cup đã khai mạc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Play has begun at the 2010 World Cup - the first ever World Cup to be held on the continent of Africa .</s>
+<s id='vn2'>Trận đấu ở World Cup 2010 đã khai mạc - giải cúp bóng đá thế giới lần đầu tiên được tổ chức trên lục địa Châu Phi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>About 90,000 fans mostly dressed in South Africa 's team colors of yellow and green packed into the newly refurbished Soccer City stadium in Johannesburg on Friday .</s>
+<s id='vn3'>Khoảng 90.000 người hâm mộ hầu hết trong trang mục màu vàng và xanh của đội tuyển Nam Phi chen chúc trong sân vận động Soccer City vừa mới được sửa sang lại ở Johannesburg vào ngày thứ sáu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>They watched host South Africa battle Mexico to a 1 draw in the first game of the nation , long tournament .</s>
+<s id='vn4'>Họ chứng kiến trận đấu hoà 1-1 giữa Nam Phi Mexico trong trận đấu đầu tiên của vòng thi đấu kéo dài 1 tháng của 32 quốc gia .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>France and Uruguay play in the second game of the day .</s>
+<s id='vn5'>Pháp và Uruguay chơi ở trận thứ hai trong ngày .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Later , France and Uruguay played to a scoreless draw at a packed stadium in Cape Town .</s>
+<s id='vn6'>Sau đó , Pháp và Uruguay hoà nhau không bàn thắng ở sân vận động chật kín khán giả ở Cape Town .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Earlier a spectacular opening ceremony featured singers and dancers in colorful costumes and body paint .</s>
+<s id='vn7'>Trước đó diễn ra buổi lễ khai mạc hoành tráng với sự tham gia của nhiều ca sĩ và vũ công trong trang phục và tạo hình trên cơ thể đầy màu sắc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Television cameras also showed South African Nobel laureate - retired Archbishop Desmond Tutu wearing a team jersey and dancing in the stands .</s>
+<s id='vn8'>Máy quay truyền hình cũng chiếu hình ảnh Tổng giám mục đã về hưu Desmond Tutu - đoạt giải Nobel của Nam Phi đang mặc chiếc áo của đội tuyển và nhảy múa trên khán đài .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He was joined in the stands by U.S. Vice President Joe Biden who is representing the United States at this tournament .</s>
+<s id='vn9'>Ngồi cùng chung khán đài của ông có Phó Tổng thống Mỹ Joe Biden , người đại diện cho Mỹ tại giải đấu này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The excitement was tempered , though , by the absence of former president Nelson Mandela , who canceled a planned appearance after his great-granddaughter was killed in a car crash on her way home from Thursday 's World Cup kickoff concert .</s>
+<s id='vn10'>Tuy nhiên , niềm phấn khích phần nào dịu đi vì sự vắng mặt của cựu tổng thống Nelson Mandela , ông đã hủy bỏ kế hoạch tham dự sau cái chết của cô chắt gái trong một tai nạn xe hơi trên đường trở về nhà sau buổi hoà nhạc khai mạc World Cup hôm thứ năm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In remarks before the start of the game , President Zuma said the old Mr. Mandela had wanted to attend but could not because of the unexpected death of his old great-granddaughter , Zenani .</s>
+<s id='vn11'>Trong buổi bình luận trước trận đấu , tổng thống Zuma cho biết ông Mandela 91 tuổi dù rất muốn nhưng không thể tham dự vì cái chết bất ngờ của cô chắt gái 13 tuổi , Zenani .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Mr. Zuma also lauded the tournament as the first ever hosted by an African nation , calling it " the African World Cup . "</s>
+<s id='vn12'>Ông Zuma cũng ca ngợi giải đấu vì đây là lần đầu tiên một quốc gia Châu Phi đã đăng cai , gọi đó là " World Cup của Châu Phi . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The World Cup is being played in 10 stadiums across South Africa , including Soccer City and Ellis Park in Johannesburg .</s>
+<s id='vn13'>World Cup được diễn ra ở 10 sân vận động khắp Nam Phi , trong đó có sân Soccer City và Ellis Park nằm ở Johannesburg .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In addition to an automatic qualification for the host team , five African countries qualified for this year 's World Cup - Ivory Coast , Ghana , Cameroon , Nigeria and Algeria .</s>
+<s id='vn14'>Ngoài đội chủ nhà đương nhiên là phải có mặt , 5 quốc gia châu Phi hội đủ điều kiện tham gia World Cup năm nay - Bờ Biển Ngà , Ghana , Cameroon , Nigeria và Algeria .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Italy enters the World Cup as defending champion , but Spain , the reigning European champion , and time former world champion Brazil are considered the early favorites in South Africa .</s>
+<s id='vn15'>Đội Ý tham gia World Cup với cách đương kim vô địch , nhưng Tây Ban Nha , đương kim vô địch châu Âu , và đội 5 lần giành chức vô địch thế giới Brazil được xem là những đội sớm trở thành ứng cử viên sáng giá ở Nam Phi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The first World Cup football tournament was played in 1930 in Montevideo with host nation Uruguay defeating Argentina for the championship .</s>
+<s id='vn16'>Giải Cúp bóng đá thế giới lần đầu tiên diễn vào năm 1930 ở Montevideo với trận thắng của nước chủ nhà Uruguay trước đội Argentina để giành chức vô địch .</s>
+</spair>
+</text>
+</doc>

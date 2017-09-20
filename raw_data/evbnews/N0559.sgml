@@ -1,0 +1,128 @@
+﻿<doc id='N0559'>
+<head>
+<title>Scientists find new strain of HIV</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Scientists find new strain of HIV</s>
+<s id='vn1'>Nhà khoa học tìm thấy dòng mới của HIV</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Gorillas have been found , for the first time , to be a source of HIV .</s>
+<s id='vn2'>Khỉ đột đã được tìm thấy , lần đầu tiên , là nguồn HIV .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Previous research had shown the HIV-1 strain , the main source of human infections , with 33m cases worldwide , originated from a virus in chimpanzees .</s>
+<s id='vn3'>Nghiên cứu trước đây đã cho thấy dòng vi-rút HIV-1 , nguồn chính của nhiễm trùng ở người , với 33 triệu trường hợp toàn cầu , khởi đầu từ vi-rút ở loài tinh tinh .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But researchers have now discovered an HIV infection in a Cameroonian woman which is clearly linked to a gorilla strain , Nature Medicine reports .</s>
+<s id='vn4'>Nhưng các nhà nghiên cứu giờ đã khám phá ra bệnh HIV trong phụ nữ người Cameron mà rõ ràng liên quan đến giống khỉ đột , Nature Medicine báo cáo .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A researcher told the BBC that , though it was a new type of HIV , current drugs might still help combat its effects .</s>
+<s id='vn5'>Nhà nghiên cứu bảo BBC là , cho dù đó là một loại mới của HIV , thuốc hiện hành có thể còn giúp chống lại ảnh hưởng của nó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>HIV originated from a similar virus in chimpanzees called Simian Immunodeficiency Virus ( SIV ) .</s>
+<s id='vn6'>HIV khởi đầu từ vi-rút tương tự trong loài tinh tinh gọi là vi-rút gây suy yếu miễn dịch ở khỉ ( SIV ) .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Although HIV/AIDS was first recognised by scientists in the 1980s , it is thought to have first entered the human population early in the 20th Century in the region of the Democratic Republic of Congo .</s>
+<s id='vn7'>Mặc dù HIV/AIDS được nhận ra trước tiên bởi các nhà khoa học vào những năm 1980 , người ta cho là nó trước tiên bước vào dân số đầu thế kỷ thứ 20 trong vùng cộng hoà dân chủ Congo</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The virus probably originally jumped into humans after people came into contact with infected bush meat .</s>
+<s id='vn8'>Vi-rút có lẽ ban đầu lây nhiễm cho con người sau khi mọi người tiếp xúc với thịt thú rừng bị nhiễm bệnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>SIV viruses have been reported in other primates , including gorillas .</s>
+<s id='vn9'>Vi-rút gây suy yếu miễn dịch ở khỉ đã được báo cáo trong loài linh trưởng khác , bao gồm khỉ đột .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Unusual case</s>
+<s id='vn10'>Trường hợp khác thường</s>
+</spair>
+<spair id='11'>
+<s id='en11'>French doctors treating the 62-year-old Cameroonian woman who was living in Paris said they initially spotted some discrepancies in routine viral load tests .</s>
+<s id='vn11'>Vị bác sĩ người Pháp chữa phụ nữ người Cameron 62 tuổi đang sống ở Pa-ri nói họ bước đầu đã phát hiện ra một số sai biệt trong xét nghiệm lượng vi-rút trong máu hàng ngày .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Further analysis of the HIV strain she was infected with showed it was more closely related to SIV from gorillas than HIV from humans .</s>
+<s id='vn12'>Phân tích thêm nữa về giống HIV cô ấy bị nhiễm cho thấy nó gần gũi hơn với vi-rút gây suy yếu miễn dịch ở khỉ từ khỉ đột hơn là vi-rút HIV từ con người .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>She is the only person known to be infected with the new strain , but the researchers expect to find other cases .</s>
+<s id='vn13'>Cô ấy là người duy nhất biết để bị nhiễm dòng mới , nhưng nhà nghiên cứu hy vọng tìm trường hợp khác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Before moving to Paris , she had lived in a semi-urban area of Cameroon and had no contact with gorillas or bush meat , suggesting she caught the virus from someone else who was carrying the gorilla strain .</s>
+<s id='vn14'>Trước khi chuyển đến Paris , cô ấy đã từng sống trong vùng nửa đô thị nửa nông thôn của Cameron và không hề tiếp xúc với khỉ đột hoặc thịt thú rừng , cho rằng cô ấy bị nhiễm virus từ người khác đang mang dòng vi-rút ở khỉ đột .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Analysis of the virus in the laboratory has confirmed that it can replicate in human cells .</s>
+<s id='vn15'>Phân tích của vi-rút trong phòng xét nghiệm đã xác nhận nó có thể sao chép trong tế bào của con người .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Co-author Dr David Robertson , from the University of Manchester , said it was the first definitive transfer of HIV seen from a source other than a chimpanzee , and highlighted the need to monitor for the emergence of new strains .</s>
+<s id='vn16'>David Robertson là đồng tác giả , từ Đại học của Manchester , nói đó là biến thể rõ ràng đầu tiên của HIV thấy rằng từ nguồn khác hơn loài tinh tinh , và nhấn mạnh nhu cầu kiểm soát cho nảy sinh của dòng mới .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" This demonstrates that HIV evolution is an ongoing process . "</s>
+<s id='vn17'>" Điều này cho thấy tiến hoá của vi-rút HIV là quá trình không ngừng nghỉ . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" The virus can jump from species to species , from primate to primate , and that includes us ; pathogens have been with us for millions of years and routinely switch host species .</s>
+<s id='vn18'>" Vi-rút có thể lây truyền từ loài này sang loài khác , từ động vật linh trưởng này sang động vật linh trưởng khác , và bao gồm chúng tôi ; mầm bệnh đã ở cùng chúng tôi cho hàng triệu năm và đều đặn chuyển đổi loài vật chủ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The fact the patient had been diagnosed in France showed how human mobility can rapidly transfer a virus from one area of the world to another , he said .</s>
+<s id='vn19'>Thực tế bệnh nhân đã được chẩn đoán ở Pháp cho thấy cách việc di chuyển đi lại của con người có thể nhanh chóng truyền vi-rút từ một vùng của thế giới đến một vùng khác , anh ấy đã nói .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>New problems " unlikely "</s>
+<s id='vn20'>Vấn đề mới " không chắc sẽ xảy ra "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Speaking to the BBC 's World Today programme , Dr Robertson said there was no reason to believe that existing drugs would not work on the new virus .</s>
+<s id='vn21'>Nói với chương trình Thế giới ngày nay của BBC , Tiến sĩ Robertson nói không có cớ gì mà phải tin rằng thuốc hiện có sẽ không hoạt động trên vi-rút mới .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" If some day we do manage to develop a vaccine , there 's no reason to believe it would n't work ," he said .</s>
+<s id='vn22'>" Nếu một ngày nào đó chúng ta cố gắng để phát triển vắc-xin , không có cớ gì mà phải tin nó sẽ không hoạt động , " anh ấy đã nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" There 's no reason to believe this virus will present any new problems , as it were , that we do n't already face .</s>
+<s id='vn23'>" Không có cớ gì mà phải tin loại vi-rút này sẽ biểu hiện vấn đề mới nào mà có thể nói là chúng tôi đã không đối mặt .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Professor Paul Sharp , from the University of Edinburgh , said the virus probably initially transferred from chimpanzees to gorillas .</s>
+<s id='vn24'>Giáo sư Paul Sharp , từ Đại học của Edinburgh , nói vi-rút có lẽ ban đầu truyền từ loài tinh tinh đến khỉ đột .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>He said the latest finding was interesting but perhaps not surprising .</s>
+<s id='vn25'>Anh ấy nói phát hiện mới nhất là thú vị nhưng có lẽ không bất ngờ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" The medical implication is that , because this virus is not very closely related to the other three HIV-1 groups , it is not detected by conventional tests .</s>
+<s id='vn26'>" Sự liên quan về mặt y học là , vì loại vi-rút này không liên quan gần với 3 nhóm vi-rút HIV-1 khác , nó không được phát hiện bởi thử nghiệm thông thường .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" So the virus could be cryptically spreading in the population . "</s>
+<s id='vn27'>" Cho nên vi-rút có thể phát tán một cách bí mật trong quần thể sinh học . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>However , he said that he would guess it would not spread widely and become a major problem .</s>
+<s id='vn28'>Tuy nhiên , anh ấy nói rằng anh ấy sẽ đoán nó sẽ không phát tán nhiều và trở thành vấn đề lớn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Although the patient with this virus was not ill , there is no reason to believe that it will not lead to AIDS , " he added .</s>
+<s id='vn29'>" Mặc dù bệnh nhân với loại vi-rút này không ốm , không có cớ gì mà phải tin rằng nó sẽ không dẫn đến bệnh SIDA , " anh ấy thêm .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,64 @@
+﻿<doc id='N0375'>
+<head>
+<title>ASUS swings low-cost Eee Box EB1007 with Pine Trail Atom</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>ASUS swings low-cost Eee Box EB1007 with Pine Trail Atom</s>
+<s id='vn1'>ASUS chuyển mình với Eee Box EB1007 giá rẻ có nền tảng Pine Trail Atom .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>ASUS has quietly added a new entry nettop to its mix .</s>
+<s id='vn2'>Hãng Asus đã âm thầm bổ sung thêm một nettop mới vào danh mục các sản phẩm của mình .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Eee Box EB1007 carries a 1.66GHz Atom desktop processor using Intel 's newer Pine Trail platform but , stepping below the EB1501 , just uses Intel 's integrated graphics .</s>
+<s id='vn3'>Eee Box EB1007 có bộ xử lí Atom 1.66GHz dành cho máy bàn sử dụng nền tảng Pine Trail mới hơn của Intel nhưng thấp hơn EB1501 chỉ dùng đồ hoạ tích hợp của Intel .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It still carries 802.11n Wi-Fi and the usual complement of expansion , although the simpler graphics limit it to VGA for video output .</s>
+<s id='vn4'>Nó vẫn có bộ thu sóng Wi-Fi chuẩn 802.11n và bổ sung các thành phần mở rộng bình thường , mặc dù nó có điểm hạn chế là đồ họa đơn giản hơn với ngõ xuất tín hiệu video là VGA .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Just one trim level is available so far and carries of a hard drive and Pricing and a US ship date have n't been mentioned , but the system is likely to cost closer to $ 300 than $ 400 given the pricing of ASUS' netbooks .</s>
+<s id='vn5'>Cho đến nay chỉ có một kiểu dáng nhỏ gọn và ổ đĩa cứng và Giá cả và ngày bán ở Mỹ không được đề cập nhưng hệ thống này có thể có mức giá cỡ 300 USD , thấp hơn so với mức giá 400 USD của các máy tính mini ASUS .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Alienware M11x netbook gets $ 800 price</s>
+<s id='vn6'>Netbook Alienware M11x có giá $ 800</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Dell 's upcoming Alienware M11x netbook has finally received a price of $ 799 for the entry-level model .</s>
+<s id='vn7'>Chiếc netbook Alienware M11x sắp tới của Dell vừa nhận được một mức giá cuối cùng là $ 799 đối với loại có cấu hình thấp nhất .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>First introduced earlier this year at CES , the device features graphics components similar to many 15-inch notebooks .</s>
+<s id='vn8'>Lần đầu tiên giới thiệu tại Triển Lãm Điện tử Tiêu dùng hồi đầu năm nay , thiết bị này có tính năng các thành phần đồ hoạ giống với nhiều máy tính xách tay 15-inch .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The GeForce GT 335M switchable GPU supports 720p playback on this netbook 's 11.6-inch display .</s>
+<s id='vn9'>Card GeForce GT 335M của chiếc netbook này có thể chuyển GPU hỗ trợ chơi video 720p trên màn hình 11.6inch .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>While HDMI output will enable users to attach an external monitor .</s>
+<s id='vn10'>Trong khi ngõ ra HDMI sẽ cho phép người dùng có thể gắn thêm một màn hình bên ngoài .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The M11x integrates an Intel Core 2 Duo CPU , with maximum battery life claimed to reach 6.5 hours .</s>
+<s id='vn11'>M11x tích hợp Intel Core 2 Duo CPU , với tuổi thọ pin tối đa được cho là lên tới 6.5 tiếng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Using the GT 335M components under heavy load , however , will bring the life down to around two hours .</s>
+<s id='vn12'>Tuy nhiên việc sử dụng GT 335M để xử lý đồ họa mạnh sẽ làm cho tuổi thọ giảm xuống khoảng hai tiếng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Dell has yet to announce a specific release date for the M11X .</s>
+<s id='vn13'>Dell chưa công bố ngày phát hành cụ thể cho M11X .</s>
+</spair>
+</text>
+</doc>

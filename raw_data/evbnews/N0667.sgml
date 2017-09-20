@@ -1,0 +1,100 @@
+﻿<doc id='N0667'>
+<head>
+<title>There Is a Tree</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>There Is a Tree</s>
+<s id='vn1'>Cây</s>
+</spair>
+<spair id='2'>
+<s id='en2'>There is a tree whose roots sink deeply into the very core of the earth .</s>
+<s id='vn2'>Có một cái cây nọ có bộ rễ ăn sâu vào tận đến lõi của trái đất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Its branches soar up through the sky and out into the universe .</s>
+<s id='vn3'>Những nhánh cây của nó đâm toạt bầu trời và vươn ra đến cả vũ trụ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Its trunk is so wide , no one really knows where one side begins or the other one ends .</s>
+<s id='vn4'>Thân cây thì to rộng đến nỗi thực sự không ai biết được mặt nào chỗ bắt đầu hay mặt nào là chỗ kết thúc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>On that tree , there are so many leaves that , from far away , they seem to blend together as one .</s>
+<s id='vn5'>Trên cái cây ấy có rất nhiều lá đến nỗi nếu trông nó từ phía xa người ta cứ nghĩ tất cả quyện chung lại thành một .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But , up close , each leaf looks completely separate .</s>
+<s id='vn6'>Nhưng khi đến gần , mỗi chiếc lá trông hoàn toàn tách biệt nhau .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Because of this , most leaves overlook the fact that their stems are attached to small branches , which give way to all the other branches and ultimately connect to every other leaf on the tree .</s>
+<s id='vn7'>Chính vì điều này mà hầu hết những chiếc lá không mảy may để ý rằng cuống lá của chúng đang gắn vào những cành cây nhỏ đang nhường chỗ cho tất cả những cành cây khác và cuối cùng là kết nối với những chiếc lá khác ở trên cây .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Most leaves forget this connection and feel separate and alone .</s>
+<s id='vn8'>Hầu hết những chiếc lá quên mất sự liên kết này và cảm thấy tách biệt và cô độc .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>When it rains , the leaves think they must accumulate more drops on them than the others , or they might die of thirst .</s>
+<s id='vn9'>Khi trời mưa , những lá nghĩ chúng phải tích luỹ nhiều giọt mưa hơn là những chiếc lá khác nếu không chúng có thể sẽ bị khô héo đi vì thiếu nước .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>So they compete with each other for the limited raindrops , forgetting that they all share the same roots , which absorb the water when it moistens the earth .</s>
+<s id='vn10'>Vì thế chúng tranh nhau giành lấy những giọt mưa ít ỏi mà quên mất rằng tất cả đều có chung một rễ , nơi sẽ hấp thụ nước khi mặt đất ẩm ướt .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>When the sun comes out , the leaves are again worried , this time because they may not get enough light .</s>
+<s id='vn11'>Khi mặt trời xuất hiện , những chiếc lá lại lo lắng , lần này là vì chúng có thể không lấy được đủ ánh sáng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>When they see other leaves getting more sunlight than themselves , they feel resentful and envious , forgetting that when the sun shines on any one of them , the warmth and energy strengthens them all .</s>
+<s id='vn12'>Khi chúng thấy những chiếc lá khác lấy được nhiều ánh nắng hơn thì chúng cảm thấy đầy phẫn nộ và ghen tức , quên mất một điều là mặt trời chiếu rọi lên tất cả chiếc lá , hơi ấm và nguồn năng lượng sẽ làm cho chúng thêm chắc khoẻ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Some leaves do n't remember that they are part of a tree until they fall to the ground .</s>
+<s id='vn13'>Một số chiếc lá không nhớ rằng chúng là một phần của cái cây cho đến khi chúng chưa rơi xuống đất .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But from the ground looking up , they can plainly see that all the leaves are growing from the same tree .</s>
+<s id='vn14'>Nhưng khi từ dưới đất nhìn lên trên , rõ ràng chúng có thể thấy tất cả những chiếc đang mọc ra từ cùng một cây .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Once they remember , they transform into nourishing soil and continue on as a different part of the tree .</s>
+<s id='vn15'>Một khi nhớ được điều đó thì chúng đã biến thành đất mùn nuôi cây và tiếp tục là một phần khác của cây .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Some leaves , on the other hand , remember before they fall from the tree .</s>
+<s id='vn16'>Mặt khác , một số chiếc lá nhớ điều đó trước khi chúng rụng xuống đất .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When it rains , these leaves relax and trust , knowing that the water will moisten the soil below , and the roots of the great tree will absorb it , providing plenty of water for each leaf .</s>
+<s id='vn17'>Khi trời mưa , những chiếc là này cứ ung dung và vô tư vì biết rằng nước mưa sẽ làm ẩm đất bên dưới , và rễ của cây mẹ sẽ hấp thụ nước mưa , cung cấp nhiều nước cho mỗi chiếc lá .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>When the sun comes out , the leaves bask in its warmth .</s>
+<s id='vn18'>Khi trời nắng , những chiếc lá tắm mình trong hơi ấm mặt trời .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>When they see other leaves getting more sunlight , they are delighted , knowing that they all benefit from each other 's success .</s>
+<s id='vn19'>Khi chúng thấy những chiếc lá khác lấy nhiều ánh nắng hơn , chúng tỏ ra vui mừng , vì biết rằng chúng sẽ được hưởng lợi từ thành công của nhau .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But the most amazing thing is that when one leaf remembers , sometimes other leaves notice .</s>
+<s id='vn20'>Nhưng điều tuyệt vời nhất là khi một chiếc lá nhớ ra , đôi khi những chiếc lá khác cũng sẽ chú ý theo .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>And then , slowly , they begin to remember , too .</s>
+<s id='vn21'>Rồi , dần dần , chúng cũng bắt đầu nhớ ra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>And before you know it , on a tree whose roots sink deeply into the core of the earth with branches that reach all the way out into the universe , there are leaves that , even up close , do n't seem so separate .</s>
+<s id='vn22'>Và trước khi bạn kịp nhận ra điều này thì trên cái cây có bộ rễ ăn sâu vào tận đến lõi của trái đất , cành của nó vươn xa ra đến tận vũ trụ , có những chiếc lá mà thậm chí khi nhìn gần chúng dường như khôngcòn tách rời nhau .</s>
+</spair>
+</text>
+</doc>

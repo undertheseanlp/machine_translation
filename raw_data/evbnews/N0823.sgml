@@ -1,0 +1,156 @@
+﻿<doc id='N0823'>
+<head>
+<title>Human skin cells turned directly into functioning neurons</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Human skin cells turned directly into functioning neurons</s>
+<s id='vn1'>Tế bào da người được chuyển trực tiếp thành các nơron chức năng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Human skin cells turned directly into functioning neurons</s>
+<s id='vn2'>Tế bào da người được chuyển trực tiếp thành các nơron chức năng</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Scientists in California have turned human skin cells directly into functioning neurons or brain cells , bypassing the pluripotent stem cell stage , according to a study published in the journal Nature this week .</s>
+<s id='vn3'>Các nhà khoa học ở California đã biến tế bào da người trực tiếp thành các nơron chức năng hoặc tế bào não , bỏ qua giai đoạn tế bào mầm đa năng , theo một nghiên cứu đăng trên tạp chí Nature tuần này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The process took four to five weeks and only needed the addition of four genes to effect the transformation .</s>
+<s id='vn4'>Quá trình mất từ 4 - 5 tuần và chỉ cần bổ sung thêm 4 gien để tác động lên sự chuyển đổi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Last year , the same team , from Stanford University School of Medicine , showed it was possible to convert mouse skin cells directly into neurons .</s>
+<s id='vn5'>Năm ngoái , cùng một đội , từ trường Đại học Y khoa Stanford , cho thấy có thể chuyển đổi tế bào da chuột trực tiếp thành các nơron .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>They used a similar combination of proteins in the human cell conversion as the ones they used in the mouse cell conversion , except the human process was less efficient and took longer .</s>
+<s id='vn6'>Họ sử dụng sự kết hợp tương tự của prô-tê-in trong sư chuyển hóa tế bào ở người như họ đã dùng trong sư chuyển đổi của tế bào chuột , ngoại trừ quá trình ở người còn kém hiệu quả và mất nhiều thời gian hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The finding is significant because it avoids having to make induced pluripotent stem cells ( iPS ) , and may make it much easier to create and study neurons that are patient or disease-specific in the laboratory .</s>
+<s id='vn7'>Phát hiện này là quan trọng vì nó tránh được việc phải tạo ra tế bào mầm đa năng ( iPS ) , và có thể giúp dễ dàng hơn để tạo và nghiên cứu các nơron bị bệnh hoặc có đặc trưng của bệnh trong phòng thí nghiệm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>iPS cells take months to create , and recent reports have raised other problems .</s>
+<s id='vn8'>Các tế bào mầm đa năng tốn hàng tháng để tạo , và các báo cáo gần đây đã nêu ra các vấn đề khác .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Studies in lab mice suggest they reject genetically identical iPS cells because of the genes used to induce them .</s>
+<s id='vn9'>Nghiên cứu ở chuột trong phòng thí nghiệm cho thấy chúng loại bỏ các tế bào mầm đa năng đồng nhất vê mặt di truyền vì các gien tạo ra chúng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>There are also concerns that they may trigger tumors .</s>
+<s id='vn10'>Ngoài ra còn có mối lo ngại rằng chúng có thể kích hoạt các khối u .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Senior author Dr Marius Wernig , assistant professor of pathology and a member of Stanford 's Institute for Stem Cell Biology and Regenerative Medicine , told the press that :</s>
+<s id='vn11'>Tác giả kỳ cựu , bác sĩ Marius Wernig , trợ giảng bệnh lý học và là thành viên của Viện Sinh học Tế bào gốc và Y học tái sinh Stanford , nói với báo chí :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" We are now much closer to being able to mimic brain or neurological diseases in the laboratory . "</s>
+<s id='vn12'>" Hiện nay chúng tôi đang tiến gần hơn tới việc có thể bắt chước các bệnh vê não hoặc thần kinh trong phòng thí nghiệm . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" We may perhaps even be able to one day use these cells for human therapies , " he added .</s>
+<s id='vn13'>" Thậm chí một ngày nào đó có lẽ chúng tôi có thể sử dụng các liệu pháp tế bào cho con người , " ông nói thêm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The study is the latest in the fast-moving new field of transdifferentiation , where cells are forced to take on new identities .</s>
+<s id='vn14'>Đây là nghiên cứu mới nhất trong lĩnh vực mới và phát triển thần tốc này của sư biến đổi biệt hóa , trong đó các tế bào bị buộc phải đảm nhiệm vai trò mới .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In the last 12 months , scientists have converted connective tissue from the skin into heart cells , blood cells and liver cells , reports Nature News .</s>
+<s id='vn15'>Trong 12 tháng qua , các nhà khoa học đã chuyển đổi mô liên kết từ da thành tế bào tim , tế bào máu và tế bào gan , theo báo cáo của Nature News .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Following their success with the mouse skin cells , the team went through a staged process to repeat it with human cells .</s>
+<s id='vn16'>Sau thành công của họ với các tế bào da chuột , nhóm nghiên cứu đã trải qua một quá trình chuẩn bị để lặp lại nghiên cứu với các tế bào của con người .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>First they proved they could convert human embryonic stem cells into neurons by infecting them with a virus expressing the same three genes they used in the mouse experiment .</s>
+<s id='vn17'>Trước tiên họ chứng minh họ có thể biến tế bào mầm phôi của người thành các nơron bằng cách tác động chúng bởi một vi-rút biểu lộ cùng lúc ba gien họ dùng trong thí nghiệm trên chuột .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They called the treatment " BAM " , short for the three genes , the transcription factors Brn2 , Ascl1 and Myt1 .</s>
+<s id='vn18'>Chúng được gọi là điều trị " BAM " , viết tắt của ba gen , các yếu tố phiên mã Brn2 , Ascl1 và Myt1 .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The BAM treatment took only six days to convert human embryonic stem cells into fuctioning neurons</s>
+<s id='vn19'>Việc điều trị BAM chỉ mất 6 ngày để chuyển đổi tế bào mầm phôi của người thành các nơron chức năng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>And it also worked on iPS cells .</s>
+<s id='vn20'>Và nó cũng có tác dụng trên các tế bào iPS .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But when they moved to the next stage , and used the BAM treatment to do with human skin cells what they achieved with the mouse skin cells , they ran into problems .</s>
+<s id='vn21'>Nhưng khi chúng được chuyển sang giai đoạn tiếp theo , và được sử dụng trong điều trị BAM cho các tế bào da của người thì những kết quả đạt được với các tế bào da chuột đã có vấn đề .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Using fibroblast skin cells from the skin of aborted fetuses and the foreskin of newborns , they found the BAM treatment was able successfully to create cells that looked like neurons , but they lacked one important function : they couldn't fire the electrical pulses needed to communicate with each other .</s>
+<s id='vn22'>Sử dụng tế bào nguyên bào sợi da từ da của bào thai bị sảy và bao qui đầu của trẻ sơ sinh , họ thấy rằng phương pháp điều trị BAM đã có thể tạo ra thành công các tế bào giống như các nơron , nhưng chúng thiếu một chức năng quan trọng : chúng không thể bắn những xung điện cần thiết để giao tiếp với nhau .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>So the researchers guessed an ingredient was missing , and through trial and error they eventually found it , a fourth transcription factor , the gene called NeuroD.</s>
+<s id='vn23'>Vì vậy , các nhà nghiên cứu cho rằng một thành phần đã bị thiếu , bằng phương pháp thử và sai , cuối cùng họ đã tìm thấy , đó chính là một yếu tố phiên mã thứ tư , gen được gọi là NeuroD .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>With NeuroD added using the virus carrier , Wernig and colleagues managed to coax many of the neurons to respond to electrical stimulation so that within a few weeks , they were making synaptic connections with the mouse neurons that were growing next to them .</s>
+<s id='vn24'>Với NeuroD thêm vào bằng cách sử dụng các thể mang vi - rút , Wernig và đồng nghiệp điều khiển được phần lớn các nơron để đáp lại để kích thích điện sao cho trong một vài tuần , họ đã thực hiện được các kết nối tiếp hợp giữa các nơron của chuột đang phát triển kế bên .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>There are problems : although in the case of mice , about 20% of skins can be converted directly into neurons , with human skin cells this efficiency goes down to around 2% or 4% .</s>
+<s id='vn25'>Có các vấn đề như : mặc dù trong trường hợp của chuột , khoảng 20% da có thể được chuyển trực tiếp thành nơron , với tế bào da người hiệu quả này giảm xuống còn khoảng 2% hoặc 4% .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>And while the mouse process only takes days , for human skin , it is a matter of several weeks , and the electrical pulses of the resulting neurons are not as strong as those of naturally derived neurons .</s>
+<s id='vn26'>Và trong khi quy trình ở chuột chỉ mất vài ngày , thì đối với da người , lại mất đến nhiều tuần , và xung điện tử của các nơron được tạo thành không mạnh bằng của các nơron tự nhiên .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The team is now working to try and overcome these problems , and perfect a growing culture that increases the speed and efficiency of the direct conversion process .</s>
+<s id='vn27'>Nhóm nghiên cứu đang làm việc để cố gắng khắc phục những vấn đề này , và hoàn thiện một môi trường nuôi cấy làm tăng tốc độ và hiệu quả của quá trình chuyển đổi trực tiếp .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Clearly mice and humans are different in significant ways , " said Wernig .</s>
+<s id='vn28'>" Rõ ràng chuột và con người khác nhau một cách đáng kể " , Wernig nói .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Another team at Stanford recently converted skin cells to iPS cells and then coaxed them to become patient-specific neurons to treat a woman with Parkinson 's disease .</s>
+<s id='vn29'>Một nhóm nghiên cứu khác tại Đại học Stanford gần đây đã chuyển đổi tế bào da thành tế bào mầm đa năng rồi sau đó thao tác chúng thành các nơron cụ thê cho bệnh nhân để điều trị cho một phụ nữ bị bệnh Parkinson .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>But the process is very labor-intensive and relies on cell lines that have a smaller range of diversity compared to naturally created neurons .</s>
+<s id='vn30'>Nhưng quá trình này cần rất nhiều công sức và phụ thuộc vào các dòng tế bào có phạm vi phân hóa nhỏ hơn so với các nơ - ron tự nhiên .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Comparing the direct conversion method with the iPS method , Wernig said it was important to keep working on both :</s>
+<s id='vn31'>So sánh phương pháp chuyển hóa trực tiếp với phương pháp tế bào mầm đa năng , Wernig nói cần phải tiếp tục nghiên cứu cả hai :</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" The iPS cell approach is doable and has been shown to work . "</s>
+<s id='vn32'>" Phương pháp tế bào mầm đa năng là khả thi và đã được chứng minh có hiệu quả . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" It 's possible that the best approach may vary depending on the disease or the type of research being done , " he added .</s>
+<s id='vn33'>" Cách nào là tốt nhất có thể khác nhau tùy thuộc vào bệnh hoặc các loại hình nghiên cứu đang được thực hiện " , ông nói thêm .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The National Institutes of Health , the Stanford Institute for Stem Cell Biology and Regenerative Medicine , the Donald E. and Delia B. Baxter Foundation , the Ellison Medical Foundation , the Stinehard-Reed Foundation , and the New York Stem Cell Foundation provided funds and support for the research , as did Stanford 's Department of Pathology .</s>
+<s id='vn34'>Các Viện Y học Quốc gia , Viện Sinh học Tế bào gốc và Y học tái sinh Stanford , Quỹ Donald E . và Delia B. Baxter , Quỹ Y tê Ellison , Qũy Stinehard-Reed và Quỹ Tê bào gốc New York cung cấp vốn và hỗ trợ cho nghiên cứu , cũng như Khoa bệnh lý học Đại học Stanford .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Induction of human neuronal cells by defined transcription factors . "</s>
+<s id='vn35'>" Cảm ứng của các nơron của người bởi các yếu tố phiên mã được xác định . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Zhiping P. Pang , Nan Yang , Thomas Vierbuchen , Austin Ostermeier , Daniel R. Fuentes , Troy Q. Yang , Ami Citri , Vittorio Sebastiano , Samuele Marro , Thomas C. Sü dhof , and Marius Wernig Nature Published online 26 May 2011</s>
+<s id='vn36'>Zhiping P. Pang , Nan Yang , Thomas Vierbuchen , Austin Ostermeier , Daniel R. Fuentes , Troy Q. Yang , Ami Citri , Vittorio Sebastiano , Samuele Marro , Thomas C. Sü dhof , và Marius Wernig Nature đăng trực tuyến 26 tháng 5 năm 2011</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,136 @@
+﻿<doc id='N0163'>
+<head>
+<title>Earthquake Hits Myanmar</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Earthquake Hits Myanmar</s>
+<s id='vn1'>Myanmar xảy ra động đất</s>
+</spair>
+<spair id='2'>
+<s id='en2'>BANGKOK — A severe earthquake of 6.8 magnitude struck a sparsely populated mountain area in the Golden Triangle region of northeastern Myanmar Thursday , although the tremors were felt over a wide radius , initial reports of damage and injuries were light .</s>
+<s id='vn2'>BANGKOK - Một trận động đất mạnh 6,8 độ rích-te xảy ra ở vùng núi dân cư thưa thớt trong khu vực Tam giác vàng ở miền đông bắc Myanmar hôm thứ năm , dù động đất xảy ra trên một vùng rộng lớn , báo cáo ban đầu về thiệt hại và thương tổn không đáng kể .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One person in northern Thailand was reported killed , a bridge was destroyed near the epicenter , homes were damaged in southern China and buildings shook as far away as Bangkok , Hanoi and Yangon , Myanmar 's largest city .</s>
+<s id='vn3'>Theo báo cáo có một người ở miền bắc Thái Lan bị chết , một cây cầu gần tâm động đất bị phá hủy , nhà cửa ở miền Nam Trung Quốc bị hư hại và các toà nhà xa tận Bangkok , Hà Nội và Yangon , thành phố lớn nhất của Myanmar , bị rung chuyển .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Buildings were damaged near the epicenter in Myanmar 's Shan State and villagers continued to feel aftershocks for several hours , according to an official with World Vision in Myanmar .</s>
+<s id='vn4'>Theo lời một viên chức của World Vision ở Myanmar các toà nhà bị hư hại gần tâm động đất ở bang Shan của Myanmar và dân làng vẫn còn cảm nhận được dư chấn trong nhiều giờ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But reports of any damage and injuries were slow to emerge overnight from the remote mountains and valleys .</s>
+<s id='vn5'>Nhưng các báo cáo về thiệt hại và thương tổn từ vùng núi và thung lũng hẻo lánh chốc chốc dần dần tăng lên .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The area affected is landlocked , and no tsunami warning .</s>
+<s id='vn6'>Khu vực bị ảnh hưởng nằm sâu trong đất liền , và không có cảnh báo về sóng thần .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>One woman was killed in the Thai border city of Chiang Rai , about 70 miles south of the epicenter , when a wall fell on her as she was sleeping , Thai television reported .</s>
+<s id='vn7'>Theo tin từ đài truyền hình Thái Lan , một người phụ nữ đã chết ở thành phố Chiang Rai ven biên giới Thái Lan , cách phía nam tâm động đất khoảng 70 dặm , khi một bức tường đè lên cô ấy trong lúc cô ấy đang ngủ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Some people there said they were shaken from their beds or ran into the streets .</s>
+<s id='vn8'>Một số người ở đó nói họ bị dựng dậy hoặc chạy ùa ra đường .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>One woman attending a funeral said she clung to a pole to stay upright .</s>
+<s id='vn9'>Một người phụ nữ dự đám tang nói rằng cô ấy đã bám vào cây trụ để đứng thẳng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" I felt I was swaying like a child in a cradle , " the woman , Nutpisut Thongkika , a 50-year-old teacher , said in a telephone interview from Chiang Rai .</s>
+<s id='vn10'>" Tôi cảm thấy tôi đang lắc lư như một đứa trẻ trong nôi , " người phụ nữ , Nutpisut Thongkika , giáo viên 50 tuổi , phát biểu trong một cuộc phỏng vấn qua điện thoại từ Chiang Rai .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" The situation here was very chaotic when the earthquake hit . "</s>
+<s id='vn11'>" Tình hình ở đây rất lộn xộn khi xảy ra động đất . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Thai television said no serious damage was reported in Chiang Rai .</s>
+<s id='vn12'>Đài truyền hình Thái Lan nói rằng chưa có thiệt hại nghiêm trọng được ghi nhận ở Chiang Rai .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Many tourists in nearby Chiangmai fled their hotels and remained for hours in the streets .</s>
+<s id='vn13'>Nhiều du khách ở Chiangmai gần đó chạy ra khỏi khách sạn và ở ngoài đường mấy tiếng đồng hồ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The United States Geological Survey said the earthquake was just six miles deep , meaning that severe shaking could have caused major damage to buildings in a wide area .</s>
+<s id='vn14'>Cơ quan Khảo sát địa chất Hoa Kỳ nói rằng động đất chỉ sâu sáu dặm , có nghĩa là rung động mạnh có thể gây thiệt hại nặng nề cho các toà nhà trên một vùng rộng lớn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It also reported a smaller quake , of 4.8 magnitude , about a half-hour later .</s>
+<s id='vn15'>Cơ quan này cũng cho biết một trận động đất nhỏ hơn , khoảng 4,8 độ rích-te , xảy ra khoảng nửa tiếng đồng hồ sau đó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Buildings shook for more than a minute in China 's nearby Yunnan Province and many residents fled their homes in Nanning City , the capital of Guangzi Autonomous Region , the Xinhua news agency reported .</s>
+<s id='vn16'>Các toà nhà rung chuyển hơn một phút Tỉnh Vân Nam của Trung Quốc không xa và nhiều cư dân chạy ra khỏi nhà của họ ở thành phố Nam Ninh , thủ phủ của Vùng tự trị Guangzi , hãng thông tấn Tân Hoa Xã cho biết .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It said officials were investigating the extent of the damage .</s>
+<s id='vn17'>Cơ quan này nói rằng các quan chức đang điều tra mức độ thiệt hại .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Another earthquake on March 10 in Yunnan Province in southwest China took 26 lives and destroyed a number of schools , Xinhua reported .</s>
+<s id='vn18'>Một trận động đất khác xảy ra vào ngày 10 tháng ba ở Tỉnh Vân Nam thuộc miền tây nam Trung Quốc đã tước đi 26 sinh mạng và phá hủy một số trường học , Tân Hoa Xã cho biết .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The tremors Thursday caused panic in Hanoi , 380 miles to the east of the epicenter , where residents said they heard the shattering of windows , the Vietnam News Agency reported .</s>
+<s id='vn19'>Các trận động đất nhẹ hôm thứ năm gây hoảng sợ ở Hà Nội , cách phía đông tâm động đất 380 dặm , nơi mà người dân nói rằng họ nghe tiếng cửa sổ vỡ , Thông tấn xã Việt Nam cho biết .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Tall buildings shook and chandeliers swayed in Bangkok , 480 miles to the south .</s>
+<s id='vn20'>Các toà nhà cao tầng rung chuyển và đèn treo lắc lư ở Bangkok , cách phía nam 480 dặm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Hours after the quake , people in villages near the epicenter remained in the streets afraid to return indoors , said Jenny McIntyre , communications manager in Yangon for World Vision , a children 's aid agency .</s>
+<s id='vn21'>Nhiều giờ sau khi xảy ra động đất , mọi người ở các làng gần tâm động đất vẫn còn ở ngoài đường vì sợ trở vào nhà , theo lời của Jenny McIntyre , giám đốc truyền thông của World Vision tại Yangon , một cơ quan giúp đỡ trẻ em .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" These are subsistence farmers , simple people who have got simple water systems which will potentially be threatened , " she said , adding that the damaged bridge had cut off an area near the epicenter .</s>
+<s id='vn22'>" Đây là những người sống bằng nghề nông , những con người bình dị chỉ có những hệ thống tưới tiêu đơn giản mà cũng có nguy cơ bị đe doạ , " cô ấy nói , nói thêm là cây cầu bị hư đã cắt đứt phương tiện giao thông tại một khu vực gần tâm động đất .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>She said she also felt the tremors in Yangon , 350 miles to the southwest .</s>
+<s id='vn23'>Cô ấy nói rằng cô ấy cũng cảm nhận được động đất nhẹ ở Yangon , cách phía tây nam 350 dặm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" I suddenly felt really sick and strange and I realized that everything was rocking , the lightshades were all rocking , " she said .</s>
+<s id='vn24'>" Đột nhiên tôi cảm thấy thật sự không ổn và là lạ và tôi nhận ra rằng mọi thứ đang rung chuyển , các chụp đèn đều đang lắc lư , " cô ấy nói .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Wongdeun Kongcharoen , 34 , a hotel manager in Chiang Rai , said the earthquake cracked the walls of houses and scattered glassware and other belongings in all directions .</s>
+<s id='vn25'>Wongdeun Kongcharoen , 34 tuổi , giám đốc khách sạn ở Chiang Rai , nói rằng động đất làm nứt tường nhà và làm cho đồ thủy tinh và đồ đạc cá nhân khác văng ra mọi hướng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" People here are still nervous and staying outside , " she said about two hours after the tremors .</s>
+<s id='vn26'>" Mọi người ở đây vẫn còn lo lắng và ở bên ngoài , " cô ấy nói khoảng hai tiếng đồng hồ sau khi xảy ra động đất .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" We feel like the situation that happened in Japan .</s>
+<s id='vn27'>" Chúng tôi cảm thấy giống như tình hình xảy ra ở Nhật .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It was so scary .</s>
+<s id='vn28'>Thật rùng rợn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>She said a Japanese friend told her the shaking was light compared to earthquakes in Japan .</s>
+<s id='vn29'>Cô ấy nói rằng một người bạn Nhật nói với cô ấy rung chuyển nhẹ so với động đất ở Nhật .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" But this was the first time for us to experience a situation like this , " Ms. Wongden said .</s>
+<s id='vn30'>" Nhưng đây là lần đầu chúng tôi trải qua tình huống như thế này , " cô Wongden nói .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" So that 's why we were still outside and still scared . "</s>
+<s id='vn31'>" Đó là lý do vì sao chúng tôi vẫn còn ở bên ngoài và vẫn còn sợ . "</s>
+</spair>
+</text>
+</doc>

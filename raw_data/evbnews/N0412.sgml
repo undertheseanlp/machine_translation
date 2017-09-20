@@ -1,0 +1,268 @@
+﻿<doc id='N0412'>
+<head>
+<title>Personal Assessment Checklist</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Personal Assessment Checklist</s>
+<s id='vn1'>Bảng danh mục đánh giá năng lực cá nhân</s>
+</spair>
+<spair id='2'>
+<s id='en2'>( before starting a new ( online ) business )</s>
+<s id='vn2'>( trước khi thành lập một doanh nghiệp ( trực tuyến ) mới )</s>
+</spair>
+<spair id='3'>
+<s id='en3'>1 . Assess your personality .</s>
+<s id='vn3'>1 . Đánh giá phẩm chất của bạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Not everyone is cut out to be an entrepreneur .</s>
+<s id='vn4'>Không phải ai được sinh ra cũng để trở thành một chủ doanh nghiệp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Entrepreneurs tend to share many of the following traits :</s>
+<s id='vn5'>Các chủ doanh nghiệp thường có chung những đặc điểm sau :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Desire .</s>
+<s id='vn6'>Tham vọng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>How much do you want an online business ?</s>
+<s id='vn7'>Một doanh nghiệp trực tuyến , bạn muốn kiếm được bao nhiêu ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>You will be investing a great deal of time , effort , and money into a business .</s>
+<s id='vn8'>Bạn sẽ đầu tư nhiều thời gian , công sức , và tiền của vào một doanh nghiệp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What 's driving you to do so ?</s>
+<s id='vn9'>Động lực nào khiến bạn hành động như vậy ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Remember although starting a business is often very difficult , sustaining and building it is also a tremendous amount of work .</s>
+<s id='vn10'>Nên nhớ , mặc dù khởi đầu một doanh nghiệp thường rất khó khăn , nhưng duy trì và phát triển nó cũng là một công việc đầy cam go .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Knowledge .</s>
+<s id='vn11'>Kiến thức .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>You must have enough knowledge to competently produce , market , and service the products you sell .</s>
+<s id='vn12'>Bạn phải có đủ kiến thức để sản xuất , tiếp thị và bảo dưỡng chu đáo các sản phẩm bạn bán .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Self-motivation .</s>
+<s id='vn13'>Sự chủ động .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Are you the type that takes the initiative to get things done ?</s>
+<s id='vn14'>Bạn thuộc típ người chủ động trong công việc ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In the beginning , your adrenaline may be flowing from the excitement of getting started but can you maintain your motivation during the less-exciting periods of business ?</s>
+<s id='vn15'>Khi bắt đầu , lượng hoóc-môn gây xúc cảm của bạn có thể tràn đầy từ trạng thái hưng phấn lúc ban đầu nhưng liệu bạn có thể duy trì được động lực của mình cả trong những giai đoạn kinh doanh ảm đạm ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Willingness to learn .</s>
+<s id='vn16'>Sẵn lòng học hỏi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This is always important , but particularly so on the Internet where things change all the time .</s>
+<s id='vn17'>Điều này luôn quan trọng , nhưng đặc biệt quan trọng trong môi trường Internet nơi mà mọi thứ thay đổi không ngừng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Marketing techniques that work today may not work as well - or at all - next month .</s>
+<s id='vn18'>Các kỹ thuật tiếp thị hôm nay hiệu quả nhưng có thể không còn tác dụng nữa vào tháng sau .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Self-education never stops .</s>
+<s id='vn19'>Tự học không bao giờ thôi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>There 's always an opportunity to learn from others .</s>
+<s id='vn20'>Lúc nào cũng có cơ hội để học từ người khác .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Willingness to sacrifice the time and effort .</s>
+<s id='vn21'>Sẵn sàng đầu tư thời gian và công sức .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Are you ready to put forth the required time and effort to build a successful business ?</s>
+<s id='vn22'>Bạn đã sẵn sàng bỏ thời gian và sức lực cần thiết để gây dựng một doanh nghiệp thành công ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It 's not going to happen overnight , and it may even take years .</s>
+<s id='vn23'>Nó không đến trong một đêm và nó thậm chí có thể phải mất nhiều năm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Confiends .</s>
+<s id='vn24'>Sự tự tin .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>You need to feel confident that you can provide a valuable product or service to your customers - and be able to demonstrate this confidence !</s>
+<s id='vn25'>Bạn cần tự tin là mình có thể cung cấp sản phẩm hay dịch vụ có giá trị cho các khách hàng - và đủ năng lực để thể hiện sự tự tin này !</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If you appear to be unsure of yourself , your prospective customers will also feel unsure of dealing with you .</s>
+<s id='vn26'>Nếu bạn tỏ ra thiếu tự tin , các khách hàng tiềm năng của bạn cũng sẽ cảm thấy không an tâm giao dịch với bạn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Discipline .</s>
+<s id='vn27'>Tính kỷ luật .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Will you do what needs to be done , regardless of whether or not you " feel like " doing it ?</s>
+<s id='vn28'>Bạn sẽ làm việc gì cần làm dù có " thích " hay không ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Decisiveness and focus .</s>
+<s id='vn29'>Tính kiên định và sự tập trung .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>After researching your options , you need to be able to make good decisions without secondguessing yourself constantly or changing your mind .</s>
+<s id='vn30'>Sau khi xem xét các lựa chọn của mình , bạn cần có khả năng đưa ra quyết định đúng đắn mà không phải thấp thỏm đoán mò hoặc thay đổi ý định .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Many people jump from one " latest and greatest " business opportunity or marketing fad without seeing results .</s>
+<s id='vn31'>Nhiều người bỏ qua một cơ hội kinh doanh " mới nhất và lớn nhất " hoặc một xu hướng tiếp thị thời thượng mà không thấy hết các kết quả .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It 's important to be able to pick something and stick with it until you can determine its worth .</s>
+<s id='vn32'>Điều quan trọng là có thể lựa chọn cái gì đó và quyết giữ nó cho đến khi bạn có thể thấy rõ được giá trị thật của nó .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>It 's better to have ONE profitable business , rather than a whole bunch of unsuccessful ones .</s>
+<s id='vn33'>Có MỘT vụ làm ăn mà có lời thì tốt hơn là làm một tá vụ nhưng thất bát .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Flexibility .</s>
+<s id='vn34'>Sự linh hoạt .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Business often throws the unexpected your way , and you need to be able to adapt quickly .</s>
+<s id='vn35'>Công việc kinh doanh thường khiến bạn rơi vào tình huống không lường trước được , và bạn cần có khả năng nhanh chóng thích nghi .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Organization skills .</s>
+<s id='vn36'>Các kỹ năng tổ chức .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Can you effectively manage your time and resources while ensuring your products and customer service do n't suffer ?</s>
+<s id='vn37'>Bạn có thể quản lý hiệu quả các nguồn lực và thời gian của mình trong khi vẫn đảm bảo các sản phẩm và dịch vụ khách hàng của bạn không bị thiệt hại .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Ability to work alone .</s>
+<s id='vn38'>Khả năng làm việc độc lập .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Feeling " isolated " is very common when working from home .</s>
+<s id='vn39'>Cảm giác " cô đơn " là rất bình thường khi làm việc tại nhà .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Persistance and determination .</s>
+<s id='vn40'>Tính kiên trì và sự quyết tâm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Not every attempt will result in success .</s>
+<s id='vn41'>Không phải mọi cố gắng đều đưa đến thành công .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If at first you do n't succeed , you need to be able to learn from your mistakes , then pick yourself up and try again .</s>
+<s id='vn42'>Nếu ban đầu bạn không thành công , bạn cần có khả năng rút ra bài học từ những lần vấp ngã của mình , sau đó tự đứng dậy và tiếp tục thử lại .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>2 . Assess your willingness to accept risks .</s>
+<s id='vn43'>2 . Đánh giá sự sẵn sàng chấp nhận các rủi ro của bạn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>There are no guarantees in life , and that includes the success of a business .</s>
+<s id='vn44'>Không có những đảm bảo trong cuộc sống và sự thành công của một doanh nghiệp .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Factor in the amount of money , time , and effort you 're willing to invest into a business - remember , businesses will differ in the amount required .</s>
+<s id='vn45'>Cần tính đến tổng số lượng tiền , thời gian , và công sức bạn sẵn lòng đầu tư vào một doanh nghiệp - nhớ rằng , các doanh nghiệp sẽ có nhu cầu khác nhau về tổng số lượng ấy .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Financial .</s>
+<s id='vn46'>Tài chính .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Time .</s>
+<s id='vn47'>Thời gian .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Effort .</s>
+<s id='vn48'>Công sức .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Relationships .</s>
+<s id='vn49'>Các mối quan hệ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Remember that building a business does n't just affect you ; it also affects those close to you .</s>
+<s id='vn50'>Hãy nhớ là xây dựng một doanh nghiệp không chỉ ảnh hưởng đến bạn ; nó còn tác động tới cả những người thân quen với bạn nữa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>For example , your family will notice the time you spend away from them while trying to build a business .</s>
+<s id='vn51'>Chẳng hạn , gia đình bạn sẽ thấy được thời gian bạn xa nhà để xây dựng một doanh nghiệp .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>3 . What are your personal and business goals ?</s>
+<s id='vn52'>3 . Những mục tiêu của doanh nghiệp và của cá nhân bạn là gì ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Why do you want an online business ?</s>
+<s id='vn53'>Tại sao bạn muốn một doanh nghiệp trực tuyến ?</s>
+</spair>
+<spair id='54'>
+<s id='en54'>4 . Know your interests .</s>
+<s id='vn54'>4 . Nhận biết các mối quan tâm của bạn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Ultimately , you want to build a business you love .</s>
+<s id='vn55'>Rốt cuộc thì bạn muốn xây dựng một doanh nghiệp bạn yêu thích .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>5 . Figure out what type of online business you want to run .</s>
+<s id='vn56'>5 . Hãy hình dung loại hình doanh nghiệp trực tuyến nào bạn muốn quản lý .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Out of the huge number of possibilities , select one that works well with your skills and your interests .</s>
+<s id='vn57'>Liệt kê ra thật nhiều các khả năng chọn lựa , chọn lấy khả năng mà phù hợp với các kỹ năng và những sở thích của bạn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>6 . Assess your strengths and weaknesses .</s>
+<s id='vn58'>6 . Đánh giá các điểm mạnh và yếu của bạn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This will help you decide what tasks you may want to outsource .</s>
+<s id='vn59'>Điều này giúp bạn quyết định những công việc nào mình có thể cần phải thuê bên ngoài làm cho .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>You want to focus on what you 're good at .</s>
+<s id='vn60'>Bạn muốn tập trung vào lĩnh vực bạn thông thạo nhất .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>7 . Assess your skills .</s>
+<s id='vn61'>7 . Đánh giá các kỹ năng của bạn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Knowing what they are will help you to determine the products or services that will be the basis of your business .</s>
+<s id='vn62'>Việc nhận biết các kỹ năng ấy là gì sẽ giúp bạn xác định các sản phẩm hay dịch vụ sẽ là nền tảng của doanh nghiệp mình .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>8 . Will your family support your choice of business ?</s>
+<s id='vn63'>8 . Gia đình bạn sẽ ủng hộ sự lựa chọn kinh doanh của bạn ?</s>
+</spair>
+<spair id='64'>
+<s id='en64'>There may be certain types of businesses that can cause friction within your family - and your family 's support can be a real blessing when you 're trying to start a business .</s>
+<s id='vn64'>Có thể có một vài loại hình doanh nghiệp có thể gây mâu thuẫn trong gia đình bạn - và sự ủng hộ của gia đình có thể là một điều may mắn thực sự khi bạn đang nỗ lực khởi nghiệp .</s>
+</spair>
+</text>
+</doc>

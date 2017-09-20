@@ -1,0 +1,172 @@
+﻿<doc id='N0543'>
+<head>
+<title>UK travellers warned over Europe</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>UK travellers warned over Europe</s>
+<s id='vn1'>Các khách du lịch Anh được cảnh báo trên toàn Châu Âu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Foreign Office has updated its travel advice for Europe , warning of a " high threat " of attacks in countries including France and Germany .</s>
+<s id='vn2'>Bộ Ngoại giao đã cập nhật thông tin hướng dẫn du lịch ở châu Âu , cảnh báo trước về " nguy cơ tấn công cao " ở nhiều quốc gia kể cả Pháp và Đức .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Previously it had advised only of a " general threat " but an FCO spokeswoman said the safety of Britons abroad was of major concern .</s>
+<s id='vn3'>Trước đây , Bộ này thông báo đó chỉ là " lời đe doạ chung " nhưng một nữ phát ngôn của FCO đã cho biết sự an toàn của người Anh ở nước ngoài đang là mối quan tâm chủ yếu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The US has also advised vigilance in Europe because of the threat of an unspecific al-Qaeda attack .</s>
+<s id='vn4'>Hoa Kỳ cũng thông báo hãy cảnh giác ở châu Âu vì đang có nguy cơ tấn công mờ ám của bọn al-Qaeda .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The UK 's threat level , as set by the Home Office , remains severe .</s>
+<s id='vn5'>Mức đe doạ ở Vương quốc Anh , theo Bộ Nội vụ , vẫn còn cực kỳ nguy hiểm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The FCO spokeswoman said : " Like other large European countries , ( France and Germany ) have a high threat of terrorism , which is reflected in our updated travel advice .</s>
+<s id='vn6'>Nữ phát ngôn của FCO đã nói : " Giống như các cường quốc Châu Âu khác , ( Pháp và Đức ) có nguy cơ khủng bố cao , theo như phản ánh trong thông tin hướng dẫn du lịch mà chúng tôi đã cập nhật . " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Analysis</s>
+<s id='vn7'>Phân tích</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Frank Gardner - BBC security correspondent</s>
+<s id='vn8'>Frank Gardner - Phóng viên an ninh của BBC</s>
+</spair>
+<spair id='9'>
+<s id='en9'>There are two threat scales .</s>
+<s id='vn9'>Có hai mức nguy cơ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>There is the one to Britons in Britain put out by the Home Office and that remains unchanged at severe .</s>
+<s id='vn10'>Thứ nhất là dành cho những người Anh ở Anh được đưa ra ra bởi Bộ nội vụ và mức nguy hiểm đó vẫn không thay đổi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The second is the threat to Britons abroad and that is the Foreign Office 's responsibility .</s>
+<s id='vn11'>Thứ hai là nguy cơ dành cho người Anh ở nước ngoài và đó là trách nhiệm thuộc về Bộ ngoại giao .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It has raised it to the highest level possible of alert for Britons in France and Germany .</s>
+<s id='vn12'>Nguy cơ này tăng cao lên mức cao nhất cảnh báo có thể xảy ra đối với người Anh ở Pháp và Đức .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It 's gone up to high and is advising Britons to be vigilant .</s>
+<s id='vn13'>Nguy cơ này tăng lên cao và Bộ ngoại giao khuyên người Anh cần phải cảnh giác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It 's very non-specific but is in response to the current threat perceived from al-Qaeda who are trying to put together a team of jihadists in the manner of the Mumbai attacks two years ago .</s>
+<s id='vn14'>Nguy cơ này không rõ ràng lắm nhưng chỉ là để phản ứng lại đe doạ hiện thời của bọn al-Qaeda bởi vì chúng đang cố tập hợp nhóm chiến sĩ hồi giáo để tấn công theo kiểu ở Mumbai cách đây hai năm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There is an element of back cover in all of this .</s>
+<s id='vn15'>Có một phần tử yểm trợ phía sau trong tất cả chuyện này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>After the Bali bombing of 2002 , there was a huge row about why MI5 did n't give people sufficient warning about how dangerous the threat was in Bali .</s>
+<s id='vn16'>Sau vụ ném bom ở Bali vào năm 2002 , mọi người đồn rùm beng lớn tiếng là tại sao MI5 không cung cấp đủ thông tin cảnh báo cho mọi người về mức nguy hiểm đe doạ ở Bali .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" We therefore attach great importance to providing information about personal safety and security overseas to enable people to make informed decisions about travel . "</s>
+<s id='vn17'>" Do đó chúng tôi kết hợp các điều tối quan trọng để cung cấp thông tin về an ninh cá nhân và an ninh ở nước ngoài để giúp mọi người có thể đưa ra quyết định có suy tính khi đi du lịch . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Indiscriminate attacks "</s>
+<s id='vn18'>" Các cuộc tấn công không phân biệt "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>On its website , the FCO said : " Attacks could be indiscriminate , including in places frequented by expatriates and foreign travellers . "</s>
+<s id='vn19'>Trên trang web này , FCO đã nói : " Các cuộc tấn công có thể không phân biệt , kể cả các nơi lui tới của người xa xứ và du khách nước ngoài . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The new level is the highest the FCO records and is based on information from a variety of sources including the Joint Terrorism Analysis Centre , security and intelligence agencies , diplomatic and media reports , local knowledge and embassy reports .</s>
+<s id='vn20'>Mức mới là mức cao nhất mà FCO ghi nhận và dựa trên thông tin từ nhiều nguồn bao gồm Trung tâm Phối hợp phân tích khủng bố , các cơ quan tình báo an ninh , các báo cáo của giới truyền thông và ngoại giao , các tờ báo địa phương và báo cáo của đại sứ quán .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In the UK the highest level that can be reached is critical - when an attack is expected imminently .</s>
+<s id='vn21'>Ở nước Anh , mức cao nhất có thể đạt đến gọi là nghiêm trọng - khi tấn công được nghi ngờ là sắp xảy ra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The current threat level indicates an attack is " highly likely " .</s>
+<s id='vn22'>Mức đe doạ hiện thời cho biết tấn công là " rất có thể xảy ra " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Security sources have warned of an al-Qaeda plan to send teams of gunmen to crowded places to kill civilians .</s>
+<s id='vn23'>Những nguồn thông tin an ninh đã cảnh báo kế hoạch của bọn al-Qaeda đang dự định gửi những nhóm kẻ cướp có súng đến nơi tụ họp đông người để giết thường dân .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>They said cities in the UK , France and Germany were thought to be targets for the militants , in attacks analysts feared could be similar to the 2008 atrocities in Mumbai .</s>
+<s id='vn24'>Họ cho biết các thành phố ở nước Anh , Pháp và Đức được cho là các mục tiêu cho các chiến binh , các cuộc tấn công mà nhà phân tích sợ có thể giống như vụ tàn bạo năm 2008 ở Mumbai .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Responding to the US warning , which referred to the whole of Europe , including the UK , Home Secretary Theresa May said : " The first and most important duty of this government is the protection and security of the British people and visitors to the UK . "</s>
+<s id='vn25'>Nói về những cảnh báo của Hoa Kỳ , đối với cả châu Âu , bao gồm cả Vương quốc Anh , Bộ trưởng Nội vụ Theresa May đã nói : " nhiệm vụ đầu tiên và tối quan trọng của chính phủ này là bảo vệ an ninh cho người Anh và các du khách đến Anh . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In a statement issued on her behalf , Ms May said : " As we have consistently made clear , we face a real and serious threat from terrorism .</s>
+<s id='vn26'>Trong lời tuyên bố thay mặt cho quốc gia này , bà May đã nói : " Một khi chúng tôi nhất quán làm rõ mọi chuyện , chúng tôi lại đối mặt với đe doạ nghiêm trọng thật sự từ bọn khủng bố .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Our threat level remains at " severe " - meaning that an attack is highly likely .</s>
+<s id='vn27'>Mức đe doạ của quốc gia chúng tôi vẫn còn " nghiêm trọng " - nghĩa là tấn công rất có thể xảy ra .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" We work closely with our international partners in countering terrorism and the US advice is consistent with our assessment .</s>
+<s id='vn28'>" Chúng tôi làm việc chặt chẽ với các đối tác quốc tế của chúng tôi trong việc chống khủng bố và những lời khuyên của Hoa Kỳ phù hợp với đánh giá của chúng tôi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" I would urge the public to report any suspicious activity to the police in support of the efforts of our security services to discover , track and disrupt terrorist activity . "</s>
+<s id='vn29'>" Tôi sẽ kêu gọi công chúng báo cáo bất kỳ hoạt động nào khả nghi cho cảnh sát biết để ủng hộ nỗ lực của các dịch vụ an ninh của chúng tôi giúp sớm khám phá , theo dõi và đập tan các hoạt động khủng bố . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>FCO threat level classifications</s>
+<s id='vn30'>Phân loại các mức đe doạ của Bộ ngoại giao Anh</s>
+</spair>
+<spair id='31'>
+<s id='en31'>High - a high level of known terrorist activity</s>
+<s id='vn31'>Cao - mức cao của hoạt động khủng bố đã biết</s>
+</spair>
+<spair id='32'>
+<s id='en32'>General - some level of known terrorist activity</s>
+<s id='vn32'>Bình thường - mức trung bình của hoạt động khủng bố đã biết nào đó</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Underlying - a low level of known terrorist activity</s>
+<s id='vn33'>Dưới cơ bản - mức thấp của hoạt động khủng bố đã biết</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Low - no or limited known terrorist activity</s>
+<s id='vn34'>Thấp - hoạt động khủng bố được giới hạn hoặc không biết</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Foreign Secretary William Hague said the updated travel guidance from the US " reinforces the need for vigilance " .</s>
+<s id='vn35'>Ngoại trưởng Anh - William Hague cho biết thông tin hướng dẫn du lịch được cập nhật bởi Hoa Kỳ đã " gia tăng nhu cầu cảnh giác " .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" We ca n't comment on the specifics but the need for vigilance is very strong , " he said .</s>
+<s id='vn36'>Ông cho biết : " Chúng tôi không thể bình luận về những chuyện cụ thể nhưng yêu cầu cảnh giác là rất lớn , " .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The US state department advised Americans to take care while in tourist areas .</s>
+<s id='vn37'>Bộ ngoại giao Hoa Kỳ khuyên người Mỹ cũng nên cảnh giác khi ở các khu du lịch .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The department did not specify a country , issuing the updated guidance for the whole of Europe .</s>
+<s id='vn38'>Bộ này không nói rõ quốc gia nào , những đã phát hành những hướng dẫn cập nhật cho cả châu Âu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>A White House spokesman said : " From the day we became aware of this latest plot , the president made clear we need to do everything possible to disrupt this plot and protect the American people .</s>
+<s id='vn39'>Người phát ngôn Nhà Trắng đã nói : " Kể từ ngày chúng tôi bắt đầu biết được âm mưu mới nhất này , thì tổng thống chúng tôi cũng nêu rõ chúng tôi cần làm những việc gì có thể được để đập tan âm mưu này và bảo vệ người dân Hoa Kỳ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Whether the State Department issues a travel alert is the decision of the State Department but this alert is responsive to the President 's direction that we spare no effort . "</s>
+<s id='vn40'>Dù cho Bộ Ngoại giao phát hành thông tin cảnh báo du lịch là quyết định của Bộ Ngoại giao nhưng cảnh báo này hưởng ứng theo chỉ thị của tổng thống mà chúng tôi thừa sức làm . "</s>
+</spair>
+</text>
+</doc>

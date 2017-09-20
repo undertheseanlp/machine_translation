@@ -1,0 +1,76 @@
+﻿<doc id='N0638'>
+<head>
+<title>Thoughts of friends</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Thoughts of friends</s>
+<s id='vn1'>Nghĩ về bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In kindergarten your idea of a good friend was the person who let you have the red crayon when all he painted was the ugly black one .</s>
+<s id='vn2'>Hồi học mẫu giáo , bạn quan niệm một người bạn thân là người sẵn sàng cho bạn mượn cây bút chì màu đỏ trong khi bạn ấy tô toàn một màu đen xấu xí thôi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In first grade your idea of a good friend was the person who went to the bathroom with you and held your hand as you walked through the scary halls .</s>
+<s id='vn3'>Năm lớp một bạn nghĩ rằng người bạn thân là người cùng đi với bạn tới nhà vệ sinh và nắm tay bạn khi bạn đi qua dãy hành lang đáng sợ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In second grade your idea of a good friend was the person who helped you stand up to the class bully .</s>
+<s id='vn4'>Năm lớp hai , ai bênh vực bạn trước đám bạn hay bắt nạt trong lớp thì bạn chọn ngay là người bạn thân của mình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In third grade your idea of a good friend was the person who shared their delicious lunch with you when you forgot yours on the bus .</s>
+<s id='vn5'>Năm lớp ba , bạn thân được định nghĩa là người sẵn sàng chia sẻ cho bạn bữa ăn trưa ngon lành của họ khi bạn bỏ quên thức ăn của mình trên xe buýt .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In fourth grade your idea of a good friend was the person who was willing to switch square dancing partners in gym so you wouldn't have to be stuck do-si-do-ing with Nasty Nicky or Smelly Susan .</s>
+<s id='vn6'>Năm lớp bốn , bạn nào sẵn lòng đổi bạn nhảy của điệu theo kiểu xoay lưng vào nhau ở phòng tập thể dục để bạn khỏi bị dính vào điệu nhảy này với bạn Nicky Bẩn thỉu hay bạn Susan hôi hám thì đó là bạn thân của bạn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In fifth grade your idea of a friend was the person who saved the best seat on the bus for you when you all went out for a picnic .</s>
+<s id='vn7'>Năm lớp năm , định nghĩa về bạn thân là người dành cho bạn chiếc ghế tốt nhất trên xe buýt khi cả trường đi dã ngoại .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In sixth grade your idea of a friend was the person who was side by side to help you when you came to a new environment .</s>
+<s id='vn8'>Năm lớp sáu , với bạn , bạn thân là người luôn ở bên cạnh để giúp đỡ bạn khi bạn bước vào một môi trường mới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In seventh grade your idea of a friend was the person who let you copy his homework if you had forgotten .</s>
+<s id='vn9'>Năm lớp bảy , bạn nghĩ rằng bạn thân phải sẵn lòng cho bạn chép bài tập về nhà nếu lỡ bạn có quên mất đi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In eighth grade your idea of a good friend was the person who helped you pack up your messy room .</s>
+<s id='vn10'>Khi vào lớp tám , bạn thân là người giúp bạn dọn dẹp căn phòng bừa bộn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In ninth grade your idea of a good friend was the person who went to a big party so that you wouldn't have the feeling of loneliness there .</s>
+<s id='vn11'>Năm lớp chín , bạn thân sẽ là người cùng bạn đến dự một buổi tiệc long trọng để bạn không có cảm giác lẻ loi ở đó .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In tenth grade your idea of a good friend was the person who changed their schedule so you would have someone to sit and talk with at lunch .</s>
+<s id='vn12'>Lớp mười , bạn nghĩ người bạn thân sẽ sẵn lòng thay đổi kế hoạch để cùng bạn ăn trưa và đấu láo chỉ vì bạn thích thế .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In eleventh grade your idea of a good friend was the person who gave you rides in their new bike , convinced your parents to let you be home a little bit late because of a party .</s>
+<s id='vn13'>Lên lớp mưới một , bạn ao ước có một người bạn thân đèo bạn đi chơi trên chiếc xe đạp mới , thuyết phục bố mẹ cho bạn được về muộn một tí vì phải dự một bữa tiệc nào đó .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In twelfth grade your idea of a good friend was the person who helped you pick out a college and gave you consultancy to go to college , which prepared a next step for you to enter your life .</s>
+<s id='vn14'>Năm lớp mười hai , còn gì tuyệt hơn khi có một người bạn có thể giúp bạn chọn trường và tư vấn cho bạn một trường thích hợp , chuẩn bị cho bước đi kế tiếp trong cuộc đời bạn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In summer after the graduation your idea of a good friend was the person who wrapped up all the souvenir of 12 years studying with you and was crying on the inside but managed the biggest smile one could give as they congratulated you .</s>
+<s id='vn15'>Mùa hè sau lễ tốt nghiệp , người bạn thân là người sẽ cùng bạn gói ghém ký ức của 12 năm học đường , mỉm cười dù trong lòng buồn khôn xiết khi nói lời chúc mừng đến bạn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Now , your idea of a good friend is still the person who gives you the better of the two choices , holds your hand when you 're scared , helps you fight off those who try to " take advantage of you " , thinks of you at times when you are not there , reminds you of what you have forgotten , stays with you so that you have confidence , helps you clear up your mistakes , helps you deal with pressure from others !</s>
+<s id='vn16'>giờ đây , định nghĩa về bạn thân trong tâm khảm bạn vẫn là người hy sinh điều tốt lành nhất cho bạn , nắm tay bạn khi bạn sợ hãi , giúp bạn chống lại những kẻ muốn " ăn hiếp " bạn , nghĩ đến bạn dù bạn không còn bên cạnh , nhắc bạn nhớ những điều bạn đã quên , luôn ở cạnh bạn để bạn có thêm dũng khí , giúp bạn đứng lên từ những lỗi lầm phạm phải , giúp bạn vượt qua mọi áp lực từ kẻ khác !</s>
+</spair>
+</text>
+</doc>

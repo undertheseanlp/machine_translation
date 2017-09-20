@@ -1,0 +1,196 @@
+﻿<doc id='N0637'>
+<head>
+<title>Carrot , Egg or Coffee ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Carrot , Egg or Coffee ?</s>
+<s id='vn1'>Cà rốt , trứng hay cà phê ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A young woman went to her father and told her about her life and how things were so hard for her .</s>
+<s id='vn2'>Một cô gái trẻ đến than thở với bố rằng cuộc sống sao quá khó nhọc với mình .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She did not know how she was going to make it and wanted to give up .</s>
+<s id='vn3'>Cô không biết phải sống thế nào đây và muốn chối bỏ cuộc đời này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>She was tired of fighting and struggling .</s>
+<s id='vn4'>Cô quá chán nản vì phải vật lộn với cuộc sống .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It seemed as one problem was solved a new one arose .</s>
+<s id='vn5'>Dường như bất hạnh này vừa qua đi thì bất hạnh khác ập đến .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Her father was a cook .</s>
+<s id='vn6'>Bố cô vốn là đầu bếp .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Once he heard his daughter groan , so he took her to the kitchen .</s>
+<s id='vn7'>Một lần nghe con gái than vãn , ông vội dẫn cô xuống bếp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He filled three pots with water .</s>
+<s id='vn8'>Ông đổ nước vào ba cái nồi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In the first , he placed carrots , in the second he placed eggs and the last he placed ground coffee beans .</s>
+<s id='vn9'>Đầu tiên cho cà rốt , tiếp đến trứng và sau cùng hạt cà phê xay .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He let them sit and boil without saying a word .</s>
+<s id='vn10'>Ông đặt chúng lên bếp và đun sôi mà chẳng nói lời nào .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>She didn't know that her father was doing .</s>
+<s id='vn11'>Người con gái sốt rột chẳng biết cha mình đang làm gì .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In about thirty minutes he turned off the burners .</s>
+<s id='vn12'>Nửa giờ sau người cha tắt bếp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He fished the carrots , eggs out and placed them in a bowl .</s>
+<s id='vn13'>Lần lượt múc cà rốt , trứng và cà phê ra từng tô khác nhau .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Turning to his daughter , he asked , " Tell me what do you see ? "</s>
+<s id='vn14'>Quay sang con gái , ông bảo , " Nói bố nghe con thấy gì nào ? "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Carrots , eggs , and coffee , " she replied .</s>
+<s id='vn15'>Cô đáp , " Cà rốt , trứng và cà phê ạ . " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He brought her closer and asked her to feel the carrots .</s>
+<s id='vn16'>Ông kéo cô gái lại gần hơn và bảo cô nếm thử cà rốt .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>She did and noted that they got soft .</s>
+<s id='vn17'>Cô nói rằng Chúng trở nên mềm lạ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He then asked her to take an egg and break it .</s>
+<s id='vn18'>Nói rồi ông bảo cô mang quả trứng ra bóc .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>After pulling off the shell , she observed the hard- boiled egg .</s>
+<s id='vn19'>Bóc vỏ trứng ra , cô quan sát thấy quả trứng luộc xong đã đặc cứng lại rồi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Finally , he asked her to sip the coffee .</s>
+<s id='vn20'>Cuối cùng , cô nhấp thử cà phê .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The daughter smiled , as she tasted its rich aroma .</s>
+<s id='vn21'>Cô gái mỉm cười thưởng thức hương vị cà phê thơm lừng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" What 's the point , daddy ? "</s>
+<s id='vn22'>" Điều này là gì vậy bố ? "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" Each of these objects had faced the same adversity - boiling water - but_each reacted differently . "</s>
+<s id='vn23'>" Ba thứ này đều gặp một nghịch cảnh như nhau , đó là nước sôi , tuy nhiên mỗi thứ có cách phản ứng riêng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The carrot went in strong , hard and unrelenting .</s>
+<s id='vn24'>Cà rốt khi chưa chế biến thì cứng và trông rắn chắc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>However after being subjected to the boiling water , it softened and became weak .</s>
+<s id='vn25'>Nhưng sau khi luộc sôi , chúng trở nên rất mềm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The egg had been fragile .</s>
+<s id='vn26'>Còn trứng lúc chưa luộc rất dễ vỡ , .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Its thin outer shell had protected its liquid interior .</s>
+<s id='vn27'>Chỉ có một lớp vỏ mỏng bên ngoài bảo vệ chất lỏng bên trong .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But , after sitting through the boiling water , its inside became hardened .</s>
+<s id='vn28'>Sau khi qua nước sôi , chất lỏng bên trong trở nên đặc và chắc hơn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The ground coffee beans were unique .</s>
+<s id='vn29'>Hạt cà phê thì thật kỳ lạ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>After they were in the boiling water they had changed the water .</s>
+<s id='vn30'>Sau khi sôi , nước của chúng trở nên khác hẳn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" Which are you ? " he asked his daughter .</s>
+<s id='vn31'>Ông quay sang hỏi con gái , " Thế con là gì nào ? "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" When adversity knocks on your door , how do you respond ?</s>
+<s id='vn32'>" Khi đối diện với nghịch cảnh thì con phản ứng thế nào ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Are you a carrot , an egg , or a coffee bean ? "</s>
+<s id='vn33'>Con sẽ là cà rốt , quả trứng hay là hạt cà phê ? "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Think of this : Which am I ?</s>
+<s id='vn34'>Suy nghĩ điều này con nhé : Mình là gì ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Am I the carrot that seems strong , but with pain and adversity , do I wilt and become soft and lose my strength ?</s>
+<s id='vn35'>Con sẽ như cà rốt , bề ngoài tưởng rất cứng cáp nhưng chỉ với một chút đau đớn , bất hạnh đã trở nên yếu đuối chẳng còn chút nghị lực ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Am I the egg that starts with a malleable heart , but changes with the heat ?</s>
+<s id='vn36'>Con sẽ là quả trứng , khởi đầu với trái tim mỏng manh và tinh thần dễ đổi thay .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>But after a death , a breakup , a financial hardship or some other trial , have I become hardened and stiff ?</s>
+<s id='vn37'>Nhưng sau khi chứng kiến chết chóc , tình yêu tan vỡ , khó khăn tài chính hay vài thử thách khác Tôi sẽ chín chắn và cứng cáp hơn ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Does my shell look the same , but on the inside am I bitter and tough with a stiff spirit and a hardened heart ?</s>
+<s id='vn38'>Có phải lớp vỏ bề ngoài giống nhau song bản chất bên trong lại mạnh mẽ với một tinh thần cứng rắn và một con tim kiên cường sắt đá không ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Or am I like the coffee bean ?</s>
+<s id='vn39'>Hay con sẽ giống hạt cà phê ?</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The bean actually changes the hot water , the very circumstance that brings the pain .</s>
+<s id='vn40'>Loại hạt thực sự làm thay đổi nước , làm thay đổi chính cái hoàn cảnh mang lại thương đau cho mình đấy .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>When the water gets hot , it releases the fragrance and flavor .</s>
+<s id='vn41'>Cà phê có hương vị thơm ngon nếu nước ở nhiệt độ nóng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If you are like the bean , when things are at their worst , you get better and change the situation around you .</s>
+<s id='vn42'>Nếu con giống như hạt cà phê thì khi gặp những tình thế khó xử nhất con sẽ trưởng thành hơn và có thể thay đổi hoàn cảnh quanh mình đấy .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>This life is also like that , dear .</s>
+<s id='vn43'>Cuộc đời này cũng vậy con ạ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The time when things seem to be the worst is also the time for you to be the strongest .</s>
+<s id='vn44'>Khi sự việc tưởng như tồi tệ nhất thì chính lúc ấy lại giúp con mạnh mẽ hơn cả .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>How do you handle adversity ?</s>
+<s id='vn45'>Con sẽ đối mặt với những thử thách như thế nào ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Are you a carrot , an egg , or a coffee bean ?</s>
+<s id='vn46'>Cà rốt , trứng hay hạt cà phê ?</s>
+</spair>
+</text>
+</doc>

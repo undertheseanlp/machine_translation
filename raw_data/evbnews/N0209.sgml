@@ -1,0 +1,236 @@
+﻿<doc id='N0209'>
+<head>
+<title>Vitamins and Minerals</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Vitamins and Minerals</s>
+<s id='vn1'>Vi-ta-min và khoáng chất</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Breakfast cereals advertise that they 're packed with vitamins and minerals .</s>
+<s id='vn2'>Các quảng cáo ngũ cốc dành cho ăn điểm tâm rằng chúng được bổ sung thêm vi-ta-min và khoáng chất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Sports drinks claim they can rev up your flagging energy with a lot of vitamins or minerals ( sorry , but even powerful vitamins and minerals can't act that fast ! ) .</s>
+<s id='vn3'>Các thức uống thể thao khẳng định có thể tăng cường năng lượng đang dần suy kiệt của bạn cùng rất nhiều vi-ta-min và khoáng chất ( tiếc là , ngay cả vi-ta-min và khoáng chất có cường độ mạnh cũng không thể làm điều đó nhanh chóng được ! ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You know vitamins and minerals are good for you .</s>
+<s id='vn4'>Ai cũng biết là vi-ta-min và khoáng chất có lợi cho sức khỏe của mình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But which ones does your body really need ?</s>
+<s id='vn5'>Nhưng cơ thể bạn thực sự cần những loại nào ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>And is it possible to get too much of a good thing ?</s>
+<s id='vn6'>Và liệu có thể dùng quá nhiều thứ này không ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>What are vitamins and minerals ?</s>
+<s id='vn7'>Khoáng chất và vi-ta-min là gì ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Vitamins and minerals make people 's bodies work properly .</s>
+<s id='vn8'>Khoáng chất và vi-ta-min giúp cho cơ thể hoạt động tốt .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although you get vitamins and minerals from the foods you eat every day , some foods have more vitamins and minerals than others .</s>
+<s id='vn9'>Mặc dù cơ thể bạn hấp thụ vi-ta-min và khoáng chất từ thức ăn mỗi ngày nhưng một số thực phẩm có hàm lượng vi-ta-min và khoáng chất cao hơn những thực phẩm khác .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Vitamins fall into two categories : fat soluble and water soluble .</s>
+<s id='vn10'>Có hai loại vi-ta-min : loại hoà tan trong chất béo và loại hoà tan trong nước .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The fat-soluble vitamins - A , D , E , and K - dissolve in fat and can be stored in your body .</s>
+<s id='vn11'>Các vi-ta-min hoà tan trong chất béo gồm A , D , E và K hoà tan được trong chất béo và có thể tích trữ trong cơ thể .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The water-soluble vitamins - C and the B-complex vitamins ( such as vitamins B6 , B12 , niacin , riboflavin , and folate ) - need to dissolve in water before your body can absorb them .</s>
+<s id='vn12'>Những vi-ta-min hoà tan trong nước gồm vi-ta-min C và nhóm vi-ta-min B ( như vi-ta-min B6 , B12 , a-xít ni-cô-ti-ních , B2 , và a-xít phô-lích ) cần được hoà tan trong nước trước khi hấp thụ vào cơ thể .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Your body can't store these vitamins .</s>
+<s id='vn13'>Cơ thể bạn không tích trữ các loại vi-ta-min này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Any vitamin C or B that your body does n't use may be lost mostly when you pee .</s>
+<s id='vn14'>Những loại vi-ta-min C và B mà cơ thể không sử dụng có thể mất đi , hầu hết là khi bạn tiểu tiện .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>So you need a fresh supply of these vitamins every day .</s>
+<s id='vn15'>Vì thế bạn cần cung cấp mới những vi-ta-min này mỗi ngày .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Whereas vitamins are organic substances ( made by plants or animals ) , minerals are inorganic elements that come from the soil and water and are absorbed by plants or eaten by animals .</s>
+<s id='vn16'>Trong khi vi-ta-min là các chất hữu cơ ( từ thực vật hoặc động vật ) thì khoáng chất là những nguyên tố vô cơ có nguồn gốc từ đất và nước , được các loài thực vật hấp thụ vào hoặc được các loài động vật ăn vào .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Your body needs larger amounts of some minerals , such as calcium , to grow and stay healthy .</s>
+<s id='vn17'>Cơ thể của bạn cần một lượng lớn các khoáng chất như can-xi , để phát triển và khỏe mạnh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Other minerals like chromium , copper , iodine , iron , selenium , and zinc are called trace minerals because you only need very small amounts of them each day .</s>
+<s id='vn18'>Những loại khoáng chất khác như crôm , đồng , iốt , sắt , xê-len , và kẽm là những khoáng chất mà cơ thể cần rất ít mỗi ngày .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>What do vitamins and minerals do ?</s>
+<s id='vn19'>Khoáng chất và vi-ta-min có tác dụng gì ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Vitamins and minerals boost the immune system , support normal growth and development , and help cells and organs do their jobs .</s>
+<s id='vn20'>Khoáng chất và vi-ta-min giúp tăng cường hệ miễn dịch , thúc đẩy việc tăng trưởng và phát triển bình thường , và giúp các tế bào và cơ quan thực hiện các nhiệm vụ của mình .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>For example , you 've probably heard that carrots are good for your eyes .</s>
+<s id='vn21'>Chẳng hạn như , bạn có lẽ đã biết là cà rốt tốt cho mắt .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>It 's true !</s>
+<s id='vn22'>Đúng đấy !</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Carrots are full of substances called carotenoids that your body converts into vitamin A , which helps prevent eye problems .</s>
+<s id='vn23'>Cà rốt có nhiều chất carotenoid được cơ thể chuyển thành vi-ta-min A , giúp ngăn ngừa các bệnh về mắt .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Another vitamin , vitamin K , helps blood to clot ( so cuts and scrapes stop bleeding quickly ) .</s>
+<s id='vn24'>Một loại vi-ta-min khác là vi-ta-min K , giúp cho máu đông lại ( giúp cầm máu nhanh các vết đứt hay trầy xước ) .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>You 'll find vitamin K in green leafy vegetables , broccoli , and soybeans .</s>
+<s id='vn25'>Vi-ta-min K có trong các loại rau lá xanh , cải bẹ xanh , và đậu nành .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>And to have strong bones , you need to eat foods such as milk , yogurt , and green leafy vegetables , which are rich in the mineral calcium .</s>
+<s id='vn26'>Và nếu muốn cho xương cứng cáp , khỏe mạnh , bạn nên ăn những loại thực phẩm như sữa , sữa chua , và rau có lá xanh , những loại này rất giàu can-xi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Fuel for growth</s>
+<s id='vn27'>Chất kích thích tăng trưởng</s>
+</spair>
+<spair id='28'>
+<s id='en28'>People go through a lot of physical changes - including growth and puberty - during their teenage years .</s>
+<s id='vn28'>Cơ thể chúng ta trải qua nhiều thay đổi bề ngoài - bao gồm việc phát triển và dậy thì - suốt thời niên thiếu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Eating right during this time is especially important because the body needs a variety of vitamins and minerals to grow , develop , and stay healthy .</s>
+<s id='vn29'>Việc ăn uống phù hợp trong suốt giai đoạn này đặc biệt quan trọng bởi cơ thể cần nhiều vi-ta-min và khoáng chất để phát triển và khoẻ mạnh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Eating a variety of foods is the best way to get all the vitamins and minerals you need each day , as well as the right balance of carbohydrates , proteins , fats , and calories .</s>
+<s id='vn30'>cách tốt nhất là ăn nhiều loại thực phẩm để có đủ hết các loại vi-ta-min và khoáng chất cơ thể cần mỗi ngày , cũng như sự cân đối phù hợp hy-đrát-các-bon , prô-tê-in , chất béo , ca-lo-ri .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Whole or unprocessed foods - like fresh fruits and vegetables , grains , low-fat dairy products , lean meats , fish , and poultry - are the best choices for providing the nutrients your body needs to stay healthy and grow properly .</s>
+<s id='vn31'>Các loại thực phẩm còn nguyên chất hoặc thực phẩm chưa chế biến - như trái cây tươi và rau , ngũ cốc , các sản phẩm làm từ sữa ít chất béo , thịt nạc , cá , và thịt gia cầm - là sự lựa chọn tốt nhất để cung cấp chất dinh dưỡng mà cơ thể cần để khoẻ mạnh và phát triển hợp lý .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It 's OK to eat foods like potato chips and cookies once in a while , but do n't overdo high-calorie foods like these because they offer little nutritionally .</s>
+<s id='vn32'>Thỉnh thoảng cũng có thể ăn khoai tây chiên và bánh quy , nhưng đừng ăn quá nhiều các loại thực phẩm giàu ca-lo như thế này vì chúng rất ít chất dinh dưỡng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>To choose healthy foods , check food labels and pick items that are high in vitamins and minerals .</s>
+<s id='vn33'>Để chọn thức ăn có lợi cho sức khỏe , hãy kiểm tra các nhãn thực phẩm và chọn các mặt hàng có hàm lượng vi-ta-min và khoáng chất cao .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For example , if you 're choosing beverages , you 'll find that a glass of milk is a good source of vitamin D and the minerals calcium , phosphorous , and potassium .</s>
+<s id='vn34'>Chẳng hạn như , nếu bạn đang chọn đồ uống , bạn sẽ thấy rằng một ly sữa là nguồn cung cấp vi-ta-min D hữu hiệu và các khoáng chất can-xi , phốt-pho và ka-li .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>A glass of soda offers very few vitamins or minerals - if any .</s>
+<s id='vn35'>Một ly xô-đa nếu có thì cũng cung cấp rất ít vi-ta-min và khoáng chất .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>You can also satisfy your taste without sacrificing nutrition while eating out : Vegetable pizzas or fajitas , sandwiches with lean meat , fresh salads , and baked potatoes are a few delicious , nutritious choices .</s>
+<s id='vn36'>Bạn cũng có thể đáp ứng sở thích của mình mà không mất đi chất dinh dưỡng khi ăn tiệm như món bánh pizza hoặc món thịt Mê-hi-cô có rau , món xăng-uých dùng với thịt nạc , rau xà-lách tươi , và khoai tây nướng là những món ăn ngon và bổ dưỡng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If you 're a vegetarian , you 'll need to plan carefully for a diet that offers the vitamins and minerals found primarily in meats .</s>
+<s id='vn37'>Nếu bạn là người ăn chay thì bạn cần có kế hoạch cẩn thận cho chế độ ăn uống của mình để cung cấp vi-ta-min và khoáng chất mà chủ yếu có trong thịt .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The best sources for the minerals zinc and iron are meats , fish , and poultry .</s>
+<s id='vn38'>Nguồn cung cấp khoáng chất kẽm và sắt nhiều nhất là từ thịt , cá , và thịt gia cầm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>However , you can get zinc and iron in dried beans , seeds , nuts , and leafy green vegetables like kale .</s>
+<s id='vn39'>Tuy nhiên , bạn cũng có thể cung cấp kẽm và sắt từ đậu khô , hạt , quả hạch và nhiều loại rau lá xanh như cải xoăn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Vitamin B12 , which is important for manufacturing red blood cells , is not found in plant foods .</s>
+<s id='vn40'>Vi-ta-min B12 rất quan trọng trong việc sản xuất ra hồng cầu , không có trong các loại thực phẩm thực vật .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If you do n't eat meat , you can find vitamin B12 in eggs , milk and other dairy foods , and fortified breakfast cereals .</s>
+<s id='vn41'>Nếu bạn không ăn thịt , bạn có thể cung cấp vi-ta-min B12 từ trứng , sữa và các thực phẩm từ sữa , và từ ngũ cốc dành để ăn điểm tâm được bổ sung vi-ta-min .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Vegans ( who eat no animal products at all , including dairy products ) may need to take vitamin supplements .</s>
+<s id='vn42'>Người ăn chay ( người hoàn toàn không ăn thực phẩm động vật , kể cả các sản phẩm làm từ sữa ) có thể cần phải bổ sung thêm vi-ta-min .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>If you 're thinking about becoming a vegetarian , talk to your doctor or a dietitian about how to plan a healthy , balanced diet .</s>
+<s id='vn43'>Nếu bạn muốn ăn chay thì hãy hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng về kế hoạch ăn uống khoẻ mạnh và cân đối .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Common Concerns</s>
+<s id='vn44'>Mối lo ngại chung</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Lots of teens wonder if they should take vitamin or mineral supplements .</s>
+<s id='vn45'>Nhiều thiếu niên muốn biết là liệu có nên bổ sung thêm vi-ta-min và khoáng chất không .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>If your diet includes a wide variety of foods , including grain products , fresh fruits and vegetables , dairy products , nuts , seeds , eggs , and meats , then you are probably getting the vitamins and minerals your body needs .</s>
+<s id='vn46'>Nếu chế độ ăn uống của bạn gồm đa dạng nhiều loại thức ăn , như ngũ cốc , trái cây và rau tươi , các sản phẩm từ sữa , củ , hạt , trứng , và thịt , thì chắc là bạn đã cung cấp cho cơ thể đủ các loại vi-ta-min và khoáng chất rồi đấy .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>But if you 're skipping meals , dieting , or if you 're concerned that you 're not eating enough items from a particular category , such as vegetables or dairy products , then talk to your doctor or to a dietitian .</s>
+<s id='vn47'>Nhưng nếu bạn bỏ bữa , ăn kiêng , hoặc nếu bạn lo rằng bạn không ăn đầy đủ thực phẩm trong các loại đặc biệt như rau hoặc các sản phẩm từ sữa thì hãy tham khảo ý kiến của bác sĩ hoặc chuyên gia dinh dưỡng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>These professionals can help you create an eating plan that includes the nutrients your body needs .</s>
+<s id='vn48'>Các chuyên gia này có thể giúp bạn có kế hoạch ăn uống đủ chất dinh dưỡng mà cơ thể cần .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>consult your doctor before taking vitamin or mineral supplements .</s>
+<s id='vn49'>Hãy tư vấn bác sĩ của bạn trước khi bổ sung vi-ta-min và khoáng chất .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Some people think that if something is good for you , then the more you take in , the healthier you 'll be .</s>
+<s id='vn50'>Nhiều người nghĩ là hễ cái gì tốt cho mình thì dùng càng nhiều , càng khỏe .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>But that 's not necessarily true when it comes to vitamins and minerals .</s>
+<s id='vn51'>Nhưng điều này chưa hẳn đúng với vi-ta-min và khoáng chất .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>For example , fat-soluble vitamins or minerals , which the body stores and excretes more slowly , can build up in your system to levels where they could cause problems .</s>
+<s id='vn52'>Chẳng hạn như , các vi-ta-min và khoáng chất hoà tan trong chất béo , được cơ thể tích trữ và bài tiết ra ngoài chậm , và tích tụ lại trong cơ thể tới mức độ có thể gây bệnh .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>There are hundreds of supplements on the market and of course their manufacturers want you to purchase them .</s>
+<s id='vn53'>Có hàng trăm loại vi-ta-min và khoáng chất bổ sung trên thị trường và dĩ nhiên là các nhà sản xuất đều muốn bạn mua hàng của họ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Beware of unproven claims about the benefits of taking more than recommended amounts of any vitamin or mineral .</s>
+<s id='vn54'>Hãy đề phòng các lời khẳng định chưa được kiểm chứng về lợi ích của việc dùng bất kỳ loại vi-ta-min và khoáng chất bổ sung nào quá mức đề nghị .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>A healthy teen usually does n't need supplements if he or she is eating a well-rounded diet .</s>
+<s id='vn55'>Một thiếu niên khỏe mạnh thường không cần bổ sung nếu đã có chế độ ăn uống đa dạng và cân đối .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Your best bet for getting the vitamins and minerals you need is to eat a wide variety of healthy foods and skip the vitamin pills and then you 'll feel better !</s>
+<s id='vn56'>Điều tốt nhất để có được đầy đủ vi-ta-min và khoáng chất là ăn nhiều thức ăn có lợi cho sức khỏe và hãy bỏ những viên vi-ta-min đi và bạn sẽ cảm thấy khỏe hơn !</s>
+</spair>
+</text>
+</doc>

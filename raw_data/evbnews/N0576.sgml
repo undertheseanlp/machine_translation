@@ -1,0 +1,220 @@
+﻿<doc id='N0576'>
+<head>
+<title>Google plans Chrome-based Web operating system</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google plans Chrome-based Web operating system</s>
+<s id='vn1'>Google lên kế hoạch cho hệ điều hành Web dựa trên Chrome</s>
+</spair>
+<spair id='2'>
+<s id='en2'>That Google operating system rumor is coming true and it 's based on Google 's browser , Chrome .</s>
+<s id='vn2'>Các tin đồn về hệ điều hành Google dần trở thành hiện thực và nó được dựa trên trình duyệt của Google Chrome .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The company announced Google Chrome OS on its blog Tuesday night , saying lower-end PCs called Netbooks from unnamed manufacturers will include it in the second half of 2010 .</s>
+<s id='vn3'>Hãng này cho công bố Hệ điều hành Google Chrome trên blog của hãng vào đêm thứ Ba , hãng cho biết các PC cấp thấp còn gọi là Netbook của các nhà sản xuất vô danh sẽ được cài Hệ điều hành này vào quí thứ Tứ năm 2010 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Linux will run under the covers of the open-source project , but the applications will run on the Web itself .</s>
+<s id='vn4'>Linux sẽ chạy dưới vỏ bọc của dự án mã nguồn mở , nhưng các ứng dụng sẽ chạy trên Web của nó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In other words , Google 's cloud-computing ambitions just got a lot bigger .</s>
+<s id='vn5'>Nói cách khác , tham vọng về điện toán đám mây của Google vừa trở nên lớn hơn nhiều .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Google Chrome OS is being created for people who spend most of their time on the Web , and is being designed to power computers ranging from small Netbooks to full-size desktop systems , " Sundar Pichai , vice president of product management , and Linus Upson , engineering director , said in the blogpost .</s>
+<s id='vn6'>" Hệ điều hành Google Chrome đang được tạo ra cho những người mà dành hầu hết thời gian trên Web , và đang được thiết kế cho các loại máy tính từ Netbook nhỏ cho tới các hệ thống máy tính để bàn đủ kích cỡ , " Sundar Pichai , phó giám đốc điều hành quản lý sản phẩm , và Linus Upson - Giám đốc Kĩ thuật đã phát biểu trong blog .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The move has widespread implications .</s>
+<s id='vn7'>Bước đi tạo ra tác động mạnh mẽ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>One is that it shows just how serious Google is about making the Web into a foundation not just for static pages but for active applications , notably its own such as Google Docs and Gmail .</s>
+<s id='vn8'>Thứ nhất là nó cho thấy rằng Google quan trọng như thế nào về việc làm cho Web trở thành một nền tảng không chỉ đối với các trang web tĩnh mà còn đối với các ứng dụng linh hoạt , đáng chú ý nhất là Google Docs và Gmail của họ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Another : it opens new competition with Microsoft and , potentially , a new reason for antitrust regulators to pay close attention to Google 's moves .</s>
+<s id='vn9'>Điều thứ Hai là nó mở ra một cuộc cạnh tranh mới với Microsoft và tiềm ẩn một lí do mới cho những sự điều chỉnh của luật chống độc quyền để đem lại sự quan tâm gần hơn đến bước đi của Google .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The move also gives new fuel to the Netbook movement for low-cost , network-enabled computers .</s>
+<s id='vn10'>Bước đi này cũng nạp thêm năng lượng mới cho xu hướng Netbook giá rẻ , các máy tính có khả năng nối mạng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Those machines today run Windows or Linux .</s>
+<s id='vn11'>Những cỗ máy này ngày nay chạy Windows hoặc Linux .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Google Chrome OS provides a new option that hearkens back to the Network Computer era of the 1990s espoused by Sun Microsystems ' Scott McNealy and Oracle 's Larry Ellison .</s>
+<s id='vn12'>Hệ điều hành Google Chrome cung cấp một sự lựa chọn mới mà nghe có vẻ giống như quay trở lại kỷ nguyên Network Computer của những năm 1990 được tán thành bởi Scott McNealy của hãng Sun Microsystems và Larry Ellison của Oracle .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Google is making sure its standard antitrust rebuttal , that " competition is one click away , " remains intact with Chrome OS , though .</s>
+<s id='vn13'>Google nắm chắc từ chối tiêu chuẩn chống độc quyền của họ " cạnh tranh là một cách thành công " vẫn duy trì nguyên vẹn với Hệ điều hành Chrome , mặc dù vậy .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" All Web-based applications ... will run not only on Google Chrome OS , but on any standards-based browser on Windows , Mac , and Linux , thereby giving developers the largest user base of any platform . "</s>
+<s id='vn14'>" Tất cả các ứng dụng dựa trên Web … sẽ chạy không chỉ trên Hệ điều hành Google Chrome mà còn trên bất cứ trình duyệt nào dựa trên các chuẩn của Windows , Mac và Linux , do đó đem lại cho các nhà phát triển cơ sở người dùng lớn nhất của bất cứ nền tảng nào " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Another bit of intrigue comes with the corporate politics .</s>
+<s id='vn15'>Thêm một ít sự vận động ngầm đến với các chính sách của công ty .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Google has argued that offering its Android mobile-phone operating system is n't a big enough competitive issue with Apple that Chief Executive Eric Schmidt must step down from Apple 's board .</s>
+<s id='vn16'>Google đã tranh luận rằng việc cung cấp hệ điều hành điện thoại di động Android của hãng không phải là một vấn đề cạnh tranh đủ lớn với Apple mà Giám đốc điều hành Eric Schmidt phải rút lui khỏi " lãnh địa " của Apple .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Offering a full-on PC operating system could intensify the Federal Trade Commission 's " discussions " about Schmidt 's dual Apple and Google responsibilities .</s>
+<s id='vn17'>Việc cung cấp một hệ điều hành đầy đủ cho PC có thể làm tăng thêm " các cuộc thảo luận " của Ủy Ban Thương mại Liên bang Mỹ về trách nhiệm của Schmidt trước hai hãng Apple và Google .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Google has a track record of upsetting the status quo , though , taking on strong incumbent players and rattling cages well beyond the computing industry .</s>
+<s id='vn18'>Google từng có một bảng thành tích về đảo ngược hiện trạng , tuy nhiên , việc lấy đi sức mạnh của người đương thời và vượt mặt họ trong lĩnh vực ngành công nghiệp điện toán .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Google Docs competes with Microsoft Office .</s>
+<s id='vn19'>Google Docs cạnh tranh với Microsoft Office .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Gmail competes with Yahoo Mail and Microsoft Hotmail .</s>
+<s id='vn20'>Gmail cạnh tranh với Yahoo Mail và Microsoft Hotmail .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Google Books aims to digitize the publishing industry .</s>
+<s id='vn21'>Google Books cố gắng số hoá ngành công nghiệp xuất bản .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The Android operating system is designed to make smartphones cheap and ordinary .</s>
+<s id='vn22'>Hệ điều hành Android được thiết kế để sản xuất các smartphone thông thường và giá rẻ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" Rethinking " the operating system</s>
+<s id='vn23'>Suy tính lại Hệ điều hành này</s>
+</spair>
+<spair id='24'>
+<s id='en24'>With Google Chrome OS , the company hopes to start afresh with personal computing .</s>
+<s id='vn24'>Với Hệ điều hành Google Chrome , hãng này hy vọng sẽ bắt đầu lại từ đầu với điện toán cá nhân .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" The operating systems that browsers run on were designed in an era where there was no Web , " the blog post said .</s>
+<s id='vn25'>" Những hệ điều hành mà trình duyệt chạy được thiết kế trong một kỷ nguyên mà ở đó không có Web , " bài đăng trên blog cho biết .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" So today , we 're announcing a new project that 's a natural extension of Google Chrome - the Google Chrome Operating System .</s>
+<s id='vn26'>" Vì vậy ngày hôm nay , chúng tôi công bố một dự án mới đó là một sự mở rộng tự nhiên của Google Chrome - Hệ điều hành Google Chrome .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It 's our attempt to rethink what operating systems should be . "</s>
+<s id='vn27'>Nó là nổ lực của chúng tôi để suy tính lại hệ điều hành này nên làm gì ? " .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Among the benefits Google touted are " speed , simplicity and security , " Pichai and Upson said .</s>
+<s id='vn28'>Trong số những lợi ích của Google được quảng cáo là " tốc độ , tính đơn giản và bảo mật " Pichai và Upson cho biết . " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" We are going back to the basics and completely redesigning the underlying security architecture of the OS so that users do n't have to deal with viruses , malware , and security updates . "</s>
+<s id='vn29'>Chúng tôi đang quay lại các nền tảng và thiết kế lại một cách hoàn chỉnh kiến trúc bảo mật của Hệ điều hành sao cho người dùng không phải đối phó với virus , malware và các bản cập nhật bảo mật " .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Google is talking to Netbook partners now , and the project will become open-source " soon . "</s>
+<s id='vn30'>Hiện tại Google đang bàn về các đối tác sản xuất Netbook , và dự án này sẽ trở thành mã nguồn mở sớm .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>It will run on members of the x86 and ARM processor families , Google said .</s>
+<s id='vn31'>Google cho biết Nó sẽ chạy trên các dòng vi xử lí ARM và x86 .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Google declined to comment on its plans beyond the blog posting .</s>
+<s id='vn32'>Google đã từ chối bình luận về kế hoạch của hãng sau bài đăng trên blog .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The company also didn't mention how exactly it hopes to profit from Chrome OS , but it seems likely it's the latest variation on trying to get more people using the Web more often and more deeply behavior that correlates with more searching and more search advertising .</s>
+<s id='vn33'>Google cũng đã không đề cập một cách chính xác như thế nào , hãng hi vọng sẽ có lợi nhuận từ Hệ điều hành Chrome , nhưng có khả năng sự thay đổi mới nhất của hãng về việc cố gắng có được nhiều người sử dụng Web thường xuyên hơn và lâu hơn hành vi mà có mối tương quan với việc tìm kiếm nhiều và nhiều sự tìm kiếm quảng cáo .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Any time our users have a better computing experience , Google benefits as well by having happier users who are more likely to spend time on the Internet , " Upson and Pichai said .</s>
+<s id='vn34'>Upson và Pichai cho biết " Bất cứ lúc nào người dùng của chúng tôi cũng có một trải nghiệm máy tính tối hơn , lợi nhuận của Google có được là nhờ vào những người dùng mà sử dụng hầu hết thời gian trên Internet " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Hints of the direction have been abundant , but it was n't clear Google would go as far as creating a product branded as a full-on operating system .</s>
+<s id='vn35'>Lời gợi ý về phương hướng đã có khá nhiều , nhưng nó không được rõ ràng Google sẽ đi đến chừng mực tạo ra một sản phẩm có nhãn hiệu như một hệ điều hành hoàn thiện .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>On the software side , one hint was Gears , a plug-in to give browsers the ability to run Web applications even when offline .</s>
+<s id='vn36'>Ở khía cạnh phần mềm này , một gợi ý là Gears , môt plug-in tích hợp cho trình duyệt có thể chạy các ứng dụng Web ngay cả khi không nối mạng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Next came Chrome itself in September 2008 .</s>
+<s id='vn37'>Tiếp đến là chính Chrome vào tháng Chín năm 2008 .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Google said its ambition with the open-source browser was to make the Web a faster , richer foundation for Web applications .</s>
+<s id='vn38'>Google cho biết tham vọng của hãng đối với trình duyệt mã nguồn mở đã làm Web chạy nhanh hơn , nền tảng phong phú cho các ứng dụng Web .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Naturally , Gears was built in from the outset , and Google continues to bang the Web-applications drum loudly .</s>
+<s id='vn39'>Đương nhiên , Gears đã có sẵn từ khi bắt đầu , và Google tiếp tục khua chiêng gõ mõ các ứng dụng Web .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Next came Native Client and O3D , plug-ins that let browsers tap directly into the power of local processors and , if all goes according to plan , match the performance of PC-based applications .</s>
+<s id='vn40'>Tiếp đến là Native Client và O3D , được plug - in cho phép các trình duyệt đưa trực tiếp vào trong sức mạnh của bộ vi xử lí cục bộ , nếu tất cả làm đúng theo kế hoạch , phù hợp với hiệu năng của các ứng dụng dựa trên PC .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Native Client is for the main computing chores , and O3D is for hardware-accelerated graphics , and Google wants to build Native Client at least directly into Chrome .</s>
+<s id='vn41'>Native Client thì dành cho các công việc tính toán chính , và O3D dành cho đồ hoạ tăng tốc phần cứng , và Google muốn xây dựng Native Client ít nhất trực tiếp vào trong Chrome .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The other set of clues came from the Web side of the company 's operations .</s>
+<s id='vn42'>Tập hợp các dòng tư tưởng khác đến từ khía cạnh Web trong sự hoạt động của công ty .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Google 's cash cow is selling ads alongside search results , but the company has been trying for years to build a portfolio of Web-based applications that people could use for everyday computing .</s>
+<s id='vn43'>Nguồn lợi cố định của Google là bán quảng cáo dọc theo các kết quả tìm kiếm , nhưng hãng đang cố gắng xây dựng một danh mục vốn đầu tư của các ứng dụng dựa trên Web trong một vài năm tới để mọi người có thể sử dụng tính toán hằng ngày .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Google Docs offers a Web-based word processor , presentation , and spreadsheet , and Google Apps bundles that along with Gmail and Google Calendar .</s>
+<s id='vn44'>Google Docs cung cấp trình xử lí văn bản dựa trên Web , trình bày , bảng tính , và các gói Ứng dụng của Google cùng với với Gmail và Google Calendar .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>For others trying to make a run at Web-based applications , Google offers Google App Engine , a foundation for online Python and Java programs that can run at the scale of Google 's own computing infrastructure , though free use is more limited .</s>
+<s id='vn45'>Đối với những thứ khác đang cố gắng để làm các ứng dụng chạy trên nền Web , Google cung cấp Google App Engine , một nền tảng cho việc lập trình Java và Python trực tuyến để có thể chạy ở qui mô cơ sở hạ tầng máy tính của Google , mặc dù sử dụng miễn phí bị giới hạn nhiều hơn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>One of the primary advantages of Google 's cloud-computing approach is that data is available from anywhere you can find a networked computer--or , increasingly , mobile phone .</s>
+<s id='vn46'>Một trong những lợi thế chính của phương pháp điện toán đám mây của Google đó là dữ liệu sẵn có tại bất cứ nơi nào mà bạn có thể tìm ra một máy tính được nối mạng - hoặc , điện thoại di động .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It also permits more natural collaboration , since multiple authors can work on the same document simultaneously rather than e-mailing variations or sharing them on a central server .</s>
+<s id='vn47'>Nó cũng cho phép nhiều sự cộng tác tự nhiên , vì nhiều tác giả có thể làm việc trên cùng một tài liệu cùng một lúc thay vì thay đổi mail hoặc chia sẻ chúng trên một máy chủ trung tâm .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>And with data stored on the Net rather than on a PC , upgrades and laptop theft are relatively painless issues .</s>
+<s id='vn48'>Và với dữ liệu được lưu trữ trên mạng thay vì trên một máy PC , việc nâng cấp máy tính hay mất laptop là các vấn đề không đáng quan tâm .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The disadvantages are abundant , though .</s>
+<s id='vn49'>Mặc dù có quá nhiều bất lợi .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Web applications are slow and primitive compared to those that run on PCs , network access is far from ubiquitous , familiar applications are missing , years of accumulated files and data must be migrated to a new system , and not everybody is prepared to have precious corporate or personal information housed at Google or other companies .</s>
+<s id='vn50'>Các ứng dụng Web thì chậm và thô sơ so với những thứ chạy trên PC , truy cập mạng không phải ở đâu cũng có , các ứng dụng quen thuộc thì thiếu , dữ liệu và các tập tin tích luỹ nhiều năm phải được đưa lên hệ thống mới và không phải tất cả mọi người ai cũng được chuẩn bị để hợp tác hết mình hoặc thông tin cá nhân được giữ tại Google hay các công ty khác .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>The Net is a different place than when the Sun 's JavaOS and network computers flopped in the marketplace , and Google is powerfully profitable .</s>
+<s id='vn51'>Internet là một sân chơi khác hơn khi JavaOS của Sun và các máy tính mạng đã thất bại trên thị trường này và Google thì có nhiều lợi lớn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>But many of the original challenges remain .</s>
+<s id='vn52'>Nhưng nhiều thách thức trước mắt vẫn còn tồn tại .</s>
+</spair>
+</text>
+</doc>

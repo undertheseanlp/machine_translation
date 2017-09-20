@@ -1,0 +1,268 @@
+﻿<doc id='N0089'>
+<head>
+<title>Ecuador declares state of emergency amid ' coup attempt '</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Ecuador declares state of emergency amid ' coup attempt '</s>
+<s id='vn1'>Ecuador tuyên bố tình trạng khẩn cấp trong lúc có " mưu toan đảo chính "</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A state of emergency has been declared in Ecuador after President Rafael Correa accused the opposition and security forces of a coup attempt .</s>
+<s id='vn2'>Ecuador tuyên bố tình trạng khẩn cấp sau khi tổng thống Rafael Correa tố cáo phe đối lập và các lực lượng an ninh mưu toan đảo chính</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Mr Correa remains in hospital amid reports of fresh violence outside and government claims that security forces will not allow the president to leave .</s>
+<s id='vn3'>Ông Correa vẫn còn nằm viện giữa lúc báo chí tường thuật có bạo loạn bên ngoài và chính phủ tuyên bố các lực lượng an ninh sẽ không để cho tổng thống xuất viện</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Troops took over Quito 's airport , forcing it to close for hours .</s>
+<s id='vn4'>Quân đội đã chiếm phi trường Quito , buộc phi trường phải đóng cửa nhiều giờ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Unrest has been reported across Ecuador amid anger at a new law cutting benefits for public servants .</s>
+<s id='vn5'>Tình hình bất ổn đã được tường thuật khắp đất nước Ecuador trong bầu không khí giận dữ vì một đạo luật mới cắt giảm phúc lợi của các viên chức nhà nước .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Supporters said security forces were not allowing the president to leave the police hospital , where he went for treatment after being hit by teargas .</s>
+<s id='vn6'>Những người ủng hộ cho biết các lực lượng an ninh không để cho tổng thống rời khỏi bệnh viện cảnh sát khi ông đến điều trị sau khi bị trúng hơi cay .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The minister responsible for security , Miguel Carvajal , said at least one person was killed and several others were injured during the unrest , but this could not be immediately confirmed .</s>
+<s id='vn7'>Bộ trưởng phụ trách vấn đề an ninh , Miguel Carvajal , cho biết có ít nhất một người chết và nhiều người khác bị thương trong tình trạng hỗn loạn , nhưng điều này có thể không được xác nhận ngay lập tức .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Mr Correa has received strong support from governments throughout the Americas , with a string of Latin American nations and the US all speaking up for the embattled president .</s>
+<s id='vn8'>Ông Correa nhận được sử ủng hộ mạnh mẽ từ các chính phủ trên khắp Châu Mỹ , trong đó hàng loạt quốc gia Mỹ La tinh và Mỹ tất cả đều lên tiếng ủng hộ tổng thống bị tấn công .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In other developments on Thursday :</s>
+<s id='vn9'>Các diễn tiến khác trong hôm thứ Năm :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Police officers erect road blocks in Quito , Guayaquil and Cuenca .</s>
+<s id='vn10'>Các sĩ quan cảnh sát dựng rào chắn đường tại Quito , Guayaquil và Cuenca .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Looting is reported in the capital and Guayaquil .</s>
+<s id='vn11'>Theo tường thuật , tình trạng cướp phá ở thủ đô và Guayaquil .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Banks are robbed , while schools and businesses close due to the lack of security</s>
+<s id='vn12'>Các nhà băng bị đánh cướp , trong lúc trường học và doanh nghiệp đóng cửa vì thiếu an ninh</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The head of the armed forces declares its loyalty to the president</s>
+<s id='vn13'>Tổng tư lệnh các lực lượng quân sự tuyên bố trung thành với tổng thống</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Venezuela 's president claims Mr Correa is " in danger of being killed "</s>
+<s id='vn14'>Tổng thống Venezuela tuyên bố ông Correa " có nguy cơ bị giết chết "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Peru and Colombia close their borders with Ecuador in solidarity .</s>
+<s id='vn15'>Peru và Colombia đóng cửa biên giới với Ecuador để tỏ tình đoàn kết</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The drama began on Thursday morning when members of the armed forces and police angry at the austerity measures occupied several barracks and set up road blocks across the country .</s>
+<s id='vn16'>Sự việc bắt đầu vào sáng thứ Năm khi các thành viên lực lượng quân đội và cảnh sát giận dữ trước các biện pháp khắc khổ đã chiếm lấy một số đồn binh và dựng rào cản khắp đất nước .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>TV stations showed images of police setting tyres on fire in the streets of Quito , Guayaquil and other cities .</s>
+<s id='vn17'>Các đài truyền hình phát đi hình ảnh cảnh sát đốt các vỏ xe ngoài đường phố Quito , Guayaquil và các thành phố khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The National Assembly building was also occupied .</s>
+<s id='vn18'>Tòa nhà Quốc Hội cũng đã bị chiếm giữ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In a speech to soldiers from Quito 's main barracks , President Correa said :</s>
+<s id='vn19'>Trong bài diễn văn phát đi từ trại quân chính ở Quito , tổng thống Correa nói :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" If you want to kill the president , here he is .</s>
+<s id='vn20'>" Nếu các ông muốn giết tổng thống , ông ta đang ở đây .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Kill him if you are brave enough .</s>
+<s id='vn21'>Giết đi , nếu các ông có đủ can đảm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" If you want to seize the barracks , if you want to leave citizens undefended , if you want to betray the mission of the police force , go ahead .</s>
+<s id='vn22'>" Nếu các ông muốn chiếm các trại lính , nếu các ông muốn để cho người dân bị mất an ninh , nếu các ông muốn phản bội lại sứ mạng của lực lượng cảnh sát , cứ tiếp tục .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But this government will do what has to be done .</s>
+<s id='vn23'>Nhưng chính phủ này sẽ làm những việc phải làm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This president will not take a step back . "</s>
+<s id='vn24'>Tổng thống này sẽ không lùi bước . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>However , Mr Correa was forced to flee the barracks wearing a gas mask shortly afterwards when tear gas was fired by the protesters .</s>
+<s id='vn25'>Tuy nhiên , ông Correa buộc phải mang mặt nạ chống hơi cay rời khỏi trại lính không lâu sau đó khi phe chống đối bắn hơi cay vào .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The president was later treated for the effects of the gas at a police hospital , from where he told local media that he had been " attacked " .</s>
+<s id='vn26'>Sau đó tổng thống được điều trị tác động của hơi cay tại một bệnh viện cảnh sát , nơi mà ông nói với các phương tiện thông tin địa phương là mình đã bị " tấn công " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" They threw tear gas at us .</s>
+<s id='vn27'>" Họ ném hơi cay vào chúng tôi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>One exploded near my face .</s>
+<s id='vn28'>Một quả nổ tung gần mặt tôi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It stunned me and my wife for a few seconds , probably minutes , " he said .</s>
+<s id='vn29'>Tôi và vợ tôi choáng váng vài giây , có lẽ là vài phút , " ông cho biết .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" I had to put on a gas mask and some cowards took it off me so I would suffocate .</s>
+<s id='vn30'>" Tôi phải mang mặt nạ hơi cay và một số kẻ hèn nhát đã giật lấy nó vì thế tôi bị ngạt thở .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" I mean they shot at the president - it 's incredible - our security forces , our national police . "</s>
+<s id='vn31'>" Tôi muốn nói họ bắn vào tổng thống - thật không tin được - các lực lượng an ninh của chúng ta , cảnh sát quốc gia của chúng ta . "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" It is a coup attempt led by the opposition and certain sections of the armed forces and the police , " he added .</s>
+<s id='vn32'>" Đó là mưu toan đảo chính được thực hiện bởi phe đối lập và một số phe phái trong lực lượng quân đội và ngành cảnh sát , " ông nói thêm .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Whatever happens to me I want to express my love for my family and my homeland . "</s>
+<s id='vn33'>" Cho dù có gì xảy ra cho mình , tôi vẫn muốn thể hiện tình yêu của mình đối với gia đình và đất nước . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>He blamed the Patriotic Society Party ( PSP ) , led by Lucio Gutierrez , for fomenting the unrest , and said " all bad elements " in the police force would " be removed " .</s>
+<s id='vn34'>Ông kết tội Đảng Xã Hội Ái Quốc ( PSP ) , đứng đầu là Lucio Gutierrez , đã kích động tình hình bất ổn , và nói " tất cả những phần tử xấu " trong lực lượng cảnh sát sẽ phải bị " loại trừ " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Kidnapped "</s>
+<s id='vn35'>" Bắt cóc "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Venezuelan President Hugo Chavez later reported that Mr Correa had told him by telephone from the hospital " that once he had left he would be very happy to receive ( the protesters ) , but that they had kidnapped him , and he would not give in to blackmail " .</s>
+<s id='vn36'>Sau đó tổng thống Hugo Chavez của Venezuela thuật rằng ông Correa từ bệnh viện đã điện thoại cho ông biết " rằng khi ông có thể ra về , ông rất vui lòng tiếp đón ( những kẻ chống đối ) , nhưng bọn họ đã bắt cóc ông , và ông sẽ không nhượng bộ hành vi đe dọa " .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>" They are trying to oust President Correa .</s>
+<s id='vn37'>" Bọn họ đang tìm cách lật đổ tổng thống Correa .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Wake up the people of the Bolivarian Alliance !</s>
+<s id='vn38'>Hãy đánh thức người dân của Liên Minh Bolivarian !</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Wake up the people of Unasur ( Union of South American Nations ) !</s>
+<s id='vn39'>Hãy đánh thức người dân unasur ( Liên Minh các Quốc Gia Nam Mỹ ) !</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Viva Correa !</s>
+<s id='vn40'>Correa muôn năm !</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Police later fired tear gas at supporters of the president who tried to break up their protest at the hospital , witnesses said .</s>
+<s id='vn41'>Các nhân chứng cho biết , sau đó cảnh sát đã bắn hơi cay vào những người ủng hộ tổng thống lúc ấy đang cố phá vỡ sự chống đối của họ ở bệnh viện .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Meanwhile , about 300 air force personnel and soldiers took control of the runway at Quito 's Mariscal Sucre Airport International , causing flights to be grounded .</s>
+<s id='vn42'>Trong khi đó , khoảng 300 binh lính và người thuộc lực lượng không quân đã kiểm soát phi đạo ở phi trường quốc tế Mariscal Sucre ở Quito , khiến các chuyến bay không thể cất cánh .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The airport later re-opened , the mayor of Quito told reporters .</s>
+<s id='vn43'>Sau đó phi trường đã mở cửa trở lại , Thị trưởng Quito nói với các phóng viên .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The protesters were carrying signs demanding the government give more respect to the military over benefits , witnesses said .</s>
+<s id='vn44'>Các nhân chứng cho biết , phe phản đối mang những tẩm biển đòi chính phủ phải tôn trọng hơn nữa những phúc lợi của khối quân đội .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The US embassy said Guayaquil 's airport was also closed and warned US citizens to " stay in their homes or current location , if safe " .</s>
+<s id='vn45'>Sứ quán Mỹ cho biết phi trường ở Guayaquil cũng bị đóng cửa và cảnh báo các công dân Mỹ nên " ở lại nhà hoặc nơi ở hiện tại , nếu an toàn " .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Despite the unrest , the head of Armed Forces Joint Command , Gen Luis Ernesto Gonzalez Villarreal , said the troops remained loyal .</s>
+<s id='vn46'>Mặc dù bất ổn , người đứng đầu Bộ Chỉ Huy Phối Hợp các Lực Lượng Quân Sự , tướng Luis Ernesto Gonzalez Villarreal , nói các binh sĩ vẫn trung thành .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>" We live in a state which is governed by laws , and we are subordinate to the highest authority which is the president of the republic ," he said .</s>
+<s id='vn47'>Ông ta nói , " Chúng ta đang sống trong một quốc gia pháp trị , và chúng ta phải tuân thủ quyền lực tối cao , đó là tổng thống của nước cộng hòa , "</s>
+</spair>
+<spair id='48'>
+<s id='en48'>" We will take whatever appropriate action that government decides on . "</s>
+<s id='vn48'>" Chúng ta phải thực thi bất kỳ hành động phù hợp mà chính phủ đã quyết định . "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Looting</s>
+<s id='vn49'>Cướp bóc</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The country 's central bank chief , Diego Borja , meanwhile urged its citizens not to withdraw money from banks amid reports of looting .</s>
+<s id='vn50'>Trong khi đó thống đốc ngân hàng trung ương của nước này , Diego Borja , kêu gọi các công dân không rút tiền ra khỏi các ngân hàng trong lúc có tường thuật về tình trạng cướp bóc .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Many schools and business were also closed because of the unrest .</s>
+<s id='vn51'>Nhiều trường học và doanh nghiệp cũng đóng cửa vì tình trạng bất ổn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>A BBC News website reader , Andrea M, said : " Thieves have taken advantage of this situation , and started attacking people in the streets .</s>
+<s id='vn52'>Andrea M , một độc giả của trang web tin tức BBC , nói : " Bọn trộm cướp lợi dụng tình hình này , và bắt đầu tấn công người đi đường .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Now , most people are at their homes , waiting to see what happens with the government . "</s>
+<s id='vn53'>Giờ đây , hầu hết mọi người đều ở trong nhà , chờ xem chuyện gì xảy ra với chính phủ . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Several leaders in this region expressed their support for Mr Correa , as did the Organisation of American States ( OAS ) .</s>
+<s id='vn54'>Một số lãnh đạo của địa phương này bày tỏ sự ủng hộ ông Correa , trong đó có Tổ Chức Các Quốc Gia Châu Mỹ ( OAS ) .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Its Secretary-General Miguel Insulza called the situation " a coup d'etat in the making " .</s>
+<s id='vn55'>Tổng thư ký Miguel Insulza của tổ chức này gọi tình hình này là " một cuộc đảo chính đang hình thành . "</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Peru and Colombia both closed borders with Ecuador , while the US said it backed Mr Correa and was " closely monitoring " the situation .</s>
+<s id='vn56'>Cả Peru và Columbia đều đóng cửa biên giới với Ecuador , trong khi Mỹ cho biết nước này ủng hộ ông Correa và " đang chăm chú theo dõi " tình hình .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>UN Secretary General Ban Ki-moon said he was deeply concerned for the president and called for a peaceful resolution to the crisis .</s>
+<s id='vn57'>Tổng thư ký LHQ Ban Ki moon cho biết ông lo ngại sâu sắc cho tổng thống và kêu gọi giải quyết khủng hoảng bằng một giải pháp hòa bình .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>On Wednesday , one minister said President Correa was considering disbanding Congress because members of his Country Alliance had threatened to block proposals to shrink the bureaucracy .</s>
+<s id='vn58'>Hôm thứ Tư , một bộ trưởng nói Tổng thống Correa đang xem xét việc giải tán Quốc Hội vì các thành viên trong Liên Minh Quốc Gia của ông đe dọa ngăn chặn các đề xuất bài trừ bộ máy quan liêu .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Ecuador 's two-year-old constitution allows the president declare an impasse and rule by decree until new elections .</s>
+<s id='vn59'>Hiếp pháp đã hình thành hai năm của Ecuador cho phép tổng thống tuyên bố tình trạng bế tắc và điều hành bằng sắc luật cho đến khi có tuyển cử mới .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>However , such a move would have to be approved by the Constitutional Court .</s>
+<s id='vn60'>Tuy nhiên , động thái ấy phải được Tòa Án Hiến Pháp chuẩn y .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Ecuador has a history of political instability .</s>
+<s id='vn61'>Ecuador có một lịch sử bất ổn về chính trị .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Protests toppled three presidents during economic turmoil in this decade before Mr Correa , a 47-year-old US-trained economist , took power in 2007 .</s>
+<s id='vn62'>Các vụ chống đối đã lật đổ ba tổng thống trong giai đoạn bất ổn kinh tế trong thập niên này trước khi ông Correa , nhà kinh tế học 47 tuổi do Mỹ đào tạo , lên nắm quyền vào năm 2007 .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>He was re-elected to a second term in 2009 despite a decision to default on $ 3.2 bn of global bonds causing widespread fiscal problems for the government .</s>
+<s id='vn63'>Ông tái đắc cử nhiệm kỳ hai vào năm 2009 cho dù có một quyết định không trả nợ trái phiếu toàn cầu trị giá 3,2 tỷ đô la gây ra cho chính phủ các vấn đề tài chính ảnh hưởng rộng rãi .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Mr Correa declared this debt " illegitimate " .</s>
+<s id='vn64'>Ông Correa tuyên bố khoản nợ này là " không đúng pháp luật " .</s>
+</spair>
+</text>
+</doc>

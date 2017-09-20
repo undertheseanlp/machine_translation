@@ -1,0 +1,96 @@
+﻿<doc id='N0854'>
+<head>
+<title>Fat disrupts sugar sensors causing type 2 diabetes '</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Fat disrupts sugar sensors causing type 2 diabetes '</s>
+<s id='vn1'>Mỡ " phá vỡ cảm ứng ở đường gây ra bệnh tiểu đường loại 2 "</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Writing in the journal Nature Medicine , they say that fat interferes with the body 's sugar sensors .</s>
+<s id='vn2'>Bài viết công bố trên tạp chí Natural medicine nói rằng lượng chất béo có thể gây cản trở cảm ứng đường của cơ thể .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The authors argue that a deeper understanding of the processes involved could help them develop a cure .</s>
+<s id='vn3'>Các tác giả tranh cãi rằng việc hiểu biết sâu hơn về quy trình liên quan này có thể giúp họ phát triển việc chữa trị .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Diabetes UK said the study was interesting and a " theory worth investigating further " .</s>
+<s id='vn4'>Tổ chức Diabetes UK cho biết nghiên cứu này rất thú vị và là " một học thuyết đáng để xem xét thêm " .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>One of the main risk factors for type 2 diabetes is being overweight - rising obesity levels have contributed to a doubling of diabetes cases in the last 30 years .</s>
+<s id='vn5'>Một trong những yếu tố rủi ro chính đối với bệnh tiểu đường loại 2 là sự thừa cân - mức độ béo phì gia tăng đã góp phần khiến các ca bệnh tiểu đường tăng gấp đôi trong 30 năm qua .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Fat and sugar</s>
+<s id='vn6'>Mỡ và đường</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Sugar in the blood is monitored by pancreatic beta cells .</s>
+<s id='vn7'>Đường trong máu do tế bào beta tuỵ điều chỉnh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If sugar levels are too high then the cells release the hormone insulin , which tells the body to bring the levels back down .</s>
+<s id='vn8'>Nếu lượng đường quá cao thì tế bào sẽ giải phóng hoóc – môn in - xu-lin , điều này sẽ thông báo cơ thể nên giảm lượng đường này xuống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Key to this is the enzyme GnT-4a .</s>
+<s id='vn9'>Điều then chốt đó là men GnT-4a .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It allows the cells to absorb glucose and therefore know how much is in the blood .</s>
+<s id='vn10'>Men này giúp tế bào hấp thu glu - cô và do đó biết được có bao nhiêu trong máu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Researchers at the University of California and the Sanford-Burnham Medical Research Institute say they have shown how fat disrupts the enzyme 's production .</s>
+<s id='vn11'>Các nhà nghiên cứu thuộc Đại học California và Viện nghiên cứu Y học Sanford – Burnham cho biết họ đã chỉ ra làm thế nào mà lượng mỡ có thể cản trở việc sản sinh của en - zim .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Experiments on mice showed that those on a high-fat diet had elevated levels of free fatty acids in the blood .</s>
+<s id='vn12'>Các cuộc thử nghiệm trên chuột còn cho thấy ở thực đơn càng có nhiều chất béo thì càng làm tăng hàm lượng a - xít béo tự do trong máu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>These fatty acids interfered with two proteins - FOXA2 and HNF1A - involved in the production of GnT-4a .</s>
+<s id='vn13'>Các loại axit béo này cản trở hai loại prô - tê - in - FOXA2 và HNF1A - liên quan đến việc sản sinh men GnT - 4a .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The result : fat effectively blinded cells to sugar levels in the blood and the mice showed several symptoms of type 2 diabetes .</s>
+<s id='vn14'>Kết quả là : lượng mỡ đã thực sự làm che lấp các tế bào so với lượng đường trong máu nên ở chuột đã xuất hiện vài triệu chứng của bệnh tiểu đường loại 2 .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The same process also took place in samples of human pancreatic cells .</s>
+<s id='vn15'>Quy trình tương tự cũng diễn ra trong các mẫu tế bào tuỵ ở người .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Lead researcher Dr Jamey Marth said : " The observation that beta cell malfunction significantly contributes to multiple disease signs , including insulin resistance , was unexpected . "</s>
+<s id='vn16'>Tiến sĩ Jamey Marth - trưởng nhóm nghiên cứu cho biết : " Quan sát cho thấy vấn đề ở tế bào tuỵ góp phần đáng kể đối với các dấu hiệu bệnh không ngờ đến kể cả kháng i - su-lin .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He suggested that boosting GnT-4a levels could prevent the onset of type 2 diabetes : " The identification of the molecular players in this pathway to diabetes suggests new therapeutic targets and approaches towards developing an effective preventative or perhaps curative treatment .</s>
+<s id='vn17'>Ông nói rằng việc gia tăng lượng men GnT-4a có thể ngăn ngừa khởi phát bệnh tiểu đường loại 2 : " Sự nhận dạng các chất tham gia ở dạng phân tử trong chuỗi phản ứng hóa sinh này đối với bệnh tiểu đường nhằm đưa ra kết quả trị liệu mới và đưa ra các phương pháp để phát triển cách phòng bệnh hiệu quả hay có thể chữa trị .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" This may be accomplished by beta cell gene therapy or by drugs that interfere with this pathway in order to maintain normal beta cell function . "</s>
+<s id='vn18'>" Điều này có thể được thực hiện bằng liệu pháp gen tế bào bê - ta hay bằng thuốc ngăn ngừa chuỗi các phản ứng hoá sinh này để duy trì chức năng tế bào bê - ta thông thường . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Dr Iain Frame , Director of Research at Diabetes UK , said : " This is a well-executed study into possible factors responsible for the events that lead to type 2 diabetes .</s>
+<s id='vn19'>Tiến sĩ Iain Frame , Giám đốc nghiên cứu của Tổ chức Diabetes UK cho biết : " Đây là một nghiên cứu được tiến hành rất cẩn trọng về các yếu tố có thể là nguyên nhân gây ra bênh tiểu đường loại 2 .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" The researchers have linked their results in mice to the same pathways in humans and although they did not show they could prevent or cure type 2 diabetes they have shown it is a theory worth investigating further .</s>
+<s id='vn20'>" Các nhà nghiên cứu đã liên kết các kết quả nghiên cứu ở chuột với chuỗi các phản ứng hoá sinh tương tự ở người và dù họ không đưa ra khả năng có thể ngăn ngừa hoặc chữa trị bệnh tiểu đường loại 2 mà họ đã nói đó là một học thuyết đáng nghiên cứu thêm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" We will watch this with great interest and hope this early work will eventually lead to some benefit to people with type 2 diabetes . "</s>
+<s id='vn21'>" Chúng tôi sẽ dành hết tâm huyết để theo dõi và hi vọng cuối cùng nghiên cứu này sẽ mang đến vài lợi ích cho người bị bệnh tiểu đường . "</s>
+</spair>
+</text>
+</doc>

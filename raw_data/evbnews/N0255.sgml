@@ -1,0 +1,164 @@
+﻿<doc id='N0255'>
+<head>
+<title>Is Bottled Tea Another Junk Drink ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Is Bottled Tea Another Junk Drink ?</s>
+<s id='vn1'>Nước trà đóng chai là một loại thức uống vô bổ ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A study revealed that bottled tea contains very low levels of antioxidants and polyphenols compared to brewed tea , a presentation at the 240th National Meeting of the American Chemical Society revealed .</s>
+<s id='vn2'>Một nghiên cứu cho thấy trà xanh đóng chai có chứa hàm lượng rất thấp của các chất chống oxy hóa và polyphenol so với trà pha , một báo cáo thuyết trình tại cuộc họp quốc gia lần thứ 240 của Hội Hóa học Hoa Kỳ tiết lộ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In fact , the researchers found that in order to get the same benefits found in a single cup of brewed tea , in some cases the consumer would have to drink 20 bottles of bottled tea .</s>
+<s id='vn3'>Trong thực tế , các nhà nghiên cứu thấy rằng để có được những lợi ích tương tự như trong chỉ một chén trà pha , trong một số trường hợp , người tiêu dùng sẽ phải uống 20 chai nước trà đóng chai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Shiming Li , Ph.D. who reported on research carried out by Professor Chi-Tang Ho , explained :</s>
+<s id='vn4'>Tiến sĩ Shiming Li , người báo cáo về nghiên cứu thực hiện bởi Giáo sư Chi-Đường Hồ , giải thích :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Consumers understand very well the concept of the health benefits from drinking tea or consuming other tea products .</s>
+<s id='vn5'>Người tiêu dùng cũng hiểu rất rõ khái niệm về lợi ích sức khỏe từ việc uống trà hay sử dụng các sản phẩm từ trà khác .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>However , there is a huge gap between the perception that tea consumption is healthy and the actual amount of the healthful nutrients - polyphenols - found in bottled tea beverages .</s>
+<s id='vn6'>Tuy nhiên , có một khoảng cách lớn giữa quan niệm cho rằng tiêu thụ trà là lành mạnh và lượng thực tế của chất dinh dưỡng có lợi cho sức khoẻ - polyphenol - được tìm thấy trong nước trà đóng chai .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Our analysis of tea beverages found that the polyphenol content is extremely low .</s>
+<s id='vn7'>Phân tích của chúng tôi về các loại nước trà đóng chai cho thấy rằng những lượng polyphenol chứa trong đó rất thấp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Bottled tea is not only poor in levels of health-improving ingredients for which tea is famous , but it often contains high quantities of sugar and some other substances - substances the health-conscious consumer may be trying to avoid , Li pointed out .</s>
+<s id='vn8'>Nước trà đóng chai không chỉ chứa rất ít các thành phần tốt cho sức khỏe mà vốn có trong trà , hơn nữa lại thường chứa lượng đường cao và một số chất khác - các chất mà người tiêu dùng có ý thức bảo vệ sức khỏe luôn cố gắng để tránh , Li đã chỉ ra .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Li and team measured polyphenol levels in six brands of tea bought from supermarkets .</s>
+<s id='vn9'>Li và nhóm nghiên cứu của mình xét nghiệm mức polyphenol trong sáu thương hiệu trà mua từ siêu thị .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Half of them contained " virtually no antioxidants " while the rest had small quantities of polyphenols which would most likely carry little health benefit , especially when the high sugar content was taken into consideration .</s>
+<s id='vn10'>Một nửa trong số đó " hầu như không có chất chống oxy hóa " trong khi phần còn lại chỉ có lượng nhỏ các polyphenol mà rất có thể sẽ mang lại rất ít lợi ích sức khỏe , đặc biệt là khi lại chứa hàm lượng đường cao .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>What are polyphenols ?</s>
+<s id='vn11'>Polyphenols là gì ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A chemical which is known to protect against some health problems , as well as some of the effects of aging .</s>
+<s id='vn12'>Một hóa chất được biết có tác dụng bảo vệ chống lại một số vấn đề về sức khoẻ , cũng như một vài ảnh hưởng của lão hoá .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A polyphenol , a type of antioxidant , protect cells and chemicals in our bodies from the damage caused by free radicals .</s>
+<s id='vn13'>Polyphenol , một loại chất chống oxy hóa , bảo vệ tế bào và các chất hóa học trong cơ thể của chúng ta khỏi những thiệt hại gây ra bởi các gốc tự do .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Polyphenols can block the actions of some enzymes that help cancer growth .</s>
+<s id='vn14'>Polyphenol có thể chặn tác động của một số en-zim có thể làm phát triển ung thư .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>All brewed tea contain polyphenols .</s>
+<s id='vn15'>Tất cả nước trà pha đều có chứa các polyphenol .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Put simply , polyphenols may protect against cancer , anti-inflammatory conditions and diabetes .</s>
+<s id='vn16'>Một cách đơn giản , polyphenol có thể bảo vệ chống lại bệnh ung thư , tình trạng viêm và tiểu đường .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Li said :</s>
+<s id='vn17'>Li nói :</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Someone would have to drink bottle after bottle of these teas in some cases to receive health benefits .</s>
+<s id='vn18'>Người ta sẽ phải uống hết chai này đến chai khác các loại nước trà đóng chai nếu muốn có được lợi ích cho sức khỏe .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I was surprised at the low polyphenol content .</s>
+<s id='vn19'>Tôi đã ngạc nhiên khi thấy lượng polyphenol quá thấp .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>I didn't expect it to be at such a low level .</s>
+<s id='vn20'>Tôi không mong đợi nó sẽ thấp đến như vậy .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The six teas contained :</s>
+<s id='vn21'>Sáu loại trà chứa :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>81 , 43 , 40 , 4 and 3 milligrams of polyphenols per 16-ounce bottle</s>
+<s id='vn22'>81 , 43 , 40 , 4 và 3 mg polyphenol trong mỗi chai 0,45 lít</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Compared to</s>
+<s id='vn23'>So với</s>
+</spair>
+<spair id='24'>
+<s id='en24'>50 to 150 milligrams found in 1 average cup of home-brewed black or green tea , and costs only a few cents</s>
+<s id='vn24'>50 - 150 mg trong 1 chén cỡ trung của trà đen hoặc trà xanh pha tại nhà , và chi phí chỉ một vài xu</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Tea is the second most widely consumed drink worldwide , after water .</s>
+<s id='vn25'>Trà là thức uống được tiêu thụ nhiều thứ nhì trên toàn thế giới sau nước .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Since 1990 tea sales in the USA have increased fourfold to approximately $ 7 billion per year , mainly as a result of published scientific studies which have revealed the polyphenol_antioxidant content of tea - and their ability to reduce cancer , heart disease and other illness risks .</s>
+<s id='vn26'>Kể từ năm 1990 , doanh số bán trà ở Mỹ đã tăng gấp 4 lần , xấp xỉ 7 tỷ USD năm , chủ yếu là do các kết quả nghiên cứu khoa học đã tiết lộ hàm lượng polyphenol chất chống oxy hóa của trà - và khả năng giảm nguy cơ ung thư , bệnh tim và các nguy cơ bệnh tật khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Although bottled-tea makers do list polyphenol content on their labels , the amounts may not be right because there are no industry or government standards guidelines for measuring or listing the polyphenolic compounds in a given product .</s>
+<s id='vn27'>Mặc dù các nhà sản xuất nước trà đóng chai đều in hàm lượng polyphenol trên bao bì của mình , nhưng những chỉ số đó có thể không đúng bởi vì không có các tiêu chuẩn hướng dẫn của công nghiệp hoặc của chính phủ để đo lường hoặc liệt kê các hợp chất có chứa polyphenol trong một sản phẩm nhất định .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A regular tea bag may contain up to 175 milligrams of polyphenols , says Li .</s>
+<s id='vn28'>Một gói trà túi lọc thông dụng có thể chứa đến 175 miligam polyphenol , Li nói .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>However , the polyphenol content drops when the bag is immersed into hot water .</s>
+<s id='vn29'>Tuy nhiên , hàm lượng polyphenol giảm đi khi trà bị ngâm vào nước nóng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>As manufacturers of bottled-tea change their processes , polyphenol levels may also vary .</s>
+<s id='vn30'>Khi các nhà sản xuất nước trà đóng chai thay đổi quá trình sản xuất , các mức polyphenol cũng có thể khác nhau .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Li said :</s>
+<s id='vn31'>Li cho biết :</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" Polyphenols are bitter and astringent , but to target as many consumers as they , manufacturers want to keep the bitterness and astringency at a minimum .</s>
+<s id='vn32'>" Polyphenol hơi đắng và có tính làm se , nhưng để hấp dẫn càng nhiều người tiêu dùng càng tốt , các nhà sản xuất muốn giảm vị đắng và tính làm se đến mức tối thiểu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The simplest way is to add less tea , which makes the tea polyphenol content low , but tastes smoother and sweeter .</s>
+<s id='vn33'>Cách đơn giản là cho ít trà , làm cho hàm lượng polyphenol trong trà thấp , nhưng lại có vị dễ uống và ngọt ngào hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Li used high-performance liquid chromatography ( HPLC ) to make the first measurements of polyphenols in bottled tea beverages .</s>
+<s id='vn34'>Li sử dụng sắc ký lỏng hiệu năng cao ( HPLC ) để thực hiện các phép đo đầu tiên của lượng polyphenol trong nước trà đóng chai .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>He hopes this study will encourage similar use of HPLC by bottled-tea makers and others to provide consumers with better nutritional information .</s>
+<s id='vn35'>Ông hy vọng nghiên cứu này sẽ khuyến khích sử dụng HPLC tương tự bởi các nhà sản xuất nước trà đóng chai và những người khác để cung cấp những thông tin dinh dưỡng tốt hơn cho người tiêu dùng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Source : The American Chemical Society</s>
+<s id='vn36'>Nguồn : Hiệp hội Hóa học Mỹ</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Written by Christian Nordqvist</s>
+<s id='vn37'>Tác giả : Nordqvist Christian</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Copyright : Medical News Today</s>
+<s id='vn38'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

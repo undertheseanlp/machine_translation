@@ -1,0 +1,120 @@
+﻿<doc id='N0887'>
+<head>
+<title>GoDaddy Driver Major in IPv6 Growth , Survey Finds</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>GoDaddy Driver Major in IPv6 Growth , Survey Finds</s>
+<s id='vn1'>Cuộc điều tra nhận thấy GoDaddy hướng chủ yếu đến sự phát triển IPv6</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In a census of .com , .net and .org domains , it turns out a handful of registrars were responsible for the majority of active IPv6 addresses , namely GoDaddy .</s>
+<s id='vn2'>Trong một cuộc điều tra thống kê các tên miền .com , .net và .org cho thấy một vài tổ chức đăng ký tên miền chịu trách nhiệm về phần lớn các địa chỉ IPv6 hoạt động , cụ thể là GoDaddy .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The number of networks supporting the new IPv6 protocol has exploded this year , thanks to a handful of large domain registrars , according to a recent Internet " census . "</s>
+<s id='vn3'>Số lượng các mạng hỗ trợ giao thức IPv6 mới đã tăng vọt vào năm nay , nhờ vào một vài tổ chức đăng ký tên miền lớn , theo " cuộc điều tra thống kê " Internet gần đây .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>A little over 25 percent of the Internet zones under .com , .net and .org surveyed supported IPv6 , compared to a mere 1.27 percent a year ago , according to an IPv6 Census released Nov. 21 .</s>
+<s id='vn4'>Nhỉnh hơn 25 phần trăm vùng Internet dưới tên miền .com , .net và .org được khảo sát hỗ trợ IPv6 , so với chỉ có 1.27 phần trăm cách đây một năm , theo cuộc điều tra thống kê IPv6 đăng ngày 21 tháng 11 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The survey , sponsored by Infoblox , found that a handful of registrars were responsible for the growth in IPv6 traffic .</s>
+<s id='vn5'>Cuộc khảo sát được tài trợ bởi Infoblox , nhận thấy rằng một vài tổ chức đăng ký tên miền chịu trách nhiệm về quá trình phát triển theo lưu lượng IPv6 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The top three countries who have adopted IPv6 are France , the United States and the Czech Republic .</s>
+<s id='vn6'>Ba quốc gia hàng đầu đã được thông qua IPv6 là Pháp , Mỹ và Cộng hòa Séc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The growth in France and Czech Republic were driven by three registrars alone , according to Cricket Liu , general manager of the Infoblox IPv6 Center of Excellence .</s>
+<s id='vn7'>Quá trình phát triển ở Pháp và Cộng hòa Séc được điều phối bởi ba tổ chức đăng ký tên miền riêng lẻ , theo Cricket Liu , tổng giám đốc Trung tâm Xuất sắc IPv6 của Infoblox .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The significant increase was directly attributed to Go Daddy , which claims to be the world 's largest domain registrar .</s>
+<s id='vn8'>Sự gia tăng đáng kể được cho là có liên quan trực tiếp đến Go Daddy , lời khẳng định của tổ chức đăng ký tên miền lớn nhất của thế giới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>About 80 percent of active IPv6 addresses in the survey were hosted by GoDaddy , the survey found .</s>
+<s id='vn9'>Cuộc khảo sát đã nhận thấy khoảng 80% các địa chỉ IPv6 hoạt động trong cuộc khảo sát được lưu trữ ở GoDaddy .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>If Go Daddy 's domains were removed from the survey , the percentage of zones supporting IPv6 plunged to 3 percent .</s>
+<s id='vn10'>Nếu các tên miền của Go Daddy bị loại bỏ khỏi cuộc khảo sát thì tỷ lệ phần trăm của các vùng được hỗ trợ IPv6 giảm mạnh xuống 3% .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>While that figure is still double what it was last year , Go Daddy was the clear growth driver , Liu told eWEEK .</s>
+<s id='vn11'>Trong khi con số này vẫn gấp đôi số liệu năm ngoái , rõ ràng Go Daddy đã định hướng theo sự phát triển này , Liu nói với eWeek .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Liu called the results " beyond " any of his expectations .</s>
+<s id='vn12'>Liu gọi các kết quả này " vượt quá " mọi mong đợi của ông ta . " Chúng tôi đã không nhận ra bất kỳ một tổ chức đăng ký tên miền nào có thể tác động nhiều như thế " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" We did n't recognize that any one registrar could have that much impact , " Liu said .</s>
+<s id='vn13'>Liu cho biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Liu speculated that Go Daddy had likely decided to support IPv6 for its zones to gain competitive advantage over other registrars .</s>
+<s id='vn14'>Liu cho rằng có nhiều khả năng Go Daddy quyết định hỗ trợ IPv6 cho các vùng Internet để giành được ưu thế cạnh tranh hơn các tổ chức đăng ký tên miền khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Other organizations will likely respond and match Go Daddy 's capabilities , which could drive next year 's survey results closer to 50 percent IPv6 support , Liu said .</s>
+<s id='vn15'>Có khả năng các tổ chức khác sẽ phản ứng lại và cạnh tranh với Go Daddy , có thể dẫn đến các kết quả điều tra trong năm tới sẽ là gần 50% tổ chức đăng ký tên miền hỗ trợ IPv6 , Liu cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>IPv6 is the next generation Internet protocol designed to be a successor for the current system , known as IPv4 , to determine the numeric addresses for each system .</s>
+<s id='vn16'>IPv6 là giao thức Internet thế mới được thiết kế để thay thế hệ thống hiện hành là IPv4 , xác định các địa bằng con số cho mỗi hệ thống .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Demand for Internet addresses has far outstripped supply thanks to the explosion of mobile devices , smart devices and appliances that can access the Internet .</s>
+<s id='vn17'>Yêu cầu về các địa chỉ Internet đã vượt quá khả năng cung cấp do sự bùng nổ của các thiết bị di động , thiết bị thông minh và các thiết bị có thể truy cập Internet .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>IPv4 can support 4.3 billion IPv4 addresses , and the last available blocks were assigned to the various regional authorities that assign IP addresses to organizations in February 2011 .</s>
+<s id='vn18'>IPv4 có thể hỗ trợ 4.3 tỉ địa chỉ và các dãy IP còn lại cuối cùng được cấp cho các chính quyền địa phương để gán các địa chỉ IP cho các tổ chức vào tháng 2 năm 2011 .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Industry observers expect the Asia-Pacific region , North America and Europe to run out of IPv4 addresses within the next few months .</s>
+<s id='vn19'>Những nhà quan sát công nghiệp dự tính khu vực châu Á - Thái Bình Dương , Bắc Mỹ và Châu Âu sẽ hết địa chỉ IPv4 trong vài tháng tới .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Registrars adding IPv6 offerings was good news for customers looking to adopt the next-generation protocol , because it was all taken care of for them and would require little to no work on their part , Liu said .</s>
+<s id='vn20'>Theo ông Liu , những tổ chức đăng ký tên miền bổ sung việc cung cấp IPv6 là tin tốt lành cho khách hàng đang tìm cách thông qua giao thức IP thế hệ mới , bởi vì họ quan tâm tới chúng và yêu cầu ít nhất phải được sử dụng một phần của chúng , Liu cho biết .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Customers can use IPv6 as one of the metrics to evaluate registrars , and switch providers if their existing one does n't have plans to offer the capability any time soon , according to Liu .</s>
+<s id='vn21'>Khách hàng có thể sử dụng IPv6 như một trong các phương pháp đánh giá các tổ chức đăng ký tên miền , và chuyển đổi nhà cung cấp nếu họ đã có nhà cung cấp hiện tại không có kế hoạch nâng cấp trong thời gian tới .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The census scanned .com , .org and .net domains to find out which supported IPv6 and discovered that the majority of IPv6 nodes were not Web and email servers .</s>
+<s id='vn22'>Ông Lui cho biết , cuộc điều tra thống kê đã rà soát các tên miền . com , . org và . net để tìm xem tên miền nào đã được hỗ trợ IPv6 và phát hiện ra rằng phần lớn các nút IPv6 không phải là của các máy chủ Web hoặc máy chủ email .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Since many registrars run Web and mail servers for their customers , it is likely that this number would increase over the next years as more registrars come on board the IPv6 bandwagon , Liu said .</s>
+<s id='vn23'>Kể từ khi nhiều tổ chức đăng ký tên miền vận hành các máy chủ Web và máy chủ email cho các khách hàng của họ , có thể con số này sẽ tăng trong những năm tiếp theo khi nhiều tổ chức đăng ký tên miền hướng đến xu hướng IPV6 .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The World IPv6 Day in June was a one-day test in which participating organizations around the world switched their networks by default to IPv6 for a 24-hour period .</s>
+<s id='vn24'>Ngày IPv6 Thế giới vào tháng 6 là cuộc thử nghiệm trong một ngày mà trong đó các tổ chức tham gia trên toàn thế giới chuyển các mạng của họ mặc định sang IPv6 trong một khoảng thời gian 24 giờ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Intended as a global event to help organizations iron out any glitches with their deployment , it was a success in the sense that there were no major crashes or issues reported .</s>
+<s id='vn25'>Dự định như là một sự kiện toàn cầu để giúp các tổ chức giải quyết mọi sự cố khi họ triển khai , đó là một thành công theo nghĩa mà ở đó không có các sự hỏng hóc lớn hoặc các vấn đề được báo cáo .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Another World IPv6 Week is being planned for June 2012 to encourage organizations to continue investing in IPv6 and to keep the networks switched on for a longer period of time .</s>
+<s id='vn26'>Tuần lễ IPv6 Thế giới khác đang được lên kế hoạch cho tháng 6 năm 2012 để khuyến kích các tổ chức tiếp tục đầu tư vào IPv6 và giữ cho các mạng này được chuyển sang IPV6 trong khoảng thời gian dài hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The longer test period will also provide useful data for analysis , Liu said .</s>
+<s id='vn27'>Lui cho biết , giai đoạn thử nghiệm lâu hơn cũng sẽ cung cấp dữ liệu hữu ích cho việc phân tích .</s>
+</spair>
+</text>
+</doc>

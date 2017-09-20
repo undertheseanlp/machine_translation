@@ -1,0 +1,156 @@
+﻿<doc id='N0671'>
+<head>
+<title>Determination</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Determination</s>
+<s id='vn1'>Lòng quyết tâm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In 1883 , a creative engineer named John Roebling was inspired by an idea to build a spectacular bridge connecting New York with the Long Island .</s>
+<s id='vn2'>Vào năm 1883 , một kỹ sư đầy sáng tạo tên là John Roebling đã nung nấu ý tưởng xây một cây cầu ngoạn mục nối liền New York với Long Island .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>However bridge building experts throughout the world thought that this was an impossible feat and told Roebling to forget the idea .</s>
+<s id='vn3'>Tuy nhiên những chuyên gia cầu đường trên thế giới nghĩ rằng đó là chuyện không khả thi và khuyên Roebling nên quên cái ý tưởng đó đi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It just could not be done .</s>
+<s id='vn4'>Nó không thể thực hiện được .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It was not practical .</s>
+<s id='vn5'>Nó không thực tế .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It had never been done before .</s>
+<s id='vn6'>Chưa từng có người nào làm như thế trước đây .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Roebling could not ignore the vision he had in his mind of this bridge .</s>
+<s id='vn7'>Roebling không thể gạt đi hình ảnh về cây cầu trong tâm trí mình .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He thought about it all the time and he knew deep in his heart that it could be done .</s>
+<s id='vn8'>Ông cứ mãi nghĩ về nó và tận đáy lòng mình ông biết nó có thể thực hiện được .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He just had to share the dream with someone else .</s>
+<s id='vn9'>Ông cần phải chia sẻ mong ước này với ai đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>After much discussion and persuasion he managed to convince his son Washington , an up and coming engineer , that the bridge in fact could be built .</s>
+<s id='vn10'>Sau nhiều lần thảo luận và thuyết phục , ông đã khiến cậu con trai Washington của mình , một kỹ sư đầy triển vọng , tin rằng thực sự có thể xây được cây cầu đó .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Working together for the first time , the father and son developed concepts of how it could be accomplished and how the obstacles could be overcome .</s>
+<s id='vn11'>Lần đầu tiên hợp tác với nhau , hai cha con đã phát triển những khái niệm về cách hoàn thành cây cầu và cách vượt qua mọi trở ngại .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>With great excitement and inspiration , and the headiness of a wild challenge before them , they hired their crew and began to build their dream bridge .</s>
+<s id='vn12'>Tràn đầy niềm phấn khích và cảm hứng , cùng với lòng hăng say trước một thách thức ngông cuồng , họ đã thuê một nhóm nhân công và bắt đầu xây cây cầu mơ ước của họ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The project started well , but when it was only a few months underway a tragic accident on the site took the life of John Roebling .</s>
+<s id='vn13'>Dự án khởi đầu tốt đẹp , nhưng chỉ sau vài tháng thi công một tai nạn thảm khốc đã xảy ra tại công trường cướp đi mạng sống của John Roebling .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Washington was injured and left with a certain amount of brain damage , which resulted in him not being able to walk or talk or even move .</s>
+<s id='vn14'>Washington bị chấn thương và một phần não bộ đã khiến ông không thể đi lại , nói chuyện hay thậm chí là cử động .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" We told them so . "</s>
+<s id='vn15'>" Chúng tôi đã bảo họ rồi . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Crazy men and their crazy dreams . "</s>
+<s id='vn16'>" Những kẻ điên rồ và giấc mơ điên rồ . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It 's foolish to chase wild visions . "</s>
+<s id='vn17'>" Thật ngu xuẩn khi đeo đuổi những ảo tưởng ngông cuồng . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Everyone had a negative comment to make and felt that the project should be scrapped since the Roeblings were the only ones who knew how the bridge could be built .</s>
+<s id='vn18'>Mọi người đã đưa ra những lời chỉ trích tiêu cực và cảm thấy rằng dự án nên bị huỷ bỏ vì chỉ có cha con nhà Roeblings là những người duy nhất biết làm thế nào để xây cây cầu này .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In spite of his handicap Washington was never discouraged .</s>
+<s id='vn19'>Mặc dù bị tàn phế nhưng Washington không bao giờ nản lòng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He still had a burning desire to complete the bridge and his mind was still as sharp as ever .</s>
+<s id='vn20'>Ông vẫn còn nung nấu một niềm đam mê cháy bỏng hoàn thành cây cầu và trí óc ông vẫn còn rất minh mẫn như xưa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He tried to inspire and pass on his enthusiasm to some of his friends , but they were too daunted by the task .</s>
+<s id='vn21'>Ông cố truyền cảm hứng và lòng nhiệt huyết của mình cho vài người bạn của mình , nhưng họ đều nản chí trước nhiệm vụ này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>As he lay on his bed in his hospital room , with the sunlight streaming through the windows , a gentle breeze blew the flimsy white curtains apart and he was able to see the sky and the tops of the trees outside just a moment .</s>
+<s id='vn22'>Khi đang nằm trên giường trong bệnh viện , nhìn những tia nắng xuyên qua ô cửa sổ , cảm nhận một làn gió nhẹ thổi tung bay tấm rèm trắng mỏng tang , qua đó ông có thể nhìn thấy bầu trời và những ngọn cây bên ngoài dù chỉ trong chốc lát .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It seemed that there was a message for him not to give up .</s>
+<s id='vn23'>Dường như điều đó mang đến cho ông một thông điệp không được đầu hàng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Suddenly an idea hit him .</s>
+<s id='vn24'>Bất ngờ một ý tưởng nảy ra trong đầu ông .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>All he could do was move one finger and he decided to make the best use of it .</s>
+<s id='vn25'>Tất cả những gì ông có thể làm là cử động một ngón tay và ông quyết định tận dụng nó một cách triệt để .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>By moving this , he slowly developed a code of communication with his wife .</s>
+<s id='vn26'>Bằng cách cử động ngón tay , dần dà ông đã có thể giao tiếp được với người vợ bằng một thứ " mã ngôn ngữ " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>He touched his wife 's arm with that finger , indicating to her that he wanted her to call the engineers again .</s>
+<s id='vn27'>Ông chạm vào cánh tay của vợ bằng ngón tay đó , ngụ ý với bà rằng ông muốn bà gọi những kỹ sư đến gặp ông một lần nữa .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Then he used the same method of tapping her arm to tell the engineers what to do .</s>
+<s id='vn28'>Cũng bằng phương pháp đó , ông gõ vào cánh tay của vợ để ra hiệu những kỹ sư biết phải làm gì .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It seemed foolish but the project was underway again .</s>
+<s id='vn29'>Dường như điều này thật ngu ngốc nhưng dự án lại tiếp tục được thực hiện .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>For 13 years Washington tapped out his instructions with his finger on his wife 's arm , until the bridge was finally completed .</s>
+<s id='vn30'>Trong 13 năm trời Washington dùng ngón tay của mình gõ vào cánh tay vợ ông chỉ những hướng dẫn cho đến khi cuối cùng câu cầu được hoàn tất .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Today the spectacular Brooklyn Bridge stands in all its glory as a tribute to the triumph of one man 's indomitable spirit and his determination not to be defeated by circumstances .</s>
+<s id='vn31'>Ngày nay cây cầu Brooklyn ngoạn mục đứng đó trong huy hoàng như để tưởng nhớ đến chiến thắng của một người đàn ông với ý chí bất khuất và lòng quyết tâm không hề bị lung lay bởi nghịch cảnh .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It is also a tribute to the engineers and their team work , and to their faith in a man who was considered mad by half the world .</s>
+<s id='vn32'>Nó cũng là một sự tri ân đến với những kỹ sư và tinh thần làm việc tập thể của họ , và niềm tin mà họ đã đặt vào người đàn ông bị cả nửa thế giới xem là một kẻ điên loạn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>It stands too as a tangible monument to the love and devotion of his wife who for 13 long years patiently decoded the messages of her husband and told the engineers what to do .</s>
+<s id='vn33'>Nó cũng đứng đó như một tượng đài hữu hình về tình yêu và sự tận tuỵ của người vợ đã ròng rã suốt 13 năm kiên nhẫn giải mã những thông điệp của chồng và chuyển tải chúng đến những kỹ sư .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Perhaps this is one of the best examples of a never-say-die attitude that overcomes a terrible physical handicap and achieves an impossible goal .</s>
+<s id='vn34'>Có lẽ đây là một trong những minh chứng hùng hồn nhất về thái độ không bao giờ đầu hàng số phận giúp con người vượt trên sự tàn phế khủng khiếp của cơ thể để đạt được mục tiêu tưởng chừng không thể thực hiện được .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Often when we face obstacles in our day-to-day life , our hurdles seem very small in comparison to what many others have to face .</s>
+<s id='vn35'>Nhiều khi chúng ta đối mặt với những trở ngại trong cuộc sống hằng ngày , dường như chúng có vẻ rất nhỏ nhoi nếu so sánh với những gì mà nhiều người khác đang phải đối mặt .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The Brooklyn Bridge shows us that dreams that seem impossible can be realised with determination and persistence , no matter what the odds are .</s>
+<s id='vn36'>Cây cầu Brooklyn đã chứng minh cho chúng ta thấy được những giấc mơ dường như không khả thi có thể trở thành hiện thực bằng lòng quyết tâm và sự kiên định bất chấp mọi thử thách .</s>
+</spair>
+</text>
+</doc>

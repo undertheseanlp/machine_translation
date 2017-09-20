@@ -1,0 +1,284 @@
+﻿<doc id='N0775'>
+<head>
+<title>China AIDS sufferers being denied medical care</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China AIDS sufferers being denied medical care</s>
+<s id='vn1'>Bệnh nhân AIDS ở Trung Quốc bị từ chối chăm sóc y tế</s>
+</spair>
+<spair id='2'>
+<s id='en2'>BEIJING ( Reuters ) - People in China living with HIV and AIDS are routinely being denied medical treatment in mainstream hospitals due to fear and ignorance about the disease , according to a study released by the United Nations ' International Labor Organization ( ILO ) .</s>
+<s id='vn2'>Bắc Kinh ( Reuters ) - Theo một nghiên cứu công bố do Tổ chức Lao động Quốc tế ( ILO ) của Liên Hiệp Quốc , người dân ở Trung Quốc đang sống cùng với HIV và AIDS thường bị các bệnh viện chính từ chối điều trị y tế vì sự kém hiểu biết và lo sợ về căn bệnh này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The world 's most populous nation -- with 1.34 billion people -- had 740,000 people infected with HIV , the virus that causes AIDS , with 105,000 AIDS patients , in 2009 , according to state news agency Xinhua , citing United Nations estimates .</s>
+<s id='vn3'>Theo Hãng thông tấn quốc gia Tân Hoa Xã , viện dẫn số liệu dự đoán của Liên Hiệp Quốc vào năm 2009 , nước đông dân nhất thế giới này - với 1,34 tỉ dân - có 740.000 người nhiễm HIV , loại vi-rút gây ra AIDS , và 105.000 người mắc bệnh AIDS .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>HIV became a major problem for China in the 1990s when hundreds of thousands of impoverished farmers in rural Henan province became infected through botched blood-selling schemes , but the virus is now primarily spread in the country via sexual contact .</s>
+<s id='vn4'>HIV trở thành vấn đề lớn ở Trung Quốc vào những năm 90 khi hàng trăm ngàn nông dân nghèo ở tỉnh nông thôn Hà Nam bị mắc căn bệnh này do nạn buôn bán máu trái phép , nhưng hiện nay vi-rút này lây lan khắp cả nước chủ yếu qua con đường quan hệ tình dục .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Based on interviews with 103 people living with HIV and 23 healthcare workers , the ILO and China 's National Center for STD and AIDS Prevention and Control found that people have been refused medical care and have been discriminated against by healthcare workers .</s>
+<s id='vn5'>Qua cuộc phỏng vấn với 103 người nhiễm HIV và 23 nhân viên y tế , ILO và Trung tâm quốc gia Kiểm soát và Phòng chống AIDS và STD của Trung Quốc cho thấy các bệnh nhận bị từ chối chăm sóc sức khoẻ và bị phân biệt đối xử bởi các nhân viên y tế .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>One HIV-positive man , talking at a news conference to unveil the report , recounted how he was denied medical treatment for his back problem because of his HIV status in hospitals in Tianjin and Beijing .</s>
+<s id='vn6'>Trong một cuộc họp báo công bố bản báo cáo , một người đàn ông dương tính với HIV thuật lại chi tiết cách anh ta bị từ chối điều trị bệnh đau lưng tại các bệnh viện ở Thiên Tân và Bắc Kinh chỉ vì anh ta bị nhiễm HIV .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" The doctor said at our hospital , many patients need surgery , and if other patients get infected , it will be a very bad thing , " said the man , who declined to be identified .</s>
+<s id='vn7'>" Bác sĩ nói rằng tại bệnh viện , nhiều bệnh nhân cần được giải phẫu , và nếu những bệnh nhân khác bị lây nhiễm thì tình hình sẽ trở nên hết sức tồi tệ , " người đàn ông từ chối không tiết lộ danh tính cho biết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" At the second hospital ... the doctor told me : " I sympathize with your suffering but because of your status , I dare not operate on you " , " said the man , who is a farmer from Tianjin and added he was forced to leave his job in a steel firm after his boss discovered he had HIV .</s>
+<s id='vn8'>" Tại bệnh viện thứ hai ... bác sĩ nói với tôi : " Tôi thông cảm với nỗi khổ của anh nhưng vì tình trạng nhiễm bệnh của anh , tôi không dám mổ cho anh " , " người đàn ông này là một nông dân đến từ Thiên Tân và cho biết thêm rằng anh ấy bị buộc phải nghỉ việc trong nhà máy thép sau khi ông chủ phát hiện ra anh ấy bị nhiễm HIV .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" I 've visited many other hospitals and encountered similar denials and excuses such as a lack of equipment . "</s>
+<s id='vn9'>" Tôi đã đến nhiều bệnh viện khác và đều bị từ chối chữa trị lấy cớ là do thiếu thiết bị . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Beijing was initially slow to acknowledge the threat of the disease but has since stepped up the fight against it , spending more on prevention programs , launching schemes to give universal access to anti-retroviral drugs to contain the disease , and introducing policies to curb discrimination .</s>
+<s id='vn10'>Lúc đầu Bắc Kinh chưa nhận thức được mối đe doạ căn bệnh này nhưng bắt đầu đẩy mạnh cuộc chiến chống AIDS , chi nhiều tiền vào các chương trình phòng chống , triển khai kế hoạch phổ biến sử dụng thuốc antiretroviral giúp ngăn chặn căn bệnh này , và đưa ra các chính sách hạn chế nạn phân biệt đối xử .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But in a country where taboos surrounding sex remain strong and discussion of the topic is largely limited , persistent discrimination by healthcare workers could mean that many sufferers are likely to avoid medical treatment .</s>
+<s id='vn11'>Nhưng ở một quốc gia nơi những cấm kỵ về tình dục vẫn còn hằn sâu và thảo luận về đề tài này vẫn còn bị hạn chế nhiều thì sự phân biệt đối xử bởi các nhân viên y tế có thể hàm ý có thể còn nhiều bệnh nhân AIDS sẽ bị từ chối điều trị sức khoẻ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Zhang Ke , deputy director of the infectious disease department of the Beijing You An Hospital , said China 's policy that people with HIV and AIDS should only be treated in designated hospitals for treating infectious diseases was one of the root causes for the discrimination .</s>
+<s id='vn12'>Zhang Ke , Phó giám đốc Khoa bệnh truyền nhiễm thuộc Bệnh viện Hựu An Bắc Kinh trong điều trị được nên chỉ AIDS và HIV nhiễm bị người Trung Quốc của chính sách theo cho biết , bệnh viện chuyên điều trị bệnh truyền nhiễm , cho nên đó là một trong những nguyên nhân sâu xa của nạn phân biệt đối xử .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" We should eliminate these designated hospitals , " said the doctor , who treats HIV-infected patients .</s>
+<s id='vn13'>" Chúng ta nên xoá bỏ những bệnh viện như thế này , " vị bác sĩ cho biết , người đang chữa trị cho các bệnh nhân nhiễm HIV .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Another HIV-positive man from Hebei province , who contracted the virus through a blood transfusion , recalled how hospital workers insisted on discharging him quickly after they found out he had HIV .</s>
+<s id='vn14'>Một người đàn ông dương tính với HIV khác từ tỉnh Hà Bắc , bị lây nhiễm vi - rút qua con đường truyền máu , nhớ lại cảnh ông bị các nhân viên bệnh viện khăng khăng đuổi ra ngoài ngay sau khi họ phát hiện ông bị HIV .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" I talked to them later ... and their worry is that in rural hospitals , when a HIV positive person receives procedures , very few people would visit the hospital .</s>
+<s id='vn15'>" Sau này tôi đã nói chuyện với họ ... và nỗi lo lắng của họ là ở các bệnh viện nông thôn , khi một người nhiễm HIV đến chữa trị , sẽ có rất ít người đến điều trị tại bệnh viện đó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They are worried about the impact on economic gains , " he said .</s>
+<s id='vn16'>Họ lo lắng điều này sẽ tác động đến lợi ích kinh tế , " ông nói .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Having HIV Means You Have AIDS</s>
+<s id='vn17'>Nhiễm HIV có nghĩa là bạn bị AIDS</s>
+</spair>
+<spair id='18'>
+<s id='en18'>What It 's Like to Live With HIV/AIDS</s>
+<s id='vn18'>Sống với HIV/AIDS như thế nào</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Myth . Human immunodeficiency virus ( HIV ) is a virus that destroys the body 's CD4 immune cells , which help fight disease .</s>
+<s id='vn19'>Sai . Vi rút gây bệnh HIV là vi rút phá huỷ các tế bào miễn dịch CD4 của cơ thể , có tác dụng chống bệnh tật .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>With the right medications , you can have HIV for years or decades without HIV progressing to AIDS .</s>
+<s id='vn20'>Nếu được điều trị đúng thuốc thì bạn có thể bị HIV nhiều năm trời hoặc nhiều thập niên mà không chuyển biến HIV sang AIDS .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>AIDS ( acquired immunodeficiency syndrome ) is diagnosed when you have HIV as well as certain opportunistic infections or your CD4 cell count drops below 200 .</s>
+<s id='vn21'>Bệnh nhân bị chẩn đoán AIDS ( hội chứng suy giảm miễn dịch mắc phải ) khi bị nhiễm vi rút HIV đồng thời bị một số bệnh nhiễm trùng nào đó hoặc tổng số tế bào CD4 của bạn dưới 200 .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>It 's difficult to get HIV from casual contact</s>
+<s id='vn22'>Việc tiếp xúc thông thường khó có thể làm lây nhiễm HIV</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Fact .</s>
+<s id='vn23'>Đúng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>You can't catch or spread HIV from hugging someone , using the same towel , or sharing the same glass .</s>
+<s id='vn24'>Bạn không thể mắc bệnh hoặc làm phát tán vi rút HIV bằng cách ôm một người nào đó , sử dụng chung khăn tắm , hoặc uống chung ly .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It 's very rare to get HIV from a blood transfusion -- the U.S. blood supply is carefully tested .</s>
+<s id='vn25'>Rất hiếm khi bị nhiễm HIV do truyền máu – nguồn máu ở Mỹ luôn được xét nghiệm kỹ lưỡng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>However , you can spread the disease from having unprotected sex , sharing needles , or getting a tattoo from unsterilized equipment .</s>
+<s id='vn26'>Tuy nhiên , bạn cũng có thể làm lây lan bệnh này bằng cách quan hệ tình dục không an toàn , dùng chung kim tiêm , hoặc xăm hình bằng dụng cụ , thiết bị chưa được tiệt trùng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>You have just a few years to live</s>
+<s id='vn27'>Bạn chỉ còn sống được vài năm thôi</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Myth . Everyone with HIV experiences it differently .</s>
+<s id='vn28'>Sai . Không phải ai bị HIV cũng đều giống nhau .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Some people may develop AIDS within a few months as the virus quickly weakens their immune system .</s>
+<s id='vn29'>Một số người có thể chuyển sang AIDS trong vòng một vài tháng bởi vi rút nhanh chóng làm yếu hệ miễn dịch của họ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Many others can live for decades with HIV and have a normal life expectancy .</s>
+<s id='vn30'>Nhiều người cũng có thể sống được vài chục năm khi bị nhiễm HIV và có tuổi thọ trung bình bình thường .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>You can help prevent HIV from progressing to AIDS by seeing your doctor regularly and following your doctor 's recommendations .</s>
+<s id='vn31'>Bạn có thể ngăn không cho HIV chuyển sang AIDS bằng cách thường xuyên đến khám bác sĩ và làm theo các yêu cầu của bác sĩ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>You 'll know you have HIV because of your symptoms</s>
+<s id='vn32'>Bạn sẽ biết được bị nhiễm HIV bởi các triệu chứng của mình</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Myth . Some people don't show any signs of HIV for years after being infected .</s>
+<s id='vn33'>Sai . Một số người không biểu hiện bất cứ triệu chứng gì của HIV trong nhiều năm sau khi nhiễm bệnh .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Many can have some symptoms within 10 days to a few weeks after infection .</s>
+<s id='vn34'>Tuy vậy nhiều người có thể biểu hiện một vài triệu chứng trong vòng 10 ngày đến vài tuần sau khi nhiễm bệnh .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>These first symptoms are similar to the flu or mononucleosis and may include fever , fatigue , rash , and sore throat .</s>
+<s id='vn35'>Các triệu chứng ban đầu tương tự như bệnh cúm hoặc tăng bạch cầu đơn nhân và có thể bị sốt , mệt mỏi , phát ban , và đau họng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>They usually disappear after a few weeks and you may not have symptoms again for several years .</s>
+<s id='vn36'>Chúng thường biến mất sau một vài tuần và bạn cũng có thể không bị bất kỳ một triệu chứng nào trong một vài năm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The only way to tell you have HIV is to get tested .</s>
+<s id='vn37'>Cách duy nhất có thể giúp bạn biết mình có bị nhiễm HIV hay không là xét nghiệm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>HIV can be cured</s>
+<s id='vn38'>HIV có thể chữa khỏi</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Myth .</s>
+<s id='vn39'>Sai .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>There is no cure for HIV , but treatment can keep virus levels low and help maintain your immune system .</s>
+<s id='vn40'>HIV không có thuốc chữa , nhưng các phương pháp điều trị có thể làm cho vi rút ít đi và giúp duy trì hệ miễn dịch .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Some drugs interfere with proteins HIV needs to copy itself ; others block the virus from entering or inserting its genetic material into your immune cells .</s>
+<s id='vn41'>Một số thuốc làm cản trở nhu cầu sao chép HIV prô-tê-in , nhiều thuốc khác chặn không cho vi rút xâm nhập vào hoặc đem vật liệu di truyền của mình vào các tế bào miễn dịch của bạn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Your doctor will consider your general health , the health of your immune system , and the amount of virus in your body to decide when to start treatment .</s>
+<s id='vn42'>Bác sĩ sẽ khám sức khỏe tổng quát , sức khỏe hệ miễn dịch của bạn và kiểm tra lượng vi rút có trong cơ thể bạn trước khi quyết định khi nào nên bắt đầu điều trị .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Anyone can get HIV</s>
+<s id='vn43'>Ai cũng có thể bị nhiễm HIV</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Fact .</s>
+<s id='vn44'>Đúng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>About 56,000 people in the U.S. get HIV each year , and 18,000 people with AIDS die each year .</s>
+<s id='vn45'>Mỗi năm ở Mỹ có khoảng 56.000 người bị HIV và có đến 18.000 người chết vì AIDS .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Anyone can get HIV - men , women , and children .</s>
+<s id='vn46'>Bất kỳ ai cũng có thể bị nhiễm HIV - đàn ông , đàn bà , và trẻ con .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Men who have sex with men make up more than half ( 53 % ) of new HIV infections each year .</s>
+<s id='vn47'>Nam giới quan hệ tình dục đồng tính bị HIV lên đến hơn phân nửa ( 53% ) các trường hợp nhiễm HIV mới mỗi năm .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Women account for 27 % of new infections , and children 13 % .</s>
+<s id='vn48'>Tương tự , số ca mắc bệnh mới ở phụ nữ là 27% và trẻ em là 13% .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>African-Americans make up almost half of all new HIV infections each year .</s>
+<s id='vn49'>Người Mỹ gốc Phi mỗi năm cũng chiếm gần ½ số ca mắc HIV mới .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Sex is safe when both partners have HIV</s>
+<s id='vn50'>Tình dục an toàn khi cả 2 người đều bị HIV</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Myth .</s>
+<s id='vn51'>Sai .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Just because you and your partner both have HIV , doesn't mean you should forget about protection when you have sex .</s>
+<s id='vn52'>Đâu phải vì bạn và vợ chồng của mình đều bị HIV mà bạn quên mất phải bảo vệ khi quan hệ tình dục .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Using a condom or other latex barrier can help protect you from sexually transmitted diseases as well as other strains of HIV , which may be resistant to anti-HIV medication .</s>
+<s id='vn53'>Việc sử dụng bao cao su hoặc phương pháp rào chắn nhựa mủ khác có thể giúp bảo vệ bạn khỏi các bệnh lây truyền qua đường tình dục cũng như các giống vi rút HIV khác , có thể kháng lại thuốc chống HIV .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Even if you are being treated and feel well you can still infect others .</s>
+<s id='vn54'>Cho dù là bạn đang được điều trị và cảm thấy khỏe đi nữa thì bạn cũng có thể làm lây nhiễm bệnh cho người khác được .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>You can have a baby if you are HIV-positive</s>
+<s id='vn55'>Bạn cũng có thể sinh em bé nếu đang dương tính với vi rút HIV</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Fact . Infected mothers can indeed pass HIV to their babies during pregnancy or delivery .</s>
+<s id='vn56'>Đúng . Các thai phụ nhiễm bệnh thực sự có thể truyền HIV sang cho em bé trong suốt quá trình thai nghén hoặc sinh nở .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>However , you can lower the risk by working with your doctor and getting the appropriate care and medication .</s>
+<s id='vn57'>Tuy nhiên , bạn cũng có thể làm giảm nguy cơ này bằng cách làm việc với bác sĩ , sử dụng thuốc và chăm sóc sức khỏe phù hợp .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Pregnant women with HIV can take medications to treat their infection and to protect their babies against the virus .</s>
+<s id='vn58'>Thai phụ nhiễm HIV có thể sử dụng thuốc trị nhiễm trùng và bảo vệ em bé khỏi bị vi rút tấn công .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>You can't avoid other HIV-related infections</s>
+<s id='vn59'>Bạn có thể tránh được các bệnh nhiễm trùng khác liên quan đến HIV</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Myth . Due to weakened immune systems , people with HIV can be vulnerable to infections like pneumocystis pneumonia , tuberculosis , candidiasis , cytomegalovirus , and toxoplasmosis .</s>
+<s id='vn60'>Sai . Do hệ miễn dịch bị yếu nên người bị nhiễm HIV có thể rất dễ bị các bệnh nhiễm trùng khác chẳng hạn như nhiễm trùng phổi , lao , nấm candida , vi rút cự bào , và nhiễm giun từ động vật .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The best way to reduce your risk is to take your HIV medications .</s>
+<s id='vn61'>Cách tốt nhất để làm giảm nguy cơ này là bạn nên sử dụng thuốc kháng HIV .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Some infections can be prevented with drugs .</s>
+<s id='vn62'>Một số bệnh nhiễm trùng có thể phòng tránh được nhờ sử dụng thuốc .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>You can lessen your exposure to some germs by avoiding undercooked meat , litter boxes , and water that may be contaminated .</s>
+<s id='vn63'>Bạn có thể giảm tiếp xúc với một số mầm bệnh bằng cách tránh ăn thịt chưa nấu chín , tránh thùng rác , và tránh sử dụng nước có thể bị nhiễm bẩn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Without insurance you can't get lifesaving drugs</s>
+<s id='vn64'>Nếu không có bảo hiểm thì bạn không có thuốc cứu sinh</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Myth .</s>
+<s id='vn65'>Sai .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>There are government programs , nonprofit groups , and some pharmaceutical companies that may help cover of the cost of HIV/AIDS drugs .</s>
+<s id='vn66'>Có nhiều chương trình chính phủ , nhiều nhóm hoạt động không lợi nhuận , và một số công ty dược phẩm có thể tài trợ chi phí thuốc trị HIV/AIDS .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>But be aware : These drugs can cost $ 15,000 a year .</s>
+<s id='vn67'>Nhưng xin hãy nhớ rằng : Những thuốc này có thể tốn đến 15.000 đô la Mỹ mỗi năm .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Talk to your local HIV/AIDS service organization to learn about financial help .</s>
+<s id='vn68'>Hãy tham khảo tổ chức dịch vụ HIV/AIDS ở địa phương để biết về hỗ trợ tài chính .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,68 @@
+﻿<doc id='N0387'>
+<head>
+<title>Microsoft Releases Server SQL 2008 SP2 with Enhancements</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft Releases Server SQL 2008 SP2 with Enhancements</s>
+<s id='vn1'>Microsoft Phát Hành SQL Server 2008 SP2 Với Những Cải Tiến Mới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft announced the availability of SQL Server 2008 SP2 .</s>
+<s id='vn2'>Microsoft công bố SQL Server 2008 SP2 đã sẵn sàng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft released an update to SQL Server 2008 with new improvements around reporting and management .</s>
+<s id='vn3'>Microsoft vừa phát hành bản cập nhật cho SQL Server 2008 với những cải tiến mới cho công cụ báo cáo và quản lý .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>SQL Server 2008 Service Pack 2 ( SP2 ) includes updates for Reporting Services integration with SharePoint products .</s>
+<s id='vn4'>SQL Server 2008 Service Pack 2 ( SP2 ) bao gồm các bản cập nhật để tích hợp Dịch vụ Báo cáo với các sản phẩm SharePoint .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>SQL Server 2008 SP2 report servers can integrate with SharePoint 2010 products , and SP2 also now provides a new add-in to support the integration of SQL Server 2008 R2 report servers with SharePoint 2007 products .</s>
+<s id='vn5'>Các máy chủ báo cáo SQL Server 2008 SP2 có thể tích hợp với các sản phẩm SharePoint 2010 , và bản cập nhật SP2 giờ đây cũng cung cấp thêm một tiện ích mới để hỗ trợ cho việc tích hợp các máy chủ báo cáo SQL Server 2008 R2 với các sản phẩm SharePoint 2007 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" This now enables SharePoint Server 2007 to be used with SQL Server 2008 R2 Report Server , " according to the Microsoft SQL Server Team blog .</s>
+<s id='vn6'>Theo blog của Microsoft SQL Server Team " Điều này giờ đây có thể cho phép SharePoint Server 2007 sử dụng cùng với SQL Server 2008 R2 Report Server " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In addition , in SP2 an instance of the SQL Server 2008 Database Engine can be enrolled with a SQL Server 2008 R2 Utility Control Point as a managed instance of SQL Server , Microsoft said .</s>
+<s id='vn7'>Ngoài ra , Microsoft cho biết trong SP2 một đối tượng của SQL Server 2008 Database Engine có thể đăng ký với SQL Server 2008 R2 Utility Control Point như một đối tượng quản lý của SQL Server .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Instances of SQL Server 2008 Database Engine in SP2 support all data-tier application ( DAC ) operations .</s>
+<s id='vn8'>Các đối tượng của SQL Server 2008 Database Engine trong SP2 hỗ trợ tất cả các tác vụ ứng dụng tầng dữ liệu ( DAC ) .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" You can deploy , upgrade , register , extract and delete DACs , " Microsoft said .</s>
+<s id='vn9'>Microsoft cho biết " Bạn có thể triển khai , nâng cấp , đăng ký , trích xuất và xoá các DAC .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>SP2 does not upgrade the SQL Server 2008 client tools to support DACs .</s>
+<s id='vn10'>Bản cập nhật SP2 không nâng cấp các công cụ SQL Server 2008 client để hỗ trợ DAC .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>You must use the SQL Server 2008 R2 client tools , such as SQL Server Management Studio , to perform DAC operations .</s>
+<s id='vn11'>Bạn phải sử dụng các công cụ SQL Server 2008 R2 client , chẳng hạn như SQL Server Management Studio để thực hiện các tác vụ DAC .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A data-tier application is an entity that contains all of the database objects and instance objects used by an application .</s>
+<s id='vn12'>Một ứng dụng lớp dữ liệu là một thực thể chứa tất cả các đối tượng cơ sở dữ liệu và các đối tượng thực thể được dùng bởi một ứng dụng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A DAC provides a single unit for authoring , deploying and managing the data-tier objects . "</s>
+<s id='vn13'>DAC cung cấp một đơn vị riêng lẻ để tạo , triển khai và quản lý các đối tượng lớp dữ liệu " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The new release can be downloaded here .</s>
+<s id='vn14'>Phiên bản mới có thể tải về tại đây</s>
+</spair>
+</text>
+</doc>

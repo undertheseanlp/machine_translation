@@ -1,0 +1,260 @@
+﻿<doc id='N0226'>
+<head>
+<title>Bad-weather driving</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bad-weather driving</s>
+<s id='vn1'>Lái xe trong thời tiết xấu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Dealing with the elements</s>
+<s id='vn2'>Đối phó với các yếu tố</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The term " joy ride " does not apply when it 's pouring and the wind is gusting .</s>
+<s id='vn3'>Thuật ngữ " niềm vui lái xe " không đúng chút nào khi trời mưa như trút nước và gió giật ầm ầm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The best strategy for driving in bad weather is to avoid it .</s>
+<s id='vn4'>Chiến lược tốt nhất để lái xe trong điều kiện thời tiết xấu là tránh nó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But if going out is necessary or you get caught in bad conditions once you 're already on the road , follow these safe driving tips :</s>
+<s id='vn5'>Nhưng nếu đi ra ngoài là cần thiết hoặc bạn bị mắc kẹt trong điều kiện xấu một khi bạn đã ở trên đường , hãy làm theo những lời khuyên lái xe an toàn sau :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>- Make sure your headlights are on .</s>
+<s id='vn6'>- Hãy chắc chắn đèn pha của bạn đang bật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>- Slow down .</s>
+<s id='vn7'>- Đi chậm lại .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Braking takes longer on slippery roads - the slower you go , the easier it will be for you to stop .</s>
+<s id='vn8'>Đường trơn trợt khiến phanh khó ăn hơn - bạn đi càng chậm , thì bạn càng dễ phanh lại hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>- Make sure your car is prepared for the conditions ( check your battery , antifreeze , windshield wiper fluid , windshield wipers , headlights , tires ) .</s>
+<s id='vn9'>- Đảm bảo xe của bạn được chuẩn bị cho các điều kiện thời tiết ( kiểm tra pin , chất chống đông , chất lỏng gạt nước kính chắn gió , cần gạt nước kính chắn gió , đèn pha , lốp xe ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>- Use caution near intersections .</s>
+<s id='vn10'>- Cố gắng cẩn thận khi đến gần chỗ giao lộ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>- Always scan ahead to spot potential hazards .</s>
+<s id='vn11'>- Luôn quan sát phía trước để phát hiện các mối nguy hiểm tiềm năng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>- Stay in one lane as much as possible .</s>
+<s id='vn12'>- Đi trên một làn xe nhiều nhất có thể .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Avoid unnecessary lane changes .</s>
+<s id='vn13'>Tránh chuyển làn không cần thiết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Driving the Snow and Ice</s>
+<s id='vn14'>Lái xe trên đường khi tuyết rơi và đóng băng</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Driving a car is never " easy , " but this is especially true in wintry weather .</s>
+<s id='vn15'>Lái xe hơi là không bao giờ " dễ " , càng đặc biệt đúng khi trời lạnh giá .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>To hone your skills , ask someone with winter driving experience to take you to a vacant parking lot where you can practice driving , turning , and stopping in the snow .</s>
+<s id='vn16'>Để trau dồi kỹ năng của bạn , hãy hỏi một người có kinh nghiệm lái xe mùa đông để đưa bạn đến một bãi đậu xe trống , nơi bạn có thể thực hành lái xe , quay , và dừng lại trong tuyết .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>If you must travel , keep your car gassed up so that the fuel lines do n't freeze .</s>
+<s id='vn17'>Nếu bạn phải di chuyển bằng xe , hãy giữ cho xe của mình có cung cấp đủ nhiên liệu để các ống dẫn nhiên liệu không bị đóng băng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Clear snow completely off the entire car ( including the roof ) , remembering to sweep the taillights and headlights .</s>
+<s id='vn18'>Dọn sạch tuyết khỏi toàn bộ chiếc xe ( bao gồm cả mui xe ) , nhớ quét cả đèn hậu và đèn pha .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Watch out for slow-moving vehicles like snowplows and sand trucks , and try not to get too close - the last thing you need in a snowstorm is a windshield full of sand .</s>
+<s id='vn19'>Chú ý những phương tiện chạy chậm như xe ủi tuyết và xe tải cát , cố gắng không chạy quá gần chúng - điều cuối cùng bạn cần trong bão tuyết là một kính chắn gió đầy cát .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Also try to avoid passing these vehicles .</s>
+<s id='vn20'>Ngoài ra , cố gắng tránh đi qua những chiếc xe này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Put together a car emergency kit that contains :</s>
+<s id='vn21'>Đem theo bộ cứu hộ xe hơi chứa :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>- an ice scraper and a snow brush</s>
+<s id='vn22'>- cái nạo băng và bàn chải tuyết</s>
+</spair>
+<spair id='23'>
+<s id='en23'>- a bag of sand , salt , or cat litter ( for traction if you get stuck in snow )</s>
+<s id='vn23'>- một túi cát , muối , hoặc cát cho mèo vệ sinh ( cho lực kéo nếu bạn mắc kẹt trong tuyết )</s>
+</spair>
+<spair id='24'>
+<s id='en24'>- warning flares or triangles</s>
+<s id='vn24'>- pháo sáng hoặc tam giác báo hiệu</s>
+</spair>
+<spair id='25'>
+<s id='en25'>- blankets</s>
+<s id='vn25'>- mền</s>
+</spair>
+<spair id='26'>
+<s id='en26'>- gloves or mittens</s>
+<s id='vn26'>- găng tay hoặc găng tay hở ngón</s>
+</spair>
+<spair id='27'>
+<s id='en27'>- a flashlight and batteries</s>
+<s id='vn27'>- đèn pin và pin</s>
+</spair>
+<spair id='28'>
+<s id='en28'>- a first-aid kit</s>
+<s id='vn28'>- bộ dụng cụ sơ cứu</s>
+</spair>
+<spair id='29'>
+<s id='en29'>- booster cables</s>
+<s id='vn29'>- cáp sạc bình ắc-quy</s>
+</spair>
+<spair id='30'>
+<s id='en30'>- nonperishable snack foods</s>
+<s id='vn30'>- các loại thực phẩm ăn nhẹ để lâu được</s>
+</spair>
+<spair id='31'>
+<s id='en31'>- a candle and matches</s>
+<s id='vn31'>- nến và diêm</s>
+</spair>
+<spair id='32'>
+<s id='en32'>- a cup in case you need to melt snow for water</s>
+<s id='vn32'>- tách trong trường hợp bạn cần làm tan chảy tuyết thành nước</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If you get stranded , stay with your vehicle and call for assistance .</s>
+<s id='vn33'>Nếu bạn bị mắc kẹt , hãy ở lại trong xe của bạn và gọi điện để được hỗ trợ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Run the heater occasionally to keep warm , but avoid carbon monoxide poisoning by making sure your tailpipe is n't stuffed or blocked with snow or other debris .</s>
+<s id='vn34'>Thỉnh thoảng mở bộ sưởi để giữ ấm , nhưng tránh ngộ độc khí CO bằng cách đảm bảo ống xả của bạn không bị nghẽn hoặc bị chặn bởi tuyết hoặc các mảnh vỡ khác .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Rainy Roads</s>
+<s id='vn35'>Đường mưa</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Roads are dirty places .</s>
+<s id='vn36'>Đường sá là những nơi dơ bẩn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Between tires stirring up gravel and engines dripping oil and other fluids , a lot of oily and slick substances build up on roads .</s>
+<s id='vn37'>Cùng với vỏ xe lăn trên sỏi đá là động cơ xả dầu và các chất lỏng khác , rất nhiều chất trơn trượt và có dầu đổ ra đường .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>That 's why roads are at their slickest almost immediately after it starts raining .</s>
+<s id='vn38'>Đó là lý do tại sao các con đường trở nên trơn bóng ngay sau khi trời mưa .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The water brings those oils to the surface , making it sneaky-slick .</s>
+<s id='vn39'>Nước làm cho các chất dầu đó loang ra mặt đường , khiến mặt đường trở nên trơn bóng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If you get caught in a slick situation and your car starts gliding or hydroplaning , do n't panic or slam on the brakes .</s>
+<s id='vn40'>Nếu bạn bị rơi vào một đoạn đường trơn và xe bạn bắt đầu bị mất lái và trượt bánh , đừng hoảng sợ hoặc đạp phanh .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Take your foot off the gas and gradually press the brakes , making sure not to turn the steering wheel .</s>
+<s id='vn41'>Nhấc chân ra khỏi chân ga và từ từ đạp phanh , bảo đảm không quay vô-lăng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>To avoid hydroplaning :</s>
+<s id='vn42'>Để tránh trượt bánh :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>- make sure your tires are n't bald</s>
+<s id='vn43'>- chắc chắn rằng lốp xe của bạn không bị mòn hết gai</s>
+</spair>
+<spair id='44'>
+<s id='en44'>- easy does it around turns</s>
+<s id='vn44'>- nó dễ dàng xoay vòng</s>
+</spair>
+<spair id='45'>
+<s id='en45'>- if you can , go around puddles</s>
+<s id='vn45'>- nếu bạn có thể , hãy đi vòng qua vũng nước</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Many states require drivers to have their headlights on if it 's raining .</s>
+<s id='vn46'>Nhiều tiểu bang yêu cầu tài xế phải bật đèn pha nếu trời đang mưa .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Also , be aware of thunderstorm warnings .</s>
+<s id='vn47'>Ngoài ra , chú ý cảnh báo giông bão .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If a thunderstorm starts while you 're driving and visibility is poor , pull over and wait it out .</s>
+<s id='vn48'>Nếu giông bão bắt đầu trong khi bạn đang lái xe và tầm nhìn bị kém đi , hãy tấp xe vào lề và chờ cho bão qua đi .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Do n't run the risk of being struck by lightning - stay in your car and pull as far off the road as safely possible .</s>
+<s id='vn49'>Đừng đưa mình vào nguy cơ bị sét đánh - ở lại trong xe của bạn và đi xa ra khỏi đường càng an toàn càng tốt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Scorching Sun and Fuzzy Fog</s>
+<s id='vn50'>Mặt trời chói chang và sương mù mờ ảo</s>
+</spair>
+<spair id='51'>
+<s id='en51'>One of the most vital parts of driving is visibility .</s>
+<s id='vn51'>Một trong những phần quan trọng nhất của việc lái xe là tầm nhìn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Both bright sun and soupy fog can cause limited visibility .</s>
+<s id='vn52'>Cả mặt trời chói chang và sương mù dày đặc đều có thể làm hạn chế tầm nhìn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>To combat that pesky fireball in the sky , always have UV sunglasses somewhere in the car .</s>
+<s id='vn53'>Để chống lại quả cầu lửa chói chang từ trời này , luôn trang bị kính mát chống tia UV trong xe .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Also , to reduce bad glare , pop down the visor .</s>
+<s id='vn54'>Ngoài ra , để giảm độ chói , kéo mũ lưỡi trai xuống .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Fog can be a little trickier to handle than bright sunlight .</s>
+<s id='vn55'>Sương mù có thể hơi phức tạp hơn để xử lý hơn so với ánh sáng mặt trời .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Fog can reduce visibility to less than ¼ mile .</s>
+<s id='vn56'>Sương mù có thể làm giảm tầm nhìn xuống hơn ¼ dặm .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Fog can also trick you into thinking you 're going slower than you really are , so keep the speed down .</s>
+<s id='vn57'>Sương mù cũng có thể khiến bạn nghĩ mình đang đi chậm hơn thực tế , vì vậy hãy giảm tốc độ xuống .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>When you ca n't see far ahead , it 's hard to see brake lights or traffic signs until you 're almost upon them .</s>
+<s id='vn58'>Khi bạn không thể nhìn xa về phía trước , thật khó để thấy đèn phanh hoặc đèn hiệu giao thông cho đến khi bạn đến gần sát chúng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>And just because you ca n't see does n't mean that your high beams will improve visibility .</s>
+<s id='vn59'>Và chỉ bởi vì bạn không thể nhìn thấy không có nghĩa là chùm ánh sáng mạnh của bạn sẽ cải thiện tầm nhìn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>In fact , high beams reduce visibility in fog .</s>
+<s id='vn60'>Trong thực tế , ánh sáng mạnh sẽ làm giảm tầm nhìn trong sương mù .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If your car has fog lamps , though , use them .</s>
+<s id='vn61'>Do đó , nếu xe của bạn có đèn sương mù , hãy sử dụng chúng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>No matter what 's causing the bad driving conditions , just remember : Do n't venture out if you do n't have to .</s>
+<s id='vn62'>Bất kể điều gì đang gây ra điều kiện lái xe xấu , hãy nhớ : Không mạo hiểm ra nếu không cần thiết .</s>
+</spair>
+</text>
+</doc>

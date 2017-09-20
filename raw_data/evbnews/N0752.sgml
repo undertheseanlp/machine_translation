@@ -1,0 +1,300 @@
+﻿<doc id='N0752'>
+<head>
+<title>Rabies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Rabies</s>
+<s id='vn1'>Bệnh dại</s>
+</spair>
+<spair id='2'>
+<s id='en2'>About Rabies</s>
+<s id='vn2'>Giới thiệu về bệnh dại</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Rabies infections in people are rare in the United States .</s>
+<s id='vn3'>Bệnh dại ở người rất hiếm xảy ra ở Hoa Kỳ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>However , worldwide about 50,000 people die from rabies each year , mostly in developing countries where programs for vaccinating dogs against rabies do n't exist .</s>
+<s id='vn4'>Tuy nhiên , có khoảng 50.000 người chết vì bệnh dại mỗi năm trên toàn thế giới , chủ yếu ở các nước đang phát triển không có các chương trình tiêm phòng dại cho chó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But the good news is that problems can be prevented if the exposed person receives treatment before symptoms of the infection develop .</s>
+<s id='vn5'>Nhưng tin tốt là căn bệnh này có thể được ngăn chặn nếu người bị phơi nhiễm được điều trị trước khi các triệu chứng của bệnh phát triển .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Rabies is a virus that in the U.S. is usually transmitted by a bite from a wild infected animal , such as a bat , raccoon , skunk , or fox .</s>
+<s id='vn6'>Vi-rút dại là một loại vi-rút thường được truyền qua vết cắn của động vật hoang dã bị nhiễm bệnh như dơi , chồn hôi , gấu trúc , hoặc cáo tại Hoa Kỳ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>If a bite from a rabid animal goes untreated and rabies develops , it is almost always fatal .</s>
+<s id='vn7'>Nếu vết cắn của động vật mắc bệnh dại không được điều trị và một khi bệnh đã phát triển , hầu như luôn dẫn đến tử vong .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If you suspect that your child has been bitten by a rabid animal , go to the emergency department immediately .</s>
+<s id='vn8'>Nếu bạn nghi ngờ con mình đã bị cắn bởi một con thú mắc bệnh dại , hãy đi cấp cứu ngay lập tức .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Any animal bites - even those that do n't involve rabies - can lead to infections and other medical problems .</s>
+<s id='vn9'>Bất kỳ vết cắn nào của động vật - ngay cả những con không bị dại - cũng có thể dẫn đến nhiễm trùng và các vấn đề sức khỏe khác .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>As a precaution , call your doctor any time your child has been bitten .</s>
+<s id='vn10'>Để phòng ngừa , gọi bác sĩ bất cứ khi nào con bạn bị cắn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Transmission</s>
+<s id='vn11'>Sự lây truyền</s>
+</spair>
+<spair id='12'>
+<s id='en12'>About 7,000 cases of rabies in animals are reported each year to the Centers for Disease Control and Prevention ( CDC ) .</s>
+<s id='vn12'>Có khoảng 7.000 trường hợp mắc bệnh dại ở động vật được báo cáo mỗi năm với Các Trung tâm kiểm soát ngăn ngừa dịch bệnh ( CDC ) .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Raccoons are the most common carriers of rabies in the US. .</s>
+<s id='vn13'>Gấu trúc Mỹ là động vật mang vi-rút dại phổ biến nhất ở Hoa Kỳ . .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But bats are most likely to infect people .</s>
+<s id='vn14'>Nhưng dơi lại có nhiều khả năng lây nhiễm cho người .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Almost three quarters of rabies cases between 1990 and 2001 came from contact with bats .</s>
+<s id='vn15'>Gần ¾ số trường hợp mắc bệnh dại từ 1990 đến 2001 là do tiếp xúc với dơi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Skunks and foxes also can be infected with rabies , and a few cases have been reported in wolves , coyotes , bobcats , and ferrets .</s>
+<s id='vn16'>Chồn hôi và cáo cũng có thể bị nhiễm dại , và một vài trường hợp đã được báo cáo ở chó sói , sói Bắc Mỹ , linh miêu , và chồn sương .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Small rodents such as hamsters , squirrels , chipmunks , mice , and rabbits are very rarely infected with the virus .</s>
+<s id='vn17'>Những loài gặm nhấm nhỏ như chuột Hamster , sóc , sóc chuột , chuột và thỏ rất hiếm khi bị nhiễm vi-rút .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Because of widespread vaccination programs in the United States , transmission from dogs to people is very rare .</s>
+<s id='vn18'>Vì chương trình tiêm chủng ở Hoa Kỳ phổ biến rộng rãi nên việc truyền bệnh từ chó sang người rất hiếm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Outside the United States , exposure to rabid dogs is the most common cause of transmission to humans .</s>
+<s id='vn19'>Bên ngoài nước Mỹ , tiếp xúc với chó dại là nguyên nhân hàng đầu của sự lây nhiễm cho người .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>An infected animal has the rabies virus in its saliva and can transmit it to a person through biting .</s>
+<s id='vn20'>Động vật bị nhiễm bệnh có vi-rút trong nước bọt của nó và có thể truyền bệnh cho người khi cắn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In rarer cases , an animal can spread the virus when its saliva comes in contact with a person 's mucous membranes ( moist skin surfaces , like the mouth or inner eyelids ) or broken skin such as a cut , scratch , bruise , or open wound .</s>
+<s id='vn21'>Trong các trường hợp hiếm , động vật có thể phát tán vi-rút khi nước bọt của nó tiếp xúc với màng nhầy của người ( các bề mặt da ẩm ướt như miệng hoặc mí mắt trong ) hay da hở như là một vết cắt , vết trầy xướt , vết bầm , hoặc vết thương hở .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>After a bite , the rabies virus can spread into surrounding muscle , then travel up nearby nerves to the brain .</s>
+<s id='vn22'>Từ vết cắn , vi-rút dại có thể phát tán vào cơ xung quanh , sau đó đi lên các dây thần kinh lân cận đến não .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Once the virus reaches the brain , the infection is fatal in almost all cases .</s>
+<s id='vn23'>Một khi vi-rút đến não , bệnh sẽ gây chết người trong hầu như mọi trường hợp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Signs and Symptoms</s>
+<s id='vn24'>Các dấu hiệu và triệu chứng</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The first symptoms can appear from a few days to more than a year after the bite occurs .</s>
+<s id='vn25'>Các triệu chứng đầu tiên có thể xuất hiện từ vài ngày đến hơn một năm sau khi bị cắn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>One of the most distinctive signs of a rabies infection is a tingling or twitching sensation around the area of the animal bite .</s>
+<s id='vn26'>Một trong những dấu hiệu đặc trưng nhất của một ca nhiễm dại là cảm giác ngứa ran hoặc co giật quanh vùng vết cắn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It is often accompanied by a fever , headache , muscle aches , loss of appetite , nausea , and fatigue .</s>
+<s id='vn27'>Thường đi kèm với sốt , nhức đầu , đau cơ , chán ăn , buồn nôn , và mệt mỏi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>As the infection progresses , someone infected with rabies may develop any of these symptoms :</s>
+<s id='vn28'>Khi bệnh tiến triển , người bị nhiễm có thể biểu hiện những triệu chứng sau :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>irritability</s>
+<s id='vn29'>dễ bị kích thích</s>
+</spair>
+<spair id='30'>
+<s id='en30'>excessive movements or agitation</s>
+<s id='vn30'>chuyển động quá độ hoặc kích động</s>
+</spair>
+<spair id='31'>
+<s id='en31'>confusion</s>
+<s id='vn31'>bối rối</s>
+</spair>
+<spair id='32'>
+<s id='en32'>hallucinations</s>
+<s id='vn32'>ảo giác</s>
+</spair>
+<spair id='33'>
+<s id='en33'>aggressiveness</s>
+<s id='vn33'>hung hăng</s>
+</spair>
+<spair id='34'>
+<s id='en34'>bizarre or abnormal thoughts</s>
+<s id='vn34'>suy nghĩ kỳ quái hoặc không bình thường</s>
+</spair>
+<spair id='35'>
+<s id='en35'>muscle spasms</s>
+<s id='vn35'>co thắt cơ</s>
+</spair>
+<spair id='36'>
+<s id='en36'>abnormal postures</s>
+<s id='vn36'>tư thế không bình thường</s>
+</spair>
+<spair id='37'>
+<s id='en37'>seizures ( connvulsions )</s>
+<s id='vn37'>động kinh ( co giật )</s>
+</spair>
+<spair id='38'>
+<s id='en38'>weakness or paralysis ( when a person cannot move some part of the body )</s>
+<s id='vn38'>yếu hoặc liệt ( khi không thể cử động một số bộ phận của cơ thể )</s>
+</spair>
+<spair id='39'>
+<s id='en39'>extreme sensitivity to bright lights , sounds , or touch</s>
+<s id='vn39'>nhạy cảm tột độ với ánh sáng , âm thanh , hoặc xúc giác</s>
+</spair>
+<spair id='40'>
+<s id='en40'>increased production of saliva or tears</s>
+<s id='vn40'>tăng tiết nước bọt hoặc nước mắt</s>
+</spair>
+<spair id='41'>
+<s id='en41'>difficulty speaking</s>
+<s id='vn41'>nói khó khăn</s>
+</spair>
+<spair id='42'>
+<s id='en42'>In the advanced stage of the infection , as it spreads to other parts of the nervous system , these symptoms may develop :</s>
+<s id='vn42'>Trong giai đoạn bệnh nặng , khi nó lan sang các phần khác của hệ thần kinh , những triệu chứng sau có thể xuất hiện :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>double vision</s>
+<s id='vn43'>nhìn một thành hai</s>
+</spair>
+<spair id='44'>
+<s id='en44'>problems moving facial muscles</s>
+<s id='vn44'>co giật cơ mặt</s>
+</spair>
+<spair id='45'>
+<s id='en45'>abnormal movements of the diaphragm and muscles that control breathing</s>
+<s id='vn45'>chuyển động bất thường của cơ hoành và các cơ điều khiển hô hấp</s>
+</spair>
+<spair id='46'>
+<s id='en46'>difficulty swallowing and increased production of saliva , causing the " foaming at the mouth " usually associated with a rabies infection</s>
+<s id='vn46'>nuốt khó khăn và tăng sản xuất nước bọt , gây ra " sùi bọt mép " thường đi kèm với bệnh dại</s>
+</spair>
+<spair id='47'>
+<s id='en47'>If Your Child Is Bitten by an Animal</s>
+<s id='vn47'>Nếu con bạn bị động vật cắn</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If your child has been bitten by an animal , take the following steps right away :</s>
+<s id='vn48'>Nếu con của bạn đã bị động vật cắn , hãy thực hiện các bước sau đây ngay lập tức :</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Wash the bite area with soap and water for 10 minutes and cover the bite with a clean bandage .</s>
+<s id='vn49'>Rửa vùng bị cắn bằng xà phòng và nước trong 10 phút và băng lại bằng băng gạc sạch .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Immediately call your doctor and go to a nearby emergency department .</s>
+<s id='vn50'>Thông báo cho bác sĩ của bạn ngay lập tức và đến một phòng cấp cứu gần đó .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Anyone with a possible rabies infection must be treated in a hospital .</s>
+<s id='vn51'>Bất kỳ ai có nguy cơ nhiễm bệnh dại đều phải được điều trị tại bệnh viện .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Call local animal-control authorities to help find the animal that caused the bite .</s>
+<s id='vn52'>Liên hệ với cơ quan kiểm soát động vật địa phương để giúp tìm ra con vật đã cắn trẻ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The animal may need to be detained and observed for signs of rabies .</s>
+<s id='vn53'>Có thể cần phải giam giữ và theo dõi những dấu hiệu bệnh dại ở con vật đó .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If you know the owner of the animal that has bitten your child , get all the information about the animal , including vaccination status and the owner 's name and address .</s>
+<s id='vn54'>Nếu bạn biết chủ nhân của con vật đã cắn con bạn , hãy lấy tất cả thông tin về con vật đó , bao gồm cả tình trạng tiêm chủng , tên người nuôi và địa chỉ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Notify your local health department , particularly if the animal has n't been vaccinated .</s>
+<s id='vn55'>Thông báo cho cơ sở y tế địa phương của bạn , đặc biệt nếu động vật chưa được chủng ngừa .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you suspect that your child has been bitten by an unknown dog , bat , rat , or other animal , contact your doctor immediately or take your child to the emergency department .</s>
+<s id='vn56'>Nếu bạn nghi ngờ con mình đã bị cắn bởi một con thú không rõ là chó , dơi , chuột , hay động vật nào khác , hãy liên hệ với bác sĩ của bạn ngay lập tức hoặc đưa con bạn đến phòng cấp cứu .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Treatment</s>
+<s id='vn57'>Điều trị</s>
+</spair>
+<spair id='58'>
+<s id='en58'>At the hospital , it is likely that the doctor will first clean the wound thoroughly and make sure that your child 's tetanus immunizations are current .</s>
+<s id='vn58'>Tại bệnh viện , thường là đầu tiên bác sĩ sẽ rửa sạch vết thương kỹ lưỡng và bảo đảm con bạn được tiêm chủng ngừa uốn ván ngay khi đó .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>To keep any potential infection from spreading , the doctor may decide to start treating your child right away with shots of human rabies immune globulin to the wound site and vaccine shots in the arm .</s>
+<s id='vn59'>Để ngăn ngừa mọi nhiễm trùng tiềm năng phát tán , bác sĩ có thể quyết định bắt đầu điều trị cho con của bạn ngay lập tức bằng các mũi tiêm globulin miễn dịch ngừa dại cho người tại vùng vết thương và các mũi tiêm vào cánh tay .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>This decision is usually based on the circumstances of the bite ( provoked or unprovoked ) , the type of animal ( species , wild or domestic ) , the animal 's health history ( vaccinated or not ) , and the recommendations of local health authorities .</s>
+<s id='vn60'>Quyết định này thường dựa trên hoàn cảnh bị cắn ( do chọc ghẹo thú hay vô cớ ) , loại động vật ( loài nào , hoang dã hay thú nuôi ) , lịch sử sức khỏe của động vật ( đã có chủng ngừa hay không ) , và khuyến nghị của cơ quan y tế địa phương .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Prevention</s>
+<s id='vn61'>Phòng bệnh</s>
+</spair>
+<spair id='62'>
+<s id='en62'>You can reduce the chances that your family is exposed to rabies .</s>
+<s id='vn62'>Bạn có thể giảm khả năng mắc bệnh dại trong gia đình của mình .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Vaccinate your pets - dogs , cats , and ferrets .</s>
+<s id='vn63'>Tiêm chủng cho thú nuôi như chó , mèo , và chồn sương .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Report any stray animals to your local health authorities or animal-control officer .</s>
+<s id='vn64'>Báo cáo bất kỳ thú hoang nào với cơ quan y tế hoặc nhân viên kiểm soát động vật địa phương .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Remind kids that animals can be " strangers , " too .</s>
+<s id='vn65'>Cũng có thể nhắc nhở trẻ rằng động vật là " người lạ " .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>They should never touch or feed stray cats or dogs wandering in the neighborhood or elsewhere .</s>
+<s id='vn66'>Bé không bao giờ nên chạm vào hay cho chó mèo đi lạc trong khu phố hoặc các nơi khác ăn .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>As a precaution against rabies , call your doctor if :</s>
+<s id='vn67'>Để phòng chống bệnh dại , hãy gọi bác sĩ của bạn nếu :</s>
+</spair>
+<spair id='68'>
+<s id='en68'>your child has been exposed to an animal that might have rabies , but is too young to describe the contact with the animal</s>
+<s id='vn68'>con của bạn đã tiếp xúc với một con vật có thể mắc bệnh dại , nhưng còn quá nhỏ để mô tả lại việc tiếp xúc đó như thế nào</s>
+</spair>
+<spair id='69'>
+<s id='en69'>your child has been exposed to bats , even if there is no bite</s>
+<s id='vn69'>con của bạn đã tiếp xúc với dơi , thậm chí không có vết cắn</s>
+</spair>
+<spair id='70'>
+<s id='en70'>you plan to travel abroad and may come into contact with rabid animals , particularly if you 're traveling to an area where you might not have access to health care</s>
+<s id='vn70'>bạn dự định đi du lịch nước ngoài và có thể tiếp xúc với động vật mắc bệnh dại , đặc biệt nếu bạn đến một vùng mà có thể bạn sẽ không được chăm sóc y tế</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Reviewed by : Joel Klein , MD</s>
+<s id='vn71'>Tường thuật : Joel Klein , MD</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Date reviewed : November 2010</s>
+<s id='vn72'>Ngày : Tháng 11 năm 2010</s>
+</spair>
+</text>
+</doc>

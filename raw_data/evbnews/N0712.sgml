@@ -1,0 +1,172 @@
+﻿<doc id='N0712'>
+<head>
+<title>Android Offers Lots of Options and Some Annoyances</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Android Offers Lots of Options and Some Annoyances</s>
+<s id='vn1'>Android đưa ra nhiều lựa chọn và cũng không ít phiền toái</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I was an Android user for years and still have several Android devices .</s>
+<s id='vn2'>Tôi đã dùng Android trong nhiều năm và vẫn sở hữu vài thiết bị Android .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But last October I bought an iPhone 4S and I 'm glad I did .</s>
+<s id='vn3'>Nhưng tháng Mười năm ngoái , tôi đã mua iPhone 4S và tôi thấy vui vì điều đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I remember the exact date I bought it , because it was the last time Apple updated the iPhone .</s>
+<s id='vn4'>Tôi nhớ chính xác ngày mà tôi mua nó , vì đó là lần cuối cùng Apple cập nhật iPhone .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Unlike Android devices , there is only one new iPhone and one new iPad a year .</s>
+<s id='vn5'>Khác với các thiết bị Android , một năm chỉ có một iPhone mới và một iPad mới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>That does n't offer a lot of choice but it does make things simpler .</s>
+<s id='vn6'>Như vậy thì sẽ không có nhiều lựa chọn , nhưng lại làm mọi thứ trở nên đơn giản hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There are things I really like about Android , including how easy it is to configure a new phone .</s>
+<s id='vn7'>Có nhiều điều tôi rất thích ở Android , bao gồm việc cấu hình điện thoại mới thật dễ dàng biết mấy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Type in your Google credentials and , within minutes , the phone downloads all your email , contact information and even some personalization features via the cloud .</s>
+<s id='vn8'>Gõ thông tin tài khoản Google của bạn và , trong vài phút , điện thoại sẽ tải xuống tất cả email , thông tin liên lạc và thậm chí một số tính năng cá nhân hoá thông qua " đám mây " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Some models I 've tested even automatically imported the " wallpaper " photo that I had on my previous phone .</s>
+<s id='vn9'>Một số mẫu mà tôi thử nghiệm thậm chí còn tự động tải hình nền mà tôi có trên điện thoại cũ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Google offers Android to multiple vendors , so there are plenty of phone choices that all .</s>
+<s id='vn10'>Google phát hành Android cho nhiều hãng sản xuất , vì thế mà có nhiều lựa chọn về điện thoại .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In theory - can run the same operating system and the same apps .</s>
+<s id='vn11'>Trên lý thuyết , chúng có thể chạy hệ điều hành và ứng dụng giống nhau .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Partly because of the competition , there are plenty of Android phones that are less expensive than iPhones , not only for end-users but also for the carriers that typically subsidize the end-user price in exchange for signing a two-year contract .</s>
+<s id='vn12'>Một phần để cạnh tranh , có nhiều mẫu điện thoại Android giá mắc thua iPhone , không những dành cho người dùng cuối mà còn cho nhà mạng thường trợ giá cho người dùng cuối và đổi lại họ phải ký hợp đồng hai năm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Android is doing quite well ; the latest figures from ComScore give it 51 percent of the U.S. smartphone market , while Apple has 31 percent and Blackberry 12 percent .</s>
+<s id='vn13'>Android hiện vẫn đang phát triển tốt ; số liệu gần đây nhất của ComScore cho thấy Android chiếm 51% thị phần điện thoại thông minh ở Hoa Kỳ , trong khi Apple chiếm 31% và Blackberry 12% .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Like Apple , Google has amassed an enormous developer base , and there are now more than 443,000 Android apps , according to AppBrain .</s>
+<s id='vn14'>Giống như Apple , Google đã xây dựng được một lực lượng hùng hậu các nhà phát triển ứng dụng , theo trang AppBrain , hiện có hơn 443.000 ứng dụng Android .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There are also a lot of different devices .</s>
+<s id='vn15'>Ngoài ra , còn có nhiều mẫu thiết bị khác nhau .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>OpenSignalMaps , a service that helps users find the best cell phone signals in their area , has been logging devices that download its app and has found " 599 distinct brands " of Android devices and nearly 4,000 distinct models .</s>
+<s id='vn16'>OpenSignalMaps , dịch vụ giúp người dùng tìm được sóng điện thoại tốt nhất trong khu vực của mình , đã ghi lại các thiết bị tải về ứng dụng của hãng và nhận thấy có 599 thương hiệu Android riêng biệt và gần 4.000 mẫu thiết bị riêng biệt .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Apple , on the other hand , so far has just one screen siz e for its iPhone and a single tablet screen size , regardless of which generation device you have .</s>
+<s id='vn17'>Trái lại , cho đến nay Apple chỉ có duy nhất một kích cỡ màn hình cho iPhone và một kích cỡ màn hình cho máy tính bảng , bất kể bạn dùng đời máy nào .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And , even though Apple refreshes its iPhone and iPad annually , the number of Apple tablet and phone models out there can still be counted with two hands .</s>
+<s id='vn18'>Và , mặc dù hàng năm Apple đều làm mới iPhone và iPad , số lượng những mẫu máy tính bảng và điện thoại của Apple vẫn có thể đếm trên hai tay .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Having so many Android players with so many distinct devices definitely has its advantages .</s>
+<s id='vn19'>Có quá nhiều hãng sản xuất thiết bị Android với quá nhiều thiết bị khác biệt nhau chắc chắn có lợi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Amazon , for example , was able to create its very popular $ 199 Kindle Fire tablet , which runs a heavily customized version of Android that not only has a distinct user interface but does n't necessarily run off-the-shelf Android software .</s>
+<s id='vn20'>Chẳng hạn , Amazon có thể sản xuất ra máy tính bảng Kindle Fire rất được ưa chuộng với giá 199 đô la , chạy phiên bản Android được tuỳ biến khá nhiều , không chỉ có giao diện người dùng khác biệt mà còn không nhất thiết phải chạy phần mềm Android có sẵn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Amazon created its own eco-system around the Kindle Fire with its own app store and its own rules for developers .</s>
+<s id='vn21'>Amazon tạo ra hệ sinh thái riêng trên Kindle Fire với kho ứng dụng riêng và quy luật riêng cho các nhà phát triển .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The open Android system also allowed Samsung to create a diversity of its own devices with a range of screen sizes .</s>
+<s id='vn22'>Hệ thống Android mở cũng cho phép Samsung tạo ra tính đa dạng cho thiết bị của riêng hãng với hàng loạt kích cỡ màn hình .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I like the new Samsung Galaxy Tab 2 because , like the Kindle Fire , it 's a full featured tablet yet small enough to fit in a coat pocket .</s>
+<s id='vn23'>Tôi thích chiếc Samsung Galaxy Tab 2 mới vì , giống như Kindle Fire , đây là máy tính bảng đầy đủ tính năng nhưng vẫn nhỏ gọn vừa đủ để bỏ trong túi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>And because it 's smaller and lighter , I find myself using my Kindle Fire more often than my iPad .</s>
+<s id='vn24'>Và vì nhỏ và nhẹ hơn , tôi nhận thấy mình thường sử dụng Kindle Fire hơn iPad .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>I hope the rumors that Apple is developing a 7-inch iPad turn out to be true .</s>
+<s id='vn25'>Tôi hy vọng những tin đồn rằng Apple đang phát triển iPad màn hình 7 inch sẽ là sự thật .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Size also matters with phones , and sometimes bigger is indeed better .</s>
+<s id='vn26'>Kích cỡ cũng là vấn đề đối với điện thoại , và đôi khi lớn hơn sẽ thật sự tốt hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If you 're using your phone to watch video or read eBooks then having a 5.3 inch Galaxy Note might be perfect .</s>
+<s id='vn27'>Nếu bạn đang sử dụng điện thoại để xem video hoặc đọc sách điện tử thì chiếc Galaxy Note màn hình 5,3 inch có thể sẽ là giải pháp hoàn hảo .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But despite all the positives , the diversity of the Android ecosystem has it downsides .</s>
+<s id='vn28'>Nhưng mặc cho tất cả các mặt tích cực kể trên , sự đa dạng của hệ sinh thái Android cũng có mặt tiêu cực của nó .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The world of Android is extremely fragmented , not only with a wide variety of hardware devices but with multiple versions of the Android operating system and - my pet peeve - customized interfaces that make it harder to switch between devices .</s>
+<s id='vn29'>Thế giới Android bị phân mảnh vô cùng , không chỉ có rất nhiều thiết bị phần cứng mà còn có nhiều phiên bản hệ điều hành Android và điều làm khó chịu là các giao diện tuỳ biến khiến việc chuyển đổi giữa thiết bị trở nên khó khăn hơn .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The fragmentation of hardware makes it harder to get everyone using the latest operating system .</s>
+<s id='vn30'>Phân mảnh phần cứng gây ra nhiều khó khăn hơn để mọi người có thể sử dụng hệ điều hành mới nhất .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Unlike PCs , users can't just upgrade an operating system at will .</s>
+<s id='vn31'>Khác với PC , người dùng Android không thể nâng cấp hệ điều hành theo ý muốn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Users have to wait for their carrier to release an upgrade , and that can take forever .</s>
+<s id='vn32'>Họ phải chờ nhà mạng phát hành bản nâng cấp , và việc này có thể sẽ rất lâu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Even new phones are coming out with older Android versions with no clear update path .</s>
+<s id='vn33'>Ngay cả những điện thoại mới ra mắt cũng chạy phiên bản Android cũ và lộ trình cập nhật không rõ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It 's also harder to app developers , not only because of the diversity of operating system versions but also hardware differences , including so many screen sizes .</s>
+<s id='vn34'>Sẽ còn khó khăn hơn cho nhà phát triển ứng dụng , không những vì tính đa dạng của các phiên bản hệ điều hành mà còn vì sự khác biệt phần cứng , bao gồm việc có quá nhiều kích cỡ màn hình .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The matters worse , handset makers love to customize the user interface with " skins " like Samsung 's " TouchWhiz , " LG 's Optimus and HTC Sense .</s>
+<s id='vn35'>Tệ hơn nữa , các hãng điện thoại lại thích tuỳ biến giao diện người dùng bằng những bộ giao diện , chẳng hạn như TouchWhiz của Samsung , Optimus của LG và HTC Sense .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Each of these skins has its pluses and minuses but I 'd be happier with a single user interface from Google .</s>
+<s id='vn36'>Mỗi bộ giao diện đều có điểm cộng và điểm trừ , nhưng tôi sẽ thích hơn nếu chỉ có một giao diện người dùng duy nhất từ phía Google .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In my opinion , it does a better job than the hardware makers when it comes to interface design .</s>
+<s id='vn37'>Tôi nghĩ Google sẽ làm việc này tốt hơn những nhà sản xuất phần cứng xét về việc thiết kế giao diện .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>But despite my complaints , I remain optimistic about Android .</s>
+<s id='vn38'>Nhưng mặc dù không hài lòng , tôi vẫn lạc quan về Android .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Problems aside , diversity and openness breed innovation and , over time , I expect there to emerge a more harmonious Android ecosystem .</s>
+<s id='vn39'>Dẹp bỏ rắc rối qua một bên , sự đa dạng và tính mở sẽ " ươm mầm " cho sự đổi mới , và theo thời gian , tôi mong rằng sẽ xuất hiện một hệ sinh thái Android hài hoà hơn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>But I got tired of waiting , which is why I bought that iPhone 4S .</s>
+<s id='vn40'>Nhưng tôi đã chán ngấy việc phải chờ đợi , thế là tôi mua iPhone 4S .</s>
+</spair>
+</text>
+</doc>

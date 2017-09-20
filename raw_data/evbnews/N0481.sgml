@@ -1,0 +1,256 @@
+﻿<doc id='N0481'>
+<head>
+<title>Mommy , Why is the sky blue ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Mommy , Why is the sky blue ?</s>
+<s id='vn1'>Mẹ ơi , tại sao bầu trời có màu xanh ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Christina Wood</s>
+<s id='vn2'>Tác giả Christina Wood</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Asking questions is an important part of your child 's development .</s>
+<s id='vn3'>Thắc mắc là một phần quan trọng trong quá trình phát triển của trẻ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But how do you handle the inevitable stumpers ?</s>
+<s id='vn4'>Nhưng làm thế nào bạn có thể xử lý những câu hỏi hóc búa không thể nào tránh được đây ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The " answer " may surprise you .</s>
+<s id='vn5'>" Câu trả lời " có thể làm cho bạn bị bất ngờ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Did you get me at the baby store ?</s>
+<s id='vn6'>Có phải mẹ mua con ở cửa hàng em bé không ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Why are those ants black ?</s>
+<s id='vn7'>Tại sao kiến có màu đen ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>What do worms eat ?</s>
+<s id='vn8'>Giun ăn gì ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What are stars ?</s>
+<s id='vn9'>Ngôi sao là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Where do dinosaurs live ? "</s>
+<s id='vn10'>Khủng long sống ở đâu ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>When my son Cole was three , the questions started .</s>
+<s id='vn11'>Khi bé Cole của tôi lên 3 , thằng bé bắt đầu hay đặt câu hỏi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>At first , I was so thrilled by his budding curiosity that I answered each one eagerly , probably with too much information .</s>
+<s id='vn12'>Lúc đầu , tôi cảm thấy quá xúc động bởi tính hiếu kỳ của nó phát triển đến nỗi tôi đã trả lời từng câu hỏi một cách háo hức - có lẽ là quá nhiều thông tin .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But I quickly learned that his questions are not always what they seem .</s>
+<s id='vn13'>Nhưng rồi tôi nhanh chóng phát hiện ra rằng những câu hỏi của nó không phải lúc nào cũng là những thắc mắc muốn biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>And answering them is not a simple matter of providing facts .</s>
+<s id='vn14'>Và việc trả lời cho con không đơn thuần là cung cấp thông tin cho nó .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>His sheer volume of questions wore down my enthusiasm and some of my answers became perfunctory .</s>
+<s id='vn15'>Khối câu hỏi của thằng bé làm cho sự nhiệt tình của tôi vơi đi và một số câu trả lời của tôi đã trở thành đại khái .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>That 's when I started questioning myself .</s>
+<s id='vn16'>Đó là lúc tôi đã bắt đầu tự hỏi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>How important are these questions to Cole 's developing urge to learn ?</s>
+<s id='vn17'>Những câu hỏi này quan trọng như thế nào đối với sự phát triển nhu cầu học hỏi của Cole ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Was I encouraging him to be passive by providing easy answers ?</s>
+<s id='vn18'>Có phải tôi đã khuyến khích nó thụ động bằng cách trả lời cho nó những câu hời hợt ?</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Would I thwart his curiosity if I said I did n't know the answer or didn't have time to talk about it ?</s>
+<s id='vn19'>Hay tôi làm chặn đứng tính tò mò của nó nếu bảo rằng mẹ không biết hoặc không có thời gian nói chuyện đó ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Some questions my son asks are delightful , funny , and fun to answer .</s>
+<s id='vn20'>Một vài câu hỏi của thằng bé rất thú vị , buồn cười , và rất hài khi trả lời .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Others are so banal , I can't think of a thing to say .</s>
+<s id='vn21'>Cũng có một vài câu hỏi quá tầm thường đến độ tôi không nghĩ ra được điều gì để nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Some I 've answered so many times that I can't stand to do it again and I 'd like permission to ignore .</s>
+<s id='vn22'>Một vài câu tôi đã trả lời lại nhiều lần đến mức không thể chịu đựng nổi nữa và tôi muốn lờ đi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But will I hurt Cole 's curiosity by not taking dull questions seriously ?</s>
+<s id='vn23'>Nhưng liệu tôi có làm tổn thương tính hiếu kỳ của Cole bằng cách không chấp nhận những câu hỏi nhạt nhẽo ấy một cách nghiêm túc ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" The key element to children 's questions is that they are a communication vehicle , " explains Mary Mindess , professor of educations at Lesley University in Cambridge , Massachusetts and founder and coordinator of the New England Kindergarten Conference .</s>
+<s id='vn24'>Mary Mindess , giáo sư giáo dục ở Trường Đại học Lesley , Cambridge , Massachusetts , người sáng lập và điều phối viên của Hội nghị Nhà trẻ Anh Mới giải thích " Yếu tố quan trọng đối với thắc mắc của trẻ là phương tiện giao tiếp . " .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" It 's simply a way of trying to engage the parent in conversation . "</s>
+<s id='vn25'>" Đơn thuần đó chỉ là cách mà trẻ cố lôi kéo bố mẹ vào cuộc nói chuyện . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Because of this , the answers you give aren't as important as simply responding in a positive way .</s>
+<s id='vn26'>Vì vậy , câu trả lời của bạn không quan trọng bằng việc chỉ hưởng ứng một cách tích cực .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Sometimes it 's easiest just to say , " That 's a good question . "</s>
+<s id='vn27'>Đôi khi dễ nhất bạn chỉ cần nói " Ồ , đó là một câu hỏi hay . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>When it comes to the interesting questions it's tempting to launch into a detailed explanation .</s>
+<s id='vn28'>Khi được hỏi những câu hỏi thú vị thì thường là người ta có khuynh hướng đưa ra lời giải thích chi tiết .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>But kids - like most people - enjoy short answers and get bored if you lecture .</s>
+<s id='vn29'>Nhưng trẻ con - hầu như mọi người - đều thích câu trả lời ngắn gọn và chán ngấy khi phải nghe bài thuyết trình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>From about ages 2 to 7 , kids are preoperational thinkers , which means they can't easily understand abstractions .</s>
+<s id='vn30'>Khoảng từ 2 đến 7 tuổi , trẻ thường suy nghĩ bằng trực quan , có nghĩa là chúng không dễ dàng hiểu các khái niệm trừu tượng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>So answering their questions with a hypothetical , fact-filled scenario confuses them .</s>
+<s id='vn31'>Vì thế nếu trả lời con trẻ bằng kịch bản có tính cách giả thuyết , nhiều thông tin sẽ làm cho chúng rối lên .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Short answers are good .</s>
+<s id='vn32'>Tốt hơn là nên trả lời ngắn gọn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>But it 's even better to answer a question through illustration .</s>
+<s id='vn33'>Nhưng thậm chí tốt hơn nữa là nên trả lời con bằng sự minh hoạ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Giving a brief - even if it 's incomplete - answer to a question is also a good way to start a dialogue .</s>
+<s id='vn34'>Việc trả lời con ngắn gọn - thậm chí là chưa trọn vẹn - cũng là một cách hay để bắt đầu cuộc trò chuyện .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>For example , when Cole asked me if he came from the baby store , I simply answered that babies don't come from stores .</s>
+<s id='vn35'>Chẳng hạn như , khi Cole hỏi tôi là nó có phải ở của hàng em bé không , tôi chỉ trả lời là trẻ con không phải từ cửa hàng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>That started a long discussion one that 's going on sporadically to this day - about where babies come from .</s>
+<s id='vn36'>Điều này khởi đầu một cuộc thảo luận dài – cứ diễn tiến rời rạc đến tận hôm nay – về việc trẻ con từ đâu ra .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I try to keep my answers to one short sentence and wait for more questions .</s>
+<s id='vn37'>Tôi cố giữ câu trả lời cho con thành một câu ngắn và chờ cho bé hỏi thêm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>This way , I 've learned a great deal about what Cole knows already and ( often hilariously ) how a 4-year old reasons .</s>
+<s id='vn38'>Bằng cách này , tôi biết được nhiều về những điều mà con đã biết và ( thường hài hước ) về cách trẻ 4 tuổi suy luận .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" Everybody , but particularly children , needs to construct their own understanding of things through their senses or by adding to what they already know , " explains Mindess .</s>
+<s id='vn39'>Mindess giải thích " Mọi người , nhưng nhất là trẻ em , cần xây dựng kiến thức của mình trên nền tảng giác quan hoặc bằng cách bổ sung thêm những gì đã biết . "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If a child asks a question and you can show her through a science experiment or a picture , that 's a much stronger basis for learning than words . "</s>
+<s id='vn40'>Nếu trẻ thắc mắc và bạn có thể chỉ cho chúng biết bằng thí nghiệm khoa học hoặc hình ảnh thì đó là cơ sở vững chắc hơn nhiều so với lời nói suông .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If you 've exhausted all other avenues to answering your child 's questions , the Internet can help with animations , games , illustrations , and Webcams .</s>
+<s id='vn41'>Nếu bạn quá mệt mỏi , hết cách trả lời cho con thì mạng Internet là phương tiện hỗ trợ tốt đấy : có cả phim ảnh , trò chơi , tranh minh hoạ , và Webcam .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>I recently turned to the Internet to answer one of Cole 's persistent questions : " Why do I breath ? "</s>
+<s id='vn42'>Mới đây tôi đã chuyển sang sử dụng Internet để trả lời một trong những câu hỏi " điệp khúc " của Cole : " Vì sao mà con lại thở ? "</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I had already explained it .</s>
+<s id='vn43'>Tôi đã giải thích .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>I 'd shown him a diagram of lungs in a book while he took big breaths .</s>
+<s id='vn44'>Tôi đã chỉ cho nó xem biểu đồ phổi trong sách trong khi nó thở mạnh ra .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>When I showed him an animation of lungs operating online , he took a few breaths , laughed , and said .</s>
+<s id='vn45'>Khi tôi chỉ cho nó xem đoạn phim ảnh về phổi đang hoạt động , nó liền hít thở một vài lần , cười vang , rồi nói .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>" Oh , I see ! Show me blood ! "</s>
+<s id='vn46'>" Ồ , con hiểu rồi ! Mẹ cho con xem máu đi ! "</s>
+</spair>
+<spair id='47'>
+<s id='en47'>One of my nagging worries is that if I did n't answer Cole 's questions correctly , my reputation as a source of information would be fouled and he 'd stop asking me .</s>
+<s id='vn47'>Một trong những điều làm tôi phiền muộn dai dẳng là nếu tôi không trả lời Cole một cách chính xác thì uy tín của tôi như một nguồn thông tin sẽ trở nên xấu xa và thằng bé sẽ chẳng hỏi tôi thêm gì nữa .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>In talking with Mindess and Wallace , though , I realized this is going to happen even if I handle every question perfectly .</s>
+<s id='vn48'>Dẫu vậy , trong khi trò chuyện với Mindess và Wallace , tôi chợt nhận ra rằng điều này sẽ xảy ra cho dù là tôi có trả lời mọi câu hỏi của con một cách hoàn hảo .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>And besides , what 's important here is our relationship not my knowledge of astronomy .</s>
+<s id='vn49'>Hơn nữa , điều quan trọng ở đây là mối quan hệ của chúng tôi chứ không phải là kiến thức về thiên văn học .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>As he grows , Cole will have lots of sources for answers - people , the Internet , books and he won't ask me so many questions .</s>
+<s id='vn50'>Khi thằng bé lớn lên , Cole sẽ có nhiều nguồn trả lời khác nhau - mọi người , mạng Internet , sách báo và nó sẽ chẳng hỏi tôi quá nhiều câu hỏi nữa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>That makes me a little sad .</s>
+<s id='vn51'>Việc đó làm tôi hơi buồn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It also helps me enjoy the battery of questions I endure now .</s>
+<s id='vn52'>Nhưng đồng thời cũng giúp tôi thấy vui với một khối câu hỏi mà tôi phải chịu đựng hiện giờ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>But it also points up another good reason for using today 's questions to establish a rapport .</s>
+<s id='vn53'>Nhưng người ta cũng hiểu thêm một lý do chính đáng khác đối với việc sử dụng các câu hỏi hiện tại là để tạo mối quan hệ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>When Cole gets older , he 'll still have to ask me questions like , " Can I go to an all-night party this weekend ? "</s>
+<s id='vn54'>Khi Cole lớn lên , nó sẽ vẫn phải hỏi tôi nhiều câu hỏi như " Con có thể dự một buổi tiệc qua đếm vào cuối tuần này không ? "</s>
+</spair>
+<spair id='55'>
+<s id='en55'>And questions like that as an important part of our relationship .</s>
+<s id='vn55'>Và các câu hỏi như vậy là một phần quan trọng trong mối quan hệ của chúng tôi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" There are a lot of questions that children ask that are about permission , " explains Mindess .</s>
+<s id='vn56'>Mindess giải thích " Có nhiều câu hỏi mà trẻ con hay hỏi thường là để xin phép . " .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>" At about 7 or 8 , kids are concerned with " everybody else goes " , " everybody does this or that . "</s>
+<s id='vn57'>" Ở giai đoạn 7 hay 8 tuổi trẻ thường hay đề cập việc " ai cũng được đi mà " , " ai cũng làm chuyện này hoặc chuyện đó . "</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Answering these questions becomes about sharing your values .</s>
+<s id='vn58'>Việc trả lời những câu hỏi này trở thành việc cho trẻ biết giá trị của bạn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>If you permit no discussion on these issues - by just saying no - the child does n't have any values to share with his friends when he explain why he ca n't go , do , or have . "</s>
+<s id='vn59'>Nếu bạn cho phép không thảo luận về những vấn đề này - bằng cách chỉ nói " không " - trẻ sẽ không có điều gì để nói với bạn mình khi chúng giải thích tại sao mình không đi được , không làm được việc đó , hoặc không có được cái gì . "</s>
+</spair>
+<spair id='60'>
+<s id='en60'>I know what happens at all night parties and the urge to protect Cole from the temptations - by screaming " Absolutely not ! " and locking him in his room till it 's over-will be enormous , I 'm sure .</s>
+<s id='vn60'>Tôi biết điều gì sẽ xảy ra suốt các buổi tiệc thâu đêm và ý muốn bảo vệ Cole khỏi bị cám dỗ - bằng cách la toáng lên " Tuyệt đối không ! " và nhốt nó vào phòng cho đến khi tàn tiệc – sẽ là một chuyện hết sức tàn ác , tôi chắc là như vậy .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Hopefully , I 'll know by then that this question is an excellent opportunity for me to engage him in discourse on the topic of teen substance abuse - or whatever happens to be every parent 's nightmare in the year 2013 .</s>
+<s id='vn61'>Hy vọng rằng , đến lúc ấy tôi sẽ biết được câu hỏi này là một dịp tốt cho tôi hướng con mình vào cuộc nói chuyện về chủ đề lạm dụng thể chất tuổi thanh thiếu niên - hoặc về bất kỳ điều gì khác xảy ra thành nỗi ác mộng của các bậc cha mẹ vào năm 2013 .</s>
+</spair>
+</text>
+</doc>

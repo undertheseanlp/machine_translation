@@ -1,0 +1,96 @@
+﻿<doc id='N0808'>
+<head>
+<title>Food prices soar despite surprise drop in inflation</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Food prices soar despite surprise drop in inflation</s>
+<s id='vn1'>Giá thực phẩm tăng vọt mặc dù tỷ lệ lạm phát giảm bất ngờ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Prices for food and drink are rising at their fastest pace in more than two years despite last month 's surprise fall in inflation , according to the Office for National Statistics</s>
+<s id='vn2'>Giá đồ ăn thức uống đang tăng lên với tốc độ nhanh nhất trong hơn hai năm mặc dù lạm phát giảm bất ngờ vào tháng trước , theo Văn phòng Thống kê Quốc gia .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Butter is one of the foods that have risen the most this month , up 26.4pc on this time last year .</s>
+<s id='vn3'>Bơ là một trong những thực phẩm đã tăng nhanh nhất vào tháng này , lên đến 26,4 % vào thời điểm này năm ngoái .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The soaring cost of staples – such as bread , meat , fish and juices - will add to concerns about household finances even though the headline rate of inflation fell from 4.5pc in May to 4.2pc in June .</s>
+<s id='vn4'>Giá cả các sản phẩm chủ lực tăng vọt - như bánh mì , thịt , cá và nước hoa quả - làm tăng thêm mối lo âu về tài chính hộ gia đình mặc dù tỷ lệ lạm phát toàn phần giảm từ 4,5 % vào tháng năm xuống còn 4,2% vào tháng sáu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The reduction in the consumer prices index ( CPI ) was largely due to the early summer sales , with prices for games , toys and audio-visual equipment all falling .</s>
+<s id='vn5'>Giảm chỉ số giá tiêu dùng ( CPI ) phần lớn là do doanh thu đầu mùa hè , với giá trò chơi , đồ chơi và thiết bị nghe nhìn đều giảm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Price discounting in June this year influenced the contribution from each of these classes , " the ONS said .</s>
+<s id='vn6'>" Chiết khấu giá vào tháng sáu năm nay đã ảnh hưởng từ mỗi một loại sản phẩm này , " ONS cho biết .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>With prices for non-discretionary items such as food and energy rising , cash-strapped consumers appear to be putting pressure on retailers for cuts elsewhere .</s>
+<s id='vn7'>Với giá hàng thiết yếu như thức ăn và năng lượng tăng , những người tiêu dùng thiếu tiền dường như đang tạo áp lực lên nhà bán lẻ về việc cắt giảm ở những nơi khác .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The fall in CPI came against expectations for an unchanged figure of 4.5pc .</s>
+<s id='vn8'>Đúng với mong đợi , chỉ số CPI sụt giảm với con số không đổi 4,5% .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It was matched by a similar decline from 5.2pc to 5pc in the retail prices index often used for wage settlements , reinforcing opinions that the Bank of England will leave interest rates at their record low of 0.5pc until next year .</s>
+<s id='vn9'>Sự sụt giảm này tương ứng bởi sự sụt giảm tương tự từ 5,2% đến 5% trong chỉ số giá bán lẻ thường được dùng để thanh toán lương , làm tăng ý kiến cho rằng Ngân hàng Anh quốc sẽ để mặc mức lãi suất thấp kỷ lục 0,5% mãi đến tận năm sau .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The data pushed the " interest rate debate in the direction of the doves " , Mr Loynes said .</s>
+<s id='vn10'>Số liệu này đã đẩy " cuộc tranh luận lãi suất theo hướng hoà bình " , ông Loynes nhận định .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" The figures add support to the growing view that UK monetary policy is more likely to be loosened than tightened over the next year or so " .</s>
+<s id='vn11'>" Những con số này làm tăng quan điểm cho rằng chính sách tiền tệ của Vương quốc Anh có vẻ được nới lỏng hơn thay vì thắt chặt vào khoảng năm tới " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>According to the ONS , prices for bread and cereals have risen 8.5pc in the past year , 7.2pc for meat and 12.2pc for fish .</s>
+<s id='vn12'>Theo ONS , giá của bánh mì và ngũ cốc đã tăng 8,5% trong năm qua , 7,2% đối với thịt và 12,2% đối với cá .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Vegetables are 5.4pc more expensive , while sugar and confectionary cost 8.2pc more .</s>
+<s id='vn13'>Rau mắc tiền hơn 5,4% , trong khi giá đường và bánh kẹo mắc hơn 8,2% .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Coffee and tea prices have risen 9.3pc , and soft drinks and juices 10.6pc .</s>
+<s id='vn14'>Giá cà phê và trà tăng 9,3% , nước giải khát và nước hoa quả là 10,6% .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Overall , the inflation rate for food and non-alcoholic beverages was 6.9pc – the highest since May 2009 .</s>
+<s id='vn15'>Nhìn chung , tỷ lệ lạm phát đối với thức ăn và thức uống không có cồn là 6,9 % - cao nhất kể từ tháng 5 năm 2009 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>James Knightley , economist at ING Financial Markets , warned : " Food prices are set to rise further given the lagged increases in raw food commodity prices . "</s>
+<s id='vn16'>James Knightley , nhà kinh tế học ở Thị trường tài chính ING , cảnh báo : " Giá thực phẩm được ấn định tăng thêm cho thấy sự tăng chậm đối với giá cả hàng hoá thực phẩm tươi sống . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Despite the surprise drop in inflation , economists still reckon CPI is likely to breach 5pc in the autumn .</s>
+<s id='vn17'>Mặc dù tỷ lệ lạm phát giảm bất ngờ , thế nhưng các nhà kinh tế học vẫn tính CPI có thể vượt quá giới hạn 5% vào mùa thu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" It seems inevitable that inflation will spike up around August/September as higher utility bills kick in use , " Howard Archer at IHS Global Insight said .</s>
+<s id='vn18'>" Dường như không thể tránh được việc lạm phát sẽ tăng nhanh vào khoảng tháng tám , tháng chín khi hoá đơn tiện ích cao hơn có hiệu lực , " Howard Archer thuộc IHS Global Insight cho biết .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Both British Gas and Scottish Power have announced hefty increases in their charges for gas and electricity from August and other utility providers seem certain to announce similar hefty increases . "</s>
+<s id='vn19'>" Cả công ty cung cấp gas Anh lẫn công ty điện Xcốt-len đã công bố tăng mạnh giá gas và điện từ tháng tám và các nhà cung cấp tiện ích khác chắc chắn cũng công bố tăng giá mạnh tương tự . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Household utility bills are expected to rise by 15pc-20pc .</s>
+<s id='vn20'>Hoá đơn tiện ích hộ gia đình dự kiến sẽ tăng lên 15%-20% .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Mr Knightley added : " As a result , we still look for CPI to hit 5.5pc within the next three to six months . "</s>
+<s id='vn21'>Ông Knightley cho biết thêm : " Kết quả là chúng tôi vẫn tìm kiếm chỉ số CPI chạm ngưỡng 5,5% trong vòng từ ba đến sáu tháng tới "</s>
+</spair>
+</text>
+</doc>

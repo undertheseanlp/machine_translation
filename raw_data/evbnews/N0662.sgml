@@ -1,0 +1,140 @@
+﻿<doc id='N0662'>
+<head>
+<title>The Ring</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Ring</s>
+<s id='vn1'>Chiếc nhẫn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Esther Bonilla Read</s>
+<s id='vn2'>Tác giả : Esther Bonilla Read</s>
+</spair>
+<spair id='3'>
+<s id='en3'>When I was growing up , my mother had a ring she never took off .</s>
+<s id='vn3'>Cho đến khi tôi lớn , mẹ tôi có một chiếc nhẫn mà bà không bao giờ tháo ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It was the only ring I ever saw her wear during my childhood .</s>
+<s id='vn4'>Nó là chiếc nhẫn duy nhất tôi từng thấy bà đeo trong suốt thời thơ ấu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It was made of a shiny silvery metal with an oblong penny-brown metallic piece upon which two hearts were attached in the center .</s>
+<s id='vn5'>Nó được làm bằng kim loại phủ bạc sáng bóng với một mẩu kim loại màu nâu đồng hình chữ nhật có hai trái tim kèm theo nằm ở giữa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>She wore it when she swept , when she mopped , when she made her large mound of golden flour tortillas , when she sewed on her treadle Singer sewing machine and when she washed clothes on the rub board .</s>
+<s id='vn6'>Bà đeo nó khi quét nhà , khi lau dọn , khi làm một đống bánh ngô bột vàng , khi may vá trên chiếc máy may đạp bằng chân của mình và cả khi giặt quần áo trên ván giặt đồ nữa .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>She did n't really have any other jewelry , and , in fact , I remember my father saying that he did n't even buy her a ring when they were married .</s>
+<s id='vn7'>Bà thật sự không có bất cứ một món nữ trang nào khác , và , thực ra , tôi nhớ cha tôi nói rằng ông thậm chí không mua nhẫn cho bà khi họ kết hôn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He had n't thought about it , and during the ceremony , they had borrowed her brother Charlie 's ring .</s>
+<s id='vn8'>Ông đã không nghĩ về nó , và trong buổi lễ , họ đã mượn nhẫn của cậu Charlie .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The years passed .</s>
+<s id='vn9'>Nhiều năm trôi qua .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>My father , who had come from Mexico in the 1920s to try to earn a living , worked long , long hours at the service station he operated .</s>
+<s id='vn10'>Cha tôi , người đến từ Mexico vào những năm 1920 để cố kiếm sống , đã làm việc nhiều tiếng đồng hồ dài dằng dặc tại nơi bảo quản sữa chữa ô tô mà ông quản lý .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>And my mother , who was also from Mexico , toiled at home , keeping house for her husband and eight youngsters .</s>
+<s id='vn11'>Và mẹ tôi , cũng đến từ Mexico , cũng làm việc quần quật ở nhà , tề gia nội trợ cho chồng và tám đứa con nhỏ của mình .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>With his hard work and her thriftiness , they sent their first son off to college , then another child and then another .</s>
+<s id='vn12'>Nhờ sự chăm chỉ của cha và tính tiết kiệm của mẹ , họ đã gửi được đứa con trai đầu tiên của mình đến học ở trường đại học , sau đó lần lượt hết đứa này đến đứa khác .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The older children helped with the expenses of the younger ones .</s>
+<s id='vn13'>Những đứa lớn giúp đỡ trang trải chi phí cho những đứa nhỏ hơn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Just as the last two children were graduating from college , my father died suddenly of a heart attack , but my mother lived on for another twenty-three years .</s>
+<s id='vn14'>Ngay khi hai đứa con cuối cùng tốt nghiệp đại học , cha tôi đột ngột qua đời vì một cơn đau tim , còn mẹ tôi tiếp tục sống thêm 23 năm nữa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Their children had become lawyers , businessmen and teachers .</s>
+<s id='vn15'>Con cái của họ đã trở thành những luật sư , những doanh nhân và giáo viên .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the last years of her life , my mother was finally able to enjoy the luxuries that had always been denied her .</s>
+<s id='vn16'>Trong những năm cuối đời , mẹ tôi rốt cuộc cũng đã có thể tận hưởng sự xa xỉ nhưng bà luôn từ chối nó .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>She was even able to buy some jewelry , which , I was surprised to learn , she really loved .</s>
+<s id='vn17'>Bà thậm chí có thể mua được một số món nữ trang mà tôi ngạc nhiên khi biết rằng bà thật sự yêu thích chúng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A few years before she died , she told me that she wanted her jewelry to go to her granddaughters .</s>
+<s id='vn18'>Vài năm trước khi qua đời , bà bảo với tôi là bà muốn số nữ trang của mình thuộc về mấy đứa cháu gái .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>And when she died , it was done .</s>
+<s id='vn19'>Và khi bà mất , điều đó đã được thực hiện .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>A diamond ring to this one , a pearl ring to that one , an opal ring to another , and so it went .</s>
+<s id='vn20'>Một chiếc nhẫn kim cương thuộc về đứa này , một chiếc nhẫn ngọc trai thuộc về đứa kia , một chiếc nhẫn ngọc mắt mèo lại thuộc về một đứa khác , và cứ thế .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Then I discovered it : her first ring .</s>
+<s id='vn21'>Sau đó tôi phát hiện ra nó : chiếc nhẫn đầu tiên của bà .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Now I could identify the metal .</s>
+<s id='vn22'>Bấy giờ tôi đã có thể nhận biết thứ kim loại đó .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The ring was a thin , fragile thing by now , a small strip of stainless steel attached to two small hearts on either side of an oblong-shaped piece of copper .</s>
+<s id='vn23'>Chiếc nhẫn mỏng , dễ gãy , có một dải thép i-nốc nhỏ gắn vào hai trái tim nhỏ ở cả hai bên của miếng đồng hình chữ nhật .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It had been worn so long that the copper had become unattached to the circle .</s>
+<s id='vn24'>Nó được đeo lâu đến nỗi miếng đồng đã tách rời ra khỏi vòng tròn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Its value was naught .</s>
+<s id='vn25'>Nó không có giá trị gì cả .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I took the ring , polished it with a cloth and carried it to the bank to place in a safety-deposit box .</s>
+<s id='vn26'>Tôi lấy chiếc nhẫn , dùng vải đánh bóng nó và mang đến ngân hàng đặt trong hộp lưu trữ an toàn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>To me , it was a gem that symbolized the sacrifices my mother had made for us and the values that she lived .</s>
+<s id='vn27'>Với tôi , nó chính là viên ngọc quý tượng trưng cho sự hy sinh mẹ dành cho chúng tôi và những giá trị sống của bà .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>How many years had she worn it ?</s>
+<s id='vn28'>Bà đã đeo nó bao nhiêu năm ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>How many times had she denied herself so that we might succeed ?</s>
+<s id='vn29'>Đã bao nhiêu lần bà từ chối chính bản thân mình để chúng tôi có thể thành công ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Why did she save this ring when it seemed worthless ?</s>
+<s id='vn30'>Tại sao bà lại giữ chiếc nhẫn này khi nó dường như vô giá trị ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Was it a symbol to her , too ?</s>
+<s id='vn31'>Có phải đó cũng là một biểu tượng của bà không ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The rest of my family does n't quite understand this , but when I look at that ring , I see the priceless jewel of my mother 's strength and the brilliance of the love that she showed us every day of her life .</s>
+<s id='vn32'>Những người khác trong nhà tôi hoàn toàn không hiểu điều này , nhưng khi tôi nhìn chiếc nhẫn đó , tôi hiểu món nữ trang vô giá ấy biểu hiện cho sức mạnh và tình yêu nồng nàn mà mẹ dành cho chúng tôi mỗi ngày trong đời bà .</s>
+</spair>
+</text>
+</doc>

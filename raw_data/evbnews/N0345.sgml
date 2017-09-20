@@ -1,0 +1,180 @@
+﻿<doc id='N0345'>
+<head>
+<title>Camera megapixels : Why more is n't always better ( Part 2 )</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Camera megapixels : Why more is n't always better ( Part 2 )</s>
+<s id='vn1'>Megapixel trên Máy ảnh : Vì sao nhiều " chấm " hơn không phải lúc nào cũng tốt hơn ( Phần 2 )</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's time to forget megapixels as the measure of smartphone camera performance and pick a new yardstick .</s>
+<s id='vn2'>Đã đến lúc quên đi số " chấm " như là thước đo hiệu suất máy ảnh trên điện thoại thông minh và chọn một thước đo mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>What about Nokia 's 41-megapixel PureView ?</s>
+<s id='vn3'>Nokia Pure View với máy ảnh 41 megapixel thì sao ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>What about Nokia 's 41-megapixel PureView ?</s>
+<s id='vn4'>Nokia Pure View với máy ảnh 41 megapixel thì sao ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In the meantime , here 's a short summary of what 's going on .</s>
+<s id='vn5'>Nhân đây , tôi xin tóm tắt những gì đang diễn ra :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Juha Alakarhu ( pronounce his first name YOO-hah ) , is Head of Camera Technologies at Nokia , where he works within the Smart Devices team .</s>
+<s id='vn6'>Juha Alakarhu ( tên ông đọc là YOO-hah ) , là Trưởng Bộ phận Công nghệ Máy ảnh của Nokia , ở đây ông làm việc trong đội ngũ chuyên về điện thoại thông minh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Alakarhu explained to me that although Nokia has engineered the PureView to capture up to 41-megapixels , most users will view photos as the 5-megapixels default .</s>
+<s id='vn7'>Alakarhu giải thích với tôi rằng mặc dù Nokia đã thiết kế PureView có thể chụp ảnh lên đến 41 megapixel , nhưng hầu hết người dùng vẫn xem ảnh ở chế độ mặc định là 5 megapixel .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Usually , when you use the digital zoom on your phone , you 're blowing up and cropping in on an image to see each pixel up close .</s>
+<s id='vn8'>Thông thường , khi bạn sử dụng zoom kỹ thuật số trên điện thoại , bạn đang phóng to và cắt cúp ảnh để xem cận cảnh mỗi điểm ảnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In the 808 PureView , Nokia uses a process called " oversampling , " .</s>
+<s id='vn9'>Ở 808 PureView , Nokia sử dụng một tiến trình được gọi là " oversampling " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For the PureView 's 5-megapixel default resolution - condenses the information captured in seven pixels into one ( they call it a " superpixel . " )</s>
+<s id='vn10'>Để có độ phân giải mặc định là 5 megapixel trên PureView , tiến trình này sẽ nén những thông tin bắt được trong bảy điểm ảnh vào một điểm ảnh ( gọi là một " siêu điểm ảnh " ) .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If you zoom in on an object , you 're simply seeing part of the image that 's already there , rather than scaling up .</s>
+<s id='vn11'>Nếu bạn phóng to một vật thể , bạn chỉ nhìn thấy một phần ảnh có sẵn , chứ không phải tăng kích thước ảnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This method should translate to higher-resolution digital print-outs and zoom-ins than you 'd normally see .</s>
+<s id='vn12'>Phương pháp này nên áp dụng cho ảnh kỹ thuật số độ phân giải cao hơn và ảnh chụp phóng to mà bạn thường thấy .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The technology in PureView has been five years in the making , Nokia 's Alakarhu said .</s>
+<s id='vn13'>Công nghệ trong PureView đã được chế tạo trong năm năm qua , ông Alakarhu của Nokia cho biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Not only does PureView lean on the physical size of the sensor ( specifically 1/1.2-inch ) , there are also custom algorithms on top of the sensor to adjust the image to reduce imperfections like noise .</s>
+<s id='vn14'>PureView không chỉ dựa trên kích thước vật lý của cảm biến ( cụ thể là 1/1.2 inch ) , mà còn có những thuật toán tùy chỉnh trên cảm biến để giảm khiếm khuyết ảnh như nhiễu hột .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>As CNET 's Goldman has pointed out , this is an unusually large sensor for a smartphone , and it 's also larger than sensors found on the vast majority of point-and-shoot cameras .</s>
+<s id='vn15'>Như ông Goldman của CNET đã chỉ ra , đây là một cảm biến lớn bất thường trên điện thoại thông minh , và nó cũng lớn hơn cảm biến có trên phần lớn máy ảnh ngắm chụp .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Image processing</s>
+<s id='vn16'>Xử lý ảnh</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In addition to the siz e and quality of the lens and sensor , there 's also the image processor .</s>
+<s id='vn17'>Ngoài kích thước và chất lượng của ống kính và cảm biến , còn có bộ xử lý hình ảnh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Most modern high-end smartphone CPUs have dedicated graphics processors built into their chip .</s>
+<s id='vn18'>Hầu hết CPU trên điện thoại thông minh cao cấp và hiện đại đều có bộ xử lý đồ họa chuyên dụng tích hợp vào chip xử lý .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It , being hardware-accelerated and not just software-dependent , can quickly render images like photos , videos , and games without overtaxing the main application processor .</s>
+<s id='vn19'>Nó được tăng tốc phần cứng và không phụ thuộc vào phần mềm nên có thể nhanh chóng xử lý hình ảnh , video , và game mà không gây quá tải cho bộ xử lý ứng dụng chính .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>At Mobile World Congress , HTC touted a discrete image processor for its HTC One family of phones , called the HTC ImageChip , that is capable of continuous pictures at a rate of 0.7 seconds between shots .</s>
+<s id='vn20'>Tại Mobile World Congress , HTC đã cho ra mắt bộ xử lý hình ảnh riêng biệt có tên là HTC ImageChip dành cho dòng điện thoại HTC One với khả năng chụp ảnh liên tục với tốc độ 0,7 giây giữa các bức hình .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The chip , which lives in the HTC One V , HTC One S , and the global version and both US versions of the HTC One X , is significant in providing a unified level of photo performance between the three models , whose other features differ quite a bit .</s>
+<s id='vn21'>Chip này , hiện có trên HTC One V , HTC One S , và phiên bản quốc tế và cả hai phiên bản dành cho nước Mỹ là HTC One X , giữ vai trò quan trọng trong việc tạo ra một cấp độ đồng nhất về hiệu suất chụp ảnh giữa ba mẫu trên với các tính năng có khác nhau chút ít .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The separate processor also explains how HTC can claim those shot-to-shot times on both the global HTC One X that runs on Nvidia 's Tegra 3 processor and the U.S. version that runs on Qualcomm 's Snapdagon S4 processor .</s>
+<s id='vn22'>Bộ xử lý riêng biệt cũng giải thích cho cơ sở mà HTC có thể tuyên bố tính năng chụp ảnh liên tiếp trên HTC One X cả phiên bản quốc tế chạy trên vi xử lý Nvidia Tegra 3 lẫn phiên bản Mỹ chạy trên vi xử lý Snapdagon S4 của Qualcomm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The image processor is also what helps achieve zero shutter lag , when the camera captures the photo when you press the capture button , not a beat or two after .</s>
+<s id='vn23'>Bộ xử lý ảnh cũng giúp loại bỏ độ trễ màn trập , máy ảnh sẽ bắt đầu chụp khi bạn nhấn nút chụp , chứ không phải sau đó một hoặc hai nhịp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Wait , there 's more</s>
+<s id='vn24'>Đợi đã , có Yếu tố khác</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The camera 's sensor size and image processor may be the most crucial elements for creating quality smartphone photos , but other considerations come into play .</s>
+<s id='vn25'>Kích cỡ của cảm biến ảnh và xử lý ảnh có thể là yếu tố quyết định nhất để tạo ra những bức ảnh chất lượng trên điện thoại thông minh , nhưng cũng cần xem xét những yếu tố khác .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Higher quality components , for example , can help tease out better photos , but they could also cost more , which could lead to a marginally pricier camera .</s>
+<s id='vn26'>Chẳng hạn như những bộ phận chất lượng cao hơn có thể bạn có được những bức ảnh đẹp hơn , nhưng cũng có thể chúng sẽ đắt hơn , điều này làm cho máy ảnh có giá đắt tiền hơn đôi chút .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>While the total cost of a camera module is only one part of the total cost , Gartner analyst Jon Erensen said that high-end parts could double the price of a basic camera set , and thought that parts could cost $ 15 per phone .</s>
+<s id='vn27'>Trong khi tổng chi phí của máy ảnh chỉ chiếm một phần tổng chi phí điện thoại , ông Jon Erensen , nhà phân tích thuộc Gartner , cho biết rằng những bộ phận cao cấp có thể có giá gấp đôi giá của một chiếc máy ảnh cơ bản , và ông nghĩ rằng có thể những bộ phận đó có giá 15 đô-la Mỹ trên mỗi chiếc điện thoại .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The smartphone makers I contacted for this article , like Samsung and Nokia , would n't share sourcing or pricing information .</s>
+<s id='vn28'>Những hãng điện thoại thông minh mà tôi đã liên hệ để viết bài báo này , như Samsung và Nokia , đã từ chối chia sẻ thông tin về gia công hoặc định giá .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Usability is king</s>
+<s id='vn29'>Tính khả dụng là trên hết</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Despite the intense engineering focus that goes into the camera 's physical elements , both Nokia 's Juha Alakarhu and Samsung 's Drew Blackard , senior manager of product planning , stress the importance of the customer 's experience -- how easy is it to open the camera from a locked position , how fast do photos capture , how desired are the special effects and shooting modes ?</s>
+<s id='vn30'>Mặc dù giới kỹ thuật tập trung nhiều ở các thành phần vật lý của máy ảnh , cả ông Juha Alakarhu thuộc Nokia lẫn ông Drew Blackard thuộc Samsung , giám đốc cao cấp của bộ phận hoạch định sản phẩm , vẫn nhấn mạnh tầm quan trọng của trải nghiệm khách hàng , chẳng hạn như sự dễ dàng khi kích hoạt máy ảnh trong tình trạng khoá máy , tốc độ chụp ảnh , và mong muốn có thêm hiệu ứng đặc biệt và các chế độ chụp .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>For HTC 's part , the manufacturer includes extra logic in some phones , like the Amaze 4G , that detects smiles and auto-surfaces photos it considers the most technically proficient .</s>
+<s id='vn31'>Về phần HTC , hãng đã thêm những ý tưởng mang tính lô-gích vào trong một vài mẫu điện thoại , như HTC Amaze 4G , với tính năng nhận diện nụ cười và làm nổi bền mặt những ảnh chụp mà máy xem là đẹp nhất về mặt kỹ thuật .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Samsung is also starting to advertise similar qualities in the Galaxy S III 's camera software .</s>
+<s id='vn32'>Samsung cũng bắt đầu quảng cáo các tính năng tương tự trong phần mềm máy ảnh của Galaxy S III .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>For most phone owners , said Samsung 's Blackard , being able to quickly and easily share photos on the fly is far more important than pixel count .</s>
+<s id='vn33'>Ông Blackard thuộc Samsung cho biết đối với hầu hết người dùng điện thoại , khả năng nhanh chóng và dễ dàng chia sẻ ảnh quan trọng hơn nhiều so với số lượng điểm ảnh .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Just look at Instagram 's runaway success in sharing simple , small photos .</s>
+<s id='vn34'>Bạn hãy thử nhìn vào thành công nhanh chóng của ứng dụng Instagram trong việc chia sẻ ảnh nhỏ và đơn giản .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Gartner analyst Jon Erensen agrees .</s>
+<s id='vn35'>Jon Erensen , nhà phân tích thuộc công ty Gartner , cũng có cùng quan điểm .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" What do you actually gain from going higher than you need ? , " he said , adding that most people upload smartphone photos to an online album like Google Photos or Facebook , or e-mail them to family and friends , formats that require many fewer than 8 megapixels , or even 5 .</s>
+<s id='vn36'>" Bạn thực sự có được những gì khi đòi hỏi nhiều hơn nhu cầu của mình ? " , ông cũng nói thêm là hầu hết mọi người đều tải hình từ điện thoại thông minh lên album trực tuyến như Google Photo hoặc Facebook , hoặc gửi chúng đến gia đình và bạn bè , với định dạng ảnh bắt buộc phải nhỏ hơn 8 megapixels , hoặc thậm chí là 5 .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>A recent trip to Indonesia illustrates what Nokia 's Alakarhu and the others mean by the whole experience taking precedent over the specs .</s>
+<s id='vn37'>Chuyến du hành mới đây đến Indonesia đã minh hoạ cho những gì mà ông Alakarhu thuộc Nokia và những người khác muốn hướng đến khi cho rằng toàn bộ trải nghiệm thực tế sẽ vượt lên trên các chi tiết kỹ thuật .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>While trekking with 22 pounds of gear on his back -- including a high-quality DSLR - Alakarhu repeatedly reached for the Nokia 808 PureView he kept in his pocket .</s>
+<s id='vn38'>Trong cuộc hành trình vác trên lưng hành lý nặng 22 pao - - trong đó có máy ảnh DSLR chất lượng cao - Alakarhu liên tục dùng đến Nokia 808 PureView mà ông bỏ trong túi .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Although he considers himself an amateur photographer , Alakarhu said he found himself using the PureView more because of its easy availability and quick start time when he did n't want to take the time to set up a more involved shot on his digital camera .</s>
+<s id='vn39'>Mặc dù tự coi mình là nhiếp ảnh gia nghiệp dư , Alakarhu cho biết ông nhận thấy mình sử dụng PureView nhiều hơn vì tính tiện dụng và thời gian khởi động nhanh chóng trong những khi ông không muốn dành thời giờ để chụp những bứa ảnh phức tạp hơn bằng máy ảnh kỹ thuật số của mình .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>I have my share of similar stories , and I suspect that you do , too .</s>
+<s id='vn40'>Tôi cũng có phần trong những câu chuyện tương tự , và tôi nghi ngờ rằng bạn cũng vậy .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>We should n't scrap pixel count entirely when weighing smartphone cameras , but in terms of the hardware and software details that actually go into making a great photo , megapixels are highly overrated .</s>
+<s id='vn41'>Chúng ta không nên loại hoàn toàn số lượng điểm ảnh khi " cân đo " máy ảnh trên điện thoại thông minh , nhưng xét về những chi tiết phần cứng và phần mềm là những thực sự đóng góp vào việc tạo ra một nức ảnh đẹp , thì số " chấm " đã được đánh giá quá cao .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It 's high time we focus on other areas that count more , like that undersung sensor .</s>
+<s id='vn42'>Đã đến lúc chúng ta tập trung vào những phần khác có giá trị hơn , chẳng hạn như cảm biến ảnh vốn bị đánh giá thấp .</s>
+</spair>
+</text>
+</doc>

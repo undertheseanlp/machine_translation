@@ -1,0 +1,136 @@
+﻿<doc id='N0753'>
+<head>
+<title>A question of attitude</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A question of attitude</s>
+<s id='vn1'>Vấn đề về thái độ sống</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The link between chronic stress and a marker of old age is being disentangled</s>
+<s id='vn2'>Mối liên hệ giữa căng thẳng thường xuyên và dấu hiệu tuổi già đang được làm rõ</s>
+</spair>
+<spair id='3'>
+<s id='en3'>TELOMERES are to chromosomes what plastic caps are to shoelaces - they stop them fraying at the ends .</s>
+<s id='vn3'>Gen kết thúc đối với nhiễm sắc thể giống như miếng bịt nhựa đối với dây giầy - ngăn chặn chúng bung ra ở đầu cuối .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Unlike shoelaces , though , chromosomes replicate themselves from time to time as the cells they are in divide .</s>
+<s id='vn4'>Mặc dù vậy , không giống như dây giầy , nhiễm sắc thể thỉnh thoảng tự sao chép như những tế bào chúng đang phân chia .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>This shortens the telomere and , after 50-70 such divisions ( a number known as the Hayflick limit , after its discoverer ) , a chromosome can grow no shorter and the cell it is in can divide no more .</s>
+<s id='vn5'>Sự tự sao chép sẽ làm ngắn lại gen kết thúc và , sau 50-70 lần phân chia như thế ( con số này gọi là giới hạn Hayflick , sau khi có người khám phá ra nó ) , lúc đó một nhiễm sắc thể không thể phát triển ngắn hơn được nữa và tế bào chứa nó không thể phân chia được nữa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>That provides a backstop against cancer .</s>
+<s id='vn6'>Nó sẽ đóng vai trò như cái rơ le chặn lại căn bệnh ung thư .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The rapidly dividing cells in a tumour soon hit the Hayflick limit and the process is brought to a screeching halt .</s>
+<s id='vn7'>Các tế bào phân chia nhanh chóng trong khối u chẳng mấy chốc chạm giới hạn Hayflick và quá trình này sẽ như cái phanh rít lại .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Which is a good thing .</s>
+<s id='vn8'>Vậy điều ích lợi ở đây là gì .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The bad thing is that reaching the limit is one of the markers of old age .</s>
+<s id='vn9'>Điều có hại là việc đạt đến giới hạn này sẽ như một trong những dấu hiệu của tuổi già .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>You do not want it to happen too quickly , particularly in tissues that have to do a lot of dividing in order to work properly , such as those in the immune system .</s>
+<s id='vn10'>Bạn không muốn nó xảy ra quá nhanh , đặc biệt trong các mô mà chúng phải phân chia nhiều để hoạt động tốt , giống như những mô trong hệ miễn dịch .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It has been known for some time that chronic stress ( caring for a child with a protracted illness , for example ) causes premature shortening of the telomeres .</s>
+<s id='vn11'>Lâu nay chúng ta biết là đến một lúc nào đó sự căng thẳng thường xuyên ( ví dụ chư chăm sóc một đứa trẻ bệnh lâu ngày ) sẽ làm ngắn lại sớm gien kết thúc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>What has not been clear is whether this is a one-way trip , with each stressful period turning the telomeric ratchet irreversibly .</s>
+<s id='vn12'>Điều mà người ta chưa rõ là liệu đây có phải là chuyến đi một chiều không , với mỗi thời kỳ căng thẳng sẽ quay bánh răng cưa gen kết thúc theo chiều xuôi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This week , though , at a meeting of the American Association for Cancer Research in Orlando , Florida .</s>
+<s id='vn13'>Dù vậy , trong tuần này , tại cuộc họp của Hiệp hội nghiên cứu bệnh ung thư Mỹ ở Orlando , Florida .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A group of researchers led by Edward Nelson of the University of California , Irvine , showed that it is n't .</s>
+<s id='vn14'>Một nhóm các nhà nghiên cứu dẫn đầu bởi Edward Nelson của đại học California , Irvine , đã chứng minh là không phải vậy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Their research suggests that stress management not only stops telomeres from shortening , it actually promotes their repair .</s>
+<s id='vn15'>Nghiên cứu cho biết chế ngự căng thẳng không chỉ ngăn chặn gen kết thúc ngắn đi , mà nó thực sự đẩy mạnh sự phục hồi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Dr Nelson drew this welcome conclusion from a previous study that measured the impact of telephone counselling on women who had been treated for cervical cancer .</s>
+<s id='vn16'>Tiến sĩ Nelson đã đưa ra kết luận đáng hoan nghênh này từ nghiên cứu trước đây đo lường ảnh hưởng của cuộc tư vấn qua điện thoại ở những phụ nữ đã được điều trị ung thư cổ tử cung .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The study found that such counselling worked , both mentally and physically .</s>
+<s id='vn17'>Nghiên cứu nhận thấy là những cuộc tư vấn như thế có hiệu quả , về cả tâm thần lẫn thể chất .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Women who had been counselled reported that the quality of their lives had improved , compared with those of a control group who had not been counselled .</s>
+<s id='vn18'>Những phụ nữ được tư vấn cho biết chất lượng cuộc sống của họ đã được cải thiện , so với những người trong nhóm đối chứng không được tư vấn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>They also showed improvements in the strength of their immune systems .</s>
+<s id='vn19'>Họ cũng cho thấy sự cải thiện về sức mạnh của hệ miễn dịch .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Given those benefits , Dr Nelson wondered if he could find others , and he re-examined the participants " samples to look at the lengths of the telomeres in their white blood cells ( red cells have no nuclei , and therefore no chromosomes ) .</s>
+<s id='vn20'>Căn cứ vào các lợi ích đó , Tiến sĩ Nelson không biết liệu ông có thể tìm những người khác , và ông kiểm tra lại mẫu những người tham gia để quan sát đoạn gen kết thúc trong bạch cầu của họ ( hồng cầu không có nhân , và do đó không thấy nhiễm sắc thể nào ) .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>What he found surprised him .</s>
+<s id='vn21'>Những gì phát hiện làm ông thật sự bất ngờ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Not only did counselling stop telomere shrinkage , it actually promoted telomere growth .</s>
+<s id='vn22'>Không chỉ việc tư vấn làm cho gen kết thúc ngưng co lại , nó thực sự đẩy mạnh sự tăng trưởng của gen kết thúc .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Those women for whom counselling had worked ( ie , those who reported a decrease in emotional stress ) had longer telomeres at the end than they did at the beginning .</s>
+<s id='vn23'>Những phụ nữ mà việc tư vấn có hiệu quả ( nghĩa là , những người mà báo cáo là giảm căng thẳng về mặt cảm xúc ) có gen kết thúc dài hơn vào lúc cuối so với gien lúc họ có vào lúc đầu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Their Hayflick countdowns were being reset .</s>
+<s id='vn24'>Sự đếm ngược con số giới hạn Hayflick của họ cũng đang được thiết lập trở lại .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>A single such result must , of course , be treated with caution .</s>
+<s id='vn25'>Mỗi một kết quả như thế , dĩ nhiên , phải được cân nhắc một cách thận trọng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>But another study reported at the meeting , by Elizabeth Blackburn of the University of California , San Francisco ( who shared the Nobel prize for the discovery of the enzyme that repairs telomeres ) , gave some support .</s>
+<s id='vn26'>Nhưng một nghiên cứu khác báo cáo lại tại cuộc họp , thực hiện bởi Elizabeth Blackburn thuộc Đại học California , San Francisco ( người đồng đoạt giải Nô-ben về tìm ra en-zim phục hồi gen kết thúc ) , cũng hỗ trợ thêm chi tiết .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>This showed that exercise has a similar effect to counselling on the telomeres of the stressed .</s>
+<s id='vn27'>Điều này cho thấy việc rèn luyện cơ thể cũng có tác dụng tương tự như tư vấn về gen kết thúc đối với những người bị căng thẳng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>If Dr Nelson 's work is successfully replicated , it will shine more light on the ill-understood relationship between the health of the mind and the health of the body .</s>
+<s id='vn28'>Nếu công trình nghiên cứu của Tiến sĩ Nelson được lặp lại thành công , nó sẽ làm rõ hơn mối quan hệ đã được hiểu sai lệch giữa sức khoẻ tâm thần và sức khoẻ thể lực .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>For , as he points out , nothing actually changed in the lives of the women in question .</s>
+<s id='vn29'>Vì vậy , như ông chỉ ra , không gì thực sự thay đổi cuộc sống của những phụ nữ đang được nói đến .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They still had cancer , albeit under treatment , and they were still under stress .</s>
+<s id='vn30'>Họ vẫn còn căn bệnh ung thư , mặc dù đang được điều trị , và họ vẫn còn căng thẳng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Nothing , that is , except their attitude .</s>
+<s id='vn31'>Không có gì có thể thay đổi được ngoại trừ thái độ của họ .</s>
+</spair>
+</text>
+</doc>

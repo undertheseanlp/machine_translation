@@ -1,0 +1,220 @@
+﻿<doc id='N0504'>
+<head>
+<title>Skin care : 5 tips for healthy skin</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Skin care : 5 tips for healthy skin</s>
+<s id='vn1'>Chăm sóc da : 5 bí quyết để có làn da khoẻ mạnh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Proper skin care can delay the natural aging process and prevent many skin problems .</s>
+<s id='vn2'>Việc chăm sóc da thích hợp có thể làm kéo dài quá trình lão hoá tự nhiên và ngăn ngừa nhiều vấn đề về da .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>From MayoClinic.com</s>
+<s id='vn3'>Trích Mayoclinic.Com</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Do n't have time for intensive skin care ?</s>
+<s id='vn4'>Bạn không có thời gian để chăm sóc da một cách chu đáo ư ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Pamper yourself with the basics .</s>
+<s id='vn5'>Hãy tự chăm sóc mình từ những bước cơ bản .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Good skin care and healthy lifestyle choices can help delay the natural aging process and prevent many skin problems .</s>
+<s id='vn6'>Việc chăm chút làn da và lựa chọn phong cách sống lành mạnh có thể kéo dài quá trình lão hóa tự nhiên và ngăn ngừa nhiều vấn đề về da .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Get started with these five no-nonsense tips .</s>
+<s id='vn7'>Hãy bắt đầu bằng năm bí quyết cơ bản sau .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>1 . Protect yourself from the sun</s>
+<s id='vn8'>1 . Tránh ánh nắng mặt trời</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The most important way to take care of your skin is to protect it from the sun .</s>
+<s id='vn9'>Cách quan trọng nhất để chăm sóc da bạn là bảo vệ nó khỏi ánh nắng mặt trời .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>A lifetime of sun exposure can cause wrinkles , freckles , age spots and rough , dry skin .</s>
+<s id='vn10'>Việc phô bày da ra ánh nắng mặt trời có thể làm nhăn da , tàn nhang , đồi mồi và da khô ráp xù xì .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Sun exposure can also cause more-serious problems , such as skin cancer .</s>
+<s id='vn11'>Ánh sáng mặt trời cũng gây ra nhiều vấn đề nghiêm trọng hơn như ung thư da .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>For the most complete sun protection :</s>
+<s id='vn12'>Cách bảo vệ da hoàn toàn khỏi ánh nắng mặt trời :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Avoid the sun between 10 a.m. and 4 p.m.</s>
+<s id='vn13'>Tránh ánh mặt trời từ 10 giờ sáng đến 4 giờ chiều .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This is when the sun 's rays are the strongest .</s>
+<s id='vn14'>Đây là khoảng thời gian của những tia nắng nóng gắt nhất .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Wear protective clothing .</s>
+<s id='vn15'>Mặc quần áo bảo vệ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Cover your skin with tightly long-sleeved shirts , long pants and wide-brimmed hats .</s>
+<s id='vn16'>Mặc áo sơ mi kín tay dài , quần dài và đội mũ rộng vành .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>You might also opt for special sun-protective clothing , which is specifically designed to block ultraviolet rays while keeping you cool and comfortable .</s>
+<s id='vn17'>Bạn cũng có thể chọn quần áo đặc biệt dùng để bảo vệ da khỏi ánh nắng mặt trời được thiết kế đặc biệt để ngăn tia tử ngoại mà còn làm cho bạn cảm thấy mát mẻ và thoải mái nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Use sunscreen when you 're in the sun .</s>
+<s id='vn18'>Dùng mỹ phẩm chống nắng khi bạn tiếp xúc với ánh nắng mặt trời .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Apply the sunscreen 30 minutes before going outdoors and reapply every two hours , after heavy sweating or after being in water .</s>
+<s id='vn19'>Dùng kem chống nắng 30 phút trước khi đi ra ngoài và cứ 2 tiếng đồng hồ thì xức kem lại , sau khi bạn ra mồ hôi nhiều hoặc sau khi xuống nước .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>2 . Do n't smoke</s>
+<s id='vn20'>2 . Không hút thuốc</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Smoking makes your skin look older and contributes to wrinkles .</s>
+<s id='vn21'>Hút thuốc làm cho da của bạn trông có vẻ bị lão hoá hơn và làm cho da nhăn nữa .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Smoking narrows the tiny blood vessels in the outermost layers of skin , which decreases blood flow .</s>
+<s id='vn22'>Việc hút thuốc làm hẹp những mạch máu nhỏ li ti ở lớp da ngoài cùng , làm giảm lưu lượng máu .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>This depletes the skin of oxygen and nutrients , such as vitamin A , that are important to skin health .</s>
+<s id='vn23'>Điều này làm da giảm ô-xy và chất dinh dưỡng trên da , như vi-ta-min A , vốn quan trọng cho một làn da khỏe mạnh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Smoking also damages collagen and elastin - fibers that give your skin its strength and elasticity .</s>
+<s id='vn24'>Việc hút thuốc cũng hủy hoại collagen và elastin - đây là chất xơ giúp cho da bạn khỏe và đàn hồi tốt .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In addition , the repetitive facial expressions you make when smoking - such as pursing your lips when inhaling and squinting your eyes to keep out smoke - may contribute to wrinkles .</s>
+<s id='vn25'>Ngoài ra , khi bạn hút thuốc thì nét mặt bạn cứ lặp đi lặp lại việc bặm môi nuốt khói và nheo mắt tránh khói - có thể khiến da bạn nhăn thêm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If you smoke , the best way to protect your skin is to quit .</s>
+<s id='vn26'>Nếu bạn hút thuốc thì cách tốt nhất để bảo vệ da là bỏ thuốc đi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Ask your doctor for tips or treatments to help you stop smoking .</s>
+<s id='vn27'>Hãy hỏi ý kiến bác sĩ của bạn để tìm phương pháp điều trị hoặc bí quyết để giúp bạn bỏ thuốc lá .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>3 . Treat your skin gently</s>
+<s id='vn28'>3 . Chăm sóc da bạn nhẹ nhàng</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Daily cleansing and shaving can take a toll on your skin , so keep it gentle :</s>
+<s id='vn29'>Việc rửa mặt và cạo râu hàng ngày có thể gây ảnh hưởng xấu đến da của bạn , thế nên hãy chăm sóc da nhẹ nhàng nhé :</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Limit bath time .</s>
+<s id='vn30'>Hạn chế thời gian tắm rửa .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Hot water and long showers or baths remove oils from your skin .</s>
+<s id='vn31'>Việc tắm lâu bằng nước nóng làm tẩy lớp dầu trên da của bạn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Limit your bath or shower time , and use warm - rather than hot - water .</s>
+<s id='vn32'>Hãy hạn chế thời gian tắm rửa , dùng nước ấm tốt hơn là nước nóng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Avoid strong soaps .</s>
+<s id='vn33'>Tránh dùng xà bông tẩy mạnh .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Strong soaps can strip oil from your skin .</s>
+<s id='vn34'>Xà bông tẩy mạnh có thể tẩy lớp dầu trên da của bạn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Instead , choose mild cleansers .</s>
+<s id='vn35'>Thay vào đó , hãy dùng chất tẩy rửa nhẹ nhàng nhé .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Shave carefully .</s>
+<s id='vn36'>Cạo râu cẩn thận .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>To protect and lubricate your skin , apply shaving cream , lotion or gel before shaving .</s>
+<s id='vn37'>Để bảo vệ và giúp da trơn láng , hãy dùng kem cạo râu , kem dưỡng da hoặc gel trước khi cạo .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>For the shave , use a clean , sharp razor .</s>
+<s id='vn38'>Để cạo râu , hãy dùng chiếc dao cạo sắc và sạch sẽ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Shave in the direction the hair grows , not against it .</s>
+<s id='vn39'>Cạo theo chiều râu mọc , đừng cạo ngược lại .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Pat dry .</s>
+<s id='vn40'>Vỗ nhẹ da cho khô : .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>After washing or bathing , gently pat or blot your skin dry with a towel so that some moisture remains on your skin .</s>
+<s id='vn41'>Sau khi tắm rửa xong , hãy vỗ hoặc lau thấm da nhẹ nhàng bằng khăn tắm để giữ độ ẩm cho da của bạn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Moisturize dry skin .</s>
+<s id='vn42'>Dưỡng ẩm cho da khô .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Find a moisturizer that fits your skin type and makes your skin look and feel soft .</s>
+<s id='vn43'>Hãy tìm loại kem dưỡng ẩm phù hợp với loại da bạn và làm cho da có cảm giác mềm hơn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>4 . Eat a healthy diet</s>
+<s id='vn44'>4 . Có chế độ ăn uống khỏe mạnh</s>
+</spair>
+<spair id='45'>
+<s id='en45'>A healthy diet can help you look and feel your best .</s>
+<s id='vn45'>Chế độ ăn uống khỏe mạnh có thể giúp bạn cảm thấy khoẻ khoắn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Eat plenty of fruits , vegetables , whole grains and lean proteins .</s>
+<s id='vn46'>Ăn nhiều trái cây , rau quả , tất cả các loại ngũ cốc và prô-tê-in thịt nạc .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The association between diet and acne is n't clear - but research suggests that a diet rich in vitamin C and low in fats and carbohydrates may promote younger looking skin .</s>
+<s id='vn47'>Sự liên quan giữa chế độ ăn uống và chứng mụn trứng cá chẳng rõ rệt - nhưng công trình nghiên cứu nghĩ rằng chế độ dinh dưỡng giàu vi-ta-min C , ít chất béo và hyđrat-cacbon thấp có thể làm cho da trẻ hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>5 . Manage stress</s>
+<s id='vn48'>5 . Giải toả căng thẳng</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Uncontrolled stress can make your skin more sensitive and trigger acne breakouts and other skin problems .</s>
+<s id='vn49'>Tâm trạng căng thẳng không kiểm soát được có thể làm cho da trở nên nhạy cảm hơn và làm phát sinh mụn và nhiều vấn đề khác về da nữa .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>To encourage healthy skin - and a healthy state of mind - takes steps to manage your stress .</s>
+<s id='vn50'>Để có được làn da khỏe mạnh - và một tâm trạng tốt - hãy từng bước giải toả căng thẳng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Set reasonable limits , scale back your to-do list and make time to do the things you enjoy .</s>
+<s id='vn51'>Đưa ra giới hạn hợp lý , hạn chế danh sách việc làm của bạn và làm những việc mà bạn yêu thích .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The results may be more dramatic than you expect .</s>
+<s id='vn52'>Kết quả có thể thú vị hơn bạn nghĩ đấy .</s>
+</spair>
+</text>
+</doc>

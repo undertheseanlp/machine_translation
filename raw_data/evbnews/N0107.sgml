@@ -1,0 +1,84 @@
+﻿<doc id='N0107'>
+<head>
+<title>Cuba passenger plane crash kills all 68 people on board</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Cuba passenger plane crash kills all 68 people on board</s>
+<s id='vn1'>Vụ tai nạn máy bay ở Cuba làm thiệt mạng tất cả 68 hành khách trên khoang</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A Cuban passenger plane has crashed in the centre of the country , killing all 68 people on board , officials say .</s>
+<s id='vn2'>Các viên chức cho biết một chiếc máy bay chở hành khách ở Cuba đã rơi ngay trung tâm quốc gia này , làm thiệt mạng tất cả 68 người trên khoang .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Rescuers found no survivors when they reached the site of the crash , Cuba 's Civil Aviation Authority said .</s>
+<s id='vn3'>Nhân viên cứu hộ đã không tìm thấy bất cứ người nào còn sống sót khi họ đến hiện trường vụ tai nạn , theo Cục hàng không dân dụng Cuba cho biết .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The state-run Aerocaribbean aircraft had been flying from the eastern city of Santiago de Cuba to Havana .</s>
+<s id='vn4'>Chiếc máy bay Aerocaribbean thuộc quốc doanh đang bay đến Havana từ thành phố phía tây của Santiago de Cuba .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The passengers included 28 foreigners .</s>
+<s id='vn5'>Trong đó có 28 hành khách là người nước ngoài .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The other 33 passengers and seven crew members were all Cuban .</s>
+<s id='vn6'>Còn 33 hành khách khác và 7 thành viên phi hành đoàn đều là người Cuba .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There is no word on the cause of the crash .</s>
+<s id='vn7'>Nguyên nhân vụ tai nạn đang được điều tra .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The French-built ATR twin turboprop went down late on Thursday local time in mountains near the town of Guasimal in Santi Spiritus province .</s>
+<s id='vn8'>Động cơ tua-bin cánh quạt ghép đôi ATR do Pháp sản xuất rơi vào cuối ngày thứ Năm theo giờ địa phương ở ngọn núi gần thị trấn Guasimal thuộc tỉnh Santi Spiritus .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Many of the 61 passengers it was carrying are believed to have been tourists .</s>
+<s id='vn9'>Phần nhiều trong số 61 hành khách được cho là khách du lịch .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>A Civil Aviation Authority statement said the foreigners on the passenger list included nine Argentines , seven Mexicans , three Dutch citizens , two Germans , two Austrians , a French citizen , an Italian , a Spaniard , a Venezuelan and a Japanese citizen .</s>
+<s id='vn10'>Một nhân viên Cục Hàng không dân dụng cho biết những hành khách nước ngoài trong danh sách gồm có 9 người Argentina , bảy người Mê-hi-cô , 3 công dân người Hà Lan , 2 người Đức , 2 người Áo , một người Pháp , Ý , Tây Ban Nha , Venezuela và Nhật Bản .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The twice-weekly flight 883 had originated in Port-au-Prince in Haiti and stopped over in Santiago .</s>
+<s id='vn11'>Chuyến bay 883 bay hai lần một tuần khởi hành ở Port-au-Prince , Haiti và dừng ở Santiago .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The pilot reported an emergency before contact was lost .</s>
+<s id='vn12'>Phi hành gia đã báo cáo tình trạng khẩn cấp trước khi mất liên lạc .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Emergency crews and local residents had to use bulldozers to cut through thick vegetation to reach the crash scene , Cuban media say .</s>
+<s id='vn13'>Truyền thông Cuba đưa tin đội cứu hộ khẩn cấp và dân địa phương phải dùng xe ủi đất cắt bớt cây cối rậm rạp để tiếp cận hiện trường vụ tai nạn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They pulled bodies from the wreckage but found no-one alive .</s>
+<s id='vn14'>Họ kéo các thi thể ra khỏi đống đổ nát nhưng không tìm thấy người nào còn sống sót .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>One eyewitness described the crash site as " a ball of flame in the middle of the mountain " .</s>
+<s id='vn15'>Một người chứng kiến mô tả hiện trường vụ tai nạn như là " quả cầu lửa giữa ngọn núi " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It is not clear if bad weather was a factor in the crash .</s>
+<s id='vn16'>Không rõ liệu thời tiết xấu có phải là nhân tố tạo nên vụ tai nạn hay không .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>A tropical storm warning had been issued in Santiago de Cuba province where the plane took off .</s>
+<s id='vn17'>Tỉnh Santiago de Cuba đã cảnh báo về cơn bão nhiệt đới nơi chiếc máy bay cất cánh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" At the moment , aviation and regional authorities are gathering the facts and details and have created a commission to investigate such a regrettable accident , " the Civil Aviation Authority statement said .</s>
+<s id='vn18'>" Hiện tại , hãng hàng không và các chính quyền trong khu vực đang thu thập thông tin chính xác và lập ủy ban điều tra về vụ tai nạn đáng tiếc này , " theo lời phát biểu của Cục hàng không dân dụng nói .</s>
+</spair>
+</text>
+</doc>

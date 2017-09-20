@@ -1,0 +1,92 @@
+﻿<doc id='N0456'>
+<head>
+<title>Falling in love costs you friends</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Falling in love costs you friends</s>
+<s id='vn1'>Yêu dẫn đến sự mất mát tình bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Falling in love comes at the cost of losing two close friends , a study says .</s>
+<s id='vn2'>Theo một nghiên cứu cho hay yêu dẫn đến việc bạn phải hy sinh mất hai người bạn thân .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>We probably all know that a passionate new relationship can leave you little time for others , but now science has put some numbers on the observation .</s>
+<s id='vn3'>Có lẽ tất cả chúng ta đều biết rằng một mối quan hệ mới nồng nhiệt có thể khiến bạn dành ít thời gian cho những mối quan hệ khác và giờ đây khoa học đã chứng minh nó bằng con số cụ thể dựa trên kết quả quan sát .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Oxford University researchers asked people about their inner core of friendships and how this number changed when romance entered the equation .</s>
+<s id='vn4'>Các nhà nghiên cứu ở trường Đại Học Oxford đã hỏi mọi người về điều cốt lõi bên trong của tình bạn và con số này đã thay đổi như thế nào khi chuyện yêu đương xen vào trạng thái cân bằng này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They found the core , which numbers about five people , dropped by two as a new lover came to dominate daily life .</s>
+<s id='vn5'>Họ tìm thấy điều cốt lõi trong con số khoảng 5 người , trong đó hai người bị bỏ rơi khi một người yêu mới đến chi phối cuộc sống hàng ngày của người đó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" People who are in romantic relationships - instead of having the typical five ( individuals ) on average , they only have four in that circle , " explained Robin Dunbar , a professor of evolutionary anthropology at Oxford .</s>
+<s id='vn6'>" Những người đang có mối quan hệ yêu đương - thay vì trung bình có năm người thì họ chỉ còn bốn người trong nhóm người đó " , theo như giáo sư về nhân chủng học tiến hoá Robin Dunbai ở trường Oxford giải thích .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" And bearing in mind that one those is the new person that 's come into your life , it means you 've had to give up two others . "</s>
+<s id='vn7'>" Và hãy nhớ rằng một người trong số đó là một người mới đã đi vào cuộc sống của bạn , điều này có nghĩa là bạn phải từ bỏ hai người kia . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The research , which has only recently been submitted for publication , was presented to the British Science Festival at Aston University .</s>
+<s id='vn8'>Nghiên cứu này chỉ vừa mới đưa ra xem xét để xuất bản và đã được trình bày ở Hội nghị Khoa học Anh tại trường Đại Học Aston .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Professor Dunbar 's group studies social networks and how we manage their size and composition .</s>
+<s id='vn9'>Nhóm nghiên cứu của giáo sư Dunbar đã thực hiện trên mạng xã hội và nghiên cứu cách chúng ta giải quyết chuẩn mực cân đo và sự bố trí của họ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He has previously shown that the maximum number of friends it is realistically possible to engage is about 150 .</s>
+<s id='vn10'>Trước đây ông đã chỉ ra số bạn bè tối đa trên thực tế có thể tham gia vào mạng xã hội là khoảng 150 người .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>On the social networking site Facebook , for example , people will typically have 120-130 friends .</s>
+<s id='vn11'>Chẳng hạn như trên trang mạng xã hội Facebook , mỗi người thường có từ 120-130 người bạn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This number can be divided into progressively smaller groups , with an inner clique numbering between four and six .</s>
+<s id='vn12'>Con số này có thể dần dần chia thành các nhóm nhỏ hơn với một nhóm bên trong gồm khoảng từ bốn đến sáu người .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>These are people who we see at least once a week ; people we go to at moments of crisis .</s>
+<s id='vn13'>Đây là nhóm người chúng ta gặp ít nhất một lần một tuần ; đó là người mà chúng ta tìm đến vào những lúc khủng hoảng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The next layer out are the people we see about once a month - the " sympathy group " .</s>
+<s id='vn14'>Lớp kế tiếp là những người chúng ta gặp khoảng một tháng một lần - gọi là " nhóm cảm thông " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>They are all the people who , if they died tomorrow , we would miss and be upset about .</s>
+<s id='vn15'>Họ là những người mà nếu ngày mai họ không còn trên đời này nữa thì chúng ta sẽ đau buồn và nhớ thương họ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the latest study , the team questioned 540 participants , aged 18 and over , about their relationships and the strain those relationships came under when a new romantic engagement was started .</s>
+<s id='vn16'>Trong một nghiên cứu mới đây , nhóm nghiên cứu đã hỏi 540 người tham gia ở độ tuổi từ 18 tuổi trở lên về mối quan hệ của họ và chiều hướng các mối quan hệ đó bị ảnh hưởng khi hẹn hò yêu đương bắt đầu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The results confirmed the widely held view that love can lead to a smaller support network , with typically one family member and one friend being pushed out to accommodate the new lover .</s>
+<s id='vn17'>Kết quả xác nhận nhiều quan điểm được cho rằng tình yêu có thể dẫn đến một nhóm người ủng hộ ít hơn , thường có một thành viên trong gia đình và một người bạn bị bỏ rơi để thích ứng với người yêu mới .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" The intimacy of a relationship - your emotional engagement with it - correlates very tightly with the frequency of your interactions with those individuals , " observed Professor Dunbar .</s>
+<s id='vn18'>" Mối quan hệ thân mật là trạng thái cảm xúc của bạn với nó - tương quan rất chặt chẽ với tần số tương tác của bạn với những người đó , " theo như quan sát của giáo sư Dunbar .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" If you do n't see people , the emotional engagement starts to drop off , and quickly .</s>
+<s id='vn19'>" Nếu bạn không gặp mọi người thì trạng thái cảm xúc của bạn bắt đầu giảm xuống nhanh chóng " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" What I suspect happens is that your attention is so wholly focussed on your romantic partner that you just do n't get to see the other folks you have a lot to do with , and therefore some of those relationships just start to deteriorate and drop down into the layer below . "</s>
+<s id='vn20'>" Những điều tôi cho rằng xảy ra là bạn quá tập trung hoàn toàn vào người yêu đến nỗi bạn không đến gặp người khác mà bạn có nhiều điều phải làm với họ và vì vậy vài mối quan hệ trong số đó bắt đầu trở nên xấu hơn và rơi vào lớp bên dưới " .</s>
+</spair>
+</text>
+</doc>

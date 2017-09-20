@@ -1,0 +1,164 @@
+﻿<doc id='N0051'>
+<head>
+<title>The Straits Times ( Singapore )</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Straits Times ( Singapore )</s>
+<s id='vn1'>The Straits Times ( Singapore )</s>
+</spair>
+<spair id='2'>
+<s id='en2'>August 14 , 2009 Friday</s>
+<s id='vn2'>thứ Sáu , Ngày 14 tháng tám năm 2009</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Why Chimerica remains a chimera</s>
+<s id='vn3'>Tại sao Chimerica vẫn là ảo tưởng</s>
+</spair>
+<spair id='4'>
+<s id='en4'>William Choong , Senior Writer</s>
+<s id='vn4'>William Choong , trưởng ban biên tập</s>
+</spair>
+<spair id='5'>
+<s id='en5'>IN THE early 1990s , when Washington debated the alternatives of engaging or containing China , some clever wits suggested a hybrid : " congagement " .</s>
+<s id='vn5'>Vào đầu thập niên 90 , khi Washington bàn về các biện pháp lôi kéo hoặc ngăn cản Trung Quốc , có vài kẻ hóm hỉnh lanh trí đã đề nghị một cụm từ ghép là " vừa lôi vừa chận " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Later , former president George W. Bush proposed that China was a " strategic competitor " .</s>
+<s id='vn6'>Sau đó , cựu tổng thống George W. Bush gợi ý Trung Quốc là một " đối thủ chiến lược " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Now , no one disputes the notion that China and the United States are strategic partners .</s>
+<s id='vn7'>Bây giờ thì không còn ai tranh cãi về khái niệm Trung Quốc và Hoa Kỳ là đối tác chiến lược nữa .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The recently concluded Strategic and Economic Dialogue between Washington and Beijing will be cheered by Asians .</s>
+<s id='vn8'>Cuộc đối thoại giữa Washington và Bắc Kinh về Kinh tế và Chiến lược vừa mới kết thúc sẽ được người dân châu Á nhiệt liệt hoan nghênh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The dialogue - which has progressed from being a purely economic dialogue to one that covers strategic issues as well - indicates the two countries are now committed to a formal mechanism to work on a broad spectrum of issues .</s>
+<s id='vn9'>Cuộc đối thoại này - từ chỗ đối thoại đơn thuần về kinh tế đã tiến tới bao luôn cả những vấn đề về chiến lược - chứng tỏ hai nước đang tự ràng buộc mình vào một cơ cấu chính thức để cùng quan tâm đến hàng loạt vấn đề .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In all , government-to-government linkages between the two countries involve 60 bilateral dialogues .</s>
+<s id='vn10'>Nhìn chung , quan hệ giữa chính phủ hai nước đòi hỏi đến 60 cuộc đối thoại song phương .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The US and China also see eye to eye on diverse issues such as counter-terrorism , the management of North Korea 's nuclear programme and anti-piracy deployments in the Gulf of Aden .</s>
+<s id='vn11'>Hoa Kỳ và Trung Quốc cũng đồng thuận với nhau về nhiều vấn đề như chống khủng bố , quản lý chương trình hạt nhân của Bắc Triều Tiên và triển khai chống cướp biển trong vịnh Aden .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>No wonder , some commentators have begun to speculate of the US and China constituting a G-2 - or " Chimerica " as economic historian Niall Ferguson calls the condominium .</s>
+<s id='vn12'>Chẳng có gì lạ khi , một số nhà bình luận đã bắt đầu xem xét việc Hoa Kỳ và Trung Quốc liên kết với nhau thành G-2 - hoặc " Chimerica " , như nhà nghiên cứu lịch sử kinh tế Niall Ferguson đã gọi là tập đoàn lưỡng đầu chế .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Dr Zbigniew Brzezinski , a former US national security adviser , argues that a G-2 could help address a number of challenges , from the global financial crisis to the proliferation of weapons of mass destruction .</s>
+<s id='vn13'>Tiến sĩ Zbigniew Brzezinski , cựu cố vấn an ninh quốc gia Hoa Kỳ , biện luận rằng G-2 có thể góp phần giải quyết một số thách thức , từ nạn khủng hoảng tài chính toàn cầu cho đến việc triển khai vũ khí huỷ diệt hàng loạt .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Such arguments are not entirely convincing .</s>
+<s id='vn14'>Những lý lẽ như thế chưa hẳn đã có sức thuyết phục .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Lord Palmerston 's rubric - countries have no permanent friends , only permanent interests - still rings true .</s>
+<s id='vn15'>Quan niệm của Lord Palmerston - các quốc gia không hề có bạn bè muôn đời , mà chỉ có lợi ích đời đời - xem ra vẫn có lý .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Currently , the crux of the Sino-American relations is not really strategic but economic : the US is the world 's biggest debtor , while China is America 's biggest lender .</s>
+<s id='vn16'>Hiện nay , vấn đề nan giải trong quan hệ Trung-Mỹ không hẳn là về chiến lược mà là về kinh tế : Hoa Kỳ là con nợ lớn nhất thế giới , trong khi Trung Quốc lại là chủ nợ lớn nhất của Hoa Kỳ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Former diplomat Christopher Clarke has suggested that the Sino-US financial symbiosis is more like a " mutual death grip in which neither side dares make a precipitous move for fear of going over the cliff with the other " .</s>
+<s id='vn17'>Christopher Clarke , người từng là một nhà ngoại giao , đã gợi ý rằng quan hệ cộng sinh tài chính Hoa-Mỹ chẳng khác nào " cố bám víu nhau mà chẳng bên nào dám nhích tới vì sợ cả hai cùng vuột khỏi vách đá " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>We had a 3/4 week 3/4 week of it</s>
+<s id='vn18'>Mùa này thật là toàn hảo</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This is understandable .</s>
+<s id='vn19'>Điều này cũng dễ hiểu thôi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The US , being a mendicant borrower , cannot be talking back harshly to its bankers in Beijing .</s>
+<s id='vn20'>Hoa Kỳ đang cầu cạnh để vay tiền , nên không thể trả treo gay gắt với nhà cái của mình ở Bắc Kinh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If a US-China condominium were to emerge , it would ring alarm bells across the region , particularly in long-term allies of Washington such as Japan , Australia and South Korea .</s>
+<s id='vn21'>Nếu tập đoàn lưỡng đầu chế Mỹ-Trung trỗi dậy , như vậy khắp vùng này sẽ phải báo động , nhất là ở các nước đồng minh lâu đời của Washington như Nhật Bản , Úc và Nam Triều Tiên .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In the past decade , it has been fashionable to suggest that China might seek to undermine America 's alliance relationships in Asia .</s>
+<s id='vn22'>Trong thập niên qua , người ta thường cho rằng Trung Quốc có thể tìm cách phá hoại các quan hệ đồng minh của Mỹ ở châu Á .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But as Mr Dennis Wilder , formerly the senior director for East Asian affairs at the US National Security Council , has pointed out , the opposite is more likely .</s>
+<s id='vn23'>Nhưng như ông Dennis Wilder , cựu vụ trưởng Vụ Đông Á thuộc Hội đồng an ninh quốc gia Hoa Kỳ , đã chỉ ra , có thể ngược lại là đằng khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He writes : " A more realistic Chinese goal may be to create a partnership with the US in which our Asian allies , such as Japan , South Korea , Australia , Thailand and the Philippines , are relegated to a subordinate status and the US and China would share Asian pre-eminence - at least for a time . "</s>
+<s id='vn24'>Ông ấy viết : " Có thể mục tiêu thực tế hơn nữa của Trung Quốc là lập liên minh với Hoa Kỳ , trong đó các đồng minh châu Á của chúng tôi , chẳng hạn như Nhật Bản , Nam Triều Tiên , Úc , Thái Lan và Philippines , bị liệt vào địa vị thấp hơn , rồi Hoa Kỳ và Trung Quốc sẽ cùng nhau ăn trên ngồi trước ở châu Á - ít nhất cũng được một thời gian . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The first country to suffer from this would be Japan , which for decades has banked on its relationship with the US to pre-empt any external threat .</s>
+<s id='vn25'>Quốc gia đầu tiên có thể thiệt thòi vì chuyện này sẽ là Nhật Bản , vì nước này suốt mấy chục năm đã bỏ tiền ra chơi với Mỹ để ngăn ngừa mọi mối đe doạ từ bên ngoài .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If a G-2 were to emerge , Japan may even break its vow never to possess nuclear weapons .</s>
+<s id='vn26'>Nếu G-2 trỗi dậy thật , chưa biết chừng Nhật Bản sẽ nuốt lời cam kết trước đây là không bao giờ có vũ khí hạt nhân .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>A G-2 condominium will also worry the Asian countries that have staked claims to disputed territories in the South China Sea .</s>
+<s id='vn27'>Tập đoàn lưỡng đầu chế G-2 cũng sẽ gây lo lắng cho những quốc gia châu Á nào từng đòi quyền sở hữu đối với những lãnh thổ tranh chấp ở Nam Hải .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>China recently criticised claims made by Malaysia and Vietnam on disputed seabed and subsoil resources in that vital body of water .</s>
+<s id='vn28'>Gần đây Trung Quốc có chỉ trích các yêu cầu của Malaysia và Việt Nam về đáy biển và tài nguyên dưới lòng đất đang trong vòng tranh chấp ở vùng biển quan trọng đó .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>No one can quite imagine what would ensue if the security situation in the South China Sea were to deteriorate and the US were to look away as China contemplates the use of force against rival disputants .</s>
+<s id='vn29'>Không ai có thể tưởng tượng hết những diễn biến tiếp theo nếu tình hình an ninh ở Nam Hải xấu đi và Hoa Kỳ sẽ quay mặt đi khi Trung Quốc tính đến việc dùng vũ lực đè bẹp các đối thủ đang tranh chấp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>On_the bright side , it is unlikely that the G-2 will emerge anytime soon .</s>
+<s id='vn30'>Lạc quan mà nói , chưa chắc G-2 sẽ trỗi dậy sớm được .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>For one , the security dilemma between the US and China still runs deep , with each of them questioning the motivation behind the other 's military posture in the Asia-Pacific .</s>
+<s id='vn31'>Chẳng qua là vì Hoa Kỳ và Trung Quốc vẫn đang tiến thoái lưỡng nan về vấn đề an ninh , bởi bên này vẫn còn nghi ngờ động cơ đằng sau lập trường quân sự của bên kia ở Châu Á - Thái Bình Dương .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Writing in Foreign Affairs in June , Ms Elizabeth Economy and Dr Adam Segal of the Council for Foreign Relations argued that the gulf in interests , values and capabilities between the two countries would prevent them from moving towards a great power condominium .</s>
+<s id='vn32'>Viết trong bản tin Ngoại giao tháng sáu , cô Elizabeth Economy và tiến sĩ Adam Segal thuộc Hội đồng quan hệ đối ngoại biện luận rằng hố ngăn cách giữa hai nước về quyền lợi , giá trị và khả năng sẽ không cho phép họ tiến đến một tập đoàn lưỡng đầu chế hùng mạnh .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Speaking to The Straits Times recently , Admiral Timothy Keating , the commander of the US Pacific Command , seemed to concur .</s>
+<s id='vn33'>Phát biểu với The Straits Times gần đây , đô đốc Timothy Keating , người đứng đầu Bộ tư lệnh Thái Bình Dương Hoa Kỳ , có vẻ đồng tình như vậy .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>While saying he was encouraged by the candour of recent Sino-American diplomatic interactions , he rubbished the idea of a G-2 .</s>
+<s id='vn34'>Tuy cho rằng mình phấn chấn vì tính thẳng thắn trong quan hệ ngoại giao Trung-Mỹ gần đây , nhưng ông vẫn không ủng hộ ý tưởng G-2 .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" The notion that a G-2 is developing ... is not correct , " he said .</s>
+<s id='vn35'>" Khái niệm G-2 đang phát triển ... là không đúng , " ông đã nói như vậy .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" We are much more interested in multilateral and collaborative efforts , involving all our friends and allies in the Asia-Pacific region , and not only US-China relations . "</s>
+<s id='vn36'>" Chúng tôi quan tâm hơn nữa đến nỗ lực cộng tác đa phương , bao gồm tất cả bạn bè và đồng minh của chúng tôi ở khu vực Châu Á - Thái Bình Dương , chứ không chỉ có quan hệ Mỹ-Trung mà thôi . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>This might sound reassuring for many countries in Asia .</s>
+<s id='vn37'>Điều này nghe có vẻ như trấn an nhiều quốc gia ở châu Á .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Their view of US-Sino relations will long adhere to the Goldilocks principle : not too cold , not too hot , but just nice .</s>
+<s id='vn38'>Cái nhìn của họ về quan hệ Mỹ-Trung rồi cũng sẽ theo nguyên tắc Goldilocks : không quá lạnh nhạt , không quá nồng nhiệt , chỉ cần ấm áp mà thôi .</s>
+</spair>
+</text>
+</doc>

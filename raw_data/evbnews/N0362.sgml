@@ -1,0 +1,308 @@
+﻿<doc id='N0362'>
+<head>
+<title>2 . How Banks Make Money ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>2 . How Banks Make Money ?</s>
+<s id='vn1'>2 . Ngân hàng kiếm tiền như thế nào ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>As mentioned before , banks basically make money by lending money at rates higher than the cost of the money they lend .</s>
+<s id='vn2'>Như đã đề cập , về cơ bản ngân hàng kiếm tiền bằng cách cho vay tiền với lãi suất cao hơn chi phí vay số tiền họ cho vay đó .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>More specifically , banks collect interest on loans and interest payments from the debt securities they own , and pay interest on deposits , and short-term borrowings .</s>
+<s id='vn3'>Cụ thể hơn , ngân hàng thu lãi các khoản cho vay và tiền trả lãi từ chứng khoán nợ họ sở hữu , và trả lãi tiền gửi , các chứng chỉ tiền gửi , và tiền vay ngắn hạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The difference is known as the " spread , " or the net interest income , and when that net interest income is divided by the bank 's earning assets , it is known as the net interest margin .</s>
+<s id='vn4'>Sự chênh lệch ấy được coi là " lợi nhuận do chênh lệch phí " hay thu nhập lãi ròng , và là tỷ lệ thu nhập lãi cận biên khi chia thu nhập lãi ròng cho tài sản tạo ra thu nhập của ngân hàng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Deposits</s>
+<s id='vn5'>Tiền gửi</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The largest source by far of funds for banks is deposits ; money that account holders entrust to the bank for safekeeping and use in future transactions , as well as modest amounts of interest .</s>
+<s id='vn6'>Nguồn tiền lớn nhất của ngân hàng là tiền gửi ; tiền các chủ tài khoản giao phó cho ngân hàng cất giữ an toàn và dùng trong các giao dịch tương lai , cũng như số tiền lãi khiêm tốn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Generally referred to as " core deposits , " these are typically the checking and savings accounts that so many people currently have .</s>
+<s id='vn7'>Tên gọi thông thường là " số tiền gửi cơ sở " , chúng thường là tài khoản tiết kiệm và tài khoản vãng lai mà rất nhiều người hiện nay có .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In most cases , these deposits have very short terms .</s>
+<s id='vn8'>Trong hầu hết các trường hợp , những khoản tiền gửi này có thời hạn rất ngắn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>While people will typically maintain accounts for years at a time with a particular bank , the customer reserves the right to withdraw the full amount at any time .</s>
+<s id='vn9'>Mặc dù mọi người mỗi lần thường giữ tài khoản trong nhiều năm với một ngân hàng cụ thể nào đó , nhưng khách hàng lại có quyền rút đủ số tiền bất kỳ lúc nào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Customers have the option to withdraw money upon demand and the balances are fully insured , up to $ 250,000 , therefore , banks do not have to pay much for this money .</s>
+<s id='vn10'>Khách hàng có quyền lựa chọn rút tiền theo nhu cầu và số dư được bảo đảm đầy đủ , lên tới 250,000 đô la , vì vậy , ngân hàng không phải trả lãi nhiều cho số tiền này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Many banks pay no interest at all on checking account balances , or at least pay very little , and pay interest rates for savings accounts that are well below U.S. Treasury bond rates .</s>
+<s id='vn11'>Nhiều ngân hàng không trả chút tiền lãi nào đối với số dư tài khoản vãng lai , hoặc có chăng là trả rất ít , và thanh toán lãi suất tài khoản tiết kiệm thấp hơn nhiều so với lãi suất trái phiếu kho bạc Hoa Kỳ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Wholesale Deposits</s>
+<s id='vn12'>Tiền gửi số lượng lớn</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If a bank cannot attract a sufficient level of core deposits , that bank can turn to wholesale sources of funds .</s>
+<s id='vn13'>Nếu ngân hàng không thể thu hút đủ mức tiền gửi cơ sở , thì có thể tìm đến những nguồn vốn quy mô lớn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In many respects these wholesale funds are much like interbank CDs .</s>
+<s id='vn14'>Trong nhiều phương diện , số vốn lớn này rất giống các chứng chỉ tiền gửi liên ngân hàng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There is nothing necessarily wrong with wholesale funds , but investors should consider what it says about a bank when it relies on this funding source .</s>
+<s id='vn15'>Chẳng có vấn đề gì với vốn quy mô lớn cả , nhưng nhà đầu tư nên chú ý xem nó nói lên điều gì về ngân hàng khi ngân hàng ấy dựa vào nguồn vốn này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>While some banks de-emphasiz​e the branch-based deposit-gathering model , in favor of wholesale funding , heavy reliance on this source of capital can be a warning that a bank is not as competitive as its peers .</s>
+<s id='vn16'>Khi một số ngân hàng không mấy chú trọng mô hình thu nhận tiền gửi dựa vào chi nhánh , mà thiên về vốn quy mô lớn , thì việc lệ thuộc quá nhiều vào nguồn vốn này có thể là một cảnh báo : ngân hàng nào đó không có sức cạnh tranh như những ngân hàng khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Investors should also note that the higher cost of wholesale funding means that a bank either has to settle for a narrower interest spread , and lower profits , or pursue higher yields from its lending and investing , which usually means taking on greater risk .</s>
+<s id='vn17'>Nhà đầu tư cũng nên lưu ý điều này : chi phí vốn quy mô lớn cao hơn có nghĩa là ngân hàng phải chấp nhận chênh lệch lãi suất ít hơn , và lợi nhuận thấp hơn , hoặc phải đeo đuổi những khoản lợi nhuận cao hơn từ đầu tư và cho vay của mình mà thường đồng nghĩa với việc chịu rủi ro lớn hơn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Share Equity</s>
+<s id='vn18'>Vốn cổ phần</s>
+</spair>
+<spair id='19'>
+<s id='en19'>While deposits are the primary source of loanable funds for almost every bank , shareholder equity is an important part of a bank 's capital .</s>
+<s id='vn19'>Nếu như tiền gửi là nguồn vốn chính có thể cho vay đối với hầu hết các ngân hàng thì vốn cổ đông là bộ phận quan trọng trong vốn ngân hàng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Several important regulatory ratios are based upon the amount of shareholder capital a bank has and shareholder capital is , in many cases , the only capital that a bank knows will not disappear .</s>
+<s id='vn20'>Một số tỷ lệ theo quy định quan trọng được dựa vào số vốn cổ đông ngân hàng có và trong nhiều trường hợp , vốn cổ đông là vốn duy nhất mà ngân hàng biết đến sẽ không biến mất .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Common equity is straight forward .</s>
+<s id='vn21'>Vốn cổ phần phổ thông là thuật ngữ dễ hiểu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This is capital that the bank has raised by selling shares to outside investors .</s>
+<s id='vn22'>Đây là vốn ngân hàng đã huy động được bằng cách bán cổ phiếu cho nhà đầu tư bên ngoài .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>While banks , especially larger banks , do often pay dividends on their common shares , there is no requirement for them to do so .</s>
+<s id='vn23'>Mặc dù những ngân hàng , đặc biệt là ngân hàng lớn , thường xuyên trả cổ tức cho cổ phiếu phổ thông , nhưng không có quy định nào bắt buộc họ làm như vậy .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Banks often issue preferred shares to raise capital .</s>
+<s id='vn24'>Ngân hàng thường phát hành cổ phiếu ưu đãi để huy động vốn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>As this capital is expensive , and generally issued only in times of trouble , or to facilitate an acquisition , banks will often make these shares callable .</s>
+<s id='vn25'>Vì loại vốn này tốn kém và nhìn chung chỉ phát hành những khi gặp khó khăn , hay để tạo điều kiện thuận lợi cho hoạt động mua lại ngân hàng , nên ngân hàng thường sẽ làm cho những cổ phiếu này có thể thu hồi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>This gives the bank the right to buy back the shares at a time when the capital position is stronger , and the bank no longer needs such expensive capital .</s>
+<s id='vn26'>Việc này cho phép ngân hàng có quyền mua lại các cổ phiếu vào thời điểm tình hình vốn vững mạnh hơn , và ngân hàng không còn cần loại vốn đắt đỏ ấy nữa .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Equity capital is expensive , therefore , banks generally only issue shares when they need to raise funds for an acquisition , or when they need to repair their capital position , typically after a period of elevated bad loans .</s>
+<s id='vn27'>Vốn cổ phần tốn kém nên ngân hàng thường chỉ phát hành cổ phiếu khi họ cần huy động vốn cho một thương vụ thâu tóm , hoặc khi cần cải thiện tình hình vốn của mình , thường sau giai đoạn nợ xấu tăng cao .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Apart from the initial capital raised to fund a new bank , banks do not typically issue equity in order to fund loans .</s>
+<s id='vn28'>Ngoài vốn ban đầu huy động tài trợ cho một ngân hàng mới , ngân hàng thường không phát hành vốn cổ phần để tài trợ các khoản vay .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Debt</s>
+<s id='vn29'>Nợ</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Banks will also raise capital through debt issuance .</s>
+<s id='vn30'>Ngân hàng cũng sẽ huy động vốn thông qua phát hành nợ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Banks most often use debt to smooth out the ups and downs in their funding needs , and will call upon sources like repurchase agreements or the Federal Home Loan Bank system , to access debt funding on a short term basis .</s>
+<s id='vn31'>Ngân hàng thường sử dụng nợ để điều tiết nhu cầu vốn của mình nhất , và kêu gọi các nguồn như những hợp đồng mua lại hoặc hệ thống Ngân hàng Cho vay Mua nhà Liên bang để huy động vốn ngắn hạn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There is frankly nothing particularly unusual about bank-issued debt , and like regular corporations , bank bonds may be callable and/or convertible .</s>
+<s id='vn32'>Thực sự chẳng có gì quá đặc biệt về công cụ nợ ngân hàng phát hành , và giống như trái phiếu các công ty thông thường , trái phiếu ngân hàng cũng có thể thu hồi và/hoặc chuyển đổi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Although debt is relatively common on bank balance sheets , it is not a critical source of capital for most banks .</s>
+<s id='vn33'>Mặc dù nợ xuất hiện tương đối phổ biến trong bảng cân đối kế toán ngân hàng , nhưng nó không phải là một nguồn vốn then chốt đối với hầu hết các ngân hàng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Although debt/equity ratios are typically over 100 % in the banking sector , this is largely a function of the relatively low level of equity at most banks .</s>
+<s id='vn34'>Mặc dù tỷ lệ nợ so với vốn thường trên 100% trong lĩnh vực ngân hàng , nhưng tỷ lệ này chủ yếu có chức năng cho thấy mức vốn cổ đông tương đối thấp tại hầu hết các ngân hàng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Seen differently , debt is usually a much smaller percentage of total deposits or loans at most banks and is , accordingly , not a vital source of loanable funds .</s>
+<s id='vn35'>Được nhìn nhận một cách khác biệt , nợ thường là một tỷ lệ phần trăm nhỏ hơn rất nhiều trong tổng số tiền gửi hoặc tiền cho vay ở hầu hết các ngân hàng và vì vậy , không phải là nguồn kinh phí thiết yếu có thể cho vay .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Use of Funds</s>
+<s id='vn36'>Sử dụng tiền</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Loans</s>
+<s id='vn37'>Cho vay</s>
+</spair>
+<spair id='38'>
+<s id='en38'>For most banks , loans are the primary use of their funds and the principal way in which they earn income .</s>
+<s id='vn38'>Đối với hầu hết các ngân hàng , cho vay là mục đích chính trong việc sử dụng quỹ tiền của họ và là cách chủ yếu đem lại thu nhập cho họ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Loans are typically made for fixed terms , at fixed rates and are typically secured with real property ; often the property that the loan is going to be used to purchase .</s>
+<s id='vn39'>Các khoản cho vay thường được thực hiện theo những kỳ hạn nhất định , với những mức lãi suất cố định và thường được bảo đảm bằng bất động sản , thường là tài sản mà khoản cho vay sẽ được sử dụng để mua .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>While banks will make loans with variable or adjustable interest rates and borrowers can often repay loans early , with little or no penalty , banks generally shy away from these kinds of loans , as it can be difficult to match them with appropriate funding sources .</s>
+<s id='vn40'>Mặc dù ngân hàng sẽ cho vay với những lãi suất có thể thay đổi hoặc có thể điều chỉnh và người đi vay thường có thể trả tiền vay sớm , kèm theo mức tiền phạt nho nhỏ hoặc không bị phạt , nhưng nhìn chung các ngân hàng thường tránh các kiểu cho vay này , vì khó có thể bù trừ chúng với những nguồn cấp vốn thích hợp .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Part and parcel of a bank 's lending practices is its evaluation of the credit worthiness of a potential borrower and the ability to charge different rates of interest , based upon that evaluation .</s>
+<s id='vn41'>Phần quan trọng trong hoạt động cho vay của ngân hàng là đánh giá khả năng chi trả của người đi vay tiềm năng và khả năng tính các mức lãi suất khác nhau , dựa vào sự đánh giá đó .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>When considering a loan , banks will often evaluate the income , assets and debt of the prospective borrower , as well as the credit history of the borrower .</s>
+<s id='vn42'>Khi xem xét cho vay , ngân hàng sẽ đánh giá thu nhập , tài sản và nợ của người đi vay tương lai cũng như quá trình tín dụng của người vay .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The purpose of the loan is also a factor in the loan underwriting decision ; loans taken out to purchase real property , such as homes , cars , inventory , etc. , are generally considered less risky , as there is an underlying asset of some value that the bank can reclaim in the event of nonpayment .</s>
+<s id='vn43'>Mục đích của khoản vay cũng là một yếu tố trong việc quyết định bảo đảm cho vay ; tiền vay dùng để mua tài sản thực , chẳng hạn như nhà cửa , xe cộ , hàng tồn kho , v.v. thường được coi là ít rủi ro , vì có tài sản cơ sở có giá trị mà ngân hàng có thể thu hồi trong trường hợp không trả nợ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>As such , banks play an under-appreciated role in the economy .</s>
+<s id='vn44'>Như vậy , ngân hàng đóng một vai trò không được đánh giá đúng mức trong nền kinh tế .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>To some extent , bank loan officers decide which projects , and/or businesses , are worth pursuing and are deserving of capital .</s>
+<s id='vn45'>Trong chừng mực nào đó , cán bộ tín dụng ngân hàng quyết định dự án nào , và/hoặc doanh nghiệp nào , đáng theo đuổi và xứng đáng được vay vốn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Consumer Lending</s>
+<s id='vn46'>Cho vay tiêu dùng</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Consumer lending makes up the bulk of North American bank lending , and of this , residential mortgages make up by far the largest share .</s>
+<s id='vn47'>Hoạt động cho vay tiêu dùng chiếm phần chủ yếu trong hoạt động cho vay của ngân hàng tại Bắc Mỹ , và trong số này , các khoản vay thế chấp nhà ở chiếm phần lớn nhất .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Mortgages are used to buy residences and the homes themselves are often the security that collateralizes the loan .</s>
+<s id='vn48'>Tiền vay thế chấp thường dùng để mua nhà cửa và bản thân các ngôi nhà thường là vật thế chấp để vay .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Mortgages are typically written for 30 year repayment periods and interest rates may be fixed , adjustable , or variable .</s>
+<s id='vn49'>Các hợp đồng vay thế chấp thường được soạn có thời hạn hoàn trả 30 năm và lãi suất có thể cố định , có thể điều chỉnh hoặc có thể thay đổi .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Although a variety of more exotic mortgage products were offered during the U.S. housing bubble of the 2000s , many of the riskier products , including " pick-a-payment " mortgages and negative amortization loans , are much less common .</s>
+<s id='vn50'>Mặc dù nhiều sản phẩm cho vay thế chấp kỳ cục được chào mời trong giai đoạn bong bóng nhà đất của Mỹ những năm 2000 , nhưng nhiều sản phẩm rủi ro hơn , bao gồm những khoản cho vay thế chấp lựa chọn thanh toán và khoản vay trả nợ âm , lại ít được biết đến hơn .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Follow the money ... to Singapore</s>
+<s id='vn51'>Theo tiền … đến Singapore</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Singapore 's more investor friendly rules may allow it and other Asian cities to keep attracting capital from developed markets in the West .</s>
+<s id='vn52'>Những luật lệ thân thiện với nhà đầu tư hơn có thể cho phép Singapore và những thành phố khác ở châu Á tiếp tục thu hút vốn từ các thị trường phát triển phương Tây .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>It 's no secret for anyone who follows markets closely that Southeast Asia , and in particular China , will be the engine of growth for the 21st century .</s>
+<s id='vn53'>Với bất kỳ ai , chuyện theo dõi sát sao thị trường , việc Đông Nam Á , và đặc biệt Trung Quốc , sẽ là động lực tăng trưởng trong thế kỷ 21 .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>This observation is based on a very simple idea .</s>
+<s id='vn54'>Nhận xét này dựa trên một ý tưởng hết sức đơn giản .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Capital flows to where it is treated the best .</s>
+<s id='vn55'>Vốn luôn chảy đến nơi nó được đối xử tốt nhất .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If traders would stop and look beyond the U.S. and Europe , they would see what legendary investor ( and current Singapore resident ) Jim Rogers sees : money is fleeing the West and heading East .</s>
+<s id='vn56'>Nếu các thương nhân dừng lại và tìm kiếm cơ hội ngoài Châu Âu và Mỹ , họ sẽ nhìn thấy những gì mà nhà đầu tư huyền thoại ( và hiện là cư dân của Singapore ) Jim Rogers thấy : tiền đang chạy khỏi phương Tây và hướng về phương Đông .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Recently , I came across a statistic that confirmed my personal observations from living in Ho Chi Minh City and traveling around Southeast Asia .</s>
+<s id='vn57'>Gần đây , nhờ sống ở Thành phố Hồ Chí Minh và đi đây đó khắp Đông Nam Á , tôi tình cờ bắt gặp một số liệu thống kê xác thực cho những nhận xét cá nhân của mình .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>According to the Financial Times " DFI division , Singapore not only receives more financial foreign investment than any other major financial center in the world , it receives more than New York , London , Frankfurt and Switzerland ... combined .</s>
+<s id='vn58'>Theo bộ phận FDI của tờ Financial Times , Singapore không chỉ nhận vốn đầu tư tài chính nước ngoài nhiều hơn bất kỳ trung tâm tài chính lớn nào khác trên thế giới , mà còn nhận nhiều hơn cả New York , Luân Đôn , Frankfurt và Thụy Sĩ ... hợp lại .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This is because Singapore is actively courting new capital in response to the abuse that is being dished out to investors in the West .</s>
+<s id='vn59'>Là bởi vì Singapore đang chủ động đón lấy những đồng vốn mới trong khi các nhà đầu tư bị bạc đãi ở phương Tây .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>For example , Singapore 's central bank , The Monetary Authority of Singapore , is moving to take advantage of the massive flows of gold and silver .</s>
+<s id='vn60'>Chẳng hạn , ngân hàng trung ương Singapore , Cục quản lý tiền tệ Singapore , đang tiến đến lợi dụng những luồng vàng và bạc khổng lồ .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>It plans to treat them as currencies - and not commodities -- by removing the 7 % goods and services tax that was collected on all precious metals transactions .</s>
+<s id='vn61'>Họ định xử lý chúng như là tiền tệ - mà không phải hàng hoá - bằng cách gỡ bỏ 7% thuế hàng hoá và dịch vụ mà trước đó đánh vào tất cả các giao dịch kim loại quý .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>After October 1 , bullion quality gold and silver will be freely exchanged without taxation on Singapore 's exchanges which will only further increase the demand for them .</s>
+<s id='vn62'>Sau ngày 1 tháng 10 , vàng và bạc thỏi sẽ được mua bán tự do , không bị đánh thuế trên các sàn giao dịch Singapore , điều này sẽ chỉ làm tăng thêm nhu cầu về chúng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Volumes on the COMEX have fallen dramatically since gold peaked in September at $ 1,926 per ounce .</s>
+<s id='vn63'>Khối lượng giao dịch trên COMEX đã đột ngột giảm kể từ khi vàng đạt tới đỉnh 1,926 đô la một ao-xơ hồi tháng 9 .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Discontent among traders is palpable as a growing number of them feel the market is not trading openly .</s>
+<s id='vn64'>Có thể dễ dàng nhận thấy các nhà giao dịch tỏ ra bất mãn khi ngày càng nhiều người trong số họ cho rằng thị trường không giao dịch công khai .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>The increased transparency and volume of bullion trading along an open exchange is just one example of treating investors like royalty .</s>
+<s id='vn65'>Minh bạch hơn nữa và khối lượng vàng bạc thỏi gia tăng giao dịch cùng một thị trường tự do chỉ là một ví dụ về việc đối xử với các nhà đầu tư giống như hoàng gia vậy .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Another is the MAS ' plan to create a clearing house system for over-the-counter derivatives , like credit default swaps .</s>
+<s id='vn66'>Một ví dụ khác là MAS có kế hoạch xây dựng một hệ thống thanh toán bù trừ đối với các công cụ phái sinh giao dịch phi tập trung , chẳng hạn những hợp đồng bảo hiểm nợ xấu .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>The trend of investors leaving the dysfunctional New York and London markets to ones where they are treated fairly will accelerate once this change goes into effect .</s>
+<s id='vn67'>Xu hướng các nhà đầu tư rời bỏ những thị trường bất thường ở New York và Luân Đôn đến những nơi họ được đối xử công bằng sẽ diễn ra nhanh hơn khi chính sách này có hiệu lực .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>On an open exchange , people legitimately interested in hedging their bond default risk will welcome this evolution like a man coming in from the desert .</s>
+<s id='vn68'>Trong một thị trường tự do , mọi người quan tâm một cách chính đáng đến hàng rào bảo vệ rủi ro vỡ nợ trái phiếu họ đang nắm giữ sẽ chào đón sự thay đổi này giống như một người đến từ sa mạc vậy .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Credit default swaps used in this manner are a legitimate market function , especially if they are tied to an underlying asset , i.e . the bond it is insuring .</s>
+<s id='vn69'>Các hợp đồng bảo hiểm nợ xấu được sử dụng theo cách này là chức năng của thị trường chính thống , đặc biệt nếu chúng gắn với một tài sản cơ sở , tức trái phiếu nó đang bảo hiểm .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>But , naked contracts , trading privately and valued arbitrarily , are a cancer eating away at the heart of Wall Street .</s>
+<s id='vn70'>Nhưng , những hợp đồng không đền bù , giao dịch khép kín và được định giá tuỳ tiện , là khối ung thư ăn dần ăn mòn trái tim của Phố Wall .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Understanding the evolution of the Southeast Asian markets like Singapore , Hong Kong and Shanghai is an important edge investors need to be aware of .</s>
+<s id='vn71'>Các nhà đầu tư cần nhận ra một lợi thế quan trọng là hiểu rõ sự phát triển của các thị trường Đông Nam Á như Singapore , Hồng Kông và Thượng Hải .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Capital gains can only come from places where capital is being deployed , and not destroyed .</s>
+<s id='vn72'>Lợi nhuận vốn chỉ có thể đến từ những nơi vốn đang được triển khai , chứ không phải bị tiêu huỷ .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>AlphaVN.com is an investing blog focusing on Vietnam and other markets in Southeast Asia .</s>
+<s id='vn73'>AlphaVN.com là một blog đầu tư tập trung vào Việt Nam và các thị trường khác ở Đông Nam Á .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>It is written by Peter Pham , a capital market specialist and entrepreneur with expertise in institutional sales and trading .</s>
+<s id='vn74'>Nó được viết bởi Peter Pham , một chuyên gia về thị trường vốn và là một chủ doanh nghiệp am hiểu lĩnh vực giao dịch và bán hàng thuộc tổ chức .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,116 @@
+﻿<doc id='N0624'>
+<head>
+<title>Everything Happens For The Good</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Everything Happens For The Good</s>
+<s id='vn1'>Mọi việc xảy ra đều có mục đích tốt đẹp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>There was once a King who had a wise advisor .</s>
+<s id='vn2'>Ngày xưa có một ông vua nọ có một người quân sư thông thái .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The advisor followed the King everywhere , and his favorite advice was , " Everything happens for the good " .</s>
+<s id='vn3'>Vị quân sư này đi cùng Đức vua khắp mọi nơi , và lời khuyên yêu thích của ông ấy là , " Mọi việc xảy ra đều có mục đích tốt đẹp " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>One day the King went hunting and had a little accident .</s>
+<s id='vn4'>Một ngày nọ Đức vua đi săn và bị tai nạn nhẹ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He shot an arrow at his own foot and was injured .</s>
+<s id='vn5'>Ông ấy đã tự bắn mũi tên vào chân của mình và bị thương .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He asked the advisor what he thought about the accident , to which the advisor replied , " Everything happens for the good " .</s>
+<s id='vn6'>Ông ấy hỏi ý kiến của vị quân sự về tai nạn này , thì vị quân sư trả lời rằng , " Mọi việc xảy ra đều có mục đích tốt đẹp " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This time the King was really upset and ordered for his advisor to be put in prison .</s>
+<s id='vn7'>Lần này Đức vua đã thực sự khó chịu và ra lệnh tống giam vị quân sư của ông ta vào ngục .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The King asked his advisor ,</s>
+<s id='vn8'>Đức vua hỏi quân sự ,</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Now , what do you think ? "</s>
+<s id='vn9'>" Bây giờ ngươi nghĩ thế nào ? "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The advisor again replied ,</s>
+<s id='vn10'>Vị quân sư trả lời ,</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Everything happens for the good " .</s>
+<s id='vn11'>" Mọi việc xảy ra đều có mục đích tốt đẹp " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>So the advisor remained in prison .</s>
+<s id='vn12'>Vì thế ông ta vẫn phải tiếp tục ở tù .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The King later went on a hunting trip , this time without the advisor .</s>
+<s id='vn13'>Sau đó Đức vua tiếp tục chuyến đi săn , lần này không có vị quân sư .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The King was then captured by some cannibals .</s>
+<s id='vn14'>Đức vua bị những kẻ ăn thịt người bắt được .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>He was taken to the cannibals ' camp where he was to be the evening meal for the cannibals .</s>
+<s id='vn15'>Ông ta bị mang về lều của bọn ăn thịt người nơi ông ta sắp trở thành món ăn tối cho bọn chúng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Before putting him into the cooking pot he was thoroughly inspected .</s>
+<s id='vn16'>Trước khi bỏ vào nồi , ông ấy được đem ra kiểm tra kỹ càng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The cannibals saw the wound on the King 's foot and decided to throw him back into the jungle .</s>
+<s id='vn17'>Bọn ăn thịt người thấy có vết thương ở chân của Đức vua và quyết định ném ông ta lại vô rừng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>According to the cannibals ' tradition , they would not eat anything that was imperfect .</s>
+<s id='vn18'>Theo tập tục của bọn ăn thịt người này , chúng sẽ không bao giờ ăn bất cứ thứ gì không lành lặn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>As a result the King was spared .</s>
+<s id='vn19'>Do vậy Đức vua đã được tha chết .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The King suddenly realized what his advisor said was true .</s>
+<s id='vn20'>Đức vua liền nhận ra những gì vị quân sư của mình nói là đúng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The advisor also escaped death because had he not been in prison , he would have followed the King on the hunting trip , and would have ended up in the cooking pot .</s>
+<s id='vn21'>Vị quân sư cũng thoát chết vì nếu ông ấy không ngồi tù thì ông ấy lẽ ra đã đi theo Đức vua trong chuyến đi săn , và lẽ ra đã bị kết liễu trong nồi nấu ăn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Success Principles</s>
+<s id='vn22'>Nguyên tắc thành công</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It is true that everything in life happens for a purpose , and always for our own good .</s>
+<s id='vn23'>Quả đúng là mọi thứ trong cuộc sống xảy ra đều có một mục đích , và luôn luôn vì lợi ích của riêng chúng ta .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If you think about it , all our past experiences actually happened to bring us to where we are today , and it is always for the good .</s>
+<s id='vn24'>Nếu bạn nghĩ như thế thì tất cả những trải nghiệm trước đây của chúng ta thực sự xảy ra để mang chúng ta đến nơi chúng ta đang hiện hữu ngày hôm nay , và nó là luôn dành cho điều tốt đẹp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>All the past experiences makes us a better person .</s>
+<s id='vn25'>Tất cả những trải nghiệm đã qua này khiến chúng ta trở thành một con người hoàn thiện hơn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So , whatever challenges that we may face today , consider it happening to bring us to the next level .</s>
+<s id='vn26'>Vì vậy , dù cho chúng ta phải đương đầu với bất kỳ thử thách nào của ngày hôm nay , hãy xem điều đó đang xảy ra để đưa chúng ta đến một cấp độ cao hơn .</s>
+</spair>
+</text>
+</doc>

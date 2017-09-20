@@ -1,0 +1,84 @@
+﻿<doc id='N0231'>
+<head>
+<title>T-shirts developed that could charge mobile phones</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>T-shirts developed that could charge mobile phones</s>
+<s id='vn1'>Áo phông được nghiên cứu có khả năng sạc điện thoại</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Scientists at the University of South Carolina have found a way to use a cheap T-shirt to store electrical power .</s>
+<s id='vn2'>Các nhà khoa học thuộc Đại học South Carolina đã tìm ra cách sử dụng một chiếc áo phông rẻ tiền để tích trữ năng lượng điện .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It could pave the way for clothes that are able to charge phones and other devices .</s>
+<s id='vn3'>Điều này mở ra khả năng tạo ra các mẫu áo quần có khả năng sạc điện thoại và các thiết bị khác .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Experts predict that new technologies including roll-up smartphones and laptops will be on the market soon .</s>
+<s id='vn4'>Các chuyên gia dự đoán các công nghệ mới kể cả máy tính xách tay và điện thoại thông minh loại gập sẽ sớm có mặt trên thị trường .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>These developments would spur on the need for " flexible energy storage " , said the professor behind the project .</s>
+<s id='vn5'>Chuyên gia thực hiện dự án cho biết bước tiến này sẽ thúc đẩy nhu cầu cần thiết các loại vật liệu " tích trữ năng lượng linh hoạt " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Xiaodong Li , a professor of mechanical engineering at the university teamed up with post-doctorate researcher Lihong Bao to find a solution .</s>
+<s id='vn6'>Xiaodong Li , một giáo sư ngành chế tạo máy ở trường đại học đó đã hợp tác với nhà nghiên cứu hậu tiến sĩ Lihong Bao để tìm ra giải pháp này .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The pair wrote up their findings for the Advanced Materials journal .</s>
+<s id='vn7'>Hai nhà nghiên cứu đã đăng tài những nghiên cứu của họ trên tạp chí Advanced Materials .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>They used a T-shirt bought from a local discount store , which was soaked in a solution of fluoride , dried and then baked in an oxygen-free environment at high temperature .</s>
+<s id='vn8'>Họ sử dụng một chiếc áo phông mua ở cửa hàng giảm giá tại địa phương , sau đó nhúng vào dung dịch Florua , để khô rồi nung ở điều kiện không có ô-xi ở nhiệt độ cao .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Hybrid fabric</s>
+<s id='vn9'>Vải lai</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The fibres in the fabric converted from cellulose to activated carbon during the process , but the material remained flexible .</s>
+<s id='vn10'>Các sợi vải được chuyển đổi từ sợi xenlulozơ thành carbon hoạt tính trong suốt quá trình này nhưng chất liệu vẫn mềm dẻo .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>By using small parts of the fabric as an electrode , the researchers showed that the material could be made to act as a capacitor .</s>
+<s id='vn11'>Bằng việc sử dụng một phần vải như điện cực , các nhà nghiên cứu cho thấy vật liệu này có khả năng hoạt động như một tụ điện .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Capacitors store an electrical charge and are components of nearly every electronic device on the market .</s>
+<s id='vn12'>Tụ điện chứa một cái sạc điện và là thành phần của hầu hết các thiết bị điện trên thị trường .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>By coating the individual fibres of the carbonised fabric with manganese oxide just a nanometre thick , the electrode performance of the fabric was further enhanced .</s>
+<s id='vn13'>Bằng cách phủ lên những sợi của tấm vải cac-bon hoá chỉ dày khoảng một na-nô-mét ô-xít mangan , hiệu suất điện cực của vải được tăng cường hơn nữa .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This created a stable , high-performing supercapacitor , " said Prof Li .</s>
+<s id='vn14'>Giáo sư Li cho biết " Điều này giúp tạo ra loại siêu tụ có độ ổn định và hiệu suất cao . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The hybrid supercapacitors proved resilient - even after thousands of charge-discharge cycles their performance did not diminish more than 5 % .</s>
+<s id='vn15'>Siêu tụ điện cho thấy tính dẻo dai của nó dù sau hàng ngàn chu trình sạc-xả pin tính năng của nó vẫn không giảm hơn 5% .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" By stacking these supercapacitors up , we should be able to charge portable electronic devices such as cell phones , " Prof Li added .</s>
+<s id='vn16'>Giáo sư Li còn cho biết thêm : " Bằng cách gắn loại siêu công suất này lên , chúng ta có thể sạc các loại thiết bị điện cầm tay chẳng hạn như điện thoại di động . " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" We wear fabric every day .</s>
+<s id='vn17'>" Hàng ngày chúng ta đều mặc áo vải .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>One day our cotton T-shirts could have more functions ; for example , a flexible energy storage device that could charge your cell phone or your iPad . "</s>
+<s id='vn18'>Một ngày nào đó chúng ta mặc chiếc áo phông cô-tông có nhiều chức năng hơn , ví dụ như là một thiết bị lưu trữ năng lượng linh hoạt có thể dùng để sạc điện thoại di động hay sạc iPad . "</s>
+</spair>
+</text>
+</doc>

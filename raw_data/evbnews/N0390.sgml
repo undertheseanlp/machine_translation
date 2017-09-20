@@ -1,0 +1,112 @@
+﻿<doc id='N0390'>
+<head>
+<title>Intel New Launches .NET SDK and Visual Studio Plug-In</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel New Launches .NET SDK and Visual Studio Plug-In</s>
+<s id='vn1'>Intel Ra Mắt Bộ Công Cụ Phát Triển Phần Mềm .NET mới và Phần tích hợp thêm cho Visual Studio</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel has delivered a new .NET software development kit for .NET applications and a plug-in for Microsoft Visual Studio to its AppUp developer program .</s>
+<s id='vn2'>Intel vừa ra mắt bộ công cụ phát triển phần mềm .NET mới cho các ứng dụng .NET và một plug-in tích hợp với Microsoft Visual Studio để các nhà phát triển kho ứng dụng AppUp lập trình .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Intel has launched a new software development kit for .NET applications to its AppUp developer program .</s>
+<s id='vn3'>Intel vừa mới mắt bộ công cụ phát triển phần mềm mới cho các ứng dụng .NET để các nhà phát triển kho ứng dụng AppUp lập trình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The new .NET SDK joins Intel 's support for other platforms as part of AppUp .</s>
+<s id='vn4'>SDK .NET mới kết hợp sự hỗ trợ của Intel cho các nền tảng khác như là một phần của AppUp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Intel 's AppUp program initially launched with support for C C++ applications , and Intel later launched support for AIR applications in August .</s>
+<s id='vn5'>Chương trình AppUp của Intel ban đầu ra mắt với sự hỗ trợ cho các ứng dụng được viết bằng C C++ , và sau đó Intel ra mắt hỗ trợ các ứng dụng nền tảng AIR vào tháng 8 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" The addition of .NET continues Intel 's growing 'port of choice " approach , allowing developers to use the tools and environment they already know to create apps for distribution through the AppUp center store , " said Intel community manager Bob Duffy in an Oct. 17 blog post .</s>
+<s id='vn6'>Bob Duffy nhà quản lí cộng đồng của Intel cho biết trên blog vào ngày 17 tháng 10 : " Việc bổ sung nền tảng .NET duy trì phương pháp " chuyển đổi sự lựa chọn " phát triển của Intel , cho phép các nhà phát triển sử dụng các công cụ và môi trường quen thuộc với họ để tạo ra các ứng dụng cho việc phát hành thông qua kho trung tâm ứng dụng AppUp " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Along with the .NET , SDK , Intel has also released the much anticipated AppUp IDE Plug-In for Visual Studio 2008 .</s>
+<s id='vn7'>Cùng với .NET , SDK , Intel cũng đã phát hành trước nhiều Plug-In IDE của AppUp cho Visual Studio 2008 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" This plug-in reduces the time and effort to integrate the AppUp SDKs and build the MSI needed to submit your application to the store " .</s>
+<s id='vn8'>" Plug-in này giảm thời gian và nỗ lực tích hợp bộ SDK AppUp và tạo ra các tập tin MSI cần thiết để gửi các ứng dụng của bạn lên kho lưu trữ " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The IDE Plug-in support both the C C++ and .NET SDK for Windows when using Visual Studio 2008 .</s>
+<s id='vn9'>Plug-in IDE hỗ trợ cả C C++ và bộ công cụ phát triển phần mềm .NET cho Windows khi sử dụng Visual Studio 2008 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The new SDK can be downloaded at http://appdeveloper.intel.com/sdk .</s>
+<s id='vn10'>Bộ SDK mới có thể được tải về tại http://appdeveloper.intel.com/sdk .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Intel 's AppUp is a destination for developers to find everything they need to easily develop and sell applications for the Intel AppUp center , such as : Tools - including SDKs , easy deployment and validation , a Developer Catalog to buy and sell application components , application labs and a vibrant online community for support .</s>
+<s id='vn11'>AppUp của Intel là đích ngắm cho các nhà phát triển tìm thấy mọi thứ mà họ cần để dễ dàng phát triển và bán các ứng dụng cho trung tâm AppUp của Intel chẳng hạn như : Tools - bao gồm SDK , dễ dàng triển khai và phê chuẩn , Developer Catalog để mua và bán các thành phần ứng dụng , nghiên cứu ứng dụng và một cộng đồng trực tuyến lớn mạnh để hỗ trợ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Duffy also said :" The launch of this new SDK allows the large community of .NET developers to take part in the growing app ecosystem .</s>
+<s id='vn12'>Duffy cũng đã cho biết " Việc ra mắt SDK mới này cho phép cộng đồng lớn các nhà phát triển .NET tham gia vào việc phát triển hệ sinh thái ứng dụng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>By integrating Intel 's .NET SDK , for AppUp into their applications , developers can submit their .NET apps for distribution and sales via the AppUp Center stores .</s>
+<s id='vn13'>Bằng cách tích hợp SDK .NET của Intel cho kho ứng dụng AppUp của họ các nhà phát triển có thể gửi lên các ứng dụng .NET của họ để phân phối và bán chúng thông qua kho trung tâm AppUp .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>As of the publishing of this post , Intel 's AppUp store is focused on netbook devices but plans to expand it to support tablets , smartphones , TV , and other computing devices .</s>
+<s id='vn14'>Khi xuất bản bài viết này , kho ứng dụng AppUp của Intel tập trung vào các thiết bị netbook nhưng kế hoạch được mở rộng để hỗ trợ cho các máy tính bảng , điện thoại thông minh , TV và các thiết bị điện toán khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Intel has also announced additional AppUp stores with Dixon electronics in Europe , Croma retail in India , Best Buy and ASUS and more to be announced early next year .</s>
+<s id='vn15'>Intel cũng đã công bố kho ứng dụng AppUp của mình liên kết với Châu Âu , Dixon electronics , Croma ở Ấn Độ , Best Buy và ASUS và nhiều hơn nữa sẽ được công bố vào đầu năm sau .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Each store will sell netbooks with AppUp pre-installed , opening up AppUp applications to a large distribution of customers . "</s>
+<s id='vn16'>Mỗi kho lưu trữ sẽ bán các netbook kèm ứng dụng AppUp đươc cài đặt sẵn , tạo điều khiện thuận lợi cho các ứng dụng của AppUp có thể phân phối rộng đến khách hàng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Also , with the launch of the AppUp .NET SDK , Intel opens up the AppUp distribution platform to its widest set of developers to date , Duffy said .</s>
+<s id='vn17'>Hơn nữa , với việc ra mắt bộ công cụ .NET SDK cho AppUp , Intel mở ra nền tảng phân phối AppUp đến toàn bộ giới phát triển , Duffy cho biết " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>With .NET Windows base devices using App Up , consumers will be able to get a wider range of rich applications that take advantage of the .NET development framework " .</s>
+<s id='vn18'>Với các thiết bị dựa vào nền tảng .NET của Windows sử dụng AppUp , khách hàng sẽ có thể nhận được nhiều ứng dụng phong phú hơn nhờ tận dụng các lợi thế của NET Framwork . " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Meanwhile , Duffy added a few caveats regarding the new SDK :</s>
+<s id='vn19'>Trong khi đó , Duffy đã nói thêm một số dự đoán liên quan đến bộ SDK mới :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Currently the submission section of the AppUp developer program site will not include a selection for .NET.</s>
+<s id='vn20'>" Hiện tại phần đệ trình của trang web chương trình phát triển AppUp không bao gồm sự lựa chọn cho .NET .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You can instead select Windows as you do with C_C++ submissions and include your .MSI as normal .</s>
+<s id='vn21'>Bạn có thể thay cho chọn lựa là Windows nếu như bạn muốn làm với C C++ và .MSI theo cách thông thường .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The submission portal will be updated with a .NET option during the next release cycle for the Website later in the year .</s>
+<s id='vn22'>Cổng thông tin đệ trình sẽ được cập nhật với các tuỳ chọn .NET trong lần phát hành kế tiếp cho Website này vào dịp gần cuối năm nay .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Currently the .NET SDK works with version 3.5 of .NET.</s>
+<s id='vn23'>Hiện bộ SDK .NET làm việc với phiên bản .NET 3.5 .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Applications using version 4.0 may have an issue with this SDK and could fail validation .</s>
+<s id='vn24'>Các ứng dụng sử dụng phiên bản 4.0 có thể gặp vấn đề với bộ SDK này và có thể không đạt hợp lệ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It is recommended that your applications use version 3.5 to ensure application validation and a good consumer experience . "</s>
+<s id='vn25'>Intel đề xuất các ứng dụng của bạn sử dụng phiên bản 3.5 để đảm bảo ứng dụng hợp lệ và trải nghiệm người dùng tốt hơn . "</s>
+</spair>
+</text>
+</doc>

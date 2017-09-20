@@ -1,0 +1,600 @@
+﻿<doc id='N0449'>
+<head>
+<title>Prepared remarks of President Obama 's back to school event</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Prepared remarks of President Obama 's back to school event</s>
+<s id='vn1'>Diễn văn về Ngày tựu trường của Tổng thống Obama</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Here are prepared remarks that President Obama is to deliver at noon Tuesday a Wakefield High School in Arlington , Virginia .</s>
+<s id='vn2'>Đây là diễn văn tổng thống Obama sẽ phát biểu vào buổi trưa ngày thứ ba tại trường trung học Wakefiled ở Arlington , Virginia .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Hello everyone - how 's everybody doing today ?</s>
+<s id='vn3'>Xin chào các em - hôm nay các em khỏe không ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I 'm here with students at Wakefield High School in Arlington , Virginia .</s>
+<s id='vn4'>Tôi hiện đang ở đây cùng với các em học sinh Trường Trung học Phổ thông Wakefield tại Arlington , Virginia .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>And we 've got students tuning in from all across America , kindergarten through twelfth grade .</s>
+<s id='vn5'>Và chúng ta cũng đang được các em học sinh trên toàn cõi Hoa Kỳ từ nhà trẻ mẫu giáo cho đến lớp mười hai chăm chú lắng nghe .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>I 'm glad you all could join us today .</s>
+<s id='vn6'>Tôi rất vui mừng vì tất cả các em có thể tham gia cùng chúng ta hôm nay .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I know that for many of you , today is the first day of school .</s>
+<s id='vn7'>Tôi biết đối với nhiều người trong các em , hôm nay là ngày đầu tiên đi học .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And for those of you in kindergarten , or starting middle or high school , it 's your first day in a new school , so it 's understandable if you 're a little nervous .</s>
+<s id='vn8'>Và đối với các em ở nhà trẻ hoặc bắt đầu vào trường trung học cơ sở hoặc trung học phổ thông , đây là ngày đầu tiên bước vào một ngôi trường mới , vì thế nếu các em có hơi căng thẳng thì cũng là điều dễ hiểu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>I imagine there are some seniors out there who are feeling pretty good right now , with just one more year to go .</s>
+<s id='vn9'>Tôi hình dung là có một số các em cuối cấp cảm thấy khá khoẻ khoắn vì chỉ còn một năm nữa là ra trường .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>And no matter what grade you 're in , some of you are probably wishing it were still summer , and you could 've stayed in bed just a little longer this morning .</s>
+<s id='vn10'>Và cho dù các em đang học lớp mấy chăng nữa , thì có lẽ một số trong các em cũng đang mong ước giờ vẫn đang là mùa hè , để sáng nay các em có thể ngủ nướng thêm một chút nữa .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I know that feeling .</s>
+<s id='vn11'>Tôi hiểu cảm giác đó .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>When I was young , my family lived in Indonesia for a few years , and my mother did n't have the money to send me where all the American kids went to school .</s>
+<s id='vn12'>Khi tôi còn nhỏ , gia đình tôi đã sống ở Indonesia vài năm , và mẹ tôi không có tiền để gửi tôi đến nơi mà tất cả trẻ em Hoa Kỳ đều đến học .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>So she decided to teach me extra lessons herself , Monday through Friday - at 4:30 in the morning .</s>
+<s id='vn13'>Vì thế bà đã quyết định sẽ tự dạy kèm cho tôi , từ thứ hai đến thứ sáu , vào lúc 4 giờ 30 phút sáng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Now I was n't too happy about getting up that early .</s>
+<s id='vn14'>Bây giờ tôi cũng chẳng sung sướng gì khi phải dậy sớm như thế .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>A lot of times , I 'd fall asleep right there at the kitchen table .</s>
+<s id='vn15'>Đã nhiều lần , tôi ngủ thiếp đi ngay tại bàn ăn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>But whenever I 'd complain , my mother would just give me one of those looks and say , " This is no picnic for me either , buster . "</s>
+<s id='vn16'>Nhưng cứ hễ tôi than van thì mẹ tôi lại nhìn tôi theo một trong những cách riêng của bà và nói " Mẹ cũng có sung sướng gì hơn đâu , nhóc con phiền phức à "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>So I know some of you are still adjusting to being back at school .</s>
+<s id='vn17'>Vì thế tôi biết một số các em vẫn còn đang cố làm quen với việc đi học lại .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>But I 'm here today because I have something important to discuss with you .</s>
+<s id='vn18'>Nhưng hôm nay tôi đến đây vì tôi có một số điều quan trọng cần thảo luận với các em .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I 'm here because I want to talk with you about your education and what 's expected of all of you in this new school year .</s>
+<s id='vn19'>Tôi ở đây vì tôi muốn nói với các em về việc học của các em và những điều kỳ vọng ở các em trong năm học mới này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Now I 've given a lot of speeches about education .</s>
+<s id='vn20'>Cho đến giờ tôi đã đọc nhiều diễn văn về giáo dục .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>And I 've talked a lot about responsibility .</s>
+<s id='vn21'>Và tôi cũng đã nói nhiều về trách nhiệm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I 've talked about your teachers " responsibility for inspiring you , and pushing you to learn .</s>
+<s id='vn22'>Tôi đã nói về trách nhiệm của giáo viên trong việc truyền hứng thú và thúc đẩy các em học hành .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I 've talked about your parents " responsibility for making sure you stay on track , and get your homework done , and do n't spend every waking hour in front of the TV or with that Xbox .</s>
+<s id='vn23'>Tôi đã nói về trách nhiệm của các bậc cha mẹ trong việc đảm bảo cho các em đi đúng hướng và hoàn thành bài tập về nhà và không phải hễ còn thức thì lại xem ti-vi hay chơi Xbox .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I 've talked a lot about your government 's responsibility for setting high standards , supporting teachers and principals , and turning around schools that are n't working where students are n't getting the opportunities they deserve .</s>
+<s id='vn24'>Tôi đã nói nhiều về trách nhiệm của chính phủ của các em trong việc đưa ra các tiêu chuẩn cao , trong việc hỗ trợ các thầy cô và hiệu trưởng , và cải thiện những trường học kém hiệu quả khiến cho học sinh không có cơ hội mà họ đáng được hưởng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But at the end of the day , we can have the most dedicated teachers , the most supportive parents , and the best schools in the world - and none of it will matter unless all of you fulfill your responsibilities .</s>
+<s id='vn25'>Nhưng cuối cùng , chúng ta có thể có được những giáo viên tận tụy nhất , những bậc cha mẹ hỗ trợ hết sức mình , và những trường học tốt nhất thế giới - tuy nhiên tất cả những điều đó đều trở nên vô nghĩa trừ phi tất cả các em đều hoàn thành trách nhiệm của mình .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Unless you show up to those schools ; pay attention to those teachers ; listen to your parents , grandparents and other adults ; and put in the hard work it takes to succeed .</s>
+<s id='vn26'>Trừ phi các em đến trường , chú tâm học hành , vâng lời cha mẹ , ông bà và người lớn ; và học hành chăm chỉ để thành công .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>And that 's what I want to focus on today : the responsibility each of you has for your education .</s>
+<s id='vn27'>Và đó chính là điều mà hôm nay tôi muốn xoáy vào : trách nhiệm của từng người trong các em đối với việc học của mình .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I want to start with the responsibility you have to yourself .</s>
+<s id='vn28'>Tôi muốn bắt đầu từ trách nhiệm của các em đối với bản thân .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Every single one of you has something you 're good at .</s>
+<s id='vn29'>Mỗi một người trong các em đều có cái hay riêng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Every single one of you has something to offer .</s>
+<s id='vn30'>Mỗi một người trong các em đều có một cái gì đó để đóng góp .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>And you have a responsibility to yourself to discover what that is .</s>
+<s id='vn31'>Và các em phải có trách nhiệm với chính mình để khám phá xem đó là gì .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>That 's the opportunity an education can provide .</s>
+<s id='vn32'>Đó chính là cơ hội mà sự học có thể mang đến cho các em .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Maybe you could be a good writer - maybe even good enough to write a book or articles in a newspaper - but you might not know it until you write a paper for your English class .</s>
+<s id='vn33'>Có thể các em sẽ là một người viết lách giỏi , thậm chí có thể đủ sức viết một quyển sách hay những bài báo , nhưng có lẽ các em không nhận ra điều đó nếu các em chưa viết một bài luận cho tiết học tiếng Anh của các em .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Maybe you could be an innovator or an inventor - maybe even good enough to come up with the next iPhone or a new medicine or vaccine - but you might not know it until you do a project for your science class .</s>
+<s id='vn34'>Có thể các em sẽ là một nhà cải cách hay một nhà phát minh – thậm chí đủ sức chế ra iPhone thế hệ kế tiếp hoặc một loại dược phẩm hoặc vắc xin mới - nhưng có lẽ các em không nhận ra điều đó cho nếu các em chưa làm một đề án cho tiết học khoa học tự nhiên của các em .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Maybe you could be a mayor or a Senator or a Supreme Court Justice , but you might not know that until you join student government or the debate team .</s>
+<s id='vn35'>Có thể các em sẽ là một thị trưởng hoặc một thượng nghị sĩ hoặc một thẩm phán toà án tối cao , nhưng có lẽ các em sẽ không nhận ra điều đó nếu các em chưa tham gia vào một hội sinh viên hoặc nhóm tranh luận .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>And no matter what you want to do with your life - I guarantee that you 'll need an education to do it .</s>
+<s id='vn36'>Và cho dù các em muốn làm gì trong đời – thì tôi cũng cam đoan rằng các em phải có học thì mới làm được việc .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>You want to be a doctor , or a teacher , or a police officer ?</s>
+<s id='vn37'>Các em muốn trở thành một bác sĩ , nhà giáo , hay một công an ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>You want to be a nurse or an architect , a lawyer or a member of our military ?</s>
+<s id='vn38'>Các em muốn trở thành một y tá hay kiến trúc sư , luật sư , hay gia nhập quân đội của chúng ta ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>You 're going to need a good education for every single one of those careers .</s>
+<s id='vn39'>Các em sẽ phải học giỏi thì mới có thể làm được bất cứ nghề nào trong những nghề này .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>You ca n't drop out of school and just drop into a good job .</s>
+<s id='vn40'>Các em không thể bỏ học mà vớ được một công việc tốt .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>You 've got to work for it and train for it and learn for it .</s>
+<s id='vn41'>Các em phải bỏ sức cho nó , trau giồi nó và lĩnh hội nó .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>And this is n't just important for your own life and your own future .</s>
+<s id='vn42'>Và đây không chỉ quan trọng đối với cuộc đời của chính các em và tương lai của chính các em .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>What you make of your education will decide nothing less than the future of this country .</s>
+<s id='vn43'>Những gì mà các em làm được từ việc học của mình sẽ quyết định hoàn toàn tương lai của đất nước này .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>What you 're learning in school today will determine whether we as a nation can meet our greatest challenges in the future .</s>
+<s id='vn44'>Những gì các em đang học ở trường hôm nay sẽ quyết định xem chúng ta với tư cách là một dân tộc có thể đối phó được những thách thức gay go nhất trong tương lai hay không .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>You 'll need the knowledge and problem-solving skills you learn in science and math to cure diseases like cancer and AIDS , and to develop new energy technologies and protect our environment .</s>
+<s id='vn45'>Các em sẽ cần những kiến thức và kỹ năng giải quyết vấn đề mà các em học được trong môn khoa học và môn toán để trị những căn bệnh như ung thư hay AIDS , và để phát triển những công nghệ năng lượng mới và bảo vệ môi trường của chúng ta .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>You 'll need the insights and critical thinking skills you gain in history and social studies to fight poverty and homelessness , crime and discrimination , and make our nation more fair and more free .</s>
+<s id='vn46'>Các em sẽ cần hiểu biết sâu sắc và những kỹ năng phán đoán mà các em thu nhận được trong môn lịch sử và khoa học xã hội để đấu tranh chống đói nghèo , vô gia cư , tội ác , phân biệt đối xử và làm cho đất nước ta ngày càng công bằng hơn và tự do hơn .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>You 'll need the creativity and ingenuity you develop in all your classes to build new companies that will create new jobs and boost our economy .</s>
+<s id='vn47'>Các em sẽ cần óc sáng tạo và tài khéo léo mà các em phát huy được trong tất cả các tiết học để lập ra những công ty mới nhằm tạo ra nhiều việc làm mới và cải thiện nền kinh tế của chúng ta .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>We need every single one of you to develop your talents , skills and intellect so you can help solve our most difficult problems .</s>
+<s id='vn48'>Chúng ta cần mỗi một người trong các em phát huy tài năng , kỹ năng và trí tuệ của mình sao cho các em có thể góp phần giải quyết những vấn đề khó khăn nhất .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>If you do n't do that - if you quit on school - you 're not just quitting on yourself , you 're quitting on your country .</s>
+<s id='vn49'>Nếu các em không làm thế - nếu các em bỏ học - thì các em không chỉ bỏ rơi chính mình mà các em còn bỏ rơi đất nước của các em nữa .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Now I know it 's not always easy to do well in school .</s>
+<s id='vn50'>Hiện giờ tôi biết là không phải lúc nào cũng dễ học giỏi .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>I know a lot of you have challenges in your lives right now that can make it hard to focus on your schoolwork .</s>
+<s id='vn51'>Tôi biết không ít người trong các em hiện đang gặp thử thách trong cuộc sống khiến cho khó chú tâm vào việc học hành .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>I get it .</s>
+<s id='vn52'>Tôi hiểu điều đó .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>I know what that 's like .</s>
+<s id='vn53'>Tôi biết điều đó là như thế nào .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>My father left my family when I was two years old , and I was raised by a single mother who struggled at times to pay the bills and was n't always able to give us things the other kids had .</s>
+<s id='vn54'>Cha tôi đã rời bỏ gia đình khi tôi lên hai , và tôi được nuôi dưỡng bởi một người mẹ đơn thân , người đã bao phen xoay xở để thanh toán hoá đơn và không phải lúc nào cũng đủ sức để cho chúng tôi những thứ mà những đứa trẻ khác có .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>There were times when I missed having a father in my life .</s>
+<s id='vn55'>Có những lúc tôi thèm có một người cha trong đời .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>There were times when I was lonely and felt like I did n't fit in .</s>
+<s id='vn56'>Có những lúc tôi cô đơn và cảm thấy như mình không thích nghi được .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>So I was n't always as focused as I should have been .</s>
+<s id='vn57'>Vì thế không phải lúc nào tôi cũng tập trung đầu óc như lẽ ra tôi phải như thế .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>I did some things I 'm not proud of , and got in more trouble than I should have .</s>
+<s id='vn58'>Tôi đã làm một số điều mà tôi chẳng hề hãnh diện , và đã gặp nhiều rắc rối không đáng có .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>And my life could have easily taken a turn for the worse .</s>
+<s id='vn59'>Và cuộc đời tôi có thể đã dễ chuyển theo chiều hướng xấu hơn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But I was fortunate .</s>
+<s id='vn60'>Nhưng tôi thật may mắn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>I got a lot of second chances and had the opportunity to go to college , and law school , and follow my dreams .</s>
+<s id='vn61'>Tôi đã có nhiều cơ hội làm lại , cơ hội học đại học , vào trường luật và đeo đuổi mơ ước của mình .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>My wife , our First Lady Michelle Obama , has a similar story .</s>
+<s id='vn62'>Vợ tôi , đệ nhất phu nhân Michelle Obama , cũng có cuộc đời tương tự như thế .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Neither of her parents had gone to college , and they did n't have much .</s>
+<s id='vn63'>Cả cha lẫn mẹ cô ấy đều không được học đại học và họ cũng chẳng được học hành nhiều .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>But they worked hard , and she worked hard , so that she could go to the best schools in this country</s>
+<s id='vn64'>Nhưng họ đã làm việc chăm chỉ và vợ tôi cũng học hành chăm chỉ , để cô ấy có thể học được ở những trường giỏi nhất ở đất nước này .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Some of you might not have those advantages .</s>
+<s id='vn65'>Có thể một số người trong các em không có những lợi điểm đó .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Maybe you do n't have adults in your life who give you the support that you need .</s>
+<s id='vn66'>Có thể các em không có người lớn trong đời để giúp đỡ các em những gì các em cần .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Maybe someone in your family has lost their job , and there 's not enough money to go around .</s>
+<s id='vn67'>Có thể ai đó trong gia đình các em bị mất việc làm và không đủ tiền để xoay xở .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Maybe you live in a neighborhood where you do n't feel safe , or have friends who are pressuring you to do things you know are n't right .</s>
+<s id='vn68'>Có thể các em sống ở một nơi mà các em không cảm thấy an toàn hay có bạn bè đang ép các em phải làm những việc mà các em biết là không đúng .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>But at the end of the day , the circumstances of your life - what you look like , where you come from , how much money you have , what you 've got going on at home - that 's no excuse for neglecting your homework or having a bad attitude .</s>
+<s id='vn69'>Nhưng cuối cùng , hoàn cảnh của các em – các em trông như thế nào , các em từ đâu đến , các em có bao nhiêu tiền , chuyện các em phải làm ở nhà – đó không phải là cái cớ để lơ là chuyện làm bài tập ở nhà hay có thái độ không tốt .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>That 's no excuse for talking back to your teacher , or cutting class , or dropping out of school .</s>
+<s id='vn70'>Đó không phải là cái cớ để trả treo với thầy cô hoặc trốn học hay bỏ học .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>That 's no excuse for not trying .</s>
+<s id='vn71'>Đó không phải là cái cớ để khỏi cố gắng nữa .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Where you are right now does n't have to determine where you 'll end up .</s>
+<s id='vn72'>Không nhất thiết vị trí của các em lúc này sẽ quyết định vị trí của các em sau này .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>No one 's written your destiny for you .</s>
+<s id='vn73'>Không ai quyết định số phận của các em .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Here in America , you write your own destiny .</s>
+<s id='vn74'>Ở nước Mỹ này , các em tạo nên số phận của chính mình .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>You make your own future .</s>
+<s id='vn75'>Tương lai của các em do chính các em tạo ra .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>That 's what young people like you are doing every day , all across America .</s>
+<s id='vn76'>Đó là điều mà những người trẻ tuổi như các em đang thực hiện mỗi ngày trên khắp Hoa Kỳ .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Young people like Jazmin Perez , from Roma , Texas .</s>
+<s id='vn77'>Những người trẻ tuổi như Jazmin Perez , đến từ Roma , Texas .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Jazmin did n't speak English when she first started school .</s>
+<s id='vn78'>Jazmin không nói tiếng Anh khi cô ấy mới bắt đầu đi học .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Hardly anyone in her hometown went to college , and neither of her parents had gone either .</s>
+<s id='vn79'>Hầu như không ai ở quê hương cô ấy được học đại học , và ba mẹ của cô ấy cũng vậy .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>But she worked hard , earned good grades , got a scholarship to Brown University , and is now in graduate school , studying public health , on her way to being Dr. Jazmin Perez .</s>
+<s id='vn80'>Nhưng cô ấy học tập chăm chỉ , đạt điểm cao , được học bổng vào trường đại học Brown , bây giờ đang theo học cao học , ngành y tế cộng đồng , chuẩn bị trở thành bác sĩ Jazmin Perez .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>I 'm thinking about Andoni Schultz , from Los Altos , California , who 's fought brain cancer since he was three</s>
+<s id='vn81'>Tôi đang nghĩ về Andoni Schultz , đến từ Los Altos , California , người đã chống chọi lại căn bệnh ung thư não từ khi mới lên 3 .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>He 's endured all sorts of treatments and surgeries , one of which affected his memory , so it took him much longer - hundreds of extra hours - to do his schoolwork</s>
+<s id='vn82'>Anh ấy đã chịu đựng đủ kiểu chữa trị và phẫu thuật , một trong số đó đã ảnh hưởng đến trí nhớ của anh ấy , vì thế anh ấy phải tốn nhiều thời gian hơn - thêm hàng trăm tiếng đồng hồ - để làm bài tập .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>But he never fell behind , and he 's headed to college this fall .</s>
+<s id='vn83'>Nhưng anh ấy không bao giờ cảm thấy bị tụt lại phía sau và mùa thu này anh ấy đã vào học đại học .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>And then there 's Shantell Steve , from my hometown of Chicago , Illinois</s>
+<s id='vn84'>Và bây giờ đến lượt Shantell Steve , đến từ quê hương Chicago của tôi , Illlinois .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Even when bouncing from foster home to foster home in the toughest neighborhoods , she managed to get a job at a local health center ; start a program to keep young people out of gangs ; and she 's on track to graduate high school with honors and go on to college .</s>
+<s id='vn85'>Ngay cả khi bị đá từ trại mồ côi này sang trại mồ côi kia trong những môi trường khắc nghiệt nhất , cô vẫn xoay xở kiếm việc làm ở một trung tâm y tế địa phương ; khởi đầu một chương trình để giữ cho giới trẻ không dính líu vào các băng nhóm ; và cô ấy cũng sắp sửa tốt nghiệp trung học hạng giỏi và học tiếp lên đại học .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Jazmin , Andoni and Shantell are n't any different from any of you .</s>
+<s id='vn86'>Jazmin , Andoni và Shantell chẳng khác gì với các em .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>They faced challenges in their lives just like you do .</s>
+<s id='vn87'>Họ cũng đối mặt với những thử thách trong đời y như các em .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>But they refused to give up .</s>
+<s id='vn88'>Nhưng họ không chịu đầu hàng .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>They chose to take responsibility for their education and set goals for themselves .</s>
+<s id='vn89'>Họ đã quyết định tự chịu trách nhiệm về việc học hành của mình và tự đặt ra mục tiêu cho bản thân .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>And I expect all of you to do the same .</s>
+<s id='vn90'>Và tôi mong tất cả các em đều làm giống vậy .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>That 's why today , I 'm calling on each of you to set your own goals for your education - and to do everything you can to meet them .</s>
+<s id='vn91'>Đó là lý do vì sao hôm nay tôi kêu gọi từng người trong các em phải đặt ra mục tiêu học tập của riêng mình - và làm mọi cách để đạt được các mục tiêu đó .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Your goal can be something as simple as doing all your homework , paying attention in class , or spending time each day reading a book</s>
+<s id='vn92'>Mục tiêu của các em có thể là một cái gì đó đơn giản như là làm hết bài tập ở nhà , chú ý nghe giảng , hoặc dành thời gian mỗi ngày để đọc sách .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Maybe you 'll decide to get involved in an extracurricular activity , or volunteer in your community .</s>
+<s id='vn93'>Có thể các em quyết định tham gia hoạt động ngoại khoá , hoặc làm tình nguyện viên trong cộng đồng của các em .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Maybe you 'll decide to stand up for kids who are being teased or bullied because of who they are or how they look , because you believe , like I do , that all kids deserve a safe environment to study and learn .</s>
+<s id='vn94'>Có thể các em quyết định đứng ra bảo vệ cho những đứa trẻ đang bị trêu chọc hay ăn hiếp do thân phận hay ngoại hình của chúng , bởi vì cũng giống tôi , các em tin rằng mọi đứa trẻ đều xứng đáng có một môi trường an toàn để nghiên cứu và học tập .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Maybe you 'll decide to take better care of yourself so you can be more ready to learn .</s>
+<s id='vn95'>Có thể các em sẽ quyết định chăm sóc bản thân mình tốt hơn để các em ham học hơn .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>And along those lines , I hope you 'll all wash your hands a lot , and stay home from school when you do n't feel well , so we can keep people from getting the flu this fall and winter .</s>
+<s id='vn96'>Và cùng với những phương pháp đó , tôi hy vọng tất cả các em sẽ rửa tay thật nhiều , và ở nhà không đi học khi các em cảm thấy không khoẻ , để chúng ta có thể giữ cho mọi người khỏi bị cúm trong mùa thu và mùa đông này .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Whatever you resolve to do , I want you to commit to it .</s>
+<s id='vn97'>Dù các em quyết định làm gì chăng nữa , tôi vẫn mong các em sẽ cam kết làm cho được .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>I want you to really work at it .</s>
+<s id='vn98'>Tôi muốn các em phải thực sự cố gắng làm điều đó .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>I know that sometimes , you get the sense from TV that you can be rich and successful without any hard work -- that your ticket to success is through rapping or basketball or being a reality TV star , when chances are , you 're not going to be any of those things .</s>
+<s id='vn99'>Tôi biết đôi khi , các em cảm nhận từ ti-vi rằng khi có cơ hội , các em có thể trở nên giàu có và thành công mà không cần phải vất vả gì cả -- rằng chiếc vé dẫn tới thành công của các em là việc hát nhạc rap , chơi bóng rổ hoặc trở thành một ngôi sao của chương trình người thật việc thật , nhưng các em sẽ không trở thành bất cứ cái gì trong những thứ đó .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>But the truth is , being successful is hard .</s>
+<s id='vn100'>Nhưng sự thật là , muốn thành công thì khó .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>You wo n't love every subject you study .</s>
+<s id='vn101'>Các em sẽ không thích hết mọi môn các em học .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>You wo n't click with every teacher .</s>
+<s id='vn102'>Các em cũng sẽ không được lòng tất cả thầy cô .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Not every homework assignment will seem completely relevant to your life right this minute .</s>
+<s id='vn103'>Không phải mọi bài tập về nhà đều có vẻ liên quan đến cuộc đời các em ngay lúc này .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>And you wo n't necessarily succeed at everything the first time you try .</s>
+<s id='vn104'>Và cũng không nhất thiết các em sẽ thành công trong mọi việc ngay lần đầu tiên .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>That 's OK .</s>
+<s id='vn105'>Cũng ổn thôi .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Some of the most successful people in the world are the ones who 've had the most failures</s>
+<s id='vn106'>Một số trong những người thành công nhất thế giới là những người đã từng nếm trải nhiều thất bại nhất .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>JK Rowling 's first Harry Potter book was rejected twelve times before it was finally published</s>
+<s id='vn107'>Quyển Harry Potter đầu tiên của JK Rowling đã bị từ chối 12 lần rồi cuối cùng mới được xuất bản .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Michael Jordan was cut from his high school basketball team , and he lost hundreds of games and missed thousands of shots during his career .</s>
+<s id='vn108'>Michael Jordan đã bị loại khỏi đội bóng rổ của trường trung học và anh ấy đã thua hàng trăm trận và đánh hụt hàng ngàn cú trong suốt sự nghiệp của mình .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>But he once said , " I have failed over and over and over again in my life .</s>
+<s id='vn109'>Nhưng đã có lần anh ấy nói : " Tôi đã thua đi thua lại nhiều lần trong đời mình .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>And that is why I succeed . "</s>
+<s id='vn110'>Và đó là lý do tại sao mà tôi thành công " .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>These people succeeded because they understand that you ca n't let your failures define you - you have to let them teach you</s>
+<s id='vn111'>Những người này đã thành công vì họ hiểu rằng các em không thể để thất bại hạn chế các em - các em phải để chúng dạy các em .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>You have to let them show you what to do differently next time .</s>
+<s id='vn112'>Các em phải để chúng chỉ cho các em biết lần sau phải làm gì cho khác đi .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>If you get in trouble , that does n't mean you 're a troublemaker , it means you need to try harder to behave .</s>
+<s id='vn113'>Nếu các em gặp rắc rối , đó không có nghĩa là các em là người chuyên gây chuyện , nó có nghĩa là các em cần cố gắng cư xử đàng hoàng hơn .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>If you get a bad grade , that does n't mean you 're stupid , it just means you need to spend more time studying</s>
+<s id='vn114'>Nếu các em bị điểm kém , điều đó không có nghĩa là các em ngu ngốc , mà nó chỉ có nghĩa là các em cần dành nhiều thời gian hơn cho việc học .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>No one 's born being good at things , you become good at things through hard work</s>
+<s id='vn115'>Không ai mới sinh ra mà đã giỏi đủ thứ , các em trở nên giỏi đủ thứ do học tập chăm chỉ .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>You 're not a varsity athlete the first time you play a new sport .</s>
+<s id='vn116'>Các em không thể là một vận động viên của trường đại học ngay lần đầu tiên các em chơi một môn thể thao mới .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>You do n't hit every note the first time you sing a song .</s>
+<s id='vn117'>Các em cũng không thể hát đúng tất cả các nốt nhạc ngay lần đầu tiên các em hát một bài hát .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>You 've got to practice</s>
+<s id='vn118'>Các em phải tập luyện .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>It 's the same with your schoolwork .</s>
+<s id='vn119'>Với chuyện học hành cũng vậy .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>You might have to do a math problem a few times before you get it right , or read something a few times before you understand it , or do a few drafts of a paper before it 's good enough to hand in .</s>
+<s id='vn120'>Các em có thể phải giải một bài toán một vài lần rồi mới làm đúng , hoặc đọc một cái gì đó vài lần rồi mới hiểu , hoặc viết nháp bài luận một vài lần rồi mới đủ hay để nộp .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Do n't be afraid to ask questions .</s>
+<s id='vn121'>Đừng ngại đặt câu hỏi .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Do n't be afraid to ask for help when you need it .</s>
+<s id='vn122'>Đừng ngại nhờ giúp đỡ khi các em thật sự cần đến .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>I do that every day .</s>
+<s id='vn123'>Ngày nào tôi cũng làm thế .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Asking for help is n't a sign of weakness , it 's a sign of strength</s>
+<s id='vn124'>Nhờ giúp đỡ không phải là biểu hiện của sự kém cỏi , mà nó là biểu hiện của sự mạnh mẽ .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>It shows you have the courage to admit when you do n't know something , and to learn something new .</s>
+<s id='vn125'>Nó cho thấy các em có can đảm thừa nhận khi các em không biết một cái gì đó , và có can đảm học một điều mới .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>So find an adult you trust - a parent , grandparent or teacher ; a coach or counselor - and ask them to help you stay on track to meet your goals .</s>
+<s id='vn126'>Vậy thì hãy tìm một người lớn mà các em tin tưởng – cha mẹ , ông bà hoặc thầy cô ; huấn luyên viên hoặc nhà tư vấn - để nhờ họ giúp các em vững bước đạt đến mục tiêu của mình .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>And even when you 're struggling , even when you 're discouraged , and you feel like other people have given up on you - do n't ever give up on yourself .</s>
+<s id='vn127'>Và ngay cả khi các em đang tranh đấu , ngay cả khi các em nản lòng , và các em cảm thấy tất cả mọi người đều chán các em - thì cũng đừng bao giờ tự chán mình .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Because when you give up on yourself , you give up on your country</s>
+<s id='vn128'>Bởi vì khi các em tự chán mình , các em cũng chán luôn cả đất nước của các em .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>The story of America is n't about people who quit when things got tough .</s>
+<s id='vn129'>Câu chuyện của nước Mỹ không phải là câu chuyện về những người bỏ cuộc khi mọi việc trở nên khó khăn .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>It 's about people who kept going , who tried harder , who loved their country too much to do anything less than their best .</s>
+<s id='vn130'>Đó là câu chuyện về những con người vẫn tiếp tục cố gắng , cố gắng nhiều hơn nữa , những người quá yêu quê hương mình đến nỗi không thể làm bất cứ việc gì mà không cố gắng hết sức .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>It 's the story of students who sat where you sit 250 years ago , and went on to wage a revolution and found this nation</s>
+<s id='vn131'>Đó là câu chuyện về những sinh viên mà cách đây 250 năm đã ngồi ngay chỗ các em đang ngồi , đã tiến hành một cuộc cách mạng và lập nên đất nước này .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Students who sat where you sit 75 years ago who overcame a Depression and won a world war ; who fought for civil rights and put a man on the moon .</s>
+<s id='vn132'>Những sinh viên cách đây 75 năm đã ngồi ngay chỗ các em đang ngồi cũng từng vượt qua cuộc Khủng hoảng và chiến thắng trong chiến tranh thế giới ; đã từng chiến đấu vì dân quyền và đưa con người lên mặt trăng .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Students who sat where you sit 20 years ago who founded Google , Twitter and Facebook and changed the way we communicate with each other</s>
+<s id='vn133'>Những sinh viên ngồi chỗ các em ngồi 20 năm về trước đã lập nên Google , Twitter và Fcaebook và thay đổi cách thức giao tiếp giữa chúng ta với nhau .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>So today , I want to ask you , what 's your contribution going to be ?</s>
+<s id='vn134'>Vậy thì hôm nay , tôi muốn hỏi các em , các em sẽ đóng góp được những gì ?</s>
+</spair>
+<spair id='135'>
+<s id='en135'>What problems are you going to solve ?</s>
+<s id='vn135'>Sẽ giải quyết được những vấn đề nào ?</s>
+</spair>
+<spair id='136'>
+<s id='en136'>What discoveries will you make ?</s>
+<s id='vn136'>Các em sẽ khám phá được gì ?</s>
+</spair>
+<spair id='137'>
+<s id='en137'>What will a president who comes here in twenty or fifty or one hundred years say about what all of you did for this country ?</s>
+<s id='vn137'>Một tổng thống sẽ đến đây trong 20,50 hay 100 năm nữa sẽ nói gì về những điều mà tất cả các em đã làm được cho đất nước này ?</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Your families , your teachers , and I are doing everything we can to make sure you have the education you need to answer these questions</s>
+<s id='vn138'>Gia đình các em , thầy cô các em và cả tôi sẽ làm mọi thứ có thể để đảm bảo rằng các em có được sự giáo dục cần để trả lời những câu hỏi này .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>I 'm working hard to fix up your classrooms and get you the books , equipment and computers you need to learn .</s>
+<s id='vn139'>Tôi đang nỗ lực sửa sang phòng học của các em và cung cấp cho các em sách vở , thiết bị và máy tính cần thiết cho các em học hành .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>But you 've got to do your part too .</s>
+<s id='vn140'>Nhưng các em cũng phải lo phần của mình nữa .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>So I expect you to get serious this year</s>
+<s id='vn141'>Vì thế tôi mong các em sẽ nghiêm túc trong năm nay .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>I expect you to put your best effort into everything you do .</s>
+<s id='vn142'>Tôi mong các em sẽ nỗ lực hết mình trong mỗi việc các em làm .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>I expect great things from each of you .</s>
+<s id='vn143'>Tôi mong chờ những điều lớn lao từ mỗi người trong các em .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>So do n't let us down - do n't let your family or your country or yourself down .</s>
+<s id='vn144'>Vì vậy đừng làm chúng tôi thất vọng - đừng làm gia đình các em , quê hương các em hay chính các em phải thất vọng .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Make us all proud .</s>
+<s id='vn145'>Hãy làm cho tất cả chúng ta đều cảm thấy tự hào .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>I know you can do it .</s>
+<s id='vn146'>Tôi biết các em có thể làm được điều đó .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Thank you , God bless you , and God bless America .</s>
+<s id='vn147'>Cảm ơn . Chúa phù hộ các em và Chúa phù hộ nước Mỹ .</s>
+</spair>
+</text>
+</doc>

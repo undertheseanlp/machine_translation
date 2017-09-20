@@ -1,0 +1,124 @@
+﻿<doc id='N0706'>
+<head>
+<title>The truth about our environment and water</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The truth about our environment and water</s>
+<s id='vn1'>Sự thật về môi trường và nước của chúng ta</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What really happened to our tap water and underground water ?</s>
+<s id='vn2'>Điều gì thực sự đã xảy ra với nước máy và nước ngầm của chúng ta ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Clean water is one of the most important needs of our bodies .</s>
+<s id='vn3'>Nước sạch là một trong những nhu cầu thiết yếu nhất đối với cơ thể của chúng ta .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It is a sad fact that something as essential to life as clean drinking water can no longer be granted to us .</s>
+<s id='vn4'>Một sự thật đáng buồn là vật quan trọng đối với sự sống giống như nước uống sạch có thể không còn cho chúng ta nữa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Unsafe water is not just a third world problem .</s>
+<s id='vn5'>Nước không an toàn không chỉ là vấn đề của thế giới thứ ba .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In fact , safe drinking water is even harder to find specially in industrially developed countries such as the U.S.</s>
+<s id='vn6'>Thực ra thì nước uống an toàn thậm chí khó tìm hơn nhất là ở các nước phát triển công nghiệp chẳng hạn như Hoa Kỳ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>According to research articles and news , most tap and well water in the U.S. now are not safe for drinking due to heavy industrial and environmental pollution .</s>
+<s id='vn7'>Theo tin tức và nhiều bài báo nghiên cứu thì hầu hết nước máy và nước giếng ở Mỹ hiện không uống được an toàn do ô nhiễm môi trường và công nghiệp nặng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>We have reached to a point that , all sources of our drinking water , including municipal water systems , wells , lakes , rivers , and even glaciers , contain some level of contamination .</s>
+<s id='vn8'>Chúng ta đã đề cập đến một điểm là tất cả các nguồn nước uống của mình , gồm hệ thống nước đô thị , giếng , sông , hồ , và thậm chí là sông băng nữa , đều bị ô nhiễm ở một mức độ nào đó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Contaminants range from naturally-occurring minerals to man-made chemicals and by-products .</s>
+<s id='vn9'>Chất gây ô nhiễm đủ loại từ chất khoáng thiên nhiên đến hoá chất nhân tạo và các sản phẩm phụ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>While many contaminants are found at levels not enough not to cause immediate discomforts or sicknesses , it is proven that even low-level exposure to many common contaminants will , over time , cause severe illness including liver damage , cancer , and other serious ailments .</s>
+<s id='vn10'>Mặc dù nhiều chất gây ô nhiễm được phát hiện thấy ở mức quá nhỏ không đủ để có thể gây bệnh hoặc gây ra cảm giác khó chịu tức thì , nhưng người ta đã chứng minh được rằng thậm chí tiếp xúc với nhiều chất gây ô nhiễm thường thấy ở một mức độ thấp ngày qua ngày cũng sẽ gây bệnh nghiêm trọng như hư gan , ung thư , và các bệnh tật nguy hiểm khác .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Even the chemicals commonly used to treat municipal water supplies such as chlorine and fluoride are toxic and are known to have significant adverse effects on the human body .</s>
+<s id='vn11'>Thậm chí là các hoá chất thường thấy được dùng để xử lý các nguồn nước đô thị chẳng hạn như clo và florít cũng độc hại và có ảnh hưởng xấu đáng kể đối với cơ thể người .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Tap water may also contain traces of prescription drugs .</s>
+<s id='vn12'>Nước máy cũng có thể chứa một lượng rất nhỏ thuốc theo toa .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>An investigation by the Associated Press has revealed the presence of a vast array of pharmaceuticals in municipal drinking water including antibiotics , anti-convulsants , mood stabilizers and sex hormones .</s>
+<s id='vn13'>Một cuộc điều tra của Associated Press cho biết nguồn nước uống đô thị hiện có rất nhiều loại dược phẩm chẳng hạn như thuốc kháng sinh , thuốc chống co giật , chất ổn định tâm trạng và hoóc-môn giới tính .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>These drugs were found in the drinking water supplies of at least 41 million Americans and in 24 major metropolitan areas - from Southern California to Northern New Jersey .</s>
+<s id='vn14'>Những loại thuốc này được phát hiện có trong nguồn nước uống của ít nhất 41 triệu người Mỹ và ở 24 vùng đô thị lớn - từ miền Nam California đến miền Bắc New Jersey .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The AP has mentioned reverse osmosis as a water filtration solution that removes virtually all pharmaceutical contaminants .</s>
+<s id='vn15'>Hãng AP cũng đã đề cập đến hiện tượng thẩm thấu ngược như là một giải pháp lọc nước có thể diệt sạch gần như hoàn toàn các chất gây ô nhiễm về mặt dược lý .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Can we depend on bottled water then ?</s>
+<s id='vn16'>Vậy thì chúng ta có thể phụ thuộc vào nước đóng chai không ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The fact is that bottled water sold in the United States is not always filtered and not necessarily cleaner or safer than most tap water , according to a four-year scientific study recently made public by the Natural Resources Defense Council ( NRDC ) .</s>
+<s id='vn17'>Theo một công trình nghiên cứu khoa học 4 năm mới được công bố gần đây của Hội đồng Bảo vệ Tài nguyên Thiên nhiên ( NRDC ) thì thực tế là nước đóng chai hiện được bán ở Hoa Kỳ không phải lúc nào cũng được lọc và chưa hẳn đã là sạch hơn hoặc an toàn hơn hầu hết các loại nước máy đâu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The NRDC 's study included testing of more than 1,000 bottles of 103 brands of bottled water .</s>
+<s id='vn18'>Nghiên cứu của NRDC bao gồm thử nghiệm , kiểm định hơn 1.000 chai nước đối với 103 thương hiệu sản xuất nước đóng chai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>While most of the tested waters were found to be of high quality , some brands were significantly contaminated .</s>
+<s id='vn19'>Mặc dù hầu hết các loại nước được kiểm định đều có chất lượng cao , nhưng một số thương hiệu thì nước lại bị nhiễm bẩn một cách đáng kể .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>About one-third of the waters tested contained levels of contamination including synthetic organic chemicals , bacteria , and arsenic ( at least one sample exceeded allowable limits under either state or bottled water industry standards or guidelines ) .</s>
+<s id='vn20'>Khoảng 1/3 các loại nước được kiểm định đều chứa hàm lượng chất gây bệnh như hoá chất hữu cơ tổng hợp , vi khuẩn , và a-sen ( có ít nhất 1 mẫu nước vượt giới hạn cho phép của cả nhà nước lẫn tiêu chuẩn hoặc hướng dẫn của ngành nước đóng chai ) .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In fact , about a quarter of all bottled water is actually bottled tap water , according to government and industry estimates ( some estimates go as high as 40 percent ) .</s>
+<s id='vn21'>Theo ước tính của chính phủ và ngành công nghiệp nước đóng chai thì thực ra có khoảng ¼ nước đóng chai thực sự là nước máy được đóng chai ( một số ước tính lên đến 40% ) .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Protect your family 's health and future with a high quality water filter</s>
+<s id='vn22'>Hãy bảo vệ sức khỏe và tương lai của gia đình bạn bằng thiết bị lọc nước chất lượng cao</s>
+</spair>
+<spair id='23'>
+<s id='en23'>A good water filter is the best and maybe the only solution nowadays .</s>
+<s id='vn23'>Thiết bị lọc nước tốt là giải pháp tốt nhất và có lẽ là giải pháp duy nhất hiện giờ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>You can install and maintain the filters yourself and can ensure and feel safe about the water which you and your family drink .</s>
+<s id='vn24'>Bạn có thể tự lắp và bảo quản các bộ lọc và hoàn toàn có thể đảm bảo và cảm thấy an toàn về nguồn nước mà mình và gia đình mình uống .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Just make sure the filter you choose removes the most spectrum of contaminants .</s>
+<s id='vn25'>Chỉ cần đảm bảo rằng thiết bị lọc của bạn có thể làm sạch được hầu hết các loạt chất gây bệnh .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Usually a professional filtration system worth invest-in is a 4 to 5 stage water purifier system .</s>
+<s id='vn26'>Thông thường thì một hệ thống lọc chuyên nghiệp đáng cho bạn đầu tư là hệ thống lọc nước gồm 4 đến 5 giai đoạn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Each stage will remove certain types of contaminants , and all stages combined should protect you from just about every contaminant .</s>
+<s id='vn27'>Mỗi giai đoạn sẽ lọc sạch được một số loại chất gây bẩn nào đó , và tất cả các giai đoạn kết hợp lại với nhau sẽ bảo vệ bạn hoàn toàn khỏi mọi chất gây bệnh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A reverse osmosis water filter with activated carbon pre-filters , plus an ultraviolet light , are what we believe to be the most thorough and cost effective way to purify drinking water .</s>
+<s id='vn28'>Thiết bị lọc nước thẩm thấu ngược với bộ lọc trước bằng than hoạt tính , kèm với ánh sáng tử ngoại , là những gì mà chúng ta tin sẽ là một biện pháp làm sạch nước uống kỹ lưỡng nhất và có lợi nhất về phí tổn .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,720 @@
+﻿<doc id='N0655'>
+<head>
+<title>Infertility</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Infertility</s>
+<s id='vn1'>Vô sinh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is infertility ?</s>
+<s id='vn2'>Vô sinh là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Infertility is defined by the American Society for Reproductive Medicine ( ASRM ) as a disease of the reproductive system that impairs the body 's ability to perform the basic function of rep r oduction .</s>
+<s id='vn3'>Vô sinh được định nghĩa bởi Hiệp hội Y học Sinh sản Hoa Kỳ ( ASRM ) là một bệnh của hệ sinh sản làm suy yếu khả năng của cơ thể để thực hiện chức năng cơ bản của việc sinh sản .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Although conceiving a child may seem to be simple and natural , the physiological process is quite complicated and depends on the proper function of many factors , including the following , as listed by the ASRM :</s>
+<s id='vn4'>Mặc dù việc thụ thai có vẻ đơn giản và tự nhiên , nhưng quá trình sinh lý lại khá phức tạp và phụ thuộc vào chức năng phù hợp của nhiều yếu tố , như được liệt kê sau đây bởi Hiệp hội Y học Sinh sản Hoa Kỳ :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>production of healthy sperm by the man</s>
+<s id='vn5'>sự sản xuất tinh trùng khỏe mạnh của người đàn ông</s>
+</spair>
+<spair id='6'>
+<s id='en6'>production of healthy eggs by the woman</s>
+<s id='vn6'>sự sản xuất trứng khỏe mạnh của người phụ nữ</s>
+</spair>
+<spair id='7'>
+<s id='en7'>unblocked fallopian tubes that allow the sperm to reach the egg</s>
+<s id='vn7'>ống dẫn trứng không bị tắt cho phép tinh trùng đến được trứng</s>
+</spair>
+<spair id='8'>
+<s id='en8'>the sperm 's ability to fertilize the egg</s>
+<s id='vn8'>khả năng của tinh trùng để thụ tinh trứng</s>
+</spair>
+<spair id='9'>
+<s id='en9'>the ability of the fertilized egg to become implanted in the uterus</s>
+<s id='vn9'>khả năng của trứng được thụ tinh để bám vào tử cung</s>
+</spair>
+<spair id='10'>
+<s id='en10'>adequate embryo quality</s>
+<s id='vn10'>chất lượng phôi đáp ứng</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Who is affected by infertility ?</s>
+<s id='vn11'>Ai bị ảnh hưởng bởi vô sinh ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Infertility affects about 12 percent of couples of childbearing age .</s>
+<s id='vn12'>Vô sinh ảnh hưởng đến khoảng 12% số cặp vợ chồng trong độ tuổi sinh đẻ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Infertility is not just a woman 's concern .</s>
+<s id='vn13'>Vô sinh không chỉ là nỗi lo lắng của riêng người phụ nữ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A problem with the male is the sole cause , or a contributing cause , of infertility in about 50 percent of infertile couples .</s>
+<s id='vn14'>Trục trặc ở nam giới cũng là nguyên nhân chính hoặc góp phần trong khoảng 50% cặp vợ chồng bị vô sinh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>About one-third of infertile couples have more than one cause or factor related to their inability to conceive .</s>
+<s id='vn15'>Khoảng một phần ba số cặp vợ chồng vô sinh có nhiều hơn một nguyên nhân hoặc yếu tố liên quan đến sự không có khả năng thụ thai của họ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>About 20 percent of couples have no identifiable cause for their infertility after medical investigation .</s>
+<s id='vn16'>Khoảng 20% trong số này không phát hiện được nguyên nhân vô sinh sau khi kiểm tra sức khỏe .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What causes infertility ?</s>
+<s id='vn17'>Điều gì gây ra vô sinh ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Many different factors and problems can cause infertility , including problems in the female reproductive system , the male reproductive system , or a combination of the two .</s>
+<s id='vn18'>Nhiều yếu tố và vấn đề khác nhau có thể gây ra vô sinh , bao gồm cả các vấn đề trong hệ sinh sản của phụ nữ , hệ sinh sản của đàn ông , hoặc kết hợp cả hai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The following are some of the conditions or factors that are associated with infertility :</s>
+<s id='vn19'>Sau đây là một số những rối loạn hoặc yếu tố có liên quan đến vô sinh :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>female factors</s>
+<s id='vn20'>những vấn đề ở người phụ nữ</s>
+</spair>
+<spair id='21'>
+<s id='en21'>ovulation dysfunction</s>
+<s id='vn21'>rối loạn chức năngrụng trứng</s>
+</spair>
+<spair id='22'>
+<s id='en22'>With this condition , the woman 's reproductive system does not produce the proper amounts of hormones necessary to develop , mature , and release a healthy egg .</s>
+<s id='vn22'>Với bệnh này , hệ sinh sản của người đàn bà không tạo ra lượng phù hợp của các hoóc - môn cần thiết cho sự phát triển , chín và rụng trứng khỏe mạnh .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>anatomical problems</s>
+<s id='vn23'>các vấn đề cấu tạo cơ thể</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Abnormal development or function of the female anatomy can prevent the egg and the sperm from meeting .</s>
+<s id='vn24'>Sự phát triển hoặc chức năng bất bình thường của cơ thể người phụ nữ có thể ngăn ngừa trứng và tinh trùng gặp nhau .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The most common anatomical problem is blockage of the fallopian tubes .</s>
+<s id='vn25'>Vấn đề cấu tạo cơ thể thường gặp nhất là tắt nghẽn ống dẫn noãn ( vòi Fallope ) .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Other anatomical problems may include the presence of pelvic scar tissue from previous surgeries or infections .</s>
+<s id='vn26'>Các vấn đề cấu tạo cơ thể khác có thể bao gồm sự hiện diện của mô sẹo vùng chậu do phẫu thuật hoặc nhiễm trùng trước đây .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>endometriosis</s>
+<s id='vn27'>lạc nội mạc tử cung</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Endometriosis is a condition in which the tissue that lines the uterus develops outside the uterus , usually on other reproductive organs inside the pelvis or in the abdominal cavity .</s>
+<s id='vn28'>Lạc nội mạc tử cung là bệnh trong đó các mô lót tử cung phát triển bên ngoài tử cung , thường là trên các cơ quan sinh sản khác trong xương chậu hoặc trong khoang bụng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Each month , this misplaced tissue responds to the hormonal changes of the menstrual cycle by building up and breaking down , resulting in internal bleeding which can cause scar tissue to form and affect reproductive organ function .</s>
+<s id='vn29'>Mỗi tháng , mô lạc vị này phản ứng với những thay đổi do hóc - môn của chu kỳ kinh nguyệt theo cách dày lên và bong ra , dẫn đến chảy máu có thể làm mô sẹo hình thành và ảnh hưởng đến chức năng của cơ quan sinh sản .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>birth defects</s>
+<s id='vn30'>các dị tật bẩm sinh</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Abnormal development and function of reproductive organs resulting from birth defects can affect fertility .</s>
+<s id='vn31'>Sự phát triển và chức năng bất thường của cơ quan sinh sản do khuyết tật bẩm sinh có thể ảnh hưởng đến khả năng sinh sản .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>One of the most common reproductive system birth defects occurs following a woman 's exposure to DES ( diethylstilbestrol ) taken by her mother during pregnancy .</s>
+<s id='vn32'>Một trong những khuyết tật bẩm sinh phổ biến nhất của hệ sinh sản xảy ra do người phụ nữ bị nhiễm DES ( diethylstilbestrol ) từ mẹ khi mang thai .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In years past , DES was given to women at risk for pregnancy loss .</s>
+<s id='vn33'>Trong những năm qua , DES đã được kê toa cho những phụ nữ có nguy cơ sẩy thai .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Fetal DES exposure often causes abnormal development of the uterus and cervix .</s>
+<s id='vn34'>Bào thai phơi nhiễm với DES thường gặp bất thường trong sự phát triển của tử cung và cổ tử cung .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>infection</s>
+<s id='vn35'>nhiễm trùng</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Pelvic inflammatory disease ( PID ) is caused by a type of bacteria such as gonorrhea and chlamy dia .</s>
+<s id='vn36'>Bệnh viêm khung chậu ( PID ) gây ra do loại vi khuẩn như bệnh lậu và chlamydia .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>PID can affect the uterus , fallopian tubes , and_or the ovaries .</s>
+<s id='vn37'>Bệnh viêm khung chậu có thể tấn công tử cung , ống dẫn noãn ( vòi Fallope ) , và hoặc buồng trứng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>It can lead to pelvic adhesions and scar tissue that develops between internal organs , causing ongoing pelvic pain and the possibility of an ectopic pregnancy ( the fertilized egg becomes implanted outside the uterus ) .</s>
+<s id='vn38'>Nó có thể dẫn đến dính xương chậu và mô sẹo phát triển giữa các cơ quan nội tạng , gây ra đau xương chậu phát triển và khả năng mang thai ngoài tử cung ( trứng được thụ tinh bám vào bên ngoài tử cung ) .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>immunological problems</s>
+<s id='vn39'>các vấn đề miễn dịch</s>
+</spair>
+<spair id='40'>
+<s id='en40'>A problem with a woman 's immune system can lead to pregnancy loss .</s>
+<s id='vn40'>Những rối loạn trong hệ miễn dịch của người phụ nữ có thể dẫn đến sẩy thai .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Antibodies ( immune or protective proteins ) in a woman 's system can fail to recognize a pregnancy , or there may be an abnormal immune response to the pregnancy .</s>
+<s id='vn41'>Các kháng thể ( các prô-tê-in miễn dịch hoặc bảo vệ ) trong cơ thể phụ nữ có thể không nhận biết được sự có thai , hoặc có thể có một phản ứng miễn dịch bất thường đối với sự mang thai .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Women can also develop antisperm antibodies which attack and destroy sperm .</s>
+<s id='vn42'>Phụ nữ cũng có thể phát triển các kháng thể kháng tinh trùng sẽ tấn công và tiêu diệt tinh trùng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>male factors</s>
+<s id='vn43'>những vấn đề ở người đàn ông</s>
+</spair>
+<spair id='44'>
+<s id='en44'>low or absent sperm production</s>
+<s id='vn44'>không sản xuất hoặc sản xuất ít tinh trùng</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Without proper numbers of healthy sperm , the chance of fertilization is decreased .</s>
+<s id='vn45'>Nếu không có số lượng tinh trùng khỏe mạnh thích hợp , cơ hội thụ tinh sẽ giảm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>abnormal sperm function</s>
+<s id='vn46'>chức năng tinh trùng bất thường</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Sperm must have proper motility and the ability to penetrate the egg .</s>
+<s id='vn47'>Tinh trùng phải có chuyển động thích hợp và khả năng xâm nhập trứng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>varicocele</s>
+<s id='vn48'>giãn tĩnh mạch thừng tinh</s>
+</spair>
+<spair id='49'>
+<s id='en49'>This is a condition in which varicose veins develop around the testes .</s>
+<s id='vn49'>Đây là một bệnh trong đó các tĩnh mạch căng giãn phát triển quanh tinh hoàn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>It is a very common cause of male factor infertility and is usually treatable and reversible with surgery .</s>
+<s id='vn50'>Nó là một nguyên nhân rất phổ biến của các yếu tố vô sinh nam và thường có thể điều trị và hồi phục bằng phẫu thuật .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>lifestyle</s>
+<s id='vn51'>lối sống</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Use of recreational drugs ( i.e. , marijuana , cocaine ) , heavy alcohol use , cigarette smoking , certain medications , and excessive heat to the genital area ( as in hot tub s ) can affect sperm quality and function .</s>
+<s id='vn52'>Sử dụng các chất kích thích ( như cần sa , cô-ca-in ) , sử dụng rượu nặng , hút thuốc , một số loại dược phẩm , và nhiệt độ quá nóng ở vùng sinh dục ( như trong bồn tắm nước nóng ) có thể ảnh hưởng đến chất lượng và chức năng tinh trùng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>hormonal disorders</s>
+<s id='vn53'>rối loạn hoóc-môn</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Improper male hormone or endocrine function can affect sperm production and fertilization ability .</s>
+<s id='vn54'>Hoóc-môn nam hoặc chức năng nội tiết không đúng có thể ảnh hưởng đến sự sản xuất tinh trùng và khả năng thụ tinh .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>chromosomal defects</s>
+<s id='vn55'>dị tật nhiễm sắc thể</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Certain chromosomal abnormalities are associated with male infertility .</s>
+<s id='vn56'>Một số dị dạng nhiễm sắc thể gắn liền với chứng vô sinh ở nam .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>birth defects</s>
+<s id='vn57'>dị tật bẩm sinh</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Abnormalities in a man 's reproductive system can occur during fetal development .</s>
+<s id='vn58'>Bất thường trong hệ sinh sản của con người có thể xảy ra trong sự phát triển thai nhi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Some birth defects are due to a man 's exposure to DES ( diethylstilbestrol ) taken by his mother during pregnancy .</s>
+<s id='vn59'>Một số khuyết tật bẩm sinh do phơi nhiễm với DES ( diethylstilbestrol ) khi người đàn ông được mang thai .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>immunological problems</s>
+<s id='vn60'>vấn đề miễn dịch</s>
+</spair>
+<spair id='61'>
+<s id='en61'>A man may have antisperm antibodies ( immune or protective proteins ) which attack and destroy sperm .</s>
+<s id='vn61'>Một người đàn ông có thể có kháng thể kháng tinh trùng ( các prô-tê-in miễn dịch hoặc bảo vệ ) tấn công và tiêu diệt tinh trùng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>How is infertility diagnosed ?</s>
+<s id='vn62'>Vô sinh được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='63'>
+<s id='en63'>When conception does not occur after one year of unprotected intercourse , after six months in women over age 35 , or if there are known problems causing infertility , a medical evaluation of both the male and female is recommended .</s>
+<s id='vn63'>Khi sự thụ thai không xảy ra sau một năm quan hệ tình dục không dùng biện pháp bảo vệ , sau sáu tháng ở phụ nữ trên 35 tuổi , hoặc nếu có biết những vấn đề gây vô sinh , một giám định y khoa sẽ được đề nghị thực hiện ở cả người nam và nữ .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Some obstetrician // gynecologists ( OB/GYNs ) are able to provide basic infertility evaluation and treatment .</s>
+<s id='vn64'>Một số bác sĩ sản khoa // bác sĩ phụ khoa ( OB/GYN ) có thể cung cấp đánh giá và điều trị vô sinh cơ bản .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>However , many causes of infertility are best treated by a board-certified reproductive endocrinologist .</s>
+<s id='vn65'>Tuy nhiên , nhiều nguyên nhân vô sinh sẽ được điều trị tốt nhất bởi một bác sĩ chuyên khoa nội tiết và sinh sản .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>This is an OB/GYN who has had additional education and training in infertility and is certified with the American Board of Obstetrics and Gynecology in the sub-specialty of Reproductive Endocrinology and Infertility .</s>
+<s id='vn66'>Đây là một bác sĩ sản khoa // phụ khoa được huấn luyện và đào tạo thêm về vô sinh và có chứng nhận của Hiệp hội Sản Phụ khoa Hoa Kỳ trong chuyên khoa phụ Nội tiết sinh sản và Vô sinh .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Generally , the OB/GYN or reproductive endocrinologist will evaluate specific situations and perform tests in both the male and female partners to determine the cause of infertility .</s>
+<s id='vn67'>Nói chung , bác sĩ sản khoa // phụ khoa hoặc bác sĩ chuyên khoa nội tiết sinh sản sẽ đánh giá tình hình cụ thể và thực hiện các xét nghiệm trong cả người nam và nữ để xác định nguyên nhân vô sinh .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The physician is looking for answers to the following questions :</s>
+<s id='vn68'>Các bác sĩ sẽ tìm câu trả lời cho những câu hỏi sau :</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Is the female ovulating regularly ?</s>
+<s id='vn69'>Người nữ rụng trứng thường xuyên không ?</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Is the male producing healthy , viable sperm ?</s>
+<s id='vn70'>Người nam có tạo ra tinh trùng khoẻ mạnh và có thể sống không ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Are the female 's egg and the male 's sperm able to unite and grow normally ?</s>
+<s id='vn71'>Trứng của người nữ và tinh trùng của người nam có thể thụ tinh và phát triển bình thường không ?</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Are there any obstacles to proper implantation and maintenance of the pregnancy ?</s>
+<s id='vn72'>Có trở ngại gì trong việc bám của bào thai vào tử cung và nuôi dưỡng bào thai không ?</s>
+</spair>
+<spair id='73'>
+<s id='en73'>The following tests are often part of the basic medical workup for infertility .</s>
+<s id='vn73'>Các xét nghiệm sau đây thường là một phần của việc kiểm tra sức khoẻ tổng quát cơ bản cho vô sinh .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>both partners</s>
+<s id='vn74'>cả hai người nam và nữ</s>
+</spair>
+<spair id='75'>
+<s id='en75'>medical and sexual history ( to evaluate possible physical causes of infertility and if sexual intercourse has been appropriately timed )</s>
+<s id='vn75'>tiền sử sức khỏe và tình dục ( để đánh giá các nguyên nhân thể chất có thể gây vô sinh và liệu thời gian quan hệ tình dục có thích hợp chưa )</s>
+</spair>
+<spair id='76'>
+<s id='en76'>female</s>
+<s id='vn76'>người nữ</s>
+</spair>
+<spair id='77'>
+<s id='en77'>physical examination</s>
+<s id='vn77'>kiểm tra sức khoẻ tổng quát</s>
+</spair>
+<spair id='78'>
+<s id='en78'>A complete physical examination ( including a Pap smear and testing for infection ) will be necessary .</s>
+<s id='vn78'>Một cuộc kiểm tra sức khoẻ tổng quát toàn diện ( bao gồm phết tế bào cổ tử cung và xét nghiệm nhiễm trùng ) sẽ cần thiết .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>ovulation evaluation</s>
+<s id='vn79'>đánh giá sự rụng trứng</s>
+</spair>
+<spair id='80'>
+<s id='en80'>An evaluation of ovulation function using an analysis of body temperatures and ovulation called the basal body temperature chart , or with ovulation prediction methods using urine samples , may be recommended .</s>
+<s id='vn80'>Đánh giá chức năng rụng trứng bằng cách phân tích thân nhiệt và sự rụng trứng được gọi là biểu đồ nhiệt độ cơ thể cơ bản , hoặc với phương pháp dự đoán sự rụng trứng sử dụng mẫu nước tiểu , có thể được đề nghị .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>hormone testing</s>
+<s id='vn81'>xét nghiệm hoóc-môn</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Hormone testing may be recommended , as certain hormones increase and decrease in production at various times in the monthly cycle .</s>
+<s id='vn82'>Xét nghiệm hoóc-môn có thể được đề nghị , vì sự sản xuất một số hoóc-môn sẽ tăng hoặc giảm vào các thời điểm khác nhau trong chu kỳ hàng tháng .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>ultrasound</s>
+<s id='vn83'>siêu âm</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Ultrasound can show the presence of follicles ( the sacs containing developing eggs ) and the thickness of the uterine tissues .</s>
+<s id='vn84'>Siêu âm có thể thấy sự hiện diện của các nang ( các túi chứa trứng đang phát triển ) và độ dày của các mô tử cung .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Ultrasound can also show abnormal conditions , such as ovarian cysts or fibroids ( benign tumors in the uterus ) .</s>
+<s id='vn85'>Siêu âm cũng có thể cho thấy những tình trạng bất thường , như là u nang buồng trứng hoặc u xơ tử cung ( các khối u lành tính trong tử cung ) .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>x-rays</s>
+<s id='vn86'>X-quang</s>
+</spair>
+<spair id='87'>
+<s id='en87'>A hysterosalpingogram may be recommended .</s>
+<s id='vn87'>Chụp X-quang vòi tử cung có thể được đề nghị .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>This test uses a radio-opaque dye injected into the cervical opening to visualize the inside of the uterus and determine if the fallopian tubes are open .</s>
+<s id='vn88'>Xét nghiệm này sử dụng một loại thuốc nhuộm cản bức xạ tiêm vào lổ cổ tử cung để xem xét bên trong tử cung và xác định xem các ống dẫn trứng có thông hay không .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>male</s>
+<s id='vn89'>người nam</s>
+</spair>
+<spair id='90'>
+<s id='en90'>semen analysis</s>
+<s id='vn90'>phân tích tinh dịch</s>
+</spair>
+<spair id='91'>
+<s id='en91'>A collection of a semen sample obtained by masturbation that is analyzed in the laboratory for the sperm count , sperm motility , sperm shape , quantity , and evaluation of the ejaculate liquid may be recommended .</s>
+<s id='vn91'>Tập hợp các nhóm mẫu tinh dịch thu được bằng cách thủ dâm được xét nghiệm phân tích mật độ , chuyển động , hình dạng , số lượng của tinh trùng , và có thể được đề nghị giám định tinh dịch .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>According to the ASRM , a normal ejaculate contains more than 20 million sperm per milliliter of liquid , more than 50 percent of the sperm should be moving forward , and more than 30 percent of sperm should have normal shapes .</s>
+<s id='vn92'>Theo Hiệp hội Y học Sinh sản Hoa Kỳ , một lần xuất tinh bình thường chứa hơn 20 triệu tinh trùng trong mỗi mi-li-lít tinh dịch , hơn 50% tinh trùng sẽ di chuyển về phía trước , và hơn 30% tinh trùng phải có hình dạng bình thường .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>other tests may be performed that evaluate the sperm 's ability to penetrate the egg , as well as male hormone testing</s>
+<s id='vn93'>các xét nghiệm khác có thể được thực hiện để đánh giá khả năng thâm nhập vào trứng của tinh trùng , cũng như xét nghiệm nội tiết tố nam</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Men may be referred to a urologist for further evaluation .</s>
+<s id='vn94'>Nam giới có thể được giới thiệu đến bác sĩ chuyên khoa niệu để được đánh giá thêm .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Treatment for infertility :</s>
+<s id='vn95'>Điều trị vô sinh :</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Specific treatment for infertility will be determined by your physician based on :</s>
+<s id='vn96'>Điều trị vô sinh cụ thể sẽ được xác định bởi bác sĩ của bạn dựa trên :</s>
+</spair>
+<spair id='97'>
+<s id='en97'>your age , overall health , and medical history</s>
+<s id='vn97'>tuổi của bạn , sức khỏe tổng quát , và tiền sử bệnh</s>
+</spair>
+<spair id='98'>
+<s id='en98'>extent of the disorder</s>
+<s id='vn98'>mức độ bệnh</s>
+</spair>
+<spair id='99'>
+<s id='en99'>cause of the disorder</s>
+<s id='vn99'>nguyên nhân bệnh</s>
+</spair>
+<spair id='100'>
+<s id='en100'>your tolerance for specific medications , procedures , or therapies</s>
+<s id='vn100'>dung nạp của bạn với thuốc , phương thức điều trị , hoặc liệu pháp</s>
+</spair>
+<spair id='101'>
+<s id='en101'>expectations for the course of the disorder</s>
+<s id='vn101'>dự đoán tiến triển của bệnh</s>
+</spair>
+<spair id='102'>
+<s id='en102'>your opinion or preference</s>
+<s id='vn102'>ý kiến hoặc nguyện vọng của bạn</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Once a diagnosis is made , the specialist can work with you to determine the course of treatment .</s>
+<s id='vn103'>Một khi chẩn đoán , các chuyên gia có thể làm việc với bạn để xác định liệu trình điều trị .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>According to the ASRM , most infertility cases ( 85 to 90 percent ) are treated with conventional therapies , such as drug treatment or surgical repair of reproductive abnormalities .</s>
+<s id='vn104'>Theo Hiệp hội Y học Sinh sản Hoa Kỳ , hầu hết các trường hợp vô sinh ( 85% tới 90% ) , sẽ được điều trị bằng các liệu pháp thông thường , chẳng hạn như điều trị bằng thuốc hoặc phẫu thuật sửa chữa những bất thường của hệ sinh sản .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Depending on the cause of infertility , there are many options to offer an infertile couple .</s>
+<s id='vn105'>Tùy thuộc vào nguyên nhân vô sinh , có nhiều lựa chọn chữa trị cung cấp cho một cặp vợ chồng vô sinh .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Types of treatments for women may include the following :</s>
+<s id='vn106'>Những phương pháp điều trị cho phụ nữ có thể bao gồm :</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Ovulation medications</s>
+<s id='vn107'>Dược phẩm kiểm soát sự rụng trứng</s>
+</spair>
+<spair id='108'>
+<s id='en108'>These medications help regulate the timing of ovulation and stimulate the development and release of mature eggs .</s>
+<s id='vn108'>Các loại dược phẩm này giúp kiểm soát thời gian rụng trứng và kích thích sự phát triển và phóng thích trứng chín .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>They can also help correct hormonal problems that can affect the lining of the uterus as it prepares to receive a fertilized egg .</s>
+<s id='vn109'>Chúng cũng có thể giúp điều chỉnh các rối loạn về nội tiết tố có thể ảnh hưởng đến niêm mạc tử cung khi nó chuẩn bị nhận trứng đã được thụ tinh .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Ovulation medications can stimulate more than one egg to be released which increases the possibility of having twins and other multiples .</s>
+<s id='vn110'>Thuốc rụng trứng có thể kích thích nhiều hơn một trứng được phóng thích làm tăng khả năng mang thai song sinh và đa sinh .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Some of the common ovulation medications include the following :</s>
+<s id='vn111'>Một số thuốc rụng trứng thông thường bao gồm :</s>
+</spair>
+<spair id='112'>
+<s id='en112'>clomiphene citrate</s>
+<s id='vn112'>clomiphene citrate</s>
+</spair>
+<spair id='113'>
+<s id='en113'>human menopausal gonadotropins - medications containing follicle-stimulating hormone ( FSH ) and luteinizing hormone ( LH )</s>
+<s id='vn113'>hoóc-môn kích thích tuyến sinh dục ở người mãn kinh - các thuốc chứa hoóc-môn sinh sản ( FSH ) và hoóc-môn tạo hoàng thể ( LH )</s>
+</spair>
+<spair id='114'>
+<s id='en114'>follicle-stimulating hormone ( FSH )</s>
+<s id='vn114'>hoóc-môn sinh sản ( FSH )</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Intrauterine insemination</s>
+<s id='vn115'>Thụ tinh trong tử cung</s>
+</spair>
+<spair id='116'>
+<s id='en116'>For some conditions , including low sperm count and cervical mucus problems , a procedure that places specially washed and prepared sperm directly into the uterus through a small catheter ( flexible tub e ) helps increase the chances for conception .</s>
+<s id='vn116'>Đối với một số điều kiện , chẳng hạn như mật độ tinh trùng thấp và vấn đề chất nhầy cổ tử cung , một quy trình sẽ đưa tinh trùng đã được rửa sạch và chuẩn bị trực tiếp vào trong tử cung thông qua một ống nhỏ ( ống mềm dẻo ) giúp tăng cơ hội thụ thai .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>This procedure is often used in combination with ovulation medications .</s>
+<s id='vn117'>Phương thức này thường được dùng trong kết hợp với thuốc kiểm soát sự rụng trứng .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Surgery</s>
+<s id='vn118'>Phẫu thuật</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Surgery may be used to treat or repair a condition that is causing infertility such as fallopian tube blockage , or endometriosis .</s>
+<s id='vn119'>Phẫu thuật có thể được dùng để điều trị hoặc sửa chữa một tình trạng gây ra vô sinh như tắt nghẽn ống dẫn noãn , hoặc bệnh lạc nội mạc tử cung .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>A common surgical procedure often used as part of the diagnostic workup of infertility is the laparoscopy .</s>
+<s id='vn120'>Một thủ thuật phẫu thuật thông dụng thường được dùng như một phần của kiểm tra chẩn đoán vô sinh là phẫu thuật nội soi .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>In a laparoscopy , a small telescope inserted into the abdominal or pelvic cavity allows internal organs to be visualized .</s>
+<s id='vn121'>Trong phẫu thuật nội soi , một kính viễn vọng nhỏ được đưa vào trong ổ bụng hoặc vùng chậu cho phép xem xét các cơ quan nội tạng .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Some procedures to treat infertility can be performed using instruments inserted through the laparoscope .</s>
+<s id='vn122'>Một số cách điều trị vô sinh có thể được thực hiện bằng cách sử dụng dụng cụ đưa vào qua ống nội soi .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Assisted reproductive technology ( ART )</s>
+<s id='vn123'>Kỹ thuật hỗ trợ sinh sản ( ART )</s>
+</spair>
+<spair id='124'>
+<s id='en124'>For some couples , more extensive treatment is needed .</s>
+<s id='vn124'>Đối với một số cặp vợ chồng , cần phải được điều trị sâu rộng hơn .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>With most forms of ART , the sperm and egg are united in the laboratory and the fertilized egg is returned to the woman 's uterus where it can implant and develop .</s>
+<s id='vn125'>Với hầu hết các dạng kỹ thuật hỗ trợ sinh sản , tinh trùng và trứng được kết hợp trong phòng thí nghiệm và trứng được thụ tinh được trả lại vào tử cung của người phụ nữ nơi nó có thể bám vào và phát triển .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Although ART procedures are often costly , many are being used with success .</s>
+<s id='vn126'>Mặc dù những kỹ thuật này thường tốn kém , nhưng nhiều người đã thành công .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>These include the following :</s>
+<s id='vn127'>Chúng bao gồm những điều sau đây :</s>
+</spair>
+<spair id='128'>
+<s id='en128'>In vitro fertilization ( IVF )</s>
+<s id='vn128'>Thụ tinh trong ống nghiệm ( IVF )</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Involves extracting a woman 's eggs , fertilizing the eggs in the laboratory with sperm , and then transferring the resulting embryo(s ) into the woman 's uterus through the cervix ( embryo transfer ) where it can develop .</s>
+<s id='vn129'>Bao gồm lấy trứng của người phụ nữ , thụ tinh trứng trong phòng xét nghiệm với tinh trùng , và sau đó chuyển một hoặc nhiều phôi đã được thụ tinh vào tử cung của người phụ nữ qua đường cổ tử cung ( chuyển giao phôi ) , nơi phôi có thể phát triển .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Most couples transfer two embryos ; however , more may be transferred in certain cases .</s>
+<s id='vn130'>Hầu hết các cặp vợ chồng đều chuyển hai phôi , tuy nhiên , có thể chuyển nhiều hơn tùy các trường hợp nhất định .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>IVF is the most common form of ART and it is often the treatment of choice for a woman with blocked , severely damaged , or absent fallopian tubes .</s>
+<s id='vn131'>Thụ tinh nhân tạo là hình thức phổ biến nhất của kỹ thuật hỗ trợ sinh sản và nó thường được lựa chọn điều trị cho một phụ nữ bị tắt , hư hỏng nặng hay không có ống dẫn trứng .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>IVF is also used for infertility caused by endometriosis or male factor infertility .</s>
+<s id='vn132'>Thụ tinh nhân tạo cũng được dùng chữa vô sinh gây ra bởi bệnh lạc nội mạc tử cung hoặc yếu tố vô sinh nam .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>IVF is sometimes used to treat couples with long-term unexplained infertility who have not been able to conceive with other infertility treatments .</s>
+<s id='vn133'>Thụ tinh nhân tạo đôi khi cũng được dùng để điều trị cho những cặp vợ chồng vô sinh không rõ nguyên nhân trong thời gian dài đã không thể thụ thai với các phương pháp điều trị vô sinh khác .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>According to the ASRM , the average cost of one IVF cycle in the United States is $ 12,400 .</s>
+<s id='vn134'>Theo ASRM , chi phí trung bình cho một lần thụ tinh trong ống nghiệm ở Hoa Kỳ là 12.400 đô-la .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>More than one IVF cycle , however , is usually needed .</s>
+<s id='vn135'>Tuy nhiên , thường thì cần phải thực hiện nhiều hơn 1 lần .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Intracytoplasmic sperm injection ( ICSI )</s>
+<s id='vn136'>Tiêm tinh trùng nội bào tương ( ICSI )</s>
+</spair>
+<spair id='137'>
+<s id='en137'>A procedure in which a single sperm is injected directly into an egg ; this procedure is most commonly used to help with male factor infertility problems .</s>
+<s id='vn137'>Một thủ thuật trong đó một tinh trùng được tiêm trực tiếp vào một quả trứng ; thường được dùng điều trị cho các rối loạn yếu tố vô sinh nam .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Gamete intrafallopian transfer ( GIFT )</s>
+<s id='vn138'>Chuyển giao tử vào vòi trứng ( GIFT )</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Involves using a fiber-optic instrument called a laparoscope to guide the transfer of unfertilized eggs and sperm into the woman 's fallopian tubes through small incisions in her abd omen .</s>
+<s id='vn139'>Bao gồm việc sử dụng một dụng cụ sợi quang học gọi là ống nội soi để hướng dẫn việc chuyển giao các trứng chưa được thụ tinh và tinh trùng vào ống dẫn trứng của người phụ nữ thông qua các vết mổ nhỏ ở bụng của cô .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>GIFT is only used in women with healthy fallopian tubes .</s>
+<s id='vn140'>Chuyển giao tử vào vòi trứng chỉ được thực hiện ở phụ nữ có ống dẫn trứng khỏe mạnh .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Zygote intrafallopian transfer ( ZIFT )</s>
+<s id='vn141'>Chuyển phôi ( hợp tử ) vào vòi trứng ( ZIFT )</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Involves fertilizing a woman 's eggs in the laboratory and then using a laparoscope to guide the transfer of the fertilized eggs ( zygotes ) into her fallopian tubes .</s>
+<s id='vn142'>Bao gồm việc thụ tinh trứng của người phụ nữ trong phòng thí nghiệm và sau đó sử dụng một ống nội soi để hướng dẫn việc chuyển giao các trứng đã thụ tinh ( hợp tử ) vào ống dẫn trứng của cô .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>ZIFT is only used in women with healthy fallopian tubes .</s>
+<s id='vn143'>Chuyển phôi vào vòi trứng chỉ được sử dụng ở phụ nữ có ống dẫn trứng khỏe mạnh .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Donor eggs</s>
+<s id='vn144'>Hiến tặng trứng</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Involves an embryo formed from the egg of one woman ( the donor ) being transferred to another woman who is unable to conceive with her own eggs ( the recipient ) .</s>
+<s id='vn145'>Liên quan đến một phôi thai hình thành từ trứng của một phụ nữ ( người hiến tặng ) được chuyển cho một người phụ nữ không thể thụ thai với trứng của chính mình ( người nhận ) .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>The donor relinquishes all parental rights to any resulting offs pring .</s>
+<s id='vn146'>Người hiến tặng phải cam kết từ bỏ tất cả các quyền cha mẹ đối với đứa con được thụ tinh .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>ART using donor eggs is much more common among older women than among younger women .</s>
+<s id='vn147'>ART sử dụng trứng hiến tặng phổ biến cho phụ nữ lớn tuổi hơn so với phụ nữ trẻ .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>The likelihood of a fertilized egg implanting is related to the age of the woman who produced the egg .</s>
+<s id='vn148'>Khả năng bám vào tử cung và sống được của trứng đã thụ tinh liên quan đến tuổi tác của người phụ nữ hiến trứng .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Egg donors are typically in their 20s or early 30s .</s>
+<s id='vn149'>Người cho trứng nên ở tuổi đôi mươi hay đầu ba mươi .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Embryo cryopreservation</s>
+<s id='vn150'>Trữ lạnh phôi</s>
+</spair>
+<spair id='151'>
+<s id='en151'>A procedure in which embryos are preserved through freezing ( cryopreservation ) for transfer at a later date .</s>
+<s id='vn151'>Phương thức trong đó phôi được bảo quản bằng cách đông lạnh ( trữ lạnh ) để chuyển giao vào thời gian sau đó .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>This procedure is often used when an IVF cycle produces more embryos than can be transferred at one time .</s>
+<s id='vn152'>Phương thức này thường được dùng khi một lần thụ tinh trong ống nghiệm tạo ra nhiều phôi hơn có thể cấy ghép cùng một lúc .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>The remaining embryos can be transferred in a future cycle if the woman does not become pregnant .</s>
+<s id='vn153'>Những phôi còn lại có thể cấy ghép truyền trong lần sau nếu người phụ nữ không mang thai được .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>There is a range of treatment options currently available for male factor infertility .</s>
+<s id='vn154'>Hiện có một loạt các lựa chọn điều trị cho các yếu tố vô sinh nam .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Treatment may include :</s>
+<s id='vn155'>Điều trị có thể bao gồm :</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Assisted reproductive technologies ( ART ) .</s>
+<s id='vn156'>Các kỹ thuật hỗ trợ sinh sản ( ART ) .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>This type of treatment may include the following :</s>
+<s id='vn157'>Loại điều trị này có thể bao gồm :</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Artificial insemination</s>
+<s id='vn158'>Thụ tinh nhân tạo</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Artificial insemination involves the placement of relatively large numbers of healthy sperm either at the entrance of the cervix or into the partner 's uterus , by passing the cervix , to have direct access to the fallopian tubes .</s>
+<s id='vn159'>Thụ tinh nhân tạo bao gồm đưa lượng khá lớn tinh trùng khỏe mạnh vào cổ tử cung hay tử cung của người phụ nữ , bằng cách đi qua cổ tử cung , để có chuyển giao trực tiếp đến ống dẫn trứng .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>IVF , GIFT , and other techniques</s>
+<s id='vn160'>Thụ tinh trong ống nghiệm , chuyển giao tử vào vòi trứng và các kỹ thuật khác</s>
+</spair>
+<spair id='161'>
+<s id='en161'>In vitro fertilization ( IVF ) or gamete intra-fallopian transfer ( GIFT ) have been used for the treatment of male infertility .</s>
+<s id='vn161'>Thụ tinh trong ống nghiệm ( IVF ) hoặc chuyển giao tử vào vòi trứng ( GIFT ) đã được sử dụng để điều trị vô sinh nam .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>As is the case with artificial insemination , IVF and similar techniques offer the opportunity to prepare sperm in vitro , so that oocytes are exposed to an optimal concentration of high quality , motile sperm .</s>
+<s id='vn162'>Bởi vì trong trường hợp thụ tinh nhân tạo , thụ tinh trong ống nghiệm và các kỹ thuật tương tự sẽ tạo cơ hội để chuẩn bị tinh trùng trong ống nghiệm , do đó tế bào trứng được tiếp xúc với một nồng độ tối ưu của tinh trùng chất lượng cao và có khả năng chuyển động tốt hơn .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Microsurgical fertilization ( microinjection techniques such as intracytoplasmic sperm injection , or ICSI )</s>
+<s id='vn163'>Thụ tinh vi phẫu thuật ( các kỹ thuật tiêm tế bào như là tiêm tinh trùng nội bào tương ( ICSC ) .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>This treatment is used to facilitate sperm penetration by injection of a single sperm into the oocyte .</s>
+<s id='vn164'>Cách điều trị này tạo điều kiện thuận lợi cho tinh trùng thâm nhập vào bằng cách tiêm từng tinh trùng vào tế bào trứng .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>Fertilization then takes place under the microscope .</s>
+<s id='vn165'>Sự thụ tinh sau đó diễn ra qua kính hiển vi .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Drug therapy</s>
+<s id='vn166'>Điều trị bằng thuốc</s>
+</spair>
+<spair id='167'>
+<s id='en167'>A small percentage of infertile men have a hormonal disorder that can be treated with hormone therapy .</s>
+<s id='vn167'>Một tỷ lệ nhỏ đàn ông bị vô sinh do rối loạn hoóc-môn có thể được chữa bằng điều trị hoóc - môn .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Hormonal imbalances caused by a dysfunction in the mechanism of interaction between the hypothalamus , the pituitary gland , and the testes directly affect the development of sperm ( spermatogenesis ) .</s>
+<s id='vn168'>Sự mất cân đối về hoóc-môn gây ra bởi rối loạn chức năng trong cơ chế tương tác giữa vùng dưới đồi , tuyến yên , và tinh hoàn ảnh hưởng trực tiếp đến sự phát triển của tinh trùng ( sự sinh tinh trùng ) .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Drug therapy may include gonadotrophin therapy , antibiotics , or another medication deemed appropriate .</s>
+<s id='vn169'>Điều trị bằng thuốc có thể bao gồm điều trị bằng hoóc-môn kích thích tuyến sinh dục , kháng sinh , hoặc các thuốc khác được coi là phù hợp .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Surgery</s>
+<s id='vn170'>Phẫu thuật</s>
+</spair>
+<spair id='171'>
+<s id='en171'>Surgical therapy in male infertility is designed to overcome anatomical barriers that impede sperm production and maturation or ejaculation .</s>
+<s id='vn171'>Điều trị ngoại khoa trong chứng vô sinh ở nam được thiết kế để khắc phục những khuyết tật cơ thể cản trở sự sản xuất và phát triển của tinh trùng hoặc sự xuất tinh .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>Surgical procedures to remove varicose veins in the scrotum ( varicocele ) can sometimes serve to improve the quality of sperm .</s>
+<s id='vn172'>Ca phẫu thuật để loại bỏ căng giãn tĩnh mạch trong bìu ( giãn tĩnh mạch thừng tinh ) đôi khi có thể cải thiện chất lượng của tinh trùng .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>What is unexplained infertility ?</s>
+<s id='vn173'>Vô sinh vô cớ là gì ?</s>
+</spair>
+<spair id='174'>
+<s id='en174'>About 20 percent of couples have unexplained infertility , for which a cause , despite all investigations , is not found .</s>
+<s id='vn174'>Khoảng 20% các cặp vợ chồng vô sinh không rõ nguyên nhân , tức là dù đã làm tất cả kiểm tra , vẫn không tìm ra nguyên nhân vô sinh .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>Unexplained infertility does not mean there is no reason for the problem , but that the reason is unable to be identified at the present time .</s>
+<s id='vn175'>Vô sinh vô cớ không có nghĩa là không có nguyên nhân cho vấn đề này , nhưng là chưa thể xác định được tại thời điểm hiện tại .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>If you suspect you are experiencing infertility , seek medical consultation early .</s>
+<s id='vn176'>Nếu bạn nghi ngờ mình đang bị vô sinh , hãy tiìm sự tư vấn sức khỏe sớm .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>The age of the woman and the duration of the couple 's infertility may influence the success of treatment .</s>
+<s id='vn177'>Độ tuổi của người phụ nữ và thời gian vô sinh của cặp vợ chồng có thể ảnh hưởng đến sự thành công của việc điều trị .</s>
+</spair>
+</text>
+</doc>

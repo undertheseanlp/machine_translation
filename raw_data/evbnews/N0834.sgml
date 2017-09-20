@@ -1,0 +1,404 @@
+﻿<doc id='N0834'>
+<head>
+<title>The truth about Omega-3 , the good fat</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The truth about Omega-3 , the good fat</s>
+<s id='vn1'>Sự thật về Omega-3 , một chất béo có lợi</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Omega-3 : The good fat</s>
+<s id='vn2'>Omega-3 là chất béo có lợi</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Doctors may tell you to cut the fat , but not all fats are unhealthy .</s>
+<s id='vn3'>Bác sĩ có thể khuyên bạn nên hạn chế chất béo , nhưng không phải tất cả các chất béo đều không có lợi cho sức khỏe .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Omega-3 fatty acids may have far-reaching health benefits .</s>
+<s id='vn4'>Axit béo Omega-3 có thể có rất nhiều lợi ích to lớn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Studies suggest they help lower the risk of heart disease , the nation 's top killer .</s>
+<s id='vn5'>Nhiều công trình nghiên cứu cho thấy Omega-3 giúp làm giảm nguy cơ bệnh tim , đây là nguyên nhân gây tử vong hàng đầu của quốc gia .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>They may also protect against symptoms of depression , dementia , cancer , and arthritis .</s>
+<s id='vn6'>Chúng cũng có thể giúp bảo vệ khỏi các triệu chứng trầm cảm , suy giảm trí nhớ , ung thư , và viêm khớp .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Omega-3s are found in salmon , nuts , leafy greens , and more – but the health benefits can differ greatly from one source to another .</s>
+<s id='vn7'>Omega-3 có nhiều trong cá hồi , củ , rau xanh rậm lá , và nhiều thứ khác nữa – nhưng các lợi ích sức khỏe có thể khác nhau đáng kể so từ nguồn này với nguồn khác .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The Omega-3 alphabet</s>
+<s id='vn8'>Chữ cái trong Omega-3</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Omega-3 fatty acids come in more than one form .</s>
+<s id='vn9'>Có nhiều loại axít béo Omega-3 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The types found in fish , called DHA and EPA , appear to have the strongest health benefits .</s>
+<s id='vn10'>DHA và EPA có trong cá , và có nhiều lợi ích sức khỏe rõ rệt nhất .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Another form known as ALA is found in vegetable oils , flaxseed , walnuts , and dark leafy vegetables such as spinach .</s>
+<s id='vn11'>Một loại axít béo khác có tên là ALA có trong dầu thực vật , hạt lanh , hồ đào , và những loại rau rậm lá đậm màu như cải bina .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The body converts a small amount of ALA into EPA and DHA , and ALA also has some health benefits of its own .</s>
+<s id='vn12'>Cơ thể chuyển hoá một lượng nhỏ ALA thành EPA và DHA , và ALA cũng có một số lợi ích sức khỏe riêng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>How Omega-3 fights disease</s>
+<s id='vn13'>Omega-3 chống lại bệnh tật như thế nào</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Omega-3 fatty acids are believed to help fight disease by reducing inflammation in the blood vessels , joints , and elsewhere in the body .</s>
+<s id='vn14'>Người ta cho rằng các axit béo Omega-3 có thể giúp chống lại bệnh tật bằng cách làm giảm viêm ở mạch máu , giảm viêm ở khớp , và những nơi khác trên cơ thể .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>They also decrease the risk for an abnormal heart rhythm , reduce levels of unhealthy fats in the bloodstream , and slow the rate of plaque build-up in the blood vessels .</s>
+<s id='vn15'>Chúng còn làm giảm nguy cơ xảy ra nhịp tim bất thường , làm giảm nồng độ chất béo không có lợi trong máu , và làm chậm tốc độ tăng sinh mảng bám trong mạch máu .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Our bodies can't make omega-3s , so we must get them from our diet .</s>
+<s id='vn16'>Cơ thể chúng ta không thể sản sinh các Omega-3 , vì vậy chúng ta phải hấp thu # các axit béo này qua chế độ dinh dưỡng của mình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Omega-3 and heart deaths</s>
+<s id='vn17'>Omega-3 và tử vong do tim mạch</s>
+</spair>
+<spair id='18'>
+<s id='en18'>If you 've had a previous heart attack , omega-3 fatty acids may help lower the risk of death from heart disease .</s>
+<s id='vn18'>Nếu trước đây bạn đã từng bị đau tim , các axit béo Omega-3 có thể giúp làm giảm nguy cơ tử vong do tim mạch .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Studies show a reduction in heart attacks and sudden death among heart attack survivors who boost their levels of omega-3s .</s>
+<s id='vn19'>Nhiều công trình nghiên cứu cho thấy tỉ lệ bệnh nhân đau tim và đột tử ở người sống sót sau bệnh đau tim có tăng cường hàm lượng các Omega-3 đã giảm .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This includes people who take fish oil supplements and those who regularly eat fatty fish , such as salmon or lake trout .</s>
+<s id='vn20'>Kết quả này bao gồm những người có bổ sung dầu cá và những người thường xuyên ăn cá béo , như là cá hồi hoặc cá hồi vùng Ngũ đại hồ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Omega-3 and arrhythmias</s>
+<s id='vn21'>Omega-3 và chứng loạn nhịp tim</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Omega-3s seem to have a stabilizing effect on the heart .</s>
+<s id='vn22'>Các Omega-3 có vẻ như có ảnh hưởng làm ổn định tim mạch .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>They can lower heart rate and reduce the risk of life-threatening arrhythmias or abnormal heart rhythms .</s>
+<s id='vn23'>Chúng có thể làm chậm nhịp tim và làm giảm nguy cơ loạn nhịp tim hiểm nghèo hoặc nhịp tim bất thường .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Several common sources of omega-3s are shown here : fish , walnuts , broccoli , and edamame , green soy beans that are often steamed and served in the pod .</s>
+<s id='vn24'>Một số nguồn cung cấp các Omega-3 thường thấy là cá , hồ đào , bông cải xanh , và edamame ( đậu tương được nấu chín tới ; đậu tương luộc ) , đậu nành xanh thường được hấp và ăn luôn cả vỏ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Omega-3 and triglycerides</s>
+<s id='vn25'>Omega-3 và li-pít trung tính</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Omega-3s can lower your level of triglycerides , a type of blood fat that 's linked to heart disease .</s>
+<s id='vn26'>Các Omega-3 có thể làm giảm nồng độ li-pít trung tính , đây là một loại mỡ trong máu liên quan đến bệnh tim .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Triglycerides collect in the bloodstream and in the body 's fat cells ( seen here ) .</s>
+<s id='vn27'>Các li-pít trung tính đọng lại trong máu và trong các tế bào mỡ của cơ thể ( được minh hoạ dưới đây ) .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Unfortunately , omega-3s increase cholesterol – both the " good " ( HDL ) and " bad " ( LDL ) kind .</s>
+<s id='vn28'>Tiếc là , Omega-3 làm tăng nồng độ cholesterol – cả cholesterol " có lợi " ( HDL ) lẫn cholesterol " có hại " ( LDL ) .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>People with high triglycerides should consult with their doctors before taking omega-3 .</s>
+<s id='vn29'>Người có nồng độ li-pít trung tính cao nên tham khảo ý kiến của bác sĩ trước khi sử dụng Omega-3 .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Eating more omega-3-rich fish is generally safe .</s>
+<s id='vn30'>Ăn nhiều cá giàu Omega-3 thường là an toàn , không có vấn đề gì .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Omega-3 and high blood pressure</s>
+<s id='vn31'>Omega-3 và chứng cao huyết áp</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There 's strong evidence that omega-3s lower blood pressure .</s>
+<s id='vn32'>Người ta đã tìm ra bằng chứng rõ ràng là các Omega-3 có thể làm hạ huyết áp .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The effect is small , though .</s>
+<s id='vn33'>Mặc dù vậy , ảnh hưởng của chúng không nhiều .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>If you have high blood pressure , eating fish could be helpful along with other dietary changes and medications , as recommended by your doctor .</s>
+<s id='vn34'>Nếu bạn bị cao huyết áp , việc ăn cá kèm thêm thay đổi một số chế độ dinh dưỡng và sử dụng thuốc khác , theo khuyến nghị của bác sĩ có thể rất có lợi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>One strategy is to replace red meat with fish during some meals .</s>
+<s id='vn35'>Thay các loại thịt đỏ bằng cá trong một số bữa ăn cũng là một biện pháp .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>But it 's best to avoid salty fish , such as smoked salmon .</s>
+<s id='vn36'>Nhưng tốt nhất là bạn nên tránh ăn cá mặn , chẳng hạn như cá hồi xông khói .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Omega-3 and stroke</s>
+<s id='vn37'>Omega-3 và chứng đột quỵ</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The evidence is mixed on whether omega-3 can help prevent strokes .</s>
+<s id='vn38'>Bằng chứng liệu Omega-3 có thể giúp ngăn ngừa đột quỵ hay không vẫn còn chưa rõ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>It curbs plaque build-up inside blood vessels and has anti-clotting effects , so it may help prevent ischemic strokes , the type caused by clots or a blockage in the arteries .</s>
+<s id='vn39'>Omega-3 làm hạn chế tăng sinh mảng bám bên trong mạch máu và có tác dụng chống đông tụ máu , vì vậy nó có thể giúp ngăn ngừa chứng đột quỵ do thiếu máu , đây là loại đột quỵ gây ra do nghẽn hoặc tắc động mạch .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>At very high doses , omega-3 supplements might increase the risk of hemorrhagic strokes , the less common type that involves bleeding in the brain .</s>
+<s id='vn40'>Việc bổ sung Omega-3 ở liều rất cao có thể làm tăng nguy cơ đột quỵ xuất huyết , đây là loại đột quỵ ít thấy hơn liên quan đến chứng xuất huyết não .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Omega-3 and rheumatoid arthritis</s>
+<s id='vn41'>Omega-3 và bệnh viêm khớp kinh niên</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Studies suggest omega-3s can reduce symptoms such as joint pain and stiffness in people with rheumatoid arthritis .</s>
+<s id='vn42'>Nhiều công trình nghiên cứu cho thấy Omega-3 có thể làm giảm các triệu chứng chẳng hạn như đau khớp và cứng khớp ở người bị viêm khớp kinh niên .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>A diet high in omega-3s may also boost the effectiveness of anti-inflammatory drugs .</s>
+<s id='vn43'>Chế độ dinh dưỡng giàu Omega-3 cũng có thể làm tăng công hiệu của thuốc kháng viêm .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Omega-3 and depression</s>
+<s id='vn44'>Omega-3 và chứng bệnh trầm cảm</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Omega-3 fatty acids may help smooth out mood disorders and make antidepressants more effective .</s>
+<s id='vn45'>Các axit béo Omega-3 có thể giúp làm dịu chứng rối loạn tâm trạng và làm cho thuốc chống trầm cảm công hiệu hơn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>However , results of studies have been mixed so far .</s>
+<s id='vn46'>Tuy nhiên , từ trước đến nay nhiều cuộc nghiên cứu vẫn chưa có kết quả rõ ràng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Countries with higher levels of omega-3 in the typical diet have lower levels of depression .</s>
+<s id='vn47'>Các quốc gia có chế độ dinh dưỡng điển hình giàu Omega-3 hơn có tỉ lệ người mắc bệnh trầm cảm ít hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Although more studies are needed , the evidence so far is promising .</s>
+<s id='vn48'>Mặc dù cần phải nghiên cứu thêm nhưng bằng chứng từ trước đến giờ vẫn đang rất khả quan .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Omega-3 and ADHD</s>
+<s id='vn49'>Omega-3 và ADHD</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Some studies suggest omega-3 supplements may ease the symptoms of attention deficit hyperactivity disorder ( ADHD ) .</s>
+<s id='vn50'>Một số nghiên cứu cho biết bổ sung Omega-3 có thể làm giảm các triệu chứng rối loạn tăng động giảm chú ý ( ADHD ) .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>We know omega-3 fatty acids are important in brain development and function .</s>
+<s id='vn51'>Chúng ta đã biết là Omega-3 rất quan trọng đối với sự phát triển và chức năng của não .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Although evidence isn't conclusive and a diet supplement can't offer a cure-all for ADHD , omega-3s may provide some added benefits to traditional treatment .</s>
+<s id='vn52'>Mặc dù bằng chứng chưa thuyết phục được và việc bổ sung chế độ dinh dưỡng không phải là thuốc tiên đối với chứng ADHD , nhưng Omega-3 có thể cung cấp thêm một số lợi ích cho phương pháp điều trị truyền thống .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Omega-3 and dementia</s>
+<s id='vn53'>Omega-3 và chứng suy giảm trí nhớ</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The jury is still out , but there 's some evidence that omega-3s may protect against dementia and improve mental function .</s>
+<s id='vn54'>Người ta vẫn chưa quyết định , nhưng có một số bằng chứng cho thấy Omega-3 có thể bảo vệ khỏi chứng suy giảm trí nhớ và cải thiện chức năng tâm thần .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In one study , older people with a diet high in omega-3 fatty acids had a lower risk of developing Alzheimer 's disease .</s>
+<s id='vn55'>Kết quả của một nghiên cứu cho thấy nguy cơ phát triển bệnh An-dai-mơ ở người già có chế độ dinh dưỡng giàu axit béo Omega-3 đã giảm .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>More research is necessary to confirm this link .</s>
+<s id='vn56'>Cần nghiên cứu thêm để xác định mối tương quan này .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Omega-3 and cancer</s>
+<s id='vn57'>Omega-3 và chứng bệnh ung thư</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Omega-3s may help reduce the risk of colon cancer , breast cancer , and advanced prostate cancer , but more research is needed .</s>
+<s id='vn58'>Omega-3 có thể giúp làm giảm nguy cơ ung thư ruột kết , ung thư vú , và ung thư tuyến tiền liệt cấp độ cao , nhưng cần phải nghiên cứu thêm nữa .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The American Cancer Society recommends a diet that includes fish , but the organization stops short of endorsing omega-3 supplements for cancer prevention .</s>
+<s id='vn59'>Hiệp hội Ung thư Hoa Kỳ khuyến nghị chế độ dinh dưỡng nên bao gồm cá , nhưng tổ chức này lại không tiếp tục xác nhận việc bổ sung Omega-3 có thể phòng ngừa ung thư nữa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Omega-3 and children</s>
+<s id='vn60'>Omega-3 và trẻ nhỏ</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Be wary of promises that omega-3s have " brain-boosting " powers for children .</s>
+<s id='vn61'>Bạn nên thận trọng với những lời hứa rằng Omega-3 có thể " làm bổ não " cho trẻ em .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The Federal Trade Commission asked companies to stop that claim unless they can prove it scientifically .</s>
+<s id='vn62'>Ủy Ban Thương mại Liên bang yêu cầu các công ty hãy ngưng khẳng định điều đó trừ phi họ có thể chứng minh được một cách khoa học .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The American Academy of Pediatrics does recommend that kids eat more fish , as long as it 's not breaded and fried .</s>
+<s id='vn63'>Viện Hàn lâm Nhi khoa Hoa Kỳ cũng khuyến nghị trẻ em nên ăn nhiều cá , miễn là không rắc bánh mì vụn vào và chiên .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Pediatricians also caution against types of fish that are high in mercury , such as shark , swordfish , king mackerel , and tilefish .</s>
+<s id='vn64'>Bác sĩ nhi khoa cũng cảnh báo không nên sử dụng các loại cá có hàm lượng thuỷ ngân cao , chẳng hạn như cá mập , cá lưỡi kiếm , cá thu vạch , và cá đầu vuông ( cá đổng quéo , cá nàng đào ) .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Source of Omega-3 : Fish</s>
+<s id='vn65'>Nguồn cung cấp Omega-3 từ cá</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The best source of omega-3 fatty acids is fish , though some varieties deliver a higher dose than others .</s>
+<s id='vn66'>Cá là nguồn cung cấp các axít béo Omega-3 dồi dào nhất , mặc dù một số loại cá chứa hàm lượng Omega-3 cao hơn một số loại cá khác .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Top choices are salmon , mackerel , herring , lake trout , sardines , anchovies , and tuna .</s>
+<s id='vn67'>Cá hồi , cá thu , cá trích , cá hồi vùng Ngũ đại hồ , cá mòi , cá cơm , và cá ngừ là những lựa chọn hàng đầu .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The American Heart Association recommends at least two servings a week of fish .</s>
+<s id='vn68'>Hiệp hội Tim mạch Hoa Kỳ khuyến cáo nên ăn ít nhất hai lần cá mỗi tuần</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Omega-3 and tuna</s>
+<s id='vn69'>Omega-3 và cá ngừ</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Tuna is an old-school staple in many people 's pantries that can be a good source of omega-3 .</s>
+<s id='vn70'>Cá ngừ là món truyền thống trong chạn thức ăn của nhiều người có thể là nguồn cung cấp Omega-3 dồi dào .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Albacore tuna has more omega-3 than canned light tuna , but it also has a higher concentration of mercury contamination .</s>
+<s id='vn71'>Cá ngừ Albacore chứa hàm lượng Omega-3 cao hơn cá ngừ trắng đóng hộp , nhưng cũng có hàm lượng nhiễm thuỷ ngân cao hơn .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The amount of omega-3 in a fresh tuna steak varies , depending on the species .</s>
+<s id='vn72'>Hàm lượng Omega-3 trong miếng thịt cá ngừ tươi không giống nhau , tuỳ thuộc vào từng loại một .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Dangers of contaminated fish</s>
+<s id='vn73'>Mối nguy hiểm của cá nhiễm bẩn</s>
+</spair>
+<spair id='74'>
+<s id='en74'>For most people , mercury in fish is not a health concern .</s>
+<s id='vn74'>Đối với hầu hết mọi người , thuỷ ngân trong cá không phải là mối lo ngại gì đến sức khỏe .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>But the FDA has this advice for pregnant women , nursing mothers , and young children :</s>
+<s id='vn75'>Nhưng tổ chức FDA đã đưa ra lời khuyên cho thai phu # , bà mẹ đang cho con bú , và trẻ nhỏ như sau :</s>
+</spair>
+<spair id='76'>
+<s id='en76'>* Limit Albacore tuna .</s>
+<s id='vn76'>* Hạn chế ăn cá ngừ Albacore .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>* Limit fish in mercury .</s>
+<s id='vn77'>* Hạn chế ăn cá chứa thuỷ ngân .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>* Avoid shark , swordfish , king mackerel , tilefish .</s>
+<s id='vn78'>* Tránh ăn cá mập , cá lưỡi kiếm , cá thu vạch , cá đầu vuông ( cá đổng quéo , cá nàng đào ) .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>* Remove skin and fat before cooking fish .</s>
+<s id='vn79'>* Nên bỏ da và mỡ trước khi nấu cá .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Omega-3 supplements</s>
+<s id='vn80'>Bổ sung Omega-3</s>
+</spair>
+<spair id='81'>
+<s id='en81'>If you don't like fish , you can get omega-3 from supplements .</s>
+<s id='vn81'>Nếu không thích ăn cá , bạn có thể bổ sung Omega-3 .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>One gram per day is the amount recommended for people with cardiovascular disease .</s>
+<s id='vn82'>Người bị bệnh tim mạch được khuyến nghị mỗi ngày nên sử dụng 1 gram .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>At high levels , omega-3 can increase the risk of bleeding and may interfere with some medications .</s>
+<s id='vn83'>Hàm lượng Omega-3 cao có thể làm tăng nguy cơ xuất huyết và có thể cản trở một số thuốc .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Fish oil also may deplete vitamin E , so some supplements include vitamin E. Be sure to consult your doctor before taking omega-3 supplements .</s>
+<s id='vn84'>Dầu cá cũng có thể làm mất vitamin E , vì vậy một số thuốc bổ sung có chứa vitamin E . Bạn nên tham khảo ý kiến của bác sĩ trước khi bổ sung Omega-3 nhé .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Omega-3 for vegetarians</s>
+<s id='vn85'>Omega-3 cho người ăn chay</s>
+</spair>
+<spair id='86'>
+<s id='en86'>If you don't eat fish or fish oil , you can get a dose of DHA from algae supplements .</s>
+<s id='vn86'>Nếu không ăn cá hoặc dầu cá , bạn có thể bổ sung DHA từ tảo .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Algae that is commercially grown is generally considered safe , though blue-green algae in the wild can contain toxins .</s>
+<s id='vn87'>Về mặt thương mại thì tảo thường được cho là an toàn , mặc dù tảo lam dại có thể chứa chất độc .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Vegetarians also can get the ALA of omega-3 from foods such as canola oil , flaxseed , walnuts , broccoli , and spinach – or products fortified with omega-3s .</s>
+<s id='vn88'>Người ăn chay cũng có thể bổ sung Omega-3 ALA từ thức ăn chẳng hạn như dầu cải , hạt lanh , hồ đào , bông cải xanh , và cải bina – hoặc những sản phẩm tăng cường Omega-3 .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Avoiding the Omega-3 hype</s>
+<s id='vn89'>Tránh quảng cáo thổi phồng Omega-3</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Many food products now boast that they have added omega-3 to support various aspects of your health .</s>
+<s id='vn90'>Nhiều thực phẩm hiện giờ tự hào rằng đã bổ sung thêm Omega-3 để hỗ trợ nhiều mặt sức khỏe .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>But be aware that the amount of omega-3 they contain may be minimal .</s>
+<s id='vn91'>Nhưng bạn nên biết là hàm lượng Omega-3 trong những sản phẩm đó có thể rất ít .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>They may contain the ALA form of omega-3 , which hasn't yet shown the same health benefits as EPA and DHA .</s>
+<s id='vn92'>Chúng có thể chứa dạng Omega-3 ALA , không có lợi ích sức khỏe tương đương như EPA và DHA .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>For a measured dose of omega-3 , taking fish oil supplements may be more reliable .</s>
+<s id='vn93'>Để có được liều lượng Omega-3 thích hợp , việc bổ sung dầu cá có thể đáng tin cậy hơn .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Omega 6 : The other healthy fat</s>
+<s id='vn94'>Omega 6 : Một chất béo có lợi cho sức khỏe khác</s>
+</spair>
+<spair id='95'>
+<s id='en95'>There 's another healthy fat known as Omega-6 .</s>
+<s id='vn95'>Có một loại chất béo có lợi cho sức khỏe khác đó là Omega-6 .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Research suggests it may protect against heart disease , especially when eaten in place of less healthy fats .</s>
+<s id='vn96'>Kết quả nghiên cứu cho biết loại chất béo này có thể bảo vệ khỏi bệnh tim , nhất là khi ăn thay cho các chất béo ít có lợi hơn .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The AHA recommends getting up to 10 % of your total daily calories from omega-6 fats , which are found in vegetable oils and nuts .</s>
+<s id='vn97'>Tổ chức AHA khuyến nghị nên bổ sung 10% tổng ca-lo hàng ngày của bạn từ các chất béo Omega-6 , có trong dầu thực vật và đậu .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>And now for some good news – most Americans already get enough omega-6 in their diet , thanks to cooking oils and salad dressings .</s>
+<s id='vn98'>Và một số tin vui hiện giờ cho thấy hầu hết chế độ dinh dưỡng của người Mỹ đều đã chứa đủ hàm lượng Omega-6 , nhờ dầu ăn và dầu giấm .</s>
+</spair>
+</text>
+</doc>

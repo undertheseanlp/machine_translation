@@ -1,0 +1,1244 @@
+﻿<doc id='N0693'>
+<head>
+<title>Common diagnoses in the NICU</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Common diagnoses in the NICU</s>
+<s id='vn1'>Các chẩn đoán thường thấy ở NICU</s>
+</spair>
+<spair id='2'>
+<s id='en2'>All expectant parents hope that their babies will be healthy .</s>
+<s id='vn2'>Tất cả các bậc bố mẹ đều hy vọng con họ sinh ra sẽ được khỏe mạnh .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Yet sometimes problems arise that require a newborn to be hospitalized .</s>
+<s id='vn3'>Tuy nhiên đôi khi cũng phát sinh nhiều vấn đề mà bắt buộc trẻ sơ sinh phải nhập viện .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>When this happens , the baby may be admitted to the neonatal intensive care unit ( NICU ) for treatment .</s>
+<s id='vn4'>Nếu điều đó xảy ra thì trẻ có thể được nhận vào điều trị ở phòng săn sóc đặc biệt cho trẻ sơ sinh ( NICU ) .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It 's almost always stressful when a baby is unexpectedly admitted to the NICU .</s>
+<s id='vn5'>Người ta hầu như lúc nào cũng rất căng thẳng khi trẻ phải đột ngột vào NICU .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But the doctors , nurses , and other caregivers in the unit will do their best to provide emotional support for you while caring for your infant 's medical needs .</s>
+<s id='vn6'>Nhưng các bác sĩ , y tá và những người chăm trẻ khác trong khoa sẽ làm hết sức để hỗ trợ tinh thần cho bạn trong khi chăm sóc các nhu cầu y tế cho con của bạn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>About the NICU</s>
+<s id='vn7'>Tìm hiểu về NICU</s>
+</spair>
+<spair id='8'>
+<s id='en8'>With equipment designed for infants and a hospital staff who have special training in newborn care , the NICU is an intensive care unit created for sick newborns who need specialized treatment .</s>
+<s id='vn8'>Với những thiết bị được thiết kế dành cho trẻ sơ sinh và nhân viên bệnh viện được đào tạo đặc biệt trong việc chăm sóc trẻ sơ sinh thì NICU là một khoa chăm sóc đặc biệt cho trẻ sơ sinh bị bệnh cần được điều trị đặc biệt .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Sometimes the NICU is also called :</s>
+<s id='vn9'>Đôi khi NICU cũng được gọi là :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>* a special care nursery</s>
+<s id='vn10'>* phòng chăm sóc đặc biệt dành cho trẻ em</s>
+</spair>
+<spair id='11'>
+<s id='en11'>* an intensive care nursery</s>
+<s id='vn11'>* phòng chăm sóc đặc biệt dành cho trẻ em</s>
+</spair>
+<spair id='12'>
+<s id='en12'>* newborn intensive care</s>
+<s id='vn12'>* phòng chăm sóc đặc biệt cho trẻ sơ sinh</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Babies may be sent to the NICU if :</s>
+<s id='vn13'>Trẻ có thể được gởi đến NICU nếu :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>* they 're born prematurely</s>
+<s id='vn14'>* bị sinh non</s>
+</spair>
+<spair id='15'>
+<s id='en15'>* difficulties occur during their deliveries</s>
+<s id='vn15'>* khó sinh</s>
+</spair>
+<spair id='16'>
+<s id='en16'>* they show signs of a problem in the first few days of life</s>
+<s id='vn16'>* có nhiều dấu hiệu rắc rối trong một vài ngày đầu sau khi sinh</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Only very young babies ( or babies with a condition linked to being born prematurely ) are treated in the NICU - they 're usually infants who have n't gone home from the hospital yet after being born .</s>
+<s id='vn17'>Chỉ có những trẻ sơ sinh rất nhỏ ( hoặc trẻ bị bệnh do sinh thiếu tháng ) mới được điều trị ở NICU - thường là những trẻ chưa xuất viện về nhà sau khi sinh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>How long they 'll remain in the unit depends on the severity of their illness .</s>
+<s id='vn18'>Thời gian điều trị tại đây tuỳ thuộc vào mức độ nghiêm trọng của từng bé .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Although not all babies in the NICU have the same illness or condition , some diagnoses are common to newborns who need intensive care .</s>
+<s id='vn19'>Mặc dù không phải trẻ nào được điều trị ở NICU đều bị bệnh hoặc có tình trạng sức khỏe giống nhau , nhưng dưới đây là một số chẩn đoán thường thấy đối với trẻ sơ sinh cần được chăm sóc đặc biệt .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Here 's a brief look at those conditions , what causes them , how they 're diagnosed , how they 're treated , and how long infants usually stay in the unit after they 've been diagnosed .</s>
+<s id='vn20'>Dưới đây là cái nhìn sơ lược về những chứng bệnh thường gặp , các nguyên nhân gây bệnh , cách thức chẩn đoán , phương pháp điều trị , và thời gian trẻ thường lưu lại ở đây sau khi được chẩn đoán là bao lâu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Anemia</s>
+<s id='vn21'>Bệnh thiếu máu</s>
+</spair>
+<spair id='22'>
+<s id='en22'>What is anemia ?</s>
+<s id='vn22'>Bệnh thiếu máu là gì ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>One of the more common blood disorders , anemia is a low number of red blood cells in the blood .</s>
+<s id='vn23'>Một trong những chứng bệnh liên quan đến máu thường gặp là bệnh thiếu máu - thiếu máu là chứng bệnh mà số hồng cầu trong máu thấp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Babies who are anemic may :</s>
+<s id='vn24'>Trẻ bị thiếu máu có thể :</s>
+</spair>
+<spair id='25'>
+<s id='en25'>* have apnea ( stop breathing for 20 seconds or more )</s>
+<s id='vn25'>* bị nghẹt thở ( ngưng thở trong vòng 20 giây trở lên )</s>
+</spair>
+<spair id='26'>
+<s id='en26'>* have low blood pressure</s>
+<s id='vn26'>* bị tụt huyết áp</s>
+</spair>
+<spair id='27'>
+<s id='en27'>* have a high heart rate</s>
+<s id='vn27'>* có nhịp tim nhanh</s>
+</spair>
+<spair id='28'>
+<s id='en28'>* seem sleepy</s>
+<s id='vn28'>* có vẻ buồn ngủ</s>
+</spair>
+<spair id='29'>
+<s id='en29'>What causes anemia ?</s>
+<s id='vn29'>Nguyên nhân gây thiếu máu ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Premature infants may develop anemia for a number of reasons .</s>
+<s id='vn30'>Trẻ sinh thiếu tháng có thể bị thiếu máu vì nhiều lý do .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In the first few weeks of life , infants do n't make many new red blood cells .</s>
+<s id='vn31'>Trong một vài tuần đầu đời , trẻ không tạo thêm nhiều hồng cầu mới .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Also , their red blood cells have a shorter life than an adult 's .</s>
+<s id='vn32'>Bên cạnh đó , các hồng cầu của chúng đều có vòng đời ngắn hơn so với của người lớn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>And the frequent blood samples that must be taken for laboratory testing make it difficult for red blood cells to replenish .</s>
+<s id='vn33'>Và các mẫu máu thường xuyên phải được lấy làm xét nghiệm ở phòng thí nghiệm làm cho hồng cầu rất khó có thể tái tạo lại được .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In full-term or preterm infants , hemolytic disease of the newborn ( incompatibility between the blood types of the mother and baby ) can lead to anemia .</s>
+<s id='vn34'>Đối với những trẻ sơ sinh thiếu tháng hoặc đủ tháng , thì bệnh tán huyết ở trẻ sơ sinh ( chứng không tương thích giữa kiểu máu của người mẹ và của con ) có thể dẫn đến bệnh thiếu máu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>How is anemia diagnosed ?</s>
+<s id='vn35'>Bệnh thiếu máu được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>A doctor can diagnose anemia with a blood test .</s>
+<s id='vn36'>Bác sĩ có thể chẩn đoán bệnh thiếu máu bằng xét nghiệm máu .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>How is anemia treated ?</s>
+<s id='vn37'>Bệnh thiếu máu được điều trị như thế nào ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Minor cases are monitored closely , whereas severe cases ( especially in those premature babies who weigh less than 2.2 pounds ( 1,000 grams ) ) may require red blood cell transfusions .</s>
+<s id='vn38'>Những trường hợp bệnh nhẹ được theo dõi sát sao , trong khi đó những ca nghiêm trọng ( nhất là ở những trẻ sinh thiếu tháng có cân nặng dưới 2.2 pao ( 1,000 gram ) ) có thể phải được truyền hồng cầu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Doctors also try to treat the underlying cause of the anemia .</s>
+<s id='vn39'>Bác sĩ cũng cố điều trị nguyên nhân tiềm ẩn của chứng thiếu máu này .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>How long will my baby be in the NICU ?</s>
+<s id='vn40'>Con tôi sẽ ở NICU bao lâu ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>By the time the underlying problem has been treated , the number of red blood cells in the infant 's circulation stabilizes .</s>
+<s id='vn41'>Khi vấn đề tiềm ẩn được điều trị thì số lượng hồng cầu trong tuần hoàn của trẻ sơ sinh cũng được ổn định .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>As long as the baby is doing well and no longer has symptoms , then the doctors usually let the infant go home with close follow-up with the child 's doctor .</s>
+<s id='vn42'>Chừng nào trẻ trở nên khỏe mạnh và không còn bất cứ triệu chứng nào nữa thì bác sĩ thường sẽ cho trẻ xuất viện về nhà đồng thời được bác sĩ theo dõi chặt chẽ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Apnea</s>
+<s id='vn43'>Chứng nghẹt thở</s>
+</spair>
+<spair id='44'>
+<s id='en44'>What is apnea ?</s>
+<s id='vn44'>Chứng nghẹt thở là gì ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Although it 's perfectly normal for everyone to experience occasional pauses in breathing , newborns who do n't take at least one breath in 20 seconds or more have a condition called apnea .</s>
+<s id='vn45'>Mặc dù chuyện thỉnh thoảng người ta bị ngưng thở là hoàn toàn bình thường , nhưng trẻ sơ sinh nếu không thở ít nhất là một lần trong vòng 20 giây trở lên thì trẻ đã mắc chứng nghẹt thở .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>During an apnea spell :</s>
+<s id='vn46'>Trong một cơn bệnh như vậy thì :</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* the baby stops breathing</s>
+<s id='vn47'>* trẻ ngừng thở</s>
+</spair>
+<spair id='48'>
+<s id='en48'>* the heart rate may decrease</s>
+<s id='vn48'>* nhịp tim có thể giảm</s>
+</spair>
+<spair id='49'>
+<s id='en49'>* the skin may turn pale , purplish , or blue from lack of oxygen</s>
+<s id='vn49'>* da trẻ có thể trở nên tái nhợt , đỏ tía , hoặc xanh dương do thiếu ô-xy</s>
+</spair>
+<spair id='50'>
+<s id='en50'>What causes apnea ?</s>
+<s id='vn50'>Nguyên nhân gây nghẹt thở là gì ?</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Apnea is usually caused by immaturity in the area of the brain that controls the drive to breathe ( the brain does n't " remember " to take a breath ) , although illness can also be responsible .</s>
+<s id='vn51'>Chứng nghẹt thở thường gây ra do vùng não điều khiển chức năng hô hấp chưa hoàn thiện ( não " quên " thở ) , mặc dù đôi khi một bệnh nào khác cũng có thể gây ra .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Almost all babies born at 30 weeks or less will experience apnea , but apnea spells become less frequent with age .</s>
+<s id='vn52'>hầu hết tất cả các trẻ sinh ở tuần thứ 30 trở xuống đều sẽ bị bệnh này , nhưng các cơn bệnh trở nên ít đi khi trẻ lớn lên .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>How is apnea diagnosed ?</s>
+<s id='vn53'>Chứng nghẹt thở được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='54'>
+<s id='en54'>To accurately diagnose apnea , doctors monitor a baby 's breathing rate in the NICU and may order a polysomnogram , which involves attaching the baby to several monitors and observing the infant for about 8 to 12 hours .</s>
+<s id='vn54'>Để chẩn đoán chính xác chứng nghẹt thở , bác sĩ của NICU sẽ theo dõi nhịp thở của trẻ và có thể yêu cầu trẻ đo sóng não , điện tâm đồ tim và các hoạt động của cơ thể , bác sĩ sẽ quan sát bé bằng nhiều máy theo dõi trong khoảng thời gian từ 8-12 tiếng đồng hồ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The pneumogram provides information about the baby 's heart rate , breathing , and oxygen saturation in the blood .</s>
+<s id='vn55'>Biểu đồ hoạt động phổi cho biết thông tin về nhịp tim , hô hấp của trẻ , và độ bão hoà ô - xy trong máu của trẻ .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>How is apnea treated ?</s>
+<s id='vn56'>Chứng nghẹt thở được điều trị như thế nào ?</s>
+</spair>
+<spair id='57'>
+<s id='en57'>In the NICU , all premature babies are monitored for apnea spells .</s>
+<s id='vn57'>Tại NICU , tất cả các trẻ sinh thiếu tháng đều được theo dõi các cơn nghẹt thở .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The first line of treatment for apnea is simply stimulating the baby to help him or her remember to breathe .</s>
+<s id='vn58'>Phương pháp điều trị nghẹt thở đầu tiên là chỉ cần kích thích cho trẻ thở trở lại .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This can mean rubbing the infant 's back or tapping the feet .</s>
+<s id='vn59'>Bạn có thể chà xát vào lưng hoặc vỗ vào bàn chân của trẻ .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>However , when apnea occurs frequently , the infant may require medication ( most commonly caffeine or theophylline ) and or a special nasal device that blows a steady stream of air into the airways to keep them open .</s>
+<s id='vn60'>Tuy nhiên khi trẻ bị nghẹt thở thường xuyên thì có thể cần phải được sử dụng thuốc ( thường thấy nhất là cà-phê-in hoặc an-ka-lô-íc trong lá trà ) và hoặc một thiết bị hỗ trợ đặc biệt cho mũi để thổi luồng không khí đều đặn vào đường thở làm cho đường thở mở ra .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>How long will my baby be in the NICU ?</s>
+<s id='vn61'>Con tôi sẽ ở NICU bao lâu ?</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Babies remain in the NICU until they 've been apnea-free for 24 to 48 hours .</s>
+<s id='vn62'>Trẻ vẫn ở lại điều trị ở NICU cho đến khi không còn nghẹt thở nữa trong vòng 24-48 tiếng đồng hồ .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Some may go home with an apnea monitor and on caffeine so parents can continue to watch for the condition .</s>
+<s id='vn63'>Một số trẻ có thể được xuất viện về nhà kèm theo máy theo dõi ngưng thở và có thể sử dụng cà-phê-in vì vậy bố mẹ có thể tiếp tục theo dõi bệnh cho con mình .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Many babies outgrow apnea by the time they 're 10 weeks past their original due date .</s>
+<s id='vn64'>Hầu hết trẻ sơ sinh đều có thể không còn nghẹt thở nữa vào tuần thứ 10 sau khi sinh .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Bradycardia</s>
+<s id='vn65'>Nhịp tim chậm</s>
+</spair>
+<spair id='66'>
+<s id='en66'>What is Bradycardia ?</s>
+<s id='vn66'>Nhịp tim chậm là gì ?</s>
+</spair>
+<spair id='67'>
+<s id='en67'>This is an abnormal slowing of the heart rate .</s>
+<s id='vn67'>Đây là chứng nhịp tim chậm bất thường .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>What causes Bradycardia ?</s>
+<s id='vn68'>Nguyên nhân gây nhịp tim chậm là gì ?</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Bradycardia often arises from other problems like low oxygen levels in the blood or apnea .</s>
+<s id='vn69'>Nhịp tim chậm thường xảy ra do nhiều vấn đề khác gây ra chẳng hạn như nồng độ ô-xy trong máu thấp hoặc là do nghẹt thở .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>How is Bradycardia diagnosed ?</s>
+<s id='vn70'>Nhịp tim chậm được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Taking the baby 's pulse and monitoring in the NICU will confirm a diagnosis of bradycardia .</s>
+<s id='vn71'>Việc bắt mạch cho trẻ và theo dõi mạch của trẻ ở NICU sẽ giúp cho việc chẩn đoán nhịp tim chậm trở nên chắc chắn hơn .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>How is bradycardia treated ?</s>
+<s id='vn72'>Nhịp tim chậm được điều trị như thế nào ?</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Bradycardia is treated by dealing with the underlying cause , such as apnea .</s>
+<s id='vn73'>Nhịp tim chậm được điều trị bằng cách xử lý nguyên nhân tiềm ẩn của nó , chẳng hạn như chứng nghẹt thở .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>In some rare cases , a heart defect may be responsible for the slower heart rate .</s>
+<s id='vn74'>Trong một số trường hợp hiếm thấy , thì chứng dị tật tim cũng có thể là nguyên nhân gây chậm nhịp tim .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>For the appropriate care , babies with a heart defect need to see a pediatric cardiologist ( a doctor who specializes in treating heart problems in children ) .</s>
+<s id='vn75'>Để chăm sóc đúng đắn , trẻ bị dị tật tim cần phải được khám bởi bác sĩ tim mạch khoa nhi ( bác sĩ chuyên điều trị các vấn đề tim mạch ở trẻ em ) .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>How long will my baby be in the NICU ?</s>
+<s id='vn76'>Con của tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Usually , the length of the stay is determined by the condition causing the bradycardia , not the bradycardia itself .</s>
+<s id='vn77'>Thông thường thì thời gian trẻ phải ở lại điều trị bao lâu tuỳ thuộc vào nguyên nhân làm cho nhịp tim chậm chứ không phải chính bản thân bệnh nhịp tim chậm .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Bronchopulmonary dysplasia</s>
+<s id='vn78'>Chứng loạn sản phế quản - phổi</s>
+</spair>
+<spair id='79'>
+<s id='en79'>What is BPD ?</s>
+<s id='vn79'>Loạn sản phế quản - phổi là gì ?</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Babies who still need oxygen at 4 weeks before their original due date are considered to have bronchopulmonary dysplasia - one of the most common chronic lung diseases in infants in the United States .</s>
+<s id='vn80'>Trẻ vẫn cần ô-xy trước khi sinh đến 4 tuần bị coi là mắc bệnh loạn sản phế quản - phổi , đây là một trong những chứng bệnh phổi mãn tính thường thấy nhất đối với trẻ sơ sinh ở Hoa Kỳ .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>What causes BPD ?</s>
+<s id='vn81'>Nguyên nhân gây loạn sản phế quản - phổi là gì ?</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Bronchopulmonary dysplasia occurs in different infants for different reasons .</s>
+<s id='vn82'>Bệnh loạn sản phế quản - phổi xảy ra khác nhau ở từng trẻ sơ sinh và có nhiều nguyên nhân khác nhau .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>It can happen in full-term as well as premature infants and doctors believe that it 's due to an individual infant 's response to a number of possible factors .</s>
+<s id='vn83'>Nó có thể xảy ra đồng thời ở trẻ sinh thiếu tháng lẫn trẻ sinh đủ tháng và các bác sĩ cho rằng đó là do sự phản ứng của từng trẻ đối với một số yếu tố có thể xảy ra .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>The combination of the premature baby 's immature lungs and the treatments ( including machines and oxygen ) to help the little one breathe is thought to cause damage ( or scarring ) to the lungs .</s>
+<s id='vn84'>Các phương pháp điều trị ( bao gồm máy móc và ô-xy ) cộng với lá phổi non nớt chưa hoàn thiện của trẻ sinh thiếu tháng để giúp cho trẻ thở được cho là nguyên do gây tổn thương ( gây hại ) cho phổi .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Infections and pneumonia can also lead to the condition .</s>
+<s id='vn85'>Bệnh viêm phổi và nhiễm trùng cũng có thể gây bệnh .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Milder levels of damage are called chronic lung disease of prematurity ( CLD ) .</s>
+<s id='vn86'>Mức độ tổn hại nhẹ hơn được gọi là bệnh phổi mãn tính ở trẻ sinh non ( CLD ) .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>As the babies mature , they grow more lung tissue , which can improve their breathing over time .</s>
+<s id='vn87'>Khi trẻ lớn lên , chúng tạo thêm nhiều mô phổi , có thể dần dần cải thiện tình trạng hô hấp .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>How is BPD diagnosed ?</s>
+<s id='vn88'>Chứng loạn sản phế quản - phổi được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='89'>
+<s id='en89'>The diagnosis of bronchopulmonary dysplasia usually does n't occur until 2 to 4 weeks into the infant 's life .</s>
+<s id='vn89'>Mãi đến tuần thứ 2 đến thứ 4 sau khi sinh thì trẻ mới thường được chẩn đoán bệnh loạn sản phế quản - phổi .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>At that point , the doctors make a diagnosis based on whether there was lung damage or an injury at birth and whether the infant has needed extra oxygen for a prolonged period of time .</s>
+<s id='vn90'>Vào thời điểm đó , bác sĩ sẽ chẩn đoán dựa trên việc liệu phổi có bị tổn thương hoặc có chấn thương nào khi sinh không và xem liệu trẻ có cần thêm ô - xy để kéo dài hô hấp không .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Chest X-rays can also help determine the extent of the lung damage .</s>
+<s id='vn91'>Chụp hình X-quang ngực cũng có thể giúp xác định mức độ tổn thương phổi .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>How is BPD treated ?</s>
+<s id='vn92'>Chứng loạn sản phế quản - phổi được điều trị như thế nào ?</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Bronchopulmonary dysplasia is sometimes treated with steroids to decrease the amount of scarring .</s>
+<s id='vn93'>Chứng loạn sản phế quản - phổi đôi khi được điều trị bằng xtê-rô-ít để làm giảm mức độ tổn thương .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>However , because steroids can cause side effects , doctors usually wait as long as possible to begin steroid treatment .</s>
+<s id='vn94'>Tuy nhiên vì xtê - rô-ít có thể gây tác dụng phụ nên bác sĩ thường chờ càng lâu càng tốt mới bắt đầu điều trị bằng xtê - rô-ít .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Steroids are never used without a complete discussion with the family as to potential benefits and risks .</s>
+<s id='vn95'>Xtê-rô-ít chẳng bao giờ được sử dụng mà không bàn bạc đầy đủ với gia đình về các lợi ích và nguy cơ rủi ro tiềm ẩn của nó .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Other , more commonly used medicines include diuretics ( which make the child urinate , or pee , and help eliminate excess fluid that can build up in the damaged lungs ) and bronchodilators ( which relax the muscles that surround the airways and allow them to open up ) .</s>
+<s id='vn96'>Ngoài ra , , những loại thuốc thường được sử dụng nhiều hơn như thuốc lợi tiểu ( làm cho trẻ đi tiểu và giúp thải đi lượng dịch dư thừa tăng sinh trong phổi bị tổn thương ) và các loại thuốc trị hen suyễn ( làm giãn các cơ xung quanh đường thở và giúp cho đường thở nới rộng ra ) .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Babies with the disease also sometimes need ventilators ( breathing machines ) at home to help them breathe .</s>
+<s id='vn97'>Trẻ bị bệnh đôi khi cũng cần có máy hô hấp nhân tạo ( máy thở ) ở nhà để giúp cho bé có thể thở được .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>And although it 's uncommon , in severe cases , the surgical insertion of a breathing tube in the neck ( called a tracheostomy ) may be required so the baby can go home on a ventilator .</s>
+<s id='vn98'>Và mặc dù không thường thấy , nhưng trong một số trường hợp nghiêm trọng , trẻ có thể cần phải được phẫu thuật chèn ống thở vào cổ ( đây gọi là thủ thuật mở thông khí quản ) vì vậy trẻ có thể xuất viện về nhà kèm theo máy hô hấp nhân tạo .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Occasionally , babies need home oxygen therapy for several months .</s>
+<s id='vn99'>Đôi khi trẻ cũng cần liệu pháp ô - xy tại nhà trong một vài tháng .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>How long will my baby be in the NICU ?</s>
+<s id='vn100'>Con tôi sẽ ở lại NICU bao lâu ?</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Bronchopulmonary dysplasia is a serious condition that calls for longer stays in the NICU , sometimes up to several months .</s>
+<s id='vn101'>Chứng loạn sản phế quản - phổi là bệnh nghiêm trọng cần phải ở lại điều trị tại NICU lâu hơn , đôi khi phải cần đến vài tháng .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The smallest infants are usually the ones who develop the disease , so their stays are longer to make sure they 're stable before they 're discharged .</s>
+<s id='vn102'>Những trẻ sơ sinh nhỏ nhất thường là những trẻ bị bệnh này vì thế chúng cần được ở lại lâu hơn để đảm bảo ổn định sức khỏe trước khi xuất viện về nhà .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Hydrocephalus</s>
+<s id='vn103'>Tràn dịch não</s>
+</spair>
+<spair id='104'>
+<s id='en104'>What is Hydrocephalus ?</s>
+<s id='vn104'>Tràn dịch não là gì ?</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Hydrocephalus means " water on the brain . "</s>
+<s id='vn105'>Tràn dịch nào có nghĩa là " dịch não bị tràn ra ngoài . "</s>
+</spair>
+<spair id='106'>
+<s id='en106'>What causes Hydrocephalus ?</s>
+<s id='vn106'>Nguyên nhân gây tràn dịch não là gì ?</s>
+</spair>
+<spair id='107'>
+<s id='en107'>A buildup of cerebrospinal fluid that surrounds the brain and the spinal cord causes hydrocephalus .</s>
+<s id='vn107'>Sự tăng sinh dịch não tuỷ xung quanh não và tuỷ sống gây tràn dịch não .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>It occurs when something - often bleeding from an intraventricular hemorrhage or an abnormality of the brain or skull - blocks the flow of the fluid .</s>
+<s id='vn108'>Nó xảy ra khi có vật gì đó làm chặn luồng dịch – thường là do xuất huyết não thất hoặc bất thường ở não hoặc sọ .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The buildup can create pressure that can damage the brain .</s>
+<s id='vn109'>Tình trạng tăng sinh này có thể gây ra áp suất có thể làm tổn thương đến não .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>How is Hydrocephalus diagnosed ?</s>
+<s id='vn110'>Chứng tràn dịch não được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Doctors suspect hydrocephalus if a baby has a particularly large head or if head size increases rapidly .</s>
+<s id='vn111'>Bác sĩ thường nghi ngờ tràn dịch não nếu thấy đầu của trẻ lớn đặc biệt hoặc nếu thấy kích thước đầu của bé tăng nhanh .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>A computed tomography ( or CT scan - a type of X-ray ) can confirm this suspicion .</s>
+<s id='vn112'>Phương pháp chụp cắt lớp ( chụp CT-một loại tia X ) có thể giúp xác nhận điều nghi ngờ này .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>How is Hydrocephalus treated ?</s>
+<s id='vn113'>Chứng tràn dịch não được điều trị như thế nào ?</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Less serious cases are usually simply monitored , but more severe ones require a surgeon to place a tube in the brain that drains the fluid from the brain into the abdomen .</s>
+<s id='vn114'>Những trường hợp ít nghiêm trọng hơn thường chỉ cần được theo dõi nhưng đối với những trường hợp nghiêm trọng hơn đòi hỏi bác sĩ phẫu thuật phải đặt một ống vào bên trong não để cho dịch chảy từ não vào bụng .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>How long will my baby be in the NICU ?</s>
+<s id='vn115'>Con tôi sẽ ở lại NICU trong bao lâu ?</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Again , this depends on the severity of the case .</s>
+<s id='vn116'>Điều này lại tuỳ thuộc vào mức độ nghiêm trọng của bệnh .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>A serious condition may require a stay of several weeks or months , with careful monitoring so as to recognize potential long-term side effects like mental retardation and seizures .</s>
+<s id='vn117'>Một chứng bệnh nặng có thể cần phải ở lại điều trị một vài tuần hoặc một tháng , đồng thời được theo dõi cẩn thận để phát hiện ra những tác dụng phụ tiềm ẩn lâu dài chẳng hạn như thiểu năng tinh thần và tai biến mạch máu .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Intraventricular hemorrhage ( IV H )</s>
+<s id='vn118'>Xuất huyết não thất ( IVH )</s>
+</spair>
+<spair id='119'>
+<s id='en119'>What is IVH ?</s>
+<s id='vn119'>Xuất huyết não thất là gì ?</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Intraventricular hemorrhage is bleeding in the brain .</s>
+<s id='vn120'>Xuất huyết não thất là dạng xuất huyết não .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Severe cases may cause a drop in blood pressure or seizures .</s>
+<s id='vn121'>Các trường hợp nghiêm trọng có thể làm hạ huyết áp hoặc gây tai biến mạch máu .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Other symptoms could include :</s>
+<s id='vn122'>Các triệu chứng khác có thể bao gồm :</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* a weak suck</s>
+<s id='vn123'>* bú yếu</s>
+</spair>
+<spair id='124'>
+<s id='en124'>* high-pitched cry</s>
+<s id='vn124'>* khóc nhiều</s>
+</spair>
+<spair id='125'>
+<s id='en125'>* apnea</s>
+<s id='vn125'>* nghẹt thở</s>
+</spair>
+<spair id='126'>
+<s id='en126'>* bradycardia</s>
+<s id='vn126'>* nhịp tim chậm</s>
+</spair>
+<spair id='127'>
+<s id='en127'>* anemia</s>
+<s id='vn127'>* thiếu máu</s>
+</spair>
+<spair id='128'>
+<s id='en128'>What causes IVH ?</s>
+<s id='vn128'>Nguyên nhân gây xuất huyết não thất là gì ?</s>
+</spair>
+<spair id='129'>
+<s id='en129'>IVH usually occurs in premature babies because the vessels in their developing brains are especially fragile and can bleed easily .</s>
+<s id='vn129'>Xuất huyết não thất ( IVH ) thường xảy ra ở trẻ sinh thiếu tháng bởi các mạch máu trong bộ não đang phát triển của bé đặc biệt rất mỏng và yếu ớt có thể gây xuất huyết một cách dễ dàng .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>How is IVH diagnosed ?</s>
+<s id='vn130'>Xuất huyết não thất được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='131'>
+<s id='en131'>It 's diagnosed with an ultrasound of the head so that doctors can look for collections of blood in the brain .</s>
+<s id='vn131'>Nó được chẩn đoán bằng cách siêu âm đầu để bác sĩ có thể tìm chỗ tụ máu bên trong não .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>How is IVH treated ?</s>
+<s id='vn132'>Xuất huyết não thất được điều trị như thế nào ?</s>
+</spair>
+<spair id='133'>
+<s id='en133'>There 's no specific treatment for intraventricular hemorrhage , so NICUs try to prevent it by controlling babies ' blood pressure .</s>
+<s id='vn133'>Chẳng có phương pháp đặc trị nào cho bệnh xuất huyết não thất , vì vậy NICU cố phòng tránh bằng cách làm điều hoà huyết áp cho trẻ .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Once diagnosed , the problem is closely monitored with frequent ultrasounds .</s>
+<s id='vn134'>Khi đã chẩn đoán được thì các vấn đề được theo dõi bệnh một cách chặt chẽ bằng cách siêu âm thường xuyên .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>If serious , IVH leads to severe hydrocephalus , which can be treated with a surgically placed shunt .</s>
+<s id='vn135'>Nếu IVH nặng có thể dẫn đến chứng tràn dịch não nghiêm trọng , có thể được điều trị bằng cách phẫu thuật đặt ống dẫn bên trong .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>How long will my baby be in the NICU ?</s>
+<s id='vn136'>Con tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='137'>
+<s id='en137'>This depends on the severity of the bleeding .</s>
+<s id='vn137'>Điều này tuỳ thuộc vào mức độ xuất huyết nghiêm trọng như thế nào .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Infants with serious IVH may spend several weeks to months in the NICU and be at risk for conditions like cerebral palsy or seizures later in life .</s>
+<s id='vn138'>Trẻ sơ sinh bị xuất huyết não thất nặng có thể phải điều trị ở NICU trong một vài tuần đến một vài tháng và có nguy cơ mắc một số bệnh như bại não hoặc tai biến mạch máu về sau .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Jaundice</s>
+<s id='vn139'>Vàng da</s>
+</spair>
+<spair id='140'>
+<s id='en140'>What is Jaundice ?</s>
+<s id='vn140'>Vàng da là gì ?</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Jaundice is a high level of bilirubin in the blood ( bilirubin is a byproduct of the natural breakdown of blood cells , and the liver usually " recycles " it back into the body ) .</s>
+<s id='vn141'>Vàng da là nồng độ sắc tố da cam trong máu cao ( sắc tố da cam là sản phẩm phụ của các tế bào máu bị phân huỷ tự nhiên , và gan thường " tái tạo " lại vào cơ thể ) .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Although mild jaundice is fairly common in full-term babies , it 's much more common in premature babies .</s>
+<s id='vn142'>Mặc dù chứng vàng da nhẹ khá phổ biến ở trẻ sinh đủ tháng , nhưng đối với những trẻ sinh non thì nó thường thấy nhiều hơn .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>What causes Jaundice ?</s>
+<s id='vn143'>Nguyên nhân gây vàng da là gì ?</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Jaundice occurs when a baby has increased blood cell breakdown and the liver can't handle the extra bilirubin , which builds up , giving the skin and the whites of the eyes a yellowish color .</s>
+<s id='vn144'>Chứng vàng da xảy ra khi hiện tượng phân huỷ tế bào máu của trẻ tăng lên và gan không thể xử lý nổi lượng sắc tố da cam dư thừa , gây tăng sinh lượng sắc tố này , làm cho da và tròng trắng mắt chuyển sang màu vàng nhạt .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Babies with jaundice are sometimes more sleepy than usual and , in severe cases , may be lethargic .</s>
+<s id='vn145'>Trẻ bị vàng da đôi khi buồn ngủ hơn bình thường và trong một số trường hợp vàng da nặng có thể khiến cho trẻ rơi vào trạng thái hôn mê .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>How is Jaundice diagnosed ?</s>
+<s id='vn146'>Vàng da được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Although the yellow skin is a fairly good indicator , a diagnosis is made with a blood test to measure the bilirubin level .</s>
+<s id='vn147'>Mặc dù da vàng là một dấu hiệu đặc trưng để nhận diện khá chính xác nhưng phải chẩn đoán bằng xét nghiệm máu để đo nồng độ sắc tố da cam .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>How is Jaundice treated ?</s>
+<s id='vn148'>Điều trị chứng vàng da như thế nào ?</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Extremely high levels of bilirubin can cause brain damage , so infants are monitored for jaundice and treated quickly , before bilirubin reaches dangerous levels .</s>
+<s id='vn149'>Nồng độ sắc tố da cam cực cao có thể làm não bị tổn thương , vì vậy trẻ sơ sinh được theo dõi phát hiện vàng da và điều trị khẩn cấp trước khi sắc tố da cam có thể chạm đến mức độ nguy hiểm .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Standard treatment includes providing adequate fluids and light therapy , in which the baby spends time under a special blue-colored light .</s>
+<s id='vn150'>Phương pháp điều trị chuẩn gồm việc cung cấp đủ nước cho trẻ và sử dụng liệu pháp ánh sáng , trong đó trẻ được chiếu ánh sáng màu xanh dương đặc biệt lên người .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Some cases may also require a blood transfusion .</s>
+<s id='vn151'>Cũng có một số trường hợp yêu cầu phải được truyền máu .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>How long will my baby be in the NICU ?</s>
+<s id='vn152'>Con tôi sẽ ở lại NICU trong bao lâu ?</s>
+</spair>
+<spair id='153'>
+<s id='en153'>Babies with this condition stay in the NICU until their bilirubin level drops , usually in about 2 to 3 days .</s>
+<s id='vn153'>Trẻ bị bệnh này ở lại NICU cho đến khi nồng độ sắc tố da cam giảm xuống , thường thì khoảng từ 2 đến 3 ngày .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>Necrotizing enterocolitis ( NEC )</s>
+<s id='vn154'>Viêm ruột hoại tử ( NEC )</s>
+</spair>
+<spair id='155'>
+<s id='en155'>What is NEC ?</s>
+<s id='vn155'>Viêm ruột hoại tử là gì ?</s>
+</spair>
+<spair id='156'>
+<s id='en156'>The most common intestinal condition in newborns , necrotizing enterocolitis occurs in about 1 % to 5 % of infants in the NICU and happens more commonly in low birth weight and premature infants .</s>
+<s id='vn156'>Viêm ruột hoại tử là chứng bệnh về ruột thường thấy nhất ở trẻ sơ sinh , nó xảy ra ở khoảng từ 1 đến 5% trẻ sơ sinh tại NICU và thường thấy nhiều hơn ở trẻ sinh non và nhẹ ký .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>What causes NEC ?</s>
+<s id='vn157'>Nguyên nhân gây viêm ruột hoại tử là gì ?</s>
+</spair>
+<spair id='158'>
+<s id='en158'>It 's thought that a number of factors can contribute to the development of NEC , which is the necrosis , or death , of parts of the intestine .</s>
+<s id='vn158'>Người ta cho rằng một số yếu tố có thể góp phần làm phát triển NEC là hoại tử nhiều đoạn ruột .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Although a full-term infant can get the condition , the more premature a baby is , the greater the risk for NEC - perhaps because the intestines are n't developed enough to handle digestion .</s>
+<s id='vn159'>Mặc dù trẻ sinh đủ tháng có thể bị bệnh này nhưng nếu trẻ càng sinh thiếu tháng thì nguy cơ mắc NEC càng cao - có thể bởi vì ruột không phát triển đủ lớn để có thể thực hiện chức năng tiêu hoá được .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Factors that are also believed to contribute include the introduction of milk feeding , damage to the intestines from an infection , and poor blood flow .</s>
+<s id='vn160'>Người ta cũng cho rằng có nhiều yếu tố góp phần làm viêm ruột hoại tử như việc cho con bú , tổn thương ruột do nhiễm trùng , và máu lưu thông kém .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Babies with NEC may :</s>
+<s id='vn161'>Trẻ bị NEC có thể :</s>
+</spair>
+<spair id='162'>
+<s id='en162'>* have a tense abdomen</s>
+<s id='vn162'>* có bụng căng cứng</s>
+</spair>
+<spair id='163'>
+<s id='en163'>* need more oxygen or higher ventilator settings</s>
+<s id='vn163'>* cần thêm nhiều ô-xy hơn hoặc cần máy hô hấp nhân tạo nhiều hơn</s>
+</spair>
+<spair id='164'>
+<s id='en164'>* have blood in their bowel movements</s>
+<s id='vn164'>* trong phân có máu</s>
+</spair>
+<spair id='165'>
+<s id='en165'>* exhibit signs of apnea</s>
+<s id='vn165'>* có dấu hiệu nghẹt thở</s>
+</spair>
+<spair id='166'>
+<s id='en166'>How is NEC diagnosed ?</s>
+<s id='vn166'>Viêm ruột hoại tử được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='167'>
+<s id='en167'>An X-ray of the abdomen confirms the diagnosis .</s>
+<s id='vn167'>Người ta có thể chẩn đoán chắc chắn bằng cách chụp X-quang bụng .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>How is NEC treated ?</s>
+<s id='vn168'>Viêm ruột hoại tử được điều trị như thế nào ?</s>
+</spair>
+<spair id='169'>
+<s id='en169'>If there 's no sign of a rupture in the intestines , doctors treat necrotizing enterocolitis by :</s>
+<s id='vn169'>Nếu không phát hiện ra bất cứ dấu hiệu đứt ruột nào thì các bác sĩ điều trị viêm ruột hoại tử bằng cách :</s>
+</spair>
+<spair id='170'>
+<s id='en170'>* giving antibiotics</s>
+<s id='vn170'>* cho sử dụng thuốc kháng sinh</s>
+</spair>
+<spair id='171'>
+<s id='en171'>* stopping all intestinal feeding ( such as formula feeding , breastfeeding , or using a feeding tube )</s>
+<s id='vn171'>* ngưng tất cả việc cho trẻ ăn qua đường ruột ( chẳng hạn như bú bình , bú mẹ hoặc sử dụng ống dẫn thức ăn )</s>
+</spair>
+<spair id='172'>
+<s id='en172'>* switching to an IV</s>
+<s id='vn172'>* cho chuyển sang truyền tĩnh mạch</s>
+</spair>
+<spair id='173'>
+<s id='en173'>* draining the baby 's stomach</s>
+<s id='vn173'>* rút khô dịch trong dạ dày của trẻ</s>
+</spair>
+<spair id='174'>
+<s id='en174'>* performing regular abdominal X-rays</s>
+<s id='vn174'>* chụp X-quang bụng thường xuyên</s>
+</spair>
+<spair id='175'>
+<s id='en175'>In the case of an intestinal rupture , a surgeon may remove the diseased section of the intestine or make an incision in the abdomen to allow the infected fluid to drain .</s>
+<s id='vn175'>Trong trường hợp trẻ bị đứt ruột , bác sĩ phẫu thuật có thể cắt bỏ đoạn ruột bị hoại tử hoặc rạch bụng của trẻ để làm rút khô chất dịch bệnh .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>How long will my baby be in the NICU ?</s>
+<s id='vn176'>Con tôi sẽ ở lại NICU trong bao lâu ?</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Recovering from NEC can take a long time .</s>
+<s id='vn177'>Việc phục hồi khỏi bệnh viêm ruột hoại tử có thể phải mất nhiều thời gian .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>Babies may spend many weeks in the NICU readjusting to regular feeding .</s>
+<s id='vn178'>Trẻ có thể phải được điều trị nhiều tuần ở NICU để điều chỉnh lại việc ăn uống điều độ .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>ductus arteriosus ( PDA )</s>
+<s id='vn179'>Ống động mạch ( PDA )</s>
+</spair>
+<spair id='180'>
+<s id='en180'>What is PDA ?</s>
+<s id='vn180'>Ống động mạch là gì ?</s>
+</spair>
+<spair id='181'>
+<s id='en181'>The ductus arteriosus ( PDA ) is a blood vessel in the heart that connects the aorta ( which provides blood to the rest of the body ) to the pulmonary artery ( which sends blood to the lung ) .</s>
+<s id='vn181'>Ống động mạch ( PDA ) là một mạch máu trong tim có nhiệm vụ nối động mạch chủ ( cung cấp máu đến các phần còn lại trên cơ thể ) với động mạch phổi ( vận chuyển máu đến phổi ) .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>It allows blood to bypass the lungs while a baby is still in the womb .</s>
+<s id='vn182'>Nó giúp cho máu đi vòng qua phổi trong khi trẻ vẫn còn nằm trong bụng mẹ .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>What causes PDA ?</s>
+<s id='vn183'>Nguyên nhân gây ống động mạch là gì ?</s>
+</spair>
+<spair id='184'>
+<s id='en184'>The ductus arteriosus usually closes shortly after birth , which allows for normal blood circulation .</s>
+<s id='vn184'>Ống động mạch thường đóng kín ngay sau khi sinh , giúp cho máu lưu thông bình thường .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>But in some babies , most often premature ones , it remains open , or patent .</s>
+<s id='vn185'>Nhưng đối với một số trẻ , thường thấy nhất là trẻ sinh thiếu tháng , nó vẫn hở , hoặc mở thông ra .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>Then blood flows through the ductus arteriosus and floods the vessels in the lungs , causing respiratory problems .</s>
+<s id='vn186'>Sau đó máu chảy qua ống động mạch và làm ngập các mạch máu trong phổi , gây ra nhiều vấn đề về hô hấp .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>How is PDA diagnosed ?</s>
+<s id='vn187'>Ống động mạch được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='188'>
+<s id='en188'>Those breathing problems are one clue that a baby has PDA.</s>
+<s id='vn188'>Các vấn đề về hô hấp đó là một dấu hiệu cho biết trẻ bị ống động mạch ( PDA ) .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>A heart murmur may also lead doctors to suspect the condition , which is then confirmed with an ultrasound of the heart .</s>
+<s id='vn189'>Tiếng thổi tim cũng có thể làm cho bác sĩ nghi ngờ bệnh , sau đó được xác nhận bằng siêu âm tim .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>How is PDA treated ?</s>
+<s id='vn190'>Ống động mạch được điều trị như thế nào ?</s>
+</spair>
+<spair id='191'>
+<s id='en191'>Sometimes doctors can close the ductus arteriosus by administering medicine .</s>
+<s id='vn191'>Đôi khi bác sĩ có thể làm kín ống động mạch bằng cách cho sử dụng thuốc .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>But if that does n't work , or if the baby is too sick to take the medicine , the infant will need surgery to close arteriosus .</s>
+<s id='vn192'>Nhưng nếu không có hiệu quả , hoặc nếu trẻ ốm yếu quá đến nỗi không thể sử dụng thuốc được thì sẽ phải được phẫu thuật để đóng kín lại ống động mạch .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>How long will my baby be in the NICU ?</s>
+<s id='vn193'>Con tôi sẽ ở lại NICU trong bao lâu ?</s>
+</spair>
+<spair id='194'>
+<s id='en194'>Although recovery time varies from child to child , many babies bounce back from PDA treatment in several days .</s>
+<s id='vn194'>Mặc dù thời gian hồi phục không trẻ nào giống trẻ nào , nhưng nhiều bé có thể hồi phục nhanh khỏi bệnh ống động mạch trong một vài ngày .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>Periventricular leukomalacia ( PVL )</s>
+<s id='vn195'>Hoại tử trắng quanh não thất ( PVL )</s>
+</spair>
+<spair id='196'>
+<s id='en196'>What is PVL ?</s>
+<s id='vn196'>Hoại tử trắng quanh não thất là gì ?</s>
+</spair>
+<spair id='197'>
+<s id='en197'>A type of brain injury , periventricular leukomalacia occurs in the brain tissue that surrounds the fluid-filled cavities of the brain , called ventricles .</s>
+<s id='vn197'>Hoại tử trắng quanh não thất là một loại tổn thương não , xảy ra trong mô não bao quanh các khoang não chứa dịch , gọi là tâm thất .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>This area of the brain is called white matter , in contrast to the grey matter that makes up the rest of the brain .</s>
+<s id='vn198'>Vùng não này được gọi là chất trắng , đối nghịch với chất xám tạo nên phần còn lại của não .</s>
+</spair>
+<spair id='199'>
+<s id='en199'>So , the injury occurs to the white matter that provides connections between the brain and the muscles of the body .</s>
+<s id='vn199'>Vì vậy , tổn thương xảy ra ở vùng chất trắng kết nối thông tin giữa não và các cơ của cơ thể .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>What causes PVL ?</s>
+<s id='vn200'>Nguyên nhân gây hoại tử trắng quanh não thất là gì ?</s>
+</spair>
+<spair id='201'>
+<s id='en201'>PVL is thought to be caused by severe intraventricular hemorrhaging ( bleeding in the brain ) .</s>
+<s id='vn201'>Người ta cho rằng PVL gây ra do xuất huyết não thất nặng ( xuất huyết não ) .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>How is PVL diagnosed ?</s>
+<s id='vn202'>Hoại tử trắng quanh não thất được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='203'>
+<s id='en203'>Often no signs of PVL will be apparent in the nursery .</s>
+<s id='vn203'>Thông thường thì không có dấu hiệu nào của PVL rõ ràng trong phòng trẻ sơ sinh .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>Premature infants are at greater risk of having it , so doctors will frequently get studies like a head ultrasound or an MRI ( magnetic resonance imaging ) to look for PVL .</s>
+<s id='vn204'>Các trẻ sinh thiếu tháng có nguy cơ mắc bệnh nhiều hơn , vì thế bác sĩ sẽ thường xuyên theo dõi chẳng hạn như siêu âm đầu hoặc MRI ( chụp cộng hưởng từ ) để dò tìm hoại tử trắng quanh não thất .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>As the infant gets a little older , he or she may show signs of developmental delays .</s>
+<s id='vn205'>Khi trẻ lớn lên một chút , trẻ có thể có biểu hiện chậm phát triển .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>How is PVL treated ?</s>
+<s id='vn206'>Hoại tử trắng quanh não thất được điều trị như thế nào ?</s>
+</spair>
+<spair id='207'>
+<s id='en207'>There 's no specific treatment , only close monitoring and support with therapists if a child does develop significant delays , usually after discharge from the hospital</s>
+<s id='vn207'>Chẳng có phương pháp đặc trị nào , chỉ có phương pháp theo dõi chặt chẽ và hỗ trợ cho nhà trị liệu nếu trẻ phát triển chậm đáng kể , thường là sau khi trẻ được xuất viện về nhà .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>How long will my baby be in the NICU ?</s>
+<s id='vn208'>Con tôi sẽ ở lại NICU trong bao lâu ?</s>
+</spair>
+<spair id='209'>
+<s id='en209'>Babies with this condition may be in the NICU for several weeks or months .</s>
+<s id='vn209'>Trẻ bị bệnh này có thể được điều trị ở NICU trong một vài tuần hoặc một vài tháng .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>Respiratory distress syndrome ( RDS )</s>
+<s id='vn210'>Hội chứng suy hô hấp ( RDS )</s>
+</spair>
+<spair id='211'>
+<s id='en211'>What is RDS ?</s>
+<s id='vn211'>Hội chứng suy hô hấp là gì ?</s>
+</spair>
+<spair id='212'>
+<s id='en212'>One of the most common and immediate problems facing premature infants is difficulty breathing .</s>
+<s id='vn212'>Một trong những vấn đề cấp bách và thường thấy nhất đối với trẻ sinh thiếu tháng là khó thở .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>Although there are many causes of breathing difficulties in premature babies , the most common is called respiratory distress syndrome ( RDS ) .</s>
+<s id='vn213'>Mặc dù có nhiều nguyên nhân gây khó thở ở trẻ sinh non , nhưng thường thấy nhất là hội chứng suy hô hấp ( RDS ) .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>What causes RDS ?</s>
+<s id='vn214'>Nguyên nhân gây hội chứng suy hô hấp là gì ?</s>
+</spair>
+<spair id='215'>
+<s id='en215'>In RDS , the infant 's immature lungs do n't produce enough of an important substance called surface tant .</s>
+<s id='vn215'>Đối với hội chứng suy hô hấp thì hai lá phổi chưa hoàn thiện của trẻ sơ sinh không tạo đủ chất quan trọng có tên là chất hoạt tính bề mặt .</s>
+</spair>
+<spair id='216'>
+<s id='en216'>Surfactant allows the inner surface of the lungs to expand properly when the infant makes the change from the womb to breathing air after birth .</s>
+<s id='vn216'>Chất hoạt tính bề mặt giúp cho mặt trong của phổi phồng lên đúng mức khi trẻ chuyển từ trong bụng mẹ sang thở không khí bên ngoài sau khi sinh .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>How is RDS diagnosed ?</s>
+<s id='vn217'>Hội chứng suy hô hấp được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='218'>
+<s id='en218'>Doctors suspect respiratory distress syndrome in any premature baby or in full-term infants who are breathing particularly hard and fast or require extra oxygen .</s>
+<s id='vn218'>Bác sĩ nghi ngờ hội chứng suy hô hấp ở bất kỳ trẻ sinh thiếu tháng hoặc đủ tháng nào thở đặc biệt khó khăn và thở nhanh hoặc cần thêm ô-xy .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>A chest X-ray can confirm this diagnosis .</s>
+<s id='vn219'>Có thể chụp X-quang ngực để xác nhận chắc chắn chẩn đoán này .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>How is RDS treated ?</s>
+<s id='vn220'>Hội chứng suy hô hấp được điều trị như thế nào ?</s>
+</spair>
+<spair id='221'>
+<s id='en221'>RDS is treatable and many infants do quite well .</s>
+<s id='vn221'>RDS có thể chữa được và nhiều trẻ sơ sinh đáp ứng khá tốt .</s>
+</spair>
+<spair id='222'>
+<s id='en222'>When premature delivery cann't be stopped , most pregnant women can be given medication just before delivery to help prevent RDS .</s>
+<s id='vn222'>Khi mà hiện tượng sinh non không có cách nào khắc phục được thì hầu hết các thai phụ có thể được sử dụng thuốc ngay trước khi sinh để giúp phòng tránh RDS .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>Then , immediately after birth and several times later , artificial surfactant can be given to the infant through a breathing tube .</s>
+<s id='vn223'>Sau đó ngay sau khi sinh và một số lần kế tiếp , trẻ có thể được sử dụng chất hoạt tính bề mặt nhân tạo qua ống thở .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>Although most premature babies who lack surfactant will require a breathing machine , or ventilator , the use of artificial surfactant has greatly decreased the amount of time they spend on the ventilator .</s>
+<s id='vn224'>Mặc dù hầu hết các trẻ sinh non thiếu chất hoạt tính bề mặt sẽ cần phải sử dụng máy thở , hoặc máy hô hấp nhân tạo , việc sử dụng chất hoạt tính bề mặt nhân tạo đã làm giảm đáng kể lượng thời gian sử dụng máy thở của bé .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>How long will my baby be in the NICU ?</s>
+<s id='vn225'>Con tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='226'>
+<s id='en226'>Babies with serious cases usually require many days or weeks in the unit .</s>
+<s id='vn226'>Trẻ bị nặng thường cần phải được điều trị trong nhiều ngày hoặc nhiều tuần .</s>
+</spair>
+<spair id='227'>
+<s id='en227'>Retinopathy of prematurity ( ROP )</s>
+<s id='vn227'>Bệnh võng mạc ở trẻ sinh thiếu tháng ( ROP )</s>
+</spair>
+<spair id='228'>
+<s id='en228'>What is ROP ?</s>
+<s id='vn228'>ROP là gì ?</s>
+</spair>
+<spair id='229'>
+<s id='en229'>The eyes of premature infants are especially vulnerable to injury after birth .</s>
+<s id='vn229'>Mắt của trẻ sinh non rất dễ bị tổn thương sau khi sinh .</s>
+</spair>
+<spair id='230'>
+<s id='en230'>A serious complication is called retinopathy of prematurity ( ROP ) , which is an abnormal growth of the blood vessels in an infant 's eye ( within the retina ) .</s>
+<s id='vn230'>Một biến chứng nguy hiểm được gọi là bệnh võng mạc ở trẻ sinh thiếu tháng ( ROP ) , đây là bệnh phát triển mạch máu bất thường trong mắt trẻ sơ sinh ( trong võng mạc ) .</s>
+</spair>
+<spair id='231'>
+<s id='en231'>About 7 % of babies weighing 2.8 pounds ( 1,250 grams ) or less at birth develop the condition , and the resulting damage may range from mild ( the need for glasses ) to severe ( blindness ) .</s>
+<s id='vn231'>Khoảng 7% trẻ chào đời có cân nặng 2.8 pao ( 1,250 gram ) trở xuống đều bị bệnh này , và dẫn đến hậu quả có thể là từ nhẹ ( cần mang kính ) đến nặng ( mù mắt ) .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>What causes ROP ?</s>
+<s id='vn232'>Nguyên nhân gây ROP là gì ?</s>
+</spair>
+<spair id='233'>
+<s id='en233'>The cause of ROP in premature infants is unknown .</s>
+<s id='vn233'>Người ta vẫn chưa tìm ra nguyên nhân gây bệnh võng mạc ở trẻ sinh thiếu tháng .</s>
+</spair>
+<spair id='234'>
+<s id='en234'>Although it was previously thought that too much oxygen was the primary problem , further research has shown that oxygen levels ( either too low or too high ) play only a contributing factor in the development of the condition .</s>
+<s id='vn234'>Mặc dù trước đây người ta cho rằng vấn đề chính yếu là quá nhiều ô-xy , cuộc nghiên cứu sâu hơn đã cho thấy nồng độ ô-xy ( hoặc quá thấp hoặc quá cao ) chỉ đóng nhân tố góp phần làm phát triển bệnh thôi .</s>
+</spair>
+<spair id='235'>
+<s id='en235'>How is ROP diagnosed ?</s>
+<s id='vn235'>ROP được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='236'>
+<s id='en236'>Because many very premature babies have some level of ROP , an eye exam by a pediatric eye doctor is standard at 8 to 10 weeks before the premature baby 's original due date .</s>
+<s id='vn236'>Bởi có nhiều trẻ sinh rất non bị bệnh võng mạc ở một mức độ nào đó , nên trẻ cần được bác sĩ mắt khoa nhi khám mắt ở chuẩn từ 8 tới 10 tuần trước khi chào đời .</s>
+</spair>
+<spair id='237'>
+<s id='en237'>How is ROP treated ?</s>
+<s id='vn237'>ROP được điều trị như thế nào ?</s>
+</spair>
+<spair id='238'>
+<s id='en238'>For slight damage , the eye doctor may just follow the baby with frequent exams .</s>
+<s id='vn238'>Đối với trường hợp tổn thương nhẹ thì bác sĩ nhãn khoa có thể chỉ cần theo dõi khám mắt thường xuyên cho trẻ .</s>
+</spair>
+<spair id='239'>
+<s id='en239'>But if the damage is greater , laser surgery will be needed to prevent it from progressing .</s>
+<s id='vn239'>Nhưng nếu tổn thương nhiều hơn thì trẻ sẽ cần phải phẫu thuật bằng tia la-de để ngăn không cho bệnh tiến triển hơn .</s>
+</spair>
+<spair id='240'>
+<s id='en240'>How long will my baby be in the NICU ?</s>
+<s id='vn240'>Con tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='241'>
+<s id='en241'>ROP alone does n't usually determine the length of a newborn 's stay in the unit .</s>
+<s id='vn241'>Bản thân bệnh võng mạc ở trẻ sinh thiếu tháng thường không quyết định được khoảng thời gian mà trẻ phải điều trị là bao lâu .</s>
+</spair>
+<spair id='242'>
+<s id='en242'>It often occurs in conjunction with other problems , and those will be a greater influence on when a baby can leave .</s>
+<s id='vn242'>Nó thường xảy ra kết hợp với nhiều vấn đề khác , và các vấn đề đó sẽ ảnh hưởng đến trẻ nhiều hơn khi trẻ có thể xuất viện về nhà .</s>
+</spair>
+<spair id='243'>
+<s id='en243'>But babies generally recover from the laser surgery in 24 to 48 hours .</s>
+<s id='vn243'>Nhưng thường thì trẻ có thể phục hồi khỏi cuộc phẫu thuật bằng tia la - de trong khoảng từ 24 đến 48 tiếng đồng hồ .</s>
+</spair>
+<spair id='244'>
+<s id='en244'>Sepsis</s>
+<s id='vn244'>Bệnh nhiễm trùng máu</s>
+</spair>
+<spair id='245'>
+<s id='en245'>What is sepsis ?</s>
+<s id='vn245'>Bệnh nhiễm trùng máu là gì ?</s>
+</spair>
+<spair id='246'>
+<s id='en246'>A very serious condition , sepsis is the body 's response to infection that has spread throughout the blood and tissues .</s>
+<s id='vn246'>Nhiễm trùng máu là bệnh rất nguy hiểm , đây là phản ứng của cơ thể đối với bệnh nhiễm trùng đã phát tán khắp trong máu và mô .</s>
+</spair>
+<spair id='247'>
+<s id='en247'>Babies with sepsis may :</s>
+<s id='vn247'>Trẻ bị nhiễm trùng máu có thể :</s>
+</spair>
+<spair id='248'>
+<s id='en248'>* be lethargic</s>
+<s id='vn248'>* bị hôn mê</s>
+</spair>
+<spair id='249'>
+<s id='en249'>* have a low or high temperature</s>
+<s id='vn249'>* có thân nhiệt thấp hoặc cao</s>
+</spair>
+<spair id='250'>
+<s id='en250'>* not eat well</s>
+<s id='vn250'>* biếng ăn</s>
+</spair>
+<spair id='251'>
+<s id='en251'>* have apnea or difficulty breathing</s>
+<s id='vn251'>* bị nghẹt thở hoặc khó thở</s>
+</spair>
+<spair id='252'>
+<s id='en252'>* appear jaundiced</s>
+<s id='vn252'>* có biểu hiện vàng da</s>
+</spair>
+<spair id='253'>
+<s id='en253'>* just not look right</s>
+<s id='vn253'>* nhìn không khoẻ mạnh</s>
+</spair>
+<spair id='254'>
+<s id='en254'>What causes sepsis ?</s>
+<s id='vn254'>Nguyên nhân gây nhiễm trùng máu là gì ?</s>
+</spair>
+<spair id='255'>
+<s id='en255'>Sepsis is an infection caused by bacteria growing in the blood .</s>
+<s id='vn255'>Nhiễm trùng máu là chứng bệnh nhiễm trùng do vi khuẩn phát triển trong máu gây ra .</s>
+</spair>
+<spair id='256'>
+<s id='en256'>The bacteria can get into the blood :</s>
+<s id='vn256'>Vi khuẩn có thể xâm nhập vào máu :</s>
+</spair>
+<spair id='257'>
+<s id='en257'>* during labor and delivery from the mother</s>
+<s id='vn257'>* từ người mẹ trong khi chuyển dạ và sinh nở</s>
+</spair>
+<spair id='258'>
+<s id='en258'>* from IV lines</s>
+<s id='vn258'>* lây truyền qua đường tĩnh mạch</s>
+</spair>
+<spair id='259'>
+<s id='en259'>* after close contact with an individual who 's infected with , or is a carrier of , bacteria</s>
+<s id='vn259'>* sau khi tiếp xúc gần gũi với người bị bệnh hoặc là người mang mầm vi khuẩn</s>
+</spair>
+<spair id='260'>
+<s id='en260'>How is sepsis diagnosed ?</s>
+<s id='vn260'>Nhiễm trùng máu được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='261'>
+<s id='en261'>A blood culture - sometimes along with a urine test or spinal tap - is used to diagnose the illness .</s>
+<s id='vn261'>Người ta chẩn đoán bệnh nhiễm trùng máu bằng cách nuôi cấy máu - đôi khi cũng kết hợp với xét nghiệm nước tiểu hoặc chọc dò tủy sống .</s>
+</spair>
+<spair id='262'>
+<s id='en262'>How is sepsis treated ?</s>
+<s id='vn262'>Nhiễm trùng máu được điều trị như thế nào ?</s>
+</spair>
+<spair id='263'>
+<s id='en263'>When doctors suspect sepsis , they 'll treat the baby with antibiotics until the lab results come back - usually for 48 hours .</s>
+<s id='vn263'>Khi bác sĩ nghi ngờ nhiễm trùng máu thì sẽ cho trẻ sử dụng thuốc kháng sinh cho đến khi có kết quả xét nghiệm ở phòng thí nghiệm - thông thường là trong 48 tiếng đồng hồ .</s>
+</spair>
+<spair id='264'>
+<s id='en264'>If those results are positive for sepsis , the baby receives antibiotics for 7 to 14 more days while being closely monitored .</s>
+<s id='vn264'>Nếu kết quả nhiễm trùng máu dương tính thì trẻ sẽ được sử dụng thuốc kháng sinh thêm từ 7 đến 14 ngày nữa trong khi được bác sĩ theo dõi chặt chẽ .</s>
+</spair>
+<spair id='265'>
+<s id='en265'>How long will my baby be in the NICU ?</s>
+<s id='vn265'>Con tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='266'>
+<s id='en266'>Cases of sepsis are often severe ( the infection can lead to meningitis , organ damage , and occasionally , death ) and require a fairly long NICU stay , sometimes several weeks .</s>
+<s id='vn266'>Các trường hợp nhiễm trùng máu thường rất nặng ( nhiễm trùng có thể dẫn đến viêm màng não , tổn thương một cơ quan nào đó , và đôi khi gây tử vong ) và cần phải được điều trị ở NICU trong thời gian khá lâu , đôi khi là một vài tuần .</s>
+</spair>
+<spair id='267'>
+<s id='en267'>Transient tachypnea of the newborn ( TTN )</s>
+<s id='vn267'>Cơn thở nhanh thoáng qua ở trẻ sơ sinh ( TTN )</s>
+</spair>
+<spair id='268'>
+<s id='en268'>What is transient tachypnea ?</s>
+<s id='vn268'>Cơn thở nhanh thoáng qua là gì ?</s>
+</spair>
+<spair id='269'>
+<s id='en269'>Rapid breathing in a full-term newborn ( more than 60 breaths a minute ) is called transient tachypnea .</s>
+<s id='vn269'>Chứng thở nhanh ở trẻ sinh đủ tháng ( hơn 60 lần phút ) được gọi là cơn thở nhanh thoáng qua .</s>
+</spair>
+<spair id='270'>
+<s id='en270'>Until about 4 hours after the delivery , this can actually be normal .</s>
+<s id='vn270'>Mãi đến khoảng 4 giờ sau khi sinh thì chứng thở này mới có thể là bình thường .</s>
+</spair>
+<spair id='271'>
+<s id='en271'>What causes it ?</s>
+<s id='vn271'>Nguyên nhân của nó là gì ?</s>
+</spair>
+<spair id='272'>
+<s id='en272'>After 4 hours after delivery , doctors start to look for a cause of the rapid breathing , such as pneumonia , a blood infection , or problems with the lungs , including underdevelopment .</s>
+<s id='vn272'>Sau khi trẻ chào đời 4 tiếng đồng hồ , bác sĩ mới bắt đầu dò tìm nguyên nhân gây thở nhanh , chẳng hạn như viêm phổi , nhiễm trùng máu , hoặc các vấn đề về phổi , bao gồm sự chậm phát triển .</s>
+</spair>
+<spair id='273'>
+<s id='en273'>How is it diagnosed ?</s>
+<s id='vn273'>Nó được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='274'>
+<s id='en274'>Blood tests and X-rays can help diagnose the underlying condition .</s>
+<s id='vn274'>Các xét nghiệm máu và chụp X-quang có thể giúp chẩn đoán bệnh tiềm ẩn .</s>
+</spair>
+<spair id='275'>
+<s id='en275'>How is it treated ?</s>
+<s id='vn275'>Nó được điều trị như thế nào ?</s>
+</spair>
+<spair id='276'>
+<s id='en276'>The lung condition usually subsides within a few days with treatment .</s>
+<s id='vn276'>Bệnh phổi thường giảm dần trong một vài ngày điều trị .</s>
+</spair>
+<spair id='277'>
+<s id='en277'>Babies are helped to breathe or receive oxygen , if needed , and the NICU staff closely watch their oxygen levels .</s>
+<s id='vn277'>Trẻ được hỗ trợ thở hoặc nhận ô-xy , nếu cần thì nhân viên NICU sẽ theo dõi chặt chẽ nồng độ ô-xy của trẻ .</s>
+</spair>
+<spair id='278'>
+<s id='en278'>How long will my baby be in the NICU ?</s>
+<s id='vn278'>Con tôi sẽ ở lại NICU trong thời gian bao lâu ?</s>
+</spair>
+<spair id='279'>
+<s id='en279'>A stay of 24 to 72 hours is normal while NICU staff monitor the baby 's condition .</s>
+<s id='vn279'>Thông thường thì bé sẽ ở lại từ 24-72 tiếng đồng hồ trong khi nhân viên NICU theo dõi bệnh .</s>
+</spair>
+<spair id='280'>
+<s id='en280'>Other complications</s>
+<s id='vn280'>Các biến chứng khác</s>
+</spair>
+<spair id='281'>
+<s id='en281'>In addition to specific diagnoses , infants in the NICU can experience general problems .</s>
+<s id='vn281'>Ngoài những chẩn đoán cụ thể thì trẻ sơ sinh tại NICU có thể gặp nhiều vấn đề sức khỏe thường thấy khác .</s>
+</spair>
+<spair id='282'>
+<s id='en282'>For instance , newborns lose heat easily , and preemies in particular have trouble regulating their body temperature , as they lack the energy or fat reserves to generate heat and the body mass to maintain it .</s>
+<s id='vn282'>Chẳng hạn như trẻ bị mất nhiệt dễ dàng , và trẻ sinh thiếu tháng rất khó điều hoà thân nhiệt của mình , bởi chúng không đủ năng lượng hoặc lượng mỡ dự trữ để tạo thân nhiệt và khối lượng cơ thể để duy trì nó .</s>
+</spair>
+<spair id='283'>
+<s id='en283'>So NICU babies must be kept warm in warmers or isolettes .</s>
+<s id='vn283'>Thế nên trẻ ở NICU phải được giữ ấm trong lồng ấp hoặc lồng ấp trẻ sơ sinh .</s>
+</spair>
+<spair id='284'>
+<s id='en284'>High or low blood pressure can also be a risk for premature babies because their developing blood vessels can't handle changes in blood pressure and may tear more easily .</s>
+<s id='vn284'>Huyết áp thấp hay huyết áp cao cũng có thể gây nguy hiểm đối với trẻ sinh thiếu tháng bởi những mạch máu đang phát triển của bé không chịu được thay đổi của huyết áp và có thể làm cho mạch máu bị đứt dễ dàng hơn .</s>
+</spair>
+<spair id='285'>
+<s id='en285'>Some preemies have trouble feeding because they are n't physically coordinated enough yet to do it .</s>
+<s id='vn285'>Một số trẻ sinh non thường hay gặp rắc rối về vấn đề ăn uống bởi cơ thể chúng chưa phối hợp đầy đủ về mặt thể chất .</s>
+</spair>
+<spair id='286'>
+<s id='en286'>Eating is the most energy-consuming process for a newborn , and babies in the NICU often do n't have the strength or energy to feed on their own .</s>
+<s id='vn286'>Việc ăn uống là một quá trình tốn nhiều năng lượng nhất đối với trẻ sơ sinh và trẻ ở NICU thường không đủ mạnh hoặc không đủ năng lượng để có thể tự ăn được .</s>
+</spair>
+<spair id='287'>
+<s id='en287'>Instead , they have to be fed through an IV line or a tube .</s>
+<s id='vn287'>Thay vào đó , chúng phải được truyền dưỡng chất qua đường tĩnh mạch hoặc ống dẫn .</s>
+</spair>
+<spair id='288'>
+<s id='en288'>And if the digestive tract is n't sufficiently developed to handle food , that can cause problems too , as seen with necrotizing enterocolitis .</s>
+<s id='vn288'>Và nếu như đường tiêu hoá chưa phát triển đủ để có thể xử lý được thức ăn thì nó có thể gây ra nhiều vấn đề rắc rối khác nữa , như chúng ta đã thấy đó là chứng viêm ruột hoại tử .</s>
+</spair>
+<spair id='289'>
+<s id='en289'>A related condition is reflux .</s>
+<s id='vn289'>Một chứng bệnh liên quan khác đó là trào ngược .</s>
+</spair>
+<spair id='290'>
+<s id='en290'>Although all infants have some reflux in the early months , preemies have a particular problem with it because they have poor muscle tone .</s>
+<s id='vn290'>Mặc dù trẻ sơ sinh nào cũng bị trào ngược một chút trong những tháng đầu đời , nhưng trẻ sinh thiếu tháng đặc biệt rắc rối với chứng trào ngược này bởi lực cơ của chúng kém săn chắc .</s>
+</spair>
+<spair id='291'>
+<s id='en291'>Sphincters are muscles , and when the one between the esophagus and the stomach is weak , it allows the acidic stomach contents to bubble back up into the esophagus .</s>
+<s id='vn291'>Cơ vòng là những cơ , và khi một cơ nào đó giữa thực quản và dạ dày yếu , nó làm cho lượng a - xít trong dạ dày trào ngược lên thực quản .</s>
+</spair>
+<spair id='292'>
+<s id='en292'>( A preemies's immature nervous system has trouble controlling the sphincter as well . )</s>
+<s id='vn292'>( Hệ thần kinh chưa hoàn thiện của trẻ sinh non cũng khó kiểm soát được cơ vòng . )</s>
+</spair>
+<spair id='293'>
+<s id='en293'>The acid irritates the esophagus , which can lead to feeding problems .</s>
+<s id='vn293'>A-xít làm kích thích thực quản , có thể gây ra nhiều vấn đề khó khăn về ăn uống .</s>
+</spair>
+<spair id='294'>
+<s id='en294'>Inhaling and choking on the reflux is a more serious risk .</s>
+<s id='vn294'>Việc hít thở và nghẹt thở do trào ngược là một nguy hiểm nặng nề hơn .</s>
+</spair>
+<spair id='295'>
+<s id='en295'>Newborns who need intensive care are also vulnerable to infections .</s>
+<s id='vn295'>Trẻ sơ sinh cần được chăm sóc đặc biệt cũng rất dễ bị nhiễm trùng .</s>
+</spair>
+<spair id='296'>
+<s id='en296'>Their skin and mucous membranes - the body 's primary lines of defense against bacteria and viruses - are n't well developed enough to provide adequate protection .</s>
+<s id='vn296'>Da và niêm mạc của trẻ - " tuyến phòng thủ " chính của cơ thể để chống lại vi trùng và vi khuẩn - chưa phát triển đầy đủ để có thể bảo vệ tốt cho bé .</s>
+</spair>
+<spair id='297'>
+<s id='en297'>With several immune-compromised babies in one space , infections that are introduced into the NICU can spread easily , and with nurses caring for multiple babies , the possibility of communicating infectious agents increases .</s>
+<s id='vn297'>Do một số trẻ bị suy yếu miễn dịch ở cùng trong một không gian như thế này , nên các bệnh nhiễm trùng xâm nhập vào NICU có thể được lây lan nhanh chóng , và do nhiều y tá cùng chăm sóc cho nhiều bệnh nhi nên khả năng làm phát tán tác nhân lây nhiễm bệnh càng gia tăng .</s>
+</spair>
+<spair id='298'>
+<s id='en298'>That 's why NICU staff are vigilant about keeping that environment as clean as possible .</s>
+<s id='vn298'>Đó là lý do vì sao nhân viên NICU nên thận trọng về việc giữ cho môi trường càng sạch càng tốt .</s>
+</spair>
+<spair id='299'>
+<s id='en299'>Talking to the doctor</s>
+<s id='vn299'>Nói chuyện với bác sĩ</s>
+</spair>
+<spair id='300'>
+<s id='en300'>If your baby is admitted to the NICU , you 'll want to find out as much about his or her care as possible .</s>
+<s id='vn300'>Nếu con bạn nhập viện ở NICU , bạn cần nên biết cách chăm sóc cho con mình càng nhiều càng tốt .</s>
+</spair>
+<spair id='301'>
+<s id='en301'>Some questions to ask the doctor are :</s>
+<s id='vn301'>Bạn có thể hỏi bác sĩ một số câu hỏi là :</s>
+</spair>
+<spair id='302'>
+<s id='en302'>* How long will my baby be in the unit ?</s>
+<s id='vn302'>* Bé sẽ ở lại điều trị trong thời gian bao lâu ?</s>
+</spair>
+<spair id='303'>
+<s id='en303'>* What , specifically , is the problem ?</s>
+<s id='vn303'>* Vấn đề cụ thể của bé là gì ?</s>
+</spair>
+<spair id='304'>
+<s id='en304'>* What will be involved in my baby 's treatment ?</s>
+<s id='vn304'>* Việc điều trị cho bé cần thiết , liên quan đến những gì ?</s>
+</spair>
+<spair id='305'>
+<s id='en305'>* What medicines will my baby have to take ?</s>
+<s id='vn305'>* Bé sẽ phải sử dụng những loại thuốc gì ?</s>
+</spair>
+<spair id='306'>
+<s id='en306'>* What can I do to help my baby ?</s>
+<s id='vn306'>* Tôi có thể làm gì cho con tôi ?</s>
+</spair>
+<spair id='307'>
+<s id='en307'>You may also want to talk to the nurses to find out more about your baby 's daily care and what to expect when you spend time with your little one .</s>
+<s id='vn307'>Bạn cũng có thể cần nói chuyện với y tá để biết nhiều hơn về chế độ chăm sóc hằng ngày cho con và nên làm gì khi bạn dành thời gian với con của bạn .</s>
+</spair>
+<spair id='308'>
+<s id='en308'>Once you have the answers to these questions , you 'll know the way to help your baby during his or her time in intensive care .</s>
+<s id='vn308'>Khi bạn biết được đáp án của các câu hỏi này thì bạn sẽ biết cách giúp đỡ cho con trong suốt quá trình chăm sóc đặc biệt dành cho bé .</s>
+</spair>
+</text>
+</doc>

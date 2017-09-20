@@ -1,0 +1,88 @@
+﻿<doc id='N0505'>
+<head>
+<title>Military wins small battle in war against counterfeit chips</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Military wins small battle in war against counterfeit chips</s>
+<s id='vn1'>Quân đội Mỹ chiến thắng trong cuộc chiến chống lại các chip giả</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The DOJ has announced a small victory in the government 's long-running war to keep the country safe from ... overclockers ?</s>
+<s id='vn2'>Bộ tư pháp Hoa Kỳ đã công bố một thắng lợi nhỏ trong cuộc chiến kéo dài của chính phủ để bảo vệ an toàn cho đất nước từ … các overclocker ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Unfortunately , the practice of selling remarked or fake computer chips to the military will go on , because there 's no good way to stop it .</s>
+<s id='vn3'>Thật không may , việc buôn bán chip máy tính đã được ép xung hoặc chip giả cho quân đội vẫn đang tiếp diễn bởi vì chưa có cách nào ngăn chặn nó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The US Department of Justice announced today that a California man has pled guilty to trafficking counterfeit computer chips to the US military .</s>
+<s id='vn4'>Bộ Tư pháp Hoa Kỳ đã công bố ngày hôm qua rằng một người đàn ông ở California đã nhận tội buôn bán bất hợp pháp các chip máy tính giả cho quân đội Mỹ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Neil Fehaly agreed to cooperate with the government as part of his plea deal , and he faces up to five years in prison for passing off bogus versions of chips from Intel , VIA , STMicro , Analog Devices , and other chipmakers to the Navy .</s>
+<s id='vn5'>Neil Fehaly đồng ý hợp tác với chính phủ như là một phần trong thoả thuận nhận tội để giảm án của ông và ông phải đối mặt với bản án 5 năm tù cho hành động giả mạo các chip Intel , VIA , STMicro , Analog Devices và các nhà sản xuất chip khác cho Hải Quân Mỹ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>These counterfeits , some of which were outright fakes from China , and others of which were " remarked " versions of cheap chips that had been made to look like more expensive parts , have gone into countless critical military systems .</s>
+<s id='vn6'>Trong đó có một số đã được làm giả hoàn toàn có nguồn gốc từ Trung Quốc và số khác đã được " remark " từ các phiên bản chip rẻ tiền và được " tút " lại cho trông giống chip " xịn " và được đưa vào sử dụng trong vô số các hệ thống máy tính quan trọng của quân đội .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's possibly endangering the lives of military personnel and civilians .</s>
+<s id='vn7'>Điều này thật sự gây nguy hiểm cho cuộc sống của quân lính và dân thường .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>So-called remarking scams , where a lower-speed part is cosmetically altered and then sold as a higher-speed part , have been the bane of Intel and other integrated circuit makers for decades .</s>
+<s id='vn8'>Chip remark là loại chip có tốc độ thấp được thay đổi bên ngoài và sau đó bán chúng như là chip tốc độ cao hơn , điều này gây tai hại cho Intel và các nhà sản xuất vi mạch tích hợp khác trong nhiều thập niên .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Indeed , remarkers are indirectly responsible for some of the very early successes of sites like Tom 's Hardware and Ars Technica .</s>
+<s id='vn9'>Quả thực , các Remarker gián tiếp chịu trách nhiệm về một số thành công gần đây của các trang web như Tom 's Hardware và Ars Technica .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The clock-locking mechanisms the PC hardware scene fought for years were n't put in place to stop enthusiasts from wringing a few extra MHz out of a processor - they were used by Intel to stop remarkers who were scamming customers with secretly overclocked chips and costing chipmakers money in customer support calls and returns .</s>
+<s id='vn10'>Việc nhà sản xuất khóa xung nhịp của chip trong phần cứng PC trong nhiều năm nay để ngăn chặn những tín đồ với mục đích để nâng tốc độ con chip xử lý của mình lên thêm một vài MHz – chúng được sử dụng bởi Intel để ngăn chặn các Remarker lừa đảo khách hàng với những con chip đã được ép xung một cách bí mật và khiến các nhà sản xuất chip tốn chi phí để thực hiện các cuộc gọi hỗ trợ khách hàng và chi phí gửi trả về .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The Pentagon has been aware of the counterfeiting and remarking issue since the dawn of the integrated circuit .</s>
+<s id='vn11'>Lầu Năm Góc đã nhận thức được các vấn đề về mạch tích hợp bị làm giả hoặc bị remark .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>I 've heard stories of how , in the early days when this was still feasible , the government would either design its own chips or validate a third-party design , and then the feds would personally escort the mask set to the fab and watch to see that .</s>
+<s id='vn12'>Tôi đã nghe câu chuyện về cách làm , việc này vẫn đang được thực hiện , đó là chính phủ tự thiết kế chip riêng cho mình hoặc là ủy quyền cho một bên thứ ba thiết kế và sau đó các nhân viên FBI sẽ theo hộ tống các tấm mask đến nhà máy sản xuất chip và giám sát xem chúng ) .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This practice ended a long time ago , though , and now the military pretty much has to take whatever commodity part comes out of a foreign ( often Chinese ) fab .</s>
+<s id='vn13'>Mặc dù điều này trên thực tế đã kết thúc rất lâu và bây giờ quân đội đã được trang bị khá nhiều bộ phận máy móc đến từ các xưởng sản xuất nước ngoài ( thường là từ Trung Quốc ) .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The military 's first line of defense against counterfeiting and remarking has long been the principle of " triple redundancy . "</s>
+<s id='vn14'>Hướng đi đầu tiên của quân đội là chống hàng giả và hàng remark từ lâu đã được đưa vào nguyên tắc " ba dự phòng . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The electronic systems that go inside fighter jets and other military hardware are implemented in three different ways by three different design teams , none of which have contact with one another .</s>
+<s id='vn15'>Các hệ thống điện tử được trang bị trong máy bay phản lực chiến đấu và các loại vũ khí quân sự khác được thực hiện theo ba cách khác nhau bởi ba trung tâm thiết kế khác nhau , không ai trong số đó có liên hệ với nhau .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Such complete redundancy is wasteful , but it makes the resulting equipment fairly robust against compromises both natural and man-made .</s>
+<s id='vn16'>Cách thực hiện như thế khá lãng phí nhưng điều này làm cho các thiết bị hoạt động tốt hơn và chống lại sự phá hoại cả về tự nhiên lẫn do con người tạo ra .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In 2008 , the Pentagon decided to attack the counterfeit backdoor issue head-on by launching the Trust in Integrated Circuits program .</s>
+<s id='vn17'>Năm 2008 , Lầu Năm Góc quyết định tấn công trực diện vấn đề giả mạo backdoor bằng việc khai trương một chương trình Trust in Integrated Circuits .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The idea behind this program was to throw lots of taxpayer money at large defense contractors like Raytheon , so that they could come up with a way to verify that the ICs the military buys are authentic .</s>
+<s id='vn18'>Ý tưởng đằng sau chương trình này đã ném rất nhiều tiền thuế cho các nhà thầu quốc phòng lớn như Raytheon để họ có thể tìm ra một cách để xác minh rằng việc mua IC cho quân đội là phải đáng tin cậy .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The program is slated to end in 2010 , at which point they 'll presumably settle on a solution , effective or not .</s>
+<s id='vn19'>Chương trình được dự kiến đến cuối năm 2010 , tại thời điểm đó có lẽ họ sẽ đưa ra kết luận : hiệu quả hay không .</s>
+</spair>
+</text>
+</doc>

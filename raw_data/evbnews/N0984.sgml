@@ -1,0 +1,80 @@
+﻿<doc id='N0984'>
+<head>
+<title>Iran suspends oil exports to France , UK</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Iran suspends oil exports to France , UK</s>
+<s id='vn1'>Iran ngưng xuất khẩu dầu sang Pháp , Vương quốc Anh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Iran exports 2.2 million barrels of oil a day , 18% of which is bound for European markets , according to the EIA</s>
+<s id='vn2'>Theo EIA , Iran xuất khẩu 2,2 triệu thùng dầu mỗi ngày , 18% dành cho thị trường Châu Âu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Tehran ( CNN ) -- Iran 's oil ministry announced Sunday that it had stopped crude exports to British and French companies .</s>
+<s id='vn3'>Tehran ( CNN ) - Bộ dầu mỏ Iran công bố hôm Chủ Nhật rằng đã ngưng xuất khẩu dầu thô sang các công ty Anh và Pháp .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The order came several days after Iran threatened to cut oil exports to some European Union countries in retaliation for sanctions put in place by the EU and the United States in January , a ministry spokesman said in a statement .</s>
+<s id='vn4'>Lệnh này được đưa ra vài ngày sau khi Iran doạ cắt giảm xuất khẩu dầu sang một số quốc gia Liên minh châu Âu nhằm trả đũa lệnh trừng phạt đưa ra bởi EU và Hoa Kỳ vào tháng giêng , người phát ngôn của bộ này đã phát biểu như thế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" Iran has no difficulty in selling and exporting its crude oil .</s>
+<s id='vn5'>" Iran không gặp mấy khó khăn trong việc bán và xuất khẩu dầu thô .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>... We have our own customers and have designated alternatives for our oil sales .</s>
+<s id='vn6'>Chúng tôi có khách hàng riêng và đã chỉ định giải pháp thay thế trong việc bán dầu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>We shall sell to new customers , who will replace French and UK companies , " ministry spokesman Ali Reza Nikzad-Rahbar said .</s>
+<s id='vn7'>Chúng tôi sẽ bán cho các khách hàng mới , thay chỗ cho các công ty Pháp và Vương quốc Anh , " người phát ngôn của bộ là Ali Reza Nikzad-Rahbar cho hay .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The sanctions put in place last month are meant to force Iran to provide more information on its nuclear program by shutting off its sale of crude oil , which generates half of Iran 's revenue .</s>
+<s id='vn8'>Lệnh trừng phạt được đưa ra vào tháng trước với ý định buộc Iran phải cung cấp thêm thông tin chi tiết về chương trình hạt nhân bằng cách ngừng bán dầu thô nhưng chính sản phẩm này lại tạo ra phân nửa doanh thu cho Iran .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The West believes Tehran may be trying to develop nuclear weapons , but Iran has long maintained that its nuclear program is solely for civilian energy production .</s>
+<s id='vn9'>Phương Tây cho rằng Tehran có thể đang cố phát triển chương trình vũ khí hạt nhân , thế nhưng Iran đã duy trì từ lâu chương trình hạt nhân chỉ để cung cấp cho sản xuất năng lượng phục vụ thường dân .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Iran exports 2.2 million barrels of oil a day , 18 % of which is bound for European markets , according to the U.S. Energy Information Administration .</s>
+<s id='vn10'>Iran xuất khẩu 2,2 triệu thùng dầu một ngày , 18% dành cho thị trường Châu Âu , theo cơ quan quản lý thông tin năng lượng Mỹ cho biết .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The world consumes about 89 million barrels of oil per day .</s>
+<s id='vn11'>Thế giới tiêu thụ khoảng 89 triệu thùng dầu mỗi ngày .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Analysts last week said that if Iran suspends shipments to some European countries , it would only have a modest impact on oil prices .</s>
+<s id='vn12'>Các nhà phân tích tuần trước lên tiếng rằng nếu Iran ngưng xuất khẩu sang một số quốc gia châu Âu thì động thái này sẽ chỉ gây ảnh hưởng khiêm tốn đến giá dầu mà thôi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Final details of the EU sanctions are still being worked out , and it 's expected that they will have a grace period of up to eight months , an EU diplomat told CNN last month .</s>
+<s id='vn13'>Theo một nhà ngoại giao EU công bố với CNN vào tháng trước là các thông tin cuối cùng về lệnh trừng phạt của EU vẫn còn đang được xem xét và người ta hy vọng gia hạn lên đến tám tháng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The grace period will allow European refiners to find new suppliers and Iran to find new buyers .</s>
+<s id='vn14'>Thời gian gia hạn nhằm giúp các nhà máy lọc dầu châu Âu tìm nhà cung cấp mới cũng như Iran sẽ tìm bên mua mới .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Analysts have said that while the new sanctions are the toughest ever imposed , they still contain many loopholes .</s>
+<s id='vn15'>Các nhà phân tích cho biết mặc dù lệnh trừng phạt mới được xem là thô bạo nhất từng áp dụng , thế nhưng chúng vẫn chứa nhiều kẽ hở .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Iran is expected to still be able to sell its oil to places like China , India and other Asian countries , but perhaps at a discount of 10% to 15% .</s>
+<s id='vn16'>Iran dự kiến vẫn bán dầu cho các khu vực như Trung Quốc , Ấn Độ và các quốc gia châu Á khác , nhưng có lẽ sẽ chiết khấu 10% đến 15% .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>About 35% of Iran 's oil exports currently go to China and India .</s>
+<s id='vn17'>Khoảng 35% lượng xuất khẩu dầu của Iran hiện sang Trung Quốc và Ấn Độ .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,124 @@
+﻿<doc id='N0295'>
+<head>
+<title>Longer , More Regular Sleep May Reduce Childhood Obesity</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Longer , More Regular Sleep May Reduce Childhood Obesity</s>
+<s id='vn1'>Ngủ nhiều , đều đặn hơn có thể giúp giảm béo phì ở trẻ em</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Promoting longer , more regular sleep , even catching up at weekends on sleep lost in the week , may help reduce the incidence of childhood obesity , concluded US researchers in a new study published online in a leading journal this week .</s>
+<s id='vn2'>Khuyến khích ngủ nhiều , đều đặn hơn , thậm chí ngủ bù vào cuối tuần cho những khi không được ngủ trong tuần , có thể giúp giảm tỷ lệ béo phì ở trẻ em , các nhà nghiên cứu Hoa Kỳ đã kết luận trong một nghiên cứu mới công bố trực tuyến tuần này trên một tạp chí hàng đầu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>You can read how Dr David Gozal , Professor and Chair of the Department of Pediatrics at the University of Chicago Medical Center , Chicago , Illinois , and colleagues , arrived at this conclusion in a paper published online on 24 January in the journal Pediatrics .</s>
+<s id='vn3'>Bạn có thể đọc các kết luận trong một bài báo công bố trực tuyến vào ngày 24 tháng Giêng trong Tạp chí Nhi khoa của Tiến sĩ David Gozal , Giáo sư và Chủ nhiệm Khoa Nhi tại Trung tâm Y tế Đại học Chicago , Chicago , Illinois , và các đồng nghiệp .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Previous studies have already reported that insufficient sleep is linked to an increased risk of obesity in children , but in this study , Gozal and colleagues set out specifically to explore the effect of duration and regularity of sleep on BMI and metabolic regulation in children .</s>
+<s id='vn4'>Nghiên cứu trước đây đã cho thấy ngủ không đủ có liên hệ đến tăng nguy cơ béo phì ở trẻ em , nhưng trong nghiên cứu này , Gozal và đồng nghiệp bắt đầu tìm hiểu cụ thể ảnh hưởng của thời gian và tính đều đặn của giấc ngủ trên BMI và sự chuyển hóa ở trẻ em .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>BMI stands for Body Mass Index , a measure of obesity , expressed in kg per meter squared , and equal to a person 's weight divided by the square of their height .</s>
+<s id='vn5'>BMI đại diện cho chỉ số hình thể , thước đo béo phì , thể hiện trong số kg trên mỗi mét vuông , và bằng với trọng lượng của một người chia cho bình phương chiều cao của họ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>For this cross-sectional study , they recruited 308 community-resident children aged 4 to 10 , and measured BMIs , their blood glucose before eating in the morning , insulin , blood fats and cholesterol .</s>
+<s id='vn6'>Trong nghiên cứu cắt ngang này , họ tuyển dụng 308 trẻ em trong cộng đồng có độ tuổi từ 4 đến 10 , và đo Chỉ số hình thể , lượng đường trong máu của họ trước khi ăn vào buổi sáng , insulin , mỡ máu và cô-lét-xtê-ron .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In a sub-sample group , they also measured levels of high-sensitivity C-reactive protein ( an " inflammation " marker used to assess risk of cardiovascular disease ) .</s>
+<s id='vn7'>Trong một nhóm mẫu nhỏ , họ cũng đo các mức độ của độ nhạy cảm prô-tê-in C phản ứng ( một dấu hiệu " viêm " dùng để đánh giá nguy cơ mắc bệnh tim mạch ) .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The children wore wrist monitors for a week .</s>
+<s id='vn8'>Các bé được đeo máy theo dõi sức khỏe đeo cổ tay trong một tuần .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>These measured physical activity and allowed the researchers to assess how often , when the children slept , and how long for , over the week .</s>
+<s id='vn9'>Các máy này đo hoạt động thể chất và cho phép các nhà nghiên cứu đánh giá mức độ thường xuyên và thời gian các bé ngủ trong một tuần .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The results showed that :</s>
+<s id='vn10'>Kết quả cho thấy :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The children slept for 8 hours every night on average , regardless of their BMI.</s>
+<s id='vn11'>Trẻ em ngủ bình quân 8 tiếng đồng hồ mỗi đêm , bất kể BMI của họ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>However , there was also a non-linear trend between sleep and weight .</s>
+<s id='vn12'>Tuy nhiên , cũng có xu hướng phi tuyến tính giữa giấc ngủ và trọng lượng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The children in the obese BMI range , slept fewer hours and showed greater variability in the differences between weekend sleep time and school days sleep time .</s>
+<s id='vn13'>Những trẻ em có BMI trong mức béo phì , ngủ ít giờ hơn và cho thấy biến đổi lớn hơn trong sự khác biệt giữa thời gian ngủ nghỉ cuối tuần và thời gian ngủ trong những ngày đi học .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Children whose BMI was in the overweight range , showed an inconsistent sleep pattern .</s>
+<s id='vn14'>Trẻ có chỉ số BMI trong khoảng thừa cân , cho thấy một thói quen ngủ không phù hợp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Analysis of sleep patterns and blood markers showed that high variance in sleep duration , or shorter sleep duration , was more likely to be linked to altered levels of insulin , LDL cholesterol , and high-sensitivity C-reactive protein .</s>
+<s id='vn15'>Phân tích của thói quen ngủ và đặc điểm của máu cho thấy sự chênh lệch nhiều trong thời gian ngủ , hoặc thời gian ngủ ngắn hơn , có thể liên kết với mức insulin , cholesterol LDL , và prô-tê-in nhạy phản ứng C .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Children who slept the least , particularly those who also had irregular sleep patterns , showed the greatest health risk ( ie the riskiest combination of BMI and blood markers ) .</s>
+<s id='vn16'>Những trẻ ngủ ít nhất , đặc biệt là các bé có thói quen đi ngủ không đều , cho thấy nguy cơ sức khoẻ nhiều nhất ( ví dụ như sự kết hợp rủi ro nhất của chỉ số hình thể và đặc điểm của máu ) .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The researchers found that just an extra half hour of sleep every night was linked to lower BMI and reduced pattern of risky blood markers .</s>
+<s id='vn17'>Các nhà nghiên cứu thấy rằng chỉ cần thêm nửa giờ ngủ mỗi đêm sẽ giúp có chỉ số BMI thấp hơn và giảm rủi ro trong máu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And they also found that catching up with sleep at the weekend was linked to a lower risk of obesity , they wrote that :</s>
+<s id='vn18'>Và họ cũng nhận thấy ngủ bù vào cuối tuần liên hệ với ít nguy cơ bị béo phì , và kết luận :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Obese children were less likely to experience 'catch-up ' on weekends , and the combination of shorter sleep duration and more-variable sleep patterns was associated with adverse metabolic outcomes . "</s>
+<s id='vn19'>" Trẻ béo phì thường ít khi ngủ bù vào cuối tuần , và sự kết hợp giữa thời gian ngủ ngắn hơn và thay đổi thói quen ngủ nhiều hơn , gắn liền với các kết quả chuyển hóa có hại . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>They concluded that :</s>
+<s id='vn20'>Họ kết luận :</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Educational campaigns , aimed at families , regarding longer and more-regular sleep may promote decreases in obesity rates and may improve metabolic dysfunction trends in school-aged children . "</s>
+<s id='vn21'>" Các chiến dịch giáo dục , nhằm vào gia đình , thúc đẩy giấc ngủ dài và thường xuyên hơn có thể giúp giảm tỷ lệ béo phì và cải thiện xu hướng rối loạn chức năng trao đổi chất ở trẻ em trong độ tuổi đi học . "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Sleep Duration , Sleep Regularity , Body Weight , and Metabolic Homeostasis in School-aged Children . "</s>
+<s id='vn22'>" Thời gian ngủ , thói quen ngủ , trọng lượng cơ thể , và hiện tượng nội cân bằng chuyển hóa ở trẻ em trong độ tuổi đi học . "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Karen Spruyt , Dennis L. Molfese , David Gozal .</s>
+<s id='vn23'>Karen Spruyt , Dennis L. Molfese , David Gozal .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Pediatrics , Published online 24 January 2011</s>
+<s id='vn24'>Khoa Nhi , đăng trực tuyến 24 01 2011</s>
+</spair>
+<spair id='25'>
+<s id='en25'>DOI:10.1542</s>
+<s id='vn25'>DOI:10.1542</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Additional source : Cleveland Clinic ( online health information services ) .</s>
+<s id='vn26'>Nguồn bổ sung : Cleveland Clinic ( Các dịch vụ thông tin sức khoẻ trực tuyến ) .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Written by : Catharine Paddock , PhD</s>
+<s id='vn27'>Người viết : Catharine Paddock , Tiến sĩ</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Copyright : Medical News Today</s>
+<s id='vn28'>Bản quyền : y tế Tin tức hôm nay</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,176 @@
+﻿<doc id='N0975'>
+<head>
+<title>India toxic alcohol kills 102 in West Bengal</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>India toxic alcohol kills 102 in West Bengal</s>
+<s id='vn1'>102 người bị thiệt mạng vì rượu độc ở bang West Bengal , Ấn Độ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Residents of 12 villages fell ill after consuming toxic alcohol</s>
+<s id='vn2'>Cư dân của 12 ngôi làng đã ngã bệnh sau khi uống phải rượu độc</s>
+</spair>
+<spair id='3'>
+<s id='en3'>At least 102 people are now known to have died after consuming toxic alcohol in India 's West Bengal state .</s>
+<s id='vn3'>Ít nhất 102 người hiện tại được biết đã thiệt mạng sau khi uống phải rượu độc ở bang West Bengal của Ấn Độ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Residents of 12 villages in the South 24 Parganas district fell ill after drinking the alcohol .</s>
+<s id='vn4'>Cư dân của 12 ngôi làng thuộc quận South 24 Parganas đã ngã bệnh sau khi uống rượu này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Four people have been arrested .</s>
+<s id='vn5'>Bốn người đã bị bắt giữ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Some 100 other people are being treated in hospital , with fears the death toll could rise .</s>
+<s id='vn6'>Khoảng 100 người khác đang được điều trị tại bệnh viện , vì sợ tổng số người chết có thể tăng lên .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Many died at home , fearing police would take action against them .</s>
+<s id='vn7'>Nhiều người đã chết tại nhà vì sợ cảnh sát sẽ bắt giam họ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Toxic alcohol deaths are a regular occurrence in India .</s>
+<s id='vn8'>Việc tử vong do rượu độc là chuyện thường xảy ra ở Ấn Độ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Last week , the state of Gujarat brought in a new law making the illegal manufacture and sale of toxic alcohol there punishable by death .</s>
+<s id='vn9'>Tuần trước , bang Gujarat đưa ra một điều luật mới quy định rằng việc sản xuất và bán rượu độc bất hợp pháp sẽ bị phạt tử hình .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Ransacked</s>
+<s id='vn10'>Lục soát</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The affected villages are in the Sangrampur , Magrahat , Usthi and Mandirbazar areas .</s>
+<s id='vn11'>Các ngôi làng bị ảnh hưởng nằm ở các vùng Sangrampur , Magrahat , Usthi và Mandirbazar .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The villagers drank the locally brewed alcohol on Tuesday evening and despite falling ill many stayed at home fearing police harassment if they went to hospital , reports the BBC 's Amitabha Bhattasali in Calcutta .</s>
+<s id='vn12'>Những dân làng này uống rượu được pha chế tại địa phương vào tối thứ ba và mặc dù đã ngã bệnh nhưng nhiều người vẫn nằm tại nhà vì sợ cảnh sát gây phiền hà nếu họ đến bệnh viện , phóng viên BBC - Amitabha Bhattasali ở Calcutta tường thuật lại .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>By Wednesday morning , a large number of people , including two children , had been admitted to hospitals in the area and the nearby city of Calcutta with symptoms of alcohol poisoning .</s>
+<s id='vn13'>Vào sáng thứ Tư , nhiều người , có cả hai trẻ em , đã nhập viện ở khu vực Calcutta và lân cận thành phố này có triệu chứng ngộ độc rượu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>About 70 people are in a critical condition , state government minister Shyamal Mandal told the BBC .</s>
+<s id='vn14'>Khoảng 70 người đang trong tình trạng nguy kịch , thủ hiến bang này là Shyamal Mandal cho phóng viên BBC hay tin .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Local officials said some hospitals were now overcrowded .</s>
+<s id='vn15'>Các quan chức địa phương cho biết một số bệnh viện hiện tại đã bị quá tải .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Medicines and doctors were rushed to the Diamond Harbour hospital in South 24 Parganas .</s>
+<s id='vn16'>Người ta vội vã đưa các bác sĩ cùng thuốc men đến bệnh viện Diamond Harbour ở bang South 24 Parganas .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Four breweries were ransacked after the deaths began to be reported , Agence France-Presse quoted officials as saying .</s>
+<s id='vn17'>Bốn nơi ủ rượu đã bị lục soát sau khi người ta bắt đầu báo cáo con số tử vong , thông tấn xã Agence France - Presse trích dẫn lời của các viên chức .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Our correspondent says the illegal breweries are in the Gocharan area and local residents say they operate with impunity , as local authorities do not interfere .</s>
+<s id='vn18'>Phóng viên của chúng tôi cho hay các nơi ủ rượu lậu nằm ở khu vực Gocharan và cư dân nơi đây tuyên bố họ hoạt động mà không bị trừng phạt vì chính quyền địa phương không can thiệp việc này .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The liquor is packed in cans and delivered all over the district and other parts of the state in buses and on trains .</s>
+<s id='vn19'>Rượu được xếp vào trong hộp và cung cấp ở khắp nơi thuộc quận này và các vùng khác thuộc bang nói trên bằng xe buýt và xe lửa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Retailers sell sachets after filling them up with the liquor .</s>
+<s id='vn20'>Các nhà bán lẻ bán từng túi nhỏ sau khi rót đầy rượu vào .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Local NGO workers told the BBC the liquor becomes toxic when it is spiked with ammonium nitrate to " add flavour " .</s>
+<s id='vn21'>Nhân viên tổ chức phi chính phủ địa phương công bố với BBC là rượu này trở nên độc khi nó được cho thêm chất nitrat amoni để " làm tăng hương vị " .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The illegal alcohol-commonly called desi daroo or country-made liquor in India - usually costs as little as 10 rupees ( 20 US cents ) and the majority of the consumers are poor , daily-wage workers .</s>
+<s id='vn22'>Rượu lậu - thường được gọi là " desi daroo " hay rượu được làm thủ công ở Ấn Độ - thường bán với giá rất rẻ khoảng 10 ru-pi ( 20 xu Mỹ ) và phần lớn người tiêu dùng là dân nghèo , lương công nhật .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The tainted liquor can lead to fits , vomiting and death .</s>
+<s id='vn23'>Rượu bị hỏng này khi uống có thể dẫn đến co giật , ói và tử vong .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>India has witnessed many incidents of toxic alcohol deaths .</s>
+<s id='vn24'>Ấn Độ đã chứng kiến nhiều ca tử vong do rượu độc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>• At least 10 people killed in Tamil Nadu in February 2010</s>
+<s id='vn25'>• Ít nhất 10 người thiệt mạng ở Tamil Nadu vào tháng hai năm 2010</s>
+</spair>
+<spair id='26'>
+<s id='en26'>• At least 30 people killed in Uttar Pradesh in September 2009</s>
+<s id='vn26'>• Ít nhất 30 người thiệt mạng ở Uttar Pradesh vào tháng chín năm 2009</s>
+</spair>
+<spair id='27'>
+<s id='en27'>• Some 107 people killed in Gujarat in July 2009</s>
+<s id='vn27'>• Khoảng 107 người thiệt mạng ở Gujarat vào tháng bảy năm 2009 .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Gujarat has taken the strongest action on toxic liquor with its new law which , it says , is intended to deter those involved in the illegal trade .</s>
+<s id='vn28'>Bang Gujarat đã đưa ra biện pháp mạnh nhất đối với loại rượu độc này bởi một điều luật mới của bang nhằm ngăn cản những ai dính đến việc buôn bán nó bất hợp pháp .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Gujarat , Mizoram and Nagaland are the only states in India where alcohol is totally prohibited by law .</s>
+<s id='vn29'>Gujarat , Mizoram và Nagaland là những bang đáng xem xét nhất ở Ấn Độ nơi mà rượu hoàn toàn bị luật pháp nghiêm cấm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Death toll in India blaze goes up to 91</s>
+<s id='vn30'>Danh sách người chết trong vụ cháy ở Ấn Độ lên đến 91</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The blaze started in the hospital 's basement , and authorities were trying to determine its cause .</s>
+<s id='vn31'>Ngọn lửa bắt đầu ở tầng hầm của bệnh viện , và các nhà chức trách đang cố xác minh nguyên nhân gây ra vụ hoả hoạn này .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>New Delhi ( CNN ) -- Six hospital managers arrested on negligence charges are in custody for questioning after a hospital blaze killed 91 people in eastern India , authorities said Sunday .</s>
+<s id='vn32'>New Delhi ( CNN ) -- Các nhà chức trách hôm Chủ Nhật cho hay có sáu giám đốc bệnh viện bị bắt do tội bất cẩn hiện được giam giữ chờ hỏi cung sau vụ cháy ở bệnh viện làm thiệt mạng 91 người ở miền đông Ấn Độ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>A local court sent the six to 10-day police custody , inspector P.S. Mukhopadhyay said .</s>
+<s id='vn33'>Toà án địa phương gởi sáu giám đốc này cho cảnh sát giam giữ trong 10 ngày , thanh tra P.S. Mukhopadhyay cho biết .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The six worked at the five-story Kolkata hospital that erupted into flames at 4 a.m.</s>
+<s id='vn34'>Sáu người này đã làm việc ở bệnh viện cao năm tầng Kolkata , nơi bùng phát ngọn lửa lúc 4 giờ sáng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Video of the scene showed crowds of people wearing face masks rushing patients out onto the street in stretchers .</s>
+<s id='vn35'>Vi-đê-ô quay lại cảnh cho thấy nhiều đám đông mang khẩu trang vội vã đẩy bệnh nhân ra đường bằng cáng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>At least 60 other people were injured , said Javed Ahmed Khan , the West Bengal Fire and Emergency Services minister .</s>
+<s id='vn36'>Ít nhất 60 người khác nữa bị thương , theo ông Javed Ahmed Khan , giám đốc dịch vụ cứu hoả và khẩn cấp bang West Bengal .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>A " majority " of the bed-ridden patients were abandoned by most of the staff on duty , he said .</s>
+<s id='vn37'>" Đa số " bệnh nhân nằm liệt giường đã bị bỏ rơi bởi hầu hết nhân viên trực , ông cho biết thêm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The blaze started in the hospital 's basement , and authorities were trying to determine its cause .</s>
+<s id='vn38'>Ngọn lửa bắt đầu ở tầng hầm của bệnh viện , và các nhà chức trách đang cố xác minh nguyên nhân gây ra vụ hoả hoạn này .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>A preliminary investigation showed that the hospital had safety violations in the basement , Khan said .</s>
+<s id='vn39'>Điều tra sơ bộ cho thấy bệnh viện này vi phạm về an toàn lao động ở khu vực tầng hầm , ông Khan nói .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In addition to using the basement as an oncology department , it was also being used to park cars and house medical supplies , Khan said .</s>
+<s id='vn40'>Ngoài việc sử dụng tầng hầm làm khoa ung thư , nó còn đang được dùng làm chỗ đỗ xe hơi và chứa thuốc men , ông Khan cho biết thêm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The hospital 's license was revoked .</s>
+<s id='vn41'>Giấy phép của bệnh viện đã bị thu hồi .</s>
+</spair>
+</text>
+</doc>

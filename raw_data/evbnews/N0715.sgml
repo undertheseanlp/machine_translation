@@ -1,0 +1,176 @@
+﻿<doc id='N0715'>
+<head>
+<title>How Gold Affects Currencies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How Gold Affects Currencies</s>
+<s id='vn1'>Vàng ảnh hưởng đến tiền tệ như thế nào</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Gold is one of the most widely discussed metals due to its prominent role in both the investment and consumer world .</s>
+<s id='vn2'>Vàng là một trong những kim loại được nói đến nhiều nhất vì vai trò nổi bật của nó trong cả lĩnh vực đầu tư lẫn thế giới tiêu dùng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Even though gold is no longer used as a primary form of currency in developed nations , it continues to have a strong impact on the value of those currencies .</s>
+<s id='vn3'>Mặc dù người ta không còn dùng vàng như là một hình thức tiền tệ cơ bản ở những quốc gia phát triển nữa , song nó vẫn tác động mạnh mẽ lên giá trị của những đồng tiền đó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Moreover , there is a strong correlation between it's value and the strength of currencies trading on foreign exchanges .</s>
+<s id='vn4'>Hơn nữa , còn có một mối tương quan chặt chẽ giữa giá trị của nó và sức mạnh của các đồng tiền giao dịch trên thị trường ngoại hối .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>To help illustrate this relationship between gold and foreign exchange trading , consider these five important aspects :</s>
+<s id='vn5'>Để minh họạ mối quan hệ giữa vàng và giao dịch ngoại hối này , hãy xem xét 5 khía cạnh quan trọng sau đây :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>1 . Gold was once used to back up fiat currencies .</s>
+<s id='vn6'>1 . Vàng từng được dùng để hỗ trợ các đồng tiền theo sắc lệnh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>As early as the Byzantine Empire , gold was used to support fiat currencies , or the various currencies considered legal tender in their nation of origin .</s>
+<s id='vn7'>Ngay từ thời Đế quốc La mã phương Đông , vàng đã được sử dụng để hỗ trợ tiền tệ theo sắc lệnh , hoặc các loại đồng tiền khác nhau mà được coi là đồng tiền pháp định trong nước xuất xứ của chúng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Gold was also used as the world reserve currency up through most of the 20th century ; the United States used the gold standard until 1971 when President Nixon discontinued it .</s>
+<s id='vn8'>Vàng còn được dùng làm đồng tiền dự trữ trên thế giới suốt một thời gian dài đến gần hết thế kỷ 20 ; Hoa Kỳ sử dụng chế độ bản vị vàng cho đến năm 1971 , thời điểm tổng thống Nixon bỏ nó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>One of the reasons for standard use is that it limited the amount of money nations were allowed to print .</s>
+<s id='vn9'>Một trong những lý do để sử dụng chế độ bản vị vàng là nó giới hạn số lượng tiền các nước được phép in .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This is because , then as now , countries had limited gold supplies on hand .</s>
+<s id='vn10'>Là vì , cũng như hiện nay , các nước có nguồn cấp vàng sẵn có bị hạn chế .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Until the gold standard was abandoned , countries couldn't simply print their fiat currencies ad nauseum unless they possessed an equal amount of gold .</s>
+<s id='vn11'>Cho đến khi chế độ bản vị vàng bị bãi bỏ , các nước không thể dễ dàng in tiền theo sắc lệnh , thật buồn cười , trừ phi họ sở hữu một số lượng vàng tương đương .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Although the gold standard is no longer used in the developed world , some economists feel we should return to it due to the volatility of the U.S. dollar and other currencies .</s>
+<s id='vn12'>Mặc dù chế độ bản vị vàng không còn sử dụng trong thế giới phát triển , một số nhà kinh tế học cho rằng chúng ta nên quay về với nó vì tính bất ổn của đồng đô la Mỹ và các đồng tiền khác .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>2 . Gold is used to hedge against inflation .</s>
+<s id='vn13'>2 . Vàng được dùng để phòng vệ chống lại lạm phát .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Investors typically buy large quantities of gold when their country is experiencing high levels of inflation .</s>
+<s id='vn14'>Các nhà đầu tư thường mua số lượng lớn vàng khi nước họ đang trải qua các mức lạm phát cao .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The demand for gold increases during inflationary times due to its inherent value and limited supply .</s>
+<s id='vn15'>Nhu cầu về vàng tăng trong những thời kỳ lạm phát vì nguồn cung bị giới hạn và giá trị vốn có của nó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>As gold cannot be diluted , gold is able to retain value much better than other forms of currency .</s>
+<s id='vn16'>Vì vàng không thể bị mất giá trị , vàng có thể giữ giá trị tốt hơn các hình thức tiền tệ khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For example , in April 2011 , investors feared declining values of fiat currency and the price of gold was driven to a staggering $ 1,500 an ounce .</s>
+<s id='vn17'>Ví dụ , tháng 4 năm 2011 , các nhà đầu tư lo sợ sự sụt giảm giá trị đồng tiền theo sắc lệnh và giá vàng thì bị đẩy lên đến mức gây sửng sốt là 1500 đô la Mỹ một ao-xơ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This indicates there was little confidence in the currencies on the world market and that expectations of future economic stability were grim .</s>
+<s id='vn18'>Hiện tượng này cho thấy có ít niềm tin vào các đồng tiền trên thị trường thế giới và không mấy ai kỳ vọng vào sự ổn định kinh tế trong tương lai là điều đáng lo ngại .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>3 . The price of gold affects countries that import and export it .</s>
+<s id='vn19'>3 . Giá vàng ảnh hưởng đến các quốc gia xuất nhập khẩu nó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The value of a nation 's currency is strongly tied to the value of its imports and exports .</s>
+<s id='vn20'>Giá trị đồng tiền một quốc gia có quan hệ chặt chẽ với giá trị xuất nhập khẩu của nó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>When a country imports more than it exports , the value of its currency will decline .</s>
+<s id='vn21'>Khi một nước nhập khẩu nhiều hơn xuất khẩu , giá trị đồng tiền của nước này sẽ suy yếu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>On the other hand , the value of its currency will increase when a country is a net exporter .</s>
+<s id='vn22'>Ngược lại , giá trị đồng tiền đó sẽ mạnh lên khi nó là nước xuất khẩu ròng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Thus , a country that exports gold or has access to gold reserves will see an increase in the strength of its currency when gold prices increase , since this increases the value of the country 's total exports .</s>
+<s id='vn23'>Vì vậy , một quốc gia xuất khẩu vàng hoặc có khả năng tiếp cận với những nguồn vàng dự trữ sẽ nhìn thấy đồng tiền của họ tăng sức mạnh khi giá vàng tăng , vì giá vàng tăng sẽ làm tăng giá trị tổng lượng xuất khẩu của quốc gia đó .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>In other words , an increase in the price of gold can create a trade surplus or help offset a trade deficit .</s>
+<s id='vn24'>Nói cách khác , giá vàng tăng có thể tạo ra thặng dư thương mại hoặc giúp bù đắp thâm hụt mậu dịch .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Conversely , countries that are large importers of gold will inevitably end up having a weaker currency when the price of gold rises .</s>
+<s id='vn25'>Ngược lại , những nước nhập khẩu nhiều cuối cùng chắc chắn sẽ có đồng tiền yếu hơn khi giá vàng tăng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For example , countries that specialize in producing products made with gold , but lack their own gold reserves , will be large importers of gold .</s>
+<s id='vn26'>Chẳng hạn , những nước chuyên sản xuất những sản phẩm làm bằng vàng , nhưng thiếu dự trữ vàng của riêng họ thì sẽ là nước nhập khẩu nhiều vàng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Thus , they will be particularly susceptible to increases in the price of gold .</s>
+<s id='vn27'>Do đó , họ rất dễ nhạy cảm với các đợt tăng giá vàng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>4 . Gold purchases tend to reduce the value of the currency used to purchase gold .</s>
+<s id='vn28'>4 . Mua vàng thường làm giảm giá trị đồng tiền dùng để mua vàng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>When central banks purchase gold , it affects the supply and demand of the domestic currency and may result in inflation .</s>
+<s id='vn29'>Khi các ngân hàng trung ương mua vàng , nó ảnh hưởng đến cung cầu đồng tiền trong nước và có thể dẫn đến lạm phát .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>This is largely due to the fact that banks rely on printing more money to buy gold , and thereby create an excess supply of the fiat currency .</s>
+<s id='vn30'>Điều này chủ yếu là vì các ngân hàng dựa vào việc in nhiều tiền hơn để mua vàng , và do đó tạo ra nguồn cung dư thừa đồng tiền theo sắc lệnh .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>5 . Gold prices are often used to measure the value of a local currency , but there are exceptions .</s>
+<s id='vn31'>5 . Giá vàng thường được dùng để đo lường giá trị nội tệ , nhưng có những ngoại lệ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Many people mistakenly use gold as a definitive proxy for valuing a country 's currency .</s>
+<s id='vn32'>Nhiều người sử dụng một cách sai lầm vàng như là một đại diện tuyệt đối để tính giá trị đồng tiền một nước .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Although there is undoubtedly a relationship between gold prices and the value of a fiat currency , it is not always an inverse relationship as many people assume .</s>
+<s id='vn33'>Mặc dù chắc chắn có mối quan hệ giữa giá vàng và giá trị đồng tiền theo sắc lệnh , nhưng nó không phải bao giờ cũng là mối quan hệ nghịch đảo như nhiều người thừa nhận .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For example , if there is high demand from an industry that requires gold for production , this will cause gold prices to rise .</s>
+<s id='vn34'>Chẳng hạn , nếu có nhu cầu cao từ một ngành nào đó cần vàng để sản xuất , thì sẽ làm cho giá vàng tăng lên .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But this will say nothing about the local currency , which may very well be highly valued at the same time .</s>
+<s id='vn35'>Nhưng không nói lên được điều gì về đồng tiền bản địa , cái mà có thể có giá trị rất cao ở cùng thời điểm .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Thus , while the price of gold can often be used as a reflection of the value of the U.S. dollar , conditions need to be analyzed to determine if an inverse relationship is indeed appropriate .</s>
+<s id='vn36'>Vì thế , trong khi giá vàng có thể được dùng để phản ánh giá trị đồng đô la Mỹ , thì các điều kiện cần được phân tích để xác định xem có thực sự là một mối quan hệ nghịch đảo hay không .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The Bottom Line</s>
+<s id='vn37'>Kết luận</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Gold has a profound impact on the value of world currencies .</s>
+<s id='vn38'>Vàng có tác động sâu sắc đối với giá trị tiền tệ trên thế giới .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Even though the gold standard has been abandoned , gold as a commodity can act as a substitute for fiat currencies and be used as an effective hedge against inflation .</s>
+<s id='vn39'>Mặc dù chế độ bản vị vàng đã bị bãi bỏ , vàng vẫn là một loại hàng hóa có thể đóng vai trò như một vật thay thế cho các đồng tiền theo sắc lệnh và được sử dụng phòng vệ hiệu quả chống lại lạm phát .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>There is no doubt that gold will continue to play an integral role in the foreign exchange markets .</s>
+<s id='vn40'>Chắc chắn vàng sẽ tiếp tục đóng một vai trò đầy đủ trong các thị trường hối đoái .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Therefore , gold is an important metal to follow and analyze for its unique ability to represent the health of both local and international economies .</s>
+<s id='vn41'>Vì vậy , vàng là một kim loại quan trọng cần theo dõi và phân tích về khả năng độc đáo của nó đại diện cho tình trạng của cả nền kinh tế quốc tế và quốc gia .</s>
+</spair>
+</text>
+</doc>

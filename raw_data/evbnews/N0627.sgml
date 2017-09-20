@@ -1,0 +1,180 @@
+﻿<doc id='N0627'>
+<head>
+<title>An hour of work</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>An hour of work</s>
+<s id='vn1'>Một giờ làm việc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A man came home from work late , tired and irritated , to find his 5-year old son waiting for him at the door .</s>
+<s id='vn2'>Một người đàn ông đi làm về muộn , mệt mỏi và bực bội , thấy đứa con trai 5 tuổi của mình đang đứng đợi ở cửa .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>SON : " Daddy , may I ask you a question ? "</s>
+<s id='vn3'>CẬU CON TRAI : " Bố ơi , cho con hỏi bố một câu được không ? "</s>
+</spair>
+<spair id='4'>
+<s id='en4'>DAD : " Yeah sure , what it is ? " replied the man .</s>
+<s id='vn4'>ÔNG BỐ : " Được , câu hỏi là gì nào ? " , người bố đáp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>SON : " Daddy , how much do you make an hour ? "</s>
+<s id='vn5'>CẬU CON TRAI : " Bố ơi , một giờ làm việc bố kiếm được bao nhiêu tiền vậy ? "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>DAD : " That 's none of your business .</s>
+<s id='vn6'>ÔNG BỐ : " Đó không phải là việc của con .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Why do you ask such a thing ? " the man said angrily .</s>
+<s id='vn7'>Tại sao con lại hỏi một việc như vậy . " , ông bố trả lời giận dữ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>SON : " I just want to know .</s>
+<s id='vn8'>CẬU CON TRAI : " Con chỉ muốn biết thôi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Please tell me , how much do you make an hour ? "</s>
+<s id='vn9'>Bố nói cho con biết bố kiếm được bao nhiêu tiền một giờ đi bố ? "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>DAD : " If you must know , I make $ 50 an hour . "</s>
+<s id='vn10'>ÔNG BỐ : " Nếu con thật sự muốn biết thì mỗi giờ làm việc bố kiếm được 50 đô la . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>SON : " Oh , " the little boy replied , with his head down .</s>
+<s id='vn11'>Cậu con trai trả lời , đầu cúi xuống : " Ồ ! " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>SON : " Daddy , may I please borrow $ 25 ? "</s>
+<s id='vn12'>CẬU CON TRAI : " Bố ơi ! Con có thể mượn bố 25 đô la được không ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The father was furious ,</s>
+<s id='vn13'>Ông bố tức giận nói :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" If the only reason you asked that is so you can borrow some money to buy a silly toy or some other nonsense , then you march yourself straight to your room and go to bed .</s>
+<s id='vn14'>" Nếu lý do duy nhất con hỏi chuyện đó là để con có thể mượn chút tiền mua một thứ đồ chơi vớ vẩn hay vài thứ linh tinh khác thì con hãy đi ngay về phòng con và ngủ đi .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Think about why you are being so selfish ....</s>
+<s id='vn15'>Hãy suy nghĩ tại sao con lại ích kỷ đến như vậy ...</s>
+</spair>
+<spair id='16'>
+<s id='en16'>I do n't work hard everyday for such childish frivolities . "</s>
+<s id='vn16'>Hằng ngày bố làm việc cực nhọc cho những chuyện tầm phào con nít như thế à . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The little boy quietly went to his room and shut the door .</s>
+<s id='vn17'>Cậu con trai lặng im đi về phòng ngủ của mình và đóng cửa lại .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The man sat down and started to get even angrier about the little boy 's questions .</s>
+<s id='vn18'>Người bố ngồi xuống và càng trở nên giận dữ hơn với câu hỏi của đứa con .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>How dare he ask such questions only to get some money ?</s>
+<s id='vn19'>Làm sao nó lại dám hỏi mình những câu hỏi như vậy chỉ vì muốn một ít tiền ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>After about an hour or so , the man had calmed down , and started to think :</s>
+<s id='vn20'>Sau đó khoảng một tiếng đồng hồ thì người cha nguôi giận và bắt đầu nghĩ rằng :</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Maybe there was something he really needed to buy with that $ 25 and he really did n't ask for money very often .</s>
+<s id='vn21'>Có lẽ nó thật sự cần mua cái gì đó trị giá 25 đô la và thằng bé không thường xin tiền .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The man went to the door of the little boy 's room and opened the door .</s>
+<s id='vn22'>Ông bố đi đến cửa phòng của cậu con trai và mở cửa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" Are you asleep , son ? " He asked .</s>
+<s id='vn23'>Ông hỏi : " Ngủ chưa con ? " .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" No daddy , I 'm awake , " replied the boy .</s>
+<s id='vn24'>Cậu con trả lời : " Chưa bố ạ , con còn thức . " .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" I 've been thinking , maybe I was too hard on you earlier " said the man .</s>
+<s id='vn25'>Người bố nói , " Bố đang suy nghĩ , có lẽ bố đã quá gay gắt với con lúc nãy .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" It 's been a long day and I took out my aggravation on you .</s>
+<s id='vn26'>Một ngày dài mệt mỏi cùng bao bực tức bố đã trút lên con .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Here 's the $ 25 you asked for . "</s>
+<s id='vn27'>Đây là 25 đô la con hỏi xin nè . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The little boy sat straight up , smiling and yelling .</s>
+<s id='vn28'>Cậu bé ngồi dậy mỉm cười và hét lên : .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Oh , thank you daddy !</s>
+<s id='vn29'>" Ôi , cảm ơn bố . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Then , reaching under his pillow he pulled out some crumpled up bills .</s>
+<s id='vn30'>Rồi cậu ta thò tay xuống dưới gối và kéo ra một số tờ giấy bạc bị vò nhăn nhúm .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The man saw that the boy already had money , started to get angry again .</s>
+<s id='vn31'>Ông bố thấy đứa con đã có tiền rồi , bắt đầu nổi giận trở lại .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The little boy slowly counted out his money , and then looked up at his father .</s>
+<s id='vn32'>Đứa con từ từ đếm tiền của cậu rồi nhìn bố cậu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Why do you want more money if you already have some ? " the father grumbled .</s>
+<s id='vn33'>Ông bố càu nhàu : " Tại sao con muốn có thêm tiền trong khi con đã có tiền rồi ? " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Daddy , I have $ 50 now .</s>
+<s id='vn34'>" Bố , giờ con có đủ 50 đô la rồi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Can I buy an hour of your time ?</s>
+<s id='vn35'>Con có thể mua một giờ làm việc của bố được không ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Please come home early tomorrow .</s>
+<s id='vn36'>Ngày mai bố đi làm về nhà sớm nhé .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I would like to have dinner with you . "</s>
+<s id='vn37'>Con muốn được ăn cơm tối với bố . "</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The father was crushed .</s>
+<s id='vn38'>Người bố gục xuống .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>He put his arms around his little son , and he begged for his forgiveness .</s>
+<s id='vn39'>Ông ôm lấy đứa con trai bé bỏng của mình vào lòng và xin nó tha lỗi .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It 's just a short reminder to all of you working so hard in life .</s>
+<s id='vn40'>Đây chỉ là một lời nhắc nhở ngắn ngủi cho hết thảy những ai đang làm việc quá sức trong cuộc sống của mình .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>We should not let time slip through our fingers without having spent some time with those who really matter to us , those close to our hearts .</s>
+<s id='vn41'>Chúng ta không nên để thời gian vụt mất mà không dành một khoảnh khắc nào đó với người thực sự quan trọng với chúng ta , những người thân yêu của chúng ta .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Do remember to share that $ 50 worth of your time with someone you love .</s>
+<s id='vn42'>Hãy nhớ chia sẻ thời gian trị giá 50 đô la đó với người mà bạn thương yêu nhé .</s>
+</spair>
+</text>
+</doc>

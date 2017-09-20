@@ -1,0 +1,84 @@
+﻿<doc id='N0358'>
+<head>
+<title>Panasonic intros 1080p 3D camcorder system</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Panasonic intros 1080p 3D camcorder system</s>
+<s id='vn1'>Panasonic giới thiệu hệ thống máy quay 3D 1080p</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Panasonic at CES introduced a 1080p 3D camcorder designed for professional applications .</s>
+<s id='vn2'>Hãng Panasonic vừa giới thiệu tại Triển lãm hãng điện tử tiêu dùng một máy quay phim 3D độ phân giải 1080p được thiết kế cho các ứng dụng chuyên nghiệp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The system utilizes twin lenses , eliminating the need for complex 3D rigs with several cameras and separate recorders .</s>
+<s id='vn3'>Hệ thống này sử dụng ống kính kép , loại bỏ sự phức tạp cần thiết cho các thiết bị 3D với một vài máy quay và máy ghi hình riêng biệt .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Both lenses , the camera head , and memory card recorder are all integrated into a single body , with the entire unit weighing less than 3 kg .</s>
+<s id='vn4'>Cả hai ống kính , đầu quay phim , đầu ghi thẻ nhớ đều được tích hợp vào trong một thân máy duy nhất với trọng lượng toàn bộ chưa đến 3 kg .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The twin lens system allows users to manually adjust the convergence point depending on the recording situation .</s>
+<s id='vn5'>Hệ thống ống kính kép cho phép người dùng tự điều chỉnh điểm hội tụ phụ thuộc vào nơi ghi hình .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Controlling the camera 's optical axes is said to be necessary for producing natural-looking 3D across a wide range of focal distances .</s>
+<s id='vn6'>Việc điều khiển các trục quang học của máy quay được cho là cần thiết cho việc tạo ra cảnh 3D tự nhiên trên một loạt các khoảng cách tiêu cự rộng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Video is saved directly to dual SD_SDHC memory cards , while users can also access the content by plugging the camera into a PC or Mac .</s>
+<s id='vn7'>Video được lưu trực tiếp vào thẻ nhớ SD SDHC kép , trong khi người sử dụng cũng có thể truy cập vào các nội dung bằng cách cắm máy quay này vào một máy tính hoặc máy Mac .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Panasonic is currently working on developing production systems designed for producing 3D video on media such as 3D Blu-ray .</s>
+<s id='vn8'>Panasonic hiện đang làm việc trên hệ thống sản xuất phát triển được thiết kế dành để tạo ra video 3D trên phương tiện truyền thông như đĩa Blu-ray 3D .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The twin-lens 3D camcorder is expected to ship this fall , with prices starting at $ 21,000 .</s>
+<s id='vn9'>Máy quay 3D ống kính kép này dự kiến sẽ được bày bán vào mùa thu này với giá khởi điểm là 21.000 $ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>T-Mobile says software error behind outage</s>
+<s id='vn10'>T–Mobile nói lỗi phần mềm gây ra sự ngưng trệ</s>
+</spair>
+<spair id='11'>
+<s id='en11'>T-Mobile said on Wednesday that a software glitch was to blame for a massive outage on Tuesday that left many customers unable to send or receive calls or text messages .</s>
+<s id='vn11'>Vào hôm thứ Tư T-Mobile đã cho biết rằng một sự cố phần mềm là lý do gây ra sự ngưng trệ nghiêm trọng vào ngày thứ Ba làm cho nhiều khách hàng không thể gửi hay nhận cuộc gọi hoặc nhắn tin .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" After investigating the cause , we have determined that a back-end system software error had generated abnormal congestion on the network , " T-Mobile said in a statement .</s>
+<s id='vn12'>" Sau khi điều tra nguyên nhân chúng tôi đã xác định là có một lỗi về phần mềm hệ thống phụ đã tạo ra sự tắt nghẽn bất thường trên mạng , " T-Mobile đã nói trong một bài phát biểu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" T-Mobile has implemented additional measures to help prevent this from happening in the future . "</s>
+<s id='vn13'>" T-Mobile đã triển khai thực hiện các biện pháp bổ sung để giúp ngăn chặn điều này xảy ra trong tương lai . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This wireless service provider did not say which software caused this issue .</s>
+<s id='vn14'>Nhà cung cấp dịch vụ không dây này không tiết lộ phần mềm nào đã gây nên vấn đề này .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" We again apologize to those customers who were affected and may have been inconvenienced , " T-Mobile said .</s>
+<s id='vn15'>T-Mobile cho biết : " Một lần nữa chúng tôi gửi lời xin lỗi đến những khách hàng đã bị ảnh hưởng và có thể đã gặp phiền phức " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>I 've also asked the carrier what , if any , compensation it plans to give those who were without service .</s>
+<s id='vn16'>Tác giả bài viết cũng đã hỏi nhà mạng về việc hãng có kế hoạch bồi thường cho những người đã bị mất dịch vụ không .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The service disruption began on Tuesday afternoon and lasted , for some , until late into the evening Pacific Time .</s>
+<s id='vn17'>Sự gián đoạn dịch vụ bắt đầu vào buổi chiều ngày thứ Ba và kéo dài , đối với một số , cho đến khuya theo giờ Pacific Time .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>T-Mobile has stated that the outage affected about 5 percent of its users .</s>
+<s id='vn18'>T-Mobile đã phát biểu rằng sự đình trệ đã ảnh hưởng khoảng 5 phần trăm người sử dụng của họ .</s>
+</spair>
+</text>
+</doc>

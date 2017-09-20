@@ -1,0 +1,208 @@
+﻿<doc id='N0767'>
+<head>
+<title>What is a rating agency ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What is a rating agency ?</s>
+<s id='vn1'>Cơ quan đánh giá là gì ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>AAA , Ba3 , Ca , CCC ... they look like some kind of hyper-active school report .</s>
+<s id='vn2'>AAA , Ba3 , Ca , CCC ... chúng trông giống như một loại phiếu điểm rất tích cực vậy .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They are , indeed , a marking system , and one that is designed to inform interested parties .</s>
+<s id='vn3'>Thực ra , chúng là một hệ thống ký mã hiệu , và dùng để thông báo cho các bên hữu quan biết .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The letter formations are given to large-scale borrowers , whether companies or governments , and tell the buyers of this debt how likely they are to be able to get it back .</s>
+<s id='vn4'>Những người đi vay số lượng lớn , các chính phủ hoặc các công ty , nhận được những đội hình chữ cái ấy , và những người mua khoản nợ này được chúng cho biết khả năng họ có thể lấy lại tiền là như thế nào .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The score card also affects the amount that should be charged by way of return on that borrowing .</s>
+<s id='vn5'>Bảng đánh giá kia còn ảnh hưởng đến số phí tính theo mức sinh lợi trên khoản tiền vay đó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>These letters have been all over the coverage of the financial impact of the crisis besetting the eurozone .</s>
+<s id='vn6'>Những chữ cái này tràn ngập khắp các tin tức về tác động tài chính của cuộc khủng hoảng đang ám ảnh khu vực sử dụng đồng Euro .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A change to the score means a change to the amount a borrower must pay its debt-holders , something that can make it more expensive to borrow as investors demand a higher rate of return for taking on more risky debt .</s>
+<s id='vn7'>Một thay đổi điểm số có nghĩa là một sự thay đổi số tiền người đi vay phải trả cho các chủ nợ của mình , có thể khiến người ta mất nhiều phí vay hơn khi những nhà đầu tư đòi hỏi tỷ lệ lợi nhuận cao hơn vì phải gánh khoản nợ có rủi ro nhiều hơn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But while the borrowers in the news - the governments of Greece , Ireland , Portugal , and now even the mighty US - are household names , the ones that have such an impact on their fortunes are not .</s>
+<s id='vn8'>Nhưng trong khi những kẻ đi vay được báo chí nêu - các chính phủ Hy Lạp , Ai len , Bồ Đào Nha , và hiện giờ thậm chí là Hoa Kỳ vĩ đại - là những danh xưng nhiều người biết đến , thì những người có ảnh hưởng lớn như vậy đối với tài sản của họ lại không có .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>They are credit-rating agencies , which exist to assess the credit-worthiness of bond issuers - companies or , as in this case , countries who borrow money by issuing IOUs known as bonds .</s>
+<s id='vn9'>Họ là những cơ quan đánh giá tín nhiệm , tồn tại để đánh giá khả năng chi trả của những nhà phát hành trái phiếu - các công ty hoặc - như trong trường hợp này , các quốc gia mượn tiền bằng cách phát hành các giấy nợ dạng IOU được gọi là trái phiếu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But who are they ?</s>
+<s id='vn10'>Nhưng họ là ai ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Do we need them and how do they work out whether to give the top-of-the-class AAA or a lower grade , such as CCC , which - sticking with the schools analogy - means the issuer is probably planning on bunking off ?</s>
+<s id='vn11'>Có phải chúng ta cần họ không và họ tính ra như thế nào để đưa ra thứ hạng cao nhất AAA hoặc đưa ra một thứ hạng thấp hơn , chẳng hạn CCC , thứ hạng - trung thành với hình thức xếp hạng trong nhà trường - có nghĩa là nhà phát hành nhiều khả năng đang chuẩn bị kế hoạch bỏ trốn ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Poor and Moody</s>
+<s id='vn12'>Poor and Moody</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Standard & Poor 's ( S&P ) , as the oldest , comes first .</s>
+<s id='vn13'>Trước tiên chúng ta đề cập đến Standard & Poor ( S&P ) , cơ quan đánh giá lâu đời nhất .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It was begun in 1860 by Henry Poor , who wrote a history of the finances of railroads and canals in the United States as a guide for investors .</s>
+<s id='vn14'>Nó đã thành lập ra vào 1860 bởi người viết một cuốn sách lịch sử về tài chính đường sắt và kênh đào ở Hoa Kỳ như một cẩm nang cho các nhà đầu tư , ông Henry Poor .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The " Standard " part came into being in 1906 , when the Standard Statistics Bureau was set up to examine finances of non-railroad companies .</s>
+<s id='vn15'>Cái phần " Standard " ra đời vào năm 1906 , thời điểm Cục thống kê tiêu chuẩn được thành lập nhằm kiểm tra tài chính các công ty không thuộc ngành đường sắt .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The two businesses joined forces in the 1940s .</s>
+<s id='vn16'>Hai doanh nghiệp này sáp nhập vào những năm 1940 .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The two businesses joined forces in the 1940s .</s>
+<s id='vn17'>Hai doanh nghiệp này sáp nhập vào những năm 1940 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>These are now mighty concerns - Moody 's operating income was $ 688m in 2010 and Standard & Poor 's made $ 762m .</s>
+<s id='vn18'>Những công ty này hiện nay đang được nhiều người quan tâm - doanh thu trước thuế của Moody năm 2010 là 688 triệu đô-la Mỹ và Standard & Poor là 762 triệu đô-la Mỹ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>They each have 40 % apiece of the business of rating major companies and countries .</s>
+<s id='vn19'>Mỗi công ty họ đều chiếm 40% thị phần đánh giá những công ty và quốc gia lớn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Fitch , with another eponymous founder , John Fitch , was set up in 1913 and is a smaller version of the other two .</s>
+<s id='vn20'>Fitch - một nhà sáng lập nữa được lấy tên đặt cho một công ty , ông John Fitch - thành lập vào năm 1913 và là một phiên bản nhỏ hơn hai phiên bản kia .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>There are hosts of other ratings agencies , whose names rarely appear even within the darker corners of the financial pages - so why are these three businesses the ones everyone watches ?</s>
+<s id='vn21'>Có hàng loạt những cơ quan đánh giá tín nhiệm khác , tên của chúng thậm chí hiếm khi xuất hiện trong những góc khuất khó thấy hơn của những trang tài chính - vậy tại sao ba công ty này lại là những cơ quan đánh giá được nhiều người theo dõi ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Track Record</s>
+<s id='vn22'>Thành tích</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Part of the answer lies with the Securities and Exchange Commission ( SEC ) , the US financial watchdog .</s>
+<s id='vn23'>Một phần câu trả lời là trách nhiệm của Uỷ ban Giao dịch Chứng khoán ( SEC ) , cơ quan giám sát tài chính Hoa Kỳ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>In 1975 , it acknowledged these three as Nationally Recognized Statistical Rating Organizations ( NRSRO ) .</s>
+<s id='vn24'>Năm 1975 người ta thừa nhận ba công ty này như là những Tổ chức Đánh giá Tín dụng Thống kê được công nhận toàn quốc ( NRSRO ) .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>An endorsement from an NRSRO makes life quicker and easier for countries and financial institutions wishing to issue bonds .</s>
+<s id='vn25'>Một xác nhận của NRSRO sẽ tạo điều kiện dễ dàng và thuận lợi hơn cho những quốc gia và tổ chức tài chính đang mong muốn phát hành trái phiếu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>It basically tells investors a firm has a track record and how likely it is to be able to pay back the money .</s>
+<s id='vn26'>Về cơ bản xác nhận ấy nói cho các nhà đầu tư biết thành tích của một doanh nghiệp và khả năng họ hoàn trả tiền vay như thế nào .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Further impetus for NRSROs comes from the fact that certain regulated investment funds are required by the SEC to hold only those bonds that have a very high rating from accredited agencies .</s>
+<s id='vn27'>Sức mạnh bổ sung để NRSROs phát triển hơn nữa đến từ việc một số quỹ đầu tư theo luật định được SEC yêu cầu chỉ nắm giữ những trái phiếu có mức đánh giá rất cao của các cơ quan được mọi người công nhận .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>An insurance company 's strength is also judged by the ratings applied to the investment reserves it holds .</s>
+<s id='vn28'>Sức mạnh của một công ty bảo hiểm còn được đánh giá bằng những thứ hạng áp dụng đối với những khoản dự trữ đầu tư mà công ty đó nắm giữ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>A downgrade of an issuers " rating pushes down the value of a bond and raises its interest rate .</s>
+<s id='vn29'>Việc nhà phát hành bị đánh giá tín nhiệm thấp sẽ làm cho giá trị trái phiếu hạ xuống và tăng lãi suất trái phiếu ấy lên .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>It can mean regulated funds must now sell these bonds .</s>
+<s id='vn30'>Nghĩa là các quỹ theo luật định bây giờ phải bán những trái phiếu này .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But this can cause a vicious cycle .</s>
+<s id='vn31'>Nhưng việc này có thể tạo ra một vòng luẩn quẩn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>A big sell-off adds in market forces - more sellers than buyers - reducing the price further .</s>
+<s id='vn32'>Bán tống bán tháo ồ ạt cộng với các tác động cung cầu thị trường - nhiều người bán hơn người mua - làm giá giảm nhiều hơn nữa .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>That means a yet higher interest rate must be paid - and that puts an even bigger strain on the borrower .</s>
+<s id='vn33'>Có nghĩa là phải trả lãi suất còn cao hơn nữa - và người đi vay phải chịu nhiều căng thẳng lớn hơn nữa .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Although the SEC has 10 NRSROs on its approved list , including a Canadian agency and two Japanese ones , the big three - Standard & Poor 's , Moody 's and Fitch - remain the industry standard-bearers .</s>
+<s id='vn34'>Mặc dù SEC có 10 tổ chức NRSRO trong danh sách phê chuẩn của mình , bao gồm một đại diện của Ca-na-đa , hai của Nhật , nhưng ba ông lớn - Standard & Poor 's , Moody 's và Fitch - vẫn là những công ty đầu ngành .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>This is partly because they make their ratings available freely to investors - making their money from charging the organisations who want their bonds rated .</s>
+<s id='vn35'>Một phần là vì họ công khai miễn phí các đánh giá tín nhiệm của họ cho các nhà đầu tư - thu tiền từ việc tính phí các tổ chức muốn đánh giá trái phiếu của mình .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Heavy criticism</s>
+<s id='vn36'>Chỉ trích nặng nề</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So much for their size .</s>
+<s id='vn37'>Quên đi tầm cỡ của họ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>What of their actual methods ?</s>
+<s id='vn38'>Những phương pháp thực sự của họ là gì ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Standard & Poor 's said it based its judgments on a range of financial and business attributes that might influence the repayment , some of which may depend on the issuer of the bond ( ie the borrower ) .</s>
+<s id='vn39'>Standard & Poor 's cho biết họ đánh giá dựa trên một loạt những thuộc tính kinh doanh và tài chính có thể ảnh hưởng đến việc hoàn trả , trong đó một số có thể phụ thuộc vào nhà phát hành trái phiếu ( tức người đi vay ) .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In a statement , S&P gave a long list of indicators it may use , including " economic , regulatory and geopolitical influences , management and corporate governance attributes , and competitive position " .</s>
+<s id='vn40'>Trong một báo cáo , S&P 's đưa ra một danh sách dài các chỉ báo họ có thể sử dụng , gồm những tác động địa chính trị , luật lệ , và kinh tế , quản trị và thuộc tính các phương thức và quy trình quản lý công ty , và vị thế cạnh tranh . " .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>That seems to cover everything .</s>
+<s id='vn41'>Dường như đầy đủ hết cả .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>But since the credit crisis that began in 2007 , these agencies have come in for heavy criticism - and even hostility .</s>
+<s id='vn42'>Nhưng kể từ cuộc khủng hoảng tín dụng bắt đầu vào năm 2007 , những công ty này đã hứng chịu những chỉ trích nặng nề - và thậm chí cả sự thù địch nữa .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>After all , stacks of mortgage-backed securities - the investments that were backed by mortgages that were either never going to be paid back or were even fraudulent - were given the very best grade by the three supposed experts in rating the likelihood of the money being paid back .</s>
+<s id='vn43'>Rốt cuộc , số lượng khổng lồ các chứng khoán có thế chấp bảo đảm - các khoản đầu tư được những tài sản thế chấp bảo đảm hoặc sẽ không bao giờ thu hồi nổi hoặc bị gian lận - đã được ba chuyên gia có trách nhiệm đánh giá khả năng hoàn trả tiền vay xếp cho thứ hạng cao nhất .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Similar dramatic swings have been taking place in the ratings applied to government-backed - rather than private property-supported debt .</s>
+<s id='vn44'>Những biến động đầy kịch tính tương tự đã diễn ra trong việc đánh giá tín dụng khoản nợ do chính phủ bảo lãnh chứ không phải là nợ có tài sản cá nhân bảo đảm .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>One day a country 's bond is graded a safe top rating and the next given a mark that suggests investors ' money is not safe .</s>
+<s id='vn45'>Hôm nay một trái phiếu của quốc gia nào đó được đánh giá thứ hạng cao nhất về độ an toàn nhưng ngày hôm sau lại bị cho điểm gợi ý rằng tiền của các nhà đầu tư không an toàn .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Many observers believe that if the rating on the UK 's government bonds - or gilts - was downgraded by just one notch from AAA to AA it would put up the cost of official borrowing by around half of one per cent .</s>
+<s id='vn46'>Nhiều nhà quan sát tin rằng nếu thứ hạng trái phiếu chính phủ Anh - hoặc các cổ phiếu thượng hạng - bị đánh tụt chỉ một mức từ AAA xuống AA thì sẽ làm tăng phí vay chính thức bằng khoảng 0,5% .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>That would mean a big rise in the annual interest bill which has to be met by taxpayers .</s>
+<s id='vn47'>Điều đó có nghĩa là tăng số lượng lớn hối phiếu có lãi hàng năm mà những người nộp thuế sẽ phải trả .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>When asked why it changes ratings , S&P responded : " The reasons for ratings adjustments vary , and may be broadly related to overall shifts in the economy or business environment - or more narrowly focused on circumstances affecting a specific industry , entity , or individual debt issue . "</s>
+<s id='vn48'>Khi được hỏi tại sao thay đổi các thứ hạng , S&P trả lời : " Các lý do điều chỉnh thứ hạng thay đổi , và có thể liên quan rộng rãi đến những thay đổi nói chung trong nền kinh tế hoặc môi trường kinh doanh , hoặc trong phạm vi hẹp hơn tập trung vào những điều kiện ảnh hưởng đến một thực thể , ngành cụ thể , hoặc đợt phát hành nợ riêng lẻ nào đó . "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>It indeed appears a dark art - but one whose influence has a more measurable effect .</s>
+<s id='vn49'>Quả thực nó xuất hiện một cách kỳ bí - nhưng lại có ảnh hưởng rất lớn .</s>
+</spair>
+</text>
+</doc>

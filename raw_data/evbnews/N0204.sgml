@@ -1,0 +1,100 @@
+﻿<doc id='N0204'>
+<head>
+<title>HIV Hides Out in Bone Marrow Cells</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>HIV Hides Out in Bone Marrow Cells</s>
+<s id='vn1'>HIV ẩn nấp trong tế bào tuỷ xương</s>
+</spair>
+<spair id='2'>
+<s id='en2'>SUNDAY , March 7 ( HealthDay News ) -- Medications can reduce the level of the AIDS virus in the blood to zero , but HIV does n't disappear and often roars back when patients stop taking their pills .</s>
+<s id='vn2'>Chủ Nhật , ngày 7 tháng Ba ( Healthday News ) - Dược phẩm có thể làm giảm lượng vi-rút AIDS trong máu đến zê-rô , nhưng HIV không biến mất và thường quay lại tấn công khi bệnh nhân ngưng dùng thuốc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Now , research is giving scientists new insight into how the virus manages to hide and avoid the killing powers of medicine .</s>
+<s id='vn3'>Hiện nay , việc nghiên cứu giúp các nhà khoa học có được cái nhìn mới về cách vi-rút cố ẩn nấp và tránh tác dụng tiêu diệt của thuốc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In a new study , researchers report that the virus lurks in certain bone marrow cells and " reawakens " only under certain circumstances .</s>
+<s id='vn4'>Trong một nghiên cứu mới , các nhà khoa học thấy rằng vi-rút ẩn nấp trong một số tế bào tuỷ xương và chỉ " được đánh thức lại " tùy trường hợp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The research provides a new target for scientists , but it also presents new challenges because killing off bone marrow cells is a dicey proposition .</s>
+<s id='vn5'>Nghiên cứu cung cấp mục tiêu mới cho các nhà khoa học , nhưng nó cũng đặt ra những thử thách mới bởi vì tiêu diệt tế bào tuỷ xương là một phương án nguy hiểm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Overall , the findings provide " a better understanding of how HIV hides in the body " and could lead to better strategies to kill or control it , said study co-author Dr. Kathleen Collins , an associate professor of internal medicine at the University of Michigan .</s>
+<s id='vn6'>Nhìn chung , phát hiện cung cấp " hiểu biết tốt hơn về cách HIV trốn trong cơ thể " và có thể dẫn đến chiến lược tốt hơn để giết hoặc kiểm soát nó , Kathleen Collins , phó giáo sư nội khoa tại trường Đại học Michigan , bác sĩ đồng tác giả của công trình nghiên cứu nói .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Doctors have long known about the ability of HIV - the AIDS virus - to avoid being killed off completely by medications .</s>
+<s id='vn7'>Từ lâu các bác sĩ đã biết về khả năng của HIV - vi-rút bệnh AIDS - tránh bị tiêu diệt hoàn toàn bởi các loại thuốc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Drugs may prevent the virus from infecting new cells , " but they do n't get rid of cells that contain the virus and have potential to make new viral particles , " Collins said .</s>
+<s id='vn8'>Giáo sư Collins cho biết , dược phẩm có thể làm cho vi-rút không thể gây bệnh cho các tế bào mới , nhưng lại không quét sạch được hết các tế bào chứa vi-rút và có tiềm lực tạo nên các hạt vi-rút mới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>This helps explain why HIV is n't curable .</s>
+<s id='vn9'>Điều này giúp giải thích tại sao HIV không thể chữa trị được .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The immune systems of patients may be able to control the virus for a time but later fall victim to a renewed attack and , ultimately , to AIDS .</s>
+<s id='vn10'>Hệ miễn dịch của bệnh nhân có thể kiểm soát vi-rút trong một thời gian nhưng sau đó là nạn nhân của các đợt tấn công tiếp tục , và cuối cùng dẫn đến bệnh AIDS .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" A patient cannot be cured of HIV until all sources of infection are eliminated , " said Jerome A. Zack , director of the UCLA Center for AIDS Research in Los Angeles .</s>
+<s id='vn11'>" Bệnh nhân không thể được chữa khỏi HIV cho đến chừng nào tất cả nguồn lây nhiễm được loại bỏ , " Jerome A Zack , giám đốc trung tâm nghiên cứu bệnh AIDS thuộc Đại học California , Los Angeles , cho biết .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But where does the virus hide when it 's not in the blood ?</s>
+<s id='vn12'>Nhưng vi-rút trốn ở đâu khi nó không ở trong máu ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Researchers have suspected that the bone marrow - which creates blood cells - could serve as the hiding place .</s>
+<s id='vn13'>Các nhà nghiên cứu đã tình nghi rằng tuỷ xương - nơi tạo ra các tế bào máu - có thể chính là nơi ẩn nấp .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In the new study , published in the March 7 online edition of Nature Medicine , researchers examined bits of AIDS virus and cells from infected people .</s>
+<s id='vn14'>Theo một nghiên cứu mới , công bố trong ấn bản trực tuyến vào ngày 7 tháng Ba của tạp chí Y học tự nhiên , các nhà nghiên cứu xét nghiệm các mẩu nhỏ của virút bệnh AIDS và các tế bào từ những người bị nhiễm bệnh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The investigators found that the virus can infect certain kinds of bone marrow cells that are the parents ( " progenitors " ) of blood cells , Collins said .</s>
+<s id='vn15'>Các nhà khoa học thấy rằng vi-rút có thể tác động đến một số loại tế bào tuỷ xương nhất định là cha mẹ ( " nguyên bản " ) của tế bào máu , Collins cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>So why not use a medication to kill all those parent cells , thereby perhaps ridding the body of HIV ?</s>
+<s id='vn16'>Vậy thì tại sao không sử dụng thuốc để giết tất cả những tế bào mẹ đó , để có thể sẽ giải thoát cơ thể khỏi HIV ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It sounds simple , but killing all of these blood-producing marrow cells would be lethal to humans , Collins said .</s>
+<s id='vn17'>Nghe có vẻ đơn giản , nhưng giết tất cả các tế bào tủy xương tạo máu này sẽ gây chết cho con người , Collins nói .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>However , " maybe we could find ways of targeting only the latently infected bone marrow cells , " she added .</s>
+<s id='vn18'>Tuy nhiên , " chúng ta có thể tìm ra những cách để chỉ nhắm đến các tế bào tuỷ xương đã bị nhiễm bệnh " , bà cũng nói thêm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Zack , the UCLA researcher , said the study findings are convincing , but " we as yet do not have easy ways to eliminate these dormant sources of virus .</s>
+<s id='vn19'>Zack , nghiên cứu viên của UCLA , cho biết những kết quả nghiên cứu là đáng tin cậy , nhưng " Cho đến nay chúng ta vẫn không có cách nào dễ dàng để loại bỏ các nguồn ẩn chứa này của vi-rút .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The challenge to the field is to find all sources of virus - this study identifies one - and identify ways to eliminate them .</s>
+<s id='vn20'>Thách thức đối với ngành là tìm tất cả các nguồn của vi-rút - nghiên cứu này đã xác định được một nguồn - và tìm ra cách để loại bỏ chúng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Only by developing strategies to eliminate all the different sources can we purge HIV from the body . "</s>
+<s id='vn21'>Chỉ bằng cách phát triển các chiến lược để loại bỏ tất cả nguồn khác thì chúng ta mới có thể đánh đuổi HIV ra khỏi cơ thể . "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In the long run , study co-author Collins said , the findings could help scientists develop ways to eradicate HIV or turn lifelong medication therapy " into a therapy that might last for a defined period of time . "</s>
+<s id='vn22'>Về lâu dài , theo đồng tác giả của công trình nghiên cứu Collins , phát hiện có thể giúp các nhà khoa học phát triển cách để tiêu diệt HIV hoặc biến chuyển liệu pháp điều trị bằng thuốc lâu dài " thành điều trị có thể kéo dài trong một thời gian được định rõ . "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,212 @@
+﻿<doc id='N0009'>
+<head>
+<title>St. Valentine 's Story</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>St. Valentine 's Story</s>
+<s id='vn1'>Câu chuyện thánh Valentine</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Let me introduce myself , my name is Valentine .</s>
+<s id='vn2'>Xin tự giới thiệu tên tôi là Valentine .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>I lived in Rome during the third century .</s>
+<s id='vn3'>Tôi sống ở La mã vào thế kỷ thứ ba .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>That was long , long ago !</s>
+<s id='vn4'>Cách đây lâu , lâu lắm rồi !</s>
+</spair>
+<spair id='5'>
+<s id='en5'>At that time , Rome was ruled by an emperor named Claudius .</s>
+<s id='vn5'>Lúc đó hoàng đế Claudius đang là vua trị vì đất nước La mã .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>I did n't like Emperor Claudius , and I was n't the only one !</s>
+<s id='vn6'>Tôi không phải là người duy nhất không thích vị vua Claudius !</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A lot of people shared my feelings .</s>
+<s id='vn7'>Nhiều người cũng có cùng cảm nghĩ như tôi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Claudius wanted to have a big army .</s>
+<s id='vn8'>Vua Claudius muốn có một đội quân hùng mạnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He expected men to volunteer to join .</s>
+<s id='vn9'>Ông muốn tất cả đàn ông con trai phải tình nguyện nhập ngũ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Many men just did not want to fight in wars .</s>
+<s id='vn10'>Nhiều người không muốn tham chiến .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They did not want to leave their wives and families .</s>
+<s id='vn11'>Họ chẳng thích xa gia đình và vợ con của mình .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>As you might have guessed , not many men signed up .</s>
+<s id='vn12'>Như bạn cũng có thể đoán được đấy , rất ít thanh niên đăng ký đi lính .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This made Claudius furious .</s>
+<s id='vn13'>Điều này làm cho Claudius điên tiết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>So what happened ?</s>
+<s id='vn14'>Và rồi chuyện gì xảy ra ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>He had a crazy idea .</s>
+<s id='vn15'>Vị vua này mang một ý nghĩ điên rồ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He thought that if men were not married , they would not mind joining the army .</s>
+<s id='vn16'>Ông ta nghĩ rằng nếu đàn ông không lấy vợ thì sẽ chẳng lo lắng phiền muộn gì khi nhập ngũ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>So Claudius decided not to allow any more marriages .</s>
+<s id='vn17'>Thế nên Claudius ra lệnh không ai được phép lấy vợ lấy chồng nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Young people thought his new law was cruel .</s>
+<s id='vn18'>Thanh niên cho rằng điều luật mới này quả là độc ác .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I thought it was preposterous !</s>
+<s id='vn19'>Tôi nghĩ việc này thật phi lý !</s>
+</spair>
+<spair id='20'>
+<s id='en20'>I certainly was n't going to support that law !</s>
+<s id='vn20'>Tôi chắc chắn sẽ không ủng hộ điều luật này rồi !</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Did I mention that I was a priest ?</s>
+<s id='vn21'>Tôi đã kể nghe tôi là linh mục chưa ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>One of my favorite activities was to marry couples .</s>
+<s id='vn22'>Một trong những việc làm yêu thích của tôi là ban phép hôn phối .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Even after Emperor Claudius passed his law , I kept on performing marriage ceremonies -- secretly , of course .</s>
+<s id='vn23'>Ngay cả sau khi hoàng đế Claudius ra điều luật , tôi cũng vẫn tiếp thực hiện nghi thức kết hôn – dĩ nhiên là bí mật .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It was really quite exciting .</s>
+<s id='vn24'>Điều này thật thú vị .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Imagine a small candlelit room with only the bride and groom and myself .</s>
+<s id='vn25'>Hãy tưởng tượng xem một căn phòng nhỏ được thắp ánh nến lung linh chỉ có cô dâu , chú rể và tôi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>We would whisper the words of the ceremony , listening the steps of soldiers .</s>
+<s id='vn26'>Chúng tôi thì thầm đọc kinh nghi thức , và lắng nghe tiếng bước chân của bọn lính .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>One night , we did hear footsteps .</s>
+<s id='vn27'>Một đêm , chúng tôi nghe tiếng bước chân .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It was scary !</s>
+<s id='vn28'>Rùng rợn quá !</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Thank goodness the couple I was marrying escaped in time .</s>
+<s id='vn29'>Cảm ơn Chúa vì đôi hôn phối mà tôi ban lễ đã thoát thân kịp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I was caught .</s>
+<s id='vn30'>Tôi thì bị bắt .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Not quite as light on my feet as I used to be , I guess .</s>
+<s id='vn31'>Tôi đoán là do tôi không chạy nhanh như lúc trước .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>I was thrown in jail and told that my punishment was death .</s>
+<s id='vn32'>Tôi bị quăng vào ngục và án phạt của tôi là án tử hình .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>I tried to stay cheerful .</s>
+<s id='vn33'>Tôi cố sống vui vẻ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>And do you know what ?</s>
+<s id='vn34'>Và bạn biết chuyện gì không ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Wonderful things happened .</s>
+<s id='vn35'>Thật nhiều điều tuyệt vời đã đến .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Many young people came to the jail to visit me .</s>
+<s id='vn36'>Rất đông các bạn trẻ đến nhà tù để thăm tôi .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>They threw flowers and notes up to my window .</s>
+<s id='vn37'>Họ ném vào nhiều hoa và thư qua cửa sổ của tôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>They wanted me to know that they , too , believed in love .</s>
+<s id='vn38'>Họ muốn tôi hiểu rằng họ cũng tin vào tình yêu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>One of these young people was the daughter of the prison guard .</s>
+<s id='vn39'>Một trong các bạn trẻ là con gái của cai ngục .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Her father allowed her to visit me in the cell .</s>
+<s id='vn40'>Cha cô bé cho phép vào thăm tôi trong nhà lao .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Sometimes we would sit and talk for hours .</s>
+<s id='vn41'>Đôi khi chúng tôi ngồi trò chuyện với nhau hàng giờ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>She helped me to keep my spirits up .</s>
+<s id='vn42'>Cô ấy giúp tôi giữ vững tinh thần .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>She agreed that I did the right thing by ignoring the Emperor laws and going ahead with the secret marriages .</s>
+<s id='vn43'>Cô ấy cũng cho rằng việc tôi lờ đi điều luật của Hoàng đế và tiếp tục ban lễ hôn phối bí mật là đúng đắn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>On the day I was to die , I left my friend a little note thanking her for her friendship and loyalty .</s>
+<s id='vn44'>Vào ngày tôi chết , tôi đã gởi lại cho cô bé một thông điệp nhỏ , cảm ơn cô ấy vì tình bạn và lòng trung thành của mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>I signed it , " Love from your Valentine " .</s>
+<s id='vn45'>Tôi đã ký dưới thông điệp ấy rằng , " Tình yêu từ Valentine của em " .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>I believe that note started the custom of exchanging love messages on Valentine 's Day .</s>
+<s id='vn46'>Tôi tin rằng mảnh thông điệp ấy khởi đầu cho tục lệ trao gởi thông điệp tình yêu vào ngày Valentine .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It was written on the day I died , February 14 , 269 A.D .</s>
+<s id='vn47'>Đó là ngày tôi chết , ngày 14 tháng Hai , năm 269 sau công nguyên .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Now , every year on this day , people remember Valentine .</s>
+<s id='vn48'>Giờ đây , mỗi năm cứ vào ngày này là người ta nhớ đến Valentine .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>But most importantly , they think about love and friendship .</s>
+<s id='vn49'>Nhưng quan trọng hơn cả là người ta nghĩ về tình yêu và tình bạn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>And when they think of Emperor Claudius , they remember how he tried to stand in the way of love , and they laugh -- because they know that love can n't be beaten !</s>
+<s id='vn50'>Và khi người ta nhớ về Hoàng đế Claudius thì họ nhớ tới chuyện Ngài đã ngăn cản tình yêu như thế nào và họ cười to vì ai cũng biết rằng tình yêu không gì có thể làm khuất phục được !</s>
+</spair>
+</text>
+</doc>

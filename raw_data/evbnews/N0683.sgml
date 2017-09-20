@@ -1,0 +1,252 @@
+﻿<doc id='N0683'>
+<head>
+<title>The Color Of Friendship</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Color Of Friendship</s>
+<s id='vn1'>Màu của tình bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once upon a time the colors of the world started to quarrel .</s>
+<s id='vn2'>Có một dạo xưa xửa xừa xưa , tất cả các màu sắc trên cõi đời này lao vào một cuộc tranh luận .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>All claimed that they were the best , the most important , useful , favorite .</s>
+<s id='vn3'>Tất cả đều quả quyết rằng mình là màu sắc đẹp nhất , quan trọng nhất , hữu ích nhất và được yêu thích nhất .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Green said :</s>
+<s id='vn4'>Màu Xanh lục nói :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" Clearly I am the most important .</s>
+<s id='vn5'>" Rõ ràng tôi mới là màu quan trọng nhất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>I am the sign of life and of hope .</s>
+<s id='vn6'>Tôi tượng trưng cho sự sống và hy vọng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I was chosen for grass , trees and leaves .</s>
+<s id='vn7'>Cỏ , lá và cây đều chọn tôi làm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Without me , all animals would die .</s>
+<s id='vn8'>Nếu không có tôi , mọi loài động vật sẽ chết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Look over the countryside and you will see that I am in the majority . "</s>
+<s id='vn9'>Hãy thử nhìn khắp vùng thôn quê mà xem , tôi là màu sắc chủ đạo đấy . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Blue interrupted :</s>
+<s id='vn10'>Màu Xanh dương nói chen vào :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" You only think about the earth , but consider the sky and the sea .</s>
+<s id='vn11'>" Đó là bạn chỉ nghĩ đến mặt đất thôi , hãy thử xem bầu trời và biển cả đi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It is the water that is the basis of life and drawn up by the clouds from the deep sea .</s>
+<s id='vn12'>Nước chính là nền tảng của cuộc sống và được lấy lên từ biển sâu bởi những đám mây .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The sky gives space and peace and serenity .</s>
+<s id='vn13'>Bầu trời mang đến cho vạn vật không gian , sự yên lành và thanh bình .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Without my peace , you would all be nothing . "</s>
+<s id='vn14'>Nếu tôi không mang đến cảnh bình yên này thì tất cả bạn sẽ chẳng là gì cả . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Yellow chuckled :</s>
+<s id='vn15'>Màu Vàng cười mỉa :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" You are all so serious .</s>
+<s id='vn16'>" Tất cả các bạn quá là nghiêm trọng rồi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>I bring laughter , gaiety , and warmth into the world .</s>
+<s id='vn17'>Tôi mang đến tiếng cười , niềm vui , và hơi ấm cho trái đất .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The sun is yellow , the moon is yellow , the stars are yellow .</s>
+<s id='vn18'>Mặt trời màu vàng , mặt trăng cũng màu vàng và các vì sao cũng vàng tuốt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Every time you look at a sunflower , the whole world starts to smile .</s>
+<s id='vn19'>Mỗi lần các bạn nhìn ngắm một bông hoa hướng dương thì cả thế giới như bắt đầu mỉm cười với bạn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Without me there would be no fun . "</s>
+<s id='vn20'>Nếu không có tôi thế gian này sẽ chẳng còn gì vui . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Orange started next to blow her trumpet :</s>
+<s id='vn21'>Màu Cam bắt đầu giở giọng huênh hoang :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" I am the color of health and strength .</s>
+<s id='vn22'>" Tôi là màu của sức khoẻ và sức mạnh .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I may be scarce , but I am precious for I serve the needs of human life .</s>
+<s id='vn23'>Các bạn hiếm khi nhìn thấy màu cam của tôi nhưng tôi là màu quý báu vì tôi phục vụ cho nhu cầu của con người .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I carry the most important vitamins .</s>
+<s id='vn24'>Tôi chứa đựng những vi-ta-min quan trọng nhất .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Think of carrots , pumpkins , oranges , mangoes , and papayas .</s>
+<s id='vn25'>Hãy xem cà rốt , bí ngô , cam , quả xoài , và cả đu đủ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I don't hang around all the time , but when I fill the sky at sunrise or sunset , my beauty is so striking that no one gives another thought to any of you . "</s>
+<s id='vn26'>Tôi chẳng cần phải lang thang mọi lúc mọi nơi nhưng mỗi khi hoàng hôn hay bình minh , bầu trời lại khoác lên màu cam của tôi thì sắc đẹp của tôi nổi trội đến nỗi không còn ai ngó ngàng đến bất kỳ màu nào trong số các bạn . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Red could stand it no longer he shouted out :</s>
+<s id='vn27'>Màu Đỏ không thể chịu đựng hơn được nữa nên bèn la toáng lên :</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" I am the ruler of all of you .</s>
+<s id='vn28'>" Tôi mới là màu thống trị tất cả các bạn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>I am blood - life 's blood !</s>
+<s id='vn29'>Tôi là máu – hiện thân của sự sống !</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I am the color of danger and of bravery .</s>
+<s id='vn30'>Tôi là màu của sự nguy hiểm và quả cảm .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>I am willing to fight for a cause .</s>
+<s id='vn31'>Tôi sẵn sàng chiến đấu vì chính nghĩa .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>I bring fire into the blood .</s>
+<s id='vn32'>Tôi mang lòng nhiệt huyết thấm vào máu của các bạn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Without me , the earth would be as empty as the moon .</s>
+<s id='vn33'>Không có tôi , trái đất sẽ trơ trọi như mặt trăng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>I am the color of passion and of love , the red rose , the poinsettia and the poppy . "</s>
+<s id='vn34'>Tôi là màu đam mê và tình yêu , hoa hồng đỏ , cây trạng nguyên và hoa anh túc . "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Purple rose up to his full height :</s>
+<s id='vn35'>Màu Tía liền vươn thẳng người đứng dậy :</s>
+</spair>
+<spair id='36'>
+<s id='en36'>He was very tall and spoke with great pomp : " I am the color of royalty and power .</s>
+<s id='vn36'>Anh ấy rất cao lớn và dõng dạc tuyên bố : " Tôi là màu của hoàng tộc và quyền lực .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Kings , chiefs , and bishops have always chosen me for I am the sign of authority and wisdom .</s>
+<s id='vn37'>Các vua , quan , giám mục luôn chọn tôi vì tôi là biểu tượng của quyền hành và trí khôn ngoan .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>People do not question me !</s>
+<s id='vn38'>Chẳng có ai dám cả gan chất vấn tôi !</s>
+</spair>
+<spair id='39'>
+<s id='en39'>They listen and obey . "</s>
+<s id='vn39'>Họ chỉ biết nghe và tuân theo mệnh lệnh . "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Finally Indigo spoke , much more quietly than all the others , but with just as much determination :</s>
+<s id='vn40'>Cuối cùng màu Chàm lên tiếng , tuy không ồn ào bằng những màu khác , nhưng cũng đầy quyết tâm :</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" Think of me .</s>
+<s id='vn41'>" Hãy xem tôi đây .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>I am the color of silence .</s>
+<s id='vn42'>Tôi là màu của tĩnh lặng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>You hardly notice me , but without me you all become superficial .</s>
+<s id='vn43'>Bạn hầu như không để ý đến tôi , nhưng không có tôi tất cả các bạn sẽ trở nên hời hợt và nông cạn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>I represent thought and reflection , twilight and deep water .</s>
+<s id='vn44'>Tôi đại diện cho những suy nghĩ , lúc trời chạng vạng và vùng nước sâu .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>You need me for balance and contrast , for prayer and inner peace . "</s>
+<s id='vn45'>Các bạn cần tôi để giữ cân bằng và tương phản , cho những lời nguyện cầu và sự bình yên trong tâm hồn . "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>And so the colors went on boasting , each convinced of his or her own superiority .</s>
+<s id='vn46'>Và cứ thế các màu sắc tiếp tục khoe khoang khoác lác , tự cho mình là ưu việt hơn người .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Their quarreling became louder and louder .</s>
+<s id='vn47'>Rồi cuộc tranh cãi ngày một gay gắt hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Suddenly there was a startling flash of bright lightening thunder rolled and boomed .</s>
+<s id='vn48'>Bất thình lình một tia chớp sáng loà xé toạc bầu trời cùng tiếng sấm rền nổ vang .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Rain started to pour down relentlessly .</s>
+<s id='vn49'>Một cơn mưa trút xuống tầm tã .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The colors crouched down in fear , drawing close to one another for comfort .</s>
+<s id='vn50'>Các màu sắc co rúm mình trong sợ hãi , chúng khép nép rúc vào nhau tìm niềm an ủi .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>In the midst of the clamor , rain began to speak :</s>
+<s id='vn51'>Rồi giữa tiếng gào thét dữ dội , cơn mưa bắt đầu nói :</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" You foolish colors , fighting amongst yourselves , each trying to dominate the rest .</s>
+<s id='vn52'>" Các bạn đúng là những màu sắc ngu ngốc , tự đấu đá lẫn nhau , cố thống trị những màu còn lại .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Don't you know that you were each made for a special purpose , unique and different ?</s>
+<s id='vn53'>Các bạn có biết rằng mỗi màu trong các bạn được tạo ra vì một mục đích hết sức đặc sắc , khác biệt , và độc nhất vô nhị hay sao ?</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Join hands with one another and come to me . "</s>
+<s id='vn54'>Hãy cầm tay nhau và đến với tôi nào . "</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Doing as they were told .</s>
+<s id='vn55'>Các màu sắc làm theo lời mưa nói .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The colors united and joined hands .</s>
+<s id='vn56'>Chúng tụm lại và cùng nắm tay nhau .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The rain continued :</s>
+<s id='vn57'>Mưa tiếp tục :</s>
+</spair>
+<spair id='58'>
+<s id='en58'>From now on , when it rains , each of you will stretch across the sky in a great bow of color as a reminder that you can all live in peace .</s>
+<s id='vn58'>Từ giờ trở đi , mỗi khi trời mưa , mỗi bạn sẽ nằm vắt vẻo ngang bầu trời trên một cánh cung đầy màu sắc và to lớn như nhắc nhở rằng tất cả các bạn có thể chung sống cùng nhau trong hoà bình .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The Rainbow is a sign of hope for tomorrow .</s>
+<s id='vn59'>Cầu vồng là dấu hiệu của hy vọng về một ngày mai tươi đẹp .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>And so , whenever a good rain washes the world , and a Rainbow appears in the sky , let us remember to appreciate one another .</s>
+<s id='vn60'>Và vì thế , cứ mỗi khi một cơn mưa đến tắm mát cho trái đất này thì Cầu vồng liền xuất hiện trên bầu trời , nhắc chúng ta hãy luôn biết trân trọng nhau .</s>
+</spair>
+</text>
+</doc>

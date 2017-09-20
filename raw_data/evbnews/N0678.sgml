@@ -1,0 +1,120 @@
+﻿<doc id='N0678'>
+<head>
+<title>Put The Glass Down</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Put The Glass Down</s>
+<s id='vn1'>Đặt Cái Ly Xuống</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once , a professor began his class by holding up a glass with some water in it .</s>
+<s id='vn2'>Một lần nọ , có một vị giáo sư bắt đầu bài giảng của mình bằng việc cầm một cái ly thuỷ tinh trong đó có một ít nước .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He held it up for all to see and asked the students , " How much do you think this glass weighs ? "</s>
+<s id='vn3'>Ông giơ cao nó để tất cả sinh viên đều thấy và hỏi họ : " các em nghĩ cái ly này nặng bao nhiêu ? "</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The students answered .</s>
+<s id='vn4'>Những sinh viên trả lời .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" 1 pound ! " ....</s>
+<s id='vn5'>" 1 pao ! " ….</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" 2 pounds ! " . ....</s>
+<s id='vn6'>" 2 pao ! " … .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" 3 pounds ! "</s>
+<s id='vn7'>" 3 pao ! "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" I really do n't know unless I weigh it , " said the professor , " but , my question is : What would happen if I held it up like this for a few minutes ? " Nothing " the students said .</s>
+<s id='vn8'>" Tôi thật sự không biết nó nặng bao nhiêu trừ phi tôi đem cân nó , " vị giáo sư nói , " nhưng , câu hỏi của tôi là : chuyện gì sẽ xảy ra nếu tôi cầm nó trong một vài phút ? " Sinh viên trả lời : " Không có gì xảy ra cả " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Ok what would happen if I held it up like this for an hour ? " the professor asked .</s>
+<s id='vn9'>" OK chuyện gì sẽ xảy ra nếu tôi cầm như thế trong một tiếng đồng hồ ? " giáo sư hỏi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Your arm would begin to ache " said one of the students .</s>
+<s id='vn10'>" Cánh tay của thầy sẽ bắt đầu ê ẩm " một sinh viên thốt lên .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" You 're right , now what would happen if I held it for a day ? " Your arm could go numb , you might have severe muscle stress paralysis ; have to go to hospital for sure " ventured another student .</s>
+<s id='vn11'>" Em nói đúng đấy , bây giờ thì chuyện gì sẽ xảy ra nếu tôi cầm nó trong một ngày ? " Cánh tay của thầy có thể bị tê buốt , thầy có thể bị căng cơ và tê liệt ; chắc chắn phải nhập viện thôi " một sinh viên khác mạo muội phát biểu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>All the students laughed .</s>
+<s id='vn12'>Tất cả sinh viên đều cười ồ lên .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Very good .</s>
+<s id='vn13'>Tốt lắm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But during all this , did the weight of the glass change ? " Asked the professor .</s>
+<s id='vn14'>Nhưng trong tất cả những trường hợp đó , trọng lượng cái ly có thay đổi không ? " Giáo sư lại hỏi tiếp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>'No , " replied the students . " " Then what caused the arm ache ; the muscle stress ?</s>
+<s id='vn15'>" Không , " sinh viên trả lời . " " Thế thì cái gì làm đau tay và căng cơ ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Instead , what should I do ?</s>
+<s id='vn16'>Thay vào đó , tôi nên làm gì ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The students were puzzled .</s>
+<s id='vn17'>Những sinh viên lúng túng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Put the glass down " said one of the students .</s>
+<s id='vn18'>" Đặt cái ly xuống " một sinh viên nói .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Exactly ! " said the professor .</s>
+<s id='vn19'>" Chính xác ! " giáo sư nói .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Life 's problems are something like this .</s>
+<s id='vn20'>" Những vấn đề trong cuộc sống cũng tương tự như thế .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Hold them for a few minutes in your head ; they seem OK .</s>
+<s id='vn21'>Để chúng trong đầu vài phút thì không sao .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Think of them for a long time ; they begin to ache .</s>
+<s id='vn22'>Nghĩ ngợi về chúng trong một thời gian dài ; chúng bắt đầu đau nhức .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Hold them even longer ; they begin to paralyze you .</s>
+<s id='vn23'>Giữ lâu hơn nữa thì chúng bắt đầu làm các em tê liệt .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>You will not be able to do anything . "</s>
+<s id='vn24'>Các em sẽ không thể làm bất cứ điều gì nữa . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It is important to think of the challenges in your life , but EVEN MORE IMPORTANT to " put them down " at the end of every day before you go to sleep .</s>
+<s id='vn25'>Lo nghĩ về những thách thức trong cuộc sống của bạn thì quan trọng , nhưng quan trọng hơn cả là " biết đặt chúng xuống " vào cuối mỗi ngày trước khi bạn đi ngủ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>That way , you are not stressed , you wake up every day fresh , strong , can handle any issue , any challenge that comes your way !</s>
+<s id='vn26'>Làm như thế bạn sẽ không bị căng thẳng , và mỗi ngày khi thức giấc , bạn sẽ cảm thấy tinh thần khoẻ khoắn , sảng khoái để có thể xử lý mọi vấn đề , mọi thách thức đang chờ đón bạn ở phía trước !</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Remember friend - PUT THE GLASS DOWN TODAY !</s>
+<s id='vn27'>Hãy nhớ nhé bạn - HÔM NAY HÃY ĐẶT CÁI LY XUỐNG !</s>
+</spair>
+</text>
+</doc>

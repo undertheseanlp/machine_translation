@@ -1,0 +1,136 @@
+﻿<doc id='N0250'>
+<head>
+<title>Second Hand Smoke More Harmful Than People Think</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Second Hand Smoke More Harmful Than People Think</s>
+<s id='vn1'>Hít khói thuốc lá thụ động có hại nhiều hơn là mọi người nghĩ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Being exposed to second hand smoke , also known as passive smoking - non-smokers breathing in smoke from lit cigarettes around them - may significantly increase the long-term risk of developing lung disease , such as lung cancer and COPD ( chronic obstructive pulmonary disease ) , according to a report published in the American Journal of Respiratory and Critical Care Medicine .</s>
+<s id='vn2'>Bị tiếp xúc với khói thuốc lá một cách thụ động , còn được gọi là hút thuốc thụ động - những người không hút thuốc hít phải khói thuốc lá xung quanh họ - về lâu dài có thể làm tăng đáng kể nguy cơ phát triển bệnh phổi , chẳng hạn như ung thư phổi và COPD ( bệnh phổi tắc nghẽn mạn tính ) , theo một báo cáo được công bố trên Tạp chí " Respiratory and Critical Care Medicine " của Mỹ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The same applies to casual ( occasional ) smoking .</s>
+<s id='vn3'>Vấn đề tương tự cũng diễn ra ở người hút thuốc lá không thường xuyên ( thỉnh thoảng ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>This is the first study to demonstrate what passive or occasional smoking does to the body at a gene function level , say the authors .</s>
+<s id='vn4'>Đây là nghiên cứu đầu tiên chứng minh hút thuốc lá thụ động hoặc thỉnh thoảng ảnh hưởng lên cơ thể bằng với mức chức năng của một gen , theo các tác giả .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Study author , Dr. Ronald Crystal , head of pulmonary and critical care medicine at New York Presbyterian Weill Cornell and chair of the department of genetic medicine at Weill Cornell Medical College in New York City , said :</s>
+<s id='vn5'>Tác giả nghiên cứu , Tiến sĩ Ronald Crystal , trưởng khoa chăm sóc sức khoẻ đặc biệt và hô hấp thuộc giáo hội quốc gia Xcốt-len - New York Weill Cornell và trưởng khoa y học di truyền tại Đại học y Weill Cornell - thành phố New York , cho biết :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Even at the lowest detectable levels of exposure , we found direct effects on the functioning of genes within the cells lining the airways .</s>
+<s id='vn6'>Ngay cả ở mức thấp nhất có thể phát hiện của sự tiếp xúc , chúng tôi nhận thấy những tác động trực tiếp đến chức năng của các gen trong tế bào niêm mạc của đường hô hấp .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The genes which are usually activated in the cells of regular heavy smokers may also be turned on/off in individuals with very low-level exposure , Dr. Crystal explained .</s>
+<s id='vn7'>Các gen thường được kích hoạt trong tế bào của người nghiện hút thuốc lá nặng cũng có thể biến đổi trong những người tiếp xúc với khói thuốc ở mức độ thấp , tiến sĩ Crystal giải thích .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Dr. Crystal added :</s>
+<s id='vn8'>Tiến sĩ Crystal cũng cho biết thêm :</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The genetic effect is much lower than those who are regular smokers , but this does not mean that there are no health consequences .</s>
+<s id='vn9'>Các hiệu ứng di truyền thấp hơn nhiều so với những người hút thuốc thường xuyên , nhưng điều này không có nghĩa là không có hậu quả xấu cho sức khỏe .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Certain genes within the cells lining the airways are very sensitive to tobacco smoke , and changes in the function of these genes are the first evidence of " biological disease " in the lungs or individuals .</s>
+<s id='vn10'>Một số gen trong các tế bào niêm mạc đường hô hấp rất nhạy cảm với khói thuốc lá , và những thay đổi trong chức năng của các gen này là bằng chứng đầu tiên của " bệnh sinh học " trong phổi hoặc cơ thể .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The researchers tested 121 individuals from three different categories :</s>
+<s id='vn11'>Các nhà nghiên cứu kiểm tra 121 người phân thành 3 nhóm khác nhau :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Non-smokers</s>
+<s id='vn12'>Không hút thuốc lá</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Currently active regular smoker</s>
+<s id='vn13'>Hiện đang là người hút thuốc thường xuyên</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Low exposure smokers</s>
+<s id='vn14'>Người ít hút thuốc thường xuyên</s>
+</spair>
+<spair id='15'>
+<s id='en15'>To determine what category they were , participants ' urine levels of nicotine and cotinine were measured - these are markers of cigarette smoking within the body .</s>
+<s id='vn15'>Để xác định sự khác biệt giữa các nhóm , mức nicotine và cotinine trong nước tiểu của người tham gia được xét nghiệm - đây là những bằng chứng trong cơ thể của việc hút thuốc lá .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Each participant 's entire genome was scanned to find out which genes were either activated or deactivated in the cell linings of the airways .</s>
+<s id='vn16'>Toàn bộ bộ gien mỗi người đều được siêu âm để tìm ra gien được kích hoạt hoặc bị mất hoạt tính trong các tế bào niêm mạc đường hô hấp .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The researchers discovered that there was no level of nicotine or cotinine that did not also correlate with genetic abnormalities .</s>
+<s id='vn17'>Các nhà nghiên cứu phát hiện ra rằng không có mức nicotine hoặc cotinine tương quan với các bất thường về di truyền .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Dr. Crystal said :</s>
+<s id='vn18'>Tiến sĩ Crystal nhận định :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This means that no level of smoking , or exposure to secondhand smoke , is safe .</s>
+<s id='vn19'>Điều này có nghĩa rằng không có ngưỡng an toàn trong việc hút thuốc lá , hoặc tiếp xúc với khói thuốc lá .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Dr. Crystal added that the genetic changes act like a canary in a coal mine warning of latent life-threatening conditions and diseases .</s>
+<s id='vn20'>Tiến sĩ Crystal nhấn mạnh thêm là những thay đổi trong di truyền có vai trò như một cảnh báo dấu hiệu nguy hiểm về tình trạng bệnh tật tiềm ẩn đe dọa đến tính mạng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But the canary is chirping for low-level exposure patients , and screaming for active smokers .</s>
+<s id='vn21'>Nhưng tình trạng sẽ nhẹ đối với các bệnh nhân tiếp xúc với khói thuốc ở mức độ thấp , và trầm trọng ở những người nghiện hút thuốc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This is further compelling evidence in favor of banning smoking in public places where non-smokers may be at risk of future lung disease , Dr. Crystal says .</s>
+<s id='vn22'>Đây là bằng chứng thuyết phục nhiều hơn để ủng hộ việc cấm hút thuốc lá ở nơi công cộng , nơi mà những người không hút thuốc có thể có nguy cơ mắc bệnh phổi trong tương lai , tiến sĩ Crystal nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Second hand smoke - also known as passive smoking or environmental tobacco smoke ( ETS ) is environmental tobacco smoke that is inhaled involuntarily by a non-smoker .</s>
+<s id='vn23'>Hít phải khói thuốc lá - còn được gọi là hút thuốc lá thụ động hoặc hít khói thuốc lá từ không khí ( ETS ) là hít phải khói thuốc lá từ môi trường xung quanh do không thể tránh khỏi của một người không hút thuốc .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Threshold of Biologic Responses of the Small Airway Epithelium to Low Levels of Tobacco Smoke "</s>
+<s id='vn24'>" Ngưỡng phản ứng sinh học của các biểu mô nhỏ trong đường hô hấp đối với mức thấp của khói thuốc lá "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Yael Strulovici-Barel , Larsson Omberg , Michael O'Mahony , Cynthia Gordon , Charleen Hollmann , Ann E Tilley , Jacqueline Salit , Jason Mezey , Ben-Gary Harvey , and Ronald G Crystal</s>
+<s id='vn25'>Yael Strulovici-Barel , Larsson Omberg , Michael O'Mahony , Cynthia Gordon , Charleen Hollmann , Ann E Tilley , Jacqueline Salit , Jason Mezey , Ben-Gary Harvey , and Ronald G Crystal</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Am. J. Respir .</s>
+<s id='vn26'>Am. J. Respir .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Crit .</s>
+<s id='vn27'>Crit .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Care Med .</s>
+<s id='vn28'>Care Med .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>2010 , doi:10.1164rccm.201002-0294OC</s>
+<s id='vn29'>2010 , doi:10.1164rccm.201002-0294OC</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Written by Christian Nordqvist</s>
+<s id='vn30'>Tác giả : Nordqvist Christian</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Copyright : Medical News Today</s>
+<s id='vn31'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

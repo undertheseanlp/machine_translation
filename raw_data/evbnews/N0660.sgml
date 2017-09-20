@@ -1,0 +1,180 @@
+﻿<doc id='N0660'>
+<head>
+<title>The Little Match Girl</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Little Match Girl</s>
+<s id='vn1'>Cô bé bán diêm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Most terribly cold it was ; it snowed , and was nearly quite dark , and evening - the last evening of the year .</s>
+<s id='vn2'>Trời rét căm ; tuyết rơi dày đặc và đêm tối sập xuống , đêm nay là đêm giao thừa .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In this cold and darkness there went along the street a poor little girl , bareheaded , and with naked feet .</s>
+<s id='vn3'>Trong màn đêm lạnh buốt , một cô bé nghèo , đầu trần , chân không , đang đi dọc theo con đường .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>When she left home she had slippers on , it is true ; but what was the good of that ?</s>
+<s id='vn4'>Khi rời khỏi nhà , cô bé có mang một đôi giày vải , đúng là vậy ; nhưng chúng có ích gì cơ chứ ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They were very large slippers , which her mother had hitherto worn ; so large were they ; and the poor little thing lost them as she scuffled away across the street , because of two carriages that rolled by dreadfully fast .</s>
+<s id='vn5'>Đó là một đôi giày vải rộng rinh mà mẹ cô lâu nay vẫn mang ; đôi giày quá to và cô bé đã làm văng mất chúng khi cố chạy băng qua đường vì lúc đó có hai cỗ xe ngựa đang phóng nước đại .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>One slipper was nowhere to be found ; the other had been laid hold of by an urchin , and off he ran with it ; he thought it would do capitally for a cradle when he some day or other should have children himself .</s>
+<s id='vn6'>Một chiếc thì chẳng thấy ở đâu ; chiếc kia thì bị một thằng nhóc lượm được ; rồi nó cầm chiếc giày đó chạy đi mất ; nó nghĩ chiếc giày này sẽ có thể làm được một cái nôi cho con cái của nó sau này .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>So the little maiden walked on with her tiny naked feet , that were quite red and blue from cold .</s>
+<s id='vn7'>Vì thế cô bé bước đi trên đôi trần trần bé xíu , đôi chân cô đỏ ửng rồi lại tím bầm đi vì giá rét .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>She carried a quantity of matches in an old apron , and she held a bundle of them in her hand .</s>
+<s id='vn8'>Cô mang theo nhiều que diêm trong chiếc tạp-dề cũ kỹ , và cô bé cầm một nhúm que diêm trong lòng bàn tay mình .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Nobody had bought anything of her the whole livelong day ; no one had given her a single farthing .</s>
+<s id='vn9'>Suốt ngày nay , chẳng có ai mua giúp một que diêm nào ; cũng chẳng có ai bố thí cô một đồng fađinh nào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>She crept along trembling with cold and hunger - a very picture of sorrow , the poor little thing !</s>
+<s id='vn10'>Cô bé dò dẫm bước đi , run rẩy vì đói và lạnh -- một cảnh tượng thật thương tâm , một sinh vật nhỏ bé thật tội nghiệp !</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The flakes of snow covered her long fair hair , which fell in beautiful curls around her neck ; but of that , of course , she never once now thought .</s>
+<s id='vn11'>Bông tuyết bám đầy trên mái tóc dài vàng hoe của cô , tạo thành lọn thật đẹp quanh cổ ; nhưng , dĩ nhiên , cô bé chẳng mảy may để ý đến chúng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>From all the windows the candles were gleaming , and it smelt so deliciously of roast goose , for you know it was New Year 's Eve ; yes , of that she thought .</s>
+<s id='vn12'>Từ tất cả những cửa sổ , những ngọn nến đang toả sáng , và mùi ngỗng quay thơm lừng , vì bạn biết đó đêm nay là đêm giao thừa mà ; vâng , đây mới là điều cô bé đang quan tâm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In a corner formed by two houses , of which one advanced more than the other , she seated herself down and cowered together .</s>
+<s id='vn13'>Ở một góc nhỏ giữa 2 căn nhà , trong đó có 1 căn xây nhô ra phía trước , cô bé ngồi xuống rúm mình lại .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Her little feet she had drawn close up to her , but she grew colder and colder , and to go home she did not venture , for she had not sold any matches and could not bring a farthing of money : from her father she would certainly get blows , and at home it was cold too , for above her she had only the roof , through which the wind whistled , even though the largest cracks were stopped up with straw and rags .</s>
+<s id='vn14'>Cô rút đôi chân nhỏ vào người nhưng mỗi lúc cô bé càng thấy lạnh hơn , và cô không dám về nhà vì cô bé không bán được một que diêm nào và không mang về một đồng fađinh nào : cha cô chắc chắn sẽ cho cô vài trận đòn và ở nhà thì cũng rét như thế thôi , vì nhà cô chỉ có một cái mái nhà , tuy những cái lỗ hổng lớn nhất được bịt bằng rơm và giẻ rách nhưng những cơn gió vẫn cứ thế luồn qua thổi rít .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Her little hands were almost numbed with cold .</s>
+<s id='vn15'>Đôi bàn tay nhỏ xíu của cô gần như cứng đờ vì lạnh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Oh ! a match might afford her a world of comfort , if she only dared take a single one out of the bundle , draw it against the wall , and warm her fingers by it .</s>
+<s id='vn16'>Ôi ! Một que diêm có thể mang đến cho cô bé một thế giới vô cùng ấm áp , giá mà cô dám lấy một que ra khỏi bó diêm , quẹt nó vào tường và sưởi ấm những ngón tay của mình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>She drew one out .</s>
+<s id='vn17'>Cô rút ra một que diêm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Rischt ! how it blazed , how it burnt !</s>
+<s id='vn18'>" Xoẹt ! nó mới cháy sáng rực làm sao !</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It was a warm , bright flame , like a candle , as she held her hands over it : it was a wonderful light .</s>
+<s id='vn19'>Đó là một ngọn lửa ấm áp , sáng rực như một ngọn nến , khi cô đưa ngón tay mình hơ trên ngọn lửa : một ánh sáng thật tuyệt vời .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It seemed really to the little maiden as though she were sitting before a large iron stove , with burnished brass feet and a brass ornament at top .</s>
+<s id='vn20'>Cô bé tưởng chừng như mình đang ngồi trước một lò sưởi lớn bằng sắt , chân lò bằng đồng sáng bóng và bên trên được chạm nổi hình trang trí bằng đồng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The fire burned with such blessed influence ; it warmed so delightfully .</s>
+<s id='vn21'>Ngọn lửa bên trong lò cháy tí tách thật dễ chịu và hơi ấm toả ra thật dịu dàng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The little girl had already stretched out her feet to warm them too ; but --the small flame went out , the stove vanished : she had only the remains of the burnt-out match in her hand .</s>
+<s id='vn22'>Cô bé đã duỗi chân ra để sưởi ấm ; nhưng ngọn lửa nhỏ tí chợt tắt , bếp lò sưởi biến mất : cô ấy chỉ còn mẩu diêm tàn trên tay .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>She rubbed another against the wall : it burned brightly , and where the light fell on the wall , there the wall became transparent like a veil , so that she could see into the room .</s>
+<s id='vn23'>Cô bé lại quẹt một que diêm khác vô tường : nó lại cháy sáng rực rỡ , và khi ánh sáng hắt lên tường , bức tường trở nên trong suốt như một bức màn , và cô bé có thể nhìn được vào trong phòng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>On the table was spread a snow-white tablecloth ; upon it was a splendid porcelain service , and the roast goose was steaming famously with its stuffing of apple and dried plums .</s>
+<s id='vn24'>Trên chiếc bàn được trải khăn trắng muốt , bên trên được bày biện những món chén đĩa bằng sành sứ tuyệt đẹp và một con ngỗng quay đang bốc khói ngào ngạt được nhồi bằng táo và những quả mận khô .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>And what was still more capital to behold was , the goose hopped down from the dish , reeled about on the floor with knife and fork in its breast , till it came up to the poor little girl ; when - the match went out and nothing but the thick , cold , damp wall was left behind .</s>
+<s id='vn25'>Và điều tuyệt diệu nhất để xem lúc này là con ngỗng nhảy bật khỏi cái đĩa , đi loạng choạng trên sàn nhà cùng với con dao và nĩa cắm trên ức , đi về phía cô bé tội nghiệp ; và khi đó - que diêm tắt ngúm và chẳng có gì cả ngoài một bức tường dày cộp , lạnh lẽo , ẩm ướt bị bỏ lại đàng sau .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>She lighted another match .</s>
+<s id='vn26'>Cô thắp một que diêm khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Now there she was sitting under the most magnificent Christmas tree : it was still larger , and more decorated than the one which she had seen through the glass door in the rich merchant 's house .</s>
+<s id='vn27'>Bây giờ thì cô đang ngồi dưới một cây thông Nô-en lộng lẫy nhất : nó còn to hơn , trang trí đẹp hơn cây thông mà cô từng nhìn thấy qua lớp cửa kính trong căn nhà của một người thương gia giàu có .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Thousands of lights were burning on the green branches , and gaily-colored pictures , such as she had seen in the shop-windows , looked down upon her .</s>
+<s id='vn28'>Hàng ngàn ngọn đèn sáng rực trên những nhánh thông xanh mướt và những bức tranh màu sắc rực rỡ giống như thứ cô từng nhìn thấy qua ô kính cửa hiệu , tất cả như hiện ra trước mắt cô bé .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The little maiden stretched out her hands towards them when the match went out .</s>
+<s id='vn29'>Khi cô rướn đôi tay về phía chúng thì ngọn diêm vụt tắt .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The lights of the Christmas tree rose higher and higher , she saw them now as stars in heaven ; one fell down and formed a long trail of fire .</s>
+<s id='vn30'>Những ánh sáng lập loè của cây thông bay mỗi lúc một cao hơn , lúc này cô bé thấy chúng như những ngôi sao trên thiên đường ; có một ngôi sao rơi xuống và tạo thành một vệt lửa dài ngoằng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" Someone is just dead ! " said the little girl ; for her old grandmother , the only person who had loved her , and who was now no more , had told her , that when a star falls , a soul ascends to God .</s>
+<s id='vn31'>" Có ai đó vừa mới qua đời ! " cô bé thầm nghĩ ; bà của cô ấy , người duy nhất đã yêu thương cô ấy , người giờ đây đã không còn nữa , thường nói với cô rằng khi có ngôi sao rơi xuống thì có một linh hồn được trở về với Chúa .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>She drew another match against the wall : it was again light , and in the lustre there stood the old grandmother , so bright and radiant , so mild , and with such an expression of love .</s>
+<s id='vn32'>Cô ấy quẹt một que diêm khác vào tường : ánh sáng đã trở lại , và bà của cô bé hiện ra thật sáng ngời , rạng rỡ , và rất đỗi dịu dàng đầy yêu thương .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Grandmother ! " cried the little one .</s>
+<s id='vn33'>" Bà ơi ! " cô bé thốt lên .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Take me with you !</s>
+<s id='vn34'>" Hãy mang cháu theo cùng bà !</s>
+</spair>
+<spair id='35'>
+<s id='en35'>You go away when the match burns out ; you vanish like the warm stove , like the delicious roast goose , and like the magnificent Christmas tree ! "</s>
+<s id='vn35'>Khi ngọn diêm này tắt thì bà cũng ra đi , bà sẽ biến mất như cái lò sưởi ấm áp kia , như con ngỗng quay ngon lành ấy và như cây thông Nô-en lộng lẫy nữa ! "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>And she rubbed the whole bundle of matches quickly against the wall , for she wanted to be quite sure of keeping her grandmother near her .</s>
+<s id='vn36'>Và cô bé vội vã quẹt cả bó diêm vào tường , để cô an tâm rằng có thể giữ bà bên cạnh mình .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The matches gave such a brilliant light that it was brighter than at noon-day : never formerly had the grandmother been so beautiful and so tall .</s>
+<s id='vn37'>Những que diêm mang lại thứ ánh sáng thật sáng chói đến độ chúng còn sáng hơn cả ban ngày : chưa bao giờ cô thấy bà mình lại đẹp và cao lớn như thế trước đây .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>She took the little maiden , and both flew in brightness and in joy so high , so very high , and then above was neither cold , nor hunger , nor anxiety they were with God .</s>
+<s id='vn38'>Bà cầm tay đứa cháu nhỏ và cả hai bay lên trong ánh sáng diệu kỳ và trong niềm hạnh phúc , bay cao mãi , cao mãi và ở trên ấy sẽ không có cái lạnh , cái đói hay nỗi buồn phiền - Họ đã về với Chúa .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>But in the corner , at the cold hour of dawn , sat the poor girl , with rosy cheeks and with a smiling mouth , leaning against the wall - frozen to death on the last evening of the old year .</s>
+<s id='vn39'>Nhưng ở góc phố nọ , vào lúc hừng đông lạnh giá , có một cô bé tội nghiệp ngồi tựa lưng vào tường , đôi má cô ửng hồng và nụ cười vẫn còn nở trên môi - cô đã chết cóng vào đúng đêm giao thừa cuối cùng của năm cũ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Stiff and stark sat the child there with her matches , of which one bundle had been burnt .</s>
+<s id='vn40'>Bên cạnh cô bé là những que diêm khô khốc với những tàn diêm đã cháy hết .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" She wanted to warm herself , " people said .</s>
+<s id='vn41'>" Nó muốn sưởi ấm " người ta nói thế .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>No one had the slightest suspicion of what beautiful things she had seen ; no one even dreamed of the splendor in which , with her grandmother she had entered on the joys of a new year .</s>
+<s id='vn42'>Không ai trong số họ có một chút hoài nghi gì về những thứ đẹp đẽ mà cô bé đã thấy ; thậm chí cũng chẳng có ai mơ thấy cảnh tượng huy hoàng khi cô cùng bà của mình bay lên đón lấy những hân hoan của một năm mới .</s>
+</spair>
+</text>
+</doc>

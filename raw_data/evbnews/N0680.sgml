@@ -1,0 +1,104 @@
+﻿<doc id='N0680'>
+<head>
+<title>The Touchstone</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Touchstone</s>
+<s id='vn1'>Hòn đá thử vàng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>When the great library of Alexandria burned , the story goes , one book was saved .</s>
+<s id='vn2'>Khi thư viện đồ sộ Alexandria bị hoả hoạn , người ta kể rằng có một quyển sách còn sót lại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But it was not a valuable book ; and so a poor man , who could read a little , bought it for a few coppers .</s>
+<s id='vn3'>Nhưng nó không phải là một quyển sách quý ; và vì thế có một người đàn ông nghèo khổ vốn chỉ biết đọc bập bõm đã mua nó bằng vài đồng tiền lẻ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The book was n't very interesting , but between its pages there was something very interesting indeed.</s>
+<s id='vn4'>Quyển sách cũng không hay lắm , nhưng giữa những trang sách đó lại có một điều rất thú vị .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It was a thin strip of vellum on which was written the secret of the " Touchstone " !</s>
+<s id='vn5'>Đó là một dải giấy da mỏng trên đó có viết về bí mật của " Hòn đá thử vàng " !</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The touchstone was a small pebble that could turn any common metal into pure gold .</s>
+<s id='vn6'>Hòn đá thử vàng là một viên sỏi nhỏ mà có thể biến bất kỳ một thứ kim loại nào thành vàng ròng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The writing explained that it was lying among thousands and thousands of other pebbles that looked exactly like it .</s>
+<s id='vn7'>Quyển sách còn viết rằng hòn đá này nằm giữa hàng ngàn hàng ngàn viên sỏi khác có hình dạng giống y như nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But the secret was this : The real stone would feel warm , while ordinary pebbles are cold .</s>
+<s id='vn8'>Điều bí mật là : hòn đá thật sờ vào sẽ thấy ấm , trong khi những viên đá thường lại thấy lạnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>So the man sold his few belongings , bought some simple supplies , camped on the seashore , and began testing pebbles .</s>
+<s id='vn9'>Thế là người đàn ông bán hết đồ đạc của mình , chỉ mua vài vật dụng đơn giản , cắm một túp lều bên bờ biển , và bắt đầu thử những viên sỏi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He knew that if he picked up ordinary pebbles and threw them down again because they were cold , he might pick up the same pebble hundreds of times .</s>
+<s id='vn10'>Ông ta biết rằng nếu lượm những viên sỏi thường và quẳng chúng xuống vì chúng lạnh thì có thể ông sẽ phải lượm lại chính những viên sỏi ấy đến hàng trăm lần .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>So , when he felt one that was cold , he threw it into the sea .</s>
+<s id='vn11'>Vì vậy , khi cầm một viên sỏi mà thấy nó lạnh thì ông ném nó xuống biển .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>He spent a whole day doing this but none of them was the touchstone .</s>
+<s id='vn12'>Ông đã dành trọn một ngày để làm việc này nhưng không có viên đá nào là hòn đá thử vàng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Yet he went on and on this way .</s>
+<s id='vn13'>Tuy nhiên ông cứ cần mẫn làm công việc như thế .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Pick up a pebble .</s>
+<s id='vn14'>Lượm một viên sỏi .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Cold - throw it into the sea .</s>
+<s id='vn15'>Lạnh - ném nó xuống biển .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Pick up another .</s>
+<s id='vn16'>Lượm một viên khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Throw it into the sea .</s>
+<s id='vn17'>Ném nó xuống biển .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The days stretched into weeks and the weeks into months .</s>
+<s id='vn18'>Ngày qua ngày , rồi nhiều tuần , nhiều tháng cũng trôi qua .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>One day , however , about midafternoon , he picked up a pebble and it was warm .</s>
+<s id='vn19'>Tuy nhiên đến một ngày nọ , khoảng giữa trưa , ông đã nhặt một viên sỏi và nó ấm .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He threw it into the sea before he realized what he had done .</s>
+<s id='vn20'>Ông đã ném nó xuống biển trước khi nhận thức được những gì mình đã làm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He had formed such a strong habit of throwing each pebble into the sea that when the one he wanted came along , he still threw it away .</s>
+<s id='vn21'>Ông đã tạo cho mình một thói quen ném mỗi viên sỏi xuống biển ăn sâu trong tiềm thức đến nỗi khi nhặt được viên sỏi mà ông ta cần thì ông lại ném nó đi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>So it is with opportunity .</s>
+<s id='vn22'>Cơ hội trong cuộc đời của chúng ta cũng giống như vậy .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Unless we are vigilant , it 's easy to fail to recognize an opportunity when it is in hand and it 's just as easy to throw it away .</s>
+<s id='vn23'>Nếu không cảnh giác thì ta sẽ khó mà nhận ra một cơ hội đang ở trong tay chúng ta và ta cũng sẽ dễ dàng ném nó đi .</s>
+</spair>
+</text>
+</doc>

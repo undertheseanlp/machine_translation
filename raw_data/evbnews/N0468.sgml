@@ -1,0 +1,212 @@
+﻿<doc id='N0468'>
+<head>
+<title>The problem with Microsoft trying to be Apple</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The problem with Microsoft trying to be Apple</s>
+<s id='vn1'>Vấn đề nảy sinh khi Microsoft cố gắng học theo Apple</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft is aiming to do something wildly different to beat Apple .</s>
+<s id='vn2'>Microsoft đang cố gắng tạo nên sự khác biệt lớn để đánh bại Apple .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>At the same time , Microsoft is also trying to copy a very successful business model to be Apple .</s>
+<s id='vn3'>Đồng thời , Microsoft cũng đang cố gắng sao chép một mô hình kinh doanh rất hiệu quả để được như Apple .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>When Windows 8 debuts this fall , Microsoft will launch an curated app store for Windows software .</s>
+<s id='vn4'>Khi Windows 8 xuất hiện lần đầu tiên vào mùa thu năm nay , Microsoft sẽ tung ra một kho ứng dụng có kiểm duyệt cho Windows .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>For the first time , the primary way Windows users will get third-party applications will be through Microsoft itself .</s>
+<s id='vn5'>Lần đầu tiên , con đường chính yếu mà người dùng Windows tải ứng dụng bên thứ ba về sẽ thông qua chính Microsoft .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's a model that has paid off for Apple and been copied , with varying degrees of success - most notably Google and Amazon .</s>
+<s id='vn6'>Đây là mô hình đã mang lại thành công cho Apple và được sao chép với những mức độ thành công khác nhau - đáng chú ý nhất là Google và Amazon .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Apple , which takes a sizable cut on sales in its app store , brought in revenue of $ 2.1 billion last quarter from third-party apps and music sales on iTunes .</s>
+<s id='vn7'>Apple , hưởng một phần không nhỏ trong doanh số từ kho ứng dụng của hãng , đạt được 2,1 tỷ đô-la Mỹ doanh thu vào quý 1 vừa qua nhờ doanh số bán ứng dụng bên thứ ba và âm nhạc trên iTunes .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Though lucrative , the app store model can also be restrictive .</s>
+<s id='vn8'>Mặc dù sinh lợi , nhưng mô hình kho ứng dụng có thể cũng có hạn chế .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Apps have to be approved , and cynics point out that app store curators could block competitors ' apps .</s>
+<s id='vn9'>Ứng dụng phải được chấp thuận , và nhiều người hoài nghi rằng người kiểm duyệt kho ứng dụng có thể chặn ứng dụng của đối thủ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For instance , it took Apple more than a year to allow Google Voice on the iPhone , a move it only made after government regulators started asking very pointed questions .</s>
+<s id='vn10'>Chẳng hạn như , Apple phải mất hơn một năm mới cho phép đưa Google Voice lên iPhone , một động thái mà hãng chỉ thực hiện sau khi các quan chức chính phủ bắt đầu đưa ra những câu hỏi rất hiểm hóc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>App stores can also be fragmentary .</s>
+<s id='vn11'>Kho ứng dụng cũng có thể gây phân mảnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Certain apps - and even some content like popular e-books - are available exclusively on individual app stores .</s>
+<s id='vn12'>Một số ứng dụng - và thậm chí một số nội dung như sách điện tử phổ biến - được cung cấp độc quyền trên những kho ứng dụng riêng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>That makes for a frustrating user experience .</s>
+<s id='vn13'>Điều này làm cho người dùng cảm thấy khó chịu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" When you select a device , no matter how cool it is , if the ecosystem that supports the device does n't have all the things you want , that 's going to discourage you from buying it , " says Al Gillen , analyst at IDC .</s>
+<s id='vn14'>Ông Al Gillen , nhà phân tích của IDC , cho hay , " Khi bạn chọn mua thiết bị , cho dù nó tốt đến đâu , nếu hệ sinh thái hỗ trợ thiết bị đó không có tất cả những thứ bạn muốn , thì bạn sẽ không còn muốn mua nó nữa " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This is a new problem for Microsoft , at least in the desktop realm .</s>
+<s id='vn15'>Đây là vấn đề mới nảy sinh đối với Microsoft , ít nhất trong lĩnh vực máy tính bàn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>With a 92 % share of PCs and an open plat form , Windows users have never really had to worry about whether certain software will run on Windows .</s>
+<s id='vn16'>Với 92% thị phần PC và nền tảng mở , người dùng Windows chưa bao giờ phải thực sự lo lắng rằng liệu phần mềm nào đó sẽ chạy trên Windows hay không .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>But for Windows 8 , Microsoft is skewing in the Apple direction .</s>
+<s id='vn17'>Nhưng đối với Windows 8 , Microsoft đang đi lệch hướng của Apple .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Standard Windows 8 PCs will come with two modes : The touch-based " Metro " interface and a more traditional desktop mode .</s>
+<s id='vn18'>Các máy PC chuẩn chạy Windows 8 sẽ có hai chế độ : giao diện Metro cảm ứng và chế độ desktop truyền thống .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Metro apps will only be available through Microsoft 's app store .</s>
+<s id='vn19'>Ứng dụng Metro sẽ chỉ được cung cấp trên kho ứng dụng của Microsoft .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Users can still install traditional software in desktop mode - with one big and critical exception .</s>
+<s id='vn20'>Người dùng vẫn có thể cài đặt phần mềm truyền thống trong chế độ desktop - với một ngoại lệ lớn và quan trọng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Microsoft is selling a second version of its new Windows software , called Windows RT , which will run on the power-sipping ARM-based processors .</s>
+<s id='vn21'>Microsoft sẽ bán ra một phiên bản thứ hai của Windows mới , có tên là Windows RT , chạy trên vi xử lý ARM ít tiêu tốn điện năng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>These processors power the vast majority of smartphones and tablets .</s>
+<s id='vn22'>Vi xử lý này có mặt trên đại đa số điện thoại thông minh và máy tính bảng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Third-party software for Windows RT will only be available through Microsoft 's app store .</s>
+<s id='vn23'>Phần mềm bên thứ ba cho Windows RT sẽ chỉ có trên kho ứng dụng của Microsoft .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It 's pretty clearly the thin end of a wedge .</s>
+<s id='vn24'>Điều khá rõ ràng là mọi rắc rối chỉ mới bắt đầu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" Windows 8 is a transitional product - Microsoft 's awkward teenage stage of growing into a post-PC world , " says Sarah Rotman Epps , an analyst at Forrester Research .</s>
+<s id='vn25'>" Windows 8 là sản phẩm chuyển tiếp - đó là giai đoạn non trẻ và còn nhiều thiếu sót của Microsoft khi đang bước vào thế giới thời hậu-PC " , Sarah Rotman Epps , nhà phân tích của Forrester Research , nói .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" ARM and Metro are the future of the Windows plat form , but they 're not ready to completely get rid of the desktop just yet . "</s>
+<s id='vn26'>" Vi xử lý ARM và giao diện Metro là tương lai của nền tảng Windows , nhưng hiện tại chúng chưa hoàn toàn sẵn sàng để loại bỏ giao diện desktop " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Microsoft itself expects Metro to ultimately replace the traditional desktop experience .</s>
+<s id='vn27'>Bản thân Microsoft mong rằng Metro cuối cùng sẽ thay thế trải nghiệm desktop truyền thống .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It 's Microsoft 's main play in fast-grow th areas like the tablet market .</s>
+<s id='vn28'>Đây là sân chơi chính của Microsoft trong những lĩnh vực tăng trưởng nhanh , chẳng hạn như thị trường máy tính bảng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>By 2016 , Metro tablets will represent 17 % of the global tablet market share , Forrester Research predicts .</s>
+<s id='vn29'>Vào năm 2016 , máy tính bảng giao diện Metro sẽ chiếm 17% thị phần máy tính bảng toàn cầu , theo dự đoán của Forrester Research .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>That has some developers wary about the controls Microsoft is putting in place .</s>
+<s id='vn30'>Điều này khiến các nhà phát triển ứng dụng cảnh giác với những hạn chế mà Microsoft sẽ đặt ra .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Firefox browser maker Mozilla fired off an angry blog post earlier this month lambasting Microsoft for " an unwelcome return to the digital dark ages . "</s>
+<s id='vn31'>Nhà sản xuất trình duyệt Firefox , Mozilla , đã đăng tải một bài blog đầy căm phẫn hồi đầu tháng này , chỉ trích Microsoft về " ý định không được hoan nghênh là quay lại thời kỳ kỷ thuật số đen tối " .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Google echoed Mozilla , saying Windows RT is " restricting user choice and innovation . "</s>
+<s id='vn32'>Google cũng đồng tình với Mozilla , cho rằng Windows RT " hạn chế sự lựa chọn và đổi mới của người dùng " .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>A Microsoft representative declined to respond to those criticisms .</s>
+<s id='vn33'>Một đại diện của Microsoft từ chối đáp lại những lời chỉ trích trên .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Here 's what Google and Mozilla are really worried about : When Windows RT users switch to desktop mode , Microsoft 's Internet Explorer will be the only browser option .</s>
+<s id='vn34'>Đây là những điều mà Google và Mozilla thật sự lo lắng : Khi người dùng Windows RT chuyển sang chế độ desktop , Internet Explorer sẽ là lựa chọn trình duyệt duy nhất .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>That 's similar to how Apple once operated - Safari was the only browser it allowed on the iPhone for years - but developers cite it as an ominous sign .</s>
+<s id='vn35'>Điều này tương tự cách Apple từng hoạt động - trong nhiều năm , Safari là trình duyệt duy nhất mà hãng cho phép chạy trên iPhone - nhưng các lập trình viên xem nó là một điềm gở .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Welcome to the curated world of Windows .</s>
+<s id='vn36'>Chào mừng bạn đến với thế giới Windows được kiểm duyệt .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>" I do n't know if many existing Windows developers are going to want to start opting in to a model where their entire future is dependent on Microsoft 'allowing " them to continue , " says Tim Tisdall , a freelance software developer familiar with multiple app stores .</s>
+<s id='vn37'>Tim Tisdall , nhà phát triển phần mềm làm nghề tự do và biết rõ nhiều kho ứng dụng , chia sẻ , " Tôi không biết liệu nhiều lập trình viên Windows hiện tại sẽ lựa chọn hay không một mô hình hoạt động mà ở đó toàn bộ tương lai của họ phụ thuộc vào việc Microsoft " cho phép " họ tiếp tục " .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>There 's a flip side , of course .</s>
+<s id='vn38'>Dĩ nhiên , cũng có ý kiến trái chiều .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Where some see restrictions , others see opportunity .</s>
+<s id='vn39'>Một số người nhìn thấy mặt hạn chế , thì một số khác lại nhìn thấy cơ hội .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" All app stores have their quirks , but we love them , because they give us a phenomenal opportunity for distribution , " says Brian Phillips , product " guru " at Flixter , a movie reviews and show times app .</s>
+<s id='vn40'>" Tất cả kho ứng dụng đều có khiếm khuyết , nhưng chúng tôi đều yêu thích chúng , vì chúng cho chúng tôi cơ hội tuyệt vời để phân phối ứng dụng " , Brian Phillips của Flixter , hãng phát triển ứng dụng cung cấp các bài phê bình phim và giờ chiếu phim .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" More consumers discover us through app stores . "</s>
+<s id='vn41'>" Thông qua kho ứng dụng , có nhiều người tiêu dùng khám phá ra chúng tôi hơn " .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>A powerful Microsoft app store would give apps access to Windows " huge user base , " echoed Pascal Rachenuer , head of interactive Media at AccuWeather .</s>
+<s id='vn42'>Kho ứng dụng mạnh sẽ của Microsoft sẽ cho phép ứng dụng đến tay " lượng người dùng khổng lồ " , Pascal Rachenuer , trưởng bộ phận phương tiện truyền thông tương tác của AccuWeather , đồng tính .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>It could also give users a better software experience .</s>
+<s id='vn43'>Nó có thể cũng mang lại cho người dùng trải nghiệm tốt hơn khi sử dụng phần mềm .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>A curated app store would give Microsoft the opportunity to restrict the manufacturer-installed bloatware that has plagued PCs for generations , IDC 's Gillen points out .</s>
+<s id='vn44'>Kho ứng dụng có kiểm duyệt sẽ mang đến cho Microsoft cơ hội hạn chế bloatware do nhà sản xuất cài vốn tràn ngập trên PC một thời gian dài , Gillen của IDC chỉ ra .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Still , there 's something uncomfortable about Microsoft , convicted a decade ago of using its monopolistic power to illegally squash rivals , holding veto rights over its customers ' computing experience .</s>
+<s id='vn45'>Tuy thế , có vài điều gây khó chịu ở Microsoft bị quy kết cách đây một thập niên là sử dụng sức mạnh độc quyền chèn ép đối thủ một cách bất hợp pháp và nắm quyền phủ quyết đối với trải nghiệm dùng máy vi tính của khách hàng .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Apple has trained us to cede control on tablets and smartphones - something millions of customers do happily .</s>
+<s id='vn46'>Apple đã rèn luyện cho chúng tôi phải biết nhượng lại quyền kiểm soát máy tính bảng và điện thoại thông minh - đây là điều hàng triệu khách hàng vui vẻ thực hiện .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Apple still keeps its Mac and iOS realms separate .</s>
+<s id='vn47'>Apple vẫn giữ riêng hai mảng Mac và iOS .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Microsoft wants to collapse mobile devices and the desktop into one ecosystem .</s>
+<s id='vn48'>Microsoft lại muốn các thiết bị di động và máy tính hoà chung vào một hệ sinh thái .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Will the Apple model work on traditional PCs ?</s>
+<s id='vn49'>Liệu mô hình hoạt động của Apple sẽ hiệu quả đối với PC truyền thống ?</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Thanks to Microsoft , we 're about to find out .</s>
+<s id='vn50'>Nhờ có Microsoft , chúng tôi sẽ sớm biết câu trả lời .</s>
+</spair>
+</text>
+</doc>

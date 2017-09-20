@@ -1,0 +1,564 @@
+﻿<doc id='N0467'>
+<head>
+<title>Death and grief</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Death and grief</s>
+<s id='vn1'>Chết chóc và đau buồn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>People react emotionally and physically</s>
+<s id='vn2'>Phản ứng của con người về tinh thần lẫn thể xác</s>
+</spair>
+<spair id='3'>
+<s id='en3'>When coping with a death , you may go through all kinds of emotions .</s>
+<s id='vn3'>Khi đối diện với một sự chết nào đó , người ta có thể nếm trải tất cả các cảm xúc khác nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You may be sad , worried , or scared .</s>
+<s id='vn4'>Bạn có thể cảm thấy buồn bã , lo lắng hay cả sợ sệt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>You might be shocked , unprepared , or confused .</s>
+<s id='vn5'>Có thể bạn bị hoang mang hay chưa sẵn sàng , chưa chuẩn bị tâm lý để đón nhận nó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You might be feeling angry , cheated , relieved , guilty , exhausted , or just plain empty .</s>
+<s id='vn6'>Bạn có thể cảm thấy tức giận , bị lừa bịp , trút được gánh nặng , tội lỗi , mệt nhoài , hoặc chỉ là cảm giác trống trải .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Your emotions might be stronger or deeper than usual or mixed together in ways you 've never experienced before .</s>
+<s id='vn7'>Các cảm xúc của bạn có thể sẽ trở nên mãnh liệt , và sâu sắc hơn bình thường hoặc lẫn lộn vào nhau thành một thứ cảm xúc nào đó mà bạn chưa hề trải nghiệm trước đó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Some people find they have trouble concentrating , studying , sleeping , or eating when they 're coping with a death .</s>
+<s id='vn8'>Một số người cảm thấy khó có thể tập trung , học hành , ngủ nghỉ hay ăn uống khi phải đối diện với một cái chết của ai đó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Others lose interest in activities they used to enjoy .</s>
+<s id='vn9'>Một số khác cảm thấy mất hào hứng đối với các hoạt động mà trước đây họ rất thích thú .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Some people lose themselves in playing computer games or eat or drink to excess .</s>
+<s id='vn10'>Nhiều người lao vào chơi game vi tính hay ăn uống một cách vô độ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>And some people feel numb , as if nothing has happened .</s>
+<s id='vn11'>Và một số khác cảm thấy tê dại đi , như thể không hề có chuyện gì xảy ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>All of these are normal ways to react to a death .</s>
+<s id='vn12'>Tất cả những cảm xúc ấy rất đỗi bình thường khi người ta phản ứng với một cái chết .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What is grief ?</s>
+<s id='vn13'>Nỗi đau buồn là gì ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>When we have emotional , physical , and spiritual reactions in response to a death or loss , it 's known as grief or grieving .</s>
+<s id='vn14'>Khi đối diện với một sự chết hay một mất mát nào đó , chúng ta có những phản ứng xúc cảm , phản ứng cơ thể và cả phản ứng về tâm linh - ấy là nỗi buồn hoặc là nỗi khổ đau .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>People who are grieving might :</s>
+<s id='vn15'>Người sầu khổ có thể :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>* feel strong emotions , such as sadness and anger</s>
+<s id='vn16'>* mang cảm xúc mãnh liệt , như buồn bã và tức giận</s>
+</spair>
+<spair id='17'>
+<s id='en17'>* have physical reactions , such as not sleeping or even waves of nausea</s>
+<s id='vn17'>* biểu hiện những phản ứng của cơ thể , như không ngủ được hoặc thậm chí cảm thấy buồn nôn</s>
+</spair>
+<spair id='18'>
+<s id='en18'>* have spiritual reactions to a death - for example , some people find themselves questioning their beliefs and feeling disappointed in their religion while others find that they feel more strongly than ever about their faith .</s>
+<s id='vn18'>* biểu hiện phản ứng tâm linh , tinh thần đối với cái chết - chẳng hạn như , một số người hoài nghi về niềm tin , về tín ngưỡng của mình và cảm thấy thất vọng về đức tin tôn giáo ấy trong khi một số người khác lại cảm thấy mạnh mẽ về niềm tin hơn bao giờ hết .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The grieving process takes time and healing usually happens gradually .</s>
+<s id='vn19'>Phải cần thời gian nỗi buồn mới có thể nguôi ngoai được .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The intensity of grief may be related to how sudden or predictable the loss was and how you felt about the person who died .</s>
+<s id='vn20'>Người ta buồn đau nhiều hay ít cũng tuỳ thuộc vào mức độ đột ngột hay có thể tiên đoán được sự mất mát như thế nào và bạn cảm nhận về người đã chết như thế nào nữa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Some people write about grief happening in stages , but usually it feels more like " waves " or cycles of grief that come and go depending on what you are doing and if there are triggers for remembering the person who has died .</s>
+<s id='vn21'>Một số người biểu lộ nỗi buồn theo nhiều giai đoạn , nhưng thường thì nỗi buồn ấy giống như " các cơn sóng " hơn hoặc nỗi buồn ấy cứ lặp đi lặp lại thành một chu kỳ đến rồi đi và cũng rất lệ thuộc vào những điều bạn đang làm đây và nếu như có cơ hội làm cho bạn liên tưởng hay nhớ đến người đã chết .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Different ways of grieving</s>
+<s id='vn22'>Nhiều cách biểu hiện đau buồn</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If you 've lost someone in your immediate family , such as a parent , brother , or sister , you may feel cheated out of time you wanted to have with that person .</s>
+<s id='vn23'>Nếu bạn bị mất đi gia đình nhỏ của mình , như bố hay mẹ , anh trai hay chị gái của mình , bạn sẽ có thể cảm thấy rất hụt hẫng , tiêu tan không còn thời gian bên cạnh người ấy nữa .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It can also feel hard to express your own grief when other family members are grieving , too .</s>
+<s id='vn24'>Bạn cũng có thể rất khó bày tỏ nỗi sầu khổ của mình khi các thành viên khác trong gia đình cũng đang buồn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Some people may hold back their own grief or avoid talking about the person who died because they worry that it may make a parent or other family member sad .</s>
+<s id='vn25'>Một số người có thể kiềm chế và nuốt nỗi đau hay tránh nói về người đã chết bởi họ lo sợ rằng điều ấy có thể khiến cho bố mẹ hay một viên khác trong gia đình phải buồn khổ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>It 's also natural to feel some guilt over a past argument or a difficult relationship with the person who died .</s>
+<s id='vn26'>Người ta cũng cảm thấy tội lỗi về một cuộc cãi vã nào đó hay một mối quan hệ khó chịu nào đó với người đã chết .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>We do n't always grieve over the death of another person .</s>
+<s id='vn27'>Không phải lúc nào chúng ta cũng tỏ ra buồn đau với cái chết của người khác .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The death of a beloved pet can trigger strong feelings of grief .</s>
+<s id='vn28'>Một con thú cưng mất đi cũng có thể làm cho bạn khổ sở dữ dội .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>People may be surprised by how painful this loss can be .</s>
+<s id='vn29'>Nhiều người có thể ngạc nhiên là tại sao nỗi mất mát ấy lại làm người ta đau khổ như vậy .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>But the loving bonds we share with pets are real , and so are the feelings of loss and grief when they die .</s>
+<s id='vn30'>Nhưng tình yêu của chúng ta đối với thú nuôi là có thật , và cảm giác buồn đau mất mát khi chúng chết .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>All of these feelings and reactions are OK - but what can people do to get through them ?</s>
+<s id='vn31'>Tất cả các cảm xúc và phản ứng như thế là bình thường - nhưng người ta có thể làm gì để vượt qua được tâm trạng đó ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>How long does grief last ?</s>
+<s id='vn32'>Nỗi sầu khổ đó sẽ kéo dài bao lâu ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Will things ever get back to normal ?</s>
+<s id='vn33'>Liệu mọi thứ có trở về trạng thái bình thường ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>And how will you go on without the person who has died ?</s>
+<s id='vn34'>Và rồi làm thế nào bạn có thể tiếp tục sống mà không có người ấy bên cạnh ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Coping with grief</s>
+<s id='vn35'>Đối diện với đau buồn</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Just as people feel grief in many different ways , they handle it differently , too .</s>
+<s id='vn36'>Người ta biểu lộ đau buồn bằng nhiều cách thì họ cũng có thể chế ngự nỗi buồn với nhiều cách khác nhau .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Some people reach out for support from others and find comfort in good memories .</s>
+<s id='vn37'>Một số người cần đến nguồn an ủi của người khác và có thể thấy khuây khoả với những kỉ niệm ngọt ngào .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Others become very busy to take their minds off the loss .</s>
+<s id='vn38'>Một số khác luôn làm mình bận rộn để khỏi nhớ về nỗi mất mát đó .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Some people become depressed and withdraw from their peers or go out of the way to avoid the places or situations that remind them of the person who has died .</s>
+<s id='vn39'>Cũng có nhiều người trở nên tuyệt vọng và tránh xa đồng nghiệp để tránh đến những nơi hoặc né các tình huống có thể gợi cho họ nhớ về người đã chết .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>For some people , it can help to talk about the loss with others .</s>
+<s id='vn40'>Đối với một số người thì việc tâm sự nỗi buồn với người khác quả thật có tác dụng tốt .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Some do this naturally and easily with friends and family , while others talk to a professional therapist .</s>
+<s id='vn41'>Nhiều người nói ra điều này hết sức tự nhiên và dễ dàng với gia đình và bè bạn , trong khi nhiều người cũng cần đến nhà trị liệu chuyên nghiệp .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Some people may not feel like talking about it much at all because it 's hard to find the words to express such deep and personal emotion or they wonder whether talking will make them feel the hurt more .</s>
+<s id='vn42'>Nhiều người có thể không muốn nói nhiều về điều này bởi thật khó lòng bày tỏ thứ cảm xúc sâu lắng và riêng tư như thế này thành lời hoặc họ cũng phân vân là liệu việc nói ra , chia sẻ ra có làm mình cảm thấy tổn thương nhiều hơn không .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>This is fine , as long you find other ways to deal with your pain .</s>
+<s id='vn43'>Được thôi , miễn là bạn có thể nghĩ ra cách nào đấy để chế ngự nỗi đau của mình .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>People sometimes deal with their sorrow by engaging in dangerous or self-destructive activities .</s>
+<s id='vn44'>Cũng đôi khi người ta đối diện nỗi buồn bằng cách lao vào các hoạt động nguy hiểm hoặc tự huỷ hoại mình ; .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Doing things like drinking , drugs , or cutting yourself to escape from the reality of a loss may seem to numb the pain , but the feeling is only temporary .</s>
+<s id='vn45'>Các việc đại loại như rượu chè , ma tuý thuốc phiện , hoặc cắt rạch vào tay mình để thoát khỏi thực tế buồn đau này có thể khiến người ta tê dại đi vì đau , nhưng nỗi đau da thịt ấy chỉ là trạng thái tạm thời .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>This is n't really dealing with the pain , only masking it , which makes all those feelings build up inside and only prolongs the grief .</s>
+<s id='vn46'>Nó hoàn toàn không giải quyết được nỗi mất mát của bạn được , mà chỉ là cảm giác che đậy , có thể khiến các xúc cảm bên trong con người bạn ngày một dữ dội hơn và chỉ làm cho nỗi buồn ấy kéo dài thêm mà thôi .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>If your pain just seems to get worse , or if you feel like hurting yourself or have suicidal thoughts , tell someone you trust about how you feel .</s>
+<s id='vn47'>Nếu bạn cảm thấy đau khổ hơn , hoặc có ý định làm tổn thương mình hoặc có ý định tự sát thì hãy thổ lộ điều này với một người nào đó mà bạn cảm thấy tin tưởng nhé .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>What to expect</s>
+<s id='vn48'>Bạn nên mong đợi điều gì</s>
+</spair>
+<spair id='49'>
+<s id='en49'>It may feel like it might be impossible to recover after losing someone you love .</s>
+<s id='vn49'>Có thể như bạn không tài nào vực dậy được sau khi phải mất đi một người thương yêu .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>But grief does get gradually better and become less intense as time goes by .</s>
+<s id='vn50'>Nhưng thời gian chính là thứ thuốc mầu nhiệm có thể làm cho nỗi sầu ấy vơi đi và không còn dữ dội nữa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>To help get through the pain , it can help to know some of the things you might expect during the grieving process .</s>
+<s id='vn51'>Để vượt qua nỗi đau này thì việc tìm hiểu một số điều bạn nên biết trong thời gian đau khổ cũng có tác dụng tốt đấy .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The first few days after someone dies can be intense , with people expressing strong emotions , perhaps crying , comforting each other , and gathering to express their support and condolences to the ones most affected by the loss .</s>
+<s id='vn52'>Với những người có cảm xúc mạnh thì một vài ngày đầu sau khi ai đó mất đi quả là rất khó chịu , họ có thể khóc lóc , an ủi lẫn nhau , và tụ tập lại để giúp đỡ , để chia buồn với người buồn đau nhất .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>It is common to feel as if you are " going crazy " and feel extremes of anxiety , panic , sadness , and helplessness .</s>
+<s id='vn53'>Nếu như bạn có " phát điên lên " và vô cùng tức giận , hoảng sợ , buồn bã , và tuyệt vọng thì cũng dễ hiểu thôi .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Some people describe feeling " unreal , " as if they 're looking at the world from a faraway place .</s>
+<s id='vn54'>Một số người miêu tả cảm xúc ấy như một thứ xúc cảm " hão huyền , không có thực " như thể họ đang nhìn thế giới này từ một nơi xa xôi nào đó .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Others feel moody , irritable , and resentful .</s>
+<s id='vn55'>Một số khác lại cảm thấy buồn rầu , khó chịu và phẫn nộ .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Family and friends often participate in rituals that may be part of their religious , cultural , community , or family traditions , such as memorial services , wakes , or funerals .</s>
+<s id='vn56'>Gia đình và bạn bè thường tham dự các nghi lễ có thể thuộc về tôn giáo , văn hoá , cộng đồng , hoặc các truyền thống gia đình của họ , như là lễ truy điệu , lễ thức canh , hoặc lễ tang .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>These activities can help people get through the first days after a death and honor the person who died .</s>
+<s id='vn57'>Các hoạt động này có thể giúp người ta vượt qua một vài ngày đầu sau đám tang và để tưởng nhớ người đã mất .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>People might spend time together talking and sharing memories about their loved one .</s>
+<s id='vn58'>Người ta có thể ngồi lại với nhau nói chuyện và ôn lại kỉ niệm về người thân yêu ấy .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This may continue for days or weeks following the loss as friends and family bring food , send cards , or stop by to visit .</s>
+<s id='vn59'>Việc này có thể kéo dài nhiều ngày hay nhiều tuần vì bạn bè và gia đình thường mang thức ăn , gởi thiệp đến hoặc ghé qua thăm viếng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Many times , people show their emotions during this time .</s>
+<s id='vn60'>Thường thì người ta bày tỏ cảm xúc của mình trong suốt thời gian này .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>But sometimes a person can be so shocked or overwhelmed by the death that he or she does n't show any emotion right away - even though the loss is very hard .</s>
+<s id='vn61'>Nhưng đôi khi người ta quá sốc hay không thể tin nổi đến độ không biểu hiện bất kỳ thái độ cảm xúc nào ngay tức khắc – dẫu rằng sự mất mát ấy là rất lớn đi chăng nữa .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>And it 's not uncommon to see people smiling and talking with others at a funeral , as if something sad had not happened .</s>
+<s id='vn62'>Và cũng không có gì đáng ngạc nhiên khi thấy người ta cười nói với người khác trong tang lễ như thể chuyện buồn đau này chưa hề xảy ra .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>But being among other mourners can be a comfort , reminding us that some things will stay the same .</s>
+<s id='vn63'>Nhưng tâm trạng ấy trong những người đưa tang khác cũng có thể là một niềm an ủi , nhắc chúng ta nhớ rằng vẫn còn những thứ khác tương tự như thế .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Sometimes , when the rituals associated with grieving end , people might feel like they should be " over it " because everything seems to have gone back to normal .</s>
+<s id='vn64'>Lắm lúc khi các nghi thức tang lễ kết thúc thì người ta cũng có cảm giác như " chấm dứt hết tất cả mọi thứ xong hết rồi " bởi mọi thứ có vẻ như đã trở về như thường lệ .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>When those who are grieving first go back to their normal activities , it might be hard to put their hearts into everyday things .</s>
+<s id='vn65'>Khi những người đau khổ ấy quay lại các hoạt động thường nhật của mình lần đầu , có lẽ họ rất khó lòng đặt hết tâm trí vào đó được .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Many people go back to doing regular things after a few days or a week .</s>
+<s id='vn66'>Nhiều người trở lại làm việc sau một vài ngày hay một tuần .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>But although they may not talk about their loss anymore , the grieving process continues .</s>
+<s id='vn67'>Nhưng dẫu họ có thể không nói về nỗi đau của mình nữa nhưng điều ấy vẫn luôn còn ám ảnh .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>It 's natural to continue to have feelings and questions for a while after someone dies .</s>
+<s id='vn68'>Việc bạn vẫn còn cảm xúc hay đặt ra nhiều câu hỏi trong một thời gian ngắn sau khi ai đó mất đi thì cũng là điều tự nhiên thường thấy .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>It 's also natural to begin to feel somewhat better .</s>
+<s id='vn69'>Và cũng là điều bình thường nếu bạn bắt đầu cảm thấy đỡ hơn trước .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A lot depends on how your loss affects your life .</s>
+<s id='vn70'>Nó cũng tuỳ thuộc rất nhiều vào nỗi mất mát ấy ảnh hưởng đến cuộc sống của bạn như thế nào .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>It 's OK to feel grief for days , weeks , or even longer , depending on how close you were to the person who died .</s>
+<s id='vn71'>Nếu bạn cảm thấy buồn trong nhiều ngày , nhiều tuần liền hay thậm chí lâu hơn nữa thì cũng chẳng ngạc nhiên đâu , nó tuỳ thuộc vào mối quan hệ của bạn với người đã mất thân thiết như thế nào .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>No matter how you choose to grieve , there 's no one right way to do it .</s>
+<s id='vn72'>Bất kể là bạn buồn đau như thế nào đi chăng nữa thì chẳng có cách nào chặn dứt hết nỗi buồn ngay được .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>The grieving process is a gradual one that lasts longer for some people than others .</s>
+<s id='vn73'>Nỗi buồn cần có thời gian để nguôi ngoai và thường kéo dài ở một số người này hơn một số người khác .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>There may be times when you worry that you 'll never enjoy life the same way again , but this is a natural reaction after a loss .</s>
+<s id='vn74'>Có thể là cũng có lúc bạn lo lắng là mình sẽ chẳng bao giờ yêu đời giống như xưa nữa nhưng đây là phản ứng tự nhiên thường gặp sau một niềm đau mất mát thôi .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Caring for yourself</s>
+<s id='vn75'>Hãy quan tâm đến mình nhé</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The loss of someone close to you can be stressful .</s>
+<s id='vn76'>Việc mất đi một người thân yêu có thể khiến cho bạn cảm thấy căng thẳng đấy .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>It can help you to cope if you take care of yourself in certain small but important ways .</s>
+<s id='vn77'>Nó có thể giúp bạn đối phó tốt Nếu bạn tự biết tự chăm sóc mình bằng các biện pháp nho nhỏ nhưng quan trọng .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Here are some that might help :</s>
+<s id='vn78'>Dưới đây là một số biện pháp có thể giúp ích được :</s>
+</spair>
+<spair id='79'>
+<s id='en79'>* Remember that grief is a normal emotion .</s>
+<s id='vn79'>* Nên nhớ rằng nỗi buồn chỉ là cảm xúc bình thường .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Know that you can ( and will ) heal over time .</s>
+<s id='vn80'>Hãy hiểu rằng bạn có thể ( và sẽ có thể ) nguôi ngoai qua thời gian .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>* Participate in rituals .</s>
+<s id='vn81'>* Hãy tham dự các nghi lễ .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Memorial services , funerals , and other traditions help people get through the first few days and honor the person who died .</s>
+<s id='vn82'>Lễ truy điệu , lễ tang , và các lễ truyền thống khác có thể giúp người ta vượt qua một vài ngày đầu và để tưởng nhớ người đã chết .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>* Be with others .</s>
+<s id='vn83'>* Hãy ở cùng với những người khác .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Even informal gatherings of family and friends bring a sense of support and help people not to feel so isolated in the first days and weeks of their grief .</s>
+<s id='vn84'>Thậm chí các cuộc họp thân mật của gia đình và bạn bè cũng có ý nghĩa giúp cho người ta không cảm thấy cô đơn trong vài ngày đầu và trong vài tuần đầu đau buồn khi mất đi người thân của mình .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>* Talk about it when you can .</s>
+<s id='vn85'>* Nên tâm sự về nó khi có thể .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Some people find it helpful to tell the story of their loss or talk about their feelings .</s>
+<s id='vn86'>Nhiều người cảm thấy hữu ích khi kể cho người khác hay tâm sự cho người khác nghe về nỗi buồn mất mát của mình sẽ trở nên nhẹ nhõm hơn .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Sometimes a person does n't feel like talking , and that 's OK , too .</s>
+<s id='vn87'>Đôi khi có người không thích nói ra niềm đau ấy , điều ấy cũng bình thường thôi .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>No one should feel pressured to talk .</s>
+<s id='vn88'>Đừng cảm thấy việc nói ra đó là áp lực đối với bạn .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>* Express yourself .</s>
+<s id='vn89'>* Hãy tự bộc lộ tâm trạng tình cảm của mình nhé .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Even if you do n't feel like talking , find ways to express your emotions and thoughts .</s>
+<s id='vn90'>Dẫu rằng bạn không thích việc phải nói ra , nhưng hãy tự tìm cho mình cách để trút đi những cảm xúc và những ý tưởng mà bạn đang ôm ấp .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Start writing in a journal about the memories you have of the person you lost and how you 're feeling since the loss .</s>
+<s id='vn91'>Bạn nên bắt đầu viết nhật ký về những kỉ niệm với người đã mất và kể từ khi người ấy mất đi , bạn cảm thấy như thế nào .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Or write a song , poem , or tribute about your loved one .</s>
+<s id='vn92'>Hoặc sáng tác một bài hát , một bài thơ , hay một lời tri ân nào đó về người thương đã ra đi của mình .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>You can do this privately or share it with others .</s>
+<s id='vn93'>Bạn có thể chia sẻ điều này với người khác hay giữ kín một cách riêng tư .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>* Exercise .</s>
+<s id='vn94'>* Hãy tập thể dục nhé .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Exercise can help your mood .</s>
+<s id='vn95'>Việc tập thể dục có thể giúp bạn giải toả được căng thẳng đấy .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>It may be hard to get motivated , so modify your usual routine if you need to .</s>
+<s id='vn96'>Có thể rất khó để khiến thói quen này trở nên hứng thú và có động lực , vì vậy bạn nên điều chỉnh các công việc thường nhật của mình nếu cần thiết nhé .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>* Eat right .</s>
+<s id='vn97'>* Nên ăn uống điều độ và hợp lý .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>You may feel like skipping meals or you may not feel hungry , but your body still needs nutritious foods .</s>
+<s id='vn98'>Bạn có thể cảm thấy muốn bỏ bữa hoặc là không đói tí nào nhưng cơ thể bạn vẫn cần thức ăn bổ dưỡng đấy .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>* Join a support group .</s>
+<s id='vn99'>* Hãy tham gia vào nhóm hỗ trợ nhé .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>If you think you may be interested in attending a support group , ask an adult or school counselor about how to become involved .</s>
+<s id='vn100'>Nếu cảm thấy thích gia nhập vào nhóm người hỗ trợ , bạn nên tham khảo một người lớn hoặc một tư vấn viên nào đó ở trường về cách để tham gia chung với họ .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>The thing to remember is that you do n't have to be alone with your feelings or your pain .</s>
+<s id='vn101'>Nên nhớ rằng bạn sẽ không phải cảm thấy buồn bã hay khổ đau một mình nữa đâu , nhiều người khác sẽ cùng chia sẻ niềm đau ấy với bạn .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>* Let your emotions be expressed and released .</s>
+<s id='vn102'>* Hãy thổ lộ và làm vơi đi cảm xúc của mình bạn nhé .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Do n't stop yourself from having a good cry if you feel one coming on .</s>
+<s id='vn103'>Đừng cố kiềm chế mình khỏi phải khóc , khi muốn khóc bạn hãy khóc thật nhiều đi .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Do n't worry if listening to particular songs or doing other activities is painful because it brings back memories of the person that you lost ;</s>
+<s id='vn104'>Bạn cũng chớ nên bận tâm nếu phải nghe một bài hát nào đó hay làm một hoạt động nào đó khiến bạn khổ đau vì chúng gợi cho bạn nhớ những ký ức về người đã mất .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>This is common .</s>
+<s id='vn105'>Điều ấy cũng bình thường thôi .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>After a while , it becomes less painful .</s>
+<s id='vn106'>Sau một thời gian thì nó sẽ không còn dữ dội như trước nữa .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>* Create a memorial or tribute .</s>
+<s id='vn107'>* Hãy làm một vật kỉ niệm hay một tặng phẩm nào đó .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Plant a tree or garden , or memorialize the person in some fitting ways , such as running in a charity run or walk ( a breast cancer race , for example ) in honor of the lost loved one .</s>
+<s id='vn108'>Bạn hãy trồng một cây hay một khu vườn nào đó , hoặc tưởng nhớ người ấy bằng nhiều cách phù hợp khác , như tham gia chạy bộ hay đi bộ làm từ thiện ( chẳng hạn như tham gia cuộc chạy đua vì bệnh nhân ung thư vú ) để tưởng nhớ đến người mình yêu thương .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Getting help for intense grief</s>
+<s id='vn109'>Bạn nên nhờ người khác giúp đỡ nếu nỗi buồn trở nên dữ dội hơn</s>
+</spair>
+<spair id='110'>
+<s id='en110'>If your grief is n't letting up for a while after the death of your loved one , you may want to reach out for help .</s>
+<s id='vn110'>Nếu sau một thời gian ngắn mất người thương yêu của mình mà nỗi buồn của bạn chưa nguôi ngoai được thì có lẽ bạn nên nhờ người khác giúp đỡ đấy .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>If grief has turned into depression , it 's very important to tell someone .</s>
+<s id='vn111'>Nếu nỗi buồn ấy khiến cho bạn trở nên trầm cảm , suy nhược và kiệt sức thì phải nên nói cho người khác biết .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>How do you know if your grief has been going on too long ?</s>
+<s id='vn112'>Làm thế nào bạn biết được mình đang mang nỗi đau ấy quá lâu ?</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Here are some signs :</s>
+<s id='vn113'>Dưới đây là một vài dấu hiệu giúp bạn nhận biết được điều đó :</s>
+</spair>
+<spair id='114'>
+<s id='en114'>* You 've been grieving for 4 months or more and you are n't feeling any better .</s>
+<s id='vn114'>* Bạn không cảm thấy đỡ hơn chút nào khi đã mang nỗi buồn này 4 tháng trở lên .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>* You feel depressed .</s>
+<s id='vn115'>* Bạn cảm thấy tuyệt vọng .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>* Your grief is so intense that you feel you can't go on with your normal activities .</s>
+<s id='vn116'>* Bạn quá đau buồn đến nỗi cảm thấy không thể tiếp tục hoạt động thường nhật của mình .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>* Your grief is affecting your ability to concentrate , sleep , eat , or socialize as you normally do .</s>
+<s id='vn117'>* Nỗi đau ấy làm bạn khó tập trung , ngủ nghỉ , ăn uống hay giao du xã hội bình thường như trước .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>* You feel you can't go on living after the loss or you think about suicide , dying , or hurting yourself .</s>
+<s id='vn118'>* Bạn cảm thấy khó lòng sống nổi sau cái chết của ai đó hay nghĩ đến việc tự sát , chết hoặc là tự làm mình bị thương .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>It 's natural for loss to cause people to think about death to some degree .</s>
+<s id='vn119'>Nỗi mất mát ấy khiến cho người ta nghĩ đến cái chết ở một mức độ nào đấy thì cũng thường thấy thôi .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>But if a loss has caused you to think about suicide or hurting yourself in some way , or if you feel that you ca n't go on living , it 's important that you tell someone right away .</s>
+<s id='vn120'>Nhưng nếu bạn nghĩ đến việc tự sát hoặc tự làm mình bị thương theo kiểu nào đó hoặc nếu bạn cảm thấy không thể sống nữa thì điều cần thiết là phải nên nói cho người khác biết ngay tức khắc nhé .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Counseling with a professional therapist can help because it allows you to talk about your loss and express strong feelings .</s>
+<s id='vn121'>Việc tham khảo ý kiến của một nhà trị liệu chuyên nghiệp có thể giúp ích cho bạn vì bạn được nói ra sự đau khổ của mình và bày tỏ những cảm xúc mãnh liệt của mình .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Many counselors specialize in working with teens who are struggling with loss and depression .</s>
+<s id='vn122'>Nhiều nhà cố vấn chuyên tiếp xúc với thanh thiếu niên có hoàn cảnh mất mát và tuyệt vọng .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>If you 'd like to talk to a therapist and you 're not sure where to begin , ask an adult or school counselor .</s>
+<s id='vn123'>Nếu bạn có nhu cầu tham khảo ý kiến của một nhà trị liệu nào đó hay không biết phải nên bắt đầu từ đâu thì bạn nên nhờ một người lớn hay một nhà tư vấn ở trường giúp đỡ nhé .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Your doctor may also be able to recommend someone .</s>
+<s id='vn124'>Bác sĩ cũng có thể giới thiệu cho bạn một nhà trị liệu thích hợp đấy .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Will I ever get over this ?</s>
+<s id='vn125'>Liệu tôi có thể vượt qua được nỗi đau này không ?</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Well-meaning friends and family might tell a grieving person they need to " move on " after a loss .</s>
+<s id='vn126'>Gia đình và các bạn bè có thiện ý có thể nói cho người đang đau buồn biết là họ cần phải " tiếp tục đứng lên " sau nỗi đau ấy .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Unfortunately , that type of advice can sometimes make people hesitate to talk about their loss , or make people think they 're grieving wrong or too long , or that they 're not normal .</s>
+<s id='vn127'>Đáng tiếc là , lời khuyên như thế này đôi khi cũng có thể khiến cho người ta cảm thấy lưỡng lự không muốn nói về nỗi đau của mình , hoặc làm cho người ta nghĩ là hành vi đau buồn của họ là không đúng hay đau buồn lâu quá , hoặc thậm chí là không bình thường nữa .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>It can help to remember that the grieving process is very personal and individual - there 's no right or wrong way to grieve .</s>
+<s id='vn128'>Bạn cũng nên nhớ là nỗi buồn này là điều rất riêng tư – cách thể hiện sự đau buồn không đúng hay sai gì cả .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>We all take our own time to heal .</s>
+<s id='vn129'>Tất cả chúng ta đều phải cần thời gian để làm lành nỗi đau ấy .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>It 's important for grieving people to not drop out of life , though .</s>
+<s id='vn130'>Dẫu vậy thì người đau buồn cũng phải biết là không nên tách biệt khỏi cuộc sống của mình .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>If you do n't like the idea of moving on , maybe the idea of " keeping on " seems like a better fit .</s>
+<s id='vn131'>Nếu như bạn không thích cái ý tưởng tiếp tục vui sống thì có lẽ cái ý tưởng " cứ tiếp tục cố gắng " có vẻ như phù hợp hơn .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Sometimes it helps to remind yourself to just keep on doing the best you can for now .</s>
+<s id='vn132'>Đôi khi thì việc ấy cũng giúp bạn nhớ rằng trong thời gian này bạn phải cố gắng hết sức mình .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>If you feel sad , let yourself have your feelings and try not to run away from your emotions .</s>
+<s id='vn133'>Nếu cảm thấy buồn thì hãy để tâm trạng ấy cứ tự nhiên một cách thoải mái nhất và chớ nên chạy trốn cảm xúc của mình .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>But also keep on doing things you normally would such as being with friends , caring for your pet , working out , or doing your schoolwork .</s>
+<s id='vn134'>Đồng thời bạn cũng nên tiếp tục các hoạt động thường nhật khác như giao du với bạn bè , chăm sóc thú nuôi , tập thể dục , hoặc làm bài tập của mình .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>Going forward and healing from grief does n't mean forgetting about the person you lost .</s>
+<s id='vn135'>Việc hướng về tương lai phía trước và làm lành vết đau này không có nghĩa là quên đi người đã mất .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Getting back to enjoying your life does n't mean you no longer miss the person .</s>
+<s id='vn136'>Quay lại tận hưởng cuộc sống không có nghĩa là không nhớ người ấy nữa .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>And how long it takes until you start to feel better is n't a measure of how much you loved the person .</s>
+<s id='vn137'>Và phải mất thời gian bao lâu để cho bạn có thể bắt đầu cảm thấy nguôi ngoai không phải là một thước đo để đo tình yêu của bạn với người ấy .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>With time , the loving support of family and friends , and your own positive actions , you can find ways to cope with even the deepest loss .</s>
+<s id='vn138'>Với thời gian , với sự hỗ trợ yêu thương của gia đình và bè bạn và cả những hoạt động tích cực của bạn nữa , tất cả là động lực có thể giúp bạn tìm thấy giải pháp để đối diện với nỗi mất mát thậm chí là nặng nề nhất .</s>
+</spair>
+</text>
+</doc>

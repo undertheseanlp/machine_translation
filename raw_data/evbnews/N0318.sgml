@@ -1,0 +1,140 @@
+﻿<doc id='N0318'>
+<head>
+<title>2.6 Million Babies Stillborn Worldwide</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>2.6 Million Babies Stillborn Worldwide</s>
+<s id='vn1'>2,6 Triệu Trẻ Chết Non Trên Toàn Cầu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The World Health Organization estimates some 2.6 million stillbirths occurred worldwide in 2009 , the overwhelming majority in developing countries .</s>
+<s id='vn2'>Tổ chức y tế thế giới ước tính có khoảng 2,6 triệu trẻ chết non trên toàn cầu vào năm 2009 , đại đa số ở các nước đang phát triển .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This first comprehensive set of estimates appears as part of a series of articles on stillbirths published in the British medical journal , The Lancet .</s>
+<s id='vn3'>Bảng đánh giá toàn diện đầu tiên này là một phần trong một loạt các bài báo về trẻ chết non được đăng trên tập san y học của Anh , The Lancet .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Every day , the World Health Organization reports more than 7,200 babies are stillborn - ninety-eight percent of them occur in low and middle-income countries .</s>
+<s id='vn4'>Mỗi ngày , tổ chức y tế thế giới cho biết hơn 7.200 trẻ bị chết non - chín mươi tám phần trăm trong số đó ở các quốc gia có thu nhập thấp và trung bình .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But , WHO notes , high-income countries are not immune .</s>
+<s id='vn5'>Nhưng , WHO lưu ý là các quốc gia có thu nhập cao cũng không tránh khỏi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>WHO says this rate has changed little in the past decade .</s>
+<s id='vn6'>WHO nói rằng tỉ lệ này thay đổi không nhiều trong thập niên qua .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The lowest rates of stillbirth , two per 1,000 live births , are in Finland , followed by Singapore , Denmark and Norway .</s>
+<s id='vn7'>Tỉ lệ chết non thấp nhất là ở Phần Lan , trong 1.000 trẻ mới sinh có 2 trẻ chết , sau đó là Singapore , Đan Mạch và Na Uy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The highest rates , 47 per 1000 , are in Pakistan followed by Nigeria , Bangladesh , Djibouti and Senegal .</s>
+<s id='vn8'>Tỉ lệ cao nhất là ở Pa-ki-xtan , trong 1.000 trẻ mới sinh có 47 trẻ chết , sau đó là Ni-giê-ri-a , Băng-la-đét , Djibouti và Xê-nê-gan .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The data show about two-thirds or 1.8 million stillbirths occur in just 10 countries .</s>
+<s id='vn9'>Dữ liệu cho thấy khoảng hai phần ba hay 1,8 triệu trẻ chết non chỉ xảy ra ở 10 quốc gia .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The highest numbers are found in sub-Saharan Africa and in Southeast Asia .</s>
+<s id='vn10'>Số lượng nhiều nhất ở châu Phi phía nam Xa-ha-ra và ở Đông Nam Á .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The new estimates show the number of stillbirths worldwide has declined by just over one percent per year , from three million in 1995 to 2.6 million in 2009 .</s>
+<s id='vn11'>Những ước tính mới cho thấy số trẻ chết non trên toàn cầu giảm chỉ hơn một phần trăm mỗi năm , từ 3 triệu vào năm 1995 xuống 2,6 triệu vào năm 2009 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This is even slower than reductions for both maternal and child mortality in the same period .</s>
+<s id='vn12'>Tỉ lệ này thậm chí còn thấp hơn tỉ lệ giảm tử vong của mẹ lẫn con trong cùng thời kỳ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Catherine d'Arcangues of WHO 's Department of Reproductive Health and Research says the causes are many .</s>
+<s id='vn13'>Catherine d'Arcangues thuộc Cơ quan sức khoẻ sinh sản và nghiên cứu của WHO nói rằng có rất nhiều nguyên nhân .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" There are definitely causes during childbirth , such as obstructed labor .</s>
+<s id='vn14'>Chắc chắn có những nguyên nhân trong lúc sinh đẻ , chẳng hạn như thai lưu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There are causes due to infections in pregnancy , " she said .</s>
+<s id='vn15'>Có những nguyên nhân do nhiễm bệnh trong lúc mang thai , " cô ấy nói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>For example , it is quite a shame to think there are two million cases of congenital syphilis a year , a disease , which really should be eradicated …</s>
+<s id='vn16'>Chẳng hạn như , thật đáng hổ thẹn khi nghĩ đến việc có hai triệu trường hợp bị giang mai bẩm sinh trong một năm , một căn bệnh mà lẽ ra nên bị diệt trừ tận gốc … .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Other infections such as malaria , HIV also induce stillbirth .</s>
+<s id='vn17'>Các trường hợp nhiễm bệnh khác như là sốt rét , HIV cũng làm cho trẻ bị chết non .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>We also know that with advancing age , mothers tend to experience most stillbirth and also with their first child . "</s>
+<s id='vn18'>Chúng tôi cũng biết rằng càng lớn tuổi thì các bà mẹ càng dễ sinh ra trẻ bị chết non và đặc biệt là trường hợp sinh con đầu lòng . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>D'Arcangues notes almost half of all stillbirths happen when the woman is in labor .</s>
+<s id='vn19'>D'Arcangues ghi nhận là gần một nửa trong tổng số trẻ chết non xảy ra khi phụ nữ đang đau đẻ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>She says these 1.2 million deaths are directly related to the lack of skilled care at this critical time .</s>
+<s id='vn20'>Cô ấy nói rằng 1,2 triệu ca tử vong này có liên quan trực tiếp tới việc thiếu kỹ năng chăm sóc trong thời kỳ quyết định này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Department Director of the Norwegian Institute of Public Health , Frederik Froen , says many stillbirths go unrecorded , so they are not seen as a major public health problem .</s>
+<s id='vn21'>Frederik Froen , Giám đốc bộ phận của Viện y tế Na Uy , nói rằng nhiều trường hợp chết non không được ghi nhận , vì vậy các trường hợp này không được xem là vấn đề đau đầu của ngành y tế .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He says the vast majority of these stillbirths are not given a name .</s>
+<s id='vn22'>Ông nói rằng đại đa số trường hợp chết non này không được đặt tên .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>They are not held or dressed by the mother .</s>
+<s id='vn23'>Trẻ chết non không được mẹ ẵm hoặc mặc quần áo .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>They do not have a funeral .</s>
+<s id='vn24'>Chúng không được tổ chức tang lễ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>He says they are disposed of in the simplest possible way .</s>
+<s id='vn25'>Ông nói rằng chúng được vứt bỏ bằng cách đơn giản nhất có thể .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" That invisibility at the personal level is also seen for the mothers , " he said .</s>
+<s id='vn26'>" Tính vô hình ở mức độ cá nhân cũng là được nhìn thấy đối với các bà mẹ , " ông nói .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" A large proportion of them are marginalized and there is significant stigma associated to having a stillbirth .</s>
+<s id='vn27'>" Phần lớn họ đều không được quan tâm đến và có dấu hiệu bệnh lý quan trọng liên quan đến việc sinh ra trẻ chết non .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>One out of four stillbirths around the globe are thought to be - thought by community to be caused by the mother 's own sins by witchcraft and evil spirits .</s>
+<s id='vn28'>Cứ bốn trẻ chết non trên toàn cầu thì có một trẻ được cộng đồng cho là do lỗi của chính người mẹ đã nhờ đến yêu thuật và ma quỷ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>And , in sub-Saharan Africa , evil spirits and maternal sins are equally seen as causes as medical causes are . "</s>
+<s id='vn29'>Và ở châu Phi phía nam Xa-ha-ra , ma quỷ và tội của các bà mẹ cũng được xem như là những nguyên nhân về y học . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The World Health Organization says there are a number of well-known interventions that , if universally applied , could avert more than one million stillbirths .</s>
+<s id='vn30'>Tổ chức y tế thế giới nói rằng có một số biện pháp can thiệp được nhiều người biết đến , nếu được áp dụng rộng rãi , có thể ngăn chận hơn một triệu trẻ chết non .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>These include comprehensive emergency obstetric care , detection and treatment of syphilis , malaria prevention , detection and management of fetal growth restriction , of hypertension and diabetes during pregnancy .</s>
+<s id='vn31'>Các biện pháp này bao gồm chăm sóc sản khoa khẩn cấp toàn diện , phát hiện và điều trị giang mai , ngăn ngừa sốt rét , phát hiện và điều trị sự hạn chế phát triển của bào thai , phát hiện và điều trị chứng cao huyết áp và tiểu đường trong thời kỳ mang thai .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>WHO says strengthening family planning services also would save lives by reducing the numbers of unintended pregnancies .</s>
+<s id='vn32'>WHO nói rằng việc tăng cường các dịch vụ kế hoạch hoá gia đình cũng sẽ cứu sống được nhiều sinh mạng bằng cách giảm số lượng trường hợp mang thai ngoài ý muốn .</s>
+</spair>
+</text>
+</doc>

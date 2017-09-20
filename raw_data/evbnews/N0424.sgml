@@ -1,0 +1,380 @@
+﻿<doc id='N0424'>
+<head>
+<title>General Advertising Principles</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>General Advertising Principles</s>
+<s id='vn1'>Những nguyên tắc quảng cáo chung</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Ads primarily create product awareness , sometimes product knowledge , less often product preference , and more rarely , product purchase .</s>
+<s id='vn2'>Quảng cáo chủ yếu tạo ra sự chú ý đến sản phẩm , thỉnh thoảng giúp hiểu biết về sản phẩm , ít khi làm nên sự ưa thích đối với sản phẩm , và càng hiếm khi mua sản phẩm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>That 's why advertising cannot do the job alone .</s>
+<s id='vn3'>Đó là lý do tại sao quảng cáo không thể độc lập tác chiến được .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>promotion may be needed to trigger purchase .</s>
+<s id='vn4'>Khuyến mãi cần thiết để khởi phát cho việc mua hàng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A salesperson might be needed to elaborate on the benefits and close the sale .</s>
+<s id='vn5'>Người bán hàng cần có để giới thiệu chi tiết về những quyền lợi và để dứt điểm việc bán hàng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>What 's worse , many ads are not particularly creative .</s>
+<s id='vn6'>Tệ hơn , nhiều quảng cáo không có sáng tạo gì đặc biệt .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Most are not memorable .</s>
+<s id='vn7'>Hầu hết không có gì đáng nhớ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Take auto ads .</s>
+<s id='vn8'>Chẳng hạn những quảng cáo xe hơi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The typical one shows a new car racing 100 miles an hour around mountain bends .</s>
+<s id='vn9'>Một quảng cáo điển hình hiện ra một chiếc xe hơi phóng 100 dặm 1 giờ quanh những khúc cua trên núi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But we don't have mountains in Chicago .</s>
+<s id='vn10'>Nhưng ở Chicago không có núi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>And 60 miles an hour is the speed limit .</s>
+<s id='vn11'>Và 60 dặm 1 giờ là tốc độ tối đa cho phép .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>furthermore I can't remember which car the ad featured .</s>
+<s id='vn12'>Hơn nữa , tôi chẳng thể nhớ nổi cái chiếc xe nào mà quảng cáo ấy đã đề cập đến .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Conclusion : Most ads are a waste of the companies ' money and my time .</s>
+<s id='vn13'>Kết luận : Đa số các quảng cáo là một sự lãng phí tiền bạc của các công ty và thời gian của tôi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Most ad agencies blame the lack of creativity on the client .</s>
+<s id='vn14'>Hầu hết các công ty quảng cáo đổ thừa việc thiếu tính sáng tạo cho khách hàng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Clients wisely ask their agencies to come up with three ads , from mild to wild .</s>
+<s id='vn15'>Khách hàng yêu cầu một cách sáng suốt công ty quảng cáo của mình tạo ra 3 mẫu quảng cáo , từ nhẹ nhàng đến mạnh mẽ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>But then the client typically settles for the mild and safe one .</s>
+<s id='vn16'>Nhưng rồi khách hàng thường chọn cái nhẹ nhàng và an toàn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Thus the client plays a role in killing good advertising .</s>
+<s id='vn17'>Do đó khách hàng đóng vai trò trong việc huỷ hoại quảng cáo tốt .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Companies should ask this question before using advertising :</s>
+<s id='vn18'>Các công ty nên đặt câu hỏi này trước khi sử dụng quảng cáo :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Would advertising create more satisfied clients than if our company spent the same money on making a better product , improving company service , or creating stronger brand experiences ?</s>
+<s id='vn19'>Liệu quảng cáo có tạo ra nhiều khách hàng được thoả mãn hơn không nếu công ty chúng ta chi cùng một số tiền vào việc làm cho một sản phẩm tốt hơn , cải thiện dịch vụ của công ty , hay là tạo ra những trải nghiệm về thương hiệu mạnh mẽ hơn ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>I wish that companies would spend more money and time on designing an exceptional product , and less on trying to psychologically manipulate perceptions through expensive advertising campaigns .</s>
+<s id='vn20'>Tôi hy vọng các công ty sẽ chi nhiều thời gian và tiền bạc vào việc thiết kế sản phẩm đặc biệt , và chi ít hơn vào việc cố gắng lôi kéo về mặt tâm lý những cảm nhận thông qua những chiến dịch quảng cáo tốn kém .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The better the product , the less that has to be spent advertising it .</s>
+<s id='vn21'>Sản phẩm càng tốt hơn , càng ít phải bỏ tiền ra để quảng cáo nó .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The best advertising is done by your satisfied customers .</s>
+<s id='vn22'>Quảng cáo tốt nhất chính là do những khách hàng đã hài lòng thực hiện .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The stronger your customer loyalty , the less you have to spend on advertising .</s>
+<s id='vn23'>Sự trung thành của khách hàng càng bền vững bao nhiêu , bạn càng ít phải tiêu tốn cho quảng cáo .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>First , most of your customers will come back without you doing any advertising .</s>
+<s id='vn24'>Thứ nhất , đa phần các khách hàng của bạn sẽ quay lại mà bạn không phải quảng cáo gì cả .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Second , most customers , because of their high satisfaction , are doing the advertising for you .</s>
+<s id='vn25'>Thứ hai , hầu hết khách hàng , vì sự hài lòng của họ cao , đang quảng cáo giúp bạn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In addition , advertising often attracts deal-prone customers who will flit in and out in search of a bargain .</s>
+<s id='vn26'>Ngoài ra , quảng cáo thường thu hút những khách hàng thích giá rẻ và dễ thay đổi , họ sẽ đến và đi rất nhanh chỉ để tìm kiếm một món hời nào đó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The advertising agency 's mantra is : " Early to bed , early to rise , work like hell , advertise . "</s>
+<s id='vn27'>Danh ngôn của công ty quảng cáo là : " ngủ sớm , dậy sớm , làm hết sức mình , quảng cáo . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But I still advise : Make good advertising , not bad advertising .</s>
+<s id='vn28'>Nhưng tôi vẫn nhắn nhủ thêm : Làm quảng cáo tốt , đừng làm quảng cáo tồi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>How should you develop your advertising ?</s>
+<s id='vn29'>Bạn cần phát triển quảng cáo của mình như thế nào ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>You have to make decisions on the five Ms of advertising : mission , message , media , money , and measurement .</s>
+<s id='vn30'>Bạn phải ra các quyết định dựa trên 5 chữ M trong quảng cáo : sứ mệnh , thông điệp , truyền thông , tiền bạc , và đánh giá .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The ad 's mission can be one of four : to</s>
+<s id='vn31'>Sứ mệnh của quảng cáo có thể là một trong bốn nhiệm vụ : để</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Inform</s>
+<s id='vn32'>Thông tin</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Persuade</s>
+<s id='vn33'>Thuyết phục</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Remind</s>
+<s id='vn34'>Nhắc nhở</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Reinforce a purchase decision</s>
+<s id='vn35'>Củng cố quyết định mua</s>
+</spair>
+<spair id='36'>
+<s id='en36'>With a new product , you want to inform and persuade .</s>
+<s id='vn36'>Đối với một sản phẩm mới , bạn cần thông tin và thuyết phục .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>With an old product , like Coca-Cola , you want to remind .</s>
+<s id='vn37'>Với sản phẩm cũ , chẳng hạn như Coca–Cola , bạn phải nhắc nhở .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>With some products just bought , you want to reassure the purchaser and reinforce their decision .</s>
+<s id='vn38'>Trường hợp những sản phẩm vừa mới được mua , bạn nên làm yên lòng người mua và củng cố quyết định của họ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>With a new product , you want to inform and persuade .</s>
+<s id='vn39'>Đối với một sản phẩm mới , bạn cần thông tin và thuyết phục .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>With an old product , like Coca-Cola , you want to remind .</s>
+<s id='vn40'>Với sản phẩm cũ , chẳng hạn như Coca–Cola , bạn phải nhắc nhở .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>With some products just bought , you want to reassure the purchaser and reinforce their decision .</s>
+<s id='vn41'>Trường hợp những sản phẩm vừa mới được mua , bạn nên làm yên lòng người mua và củng cố quyết định của họ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>1 . What is the main message you get from this ad ?</s>
+<s id='vn42'>1 . Thông điệp chính bạn nhận được từ quảng cáo này là gì ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>2 . What do you think the advertiser wants you to know , believe or do ?</s>
+<s id='vn43'>2 . Theo bạn , nhà quảng cáo muốn bạn biết , tin hay làm gì ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>3 . How likely is it that this ad will influence you to undertake the implied action ?</s>
+<s id='vn44'>3 . Liệu quảng cáo này có thể tác động khiến bạn thực hiện một hành động đã được gợi ý ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>4 . What works well in the ad and what works poorly ?</s>
+<s id='vn45'>4 . Trong quảng cáo này , cái gì diễn ra hợp lý , cái gì được thể hiện một cách kém cỏi ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>5 . How does this ad make you feel ?</s>
+<s id='vn46'>5 . Quảng cáo này làm cho bạn cảm thấy như thế nào ?</s>
+</spair>
+<spair id='47'>
+<s id='en47'>6 . Where is the best place to reach you with this message - where would you be most likely to notice it and pay attention to it ?</s>
+<s id='vn47'>6 . Với thông điệp này , chỗ dễ dàng nhất đến được với bạn là ở đâu – bạn có thể để ý và quan tâm đến nó nhất ở điểm nào ?</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The media must be chosen for their ability to reach the target market cost-effectively .</s>
+<s id='vn48'>Truyền thông phải được lựa chọn theo khả năng của chúng để đạt đến thị trường mục tiêu một cách hiệu quả .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Besides the classic media of newspapers , magazines , radio , television , and billboards , there is a flurry of new media , including e-mail , faxes , telemarketers , digital magazines , in-store advertising , and advertising now popping up in skyscraper elevators and bathrooms .</s>
+<s id='vn49'>Ngoài những phương tiện truyền thông lâu nay như báo , tạp chí , đài phát thanh , truyền hình , và các biển quảng cáo , còn có một loạt những phương tiện truyền thông mới , gồm có thư điện tử , fax , công cụ tiếp thị qua điện thoại , tạp chí số , quảng cáo tại cửa hàng , và quảng cáo đang phổ biến trong các thang máy và nhà vệ sinh của những cao ốc chọc trời .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Media selection is becoming a major challenge .</s>
+<s id='vn50'>Sự lựa chọn phương tiện truyền thông trở thành một thử thách lớn .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>A company works with the media department of the ad agency to define how much reach , frequency , and impact the ad campaign should achieve .</s>
+<s id='vn51'>Một công ty làm việc với bộ phận truyền thông của công ty quảng cáo để xác định phạm vi , tần số , và tác động mà chiến dịch quảng cáo cần đạt được là bao nhiêu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Suppose you want your advertising campaign to deliver at least one exposure to 60 percent of the target market consisting of 1,000,000 people .</s>
+<s id='vn52'>Giả sử bạn muốn chiến dịch quảng cáo của mình cung cấp ít nhất 01 lần tiếp cận cho 60% của thị trường mục tiêu có 1000000 người .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>This is 600,000 exposures .</s>
+<s id='vn53'>Đây là 600000 lần tiếp cận .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>But you want the average person to see your ad three times during the campaign .</s>
+<s id='vn54'>Nhưng bạn muốn người bình thường nhìn thấy quảng cáo của mình 3 lần khi chiến dịch diễn ra .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>That is 1,800,000 exposures .</s>
+<s id='vn55'>Tương đương 1800000 lần tiếp cận .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>But it might take six exposures for the average person to notice your ad three times .</s>
+<s id='vn56'>Nhưng người bình thường có thể phải mất 6 lần tiếp cận chú ý đến quảng cáo của bạn 3 lần .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Thus you need 3,600,000 exposures .</s>
+<s id='vn57'>Vì vậy bạn phải cần 3600000 lần tiếp cận quảng cáo .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>And suppose you want to use a high-impact media vehicle costing $ 20 per 1,000 exposures .</s>
+<s id='vn58'>Và giả định rằng bạn phải dùng phương tiện truyền thông có tác động lớn tiêu tốn khoảng 20 đô la cho 1000 lần tiếp cận . .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Then the campaign should cost $ 72,000 ( $ 20 × 3,600,000_1,000 ) .</s>
+<s id='vn59'>Sau đó chiến dịch sẽ mất 72000 đô la ( 20 đô la × 3600000 1000 ) .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Notice that your company could use the same budget to reach more people with less frequency or to reach more people with lower-impact media vehicles .</s>
+<s id='vn60'>Lưu ý , công ty của bạn có thể sử dụng cũng số tiền đó để tiếp cận được nhiều người hơn với số lần lặp lại ít hơn hoặc tiếp cận nhiều người hơn với những phương tiện truyền thông có tác động nhỏ hơn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>There are trade-offs among reach , frequency and impact .</s>
+<s id='vn61'>Có những sự lựa chọn mang tính đánh đổi giữa một trong các yếu tố : phạm vi , tần số và tác động .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Next is money .</s>
+<s id='vn62'>Tiếp theo là yếu tố tiền bạc .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The ad budget is arrived at by pricing the reach , frequency , and impact decisions .</s>
+<s id='vn63'>Ngân sách quảng cáo đạt được bằng việc định giá các quyết định về phạm vi , tần số , và tác động .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>This budget must take into that the company has to pay for ad production and other costs .</s>
+<s id='vn64'>Ngân sách này phải tính đến việc công ty phải trả tiền sản xuất quảng cáo và những chi phí khác .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>A welcome trend would be that advertisers pay advertising agencies on a pay-for-performance basis .</s>
+<s id='vn65'>Một xu hướng được hoan nghênh là những người cần đăng quảng cáo trả tiền cho công ty quảng cáo trên cơ sở thanh toán theo kết quả đạt được .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>This would be reasonable because the agencies claim that their creative ad campaigns will increase the companies " sales .</s>
+<s id='vn66'>Điều này là hợp lý vì các đơn vị khẳng định những chiến dịch quảng cáo sáng tạo của họ sẽ làm tăng doanh số của công ty .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>So pay the agency an 18 percent commission if sales increase , a normal 15 percent commission if sales remain the same , and a 13 percent commission with a warning if sales have fallen .</s>
+<s id='vn67'>Vậy hãy trả một khoản hoa hồng 18% nếu doanh số tăng , khoản hoa hồng 15% bình thường nếu doanh số không đổi , và khoản hoa hồng 13% kèm theo lời cảnh báo nếu doanh số bị sụt giảm .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Ofcourse , the agency will say that other forces caused the drop in sales and even that the drop would have been deeper had it not been for the ad campaign .</s>
+<s id='vn68'>Dĩ nhiên , công ty quảng cáo sẽ nói có những tác động khác gây ra giảm sút doanh số và thậm chí sự sụt giảm còn trầm trọng hơn nếu không có chiến dịch quảng cáo .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Now for measurement .</s>
+<s id='vn69'>Tới đây sẽ nói về đánh giá .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Ad campaigns require premeasurement and postmeasurement .</s>
+<s id='vn70'>Các chiến dịch quảng cáo đòi hỏi việc đánh giá trước và sau sự kiện .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Ad mock-ups can be tested for communication effectiveness using recall , recognition , or persuasion measures .</s>
+<s id='vn71'>Những mẫu thử quảng cáo cần được kiểm tra tính hiệu quả về mặt truyền thông bằng cách sử dụng các biện pháp gợi nhớ , nhận ra , hoặc thuyết phục .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Postmeasurements strive to calculate the communication or sales impact of the ad campaign .</s>
+<s id='vn72'>Những lần đánh giá sau cố gắng tính được tác động đến truyền thông hoặc doanh số của chiến dịch quảng cáo .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>This is difficult to do , though , particularly with image ads .</s>
+<s id='vn73'>Mặc dù điều này khó thực hiện , đặc biệt là với những quảng cáo bằng hình ảnh .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>For example , how can Coca-Cola measure the impact of a picture of a Coke bottle on the back page of a magazine on which the company spent $ 70,000 to influence purchases ?</s>
+<s id='vn74'>Ví dụ , làm thế nào Coca-Cola có thể đánh giá tác động của một tấm hình chai Cô-ca ở trang sau tờ tạp chí mà công ty đã bỏ ra 70000 đô la để gây ảnh hưởng đến các quyết định mua hàng ?</s>
+</spair>
+<spair id='75'>
+<s id='en75'>At 70 cents a bottle and 10 cents of profit per bottle .</s>
+<s id='vn75'>Với 70 xu một chai và 10 xu lợi nhuận mỗi chai</s>
+</spair>
+<spair id='76'>
+<s id='en76'>I just don't believe that ad will sell 700,000 extra bottles of Coke .</s>
+<s id='vn76'>Tôi nghi ngờ khả năng quảng cáo đó sẽ bán được thêm 700000 chai Cô-ca .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Companies must try , ofcourse , to measure results of each ad medium and vehicle .</s>
+<s id='vn77'>Dĩ nhiên các công ty phải cố gắng đánh giá các kết quả của mỗi phương tiện truyền thông quảng cáo .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>If online promotions are drawing in more prospects than TV ads , adapt your budget in favor of the former .</s>
+<s id='vn78'>Nếu những hình thức quảng cáo trực tuyến đang đưa ra nhiều triển vọng hơn quảng cáo trên truyền hình , hãy thay đổi ngân sách của bạn theo hướng thiên về quảng cáo trực tuyến .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Don't maintain a fixed allocation of your advertising budget .</s>
+<s id='vn79'>Đừng duy trì khoản phân bổ cố định ngân sách quảng cáo của bạn .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Move ad money into the media that are producing the best response .</s>
+<s id='vn80'>Chuyển tiền quảng cáo sang những phương tiện truyền thông đang tạo ra nhiều hưởng ứng nhất .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>One thing is certain : Advertising dollars are wasted when spent to advertise inferior or indistinct products .</s>
+<s id='vn81'>Một điều chắc chắn : những đồng tiền quảng cáo bị lãng phí khi dùng để quảng cáo những sản phẩm mơ hồ hoặc kém chất lượng .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Pepsi-Cola spent $ 100 million to launch Pepsi One , and it failed .</s>
+<s id='vn82'>Pepsi-Cola bỏ ra 100 triệu đô la để giới thiệu Pepsi One , và đã thất bại .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>In fact , the quickest way to kill a poor product is to advertise it .</s>
+<s id='vn83'>Trên thực tế , cách nhanh nhất để huỷ đi một sản phẩm kém chất lượng là hãy quảng cáo nó .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>More people will try the product sooner and tell others faster how bad or irrelevant it is .</s>
+<s id='vn84'>Càng nhiều người đến dùng thử sản phẩm sớm hơn thì càng có nhiều người truyền tai nhau sản phẩm ấy tồi tệ hay không đáng mua nhanh hơn .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>How much should you spend on advertising ?</s>
+<s id='vn85'>Bạn nên dành bao nhiêu tiền cho quảng cáo ?</s>
+</spair>
+<spair id='86'>
+<s id='en86'>If you spend too little , you are spending too much because no one notices it .</s>
+<s id='vn86'>Nếu bạn chi quá ít , bạn chi quá nhiều vì không ai chú ý đến nó .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>A million dollars of TV advertising will hardly be noticed .</s>
+<s id='vn87'>Một triệu đô la quảng cáo trên truyền hình sẽ khó được người ta để ý .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>And if you spend too many millions , your profits will suffer .</s>
+<s id='vn88'>Và nếu bạn bỏ ra rất nhiều triệu , lợi nhuận của bạn bị ảnh hưởng .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Most ad agencies push for a " bigbang " budget and while this may be noticed , it hardly moves sales .</s>
+<s id='vn89'>Hầu hết các công ty quảng cáo đòi hỏi một khoản ngân sách " khổng lồ " trong khi điều này có thể được nhận thấy , nó hầu như không làm thay đổi doanh số .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>A major limitation of advertising is that it constitutes a monologue .</s>
+<s id='vn90'>Hạn chế chủ yếu quảng cáo là nó tạo thành lời nói của một bên .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>As evidence , most ads do not contain a telephone number or e-mail address to enable the customer to respond .</s>
+<s id='vn91'>Như đã dẫn chứng , đa số các quảng cáo không kèm theo số điện thoại hoặc địa chỉ e-mail để giúp khách hàng phản hồi .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>What a lost opportunity for the company to learn something from a customer !</s>
+<s id='vn92'>Công ty đã mất một cơ hội nhận được thông tin nào đó từ phía khách hàng !</s>
+</spair>
+</text>
+</doc>

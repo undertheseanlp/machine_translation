@@ -1,0 +1,164 @@
+﻿<doc id='N0642'>
+<head>
+<title>Love , Wealth and Success</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Love , Wealth and Success</s>
+<s id='vn1'>Tình yêu , sự Giàu sang và Thành công</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A woman came out of her house and saw 3 old men with long white beards sitting in her front yard .</s>
+<s id='vn2'>Một người phụ nữ ra khỏi nhà và nhìn thấy ba người đàn ông râu dài bạc trắng đang ngồi ở sân trước .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She did not recognize them .</s>
+<s id='vn3'>Bà không hề nhận ra họ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>She said " I do n't think I know you , but you must be hungry .</s>
+<s id='vn4'>Bà vẫn ôn tồn : " Tôi không biết các ông nhưng chắc là các ông đang rất đói ,</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Please come in and have something to eat . "</s>
+<s id='vn5'>Xin mời các ông vào nhà ăn một chút gì đó " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Is the man of the house home ? " , they asked .</s>
+<s id='vn6'>" Ông chủ có ở nhà không ? " - họ hỏi</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" No " , she replied , " He 's out ! "</s>
+<s id='vn7'>" Không , ông ấy đi vắng rồi " - bà trả lời .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" Then we cannot come in " .</s>
+<s id='vn8'>" Thế thì chúng tôi không thể vào được . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In the evening when her husband came home , she told him what had happened .</s>
+<s id='vn9'>Buổi chiều , khi chồng trở về , bà kể lại câu chuyện cho chồng nghe .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Go tell them I am home and invite them in ! "</s>
+<s id='vn10'>" Bà hãy đi mời họ vào nhà ! "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The woman went out and invited the men in</s>
+<s id='vn11'>Bà vội bước ra mời cả ba người vào</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" We do not go into a house together , " they replied .</s>
+<s id='vn12'>" Ba chúng tôi không thể vào nhà bà cùng một lúc được " , họ trả lời .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>One of the old men explained : " His name is Wealth , He is Success , and I am Love . "</s>
+<s id='vn13'>Một ông già giải thích : " Tên tôi là Tình Yêu , Tên ông này là Giàu Sang , còn ông kia là Thành Công .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Now go in and discuss with your husband which one of us you want in your home . "</s>
+<s id='vn14'>" Bây giờ vào nhà và thảo luận với chồng bà xem ai trong chúng tôi sẽ là người được mời vào nhà " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The woman went in and told her husband what was said .</s>
+<s id='vn15'>Người phụ nữ đi vào và kể lại cho chồng toàn bộ những gì đã nói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Her husband was overjoyed .</s>
+<s id='vn16'>Người chồng vui mừng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" How nice ! " , he said .</s>
+<s id='vn17'>" Tuyệt thật " - ông nói .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Let us invite Wealth .</s>
+<s id='vn18'>" Chúng ta hãy mời ngài Giàu Sang .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Let him come and fill our home with wealth ! "</s>
+<s id='vn19'>Hãy để Ngài vào và sẽ ban cho nhà chúng ta thật nhiều của cải " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>His wife disagreed .</s>
+<s id='vn20'>Nhưng người vợ không đồng ý .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Why do n't we invite Success ? "</s>
+<s id='vn21'>" Tại sao chúng ta lại không mời ngài Thành Công nhỉ ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Their daughter was listening from the other corner of the house .</s>
+<s id='vn22'>Cô con gái của họ yên lặng đứng nghe trong góc phòng :</s>
+</spair>
+<spair id='23'>
+<s id='en23'>She jumped in with her own suggestion : " Would it not be better to invite Love ?</s>
+<s id='vn23'>Cô bỗng lên tiếng đề nghị " Chúng ta nên mời ngài Tình Yêu thì tốt hơn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Our home will then be filled with love ! "</s>
+<s id='vn24'>Nhà mình sẽ tràn ngập tình thương " .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" Let us heed our daughter 's advice , " said the husband to his wife .</s>
+<s id='vn25'>" Có lẽ chúng ta nên nghe lời khuyên của con gái - người chồng suy nghĩ rồi nói với vợ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Go out and invite Love to be our guest . "</s>
+<s id='vn26'>- " Bà hãy ra ngoài và mời ngài Tình Yêu , đây chính là người khách của chúng ta " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The woman went out and asked ,</s>
+<s id='vn27'>Người phụ nữ ra ngoài và hỏi :</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Which one of you is Love ?</s>
+<s id='vn28'>" Ai trong ba vị là Tình Yêu ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Please come in and be our guest . "</s>
+<s id='vn29'>Xin mời vào và trở thành khách của chúng tôi " .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Love got up and started walking toward the house .</s>
+<s id='vn30'>Thần Tình Yêu đứng dậy và đi vào ngôi nhà .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The other 2 also got up and followed him .</s>
+<s id='vn31'>Hai vị thần còn lại cũng đứng dậy và đi theo thần Tình Yêu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Surprised , the lady asked Wealth and Success :</s>
+<s id='vn32'>Vô cùng ngạc nhiên , người phụ nữ hỏi :</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" I only invited Love .</s>
+<s id='vn33'>" Tôi chỉ mời ngài Tình Yêu .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Why are you coming in ? "</s>
+<s id='vn34'>Tại sao các ông cũng vào ? "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The old men replied together :</s>
+<s id='vn35'>Hai người cùng nhau trả lời :</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" If you had invited Wealth or Success , the other two of us would 've stayed out ,</s>
+<s id='vn36'>" Nếu bà mời Giàu sang hoặc Thành công thì hai người còn lại sẽ ở ngoài .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>But since you invited Love , wherever He goes , we go with him .</s>
+<s id='vn37'>Nhưng vì bà mời Tình Yêu nên cả ba chúng tôi sẽ cùng vào .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Wherever there is Love , there is also Wealth and Success ! "</s>
+<s id='vn38'>Bởi ở đâu có Tình Yêu thì ở đó sẽ có Thành công và Giàu sang " .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,84 @@
+﻿<doc id='N0334'>
+<head>
+<title>Xerox Scientists Create Computer Language to Describe Color .</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Xerox Scientists Create Computer Language to Describe Color .</s>
+<s id='vn1'>Các nhà khoa học Xerox tạo ra ngôn ngữ máy tính mô tả màu sắc .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Scientists at Xerox said they have created a computer language that allows users to more precisely define color tones .</s>
+<s id='vn2'>Các nhà khoa học tại Xerox cho biết họ đã tạo ra một ngôn ngữ máy tính cho phép người dùng xác định chính xác hơn về tông màu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Document management and technology giant Xerox Corporation announced a computer language that allows translates detailed human descriptions of color - such as " brilliant yellow " - into mathematical algorithms that tell a computer how to edit that specific hue .</s>
+<s id='vn3'>Tập đoàn công nghệ và quản lý tài liệu khổng lồ Xerox vừa công bố một ngôn ngữ máy tính cho phép dịch các mô tả chi tiết về màu sắc của con người - chẳng hạn như " màu vàng rực rỡ " - vào trong các thuật toán toán học báo cho máy tính cách chỉnh sửa màu sắc cụ thể .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>To develop the Natural Language Color technology , Xerox color scientists used special measurement instruments called colorimeters to associate numbers with specific attributes of light or dark , color name and vividness .</s>
+<s id='vn4'>Để phát triển công nghệ Màu sắc Tự nhiên trong Ngôn ngữ , các nhà khoa học chuyên về màu sắc của Xerox đã sử dụng các dụng cụ đo lường đặc biệt gọi là thiết bị đo màu để kết hợp các con số với các thuộc tính cụ thể của màu sáng hoặc tối , tên màu và sắc độ màu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Xerox said unlike current color printers and applications that use wheel or slide color editors offering limited changes to brightness or contrast across the entire image , Xerox 's technology can alter the color in specific areas of the image without affecting the rest of the document .</s>
+<s id='vn5'>Theo hãng Xerox thì nó khác với các máy in và các ứng dụng hiện nay có sử dụng các bảng màu cung cấp những sự thay đổi có giới hạn về độ sáng hoặc độ tương phản trên toàn bộ hình ảnh , công nghệ của Xerox có thể thay đổi màu sắc trong các vùng hình ảnh riêng biệt mà không ảnh hưởng đến phần còn lại của tài liệu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The proper instructions are sent to the printer and the resulting image is printed .</s>
+<s id='vn6'>Các lệnh phù hợp được gửi đến máy in và kết quả là hình ảnh được in ra .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The company also announced plans to expand Natural Language Color technology to more printers , multifunction systems , and other Xerox workflows in the future .</s>
+<s id='vn7'>Hãng cũng đã công bố kế hoạch mở rộng công nghệ Natural Language Color cho nhiều máy in hơn , hệ thống đa năng , và các công việc khác của Xerox trong tương lai .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" You should n't have to be a color scientist to get the right color where you want it , " said Karen Braun , herself a color scientist at the Xerox Research Center Webster in New York .</s>
+<s id='vn8'>Theo Karen Braun , một nhà khoa học về màu sắc ở Trung tâm Nghiên cứu Xerox Webster ở New York " Bạn sẽ không phải là một nhà khoa học về màu sắc chỉ để có được đúng màu sắc ở một vị trí mà mình muốn " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" We created a tool that is as natural and as easy to use as simply describing what you want to change .</s>
+<s id='vn9'>" Chúng tôi đã tạo ra một công cụ giống như tự nhiên và dễ dàng sử dụng bằng việc mô tả đơn giản những gì bạn muốn thay đổi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The tool allows customers to meet ever-tighter deadlines by bringing color printing tasks in-house , right to the desktop . "</s>
+<s id='vn10'>Công cụ này cho phép khách hàng theo kịp thời hạn gấp rút bằng cách đưa các tác vụ in màu về nhà , ngay trên máy tính để bàn . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Braun 's team of color scientists , engineers , and work-practice specialists studied focus groups to learn how people describe and distinguish between different colors as well as different shades .</s>
+<s id='vn11'>Đội ngũ các nhà khoa học về màu sắc của Braun bao gồm các kỹ sư và các chuyên gia nghiên cứu thực tiễn công việc rất cẩn thận tập trung các nhóm để tìm hiểu cách con người miêu tả và phân biệt giữa các màu sắc khác nhau cũng như những sắc thái khác nhau .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The team found people were surprisingly consistent with each other in their use of color language .</s>
+<s id='vn12'>Nhóm nghiên cứu nhận thấy con người thống nhất với nhau một cách đáng ngạc nhiên trong việc sử dụng ngôn ngữ màu sắc của họ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Xerox performed thousands of experimental observations to ensure that the phrasing accurately adjusts the colors , " she said .</s>
+<s id='vn13'>" Xerox thực hiện hàng ngàn các quan sát thực nghiệm để đảm bảo rằng cách diễn đạt chính xác điều chỉnh các màu sắc " , cô nói .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" With more than 65 words in its vocabulary , the software can create over 50,000 possible color variations of the user 's picture . "</s>
+<s id='vn14'>" Với hơn 65 từ trong từ vựng của nó , phần mềm có thể tạo ra hơn 50.000 biến thể màu sắc hình ảnh của người dùng . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Xerox has provided a video of Braun demonstrating how to change colors in an image using Natural Language Color , as well as an online demo the technology translates detailed human descriptions of color into the mathematical algorithms that computers and printers understand .</s>
+<s id='vn15'>Xerox đã cung cấp một đoạn video của Braun chứng minh cách thay đổi các màu sắc trong một hình ảnh bằng cách sử dụng công nghệ Natural Language Color , cũng như đoạn chương trình mẫu trực tuyến của công nghệ biên dịch các mô tả về màu sắc chi tiết của con người thành các thuật toán toán học để các máy tính và máy in có thể hiểu được .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Some phrases include simple commands such as " Make the blues a lot more vibrant " or " Make the skin-tone colors slightly more warm , " to adjust color in specific areas of an image .</s>
+<s id='vn16'>Vài cụm từ bao gồm các lệnh đơn giản như " Làm cho màu xanh thêm rực rỡ hơn " hoặc " Làm cho các màu sắc của tông màu da đậm hơn một chút " để điều chỉnh màu sắc theo các vùng ảnh riêng biệt .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In the demo , users can change color in specific areas of a photograph without needing to use editing software .</s>
+<s id='vn17'>Trong đoạn chương trình mẫu người dùng có thể thay đổi màu sắc theo các vùng ảnh riêng biệt mà không cần sử dụng phần mềm chỉnh sửa ảnh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>While the company notes scientists at Xerox are still researching the software , a version of the technology now is available as the Color By Words feature of the recently announced Xerox Phaser 7500 color printer .</s>
+<s id='vn18'>Mặc dù hãng lưu ý rằng các nhà khoa học ở Xerox vẫn đang nghiên cứu phần mềm , nhưng hiện tại phiên bản của công nghệ này vẫn sẵn sàng bằng tính năng Color By Words trong máy in màu Xerox Phaser 7500 đã được công bố gần đây .</s>
+</spair>
+</text>
+</doc>

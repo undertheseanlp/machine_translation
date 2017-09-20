@@ -1,0 +1,152 @@
+﻿<doc id='N0349'>
+<head>
+<title>Google OS Chrome Releases to Open Source</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google OS Chrome Releases to Open Source</s>
+<s id='vn1'>Google phát hành HĐH Chrome cho Mã Nguồn Mở</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Google released the Chrome Operating System , an alternative to Microsoft Windows and Apple 's Mac OS X , to open source for developers , but said end users would not be able to use this Web operating system until late 2010 .</s>
+<s id='vn2'>Google đã phát hành HDH Chrome , một giải pháp thay thế cho Microsoft Windows và Mac OS X của Apple , sang mở mã nguồn cho các nhà phát triển , nhưng họ cho biết người dùng cuối vẫn chưa sử dụng được hệ điều hành web này cho đến cuối năm 2010 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>During a demo , Google 's Sundar Pichai showed how Chrome OS booted up on an Asus Eee PC netbook in 7 seconds , with 3 more seconds to log onto an application .</s>
+<s id='vn3'>Trong bản demo , Sundar Pichai - của Google cho biết HĐH Chrome chỉ mất trong 7 giây để khởi động trên một chiếc Asus Eee PC , với hơn 3 giây để đăng nhập vào một ứng dụng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Chrome OS had the look and feel of the Chrome Web browser , which has 40 million regular users .</s>
+<s id='vn4'>HĐH Chrome có giao diện và cách hoạt động giống trình duyệt web Chrome , trình duyệt này có 40 triệu người sử dụng thường xuyên .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Chrome OS was designed with speed , simplicity and security in mind .</s>
+<s id='vn5'>Về mặc ý nghĩa , Chrome được thiết kế để hoạt động nhanh hơn , đơn giản và bảo mật .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Google officials released the company 's Chrome Operating System to open source for developers to begin testing , but said end users would not be able to use this Web operating system until late 2010 .</s>
+<s id='vn6'>Google phát hành chính thức HĐH Chrome sang mã nguồn mở cho các nhà phát triển để bắt đầu thử nghiệm , nhưng cho biết người dùng cuối vẫn chưa có thể sử dụng hệ điều hành web này cho đến cuối năm 2010 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Chrome OS is a Web operating system Google is building to run on netbooks as an alternative to computers running traditional operating systems such as Microsoft 's Windows and Apple 's Mac .</s>
+<s id='vn7'>HDH Chrome là một hệ điều hành web Google đang xây dựng để chạy trên netbook như một giải pháp thay thế cho máy tính chạy hệ điều hành truyền thống như Microsoft Windows và Mac của Apple .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Those machines take several seconds to boot up , or even minutes if they are older models , because they go through a number of data-checking procedures .</s>
+<s id='vn8'>Những chiếc máy này mất nhiều giây để khởi động hoặc thậm chí vài phút nếu là loại cũ hơn , vì chúng phải thông qua một số thủ tục kiểm tra dữ liệu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Similar to Windows or Mac , Chrome OS will let users run and manage applications .</s>
+<s id='vn9'>Tương tự như Windows hay Mac , Hệ điều hành Chrome sẽ cho phép người dùng chạy và quản lí các ứng dụng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But unlike Windows or Mac , which invite users to download apps to their desktop , Chrome OS leverages the Internet as the platform in a model called cloud computing .</s>
+<s id='vn10'>Nhưng không giống như Windows hay Mac mời người dùng tải về ứng dụng cho máy tính để bàn của họ , HDH Chrome tận dụng Internet như là nền tảng trong một mô hình được gọi là điện toán đám mây .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Microsoft earlier this week said its own Windows Azure cloud platform would reach users Jan. 1 .</s>
+<s id='vn11'>Hồi đầu tuần này Microsoft nói rằng HĐH nền tảng điện toán đám mây Windows Azure của họ có thể tới tay người dùng 01 tháng 1 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Google 's Chrome Web browser runs top Chrome OS , providing the gateway through users will access Web applications .</s>
+<s id='vn12'>Trình duyệt web Chrome của Goolge chạy trên đầu của HĐH Chrome , cung cấp cổng qua đó người dùng sẽ truy cập vào các ứng dụng web .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Every application running on Chrome OS will run in the cloud , supported by Google 's servers .</s>
+<s id='vn13'>Mỗi ứng dụng chạy trên HĐH Chrome sẽ chạy trong đám mây , được hỗ trợ bởi các máy chủ của Google .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Sundar Pichai , vice president of product management at Google , said during an event at the company 's Mountain View headquarters that while Google was at least a year away from making Chrome OS available to users on netbooks , developers can download the code and began working with Chrome OS free under the open source license .</s>
+<s id='vn14'>Sundar Pichai - phó giám đốc quản lý sản phẩm của Google nói trong một sự kiện tại trụ sở chính Mountain View của hãng rằng mặc dù ít nhất hơn 1 năm Google mới tạo ra HDH Chrome sẵn sáng cho người dùng trên netbooks , các nhà phát triển có thể tải mã nguồn và bắt đầu làm việc với HĐH Chrome miễn phí theo giấy phép mã nguồn mở .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" As of today , the code will be fully open , which means Google developers will be working on the same tree as external developers , " Pichai said .</s>
+<s id='vn15'>Pichai nói : " Tính đến ngày hôm nay , mã nguồn sẽ được mở hoàn toàn , có nghĩa là các nhà phát triển của Google và các nhà phát triển bên ngoài sẽ được làm việc trên cùng một mã gốc " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This idea is to get third-party developers designing applications to run on Chrome OS.</s>
+<s id='vn16'>Ý tưởng này là để có được các nhà phát triển bên thứ ba thiết kế các ứng dụng chạy trên HĐH Chrome .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He also said Google 's goals with Chrome OS are speed , simplicity and security .</s>
+<s id='vn17'>Ông cũng cho biết mục tiêu của Google với HĐH Chrome là tốc độ , đơn giản và bảo mật .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Noting that Google wants Chrome OS to be " blazingly fast , " Pichai said " From the time you press boot , you want it to be like a TV , you turn it on , you should be on the Web using your application . "</s>
+<s id='vn18'>Chú ý rằng Google muốn HĐH Chrome được " nhanh như chóp " Pichai cho biết : " Từ khi bạn bấm nút khởi động máy , bạn muốn nó giống như Tivi , bạn bật nó lên , bạn sẽ sử dụng các ứng dụng của bạn trên web . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>During a demo , Pichai showed how Chrome booted up on an Asus Eee PC netbook in 7 seconds , with 3 more seconds to log onto an application .</s>
+<s id='vn19'>Trong một bản demo , Pichai cho thấy Chrome khởi động trên một chiếc netbook Asus Eee PC trong 7 giây , với hơn 3 giây để đăng nhập vào một ứng dụng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Chrome OS had the look and feel of the Chrome Web browser , which has 40 million regular users .</s>
+<s id='vn20'>HĐH Chrome có giao diện của trình duyệt web Chrome , trình duyệt mà có 40 triệu người sử dụng thường xuyên .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>However , Pichai said the user interface will be different when it finally launches .</s>
+<s id='vn21'>Tuy nhiên , Pichai cho biết giao diện người dùng sẽ khác nhau khi nó ra mắt lần cuối cùng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Pichai demonstrated Chrome OS' application tabs for Google Gmail , Calendar and other apps , showing how users can " favorite " an application by pinning itto the browser screen .</s>
+<s id='vn22'>Pichai chứng minh các thẻ ứng dụng của HĐH Chrome cho Google Gmail , Lịch và các ứng dụng khác , cho thấy cách mà người dùng có thể một ứng dụng ưu thích bằng cách ghim nó vào màn hình trình duyệt .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The Chrome browser already enables this for Web pages ; this idea is to help users to get to their favorite apps quickly .</s>
+<s id='vn23'>Trình duyệt Chrome đã kích hoạt điều này cho các trang web ; ý tưởng này là để giúp người dùng mở các ứng dụng ưa thích của họ một cách nhanh chóng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>There is also an app menu similar to what users see on Apple iPhone or Android-based smartphones , allowing users to click into apps .</s>
+<s id='vn24'>Cũng có một menu ứng dụng tương tự như những gì người dùng thấy trên Apple iPhone hay trên điện thoại thông minh chạy HĐH Android cho phép người dùng nhấp vào ứng dụng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>When Pichai clicked the app tab for Google Talk a pop-up window appeared on the screen , similar to the way the chat window does within Gmail .</s>
+<s id='vn25'>Khi Pichai nhấp chuột vào thẻ ứng dụng Google Talk , một cửa sổ pop-up xuất hiện trên màn hình , tương tự như cách các cửa sổ chat làm trong Gmail .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Google calls these " persistent windows . "</s>
+<s id='vn26'>Google gọi những thứ này là " cửa sổ liên tục . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Pichai also showed a YouTube video from the band U2 running in a separate application tab , as well as how users can read books from the Google Books service on Chrome OS.</s>
+<s id='vn27'>Pichai cũng cho thấy một video trên YouTube của ban nhạc U2 chạy trong một thẻ ứng dụng riêng biệt , cũng như cách người dùng có thể đọc sách từ dịch vụ Google Books trên HĐHC hrome .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>See screenshots , videos and Chrome OS documentation on Google Watch here .</s>
+<s id='vn28'>Xem ảnh chụp màn hình , video và tài liệu hướng dẫn sử dụng HĐH Chrome trên Google Watch tại đây .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Pichai said Chrome OS would not support traditional desktop applications , with every app being a Web application .</s>
+<s id='vn29'>Pichai cho biết HĐH Chrome sẽ không hỗ trợ các ứng dụng trên máy tính để bàn truyền thống , với mọi ứng dụng đều ứng dụng web .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Users won't have to install programs , manage updates because this platform depends on the cloud .</s>
+<s id='vn30'>Người dùng sẽ không phải cài đặt chương trình , quản lý thông tin cập nhật bởi vì nền tảng này phụ thuộc vào đám mây .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" The computer should just work . "</s>
+<s id='vn31'>" Nên chỉ có máy tính làm việc . "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Users who lose their Chrome OS-based netbook will be able to buy a new machine , log in to their Google Account , and have their data , including Web apps , cached data and personalization data such as backgrounds in seconds .</s>
+<s id='vn32'>Nếu người dùng làm mất netbook sử dụng HĐH Chrome chỉ cần mua một máy mới , đăng nhập vào Tài khoản Google của họ , và có dữ liệu của họ , bao gồm các ứng dụng web , lưu trữ dữ liệu và dữ liệu cá nhân giống như là trên máy cũ trước đó trong vài giây .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Chrome OS' security was the big question on many peoples minds because of the threats to security to the Web .</s>
+<s id='vn33'>Bảo mật của HĐH Chrome là câu hỏi lớn trong tâm trí nhiều người bởi vì các mối đe dọa đến bảo mật cho Web .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Pichai said that because Google understands all of the code on Chrome OS , it has a better chance of detecting malicious processes and manage the systems with a reboot .</s>
+<s id='vn34'>Pichai nói rằng bởi vì Google hiểu tất cả các mã nguồn của HĐH Chrome , họ có một khả năng tốt hơn về việc phát hiện các tiến trình độc hại và quản lý hệ thống với một cơ chế khởi động lại .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>EWEEK has more on Chrome OS security here .</s>
+<s id='vn35'>Trang EWeek có thêm chi tiết về bảo mật của HĐH Chrome tại đây .</s>
+</spair>
+</text>
+</doc>

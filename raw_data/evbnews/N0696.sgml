@@ -1,0 +1,636 @@
+﻿<doc id='N0696'>
+<head>
+<title>Ali Baba and the Forty Thieves</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Ali Baba and the Forty Thieves</s>
+<s id='vn1'>Ali Baba và bốn mươi tên cướp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In a town in Persia there dwelt two brothers , one named Cassim , the other Ali Baba .</s>
+<s id='vn2'>Ở một thành phố Ba Tư nọ có hai anh em nhà kia , một người tên là Cassim , còn người kia tên là Ali Baba .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Cassim was married to a rich wife and lived in plenty , while Ali Baba had to maintain his wife and children by cutting wood in a neighboring forest and selling it in the town .</s>
+<s id='vn3'>Cassim lấy được một người vợ giàu có và sống một cuộc sống sung túc , trong khi đó Ali Baba phải làm nuôi sống vợ con bằng nghề đốn củi trong một khu rừng cạnh đó và bán cho những người trong thành .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>One day , when Ali Baba was in the forest , he saw a troop of men on horseback , coming toward him in a cloud of dust .</s>
+<s id='vn4'>Một ngày kia , khi Ali Baba ở trong rừng , anh thấy một toán người đi ngựa , đi về phía anh bụi bay mù mịt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He was afraid they were robbers , and climbed into a tree for safety .</s>
+<s id='vn5'>Anh sợ họ là những kẻ cướp , và leo trốn lên cây cho an toàn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When they came up to him and dismounted , he counted forty of them .</s>
+<s id='vn6'>Khi họ đến chỗ của anh liền leo xuống ngựa , anh đếm cả thảy là bốn mươi tên .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They unbridled their horses and tied them to trees .</s>
+<s id='vn7'>Chúng buông dây cương và buộc ngựa vào gốc cây .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The finest man among them , whom Ali Baba took to be their captain , went a little way among some bushes , and said , " Open , Sesame ! " so plainly that Ali Baba heard him .</s>
+<s id='vn8'>Người đàn ông bảnh bao nhất trong bọn , mà Ali Baba đoán đó là tên tướng cướp , đi lại gần những bụi cây , và nói rõ to đến độ Ali Baba nghe được , " Vừng ơi , mở ra ! " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A door opened in the rocks , and having made the troop go in , he followed them , and the door shut again of itself .</s>
+<s id='vn9'>Cánh cửa bằng đá mở ra , và đủ chỗ cho toán cướp vào , anh liền đi theo họ , và cánh cửa liền đóng ngay trở lại .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>They stayed some time inside , and Ali Baba , fearing they might come out and catch him , was forced to sit patiently in the tree .</s>
+<s id='vn10'>Họ ở lại bên trong một lúc , và Ali Baba , sợ họ có thể đi ra và bắt gặp mình , do đó buộc phải ngồi nhẫn nại trên cây trở lại .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>At last the door opened again , and the Forty Thieves came out .</s>
+<s id='vn11'>Cuối cùng , cánh cửa cũng lại mở ra , và bốn mươi tên cướp đi ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>As the Captain went in last he came out first , and made them all pass by him ; he then closed the door , saying , " Shut , Sesame ! "</s>
+<s id='vn12'>Vì tên tướng cướp vào cuối cùng nên đi ra trước tiên , và chờ tất cả những tên kia đi ra hết ; gã ta đóng cửa lại , đọc câu thần chú , " Vừng , đóng lại ! "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Every man bridled his horse and mounted , the Captain put himself at their head , and they returned as they came .</s>
+<s id='vn13'>Tất cả bọn họ đều thắng ngựa lại và đếm quân số , tên tướng cướp đi đầu , và họ lại ra đi trong tư thế như khi đến .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Then Ali Baba climbed down and went to the door concealed among the bushes , and said , " Open , Sesame ! " and it flew open .</s>
+<s id='vn14'>Sau đó , Ali Baba leo xuống và đến cánh cửa giữa những bụi cây , và nói , " Vừng ơi , mở ra ! " Và nó liền mở choàng ra .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Ali Baba , who expected a dull , dismal place , was greatly surprised to find it large and well lighted .</s>
+<s id='vn15'>Ali Baba , nghĩ rằng trong đó sẽ buồn tẻ , ảm đạm , thế nhưng anh vô cùng bất ngờ khi thấy bên trong rộng và sáng choang .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He saw rich bales of merchandise -- silk , stuff-brocades , all piled together , gold and silver in heaps , and money in leather purses .</s>
+<s id='vn16'>Anh thấy nhiều kiện hàng bự - nào lụa là , đồ đạc - gấm thêu kim tuyến , chất chồng lên nhau , vàng và bạc chất thành từng đống , và tiền chứa trong các ví bằng da .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He went in and the door shut behind him .</s>
+<s id='vn17'>Anh bước vào và cánh cửa đóng sập lại sau lưng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He did not look at the silver , but brought out as many bags of gold as he thought his asses , which were browsing outside , could carry , loaded them with the bags , and hid it all with fagots .</s>
+<s id='vn18'>Anh không đếm xỉa đến bạc , nhưng lại mang ra nhiều túi vàng đến nỗi anh nghĩ những chú lừa của mình , đang gặm cỏ bên ngoài , có thể mang chúng trong những túi chất bên hông , và giấu tất cả trong những bó củi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Using the words , " Shut , Sesame ! " he closed the door and went home .</s>
+<s id='vn19'>Cũng với câu thần chú , " Vừng ơi , đóng lại ! " anh đóng cửa và liền về nhà .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Then he drove his asses into the yard , shut the gates , carried the money-bags to his wife , and emptied them out before her .</s>
+<s id='vn20'>Sau đó , anh cưỡi những chú lừa vào sân , đóng cánh cổng lại , mang những túi tiền đưa cho vợ , và đổ hết chúng ra trước mặt vợ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He bade her keep the secret , and he would go bury the gold .</s>
+<s id='vn21'>Anh bảo vợ phải giữ bí mật , và anh đi chôn số vàng đó .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Let me first measure it , " said his wife .</s>
+<s id='vn22'>" Để tôi đếm chúng đã , " vợ anh nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" I will go borrow a measure of someone , while you dig the hole . "</s>
+<s id='vn23'>" Tôi sẽ đi mượn cái đấu của ai đó , trong khi đó anh đào lỗ đi nhé . "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So she ran to the wife of Cassim and borrowed a measure .</s>
+<s id='vn24'>Vậy là cô ấy liền chạy đến vợ của Cassim và mượn cái đấu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Knowing Ali Baba 's poverty , the sister was curious to find out what sort of grain his wife wished to measure , and artfully put some suet at the bottom of the measure .</s>
+<s id='vn25'>Biết Ali Baba nghèo , chị ta tò mò muốn biết cô này đang đong cái gì , liền khéo léo bôi một ít mỡ cừu ở dưới đáy đấu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Ali Baba 's wife went home and set the measure on the heap of gold , filled it and emptied it .</s>
+<s id='vn26'>Vợ của Ali Baba về nhà và bỏ vàng vào trong cái đấu , bỏ đầy vào và lại trút ra .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>She then carried it back to her sister , without noticing that a piece of gold was sticking to it ,</s>
+<s id='vn27'>Rồi sau cô ta mang trả lại cái đấu cho người chị dâu , mà không để ý rằng có miếng vàng đang dính dưới đáy của nó .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Cassim 's wife perceived directly her back was turned .</s>
+<s id='vn28'>Khi cô ta vừa quay lưng đi thì vợ Cassim đã thấy ngay nó .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>She grew very curious , and said to Cassim when he came home , " Cassim , your brother is richer than you .</s>
+<s id='vn29'>Bà ta dấy lên sự tò mò , và đã nói lại với Cassim khi anh ta về đến nhà , " Cassim , em trai của anh giàu hơn anh đấy .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>He does not count his money , he measures it . "</s>
+<s id='vn30'>Nó không cần đếm tiền nữa là , nó mượn đấu về đong đấy . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>He begged her to explain this riddle , which she did by showing him the piece of money and telling him where she found it .</s>
+<s id='vn31'>Anh ta nài xin cô ta giải thích sự bí ẩn này , cô ta liền chỉ cho anh ta đồng tiền và kể cho anh ta nghe về việc đã thấy nó .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Then Cassim grew so envious that he could not sleep , and went to his brother in the morning before sunrise .</s>
+<s id='vn32'>Kể từ đó , Cassim trở nên ganh tỵ đến nỗi mất ngủ , và sáng hôm sau đến nhà người em trai trước khi mặt trời mọc .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Ali Baba , " he said , showing him the gold piece , " you pretend to be poor and yet you measure gold . "</s>
+<s id='vn33'>Anh ta nói : " Ali Baba , cho tao xem đồng tiền vàng đó đi , mày giả vờ nghèo khổ vậy mà mày lại đong vàng . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>By this Ali Baba perceived that through his wife 's folly Cassim and his wife knew their secret , so he confessed all and offered Cassim a share .</s>
+<s id='vn34'>Nghe nói vậy , Ali Baba biết ngay là do người vợ điên rồ của mình mà Cassim và vợ của anh ta biết bí mật này , vì vậy anh thú nhận tất cả và đề nghị chia vàng cho Cassim .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" That I expect , " said Cassim ; " but I must know where to find the treasure , otherwise I will discover all , and you will lose all . "</s>
+<s id='vn35'>" Anh cũng mong em làm vậy , " Cassim nói ; " nhưng anh phải biết nơi tìm ra kho báu , nếu không thì khi anh khám phá ra , và lúc đó em sẽ mất tất cả . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Ali Baba , more out of kindness than fear , told him of the cave , and the very words to use .</s>
+<s id='vn36'>Ali Baba , vì sự tốt bụng lấn át đi nỗi lo sợ , đã chỉ cho anh ta thấy cái hang , và lời thần chú rất dễ đọc đó .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Cassim left Ali Baba , meaning to be beforehand with him and get the treasure for himself .</s>
+<s id='vn37'>Cassim rời khỏi nhà Ali Baba , có ý định đến trước em mình và một mình lấy được kho báu .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>He rose early next morning , and set out with ten mules loaded with great chests .</s>
+<s id='vn38'>Sáng hôm sau , anh ta dậy sớm , và lên đường với mười con la chất đầy rương hòm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>He soon found the place , and the door in the rock .</s>
+<s id='vn39'>Rồi chẳng bao lâu anh ta tìm được cái hang , và cánh cửa bằng đá .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>He said , " Open , Sesame ! " and the door opened and shut behind him .</s>
+<s id='vn40'>Anh ta nói , " Vừng ơi , mở ra ! " và cánh cửa mở ra và đóng lại sau lưng anh ta .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>He could have feasted his eyes all day on the treasures , but he now hastened to gather together as much of it as possible ; but when he was ready to go he could not remember what to say for thinking of his great riches .</s>
+<s id='vn41'>Lẽ ra anh ta đưa mắt chiêm ngưỡng suốt cả ngày cả kho báu , nhưng giờ đây anh ta vội vội vàng vàng gom lại càng nhiều càng tốt ; nhưng rồi khi anh ta chuẩn bị ra về thì anh ta lại không thể nhớ được phải niệm chú câu gì ngoài việc nghĩ đến món châu báu kết sù này .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Instead of " Sesame , " he said , " Open , Barley ! " and the door remained fast .</s>
+<s id='vn42'>Thay vì " Vừng ơi , mở ra " thì anh ta lại nói : " Lúa mạch ơi , mở ra ! " và cánh cửa vẫn đóng cứng ngắc .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>He named several different sorts of grain , all but the right one , and the door still stuck fast .</s>
+<s id='vn43'>Anh ta lại niệm chú nhiều loại hạt khác nhau nữa , tất cả các loại hạt mà vẫn không đúng , và cánh cửa vẫn kẹt cứng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>He was so frightened at the danger he was in that he had as much forgotten the word as if he had never heard it .</s>
+<s id='vn44'>Anh ta sợ nguy hiểm quá đến nỗi anh ta càng quên từ " vừng " như thể là anh ta chưa bao giờ nghe nhắc đến nó .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>About noon the robbers returned to their cave , and saw Cassim 's mules roving about with great chests on their backs .</s>
+<s id='vn45'>Khoảng giữa trưa , những tên cướp trở lại hang , và thấy những con la của tên Cassim đang lang thang mang những cái rương hòm lớn trên lưng chúng .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>This gave them the alarm ; they drew their sabers , and went to the door , which opened on their Captain 's saying , " Open , Sesame ! "</s>
+<s id='vn46'>Chính việc này đã cho biết có chuyện chẳng lành ; chúng liền rút kiếm ra , và đi đến cửa , mở cánh cửa ra bằng câu thần chú của tên tướng cướp , " Vừng ơi , mở ra ! "</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Cassim , who had heard the trampling of their horses " feet , resolved to sell his life dearly , so when the door opened he leaped out and threw the Captain down .</s>
+<s id='vn47'>Cassim , nghe tiếng giậm chân những con ngựa , nhất quyết liều chết , vì thế khi cánh cửa mở ra , anh ta thót ra và ném tên tướng cướp xuống .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>In vain , however , for the robbers with their sabers soon killed him .</s>
+<s id='vn48'>Tuy nhiên , thật vô ích , vì nhưng tên cướp cầm kiếm giơ lên ngay lập tức rồi sau đó chém chết hắn ta .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>On entering the cave they saw all the bags laid ready , and could not imagine how anyone had got in without knowing their secret .</s>
+<s id='vn49'>Trên đường vào hang chúng thấy tất cả những túi đã được đặt sẵn sàng , và không thể tưởng tượng nỗi là không ai có thể biết được bí mật của chúng thì làm sao vào được hang .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>They cut Cassim 's body into four quarters , and nailed them up inside the cave , in order to frighten anyone who should venture in , and went away in search of more treasure .</s>
+<s id='vn50'>Chúng cắt thi thể của Cassim thành bốn khúc bằng nhau , và bêu chúng lên bên trong hang động , để làm khiếp sợ những ai mạo hiểm vào bên trong , và bỏ đi tìm nhiều kho báu khác .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>As night drew on , Cassim 's wife grew very uneasy , and ran to her brother-in-law , and told him where her husband had gone .</s>
+<s id='vn51'>Khi đêm đã trôi qua , vợ của Cassim càng lo lắng hơn , và chạy đến nhà người em chồng , và cho biết chồng của cô ta đi đâu mà không thấy về .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Ali Baba did his best to comfort her , and set out to the forest in search of Cassim .</s>
+<s id='vn52'>Ali Baba cố gắng hết sức an ủi , và bắt đầu vào rừng tìm kiếm Cassim .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The first thing he saw on entering the cave was his dead brother .</s>
+<s id='vn53'>Điều đầu tiên anh thấy khi bước vào hang là thi thể đã chết của người anh trai .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Full of horror , he put the body on one of his asses , and bags of gold on the other two , and , covering all with some fagots , returned home .</s>
+<s id='vn54'>Quá đỗi kinh hoàng , anh đặt xác lên lưng một con la , và những túi vàng trên hai con kia , và bọc ngoài chúng bằng vài bó củi rồi lên đường về nhà .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>He drove the two asses laden with gold into his own yard , and led the other to Cassim 's house .</s>
+<s id='vn55'>Anh ta cưỡi hai con la chất đầy vàng vào sân nhà mình rồi dắt con kia đến nhà của Cassim .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The door was opened by the slave Morgiana , whom he knew to be both brave and cunning .</s>
+<s id='vn56'>Mở cửa là người hầu Morgiana , người mà anh biết vừa dũng cảm vừa mưu trí .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Unloading the ass , he said to her , " This is the body of your master , who has been murdered , but whom we must bury as though he had died in his bed .</s>
+<s id='vn57'>Dỡ lưng con la lên , anh nói với cô ấy , " Đây là thi hài của chủ nhân cô , đã bị giết , nhưng chúng ta phải chôn như thể anh ấy đã chết trên giường vậy .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>I will speak with you again , but now tell your mistress I am come . "</s>
+<s id='vn58'>Tôi sẽ còn chuyện trao đổi với cô nữa , nhưng thôi bây giờ bảo bà chủ là có tôi đến . "</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The wife of Cassim , on learning the fate of her husband , broke out into cries and tears , but Ali Baba offered to take her to live with him and his wife if she would promise to keep his counsel and leave everything to Morgiana ; whereupon she agreed , and dried her eyes .</s>
+<s id='vn59'>Vợ của Cassim , khi biết được số phận của chồng của cô ta , oà khóc nức nở , nhưng Ali Baba đề nghị đưa cô ta về sống với vợ chồng mình nếu cô ấy hứa sẽ nghe theo lời khuyên của anh và để lại mọi thứ cho người hầu Morgiana và thế là cô ta đồng ý , và chùi nước mắt .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Morgiana , meanwhile , sought an apothecary and asked him for some lozenges .</s>
+<s id='vn60'>Morgiana , trong khi đó , tìm thầy thuốc và xin ông ta một số viên thuốc ngậm .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" My poor master , " she said , " can neither eat nor speak , and no one knows what his distemper is . "</s>
+<s id='vn61'>Cô ta nói : " Người chủ tội nghiệp của tôi , không thể ăn nói gì được , và chẳng ai quan tâm đến sức khoẻ đang xuống dốc của ông ta . "</s>
+</spair>
+<spair id='62'>
+<s id='en62'>She carried home the lozenges and returned next day weeping , and asked for an essence only given to those just about to die .</s>
+<s id='vn62'>Cô ta mang thuốc về nhà và ngày hôm sau quay trở lại khóc lóc , và xin một ít cỏ thơm chỉ dành cho những ai sắp chết .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Thus , in the evening , no one was surprised to hear the wretched shrieks and cries of Cassim 's wife and Morgiana , telling everyone that Cassim was dead .</s>
+<s id='vn63'>Vì vậy , tối đến , không ai ngạc nhiên khi nghe tiếng thét và khóc lóc thống thiết của vợ Cassim và người hầu Morgiana , bảo với mọi người rằng Cassim đã qua đời .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>The day after Morgiana went to an old cobbler near the gates of the town who opened his stall early , put a piece of gold in his hand , and bade him follow her with his needle and thread .</s>
+<s id='vn64'>Ngày hôm sau , Morgiana đến chỗ ông già chữa giày gần cổng thành , người này hay mở cửa hàng sớm , đặt một miếng vàng vào bàn tay ông ta , và bảo ông cầm kim và sợi theo mình về nhà .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Having bound his eyes with a handkerchief , she took him to the room where the body lay , pulled off the bandage , and bade him sew the quarters together , after which she covered his eyes again and led him home .</s>
+<s id='vn65'>Dùng khăn tay bịt mắt ông ta lại , cô đưa ông ta vào phòng nơi đặt thi thể của chủ mình , mở băng ra , và bảo vá các phần thi thể lại với nhau , sau đó bịt mắt ông ta trở lại và dẫn đường cho ông ta về nhà .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Then they buried Cassim , and Morgiana his slave followed him to the grave , weeping and tearing her hair , while Cassim 's wife stayed at home uttering lamentable cries .</s>
+<s id='vn66'>Rồi họ chôn Cassim , và Morgiana , người hầu , theo chủ xuống mồ , khóc lóc và vò đầu bứt tóc , trong khi vợ của Cassim thì ở nhà than khóc ai oán .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Next day she went to live with Ali Baba , who gave Cassim 's shop to his eldest son .</s>
+<s id='vn67'>Ngày hôm sau , cô ta đến sống với Ali Baba , giao cửa hàng của Cassim cho người con cả .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The Forty Thieves , on their return to the cave , were much astonished to find Cassim 's body gone and some of their money-bags .</s>
+<s id='vn68'>Còn bốn mươi tên cướp , khi trở về đến hang , ngạc nhiên khi thấy thi thể của Cassim và vài túi tiền của họ bị mất .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" We are certainly discovered , " said the Captain , " and shall be undone if we cannot find out who it is that knows our secret .</s>
+<s id='vn69'>" Chúng ta chắc chắn bị phát hiện rồi , " tên tướng cướp nói , " và chúng ta sẽ dở việc nếu chúng ta không phát hiện được người nào biết bí mật này .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Two men must have known it ; we have killed one , we must now find the other .</s>
+<s id='vn70'>Chắc có hai người đàn ông đã biết ; chúng ta đã giết được một người , bây giờ chúng ta phải tìm người kia thôi .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>To this end one of you who is bold and artful must go into the city dressed as a traveler , and discover whom we have killed , and whether men talk of the strange manner of his death .</s>
+<s id='vn71'>Tóm lại một trong số các bạn ai là người dũng cảm và mưu mẹo phải đi vào thành phố ăn mặc giống lữ khách , và khám phá ra người nào đã bị chúng ta giết , và rồi liệu có ai nói đến cái chết khác thường của hắn không .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>If the messenger fails he must lose his life , lest we be betrayed . "</s>
+<s id='vn72'>Nếu người đưa tin không làm được chuyện này , người ấy sẽ phải mất mạng , vì sợ rằng chúng ta bị phản bội . "</s>
+</spair>
+<spair id='73'>
+<s id='en73'>One of the thieves started up and offered to do this , and after the rest had highly commended him for his bravery he disguised himself , and happened to enter the town at daybreak , just by Baba Mustapha 's stall .</s>
+<s id='vn73'>Một tên trong toán cướp đứng bật dậy và đề nghị làm việc này , và sau khi số tên còn lại khen ngợi sự can đảm đó , gã ta liền nguỵ trang , và đi vào thành phố lúc tảng sáng , đi ngang qua cửa hiệu của Baba Mustapha .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>The thief bade him good-day , saying , " Honest man , how can you possibly see to stitch at your age ? "</s>
+<s id='vn74'>Tên trộm chào ông ta vui vẻ , hỏi , " Hỡi ông lão đáng mến kia ơi , ở cái tuổi này làm sao ông có thể thấy đường mà khâu giày ? "</s>
+</spair>
+<spair id='75'>
+<s id='en75'>" Old as I am , " replied the cobbler , " I have very good eyes , and will you believe me when I tell you that I sewed a dead body together in a place where I had less light than I have now . "</s>
+<s id='vn75'>" Tuy tôi già , " người thợ chữa giày đáp , " nhưng tôi có đôi mắt tốt , và anh có tin không khi tôi nói rằng tôi đã may một tử thi lại ngay ngắn trong khi tôi mắt mờ hơn bây giờ "</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The robber was overjoyed at his good fortune , and , giving him a piece of gold , desired to be shown the house where he stitched up the dead body .</s>
+<s id='vn76'>Tên cướp vui mừng khôn xiết cho vận may của mình , và cho ông ta một đồng tiền vàng , hy vọng ông ta sẽ chỉ cho mình ngôi nhà đã khâu tử thi .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>At first Mustapha refused , saying that he had been blindfolded ; but when the robber gave him another piece of gold he began to think he might remember the turnings if blindfolded as before .</s>
+<s id='vn77'>Lúc đầu , Mustapha từ chối , nói rằng ông đã bị bịt mắt ; nhưng khi tên cướp cho thêm một đồng tiền vàng nữa , ông ta bắt đầu nghĩ là mình có thể nhớ lại những chỗ rẽ nếu bịt mắt như lần trước .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>This means succeeded ; the robber partly led him , and was partly guided by him , right in front of Cassim 's house , the door of which the robber marked with a piece of chalk .</s>
+<s id='vn78'>Ý nghĩ này đã có ích cho ông ta ; tên cướp vừa dắt vừa nghe ông ta hướng dẫn đường đến đúng ngay trước nhà của Cassim , tên cướp liền đánh dấu bằng miếng đá vôi .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Then , well pleased , he bade farewell to Baba Mustapha and returned to the forest .</s>
+<s id='vn79'>Sau đó , rất hả hê , hắn ta nói lời tạm biệt Mustapha và quay lại rừng .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>By and by Morgiana , going out , saw the mark the robber had made , quickly guessed that some mischief was brewing , and fetching a piece of chalk marked two or three doors on each side , without saying anything to her master or mistress .</s>
+<s id='vn80'>Vừa lúc đó Morgiana , ra ngoài , thấy dấu vôi của tên cướp , liền nhanh chóng đoán biết nguy hiểm , và lấy miếng vôi đánh dấu lên hai hoặc ba cánh cửa ở mỗi bên hông nhà mình , mà không nói ông bà chủ biết .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>The thief , meantime , told his comrades of his discovery .</s>
+<s id='vn81'>Trong lúc đó , tên cướp về tâu lại với những tên kia về phát hiện của gã ta .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>The Captain thanked him , and bade him show him the house he had marked .</s>
+<s id='vn82'>Tên tướng cướp cảm ơn tên này , và ra lệnh gã ta chỉ ngôi nhà đã đánh dấu .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>But when they came to it they saw that five or six of the houses were chalked in the same manner .</s>
+<s id='vn83'>Nhưng khi họ đến lại thấy năm , sáu ngôi nhà đã được đánh dấu vôi theo cùng kiểu .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>The guide was so confounded that he knew not what answer to make , and when they returned he was at once beheaded for having failed .</s>
+<s id='vn84'>Tên dẫn đường lúng túng đến nỗi không biết trả lời thế nào , và khi họ trở về gã ta ngay lập tức bị chặt đầu vì đã không hoàn thành nhiệm vụ .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Another robber was dispatched , and , having won over Baba Mustapha , marked the house in red chalk ; but Morgiana being again too clever for them , the second messenger was put to death also .</s>
+<s id='vn85'>Một tên cướp khác nữa được phái đi , và cũng thuyết phục được Mustapha , đã đánh dấu ngôi nhà bằng đá vôi đỏ ; nhưng Morgiana lại quá thông minh hơn chúng , thế là tên thứ hai cũng bị chặt đầu .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>The Captain now resolved to go himself , but , wiser than the others , he did not mark the house , but looked at it so closely that he could not fail to remember it .</s>
+<s id='vn86'>Giờ đây tên cướp cương quyết tự mình đi , nhưng , khôn ngoan hơn những tên khác , gã ta không đánh dấu nhà , nhưng nhìn kỹ ngôi nhà đến lúc không thể nào quên được nó .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>He returned , and ordered his men to go into the neighboring villages and buy nineteen mules , and thirty-eight leather jars , all empty except one , which was full of oil .</s>
+<s id='vn87'>Gã ta trở về , và ra lệnh những tên kia đến ngôi làng bên và mua 19 con la , và ba mươi tám vại bằng da , tất cả đều để trống ngoại trừ một vại thì đổ đầy dầu vào .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>The Captain put one of his men , fully armed , into each , rubbing the outside of the jars with oil from the full vessel .</s>
+<s id='vn88'>Tên tướng cướp trang bị đầy đủ vũ khí cho từng người , lau bóng những chiếc vại bằng dầu của vại đầy kia .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Then the nineteen mules were loaded with thirty-seven robbers in jars , and the jar of oil , and reached the town by dusk .</s>
+<s id='vn89'>Sau đó 19 con la chất đầy ba mươi bảy tên cướp với những chiếc vại , và cả vại dầu nữa , và đi vào thành lúc nhá nhem tối .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>The Captain stopped his mules in front of Ali Baba 's house , and said to Ali Baba , who was sitting outside for coolness , " I have brought some oil from a distance to sell at tomorrow 's market , but it is now so late that I know not where to pass the night , unless you will do me the favor to take me in . "</s>
+<s id='vn90'>Tên tướng cướp dừng con la lại trước nhà của Ali Baba , và nói một cách bình tĩnh với Ali Baba đang ngồi bên ngoài nhà , " tôi mua một ít dầu từ phương xa để bán ở phiên chợ ngày mai , nhưng bây giờ muộn rồi tôi không biết nơi nào để trú qua đêm trừ phi ông làm ơn cho tôi ở tạm . "</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Though Ali Baba had seen the Captain of the robbers in the forest , he did not recognize him in the disguise of an oil merchant .</s>
+<s id='vn91'>Mặc dù Ali Baba đã từng nhìn thấy tên cướp trong số bọn chúng ở trong rừng , nhưng anh không tài nào nhận ra hắn ta dưới lốt một tên bán dầu .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>He bade him welcome , opened his gates for the mules to enter , and went to Morgiana to bid her prepare a bed and supper for his guest .</s>
+<s id='vn92'>Anh chào đón gã , mở cánh cổng cho những con la vào và đến chỗ Morgiana ra lệnh chuẩn bị giường và bữa tối cho khách .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>He brought the stranger into his hall , and after they had supped went again to speak to Morgiana in the kitchen , while the Captain went into the yard under pretense of seeing after his mules , but really to tell his men what to do .</s>
+<s id='vn93'>Anh cho người lạ này vào phòng lớn và sau khi họ nhấm nháp bữa tối , anh đi nói chuyện với Morgiana ở nhà bếp trong khi tên tướng cướp đi vào sân giả vờ chăm sóc những con la của mình nhưng thật sự để ra lệnh người của gã ta làm gì .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Beginning at the first jar and ending at the last , he said to each man , "As soon as I throw some stones from the window of the chamber where I lie , cut the jars open with your knives and come out , and I will be with you in a trice . "</s>
+<s id='vn94'>Chỉ vại đầu tiên và kết thúc bằng vại cuối cùng , gã ta nói với mỗi tên kia , " khi ta ném vài hòn đá từ cửa sổ phòng ta nằm , hãy cắt mở nó bằng kiếm và chui ra , rồi ta sẽ đến với các ngươi trong tức khắc . "</s>
+</spair>
+<spair id='95'>
+<s id='en95'>He returned to the house , and Morgiana led him to his chamber .</s>
+<s id='vn95'>Gã ta quay lại nhà và Morgiana đưa hắn đến phòng dành cho khách .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>She then told Abdallah , her fellow slave , to set on the pot to make some broth for her master , who had gone to bed .</s>
+<s id='vn96'>Cô bảo Abdallah , cũng là người hầu trong nhà , đặt chảo để làm nước xuýt cho ông chủ đã đi ngủ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Meanwhile her lamp went out , and she had no more oil in the house .</s>
+<s id='vn97'>Trong khi đó , đèn bị tắt và cô không còn chút dầu nào trong nhà .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" Do not be uneasy , " said Abdallah ; " go into the yard and take some out of one of those jars . "</s>
+<s id='vn98'>" Đừng lo , " Abdallah nói , " đi vào sân và lấy một ít dầu ở một trong những các vại đó . "</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Morgiana thanked him for his advice , took the oil pot , and went into the yard .</s>
+<s id='vn99'>Morgiana cám ơn lời khuyên của anh ta , lấy chậu dầu và đi vào sân .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>When she came to the first jar the robber inside said softly , " Is it time ? "</s>
+<s id='vn100'>Khi cô ấy đi đến chiếc vại đầu tiên , tên cướp ở bên trong nói khẽ , " đến giờ rồi à ? "</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Any other slave but Morgiana , on finding a man in the jar instead of the oil she wanted , would have screamed and made a noise ; but she , knowing the danger her master was in , bethought herself of a plan , and answered quietly , " Not yet , but presently . "</s>
+<s id='vn101'>Nếu là người hầu khác không phải Morgiana , thì khi thấy người đàn ông trong cái vại thay vì dầu sẽ hét lên và làm ầm ĩ ; nhưng cô ấy , biết sự nguy hiểm mà chủ nhân đang gặp phải , tự nghĩ ra kế hoạch , và nhẹ nhàng trả lời " chưa , nhưng chẳng mấy chốc nữa đâu . "</s>
+</spair>
+<spair id='102'>
+<s id='en102'>She went to all the jars , giving the same answer , till she came to the jar of oil .</s>
+<s id='vn102'>Cô ấy đến tất cả các vại kia , cũng trả lời giống nhau như vậy cho đến khi cô ấy đến cái vại dầu .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>She now saw that her master , thinking to entertain an oil merchant , had let thirty-eight robbers into his house .</s>
+<s id='vn103'>Giờ thì cô ấy mới nhận ra rằng chủ nhân của mình , vì tiếp đãi tên bán dầu mà đã để cho ba mươi tám tên cướp vào nhà .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>She filled her oil pot , went back to the kitchen , and , having lit her lamp , went again to the oil jar and filled a large kettle full of oil .</s>
+<s id='vn104'>Cô đổ đầy dầu vào chậu , quay lại nhà bếp và bật sáng đèn lên , đi đến vại dầu lần nữa và đổ đầy dầu vào cái ấm lớn .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>When it boiled she went and poured enough oil into every jar to stifle and kill the robber inside .</s>
+<s id='vn105'>Khi nó sôi , cô ấy đi ra sân và đổ đủ dầu làm ngạt thở rồi giết tên cướp bên trong đó .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>When this brave deed was done she went back to the kitchen , put out the fire and the lamp , and waited to see what would happen .</s>
+<s id='vn106'>Khi dũng cảm làm việc này xong , cô ấy quay lại nhà bếp , dập lửa , tắt đèn , và chờ xem chuyện gì sẽ xảy ra .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>In a quarter of an hour the Captain of the robbers awoke , got up , and opened the window .</s>
+<s id='vn107'>Trong mười lăm phút sau , tên tướng cướp choàng tỉnh , thức dậy và mở cửa sổ .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>As all seemed quiet , he threw down some little pebbles which hit the jars .</s>
+<s id='vn108'>Khi thấy có vẻ yên tĩnh , gã ta ném vài viên sỏi nhỏ đụng các vại .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>He listened , and as none of his men seemed to stir he grew uneasy , and went down into the yard .</s>
+<s id='vn109'>Gã ta nghe ngóng , và khi không người nào của gã ta cựa quậy , gã bắt đầu lo lắng và đi xuống sân .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>On going to the first jar and saying , " Are you asleep ? " he smelt the hot boiled oil , and knew at once that his plot to murder Ali Baba and his household had been discovered .</s>
+<s id='vn110'>Khi đến cái vại đầu tiên và nói , " Mi ngủ à ? " , gã ngửi thấy mùi dầu được nấu nóng lên và biết ngay lập tức âm mưu giết Ali Baba và gia đình đã bị phát hiện .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>He found all the gang was dead , and , missing the oil out of the last jar , became aware of the manner of their death .</s>
+<s id='vn111'>Gã phát hiện tất cả băng cướp của hắn đã chết và trợt chân bởi vết dầu chảy khỏi vại cuối cùng , bắt đầu phát hiện ra nguyên nhân cái chết của những tên kia .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>He then forced the lock of a door leading into a garden , and climbing over several walls made his escape .</s>
+<s id='vn112'>Thế là hắn ta bẻ khóa cánh cửa dẫn ra vườn , và leo qua vài bức tường thoát ra ngoài .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Morgiana heard and saw all this , and , rejoicing at her success , went to bed and fell asleep .</s>
+<s id='vn113'>Morgiana nghe thấy tất cả sự việc , vui mừng trước thành công của mình và ngủ thiếp đi .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>At daybreak Ali Baba arose , and , seeing the oil jars still there , asked why the merchant had not gone with his mules .</s>
+<s id='vn114'>Lúc tảng sáng , Ali Baba thức dậy và thấy những vại dầu vẫn còn ở đó liền hỏi tại sao gã bán dầu không đi chợ với con la .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Morgiana bade him look in the first jar and see if there was any oil .</s>
+<s id='vn115'>Morgiana bảo anh nhìn vào vại đầu tiên và xem còn chút dầu nào không .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Seeing a man , he started back in terror .</s>
+<s id='vn116'>Thấy người đàn ông , anh bắt đầu hoảng hốt .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>" Have no fear , " said Morgiana ; " the man cannot harm you ; he is dead . "</s>
+<s id='vn117'>" Đừng sợ , " Morgiana nói : " người này không thể hại ông được đâu ; hắn ta chết rồi . "</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Ali Baba , when he had recovered somewhat from his astonishment , asked what had become of the merchant .</s>
+<s id='vn118'>Ali Baba , sau khi hoảng hốt xong đã trấn tĩnh đôi chút , liền hỏi chuyện gì đã xảy ra với lão bán dầu .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>" Merchant ! " said she , " he is no more a merchant than I am ! " and she told him the whole story , assuring him that it was a plot of the robbers of the forest , of whom only three were left , and that the white and red chalk marks had something to do with it .</s>
+<s id='vn119'>" Bán dầu à ! " cô ấy nói , " tôi còn chẳng được cái mác buôn bán huống chi là hắn ! " Và cô kể cho anh nghe toàn bộ câu chuyện , quả quyết rằng đó là một âm mưu của bọn cướp trong rừng , trong đó ba tên đã ra đi khỏi rừng , và chúng đã quệt những vết phấn đỏ trắng để đánh dấu nhà .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Ali Baba at once gave Morgiana her freedom , saying that he owed her his life .</s>
+<s id='vn120'>Ali Baba ngay lập tức trả tự do cho Morgiana , nói rằng anh đã nợ cô ấy mạng sống .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>They then buried the bodies in Ali Baba 's garden , while the mules were sold in the market by his slaves .</s>
+<s id='vn121'>Rồi họ chôn các xác chết trong vườn của Ali Baba , còn những con la thì sai những người hầu đem đi bán ở chợ .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>The Captain returned to his lonely cave , which seemed frightful to him without his lost companions , and firmly resolved to avenge them by killing Ali Baba .</s>
+<s id='vn122'>Tên tướng cướp quay về cái hang vắng vẻ của hắn , sợ khủng khiếp vì mất đi các chiến hữu và nhất quyết làm sao trả thù và giết chết Ali Baba cho bằng được .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>He dressed himself carefully , and went into the town , where he took lodgings in an inn .</s>
+<s id='vn123'>Hắn ta ăn mặc cẩn thận , và đi vào thành , ngủ tạm ở quán trọ .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>In the course of a great many journeys to the forest he carried away many rich stuffs and much fine linen , and set up a shop opposite that of Ali Baba 's son .</s>
+<s id='vn124'>Trong nhiều chuyến vào rừng , hắn mang ra thành nhiều đồ đạc và vải lanh tốt rồi mở một cửa hàng đối diện cửa hàng con trai của Ali Baba .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>He called himself Cogia Hassan , and as he was both civil and well dressed he soon made friends with Ali Baba 's son , and through him with Ali Baba , whom he was continually asking to sup with him .</s>
+<s id='vn125'>Hắn tự xưng là Cogia Hassan , ra vẻ lễ độ và ăn mặc bảnh bao và chẳng bao lâu kết bạn với con trai của Ali Baba và nhờ tên con trai này mà hắn ta quen với Ali Baba , liên tục mời anh đi ăn tối .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Ali Baba , wishing to return his kindness , invited him into his house and received him smiling , thanking him for his kindness to his son .</s>
+<s id='vn126'>Ali Baba , muốn đáp lại lòng tốt của hắn ta , mời hắn ta đến nhà và hắn nhận lời mỉm cười , cám ơn về lòng tốt của anh thông qua người con trai .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>When the merchant was about to take his leave Ali Baba stopped him , saying ,</s>
+<s id='vn127'>Khi lão bán dầu chuẩn bị cáo từ ra về , Ali Baba ngăn hắn ta lại , nói :</s>
+</spair>
+<spair id='128'>
+<s id='en128'>" Where are you going , sir , in such haste ?</s>
+<s id='vn128'>" Ngài định đi đâu mà vội vàng thế ?</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Will you not stay and sup with me ? "</s>
+<s id='vn129'>Mời ngài ở lại ăn tối với tôi ? "</s>
+</spair>
+<spair id='130'>
+<s id='en130'>The merchant refused , saying that he had a reason ; and , on Ali Baba 's asking him what that was , he replied , " It is , sir , that I can eat no victuals that have any salt in them . "</s>
+<s id='vn130'>Gã bán dầu từ chối bảo rằng hắn ta có lý do , Ali Baba gặng hỏi thì hắn ta trả lời thế này : " thưa Ngài , tại vì tôi không thể ăn thức ăn có muối "</s>
+</spair>
+<spair id='131'>
+<s id='en131'>" If that is all ," said Ali Baba , " let me tell you that there shall be no salt in either the meat or the bread that we eat to-night . "</s>
+<s id='vn131'>" Nếu vậy , " Ali Baba nói , " nghe tôi nói này , sẽ không có muối trong cả thịt hay bánh mì chúng ta ăn đêm nay . "</s>
+</spair>
+<spair id='132'>
+<s id='en132'>He went to give this order to Morgiana , who was much surprised .</s>
+<s id='vn132'>Anh truyền lệnh này cho người hầu Morgiana , cô ấy rất bất ngờ .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" Who is this man , " she said , " who eats no salt with his meat ? "</s>
+<s id='vn133'>" Người này là ai , " cô ấy nói , " người này không ăn muối với thịt à "</s>
+</spair>
+<spair id='134'>
+<s id='en134'>" He is an honest man , Morgiana , " returned her master ; " therefore do as I bid you . "</s>
+<s id='vn134'>" Ông ấy là người thành thật , Morgiana " chủ nhân cô đáp lại , " do đó , tôi mới sai cô làm thế "</s>
+</spair>
+<spair id='135'>
+<s id='en135'>But she could not withstand a desire to see this strange man , so she helped Abdallah to carry up the dishes , and saw in a moment that Cogia Hassan was the robber Captain , and carried a dagger under his garment .</s>
+<s id='vn135'>Nhưng cô ấy không thể nhịn được nỗi tò mò muốn thấy được người đàn ông lạ này , vì vậy cô ấy giúp Abdallah mang đĩa bày thức ăn , và trong chốc lát nhận ra Cogia Hassan là tên tướng cướp , mang dao găm dưới lớp quần áo .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>" I am not surprised , " she said to herself , "that this wicked man , who intends to kill my master , will eat no salt with him ; but I will hinder his plans . "</s>
+<s id='vn136'>" Mình chẳng ngạc nhiên gì cả , " cô ấy tự nói với chính mình , " lão đàn ông độc ác này , dự định giết chủ nhân mình , không chịu ăn muối với chủ mình ; nhưng mình phải tìm cách cản trở kế hoạch của lão mới được . "</s>
+</spair>
+<spair id='137'>
+<s id='en137'>She sent up the supper by Abdallah , while she made ready for one of the boldest acts that could be thought on .</s>
+<s id='vn137'>Cô nhờ Abdallah đem bữa tối lên , trong khi cô ấy chuẩn bị cho một hành động liều lĩnh nhất .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>When the dessert had been served , Cogia Hassan was left alone with Ali Baba and his son , whom he thought to make drunk and then to murder them .</s>
+<s id='vn138'>Khi món tráng miệng được dọn ra , Cogia Hassan còn lại một mình với Ali Baba và con trai , gã ta nghĩ ra cách để phục rượu rồi giết họ .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Morgiana , meanwhile , put on a headdress like a dancing-girl 's , and clasped a girdle round her waist , from which hung a dagger with a silver hilt , and said to Abdallah , " Take your tabor , and let us go and divert our master and his guest . "</s>
+<s id='vn139'>Trong khi đó , Morgiana , mang khăn trùm đầu như vũ nữ , và cài thắt lưng quanh eo , giắt cái dao găm cán bạc ở đó và nói với Abdallah , " lấy trống cơm của bạn đi , và chúng ta đi làm vui cho ông chủ và lão khách "</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Abdallah took his tabor and played before Morgiana until they came to the door , where Abdallah stopped playing and Morgiana made a low courtesy .</s>
+<s id='vn140'>Abdallah lấy trống cơm mình và chơi trước mặt Morgiana cho đến khi họ đến cửa , lúc đó Abdallah ngừng lại và cùng Morgiana chào khách .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>" Come in , Morgiana , " said Ali Baba , " and let Cogia Hassan see what you can do " ; and , turning to Cogia Hassan , he said , " She 's my slave and my housekeeper . "</s>
+<s id='vn141'>" Vào đi , Morgiana " Ali Baba nói , " và hãy cho Cogia Hassan xem màn trình diễn của các bạn đi " và sau đó hướng về Cogia Hassan , anh nói " cô ấy là nô lệ đồng thời cũng là quản gia của tôi . "</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Cogia Hassan was by no means pleased , for he feared that his chance of killing Ali Baba was gone for the present ; but he pretended great eagerness to see , Abdallah began to play and Morgiana to dance .</s>
+<s id='vn142'>Cogia Hassan tỏ vẻ không hài lòng , sợ rằng cơ hội giết Ali Baba giờ đây không thành ; nhưng gã ta giả vờ háo hức để xem Abdallah chơi trống và Morgiana múa .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>After she had performed several dances she drew her dagger and made passes with it , sometimes pointing it at her own breast , sometimes at her master 's , as if it were part of the dance .</s>
+<s id='vn143'>Sau khi cô ấy thực hiện xong vài động tác múa , liền rút dao găm ra và quay vòng vòng , thỉnh thoảng chĩa vào ngực của cô ấy , đôi khi chĩa vào chủ , như thể đó là một động tác múa .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Suddenly , out of breath , she snatched the tabor from Abdallah with her left hand , and , holding the dagger in her right hand , held out the tabor to her master .</s>
+<s id='vn144'>Bất ngờ , nín thở , cô ấy lấy tay trái giựt cái trống cơm từ Abdallah , rồi cầm dao găm bằng tay phải , đưa cái trống cơm cho chủ nhân mình .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Ali Baba and his son put a piece of gold into it , and Cogia Hassan , seeing that she was coming to him , pulled out his purse to make her a present , but while he was putting his hand into it Morgiana plunged the dagger into his heart .</s>
+<s id='vn145'>Baba và con trai đặt một miếng vàng vào đó , và Hassan , khi thấy cô ấy tiến về phía hắn ta , rút ví ra để trao cho cô ấy món quà , nhưng trong khi gã ta lom khom lấy ví , Morgiana đâm lưỡi dao găm cắm phập vào tim hắn .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>" Unhappy girl ! " cried Ali Baba and his son , " what have you done to ruin us ? "</s>
+<s id='vn146'>" Cô bị làm sao thế ! " Ali Baba và con trai hét toáng lên , " cô làm thế phá hỏng cuộc vui của chúng tôi à ? "</s>
+</spair>
+<spair id='147'>
+<s id='en147'>" It was to preserve you , master , not to ruin you , " answered Morgiana .</s>
+<s id='vn147'>" Tôi làm thế là để bảo vệ ông chủ đấy , không có ý phá hỏng cuộc vui đâu " , Morgiana trả lời .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>" See here , " opening the false merchant 's garment and showing the dagger ; " see what an enemy you have entertained !</s>
+<s id='vn148'>" Xem đây này , " , cô cởi bộ quần áo của gã thương gia giả mạo ra và chỉ cho hai người thấy cái dao găm ; " thấy bộ mặt kẻ thù của ông chưa !</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Remember , he would eat no salt with you , and what more would you have ?</s>
+<s id='vn149'>Ông nhớ lại đi , hắn ta không chịu ăn muối , thấy chưa ?</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Look at him !</s>
+<s id='vn150'>Nhìn này !</s>
+</spair>
+<spair id='151'>
+<s id='en151'>He is both the false oil merchant and the Captain of the Forty Thieves . "</s>
+<s id='vn151'>Gã ta vừa là tên bán dầu giả mạo vừa tên tướng cướp của bốn mươi tên kia "</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Ali Baba was so grateful to Morgiana for thus saving his life that he offered her to his son in marriage , who readily consented , and a few days after the wedding was celebrated with greatest splendor .</s>
+<s id='vn152'>Ali Baba hết sức biết ơn Morgiana vì đã cứu cuộc đời ông đến nỗi ông cưới cô ta cho con trai mình và vài ngày sau đó đám cưới đã được tổ chức trọng thể .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>At the end of a year , Ali Baba set out to the cave .</s>
+<s id='vn153'>Vào cuối một năm kia , Ali Baba liền đến cái hang cũ .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>The door opened on his saying , " Open Sesame ! " He went in , and saw that nobody had been there since the Captain left it .</s>
+<s id='vn154'>Cánh cửa mở ra khi anh đọc câu thần chú " Vừng ơi , mở ra ! " Anh đi vào , và thấy không ai ở đó kể từ khi tên tướng cướp bỏ đi .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>He brought away as much gold as he could carry , and returned to town .</s>
+<s id='vn155'>Anh mang ra đủ lượng vàng mình có thể mang đi và trở lại thành phố .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>He told his son the secret of the cave , which his son handed down in his turn , so the children and grandchildren of Ali Baba were rich to the end of their lives .</s>
+<s id='vn156'>Anh nói cho con trai biết bí mật về cái hang , con trai của anh truyền lại cho đời sau , vì thế con cháu của Ali Baba giàu có cho đến cuối đời .</s>
+</spair>
+</text>
+</doc>

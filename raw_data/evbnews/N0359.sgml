@@ -1,0 +1,152 @@
+﻿<doc id='N0359'>
+<head>
+<title>Hands on with Sony 's new F Series , Z Series VAIO notebooks</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Hands on with Sony 's new F Series , Z Series VAIO notebooks</s>
+<s id='vn1'>Sờ tận tay máy tính xách tay Sony VAIO mới dòng F và Z</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Sony at CES introduced several new Z Series and F Series VAIO notebooks based on Intel 's Core i5 and i7 platforms .</s>
+<s id='vn2'>Hãng Sony tại Triển Lãm Điện tử Tiêu dùng đã giới thiệu một số mẫu máy tính xách tay VAIO mới thuộc dòng Z và F dựa trên nền tảng Intel Core i5 và i7 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The 13-inch Z Series design is attractive and extremely light , weighing under 3 lbs , as the frame is constructed from carbon fiber and machined aluminum .</s>
+<s id='vn3'>Dòng Z 13-inch được thiết kế là cực kỳ hấp dẫn và nhẹ , trọng lượng dưới 3 lbs với khung máy được làm từ sợi carbon và nhôm gia công .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The notebook offers backlit keys and a keyboard design that closely matches Apple 's aluminum MacBooks .</s>
+<s id='vn4'>Chiếc máy tính xách tay này được trang bị các phím backlit và kiểu bàn phím được thiết kế gần giống với bàn phím MacBook nhôm của Apple .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Despite its small size , the Z is available with a choice between Intel 's Core i5 or Core i7 CPUs .</s>
+<s id='vn5'>Mặc dù có kích thước nhỏ nhưng dòng Z có sẵn với một sự lựa chọn giữa CPU Intel Core i5 hoặc Core i7 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Sony also chose to pack a 1600x900 resolution display into a 13-inch footprint , while LED backlighting allowed the screen to remain clear and vibrant even under the bright lights of the Las Vegas Convention Center .</s>
+<s id='vn6'>Sony cũng trang bị cho nó một màn hình LED 13 inch có độ phân giải 1600x900 , trong khi đó đèn nền LED cho phép màn hình duy trì độ rực rỡ và rõ ràng ngay cả dưới ánh sáng chói của trung tâm Las Vegas Convention .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>NVIDIA 's 9300M GS graphics components can be switched off to conserve power -- another feature similar to certain high-end MacBooks .</s>
+<s id='vn7'>Thành phần đồ họa NVIDIA 9300M GS có thể được tắt để tiết kiệm điện - một tính năng khác tương tự như các dòng MacBook cao cấp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Unlike the Macs systems , however , users do not need to log out before switching modes .</s>
+<s id='vn8'>Tuy nhiên , không giống như các hệ thống Mac , người dùng không cần phải thoát khỏi hệ thống trước khi chuyển chế độ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A switch provides another option to automatically initiate the dedicated graphics when additional acceleration is needed .</s>
+<s id='vn9'>Một nút chuyển đổi cung cấp một tùy chọn khác để tự động bắt đầu tăng tốc đồ họa chuyên dụng khi cần thiết .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The F Series is claimed to be Sony 's foray into multimedia and gaming notebooks .</s>
+<s id='vn10'>Dòng F được tuyên bố là sự đột phá của hãng Sony trong dòng máy tính xách tay đa phương tiện và chơi game .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The Core i7-based notebook features a 16.4-inch display with 1920x1080 resolution with the high-end package , while the entry model offers 1600x900 resolution .</s>
+<s id='vn11'>Máy tính xách tay dựa trên Core i7 được trang bị màn hình 16,4-inch với độ phân giải 1920x1080 với phần mềm cao cấp , trong khi các loại khác chỉ cung cấp phân giải 1600x900 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>NVIDIA 's GeForce GT 330M or 320M GPUs handle the graphics acceleration , although the battery life is claimed to fall around three hours .</s>
+<s id='vn12'>Card đồ họa NVIDIA GeForce GT 330M hoặc 320M GPU xử lí tăng tốc đồ họa , mặc dù tuổi thọ pin được tuyên bố là dùng khoảng ba giờ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Like many larger notebooks , the F is fairly bulky and weighs in at 6.9 lbs .</s>
+<s id='vn13'>Giống như nhiều máy tính xách tay cỡ lớn , dòng F khá cồng kềnh và nặng 6,9 lbs .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>For users accustomed to centered keyboards , Sony 's offset layout might feel awkward .</s>
+<s id='vn14'>Đối với người dùng quen với các bàn phím chính giữa , bố trí khoảng trống của Sony có thể cảm thấy bất tiện .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The company integrates a numerical keypad into the right side , instead of leaving empty space on both sides .</s>
+<s id='vn15'>Hãng tích hợp một bàn phím số vào phía bên phải thay vì để lại không gian trống trên cả hai bên .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The Z Series will ship sometime in April , with prices starting at $ 1900 .</s>
+<s id='vn16'>Dòng Z sẽ được bày bán vào tháng tư với mức giá khởi điểm 1.900 $ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The F Series is now available and fetches $ 1000 for the basic configuration .</s>
+<s id='vn17'>The Dòng F bây giờ đã có và $ 1.000 cho cấu hình cơ bản .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Sony network attacked again , hackers claim</s>
+<s id='vn18'>Mạng Sony lại bị tấn công , tin tặc tuyên bố</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A hacker group has claimed it has attacked the Sony network and stolen more than one million passwords , email addresses and other information .</s>
+<s id='vn19'>Một nhóm tin tặc tuyên bố vừa tấn công mạng thông tin Sony và đánh cắp hơn một triệu mật khẩu , địa chỉ thư điện tử và các thông tin khác .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Lulz Security said it broke into servers that run SonyPictures.com .</s>
+<s id='vn20'>Lulz Security cho biết nhóm này đã đột nhập vào các máy chủ điều hành địa chỉ SonyPictures.com .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Sony said it was aware of Lulz Security 's statement and was investigating , the Associated Press reported .</s>
+<s id='vn21'>Hãng Associated Press tường thuật , Sony nói họ biết tuyên bố của Lulz Security và đang điều tra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In April , hackers broke into Sony 's PlayStation Network and stole data from more than 77 million accounts .</s>
+<s id='vn22'>Vào tháng Tư , các tin tặc đột nhập vào PlayStation Network của Sony và đánh cắp dữ liệu từ hơn 77 triệu tài khoản .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>That attack was considered the biggest in internet history and led to Sony shutting down the PlayStation Network and other services for almost a month .</s>
+<s id='vn23'>Vụ tấn công ấy được xem là lớn nhất trong lịch sử mạng Internet và dẫn đến việc Sony đóng cửa PlayStation Network và các dịch vụ khác trong gần một tháng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The company has estimated the data breach will result in a $ 170m ( £104 m ) hit to its operating profit .</s>
+<s id='vn24'>Công ty này ước tính vụ xâm phạm dữ liệu sẽ gây thiệt hại 170 triệu đô-la ( 104 bảng Anh ) cho lợi nhuận kinh doanh của họ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Since then , Sony 's networks have become targets for hackers and the company has confirmed at least four other break-ins prior to the claimed attack on Sony Pictures .</s>
+<s id='vn25'>Kể từ đó , các hệ thống mạng của Sony trở thành mục tiêu cho tin tặc và công ty này xác nhận ít nhất bốn vụ xâm nhập khác trước khi xảy vụ tấn công vào Sony Pictures đã tuyên bố .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Lulz Security claims to be behind one of those attacks : an assault on Sony Music Japan .</s>
+<s id='vn26'>Lulz Security tuyên bố mình đứng sau một trong các vụ tấn công ấy : vụ tấn công vào Sony Music Japan .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The latest alleged attack will come as a blow to the Japanese firm , 24 hours after it announced the PlayStation Network would be fully restored in the US and Europe , and said it had beefed up its security systems .</s>
+<s id='vn27'>Vụ tấn công mới nhất được viện dẫn sẽ là đòn giáng vào hãng Nhật Bản này , 24 giờ sau khi họ thông báo PlayStation Network sẽ được khôi phục hoàn toàn tại Mỹ và Châu Âu , và cho biết họ đã củng cố các hệ thống an ninh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Asking for it "</s>
+<s id='vn28'>" Tự chuốc họa "</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In a statement on Thursday , Lulz Security said it had hacked into a database that included unencrypted passwords as well as names , addresses and dates of birth of Sony customers .</s>
+<s id='vn29'>Trong một tuyên bố vào thứ Năm , Lulz Security cho biết họ đã đột nhập vào một cơ sở dữ liệu có chứa các mật khẩu không được mã hóa cũng như tên , địa chỉ và ngày sinh của khách hàng Sony .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" From a single injection , we accessed EVERYTHING, " it said .</s>
+<s id='vn30'>" Chỉ từ một cú đột nhập thôi , chúng tôi đã truy cập TẤT CẢ MỌI THỨ , " họ nói .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" Why do you put such faith in a company that allows itself to become open to these simple attacks ? "</s>
+<s id='vn31'>" Tại sao các người lại đặt niềm tin vào một công ty tự cho phép mình phơi ra trước những hành vi tấn công đơn giản thế này ? "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" What 's worse is that every bit of data we took was n't encrypted .</s>
+<s id='vn32'>" Tệ hơn nữa là từng bit dữ liệu chúng tôi lấy được đều không được mã hóa .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Sony stored over 1,000,000 passwords of its customers in plain text , which means it 's just a matter of taking it .</s>
+<s id='vn33'>Sony lưu trữ hơn 1.000.000 mật khẩu khách hàng mình dưới dạng thuần văn bản , có nghĩa là chỉ là vấn đế lấy ra mà thôi .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" This is disgraceful and insecure : they were asking for it . "</s>
+<s id='vn34'>" Điều này thật hổ thẹn và không an toàn : họ tự chuốc họa vào thân . "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The group also recently claimed responsibility for hacking the website of the PBS network and posting a fake story in protest at a news programme about WikiLeaks .</s>
+<s id='vn35'>Nhóm này mới đây cũng tuyên bố nhận trách nhiệm đã tấn công website của hệ thống PBS và đăng lên một câu chuyện giả để phản đối một chương trình tin tức về Wikileaks .</s>
+</spair>
+</text>
+</doc>

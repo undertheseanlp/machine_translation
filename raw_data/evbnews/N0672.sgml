@@ -1,0 +1,100 @@
+﻿<doc id='N0672'>
+<head>
+<title>Losing your ass</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Losing your ass</s>
+<s id='vn1'>Đánh mất con lừa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The boy rode on the donkey and the old man walked .</s>
+<s id='vn2'>Một cậu bé cưỡi trên lưng một con lừa và một ông cụ đi bộ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>As they went along , they passed some people who remarked , " it was a shame the old man was walking and the boy was riding . "</s>
+<s id='vn3'>Khi họ đi chung với nhau , họ đi ngang qua vài người và người ta đã chê bai " Thật là xấu hổ khi một ông lão đi bộ còn thằng nhóc thì được cưỡi lừa . "</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The man and the boy thought maybe the critics were right , so they changed positions .</s>
+<s id='vn4'>Ông lão và cậu bé nghĩ có lẽ những lời chỉ trích ấy là đúng nên họ đổi vị trí cho nhau .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Later , they passed some people who remarked , " What a shame , he makes that little boy walk . "</s>
+<s id='vn5'>Lát sau , họ đi ngang qua vài người lại nói " Thật là nhục nhã ông ta lại để cậu bé đi bộ . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>They decided they both would walk !</s>
+<s id='vn6'>Họ quyết định cùng đi bộ !</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Soon they passed some more people who thought they were stupid to walk when they had a decent donkey to ride .</s>
+<s id='vn7'>Không lâu sau đó họ lại đi ngang qua vài người nghĩ rằng họ thật ngu ngốc khi phải lội bộ trong khi có một con lừa tốt để cưỡi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>So they both rode the donkey !</s>
+<s id='vn8'>Vì thế họ cùng cưỡi trên lưng con lừa !</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Now they passed some people that shamed them by saying , " how awful to put such a load on a poor donkey . "</s>
+<s id='vn9'>Giờ họ đi ngang qua vài người đã chọc quê rằng " Thật là kinh khủng khi để một con lừa đáng thương cõng nặng đến thế . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The boy and man said they were probably right so they decided to carry the donkey .</s>
+<s id='vn10'>Cậu bé và ông lão cho rằng có thể họ nói đúng vì thế họ quyết định cùng vác con lừa .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>As they crossed a bridge , they lost their grip on the animal and he fell into the river and drowned .</s>
+<s id='vn11'>Khi đi ngang qua một cây cầu , họ đã vuột tay và con lừa rơi tỏm xuống sông chìm lỉm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>After a moment of silent reflection , the old man turned to the boy and spoke : " We learned a valuable lesson today .</s>
+<s id='vn12'>Sau một hồi lâu nghĩ ngợi , ông lão quay sang cậu bé và nói : " Hôm nay ta đã học được một bài học quý giá .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>When you try to satisfy everyone you end up losing your ass . "</s>
+<s id='vn13'>Khi con cố làm vừa lòng mọi người thì kết cục là con sẽ đánh mất con lừa của mình . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Two Wolves</s>
+<s id='vn14'>Hai con sói</s>
+</spair>
+<spair id='15'>
+<s id='en15'>One evening an old man told his grandson about a battle that goes on inside people .</s>
+<s id='vn15'>Vào buổi tối nọ , một ông lão kể cho đứa cháu trai của mình về cuộc đấu tranh diễn ra bên trong mỗi con người .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He said , " My son , the battle is between two wolves inside us all .</s>
+<s id='vn16'>Ông kể , " Cháu biết không , có một cuộc chiến giữa hai con sói bên trong mỗi con người chúng ta .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>One is Evil .</s>
+<s id='vn17'>Một con là Ác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>It is anger , envy , sorrow , regret , greed , arrogance , self-pity , guilt , resentment , inferiority , lies , false pride , superiority , and ego .</s>
+<s id='vn18'>Đó là sự giận dữ , ganh tị , buồn phiền , hối hận , tham lam , ngạo mạn , ích kỷ , tội lỗi , oán ghét , tự ti , dối trá , kiêu căng , tự tôn và tự cao tự đại .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The other is Good .</s>
+<s id='vn19'>Con kia là Thiện .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It is joy , peace , love , hope , serenity , humility , kindness , benevolence , empathy , generosity , truth , compassion and faith . "</s>
+<s id='vn20'>Đó là niềm vui , hoà bình , tình yêu , hy vọng , thanh thản , khiêm tốn , lòng tốt , sự hào hiệp , sự đồng cảm , sự rộng lượng , sự thật , lòng trắc ẩn và niềm tin . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The grandson thought about it for a minute and then asked his grandfather : " Which wolf wins ? "</s>
+<s id='vn21'>Đứa cháu trai suy nghĩ một chút và rồi hỏi ông : " Con sói nào thắng ? "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The old man simply replied , " The one you feed . "</s>
+<s id='vn22'>Ông lão trả lời ngắn gọn " Con sói mà cháu cho nó ăn "</s>
+</spair>
+</text>
+</doc>

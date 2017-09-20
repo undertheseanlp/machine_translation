@@ -1,0 +1,120 @@
+﻿<doc id='N0002'>
+<head>
+<title>The History of Tulips from Turkey to Holland</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The History of Tulips from Turkey to Holland</s>
+<s id='vn1'>Lịch sử của hoa Tulip từ Thổ Nhĩ Kỳ đến Hà lan</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Tulip were originally a wild flower growing in the Central Asia and were first cultivated by the Turks as early as 1,000 AD .</s>
+<s id='vn2'>Hoa Tulip có nguồn gốc là loài hoa dại mọc ở vùng Trung Á và được người Thổ Nhĩ Kỳ trồng đầu tiên ngay từ năm 1000 sau Công nguyên .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The flower were introduced in the westen Europe and the Netherlands in the 17th century by Carolus Clusius , a famous biologist from Vienna .</s>
+<s id='vn3'>Hoa được đưa vào Tây Âu và Hà Lan vào thế kỷ 17 bởi Carolus Clusius , một nhà nghiên cứu sinh vật học của Vienna .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the 1590 's he became the director of the Hortus Botanicus in Leiden , the oldest botanical garden of Europe , founded in 1587 .</s>
+<s id='vn4'>Vào năm 1590 ông ấy trở thành giám đốc của Hortus Botanicus ở Leiden , một vườn bách thảo xưa nhất của Châu Âu , được thành lập năm 1587 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He was hired by the University of Leiden to research medicinal plants and while doing so he got some bulbs from Turkey from his friend Ogier Ghiselain de Busbecq , the ambassador of Constantinople .</s>
+<s id='vn5'>Ông ấy được trường đại học Leiden thuê về làm nghiên cứu các loài thực vật có dược tính và trong khi làm việc này ông ấy nhận được vài củ từ Thổ Nhĩ Kỳ do bạn ông Ogier Ghiselain de Busbecq , một đại sứ của Constantinople gởi tới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He had seen the beautiful flower , called tulip after the Turkish word for turban , grow in the palace gardens and sent a few to Clusius for his garden in Leiden .</s>
+<s id='vn6'>Ông ấy đã từng nhìn thấy loài hoa xinh đẹp này , có tên là Tulip sau khi một từ trong tiếng Nam Tư " turban " , mọc ở vườn cung điện và gởi cho Clusius vài củ để trồng trong vườn của mình ở Leiden .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>He planted them and this was the start of the amazing bulb fields we can see today .</s>
+<s id='vn7'>Ông ấy đã trồng những cây hoa này và đây là sự bắt đầu của những đồng hoa làm cho người ta ngạc nhiên mà chúng ta thấy ngày nay .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In the beginning of the 17th century the tulip were staring to be used as a garden decoration beside the former medicinal purposes .</s>
+<s id='vn8'>Ngoài mục đích dùng làm thảo dược như trước kia , vào đầu thế kỷ 17 hoa Tulip được dùng để trang trí khu vườn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It soon gained major popularity as a trading product , especially in Holland .</s>
+<s id='vn9'>Chẳng bao lâu nó đã được biết rộng rãi như một sản phẩm thương mại , nhất là ở Hà lan .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The interest for the flower were huge and bulbs were sold for unbelievable high prices .</s>
+<s id='vn10'>Điều thích thú đối với loài hoa này là rất nhiều và củ của nó được bán với giá cao không thể tin nổi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Botanists started to hybridize the flower and they soon found ways of making it even more decorative and tempting specimens .</s>
+<s id='vn11'>Các nhà thực vật học bắt đầu lai ghép hoa và chẳng mấy chốc đã phát hiện ra nhiều cách làm nó thành những vật mẫu để trang trí và có sức lôi cuốn hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Hybrids and mutations of the flower were seen as rarities and a sign of high status .</s>
+<s id='vn12'>Cây lai và các dạng đột biến của hoa được xem là của hiếm và là dấu hiệu của vị thế cao .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In the months of late 1636 to early 1637 there was a complete " Tulipmania " in the Netherlands .</s>
+<s id='vn13'>Những tháng cuối năm 1636 đến đầu năm 1637 Hà Lan là nước hoàn toàn bị " hội chứng Nghiện Tulip " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Some examples could cost more than an Amsterdam house at this time .</s>
+<s id='vn14'>Vài mẫu có thể mua đắt hơn cả một ngôi nhà ở Amsterdam lúc bấy giờ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Even the ordinary man took part in the business .</s>
+<s id='vn15'>Ngay cả người thường cũng làm kinh doanh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They saw how much money the upper class got in the commodity and thought that this was an easy way of getting lots of money at no risk .</s>
+<s id='vn16'>Họ thấy được số tiền mà giới thượng lưu kiếm từ mặt hàng này và nghĩ rằng đây là cách kiếm tiền dễ dàng nhất mà không phải rủi ro gì .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The bulbs was usually sold by weight while they were still in the ground .</s>
+<s id='vn17'>Củ thường được cân bán khi chúng còn ở dưới đất .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The traders made huge amounts of money every month , and people started to sell their businesses , family homes , farm animals , furnishings and dowries to participate .</s>
+<s id='vn18'>Thương nhân kiếm được một số tiền khổng lồ hàng tháng , và người ta bắt đầu bán công ty , nhà cửa , động vật nuôi , đồ đạc , và của hồi môn của mình để tham gia .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The government could not do anything to stop it , the trade was all about supply and demand .</s>
+<s id='vn19'>Chính phủ không thể làm gì để ngăn chặn được , thương mại chủ yếu là cung và cầu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But finally the tulip did not appear to be quite so rare to justify such high prices .</s>
+<s id='vn20'>Nhưng cuối cùng hoa tulip không có vẻ hoàn toàn quá hiếm để chứng minh giá cao như vậy .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Over-supply led to lower prices and dealers went bankrupt and many people lost their savings because of the trade .</s>
+<s id='vn21'>Cung vượt quá cầu dẫn đến việc hạ giá thành và nhiều thương gia bị phá sản và nhiều người mất đi khoản dành dụm của mình do bán buôn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This " Tulip Crash " made the government introduce special trading restrictions for the flower .</s>
+<s id='vn22'>" Tai hoạ Tulip " này đã làm cho chính phủ đưa ra giới hạn kinh doanh đặc biệt dành cho hoa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It is said that the flower became so popular because of the bright colours , dramatic flames and frilly petals .</s>
+<s id='vn23'>Người ta nói rằng hoa trở nên quá được ưa chuộng vì màu sắc tươi sáng , ánh hồng thật ấn tượng và cánh hoa có diềm xếp nếp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>In the 20th century they discovered that the frilly petals and dramatic flames that gave the flower its stunning look , in fact were the symptoms of an infection by the mosaic virus .</s>
+<s id='vn24'>Vào thế kỷ 20 người ta phát hiện ra rằng cánh hoa có diềm xếp nếp và ánh hồng thật ấn tượng mang lại cho hoa vẻ ngoài hấp dẫn , mà thực tế là triệu chứng của chứng bệnh lây lan do vi rút bệnh khảm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The healthy flower were supposed to be solid , smooth and monotone .</s>
+<s id='vn25'>Hoa khỏe phải đặc , trơn và đều .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The virus came to the tulip from a louse living on peaches and potatoes .</s>
+<s id='vn26'>Vi rút đến hoa tulip từ côn trùng sống bám vào khoai tây và trái đào .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>These diseased varieties are no longer sold , what you can find is hybrids that look similar but are genetically stable .</s>
+<s id='vn27'>Các thứ biến dạng bị bệnh này không còn được bán nữa , những thứ bạn có thể thấy là những cây lai trông có vẻ tương tự nhưng được di truyền ổn định .</s>
+</spair>
+</text>
+</doc>

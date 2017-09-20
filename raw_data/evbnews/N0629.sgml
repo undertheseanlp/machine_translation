@@ -1,0 +1,144 @@
+﻿<doc id='N0629'>
+<head>
+<title>The Forgiveness Tree</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Forgiveness Tree</s>
+<s id='vn1'>Cây tha thứ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I once heard a story about a young man who had to stand trial for a crime he was accused of committing .</s>
+<s id='vn2'>Tôi từng nghe được câu chuyện về một chàng trai phải ra tòa vì tội lỗi mà anh đã bị cáo buộc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>His father , a wealthy and well-known rancher , was present for the proceedings .</s>
+<s id='vn3'>Cha anh là một chủ trại nuôi súc vật giàu có và nổi tiếng , cũng tham dự phiên tòa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>After cross examination and a jury 's deliberation , the young man was found guilty as charged .</s>
+<s id='vn4'>Sau khi bồi thẩm đoàn xem xét và cân nhắc kỹ lưỡng , thì anh thanh niên phạm tội như đã bị cáo buộc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>His punishment was a prison sentence which would take years to complete .</s>
+<s id='vn5'>Anh phải ở tù nhiều năm trời mới mãn hạn , đó là hình phạt dành cho anh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>As he was handcuffed to be led away to his prison cell , his father looked at his son one last time and said , " I will never forgive you .</s>
+<s id='vn6'>Khi anh bị xích tay và dẫn tới xà lim của mình , cha anh nhìn đứa con trai lần cuối , nói rằng " Bố sẽ chẳng bao giờ tha thứ cho con .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>You have brought disgrace on this family .</s>
+<s id='vn7'>Con đã làm cho gia đình này nhục nhã .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>When you have done your time , you are not welcome home again . "</s>
+<s id='vn8'>Khi con hết hạn tù thì đừng về nhà nữa , không ai mong con đâu . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The young man hung his head in shame and walked away .</s>
+<s id='vn9'>Anh thanh niên gục đầu hổ thẹn và bước đi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Years past and the man , no longer young , had paid for his crime .</s>
+<s id='vn10'>Năm tháng qua đi và giờ đây anh thanh niên không còn trẻ nữa , đã mãn hạn tù .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>With supreme effort , he wrote to his dad begging his forgiveness in the months before his release .</s>
+<s id='vn11'>Nhiều tháng trước khi được thả tự do anh đã dốc hết nỗ lực của mình viết thư cho cha anh để cầu xin ông tha thứ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In the letter , he wrote :</s>
+<s id='vn12'>Trong lá thư anh viết :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Daddy , I am almost ready to be released from prison .</s>
+<s id='vn13'>" Bố , con sắp mãn hạn tù rồi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>I will be on the train that will go right past the ranch .</s>
+<s id='vn14'>Xe lửa của con sẽ chạy ngang qua trại nuôi súc vật .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>If you have forgiven me , please tie a white ribbon to the tree by the fence .</s>
+<s id='vn15'>Nếu bố tha thứ cho con thì xin bố hãy cột một dải ru-băng trắng trên cây gần bên hàng rào bố nhé .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>If the white ribbon is not there , I wo n't get off the train , but will keep on going and will never bother you again . "</s>
+<s id='vn16'>Nếu con không thấy dải vải trắng ở đó thì con sẽ không xuống xe lửa và con sẽ đi tiếp và chẳng bao giờ làm phiền bố nữa . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The days past and the newly released prisoner boarded the train .</s>
+<s id='vn17'>Ngày qua đi và người tù vừa mới được thả tự do đã lên tàu lửa về nhà .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>As the train neared his father 's ranch , he could n't bear to look out the window to see his father 's response to his letter .</s>
+<s id='vn18'>Khi xe lửa chạy gần đến trại nuôi súc vật của bố , anh không thể nào nhìn ra cửa sổ để xem câu trả lời của bố dành cho lá thư của mình như thế nào .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>So he asked the man sitting across the aisle if he would look for him .</s>
+<s id='vn19'>Thế nên anh nhờ người đàn ông ngồi đối điện dãy ghế của anh tìm dùm anh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Tell me if there is a white ribbon in the tree by the fence . "</s>
+<s id='vn20'>" Xin nói cho tôi biết nếu ông thấy có dải ru-băng trắng trên cây kế bên hàng rào nhé . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The other passenger stared out the window as the train passed by the ranch .</s>
+<s id='vn21'>Người hành khách nhìn chằm chằm ra cửa sổ khi xe lửa chạy ngang qua trại nuôi súc vật .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The man held his breath waiting to hear whether he had been accepted or rejected .</s>
+<s id='vn22'>Anh đã nín thở chờ nghe liệu xem mình có được chấp nhận hay là bị từ chối .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>He dared to ask ,</s>
+<s id='vn23'>Rồi anh lấy hết can đảm hỏi ,</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Do you see a white ribbon in the tree ? "</s>
+<s id='vn24'>" Ông có thấy dải ru-băng trắng trên cây không ? "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" No , " came the reply .</s>
+<s id='vn25'>" Không , " người đàn ông trả lời .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The man 's heart fell into his shoes .</s>
+<s id='vn26'>Trái tim anh như nghẹt lại .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>He had so hoped that time would have softened his father 's heart toward him .</s>
+<s id='vn27'>Anh đã hi vọng rằng thời gian sẽ làm cho bố anh nguôi ngoai trong lòng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" No , " the other passenger repeated .</s>
+<s id='vn28'>" Không , " người hành khách nhắc lại .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" There is n't one white ribbon , but hundreds of white ribbons hanging from all the trees , and all along the fence .</s>
+<s id='vn29'>" Không có một dải ru-băng trắng mà là hàng trăm dải ru-băng trắng treo trên tất cả các cây dọc theo hàng rào .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>What does it mean ? "</s>
+<s id='vn30'>Có nghĩa gì thế ? "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The forgiven rancher 's son jumped for joy .</s>
+<s id='vn31'>Cậu con trai được tha thứ của người chủ trại chăn nuôi nhảy cẫng lên vui sướng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" What does it mean ? " he repeated .</s>
+<s id='vn32'>Anh ấy lại to lên , " Có nghĩa gì à ? " .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" It means that my daddy has forgiven me and I am to home ! "</s>
+<s id='vn33'>" Có nghĩa là bố tôi đã tha thứ cho tôi và tôi sẽ về nhà đây ! "</s>
+</spair>
+</text>
+</doc>

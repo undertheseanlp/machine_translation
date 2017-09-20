@@ -1,0 +1,232 @@
+﻿<doc id='N0633'>
+<head>
+<title>What Willa Knew</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What Willa Knew</s>
+<s id='vn1'>Những Gì Willa Biết</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Kate Reynolds</s>
+<s id='vn2'>Kate Reynolds</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" Willa Cather sat under the tree all morning again , " Alan said .</s>
+<s id='vn3'>" Willa Cather lại ngồi dưới cái cây cả buổi sáng , " Alan nói .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I did n't have to ask what Willa was doing under the hundred-foot pine that dominated our backyard .</s>
+<s id='vn4'>Tôi không cần hỏi Willa đang làm cái gì dưới cây thông cao trăm phút sừng sững trong vườn sau của chúng tôi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>She crouched under the branches day after day , hoping a bird would fall out of its nest .</s>
+<s id='vn5'>Nó thu mình lại dưới các nhánh cây từ ngày này qua ngày kia , hi vọng một con chim sẽ rơi khỏi tổ của mình .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Willa , who resembled an overstuffed penguin , was the least athletic of our four cats .</s>
+<s id='vn6'>Willa trông giống như một con chim cánh cụt bụng phệ , và là con ít khoẻ mạnh nhất trong bốn con mèo của chúng tôi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>When young , she 'd never taken to hunting the way her siblings had .</s>
+<s id='vn7'>Khi còn nhỏ , nó không bao giờ săn mồi như các anh chị em của nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>She preferred canned food , served twice daily .</s>
+<s id='vn8'>Nó thích đồ ăn đóng hộp , và được cho ăn một ngày hai lần .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Now old and heavy , Willa showed even less inclination to hunt .</s>
+<s id='vn9'>Bây giờ già và nặng nề , Willa thậm chí có vẻ ít muốn đi săn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>She 'd taken to hunkering under the tree , head tilted up ward , gaze fixed .</s>
+<s id='vn10'>Nó thường ngồi chồm hổm sát mặt đất dưới gốc cây , nghếch đầu lên , nhìn chằm chằm bất động .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Willa knew that birds have nests .</s>
+<s id='vn11'>Willa biết lũ chim có tổ của chúng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>She must have figured that , eventually , her luck would change .</s>
+<s id='vn12'>Hẳn nó đã nghĩ rằng , cuối cùng , may mắn sẽ mỉm cười với nó .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Next morning , fat Willa claimed her usual spot , whiskers aquiver .</s>
+<s id='vn13'>Sáng hôm sau , Willa béo ú vẫn ra ngồi chỗ thường lệ của nó , rung rung ria mép .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Wo n't work , " I called to her .</s>
+<s id='vn14'>" Sẽ không làm được gì đâu , " tôi gọi nó .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Birds hardly ever fall out of trees .</s>
+<s id='vn15'>" Bọn chim hầu như không bao giờ rơi ra khỏi cây .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Get real . "</s>
+<s id='vn16'>Mày hãy thực tế đi . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Willa ignored my advice and sat under the tree all spring .</s>
+<s id='vn17'>Willa lờ đi lời khuyên của tôi và ngồi dưới gốc cây nguyên cả mùa xuân .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>One day , Willa did n't show up in her usual spot .</s>
+<s id='vn18'>Một ngày nọ , Willa không xuất hiện ở chỗ thường lệ của nó nữa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Good , she 'd finally learned .</s>
+<s id='vn19'>Tốt , cuối cùng nó cũng hiểu ra .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But I was mistaken .</s>
+<s id='vn20'>Nhưng tôi đã nhầm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Willa had apparently realized her current scheme was unworkable , and , by early summer , she 'd refined her plan .</s>
+<s id='vn21'>Willa rõ ràng nhận thấy kế hoạch hiện thời của nó là bất khả thi , và , vào đầu hè , nó đã cải tiến kế hoạch của mình .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Who dragged in the mouse ? "</s>
+<s id='vn22'>" Ai lôi con chuột vào ? "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I asked one June evening .</s>
+<s id='vn23'>Một buổi tối tháng sáu tôi hỏi . .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" I 'll take care of it , " Alan said .</s>
+<s id='vn24'>" Tôi lo chuyện này cho , " Alan nói .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" Must have been Thackeray . "</s>
+<s id='vn25'>" Chắc là Thackeray . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I said nothing , but I had reason to believe it was n't either of our boys .</s>
+<s id='vn26'>Tôi không nói gì , nhưng tôi có lý do để tin rằng không ai trong mấy cậu chàng của chúng tôi làm điều đó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Thackeray had napped all afternoon , and **** ens never hunted mice .</s>
+<s id='vn27'>Thackeray đã ngủ cả buổi chiều , và **** ens không bao giờ săn bắt chuột .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>That left Charlotte Bront or ... non , impossible .</s>
+<s id='vn28'>Chỉ còn lại Charlotte Bront hoặc ... không , không thể .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Dead mice continued to appear .</s>
+<s id='vn29'>Chuột chết vẫn tiếp tục xuất hiện .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Our puzzlement grew to amazement when we concluded that Willa , and only Willa , could be catching the mice .</s>
+<s id='vn30'>Tình trạng bối rối của chúng tôi chuyển sang kinh ngạc khi chúng tôi kết luận rằng Willa , và chỉ có Willa , mới có thể bắt chuột .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Still , we could n't quite believe it .</s>
+<s id='vn31'>Tuy thế , chúng tôi không hoàn toàn tin điều đó .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" How does she do it ?</s>
+<s id='vn32'>" Nó làm điều này bằng cách nào ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>She 's too fat , too old to hunt . "</s>
+<s id='vn33'>Nó quá mập và quá già cho việc đi săn . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Next day , I tracked her .</s>
+<s id='vn34'>Ngày hôm sau , tôi theo dấu nó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" She 's not going far , " I reported .</s>
+<s id='vn35'>" Nó không đi xa , " tôi tường thuật lại .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" There 's a pack of mice under the woodpile . "</s>
+<s id='vn36'>" Có một lũ chuột dưới đống củi . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Toward summer 's end , I followed Willa into the backyard .</s>
+<s id='vn37'>Gần cuối mùa hè , tôi theo Willa vào vườn sau .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>I brought a chair and a large cup of coffee , expecting a long wait .</s>
+<s id='vn38'>Tôi mang một cái ghế và một tách cà phê lớn , vì biết rằng sẽ đợi lâu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Mousing with Willa is not a sport for the impatient .</s>
+<s id='vn39'>Săn chuột với Willa không phải là một môn thể thao nóng vội .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>I waited and watched .</s>
+<s id='vn40'>Tôi chờ đợi và theo dõi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Willa 's plan was ingenious .</s>
+<s id='vn41'>Kế hoạch của Willa rất tài tình .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>She climbed the woodpile and crouched above the den opening .</s>
+<s id='vn42'>Nó leo lên đống củi và thu mình lại trên cửa hang .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>She perched , motionless , until her prey grew complacent .</s>
+<s id='vn43'>Nó nằm yên lặng trên cao , chờ đến lúc con mồi của mình trở nên chủ quan .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>When a mouse ventured out , Willa 's black paw slammed him down .</s>
+<s id='vn44'>Khi một con chuột liều lĩnh chạy ra , bàn chân đen của Willa sẽ vồ lấy nó .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>That summer , Willa did in the entire rodent pack .</s>
+<s id='vn45'>hè đó , Willa đã tiêu diệt toàn bộ lũ gậm nhấm ấy .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>One after another , they fell to her patient paw .</s>
+<s id='vn46'>Lần lượt hết con này đến con kia rơi vào móng vuốt kiên nhẫn của nó .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Willa stretches out on my lap .</s>
+<s id='vn47'>Willa duỗi người trong lòng tôi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>She turned sixteen not long ago , but , tomorrow , we have an appointment with her vet .</s>
+<s id='vn48'>Nó đã bước qua tuổi mười sáu cách đây không lâu , nhưng , ngày mai , chúng tôi có cuộc hẹn với bác sĩ thú y của nó .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Willa has cancer .</s>
+<s id='vn49'>Willa bị ung thư .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>There 's nothing else we can do .</s>
+<s id='vn50'>Chúng tôi không thể làm gì khác được .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>I ruffle Willa 's fur and realize how lucky I am to know her .</s>
+<s id='vn51'>Tôi vuốt xù lông của Willa lên và nhận ra rằng mình đã may mắn thế nào khi quen biết nó .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Smart cat .</s>
+<s id='vn52'>Một cô mèo thông minh .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>She taught me an advantage of growing older : knowing where to position yourself so what you seek comes to you .</s>
+<s id='vn53'>Nó dạy tôi một lợi thế khi già đi : biết đặt mình ở đâu để những gì mình tìm kiếm sẽ đến với mình .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Willa looks up .</s>
+<s id='vn54'>Willa nhìn lên .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>I swear she 's smiling .</s>
+<s id='vn55'>Tôi thề là nó đang mỉm cười .</s>
+</spair>
+</text>
+</doc>

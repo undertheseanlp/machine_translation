@@ -1,0 +1,116 @@
+﻿<doc id='N0954'>
+<head>
+<title>Doctors Report Rise in Obesity-Related Cancers in US</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Doctors Report Rise in Obesity-Related Cancers in US</s>
+<s id='vn1'>Bác sĩ thông báo gia tăng ung thư do Béo phì ở Hoa Kỳ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The American Cancer Society says in its annual report that fewer Americans are dying of cancer , but doctors are seeing more patients with cancers linked to obesity , including pancreatic and kidney cancers .</s>
+<s id='vn2'>Trong báo cáo thường niên , Hiệp hội Ung thư Hoa Kỳ cho biết hiện người Mỹ chết do ung thư ít hơn nhưng các bác sĩ lại thấy nhiều bệnh nhân bị ung thư có liên quan đến chứng béo phì , có cả ung thư thận và ung thư tuyến tuỵ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>And while breast cancer patients are living longer , the risks of developing this type of tumor are rising along with the growing rates of obesity .</s>
+<s id='vn3'>Trong khi bệnh nhân ung thư vú hi vọng kéo dài sự sống thì nguy cơ phát triển loại khối u này đang tăng lên cùng với sự gia tăng của béo phì .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>For many people , a cancer diagnosis is no longer a death sentence .</s>
+<s id='vn4'>Đối với nhiều người , việc chẩn đoán ung thư không còn là bản án tử hình nữa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Former U.S. presidential candidate Herman Cain was diagnosed six years ago with stage-four colon cancer .</s>
+<s id='vn5'>Cựu ứng cử viên Tổng thống Herman Cain được chẩn đoán bị ung thư ruột kết giai đoạn bốn cách đây sáu năm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Tumors had already spread to his liver .</s>
+<s id='vn6'>Các khối u đã lan đến gan .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Cain was given a 30 percent chance of survival .</s>
+<s id='vn7'>Cain chỉ còn 30% cơ hội sống sót .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But after having surgery and undergoing chemotherapy , Cain says his cancer went into remission .</s>
+<s id='vn8'>Nhưng sau khi phẫu thuật và trải qua quá trình hoá trị liệu , Cain cho biết bệnh ung thư của ông đã thuyên giảm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The American Cancer Society 's annual report shows that death rates from cancer in the U.S. have continued to fall .</s>
+<s id='vn9'>Theo báo cáo hàng năm của Hiệp hội Ung thư Hoa Kỳ thì tỷ lệ tử vong do ung thư ở Hoa Kỳ tiếp tục giảm xuống .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Between 2004 and 2008 , cancer death rates for men went down nearly two percent a year ; for women they declined about one-and-a-half percent each year .</s>
+<s id='vn10'>Từ năm 2004 đến năm 2008 , tỷ lệ tử vong do ung thư đối với nam giảm gần 2% một năm ; còn đối với nữ giới tỷ lệ này giảm xuống khoảng 1,5% mỗi năm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Over a longer period of time , from 1990 through 2008 , cancer death rates plunged almost 23 percent for men and just over 15 percent for women .</s>
+<s id='vn11'>Trong khoảng thời gian dài hơn từ năm 1999 đến năm 2008 , tỷ lệ tử vong do ung thư giảm xuống gần 23% đối với nam và chỉ hơn 15% đối với nữ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>That translates to a million lives saved .</s>
+<s id='vn12'>Điều này có nghĩa là một triệu sinh mạng đã được cứu sống .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But doctors are reporting more cases of esophageal , pancreatic , liver and kidney cancer .</s>
+<s id='vn13'>Nhưng các bác sĩ cho biết có nhiều trường hợp ung thư thực quản , tuyến tuỵ , gan và thận .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Obesity is a risk factor for these types of cancers and for breast cancer as well .</s>
+<s id='vn14'>Béo phì là yếu tố rủi ro đối với những loại ung thư trên cũng như đối với ung thư vú .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It 's also a risk factor for a number of chronic diseases , including Type 2 diabetes .</s>
+<s id='vn15'>Ngoài ra nó còn là nguy cơ đối với nhiều bệnh mãn tính kể cả tiểu đường loại 2 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>At the Harvard School of Public Health , Dr. Dariush Mozaffarian focuses on the connection between diet and chronic diseases .</s>
+<s id='vn16'>Tại trường Y tế cộng đồng Havard , Tiến sĩ Dariush Mozaffarian tập trung vào mối liên hệ giữa chế độ ăn uống với những căn bệnh mãn tính .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" Most of my focus has been on diet , because the bang for your buck for changing your diet is really profound , " Mozaffarian noted .</s>
+<s id='vn17'>Ông Mozaffarian nói " Tôi chủ yếu tập trung vào chế độ ăn uống vì lợi ích của việc thay đổi chế độ ăn uống mang lại thực sự đáng kể . " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And Dr. Mozafarrian believes that just as growing numbers of Americans have quit their smoking habits , they can beat the obesity trap , and avoid the cancers and other diseases that result .</s>
+<s id='vn18'>Và Tiến sĩ Mozafarrian tin rằng chỉ khi số người Mỹ bỏ thói quen hút thuốc tăng lên thì họ có thể tránh được căn bệnh béo phì , ung thư và các loại bệnh khác do thuốc lá gây ra .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" We 've had huge success in this country with smoking , " added Mozaffarian .</s>
+<s id='vn19'>Ông còn nói thêm " Chúng tôi rất thành công với việc chống hút thuốc lá ở đất nước này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" We 've gone from about 55 percent smokers to 25 percent smokers in about 40 years . "</s>
+<s id='vn20'>Trong khoảng 40 năm chúng tôi đã giảm được số người hút thuốc lá từ khoảng 55% xuống còn 25% . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>For close to 50 years , the U.S. government has adopted policies to discourage people from taking up smoking and to encourage smokers to quit .</s>
+<s id='vn21'>Trong gần 50 năm , chính phủ Hoa Kỳ đã thông qua nhiều chính sách để ngăn chặn mọi người hút thuốc lá và khuyến khích những người hút thuốc lá bỏ thuốc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The policies include education campaigns , high taxes on tobacco product sales and laws against selling tobacco to anyone under the age of 18 .</s>
+<s id='vn22'>Chính sách gồm có chiến dịch giáo dục , các mức thuế cao đánh vào sản phẩm thuốc lá và ban hành luật cấm bán thuốc lá cho những người dưới 18 tuổi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The new Cancer Society report says the resulting drop in lung cancer deaths accounts for almost 40 percent of the decline in overall cancer deaths .</s>
+<s id='vn23'>Báo cáo mới nhất của hiệp hội ung thư chỉ ra rằng kết quả tử vong do ung thư phổi giảm xuống chiếm khoảng gần 40% trong tổng mức giảm tử vong do ung thư .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Dr. Mozaffarian says public health officials should use the anti-smoking campaign as a model to get people at risk of obesity to improve their diets .</s>
+<s id='vn24'>Tiến sĩ Mozaffaria khuyên cán bộ y tế cộng đồng nên thực hiện chiến dịch chống hút thuốc như một hình mẫu để giúp mọi người thấy được nguy cơ béo phì từ đó cải thiện chế độ ăn uống của mình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" It 's not going to happen in a year , but in a decade or two , if we really have a sustained understanding of the impact of diet on health in this country and the economic burdens that it causes , we really could have a sea change , and relatively quickly " .</s>
+<s id='vn25'>" Điều này sẽ không thể diễn ra trong một năm , mà là một hoặc hai thập niên , nếu chúng ta thực sự hiểu biết về ảnh hưởng lâu dài của chế độ ăn uống đối với sức khoẻ ở đất nước này và gánh nặng kinh tế mà nó gây ra , chúng ta thực sự có thể có sự thay đổi lớn và khá nhanh chóng . " .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The result , he predicts , will be a decline in the number of obesity-related deaths .</s>
+<s id='vn26'>Ông cũng dự đoán rằng kết quả sẽ là sự suy giảm số lượng tử vong do bệnh béo phì gây ra .</s>
+</spair>
+</text>
+</doc>

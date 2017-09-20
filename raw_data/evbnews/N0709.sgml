@@ -1,0 +1,252 @@
+﻿<doc id='N0709'>
+<head>
+<title>Pinkeye ( conjunctivitis )</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Pinkeye ( conjunctivitis )</s>
+<s id='vn1'>Bệnh đau mắt đỏ ( Viêm kết mạc )</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is pinkeye ?</s>
+<s id='vn2'>Bệnh đau mắt đỏ là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Pinkeye -- also called conjunctivitis - is redness and inflammation of the clear membranes covering the whites of the eyes and the membranes on the inner part of the eyelids .</s>
+<s id='vn3'>Bệnh đau mắt đỏ hay còn gọi là viêm kết mạc - là chứng viêm đỏ lớp màng trong suốt bao bọc tròng trắng mắt và màng trên phần mí mắt trong .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Pinkeye is most often caused by a virus or by a bacterial infection , although allergies , chemical agents , and underlying diseases can also play a role .</s>
+<s id='vn4'>Đau mắt đỏ thường là do vi-rút hoặc nhiễm khuẩn gây ra nhiều nhất , mặc dù dị ứng , các chất hoá học , và nhiều bệnh tiềm ẩn khác cũng có thể là nguyên nhân .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Is pinkeye contagious ?</s>
+<s id='vn5'>Bệnh đau mắt đỏ có lây không ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Viral and bacterial pinkeye are extremely contagious .</s>
+<s id='vn6'>Bệnh đau mắt đỏ do vi-rút và vi khuẩn là hết sức lây lan .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's easily spread through poor hand washing or by sharing an object ( like a towe l ) with someone who has it .</s>
+<s id='vn7'>Nó dễ dàng lây lan qua việc rửa tay không sạch hoặc bằng cách dùng chung đồ vật ( chẳng hạn như khăn tắm ) với người nhiễm nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It can also spread through coughing and sneezing .</s>
+<s id='vn8'>nó có thể cũng còn lây lan qua ho và hắt hơi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Kids diagnosed with infectious pinkeye should stay out of school or day care for a short period of time .</s>
+<s id='vn9'>Trẻ bị chẩn đoán là đau mắt đỏ nhiễm trùng nên nghỉ học hoặc không đến nhà trẻ ban ngày trong một thời gian ngắn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Allergic pinkeye ( caused by seasonal pollens , animal dander , cosmetics , and perfumes ) and chemical pinkeye ( from chemicals or liquids , including bleach and furniture polish ) are not contagious .</s>
+<s id='vn10'>Bệnh đau mắt đỏ dị ứng ( gây ra do phấn hoa mùa , vảy da đầu động vật , mỹ phẩm , và dầu thơm ) và bệnh đau mắt đỏ do hoá chất ( do chất hoá học hoặc chất lỏng , bao gồm thuốc tẩy và dầu đánh bóng đồ gỗ ) không lây .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Symptom : Eye redness</s>
+<s id='vn11'>Triệu chứng : Đỏ mắt</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Redness of the eye is the typical , telltale symptom of pinkeye .</s>
+<s id='vn12'>Đỏ mắt là triệu chứng điển hình , báo trước bệnh đau mắt đỏ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Pinkeye is a common condition that is rarely serious and unlikely to cause long-term eye or vision damage if promptly detected and treated .</s>
+<s id='vn13'>Mắt đỏ là chứng bệnh thường gặp hiếm khi nguy hiểm và khó có thể gây tổn thương mắt hoặc tổn thương thị giác lâu dài nếu được phát hiện và điều trrị kịp thời .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Symptom : Swollen , red eyelids</s>
+<s id='vn14'>Triệu chứng : Mí mắt sưng , đỏ</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The symptoms of infectious pinkeye typically begin in one eye and involve the other eye within a few days .</s>
+<s id='vn15'>Các triệu chứng của bệnh đau mắt đỏ nhiễm trùng hiện bắt đầu ở một mắt và lây sang mắt kia trong vòng một vài ngày .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Symptoms of allergic pinkeye usually involve both eyes .</s>
+<s id='vn16'>Triệu chứng của bệnh đau mắt đỏ dị ứng thường biểu hiện ở cả hai mắt .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Swelling of the eyelids is more common with bacterial and allergic pinkeye .</s>
+<s id='vn17'>Mí mắt sưng thường biểu hiện nhiều hơn ở bệnh đau mắt đỏ dị ứng và do vi khuẩn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Symptom : Lots of tearing</s>
+<s id='vn18'>Triệu chứng : Chảy nhiều nước mắt</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Viral and allergic pinkeye are known for causing more tear production than usual .</s>
+<s id='vn19'>Vi-rút và đau mắt đỏ dị ứng là nguyên nhân thường thấy gây tiết nhiều nước mắt hơn bình thường .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Symptom : Itchy or burning eyes</s>
+<s id='vn20'>Triệu chứng : Ngứa hoặc rát mắt</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You would know it if you felt it - that overwhelming itchy , burning feeling in the eyes , which is typical of pinkeye .</s>
+<s id='vn21'>Bạn sẽ biết được cảm giác đó nếu bị đau mắt đỏ - ngứa , rát dữ dội trong mắt , đây là những triệu chứng điển hình của chứng đau mắt đỏ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Symptom : Drainage from the eyes</s>
+<s id='vn22'>Triệu chứng : Tiết chất dịch ở mắt</s>
+</spair>
+<spair id='23'>
+<s id='en23'>A clear , watery drainage is common with viral and allergic pinkeye .</s>
+<s id='vn23'>Dịch nước trong là biểu hiện thường thấy do vi-rút và đau mắt đỏ dị ứng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>When the drainage is more greenish-yellow ( and there 's a lot of it ) , this is likely bacterial pinkeye .</s>
+<s id='vn24'>Khi dịch mắt trở nên vàng lục nhiều hơn ( và có nhiều chất dịch này ) , thì đây có thể là đau mắt đỏ do vi khuẩn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Symptom : Crusty eyelids</s>
+<s id='vn25'>Triệu chứng : Mi mắt đóng váng</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If you wake up with your eyes " stuck shut , " this may be caused by the discharge that accumulates during sleep from pinkeye .</s>
+<s id='vn26'>Nếu bạn thức dậy mà hai mắt của bạn " bị dính cứng " lại với nhau thì có thể do dịch tiết tụ lại ở mắt do đau mắt đỏ trong khi bạn ngủ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Symptom : Sensitivity to light</s>
+<s id='vn27'>Triệu chứng : Nhạy cảm với ánh sáng</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Pinkeye can cause mild sensitivity to light .</s>
+<s id='vn28'>Bệnh đau mắt đỏ có thể gây nhạy cảm nhẹ với ánh sáng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>A person who has severe symptoms , such as changes in eyesight , severe light sensitivity , or severe pain may have an infection that has spread beyond the conjunctiva and should be re-examined by a doctor .</s>
+<s id='vn29'>Người có các triệu chứng nặng , chẳng hạn như thay đổi thị lực , nhạy cảm dữ dội với ánh sáng , hoặc đau nhức dữ dội có thể bị nhiễm trùng lây sang khỏi cả kết mạc và cần nên được bác sĩ khám lại .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Symptom : " Something in the eye "</s>
+<s id='vn30'>Triệu chứng " Có cái gì đó trong mắt "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>You may notice a bothersome feeling like something is stuck in your eye .</s>
+<s id='vn31'>Bạn có thể cảm thấy khó chịu giống như có cái gì đó kẹt trong mắt bạn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>A child may describe the feeling as sand in the eye .</s>
+<s id='vn32'>Trẻ con có thể tả cảm giác đó y như có hạt cát trong mắt vậy .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Pinkeye diagnosis</s>
+<s id='vn33'>Chẩn đoán bệnh đau mắt đỏ</s>
+</spair>
+<spair id='34'>
+<s id='en34'>A doctor can often diagnose pinkeye just by its distinguishing signs and symptoms .</s>
+<s id='vn34'>Bác sĩ có thể chẩn đoán bệnh đau mắt đỏ chỉ bằng các dấu hiệu và triệu chứng nhận biết của nó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>However a slit lamp exam may be required .</s>
+<s id='vn35'>Tuy nhiên cũng có thể cần phải kiểm tra bằng kính hiển vi sinh vật .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>In some cases , a swab of the discharge from the eye is sent to a lab for analysis to determine the cause .</s>
+<s id='vn36'>Trong một số trường hợp thì người ta cũng có thể lấy mẫu dịch mắt gởi đến phòng thí nghiệm để xác định nguyên nhân .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>When pinkeye means something more</s>
+<s id='vn37'>Khi bệnh đau mắt đỏ có nghĩa là điều hơn thế</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Persistent pinkeye can be a sign of an underlying illness in the body .</s>
+<s id='vn38'>Bệnh đau mắt đỏ dai dẳng có thể là dấu hiệu của một chứng bệnh tiềm ẩn nào đó trong cơ thể .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Most often these are rheumatic diseases , such as rheumatoid arthritis and systemic lupus erythematosus ( lupus ) .</s>
+<s id='vn39'>Thường thấy nhất là bệnh thấp khớp , chẳng hạn như viêm khớp kinh niên và lu-pút ban đỏ hệ thống ( lupus ) .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Pinkeye is also seen in Kawasaki disease ( a rare disease associated with fever in infants and young children ) and certain inflammatory bowel diseases , such as ulcerative colitis and Crohn 's disease .</s>
+<s id='vn40'>Đau mắt đỏ cũng có thể biểu hiện ở bệnh Kawasaki ( đây là chứng bệnh hiếm gặp liên quan đến sốt ở trẻ sơ sinh và trẻ nhỏ ) và một số bệnh viêm ruột mãn tính nào đó , như là loét kết tràng và viêm ruột từng vùng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Treating pinkeye</s>
+<s id='vn41'>Điều trị bệnh đau mắt đỏ</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Bacterial pinkeye is treated with antibiotic eyedrops , ointment , or pills to clear the infection .</s>
+<s id='vn42'>Bệnh đau mắt đỏ do vi trùng được điều trị bằng thuốc nhỏ mắt kháng sinh , thuốc mỡ , hoặc thuốc viên để chữa hết nhiễm trùng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Most viral pinkeye cases have no specific treatment - you just have to let the virus run its course , which is usually four to seven days .</s>
+<s id='vn43'>Hầu hết các trường hợp đau mắt đỏ do vi-rut không có phương pháp đặc trị - bạn phải để cho vi-rut phát triển một cách tự nhiên , thường kéo dài từ 4 đến 7 ngày .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Allergic pinkeye symptoms should improve once the allergen source is removed and the allergy itself is treated .</s>
+<s id='vn44'>Các triệu chứng đau mắt đỏ dị ứng sẽ giảm bớt khi nguồn chất gây dị ứng được tẩy sạch và bản thân dị ứng được chữa lành .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Chemical pinkeye requires prompt washing of the affected eye ) for five minutes and an immediate call to the doctor .</s>
+<s id='vn45'>Đau mắt đỏ do hoá chất cần phải được rửa mắt bị nhiễm nhanh chóng trong vòng 5 phút và phải gọi điện cho bác sĩ ngay tức khắc .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Easing symptoms</s>
+<s id='vn46'>Làm dịu các triệu chứng</s>
+</spair>
+<spair id='47'>
+<s id='en47'>To reduce pain and to remove the discharge of bacterial or viral pinkeye , use a cold or warm compress on the eyes .</s>
+<s id='vn47'>Để giảm đau và làm sạch dịch tiết của bệnh đau mắt đỏ do vi khuẩn hoặc vi-rút , hãy sử dụng một miếng gạc lạnh hoặc ấm lên mắt .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Make sure to use a different washcloth for each eye to prevent spreading any infection .</s>
+<s id='vn48'>Phải đảm bảo sử dụng khăn mặt khác nhau cho mỗi mắt để ngăn ngừa lây lan nhiễm trùng .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>And use clean washcloths each time .</s>
+<s id='vn49'>Và hãy sử dụng khăn mặt sạch mỗi lần như thế .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Clean the eye from drainage by wiping from the inside to the outside of the eye area .</s>
+<s id='vn50'>Làm sạch chất dịch ở mắt bằng cách lau từ bên trong ra bên ngoài vùng mắt .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>How long am I contagious ?</s>
+<s id='vn51'>Tôi bị nhiễm bệnh trong thời gian bao lâu ?</s>
+</spair>
+<spair id='52'>
+<s id='en52'>With bacterial eye , you can usually return to work or school 24 hours after antibiotics have been started , as long as symptoms have improved .</s>
+<s id='vn52'>Với chứng bệnh đau mắt đỏ do vi khuẩn thì bạn thường có thể đi làm hoặc đi học trở lại sau khi bắt đầu điều trị bằng thuốc kháng sinh 24 tiếng đồng hồ , miễn là các triệu chứng được cải thiện .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>With viral pinkeye , you are contagious as long as the symptoms last .</s>
+<s id='vn53'>Còn khi bị đau mắt đỏ do vi-rut thì bạn nhiễm bệnh đến chừng nào các triệu chứng hết thì thôi .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Check with your doctor to be certain .</s>
+<s id='vn54'>Bạn nên kiểm tra lại với bác sĩ để chắc chắn nhé .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Preventing eye spread</s>
+<s id='vn55'>Ngăn ngừa bệnh đau mắt đỏ lây lan</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you or your child has infectious pinkeye , avoid touching the eye area , and wash your hands frequently , particularly after applying medications to the area .</s>
+<s id='vn56'>Nếu bạn hoặc con bạn bị đau mắt đỏ nhiễm trùng , nên tránh sờ vào vùng mắt , và hãy rửa tay thường xuyên , nhất là sau khi thoa thuốc vào vùng đó .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Never share towels or handkerchiefs , and throw away tissues after each use .</s>
+<s id='vn57'>Đừng bao giờ dùng chung khăn tắm hoặc khăn tay , và ném bỏ khăn giấy sau mỗi lần sử dụng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Change towels daily .</s>
+<s id='vn58'>Hãy thay khăn tắm hằng ngày .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Disinfect all surfaces , including countertops , sinks , and doorknobs .</s>
+<s id='vn59'>Khử trùng tất cả các bề mặt , chẳng hạn như mặt trên của quầy , bồn rửa , và tay nắm cửa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Throw away any makeup used while infected .</s>
+<s id='vn60'>Bỏ toàn mỹ phẩm trang điểm trong lúc bị bệnh .</s>
+</spair>
+</text>
+</doc>

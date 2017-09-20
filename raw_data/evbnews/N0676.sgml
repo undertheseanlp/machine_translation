@@ -1,0 +1,80 @@
+﻿<doc id='N0676'>
+<head>
+<title>Keeping Your Axe Sharp</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Keeping Your Axe Sharp</s>
+<s id='vn1'>Hãy giữ rìu luôn sắc bén</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once upon a time a very strong woodcutter asked for a job with a timber merchant , and he got it .</s>
+<s id='vn2'>Ngày xưa có một người thợ đốn cây rất khoẻ mạnh đi xin việc làm chỗ một người buôn bán gỗ và anh ta được nhận vào làm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The salary was really good and so were the work conditions .</s>
+<s id='vn3'>Tiền lương hậu hĩnh và điều kiện làm việc khá tốt .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>For that reason , the woodcutter was determined to do his best .</s>
+<s id='vn4'>Vì thế gỗ quyết tâm phải cố gắng làm việc thật tốt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>His boss gave him an axe and showed him the area where he was supposed to work .</s>
+<s id='vn5'>Ông chủ cho anh ta một cây rìu và chỉ cho anh ta nơi làm việc .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The first day , the woodcutter brought 18 trees .</s>
+<s id='vn6'>Ngày đầu tiên , anh mang về 18 cây .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Congratulations , " the boss said .</s>
+<s id='vn7'>Ông chủ nói " Chúc mừng cậu .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" Go on that way ! "</s>
+<s id='vn8'>Tiếp tục phát huy nhé ! "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Very motivated by the boss ' words , the woodcutter tried harder the next day , but could bring 15 trees only .</s>
+<s id='vn9'>Những lời nói của ông chủ càng thúc đẩy anh cố gắng làm việc chăm chỉ hơn nhưng ngày tiếp theo anh ta chỉ mang về 15 cây .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The third day he tried even harder , but could bring 10 trees only .</s>
+<s id='vn10'>Ngày thứ ba anh ấy còn cố gắng cật lực hơn thế nhưng chỉ mang về được 10 cây .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Day after day he was bringing less and less trees .</s>
+<s id='vn11'>Ngày qua ngày anh ta mang về số cây càng lúc càng ít đi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" I must be losing my strength " , the woodcutter thought .</s>
+<s id='vn12'>" Chắc là mình không còn khoẻ mạnh rồi " , người thợ đốn gỗ tự nhủ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He went to the boss and apologized , saying that he could not understand what was going on .</s>
+<s id='vn13'>Anh đến chỗ ông chủ và xin lỗi , nói rằng anh không hiểu được chuyện gì đang xảy ra .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" When was the last time you sharpened your axe ? " the boss asked .</s>
+<s id='vn14'>" Lần cuối cùng cậu mài rìu của cậu là khi nào ? " ông chủ hỏi .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Sharpen ?</s>
+<s id='vn15'>" Mài rìu ư ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>I had no time to sharpen my axe .</s>
+<s id='vn16'>Tôi không có thời gian để mài rìu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>I have been very busy trying to cut trees ... "</s>
+<s id='vn17'>Tôi đã quá bận bịu với việc đốn cây … "</s>
+</spair>
+</text>
+</doc>

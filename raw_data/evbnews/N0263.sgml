@@ -1,0 +1,128 @@
+﻿<doc id='N0263'>
+<head>
+<title>Android 4.1 Irony : Third-Party Browsers Also Lose Flash Support</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Android 4.1 Irony : Third-Party Browsers Also Lose Flash Support</s>
+<s id='vn1'>Android 4.1 Irony : Trình duyệt bên thứ ba cũng ngừng hỗ trợ Flash</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Third-party Android browsers like Opera Mobile , Dolphin HD , and Firefox will no longer support Flash in Android 4.1 , aka Jelly Bean , as foreshadowed by Adobe 's announcement last week that it will drop Flash Player support in Jelly Bean .</s>
+<s id='vn2'>Trình duyệt bên thứ ba cho Android như Opera Mobile , Dolphin HD , và Firefox sẽ không hỗ trợ Flash trong Android 4.1 , hay còn gọi là Jelly Bean , như đã báo trước trong thông báo của Adobe hồi tuần trước rằng hãng sẽ ngừng hỗ trợ Flash Player trong Jelly Bean .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" From what we understand from the announcement , no browser will be able to support Flash on Android 4.1 and above , " Jonathan Nightingale , senior engineering director at Mozilla Firefox , told PCMag .</s>
+<s id='vn3'>" Theo những gì chúng tôi hiểu từ thông báo này , sẽ không có trình duyệt nào có thể hỗ trợ Flash trên Android 4.1 và phiên bản cao hơn " , Jonathan Nightingale , giám đốc kỹ thuật cao cấp của Mozilla Firefox , chia sẻ với PCMag .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Similarly at Opera Mobile , spokesman Thomas Ford said the browser could only support Flash if it was available for the device or platform .</s>
+<s id='vn4'>Tương tự , phát ngôn viên Opera Mobile , Thomas Ford , cho biết trình duyệt này chỉ có thể hỗ trợ Flash nếu nó có sẵn trên thiết bị hoặc nền tảng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Nowadays most applications are based on Web standards like HTML5 , but Flash technology is still found in rich media like videos , games , and online publications ( i.e . the 60 Minuteswebsite ) , and 98 percent of Web-browsing desktops still support Flash plug-ins .</s>
+<s id='vn5'>Ngày nay hầu hết các ứng dụng đều dựa trên các chuẩn Web như HTML5 , nhưng công nghệ Flash vẫn được dùng trong các nội dung đa phương tiện như video , game , và các trang báo mạng ( như trang 60 Minutes ) , và 98 phần trăm máy tính duyệt Web vẫn hỗ trợ cài thêm Flash .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A key feature in Android 4.1 is that Google 's new , Flash-less Chrome browser will replace the stock Android browser on tablets .</s>
+<s id='vn6'>Một điểm chính yếu trong Android 4.1 là trình duyệt Chrome mới , không hỗ trợ Flash của Google sẽ thay thế trình duyệt Android mặc định trên máy tính bảng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>However in mobile browsers , Flash support is increasingly rare as companies push for HTML5 as the mobile Web browsing standard .</s>
+<s id='vn7'>Tuy nhiên các trình duyệt di động ngày càng hiếm hỗ trợ Flash bởi các công ty đều yêu cầu HTML5 như là chuẩn duyệt Web di động .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Adobe maintains that it pulled the plug on Flash because it realized it 'll never reach the same level of ubiquity as on PCs , and last week Adobe told CNET that Web standards match 80 percent of Flash 's functionality .</s>
+<s id='vn8'>Adobe khẳng định hãng ngưng hỗ trợ Flash trên di động vì nhận ra rằng Flash sẽ không bao giờ trở nên phổ biến như trên máy tính , và tuần trước Adobe chia sẻ với CNET là các chuẩn Web chỉ tương thích với 80 phần trăm chức năng của Flash .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Apple realized this even earlier ; it has famously blocked Flash since beginning of the iPhone .</s>
+<s id='vn9'>Apple đã nhận ra điều này thậm chí còn sớm hơn ; hãng nổi tiếng là đã chặn Flash ngay từ khi iPhone ra mắt .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Until Android 4.1 , Flash represented a key point of differentiation between iOS and Android .</s>
+<s id='vn10'>Trước Android 4.1 , Flash vẫn là điểm mấu chốt để phân biệt giữa iOS và Android .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Google even supported it at one point .</s>
+<s id='vn11'>Ở một thời điểm , Google thậm chí còn hỗ trợ Flash .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Back in 2010 when Google chairman Eric Schmidt launched the Droid X , he subtly dissed iOS 's lack of Flash support by saying the Droid X was " not a toy , not just an app engine . "</s>
+<s id='vn12'>Quay lại năm 2010 khi chủ tịch Google , Eric Schmidt , trình làng Droid X , ông đã khéo léo chê bai iOS vì không hỗ trợ Flash khi tuyên bố rằng Droid X " không phải là món đồ chơi , cũng không chỉ đơn thuần là chiếc điện thoại chạy ứng dụng " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Schmidt said devices needed such applications to properly execute multimedia .</s>
+<s id='vn13'>Schmidt cho rằng các thiết bị cần có những ứng dụng như vậy để chạy nội dung đa phương tiện .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Meanwhile the Metro UI browser in Microsoft 's upcoming Windows RT will support Flash , Microsoft recently confirmed .</s>
+<s id='vn14'>Trong khi đó , gần đây Microsoft xác nhận là trình duyệt giao diện Metro trong Windows RT sắp phát hành của hãng sẽ hỗ trợ Flash .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The BlackBerry PlayBook will also continue supporting Flash .</s>
+<s id='vn15'>BlackBerry PlayBook cũng sẽ tiếp tục hỗ trợ Flash .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Most HTML5 - Ready Mobile Browser ?</s>
+<s id='vn16'>Đâu là trình duyệt di động hỗ trợ HTML5 đầy đủ nhất ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Ever since Adobe 's warning last November , third-party Android browsers have become more HTML5-ready .</s>
+<s id='vn17'>Kể từ khi Adobe ra lời thông báo trên hồi tháng Mười Một năm ngoái , trình duyệt bên thứ ba cho Android đã hỗ trợ HTML5 đầy đủ hơn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Which browser actually renders HTML5 content the fastest , or most completely ?</s>
+<s id='vn18'>Trình duyệt nào thực sự trả về nội dung HTML5 nhanh nhất , hoặc đẩy đủ nhất ?</s>
+</spair>
+<spair id='19'>
+<s id='en19'>According to a benchmark created by HTML5 industry body World Wide Web Consortium ( W3C ) , which runs browsers through a laundry list of standard specs , the most HTML5-ready Android browsers are :</s>
+<s id='vn19'>Theo điểm chuẩn của tổ chức World Wide Web Consortium ( W3C ) , tổ chức này đã tiến hành đánh giá các trình duyệt thông qua bản danh sách dài gồm những chi tiết kỹ thuật chuẩn , những trình duyệt cho Android hỗ trợ HTML5 đầy đủ nhất là :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>- Chrome : 369 points/500</s>
+<s id='vn20'>- Chrome : 369/500 điểm</s>
+</spair>
+<spair id='21'>
+<s id='en21'>- Opera Mobile 12 : 367</s>
+<s id='vn21'>- Opera Mobile 12 : 367</s>
+</spair>
+<spair id='22'>
+<s id='en22'>- Firefox 14 : 311</s>
+<s id='vn22'>- Firefox 14 : 311</s>
+</spair>
+<spair id='23'>
+<s id='en23'>- Stock Android browser : 281</s>
+<s id='vn23'>- Trình duyệt Android mặc định : 281</s>
+</spair>
+<spair id='24'>
+<s id='en24'>- Maxthon Android Web Browser 2.6 : 280</s>
+<s id='vn24'>- Maxthon Android Web Browser 2.6 : 280</s>
+</spair>
+<spair id='25'>
+<s id='en25'>- Safari ( iOS ) : 324</s>
+<s id='vn25'>- Safari ( iOS ) : 324</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Meanwhile , on Monday , Mozilla announced release dates for its standalone , HTML5-based mobile operating system , now called Firefox OS .</s>
+<s id='vn26'>Trong khi đó , hôm thứ Hai , Mozilla đã công bố ngày phát hành hệ điều hành di động nền HTML5 , dùng biệt lập , hiện có tên là Firefox OS .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It will ship out in early 2013 in Brazil on devices manufactured by TCL Communication Technology and ZTE .</s>
+<s id='vn27'>Nó sẽ phát hành vào đầu năm 2013 ở Braxin trên các thiết bị do TCL Communication Technology và ZTE sản xuất .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The OS is part of Mozilla 's open-source project and boasts a super light footprint and low manufacturing costs .</s>
+<s id='vn28'>Firefox OS là một phần của dựa án nguồn mở của Mozilla và nổi bật với đặc tính siêu nhẹ và chi phí sản xuất thấp .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It is also being advertised as truly open-source ( yes , even compared to Android and Chrome OS ) that will run any app built on HTML5 , regardless of its original platform .</s>
+<s id='vn29'>Nó cũng được quảng cáo là nguồn mở thực sự ( đúng vậy , ngay cả khi so với Android và Chrome OS ) và sẽ chạy bất kì ứng dụng nào xây dựng trên nền HTML5 , bất kể nền tảng gốc .</s>
+</spair>
+</text>
+</doc>

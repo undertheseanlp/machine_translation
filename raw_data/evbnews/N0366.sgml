@@ -1,0 +1,100 @@
+﻿<doc id='N0366'>
+<head>
+<title>Google Launches Gesture Search for Android Smartphones</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google Launches Gesture Search for Android Smartphones</s>
+<s id='vn1'>Google Ra Mắt Gesture Search dành cho các Smartphone Android</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Google announced a new feature called Gesture Search , which allows users to search through files on their Google Android smartphones by tracing a letter like " A " or " H " on their screen .</s>
+<s id='vn2'>Google công bố một tính năng mới có tên gọi là Gesture Search , cho phép người dùng tìm kiếm thông qua các tập tin trên các điện thoại thông minh chạy HĐH Android của Google bằng cách truy tìm một mẫu tự như " A " hoặc " H " trên màn hình của chúng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This application , which theoretically learns from the user 's search history to improve overall search quality , is available for devices running Android 2.0 or higher , which limits the number of Android-equipped smartphones that have access to it .</s>
+<s id='vn3'>Ứng dụng này về mặt lý thuyết sẽ học lịch sử tìm kiếm của người dùng để cải tiến chất lượng tìm kiếm chung , sẵn sàng cho các thiết bị chạy Android 2.0 hoặc cao hơn và giới hạn số lượng điện thoại thông minh chạy HĐH Android mà có thể truy cập vào nó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Google has been expanding the number of applications available for its smartphone operating system in a bid to increase its market share in the mobile space .</s>
+<s id='vn4'>Google đã mở rộng số lượng các ứng dụng dành cho hệ điều hành điện thoại thông minh của mình trong nỗ lực gia tăng thị phần của hãng trong thị trường di động .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Google is unveiling Gesture Search , which allows users to search through their Google Android smartphones via tracing a letter on the screen .</s>
+<s id='vn5'>Google vừa tiết lộ Gesture Search , cho phép người dùng tìm kiếm thông qua điện thoại thông minh chạy Android của Google bằng cách truy tìm một mẫu tự trên màn hình .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This application represents yet another variant on mobile search , which has become a more active field of endeavor for companies such as Google , Microsoft and Apple as smartphones proliferate among both businesses and consumers .</s>
+<s id='vn6'>Ứng dụng này đại diện cho nhiều biến thể khác trên công cụ tìm kiếm bằng di động , nó đã trở thành một lĩnh vực chủ động hơn trong nỗ lực của các công ty chẳng hạn như Google , Microsoft và Apple bằng những điện thoại thông minh tăng trưởng nhanh chóng trong cả doanh nghiệp và người tiêu dùng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Gesture Search , announced March 3 , can only be used on devices running Android 2.0 or higher , which restricts the number of devices that have access to it .</s>
+<s id='vn7'>Gesture Search được công bố vào ngày 3 tháng 3 , nó chỉ có thể được sử dụng trên các thiết bị chạy Android 2.0 hoặc cao hơn và hạn chế số lượng các thiết bị truy cập vào nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Google 's own branded phone , the Nexus One , relies on Android 2.1 , and similarly versioned devices from HTC and other manufacturers are expected to enter this ecosystem throughout 2010 .</s>
+<s id='vn8'>Điện thoại mang nhãn hiệu riêng của Google , Nexus One dựa trên HĐH Android 2.1 và các thiết bị có kiểu tương tự đến từ HTC và các nhà sản xuất khác dự kiến sẽ gia nhập vào hệ sinh thái này trong năm 2010 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Motorola Droid will also reportedly be upgraded to Android 2.1 at some point in the near future .</s>
+<s id='vn9'>Motorola Droid cũng được công bố là sẽ nâng cấp lên Android 2.1 tại một thời điểm nào đó sắp tới đây .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This application allows users to search for contacts , applications , bookmarks , songs and other items .</s>
+<s id='vn10'>Ứng dụng này cho phép người dùng tìm kiếm các địa chỉ liên lạc , ứng dụng , đánh dấu , bài hát và các mục khác .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Say you want to call your friend Anne , " Yang Li , a Google research scientist wrote in a March 3 posting on the Official Google Blog Mobile .</s>
+<s id='vn11'>" Giả sử bạn muốn gọi cho người bạn của bạn là Anne " Yang Li một nhà khoa học nghiên cứu của Google đã viết vào ngày 3 tháng 3 đăng trên trang blog mobile chính thức của Google .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Just open Gesture Search and draw letter " A , " and Gesture Search returns a list of items that have words starting with " A " .</s>
+<s id='vn12'>" Chỉ cần mở Gesture Search và viết một mẫu tự " A " và Gesture Search sẽ trả về một danh sách các mục mà có các từ bắt đầu bằng " A " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If your handwriting isn't all that neat , that 's okay " .</s>
+<s id='vn13'>Nếu chữ viết tay của bạn không được rõ ràng , thì vẫn được " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Should one 's handwriting be so atrocious that this application has a hard time deciding whether that letter is , example , an " A " or an " H , " results from both letters will be displayed onscreen .</s>
+<s id='vn14'>Nếu chữ viết tay của mình quá xấu thì ứng dụng này cần có nhiều thời gian trong việc quyết định đó là mẫu tự gì , ví dụ " A " hoặc " H " , các kết quả từ cả 2 mẫu tự sẽ được hiển thị trên màn hình .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Swiping a finger horizontally will erase it .</s>
+<s id='vn15'>Trượt một ngón tay theo chiều ngang sẽ xóa nó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This application is available for download from Android Market , and supports only English at the moment .</s>
+<s id='vn16'>Ứng dụng này có sẵn để tải xuống từ Android Market và hiện chỉ hỗ trợ bằng tiếng Anh .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>According to Li , Gesture Search also " improves search quality by learning from your search history , so Anne 's contact info will jump to the top of the list the next time you write " A " .</s>
+<s id='vn17'>Theo Li , Gesture Search cũng " cải tiến chất lượng tìm kiếm bằng việc học lịch sử tìm kiếm của bạn , vì vậy thông tin liên lạc của Anne sẽ nhảy lên trên đầu danh sách sau khi bạn viết mẫu tự " A " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Google has been expanding the number of applications available for Android , including Google Earth , which lets users see satellite and 3D views of terrain virtually anywhere on the planet .</s>
+<s id='vn18'>Google đã mở rộng số lượng các ứng dụng có sẵn cho Android , bao gồm Google Earth , cho phép người dùng quan sát hình ảnh vệ tinh và 3D về địa hình hầu hết mọi nơi trên hành tinh .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Similar to Gesture Search , Google Earth is available for devices running Android 2.1 and can be downloaded from Android Market .</s>
+<s id='vn19'>Giống với Gesture Search , Google Earth có sẵn cho các thiết bị chạy HĐH Android 2.1 và có thể được tải từ Android Market .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Users will also be able to utilize this smartphone operating system 's voice-recognition abilities within Earth for Android to search for locations .</s>
+<s id='vn20'>Người dùng cũng có thể sử dụng những khả năng nhận dạng tiếng nói của hệ điều hành điện thoại thông minh này bên trong Google Earth để HĐH Android tìm kiếm các địa điểm .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Google seems to be taking a more aggressive competitive stance versus other companies in the smartphone space , including Apple and Microsoft , by focusing a major part of its resources on mobile search and applications .</s>
+<s id='vn21'>Google dường như chiếm thế cạnh tranh mạnh mẽ hơn so với các công ty khác trong thị trường điện thoại thông minh bao gồm cả Apple và Microsoft bằng cách tập trung phần lớn các nguồn lực của họ cho các ứng dụng và tìm kiếm di động .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Google 's Nexus One smartphone , launched Jan. 5 , was meant to give the company a branded launching pad for those initiatives .</s>
+<s id='vn22'>Điện thoại thông minh Nexus One của Google được ra mắt ngày 5 1 , điều này có ý nghĩa là nó sẽ mang lại công ty một bệ phóng được đóng dấu cho những sáng kiến này .</s>
+</spair>
+</text>
+</doc>

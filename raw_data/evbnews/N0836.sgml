@@ -1,0 +1,224 @@
+﻿<doc id='N0836'>
+<head>
+<title>Appendicitis</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Appendicitis</s>
+<s id='vn1'>Viêm ruột thừa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>At first Miguel thought he had a gastroenteritis or gastrointestinal infection .</s>
+<s id='vn2'>Luc đầu Miguel nghĩ mình bị viêm dạ dày ruột hoặc bị nhiễm trùng dạ dày ruột .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>His stomach hurt and he was throwing up .</s>
+<s id='vn3'>Cậu bé cảm thấy đau bụng và buồn nôn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>He was n't hungry at all .</s>
+<s id='vn4'>Em chẳng đói bụng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But the next day , instead of feeling better , he felt worse .</s>
+<s id='vn5'>Nhưng qua ngày hôm sau , lẽ ra Miguel thấy khỏe hơn , cậu bị bệnh nặng thêm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In addition to his other symptoms , he had a fever .</s>
+<s id='vn6'>Ngoài những triệu chứng khác thì em còn bị sốt .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Miguel 's dad called the doctor , who asked them to come in right away .</s>
+<s id='vn7'>Bố Miguel gọi điện cho bác sĩ , và bác sĩ đã yêu cầu đưa đến bệnh viện ngay tức khắc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>After examining Miguel , the doctor said they had done the right thing by calling because Miguel , as it turned out , had appendicitis and needed surgery .</s>
+<s id='vn8'>Sau khi khám cho Miguel , bác sĩ cho gia đình biết rằng đã gọi điện đúng lúc bởi cậu bé bị viêm ruột thừa và cần phải mổ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What is appendicitis ?</s>
+<s id='vn9'>Viêm ruột thừa là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Appendicitis is an inflammation of the appendix .</s>
+<s id='vn10'>Appendicitis có nghĩa là viêm ruột thừa .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The appendix is a tubular shaped piece of tissue , the size of a finger , that connects to the large intestine at the lower right side of the abdomen .</s>
+<s id='vn11'>Ruột thừa là một ống có hình dạng mẩu mô , kích cỡ bằng ngón tay , tiếp giáp với ruột già ở vùng bên phải bụng dưới .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The inside of the appendix forms a pouch that opens to the large intestine .</s>
+<s id='vn12'>Bên trong của ruột thừa hình thành một túi thông đến ruột già .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Appendicitis can occur when the opening of the appendix to the large intestine gets blocked .</s>
+<s id='vn13'>Viêm ruột thừa có thể xảy ra khi ống thông ruột thừa và ruột già bị nghẽn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Blockage can be due to hard rock-like stool , inflammation of lymph nodes in the intestines , or even parasites .</s>
+<s id='vn14'>Khối nghẽn này có thể là do vật cứng tạo nên chẳng hạn như phân , viêm các hạch bạch huyết trong ruột , hoặc thậm chí là do động vật ký sinh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Once the appendix is blocked , it becomes inflamed and bacteria can overgrow in it .</s>
+<s id='vn15'>Khi ruột thừa bị nghẽn , nó trở nên viêm và vi khuẩn có thể phát triển sinh sôi trong đó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>If the infected appendix is not removed , it can eventually burst or rupture from the buildup of pressure .</s>
+<s id='vn16'>Nếu viêm ruột thừa để lâu không cắt , nó có thể bị vỡ hoặc đứt do ruột bị đè nặng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This may happen as soon as 48 to 72 hours after symptoms start .</s>
+<s id='vn17'>Tình trạng này có thể xảy ra trong vòng từ 48 đến 72 tiếng đồng hồ ngay sau khi bắt đầu bộc phát triệu chứng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The infection from a ruptured appendix is very serious - it can form an abscess ( infection of pus ) or spread throughout the abdomen .</s>
+<s id='vn18'>Nhiễm trùng do vỡ ruột thừa rất nguy hiểm – nó có thể tạo áp xe ( nhiễm trùng mủ ) hoặc lây lan ra khắp bụng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Symptoms of appendicitis</s>
+<s id='vn19'>Các triệu chứng viêm ruột thừa</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The classic symptoms of appendicitis are abdominal pain and loss of appetite .</s>
+<s id='vn20'>Các triệu chứng viêm ruột thừa cổ điển là đau bụng và ăn không ngon miệng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Abdominal pain usually begins in the center of the abdomen , around the area of the navel .</s>
+<s id='vn21'>Bệnh nhân thường đau ở giữa bụng , vùng quanh lỗ rốn trước tiên .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Later , the pain may move downward and to the right , to an area called McBurney 's point , which roughly corresponds to the location of the appendix .</s>
+<s id='vn22'>Sau đó , có thể đau xuống vùng bụng dưới và qua bên phải , đây là vùng chậu phải ( McBurney " s point ) , khá trùng với vị trí của ruột thừa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>After abdominal pain begins , a person with appendicitis may develop a slight fever , have a loss of appetite , feel nauseated , or vomit .</s>
+<s id='vn23'>Sau khi cơn đau bụng khởi phát , người bệnh có thể bị sốt nhẹ , cảm giác chán ăn , buồn nôn , hoặc ói mửa .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The pain from appendicitis can become steadily worse .</s>
+<s id='vn24'>Cơn đau viêm ruột thừa có thể tăng lên đều đặn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If appendicitis is n't treated promptly , the infected appendix may rupture and the infection may spread to other areas of the abdomen and cause pain over the whole abdomen .</s>
+<s id='vn25'>Nếu không điều trị viêm ruột thừa kịp thời thì ruột thừa bị viêm có thể bị vỡ ra và làm nhiễm trùng lan sang các vùng khác trong bụng và gây đau đớn khắp vùng bụng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Of course , some of the symptoms of appendicitis can occur in a variety of illnesses .</s>
+<s id='vn26'>Tất nhiên là một số triệu chứng viêm ruột thừa có thể giống triệu chứng của nhiều bệnh khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>That 's why it 's important that you call your doctor to help make a diagnosis .</s>
+<s id='vn27'>Đó là lý do cần thiết phải gọi điện cho bác sĩ để nhờ chẩn đoán .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Development and duration of appendicitis</s>
+<s id='vn28'>Sự phát triển và thời gian diễn tiến của bệnh viêm ruột thừa</s>
+</spair>
+<spair id='29'>
+<s id='en29'>There is no specific incubation period ( the time it takes for symptoms to develop ) for appendicitis .</s>
+<s id='vn29'>Bệnh viêm ruột thừa không có thời kỳ ủ bệnh cụ thể ( thời kỳ ủ bệnh là thời gian để triệu chứng bộc phát ) .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Once the appendicitis symptoms appear , it can take as little as 48 to 72 hours for the infected appendix to rupture .</s>
+<s id='vn30'>Khi xuất hiện triệu chứng , thì trong vòng 48-72 tiếng đồng hồ , ruột thừa bị viêm sẽ vỡ ra .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If the appendix ruptures , the infection will likely spread to other areas of the abd omen , increasing the risk of serious complications and making treatment more difficult .</s>
+<s id='vn31'>Nếu ruột thừa bị vỡ , nhiễm trùng sẽ có thể lan sang các vùng khác trong bụng , làm tăng nguy cơ phát triển các biến chứng nguy hiểm và làm cho việc điều trị trở nên khó khăn hơn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>When to call the doctor</s>
+<s id='vn32'>Khi nào nên gọi điện cho bác sĩ</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If you suspect that you have appendicitis , call a doctor immediately .</s>
+<s id='vn33'>Nếu nghi ngờ bị viêm ruột thừa , thì bạn nên gọi điện cho bác sĩ ngay tức khắc .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Appendicitis is an emergency that must be treated surg ically .</s>
+<s id='vn34'>Đây là chứng bệnh khẩn cấp cần phải được điều trị bằng phẫu thuật .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It ca n't be treated at home .</s>
+<s id='vn35'>Bạn không thể trị ở nhà được .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>To help make a diagnosis , your doctor will ask you about your medical history and perform a physical exam .</s>
+<s id='vn36'>Để giúp chẩn đoán , bác sĩ sẽ hỏi bạn về tiền sử sức khỏe và cho bạn kiểm tra sức khỏe .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The doctor will usually do some blood tests and may recommend X-rays , a CAT scan , or an ultrasound examination .</s>
+<s id='vn37'>Bên cạnh đó bác sĩ cũng thường sẽ cho bạn làm xét nghiệm máu và có thể yêu cầu chụp X-quang , chụp cắt lớp ( chụp CT ) , hoặc xét nghiệm siêu âm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The doctor will decide whether you need surgery .</s>
+<s id='vn38'>Bác sĩ cũng sẽ quyết định xem liệu bạn có cần làm phẫu thuật hay không .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Ask before taking any pain medications ( such as acetaminophen or ibuprofen ) because your doctor will need to examine your abdomen for signs of pain and tenderness .</s>
+<s id='vn39'>Bạn nên hỏi ý kiến bác sĩ trước khi sử dụng bất kỳ loại thuốc giảm đau nào nhé ( chẳng hạn như thuốc acetaminophen hoặc ibuprofen ) bởi bác sĩ cần phải khám bụng của bạn để tìm dấu hiệu đau và khó chịu .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Do n't take laxatives or use enemas until your doctor sees you because these can cause the appendix to rupture .</s>
+<s id='vn40'>Không nên sử dụng thuốc nhuận tràng hoặc dụng cụ thụt rửa cho đến khi bác sĩ khám xong cho bạn bởi chúng có thể làm cho ruột thừa vỡ ra .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Also , if your doctor suspects you have appendicitis , you will probably be asked to stop eating or drinking ( precaution when a person is possibly going to have surgery ) .</s>
+<s id='vn41'>Ngoài ra , nếu bác sĩ nghi ngờ bạn bị viêm ruột thừa thì có thể bạn sẽ không được ăn hoặc uống gì ( phòng khi bệnh nhân có thể sắp phải phẫu thuật ) .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Treating appendicitis</s>
+<s id='vn42'>Chữa viêm ruột thừa</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Appendicitis is treated with surgery to remove the infected appendix .</s>
+<s id='vn43'>Bệnh viêm ruột thừa được điều trị bằng phẫu thuật để cắt bỏ đoạn ruột thừa bị viêm .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The operation is called an appendectomy .</s>
+<s id='vn44'>Đây là thủ thuật cắt bỏ ruột thừa .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>To prepare for the surgery a person will receive anesthesia .</s>
+<s id='vn45'>Bệnh nhân sẽ được gây mê trước khi mổ ruột thừa .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Anesthesia puts a person in a deep sleep and prevents pain .</s>
+<s id='vn46'>Phương pháp gây mê làm cho người bệnh ngủ sâu và không bị đau đớn .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>An appendectomy generally has few complications , with a hospital stay of 1 to 3 days .</s>
+<s id='vn47'>Bệnh nhân mổ ruột thừa thường phải nằm viện từ 1 đến 3 ngày , và thủ thuật cắt bỏ ruột thừa này cũng thường phát sinh một số biến chứng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>However , if the infected appendix ruptures before surgery , the person usually stays in the hospital longer to receive antibiotics that will help kill bacteria that may have spread to the abdominal cavity .</s>
+<s id='vn48'>Tuy nhiên , nếu ruột thừa bị viêm vỡ trước khi phẫu thuật thì bệnh nhân thường phải ở lại bệnh viện lâu hơn để được điều trị bằng thuốc kháng sinh giúp diệt vi khuẩn có thể đã lan sang khoang bụng .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Even if the appendix has not ruptured , the doctor may prescribe antibiotics because they can decrease the risk of infection after surgery .</s>
+<s id='vn49'>Dù là ruột thừa chưa bị vỡ thì bác sĩ cũng có thể cho sử dụng thuốc kháng sinh bởi loại thuốc này có thể làm giảm nguy cơ nhiễm trùng sau khi mổ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>After a few days of rest at home , a student can safely return to school .</s>
+<s id='vn50'>Sau khi nghỉ ngơi ở nhà một vài ngày , sinh viên có thể đi học lại an toàn .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>If you think you have appendicitis</s>
+<s id='vn51'>Nếu nghĩ mình bị viêm ruột thừa</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The best thing you can do is to get help from your doctor right away if you suspect that you have appendicitis .</s>
+<s id='vn52'>Nếu nghi ngờ bị viêm ruột thừa thì tốt hơn hết là bạn nên nhờ bác sĩ can thiệp ngay lập tức .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Prompt treatment of appendicitis usually prevents complications and gets you back to your regular routine faster .</s>
+<s id='vn53'>Việc điều trị viêm ruột thừa kịp thời thường có thể ngăn ngừa được các biến chứng và có thể giúp bạn trở lại hoạt động thường nhật của mình nhanh hơn .</s>
+</spair>
+</text>
+</doc>

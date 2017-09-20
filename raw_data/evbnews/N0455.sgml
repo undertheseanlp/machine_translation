@@ -1,0 +1,688 @@
+﻿<doc id='N0455'>
+<head>
+<title>Sleeping pills - What 's best for you</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Sleeping pills - What 's best for you</s>
+<s id='vn1'>Loại thuốc ngủ nào tốt nhất cho bạn ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's the middle of the night , and you 're staring at the bedroom ceiling , thinking about work , or bills , or the kids .</s>
+<s id='vn2'>Đang nửa đêm , bạn nhìn chằm chằm lên trần nhà của phòng ngủ , suy nghĩ về công ăn việc làm , về hoá đơn chi phí , hoặc suy nghĩ về con cái .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Sleep just won't come .</s>
+<s id='vn3'>Không tài nào chợp mắt được .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You look anxiously at the clock again .</s>
+<s id='vn4'>Bạn lại lo lắng nhìn đồng hồ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>If only you could fall asleep .</s>
+<s id='vn5'>Giá như bạn có thể ngủ được ...</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In these circumstances , it 's often tempting to reach for a sleeping pill , but there are important things you need to know first .</s>
+<s id='vn6'>Trong hoàn cảnh này , thường thì bạn rất thèm uống một viên thuốc ngủ , nhưng trước tiên có những điều quan trọng mà bạn cần nên biết .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Sleep medications vary in safety and effectiveness and are rarely meant for more than short-term use .</s>
+<s id='vn7'>Các loại thuốc ngủ khác nhau về độ an toàn và hiệu quả và hiếm khi được sử dụng lâu dài .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Persistent insomnia is usually a symptom of an underlying medical or psychological problem that cannot be treated with sleep medications .</s>
+<s id='vn8'>Mất ngủ kinh niên thường là triệu chứng của một vấn đề sức khỏe hoặc vấn đề tâm lý tiềm ẩn nào đó mà bạn không thể chữa bằng thuốc ngủ được .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In many cases , making simple changes to your lifestyle is far more effective at ending sleepless nights than popping a pill .</s>
+<s id='vn9'>Trong nhiều trường hợp thì việc thay đổi một chút lối sống cũng có hiệu quả hơn nhiều trong việc chữa lành chứng mất ngủ thâu đêm so với việc nốc vào miệng một viên thuốc .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Are sleeping pills right for you ?</s>
+<s id='vn10'>Các loại thuốc có thích hợp với bạn không ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In general , sleeping pills and sleep medications are most effective when used sparingly for short-term situations , such as traveling across many time zones or recovering from a medical procedure .</s>
+<s id='vn11'>Nói chung , thuốc ngủ có hiệu quả nhất khi được sử dụng hạn chế trong các trường hợp ngắn hạn , chẳng hạn như du lịch qua nhiều múi giờ hoặc phục hồi sau một quá trình điều trị bệnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Sometimes sleep medications are used briefly at the beginning of behavioral treatment for insomnia , especially if the sleep deprivation has been severe .</s>
+<s id='vn12'>Đôi khi thuốc ngủ cũng được sử dụng ngắn hạn trong giai đoạn đầu điều trị về hành vi đối với bệnh mất ngủ , nhất là khi chứng thiếu ngủ đã trầm trọng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If medications are used over the long term , they are best used " as needed " instead of on a daily basis to avoid dependence and tolerance .</s>
+<s id='vn13'>Nếu được sử dụng lâu dài thì thuốc được sử dụng tốt nhất " khi cần thiết " thay vì sử dụng hằng ngày để tránh lệ thuộc thuốc và lờn thuốc .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Working with your healthcare professional is essential to ensure you get the maximum benefit and can safely monitor potential side-effects .</s>
+<s id='vn14'>Bạn cần tham khảo ý kiến của bác sĩ để đảm bảo có được lợi ích tối đa và có thể theo dõi các tác dụng phụ có thể xảy ra một cách an toàn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The trouble with sleeping pills , over-the-counter sleep aids</s>
+<s id='vn15'>Rắc rối với thuốc ngủ , thuốc ngủ mua tự do không theo toa</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The idea of a pill that can instantly solve your sleep problems is very appealing .</s>
+<s id='vn16'>Ý tưởng sử dụng một viên thuốc ngủ có thể giải quyết các vấn đề về giấc ngủ ngay tức khắc rất hấp dẫn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Unfortunately , sleep medications do n't cure the underlying cause of the insomnia , and in fact can often make the problem worse in the long run .</s>
+<s id='vn17'>Đáng tiếc là , các loại thuốc ngủ không chữa dứt nguyên nhân gây mất ngủ thật sự , và thực ra thường có thể làm cho vấn đề càng tệ hại hơn về lâu dài .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Concerns about the use of both over-the-counter ( OTC ) and prescription sleep medications include :</s>
+<s id='vn18'>Các mối quan tâm về việc sử dụng cả thuốc ngủ không theo toa ( OTC ) lẫn thuốc ngủ theo toa gồm :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>* Side effects .</s>
+<s id='vn19'>* Tác dụng phụ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Side effects can be severe and include prolonged drowsiness the next day , confusion , forgetfulness and dry mouth .</s>
+<s id='vn20'>Các tác dụng phụ có thể trầm trọng và bao gồm buồn ngủ kéo dài sang ngày hôm sau , nhầm lẫn lú lẫn , hay quên và khô miệng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>* Drug tolerance .</s>
+<s id='vn21'>* Lờn thuốc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>You may have to take more and more of the sleep aid for it to work , which in turn can lead to more side effects .</s>
+<s id='vn22'>Bạn có thể phải sử dụng ngày càng nhiều thuốc ngủ hơn mới có tác dụng , do đó có thể dẫn đến nhiều tác dụng phụ hơn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Drug dependence .</s>
+<s id='vn23'>* Lệ thuộc vào thuốc .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>You may come to rely on the medication to sleep , and will be unable to sleep or have even worse sleep without it .</s>
+<s id='vn24'>Bạn có thể trở nên lệ thuộc vào thuốc mới có thể ngủ được , và sẽ không ngủ được hoặc thậm chí là có giấc ngủ tệ hơn nếu không dùng thuốc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>* Withdrawal symptoms .</s>
+<s id='vn25'>* Các triệu chứng vật vã vì lên cơn nghiện .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If you stop the medication abruptly , you may have withdrawal symptoms , such as nausea , sweating and shaking .</s>
+<s id='vn26'>Nếu bạn dừng thuốc đột ngột , bạn có thể vật vã vì lên cơn nghiện , như là buồn nôn , đổ mồ hôi và run rẩy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>* Drug interactions .</s>
+<s id='vn27'>* Tương tác thuốc .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>If you are taking other medications , sleeping medications can interact with them .</s>
+<s id='vn28'>Nếu bạn đang sử dụng các loại thuốc khác , thì thuốc ngủ có thể tương tác với chúng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>This can worsen side effects and be dangerous , especially with medications such as prescription painkillers and other sedatives .</s>
+<s id='vn29'>Điều này có thể làm cho các tác dụng phụ càng trầm trọng thêm và gây nguy hiểm , nhất là với những thuốc như thuốc giảm đau theo toa và các loại thuốc an thần khác .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>* Rebound insomnia .</s>
+<s id='vn30'>* bệnh mất ngủ trở nên tồi tệ hơn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you need to stop the medication , sometimes the insomnia can become even worse than before .</s>
+<s id='vn31'>Nếu bạn cần phải ngưng sử dụng thuốc , thì đôi khi chứng mất ngủ thậm chí có thể trở nên trầm trọng hơn trước .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>* Masking an underlying problem .</s>
+<s id='vn32'>* Che dấu một vấn đề tiềm ẩn nào đó .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>There may be an underlying medical or mental disorder , or even a sleep disorder , that if treated would provide more relief from insomnia .</s>
+<s id='vn33'>Có thể có một chứng bệnh hoặc một rối loạn tâm thần nào đó , hoặc thậm chí là rối loạn giấc ngủ , nếu được chữa trị sẽ làm cho bệnh nhân ngủ ngon hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Side effects of sleep medications</s>
+<s id='vn34'>Các tác dụng phụ của thuốc ngủ</s>
+</spair>
+<spair id='35'>
+<s id='en35'>All prescription sleeping pills have side effects , which can vary depending on the specific drug , the dosage and how long the drug lasts in your system .</s>
+<s id='vn35'>Tất cả các thuốc ngủ theo toa đều có tác dụng phụ , có thể thay đổi tuỳ theo từng loại thuốc cụ thể , liều lượng và thuốc kéo dài trong cơ thể bạn là bao lâu .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Check with your healthcare professional about any concerns you have .</s>
+<s id='vn36'>Hãy tham khảo ý kiến bác sĩ về bất cứ mối quan tâm nào của bạn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Common side effects can include headache , muscle aches , constipation , dry mouth , daytime sleepiness , trouble concentrating , dizziness , unsteadiness and rebound insomnia .</s>
+<s id='vn37'>Các tác dụng phụ thường thấy có thể bao gồm nhức đầu , đau cơ , táo bón , miệng khô , buồn ngủ ban ngày , khó tập trung , chóng mặt , choáng váng và chứng mất ngủ trở nên tồi tệ hơn .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Some serious risks of sleeping pills</s>
+<s id='vn38'>Một số nguy cơ nghiêm trọng của thuốc ngủ</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Sedative-hypnotic drug products ( benzodiazepines and non-benzodiazepines ) can cause severe allergic reaction , facial swelling , memory lapses , hallucinations , and complex sleep-related behaviors .</s>
+<s id='vn39'>Các sản phẩm an thần - thuốc ngủ ( benzodiazepines và non-benzodiazepines ) có thể gây phản ứng dị ứng nặng , sưng mặt , đãng trí , ảo giác , và những cử chỉ hành vi phức tạp liên quan đến giấc ngủ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>These may include sleep-walking , sleep-driving ( driving while not fully awake , with no memory of the event ) and sleep-eating ( eating in the middle of the night with no recollection , often resulting in weight-gain ) .</s>
+<s id='vn40'>Nó gồm mộng du , lái xe trong mơ ngủ ( lái xe trong tình trạng không hoàn toàn tỉnh táo , không có ghi nhớ về sự kiện ) và ăn trong mộng mị ( ăn giữa đêm mà không có hồi ức , thường dẫn tới tăng cân ) .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If you experience any unusual sleep-related behavior , consult your doctor immediately .</s>
+<s id='vn41'>Nếu bạn có bất kỳ hành vi nào khác thường liên quan đến giấc ngủ , hãy tham khảo ý kiến của bác sĩ ngay nhé .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Does newer mean better and safer for sleep medications ?</s>
+<s id='vn42'>Có phải các loại thuốc ngủ mới hơn là an toàn hơn và tốt hơn không ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Not necessarily .</s>
+<s id='vn43'>Không nhất thiết là vậy .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>An older medication may work just as well depending on the type of insomnia you have and other medical considerations .</s>
+<s id='vn44'>Một loại thuốc cũ hơn có thể công hiệu tốt tuỳ vào loại mất ngủ của bạn và những lý do khác về mặt y học .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Older medications often have many additional years of data from patient usage and may also be more cost effective if available in generic form .</s>
+<s id='vn45'>Những loại thuốc cũ hơn thường có nhiều dữ liệu bổ sung qua nhiều năm của bệnh nhân đã sử dụng qua và có thể cũng rẻ hơn nếu được bán ở dạng chung .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>On the other hand , newer medications may have differences that minimize side effects of older medications .</s>
+<s id='vn46'>Mặt khác , các loại thuốc mới có thể khác biệt là làm giảm thiểu những tác dụng phụ của thuốc cũ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Bottom line : work with a healthcare professional that you trust in deciding which medication would best suit your needs .</s>
+<s id='vn47'>Nói tóm lại : bạn nên làm việc với bác sĩ đáng tin cậy để quyết định xem thuốc nào là phù hợp nhất với nhu cầu của mình nhé .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Over-the-counter sleep aids</s>
+<s id='vn48'>Các loại thuốc ngủ mua tự do không theo toa</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The main ingredient of over-the-counter sleeping pills is an antihistamine .</s>
+<s id='vn49'>Thành phần chính của các loại thuốc ngủ mua tự do không theo toa là thuốc kháng histamine .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Antihistamines are generally taken for allergies , hay fever and common cold symptoms , in brand name medication such as Benadryl .</s>
+<s id='vn50'>Thuốc kháng histamine thông thường được sử dụng chống dị ứng , viêm mũi dị ứng và các triệu chứng cảm lạnh , có trong thương hiệu thuốc như là Benadryl .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>However , histamine , a chemical messenger in the brain , promotes wakefulness , so antihistamine has the effect of making some patients feel sleepy .</s>
+<s id='vn51'>Tuy nhiên , histamine , một chất hoá học về truyền tin trong não , kích thích sự tỉnh táo , cho nên thuốc kháng histamine có tác dụng làm cho một số bệnh nhân cảm thấy buồn ngủ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>While the positive effects have not been substantiated through research , the side effects , such as drowsiness the following day , can be common and severe .</s>
+<s id='vn52'>Mặc dù người ta chưa chứng minh được những ảnh hưởng tích cực qua nghiên cứu , nhưng các tác dụng phụ , chẳng hạn như buồn ngủ ngày hôm sau , là tác dụng phụ thường thấy và nguy hiểm .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Some other OTC sleep medications combine antihistamines with the pain reliever Acetaminophen ( found in brand names like Tylenol PM and Aspirin-Free Anacin PM ) .</s>
+<s id='vn53'>Một số thuốc ngủ mua tự do không theo toa khác kết hợp thuốc kháng histamine với thuốc giảm đau Acetaminophen ( có trong các thương hiệu chẳng hạn như Tylenol PM và Aspirin-Free Anacin PM ) .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Others , such as NyQuil , combine antihistamines with alcohol .</s>
+<s id='vn54'>Các loại khác , chẳng hạn như NyQuil , kết hợp thuốc kháng histamine với chất rượu cồn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>OTC sleep aids are meant to be used for short term insomnia only .</s>
+<s id='vn55'>Các loại thuốc ngủ mua tự do không theo toa được ngụ ý chỉ được sử dụng cho chứng mất ngủ tạm thời .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Sleep experts generally advise against the use of over-the-counter sleep aids because of side-effects , questions about their effectiveness , and lack of information about their safety over the long-term .</s>
+<s id='vn56'>Nhiều chuyên gia về giấc ngủ thường khuyên không nên sử dụng thuốc ngủ mua tự do không theo toa bởi tác dụng phụ của chúng , bởi các nghi vấn về công hiệu của thuốc , và bởi sự thiếu thông tin về tính an toàn về lâu dài của thuốc .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Side effects of OTC sleep aids</s>
+<s id='vn57'>Các tác dụng phụ của thuốc ngủ mua tự do không theo toa</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The antihistamines used in OTC sleep aids can produce common side effects , some of them severe .</s>
+<s id='vn58'>Chất kháng histamine được sử dụng trong thuốc ngủ mua tự do không theo toa có thể gây nhiều tác dụng phụ thường thấy , một số tác dụng phụ nghiêm trọng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>As with any medication , it is advisable to consult your doctor before taking over-the-counter sleep medication .</s>
+<s id='vn59'>Như bất kỳ một loại thuốc nào , bạn nên thao khảo ý kiến của bác sĩ trước khi sử dụng thuốc ngủ không theo toa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>This is especially important if you have glaucoma , trouble urinating due to an enlarged prostate gland , or a breathing problem such as emphysema or chronic bronchitis .</s>
+<s id='vn60'>Điều này đặc biệt quan trọng nếu bạn bị tăng nhãn áp , khó đi tiểu do giãn tuyến tiền liệt , hoặc bị vấn đề về hô hấp chẳng hạn như bị khí thũng tràn khí hoặc viêm phế quản mạn tính .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Talk to your doctor if you 're currently taking an antidepressant such as a monoamine oxidase inhibitor ( MAOI ) or did so as recently as two weeks ago .</s>
+<s id='vn61'>Hãy thông báo cho bác sĩ biết nếu bạn đang sử dụng thuốc chống trầm cảm chẳng hạn như chất ức chế ô-xi-đa-za mô-nô-a-min ( MAOI ) hoặc đã sử dụng thuốc này khoảng 2 tuần trước .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Also check with your doctor first if you take any other drugs for depression or Parkinson 's disease .</s>
+<s id='vn62'>Bạn cũng nên tham khảo ý kiến bác sĩ trước nếu sử dụng bất kỳ loại thuốc nào chống trầm cảm hoặc chữa liệt rung khác .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Women who breast-feed should avoid OTC sleep aids .</s>
+<s id='vn63'>Phụ nữ cho con bú không nên sử dụng thuốc ngủ mua tự do không theo toa .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Common side effects of OTC sleep aids</s>
+<s id='vn64'>Các tác dụng phụ thường thấy của các loại thuốc ngủ mua tự do không theo toa</s>
+</spair>
+<spair id='65'>
+<s id='en65'>* Moderate to severe drowsiness the next day</s>
+<s id='vn65'>* Buồn ngủ từ vừa phải đến dữ dội vào ngày hôm sau</s>
+</spair>
+<spair id='66'>
+<s id='en66'>* Dizziness and forgetfulness</s>
+<s id='vn66'>* Chóng mặt và hay quên</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* Clumsiness , feeling off balance</s>
+<s id='vn67'>* Lóng ngóng , cảm giác mất thăng bằng</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* Constipation and urinary retention</s>
+<s id='vn68'>* Táo bón và bí tiểu</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* Blurred vision</s>
+<s id='vn69'>* Mắt mờ</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* Dry mouth and throat</s>
+<s id='vn70'>* Khô miệng và khô cổ họng</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Prescription sleeping pills</s>
+<s id='vn71'>Các loại thuốc ngủ theo toa</s>
+</spair>
+<spair id='72'>
+<s id='en72'>There are several different types of prescription sleeping pills .</s>
+<s id='vn72'>Có nhiều loại thuốc ngủ theo toa khác nhau .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>These medications are classified as sedative hypnotics .</s>
+<s id='vn73'>Những loại thuốc này được phân loại như là thuốc ngủ an thần .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>In general , the medications act by working on receptors in the brain to slow down the nervous system .</s>
+<s id='vn74'>Nói chung , những thuốc này hoạt động bằng cách tác động lên cơ quan nhận cảm trong não để làm chậm hệ thần kinh .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Some medications are used for inducing sleep , while others are used for staying asleep .</s>
+<s id='vn75'>Một số loại thuốc được sử dụng để gây buồn ngủ , trong khi một số thuốc khác được sử dụng để duy trì giấc ngủ .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Some last longer than others in your system ( a longer half life ) , and some have a higher risk of becoming habit forming .</s>
+<s id='vn76'>Một số thuốc kéo dài lâu hơn so với một số thuốc khác trong cơ thể bạn ( dài hơn nửa cuộc đời ) , và một số thuốc có nguy cơ hình thành thói quen nghiện thuốc cao hơn .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Consult your healthcare professional if you have a specific question about a medication .</s>
+<s id='vn77'>Hãy tham khảo ý kiến của chuyên gia sức khỏe nếu bạn có bất kỳ câu hỏi cụ thể nào về thuốc nhé .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Benzodiazepine sedative hypnotic sleeping pills</s>
+<s id='vn78'>Thuốc ngủ , an thần Benzodiazepine</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Benzodiazepines are the oldest class of sleep medications still commonly in use .</s>
+<s id='vn79'>Benzodiazepine là loại thuốc ngủ xưa nhất vẫn còn được sử dụng rộng rãi .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Benzodiazepines as a group are thought to have a higher risk of dependence than other insomnia sedative hypnotics .</s>
+<s id='vn80'>Benzodiazepines như là một nhóm được cho là có nguy cơ lệ thuộc hơn so với các thuốc ngủ an thần khác .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>All are classified as controlled substances .</s>
+<s id='vn81'>Tất cả đều được xếp vào các chất được kiểm soát .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Primarily used to treat anxiety disorders , benzodiazepines approved to treat insomnia include :</s>
+<s id='vn82'>chủ yếu được sử dụng để điều trị rối loạn lo âu , benzodiazepines được cho phép sử dụng để trị mất ngủ gồm :</s>
+</spair>
+<spair id='83'>
+<s id='en83'>* Estazolam ( ProSom )</s>
+<s id='vn83'>* Estazolam ( ProSom )</s>
+</spair>
+<spair id='84'>
+<s id='en84'>* Flurazepam ( Dalmane )</s>
+<s id='vn84'>* Flurazepam ( Dalmane )</s>
+</spair>
+<spair id='85'>
+<s id='en85'>* Quazepam ( Doral )</s>
+<s id='vn85'>* Quazepam ( Doral )</s>
+</spair>
+<spair id='86'>
+<s id='en86'>* Temazepam ( Restoril )</s>
+<s id='vn86'>* Temazepam ( Restoril )</s>
+</spair>
+<spair id='87'>
+<s id='en87'>* Triazolam ( Halcion )</s>
+<s id='vn87'>* Triazolam ( Halcion )</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Drawbacks to benzodiazepine sleeping pills</s>
+<s id='vn88'>Những hạn chế của thuốc ngủ benzodiazepine</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Use of sleeping medications , especially benzodiazepines , can become troublesome for several reasons :</s>
+<s id='vn89'>Việc sử dụng thuốc ngủ , nhất là benzodiazepines , có thể trở nên khó chịu bởi một số lý do sau :</s>
+</spair>
+<spair id='90'>
+<s id='en90'>* You can become both physically and psychologically dependent on the sleep medication .</s>
+<s id='vn90'>* Bạn có thể trở nên bị lệ thuộc cả thể chất lẫn tâm lý vào thuốc ngủ .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>You may believe that you can't sleep without it , and actually experience physical withdrawal symptoms like anxiety and rebound insomnia .</s>
+<s id='vn91'>Bạn cũng có thể tin là nếu không sử dụng thuốc thì không tài nào bạn ngủ được , và thực sự bị một số triệu chứng vật vã vì lên cơn nghiện như bồn chồn lo âu và chứng mất ngủ tệ hại hơn trước .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>* They can lose their effectiveness if used on a nightly basis , because the brain receptors become less sensitive to their effects .</s>
+<s id='vn92'>* Thuốc có thể mất công hiệu nếu được sử dụng hằng đêm , bởi các thụ quan ở não trở nên ít nhạy cảm hơn với tác dụng của nó .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>In as little as three to four weeks , benzodiazepines can become no more effective than a sugar pill .</s>
+<s id='vn93'>Trong thời gian ngắn từ 3 đến 4 tuần , benzodiazepines có thể trở nên không có công hiệu so với một viên thuốc đường .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>* The overall quality of your sleep can be reduced , with less restorative deep sleep and dream sleep .</s>
+<s id='vn94'>* Chất lượng toàn bộ giấc ngủ có thể giảm , giấc ngủ sâu và giấc ngủ mơ hồi phục kém .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>* You may experience next day cognitive slowing and drowsiness ( the hangover effect ) , which may be even greater than from sleep deprivation .</s>
+<s id='vn95'>* Bạn có thể nhận thức chậm và buồn ngủ ngày hôm sau ( ảnh hưởng như bị say rượu ) , thậm chí còn dữ dội hơn là thiếu ngủ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>* Even if the medication is effective while taking it , insomnia returns once it is stopped .</s>
+<s id='vn96'>* Dù là thuốc có công hiệu trong khi sử dụng , nhưng bệnh mất ngủ vẫn tái phát khi đã ngưng thuốc .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Non-benzodiazepine sedative hypnotic sleeping pills</s>
+<s id='vn97'>Thuốc ngủ an thần không chứa benzodiazepine</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Some newer medications do n't have the same chemical structure as a benzodiazepine , but act on the same area in the brain .</s>
+<s id='vn98'>Một số thuốc mới hơn không có cấu trúc hoá học giống như benzodiazepine , nhưng hoạt động trên cùng một vùng não .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>They are thought to have fewer side effects , and less risk of dependency , but are still considered controlled substances .</s>
+<s id='vn99'>Chúng được cho là ít có tác dụng phụ hơn , và ít có nguy cơ lệ thuộc hơn , nhưng vẫn được xem là các chất phải được kiểm soát .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>One medication in this class , eszopiclone ( Lunesta ) , has been tested for longer-term use , up to six months .</s>
+<s id='vn100'>Một loại thuốc thuộc loại này có tên là eszopiclone ( Lunesta ) , đã được thử nghiệm sử dụng lâu dài hơn , lên đến 6 tháng .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>* Eszopiclone ( Lunesta )</s>
+<s id='vn101'>* Eszopiclone ( Lunesta )</s>
+</spair>
+<spair id='102'>
+<s id='en102'>* Zalepon ( Sonata )</s>
+<s id='vn102'>* Zalepon ( Sonata )</s>
+</spair>
+<spair id='103'>
+<s id='en103'>* Zolpidem ( Ambien )</s>
+<s id='vn103'>* Zolpidem ( Ambien )</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Drawbacks to non-benzodiazepine sleeping pills</s>
+<s id='vn104'>Hạn chế của thuốc ngủ không chứa benzodiazepine</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Generally , non-benzodiazepines have fewer drawbacks than benzodiazepines , but that does n't make them suitable for everyone .</s>
+<s id='vn105'>Nói chung là thuốc ngủ không chứa benzodiazepines có ít hạn chế hơn thuốc ngủ chứa benzodiazepines , nhưng điều đó không có nghĩa là ai cũng sử dụng được .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Some may find this type of sleep medication ineffective at helping them sleep , while the long-term effects remain unknown .</s>
+<s id='vn106'>Một số người có thể phát hiện thấy loại thuốc ngủ này không có công hiệu giúp ngủ được , trong khi người ta vẫn chưa biết các tác dụng lâu dài của chúng .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Side-effects include :</s>
+<s id='vn107'>Những tác dụng phụ gồm :</s>
+</spair>
+<spair id='108'>
+<s id='en108'>* Morning grogginess</s>
+<s id='vn108'>* Choáng váng vào buổi sáng</s>
+</spair>
+<spair id='109'>
+<s id='en109'>* Drug tolerance</s>
+<s id='vn109'>* Dung nạp thuốc lờn thuốc</s>
+</spair>
+<spair id='110'>
+<s id='en110'>* Rebound insomnia</s>
+<s id='vn110'>* Tình trạng mất ngủ có thể trầm trọng hơn trước</s>
+</spair>
+<spair id='111'>
+<s id='en111'>* Headaches , dizziness , nausea</s>
+<s id='vn111'>* Nhức đầu , chóng mặt , buồn nôn</s>
+</spair>
+<spair id='112'>
+<s id='en112'>* In rare cases , dangerous sleep-related behaviors such as sleep-walking , sleep-driving , and sleep-eating</s>
+<s id='vn112'>* Trong những trường hợp hiếm thấy , nhiều hành vi nguy hiểm liên quan đến giấc ngủ , chẳng hạn như mộng du , lái xe trong mơ ngủ , và ăn trong mộng mị .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Antidepressants</s>
+<s id='vn113'>Thuốc chống trầm cảm</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The Food and Drug Administration ( FDA ) has not approved these drugs for the treatment of insomnia , nor has their use been proven effective in treating sleeplessness .</s>
+<s id='vn114'>Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ ( FDA ) đã không chấp thuận cho sử dụng các loại thuốc này để điều trị mất ngủ , việc sử dụng thuốc cũng không chứng minh được công hiệu chữa mất ngủ .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>However , some physicians believe insomnia is related to depression .</s>
+<s id='vn115'>Tuy nhiên , một số bác sĩ cho rằng bệnh mất ngủ liên quan đến chứng trầm cảm .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>As with all depression medication , there is a significant risk of suicidal thoughts or worsening of depression , particularly in children and adolescents .</s>
+<s id='vn116'>Cũng như tất cả các thuốc trầm cảm khác , thuốc này có nguy cơ gây ý định tự sát đáng kể hoặc làm cho chứng trầm cảm càng tệ hại hơn , nhất là đối với trẻ em và thanh thiếu niên .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Guidelines for using sleep medications</s>
+<s id='vn117'>Hướng dẫn sử dụng thuốc ngủ</s>
+</spair>
+<spair id='118'>
+<s id='en118'>If you decide to try sleeping pills or sleep aids , keep in mind the following guidelines .</s>
+<s id='vn118'>Nếu bạn quyết định thử thuốc ngủ , hãy ghi nhớ những hướng dẫn sau .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Talk to your doctor about</s>
+<s id='vn119'>Hãy thông báo cho bác sĩ biết</s>
+</spair>
+<spair id='120'>
+<s id='en120'>* Other medications you are taking .</s>
+<s id='vn120'>* Những loại thuốc khác mà bạn đang sử dụng .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>This includes non-prescription medications such as pain relievers and allergy medicines , as well as herbal supplements .</s>
+<s id='vn121'>Nó gồm các thuốc không theo toa chẳng hạn như thuốc giảm đau và thuốc chống dị ứng , cũng như các loại thảo dược bổ sung .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Combining medications can be very dangerous .</s>
+<s id='vn122'>Việc kết hợp nhiều thuốc với nhau có thể rất nguy hiểm .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* Specific instructions for decreasing and_or terminating use .</s>
+<s id='vn123'>* Những hướng dẫn sử dụng cụ thể làm giảm và hoặc chữa dứt bệnh mất ngủ .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>In some cases , stopping medication abruptly can cause uncomfortable side effects and even rebound insomnia .</s>
+<s id='vn124'>Trong một số trường hợp , việc ngưng thuốc đột ngột có thể gây các tác dụng phụ khó chịu và thậm chí còn làm cho chứng mất ngủ càng trầm trọng hơn trước .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>* Using the medications intermittently , rather than nightly , in order to decrease the negative side effects and to increase the sleeping pills " efficiency when you do use them .</s>
+<s id='vn125'>* Sử dụng thuốc không liên tục , không phải đêm nào cũng uống , để làm giảm tác dụng phụ tiêu cực và làm tăng công hiệu của thuốc ngủ khi sử dụng chúng .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>This is not appropriate with all medications , as some cause withdrawal symptoms when stopped abruptly .</s>
+<s id='vn126'>Điều này không phù hợp với tất cả các loại thuốc , bởi một số thuốc gây triệu chứng vật vã nghiện thuốc khi ngưng sử dụng một cách đột ngột .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>* Other medical conditions that you have .</s>
+<s id='vn127'>* Các chứng bệnh khác của bạn .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Some drugs can have serious side effects for people with medical problems such as high blood pressure , liver problems , glaucoma , depression and breathing difficulties .</s>
+<s id='vn128'>Một số thuốc có thể gây tác dụng phụ nguy hiểm cho người bị một số bệnh sau , chẳng hạn như cao huyết áp , vấn đề về gan , tăng nhãn áp , trầm cảm và khó thở .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Remember to</s>
+<s id='vn129'>Hãy ghi nhớ</s>
+</spair>
+<spair id='130'>
+<s id='en130'>* Only take a sleeping pill when you do n't have enough time to get a full night of sleep ( 7 to 8 hours ) .</s>
+<s id='vn130'>* Chỉ sử dụng thuốc ngủ khi bạn không đủ thời gian để ngủ được suốt đêm ( 7-8 tiếng đồng hồ ) .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Otherwise you may feel very drowsy the next day .</s>
+<s id='vn131'>Nếu không , bạn có thể cảm thấy rất buồn ngủ vào ngày hôm sau .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>* Carefully read the package insert that comes with your medication .</s>
+<s id='vn132'>* Đọc kỹ thông tin ghi chú bên bao thuốc .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Pay careful attention to the potential side effects .</s>
+<s id='vn133'>Hãy lưu ý cẩn thận những tác dụng phụ tiềm ẩn có thể xảy ra .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>* Never drink alcohol near the time when you take a sleeping pill .</s>
+<s id='vn134'>* Đừng bao giờ uống rượu bia gần giờ uống thuốc ngủ .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>Not only will alcohol disrupt your sleep even more , it can interact dangerously with the sleeping pill .</s>
+<s id='vn135'>Bia rượu ko những làm gián đoạn giấc ngủ nhiều hơn , mà còn có thể tương tác với thuốc ngủ một cách nguy hiểm .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>* Never drive a car or operate machinery after taking a sleeping pill , especially when you first start taking a new sleep aid , as you may not know how it will affect you .</s>
+<s id='vn136'>* Không bao giờ lái xe hoặc vận hành máy móc sau khi đã sử dụng thuốc ngủ , nhất là khi bạn mới bắt đầu dùng một loại thuốc trị mất ngủ mới , bởi bạn có thể không biết nó sẽ ảnh hưởng như thế nào đối với mình .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>* Follow directions closely , starting with a very small dose and increasing gradually , according to the doctor 's schedule .</s>
+<s id='vn137'>* Làm theo các hướng dẫn một cách sát sao , bắt đầu với một liều lượng rất nhỏ và tăng dần lên , theo kế hoạch điều trị của bác sĩ .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Find out whether you should take your medication with or without food .</s>
+<s id='vn138'>Hãy tìm hiểu xem bạn có nên sử dụng thuốc với thức ăn hay không .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>For some medications , certain foods must be avoided .</s>
+<s id='vn139'>Đối với một số loại thuốc thì phải nên tránh một số thức ăn nào đó .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Herbs and natural sleep aids</s>
+<s id='vn140'>Thảo dược và các loại thuốc chữa mất ngủ tự nhiên</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Many people with insomnia choose herbal remedies for treatment , although their effectiveness has not been evaluated by the FDA .</s>
+<s id='vn141'>Nhiều người bị mất ngủ đã chọn điều trị bằng thảo dược , mặc dù hiệu quả của các loại thảo dược đó chưa được FDA đánh giá .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Some remedies , such as lemon balm or chamomile tea are generally harmless .</s>
+<s id='vn142'>Một số bài thuốc , chẳng hạn như tiá tô đất hoặc trà hoa cúc thường vô hại .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>However , others can have more serious side effects and can interfere with prescribed medications , which can be dangerous .</s>
+<s id='vn143'>Tuy nhiên , những bài thuốc khác cũng có thể gây nhiều tác dụng phụ nguy hiểm và có thể tương tác với thuốc theo toa của bác sĩ .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>St. John 's Wort , for example , can limit the effectiveness of many prescribed medications such as blood thinners , birth control pills and some anticancer medications .</s>
+<s id='vn144'>Chẳng hạn như , St. John 's Wort , có thể làm hạn chế công hiệu của nhiều loại thuốc theo toa như thuốc làm loãng máu , thuốc tránh thai và một số loại thuốc chống ung thư .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Check with your healthcare professional if you want to try a herbal remedy .</s>
+<s id='vn145'>Hãy tham khảo ý kiến của bác sĩ nếu bạn muốn thử một thảo dược nào đó .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Herbal sleep aids</s>
+<s id='vn146'>Các loại thuốc ngủ chiết xuất từ thảo dược</s>
+</spair>
+<spair id='147'>
+<s id='en147'>There are several herbs thought to help sleep , including chamomile , valerian root , kava , lemon balm , passionflower , lavender , and St. John 's Wort .</s>
+<s id='vn147'>Có một số loại thảo dược được cho rằng có khả năng giúp người ta ngủ được , bao gồm cúc La mã , nữ lang , cây hồ tiêu , tiá tô đất , hoa lạc tiên , hoa oải hương , và St. John 's Wort .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Many people drink chamomile tea for its gentle sedative properties , although it may cause allergic reactions in those with plant or pollen allergies .</s>
+<s id='vn148'>Nhiều người uống trà hoa cúc bởi nó có tính an thần nhẹ , mặc dù trà này có thể gây phản ứng dị ứng ở những người bị dị ứng thực vật hoặc dị ứng phấn hoa .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>While there is some data showing valerian to be useful for insomnia , at high doses , it can cause vivid dreams , blurred vision , changes in heart rhythm , and excitability .</s>
+<s id='vn149'>Mặc dù một số dữ liệu cho thấy nữ lang có công dụng chữa mất ngủ , nhưng với liều cao , nó có thể gây giấc mơ sống động , rõ ràng ( mà người mơ có thể nhớ rất nhiều chi tiết ) , mắt mờ , thay đổi nhịp tim , và dễ bị kích động .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Melatonin</s>
+<s id='vn150'>Mê-la-tô-nin</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Melatonin is a naturally occurring hormone whose levels peak at night .</s>
+<s id='vn151'>Mê-la-tô-nin là hooc-môn tiết ra tự nhiên có nồng độ cao nhất vào ban đêm .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>It is triggered by dark and levels remain elevated throughout the night until light decreases it .</s>
+<s id='vn152'>Hooc-môn này được kích hoạt bởi bóng tối và nồng độ của nó được duy trì gia tăng suốt đêm cho đến khi trời sáng mới giảm xuống .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>However , most studies have not found melatonin to be beneficial when compared to a sugar pill ( placebo ) .</s>
+<s id='vn153'>Tuy nhiên , hầu hết các nghiên cứu đều không phát hiện thấy mê-la-tô-nin có lợi khi so sánh với một viên thuốc đường ( giả dược thuốc trấn an ) .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>Some positive results have been shown in helping jet lag and night shift workers .</s>
+<s id='vn154'>Một số kết quả tích cực cho thấy mê - la-tô-nin có thể giúp giảm mệt mỏi sau một chuyến bay dài và các công nhân ca đêm .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Long term effects of melatonin are unknown .</s>
+<s id='vn155'>Người ta vẫn chưa biết rõ về các tác dụng lâu dài của loại hooc - môn này .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Tryptophan , L-tryptophan</s>
+<s id='vn156'>Tryptophan , L-tryptophan</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Tryptophan is a basic amino acid used in the formation of the chemical messenger serotonin , a substance in the brain that helps tell your body to sleep .</s>
+<s id='vn157'>Tryptophan là a-xít amin cơ bản được dùng để tạo chất hoá học dẫn truyền serotonin , đây là một chất trong não giúp thông báo cho cơ thể biết giấc ngủ .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>L-tryptophan is a common byproduct of tryptophan , which the body then can change into serotonin .</s>
+<s id='vn158'>L-tryptophan là sản phẩm phụ thường thấy của tryptophan mà cơ thể có thể chuyển thành serotonin sau đó .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Some studies have shown that L-tryptophan can help people fall asleep faster .</s>
+<s id='vn159'>Một số nghiên cứu cho thấy L-tryptophan có thể giúp người ta ngủ nhanh hơn .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Results , however , have been inconsistent .</s>
+<s id='vn160'>Tuy nhiên , các kết quả thu được đều không giống nhau .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Alternatives to sleeping pills and sleep medications</s>
+<s id='vn161'>Các giải pháp thay thế cho thuốc ngủ</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Research has shown that changing your sleep environment and bedtime behaviors is one of the most effective ways to combat insomnia .</s>
+<s id='vn162'>Một cuộc nghiên cứu cho thấy việc thay đổi không gian ngủ môi trường ngủ và các hành vi , thói quen giờ ngủ là một trong những cách hiệu quả nhất để chữa mất ngủ .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Even if you decide to use sleep medications in the short-term , experts recommend changes in lifestyle and bedtime behavior as a long-term remedy to sleeplessness .</s>
+<s id='vn163'>Dù bạn quyết định sử dụng thuốc ngủ trong thời gian ngắn thì các chuyên gia cũng khuyến cáo nên thay đổi lối sống và hành vi thói quen giờ ngủ như là một biện pháp chữa mất ngủ lâu dài .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Behavioral and environmental changes can have more of a positive impact on sleep than sleeping pills , sleep aids or other medications , without the risk of side effects or dependence .</s>
+<s id='vn164'>Các thay đổi hành vi và môi trường có thể đem lại tác động tích cực hơn đối với giấc ngủ hơn là thuốc ngủ , hoặc các loại thuốc khác , mà không có nguy cơ gây tác dụng phụ hoặc lệ thuộc vào thuốc .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>Cognitive behavioral therapy ( CBT )</s>
+<s id='vn165'>Liệu pháp nhận thức hành vi ( CBT )</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Many people complain that frustrating , negative thoughts and worries prevent them from sleeping at night .</s>
+<s id='vn166'>Nhiều người than phiền rằng những ý nghĩ bực dọc , tiêu cực và lo âu làm cho họ khó ngủ vào ban đêm .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Cognitive-behavioral therapy ( CBT ) is a form of psychotherapy that treats problems by modifying dysfunctional or destructive thoughts , emotions and patterns of behavior .</s>
+<s id='vn167'>Liệu pháp nhận thức hành vi ( CBT ) là một dạng liệu pháp tâm lý xử lý vấn đề bằng cách điều chỉnh các ý nghĩ , các cảm xúc và các kiểu hành vi bất thường hoặc có tính chất huỷ hoại .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>CBT is a relatively simple treatment that can improve sleep by changing your behavior before bedtime as well as changing the ways of thinking that keep you from falling asleep .</s>
+<s id='vn168'>CBT là phương pháp điều trị khá đơn giản có thể giúp ngủ ngon hơn bằng cách thay đổi hành vi thói quen trước giờ ngủ cũng như thay đổi cách suy nghĩ làm bạn khó có thể ngủ được .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>It also focuses on improving relaxation skills and changing lifestyle habits that affect your sleep .</s>
+<s id='vn169'>Liệu pháp này cũng tập trung nâng cao kỹ năng thư giãn và thay đổi thói quen lối sống ảnh hưởng đến giấc ngủ của bạn .</s>
+</spair>
+</text>
+</doc>

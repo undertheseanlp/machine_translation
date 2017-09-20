@@ -1,0 +1,64 @@
+﻿<doc id='N0546'>
+<head>
+<title>Police search for bodies near plant</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Police search for bodies near plant</s>
+<s id='vn1'>Cảnh sát tìm kiếm các thi thể gần nhà máy</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Japanese police have begun searching for victims of the March 11 earthquake and tsunami within a 10km zone around the damaged Fukushima nuclear plant .</s>
+<s id='vn2'>Cảnh sát Nhật Bản đã bắt đầu tìm kiếm các nạn nhân của trận động đất và sóng thần ngày 11 tháng ba trong khu vực 10km quanh nhà máy hạt nhân Fukushima bị thiệt hại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Up to 1,000 bodies are thought to be in the area , but their retrieval has been delayed because of radiation fears.</s>
+<s id='vn3'>Người ta nghĩ là có lên đến 1,000 thi thể trong khu vực này , nhưng cuộc truy tìm của họ đã bị trì hoãn lại vì sợ phóng xạ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Staff are working to bring the nuclear plant under control , after cooling systems at three reactors were knocked out by the quake .</s>
+<s id='vn4'>Các nhân viên đang làm việc nhằm duy trì nhà máy hạt nhân trong trạng thái kiểm soát , sau khi các hệ thống làm mát tại ba lò phản ứng đã bị đánh sụp bởi trận động đất .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>More than 300 police in protective gear are searching for bodies .</s>
+<s id='vn5'>Hơn 300 cảnh sát trong trang phục bảo vệ đang tìm kiếm các thi thể .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It is the first time an operation to find those killed by the earthquake and tsunami has been carried out in the 10km ( six-mile ) zone around the plant .</s>
+<s id='vn6'>Đây là lần đầu tiên một hoạt động tìm kiếm những người bị chết bởi trận động đất và sóng thần đã được thực hiện trong khu vực 10 km ( sáu dặm ) quanh nhà máy .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Police said falling radiation levels had made it possible .</s>
+<s id='vn7'>Cảnh sát cho biết có các lớp phóng xạ rơi xuống .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" The search started around 1000 and will continue until sunset , " a police spokesman said .</s>
+<s id='vn8'>" Cuộc tìm kiếm bắt đầu khoảng 1000 người và sẽ tiếp tục cho đến mặt trời lặn , " người phát ngôn của cảnh sát cho biết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" It 's difficult to estimate how many people are still missing in the area .</s>
+<s id='vn9'>" Thật khó có thể ước tính bao nhiêu người vẫn còn bị mất tích trong khu vực .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>We have to go and find them as soon as possible .</s>
+<s id='vn10'>Chúng tôi phải đi tìm họ càng sớm càng tốt .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" If we find bodies contaminated with high levels of radiation , we will wash the remains before we take them to a morgue . "</s>
+<s id='vn11'>" Nếu chúng tôi tìm thấy các thi thể bị nhiễm bẩn với mức độ phóng xạ cao , chúng tôi sẽ rửa thi hài trước khi chúng tôi đưa họ vào nhà xác . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The earthquake left 13,456 people dead and another 14,851 missing .</s>
+<s id='vn12'>Trận động đất này đã làm cho 13,456 người chết và 14,851 người khác bị mất tích .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>More than 150,000 have been made homeless .</s>
+<s id='vn13'>Hơn 150,000 người trở thành vô gia cư .</s>
+</spair>
+</text>
+</doc>

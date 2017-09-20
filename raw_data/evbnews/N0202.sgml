@@ -1,0 +1,196 @@
+﻿<doc id='N0202'>
+<head>
+<title>It 's Not Always Women and Children First</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>It 's Not Always Women and Children First</s>
+<s id='vn1'>Phụ nữ và trẻ em không phải lúc nào cũng được ưu tiên</s>
+</spair>
+<spair id='2'>
+<s id='en2'>MONDAY , March 1 ( HealthDay News ) - In a life-and-death situation , how much time people have to react has a lot to do with whether they behave selfishly or selflessly , if a new critique of the infamous Titanic and Lusitania ocean liner disasters is any indication .</s>
+<s id='vn2'>Thứ hai , ngày 1 tháng Ba ( Healthday News ) – Nếu như bài phê bình mới về 2 thảm hoạ tàu thuỷ đáng hổ thẹn Titanic và Lusitania đúng là một dấu hiệu thì trong tình thế sống còn , lượng thời gian mà mọi người còn để hành động ảnh hưởng rất nhiều đến việc họ cư xử một cách ích kỷ hay biết nghĩ đến người khác .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The comparative look at who survived two of the 20th century 's most infamous shipping calamities suggests that the so-called " economic theory " of human behavior - namely , that in the face of disaster , rational self-preservation trumps social norms and rules - does not always hold water .</s>
+<s id='vn3'>Cuộc so sánh căn cứ vào những người sống sót trong hai thảm họa đắm tàu tai tiếng nhất của thế kỷ 20 cho rằng cái gọi là " lý thuyết kinh tế " của hành vi của con người - cụ thể là , trong tình huống đối mặt với thảm hoạ , bản năng sinh tồn theo lô-gíc sẽ lấn át các quy tắc và chuẩn mực xã hội - không phải lúc nào cũng đứng vững .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>" What would you do ? " asked study co-author Benno Torgler , a professor of economics and finance at the Queensland University of Technology in Brisbane , Australia .</s>
+<s id='vn4'>" Bạn sẽ làm gì ? " , đồng tác giả nghiên cứu Benno Torgler , giáo sư kinh tế học và tài chính thuộc Đại học Kỹ thuật Queensland ở Brisbane , Úc , đặt ra câu hỏi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Would you attempt to save your own life at whatever cost to others , or would you help others and put your life at stake for others ?</s>
+<s id='vn5'>Bạn sẽ cố gắng tự cứu mạng mình bằng mọi giá và mặc kệ người khác , hoặc bạn sẽ giúp đỡ người khác và đặt mạng sống của mình vào tình thế lâm nguy ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>One would think that selfish and self-preserving behavior predominates .</s>
+<s id='vn6'>Người ta cho rằng phản ứng ích kỷ và theo bản năng sinh tồn sẽ chiếm ưu thế .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>However , we provide evidence … that this is not always the case .</s>
+<s id='vn7'>Tuy nhiên , chúng tôi cung cấp bằng chứng rằng điều này không phải luôn xảy ra trong mọi trường hợp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>To discern what makes threatened people tick , the researchers compared data on passenger and crew members and their reactions to the two maritime disasters .</s>
+<s id='vn8'>Để phân biệt các sự kiện tác động đến hành vi của những người đang tuyệt vọng , các nhà nghiên cứu đã so sánh dữ liệu về hành khách và thành viên trong thủy thủ đoàn và phản ứng của họ trong hai thảm hoạ hàng hải .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Manifests indicate that passenger composition was similar on the ships , with 62 percent to 65 percent of the passengers male .</s>
+<s id='vn9'>Bản kê khai cho thấy thành phần hành khách trên các con tàu là tương tự nhau , với 62 đến 65 phần trăm hành khách là nam .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In both instances , Torgler and his team noted , the ship captains ordered their crew to save female passengers and children first - because of a scarcity of lifeboats on the Titanic and because of too little time to launch lifeboats on the Lusitania .</s>
+<s id='vn10'>Ở cả hai trường hợp , Torgler và nhóm của ông lưu ý , thuyền trưởng ra lệnh cho thuỷ thủ đoàn của mình cứu hành khách nữ và trẻ em đầu tiên - vì thiếu thuyền cứu hộ trên tàu Titanic và vì có quá ít thời gian để thả thuyền cứu hộ trong trường hợp tàu Lusitania .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Younger , stronger and more agile passengers would have been expected to have a better chance of surviving both sinkings , the researchers noted .</s>
+<s id='vn11'>Những hành khách trẻ , khoẻ mạnh và nhanh nhẹn hơn lẽ ra đã có được cơ hội sống sót tốt hơn trong cả hai vụ đắm thuyền , các nhà nghiên cứu lưu ý .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>That 's not , however , what they found .</s>
+<s id='vn12'>Tuy nhiên , đó lại không phải những gì họ thấy .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>On the Titanic , survival more closely tracked the crew 's directive , which reflected accepted social norms : females 16 to 35 years of age had a much higher probability of surviving the disaster than did men of a similar age .</s>
+<s id='vn13'>Trong trường hợp tàu Titanic , những người sống sót phần lớn là theo như chỉ thị của thủy thủ đoàn , phản ánh các chuẩn mực xã hội được tuân theo : phụ nữ từ 16 đến 35 tuổi có nhiều khả năng sống sót trong thảm hoạ hơn so với nam giới trong độ tuổi tương tự .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In terms of economic class and social power , first-class passengers were found to have better survival rates than their poorer shipmates .</s>
+<s id='vn14'>Về các khía cạnh tầng lớp kinh tế hội và quyền lực xã hội , kết quả cho thấy rằng hành khách hạng nhất có tỉ lệ sống sót tốt hơn so với những hành khách nghèo .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>On the Lusitania , on the other hand , both men and women aged 16 to 35 had a greater chance of survival than did younger or older passengers .</s>
+<s id='vn15'>Trái lại , trong trường hợp tàu Lusitania , cả hành khách nam và nữ từ 16 đến 35 tuổi có cơ hội sống sót nhiều hơn so với những hành khách trẻ hoặc già hơn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>And bearers of first-class passage actually were less likely to survive than third-class passengers .</s>
+<s id='vn16'>Và những người khuân vác hành lý của hành khách hạng nhất thực sự ít có khả năng sống sót hơn cả hành khách hạng ba .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The researchers concluded that , on the Lusitania , a " survival of the fittest " pattern was in play , whereas prevailing social protocols and captain orders were enforced on the Titanic and respected by crew and passengers alike .</s>
+<s id='vn17'>Các nhà nghiên cứu kết luận rằng , trên tàu Lusitania , đã xảy ra tình huống " mạnh được yếu thua " , trong khi các nghi thức xã hội phổ biến và mệnh lệnh của thuyền trưởng đã được thi hành và được tôn trọng bởi thủy thủ đoàn cũng như hành khách trong trường hợp tàu Titanic .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A report on their findings is published in this week 's online issue of the the Proceedings of National Academy of Sciences .</s>
+<s id='vn18'>Một báo cáo dựa trên những phát hiện của họ được công bố trên bản trực tuyến của tờ Proceedings of the National Academy of Sciences .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>What accounts for the differences in behavior ?</s>
+<s id='vn19'>Điều gì giải thích các khác biệt về hành vi ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Torgler and his colleagues think it was mainly a question of timing .</s>
+<s id='vn20'>Torgler và đồng nghiệp cho rằng đó chủ yếu là câu hỏi về thời gian .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The Lusitania , they pointed out , sank just 18 minutes after it was torpedoed by a German U-boat on May 7 , 1915 , killing more than 1,198 people from a manifest of 1,258 passengers and 691 crew members .</s>
+<s id='vn21'>Tàu Lusitania chìm chỉ 18 phút sau khi bị tàu ngầm U-boat của Đức phóng ngư lôi vào ngày 7 tháng Năm năm 1915 , làm chết hơn 1,198 người trong số danh sách 1,258 hành khách và 691 thành viên của thủy thủ đoàn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>By contrast , the Titanic stayed afloat for two hours and 40 minutes after striking ice on the night of April 14 , 1912 .</s>
+<s id='vn22'>Ngược lại , tàu Titanic nổi suốt 2 tiếng 40 phút sau khi va vào băng trôi vào đêm ngày 14 tháng tư năm 1912 .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Although 1,512 people died in that disaster - from among 1,300 passengers and 886 crew onboard - the extra coping time afforded the Titanic 's crew and passengers a sort of psychological buffer against selfishness , according to the researchers .</s>
+<s id='vn23'>Theo các nhà nghiên cứu , mặc dù 1,512 người thiệt mạng trong thảm hoạ đó - khoảng từ 1,300 hành khách và 886 thủy thủ đoàn trên tàu - thời gian nổi lâu đã tạo cho thuỷ thủ đoàn và hành khách của tàu Titanic một dạng cân bằng tâm lý chống lại sự ích kỷ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>People on the Titanic were better able to resist the powerful instinct to save oneself by using superior physical prowess to flee - a mindset that seemed to prevail on the much more quickly doomed Lusitania .</s>
+<s id='vn24'>Những người trên tàu Titanic có khả năng kháng cự tốt hơn đối với bản năng mạnh mẽ để tự bảo vệ mình bằng cách sử dụng sức mạnh thể chất mạnh hơn để chạy trốn - quan niệm có vẻ thắng thế trên con tàu chìm nhanh hơn : Lusitania .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>On the Titanic , time appeared to favor adoption of respect for social norms , which favored women , while fostering a better of exchange of lifesaving advice that probably favored those in the upper class with the best access to such information .</s>
+<s id='vn25'>Trong trường hợp Titanic , thời gian có vẻ ưu ái thông qua sự kính trọng đối với các chuẩn mực xã hội , ưu ái phụ nữ , trong khi thúc đẩy sự trao đổi tốt hơn về lời khuyên cứu hộ có lẽ thiên vị hơn với những người thuộc giai cấp thượng lưu với nhiều thông tin dạng như thế .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>What 's more , the added time also would have allowed for the dissipation of adrenaline , which triggers a fight-or-flight reaction that , by contrast , would have been in play throughout the entire Lusitania sinking .</s>
+<s id='vn26'>Hơn nữa , thời gian thêm có lẽ cũng đã làm giảm mất tác dụng của chất adrenaline , tác nhân gây ra phản ứng tấn công hoặc thối lui , phản ứng mà có lẽ đã diễn ra trong suốt vụ đắm tàu Lusitania .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" Time seems to be a crucial element , " noted Torgler .</s>
+<s id='vn27'>" Thời gian dường như chính là yếu tố quyết định , " Torgler lưu ý .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" If people have time to interact and communicate , social norms and helping behavior emerges .</s>
+<s id='vn28'>" Nếu mọi người có thời gian giao tiếp và hiểu nhau hơn , các chuẩn mực xã hội và lối cư xử giúp đỡ sẽ xuất hiện rõ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Children , families with children and women in general have then a higher probability of surviving , while men have a higher willingness to surrender a seat on a lifeboat . "</s>
+<s id='vn29'>Trẻ em , những gia đình với trẻ em và phụ nữ nói chung sẽ có nhiều khả năng sống sót hơn , trong khi nam giới sẽ tự nguyện nhường chỗ trên thuyền cứu hộ hơn . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Other factors , however , might also have influenced behavior on the two ships , the researchers acknowledged .</s>
+<s id='vn30'>Tuy nhiên , các yếu tố khác cũng có thể có ảnh hưởng đến hành vi cư xử trên hai con tàu , các nhà nghiên cứu thừa nhận .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>For example , the fact that Lusitania passengers already knew of the gruesome fate of the Titanic just three years earlier could have contributed to a less restrained reaction .</s>
+<s id='vn31'>Chẳng hạn như , việc hành khách của tàu Lusitania đã biết rõ về số phận khủng khiếp của tàu Titanic chỉ ba năm trước đó có thể đã góp phần tạo nên phản ứng ít kiềm chế hơn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Differing ship structures and the fact that the Lusitania incident occurred in a wartime context also might have affected passenger thinking .</s>
+<s id='vn32'>Cấu trúc tàu khác biệt và việc sự cố tàu Lusitania xảy ra trong hoàn cảnh thời chiến cũng có thể đã ảnh hưởng đến suy nghĩ của hành khách .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Yet Torgler and his colleagues suggest that , in general , their observations could help planners devise more effective disaster-reaction strategies by broadening the understanding of how people juggle survival instincts with social pressures when confronting extreme situations .</s>
+<s id='vn33'>Tuy nhiên Torgler và đồng nghiệp của ông gợi ý rằng , nói chung , nhận xét của họ có thể giúp các nhà qui hoạch nghĩ ra các phản ứng chiến lược chống thảm hoạ hiệu quả hơn - thông qua việc mở rộng hiểu biết về cách mọi người cân bằng bản năng sống sót với áp lực xã hội khi đương đầu với những tình huống cực đoan .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For his part , Robert J. Gatchel , a professor of clinical health psychology at the University of Texas at Arlington , agreed that timing does affect behavior during a disaster , while noting that other issues of perception are almost certainly also at play .</s>
+<s id='vn34'>Về phần mình , Robert J. Gatchel , giáo sư tâm lý sức khoẻ lâm sàng tại đại học Arlington , Texas , đồng ý rằng thời gian ảnh hưởng đến hành vi trong một thảm hoạ , trong khi lưu ý là các vấn đề nhận thức khác cũng đều chắc chắn có đóng vai trò .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" On the Titanic , there was clearly a predetermined perception that it was unsinkable , " he remarked .</s>
+<s id='vn35'>Ông nhận xét , " Ở tàu Titanic , rõ ràng là mọi người đều có nhận thức xác định trước đó là nó không thể chìm " .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" There was all the pre-travel publicity about that .</s>
+<s id='vn36'>" Đó là tất cả những sự quảng cáo tiền du lịch .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So the passengers probably had a feeling that " Yeah , we 're evacuating the ship but it 's not really going to go down , and we 're doing it for a precautionary reason . "</s>
+<s id='vn37'>Vì thế hành khách có lẽ đã có cảm giác " Ờ thì , chúng ta đang di tản khỏi tàu nhưng nó không thật sự sẽ chìm , và chúng ta đang làm vậy chỉ vì lý do để đề phòng mà thôi . "</s>
+</spair>
+<spair id='38'>
+<s id='en38'>There was probably a perception that this was n't really a disaster , at least at first .</s>
+<s id='vn38'>Có lẽ nhận thức này không hẳn là thảm hoạ , ít nhất lúc đầu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>So instead of an immediate fight-or-flight response , there was a perception of control , for better or worse .</s>
+<s id='vn39'>Vậy là thay vì phản ứng chiến đấu - hoặc - thối lui tức thời , thì lại có nhận thức kiểm soát , bất chấp hậu quả ra sao .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>And we know that that perception will reduce stress and affect behavior , " Gatchel said .</s>
+<s id='vn40'>Và chúng ta biết là nhận thức đó sẽ giảm căng thẳng và ảnh hưởng đến hành vi " , theo Gatchel .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" On the other hand , people on the Lusitania were no longer under the illusion that these big ships could not go down .</s>
+<s id='vn41'>" Ngược lại , những người trên tàu Lusitania không còn ảo tưởng là các con tàu lớn như thế không thể bị chìm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>They knew of the great publicity of the Titanic , and they did n't want to be part of another incident like that .</s>
+<s id='vn42'>Họ biết về thảm hoạ Titanic nổi tiếng , và họ không muốn là một phần của một sự cố khác như thế .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>So they lost their sense of control , which increased stress levels .</s>
+<s id='vn43'>Vì thế họ mất ý thức kiểm soát , tăng mức độ căng thẳng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>And then it became a free-for-all in terms of survival of the fittest .</s>
+<s id='vn44'>Rồi nó trở thành một cuộc loạn đả kiểu mạnh được yếu thua .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>And I 'm also sure just in terms of the cadence of the voice of the officers the urgency to get off was greater , if for no other reason than because another torpedo could be fired .</s>
+<s id='vn45'>Và tôi cũng là chắc chắn chỉ về mặt lời nói của các sĩ quan thì sự cấp bách rời khỏi tàu là cần thiết , không có lý do gì khác hơn bởi vì một ngư lôi nữa có thể tiếp tục phóng vào họ .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>So , I think probably general panic was not only among the passengers but among the officers themselves , " Gatchel said .</s>
+<s id='vn46'>Vì vậy , tôi nghĩ có lẽ sự hoảng sợ nói chung không chỉ có trong số hành khách mà còn trong cả các sĩ quan " , Gatchel cho biết .</s>
+</spair>
+</text>
+</doc>

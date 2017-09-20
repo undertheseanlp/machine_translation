@@ -1,0 +1,332 @@
+﻿<doc id='N0822'>
+<head>
+<title>Studying for tests</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Studying for tests</s>
+<s id='vn1'>Học để thi</s>
+</spair>
+<spair id='2'>
+<s id='en2'>You just heard you have a math test on Friday - the same day as your big history test and weekly quiz on Spanish verbs .</s>
+<s id='vn2'>Bạn vừa mới biết là thứ Sáu này có bài kiểm tra môn Toán – cùng ngày kiểm tra môn Lịch sử quan trọng và lại còn kiểm tra vấn đáp các động từ tiếng Tây Ban Nha hằng tuần nữa chứ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Crazy !</s>
+<s id='vn3'>Phát điên lên mất !</s>
+</spair>
+<spair id='4'>
+<s id='en4'>How will you get all your studying done ?</s>
+<s id='vn4'>Làm sao để " ngốn " hết bài vở đây ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Do n't panic .</s>
+<s id='vn5'>Đừng sợ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There are some secrets to good studying .</s>
+<s id='vn6'>Có một vài bí quyết học tốt đây .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>If you follow them , you 'll be able to take all three tests with confidence .</s>
+<s id='vn7'>Nếu thực hiện đúng theo những điều này , bạn sẽ có thể làm hết ba bài kiểm một cách tự tin đấy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Start studying in school</s>
+<s id='vn8'>Bắt đầu học ở trường</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Studying for tests and quizzes actually starts way before you even know you 'll have a test .</s>
+<s id='vn9'>Học để làm bài kiểm ( thi ) và thi vấn đáp thực ra bắt đầu ngay cả trước khi bạn biết là sẽ thi kiểm tra .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Good study techniques begin in the classroom such as note-taking .</s>
+<s id='vn10'>Các kỹ thuật học tốt bắt đầu ở lớp học chẳng hạn như kỹ thuật ghi chép .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Note-taking is a way of remembering what you were taught or what you 've read about .</s>
+<s id='vn11'>Ghi chép là cách nhớ những gì bạn đã được học hoặc nhớ những điều mà bạn đã đọc qua .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Some keys to note-taking are to write down facts that a teacher mentions or writes on the board during class .</s>
+<s id='vn12'>Một số bí quyết giúp ghi chép là bạn nên ghi lại những điều những sự kiện mà giáo viên đề cập đến hoặc viết trên bảng trong suốt buổi học .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If you miss something , ask your teacher to go over facts with you after class .</s>
+<s id='vn13'>Nếu bạn bỏ lỡ hay sót điều gì đó , thì có thể nhờ giáo viên giảng lại hoặc giải thích lại sau giờ học .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Other keys to good note-taking are keeping notes organized by subject and making sure they 're easy to read and review .</s>
+<s id='vn14'>Nhiều bí quyết khác cũng có thể giúp ghi chép tốt là sắp xếp các điểm chú ý này theo thứ tự từng môn học và phải đảm bảo là chúng có thể dễ dàng đọc được và ôn lại được .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>( This may mean that you need to recopy some notes at home or during a free period while the class is still fresh in your mind . )</s>
+<s id='vn15'>( Có nghĩa là bạn cần nên chép lại các ghi chú này ở nhà hoặc vào thời gian rảnh khi mà đầu óc mình vẫn còn nhớ như in nhé . )</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Unfortunately , most schools do n't have classes that teach you how to take note .</s>
+<s id='vn16'>Đáng tiếc là , hầu hết các trường học đều không có buổi học huấn luyện cho học sinh biết cách ghi chép .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When it comes to taking good notes , it can take some experimenting to figure out what works , so do n't give up .</s>
+<s id='vn17'>Khi nói đến cách thức ghi chép tốt , thì có thể phải mất một vài thử nghiệm mới thấy được kết quả , đừng bỏ cuộc nhé .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Time management</s>
+<s id='vn18'>quản lý thời gian</s>
+</spair>
+<spair id='19'>
+<s id='en19'>When you sit down to study , think about how much time you want to devote to each topic .</s>
+<s id='vn19'>Khi ngồi học , bạn nên suy nghĩ thời gian mình muốn dành cho từng chủ đề , từng đề tài là bao nhiêu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This will keep you from getting overwhelmed .</s>
+<s id='vn20'>Điều này sẽ giúp bạn phân định công việc rạch ròi , không bị lấn áp về thời gian .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If it 's Monday , and you 've got those three tests on Friday , figure out how much time you need for studying between now and then .</s>
+<s id='vn21'>Nếu hôm nay là thứ Hai , và bạn có 3 bài kiểm vào ngày thứ Sáu , thì hãy hình dung xem thời gian bạn cần để học các môn đó từ đây tới lúc làm bài là bao nhiêu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Then figure out how long each subject will take .</s>
+<s id='vn22'>Sau đó hãy tính toán xem mỗi môn sẽ chiếm bao nhiêu thời gian .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>For example , a weekly Spanish verb test probably wo n't be as intense as a big history test .</s>
+<s id='vn23'>Chẳng hạn như , kiểm tra vấn đáp động từ tiếng Tây Ban Nha hằng tuần chắc có lẽ là sẽ không căng thẳng như bài kiểm môn lịch sử quan trọng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So you wo n't need to set aside as much study time for the Spanish test - and if you break it up into a short amount every night , that 's even better .</s>
+<s id='vn24'>Vì thế bạn không cần dành nhiều thời gian cho nó – và nếu bạn có thể chia nhỏ để học hằng đêm , thì điều đó thậm chí còn tuyệt hơn nữa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Another study technique is called " chunking " - breaking large topics down into chunks .</s>
+<s id='vn25'>Một kỹ thuật giúp học tốt khác gọi là " chặt khúc chia nhỏ " – chia những đề tài hoặc chủ đề lớn thành từng mảng nhỏ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Let 's say you have a history test on World War II .</s>
+<s id='vn26'>Chẳng hạn như bạn phải làm bài kiểm lịch sử về Chiến tranh Thế giới lần thứ II ;</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Instead of thinking about studying all of World War II ( which could overwhelm even a historian ) , try breaking your study sessions into chunks or studying the material by specific battles .</s>
+<s id='vn27'>Thay vì nghĩ đến việc học hết Chiến tranh Thế giới lần thứ II này ( có thể là quá sức thậm chí đối với một sử học gia ) , bạn hãy thử chia nhỏ các phần bài học của mình thành nhiều mục nhỏ hoặc học thuộc tài liệu bằng các trận chiến cụ thể nhé .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>When you 've decided on a manageable amount of work , consider how long you need to study it .</s>
+<s id='vn28'>Khi bạn đã quyết định được khối lượng công việc có thể quản lý nổi , thì hãy cân nhắc xem mình cần khoảng thời gian là bao nhiêu để học .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Most people can really concentrate for about 45 minutes - after that you 'll probably want to take a short break .</s>
+<s id='vn29'>Hầu hết người ta có thể tập trung thực sự trong chừng 45 phút – sau đó có thể cần nên nghỉ giải lao ngắn .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If you find yourself getting distracted and thinking about other things as you study , pull your attention back as soon as possible .</s>
+<s id='vn30'>Nếu thấy mình bị phân tâm và nghĩ ngợi điều gì khác lúc đang học thì hãy nên tập trung lại càng sớm càng tốt .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Remind yourself that when your 45 minutes of studying are up , you can take a 15-minute break .</s>
+<s id='vn31'>Hãy tự nhắc mình khi học xong 45 phút thì bạn có thể được nghỉ 15 phút .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>How to study</s>
+<s id='vn32'>Làm sao để học</s>
+</spair>
+<spair id='33'>
+<s id='en33'>As you study , review your notes and any special information from your textbook .</s>
+<s id='vn33'>Khi học , hãy xem lại các điểm ghi chép và bất kỳ kiến thức đặc biệt nào ở sách giáo khoa .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In the case of math or science problems or equations , do some practice problems .</s>
+<s id='vn34'>Trong trường hợp môn Toán hoặc các vấn đề khoa học hoặc các phương trình , thì bạn nên làm phần thực hành bài tập .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Pay special attention to anything the teacher seemed to stress in class .</s>
+<s id='vn35'>Chú ý đặc biệt những điều mà giáo viên có vẻ như nhấn mạnh ở lớp nhé .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>( This is where good note-taking comes in handy ! )</s>
+<s id='vn36'>( Đây là chỗ để bạn ghi chép có ích cho mình đó ! )</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Many teachers tell students ahead of time what the format of an exam will be .</s>
+<s id='vn37'>Nhiều giáo viên cho học sinh biết trước về dạng đề bài kiểm tra .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>This can help you tailor how your study .</s>
+<s id='vn38'>Điều này có thể giúp bạn điều chỉnh cách thức học tập của mình .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>For example , if you know you 're going to have multiple-choice questions on World War II , you 'll know to focus on studying facts and details .</s>
+<s id='vn39'>Chẳng hạn như , nếu bạn sắp kiểm tra về Chiến tranh Thế giới lần thứ II với dạng câu hỏi đa lựa chọn , thì bạn sẽ biết chú trọng học về các sự kiện và chi tiết .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>On the other hand , if the exam will contain essay questions , you 'll want to think about which topics are most likely to be covered .</s>
+<s id='vn40'>Mặt khác , nếu bài kiểm gồm các câu hỏi về tiểu luận , bạn sẽ cần nghĩ đến các chủ đề nào có thể phải được học hết .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Then come up with several possible essay topics and use your notes , books , and other reference sources to figure out how you might answer questions on those topics .</s>
+<s id='vn41'>Sau đó hãy nghĩ ra một số đề tài tiểu luận có thể gặp và sử dụng các ghi chép , sách vở , và các nguồn tham khảo khác để hình dung ra cách bạn có thể trả lời những câu hỏi về các đề tài ấy như thế nào nhé .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>When trying to memorize dates , names , or other factual information , keep in mind that it usually takes a number of tries to remember something correctly ( that 's one reason why it 's a good idea to start studying well in advance of a test ) .</s>
+<s id='vn42'>Khi cố nhớ ngày tháng , tên , hoặc thông tin thực tế khác , thì hãy lưu ý rằng thường phải mất rất nhiều lần mới có thể nhớ đúng được ( đó là một lý do vì sao nên bắt đầu học trước khi kiểm tra ) .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Use special memory triggers that the teacher may have suggested or ones that you invent yourself .</s>
+<s id='vn43'>Hãy sử dụng các kỹ thuật ghi nhớ đặc biệt mà giáo viên có thể đã gợi ý hoặc những kỹ thuật mà bạn tự nghĩ ra .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Read things over several times if you need to , and write down any phrases or thoughts that will help you remember main ideas or concepts .</s>
+<s id='vn44'>Bạn nên đọc đi đọc lại kỹ lưỡng một vài lần nếu cần thiết , và ghi ra bất kỳ cụm từ nào hoặc ý tưởng nào có thể giúp mình nhớ những ý chính hoặc khái niệm chính .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Some people find it helps to teach what they 're studying aloud to an imaginary student .</s>
+<s id='vn45'>Một số người thấy việc truyền đạt bằng lời những điều mình đang học cho một người học ảo là có ích .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Or work with a study partner and take turns teaching aloud .</s>
+<s id='vn46'>Hoặc là bạn nên học chung với một bạn khác và thay phiên dạy cho nhau .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Another study technique is making flashcards that summarize some of the important facts or concepts .</s>
+<s id='vn47'>Một kỹ thuật giúp học tốt khác là làm thẻ ghi chú tóm tắt một số sự kiện hay khái niệm quan trọng ;</s>
+</spair>
+<spair id='48'>
+<s id='en48'>You can then use these to review for a test .</s>
+<s id='vn48'>Bạn có thể sử dụng để ôn thi sau này .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>I 'll study tomorrow and other excuses</s>
+<s id='vn49'>Ngày mai tôi sẽ học và nhiều lý do biện hộ khác nữa</s>
+</spair>
+<spair id='50'>
+<s id='en50'>It 's tempting to put off studying until the last minute ( also known as procrastination ) .</s>
+<s id='vn50'>Người ta thường hay có khuynh hướng hoãn việc học đến phút chót ( cũng được gọi là chần chừ ) .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Unfortunately , by the time students get to high school there 's so much going on that there 's usually no time for procrastination .</s>
+<s id='vn51'>Đáng tiếc là , khi đi học thì bài vở càng ngày càng nhiều , thường không có thời gian nào để chần chừ đâu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If you 're a procrastinator , one of the best ways to overcome it is by staying organized .</s>
+<s id='vn52'>Nếu bạn là người thích trì hoãn , thì một trong những cách tốt nhất để khắc phục việc đó là sắp xếp , chuẩn bị .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>After you 've written test dates and project due dates on a calendar , it 's hard to ignore them .</s>
+<s id='vn53'>Sau khi đã viết ra ngày thi và ngày dự định thực hiện kế hoạch của mình lên lịch thì bạn khó lòng mà lờ chúng được .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>And sitting down to organize and plan your work really highlights how much time things take .</s>
+<s id='vn54'>Đồng thời việc ngồi sắp xếp và vạch ra kế hoạch công việc thực sự cho thấy được lượng thời gian cần thiết để thực hiện những điều đó .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Organization makes it harder to procrastinate .</s>
+<s id='vn55'>Việc sắp xếp , chuẩn bị này cũng giúp cho bạn khó có thể chần chừ , lưỡng lự được .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Sometimes people put off studying because they feel overwhelmed by the fact that they 're behind on things or they just feel really disorganized .</s>
+<s id='vn56'>Đôi khi người ta cũng hoãn việc học bởi cảm thấy " đuối " vì mình không bắt kịp điều gì cả hoặc cảm thấy thực sự ngổn ngang , lộn xộn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Do n't let this happen to you .</s>
+<s id='vn57'>Đừng để điều này xảy ra với bạn nhé .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Keep your notes organized , stay on top of required materials , and follow the other study tips mentioned above to stay focused and in control .</s>
+<s id='vn58'>Hãy giữ các mục ghi chú của mình theo thứ tự , kiểm soát các tài liệu cần thiết , và thực hiện theo các bí quyết giúp học tốt khác đã được đề cập đến bên trên để tập trung và tự chủ được .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Your teachers will give you plenty of notice on important tests so you have enough time to study for the type of exam you 'll be taking .</s>
+<s id='vn59'>Giáo viên sẽ báo trước cho bạn biết nhiều điều đối với các bài kiểm tra quan trọng vì vậy bạn có đủ thời giờ để học cho loại bài kiểm mà mình sẽ làm .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But what if you 're feeling overwhelmed by all the stuff you have to do ?</s>
+<s id='vn60'>Nhưng nếu bạn cảm thấy quá tải bởi phải làm hết tất cả thì sao ?</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Are classes or extracurricular activities limiting your time to study properly ?</s>
+<s id='vn61'>Có phải các giờ học hoặc các hoạt động ngoại khoá đang thực sự làm cho bạn hạn chế thời gian học ?</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Ask your teachers for help prioritizing .</s>
+<s id='vn62'>Bạn nên nhờ giáo viên ưu tiên cho mình nhé .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>You may need to involve the people in charge of your activities - such as your coach or music or drama teacher - in working out a solution .</s>
+<s id='vn63'>Bạn cũng có thể nhờ cậy người chịu trách nhiệm công việc của bạn nữa – chẳng hạn như huấn luyện viên hoặc giáo viên nhạc hoặc kịch của mình – để tìm ra giải pháp .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Do n't wait until the last minute to talk to your teachers , though , you 'll just look like a procrastinator !</s>
+<s id='vn64'>Đừng đợi đến phút chót mới thông báo cho giáo viên biết , mặc dù là bạn trông có vẻ như người thích chần chừ !</s>
+</spair>
+<spair id='65'>
+<s id='en65'>And do n't be afraid to ask for help .</s>
+<s id='vn65'>Đừng ngại khi nhờ người khác giúp đỡ nhé .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Teachers respect students who are thoughtful and interested in learning and doing well .</s>
+<s id='vn66'>Giáo viên luôn tôn trọng học sinh có quan tâm , ham học và làm bài thi tốt .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Studying in a crowd</s>
+<s id='vn67'>Học nhóm</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Sometimes it can be useful to go over things with people who are studying for the same test : You can make sure that your notes are correct and that you understand the subject .</s>
+<s id='vn68'>Đôi khi việc ôn bài lại với người cùng đang học để kiểm tra như mình cũng có thể là điều bổ ích : Bạn có thể chắc rằng các điều ghi chép của mình là đúng và đảm bảo rằng mình đã hiểu được môn học .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Study groups are also helpful because you can work together to come up with ways to remember concepts and then test one another .</s>
+<s id='vn69'>Việc học nhóm cũng có ích bởi bạn có thể cùng nhau nghĩ ra cách ghi nhớ những khái niệm và rồi kiểm tra lẫn nhau .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>For some people who are easily distracted , though , study groups spell disaster because they get off the topic .</s>
+<s id='vn70'>Dẫu vậy , đối với một số người hay bị lo ra thì việc học nhóm có thể sẽ báo hiệu thảm hoạ đấy bởi họ dễ dàng bị phân tâm khỏi đề tài .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>When you 're with a bunch of friends or classmates , you may spend more time hanging out than actually studying .</s>
+<s id='vn71'>Khi ở cùng nhóm bạn hoặc bạn học thì bạn có thể phải la cà chuyện trò hơn là học hành thực sự .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>One way to ensure quiet and focus when studying with a group is to do it in the library .</s>
+<s id='vn72'>Một cách để đảm bảo tập trung và giữ yên lặng khi học nhóm là nên học ở thư viện .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>You 'll be forced to keep things more low-key than if you 're at someone 's kitchen table .</s>
+<s id='vn73'>Bạn sẽ bị buộc phải kiềm chế hơn là học ở bàn nhà bếp của một người nào đó .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>If you like to study alone and feel most confident doing it that way , that 's great .</s>
+<s id='vn74'>Nếu bạn thích học một mình và cảm thấy tự tin nhất khi học như thế , tuyệt thôi .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>If you think you 'd like to work in a group , try it out - just be aware of the drawbacks .</s>
+<s id='vn75'>Còn nếu thích học nhóm , thì hãy thử xem sao – chỉ có điều là nên biết những mặt hạn chế của nó nhé .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The payoff</s>
+<s id='vn76'>" Thanh toán hết "</s>
+</spair>
+<spair id='77'>
+<s id='en77'>When you 've finished studying , you should feel like you can approach the test or quiz with confidence - not necessarily that you will get 100 % of the answers correct , but that you have a good understanding of the information .</s>
+<s id='vn77'>Khi đã học xong , bạn sẽ cảm thấy mình có thể làm bài kiểm hoặc bài thi vấn đáp một cách tự tin – không nhất thiết là sẽ trả lời đúng 100% , nhưng bạn đã có kiến thức tốt về nó rồi .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Do n't panic if you ca n't remember some facts the night before the test .</s>
+<s id='vn78'>Đừng hoảng sợ nếu bạn không nhớ được một số điều vào đêm trước khi làm bài kiểm .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Even if you 've spent all evening studying , the brain needs time to digest all that information .</s>
+<s id='vn79'>Dù bạn đã học nguyên buổi tối thì não của bạn cũng cần có thời gian để xử lý hết những thông tin đó chứ .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>You 'll be surprised by what comes back to you after sleeping .</s>
+<s id='vn80'>Bạn sẽ ngạc nhiên bởi sau khi thức dậy bạn sẽ nhớ ra những điều ấy thôi mà .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,200 @@
+﻿<doc id='N0643'>
+<head>
+<title>If You Think You Can , You Can</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>If You Think You Can , You Can</s>
+<s id='vn1'>Nếu Bạn Nghĩ Bạn Có thể Thì Bạn Có thể</s>
+</spair>
+<spair id='2'>
+<s id='en2'>" Tumbling time ! "</s>
+<s id='vn2'>" Đến giờ tập luyện nhào lộn rồi " ,</s>
+</spair>
+<spair id='3'>
+<s id='en3'>I called out .</s>
+<s id='vn3'>Tôi gọi lớn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>My group of giggling children lined up before the sea of blue mats .</s>
+<s id='vn4'>Nhóm trẻ của tôi cười rúc rích rồi xếp hàng thẳng tắp trước những tấm thảm xanh .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Megan trailed behind and stepped quietly into the back of the line .</s>
+<s id='vn5'>Megan lê những bước chân nặng nề và lẳng lặng đứng vào phía cuối hàng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>She was eight years old , the same age I was when I began sports acrobatics .</s>
+<s id='vn6'>Cô bé mới chỉ tám tuổi , bằng tuổi tôi khi tôi mới bắt đầu làm quen với các bài tập nhào lộn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I started the class with forward and backward rolls , cart wheels and handstand forward rolls .</s>
+<s id='vn7'>Tôi cho cả lớp khởi động bằng bài tập uốn người , nhào lộn nhiều vòng liên tục và giữ thăng bằng trên hai tay .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The children had mastered this series months ago .</s>
+<s id='vn8'>Bọn trẻ đã rất thuần thục bài tập này từ nhiều tháng trước đây .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Two girls and a boy had even achieved back handsprings on their own .</s>
+<s id='vn9'>Đã có hai bé gái và một bé trai có thể tự nhào lộn ngược ra phía sau .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But Megan was still working on handstand forward rolls .</s>
+<s id='vn10'>Trong khi Megan vẫn phải tập giữ thăng bằng trên hai tay .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It simply took her a little longer to learn the tumbling moves .</s>
+<s id='vn11'>Việc nhào lộn có thể sẽ phải mất thêm một thời gian nữa .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>I caught her ankles as she kicked into a handstand .</s>
+<s id='vn12'>Tôi đỡ lấy mắt cá chân Megan khi cô bé lộn người chồng cây chuối .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>While checking her body alignment , I reminded her to straighten her legs , to push against the floor and to tuck in her chin .</s>
+<s id='vn13'>Trong khi kiểm tra độ thăng bằng cơ thể của Megan , tôi luôn nhắc cô bé phải thẳng chân , cố gắng thẳng người với sàn nhà và chú ý thu cằm vào .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>When she lost her balance , I continued to guide her and then we started the process again .</s>
+<s id='vn14'>Khi cô bé mất thăng bằng , tôi tiếp tục hướng dẫn và chúng tôi bắt đầu làm lại một lần nữa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Each time she stood up I made a special effort to find something to compliment .</s>
+<s id='vn15'>Mỗi lần Megan đứng dậy tôi lại tìm cách ngợi khen sự cố gắng của cô bé , đại loại như .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" What beautiful pointed toes you have , " or " Your legs were much straighter than last time , " or " That was the strongest handstand I 've seen you do yet . "</s>
+<s id='vn16'>" Những ngón chân của con duỗi thẳng ra mới xinh làm sao ! " , " Con đã thẳng chân hơn những lần trước rồi " hay " Động tác thực hiện của con vừa rồi là dứt khoát nhất từ trước đến giờ " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>One day before class , Megan 's father asked to talk to me .</s>
+<s id='vn17'>Một lần trước khi bắt đầu lớp học , bố của Megan muốn nói chuyện với tôi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>By his somber expression I did n't know what to expect .</s>
+<s id='vn18'>Trông ông có vẻ không được vui và tôi cũng không đoán được ông định nói gì với tôi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" I 'm thinking of taking Megan out of class , " he said .</s>
+<s id='vn19'>" Tôi đang định cho Megan nghỉ học " , bố Megan nói với tôi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Why ?</s>
+<s id='vn20'>" Vì sao vậy ?</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Had I done something wrong ? "</s>
+<s id='vn21'>Tôi đã làm điều gì sai ư ? "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I asked .</s>
+<s id='vn22'>Tôi hỏi lại ông .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>His arm draped protectively over Megan 's shoulders , he said ,</s>
+<s id='vn23'>Tay ông đặt lên vai cô bé như để che chở và nói</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" She is n't catching on like the other kids are .</s>
+<s id='vn24'>" Megan không thể bắt kịp các bạn khác trong lớp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>I do n't want her to hold them back . "</s>
+<s id='vn25'>Tôi không muốn vì nó mà cả lớp phải chờ đợi " .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I could see his pained expression as he said this .</s>
+<s id='vn26'>Khi ông nói ra những điều này , tôi có thể nhận thấy nét mặt đau khổ của ông .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Megan 's eyes were downcast as if she wanted to disappear .</s>
+<s id='vn27'>Megan lầm lũi nhìn xuống đất như thể cô bé chỉ muốn tan biến đi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" I think you 're making a mistake , " I said .</s>
+<s id='vn28'>" Tôi nghĩ ông đang quyết định sai lầm " , tôi nói .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Megan needs this class , possibly more than the other children need it .</s>
+<s id='vn29'>" Megan cần lớp học này , và có lẽ cô bé còn cần lớp học này hơn tất cả những học sinh khác . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I did n't start out as a seven-time national champion I started out as an eight-year-old girl , just like Megan .</s>
+<s id='vn30'>Tôi đã khởi đầu sự nghiệp không phải với tư cách là một vận động viên từng bảy lần vô địch quốc gia , mà tôi bắt đầu sự nghiệp khi mới tám tuổi , bằng tuổi với Megan bây giờ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>My coach Igor used to say , 'There are children with talent , then there is Christine .</s>
+<s id='vn31'>Huấn luyện viên Igor của tôi , từng nói : " Có những em rất có khiếu , nhưng cũng có em giống trường hợp Christine .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>She just works hard . "</s>
+<s id='vn32'>Cô bé chỉ được tập luyện siêng năng " .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>When I look at Megan I see myself .</s>
+<s id='vn33'>Mỗi khi nhìn Megan tôi lại thấy hình ảnh của chính mình .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>She works hard . "</s>
+<s id='vn34'>Cô bé tập luyện rất chăm chỉ . "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Sir , your daughter may never win a competition .</s>
+<s id='vn35'>" Thưa ông , có thể con gái ông sẽ chẳng bao giờ thắng được một cuộc thi tài nào ,</s>
+</spair>
+<spair id='36'>
+<s id='en36'>She may never even compete , but I promise you that if she keeps trying and believing in herself , her self-esteem will be more important than any gold medal ever won .</s>
+<s id='vn36'>Cô ấy cũng có thể sẽ không bao giờ tham gia thi đấu nhưng tôi xin hứa một điều rằng nếu Megan luôn cố gắng và luôn tin vào bản thân mình thì điều đó còn quan trọng hơn việc đoạt được bất cứ huy chương vàng nào .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I believe in Megan .</s>
+<s id='vn37'>Tôi đặt niềm tin vào Megan .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>I believe that she can accomplish anything she sets out to do , in her own time . "</s>
+<s id='vn38'>Tôi tin Megan có thể đạt được những gì cô bé đặt ra cho mình , dù có thể hơi chậm đôi chút . "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>As I said these words Megan looked up at me .</s>
+<s id='vn39'>Khi tôi nói những điều đó , Megan ngước nhìn tôi .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Her eyes were filled with tears , and she was smiling like a bud flowering into bloom .</s>
+<s id='vn40'>Cô bé rơm rớm nước mắt và nở một nụ cười như những nụ hoa đang bắt đầu hé nở .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Her father hugged me and whispered , " Thank you .</s>
+<s id='vn41'>Cha của cô bé ôm chầm lấy tôi và nói khẽ : " Cám ơn cô .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Thank you so much . "</s>
+<s id='vn42'>Cám ơn cô rất nhiều " .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>He turned to Megan and said , " Honey , go and put on your leotard .</s>
+<s id='vn43'>Ông quay sang Megan và bảo : " Con gái cưng của bố , hãy mặc quần áo nịt vào đi con .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>It 's time for your class . "</s>
+<s id='vn44'>Đã đến giờ học rồi đấy ! " .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Megan eventually did learn handstand forward rolls as well as many other skills " in her own time " .</s>
+<s id='vn45'>Cuối cùng Megan cũng đã thực hiện được động tác nhào lộn cũng như nhiều kỹ năng khác dù có hơi chậm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>More importantly , she never again stood at the back of the line .</s>
+<s id='vn46'>Điều quan trọng hơn cả là cô bé không còn nép mình ở phía cuối hàng nữa .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>From that day forward , whenever I asked the children to line up for tumbling , Megan ran to stand in the front .</s>
+<s id='vn47'>Kể từ ngày đó , mỗi khi tôi bảo bọn trẻ xếp hàng trước giờ tập luyện , Megan chạy lên đứng ngay đầu hàng .</s>
+</spair>
+</text>
+</doc>

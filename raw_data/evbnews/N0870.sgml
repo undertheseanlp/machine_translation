@@ -1,0 +1,96 @@
+﻿<doc id='N0870'>
+<head>
+<title>Mars : Nasa images show signs of flowing water</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Mars : Nasa images show signs of flowing water</s>
+<s id='vn1'>Sao Hỏa : hình ảnh của Nasa cho thấy dấu hiệu nước chảy</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Striking new images from mountains the of Mars may be the best evidence yet of flowing , liquid water , an essential ingredient for life .</s>
+<s id='vn2'>Những hình ảnh mới ấn tượng chụp các ngọn núi trên Sao Hỏa có thể là bằng chứng thuyết phục nhất về nước chảy dạng lỏng , thành phần thiết yếu của sự sống .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The findings , reported today in the journal Science , come from a joint US-Swiss study .</s>
+<s id='vn3'>Các phát hiện này , được tạp chí Khoa Học đăng tải hôm nay , là kết quả của cuộc nghiên cứu phối hợp giữa Mỹ và Thụy Sĩ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>A sequence of images from the Mars Reconnaissance Orbiter show many long , dark " tendrils " a few metres wide .</s>
+<s id='vn4'>Một loạt hình ảnh từ Vệ Tinh Quỹ Đạo Thăm Dò Sao Hỏa cho thấy nhiều " sợi tua " dài , sẫm màu rộng vài mét .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They emerge between rocky outcrops and flow hundreds of metres down steep slopes towards the plains below .</s>
+<s id='vn5'>Chúng hiện ra giữa các tầng đá trồi trên mặt đất và chảy hàng trăm mét xuống các dốc đứng hướng về phía những đồng bằng bên dưới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>They appear on hillsides warmed by the summer sun , flow around obstacles and sometimes split or merge , but when winter returns , the tendrils fade away .</s>
+<s id='vn6'>Chúng xuất hiện trên các sườn đồi sưởi ấm dưới nắng hè , chảy quanh các chướng ngại vật và đôi khi tách ra hoặc nhập vào , nhưng lúc đông về , các sợi tua nhạt dần đi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This suggests that they are made of thawing mud , say the researchers .</s>
+<s id='vn7'>Các nhà nghiên cứu nói , điều này khiến ta nghĩ rằng chúng hình thành từ bùn rã .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" It 's hard to imagine they are formed by anything other than fluid seeping down slopes , " said Mars Reconnaissance Orbiter Project Scientist Richard Zurek of Nasa 's Jet Propulsion Laboratory , but they appear when it 's still too cold for fresh water .</s>
+<s id='vn8'>" Khó mà tưởng tượng chúng hình thành từ bất kỳ thứ gì ngoài chất lỏng thấm xuống các sườn dốc , " theo lời nhà khoa học Richard Zurek của Dự Án Vệ Tinh Quỹ Đạo Thăm Dò Sao Hỏa thuộc Phòng Thí Nghiệm Lực Đẩy Phản Lực của NASA , nhưng chúng hiện ra khi thời tiết quá lạnh đối với nước ngọt .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Salty water</s>
+<s id='vn9'>Nước mặn</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" The best explanation we have for these observations so far is flow of briny water , although this study does not prove that , " said planetary geologist and lead author Professor Alfred McEwen of the Lunar and Planetary Laboratory , University of Arizona .</s>
+<s id='vn10'>" Cách giải thích phù hợp nhất của chúng tôi đến nay về những quan sát này là dòng nước mặn , dù nghiên cứu này không chứng minh như thế , " đó là tuyên bố của giáo sư Alfred McEwan , nhà địa chất học hành tinh và là người sáng lập chính của Phòng Thí Nghiệm Mặt Trăng và Hành Tinh , thuộc Đại Học Arizona .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Saltiness lowers the temperature at which water freezes , and water about as salty as Earth 's oceans could exist at these sites in summer .</s>
+<s id='vn11'>Độ mặn làm giảm nhiệt độ đóng băng của nước , và nước có độ mặn xấp xỉ các đại dương của Trái Đất có thể tồn tại ở những điểm này vào mùa hè .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" This could be the first flowing water , " said Professor McEwen .</s>
+<s id='vn12'>" Đây có thể là hiện tượng nước chảy đầu tiên , " theo lời Giáo sư McEwen .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This has profound implications in the search for extraterrestrial life .</s>
+<s id='vn13'>Điều này có những hàm ý sâu sắc trong cuộc tìm kiếm sự sống ngoài trái đất .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Liquid water is absolutely essential for life , and we 've found life on Earth in pretty much every moist niche , " said Dr Lewis Dartnell , astrobiologist at University College London , who was not involved in the study</s>
+<s id='vn14'>" Nước lỏng vô cùng quan trọng đối với sự sống , và chúng ta đã tìm thấy sự sống trên Trái Đất trong mỗi ngóc ngách ẩm ướt , " đó là theo lời Tiến sĩ Lewis Dartnell , nhà sinh vật học vũ trụ thuộc Đại học College Lodon , người không tham gia vào cuộc nghiên cứu này .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" So perhaps there could be hardy microbes surviving in these short periods of summer meltwater on the desert surface of Mars . "</s>
+<s id='vn15'>" Vì vậy có lẽ có vi trùng giỏi chịu đựng còn sống sót trong các giai đoạn ngắn nước tan băng vào mùa hè trên bề mặt hoang vu của Sao Hỏa . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This was echoed by an expert on life in extreme environments , Professor Shiladitya DasSarma of the University of Maryland , also not involved in this study : " Their results are consistent with the presence of large and extensive underground salty lakes on Mars . "</s>
+<s id='vn16'>Điều này được lặp lại bởi một chuyên gia về sự sống trong môi trường khắc nghiệt , Giáo sư Shiladitya DasSarma thuộc Đại Học Maryland , cũng không liên quan đến nghiên cứu này : " Kết quả của họ cũng phù hợp với sự hiện diện của các hồ nước mặn ngầm rộng lớn trên Sao Hỏa . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" This is an exciting possibility for those of us studying salt-loving ( halophilic ) micro-organisms here on Earth , since it opens the possibility that these kinds of hearty bugs may also inhabit our neighbouring planet , " he said .</s>
+<s id='vn17'>" Đây là một khả năng thú vị cho chúng tôi khi nghiên cứu các vi sinh vật ưa mặn ( chịu mặn ) trên trái đất này , bởi vì nó mở ra khả năng các loại có sức chịu đựng cao này có thể cũng tồn tại trên hành tinh láng giềng của chúng ta , " ông ấy nói .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Halophilic microbes are champions at withstanding the most punishing conditions , complete desiccation and ionising ( space ) radiation . "</s>
+<s id='vn18'>" Vi trùng chịu mặn là các nhà vô địch chịu đựng môi trường khắc nghiệt nhất , tình trạng hoàn toàn khô và bức xạ ( không gian ) i-on hóa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>For geologist Joe Levy of Portland State University , a specialist in Antarctic desert ecosystems , who did not contribute to this work , they represent " a truly tantalising astrobiological target " .</s>
+<s id='vn19'>Đối với nhà địa chất Joe Levy của Đại Học Quốc Gia Portland , một chuyên gia về các hệ sinh thái Nam Cực , không cộng tác trong công trình này , chúng " đại diện cho một mục tiêu sinh vật học vũ trụ thực sự hấp dẫn " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>These small and mysterious tendrils could then be the best place to look for Martian life .</s>
+<s id='vn20'>Thế thì những sợi tua nhỏ và bí ẩn này có thể là nơi tốt nhất để tìm kiếm sự sống trên Sao Hỏa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Professor McEwen says that " for present-day life , these are the most accessible sites " .</s>
+<s id='vn21'>Giáo sư McEwan nói rằng " đối với sự sống ngày nay , đây là những nơi dễ tiếp cận nhất " .</s>
+</spair>
+</text>
+</doc>

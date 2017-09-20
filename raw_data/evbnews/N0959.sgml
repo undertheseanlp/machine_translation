@@ -1,0 +1,240 @@
+﻿<doc id='N0959'>
+<head>
+<title>Getting To Know Business Models</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Getting To Know Business Models</s>
+<s id='vn1'>Tìm hiểu các mô hình kinh doanh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>When analyzing companies , investors can easily get caught up in details such as performance figures , stock ratios and valuation tools while forgetting a more basic question : how does the company actually make money ?</s>
+<s id='vn2'>Khi phân tích các công ty , nhà đầu tư có thể dễ dàng bị cuốn vào những chi tiết như số liệu về kết quả kinh doanh , các tỷ lệ cổ phiếu và những công cụ định giá mà quên đi mất cái vấn đề cơ bản hơn nhiều : công ty đó trên thực tế kiếm tiền như thế nào ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A solid business model remains the bedrock of every successful investment .</s>
+<s id='vn3'>Một mô hình kinh doanh tốt vẫn luôn là nền tảng của mọi đầu tư thành công .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>To distinguish the great companies from the losers , investors should learn how to describe and evaluate companies ' business models .</s>
+<s id='vn4'>Để phân biệt những công ty lớn mạnh với những doanh nghiệp thua lỗ , nhà đầu tư nên học cách mô tả và đánh giá mô hình kinh doanh của các công ty .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>What 's a Business Model ?</s>
+<s id='vn5'>Mô hình kinh doanh là gì ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Quite simply , the business model is how the company makes money .</s>
+<s id='vn6'>Hết sức đơn giản , mô hình kinh doanh là cách mà công ty kiếm ra tiền .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It also explains the sources of the company 's revenues , how much these sources pay and how often .</s>
+<s id='vn7'>Mô hình kinh doanh cũng giải thích các nguồn thu của công ty , bao nhiêu và bao lâu một lần họ thanh toán các nguồn thu này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>So it 's not enough to say that a company sells PCs or burgers .</s>
+<s id='vn8'>Như vậy chưa đủ để khẳng định rằng một công ty bán máy tính cá nhân hay bánh hăm - bơ - gơ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>You need to go deeper and learn the structure through which the dollars are earned .</s>
+<s id='vn9'>Bạn cần đi sâu hơn và tìm hiểu cái cấu trúc mà qua đó họ kiếm được những đồng đô la .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Does the doughnut business include franchises or company-owned outlets ?</s>
+<s id='vn10'>Doanh nghiệp bánh rán kia bao gồm các đại lý được nhượng quyền thương mại hay các cửa hàng thuộc sở hữu công ty ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Does the burger company own the outlet real estate , as McDonald 's does , or does it lease the space ?</s>
+<s id='vn11'>Cái công ty bánh hăm - bơ - gơ ấy có nhà và đất làm cửa hàng , như McDonald chẳng hạn , hay phải đi thuê mặt bằng ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Does the PC maker generate most of its money through direct sales , as Dell does , or does it sell via retailers , like Hewlett Packard does ?</s>
+<s id='vn12'>Nhà sản xuất máy tính này thu nhập chủ yếu nhờ bàn hàng trực tiếp , ví dụ như Dell , hay bán hàng thông qua các đại lý bán lẻ , chẳng hạn như Hewlett Packard ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The business model also refers to how product delivery brings in revenue .</s>
+<s id='vn13'>Mô hình kinh doanh còn đề cập đến việc phân phát sản phẩm đem lại doanh thu như thế nào .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Think about the shaving industry .</s>
+<s id='vn14'>Hãy xem xét ngành công nghiệp dao cạo .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Gillette is happy to sell its Mach III razor handle at cost , or even lower , because the company can go on to sell you the profitable razor refills , over and over .</s>
+<s id='vn15'>Gillette vui vẻ bán cán dao cạo Mach 3 của mình theo giá vốn , thậm chí thấp hơn , vì họ có thể tiếp tục bán cho bạn những cái lưỡi dao cạo thay thế có lời dài dài .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Their business model rests on giving away the handle and making profits from a steady stream of high-margin razor blade sales .</s>
+<s id='vn16'>Mô hình kinh doanh của họ dựa trên việc cho đi cán dao và kiếm lời từ dòng doanh thu bán lưỡi dao lợi nhuận cao ổn định .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Electric shavers have a different model .</s>
+<s id='vn17'>Những nhà sản xuất dao cạo điện thì có một mô hình kinh doanh khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They cost much more than the Gillette handle .</s>
+<s id='vn18'>Họ bán giá cán dao đắt hơn nhiều của Gillette .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Remington , a manufacturer of electric shavers , makes most of its money upfront , rather than from a stream of blade refill sales .</s>
+<s id='vn19'>Remington , một nhà sản xuất dao cạo điện , lấy phần lớn tiền của mình trước , chứ không chờ lấy từ dòng doanh thu bán lưỡi dao thay thế .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>As industries change , companies ca n't always afford to stick to the same business model .</s>
+<s id='vn20'>Khi các ngành thay đổi , các công ty không thể lúc nào cũng đủ sức theo cùng một mô hình kinh doanh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Think about Kodak and the fast-changing camera business .</s>
+<s id='vn21'>Hãy xem xét Kodak và ngành kinh doanh máy ảnh đang thay đổi nhanh chóng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Traditional film cameras generated a lot of money for the company , since users had to buy roll after roll of film to take pictures and then spend even more getting the pictures developed .</s>
+<s id='vn22'>Công ty thu được nhiều tiền nhờ các máy ảnh truyền thống , vì người sử dụng phải mua hết cuộn phim này đến cuộn phim khác để chụp hình và sau đó thậm chí phải bỏ nhiều tiền hơn để rửa các tấm hình .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But digital cameras do away with film sales and processing fees .</s>
+<s id='vn23'>Nhưng các máy ảnh kỹ thuật số làm thất thu doanh số bán phim và các khoản phí xử lý .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So , in response , Kodak has had to create a new business model .</s>
+<s id='vn24'>Vì vậy , để đối phó , Kodak đã phải tạo ra một mô hình kinh doanh mới .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The company has established digital printing centers , where users can have their digital camera pictures printed on genuine Kodak paper .</s>
+<s id='vn25'>Công ty thành lập những trung tâm in ấn kỹ thuật số ; đến những trung tâm này , người sử dụng có thể in các bức ảnh chụp bằng máy kỹ thuật số của mình trên giấy Kodak chính hiệu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The business model that was once based on film sales and processing has become a model based primarily on photograph printing .</s>
+<s id='vn26'>Mô hình kinh doanh trước đây dựa trên việc bán phim và xử lý ảnh giờ đây đã trở thành một mô hình chủ yếu dự vào việc in các bức ảnh .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>A company 's business model is n't always obvious .</s>
+<s id='vn27'>Mô hình kinh doanh của một công ty không phải lúc nào cũng rõ ràng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Consider General Motors .</s>
+<s id='vn28'>Hãy xem xét trường hợp của General Motors .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>You might think GM makes its money selling cars and trucks .</s>
+<s id='vn29'>Bạn có thể cho rằng General Motors kiếm tiền nhờ bán xe hơi và xe tải .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>In fact , more than 60 % of GM 's earnings in 2003 came from finance payments , not auto sales .</s>
+<s id='vn30'>Trên thực tế , hơn 60% thu nhập của họ trong năm đến từ các khoản thanh toán tài chính , không phải từ doanh số bán ô tô .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Business models can also be downright counterintuitive .</s>
+<s id='vn31'>Các mô hình kinh doanh còn có thể rất khác thường .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Conventional wisdom says that a retailer that crams stores close to one another will cannibalize own-store sales .</s>
+<s id='vn32'>Người ta thường cho rằng một nhà bán lẻ bố trí các cửa hàng sát nhau sẽ rút hết doanh số của cửa hàng đứng riêng rẽ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>But coffee retailer Starbucks has a business model that rests on just that : having coffee shops within blocks of each other .</s>
+<s id='vn33'>Nhưng nhà bán lẻ cà phê Starbucks có một mô hình kinh doanh dựa trên chính điều đó : các cửa hàng cà phê cách nhau vài ngôi nhà .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It turns out that market saturation drives up consumption , creates virtual wall-to-wall billboards for Starbucks , and cuts back on customer lines at more popular outlets .</s>
+<s id='vn34'>Hoá ra độ bão hoà của thị trường làm tăng lượng tiêu thụ , tạo ra những bảng quảng cáo ảo phủ kín khu vực cho Starbucks , và giảm bớt những dòng người mua hàng tại những cửa hàng nổi tiếng hơn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It also keeps competitors off the street .</s>
+<s id='vn35'>Mô hình kinh doanh này còn không cho các đối thủ cạnh tranh xuất hiện trên tuyến phố ấy .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Assessing the Business Model</s>
+<s id='vn36'>Đánh giá mô hình kinh doanh</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So how do you know whether a business model is any good ?</s>
+<s id='vn37'>Vậy sao bạn biết được một mô hình kinh doanh có điểm nào tốt hay không ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>That 's a tricky question .</s>
+<s id='vn38'>Đó là một câu hỏi hóc búa .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Joan Magretta , former editor of the Harvard Business Review , highlights two critical tests for sizing up business models .</s>
+<s id='vn39'>Joan Magretta , cựu biên tập viên Tạp chí Kinh doanh của Đại học Harvard , nhấn mạnh hai tiêu chuẩn quan trọng để đánh giá các mô hình kinh doanh .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>When business models do n't work , it 's because they do n't make sense and/or the numbers just do n't add up to profits .</s>
+<s id='vn40'>Khi mô hình kinh doanh hoạt động không hiệu quả , đó là vì những mô hình ấy không hợp lý và / hoặc đơn giản là các con số không tạo thành lợi nhuận .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Because it includes companies that have suffered heavy losses and even bankruptcy , the airline industry is a good place to find business models that stopped making sense .</s>
+<s id='vn41'>Vì ngành hàng không có nhiều công ty chịu thiệt hại nặng nề và thậm chí là bị phá sản , nên đây là ngành lý tưởng để tìm những mô hình kinh doanh phải dừng lại khi không còn hợp lý nữa .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>For years , major carriers like American , Delta and Continental built their businesses around a " hub-and-spoke " system , in which all flights routed through a handful of big city airports .</s>
+<s id='vn42'>Trong một thời gian dài , những hãng vận tải lớn như American , Delta và Continental xây dựng doanh nghiệp của mình theo mô hình " trục bánh xe và nan hoa " , trong đó tất cả các chuyến bay đều qua một số sân bay thành phố lớn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>By ensuring that seats were filled , the business model produced big profits for airlines .</s>
+<s id='vn43'>Do chắc chắn ghế ngồi sẽ được nêm kín , mô hình kinh doanh này tạo ra lợi nhuận khổng lồ cho các hãng hàng không .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>But the business model that was once a source of strength for the major carriers became a burden .</s>
+<s id='vn44'>Nhưng cái mô hình kinh doanh đã từng là nguồn sức mạnh đối với những hãng vận tải lớn ấy lại trở thành một gánh nặng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It turned out that competitive carriers like Southwest and JetBlue could shuttle planes between smaller centers at a lower cost - in part because of lower labor costs , but also because they avoided some of the operational inefficiencies that occur in the hub-and-spoke structure .</s>
+<s id='vn45'>Hoá ra những hãng vận tải cạnh tranh như Southwest và JetBlue có thể bay tới bay lui giữa những trung tâm nhỏ hơn với mức giá thấp hơn - một phần vì chi phí nhân công rẻ hơn , và còn vì họ tránh được một số vấn đề hiệu suất hoạt động kém mà mô hình trục bánh xe và nan hoa gây ra .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>As competitive carriers drew away more customers , the old carriers were left to support their large , extended networks with fewer passengers - a condition made even worse when traffic began to fall in 2001 .</s>
+<s id='vn46'>Khi mà các hãng vận tải cạnh tranh lôi kéo được nhiều khách hàng hơn , thì những hãng vận tải lâu đời kia lại phải duy trì các mạng lưới đã mở rộng , khổng lồ của mình mặc dù hành khách ngày một ít đi - tình thế diễn ra thậm chí còn tồi tệ hơn là vào năm 2001 , thời điểm người ta ít đi lại .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>To fill seats , the airlines had to offer more and deeper discounts .</s>
+<s id='vn47'>Để lấp đầy chỗ ngồi , các hãng hàng không phải giảm giá sâu hơn và nhiều hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>No longer able to produce profits , the hub-and-spoke model no longer made sense .</s>
+<s id='vn48'>Không còn khả năng tạo ra lợi nhuận , mô hình trục bánh xe và nan hoa không còn hợp lý nữa .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>For examples of business models that failed the numbers test , we can look at U.S. automakers .</s>
+<s id='vn49'>Đối với ví dụ về các mô hình kinh doanh không đạt chuẩn liên quan đến những con số , chúng ta có thể nhìn vào các hãng xe hơi Mỹ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In 2003 , to compete against foreign manufacturers , Ford , Chrysler and General Motors offered customers such deep discounts and interest-free financing that they effectively sold vehicles for less than it cost to make them .</s>
+<s id='vn50'>Năm 2003 , để cạnh tranh với những nhà sản xuất nước ngoài , Ford , Chrysler và General Motors giảm giá sâu cho khách hàng và cho vay để mua xe không có lãi suất đến mức họ bán xe thấp hơn chi phí sản xuất .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>That dynamic squeezed all the profits out of Ford 's U.S. operations and threatened to do the same for Chrysler and GM .</s>
+<s id='vn51'>Động thái đó làm giảm mọi khoản lợi nhuận các hoạt động trên đất Mỹ của hãng Ford và đe doạ điều tương tự sẽ xảy ra cho Chrysler và General Motors .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>To remain viable , the big automakers had to revamp their business models .</s>
+<s id='vn52'>Để có thể tồn tại được , các hãng xe hơi lớn đã phải chỉnh sửa lại các mô hình kinh doanh của mình .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Conclusion</s>
+<s id='vn53'>Kết luận</s>
+</spair>
+<spair id='54'>
+<s id='en54'>When evaluating a company as a possible investment , learn exactly how it makes its money .</s>
+<s id='vn54'>Khi đánh giá một công ty với tư cách là một khoản đầu tư khả dĩ , hãy tìm hiểu chính xác xem công ty đó kiếm tiền bằng cách nào .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Then think about how attractive and profitable that business model is .</s>
+<s id='vn55'>Sau đó xem xét mô hình kinh doanh ấy hấp dẫn và có lợi ra sao .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Admittedly , the business model does n't tell you everything about a company 's prospects , but investors with a business model frame of mind can make better sense of the financial data and business information .</s>
+<s id='vn56'>Phải thừa nhận là cái mô hình kinh doanh kia không nói cho bạn hết mọi thứ về triển vọng của một công ty , nhưng những nhà đầu tư có một tâm thế về mô hình kinh doanh thì có thể hiểu rõ hơn dữ liệu tài chính và thông tin doanh nghiệp .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>It simplifies the job of identifying the companies that are the best investments .</s>
+<s id='vn57'>Mô hình kinh doanh , nó đơn giản hoá công việc nhận biết công ty nào là khoản đầu tư tốt nhất .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,120 @@
+﻿<doc id='N0265'>
+<head>
+<title>Japan switches on Ohi nuclear reactor amid protests .</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Japan switches on Ohi nuclear reactor amid protests .</s>
+<s id='vn1'>Nhật Bản cho bật lò phản ứng hạt nhân Ohi hoạt động trong lúc dân chúng phản đối .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Many in Japan distrust the government 's assurances that nuclear power is safe</s>
+<s id='vn2'>Nhiều người ở Nhật hoài nghi về lời đảm bảo " an toàn " của chính phủ về năng lượng hạt nhân .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Japan has restarted the first nuclear reactor since the meltdown at the Fukushima power plant last year .</s>
+<s id='vn3'>Nhật Bản đã cho khởi động lại lò phản ứng hạt nhân đầu tiên kể từ khi xảy ra hiện tượng lõi lò phản ứng hạt nhân chảy tan tại nhà máy điện Fukushima vào hồi năm ngoái .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Hundreds gathered near the plant in the town of Ohi to protest against the move , which has divided public opinion .</s>
+<s id='vn4'>Hàng trăm người tụ tập lại gần nhà máy ở thành phố Ohi để phản đối động thái đã gây ra sự bất đồng quan điểm trong dân chúng này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Last month , the prime minister urged support , saying a return to nuclear power was essential for the economy .</s>
+<s id='vn5'>Tháng trước , thủ tướng kêu gọi mọi người ủng hộ việc làm trên với lý do là sản xuất năng lượng hạt nhân trở lại đóng vai trò quan trọng đối với nền kinh tế quốc gia .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>All 50 of Japan 's nuclear plants were shut after the meltdown at Fukushima , which was triggered by a tsunami and earthquake .</s>
+<s id='vn6'>Tất cả 50 nhà máy hạt nhân của Nhật Bản đã bị đóng cửa sau hiện tượng lõi lò phản ứng hạt nhân chảy tan tại Fukushima , gây ra bởi sóng thần và động đất .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The crisis was regarded as the worst nuclear disaster since Chernobyl in 1986 .</s>
+<s id='vn7'>Khủng hoảng này được xem là thảm hoạ hạt nhân tệ hại nhất kể từ vụ Chernobyl vào năm 1986 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Road blocked</s>
+<s id='vn8'>Chặn đường</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It will take until Wednesday before the No 3 reactor at Ohi , in Fukui prefecture on the west coast , can start supplying electricity .</s>
+<s id='vn9'>Sẽ phải chờ đến ngày thứ tư để lò phản ứng số 3 tại Ohi , ở quận Fukui nằm ở bờ biển phía tây , có thể bắt đầu cung cấp điện trở lại .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The reactor is expected to be fully operational by the end of the week , the operator , Kansai Electric Power Co ( Kepco ) says .</s>
+<s id='vn10'>Lò phản ứng này theo dự kiến được đưa vào sử dụng hoàn toàn vào cuối tuần này , theo người điều hành công ty điện Kansai ( Kepco ) cho hay .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>About 100 of the 650 protesters at the nuclear plant blocked a nearby road overnight , but a Kepco spokesman said the reactivation was not affected , according to the Reuters news agency .</s>
+<s id='vn11'>Khoảng 100 trong số 650 người biểu tình tại nhà máy hạt nhân này chận con đường gần đó suốt đêm , nhưng người phát ngôn Kepco cho biết không bị ảnh hưởng đến việc tái kích hoạt , theo thông tấn xã Reuters .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The restart of the reactor follows an order by Mr Noda last month authorising the reactivation of both it and another reactor at Ohi - No 4 - following stress tests .</s>
+<s id='vn12'>Việc khởi động lại lò phản ứng này theo lệnh của ông Noda vào tháng trước cho phép tái kích hoạt cả lò này và lò phản ứng số 4 khác ở Ohi sau khi kiểm tra khả năng hoạt động của chúng dưới áp lực cao .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Reactor No 4 is to be restarted on 14 July .</s>
+<s id='vn13'>Lò phản ứng số 4 sẽ được cho khởi động lại vào ngày 14 tháng bảy .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>At the time , he called on the Japanese to support the move , saying it was needed to bolster the economy and prevent energy shortages over the summer .</s>
+<s id='vn14'>Lúc đó , ông kêu gọi người dân Nhật Bản hỗ trợ động thái này , cho biết việc này là cần thiết để củng cố nền kinh tế và ngăn chặn tình trạng thiếu năng lượng trong mùa hè .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The decision was welcomed by businesses .</s>
+<s id='vn15'>Quyết định này được các doanh nghiệp hưởng ứng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They had voiced concern over the lack of power for industry .</s>
+<s id='vn16'>Họ đã bày tỏ mối quan ngại về việc thiếu điện cho ngành công nghiệp .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Dissent</s>
+<s id='vn17'>Bất đồng ý kiến</s>
+</spair>
+<spair id='18'>
+<s id='en18'>On Friday , tens of thousands took part in anti-nuclear rallies in Tokyo outside Prime Minister Yoshihiko Noda 's official residence , chanting " Saikado hantai , " or " No to nuclear restarts " , in what correspondents say was a rare show of dissent in Japan .</s>
+<s id='vn18'>Vào ngày thứ sáu , hàng chục ngàn người tham gia vào cuộc mít-tinh chống lại vũ khí hạt nhân ở Tokyo , bên ngoài dinh thự của thủ tướng Yoshihiko Noda , hô vang lên khẩu hiệu " Không được cho khởi động lại lò phản ứng hạt nhân " , là những gì mà các phóng viên cho là hiện tượng bất đồng ý kiến hiếm thấy ở Nhật .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The BBC 's Mariko Oi , in Tokyo , says it was one of the largest demonstrations seen since the reactors at Fukushima were damaged in March 2011 .</s>
+<s id='vn19'>Theo phóng viên Mariko Oi của BBC ở Tokyo , cho hay đây là một trong những cuộc biểu tình lớn nhất kể từ khi các lò phản ứng tại Fukushima bị thiệt hại vào tháng ba năm 2011 .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Tokyo protester</s>
+<s id='vn20'>Nhà biểu tình ở Tokyo</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Reports differ on the number of attendees , but organisers say 200,000 people took part , our correspondent says .</s>
+<s id='vn21'>Các bài tường thuật đưa tin sai lệch nhau về số người tham dự , nhưng nhà tổ chức cho biết có khoảng 200.000 người tham gia , phóng viên của chúng tôi cho hay .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The government is continuing to assess whether other nuclear plants are safe to be reactivated .</s>
+<s id='vn22'>Chính phủ đang tiếp tục đánh giá liệu cho các nhà máy hạt nhân khác hoạt động trở lại có an toàn không .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But demonstrators say they are not convinced by assurances over safety .</s>
+<s id='vn23'>Nhưng những người biểu tình cho biết họ không cảm thấy thuyết phục mấy về việc đảm bảo an toàn này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>They argue that Japan should take the opportunity to move to alternative energy sources .</s>
+<s id='vn24'>Họ tranh luận rằng Nhật Bản nên nhân cơ hội này chuyển sang dùng các nguồn năng lượng thay thế khác .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Tokyo-based protester Nobuhiko Shudo told the BBC the problem of disposing of radioactive waste was key .</s>
+<s id='vn25'>Nhà biểu tình ở Tokyo là ông Nobuhiko Shudo cho BBC hay vấn đề mấu chốt ở đây là việc loại bỏ chất thải phóng xạ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" The most important thing for us is sustainability of the Earth for the next generation .</s>
+<s id='vn26'>" Điều quan trọng nhất đối với chúng ta là cân bằng sinh thái đất cho thế hệ sau .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>So if we have some problems to keep the planet clean and beautiful , then we have to change the industrial structure " to foster alternative energy sources , he said .</s>
+<s id='vn27'>Vì vậy , nếu chúng ta gặp trở ngại trong việc giữ gìn hành tinh này sạch và đẹp thì chúng ta phải thay đổi cơ cấu công nghiệp để thúc đẩy việc sử dụng các nguồn năng lượng thay thế " , ông nhận định .</s>
+</spair>
+</text>
+</doc>

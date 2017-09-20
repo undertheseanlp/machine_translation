@@ -1,0 +1,88 @@
+﻿<doc id='N0577'>
+<head>
+<title>China 's Green Dam software is unsafe</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China 's Green Dam software is unsafe</s>
+<s id='vn1'>Phần mềm " Green Dam " của Trung Quốc không An toàn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The content-filtering software the Chinese government wants installed on all PCs sold in that country beginning next week was poorly developed and puts users at risk of having their computers compromised , a security expert who examined the code said on Thursday .</s>
+<s id='vn2'>Phần mềm lọc nội dung mà chính phủ Trung Quốc muốn cài đặt trên tất cả các PC được bán trong nước sẽ bắt đầu vào tuần tới là phần mềm được phát triển kém chất lượng và đặt người dùng vào tình trạng rủi ro trên các máy tính bị tổn hại , một chuyên gia bảo mật đã kiểm tra mã và cho biết vào hôm thứ Năm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Chinese government is requiring that all PCs include the Green Dam - Youth Escort software to block pornography , but it also blocks access to content related to violent computer games , illegal drugs and political speech , said Ben Feinstein , director of research at SecureWorks , a managed security service provider .</s>
+<s id='vn3'>Ben Feinstein , giám đốc nghiên cứu tại SecureWorks và là nhà cung cấp dịch vụ bảo mật quản trị đã cho biết : Chính phủ Trung Quốc yêu cầu tất cả các PC cài phần mềm Green Dam - Youth Escort để chặn nội dung khiêu dâm , và chặn cả việc truy cập vào nội dung liên quan đến các game máy tính có tính chất bạo lực , các loại chất cấm và bài diễn văn chính trị bất hợp pháp .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Critics are worried that the Chinese government could use Green Dam , a free download , to block all kinds of content and monitor online activities of users , as well as worried that the software could allow for a massive botnet to be created , either by cybercriminals or the Chinese government itself .</s>
+<s id='vn4'>Nhà phê bình lo lắng rằng chính phủ Trung Quốc có thể sử dụng phần mềm Green Dam , một phần mềm miễn phí để chặn tất cả các loại nội dung và quản lí các hoạt động của người dùng trực tuyến , cũng như lo lắng rằng liệu phần mềm này có cho phép một mạng botnet qui mô lớn được tạo ra do những tội phạm máy tính hoặc là do chính Chính phủ Trung Quốc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Feinstein and colleagues at SecureWorks ' Counter Threat Unit examined the Green Dam code earlier this month and found that it uses a variety of unsafe programming practices that have been banned at Microsoft and other U.S. companies .</s>
+<s id='vn5'>Feinstein và đồng nghiệp tại bộ phận Counter Threat Unit của SecureWorks đã kiểm tra mã của phần mềm Green Dam vào đầu tháng này và đã tìm thấy phần mềm này sử dụng nhiều cách thức lập trình không an toàn mà điều này đã bị cấm tại Microsoft và các hãng khác ở Mĩ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>An example is the use of Strcpy , or string copy , a library function in the C programming language that copies memory from one buffer to another , according to Feinstein .</s>
+<s id='vn6'>Điển hình là việc dùng lệnh Strcpy ( sao chép chuỗi ) một hàm của thư viện trong ngôn ngữ lập trình C để sao chép bộ nhớ từ một vùng đệm này tới vùng đệm khác , theo Feinstein cho biết .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>If the copied string does n't fit in the destination buffer , it will overwrite memory and can be used in a buffer overflow attack .</s>
+<s id='vn7'>Nếu chuỗi sao chép không phù hợp với vùng đệm đích thì nó sẽ ghi đè lên bộ nhớ và có thể được sử dụng cho một cuộc tấn công tràn bộ đệm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" This software appears to be of low quality and to have not been developed with a secure methodology , " Feinstein said .</s>
+<s id='vn8'>Feinstein cho biết " Phần mềm này sẽ xuất hiện với sự kém chất lượng và chưa được phát triển với phương pháp an toàn " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" It likely suffers from a whole host of problems . "</s>
+<s id='vn9'>" Nó có khả năng bị tổn thương từ hàng loạt vấn đề "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The way Green Dam is designed to inspect all Internet traffic coming into and going out of a PC .</s>
+<s id='vn10'>Green Dam được thiết kế để kiểm duyệt tất cả lưu lượng truy cập Internet vào ra từ một máy tính .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It means more parts of the code are exposed to potential attack compared with programs being more limited in scope and process less data .</s>
+<s id='vn11'>Điều này có nghĩa là nhiều phần mã đã bị để lộ tạo nên cuộc tấn công tiềm ẩn so với các chương trình mà được giới hạn nhiều hơn trong phạm vi và xử lí dữ liệu ít hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In addition , having the software on all PCs in China , as mandated , would create a huge install base and be an attractive target for attackers who could attack millions of computers by targeting just this one program , Feinstein said .</s>
+<s id='vn12'>Ngoài ra , Feinstein cũng cho biết phần mềm này có mặt trên tất cả PC ở Trung Quốc như là một phần bắt buộc , điều này sẽ tạo ra một con số cài đặt khổng lồ và sẽ là mục tiêu hấp dẫn cho những kẻ tấn công để có thể tấn công hàng triệu máy tính bằng một mục tiêu là chương trình này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>China historically has censored the Internet using filters on the network , blocking access to pages that deal with politically sensitive subjects like Tiananman Square , Falun Gong , and Tibet .</s>
+<s id='vn13'>Trung Quốc trước đây đã kiểm duyệt nội dung Internet bằng cách sử dụng các bộ lọc trên mạng , ngăn chặn truy cập vào các trang để xử lí các vấn đề nhạy cảm về mặt chính trị như Tiananman Square , Falun Gong , và Tibet .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Installing filtering software on the end-user computers will make it easier to block content than doing it in the network , according to Feinstein .</s>
+<s id='vn14'>Việc cài đặt phần mềm lọc web trên tất cả máy tính người dùng cuối sẽ làm cho họ dễ dàng hơn là làm việc này trên mạng , theo Feinstein cho biết .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" You get efficiencies of scale if you push the filtering down to the end point rather than inspect huge Trans-Pacific pipes entering and leaving your country , " Feinstein said .</s>
+<s id='vn15'>" Bạn sẽ đạt nhiều hiệu quả trong việc mở rộng qui mô nếu như bạn đẩy mạnh việc lọc này xuống tới điểm kết thay vì kiểm duyệt một số lượng lớn các ống dẫn xuyên qua Thái Bình Dương vào ra khỏi đất nước của bạn " Feinstein cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Green Dam was published by Jinhui Computer Systems Engineering , which is run by a former officer of the Peoples ' Liberation Army , he added .</s>
+<s id='vn16'>Green Dam đã được phát hành bởi công ty Jinhui Computer Systems Engineering , phần mềm này được khởi xướng bởi một cựu viên chức của Quân đội Giải phóng Nhân dân , ông nói thêm .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Researchers at the University of Michigan issued a report two weeks ago that found two major security vulnerabilities in Green Dam that could allow someone to remotely take over a computer running the software .</s>
+<s id='vn17'>Các Nhà nghiên cứu tại Trường Đại học Michigan đã đưa ra một báo cáo cách đây hai tuần là đã tìm thấy hai lỗ hổng bảo mật chính trong phần mềm Green Dam mà có thể cho phép một người nào đó ở từ xa kiểm soát máy tính chạy phần mềm này .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The software was later updated and patched , according to an update to the report issued a week ago , however the researchers said they had discovered an additional security hole that remained unfixed .</s>
+<s id='vn18'>Phần mềm này đã được cập nhật và vá lỗ hổng gần đây , theo một thông tin mới nhất từ bản báo cáo được phát hành vào tuần trước , tuy nhiên các nhà nghiên cứu cũng cho biết rằng họ đã phát hiện thêm một lỗ hổng bảo mật mà vẫn chưa được vá .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Separately , a security researcher said he had released on a public Website an exploit for a buffer overflow that remained unpatched in the Green Dam update .</s>
+<s id='vn19'>Được biết , một nhà nghiên cứu về bảo mật cho biết rằng ông đã thông báo trên một trang Web công cộng một cách khai thác lỗ hổng tràn bộ đệm mà vẫn chưa được vá trong bản cập nhật của phần mềm Green Dam .</s>
+</spair>
+</text>
+</doc>

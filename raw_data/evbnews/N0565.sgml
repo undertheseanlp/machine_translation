@@ -1,0 +1,468 @@
+﻿<doc id='N0565'>
+<head>
+<title>9 . Hoan Kiem Lake</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>9 . Hoan Kiem Lake</s>
+<s id='vn1'>9 . Hồ Hoàn Kiếm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you are about to visit Hanoi for a few days , very likely that you will reside somewhere near Hoan Kiem Lake .</s>
+<s id='vn2'>Nếu bạn có dip đến thăm Hà Nội trong một vài ngày , sẽ rất thú vị nếu bạn có ý định ở môt nơi gần với hồ Hoàn Kiếm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>lake is considered center of Hanoi , not only physically but also symbolically .</s>
+<s id='vn3'>Hồ được coi là trung tâm của Hà Nội không bởi chỉ về mặt địa lý , mà còn về cả mặt biểu tượng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In fact , the more you spend time learning about the lake , the more special it becomes .</s>
+<s id='vn4'>Trên thực tế , bạn càng dành nhiều thời gian tìm hiểu , bạn càng thấy nó đặc biệt đến nhường nào .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Legend</s>
+<s id='vn5'>Truyền thuyết</s>
+</spair>
+<spair id='6'>
+<s id='en6'>tale goes that Le Loi King came across a shining metal bar when he visited his friend .</s>
+<s id='vn6'>Chuyện xưa kể lại rằng , Vua Le Lơi trong khi đến thăm 1 người bạn đã nhìn một tấm kim loại phát sáng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It turned out that friend caught bar in one of attempts for fish .</s>
+<s id='vn7'>Hóa ra người bạn đó đã lượm được thanh kim loại trong một lần gắng câu cá .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>King asked for bar , brought it home and moulded it into a sword .</s>
+<s id='vn8'>Vị vua xin lại thanh kim loại đó , mang về cung và đúc nó thành một thanh gươm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>All of a sudden , two words printed on the sword " Thuan Thien " ( harmonious with heaven ) .</s>
+<s id='vn9'>Bỗng nhiên , trên thanh gươm xuất hiện 2 từ " Thuận Thiên " ( thuận theo ý trời " ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Le Loi then understood that sword was a gift from heaven .</s>
+<s id='vn10'>Lê Lơi ngay sau đó đã hiểu rằng thanh gươm chính là một món quà được trời ban tặng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He used it for battle against Ming invasion ( from China ) .</s>
+<s id='vn11'>Ông đã dùng nó trong trận chiến chống quân Minh xâm lược ( từ Trung Quốc ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>At beginning of 1428 , when peace prevailed , on one of his trip to Thuy Quan ( now Hoan Kiem ) lake , there was tortoise rising above water and shouting :</s>
+<s id='vn12'>Vào đầu những 1428 , khi hòa bình được lập lại , trong 1 lần cùng quần thần bơi thuyền ra hồ Thuy Quân ( Hoàn Kiếm bây giờ ) , có Rùa vàng nổi lên mặt nước và gọi to :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Please return sword to the Dragon King " .</s>
+<s id='vn13'>" Xin hãy hoàn lại gươm cho thần Long Vương " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Without hesitation , King threw sword to lake . tortoise took sword and dove down water .</s>
+<s id='vn14'>Không một chút lưỡng lự , vị vua ném thanh gươm xuống hồ , rùa ngậm lấy và lặn xuống nước .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>From then on , Thuy Quan became Hoan Kiem lake .</s>
+<s id='vn15'>Từ đó , hồ Thủy Quân được gọi là Hoàn Kiếm .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Hoan Kiếm lake</s>
+<s id='vn16'>Hồ Hoàn Kiếm</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Hoan Kiem lake is not only special in her history .</s>
+<s id='vn17'>Hồ Hoàn Kiếm không chỉ đặc biệt trong lịch sử .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Water color of Hoan Kiem lake is not commonly found in other lakes elsewhere in country : greenish , dark or light shade depending on sky reflected .</s>
+<s id='vn18'>Màu nước của Hồ Hoàn Kiếm cũng không thể tìm thấy tại bất cứ hồ nào trong thành phố : màu lục , đậm hay nhạt tùy thuộc vào màu bầu trời phản chiếu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>lake is full of tortoise , is second to none in Vietnamese lakes .</s>
+<s id='vn19'>hồ còn có rất nhiều rùa , là hồ có một không hai ở Việt Nam .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>If you are lucky , you will catch sight of these giant animals rising out of water .</s>
+<s id='vn20'>Nếu may mắn một chút , bạn sẽ bắt được thời điểm cụ rùa nổi lên trên mặt nước .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>And because tortoise is considered a sacred animal in Vietnam’s culture ( along with dragon , phoenix and unicorn ) , Hoan Kiem lake then become a holy place nurtures tortoise .</s>
+<s id='vn21'>Và cũng bởi Rùa là một loài vật được coi là linh thiêng trong văn hóa của người Việt Nam ( cùng với rồng , phượng và kỳ lân ) , hồ Hoàn kiếm đã trở thành một nơi linh thiêng nuôi dưỡng Rùa .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Activities</s>
+<s id='vn22'>Hoạt động</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If you can wake up early in morning , at about 5 a.m. , you will see lines lines of oldies teenagers doing anything from yoga to tai-chi aerobics .</s>
+<s id='vn23'>Nếu bạn có thể thức dậy vào sáng sớm , khoảng tầm 5 giờ , bạn sẽ được nhìn thấy những dòng người , cả những người cao tuổi , những cô cậu bé thanh thiếu niên làm rất nhiều thứ , từ tập yoga đến võ tai-chi , thể dục nhịp điệu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It looks as if whole city was up and running for morning exercise .</s>
+<s id='vn24'>Điều đó như thể cả thành phố cùng thức dậy và tập thể dục buổi sáng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>They work out in group or by themselves , with or without equipment .</s>
+<s id='vn25'>Họ có thể tập theo nhóm hoặc cá nhân , dụng cụ tập có thể có hoặc không .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In the course of one of high profiled meetings in Hanoi , an Australian prime minister also joined early jogging around lake .</s>
+<s id='vn26'>Trong khuông khổ một trong những lần đến tham dự hội nghị cấp cao tại Hà Nội , một vị thủ tướng Úc cũng đã tham gia vào đi bộ xung quanh hồ vào sáng sớm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In afternoon to South end you can see a matrix motorbikes twisting along lake .</s>
+<s id='vn27'>Vào buổi chiều từ phía Nam của hồ , bạn có thể nhìn thấy một ma trận những xe máy xoắn vào lòng hồ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Blending in is a gang of " cyclo " famous three-wheeled carriers that take tourists with cameras handy .</s>
+<s id='vn28'>Hòa lẫn trong đó là rất nhiều xe xích lô - loại phương tiện 3 bánh nổi tiếng dùng để đưa khách du lịch cùng với máy ảnh xách tay .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>To North end where old quarter lies , influx of colourful clothes and shoes , together with smell of trees and coffees .</s>
+<s id='vn29'>Ở phần phía Bắc của hồ là nơi của phố cổ , bị hấp dẫn bởi hàng loạt những quần áo giày dép sặc sỡ cùng với đó là hương thơm của những hàng cây bên đường và hương ca-fe</s>
+</spair>
+<spair id='30'>
+<s id='en30'>When darkness takes over , you can see couples holding hands walking side by side along lake , trying breathe breeze of summer night or keep warmth against winter cold .</s>
+<s id='vn30'>Khi màn đêm buông xuống , bạn có thể nhìn thấy những cặp đôi tay trong tay thả bộ theo lòng hồ , cố gắng hít hà những con gió nhẹ vào những đêm hè , hay giữ ấm chống lại những cơn gió lạnh mùa đông .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you have time and really want to observe Hanoi’s life , sit down on one of stone bench , enjoy view and good talk with some local friends over an ice-cream cone .</s>
+<s id='vn31'>Nếu như bạn có thời gian và thực sự muốn quan sát cuộc sống của người Hà Nội hãy ngồi xuống một chiếc ghế đá vừa thưởng thức cảnh vừa nói chuyện với những người bạn sẽ tuyệt hơn nến thêm cả một chiếc kem ốc quế nữa . .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>How to get there</s>
+<s id='vn32'>Cách đi đến hồ</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Hoan Kiem lake centrally located and minutes walking from Ha Noi Old Quarter , where most hotels gather .</s>
+<s id='vn33'>Hồ Hoàn Kiếm nằm ở vi trí trung tâm và mất khoảng ít phút để đi bộ từ phố cổ Hà Nội , nơi tập trung rất nhiều khách sạn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>From Noi Bai Airport , it takes 40 minutes get there .</s>
+<s id='vn34'>Từ sân bay Nội Bài đến đây sẽ mất 40 phút .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If you stay in Westlake area , just take Yen Phu Road to reach Old Quarter and head east to Hoan Kiem lake .</s>
+<s id='vn35'>Nếu bạn đi từ Hồ Tây , chỉ cần đi theo đường Yên Phu , qua Phố Cổ và đến thẳng phía tây của hồ Hoàn Kiếm .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Where to say ?</s>
+<s id='vn36'>Ở đâu ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Near Hoan Kiem lake , hotels our plentiful . Our suggestions :</s>
+<s id='vn37'>Gần khu vực hồ Hoàn Kiếm , có rất nhiều khách sạn bạn có thể chọn lựa :</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Hanoi Sofitel Metropole rooms start at 315 $ per night</s>
+<s id='vn38'>Khách sạn Hanoi Sofitel Metropole có giá từ 315 $ mỗi đêm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Hanoi Hilton Opera rooms start at 169 $ per night</s>
+<s id='vn39'>Khách sạn Hanoi Hilton Opera có giá từ 169 $ mỗi đêm</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Serenade Hotel rooms start at 88 $ per night .</s>
+<s id='vn40'>Khách sạn Serenade có giá từ 88 $ mỗi đêm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Sunrise Hotel Hanoi rooms start at 38 $ per night</s>
+<s id='vn41'>Khách sạn Sunrise Hà Nội có giá từ 38 $ mỗi đêm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>10 . Celebrity chefs flock to Hong Kong</s>
+<s id='vn42'>10 . Các bếp trưởng danh tiếng tập trung tại Hồng Kông .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>While Hong Kong has long been go-to destination for top-notch Chinese food , it is now becoming stoping ground for foreign celebrity chefs , with Mario Batali and Paco Roncero joining several culinary wunderkinds who have set up outposts in Chinese territory .</s>
+<s id='vn43'>Mặc dù vẫn được biết đến là điểm đến nổi tiếng với những món ăn Trung Hoa hảo hạng , Hồng Kông ngày nay còn trở thành điểm dừng chân ưa thích với các bếp trưởng ngoại quốc danh tiếng , như việc Mario Batali và Paco Roncero đang hợp tác cùng một vài đầu bếp trẻ tài năng - những người đã thiết lập nên những cơ sở đầu tiên tại Trung Quốc .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Famed chefs Alain Ducasse , Joël Robuchon , Nobuyuki " Nobu " Matsuhisa and Pierre Gagnaire all have eponymous restaurants in Hong Kong , and visiting overseas chefs often make guest appearances in hotel dining scene .</s>
+<s id='vn44'>Các bếp trưởng danh tiếng Alain Ducasse , Robuchon , Nobuyuki " Nobu " Matsuhisa và Pierre Gagnaire đều có các nhà hàng mang tên mình ở Hồng Kông , và những bếp trưởng từ nước ngoài thường tới làm khách mời tại các buổi tiệc tối tại khách sạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>But trendier set of chefs is flocking to city , not from schools of traditional French or high-end Japanese cuisine , but rather ones who have mastered , for example , molecular gastronomy and home-style Italian cooking .</s>
+<s id='vn45'>Nhưng các bếp trưởng có xu hướng tập trung tại các thành phố , không phải từ những người xuất thân từ các ngôi trường truyền thống của Pháp hay có công thức cao cấp kiểu Nhật , mà đúng hơn là những người có kinh nghiệm , ví dụ , nghệ thuật nấu ăn ngon và phong cách nấu ăn gia đình kiểu Ý .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>celebrity chefs are capitalizing on enthusiasm for vaunted pedigrees from abroad , their restaurants joining crowds of foreign brands are clamouring for attention of Hong Kong 's diverse , affluent population .</s>
+<s id='vn46'>Các bếp trưởng danh tiếng đang tận dụng nguồn gốc nước ngoài của mình để nhiệt tình khoe khoang , các nhà hàng của họ cùng vô số các nhãn hiệu ngoại đang cạnh tranh nhằm thu hút sự chú ý của tầng lớp dân cư đa dạng , giàu có ở Hồng Kông .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Batali 's latest project , Lupa , opens doors on 12 April in the heart of Hong Kong Central district . Alongside his business partner , restaurateur and Master Chef judge Joe Bastianich , Batali is teaming up with local restaurant group " Dining Concepts " to launch a restaurant serve signature New York style Italian dishes with a twist , like ricotta gnocchi with sweet fennel sausage , crispy duck with salsify and saba , and Apician spiced dates with mascarpone .</s>
+<s id='vn47'>Dự án mới nhất của Batali , cửa hàng Lupa , khai trương vào 12 tháng 4 ngay giữa Quận Trung Tâm Hồng Kông . Sát ngay cạnh người bạn kinh doanh nhà quản lí nhà hàng và bếp trưởng sành sỏi Joe Bastianich , Batali đang kết hợp cùng nhóm các nhà hàng địa phương " Khái Niệm Ẩm Thực " nhằm cho ra đời một nhà hàng phục vụ các món ăn Ý theo phong cách New York với một sự pha trộn như pho mát trắng lát nhỏ khoai tây bột mì với xúc xích và thì là ngọt , vịt giòn với diếp và saba , hoặc gia vị Apician đi kèm với pho mát mascarpone .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>La Terreza , restaurant’s alfresco dining area , will serve a separate , lighter menu.</s>
+<s id='vn48'>Nhà hàng La Terreza thuộc khu vực ăn tối ngoài trời sẽ phục vụ với một thực đơn riêng biệt , nhẹ nhàng hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>opening scheduled for May , View62 by_Paco_Roncero , circular revolving restaurant atop glittering Wan Chai skyscraper , will be helmed by protégé of Ferran Adria , Roncero , who earned two Michelin stars for La Terraza del Casino in Madrid , is introducing Hong Kong to his special brand of " nouvelle cuisine " European fare infused with innovative principles and scientific techniques of molecular gastronomy .</s>
+<s id='vn49'>Khai trương vào tháng 5 , nhà hàng View 62 của Paco Roncero , nhà hàng quay tọa lạc trên đỉnh của tòa nhà chọc trời tráng lệ Wan Chai , sẽ được điều hành do người được bảo trợ của Ferran Adria - Roncero - người đã từng dành được 2 sao Michelin cho Nhà hàng La Terraza del Casino tại Madrid , đang giới thiệu đến Hồng Công phong cách nấu ăn đặc biệt kiểu Pháp - các món ăn Châu Âu được pha trộn với nguyên tắc sáng tạo và công nghệ khoa học của nghệ thuật nấu ăn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>From the 62nd floor of Hopewell Centre , take view of Victoria Harbour and mountainous interior of Hong Kong Island while feasting on Roncero 's cutting-edge cuisine .</s>
+<s id='vn50'>Từ tầng 62 của tòa tháp Hopewell Trung Tâm , có thể phóng tầm mắt ra Cảng Victoria và cảnh núi non Hồng Công trong khi tận hưởng những món ăn tuyệt vời của Roncero .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>11 . Best Reasons to Visit Italy Architectural Tourism</s>
+<s id='vn51'>11 . Những Lí Do Để Tới Thăm Nước Ý - Du Lịch Kiến Trúc</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Italian landscape with innumerable architectural pieces of work , make place an ideal holiday destination .</s>
+<s id='vn52'>Đất nước Italia với vô số các công trình kiến trúc là một điểm đến lí tưởng trong các dịp nghỉ lễ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>These architectural wonders allure a lot of visitors from different parts of world and are considered as prominent landmarks in world history .</s>
+<s id='vn53'>Những kì quan kiến trúc thu hút một lượng lớn khách du lịch từ khắp các khu vực trên thế giới và được coi là những cột mốc nổi bật ghi dấu lịch sử thế giới .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>People come in person to study varied styles of architecture , which reflect different periods in Italy .</s>
+<s id='vn54'>Người ta đến đây để tìm hiểu về sự đa dạng của các phong cách kiến trúc , những phong cách phản ánh các giai đoạn lịch sử khác nhau của đất nước Ý .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Read on to check out a few of these interesting works , help you plan your trip to this land .</s>
+<s id='vn55'>Dưới đây là một số công trình kiến trúc nổi tiếng giúp bạn chuẩn bị chuyến đi tới đất nước này .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Roman Colosseum</s>
+<s id='vn56'>Đấu trường La Mã Cổ</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Built in period 70 to 82 AD , this colosseum is one of main attractions in Italy .</s>
+<s id='vn57'>Được xây dựng từ năm 70 tới năm 82 sau Công Nguyên , đấu trường này là một trong những điểm du lịch hấp dẫn nhất của Italia .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>This structure represents " ancient Rome ' and has been witness some of gory events - such as " Fight of Gladiators " .</s>
+<s id='vn58'>Kiến trúc này biểu trưng cho chế độ " La Mã cổ đại " và ở đây cũng từng chứng kiến một số sự kiện đẫm máu như " Trận Chiến của các Đấu Sĩ " .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>blood shedding events have stopped long ago but this magnificent building has acquired special mention in history Roman engineering .</s>
+<s id='vn59'>Những cuộc đấu đẫm máu đã chấm dứt từ lâu nhưng công trình đồ sộ này vẫn được đặc biệt ghi nhận trong lịch sử kiến trúc La Mã .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Tower Pisa</s>
+<s id='vn60'>Tháp nghiêng Pi-sa</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Tower of Pisa , situated in Pisa , is considered one of oldest structures of the place .</s>
+<s id='vn61'>Tháp Pi-sa , tọa lạc tại thành phố Pi-sa , được xem là một trong những kiến trúc cổ nhất tại đây .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>architectural gem the medieval period attracts attention due to its inclination and serves as one of most popular photographed towers of Italy .</s>
+<s id='vn62'>Công trình kiến trúc đá quý thời kì trung cổ này hấp dẫn bởi độ nghiêng của nó và là một trong những tòa tháp được chụp ảnh nhiều nhất ở I-ta-li-a .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>This bell tower is a wonderful example of Romanesque style architecture and is highlight of Pisa .</s>
+<s id='vn63'>Tòa tháp chuông này là một ví dụ tiêu biểu cho phong cách kiến trúc Rô-man và là điểm nhấn của thành phố Pi-sa .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>tower has different galleries and is open for public view .</s>
+<s id='vn64'>Tòa tháp có nhiều phòng triển lãm khác nhau và được mở cửa để đón du khách tới xem .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Sistine Chapel</s>
+<s id='vn65'>Nhà nguyện Chap-Pồ</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Apostolic Palace , residence of Pope , situated in Vatican City , is famous for Sistine Chapel .</s>
+<s id='vn66'>Thánh Điện , nơi ở của Giáo Hoàng , tọa lạc tại thành phố Van-ti-căng nổi tiếng với Nhà Nguyện Chap-pồ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>This famous chapel , reminiscent of Renaissance art reflection of artwork of some of revered artists those times such as Michelangelo , Botticelli and Raphael Sanzio .</s>
+<s id='vn67'>Nhà thờ nổi tiếng này gợi tưởng về Nghệ Thuật Phục Hưng tiêu biểu cho các công trình nghệ thuật của các nghệ sĩ thiên tài thời kì này như Mi-chen-lăng-giê-lô , Bô-ti-che-li và Ra-pha-en San-zi-ô .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Frescoes on Sistine 's ceiling and painting of The Last Judgment inside are astounding pieces of art by Michelangelo . mirrors inside chapel enable visitors to get view of different artworks and help to bask in beauty of place .</s>
+<s id='vn68'>Những bức vẽ trên trần của nhà thờ Xít-Tin và bức họa " Ngày Phán Xét Cuối Cùng " ở bên trong đều là những tác phẩm kinh điển của Mi-chen-lăng-giê-lô . Những chiếc gương phía trong tòa tháp giúp du khách có thể chiêm ngưỡng các tác phẩm khác nhau và thả mình trong không gian tuyệt mỹ của nhà thờ .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Trevi Fountain</s>
+<s id='vn69'>Đài phun nước Tre-vi</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Trevi fountain is considered to be largest fountains in Rome and definitely one of most notable .</s>
+<s id='vn70'>Đài phun nước Tre-vi là đài phun nước lớn nhất tại Rô-ma và là một trong những địa điểm đáng chú ý nhất .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Roman triumphal arches are believed to have inspired this Baroque fountain .</s>
+<s id='vn71'>Người ta cho rằng chính những mái vòm theo phong cách La Mã đã khơi nguồn cảm hứng cho đài phun nước phong cách Baroque này .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>It is a hot spot tourists attracts a lot of visitors both during the day and the evening alike .</s>
+<s id='vn72'>Địa điểm du lịch thu hút một lượng lớn du khách tới thăm quan cả ngày lẫn đêm .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>A popular belief states that if you throw coins in this fountain , you are sure to visit this place again .</s>
+<s id='vn73'>Người ta tin rằng nếu bạn ném những đồng xu vào đài phun nước thì chắc chắn bạn sẽ quay lại nơi này .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Grand Canal of Venice</s>
+<s id='vn74'>Kênh Grand tại Vơ-ni-dơ</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Venice , city which brims with water all around , famous for its numerous canals , most notable being Grand Canal .</s>
+<s id='vn75'>Vơ-ni-dơ , thành phố sông nước nổi tiếng với vô số những con kênh , mà đáng chú ý nhất là con kênh Grand .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>This natural water channel divides Venice into two regions .</s>
+<s id='vn76'>Con kênh tự nhiên này chia thành phố Vơ-ni-dơ thành hai khu vực .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Most of city 's transport such as water taxis , boats , or gondola travels down this ancient waterway .</s>
+<s id='vn77'>Các phương tiện giao thông chính của thành phố như " taxi đường thủy " , thuyền và thuyền đáy bằng đều lưu thông trên tuyến đường thủy truyền thống này .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>You can opt from any of these water transports and take a view of majestic palaces , churches and other important buildings lined on the side of the Grand Canal .</s>
+<s id='vn78'>Bạn có thể chọn bất cứ phương tiện nào và ngắm nghía những dinh thự tráng lệ , các nhà thờ và những tòa nhà trọng điểm khác nằm dọc theo con kênh .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Capri Island , in Mediterranean ; Duomo , in Florence ; villas palazzi of Vicenza and different structures of Milan are worth mentioning in Italy .</s>
+<s id='vn79'>Đảo Ca-pờ-ri ở vùng Địa Trung Hải , nhà thờ Đuô-mô ở Flo-răng-xơ , những ngôi biệt thự , lâu đài ở Vi-chen-za và các công trình khác tại Mi-lan cũng là những địa danh nổi bật khi nói tới nước Ý .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Italy provides you with a great opportunity to admire and experience eternal art .</s>
+<s id='vn80'>Đất nước I-ta-li-a mang đến cho bạn một cơ hội tuyệt vời để du ngoạn và thưởng thức những công trình nghệ thuật bất diệt .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>12 . Africa Geography Facts</s>
+<s id='vn81'>12 . Địa lý Châu Phi</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Number of Countries - 54 and a couple of disputed territories ( Western Sahara and Somaliland ) .</s>
+<s id='vn82'>Số quốc gia - 54 và một vài vùng lãnh thổ tranh chấp ( phía Tây Sahara và Somali ) .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>South Sudan is Africa 's newest country , officially born on July 9 , 2011 .</s>
+<s id='vn83'>Nam Sudan là nước mới nhất của châu Phi , chính thức ra đời vào ngày 09 tháng 7 năm 2011 .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Tallest mountain - Mount Kilimanjaro , Tanzania : 19,340 feet ( 5895 meters ) .</s>
+<s id='vn84'>Núi cao nhất - Núi Kilimanjaro , Tanzania , cao 19.340 feet ( 5895 mét ) .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Lowest point - Lake Assal in Djibouti which lies at 515 feet ( 155 m ) below sea level .</s>
+<s id='vn85'>Điểm thấp nhất - Hồ Assal ở Djibouti , nằm ở độ sâu 515 feet ( 155m ) dưới mực nước biển .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Largest desert - Sahara Desert which spans almost 3.5 million square miles ( 9,000,000 square kilometers ) .</s>
+<s id='vn86'>Sa mạc lớn nhất - sa mạc Sahara kéo dài gần 3,5 triệu dặm vuông ( 9.000.000 km2 ) .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>It stretches across North Africa and makes up a large part of a dozen countries .</s>
+<s id='vn87'>Nó trải dài trên khắp Bắc Phi và chiếm một phần lớn diện tích của hàng chục quốc gia .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Longest river - Nile which is also longest river world .</s>
+<s id='vn88'>Con sông dài nhất - sông Nile cũng là con sông dài nhất thế giới .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>It runs from Uganda all the way to Egypt for 4,132 miles ( 6650 km ) .</s>
+<s id='vn89'>Kéo dài từ Uganda tới Ai Cập , với tổng chiều dài 4.132 dặm ( 6.650 km ) .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Largest lake - Lake Victoria in East Africa , bordering Uganda , Kenya and Tanzania .</s>
+<s id='vn90'>Hồ lớn nhất - hồ Victoria ở Đông Phi , giáp Uganda , Kenya và Tanzania .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Lake second largest in world , at 26,560 square miles ( 68,800 square kilometres ) .</s>
+<s id='vn91'>Hồ lớn thứ hai trên thế giới , với diện tích 26.560 dặm vuông ( tương đương 68.800 km2 ) .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>It is main source of Nile River .</s>
+<s id='vn92'>Đây là nguồn nước chính của sông Nile .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Largest island in Africa - Madagascar off East coast of Africa in Indian Ocean is largest island in Africa and the 4th largest island in the world .</s>
+<s id='vn93'>Hòn đảo lớn nhất châu Phi - Madagascar nằm ngoài khơi bờ biển phía Đông của châu Phi , thuộc Ấn Độ Dương , là hòn đảo lớn nhất ở châu Phi và là hòn đảo lớn thứ 4 trên thế giới .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Madagascar is just over 1000 miles ( 1580 km ) long and 350 miles ( 570 km ) wide .</s>
+<s id='vn94'>Đảo có chiều dài hơn 1000 dặm ( tương đương 1.580 km ) và chiều rộng 350 dặm ( 570 km ) .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Largest waterfall - Victoria Falls on border Zambia and Zimbabwe .</s>
+<s id='vn95'>Thác nước lớn nhất - Victoria Falls ở vùng biên giới Zambia và Zimbabwe .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Victoria Falls are just over 1 mile wide ( 1.7 km ) and 355 feet ( 108 m ) high .</s>
+<s id='vn96'>Thác Victoria là chỉ rộng hơn 1 dặm ( 1,7 km ) và cao 355 feet ( 108 m ) .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>During wet season over 500 million liters of water plummets over the edge into Zambezi River .</s>
+<s id='vn97'>Vào mùa mưa , hơn 500 triệu lít nước được đổ thẳng xuống dòng sông Zamebezi .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>The spray can be seen from over 30 miles away .</s>
+<s id='vn98'>Thác nước này có thể nhìn thấy từ cách đó hơn 30 dặm .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Most populated country - Nigeria is most populated country in Africa with estimated population of 125 - 145 million people .</s>
+<s id='vn99'>Đất nước đông dân nhất - Nigeria là quốc gia đông dân nhất ở Châu Phi với dân số ước tính 125 - 145 triệu người .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>( Population statistics are politically why these numbers vary so much ) .</s>
+<s id='vn100'>( Số liệu thống kê mang tính chất chính trị , vì thế khoảng chênh giữa các số liệu là rất lớn ) .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Egypt is second with over 76 million people .</s>
+<s id='vn101'>Ai Cập là nước đông dân thứ hai với hơn 76 triệu người .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Least populated country - Seychelles has lowest population of any country in Africa with around 80,000 people .</s>
+<s id='vn102'>Quốc gia có số dân thấp nhất : Seychelles có dân số thấp nhất trong số các quốc gia ở châu Phi với khoảng 80.000 người .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>But Namibia is least densely populated country in Africa .</s>
+<s id='vn103'>Tuy nhiên , Namibia mới là nước có mật độ dân số thấp nhất châu Phi .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Most populated city - Cairo in Egypt is Africa most populated city with estimated 17 million residents living in metropolitan area .</s>
+<s id='vn104'>Thành phố đông dân nhất Cairo , Ai Cập là thành phố đông dân nhất châu Phi với khoảng 17 triệu cư dân sống trong khu vực nội đô .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Least populated capital city - Maseru , capital of Kingdom of Lesotho has population of around 14,000 .</s>
+<s id='vn105'>Thủ đô có dân số thấp nhất - Maseru , thủ đô của Vương quốc Lesotho có dân số khoảng 14.000 người .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Number of Ethnic Groups ( tribes ) - Difficult to estimate but there are at least 3,000 distinct ethnic groups in Africa .</s>
+<s id='vn106'>Tổng số các dân tộc ( bộ lạc ) Việc ước tính là rất khó , tuy nhiên ít nhất có đến 3.000 dân tộc khác nhau ở Châu Phi .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>A large country like Nigeria has more than 370 recognized tribes .</s>
+<s id='vn107'>Một đất nước lớn như Nigeria có hơn 370 bộ lạc đã được biết đến .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Number of Languages Spoken in Africa - There are over 2000 languages spoken in Africa .</s>
+<s id='vn108'>Số lượng ngôn ngữ được sử dụng ở châu Phi - Tại châu Phi có hơn 2.000 ngôn ngữ .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Arabic ( in various dialects ) has highest number of speakers with over 170 million speakers , mostly living in North Africa and the Horn of Africa .</s>
+<s id='vn109'>Tiếng Ả Rập ( với các phương ngữ khác nhau ) có số lượng người sử dụng cao nhất , hơn 170 triệu người , chủ yếu sống ở Bắc Phi và vùng Sừng châu Phi .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Africa Capital Cities - There are 52 official African capital cities .</s>
+<s id='vn110'>Các Thủ đô - Châu Phi có 52 thủ đô chính thức .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Most Visited Country - Egypt is most popular tourist destination in Africa .</s>
+<s id='vn111'>Quốc gia được ghé thăm nhiều nhất - Ai Cập là điểm đến du lịch hấp dẫn nhất ở châu Phi .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>In 2007 , Egypt attracted around 10 million visitors .</s>
+<s id='vn112'>Vào năm 2007 , Ai Cập thu hút khoảng 10 triệu du khách .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Pyramids have been a prime tourist attraction for the past 2000 years .</s>
+<s id='vn113'>Các kim tự tháp là điểm thu hút du lịch chính trong suốt 2000 năm qua .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>South Africa came a close second with 9 million visitors in 2007 ( based on figures from UNWTO ) .</s>
+<s id='vn114'>Nam Phi đứng thứ hai với 9 triệu du khách tính trong năm 2007 ( dựa trên số liệu từ UNWTO ) .</s>
+</spair>
+</text>
+</doc>

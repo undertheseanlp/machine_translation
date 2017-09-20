@@ -1,0 +1,64 @@
+﻿<doc id='N0343'>
+<head>
+<title>Asus supercomputer has 960 Nvidia GPU cores</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Asus supercomputer has 960 Nvidia GPU cores</s>
+<s id='vn1'>Siêu máy tính của Asus có 960 lõi GPU của Nvidia</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Asus unveiled its first supercomputer on Monday , the computer-sized ESC 1000 , which uses Nvidia graphics processors to attain speeds up to 1.1 teraflops .</s>
+<s id='vn2'>Asus tiết lộ siêu máy tính đầu tiên của họ vào hôm thư hai , ESC 1000 có kích cỡ như máy tính để bàn , nó sử dụng các bộ xử lý đồ hoạ của Nvidia đạt tốc độ tối đa 1.1 teraflops .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One teraflop is one trillion flops ( floating point operations per second ) , a measure of computing speed .</s>
+<s id='vn3'>Một teraflop là một nghìn tỷ flops ( floating point operations per second ) , một phép đo tốc độ tính toán .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Computers able to perform at such high speeds can be used in a variety of ways , including scientific research , image manipulation , engineering modeling or for medical purposes .</s>
+<s id='vn4'>Các máy tính có thể hoạt động ở tốc độ cao như vậy sẽ được ứng dụng trong nhiều lĩnh vực như nghiên cứu khoa học , đồ họa , mô hình hoá kỹ thuật hoặc cho các mục đích y học .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Asus 's ESC 1000 comes with a 3.33GHz Intel LGA1366 Xeon W3580 microprocessor designed for servers , along with 960 graphics processing cores from Nvidia inside three Tesla c1060 Computing Processors and one Quadro FX5800 , according to a specsheet from Asus .</s>
+<s id='vn5'>Theo bảng thông số kỹ thuật của Asus đưa ra , siêu máy tính ESC 1000 của Asus trang bị bộ vi xử lý Intel LGA1366 Xeon W3580 3.33GHz được thiết kế dành cho các máy chủ , cùng với 960 lõi xử lý đồ họa của Nivdia nằm bên trong ba bộ xử lý tính toán Tesla c1060 và một Quadro FX5800 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The c1060 is a dual-slot PCI card with no graphics ports on the back .</s>
+<s id='vn6'>c1060 là một card chuẩn PCI khe cắm kép nhưng không có cổng đồ hoạ ở mặt sau .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Nvidia has promoted its graphics cores as an alternative to microprocessors to build speedier computers that require less electricity .</s>
+<s id='vn7'>Nvidia đã quảng cáo các lõi đồ hoạ của mình như là một giải pháp thay thế cho các bộ vi xử lý để xây dựng các máy tính nhanh hơn mà tiêu thụ ít điện năng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The ESC 1000 is made for 64-bit computing and carries 24GB of DDR3 1333MHz DRAM ( double data rate , third generation ) .</s>
+<s id='vn8'>ESC 1000 phục vụ cho điện toán 64-bit và kèm theo với 24GB RAM DDR3 1333MHz ( thế hệ thứ 3 với tốc độ truyền tải dữ liệu nhanh gấp đôi ) .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>This chassis on the supercomputer is 445mm by 217.5mm by 545 mm .</s>
+<s id='vn9'>Bộ khung của siêu máy tính này 445x217.5x545mm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The ESC 1000 has a 500GB SATA II hard drive on board and its power supply is rated for 1100 watts .</s>
+<s id='vn10'>ESC 1000 được trang bị ổ cứng 500GB chuẩn SATA II trên bo mạch và bộ nguồn cung cấp có công suất là 1100W .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A note in Asus 's literature said the ESC 1000 has a cost structure in software and hardware of $ 14,519 ( £8,900 ) over five years , but an Asus representative declined to give a per-unit price or when the ESC 1000 would be available globally .</s>
+<s id='vn11'>Điểm chú ý là " tác phẩm " siêu máy tính ESC 1000 của ASUS có cấu trúc chi phí bao gồm phần mềm và phần cứng là $ 14,519 ( £8,90 ) trong năm năm , tuy nhiên đại điện của Asus đã từ chối đưa ra chi tiết giá từng phần và thời điểm ESC 1000 có mặt trên toàn cầu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>These supercomputers are ready to ship , he said .</s>
+<s id='vn12'>Ông cho biết các siêu máy tính này sẵn sàng để bán .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The ESC 1000 is the result of collaboration between Asustek , Nvidia and Taiwan 's National Chao Tung University .</s>
+<s id='vn13'>Siêu máy tính 1000 là kết quả của sự hợp tác giữa hãng Asustek , Nvidia và Trường Đại học National Chao Tung của Đài loan .</s>
+</spair>
+</text>
+</doc>

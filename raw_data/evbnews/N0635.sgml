@@ -1,0 +1,560 @@
+﻿<doc id='N0635'>
+<head>
+<title>Tree</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Tree</s>
+<s id='vn1'>Cây</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The reason people call me " Tree " is because I 'm good at painting trees .</s>
+<s id='vn2'>Lý do người ta gọi tôi là " Cây " vì tôi vẽ cây rất đẹp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>I started to use a tree on the right hand corner as a trademark for all my watercolors painting .</s>
+<s id='vn3'>Tôi bắt đầu vẽ một cái cây bên góc phải như đấy là điểm đặc trưng cho hết thảy các tranh thủy mặc của mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I had dated 5 gals when I was in Pre-U.</s>
+<s id='vn4'>Tôi đã hẹn hò với năm cô gái từ khi tôi còn học dự bị đại học .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>There 's one gal who I love a lot but never dare to go after .</s>
+<s id='vn5'>Trong số đó có một người mà tôi vô cùng yêu thương nhưng chẳng có can đảm tiến xa hơn được .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>She does n't have a pretty face , does n't have a good figure , and does n't have outstanding charm .</s>
+<s id='vn6'>Cô ấy không có gương mặt xinh xắn , cũng chẳng có hình dáng mỹ miều và cũng không có vẻ ngoài nổi bật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>She is just a very ordinary gal .</s>
+<s id='vn7'>Cô ấy chỉ là một người con gái rất đỗi bình thường .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>I like her .</s>
+<s id='vn8'>Tôi thích cô ấy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>I really like her .</s>
+<s id='vn9'>Thật sự thích cô ấy .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>I like her innocence , like her frankness .</s>
+<s id='vn10'>Tôi thích vẻ ngây thơ và bộc trực của cô ấy .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I like her cuteness , I like her intelligence and her fragility .</s>
+<s id='vn11'>Tôi thích cả sự dễ thương , thông minh và yếu ớt của cô ấy nữa .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Reason for not going after her is because I felt somebody so ordinary like her is not a good match for me .</s>
+<s id='vn12'>Lý do khiến tôi không thể tiến xa hơn với cô ấy vì tôi nghĩ người quá bình thường như cô ấy thì không hợp với tôi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>I 'm also afraid that after we are together all the good feelings will vanish .</s>
+<s id='vn13'>Tôi cũng sợ rằng khi quen nhau rồi thì những tình cảm tốt đẹp tôi dành cho cô ấy cũng tan vỡ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>I 'm also afraid other 's gossips will hurt her .</s>
+<s id='vn14'>Tôi cũng sợ những tin đồn sẽ làm cô ấy tổn thương .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>I felt that if she 's my gal , she will be mine ultimately I do n't have to give up everything just for her .</s>
+<s id='vn15'>Tôi nghĩ rằng nếu cô ấy thực sự dành cho tôi thì cuối cùng cô ấy cũng sẽ là của tôi và tôi không việc gì phải từ bỏ mọi thứ chỉ vì cô ấy .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The last reason , made her accompany me for 3 years .</s>
+<s id='vn16'>Lý do cuối cùng đã làm cho cô ấy luôn ở bên cạnh tôi suốt 3 năm .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>She watched me chase after gals , and I have made her heart cries for 3 years .</s>
+<s id='vn17'>Cô ấy nhìn tôi theo đuổi những cô gái khác và tôi đã làm cho cô ấy phải khóc liền 3 năm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>She wants to be a good actress and I 'm a very demanding director .</s>
+<s id='vn18'>Cô ấy muốn làm một diễn viên giỏi nhưng tôi lại là một đạo diễn vô cùng khắt khe .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>When I kissed my 2nd girlfriend , she bumped into us .</s>
+<s id='vn19'>Khi tôi hôn cô gái thứ hai thì cô ấy bắt gặp .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>She was embarrassed but smiled say , " Go on ! " before running off .</s>
+<s id='vn20'>Cô ấy rất bối rối nhưng cũng chỉ cười và nói , " Cứ tự nhiên ! " trước khi bỏ chạy đi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The next day , her eyes were swollen like a walnut .</s>
+<s id='vn21'>Ngày hôm sau , mắt cô ấy sưng to lên như hạt dẻ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I purposely did n't want to think about what causes her to cry but laugh at her the whole day .</s>
+<s id='vn22'>Tôi cố tình không muốn biết tại sao cô ấy khóc mà chỉ chọc cô ấy suốt cả ngày .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>When everybody went back home , she was alone crying in the classroom .</s>
+<s id='vn23'>Khi mọi người về hết , cô ấy ngồi khóc một mình trong lớp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>She did n't know that I returned from soccer training to get something .</s>
+<s id='vn24'>Cô ấy không biết là tôi từ chỗ tập bóng đá trở về lấy đồ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>I watched her cry for an hour or so .</s>
+<s id='vn25'>Tôi đã nhìn cô ấy khóc hơn một tiếng đồng hồ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>My 4th girlfriend did n't like her .</s>
+<s id='vn26'>Người bạn gái thứ tư của tôi không thích cô ấy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>There was once when both of them quarreled .</s>
+<s id='vn27'>Có lần hai người đã cãi nhau .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I know that based on her character she 's not the type that will start off the quarrel .</s>
+<s id='vn28'>Tôi biết tính của cô ấy chắc chắn chẳng phải là người thích gây chuyện .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>But I still sided with my girlfriend .</s>
+<s id='vn29'>Nhưng dù sao thì tôi vẫn đứng về phe của bạn gái mình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I shouted at her and her eyes were filled with shocking sad tears .</s>
+<s id='vn30'>Tôi đã quát mắng và cô ấy nhìn tôi bằng đôi mắt ngấn lệ đầy căm phẫn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>I did n't care about her feelings and walked off with my girlfriend .</s>
+<s id='vn31'>Tôi chẳng màng cô ấy nghĩ gì và dắt bạn gái mình bỏ đi .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The next day , she still laughed joked with me like nothing has ever happened .</s>
+<s id='vn32'>Ngày hôm sau , cô ấy vẫn cười giỡn với tôi như chẳng có chuyện gì xảy ra .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>I know that she 's very hurt but she did n't know that my heartache is as bad as hers .</s>
+<s id='vn33'>Tôi biết cô ấy bị tổn thương nhiều nhưng cô ấy đâu biết rằng trái tim tôi cũng đau như cô ấy vậy .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>When I broke up with my 5th girlfriend , I asked her out .</s>
+<s id='vn34'>Khi chia tay với người bạn gái thứ năm thì tôi hẹn hò với cô ấy .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>After going out for a day , I told her that I have something to tell her .</s>
+<s id='vn35'>Đi chơi được một ngày thì tôi bảo rằng có chuyện muốn kể cho cô ấy nghe .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>She told me that coincidentally , she has something to tell me too .</s>
+<s id='vn36'>Cô ấy nhìn tôi và trùng khớp là cũng có chuyện muốn nói với tôi .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I told her about my break up and she told me about her getting together .</s>
+<s id='vn37'>Tôi kể cho cô ấy nghe việc tôi chia tay và cô ấy nói cho tôi hay là cô ấy bắt đầu quen người con trai khác .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>I know who 's the guy .</s>
+<s id='vn38'>Tôi biết người đó là ai .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>He has been going after her for quite a while .</s>
+<s id='vn39'>Người đó đã theo đuổi cô ấy một thời gian dài .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>A very cute guy , full of energy , is lively .</s>
+<s id='vn40'>Một người con trai rất dễ thương , năng động và đầy sức sống .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>His pursuit for her has been the talk of the school .</s>
+<s id='vn41'>Việc người đó thích cô ấy đã được bàn tán trong trường một thời gian dài .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>I ca n't show her my heartache but could only smile congratulate her .</s>
+<s id='vn42'>Tôi không thể cho cô ấy biết là tôi đang đau khổ , tôi chỉ cười và chúc mừng cô ấy .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>When I reached home , the heartache is so strong that I ca n't stand it .</s>
+<s id='vn43'>Khi tôi về tới nhà , tôi đau khổ đến nỗi không thể chịu đựng nữa .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>It 's like a heavy weighted stone on my chest .</s>
+<s id='vn44'>Nó giống như có một tảng đá đè nặng lên ngực mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>I could n't breath.Wanted to shout but ca n't .</s>
+<s id='vn45'>Tôi không thở nổi , muốn hét thật to nhưng không thể .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Tears rolled down I broke down cry .</s>
+<s id='vn46'>Nước mắt rơi xuống , tôi gục ngã và khóc .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>How many times have I seen her cry for the man that does n't acknowledge her presence too ?</s>
+<s id='vn47'>Đã bao nhiêu lần tôi nhìn thấy cô ấy khóc vì một người đàn ông cũng không chịu hiểu cho cảm giác của cô ấy ?</s>
+</spair>
+<spair id='48'>
+<s id='en48'>I read a SMS which was sent 10 days ago .</s>
+<s id='vn48'>Tôi đã đọc tin nhắn gởi cho mình cách đó 10 ngày .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" Leaf departure is because of Wind pursuit , or because Tree did n't ask her to stay "</s>
+<s id='vn49'>" Lá rời cây là vì gió cuốn đi hay là vì cây không giữ lá lại "</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Leaf</s>
+<s id='vn50'>Lá</s>
+</spair>
+<spair id='51'>
+<s id='en51'>During Pre-U days , I like to collect leaves .</s>
+<s id='vn51'>Suốt thời còn học dự bị đại học , tôi rất thích đi nhặt lá .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Why ?</s>
+<s id='vn52'>Tại sao ư ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Because I felt that for a leaf to leave the tree she has been relying on for so long it takes a lot of courage .</s>
+<s id='vn53'>Vì tôi thấy phải rất can đảm thì một chiếc lá mới có thể lìa khỏi thân cây nơi mà nó sống nương tựa một thời gian dài như vậy .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>During the 3 years of Pre-U , I was on very close terms with a guy .</s>
+<s id='vn54'>Suốt 3 năm dự bị đại học , tôi rất thân với một người con trai .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Not " B-G Relationship " kind but as buddy kind .</s>
+<s id='vn55'>Không phải là bạn trai đâu … chỉ là bạn bè thôi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>But when he had his 1st girlfriend , I learnt a feeling I never should have learnt - Jealousy .</s>
+<s id='vn56'>Khi anh ấy có bạn gái đầu tiên thì tôi biết rằng trong tôi đã phát sinh một thứ cảm giác mà lẽ ra không nên có – đó là lòng ghen tị .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The sourness in the heart ca n't be described by using a lemon .</s>
+<s id='vn57'>Nỗi cay đắng đó không thể diễn tả bằng lời .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Sourness to the extreme limit .</s>
+<s id='vn58'>Giống như là cực đỉnh của đau khổ vậy .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>They were only together for 2 months .</s>
+<s id='vn59'>Nhưng sau đó 2 tháng thì họ chia tay .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>When they broke up , I hide my strong sense of happiness .</s>
+<s id='vn60'>Tôi cố giấu đi nỗi vui mừng khôn xiết của mìn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>But after a month , he got together with another gal .</s>
+<s id='vn61'>Nhưng một tháng sau thì anh ấy lại quen tiếp một người con gái khác .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>I like him I know he like me .</s>
+<s id='vn62'>Tôi thích anh ấy và tôi biết rằng anh ấy cũng thích tôi .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>But why wo n't he pursue me ?</s>
+<s id='vn63'>Nhưng tại sao anh ấy lại chẳng hề đeo đuổi tôi ?</s>
+</spair>
+<spair id='64'>
+<s id='en64'>He loves me why he does n't want to make the first move ?</s>
+<s id='vn64'>Anh ấy yêu tôi thế thì tại sao không muốn có một tình yêu đầu tiên nhỉ ?</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Whenever he had a new girlfriend , my heart would hurt .</s>
+<s id='vn65'>Mỗi lần anh ấy có bạn gái mới là một lần tim tôi đau nhói .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Time after time , my heart was hurt .</s>
+<s id='vn66'>Thời gian trôi qua , tim tôi đã vì anh ấy mà tổn thương rất nhiều .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>I begin to suspect that this is a one sided love .</s>
+<s id='vn67'>Tôi bắt đầu tin rằng đây chỉ là tình cảm đơn phương của mình tôi mà thôi .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>If he does n't like me , why does he treat me so well ?</s>
+<s id='vn68'>Nhưng nếu anh ấy không thích tôi thì tại sao lại đối xử tốt với tôi như vậy .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>It 's beyond what you will normally do for a friend .</s>
+<s id='vn69'>Nó khác xa với việc anh ấy làm vì tình bạn .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Liking a person is very heart wrenching .</s>
+<s id='vn70'>Thích một người sao mà khổ như vậy .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>I can know his likes , his habits .</s>
+<s id='vn71'>Tôi có thể biết anh ấy thích gì , biết sở thích của anh ấy , .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>But his feelings towards me I can never figure out .</s>
+<s id='vn72'>Nhưng tình cảm anh ấy dành cho tôi thì tôi không thể hiểu được và tôi cũng không thể nào mở lời được .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Despite that , I still want to be by his side .</s>
+<s id='vn73'>Trừ việc đó ra , tôi vẫn muốn được ở bên cạnh anh ấy .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Care for him , accompany him , and love him .</s>
+<s id='vn74'>Quan tâm anh ấy , chăm sóc anh ấy và yêu anh ấy .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Hoping that one fine day , he will come love me .</s>
+<s id='vn75'>Hi vọng một ngày đẹp trời nào đó anh ấy sẽ thay đổi và yêu tôi .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>It 's like waiting for his phone call every night , wanting him to send me sms .</s>
+<s id='vn76'>Kiểu như đợi điện thọai của anh ấy mỗi đêm , muốn anh ấy gửi tin nhắn cho mình .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>I know that no matter how busy he is , he will make time for me .</s>
+<s id='vn77'>Tôi biết cho dù anh ấy bận thế nào , anh ấy cũng sẽ dành thời gian cho tôi .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Because of this , I waited for him .</s>
+<s id='vn78'>Bởi vì như vậy nên tôi đã chờ anh ấy .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The 3 years were the hardest to go through I really want to give up .</s>
+<s id='vn79'>3 năm là khoảng thời gian khó nhọc nhất trôi qua và nhiều lúc tôi cũng nghĩ đến chuyện bỏ cuộc .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Sometimes , I wonder should I continue waiting .</s>
+<s id='vn80'>Thỉnh thoảng , tôi tự hỏi liệu tôi có nên tiếp tục đợi chờ hay không ? .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>The pain and hurt , the dilemma accompanied me for 3 years .</s>
+<s id='vn81'>Nỗi đau , sự tổn thương và nỗi ám ảnh đã theo tôi suốt 3 năm.Cho .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Till the end of my 3rd year , a 2nd year junior begins to go after me .</s>
+<s id='vn82'>đến khi tôi học đại học năm thứ ba , một chàng trai nhỏ hơn tôi một cấp đã công khai theo đuổi tôi .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Everyday he pursuit me relentlessly .</s>
+<s id='vn83'>Mỗi ngày anh ấy đều theo đuổi tôi .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>He 's like a warm gentle wind , trying to blow a leaf away from the tree .</s>
+<s id='vn84'>Anh ấy như một cơn gió , cố thổi một chiếc lá lìa khỏi cành cây mà nó dựa dẫm .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>From outright rejection to a point in time when I felt that I 'm willing to let him have a small footing in my heart .</s>
+<s id='vn85'>Ban đầu tôi thấy hơi khó chịu , nhưng dần dần tôi đã dành cho anh ấy một góc nhỏ trong tim mình .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>In the end , I realized that this wind could make me happy .</s>
+<s id='vn86'>Đến cuối cùng , tôi nhận ra rằng cơn gió đó có thể làm tôi hạnh phúc .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>I know this wind will bring me to a better land .</s>
+<s id='vn87'>Tôi biết nó có thể thổi tôi tới một vùng đất tốt đẹp hơn .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Finally I left tree , but the tree only smile did n't ask me to stay .</s>
+<s id='vn88'>Cho nên cuối cùng tôi đã rời cây , nhưng cây chỉ mỉmcười và không hề khuyên tôi ở lại .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>" Leaf departure is because of Wind pursuit .</s>
+<s id='vn89'>" Lá rời cây là vì gió cuốn đi .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Or because… Tree did n't ask her to stay "</s>
+<s id='vn90'>Hay là vì cây không giữ lá lại "</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Wind</s>
+<s id='vn91'>Gió</s>
+</spair>
+<spair id='92'>
+<s id='en92'>I like a gal called leaf .</s>
+<s id='vn92'>Tôi thích một cô gái có tên là Lá .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Because she 's so dependent on tree so I have to be a gust wind .</s>
+<s id='vn93'>Vì cô lúc nào cũng bám vào cây nên tôi phải trở thành một cơn gió mạnh .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>A wind that will blow her away .</s>
+<s id='vn94'>Một cơn gió có thể cuốn cô đi .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>When I first met her , it was a month after I transfered to the new school .</s>
+<s id='vn95'>Lần đầu tiên tôi gặp cô là khoảng một tháng sau khi tôi chuyển trường tới đây .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>I saw a petite person looking at my seniors me playing soccer .</s>
+<s id='vn96'>Tôi nhìn thấy một cô gái nhỏ nhắn hay nhìn đội trưởng và tôi chơi đá bóng .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>During that time , she will always be sitting there .</s>
+<s id='vn97'>Suốt thời gian đó , cô luôn ngồi đó .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Be it alone or with her friends looking at him .</s>
+<s id='vn98'>Một mình hoặc với những người bạn chỉ để nhìn đội trưởng .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>When he talks with gals there 's jealousy in her eyes .</s>
+<s id='vn99'>Khi anh ấy nói chuyện với những cô gái khác thì mắt cô ánh lên niềm ghen tị .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>When he looked at her , there 's a smile in her eyes .</s>
+<s id='vn100'>Nhưng khi anh ấy nhìn cô thì mắt cô cười rạng rỡ .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Looking at her became my habit .</s>
+<s id='vn101'>Ngắm nhìn cô đã trở thành một sở thích của tôi .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Just like she likes to look at him .</s>
+<s id='vn102'>Cũng giống như cô thích nhìn anh ấy vậy .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>One day , she did n't appear .</s>
+<s id='vn103'>Một ngày , cô không xuất hiện nữa .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>I felt something amissed .</s>
+<s id='vn104'>Tôi cảm thấy như có gì đó trống vắng vậy .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>I ca n't explain the feeling except it 's a kind of uneasiness .</s>
+<s id='vn105'>Tôi không thể giải thích nổi cảm giác của mình lúc đó , cảm thấy như là khó chịu lắm vậy , .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>The senior was also not there as well .</s>
+<s id='vn106'>Bữa đó đội trưởng cũng không tới , .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>I went to their classroom , hid outside and saw my senior scolding her .</s>
+<s id='vn107'>Tôi tới lớp của hai người , đứng ở ngoài và nhìn thấyanh ấy đang la mắng cô .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Tears were in her eyes while he left .</s>
+<s id='vn108'>Mắt cô ngân ngấn nước khi anh ta đi .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The next day , I saw her at her usual place , looking at him .</s>
+<s id='vn109'>Ngày hôm sau , tôi thấy cô trở lại bình thường , vẫn ngồi đó và ngắm anh ta .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>I walked over and smiled at her .</s>
+<s id='vn110'>Tôi đi ngang qua cô ấy và cười , .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Took out a note gave to her .</s>
+<s id='vn111'>Tôi viết một lời nhắn và đưa cho cô ấy .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>She was surprised .</s>
+<s id='vn112'>Cô ấy hơi ngạc nhiên .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>She looked at me , smiled accepts the note .</s>
+<s id='vn113'>Cô ấy nhìn tôi , mỉmcuời rồi nhận mảnh giấy .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The next day , she appeared passes me a note and left .</s>
+<s id='vn114'>Ngày hôm sau , cô ấy xuất hiện , đưa tôi mảnh giấy rồi đi .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>" Leaf 's heart is too heavy and wind could n't blow her away .</s>
+<s id='vn115'>" Trái tim của chiếc lá nặng lắm , gió không thể thổi được đâu " .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>It 's not that leaf heart is too heavy .</s>
+<s id='vn116'>" Không phải vì trái tim của chiếc lá quá nặng .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>It because leaf never want to leave tree "</s>
+<s id='vn117'>Bởi vì chiếc lá không muốn lìa khỏi cây thôi . "</s>
+</spair>
+<spair id='118'>
+<s id='en118'>I replied her note with this statement and slowly she started to talk to me accept my presents phone calls .</s>
+<s id='vn118'>Tôi trả lời lời nhắn của cô như vậy và dần dần cô bắt đầu trò chuyện và đã chấp nhận những món quà và điện thọai của tôi .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>I know that the person she loves is not me .</s>
+<s id='vn119'>Tôi biết người cô yêu không phải là tôi .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>But I have this perseverance that one day I will make her like me .</s>
+<s id='vn120'>Nhưng tôi có linh cảm là một ngày nào đó tôi có thể làm cho cô thích tôi .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Within 4 months , I have declared my love for her no less than 20 times .</s>
+<s id='vn121'>Trong vòng 4 tháng , tôi tỏ tình với cô không dưới 20 lần .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Every time , she will divert away from the topic .</s>
+<s id='vn122'>Mỗi lần như vậy , cô đều chuyển đề tài .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>But I never give up .</s>
+<s id='vn123'>Nhưng tôi không bỏ cuộc .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>If I decide I want her to be mine , I will definitely use all means to win her over .</s>
+<s id='vn124'>Nếu tôi đã quyết định muốn có cô , tôi sẽ làm mọi cách để chinh phục .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>I ca n't remember how many times I have declared my love to her .</s>
+<s id='vn125'>Tôi không thể nhớ nổi là tôi đã tỏ tình với cô bao nhiêu lần .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Although I know she will try to divert but I still bear a small ray of hope .</s>
+<s id='vn126'>Mặc dù cô lảng tránh nhưng trong lòng tôi vẫn nuôi hi vọng .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Hoping that she will agree to me my girlfriend .</s>
+<s id='vn127'>Hi vọng một ngày cô sẽ đồng ý làm bạn gái củamình .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>I did n't hear any reply from her over the phone .</s>
+<s id='vn128'>Tôi gọi điện mà cô chẳng hề trả lời .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>I asked ,</s>
+<s id='vn129'>Tôi hỏi ,</s>
+</spair>
+<spair id='130'>
+<s id='en130'>" What are you doing ?</s>
+<s id='vn130'>" Em đang làm gì vậy ?</s>
+</spair>
+<spair id='131'>
+<s id='en131'>How come you did n't want to reply ? "</s>
+<s id='vn131'>Sao em không nói gì hết vậy ? "</s>
+</spair>
+<spair id='132'>
+<s id='en132'>She said , " I 'm nodding my head " .</s>
+<s id='vn132'>" Em đồng ý " .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" Ah ? "</s>
+<s id='vn133'>" Hả ? "</s>
+</spair>
+<spair id='134'>
+<s id='en134'>" I 'm nodding my head " She replied loudly .</s>
+<s id='vn134'>Tôi không tin vào tai mình nữa .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>I hang up the phone , quickly took a taxi and rush to her place press her doorbell.At the moment when she opens the door , I hugged her tightly .</s>
+<s id='vn135'>Cô ấy lặp lại to hơn , " Em đồng ý . " Tôi cúp máy , vội vàng đón taxi đến nhà cô ấy và nhấn chuông cửa . Khi cô ấy vừa ra mở cổng , tôi đã ôm ghì cô ấy vào lòng .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>" Leaf departure is because of Wind pursuit .</s>
+<s id='vn136'>" Lá rời cây là vì gió cuốn đi .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Or because… Tree did n't ask her to stay "</s>
+<s id='vn137'>Hay là vì cây không giữ lá lại "</s>
+</spair>
+</text>
+</doc>

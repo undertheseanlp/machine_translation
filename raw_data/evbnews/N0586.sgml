@@ -1,0 +1,88 @@
+﻿<doc id='N0586'>
+<head>
+<title>SpringSource Updates STS Tool Suite</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>SpringSource Updates STS Tool Suite</s>
+<s id='vn1'>SpringSource Cập nhật Bộ công cụ STS</s>
+</spair>
+<spair id='2'>
+<s id='en2'>SpringSource announces the release of SpringSource Tool Suite 2.0 , a comprehensive environment for building Spring-powered Java applications .</s>
+<s id='vn2'>SprinSource thông báo phát hành Bộ công cụ SpringSource 2.0 , một môi trường toàn diện để xây dựng các ứng dụng Java được hỗ trợ bởi Spring .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>STS 2.0 is an Eclipse-based platform that speeds application development , dictates best practices and assists with solving run-time problems while creating applications .</s>
+<s id='vn3'>STS 2.0 là một nền tảng dựa trên Eclipse để tăng tốc phát triển ứng dụng , các bài thực hành tốt về lệnh và sự hỗ trợ giải quyết các vấn đề biên dịch thực thi trong khi tạo các ứng dụng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>SpringSource on March 17 announced the release of SpringSource Tool Suite 2.0 , " a comprehensive environment for building Spring-powered Java applications " .</s>
+<s id='vn4'>SpringSource đã thông báo phát hành Bộ công cụ SpringSource 2.0 vào ngày 17 tháng 3 , " một môi trường toàn diện để xây dựng các ứng dụng Java được hỗ trợ bởi Spring " .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Shaun Connolly , vice president of product management for SpringSource , said , " STS 2.0 introduces new features and enhancements , including Project Creation Wizards , a rich forms-based Spring Configuration Editor , Spring Configuration Auto-Discovery , Quick Fixes and Quick Assist , Bean Creation Wizards , Namespace Configuration Dialog , and many other visual tools . "</s>
+<s id='vn5'>Shaun Connolly , phó giám đốc điều hành quản lý sản phẩm cho SpringSource cho biết " STS 2.0 đưa vào các tính năng và cải tiến mới , trong đó có Project Creation Wizards một chương trình dựa trên nhiều hình thức phong phú của Spring Configuration Editor , Spring Configuration Auto-Doscovery , Quick Fixes và Quick Assist , Bean Creation Wizards , Namespace Configuration Dialog và nhiều công cụ trực quan khác "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Christian Dupuis , a senior software engineer at SpringSource , said , " Developers rely on STS as an Eclipse-based platform that speeds development , dictates best practices and assists with solving run-time problems while creating applications . "</s>
+<s id='vn6'>Christian Dupuis , một kỹ sư phần mềm cao cấp tại SpringSource cho biết " Người phát triển dựa vào STS như là một nền tảng dựa trên Eclipse để tăng tốc sự phát triển , các bài thực hành tốt về lệnh và sự hỗ trợ giải quyết các vấn đề biên dịch thực thi trong khi tạo các ứng dụng " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The enhancements in STS 2.0 are designed to help make developers more efficient at creating applications and to establish STS as the primary tools environment for building enterprise Spring applications .</s>
+<s id='vn7'>Những cải tiến trong STS 2.0 được thiết kế để giúp đỡ làm cho người phát triển nhiều hiệu quả hơn trong việc tạo ra các ứng dụng và thiết lập STS như là môi trường công cụ chính để xây dựng các ứng dụng Spring trong kinh doanh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The company said in a news release .</s>
+<s id='vn8'>Công ty này phát biểu trong một thông cáo báo chí .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Businesses are aggressively looking for ways to increase productivity and decrease cost and complexity across the application life cycle . "</s>
+<s id='vn9'>" Các doanh nghiệp đang linh hoạt tìm kiếm cách thức để tăng tính hiệu quả , giảm chi phí và tính phức tạp trong suốt vòng đời của ứng dụng . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" SpringSource Tool Suite provides high-productivity tools for building Spring applications that run on application server platforms from SpringSource , IBM , Oracle and JBoss .</s>
+<s id='vn10'>" Bộ công cụ SpringSource cung cấp các công cụ hiệu quả cao để xây dựng các ứng dụng Spring chạy trên các nền tảng máy chủ ứng dụng từ SpringSource , IBM , Oracle và Jboss .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>STS also leads the charge with tools that target lean run-time environments that promote modularity such as the OSGi-based SpringSource dm Server . "</s>
+<s id='vn11'>STS cũng đưa các công cụ mà đích ngắm nghiên về môi trường thực thi để đẩy mạnh tính môđun như các server dựa trên OSGi SpringSource . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Also included in STS 2.0 are " new tools that help visualize , package and deploy truly modular applications onto SpringSource dm Server - the industry 's only application server built from the ground up to support OSGi-based ( Open Services Gateway Initiative ) applications .</s>
+<s id='vn12'>Cũng được bao gồm trong STS 2.0 là " Các công cụ mới giúp cho việc ảo hóa , đóng gói triển khai các ứng dụng môđun đúng đắn trên Server dm SpringSource - chỉ máy chủ ứng dụng công nghiệp được xây dựng từ nền tảng trên để hỗ trợ các ứng dụng dựa trên OSGi ( Open Services Gateway Initiative ) .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>STS 2.0 provides an OSGi console , graphical bundle overview page , visual dependency graph , and the ability to test dependencies and specify bundle deployment order . "</s>
+<s id='vn13'>STS 2.0 cung cấp một trình giao tiếp OSGi , trang tổng quan gói đồ họa , đồ thị phụ thuộc trực quan và khả năng kiểm tra sự phụ thuộc và xác định rõ thứ tự phát triển gói . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>SpringSource said in the release .</s>
+<s id='vn14'>SpringSource cho biết trong bản phát hành này .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Connolly said , " STS 2.0 is a key element in SpringSource 's product line , " which overall is " designed to remove complexity , increase productivity and quality , and accelerate the application life cycle . "</s>
+<s id='vn15'>Connolly nói rằng " STS 2.0 là một yếu tố then chốt trong dòng sản phẩm của SpringSource " mà toàn là " được thết kế để loại bỏ tính phức tạp , tăng tính hiệu quả và chất lượng , gia tăng vòng đời của ứng dụng . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Moreover , " SpringSource 's software is lean , providing the right balance of simplicity and power that developers require , " Connolly said .</s>
+<s id='vn16'>Hơn thế nữa phần mềm của SpringSource nghiên về việc cung cấp sự cân bằng đúng đắn của tính đơn giản và sức mạnh mà người phát triển mong muốn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The company said in its release :</s>
+<s id='vn17'>Công ty này cũng cho biết trong bản phát hành :</s>
+</spair>
+<spair id='18'>
+<s id='en18'>STS 2.0 is available for free download as a 90-day evaluation .</s>
+<s id='vn18'>STS 2.0 có sẵn để tải miễn phí dùng thử trong 90 ngày .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Unlimited access and use of STS 2.0 is included for every SpringSource Enterprise , SpringSource dm Server , and SpringSource tc Server customer .</s>
+<s id='vn19'>Không giới hạn truy cập và sử dụng STS 2.0 được bao gồm trong mỗi bộ SpringSource Enterprise , SpringSource dm Server , và khách hàng của SpringSource tc Server .</s>
+</spair>
+</text>
+</doc>

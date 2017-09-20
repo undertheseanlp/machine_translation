@@ -1,0 +1,120 @@
+﻿<doc id='N0230'>
+<head>
+<title>Eating White Rice Increases Risk of Diabetes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Eating White Rice Increases Risk of Diabetes</s>
+<s id='vn1'>Ăn gạo trắng tăng nguy cơ mắc bệnh tiểu đường</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Rice is an important part of many people 's diets .</s>
+<s id='vn2'>Gạo đóng vai trò quan trọng thực đơn hàng ngày của nhiều người .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Researchers from the Harvard School of Public Health in Massachusetts have released a report about rice .</s>
+<s id='vn3'>Các nhà nghiên cứu của Trường Y tế cộng đồng Havard ở Massachusetts đã đưa ra một báo cáo về gạo .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It shows that eating white rice increases the risk of type two diabetes .</s>
+<s id='vn4'>Nó cho thấy rằng việc ăn gạo trắng tăng nguy cơ mắc bệnh tiểu đường loại 2 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>However , eating brown rice reduces the risk of this disease .</s>
+<s id='vn5'>Tuy nhiên , ăn gạo lức lại giảm nguy cơ của loại bệnh này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The World Health Organization says more than two hundred twenty million people worldwide have diabetes .</s>
+<s id='vn6'>Tổ chức Y tế thế giới cho biết hơn 220 triệu người trên thế giới mắc bệnh tiểu đường .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Type two diabetes results when the body cannot effectively use the sugar it produces .</s>
+<s id='vn7'>Bệnh tiểu đường loại 2 phát sinh do cơ thể không thể hấp thu lượng đường nó tạo ra một cách hiệu quả .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>More than thirty-nine thousand men and one hundred fifty-seven thousand women took part in this study .</s>
+<s id='vn8'>Hơn 39 nghìn nam giới và 157 nghìn nữ giới tham gia vào cuộc nghiên cứu này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>They were asked about their diet and day-to-day activities , as well as any pre-existing diseases .</s>
+<s id='vn9'>Họ được hỏi về chế độ ăn , các hoạt động hàng ngày cũng như bất kỳ loại bệnh nào họ đã từng mắc phải trước đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The study found that the people who ate five or more servings of white rice per week had a seventeen percent increased risk of developing type two diabetes .</s>
+<s id='vn10'>Nghiên cứu cho thấy những người ăn hơn năm bữa gạo trắng một tuần thì nguy cơ mắc bệnh tiểu đường loại 2 sẽ tăng 17% .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But those who ate two or more servings of brown rice a week had an eleven percent reduced risk of getting this disease .</s>
+<s id='vn11'>Còn những người ăn hơn 2 bữa gạo lức một tuần sẽ giảm được 11% nguy cơ mắc chứng bệnh này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Brown rice is the grain in its natural form .</s>
+<s id='vn12'>Gạo lức là loại gạo ở dạng tự nhiên .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>White rice results after it has been refined .</s>
+<s id='vn13'>Gạo trắng là kết quả sau khi được tinh chế .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This involves removing the outer cover , including the husk , bran and germ .</s>
+<s id='vn14'>Nó bao gồm công đoạn loại bỏ lớp vỏ bên ngoài gồm lớp vỏ trấu , cám và mầm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Only the inner white kernel is left .</s>
+<s id='vn15'>Chỉ còn giữ lại hạt gạo trắng bên trong .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>White rice is often enriched to replace some nutrients lost during the refining process .</s>
+<s id='vn16'>Gạo trắng thường được cải thiện để thay thế một số chất dinh dưỡng đã mất trong quá trình tinh lọc .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Qi Sun is the lead writer of this report .</s>
+<s id='vn17'>Qi Sun là tác giả chính của bài báo cáo này .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He says the outer parts of brown rice slow down the work of the body 's digestive enzymes into starch .</s>
+<s id='vn18'>Ông nói rằng các phần bên ngoài của gạo lức làm chậm quá trình chuyển thành tinh bột của những men tiêu hóa trong cơ thể .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This means that the release of sugar into the bloodstream is slower after eating brown rice compared to white rice .</s>
+<s id='vn19'>Điều này có nghĩa là ăn gạo lức sẽ làm chậm quá trình chuyển đường vào máu hơn so với gạo trắng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>A diet of foods that quickly release sugar into the bloodstream has been linked with a greater risk of type two diabetes .</s>
+<s id='vn20'>Một thực đơn các loại thực phẩm cung cấp nhanh chóng lượng đường vào máu có liên quan đến nguy cơ tiểu đường loại hai lớn hơn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The exact reason for this is not known .</s>
+<s id='vn21'>Lí do chính xác thì chưa được tìm thấy .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Doctor Sun says less refined grains have more nutritional value than refined grains .</s>
+<s id='vn22'>Bác sĩ Sun cho biết loại gạo ít được tinh lọc có giá trị dinh dưỡng hơn các loại gạo được tinh lọc .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>He says replacing white rice with whole grains like whole wheat or barley could result in a thirty-six percent lower chance of developing type two diabetes .</s>
+<s id='vn23'>Ông còn nói việc thay thế gạo trắng bằng gạo nguyên chất như là lúa mì hay lúa mạch có thể giảm 36% nguy cơ mắc bệnh tiểu đường loại hai .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He says people should replace white rice and other refined carbohydrates with whole grains whenever possible .</s>
+<s id='vn24'>Ông khuyên mọi người nên thay thế gạo trắng và cacbon hyđrat tinh lọc khác bằng gạo nguyên chất bất cứ khi nào có thể .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>However , brown rice does not last as long as white rice because of the oil-rich layer of bran .</s>
+<s id='vn25'>Tuy nhiên , gạo lức không cung cấp đủ lâu dài bằng gạo trắng vì lớp cám giàu chất dầu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>This makes it less usable in poor communities .</s>
+<s id='vn26'>Nên nó ít được dùng ở các tỉnh nghèo .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The International Rice Research Institute is working to develop kinds of white rice whose starch is released more slowly .</s>
+<s id='vn27'>Viện Nghiên cứu Gạo Quốc tế đang tiến hành để phát triển các loại gạo trắng chứa tinh bột dần dần được đưa ra sử dụng nhiều hơn .</s>
+</spair>
+</text>
+</doc>

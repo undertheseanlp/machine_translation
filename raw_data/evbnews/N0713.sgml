@@ -1,0 +1,140 @@
+﻿<doc id='N0713'>
+<head>
+<title>Open Source Won the Mobile Platform Wars</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Open Source Won the Mobile Platform Wars</s>
+<s id='vn1'>Mã nguồn mở đã chiến thắng cuộc chiến nền tảng di động</s>
+</spair>
+<spair id='2'>
+<s id='en2'>At the Open Source Business Conference 2012 , the president of mobile data synchronization software company Funambol explained how open-source software , such as Google Android , came to dominate the mobile space .</s>
+<s id='vn2'>Tại Hội nghị doanh nghiệp mã nguồn mở 2012 , chủ tịch công ty phần mềm đồng bộ hóa dữ liệu di động Funambol giải thích làm thế nào phần mềm nguồn mở , chẳng hạn như Android của Google đã thống trị thị trường di động .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>SAN FRANCISCO - Open source has become the dominant choice for mobile device operating systems because it 's the best way to bring innovation to this growing market and because wide community support delivers the highest quality software .</s>
+<s id='vn3'>SAN FRANCISCO - Mã nguồn mở đã trở thành sự lựa chọn chiếm ưu thế cho hệ điều hành thiết bị di động bởi vì nó là cách tốt nhất để mang lại sự đổi mới cho thị trường đang phát triển này và bởi vì có sự hỗ trợ từ cộng đồng rộng lớn sẽ đem lại phần mềm chất lượng cao nhất .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The president of Funambol , an open-source mobile software company , said .</s>
+<s id='vn4'>Chủ tịch của Funambol , một công ty phần mềm di động mã nguồn mở đã cho biết .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" On mobile , we won .</s>
+<s id='vn5'>" Trên điện thoại di động , chúng ta đã chiến thắng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There 's just no other way to put it , " said Fabrizio Capobianco , president and co-founder of Funambol at the Open Source Business Conference ( OSBC ) 2012 here .</s>
+<s id='vn6'>Không còn cách nào khác để thay thế nó , " Fabrizio Capobianco , chủ tịch và đồng sáng lập của Funambol phát biểu tại Hội nghị Doanh nghiệp Mã nguồn Mở ( OSBC ) 2012 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Funambol is a provider of open-source software to sync data from a variety of end-point devices running any number of operating systems .</s>
+<s id='vn7'>Funambol là một nhà cung cấp phần mềm mã nguồn mở để đồng bộ dữ liệu từ một loạt các thiết bị đầu cuối bị chạy bất kỳ hệ điều hành nào .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The conference covered open-source developments in some of the fastest-growing markets in IT , namely big data , cloud computing and mobile .</s>
+<s id='vn8'>Hội nghị bao gồm phát triển mã nguồn mở ở một số thị trường phát triển nhanh nhất trong lĩnh vực CNTT , cụ thể là dữ liệu lớn , điện toán đám mây và di động .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>On May 21 , Microsoft and SUSE jointly announced at the conference a product that integrates SUSE Manager and Microsoft 's System Center to enable concurrent management of Linux and Windows server environments .</s>
+<s id='vn9'>Ngày 21 tháng 5 , Microsoft và SUSE cùng nhau công bố tại hội nghị này một sản phẩm tích hợp SUSE Manager và System Center của Microsoft để cho phép quản lý đồng thời trên môi trường máy chủ Linux và Windows .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Increasingly , enterprises are investing in mobile technology because workers are demanding it so that they can stay connected with colleagues , customers and partners wherever they are .</s>
+<s id='vn10'>Ngày càng nhiều doanh nghiệp đang đầu tư vào công nghệ di động vì người lao động yêu cầu để họ có thể kết nối với các đồng nghiệp , khách hàng và các đối tác ở bất cứ nơi đâu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Capobianco traced the history of open-source mobile technology over the last decade and cited recently released Gartner research that shows the Google Android OS captured 56.1 percent of the global smartphone market in the first quarter of 2012 , up from 36.4 percent in the first quarter of 2011 .</s>
+<s id='vn11'>Capobianco mô tả lại lịch sử của công nghệ di động mã nguồn mở trong thập kỷ qua và trích dẫn nghiên cứu của Gartner được phát hành gần đây cho thấy hệ điều hành Google Android chiếm 56.1% thị trường điện thoại thông minh toàn cầu trong quý đầu tiên của năm 2012 , tăng từ 36.4% trong quý đầu tiên của năm 2011 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It was followed by Apple 's proprietary iOS platform with a 23 percent share , the open-source Symbian OS from Nokia at 8.6 percent and the proprietary BlackBerry OS from Research In Motion at 6.9 percent .</s>
+<s id='vn12'>Tiếp đó là nền tảng iOS độc quyền của Apple với thị phần 23% , hệ điều hành mã nguồn mở Symbian của Nokia ở mức 8,6% và hệ điều hành BlackBerry độc quyền của Research In Motion là 6,9% .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Android was the product of a startup in 2003 that was acquired by Google in 2005 .</s>
+<s id='vn13'>Android là sản phẩm ra mắt vào năm 2003 mà đã được mua lại bởi Google vào năm 2005 .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Google released Android as open source in 2007 , and the first Android-based smartphones went on sale in 2008 .</s>
+<s id='vn14'>Google phát hành Android như phần mềm mã nguồn mở trong năm 2007 , và chiếc điện thoại thông minh dựa trên Android đầu tiên đã được bán trong năm 2008 .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" The reason why open source wins is the quality , " Capobianco said .</s>
+<s id='vn15'>" Lý do tại sao mã nguồn mở thắng chính là chất lượng , " Capobianco cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Open source will apply to mobile better than in any market we have ever seen because mobile is complex and complexity is where open source thrives . "</s>
+<s id='vn16'>" Mã nguồn mở sẽ áp dụng cho điện thoại di động tốt hơn ở bất kỳ thị trường chúng tôi đã từng biết , vì điện thoại di động phức tạp và tính phức tạp là nơi mà mã nguồn mở phát triển mạnh . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Open Source Won the Mobile Platform Wars , Industry Executive Claims - The Reason Open Source Wins Is the Quality</s>
+<s id='vn17'>Mã nguồn mở đã chiến thắng cuộc chiến nền tảng di động , Các nhà lãnh đạo ngành công nghiệp tuyên bố - Lý do mã nguồn mở Thắng chính là chất lượng</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The complexity stems in part from the wide variation in the design and capabilities of mobile devices , particularly smartphones and tablets , as well as the differences in the capabilities of carrier networks worldwide , he said .</s>
+<s id='vn18'>Tính phức tạp bắt nguồn một phần từ sự khác biệt lớn trong việc thiết kế và khả năng của các thiết bị di động , đặc biệt là điện thoại thông minh và máy tính bảng cũng như sự khác biệt trong khả năng của các nhà mạng trên toàn thế giới , ông nói .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The belief in the quality of open source was revealed in a survey of vendors and nonvendors that was released by OSBC at the conference .</s>
+<s id='vn19'>Sự tin tưởng vào chất lượng của nguồn mở đã được tiết lộ trong một cuộc khảo sát của các nhà cung cấp và phi cung cấp đã được phát hành bởi OSBC tại hội nghị này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It listed quality as one of the top three advantages of using open source , along with lower costs and freedom from vendor lock-in with a proprietary product .</s>
+<s id='vn20'>Nó liệt kê chất lượng là một trong ba ưu điểm hàng đầu của việc sử dụng mã nguồn mở , cùng với chi phí thấp hơn và thoát khỏi sự độc quyền sản phẩm từ nhà cung cấp .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>It used to be that quality was cited as a risk factor in arguments against going open source .</s>
+<s id='vn21'>Thường thì chất lượng được xem như là một nhân tố rủi ro trong lập luận chống lại đi mã nguồn mở .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Obviously , we 've seen the maturity of projects , but also people are much more trusting of the open-source development model and that it can produce good code because they 've seen that it produces good code , " Matt Aslett , a research manager in the data management and data analytics space at 451 Research Group , said in an interview at the OSBC .</s>
+<s id='vn22'>" Rõ ràng , chúng tôi đã nhìn thấy sự trưởng thành của các dự án , nhưng cũng có người tin tưởng hơn về mô hình phát triển mã nguồn mở và nó có thể tạo ra mã nguồn tốt bởi vì họ đã nhìn thấy rằng nó tạo ra mã tốt " , Matt Aslett , một nhà quản lý nghiên cứu trong lĩnh vực phân tích và quản lý dữ liệu 451 Research Group cho biết trong một cuộc phỏng vấn tại OSBC .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Capobianco cited other examples of mobile operating systems that started out as proprietary but converted to open source .</s>
+<s id='vn23'>Capobianco trích dẫn ví dụ khác của hệ điều hành điện thoại di động ban đầu là độc quyền , nhưng chuyển đổi sang nguồn mở .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Nokia released its Symbian operating system as open source in 2008 , and Hewlett-Packard open-sourced in 2011 the webOS mobile platform that it acquired with its buyout of Palm a year earlier .</s>
+<s id='vn24'>Nokia phát hành hệ điều hành Symbian dưới dạng mã nguồn mở trong năm 2008 , và Hewlett-Packard cũng mở mã nguồn nền tảng di động web OS năm 2011 khi mua lại của Palm cùng kỳ năm trước .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Those two OSes did n't fare too well , however , as Nokia announced in 2011 that it was abandoning Symbian in favor of using Microsoft 's Windows Phone 7 OS in its products going forward .</s>
+<s id='vn25'>Tuy nhiên Hai hệ điều hành này không phải là sản phẩm quá tốt , Nokia đã tuyên bố vào năm 2011 rằng họ từ bỏ Symbian ủng hộ việc sử dụng hệ điều hành Windows Phone 7 của Microsoft trong các sản phẩm tiếp theo của họ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Then HP withdrew from the smartphone and tablet markets altogether that same year , though it will still develop the operating system for use in other devices .</s>
+<s id='vn26'>Sau đó , HP hoàn toàn rút khỏi thị trường điện thoại thông minh và máy tính bảng trong cùng năm đó , mặc dù họ vẫn sẽ phát triển hệ điều hành để sử dụng trong các thiết bị khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Also important to open-source mobile development was the decision by Sun Microsystems in 2006 to open source its Java programming language , opening the door for developers to create mobile applications using a variation of Java called Java ME ( for Mobile Edition ) .</s>
+<s id='vn27'>Cũng quan trọng đối với việc phát triển điện thoại di động mã nguồn mở đó là quyết định bởi công ty Sun Microsystems vào năm 2006 khi họ mở mã nguồn ngôn ngữ lập trình Java , điều này mở ra cánh cửa cho các nhà phát triển để tạo ra các ứng dụng di động bằng cách sử dụng một biến thể của Java được gọi là Java ME ( phiên bản dành cho điện thoại di động ) .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>To be sure , Capobianco had to give a tip of the hat to Apple , which released the iPhone in 2007 .</s>
+<s id='vn28'>Để chắc chắn , Capobianco phải ngã mũ thán phục Apple về việc họ phát hành iPhone vào năm 2007 .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>While iOS is proprietary , iPhone stimulated the mobile application industry in a way previous mobile platforms had not .</s>
+<s id='vn29'>Trong khi iOS độc quyền , iPhone đã kích thích ngành công nghiệp ứng dụng di động theo một cách mà các nền tảng di động trước đó không hề có .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>In retrospect , everything in mobile history before June 29 , 2007 , when the iPhone first went on sale , was " pre-iPhone " and everything since is " post-iPhone , " he said .</s>
+<s id='vn30'>Quay trở lại , tất cả mọi thứ trong lịch sử điện thoại di động trước ngày 29 tháng 6 năm 2007 , khi iPhone đầu tiên được bán là " tiền-iPhone " và tất cả mọi thứ kể từ sau đó là " hậu-iPhone " , ông nói .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>At the time , however , Apple faced criticism from the Free Software Foundation for the closed and restricted design of the iPhone .</s>
+<s id='vn31'>Tuy nhiên vào thời điểm đó , Apple phải đối mặt với chỉ trích từ các tổ chức phần mềm miễn phí vì thiết kế khép kín và bị hạn chế của iPhone .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>While wildly popular with customers and immensely profitable for Apple , iOS penetration still pales in contrast to the overall market share of Android on mobile devices , Capobianco noted .</s>
+<s id='vn32'>Trong khi nó cực kỳ phổ biến với người dùng và mang lại lợi nhuận vô cùng lớn cho Apple , sự thâm nhập của iOS vẫn còn mờ nhạt trong sự tương phản với thị phần tổng thể của Android trên các thiết bị di động , Capobianco lưu ý .</s>
+</spair>
+</text>
+</doc>

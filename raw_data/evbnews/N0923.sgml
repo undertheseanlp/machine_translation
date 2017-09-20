@@ -1,0 +1,344 @@
+﻿<doc id='N0923'>
+<head>
+<title>20 . Travelwise : The world 's many cups of coffee</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>20 . Travelwise : The world 's many cups of coffee</s>
+<s id='vn1'>20 . Chuyên mục Travelwise : các loại cafe trên thế giới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Coffee , the wonderfully aromatic conduit for the world 's most popular drug -- caffeine -- began its spread from Ethiopia in the 15th Century and never stopped .</s>
+<s id='vn2'>Cafe , loại thức uống tuyệt hảo dẫn nguồn cho cafein - thứ chất gây nghiện phổ biến nhất thế giới đã bắt đầu lan tràn khắp Ethiopia từ kỷ 15 và không hề có dấu hiệu ngừng lại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Providing the Arab world with an alternative to alcohol , it gave rise to a coffeehouse culture that revolved around stimulating intellectual conversation and the exchange of new ideas .</s>
+<s id='vn3'>Cung cấp cho thế của người A-rập một thức uống thay thế cho rượu , cafe đã phát triển mạnh thành một nền văn hóa mà trọng tâm là xoay tròn quanh những cuộc trò chuyện mang tính trí tuệ và sự trao đổi những ý tưởng mới .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Then in Europe during the 18th-century Age of Enlightenment , coffeehouses simultaneously became places for playing chess , political strategizing , talking business and socializing , wrote Tom Standage in his book A History of the World in Six Glasses .</s>
+<s id='vn4'>Sau đó là xuyên suốt thế kỷ 18 ở Châu Âu - kỷ nguyên của văn minh khai sáng , những quán cafe đồng loạt trở thành những đia điểm để chơi cờ , xây dựng chiến lược chính trị , bàn luận chuyện kinh doanh và xã hội - Tom Standage , viết trong cuốn " Lịch sử thế giới trong sáu chiếc ly " ,</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Today , coffee is enjoyed all over the world , with Finland ( surprisingly ) consuming more than any other country – imbibing 608.2 litresofcoffeepercapita .</s>
+<s id='vn5'>Ngày nay , cafe là được ưa chuộng trên toàn thế giới , Phần Lan ( thật kinh ngạc ) - tiêu thụ nhiều hơn bất kì một quốc gia nào - trung bình khoảng 608,2 lít / người .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The beans</s>
+<s id='vn6'>Hạt cafe</s>
+</spair>
+<spair id='7'>
+<s id='en7'>After oil , coffee is the most valuable commodity exported by developing countries , according to the WorldBank .</s>
+<s id='vn7'>Theo Ngân Hàng thế giới , cafe , chỉ đứng sau dầu , đang trở thành mặt hàng xuất khẩu giá trị nhất tại các quốc gia đang phát triển .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Yet , the farmers growing the cafe are left with only 10 % of the $ 80 billion that the industry rakes in annually .</s>
+<s id='vn8'>Tuy nhiện , những người nông dân trồng cafe chỉ được hưởng 10% trong 80 tỷ đô mà quốc gia đạt được hàng năm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The average coffee farmer makes as 15 cents per pound sold , and coffee bean pickers make as little as four cents per pound .</s>
+<s id='vn9'>Trung bình những người dân trồng cafe chỉ được hưởng 15 cent cho mỗi pound café được bán ra , và những người thu mua cafe cũng kiếm được chỉ khoảng 4 cent cho mỗi pound café đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In an effort to combat this , a movement to institutionalize the fair trade of coffee began in 1988 in the Netherlands .</s>
+<s id='vn10'>Trong một nỗ lực chống lại điều này , một sự phong trào thể chế hóa thương mại công bằng đối với cafe đã bắt đầu năm 1988 ở Hà Lan .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Fair trade certification seeks to ensure fair labour conditions , a reasonable price , environmental sustainability , direct trade , transparency and support for community development .</s>
+<s id='vn11'>Giấy chứng nhận về thương mại công bằng đã tìm kiếm sự đảm bảo những điều kiện làm việc công bằng , một giá cả hợp lý , sự bền vững của môi trường , thương mại trực tiếp , minh bạch và hỗ trợ cho sự phát triển của cộng đồng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Although fair trade coffee makes up only a tiny percentage of the global supply , it is grown in countries Africa , Central and South America , Oceania and Asia , and is becoming easier to find in metropolitan area coffee shops .</s>
+<s id='vn12'>Mặc dù thương mại công bằng cafe chỉ chiếm một phần trăm nhỏ của cung ứng toàn cầu , nó được phát triển ở các nước Châu Phi , Trung và Mỹ , Châu đại dương và Châu Á , đang ngày càng trở nên dễ dàng hơn để tìm kiếm những cửa hàng cafe ở những trung tâm lớn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Coffee connoisseurs say that well-crafted coffee exhibits " terroir " , meaning that it tastes like the place it comes from .</s>
+<s id='vn13'>Những người sành cafe nói rằng cafe ngon rất dễ nhận biết theo vùng , có nghĩa là nó sẽ mang hương vị đặc thù từ nơi tạo thành nó .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>According to the experts , some Kenyan coffees are dry with berry notes and acidic brightness , while coffees from South America 's Andes Mountains may be smooth and sweet , full of sugar cane flavours .</s>
+<s id='vn14'>Theo ý kiến của những chuyên gia , cafe Kenia có vị đắng , hơi khô và phảng phất hương quả mọng , trong khi cafe của Vùng núi Andres Mỹ có vị thanh và ngọt , đậm vị ngọt của mía .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Brazil , which pumps out a third of the world 's coffee , is known for its low-acidity coffee , which makes it a prime candidate for blends , wrote Kevin Sinnott in his book The Art and Craft of Coffee .</s>
+<s id='vn15'>Kevin Sinnott trong cuốn " Nghệ thuật và thưởng thức cafe " đã viết : Brazil , đất nước đóng góp vào 1/3 sản lượng cafe thế giới , được biết đến với cafe có độ chua thấp , điều khiến nó nằm trong top dẫn đầu về hương vị .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Coffee beans from Yemen , he said , are both balanced and complex in flavour and tend to blend well with beans from Java or Sumatra .</s>
+<s id='vn16'>Cafe hạt của Yemen , ông cho biết , đều cân bằng và có xu hướng pha trộn tốt với hạt cafe ở Java và Sumatra .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The brew</s>
+<s id='vn17'>Sự ủ cafe</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Coffee is made by roasting the seeds of a coffee plant , grinding them and brewing the resulting grounds using a number of methods .</s>
+<s id='vn18'>Cafe được tạo ra bằng cách rang hạt , nghiền nhỏ và ủ bột , sử dụng một số phương pháp .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In Turkey , coffee is brewed by boiling finely ground coffee in a copper pot called an ibrik , while in Italy , espresso is " pressure-brewed " in about 30 seconds ( either in an electricmachine or in a stovetoppot ) by pushing nearly boiling water through very tightly packed grounds .</s>
+<s id='vn19'>Ở Thổ Nhĩ Kỳ , cafe được ủ bằng cách đun thật sôi cafe bột trong một cái thau đồng được gọi là ibirik , trong khi ở Ý , espresso chính là " ủ dưới áp suất cao " trong khoảng 30 giây ( hoặc trong máy điện hoặc ở trong một cái lò ) bằng cách cho nước sôi đi qua rất nhanh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In France , coarsely ground coffee is combined with boiling water in the country 's national coffee pot , the French press -- a device with a plunger that is pushed down post-brewing to separate the grounds from the resulting coffee .</s>
+<s id='vn20'>Ở Pháp , bột thô cafe được kết hợp với nước sôi ở thau ủ truyền thống của nơi này , máy nén kiểu Pháp — một loại dụng cụ có pit tông được đẩy xuống sau khi ủ để phân tách những chất lắng từ quá trình làm cafe .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Although they did not yet have the press when the French colonized Vietnam in the 1800s , they brought coffee with them , which is why the beverage is now grown and consumed widely in the Southeast Asian country .</s>
+<s id='vn21'>Mặc dù ko có văn bản nào ghi chép lại dân Pháp đã mua cafe khi xâm chiểm Việt Nam vào những 1800 , nhưng điều đó dường như đã giải thích tại sao tỷ lệ cafe bây giờ tăng nhanh và được tiêu thụ rộng rãi ở những quốc gia Đông Nam Á .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Vietnamese coffee is brewed in single servings , using a small metal drip filter that sits atop the coffee cup .</s>
+<s id='vn22'>Cafe Việt Nam được pha bằng cách sử dụng một phin nhôm đặt phía trên miệng cốc , rồi lọc nhỏ giọt từ từ xuống .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Japan has become famous for its iced coffee , which is made by brewing hot coffee and instantly chilling it .</s>
+<s id='vn23'>Nhật bản nổi tiếng với cafe đá , được tạo bởi sự ủ cafe nóng và liên tục được làm lạnh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Coffee grounds are first put into a filter , which is placed over an ice-filled serving pot .</s>
+<s id='vn24'>Đầu tiên cafe bột được đặt vào bình lọc , được đặt trên một cái bình lọc đựng đá .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Then boiling water is poured over the grounds , so that as the coffee drips , it immediately begins to cool .</s>
+<s id='vn25'>Sau đó nước sôi được đổ lên bề mặt cafe , để khi hạt cafe nhỏ giọt , nó lập tức ấm lại .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Proponentsofthismethod say it locks in aromatics and keeps out oxygen , resulting in a sweeter , less harsh cup of coffee .</s>
+<s id='vn26'>Người đề xuất ra phương án này cho biết như thế sẽ giữ được mùi hương và tránh tiếp xúc với oxi , kết quả , ta sẽ được vị cafe ngọt và bớt gắt hơn</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The drinks</s>
+<s id='vn27'>Đồ uống</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Turkey</s>
+<s id='vn28'>Thổ Nhĩ Kỳ</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Coffee has been central to Turkish culture since the first coffeehouses in the 1500s .</s>
+<s id='vn29'>Cafe trở thành tâm điểm văn hóa của người Thổ Nhỉ Kì kể từ khi những quán cafe xuất hiện những năm 1500 .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The Turkish word for breakfast , kahvalt# , means " before coffee " , giving some insight into when locals take their first cup of the day .</s>
+<s id='vn30'>Vào bữa sáng , ngôn ngữ ở đây có từ Kahvalti , có nghĩa là " trước khi uống cafe " , nó giúp ta có cái nhìn sâu sắc hơn về thời gian dùng cafe trong ngày của người dân bản địa .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Turkish coffee , which is served in small cups where the grounds settle at the bottom , is very thick , dark , strong and sweet .</s>
+<s id='vn31'>Cafe Thổ Nhĩ kì , thứ đồ uống mà được phục vụ trong môt cái cốc nhỏ chứa những hạt bột còn lắng dưới đáy , đậm đặc , có màu đen , mạnh và rất ngọt .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Plenty of sugar and sometimes spices like cardamom and chicory are added to produce a rich , dessert-like treat .</s>
+<s id='vn32'>Một chút đường , một vài lát bạch đầu khẩu và rau diếp xoăn thêm vào để làm ra một thức uống đậm đà , như một món tráng miệng trong tiệc vậy .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>One tradition that has been passed down through the generations is coffee for tune-telling .</s>
+<s id='vn33'>Một loại cafe truyền thống được lưu truyền từ thế hệ này sang thế hệ khác là " cafe số mệnh " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>After a guest finishes his or her coffee , a host may turn the cup upside down , allow the grounds to cool and then tell a fortune by reading the grounds .</s>
+<s id='vn34'>Sau khi một vị khách uống hết ly cafe của mình , người chủ tiệc sẽ úp chiếc cốc xuống , để những hạt bột khô lại và sau đó phán về số mệnh của người đó qua những hạt bột .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Italy</s>
+<s id='vn35'>Ý</s>
+</spair>
+<spair id='36'>
+<s id='en36'>In Italy , un caffe is a " shot " of espresso -- an ounce of concentrated coffee .</s>
+<s id='vn36'>Ở Ý , Un cafe là một loại espresso - một ao cafe dạng lỏng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Although Italians drink caffe ( espresso ) all day long , two of the country 's national beverages , cappuccino and caffe latte , are traditionally only consumed in the morning .</s>
+<s id='vn37'>Mặc dù người Ý uống cafe ( espresso ) cả ngày , nhưng hai loại đồ uống phổ biến quốc gia này là cappuchino và latte , đặc biệt chỉ được uống vào buổi sáng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Cappuccino is made with espresso , steamed milk and steamed-milk foam , while caffe latte is made with espresso and steamed milk .</s>
+<s id='vn38'>Cappuchino được làm với espresso , hơi sữa và bọt sữa , trong khi cafe latte được làm cùng với espresso và hơi sữa .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>As travel writer Lee Marshall noted in his " 10 commandments " onItaliancoffeeculture , drinks with milk are not usually taken after meals because " Italians cringe at the thought of all that hot milk hitting a full stomach " .</s>
+<s id='vn39'>Khi vị lữ khách Lee Marshall ghi lại trong 10 yêu cầu trong văn hóa cafe ý , uống cafe cùng với sữa thường không phổ biến bởi sau bữa ăn bởi một phần những người Ý đều nghĩ rằng sữa nóng sẽ gây tác dộng xấu đến một da dày đang no .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Brazil</s>
+<s id='vn40'>Brazil</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Similarly , many Brazilians drink espresso all day long .</s>
+<s id='vn41'>Giống như Ý , người người Braxin uống espresso cả ngày .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Brazil 's version ,cafezinho , is made by mixing hot water , finely ground coffee and sugar , and then straining the mixture through a filter .</s>
+<s id='vn42'>Một loại cafe của Braxin , cafezinho , được tạo ra bằng cách trộn với nước nóng , bột cafe và đường , sau đó lọc hỗn hợp qua bình lọc .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Like Turkish coffee , cafezinho is dark , strong and sweet – but not nearly as thick – and served in small cups .</s>
+<s id='vn43'>Giống như cafe Thổ Nhĩ Kỳ , cafezinho cũng là cafe đen , mạnh , ngọt - nhưng ko hẳn là sền sệt - và được phục vụ trong những chiếc cốc nhỏ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>In South America and Central America , coffee is sometimes brewed using a " sock " filter , a simple cloth pouch that serves as a sieve .</s>
+<s id='vn44'>Ở vùng Bắc Mỹ và Trung Mỹ thỉnh thoảng cafe được ủ bằng bình lọc có miếng lót , một cái túi vài nhỏ mà được phục vụ như một bình lọc cafe</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Vietnam</s>
+<s id='vn45'>Việt Nam</s>
+</spair>
+<spair id='46'>
+<s id='en46'>During the 19th Century , when Vietnam was under French rule , fresh milk was difficult to store , so condensed milk took its place .</s>
+<s id='vn46'>Trong suốt thế kỳ 19 , khi Việt Nam dưới sự cai trị của thực dân Pháp , việc bảo quản sữa tươi rất khó , vì vậy đã được thay thế bằng sữa đặc .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>A delightful indulgence , , called " cà phê sữa đá " , is made by brewing concentrated coffee over condensed milk , stirring it up and pouring it over ice .</s>
+<s id='vn47'>Rất thú vị là , Cafe sữa đá , được làm ra bằng cách ủ nhân cafe với sữa đặc , khuấy lên và đổ qua đá .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>On a hot , humid summer day , it is sweet perfection .</s>
+<s id='vn48'>Vào những ngày nóng bức , có độ ẩm cao , đây là một sự lựa chọn cực kì hoàn hảo .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Thailand</s>
+<s id='vn49'>Thái Lan</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The weather in Thailand also lends itself to cold , sweet , creamy coffee .</s>
+<s id='vn50'>Ở Thái Lan , cafe cũng được thích ứng với thời tiết bằng một vị man mát , ngòn ngọt và ngầy ngậy .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Thai coffee is brewed strong , spiced with chicory and combined with condensed milk and ice .</s>
+<s id='vn51'>Cafe Thái cũng rất mạnh , được thêm những lát cắt của rau diếp xoăn và trộn cùng với sữa đặc và đá .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It is the perfect dessert to follow a spicy Thai meal .</s>
+<s id='vn52'>Nó là một thức uống hoàn hảo cho phần tráng miệng của những bữa ăn cay đậm phong cách Thái .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Vienna</s>
+<s id='vn53'>Viên</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The United Nations includes " Viennese Coffee House Culture " in its National Inventory of Intangible Cultural Heritage for Austria .</s>
+<s id='vn54'>Liên Hợp Quốc đã gộp Văn Hóa cafe Viên trong cùng với di sản văn hóa phi vật thể quốc gia của quốc gia này .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It dates back to the 1600s after the siege of Vienna by the Ottoman Turks .</s>
+<s id='vn55'>Quay trở về những ngày của thế kỉ 1600 khi Áo bị xâm chiếm bởi đế quốc Ottama .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>When the Turks were defeated and driven out , they were said to have left behind sacks of coffee beans .</s>
+<s id='vn56'>Khi bọn đế quốc bị đánh bại và bị hất cẳng , chúng đã để lại một tải toàn những hạt cafe .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Today , Viennese coffeehouses , or kaffeehauser , often stay open from 6 am until midnight , welcoming customers to sit and relax for hours over a wiener mélange : coffee with steamed milk , topped with milk foam .</s>
+<s id='vn57'>Ngày nay , những tiệm caffe của người Áo , hay kaffeehauser , thường xuyên mở cửa từ 6 giờ sáng đến nửa đêm , đón tiếp khách ngồi và thư giãn trong một vài chiều trên một wiener mélange : cafe với sữa , được phủ bởi bọt sữa .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>United States</s>
+<s id='vn58'>Hoa Kỳ</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Coffee has always been popular in the US , in large part because tea was heavily taxed by the British .</s>
+<s id='vn59'>Cafe lúc nào cũng phổ biến của Mỹ bởi hầu hết ở quốc gia này chè đã bị đánh thuế rất nặng bởi người Anh .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But coffee culture became a commercial stronghold when chains such as Peet 'sCoffeeandTea and Starbuckswere founded , in 1966 and 1971 respectively .</s>
+<s id='vn60'>Tuy nhiên văn hóa cafe bị thương mại hóa khi mà chuỗi Cafe và chè Peet và Starbucks được thành lập , năm 1966 và 1971 .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Although drip coffee is ubiquitous throughout the US , the country is often associated with the Americano , which is espresso mixed with hot water .</s>
+<s id='vn61'>Mặc dù cafe phin có ở khắp nơi Mỹ , nhưng quốc gia này lại gắn bó với loại cafe Americano , chính là espresso pha với nước nóng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The drink is said evolved during World War II , when American soldiers stationed in Italy discovered that " coffee " was just a shot of espresso .</s>
+<s id='vn62'>Thứ đồ uống này được đồn thổi là có từ thế chiến thứ 2 , khi quân đội Mỹ đóng bốt ở Ý để tìm hiểu về cafe espresso .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>As the story goes , in order to make the drink more like regular coffee , they added hot water .</s>
+<s id='vn63'>Tiếp sau đó , để làm cho thứ đồ uống này trở nên phổ biến như bây giờ , họ cho thêm nước nóng .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Kenya</s>
+<s id='vn64'>Kenya</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Major coffee producer Kenya has long had a specialised way of drinking coffee .</s>
+<s id='vn65'>Những nhà sản xuất cafe ở Kenya có một cách thức uống cafe rất đặc biệt .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Kahawa chungu , or " bitter coffee " , is a traditional drink made in brass kettles over a charcoal stove and is men , according to Reuters .</s>
+<s id='vn66'>Theo Reutern , Kahawa chungu , hay cafe đắng , là thức uống truyền thống được làm từ nổi thau đặt trên lò than củi và giới mày râu .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>A far more recent phenomenon is the coffeehouse in major cities such as Nairobi .</s>
+<s id='vn67'>Tiệm cafe ngày càng xuất hiện ở những thành phố lơn như Nairobi .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Unfortunately for Kenyans , most of the highest quality coffee produced in their country still gets exported to other parts of the world .</s>
+<s id='vn68'>Thật không may cho người Kenya , hầu hết những sản phẩm cafe chất lượng cao nhất của quốc gia đều được xuất khẩu ra nhưng quốc gia khác trên thế giới .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Travelwise is a BBC Travel column that goes behind the travel stories to answer common questions , satisfy uncommon curiosities and uncover some of the mystery surrounding travel .</s>
+<s id='vn69'>Travelwise : là một kênh thông tin về du lịch của đài BBC mà theo sau những câu chuyện du lịch để trả lời những câu hỏi phổ biến , giải đáp những tò mò khác lạ và không bao gồm trong du lịch .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>If you have a burning travel question , contact Travelwise .</s>
+<s id='vn70'>Nếu bạn có thắc mắc đang nóng lòng cần giải đáp , hãy liên lạc với Travelwise .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>21 . Are these shorts too short ?</s>
+<s id='vn71'>21 . Những cái quần short có quá ngắn ?</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Foreigners told to cover up in UAE</s>
+<s id='vn72'>Mọi người nói rằng người nước ngoài mặc như vậy tại tiểu các Vương quốc Ả-rập thống nhất .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Al Muhairi 's campaign to persuade expats and tourists to dress more modestly began after she and her friend Hanan Al Rayes saw a young woman in shorts that they considered left little to the imagination .</s>
+<s id='vn73'>Chiến dịch Al Muhairi nhằm thuyết phục người nước ngoài và khách du lịch ăn mặc nhã nhặn hơn bắt đầu sau khi cô và bạn Hanan Al Rayes nhìn thấy một người phụ nữ mặc quần ngắn mà theo họ thì ngắn hết mức có thể tưởng tượng .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>She said many people in Dubai Mall were looking at the woman , but no one did anything , so she approached security guards and threatened to call the police.</s>
+<s id='vn74'>Cô nói rằng nhiều người ở phố Dubai đã nhìn thấy người phụ nữ đó , nhưng không ai làm gì cả , nên cô đã tiếp cận nhân viên bảo vệ và đe dọa sẽ gọi cho cảnh sát .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>" We never saw this 10 years ago or even five years ago , " said Al Muhairi , who began her campaign through a hashtag on Twitter .</s>
+<s id='vn75'>Al Muhairi , người bắt đầu chiến dịch thông qua mạng Twitter cho hay : " Chúng tôi chưa bao giờ nhìn thấy điều này trong 10 năm trước thậm chí 5 năm trước " .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>" I 'm only 23 but when I was young it was different , " she added .</s>
+<s id='vn76'>Cô cho biết thêm : " Tôi chỉ mới 23 tuổi nhưng khi tôi còn trẻ điều này hoàn toàn khác .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" I feel sad for the new generations .</s>
+<s id='vn77'>Tôi cảm thấy buồn cho những thế hệ mới .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>My nieces when they go to the mall they think it 's fine to look at people dressed like this .</s>
+<s id='vn78'>Các cháu gái của tôi đến các trung tâm mua sắm và nghĩ rằng nhìn ngắm những người ăn mặc như thế là đúng đắn .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" It makes me sad .</s>
+<s id='vn79'>Điều này khiến tôi cảm thấy buồn .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>In our days people always knew it was wrong .</s>
+<s id='vn80'>Ngày nay mọi người biết rằng điều đó là sai trái .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>It is in our culture and our religion . "</s>
+<s id='vn81'>Đó là nền văn hóa của chúng ta và truyền thống của chúng ta .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>While wearing skimpy clothing is not illegal in the United Arab Emirates , shopping malls have policies that state knees and shoulders should be covered .</s>
+<s id='vn82'>Trong khi ăn mặc hở hang không phải là bất hợp pháp tại tiểu các Vương Quốc Ả Rập , các trung tâm mua sắm có các chính sách nêu rõ phần đầu gối và vai phải được che kín .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>On returning from the mall , Al Muhairi discussed the issue with Al Rayes and wrote a message on Twitter , saying " till when will we keep seeing people going against our rules and showing indecent dresses ? "</s>
+<s id='vn83'>Ngay sau khi trở về từ trung tâm mua sắm , Al Muhairi đã thảo luận vấn đề này với Al Rayes và viết một tin nhắn trên Twitter , nói rằng " cho đến khi nào chúng tôi vẫn còn thấy mọi người đi ngược lại với những quy tắc của chúng tôi và mặc những trang phục không đứng đắn ? " .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,80 @@
+﻿<doc id='N0159'>
+<head>
+<title>Japan earthquake : Foreign evacuations increase</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Japan earthquake : Foreign evacuations increase</s>
+<s id='vn1'>Động đất ở Nhật Bản : việc sơ tán người nước ngoài gia tăng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>As concern grows over Japan 's stricken nuclear power plant , several countries are boosting efforts to evacuate their nationals from the area .</s>
+<s id='vn2'>Trong lúc những lo ngại tăng lên về nhà máy điện hạt nhân bị ảnh hưởng của Nhật , một số quốc gia đang đẩy mạnh nổ lực sơ tán kiều dân của họ ra khỏi khu vực này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The US has told its nationals to stay 50 miles ( 80km ) away from Fukushima and has chartered flights for those wanting to flee the country .</s>
+<s id='vn3'>Hoa Kỳ yêu cầu kiều dân của mình tránh xa Fukushima 50 dặm ( 80km ) và thuê các chuyến bay cho những ai muốn rời khỏi đất nước này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>France and China are to evacuate thousands , while the UK and Australia have advised people to leave Tokyo .</s>
+<s id='vn4'>Pháp và Trung Quốc sẽ phải sơ tán hàng ngàn dân , trong khi Anh Quốc và Úc khuyên mọi người nên rời khỏi Tokyo .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Japan has imposed a 12-mile exclusion zone around the Fukushima plant .</s>
+<s id='vn5'>Nhật Bản đã ấn định khu vực cách ly 12 dặm chung quanh nhà máy Fukushima .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Workers are battling to cool overheating fuel at plant after a series of explosions led to fears large amounts of radiation could be released into the atmosphere .</s>
+<s id='vn6'>Các công nhân đang nỗ lực làm nguội nhiên liệu quá nóng tại nhà máy này sau hàng loạt vụ nổ dẫn đến những lo ngại lượng phóng xạ lớn có thể rõ rĩ ra ngoài không khí</s>
+</spair>
+<spair id='7'>
+<s id='en7'>On Wednesday , the UK Foreign Office said that any Britons living in or north of Tokyo should " consider leaving " , but officials have stressed there is no immediate risk to health .</s>
+<s id='vn7'>Vào hôm thứ Tư , Văn Phòng Ngoại Giao Anh Quốc cho biết bất kỳ người Anh nào sống trong và ở phía bắc Tokyo nên " nghĩ đến việc rời đi " , nhưng các viên chức nhấn mạnh rằng không có nguy cơ trực tiếp nào đối với sức khỏe</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The FCO has advised Britons to use commercial flights , but it has also chartered planes to fly from Tokyo to Hong Kong , with free places for those directly affected by the disaster .</s>
+<s id='vn8'>Văn Phòng Ngoại Giao khuyên các công dân Anh nên sử dụng các chuyến bay thương mại , nhưng cũng thuê các phi cơ bay từ Tokyo đi Hong Kong , có chỗ miễn phí dành cho những ai bị ảnh hưởng trực tiếp của thảm họa</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The US State Department has also laid on flights for citizens wishing to leave Japan and has authorised the departure of some 600 dependents of diplomatic and commercial staff in Japan .</s>
+<s id='vn9'>Bộ Ngoại Giao Hoa Kỳ cũng sử dụng các chuyến bay cho công dân nào muốn rời Nhật và cho phép khoảng 600 người phụ thuộc của các nhân viên ngoại giao và thương mại ở Nhật ra đi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The White House said its advice to US nationals to stay 50 miles from Fukushima did not imply a lack of confidence in the Japanese warnings .</s>
+<s id='vn10'>Tòa Bạch Ốc cho biết khuyến cáo kiều dân Mỹ nên tránh xa Fukushima 50 dặm mà họ đưa ra không hàm ý thiếu tin tưởng vào những cảnh báo của Nhật .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Spokesman Jay Carney said the steps were " what we would do if this incident were happening in the United States " .</s>
+<s id='vn11'>Phát ngôn viên Jay Carney nói các bước tiến hành này là " những gì chúng tôi thực hiện nếu như sự cố này xảy ra tại Hoa Kỳ "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>As he advised Australians to leave Japan , Foreign Minister Kevin Rudd said the main concern was over problems caused by the extensive damage to infrastructure .</s>
+<s id='vn12'>Khi khuyến cáo người Úc nên rời Nhật Bản , Bộ Trưởng Ngoại Giao Kevin Rudd nói quan ngại chính là các vấn đề xuất phát từ những thiệt hại trên phạm vi rộng đối với cơ sở hạ tầng</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" We have uncertainty of power supply , we have problems with train services , we have problems with public transport services , many schools have closed and there is this repeated series of aftershocks " .</s>
+<s id='vn13'>" Chúng tôi không chắc chắn về nguồn cung cấp điện , chúng tôi gặp rắc rối về dịch vụ tàu hỏa , rắc rối về dịch vụ vận chuyển công cộng , nhiều trường học đóng cửa và có hàng loạt dư chấn vẫn lặp đi lặp lại "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>China has moved thousands of people to Tokyo to prepare for their evacuation while France has assigned two government planes to fly its nationals away from Japan .</s>
+<s id='vn14'>Trung Quốc di chuyển hàng ngàn người đến Tokyo để chuẩn bị sơ tán trong khi Pháp phân công hai phi cơ của chính phủ đưa kiều dân của mình rời Nhật</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Most other countries have also advised their nationals to evacuate from the north-eastern region of Japan or to leave the country altogether if they can .</s>
+<s id='vn15'>Hầu hết các nước đều khuyên kiều dân của họ sơ tán khỏi khu vực đông bắc Nhật hoặc hoàn toàn rời khỏi nước này nếu có thể .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The official death toll from Friday 's magnitude 9 quake and the tsunami which followed it has now rising to 5,400 , with another 9,500 still missing .</s>
+<s id='vn16'>Con số người chết chính thức do trận động đất 9 độ vào hôm thứ Sáu và đợt sóng thần tiếp sau đó giờ đã lên đến 5.400 người , cộng với 9.500 người vẫn còn mất tích .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>About 380,000 people are currently still in temporary shelters .</s>
+<s id='vn17'>Khoảng 380.000 người hiện vẫn đang sống trong các nơi trú ẩn tạm thời .</s>
+</spair>
+</text>
+</doc>

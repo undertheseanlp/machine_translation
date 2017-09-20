@@ -1,0 +1,68 @@
+﻿<doc id='N0591'>
+<head>
+<title>European Debt Crisis Reverberates</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>European Debt Crisis Reverberates</s>
+<s id='vn1'>Khủng hoảng nợ Châu Âu gây ra những tác động dây chuyền</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The European debt crisis continued Thursday , with Spain paying more to finance its government and the continent 's central bank acting to nearly double its reserves .</s>
+<s id='vn2'>Khủng hoảng nợ Châu Âu vẫn tiếp tục vào thứ 5 cùng với việc Tây Ban Nha chi ra nhiều tiền hơn để tài trợ cho chính phủ của nước này và ngân hàng trung ương Châu Âu thực hiện việc tăng dự trữ của nó lên gần gấp đôi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Earlier this week , Moody 's Investors Service said it may lower Spain 's credit rating less than three months after its last cut .</s>
+<s id='vn3'>Vào đầu tuần này , công ty dịch vụ đầu tư Moody đã nói rằng nó có thể hạ hạng tín nhiệm của Tây Ban Nha thấp hơn so với 3 tháng sau đợt cắt giảm sau cùng của nó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Some financial experts fear that Spain will not be able to handle its debts and might need an international bailout .</s>
+<s id='vn4'>Một số chuyên gia tài chính sợ rằng Tây Ban Nha sẽ không thể giải quyết những khoản nợ của nước này và có thể phải cần tới một sự cứu trợ quốc tế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>As a result , when Spain sold 10-year and 15-year bonds , it was forced to pay higher interest rates than it did with earlier sales in the last two months .</s>
+<s id='vn5'>Do đó , khi Tây Ban Nha phát hành những trái phiếu kỳ hạn 10 năm và 15 năm , nó buộc phải trả một mức lãi suất cao hơn mức mà nó phải trả trong đợt phát hành trước đó vào 2 tháng vừa rồi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Meanwhile , the European Central Bank said that for the first time in 12 years it would require its members - national banks - to add $ 6.7 billion to boost the central bank 's reserves to $ 14.3 billion .</s>
+<s id='vn6'>Cùng lúc đó , Ngân hàng trung ương Châu Âu cũng phát biều rằng lần đầu tiên trong 12 năm qua nó sẽ phải kêu gọi các thành viên của nó - các ngân hàng của các quốc gia - đóng góp thêm 6,7 tỷ đô la nhằm tăng dự trữ của ngân hàng trung ương lên 14,3 tỷ đô .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The central bank has recently purchased $ 96 billion worth of European government bonds .</s>
+<s id='vn7'>Ngân hàng trung ương gần đây đã mua vào số trái phiếu của chính quyền Châu Âu trị giá 96 tỷ đô .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>European Union leaders are meeting Thursday and Friday in Brussels to address the continent 's debt crisis , which has already included international bailouts for Ireland and Greece .</s>
+<s id='vn8'>Những nhà lãnh đạo của Liên minh Châu Âu đang họp vào thứ 5 và thứ 6 tại Brussels để giải quyết khủng hoảng nợ của Châu Âu , cuộc khủng hoảng mà bao gồm những cuộc cứu trợ quốc tế cho Ai-len và Hy Lạp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Some fear that Portugal and Spain might be the next countries to need help .</s>
+<s id='vn9'>Một số người lo ngại rằng Bồ Đào Nha và Tây Ban Nha có thể sẽ là những nước tiếp theo cần đến cứu trợ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The leaders are expected to create a permanent system for handling financial crises that would take effect in 2013 .</s>
+<s id='vn10'>Những nhà lãnh đạo được trông đợi sẽ tạo ra một hệ thống thường trực để giải quyết những cuộc khủng hoảng tài chính mà có thể gây ảnh hưởng vào năm 2013 .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They are at odds , though , about how best to cope with the disparate economic conditions across Europe , with debts and deficits in some countries , while Germany , France and other nations prosper .</s>
+<s id='vn11'>Dù vậy , họ vẫn đang bất đồng về cách thức tốt nhất để đối phó với tình trạng kinh tế khác nhau ở các nước Châu Âu , với tình trạng nợ nần và thâm hụt ở một số nước trong khi Đức , Pháp và những quốc gia khác thì vẫn phồn thịnh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>German Chancellor Angela Merkel said the 27 nations in the European Union share the goal of a stable Europe with a stable currency , the euro , that 16 of the countries use .</s>
+<s id='vn12'>Thủ tướng Đức Angela Merkel đã nói 27 quốc gia trong Liên minh Châu Âu đang chia sẽ cùng một mục tiêu là một Châu Âu ổn định với một đồng tiền ổn định , đồng Ơ-rô , đồng tiền mà 16 nước Châu Âu sử dụng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But she has been adamant in opposing an increase in the size of the $ 1 trillion bailout fund or creating pan-European bonds that would replace sovereign state bonds .</s>
+<s id='vn13'>Nhưng bà đã khá cứng rắn trong việc chống lại việc gia tăng kich cỡ của quỹ cứu hộ 1000 tỷ đô la và tạo ra một trái phiếu liên Châu Âu mà chúng sẽ thay thế cho các trái phiếu chính phủ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Germany has Europe 's strongest economy but fears that continent-wide bonds would prove more costly for the country than selling its own .</s>
+<s id='vn14'>Đức có nền kinh tế mạnh nhất Châu Âu nhưng vẫn sợ rằng trái phiếu toàn châu lục sẽ tốn kém hơn là quốc gia này tự phát hành cho riêng nó .</s>
+</spair>
+</text>
+</doc>

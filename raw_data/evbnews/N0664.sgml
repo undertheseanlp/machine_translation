@@ -1,0 +1,316 @@
+﻿<doc id='N0664'>
+<head>
+<title>The Scar</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Scar</s>
+<s id='vn1'>Vết sẹo</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Joanna Slan</s>
+<s id='vn2'>Tác giả : Joanna Slan</s>
+</spair>
+<spair id='3'>
+<s id='en3'>His thumb softly rubbed the twisted flesh on my cheek .</s>
+<s id='vn3'>Ngón tay cái của ông xoa nhẹ nhàng miếng thịt nhăn nhúm trên má tôi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The plastic surgeon , a good fifteen years my senior , was a very attractive man .</s>
+<s id='vn4'>Vị bác sĩ phẫu thuật thẩm mỹ lớn hơn tôi khoảng mười lăm tuổi là người vô cùng hấp dẫn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>His masculinity and the intensity of his gaze seemed almost overpowering .</s>
+<s id='vn5'>Vẻ nam tính và xúc cảm mãnh liệt trong cái nhìn chằm chằm của ông có vẻ gần như khuất phục người khác .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Hmmm , " he said quietly .</s>
+<s id='vn6'>" Hmmm , " ông nói nhỏ nhẹ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Are you a model ? "</s>
+<s id='vn7'>" Cô là người mẫu à ? "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Is this a joke ?</s>
+<s id='vn8'>Đùa à ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Is he kidding ?</s>
+<s id='vn9'>Ông ta đang giỡn sao ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>I asked myself , and I searched his handsome face for signs of mockery .</s>
+<s id='vn10'>Tôi tự hỏi và rà soát trên khuôn mặt điển trai của ông để tìm ra dấu hiệu của sự giễu cợt .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>No way would anyone ever confuse me with a fashion model .</s>
+<s id='vn11'>Không thể nào có người nhầm tôi với người mẫu thời trang được .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>I was ugly .</s>
+<s id='vn12'>Tôi xấu xí .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>My mother casually referred to my sister as her pretty child .</s>
+<s id='vn13'>Mẹ tôi thường nói về chị tôi như một đứa con xinh đẹp của bà .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Anyone could see I was homely .</s>
+<s id='vn14'>Bất kỳ ai cũng có thể nhận ra rằng tôi thô kệch .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>After all , I had the scar to prove it .</s>
+<s id='vn15'>Và cuối cùng , tôi có một cái sẹo để chứng minh điều ấy .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The accident happened in fourth grade , when a neighbor boy picked up a hunk of concrete and heaved the mass through the side of my face .</s>
+<s id='vn16'>Tai nạn xảy ra vào năm tôi học lớp bốn , khi cậu bé hàng xóm nhặt một miếng bê-tông to và ném khối đồ sộ ấy qua bên mặt của tôi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>An emergency room doctor stitched together the shreds of skin , pulling cat-gut through the tattered outside of my face and then suturing the shards of flesh inside my mouth .</s>
+<s id='vn17'>Bác sĩ phụ trách phòng cấp cứu đã khâu những mảnh da nhỏ lại với nhau , kéo chỉ cát-gút qua phần bị rách bên ngoài gương mặt tôi rồi sau đó khâu những mảnh thịt bị rách bên trong miệng tôi lại .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>For the rest of the year , a huge bandage from cheekbone to jaw covered the raised angry welt .</s>
+<s id='vn18'>Trong những tháng ngày còn lại của năm , cái băng lớn từ xương gò má đến quai hàm đã che phủ chỗ sưng phồng viêm tấy .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A few weeks after the accident , an eye exam revealed I was nearsighted .</s>
+<s id='vn19'>Vài tuần sau vụ tai nạn , cuộc xét nghiệm mắt cho biết tôi bị cận thị .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Above the ungainly bandage sat a big , thick pair of glasses .</s>
+<s id='vn20'>Phía trên miếng băng vụng về là một cặp mắt kính to dày cộp .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Around my head , a short fuzzy glob of curls stood out like mold growing on old bread .</s>
+<s id='vn21'>Quanh đầu tôi , một mớ tóc xoăn bù xù ngắn củn nằm nổi bật như nấm mốc phát triển trên ổ bánh mì cũ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>To save money , Mom had taken me to a beauty school where a student cut my hair .</s>
+<s id='vn22'>Để tiết kiệm tiền , mẹ đã đưa tôi đến một trường dạy làm đẹp để một học viên cắt tóc cho tôi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The overzealous girl hacked away cheerfully .</s>
+<s id='vn23'>Cô gái hăng hái quá mức cắt liên tục một cách phấn khởi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Globs of hair piled up on the floor .</s>
+<s id='vn24'>Mớ tóc chất đống trên sàn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>By the time her instructor wandered over , the damage was done .</s>
+<s id='vn25'>Lúc người hướng dẫn của cô ấy đi ngang qua thì mọi sự đã hư hại hết rồi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>A quick conference followed , and we were given a coupon for a free styling on our next visit .</s>
+<s id='vn26'>Một cuộc thảo luận ngắn diễn ra sau đó , và chúng tôi được tặng một phiếu cắt tóc miễn phí cho lần kế tiếp .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" Well , " sighed my father that evening , " you 'll always be pretty to me , " and he hesitated , " even if you are n't to the rest of the world . "</s>
+<s id='vn27'>Tối hôm đó cha tôi thở dài , " Ồ , với ba , con luôn xinh đẹp con gái yêu à , " và ông ngập ngừng " ngay cả khi cả thế giới còn lại có nói rằng con không như thế . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Right , Thanks .</s>
+<s id='vn28'>Ổn thôi , Cảm ơn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>As if I could n't hear the taunts of the other kids at school .</s>
+<s id='vn29'>Như thể tôi không nghe thấy những lời nhạo báng của lũ trẻ ở trường .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>As if I could n't see how different I looked from the little girls whom the teachers fawned over .</s>
+<s id='vn30'>Như thể tôi không biết rằng tôi trông khác những cô bé nhỏ nhắn được các giáo viên ưu ái như thế nào .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>As if I did n't occasionally catch a glimpse of myself in the bathroom mirror .</s>
+<s id='vn31'>Như thể tôi đôi khi không thoáng nhìn thấy chính tôi trong chiếc gương ở phòng tắm .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In a culture that values beauty , an ugly girl is an outcast .</s>
+<s id='vn32'>Trong một nền văn hoá tôn vinh cái đẹp , một cô gái xấu xí là một người vô gia cư .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>My looks caused me no end of pain .</s>
+<s id='vn33'>Bề ngoài của tôi khiến tôi vô cùng đau đớn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>I sat in my room and sobbed every time my family watched a beauty pageant or a " talent " search show .</s>
+<s id='vn34'>Tôi ngồi trong phòng mình và thổn thức mỗi khi gia đình tôi xem chương trình biểu diễn sắc đẹp hoặc tìm kiếm " tài năng " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Eventually I decided that if I could n't be pretty , I would at least be well-groomed .</s>
+<s id='vn35'>Cuối cùng tôi quyết định rằng nếu tôi không thể xinh đẹp , thì ít nhất tôi cũng sẽ ăn mặc đẹp .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Over the course of years , I learned to style my hair , wear contact lenses and apply make-up .</s>
+<s id='vn36'>Trong suốt nhiều năm , tôi học cách tạo kiểu tóc cho mình , đeo kính sát tròng và trang điểm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Watching what worked for other women , I learned to dress myself to best advantage .</s>
+<s id='vn37'>Nhờ quan sát xem phục trang nào làm những người phụ nữ khác quyến rũ , tôi biết được cách ăn mặc sao cho mình trở nên đẹp nhất .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>And now , I was engaged to be married .</s>
+<s id='vn38'>Và bây giờ , tôi đã đính hôn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The scar , shrunken and faded with age , stood between me and a new life .</s>
+<s id='vn39'>Vết sẹo teo lại và phai mờ theo năm tháng , đứng giữa tôi và cuộc sống mới .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" Of course , I 'm not a model , " I replied with a small amount of indignation .</s>
+<s id='vn40'>" Dĩ nhiên , tôi không phải là người mẫu , " tôi hơi phẫn nộ trả lời .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The plastic surgeon crossed his arms over his chest and looked at me appraisingly .</s>
+<s id='vn41'>Vị bác sĩ phẫu thuật thẩm mỹ khoanh tay trên ngực và nhìn tôi dò xét .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" Then why are you concerned about this scar ?</s>
+<s id='vn42'>" Vậy thì tại sao cô lại quan tâm đến vết sẹo này ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>If there is no professional reason to have it removed , what brought you here today ? "</s>
+<s id='vn43'>Nếu không có lý do chuyên nghiệp để xoá bỏ nó , thì điều gì đã mang cô tới đây ngày hôm nay ? "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Suddenly he represented all the men I 'd ever known .</s>
+<s id='vn44'>Bỗng nhiên ông đại diện cho tất cả những nam giới mà tôi từng biết .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The eight boys who turned me down when I invited them to the girls-ask-boys dance .</s>
+<s id='vn45'>Tám thằng bé khước từ tôi khi tôi mời chúng đến dự buổi khiêu vũ con gái - mời-con trai .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The sporadic dates I 'd had in college .</s>
+<s id='vn46'>Những cuộc hẹn hò lác đác tôi có ở trường đại học .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The parade of men who had ignored me since then .</s>
+<s id='vn47'>Tiếp đó là những chàng trai trong đội diễu hành đã bỏ lơ tôi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The man whose ring I wore on my left hand .</s>
+<s id='vn48'>Người đàn ông sở hữu chiếc nhẫn tôi đeo trên bàn tay trái của mình .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>My hand rose to my face .</s>
+<s id='vn49'>Tôi đưa tay lên mặt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The scar confirmed it ; I was ugly .</s>
+<s id='vn50'>Vết sẹo đã xác nhận rằng : tôi xấu xí .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>The room swam before me as my eyes filled with tears .</s>
+<s id='vn51'>Căn phòng như đang quay mòng mòng trước mắt tôi khi dòng nước mắt tuôn ra .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The doctor pulled a rolling stool up next to me and sat down .</s>
+<s id='vn52'>Vị bác sĩ kéo chiếc ghế đẩu xoay đến ngồi xuống kế bên tôi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>His knees almost touched mine .</s>
+<s id='vn53'>Đầu gối của ông gần như chạm vào đầu gối tôi .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>His voice was low and soft .</s>
+<s id='vn54'>Giọng ông trầm và dịu dàng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" Let me tell you what I see .</s>
+<s id='vn55'>" Để tôi nói cho cô biết những gì tôi nhìn thấy .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>I see a beautiful woman .</s>
+<s id='vn56'>Tôi nhìn thấy một người phụ nữ đẹp .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Not a perfect woman , but a beautiful woman .</s>
+<s id='vn57'>Không phải một người phụ nữ hoàn hảo , mà là một người phụ nữ đẹp .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Lauren Hutton has a gap between her front teeth .</s>
+<s id='vn58'>Lauren Hutton bị hở răng cửa .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Elizabeth Taylor has a tiny scar on her forehead " .</s>
+<s id='vn59'>Elizabeth Taylor có một cái sẹo rất nhỏ trên trán " .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Then he paused and handed me a mirror .</s>
+<s id='vn60'>Sau đó ông ngừng lại và đưa cho tôi một cái gương .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" I think to myself how every remarkable woman has an imperfection , and I believe that imperfection makes her beauty more remarkable because it assures us she is human . "</s>
+<s id='vn61'>" Tôi tự hỏi làm sao mà mọi phụ nữ nổi bật đều có một khiếm khuyết , và tôi tin rằng khiếm khuyết đó càng làm vẻ đẹp của họ nổi bật hơn vì nó đảm bảo với chúng ta rằng họ là con người . "</s>
+</spair>
+<spair id='62'>
+<s id='en62'>He pushed back the stool and stood up .</s>
+<s id='vn62'>Ông đẩy lùi chiếc ghế đẩu và đứng dậy .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>" I won't touch it .</s>
+<s id='vn63'>" Tôi sẽ không đụng vào nó .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Don't let anyone touch with your face .</s>
+<s id='vn64'>Đừng để bất kỳ người nào chạm đến khuôn mặt cô .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You are delightful just the way you are .</s>
+<s id='vn65'>Cô hãy vui vẻ với chính con người của mình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Beauty really does come from within a woman .</s>
+<s id='vn66'>Vẻ đẹp thực sự đến từ bên trong người phụ nữ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Believe me .</s>
+<s id='vn67'>Hãy tin tôi .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>It is my business to know . "</s>
+<s id='vn68'>Đó là điều mà tôi biết . "</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Then he left .</s>
+<s id='vn69'>Nói rồi ông bỏ đi .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>I turned to the face in the mirror .</s>
+<s id='vn70'>Tôi hướng về khuôn mặt trong gương .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>He was right .</s>
+<s id='vn71'>Ông ấy nói đúng .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Somehow over the years , that ugly child had become a beautiful woman .</s>
+<s id='vn72'>Không biết làm sao mà theo năm tháng , đứa trẻ xấu xí ngày nào giờ đã trở thành một phụ nữ xinh đẹp .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Since that day in his office , as a woman who makes her living speaking before hundreds of people , I have been told many times by people of both sexes that I am beautiful .</s>
+<s id='vn73'>Kể từ cái ngày trong văn phòng của ông , ở cương vị một người phụ nữ phát biểu trực tiếp trước hàng trăm người , tôi đã được nghe nhiều người cả đàn ông lẫn phụ nữ khen mình xinh đẹp .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>And , I know I am .</s>
+<s id='vn74'>Và , tôi biết đúng vậy .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>When I changed how I saw myself , others were forced to change how they saw me .</s>
+<s id='vn75'>Khi tôi thay đổi cách tôi nhìn bản thân mình , những người khác cũng buộc phải thay đổi cách họ nhìn tôi .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The doctor did n't remove the scar on my face ; he removed the scar on my heart .</s>
+<s id='vn76'>Vị bác sĩ không xoá vết sẹo trên khuôn mặt tôi ; ông đã xoá vết sẹo trong trái tim tôi .</s>
+</spair>
+</text>
+</doc>

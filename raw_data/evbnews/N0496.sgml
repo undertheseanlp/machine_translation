@@ -1,0 +1,60 @@
+﻿<doc id='N0496'>
+<head>
+<title>The Crystal Palace</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Crystal Palace</s>
+<s id='vn1'>Cung điện Thủy tinh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Perhaps the most extraordinary building of the nineteenth century was the Crystal Palace , which was built in Hyde Park for the Great Exhibition of 1851 .</s>
+<s id='vn2'>Có lẽ toà nhà phi thường nhất của thế kỷ mười chín là Cung điện Thuỷ tinh , được xây dựng trong công viên Hyde cho Đại Triển lãm vào năm 1851 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Crystal Palace was different from all other buildings in the world , for it was made of iron and glass .</s>
+<s id='vn3'>Cung điện Thuỷ tinh khác với tất cả các toà nhà khác trên thế giới vì nó được làm bằng sắt và kính .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It was one of the biggest buildings of all time and a lot of people from many countries came to see it .</s>
+<s id='vn4'>Nó là một trong những toà nhà lớn nhất mọi thời đại và nhiều người từ nhiều quốc gia đến để viếng thăm nó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A great many goods were sent to the exhibition from various parts of the world .</s>
+<s id='vn5'>Rất nhiều hàng hoá được gởi đến cuộc triển lãm từ nhiều nơi trên khắp thế giới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>There was also a great deal of machinery on display .</s>
+<s id='vn6'>Ở đây cũng có nhiều máy móc được trưng bày .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The most wonderful piece of the machinery on show was Nasmyth 's steam hammer .</s>
+<s id='vn7'>Mẫu máy móc trưng bày tuyệt vời nhất trong cuộc triển lãm là búa hơi của Nasmyth .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Though , in those days , travelling was not as easy as it is today , steam boats carried thousands of visitors across the Channel from Europe .</s>
+<s id='vn8'>Mù vào những ngày đó , du lịch không dễ dàng như ngày nay , nhưng những chiếc tàu chạy bằng hơi nước vẫn chở hàng ngàn khách từ châu Âu băng qua kênh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>On arriving in England , they were taken to the Crystal Palace by train .</s>
+<s id='vn9'>Khi đến Anh , họ được đưa vào Cung điện Thuỷ tinh bằng tàu lửa .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>There were six million visitors in all , and the profits from the exhibition were used to build museums and colleges .</s>
+<s id='vn10'>Có sáu triệu du khách tổng cộng và lợi nhuận thu được từ cuộc triển lãm sẽ dùng để xây dựng trường cao đẳng và bảo tàng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Later , the Crystal Palace was moved to South London .</s>
+<s id='vn11'>Sau đó , Cung điện Thuỷ tinh đã được di chuyển đến miền Nam Luân Đôn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It remained one of the most famous buildings in the world until it was burnt down in 1936 .</s>
+<s id='vn12'>Nó vẫn là toà nhà nổi tiếng nhất trên thế giới cho đến khi bị cháy rụi vào năm 1936 .</s>
+</spair>
+</text>
+</doc>

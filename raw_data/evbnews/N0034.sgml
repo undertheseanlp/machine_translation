@@ -1,0 +1,924 @@
+﻿<doc id='N0034'>
+<head>
+<title>Urinary tract infection</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Urinary tract infection</s>
+<s id='vn1'>Nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is urinary tract infection ?</s>
+<s id='vn2'>Nhiễm trùng đường tiểu là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A urinary tract infection ( UTI ) is a bacterial infection that affects any part of the urinary tract .</s>
+<s id='vn3'>Nhiễm trùng đường tiểu ( UTI ) là hiện tượng nhiễm khuẩn có thể ảnh hưởng đến bất kỳ phần nào của đường tiểu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The main etiologic agent is Escherichia coli .</s>
+<s id='vn4'>Tác nhân gây bệnh chính là trực khuẩn E.coli .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Although urine contains a variety of fluids , salts , and waste products , it does not usually have bacteria in it .</s>
+<s id='vn5'>Mặc dù nước tiểu chứa nhiều chất lỏng , muối , và chất thải , nhưng thường vô khuẩn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When bacteria get into the bladder or kidney and multiply in the urine , they may cause a UTI .</s>
+<s id='vn6'>Khi vi khuẩn vào bàng quang hay thận và sinh sôi nảy nở trong nước tiểu , chúng có thể gây ra UTI .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The most common type of UTI is acute cystitis often referred to as a bladder infection .</s>
+<s id='vn7'>Loại UTI thường gặp nhất là viêm bàng quang cấp thường được coi như chứng viêm bàng quang .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>An infection of the upper urinary tract or kidney is known as pyelonephritis , and is potentially more serious .</s>
+<s id='vn8'>Nhiễm trùng đường tiểu trên hay thận được coi là chứng viêm thận , và tiềm ẩn bệnh nghiêm trọng hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although they cause discomfort , urinary tract infections can usually be easily treated with a short course of antibiotics .</s>
+<s id='vn9'>Mặc dù nhiễm trùng đường tiểu thường làm cho người ta cảm thấy khó chịu , nhưng bệnh này có thể dễ dàng chữa trị bằng cách dùng thuốc kháng sinh trong thời gian ngắn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Symptoms include frequent feeling and or need to urinate , pain during urination , and cloudy urine .</s>
+<s id='vn10'>Các triệu chứng bao gồm cảm giác thường xuyên và hoặc mắc tiểu , đau khi đi tiểu , và nước tiểu đục .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Signs and symptoms</s>
+<s id='vn11'>Các triệu chứng và dấu hiệu</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The most common symptoms of a bladder infection are burning with urination ( dysuria ) , frequency of urination , an urge to urinate , without vaginal discharge or significant pain .</s>
+<s id='vn12'>Các triệu chứng thường gặp nhất của chứng viêm bàng quang là đi tiểu rát ( khó tiểu ) , đi tiểu nhiều lần , mắc tiểu nhiều lần , không có khí hư hoặc đau nhiều .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>An upper urinary tract infection or pyelonephritis may additionally present with flank pain and a fever .</s>
+<s id='vn13'>Nhiễm trùng đường tiểu trên hay chứng viêm thận ngoài ra cũng có thể gây đau ở bên sườn và sốt .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The symptoms of urinary tract infections may vary with age and the part of the urinary system that was affected .</s>
+<s id='vn14'>Các triệu chứng của bệnh nhiễm trùng đường tiểu có thể thay đổi tuỳ theo độ tuổi và tuỳ theo đường tiểu bị nhiễm trùng ở phần nào .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In young children , urinary tract infection symptoms may include diarrhea , loss of appetite , nausea and vomiting , fever and excessive crying that cannot be resolved by typical measures .</s>
+<s id='vn15'>Ở trẻ em , triệu chứng nhiễm trùng đường tiểu có thể bao gồm tiêu chảy , chán ăn , buồn nôn và ói , sốt và khóc nhiều không dỗ nín được bằng các biện pháp thường .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Older children on the other hand may experience abdominal pain , or incontinence .</s>
+<s id='vn16'>Mặt khác đối với trẻ lớn tuổi hơn thì có thể gặp triệu chứng đau bụng , hoặc ỉa đùn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Lower urinary tract infections in adults may manifest with symptoms including hematuria ( blood in the urine ) , inability to urinate despite the urge and malaise .</s>
+<s id='vn17'>Nhiễm trùng đường tiểu dưới ở người lớn có thể thấy rõ với nhiều triệu chứng gồm chứng huyết niệu ( máu trong nước tiểu ) , không đi tiểu được mặc dù muốn tiểu và cảm thấy rất khó chịu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Other signs of urinary tract infections include foul smelling urine and urine that appears cloudy .</s>
+<s id='vn18'>Những dấu hiệu nhiễm trùng đường tiểu khác như nước tiểu có mùi khó chịu và nước tiểu đục .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Depending on the site of infection , urinary tract infections may cause different symptoms .</s>
+<s id='vn19'>Tùy theo vùng nhiễm trùng mà chứng nhiễm trùng đường tiểu có thể gây ra nhiều triệu chứng khác nhau .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Urethritis , meaning only the urethra has been affected , does not usually cause any other symptoms besides dysuria .</s>
+<s id='vn20'>Đối với chứng viêm niệu đạo , nghĩa là chỉ có vùng niệu đạo bị nhiễm trùng , thường không gây ra các triệu chứng nào khác ngoài chứng khó tiểu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If the bladder is however affected ( cystitis ) , the patient is likely to experience more symptoms including lower abdomen discomfort , low-grade fever , pelvic pressure and frequent urination all together with dysuria .</s>
+<s id='vn21'>Tuy nhiên , nếu bàng quang bị nhiễm trùng ( viêm bàng quang ) thì bệnh nhân có thể gặp nhiều triệu chứng hơn như cảm giác khó chịu ở bụng dưới , sốt nhẹ , ép khung chậu và thường xuyên bị khó tiểu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Infection of the kidneys ( acute pyelonephritis ) typically causes more serious symptoms such as chills , nausea , vomiting and high fever .</s>
+<s id='vn22'>Nhiễm trùng thận ( viêm thận cấp ) thường gây ra nhiều triệu chứng trầm trọng hơn như là ớn lạnh , buồn nôn , ói và sốt cao .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Whereas in newborns the condition may cause jaundice and hypothermia , in the elderly , symptoms of urinary tract infections may even include lethargy and a change in the mental status , signs that are otherwise nonspecific .</s>
+<s id='vn23'>Nhưng đối với trẻ sơ sinh , chứng nhiễm trùng đường tiểu có thể gây vàng da và giảm nhiệt , với người lớn , triệu chứng nhiễm trùng đường tiểu thậm chí có thể gồm chứng ngủ lịm và làm tinh thần thay đổi , mặt khác người ta còn chưa xác định rõ nguyên nhân của các dấu hiệu này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Risk factors</s>
+<s id='vn24'>Các yếu tố nguy hiểm</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Sexual activity</s>
+<s id='vn25'>Hoạt động tình dục</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In young sexually active women , sex is the cause of 75-90 % of bladder infections , with the risk of infection related to the frequency of sex .</s>
+<s id='vn26'>Đối với phụ nữ trẻ thường quan hệ tình dục thì tình dục là nguyên nhân gây ra 75-90 % chứng viêm bàng quang , nguy cơ nhiễm bệnh liên quan đến số lần quan hệ tình dục .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The term " honeymoon cystitis " has been applied to this phenomenon of frequent UTIs during early marriage .</s>
+<s id='vn27'>Thuật ngữ " viêm bàng quang tuần trăng mật " được áp dụng cho hiện tượng nhiễm trùng đường tiểu thường xuyên này trong thời gian hôn nhân ban đầu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>In post menopausal women sexual activity does not affect the risk of developing a UTI .</s>
+<s id='vn28'>Ở phụ nữ hậu mãn kinh , hoạt động tình dục không ảnh hưởng đến nguy cơ phát triển bệnh UTI .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Gender</s>
+<s id='vn29'>Giới tính</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Women are more prone to UTIs than men because in females , the urethra is much shorter and closer to the anus than in males , and they lack the bacteriostatic properties of prostatic secretions .</s>
+<s id='vn30'>Phụ nữ thường dễ bị nhiễm trùng đường tiểu hơn nam giới vì phụ nữ có niệu đạo ngắn hơn và gần với hậu môn hơn và thiếu các đặc tính kìm hãm vi khuẩn của tiết tuyến tiền liệt .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Among the elderly , UTI frequency is roughly equal proportions in women and men .</s>
+<s id='vn31'>Đối với người lớn tuổi thì tỉ lệ mắc UTI giữa nam và nữ thường bằng nhau .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This is due , in part , to an enlarged prostate in older men .</s>
+<s id='vn32'>Điều này một phần là do tuyến tiền liệt ở đàn ông lớn tuổi bị giãn nở ra .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>An enlarged prostate means the gland has grown bigger .</s>
+<s id='vn33'>Tuyến tiền liệt giãn ra có nghĩa nó trở nên to hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Prostate enlargement happens to almost all men as they get older .</s>
+<s id='vn34'>Chứng phì đại tuyến tiền liệt thường xảy ra ở hầu hết nam giới cao tuổi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>As the gland grows , it can press on the urethra and cause urination and bladder problems .</s>
+<s id='vn35'>Khi tuyến tiền liệt giãn nở ra , nó có thể đè lên niệu đạo và gây ra nhiều vấn đề về niệu đạo và bàng quang .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>As the gland grows , it obstructs the urethra , leading to increased difficulty in micturition .</s>
+<s id='vn36'>Khi tuyến tiền liệt phình to ra , nó làm nghẽn niệu đạo , làm khó tiểu nhiều hơn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Urinary catheters</s>
+<s id='vn37'>Ống thông đường tiểu</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Urinary catheters are a risk factor for urinary tract infections .</s>
+<s id='vn38'>Ống thông đường tiểu là yếu tố nguy hiểm dẫn đến nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The risk of an associated infection can be decreased by only catheterizing when necessary , using aseptic technique for insertion , and maintaining unobstructed closed drainage of the catheter .</s>
+<s id='vn39'>Nguy cơ lây nhiễm liên quan có thể làm giảm bằng cách chỉ dùng ống thông khi cần thiết , sử dụng kỹ thuật đặt ống thông tiểu vô trùng và giữ cho ống thông tiểu kín không bị nghẽn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>A predisposition for bladder infections may run in families .</s>
+<s id='vn40'>Bẩm chất viêm bàng quang có thể di truyền trong gia đình .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Others risk factors</s>
+<s id='vn41'>Các yếu tố nguy hiểm khác</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Other risk factors include diabetics , sickle-cell disease or anatomical malformations of the urinary tract such as prostate enlargement .</s>
+<s id='vn42'>Các yếu tố nguy hiểm khác gồm tiểu đường , thiếu máu hồng cầu hình liềm hoặc các dị tật giải phẫu học của đường tiểu như chứng phì đại tuyến tiền liệt .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Pathogenesis</s>
+<s id='vn43'>Sinh bệnh học</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The most common organism implicated in UTIs ( 80-85 % ) is E.Coli , while Staphylococcus saprophyticus is the cause in 5-10 % .</s>
+<s id='vn44'>Sinh vật thường gặp nhất liên quan đến bệnh nhiễm trùng đường tiểu ( 80-85 % ) là trực khuẩn E.coli , trong khi tụ cầu khuẩn saprophyticus là nguyên nhân gây ra từ 5-10 % trường hợp nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Prevention</s>
+<s id='vn45'>Phòng ngừa</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The following are measures that studies suggest may reduce the incidence of urinary tract infections .</s>
+<s id='vn46'>Dưới đây là các biện pháp mà các công trình nghiên cứu đã đề nghị nhằm có thể làm giảm tỉ lệ mắc bệnh nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* A prolonged course ( 6 months to a year ) of low-dose antibiotics ( usually nitrofurantoin or TMP SMX ) is effective in reducing the frequency of UTIs in those with recurrent UTIs .</s>
+<s id='vn47'>* Dùng kháng sinh liều thấp một đợt kéo dài ( 6 tháng đến 1 năm ) ( thường là nitrofurantoin hoặc TMP SMX ) có tác dụng làm giảm tần số UTIs ở những người bị nhiễm trùng đường tiểu tái phát .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>* Cranberry ( juice or capsules ) may decrease the incidence of UTI in those with frequent infections .</s>
+<s id='vn48'>* Man việt quất ( quả hoặc viên con nhộng ) có thể làm giảm tỉ lệ mắc bệnh UTI ở những người bị nhiễm bệnh thường xuyên .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Long term tolerance however is an issue .</s>
+<s id='vn49'>Tuy nhiên dung nạp thuốc trong thời gian dài là cả một vấn đề .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>* For post-menopausal women intravaginal application of topical estrogen cream can prevent recurrent cystitis .</s>
+<s id='vn50'>* Đối với phụ nữ hậu mãn kinh thì việc thoa kem estrogen trực tiếp lên vùng da bên trong âm đạo có thể ngăn ngừa chứng viêm bàng quang tái phát .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>This however is not as useful as low dose antibiotics .</s>
+<s id='vn51'>Tuy nhiên điều này không có tác dụng như thuốc kháng sinh liều thấp .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>* Studies have shown that breastfeeding can reduce the risk of UTIs in infants .</s>
+<s id='vn52'>* Nhiều công trình nghiên cứu cho thấy việc nuôi con bằng sữa mẹ có thể làm giảm nguy cơ bị nhiễm trùng đường tiểu ở trẻ sơ sinh .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>A number of measures includes : the use of birth control pills or condoms , voiding after sex , the type of underwear used , personal hygiene methods used after voiding or defecating , whether one takes a bath or shower .</s>
+<s id='vn53'>Các biện pháp như dùng thuốc tránh thai hoặc bao cao su , đi vệ sinh sau khi quan hệ tình dục , loại quần áo lót sử dụng , phương pháp vệ sinh cá nhân sau khi đi vệ sinh , tắm bồn hay tắm vòi hoa sen .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Diagnosis</s>
+<s id='vn54'>Chẩn đoán</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In straight forward cases a diagnosis may be made and treatment given based on symptoms alone without further laboratory confirmation .</s>
+<s id='vn55'>Đối với những ca bệnh sớm biết ngay lập tức thì có thể chẩn đoán được và điều trị dựa trên các triệu chứng riêng của nó mà không phải làm thêm một xét nghiệm nào khác .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>In complicated or questionable cases confirmation via urinalysis looking for the presence of nitrites , leukocytes or leukocyte esterase or via urine microscopy looking for the presence of red blood cells , white blood cells , and bacteria maybe useful .</s>
+<s id='vn56'>Nhưng đối với những trường hợp phức tạp hay đáng nghi thì việc làm xét nghiệm nước tiểu để phát hiện ni-trít , bạch cầu hoặc en-zim esteraza trong bạch cầu hoặc soi nước tiểu dưới kính hiển vi để phát hiện hồng cầu , tế bào bạch cầu , và vi khuẩn có lẽ sẽ có tác dụng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Most cases of lower urinary tract infections in females are benign and do not need exhaustive laboratory work-ups .</s>
+<s id='vn57'>Hầu hết các trường hợp nhiễm trùng đường tiểu dưới ở phụ nữ là lành tính và không cần phải làm các xét nghiệm tổng quát khác .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>However , UTI in young infants may receive some imaging study , typically a retrograde ureth rogram , to ascertain the presence absence of congenital urinary tract anomalies .</s>
+<s id='vn58'>Tuy nhiên , nhiễm trùng đường tiểu ở trẻ sơ sinh có thể phải chụp hình , nhất là chụp niệu đạo ngược dòng , để xác định xem có các dị tật bẩm sinh ở đường tiểu hay không .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>All males with a confirmed UTI should be investigated further .</s>
+<s id='vn59'>Nam giới bị chẩn đoán chắc chắn bị nhiễm trùng đường tiểu nên được kiểm tra xét nghiệm nhiều hơn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Specific methods of investigation include x-ray , nuclear medicine , MRI and CAT scans .</s>
+<s id='vn60'>Nhiều phương pháp kiểm tra cụ thể như phương pháp chụp X-quang , y học hạt nhân , MRI chụp cắt lớp .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The presence of bacteria in the urinary tract of older adults , without symptoms or signs of infection , is a well recognized phenomenon which may not require antibiotics .</s>
+<s id='vn61'>Tình trạng vi khuẩn tồn tại trong đường tiểu của người già mà không có triệu chứng gì hay dấu hiệu truyền nhiễm gì cũng là một hiện tượng được phát hiện và chú ý nhiều có thể không cần sử dụng thuốc kháng sinh .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>This is usually referred to as asymptomatic bacteriuria .</s>
+<s id='vn62'>Đây thường được coi là tình trạng nước tiểu nhiễm khuẩn mà không có triệu chứng bệnh lý gì .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The overuse of antibiotics in the context of bacteriuria among the elderly is a concerning issue .</s>
+<s id='vn63'>Việc lạm dụng thuốc kháng sinh trong trường hợp nước tiểu nhiễm khuẩn của người già là một vấn đề đáng quan tâm .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Treatment</s>
+<s id='vn64'>Điều trị</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Uncomplicated</s>
+<s id='vn65'>Trường hợp không phức tạp</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Uncomplicated UTIs can be diagnosed and treated based on symptoms alone .</s>
+<s id='vn66'>Các trường hợp nhiễm trùng đường tiểu không phức tạp có thể được chẩn đoán và điều trị dựa trên các triệu chứng riêng của chúng .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Oral antibiotics such as trimethoprim , cephalosporins , nitrofurantoin , or a fluoroquinolone such as ciprofloxacin substantially shorten the time to recovery .</s>
+<s id='vn67'>Các loại thuốc kháng sinh dạng uống như Trimethoprim , Cephalosporins , Nitrofurantoin , hoặc nhóm fluoroquinolone như ciprofloxacin về cơ bản có tác dụng làm bệnh nhanh lành hơn .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>About 50% of people will recover without treatment within a few days or weeks .</s>
+<s id='vn68'>Khoảng 50% người sẽ lành bệnh mà không phải điều trị trong thời gian một vài ngày hay một vài tuần .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The Infectious Diseases Society of America recommends a combination of trimethoprim and sulfamethoxazole in uncomplicated UTIs rather than fluoroquinolones .</s>
+<s id='vn69'>Hội các bệnh lây nhiễm Hoa Kỳ khuyến cáo kết hợp trimethoprim và sulfamethoxazole đối với các trường hợp nhiễm trùng đường tiểu nhẹ hơn là fluoroquinolone .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A three-day treatment with trimethoprim , TMP SMX , or a fluoroquinolone is usually sufficient while nitrofurantoin requires 7 days .</s>
+<s id='vn70'>Điều trị bằng thuốc trimethoprim , TMP SMX hoặc kháng sinh fluoroquinolone trong ba ngày thường là đủ và có kết quả trong khi nếu sử dụng nitrofurantoin phải cần 7 ngày .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Trimethoprim is often recommended to be taken at night to ensure maximal urinary concentrations to increase its effectiveness .</s>
+<s id='vn71'>Trimethoprim thường phải được dùng vào ban đêm để đảm bảo nồng độ nước tiểu đạt mức cao nhất nhằm làm tăng hiệu quả của thuốc .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>While trimethoprim sulfamethoxazole was previously internationally used ( and continues to be used in the U.S. and Canada ) ; the addition of the sulfonamide gives little additional benefit compared to the trimethoprim component alone .</s>
+<s id='vn72'>Trong khi Trimethoprim Sulfamethoxazole trước đây được sử dụng rộng rãi trên toàn thế giới ( và hiện vẫn còn được sử dụng ở Hoa Kỳ và Ca-na-đa ) ; việc bổ sung thêm Sulfonamide cũng mang lại nhiều lợi ích hơn so với một mình thành phần thuốc Trimethoprim .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>It is responsible however for a high incidence of mild allergic reactions and rare but potentially serious complications .</s>
+<s id='vn73'>Tuy nhiên , nó có nguy cơ gây phản ứng dị ứng nhẹ và hiếm khi gặp các biến chứng tiềm ẩn nghiêm trọng .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>For simple UTIs children often respond well to a three-day course of antibiotics .</s>
+<s id='vn74'>Đối với trẻ bị nhiễm trùng đường tiểu nhẹ thường phản ứng tốt với đợt điều trị bằng thuốc kháng sinh trong vòng 3 ngày .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Pyelonephritis</s>
+<s id='vn75'>Chứng viêm thận</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Pyelonephritis is treated more aggressively than a simple bladder infection using either a longer course of oral antibiotics or intravenous antibiotics .</s>
+<s id='vn76'>Chứng viêm thận được điều trị khó khăn và lâu dài hơn trường hợp viêm bàng quang nhẹ , có thể điều trị theo đợt dùng kháng sinh dạng uống kéo dài hơn hoặc dùng kháng sinh dạng truyền tĩnh mạch .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Regimens vary , and include TMP and fluorquinolones .</s>
+<s id='vn77'>Phải thay đổi chế độ ăn uống , và còn phải dùng TMP và Fluorquinolones .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>In the past , they have included aminoglycosides ( such as gentamicin ) used in combination with a beta-lactam , such as ampicillin or ceftriaxone .</s>
+<s id='vn78'>Trước đây , các loại thuốc này gồm a-mi-nôglu-cô-zít ( như gentamicin ) dùng kết hợp với beta-lactam , như ampicillin hoặc ceftriaxone .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>These are continued for 48 hours after fever subsides .</s>
+<s id='vn79'>Các loại thuốc này được sử dụng trong 48 tiếng đồng hồ sau khi đã hạ sốt .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>If there is a poor response to IV antibiotics ( marked by persistent fever , worsening renal function ) , then imaging is indicated to rule out formation of an abscess either within or around the kidney , or the presence of an obstructing lesion such as a stone or tumor .</s>
+<s id='vn80'>Nếu bệnh nhân phản ứng kém với các loại thuốc kháng sinh IV ( dành cho trường hợp sốt dai dẳng , chức năng thận ngày càng yếu đi ) , thì cần phải chụp hình để xác định xem là có áp-xe bên trong hay quanh thận không , hay thận có bị thương gây nghẽn thận như sỏi hay khối u không .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Recurrent UTIs</s>
+<s id='vn81'>Chứng nhiễm trùng đường tiểu tái phát</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Women with recurrent simple UTIs may benefit from self-treatment upon occurrence of symptoms with medical follow up only if the initial treatment fails .</s>
+<s id='vn82'>Những phụ nữ bị nhiễm trùng đường tiểu tái phát nhẹ có thể tự điều trị trong trường hợp xảy ra các triệu chứng bằng thuốc tiếp tục chỉ khi nào phương pháp điều trị ban đầu không thành công .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Effective treatment can also be delivered over the phone .</s>
+<s id='vn83'>Phương pháp điều trị có hiệu quả cũng có thể tư vấn qua điện thoại .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Epidemiology</s>
+<s id='vn84'>Dịch tễ học</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Bladder infections are most common in young women with 10% of women getting an infection yearly and 60% having an infection at some point in their life .</s>
+<s id='vn85'>Viêm bàng quang thường gặp nhất ở phụ nữ trẻ , 10% phụ nữ mắc chứng bệnh này mỗi năm và có đến 60% nhiễm bệnh vào một lúc nào đó trong đời .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Pyelonephritis occurs between 18-29 times less frequently .</s>
+<s id='vn86'>Chứng viêm thận thường xảy ra ít hơn từ 18 đến 29 lần .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>According to the 1997 National Ambulatory Medical Care Survey and National Hospital Ambulatory Medical Care Survey , urinary tract infection accounted for nearly 7 million office visits ; 1 million emergency department visits , and 100,000 hospitalizations .</s>
+<s id='vn87'>Theo cuộc khảo sát chăm sóc sức khỏe ngoại trú quốc gia và khảo sát chăm sóc sức khỏe ngoại trú của bệnh viện quốc gia năm 1997 , số bệnh nhân đến khám chữa bệnh nhiễm trùng đường tiểu chiếm gần 7 triệu người ; 1 triệu bệnh nhân phải vào khoa cấp cứu , và 100.000 ca phải nằm viện .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Nearly 1 in 3 women will have had at least 1 episode of urinary tract infections requiring antimicrobial therapy by the age of 24 years .</s>
+<s id='vn88'>Người ta ước tính trước 24 tuổi cứ trong 3 người phụ nữ thì có gần 1 người bị nhiễm trùng đường tiểu ít nhất 1 lần cần phải chữa bằng thuốc kháng sinh .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>The risk of urinary tract infection increases with increasing duration of catheterization .</s>
+<s id='vn89'>Nguy cơ bị nhiễm trùng đường tiểu tăng nếu thời gian dùng ống thông tiểu càng nhiều .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>The condition rarely occurs in men who are younger than 50 years old and who did not undergo any genitourinary procedure .</s>
+<s id='vn90'>Bệnh hiếm khi xảy ra đối với nam dưới 50 tuổi và người chưa dùng phương pháp niệu - sinh dục lần nào .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>However , the incidence of urinary tract infections in men tends to rise after the age of 50 .</s>
+<s id='vn91'>Tuy nhiên , tỉ lệ mắc bệnh nhiễm trùng đường tiểu ở nam giới có xu hướng tăng sau 50 tuổi .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>According to statistics from 1990 , the prevalence of urinary tract infections in pre-school and school girls was 1% to 3% , nearly 30-fold higher than that in boys .</s>
+<s id='vn92'>Theo thống kê từ năm 1990 , bệnh nhiễm trùng đường tiểu ở bé gái tuổi mẫu giáo và tuổi học đường là từ 1% đến 3% , cao hơn gần 30 lần số bé trai mắc bệnh này .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Also , the statistics from the same year show that approximately 5% of girls will develop at least one urinary tract infection in their school years .</s>
+<s id='vn93'>Hơn nữa , số liệu thống kê năm này cũng cho thấy khoảng 5% bé gái bị nhiễm trùng đường tiểu ít nhất một lần trong suốt quãng đời học sinh của mình .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>About half of women will get a urinary tract infection or UTI at some point in life .</s>
+<s id='vn94'>Khoảng chừng ½ phụ nữ sẽ bị nhiễm trùng đường tiểu ( UTI ) vào một lúc nào đó trong đời .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>It happens when germs infect the system that carries urine out of your body - the kidneys , bladder , and the tubes that connect them .</s>
+<s id='vn95'>Chứng bệnh này xảy ra khi các mầm bệnh làm nhiễm trùng cơ quan dẫn nước tiểu ra ngoài cơ thể - thận , bàng quang , và các ống nối chúng với nhau .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Bladder infections are common and usually not serious if treated promptly .</s>
+<s id='vn96'>Viêm bàng quang là bệnh thường thấy và thường không gây nguy hiểm nếu được chữa trị kịp thời .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>But if the infection spreads to the kidneys , it can cause more serious illness .</s>
+<s id='vn97'>Nhưng nếu chứng nhiễm trùng này lan sang thận thì nó có thể gây ra bệnh nguy hiểm hơn .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>UTI symptoms : Bladder infection</s>
+<s id='vn98'>Triệu chứng nhiễm trùng đường tiểu : Viêm bàng quang</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Most UTIs are bladder infections .</s>
+<s id='vn99'>Hầu hết các trường hợp nhiễm trùng đường tiểu đều bị viêm bàng quang .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Symptoms include :</s>
+<s id='vn100'>Triệu chứng bao gồm :</s>
+</spair>
+<spair id='101'>
+<s id='en101'>- Pain or burning during urination</s>
+<s id='vn101'>- Đau hoặc rát khi đi tiểu</s>
+</spair>
+<spair id='102'>
+<s id='en102'>- The urge to urinate often</s>
+<s id='vn102'>- Thường xuyên mắc tiểu</s>
+</spair>
+<spair id='103'>
+<s id='en103'>- Pain in the lower abdomen</s>
+<s id='vn103'>- Đau bụng dưới</s>
+</spair>
+<spair id='104'>
+<s id='en104'>- Urine that is cloudy or foul-smelling</s>
+<s id='vn104'>- Nước tiểu đục hoặc có mùi hôi khó chịu</s>
+</spair>
+<spair id='105'>
+<s id='en105'>- Some people may have no symptoms</s>
+<s id='vn105'>- Một số người có thể không có triệu chứng gì</s>
+</spair>
+<spair id='106'>
+<s id='en106'>UTI symptoms : Kidney infection</s>
+<s id='vn106'>Triệu chứng nhiễm trùng đường tiểu : Nhiễm trùng thận</s>
+</spair>
+<spair id='107'>
+<s id='en107'>An untreated bladder infection can spread to the kidneys .</s>
+<s id='vn107'>Chứng viêm bàng quang nếu để lâu không chữa thì nó có thể lây sang thận .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Signs of this include :</s>
+<s id='vn108'>Dấu hiệu gồm :</s>
+</spair>
+<spair id='109'>
+<s id='en109'>- Pain on either side of the lower back</s>
+<s id='vn109'>- Đau ở hai bên thắt lưng</s>
+</spair>
+<spair id='110'>
+<s id='en110'>- Fever and chills</s>
+<s id='vn110'>- Ớn lạnh và sốt</s>
+</spair>
+<spair id='111'>
+<s id='en111'>- Nausea and vomiting</s>
+<s id='vn111'>- Buồn nôn và ói mửa</s>
+</spair>
+<spair id='112'>
+<s id='en112'>When to see your doctor</s>
+<s id='vn112'>Khi nào nên đến khám bác sĩ</s>
+</spair>
+<spair id='113'>
+<s id='en113'>See your doctor right away if you have signs of a urinary tract infection .</s>
+<s id='vn113'>Khám bác sĩ ngay nếu có dấu hiệu nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>A bladder infection is generally not a medical emergency - but some people have a higher risk for complications .</s>
+<s id='vn114'>Viêm bàng quang thường không phải là bệnh cấp cứu - nhưng một số người có nguy cơ biến chứng cao hơn .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>This includes pregnant women , the elderly , and men , as well as people with diabetes , kidney problems , or a weakened immune system .</s>
+<s id='vn115'>Chúng gồm phụ nữ có thai , người lớn tuổi , và nam giới , cũng như bệnh nhân bị tiểu đường , bị bệnh thận , hoặc có hệ miễn dịch suy yếu .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>UTI or something else ?</s>
+<s id='vn116'>Nhiễm trùng đường tiểu hay là một chứng bệnh nào khác ?</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Although burning during urination is a telltale sign of a UTI , it can also be a symptom of certain sexually transmitted diseases ( STDs ) , including gonorrhea , and trichomoniasis .</s>
+<s id='vn117'>Mặc dù nóng rát khi đi tiểu là một dấu hiện báo trước chứng nhiễm trùng đường tiểu , nhưng đây cũng là một triệu chứng của một số bệnh lây truyền qua đường tình dục ( STDs ) nào đó như bệnh lậu , và bệnh trùng mảng uốn roi đuôi .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Simple lab tests are available to distinguish a UTI from an STD.</s>
+<s id='vn118'>Có thể làm nhiều xét nghiệm trong phòng thí nghiệm đơn giản để phân biệt UTI với STD .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Honeymoon cystitis</s>
+<s id='vn119'>Viêm bàng quang tuần trăng mật</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Few things can ruin a honeymoon like a UTI .</s>
+<s id='vn120'>Ít có thứ gì có thể làm hỏng tuần trăng mật như bệnh nhiễm trùng đường tiểu cả .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>But this is so common , it has its own name - " honeymoon cystitis . "</s>
+<s id='vn121'>Nhưng điều này cũng thường hay xảy ra , như tên của nó - " viêm bàng quang tuần trăng mật " .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>The reason is that sexual activity can push bacteria into the urethra .</s>
+<s id='vn122'>Nguyên nhân là do hoạt động tình dục có thể đẩy vi khuẩn vào niệu đạo .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Of course , the problem is not confined to honeymoons .</s>
+<s id='vn123'>Tất nhiên là vấn đề này không chỉ xảy ra ở tuần trăng mật .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Some women get a bladder infection almost every time they have sex .</s>
+<s id='vn124'>Một số phụ nữ bị viêm bàng quang hầu như ở mỗi lần quan hệ tình dục .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Women who use a diaphragm for birth control are especially vulnerable .</s>
+<s id='vn125'>Đặc biệt phụ nữ sử dụng màng chắn tránh thai thường dễ bị tổn thương .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Stealth UTI</s>
+<s id='vn126'>Chứng nhiễm trùng đường tiểu mà bệnh nhân không ý thức được</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Occasionally , UTIs occur without the classic symptoms .</s>
+<s id='vn127'>Đôi khi bệnh nhiễm trùng đường tiểu xảy ra mà không có triệu chứng gì cổ điển .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>A person may have no symptoms at all .</s>
+<s id='vn128'>Bệnh nhân có thể không biểu hiện triệu chứng gì .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Yet , a urine test shows the presence of bacteria .</s>
+<s id='vn129'>Tuy nhiên , xét nghiệm nước tiểu cho thấy có vi khuẩn .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>This is known as asymptomatic bacteriuria .</s>
+<s id='vn130'>Đây được gọi là chứng tồn tại vi khuẩn mà không có triệu chứng bệnh lý .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>In many cases , no treatment is needed .</s>
+<s id='vn131'>Trong nhiều trường hợp , không cần phải điều trị .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>But pregnant women , some children , and recipients of kidney transplants should be treated to avoid a kidney infection .</s>
+<s id='vn132'>Nhưng đối với phụ nữ có thai , một số trẻ em , và người nhận ghép thận nên được điều trị để tránh làm nhiễm trùng thận .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>UTI Complications</s>
+<s id='vn133'>Các biến chứng của bệnh nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='134'>
+<s id='en134'>The main danger associated with untreated UTIs is that the infection may spread from the bladder to one or both kidneys .</s>
+<s id='vn134'>Mối nguy hiểm chính liên quan đến chứng nhiễm trùng đường tiểu không được điều trị là nhiễm trùng có thể lan từ bàng quang sang một hoặc cả hai quả thận .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>When bacteria attack the kidneys , they can cause damage that will permanently reduce kidney function .</s>
+<s id='vn135'>Khi vi khuẩn tấn công thận , chúng có thể gây tổn thương cho thận và nó sẽ làm giảm chức năng thận vĩnh viễn .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>In people who already have kidney problems , this can raise the risk of kidney failure .</s>
+<s id='vn136'>Ở những người đã bị bệnh thận , thì đây có thể làm tăng nguy cơ suy thận .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>There 's also a chance that the infection may enter the bloodstream and spread to other organs .</s>
+<s id='vn137'>Bên cạnh đó cũng có nguy cơ là bệnh nhiễm trùng có thể xâm nhập vào máu và lây lan đến nhiều cơ quan khác .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>How do UTIs begin ?</s>
+<s id='vn138'>Chứng nhiễm trùng đường tiểu khởi phát như thế nào ?</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Many types of bacteria live in the intestines and the genital area , but this is not true of the urinary system .</s>
+<s id='vn139'>Nhiều loại vi khuẩn sống trong ruột và cơ quan sinh dục , nhưng đây không phải là hệ tiết niệu .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>In fact , urine is sterile .</s>
+<s id='vn140'>Thực ra , nước tiểu là vô trùng .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>So when errant bacteria , such as the E.coli shown here , is accidentally introduced into the urinary system , it can start a UTI .</s>
+<s id='vn141'>Vì thế khi vi khuẩn lang thang , chẳng hạn như trực khuẩn E.coli minh hoạ trong hình này , được đưa vào hệ tiết niệu một cách ngẫu nhiên , nó có thể là khởi phát chứng nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Typically , bacteria travel up the urethra to the bladder , where an infection can take hold .</s>
+<s id='vn142'>Thông thường thì vi khuẩn vào niệu đạo đến bàng quang , và làm nhiễm trùng nơi đây .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Women are more susceptible than men , probably because they have shorter urethras .</s>
+<s id='vn143'>Phụ nữ dễ bị nhiễm trùng hơn nam giới , có lẽ bởi niệu đạo của họ ngắn hơn .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>What boosts your risk ?</s>
+<s id='vn144'>Điều gì làm tăng nguy cơ mắc bệnh của bạn ?</s>
+</spair>
+<spair id='145'>
+<s id='en145'>UTIs are most common in sexually active women .</s>
+<s id='vn145'>Nhiễm trùng đường tiểu thường thấy nhất ở những phụ nữ quan hệ tình dục .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Other factors that may increase your risk include :</s>
+<s id='vn146'>Nhiều yếu tố khác có thể làm tăng nguy cơ mắc bệnh của bạn gồm :</s>
+</spair>
+<spair id='147'>
+<s id='en147'>* Not drinking enough fluids</s>
+<s id='vn147'>* Không uống đủ nước</s>
+</spair>
+<spair id='148'>
+<s id='en148'>* Taking frequent baths</s>
+<s id='vn148'>* Tắm nhiều lần</s>
+</spair>
+<spair id='149'>
+<s id='en149'>* Holding your urine</s>
+<s id='vn149'>* Nín tiểu</s>
+</spair>
+<spair id='150'>
+<s id='en150'>* Kidney stones</s>
+<s id='vn150'>* Sỏi thận</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Urinary tract infections in men</s>
+<s id='vn151'>Nhiễm trùng đường tiểu ở nam giới</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Men are much less likely than women to get UTIs .</s>
+<s id='vn152'>Nam giới rất ít bị nhiễm trùng đường tiểu hơn phụ nữ .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>When it does happen , it 's often related to another underlying medical condition , such as a kidney stone or an enlarged prostate .</s>
+<s id='vn153'>Nhưng khi mắc bệnh thì thường liên quan đến một chứng bệnh nào đó tiềm ẩn khác , chẳng hạn như sỏi thận hoặc giãn tuyến tiền liệt .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>Diagnosing UTIs</s>
+<s id='vn154'>Chẩn đoán bệnh nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='155'>
+<s id='en155'>The first step in diagnosing a UTI is usually a simple urine test called a urinalysis .</s>
+<s id='vn155'>Bước đầu tiên để chẩn đoán nhiễm trùng đường tiểu thường là một xét nghiệm nước tiểu đơn giản được gọi là phân tích nước tiểu .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>It looks for bacteria , as well as abnormal counts of white and red blood cells .</s>
+<s id='vn156'>Xét nghiệm này dò tìm vi khuẩn , đồng thời tính được số tế bào hồng cầu và bạch cầu bất thường .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>The dipstick test provides quick results .</s>
+<s id='vn157'>Xét nghiệm bằng que thử nước tiểu cho kết quả rất nhanh .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Your doctor may also send your urine to a lab for culture to confirm the type of bacteria .</s>
+<s id='vn158'>Bác sĩ cũng có thể gởi nước tiểu của bạn đến phòng thí nghiệm cấy vi khuẩn để xác định loại vi khuẩn .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>At-home test kits can help detect a UTI , but are not 100% accurate .</s>
+<s id='vn159'>Các dụng cụ làm xét nghiệm ở nhà cũng có thể giúp phát hiện được UTI , nhưng không chính xác hoàn toàn 100% .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Be sure to go over the results and your symptoms with your doctor .</s>
+<s id='vn160'>Đảm bảo nên thông báo kết quả và các triệu chứng cho bác sĩ biết .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Treating UTIs</s>
+<s id='vn161'>Điều trị nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Prescription antibiotics will almost always cure a UTI .</s>
+<s id='vn162'>Thuốc kháng sinh theo toa hầu như lúc nào cũng chữa được chứng nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Your health care provider may recommend drinking lots of fluids and emptying your bladder frequently to help flush out the bacteria .</s>
+<s id='vn163'>Bác sĩ có thể khuyến cáo bạn nên uống nhiều nước và đi tiểu thường xuyên để làm sạch vi khuẩn .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Kidney infections can often be treated with oral antibiotics , too .</s>
+<s id='vn164'>Nhiễm trùng thận thường có thể được điều trị bằng thuốc kháng sinh dạng uống .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>But severe kidney infections may require hospital care , including a course of intravenous antibiotics .</s>
+<s id='vn165'>Nhưng nhiều trường hợp nhiễm trùng thận nặng có thể phải cần nhập viện , bao gồm cả quá trình sử dụng thuốc kháng sinh truyền qua đường tĩnh mạch .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Treating recurrent UTIs</s>
+<s id='vn166'>Điều trị chứng nhiễm trùng đường tiểu tái phát</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Some women are prone to getting UTIs over and over again .</s>
+<s id='vn167'>Một số phụ nữ rất dễ tái đi tái lại chứng nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>If you have three or more a year , talk to your doctor about how to prevent or minimize these infections .</s>
+<s id='vn168'>Nếu mỗi năm bạn cứ bị từ 3 lần trở lên thì nên nói chuyện với bác sĩ về cách phòng tránh và hạn chế đối đa chứng bệnh nhiễm trùng này .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Your options may include :</s>
+<s id='vn169'>Bạn có thể lựa chọn những phương án dưới đây :</s>
+</spair>
+<spair id='170'>
+<s id='en170'>* Taking a low dose of antibiotics long-term</s>
+<s id='vn170'>* Sử dụng kháng sinh liều thấp trong thời gian dài</s>
+</spair>
+<spair id='171'>
+<s id='en171'>* Taking a single antibiotic dose after sex</s>
+<s id='vn171'>* Dùng một liều kháng sinh sau khi quan hệ tình dục</s>
+</spair>
+<spair id='172'>
+<s id='en172'>* Taking antibiotics promptly as self-treatment when symptoms appear</s>
+<s id='vn172'>* Sử dụng thuốc kháng sinh ngay tức khắc như là một phương pháp tự điều trị khi thấy bộc phát các triệu chứng bệnh</s>
+</spair>
+<spair id='173'>
+<s id='en173'>UTIs and diabetes</s>
+<s id='vn173'>Bệnh tiểu đường và nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='174'>
+<s id='en174'>People with diabetes are more vulnerable to UTIs for several reasons .</s>
+<s id='vn174'>Người bị tiểu đường dễ bị nhiễm trùng đường tiểu hơn vì một số lý do .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>First , their immune systems tend to be weaker .</s>
+<s id='vn175'>Một là , hệ miễn dịch của họ thường yếu hơn .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>Second , high blood sugar can spill into the urine and encourage the growth of bacteria .</s>
+<s id='vn176'>Hai là , lượng đường trong máu cao có thể tràn vào nước tiểu và làm cho vi khuẩn phát triển nhiều hơn .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Also , nerve damage related to diabetes can prevent the bladder from fully emptying .</s>
+<s id='vn177'>Hơn nữa , tổn hại thần kinh do tiểu đường gây ra có thể làm cho bàng quang không sạch hết nước tiểu .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>People with diabetes should talk with their doctor at the first sign of a UTI .</s>
+<s id='vn178'>Bệnh nhân bị tiểu đường nên thông báo cho bác sĩ biết dấu hiệu nhiễm trùng đường tiểu đầu tiên .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>UTIs and pregnancy</s>
+<s id='vn179'>Chứng nhiễm trùng đường tiểu và thai nghén</s>
+</spair>
+<spair id='180'>
+<s id='en180'>During pregnancy , there are several factors that boost the risk of UTIs , especially a kidney infection .</s>
+<s id='vn180'>Có một số yếu tố làm tăng nguy cơ nhiễm trùng đường tiểu trong thời kỳ thai nghén , nhất là nhiễm trùng thận .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>Hormones cause changes in the urinary tract , and the uterus may put pressure on the ureters or bladder or both - making it more difficult for urine to pass from the kidneys to the bladder and out .</s>
+<s id='vn181'>Các hooc-môn làm cho đường tiểu biến đổi , và tử cung có thể đè nặng lên niệu quản hoặc bàng quang hoặc đè nặng lên cả hai - làm cho nước tiểu dẫn truyền từ thận đến bàng quang và ra ngoài trở nên khó khăn hơn .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>Untreated UTIs can contribute to preterm labor , so be sure to alert your doctor if you suspect you have an infection .</s>
+<s id='vn182'>Nhiễm trùng đường tiểu nếu để lâu không chữa có thể góp phần gây sinh non , vì vậy bạn nên đảm bảo phải thông báo cho bác sĩ biết nếu nghi ngờ mình bị nhiễm trùng nhé .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>UTIs and menopause</s>
+<s id='vn183'>Nhiễm trùng đường tiểu và thời kỳ mãn kinh</s>
+</spair>
+<spair id='184'>
+<s id='en184'>Estrogen has a protective effect in the urinary tract , but levels of this hormone drop off significantly during menopause .</s>
+<s id='vn184'>Hoóc-môn estrogen có tác dụng bảo vệ đường tiểu , nhưng nồng độ hoóc-môn này giảm đáng kể trong thời kỳ mãn kinh .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>Low estrogen levels can make it easier for bacteria to thrive in the vagina or urethra .</s>
+<s id='vn185'>Nồng độ hoóc-môn ét-xtrô-gien thấp có thể tạo điều kiện dễ dàng hơn cho vi khuẩn sinh sôi trong âm đạo hoặc niệu đạo .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>For this reason , women may be more susceptible to UTIs after menopause .</s>
+<s id='vn186'>Vì lý do này mà phụ nữ có thể dễ bị nhiễm trùng đường tiểu hơn sau khi mãn kinh .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>UTIs and hospital stays</s>
+<s id='vn187'>Nhiễm trùng đường tiểu và tình trạng nằm viện</s>
+</spair>
+<spair id='188'>
+<s id='en188'>A hospital stay can put you at risk for a UTI , particularly if you need to use a catheter .</s>
+<s id='vn188'>Nằm viện có thể làm cho bạn có nguy cơ bị nhiễm trùng đường tiểu , nhất là khi bạn cần phải sử dụng ống thông đường tiểu .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>This is a thin tube that 's inserted through the urethra to carry urine out of the body .</s>
+<s id='vn189'>Đây là một ống nhỏ được chèn qua niệu đạo để dẫn nước tiểu ra ngoài cơ thể .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>Bacteria can enter through the catheter and reach the bladder .</s>
+<s id='vn190'>Vi khuẩn có thể xâm nhập vào bên trong qua ống thông đường tiểu và đến bàng quang .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>This is more often a problem for older adults who require prolonged hospital stays or who live in long-term care facilities .</s>
+<s id='vn191'>Đây là một vấn đề thường xuyên xảy ra hơn đối với người già lớn tuổi phải nằm viện thời gian dài hoặc người sống ở các cơ sở chăm sóc sức khỏe dài hạn .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>UTIs in the elderly</s>
+<s id='vn192'>Nhiễm trùng đường tiểu ở người già lớn tuổi</s>
+</spair>
+<spair id='193'>
+<s id='en193'>UTIs are among the most common infections in the elderly .</s>
+<s id='vn193'>Nhiễm trùng đường tiểu là chứng nhiễm trùng thường thấy nhất ở người già .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>But the symptoms may not follow the classic pattern .</s>
+<s id='vn194'>Nhưng các triệu chứng có thể không theo một kiểu cổ điển .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>Agitation , delirium , or other behavioral changes may be the only sign of a UTI in elderly men and women .</s>
+<s id='vn195'>Kích động , mê sảng , hoặc có những thay đổi hành vi khác có thể là một dấu hiệu duy nhất của bệnh đối với cả nam giới và phụ nữ lớn tuổi .</s>
+</spair>
+<spair id='196'>
+<s id='en196'>This age group is also more likely to develop serious complications as a result of UTIs .</s>
+<s id='vn196'>Nhóm tuổi này cũng thường dễ phát sinh các biến chứng nghiêm trọng do nhiễm trùng đường tiểu gây ra .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>UTIs in infants</s>
+<s id='vn197'>Nhiễm trùng đường tiểu ở trẻ sơ sinh</s>
+</spair>
+<spair id='198'>
+<s id='en198'>Babies occasionally develop UTIs , but they ca n't tell you what they feel .</s>
+<s id='vn198'>Trẻ nhỏ đôi khi cũng bị nhiễm trùng đường tiểu , nhưng chúng không thể nói cho bạn nghe cảm giác của chúng được .</s>
+</spair>
+<spair id='199'>
+<s id='en199'>Here are some signs to watch for :</s>
+<s id='vn199'>Dưới đây là một số dấu hiệu giúp bạn theo dõi con mình :</s>
+</spair>
+<spair id='200'>
+<s id='en200'>* An unexplained fever</s>
+<s id='vn200'>* Sốt không rõ nguyên nhân</s>
+</spair>
+<spair id='201'>
+<s id='en201'>* Strange-smelling urine</s>
+<s id='vn201'>* Nước tiểu có mùi lạ</s>
+</spair>
+<spair id='202'>
+<s id='en202'>* Poor appetite or vomiting</s>
+<s id='vn202'>* Chán ăn hoặc ói mửa</s>
+</spair>
+<spair id='203'>
+<s id='en203'>* Fussy behavior</s>
+<s id='vn203'>* Hay quấy khóc</s>
+</spair>
+<spair id='204'>
+<s id='en204'>UTIs in children</s>
+<s id='vn204'>Nhiễm trùng đường tiểu ở trẻ nhỏ</s>
+</spair>
+<spair id='205'>
+<s id='en205'>About 1% of boys and 3% of girls develop UTIs by age 11 .</s>
+<s id='vn205'>Có khoảng 1% bé trai và 3% bé gái bị nhiễm trùng đường tiểu trước 11 tuổi .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>This includes some children who repeatedly delay a bathroom trip .</s>
+<s id='vn206'>Nó bao gồm một số trẻ nhịn tiểu nhiều lần .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>Their muscles may not relax enough to fully empty the bladder and flush away any bacteria .</s>
+<s id='vn207'>Các cơ của chúng có thể không giãn đủ để có thể đi tiểu hết và đẩy vi khuẩn ra ngoài .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>More regular bathroom trips and drinking plenty of liquids may help babies to solve .</s>
+<s id='vn208'>Trẻ nhỏ có thể cải thiện tình trạng này bằng cách đi tiểu thường xuyên hơn và uống nhiều nước hơn .</s>
+</spair>
+<spair id='209'>
+<s id='en209'>A small number of children have a structural problem that obstructs urine flow or lets urine flow back from the bladder to the kidneys , triggering chronic kidney infections .</s>
+<s id='vn209'>Một vài em có vấn đề về cấu trúc làm cản trở luồng nước tiểu hoặc làm cho nước tiểu trở ngược từ bàng quang vào thận , gây nhiễm trùng thận mãn tính .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>UTI or potty training problem ?</s>
+<s id='vn210'>Nhiễm trùng đường tiểu hay vấn đề huấn luyện đi vệ sinh ?</s>
+</spair>
+<spair id='211'>
+<s id='en211'>Accidents are par for the course during toilet training .</s>
+<s id='vn211'>Các tai nạn thường xảy ra trong suốt quá trình cho trẻ nhỏ tự đi vệ sinh .</s>
+</spair>
+<spair id='212'>
+<s id='en212'>Even kids who have mastered the art of the potty may sometimes have a relapse .</s>
+<s id='vn212'>Thậm chí khi trẻ đã quen với việc ngồi bô cũng có thể bị rủi ro .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>Other children may scream or cry when taken to the potty , as a way of rebelling against the process .</s>
+<s id='vn213'>Nhiều trẻ có thể khóc thét hay la toáng lên khi phải ngồi bô , đây là một cách chống đối của chúng .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>These are generally not signs of a UTI .</s>
+<s id='vn214'>Thông thường thì đây không phải là dấu hiệu của chứng nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='215'>
+<s id='en215'>Preventing UTIs</s>
+<s id='vn215'>Ngăn ngừa nhiễm trùng đường tiểu</s>
+</spair>
+<spair id='216'>
+<s id='en216'>Here are several strategies to reduce your risk of UTIs :</s>
+<s id='vn216'>Dưới đây là một số phương pháp có thể giúp bạn giảm nguy cơ mắc bệnh :</s>
+</spair>
+<spair id='217'>
+<s id='en217'>* Drink plenty of water .</s>
+<s id='vn217'>* Uống nhiều nước .</s>
+</spair>
+<spair id='218'>
+<s id='en218'>* Visit the toilet before and after sex .</s>
+<s id='vn218'>* Đi tiểu trước và sau khi quan hệ tình dục .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>* Wipe from front to back .</s>
+<s id='vn219'>* Lau từ trước ra sau .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>* Avoid feminine hygiene sprays .</s>
+<s id='vn220'>* Tránh xịt vệ sinh phụ nữ .</s>
+</spair>
+<spair id='221'>
+<s id='en221'>* Take showers instead of baths .</s>
+<s id='vn221'>* Bạn nên tắm vòi hoa sen thay vì bồn tắm .</s>
+</spair>
+<spair id='222'>
+<s id='en222'>The cranberry connection</s>
+<s id='vn222'>Mối tương quan với man việt quất</s>
+</spair>
+<spair id='223'>
+<s id='en223'>Maybe Mom told you that cranberry juice cures a UTI .</s>
+<s id='vn223'>Có thể mẹ bạn đã kể cho bạn biết nước ép man việt quất có tác dụng chữa bệnh nhiễm trùng đường tiểu .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>She 's close .</s>
+<s id='vn224'>Bà ấy nói gần đúng đấy .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>Some studies suggest it can prevent , but not treat an infection , and is more effective in young and middle-aged women .</s>
+<s id='vn225'>Một số công trình nghiên cứu cho thấy man việt quất có thể phòng tránh , nhưng không chữa được bệnh nhiễm trùng , và hiệu quả hơn đối với phụ nữ ở tuổi thanh niên và trung niên .</s>
+</spair>
+<spair id='226'>
+<s id='en226'>Cranberries contain a substance that prevents E.coli bacteria from sticking to the walls of the bladder .</s>
+<s id='vn226'>Man việt quất chứa chất có thể làm cho vi khuẩn E.coli không bám được vào vách bàng quang .</s>
+</spair>
+<spair id='227'>
+<s id='en227'>If you do n't like the taste of cranberry juice , capsules or tablets may work , too .</s>
+<s id='vn227'>Nếu không thích mùi vị của nước ép man việt quất , thì các viên nén hoặc viên con nhộng cũng có tác dụng tốt .</s>
+</spair>
+<spair id='228'>
+<s id='en228'>People with a history of kidney stones should check with a doctor , first .</s>
+<s id='vn228'>Người có tiền sử bị sỏi thận nên tham khảo ý kiến của bác sĩ trước .</s>
+</spair>
+</text>
+</doc>

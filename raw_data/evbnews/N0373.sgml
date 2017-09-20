@@ -1,0 +1,128 @@
+﻿<doc id='N0373'>
+<head>
+<title>Computers , Children and the Digital Divide</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Computers , Children and the Digital Divide</s>
+<s id='vn1'>Máy tính , Trẻ em và Khoảng cách Số hóa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Market researchers estimate that more than one billion personal computers are in use worldwide .</s>
+<s id='vn2'>Những nhà nghiên cứu thị trường ước tính có hơn một tỉ máy tính cá nhân được sử dụng trên toàn thế giới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Availability has improved in developing countries , but still remains limited compared to industrialized nations .</s>
+<s id='vn3'>Sự trang bị máy tính đã được cải thiện ở các nước đang phát triển , nhưng vẫn còn hạn chế so với các quốc gia công nghiệp hoá .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Experts continue to debate how best to close this digital divide .</s>
+<s id='vn4'>Chuyên gia tiếp tục thảo luận cách tốt nhất để xoá bỏ khoảng cách số .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Nicholas Negroponte established the One Laptop Per Child project in 2005 .</s>
+<s id='vn5'>Nicholas Negroponte thành lập dự án Một máy tính xách tay cho mỗi trẻ em vào năm 2005 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He would like to put a low-cost laptop in the hands of every child , especially those living in extreme poverty .</s>
+<s id='vn6'>Ông muốn mang một chiếc máy tính xách tay giá rẻ đến tay của mỗi đứa trẻ , nhất là những trẻ em sống trong cảnh nghèo cùng cực .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>His nonprofit organization has shipped its specially designed laptop to developing countries around the world .</s>
+<s id='vn7'>Tổ chức phi lợi nhuận của ông ấy đã chuyển những máy tính xách tay được thiết kế đặc biệt đến các nước đang phát triển ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>NICHOLAS NEGROPONTE : " It is already in the hands of 1.2 million children , in 31 countries , 19 languages .</s>
+<s id='vn8'>NICHOLAS NEGROPONTE : " Trong tay của 1,2 triệu trẻ em đã có máy tính xách tay , ở 31 quốc gia , với 19 ngôn ngữ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Uruguay has just completed doing every single child in the country . "</s>
+<s id='vn9'>Uruguay đã đạt chỉ tiêu trang bị mỗi đứa trẻ một ở quốc gia này . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But the program has critics .</s>
+<s id='vn10'>Nhưng chương trình cũng gặp một số chỉ trích .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They say trying to supply every child with a laptop , even at the current price of one hundred sixty dollars , is costly and inefficient .</s>
+<s id='vn11'>Họ cho rằng thật tốn kém và vô bổ khi cung cấp mỗi trẻ em một máy tính xách tay , thậm chí hiện tại chỉ có giá là 160 đô-la mỗi chiếc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Stephen Dukker also makes low-cost computers .</s>
+<s id='vn12'>Stephen Dukker cũng là một nhà sản xuất máy tính giá rẻ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But his can run programs and applications for several students at once .</s>
+<s id='vn13'>Nhưng máy tính của ông có thể đồng thời chạy được những chương trình và ứng dụng cho vài sinh viên .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He says these " virtual desktops " lower costs , reduce energy use and lessen the need for technical support .</s>
+<s id='vn14'>Ông ấy nói " những chiếc máy tính ảo " giúp giảm bớt chi phí , năng lượng sử dụng và nhu cầu hỗ trợ kỹ thuật .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>His company NComputing says it has set up over forty thousand networks in more than one hundred countries .</s>
+<s id='vn15'>Công ty NComputing của ông ấy cho biết đã thiết lập hơn 40 ngàn mạng lưới trong hơn 100 một quốc gia .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Stephen Dukker says all you need to connect to a network is a keyboard and monitor .</s>
+<s id='vn16'>Stephen Dukker nói tất cả những gì bạn cần để kết nối vào mạng là một bàn phím và màn hình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>STEPHEN DUKKER : " You think you've got your own computer all to yourself and you can't tell the difference that you 're working on something other than a computer and sharing this other resource and doing it at a much lower cost than having your own PC . "</s>
+<s id='vn17'>STEPHEN DUKKER : " Bạn sẽ nghĩ rằng bạn đang có một chiếc máy tính riêng cho mình và bạn không thể phân biệt là bạn đang làm việc trên cái gì đó ngoài máy tính và chia sẻ tài nguyên này và thực hiện việc đó với giá thành thấp hơn nhiều so với việc có một chiếc máy tính cá nhân riêng của mình . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>As computers reach more children in developing countries , so too in many cases is the Internet .</s>
+<s id='vn18'>Khi máy tính đến được với trẻ em hơn ở các nước đang phát triển , thì Internet cũng vậy .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It can be a great educational tool .</s>
+<s id='vn19'>Đó có thể là một công cụ giáo dục vĩ đại .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But children also need to learn about the possible threats that can be found on social networks and other sites .</s>
+<s id='vn20'>Nhưng trẻ em cũng cần nên biết về những mối đe doạ có thể có thể được tìm thấy trên mạng xã hội và những trang web khác .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Mark Matunga is with Microsoft East Africa in Kenya .</s>
+<s id='vn21'>Mark Matunga làm việc tại Microsoft East Africa ở Kenya .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He says poverty may put African children especially at risk .</s>
+<s id='vn22'>Ông nói sự nghèo khổ có thể đặc biệt đưa trẻ em châu Phi vào tình thế rủi ro .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>MARK MATUNGA :</s>
+<s id='vn23'>MARK MATUNGA :</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" They 're being told that , Hey you know what , I can send you a few dollars .</s>
+<s id='vn24'>" Chúng đang được dụ dỗ rằng , Này , cháu có biết không , tôi có thể gửi cho cháu một vài đô la .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>I can come and visit you .</s>
+<s id='vn25'>Tôi có thể đến thăm cháu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I can buy you a ticket .</s>
+<s id='vn26'>Tôi có thể mua vé cho cháu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>You come to my country . "</s>
+<s id='vn27'>Cháu đến đất nước của tôi . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>His company is working with the Kenyan government and a children 's rights group .</s>
+<s id='vn28'>Công ty ông đang làm việc với chính phủ Kenya và một nhóm bảo vệ quyền trẻ em .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Mark Matunga says the coalition is trying to educate the public about how to protect children from online abuse .</s>
+<s id='vn29'>Mark Matunga nói liên minh này đang cố gắng giáo dục cho quần chúng biết cách bảo vệ trẻ em khỏi vấn nạn lạm dụng trên mạng .</s>
+</spair>
+</text>
+</doc>

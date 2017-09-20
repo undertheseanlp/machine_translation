@@ -1,0 +1,180 @@
+﻿<doc id='N0723'>
+<head>
+<title>Drinking during pregnancy increases risk of premature birth</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Drinking during pregnancy increases risk of premature birth</s>
+<s id='vn1'>Uống rượu trong thời kỳ mang thai làm tăng nguy cơ sinh non</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Drinking alcohol during pregnancy is associated with an increased risk of miscarriage , premature birth , and low birth weight .</s>
+<s id='vn2'>Uống rượu khi mang thai đi kèm với tăng nguy cơ sẩy thai , sinh non , và sinh thiếu ký .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But there are conflicting reports about how much alcohol , if any , it is safe for a pregnant woman to drink .</s>
+<s id='vn3'>Nhưng có những báo cáo trái ngược nhau về lượng rượu , nếu có , là an toàn cho phụ nữ mang thai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>New research published in Biomed Central 's open access journal BMC Pregnancy and Childbirth looked at the amounts of alcohol women drank during their early pregnancy and showed the effect this had on their babies .</s>
+<s id='vn4'>Nghiên cứu mới công bố trên Tạp chí quốc tế mở Biomed Central Thai kỳ và Sinh sản BMC xem xét lượng rượu người mẹ uống trong giai đoạn đầu thai kỳ và cho thấy ảnh hưởng của việc này trên em bé của họ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Researchers in Dublin questioned more than 60,000 pregnant women during their hospital booking interview , which usually occurred 10-12 weeks after conception .</s>
+<s id='vn5'>Các nhà nghiên cứu ở Dublin phỏng vấn hơn 60.000 phụ nữ mang thai trong buổi hẹn khám thai tại bệnh viện của họ , thường tại 10-12 tuần sau khi thụ thai .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The women were asked about their home life , whether they worked , what their nationality was , as well as their drinking habits prior to their antenatal booking visit .</s>
+<s id='vn6'>Những phụ nữ này được hỏi về cuộc sống gia đình , nghề nghiệp , quốc tịch , cũng như thói quen uống rượu của họ trước khi đi khám thai .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This data was compared to data from the birth record and to records from the special care baby unit .</s>
+<s id='vn7'>Dữ liệu này được so sánh với dữ liệu từ các hồ sơ khai sinh và báo cáo từ các đơn vị chăm sóc em bé đặc biệt .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>While about a fifth of these women said that they never drank , 71% claimed to be occasional drinkers ( 0-5 units a week ) .</s>
+<s id='vn8'>Trong khi khoảng 1% trong số các phụ nữ này cho biết họ không bao giờ uống rượu , 71% uống rượu thường xuyên ( 0-5 đơn vị tuần ) .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Within this low-alcohol group there was one case of fetal alcohol syndrome , so it is likely that some of the women were underestimating ( or under reporting ) the amount they drank .</s>
+<s id='vn9'>Trong nhóm ít uống rượu có 1 trường hợp mắc hội chứng nhiễm rượu ở bào thai , vì vậy có thể một vài phụ nữ đã đánh giá thấp ( hoặc báo cáo ít đi ) lượng rượu mà họ uống .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In general , fetal alcohol syndrome occurred less frequently than expected in this study , suggesting that it is either not recognized by medical staff or only becomes apparent after the mother and baby have left the hospital .</s>
+<s id='vn10'>Nhìn chung , hội chứng nhiễm rượu ở bào thai xảy ra không thường xuyên như mong đợi trong nghiên cứu này , có thể do nó không được nhận biết bởi nhân viên y tế hoặc chỉ trở nên rõ ràng sau khi mẹ và em bé đã xuất viện .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>10% of the pregnant women drank a moderate amount of alcohol ( 6-20 units a week ) .</s>
+<s id='vn11'>10% phụ nữ có thai uống lượng cồn vừa phải ( 6-20 đơn vị một tuần ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>These women were more likely to smoke , be in work and to have private health care compared to those who never drank .</s>
+<s id='vn12'>Những phụ nữ này cũng có nhiều khả năng hút thuốc , có công việc và chăm sóc sức khoẻ cá nhân so với những người không bao giờ uống .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Only 2 in 1000 admitted to being heavy drinkers ( greater than 20 units per week ) .</s>
+<s id='vn13'>Chỉ 2 trong 1000 người thừa nhận là mình nghiện rượu ( uống hơn 20 đơn vị mỗi tuần ) .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>These women were most likely to be young and to have used illegal drugs .</s>
+<s id='vn14'>Những phụ nữ này hầu hết còn trẻ và đã dùng ma túy bất hợp pháp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The moderate and heavy drinkers were often first time mums ( not surprisingly , unplanned pregnancy was associated with heavy drinking ) .</s>
+<s id='vn15'>Những người uống rượu nhiều và nghiện rượu thường là người lần đầu tiên làm mẹ ( không có gì ngạc nhiên khi việc mang thai ngoài ý muốn thường đi kèm với nghiện rượu ) .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Heavy drinking was also related to very premature birth , and hence all the problems premature babies have including the increased risk of disease as an adult .</s>
+<s id='vn16'>Nghiện rượu nặng cũng liên quan đến sinh thiếu tháng rất nhiều , và do đó tất cả các vấn đề mà trẻ sinh non có thể mắc phải bao gồm cả nguy cơ bệnh tật tăng khi đã là người trưởng thành .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>However , there was no difference in occurrence of congenital or other birth defects regardless of the amount of alcohol drunk .</s>
+<s id='vn17'>Tuy nhiên , không có sự khác biệt về sự xuất hiện của các khuyết tật bẩm sinh hoặc các khuyết tật khác bất kể lượng rượu tiêu thụ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Prof Murphy said , " This study emphasizes the need for improved detection of alcohol misuse in pregnancy and for early intervention in order to minimize the risks to the developing fetus .</s>
+<s id='vn18'>Giáo sư Murphy cho biết , " Nghiên cứu này nhấn mạnh sự cần thiết của phát hiện nhạy việc lạm dụng rượu trong thai kỳ và ngăn ngừa sớm để giảm đến tối thiểu các nguy cơ đối với thai nhi đang phát triển .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>We would recommend that further research is required before even low amounts of alcohol can be considered safe . "</s>
+<s id='vn19'>Chúng tôi đề nghị cần có các nghiên cứu sâu hơn nữa trước khi cho rằng các lượng nhỏ rượu là an toàn . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Citation</s>
+<s id='vn20'>Trích dẫn</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Prevalence , predictors and perinatal outcomes of peri-conceptional alcohol exposure - retrospective cohort study in an urban obstetric population in Ireland "</s>
+<s id='vn21'>" Tỷ lệ , dự đoán và các kết quả chu sinh của việc uống rượu đối với thai kỳ - nghiên cứu đoàn hệ lịch sử trong dân số đô thị thuộc sản khoa tại Ireland "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Aoife Mullally , Brian J Cleary , Joe Barry , Tom P Fahey and Deirdre J Murphy</s>
+<s id='vn22'>Aoife Mullally , Brian J Cleary , Joe Barry , Tom P Fahey và Deirdre J Murphy</s>
+</spair>
+<spair id='23'>
+<s id='en23'>BMC Pregnancy and Childbirth</s>
+<s id='vn23'>Thai kỳ và Sinh sản BMC</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Sleep position during pregnancy " link to still-birth "</s>
+<s id='vn24'>Tư thế ngủ khi đang mang thai " liên quan đến nguy cơ thai chết non "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Even among the women surveyed who lay on their right , the risk remained extremely small</s>
+<s id='vn25'>Thậm chí ở những phụ nữ được khảo sát có tư thế ngủ nghiêng bên phải , nguy cơ này vẫn vô cùng thấp .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Experts want urgent research to see if the position a woman chooses to sleep in during late pregnancy affects still-birth risk , as a study suggests a link .</s>
+<s id='vn26'>Các chuyên gia muốn nghiên cứu khẩn cấp xem liệu tư thế ngủ mà phụ nữ mang thai lựa chọn trong cuối thai kỳ có ảnh hưởng đến nguy cơ thai chết non không , theo như một nghiên cứu đưa ra mối liên hệ này .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The University of Auckland compared 155 women who had late still-births with 310 who had healthy pregnancies .</s>
+<s id='vn27'>Đại học Auckland đã làm phép so sánh 155 phụ nữ có thai chết lưu muộn với 310 phụ nữ mang thai khoẻ mạnh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Sleeping on the back or right side , rather than the left , doubled the risk - but only to almost four in 1,000 .</s>
+<s id='vn28'>Ngủ với tư thế nằm ngửa hay nghiêng bên phải , chớ không phải bên trái , làm tăng gấp đôi nguy cơ - nhưng chỉ có chưa đầy bốn người bị trong số 1.000 người .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Left-side lying aids blood flow to the baby , as the mother 's major blood vessels are unimpeded by a heavy womb .</s>
+<s id='vn29'>Nằm nghiêng qua bên trái giúp hỗ trợ cho máu lưu thông đến em bé , trong khi mạch máu chính của người mẹ không bị ngăn cản bởi sức nặng của tử cung .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The New Zealand study , published in the British Medical Journal , called for larger studies to test the findings .</s>
+<s id='vn30'>Nghiên cứu của New Zealand , được công bố trong tập san y học Anh , đã kêu gọi thực hiện các nghiên cứu với quy mô lớn hơn để kiểm tra phát hiện này .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Ms Daghni Rajasingam of the Royal College of Obstetricians and Gynaecologists said : " There are many factors which are linked to still-birth including obesity , increasing maternal age , ethnicity , congenital anomalies and placental conditions .</s>
+<s id='vn31'>Cô Daghni Rajasingam thuộc Trường Cao đẳng Sản phụ khoa Hoàng gia cho biết : " Có nhiều yếu tố liên quan đến thai chết non bao gồm béo phì , tuổi làm mẹ cao , tính cách sắc tộc , dị tật bẩm sinh và tình trạng nhau .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>A significant number are unexplained . "</s>
+<s id='vn32'>Một con số đáng kể vẫn chưa giải thích được . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" This small-scale study looks at another possible factor .</s>
+<s id='vn33'>" Nghiên cứu qui mô nhỏ này sẽ kiểm tra thêm một yếu tố có khả năng xảy ra khác nữa .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>However , more research is needed into sleep patterns before any firm conclusions over sleeping positions can be made .</s>
+<s id='vn34'>Tuy nhiên , cần nghiên cứu thêm về thói quen đi ngủ trước khi có thể đưa ra kết luận chắc chắn về tư thế ngủ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In the meantime , women should speak to their midwives if they are concerned . "</s>
+<s id='vn35'>Trong khi chờ đợi , những phụ nữ nên trò chuyện với các nữ hộ sinh của họ nếu thấy lo lắng "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The UK has one of the highest still-birth rates in the developed world .</s>
+<s id='vn36'>Vương quốc Anh là một quốc gia có tỉ lệ thai chết non cao nhất trong thế giới phát triển .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Every year here 4,000 babies are still-born .</s>
+<s id='vn37'>Mỗi năm ở đây có khoảng 4.000 em bé bị chết non .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>A third of still-births have no clear cause .</s>
+<s id='vn38'>Một phần ba thai chết non không có nguyên nhân rõ ràng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Janet Scott , of the still-birth and neonatal-death charity Sands , said : " We would like to see further research into sleep in pregnancy encouraged and funded as a matter of urgency .</s>
+<s id='vn39'>Janet Scott , thuộc hội từ thiện Sands hỗ trợ vấn đề thai chết non và thai chết chưa đầy tháng tuổi , đã nói : " Chúng tôi muốn xem xét liệu việc nghiên cứu thêm về giấc ngủ trong quá trình mang thai có nên được khuyến khích và cấp kinh phí thực hiện như là vấn đề cấp thiết không .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" The study will require further validation before any widespread public health campaign could be justified .</s>
+<s id='vn40'>" Nghiên cứu này sẽ cần hợp thức hoá thêm trước khi có bất kỳ cuộc vận động y tế rộng rãi nào được chứng minh .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" Mums want to know what they can do to reduce the chance of this happening to their baby .</s>
+<s id='vn41'>" Những người mẹ muốn biết những gì họ có thể làm để giảm khả năng này xảy ra với em bé của mình .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" A simple message which mums could follow , which would reduce their risk of still-birth , would be very welcome . "</s>
+<s id='vn42'>" Thông điệp đơn giản mà những bà mẹ có thể làm theo để giảm nguy cơ thai chết non , sẽ là " rất hoan nghênh "</s>
+</spair>
+</text>
+</doc>

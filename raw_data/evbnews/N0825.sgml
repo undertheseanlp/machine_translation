@@ -1,0 +1,208 @@
+﻿<doc id='N0825'>
+<head>
+<title>An Introduction To Stock Market Indexes</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>An Introduction To Stock Market Indexes</s>
+<s id='vn1'>Giới thiệu về các chỉ số của thị trường chứng khoán</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's not unusual for people to talk about " the market " as if there were a common meaning for the word .</s>
+<s id='vn2'>Mọi người đôi khi cũng hay nói về " thị trường " như thể từ ngữ này rất thông dụng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But in reality , the many indexes of the differing segments of the market don't always move in tandem .</s>
+<s id='vn3'>Nhưng thực tế , nhiều chỉ số của những phân khúc thị trường khác nhau không phải lúc nào cũng tương ứng với nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>If they did , there would be no reason to have multiple indexes .</s>
+<s id='vn4'>Nếu chúng thay đổi như nhau , thì chẳng có lý do gì mà lại có lắm loại chỉ số đến như vậy .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>By gaining a clear understanding of how indexes are created and how they differ , you will be on your way to making sense of the daily movements in the marketplace .</s>
+<s id='vn5'>Qua việc hiểu rõ các chỉ số được tạo ra như thế nào và chúng khác nhau ra sao , bạn sẽ dễ dàng hiểu được những biến động hàng ngày trên thị trường .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Here we 'll compare and contrast the main market indexes so that the next time you hear someone refer to " the market " , you 'll have a better idea of just what they mean .</s>
+<s id='vn6'>Sau đây chúng tôi sẽ đối chiếu và làm nổi bật sự khác biệt những chỉ số thị trường chủ yếu để từ nay bạn nghe ai đó đề cập đến " thị trường " , bạn sẽ rành hơn những gì họ nói .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The Dow</s>
+<s id='vn7'>Chỉ số Dow Jones</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If you ask an investor how " the market " is doing , you might get an answer that is based on the Dow .</s>
+<s id='vn8'>Nếu bạn hỏi một nhà đầu tư hôm nay " thị trường " thế nào , bạn có thể nhận được câu trả lời dựa vào chỉ số Dow Jones .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The Dow Jones Industrial Average ( DJIA ) is one of the oldest , most well-known and most frequently used indexes in the world .</s>
+<s id='vn9'>Chỉ số Bình quân Công nghiệp Dow Jones ( DJIA ) là một trong những chỉ số lâu đời , nổi tiếng và được sử dụng nhiều nhất trên thế giới .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It includes the stocks of 30 of the world 's largest and most influential companies .</s>
+<s id='vn10'>Nó bao gồm cổ phiếu của 30 công ty lớn nhất và có ảnh hưởng nhất hành tinh này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The DJIA is what 's known as a price weighted index .</s>
+<s id='vn11'>Chỉ số DJIA được biết đến là một chỉ số nghiêng về giá .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It was originally computed by adding up the per-share price of the stocks of each company in the index and dividing this sum by the number of companies - that 's why it 's called an average .</s>
+<s id='vn12'>Nó ban đầu được tính bằng cách cộng giá mỗi cổ phiếu của các cổ phiếu của từng công ty trong chỉ số và chia tổng này cho số công ty - đó là lý do vì sao nó gọi là chỉ số bình quân .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Unfortunately , it is no longer this simple to calculate .</s>
+<s id='vn13'>Tiếc là phép tích đơn giản này không còn được dùng nữa .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Over the years , stock splits , spin -offs and other events have resulted in changes in the divisor , making it a very small number ( less than 0.2 ) .</s>
+<s id='vn14'>Qua năm tháng , những lần chia nhỏ cổ phiếu , những vụ chia tách doanh nghiệp và những sự kiện khác đã dẫn đến những thay đổi về ước số , làm cho ước số là một số rất nhỏ ( ít hơn 0,2 ) .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The DJIA represents about a quarter of the value of the entire U.S. stock market , but a percent change in the Dow should not be interpreted as a definite indication that the entire market has dropped by the same percent .</s>
+<s id='vn15'>Chỉ số DJIA đại diện cho khoảng một phần tư giá trị toàn thị trường chứng khoán Mỹ , nhưng một sự thay đổi phần trăm chỉ số Dow Jones không nên được hiểu là dấu hiệu chắc chắn rằng toàn thị trường đã mất cùng tỷ lệ phần trăm ấy .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This is because of the Dow 's price-weighted function .</s>
+<s id='vn16'>Là vì chức năng nghiêng về giá của chỉ số Dow Jones .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The basic problem is that a $ 1 change in the price of a $ 120 stock in the index will have the same effect on the DJIA as a $ 1 change in the price of a $ 20 stock , even though one stock may have changed by 0.8% and the other by 5% .</s>
+<s id='vn17'>Vấn đề cơ bản là thay đổi 1 đô la giá của một cổ phiếu 120 đô la trong chỉ số sẽ có cùng tác động đối với chỉ số Dow Jones như thay đổi 1 đô la giá của cổ phiếu 20 đô la , mặc dù một cổ phiếu có thể đã thay đổi 0,8% và cổ phiếu kia là 5% .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A change in the Dow represents changes in investors " expectations of the earnings and risks of the large companies included in the average .</s>
+<s id='vn18'>Một sự thay đổi chỉ số Dow Jones đại diện cho những thay đổi trong dự tính của nhà đầu tư về thu nhập và rủi ro của những công ty lớn có trong chỉ số bình quân này .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Because the general attitude toward large-cap stocks often differs from the attitude toward small-cap stocks , international stocks or technology stocks , the Dow should not be used to represent sentiment in other areas of the marketplace .</s>
+<s id='vn19'>Vì thái độ chung đối với những cổ phiếu công ty vốn hoá thị trường lớn thường khác thái độ đối với những cổ phiếu công ty nhỏ , cổ phiếu quốc tế hay cổ phiếu công nghệ , không nên dùng chỉ số Dow Jones đại diện cho cảm tính trong những lĩnh vực khác của thị trường .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>On the other hand , because the Dow is made up of some of the most well-known companies in the U.S. , large swings in this index generally correspond to the movement of the entire market , although not necessarily on the same scale .</s>
+<s id='vn20'>Nói cách khác , vì chỉ số Dow Jones gồm một số công ty nổi tiếng nhất ở Mỹ , nên những biến động lớn trong chỉ số này thường tương ứng với xu hướng toàn thị trường , mặc dù không nhất thiết trên cùng một quy mô .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The SP 500</s>
+<s id='vn21'>Chỉ số SP 500</s>
+</spair>
+<spair id='22'>
+<s id='en22'>When investors say that their portfolios have " beaten the market " , they are usually referring to the performance of the SP 500 .</s>
+<s id='vn22'>Khi các nhà đầu tư nói danh mục đầu tư của họ đã " đánh bại thị trường " , họ thường có ý nói đến tình hình hoạt động của chỉ số SP 500 .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The Standard Poor 's 500 Stock Index is a larger and more diverse index than the DJIA .</s>
+<s id='vn23'>Chỉ số 500 chứng khoán của Standard Poor là chỉ số lớn và đa dạng hơn Chỉ số Dow Jones .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Made up of 500 of the most widely traded stocks in the U.S. , it represents about 70 % of the total value of U.S. stock markets .</s>
+<s id='vn24'>Hình thành từ 500 trong số những cổ phiếu được giao dịch nhiều nhất ở Mỹ , chỉ số này đại diện cho khoảng 70% tổng giá trị các thị trường chứng khoán Mỹ .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In general , the SP 500 index gives a good indication of movement in the U.S. marketplace as a whole .</s>
+<s id='vn25'>Nói chung , chỉ số SP 500 chỉ báo chính xác xu hướng toàn bộ thị trường Mỹ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Because the SP 500 index is market weighted ( also referred to as capitalization weighted ) , every stock in the index is represented in proportion to its total market capitalization .</s>
+<s id='vn26'>Vì chỉ số SP 500 là chỉ số nghiêng về thị trường ( còn được gọi là chỉ số nghiêng về vốn hoá thị trường ) , giá trị mỗi cổ phiếu trong chỉ số cân xứng với tổng giá trị vốn hoá thị trường của nó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In other words , if the total market value of all 500 companies in the SP 500 drops by 10 % , the value of the index also drops by 10 % .</s>
+<s id='vn27'>Nói cách khác , nếu tổng giá trị thị trường của tất cả 500 công ty trong chỉ số SP 500 giảm 10% , thì giá trị của chỉ số cũng giảm 10% .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A 10% movement in all stocks in the DJIA , by contrast , would not necessarily cause a 10% change in the index .</s>
+<s id='vn28'>Ngược lại , một biến động 10% trong tất cả các cổ phiếu của chỉ số Dow Jones sẽ không tất yếu gây ra sự thay đổi 10% trong chỉ số này .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Many people consider the market weighting used in the SP 500 to be a better measure of the market 's movement because two portfolios can be more easily compared when changes are measured in percentages rather than dollar amounts .</s>
+<s id='vn29'>Nhiều người coi phép tính nghiêng về thị trường dùng trong chỉ số SP 500 là một biện pháp đánh giá chính xác hơn xu hướng của thị trường vì có thể đối chiếu hai danh mục đầu tư dễ dàng hơn khi những thay đổi được tính bằng tỷ lệ phần trăm chứ không phải bằng số lượng đồng đô la .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The SP 500 index includes companies in a variety of sectors , including energy , industrials , information technology , healthcare , financials and consumer staples .</s>
+<s id='vn30'>Chỉ số SP 500 bao gồm các công ty trong nhiều lĩnh vực : năng lượng , công nghiệp , công nghệ thông tin , y tế , tài chính , và sản phẩm tiêu dùng chủ yếu .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The Wilshire 5000</s>
+<s id='vn31'>Chỉ số Wilshire 5000</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The Wilshire 5000 is sometimes called the " total stock market index " or " total market index " because it includes more than 7,000 of the 10,000-plus securities that are publicly traded in the United States .</s>
+<s id='vn32'>Chỉ số Wilshire 5000 đôi khi được gọi là " chỉ số toàn thị trường chứng khoán " hay " chỉ số toàn thị trường " vì nó bao gồm hơn 7000 trong số hơn 10000 chứng khoán giao dịch công khai tại Mỹ .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>All publicly-traded companies with headquarters in the U.S. that have readily available price data are included in the Wilshire 5000 .</s>
+<s id='vn33'>Tất cả các công ty giao dịch trên thị trường chứng khoán trụ sở ở Mỹ có dữ liệu giá cả sẵn sàng công bố đều có trong chỉ số Wilshire 5000 .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Finalized in 1974 , this index is extremely diverse , including stocks from every industry .</s>
+<s id='vn34'>Hoàn thành vào năm 1974 , chỉ số này rất phong phú , bao gồm cổ phiếu của mọi ngành .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Although it 's a near-perfect measure of the entire U.S. market , the Wilshire 5000 is referred to less often than the less comprehensive SP 500 when people talk about the entire market .</s>
+<s id='vn35'>Mặc dù nó là một thước đo gần như hoàn hảo của toàn thị trường Mỹ , nhưng chỉ số Wilshire 5000 ít được đề cập đến so với chỉ số SP 500 vốn mang tính tổng hợp thấp khi người ta nói về toàn thị trường .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The Nasdaq Composite Index</s>
+<s id='vn36'>Chỉ số hỗn hợp Nasdaq</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Most investors know that the Nasdaq is the exchange on which technology stocks are traded .</s>
+<s id='vn37'>Hầu hết các nhà đầu tư đều biết Nasdaq là sàn giao dịch các cổ phiếu công nghệ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The Nasdaq Composite Index is a market-value-weighted index of all stocks traded on the Nasdaq stock exchange .</s>
+<s id='vn38'>Chỉ số hỗn hợp Nasdaq là một chỉ số nghiêng về giá trị - thị trường của tất cả các cổ phiếu giao dịch trên sàn giao dịch chứng khoán Nasdaq .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>This index includes more than 5,000 companies , including some that are not based in the U.S. Although this index is known for its large portion of technology stocks , the Nasdaq Composite also includes stocks from financial , industrial , insurance and transportation industries , among others .</s>
+<s id='vn39'>Chỉ số này gồm hơn 5000 công ty , trong đó một số công ty không có trụ sở ở Mỹ . Mặc dù chỉ số này nổi tiếng vì các cổ phiếu công nghệ chiếm phần lớn , nhưng chỉ số hỗn hợp Nasdaq còn bao gồm các cổ phiếu từ của các ngành tài chính , công nghiệp , bảo biểm , vận tải , và các ngành khác .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The Nasdaq Composite includes large and small firms but , unlike the Dow and the SP 500 , it also includes many speculative companies with small market capitalizations .</s>
+<s id='vn40'>Chỉ số hỗn hợp Nasdaq bao gồm các công ty lớn và nhỏ , nhưng không giống chỉ số Dow Jones và chỉ số SP 500 , nó còn có cả nhiều công ty đầu cơ với số vốn hoá thị trường thấp .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Consequently , its movement generally indicates the performance of the technology industry as well as investors ' attitudes toward more speculative stocks .</s>
+<s id='vn41'>Vì vậy , biến động của chỉ số này thường cho thấy tình hình hoạt động của ngành công nghệ cũng như những thái độ của các nhà đầu tư đối với các cổ phiếu mang tính đầu cơ nhiều hơn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The Russell 2000</s>
+<s id='vn42'>Chỉ số Russell 2000</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The Russell 2000 is a market value weighted index of the 2,000 smallest stocks in the Russell 3000 , an index of the 3,000 largest publicly-traded companies , based on market cap , in the U.S. stock market .</s>
+<s id='vn43'>Chỉ số Russell 2000 là chỉ số nghiêng về giá trị thị trường của 2000 cổ phiếu những công ty nhỏ nhất trong chỉ số Russell 3000 , một chỉ số của 3000 công ty giao dịch trên sàn chứng khoán lớn nhất , dựa trên giá trị vốn hoá thị trường , trên thị trường chứng khoán Hoa Kỳ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The Russell 2000 index gained popularity during the 1990s , when small-cap stocks soared and investors moved more money to the sector .</s>
+<s id='vn44'>Chỉ số Russell 2000 phổ biến trong những năm 1990 , khi cổ phiếu công ty vốn hoá thị trường nhỏ tăng vọt và các nhà đầu tư đổ tiền nhiều hơn vào khu vực này .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The Russell 2000 is the best-known indicator of the daily performance of small companies in the market ; it is not dominated by a single industry .</s>
+<s id='vn45'>Chỉ số Russell 2000 là một chỉ báo nổi tiếng nhất về tình hình hoạt động hàng ngày của các công ty nhỏ trên thị trường ; nó không bị một ngành riêng lẻ nào thống trị .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Conclusion</s>
+<s id='vn46'>Kết luận</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It 's good to know what 's going on in the many diverse segments of the U.S. and international markets .</s>
+<s id='vn47'>Chúng ta nên biết những gì đang diễn ra trên nhiều phân khúc đa dạng của các thị trường quốc tế và Hoa Kỳ .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If you 're going to pick just one index , or market , to talk about , however , you can't go wrong with the SP 500 , which offers a good indication of the movements in the U.S. market in general .</s>
+<s id='vn48'>Tuy nhiên , nếu bạn chỉ chọn một chỉ số , hay một thị trường , để bàn luận , bạn không thể bỏ qua chỉ số SP 500 , chỉ số đưa ra chỉ báo chính xác các xu hướng thị trường Mỹ nói chung .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>By watching indexes and keeping track of their movements over time , you can get a good handle on the investing public 's general attitude toward companies of all different sizes and from varying industries .</s>
+<s id='vn49'>Bằng việc quan sát các chỉ số và theo dõi những biến động của chúng theo thời gian , bạn có thể nắm bắt đầy đủ thái độ chung của công chúng đầu tư đối với các công ty quy mô lớn nhỏ khác nhau và thuộc các ngành khác nhau .</s>
+</spair>
+</text>
+</doc>

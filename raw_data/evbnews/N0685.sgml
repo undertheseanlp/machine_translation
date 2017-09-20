@@ -1,0 +1,348 @@
+﻿<doc id='N0685'>
+<head>
+<title>The Ugly Duckling</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Ugly Duckling</s>
+<s id='vn1'>Chú vịt con xấu xí</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once upon a time down on an old farm , lived a duck family , and Mother Duck had been sitting on a clutch of new eggs .</s>
+<s id='vn2'>Ngày xửa ngày xưa , ở một trang trại cũ nọ , có một gia đình vịt sinh sống và Vịt Mẹ đang ngồi ấp một ổ trứng mới đẻ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One nice morning , the eggs hatched and out popped six chirpy ducklings .</s>
+<s id='vn3'>Vào một buổi sáng đẹp trời , những cái trứng nở ra và nổ tung ra sáu chú vịt con nhanh nhảu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But one egg was bigger than the rest , and it didn't hatch .</s>
+<s id='vn4'>Nhưng có một quả trứng lớn hơn hẳn , vẫn không nở .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Mother Duck couldn't recall laying that seventh egg .</s>
+<s id='vn5'>Vịt Mẹ không thể nhớ lại được mình đã đẻ quả trứng thứ bảy này lúc nào .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>How did it get there ?</s>
+<s id='vn6'>Làm sao nó lại ở đó được chứ ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>TOCK !</s>
+<s id='vn7'>Tọt !</s>
+</spair>
+<spair id='8'>
+<s id='en8'>TOCK !</s>
+<s id='vn8'>Tọt !</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The little prisoner was pecking inside his shell .</s>
+<s id='vn9'>Tên tù nhân nhỏ xíu đang mổ mổ bên trong vỏ trứng của mình .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Did I count the eggs wrongly ? "</s>
+<s id='vn10'>" Chẳng lẽ ta đã đếm trứng sai ư ? "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Mother Duck wondered .</s>
+<s id='vn11'>Vịt Mẹ thắc mắc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But before she had time to think about it , the last egg finally hatched .</s>
+<s id='vn12'>Nhưng trước khi nó dành thời gian nghĩ đến chuyện đó thì cái trứng cuối cùng rồi cũng nở ra .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A strange looking duckling with gray feathers that should have been yellow gazed at a worried mother .</s>
+<s id='vn13'>Một chú vịt con lạ lẫm với lông xám thay vì vàng mơ đang nhìn chằm chằm vào người mẹ đang lo lắng của mình .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The ducklings grew quickly , but Mother Duck had a secret worry .</s>
+<s id='vn14'>Những chú vịt con lớn nhanh như thổi nhưng Vịt Mẹ vẫn lo lắng thầm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" I can't understand how this ugly duckling can be one of mine ! "</s>
+<s id='vn15'>" Mình không thể hiểu tại sao chú vịt con xấu xí này có thể là con của mình kia chứ ! "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>She said to herself , shaking her head as she looked at her last born .</s>
+<s id='vn16'>Nó tự vấn mình , lắc lắc đầu mỗi khi nhìn đứa con cuối cùng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Well , the gray duckling certainly wasn't pretty , and since he ate far more than his brothers , he was outgrowing them .</s>
+<s id='vn17'>À , chú vịt con xám này chẳng những không xinh đẹp mà vì nó ăn nhiều hơn những anh em của nó nên phát triển nhanh hơn bọn kia .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>As the days went by , the poor ugly duckling became more and more unhappy .</s>
+<s id='vn18'>Rồi ngày lại qua , chú vịt con xấu xí tội nghiệp kia càng buồn hơn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>His brothers didn't want to play with him , he was so clumsy , and all the farmyard folks simply laughed at him .</s>
+<s id='vn19'>Những người anh em không muốn chơi với chú , chú rất vụng về và tất cả họ hàng trong sân trại đều cười nhạo báng chú .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He felt sad and lonely , while Mother Duck did her best to console him .</s>
+<s id='vn20'>Vịt con cảm thấy buồn và cô đơn trong khi Vịt Mẹ cố gắng hết sức an ủi chú ta .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Poor little ugly duckling ! " she would say .</s>
+<s id='vn21'>" Vịt con xấu xí bé nhỏ tội nghiệp ! " , Vịt Mẹ nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Why are you so different from the others ? "</s>
+<s id='vn22'>" Tại sao con khác lạ so với những anh em của mình nhỉ ? "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>And the ugly duckling felt worse than ever .</s>
+<s id='vn23'>Và vịt con xấu xí cảm thấy tồi tệ hơn bao giờ hết .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He secretly wept at night .</s>
+<s id='vn24'>Chú lén khóc thầm trong đêm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>He felt nobody wanted him .</s>
+<s id='vn25'>Chú thấy không ai thích mình .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>"Nobody loves me , they all tease me !</s>
+<s id='vn26'>" Không ai yêu mình cả , tất cả bọn họ đều trêu chọc mình !</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Why am I different from my brothers ? "</s>
+<s id='vn27'>Vì sao mình lại khác lạ so với những anh em của mình ? "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Then one day , at sunrise , he ran away from the farmyard .</s>
+<s id='vn28'>Rồi một ngày nọ , khi mặt trời mọc lên , chú vịt trốn khỏi sân trại .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>He stopped at a pond and began to question all the other birds .</s>
+<s id='vn29'>Chú dừng lại ở một cái ao và bắt đầu chất vấn tất cả các loài chim kia .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" Do you know of any ducklings with gray feathers like mine ? "</s>
+<s id='vn30'>" Các bạn có biết chú vịt con nào lông xám như tôi không ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But everyone shook their heads in scorn .</s>
+<s id='vn31'>" Thế nhưng tất cả đều lắc đầu khinh rẻ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" We don't know anyone as ugly as you . "</s>
+<s id='vn32'>" Chúng tôi chưa từng thấy ai xấu xí như bạn . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The ugly duckling did not lose heart , however , and kept on making inquiries .</s>
+<s id='vn33'>Tuy nhiên , vịt con xấu xí vẫn không nản lòng và cứ tiếp tục lân la hỏi .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>He went to another pond , where a pair of large geese gave him the same answer to his question .</s>
+<s id='vn34'>Chú đến một cái ao khác , nơi đó có đôi ngỗng lớn cũng trả lời tương tự .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>What 's more , they warned him :</s>
+<s id='vn35'>Còn nữa , họ cảnh báo chú :</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" Don't stay here !</s>
+<s id='vn36'>" Đừng ở lại đây nữa !</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Go away !</s>
+<s id='vn37'>Đi đi !</s>
+</spair>
+<spair id='38'>
+<s id='en38'>It 's dangerous .</s>
+<s id='vn38'>Nguy hiểm lắm .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>There are men with guns around here ! "</s>
+<s id='vn39'>Những người đàn ông có súng lẩn quẩn quanh đây ! "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The duckling was sorry he had ever left the farmyard .</s>
+<s id='vn40'>Vịt con cảm thấy hối hận vì mình đã rời khỏi sân trại .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Then one day , his travels took him near an old countrywoman 's cottage .</s>
+<s id='vn41'>Rồi một hôm nọ , chuyến hành trình đưa vịt con đến gần một túp lều của một bà lão thôn quê .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Thinking he was a stray goose , she caught him .</s>
+<s id='vn42'>Vì nghĩ rằng chắc đây là chú ngỗng đi lạc , bà lão liền tóm cổ chú .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" I 'll put this in a hutch .</s>
+<s id='vn43'>" Ta sẽ cho chú mày vào trong cái chuồng thỏ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>I hope it 's a female and lays plenty of eggs ! " said the old woman , whose eyesight was poor .</s>
+<s id='vn44'>Hy vọng mày là chú ngỗng mái và đẻ thật nhiều lũ con ! " , bà cụ nói thế bởi vì mắt cụ kém lắm .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>But the ugly duckling laid not a single egg .</s>
+<s id='vn45'>Thế nhưng vịt con xấu xí chẳng đẻ được cái trứng nào .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The hen kept frightening him .</s>
+<s id='vn46'>Chú gà mái cứ làm cho vịt con hoảng sợ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>" Just wait !</s>
+<s id='vn47'>" Hãy đợi đấy !</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If you don't lay eggs , the old woman will wring your neck and pop you into the pot ! "</s>
+<s id='vn48'>Nếu mày không đẻ trứng , bà cụ sẽ vặn cổ mày và bỏ mày vào nồi ! "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>And the cat chipped in :</s>
+<s id='vn49'>Và thêm một chú mèo nói xen vào :</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" Hee !</s>
+<s id='vn50'>" Hihi !</s>
+</spair>
+<spair id='51'>
+<s id='en51'>I hope the woman cooks you , then I can gnaw at your bones ! "</s>
+<s id='vn51'>Tớ hy vọng bà lão sẽ nấu chú , sau đó tớ có thể gặm xương ! "</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The poor ugly duckling was so scared that he lost his appetite , though the old woman kept stuffing him with food and grumbling : " If you won't lay eggs , at least hurry up and get plump ! "</s>
+<s id='vn52'>Chú vịt con tội nghiệp sợ đến nỗi , ăn không thấy ngon cho dù bà cụ cứ nhồi nhét thức ăn và làu bàu : " nếu mày không đẻ trứng thì ít ra cũng nhanh nhanh béo ra đi chứ ! "</s>
+</spair>
+<spair id='53'>
+<s id='en53'>" Oh , dear me ! "</s>
+<s id='vn53'>" Ôi , thương thay cho thân của tôi !</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Moaned the now terrified duckling .</s>
+<s id='vn54'>" Giờ thì chú vịt con rên rỉ sợ sệt .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" I 'll die of fright first ! And I did so hope someone would love me ! "</s>
+<s id='vn55'>" Trước tiên , thế nào mình cũng sẽ chết vì sợ ! Và mình chết đi để có một ai đó còn thương mình ! "</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Then one night , finding the hutch door ajar , he escaped .</s>
+<s id='vn56'>Thế là một đêm nọ , chú thấy cửa chuồng thỏ khép hờ liền thoát ra ngoài .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Once again , he was all alone .</s>
+<s id='vn57'>Một lần nữa , chú lại sống một mình .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>He fled as far away as he could , and at dawn , he found himself in a thick bed of reeds .</s>
+<s id='vn58'>Chú chạy trốn càng xa càng tốt và lúc bình minh , chú thấy mình ở trong một luống lau sậy dày .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>" If nobody wants me , I 'll hid here forever . "</s>
+<s id='vn59'>" Nếu chẳng ai thích mình nữa , mình sẽ trốn ở đây mãi mãi . "</s>
+</spair>
+<spair id='60'>
+<s id='en60'>There was plenty a food , and the duckling began to feel a little happier , though he was lonely .</s>
+<s id='vn60'>Ở đó , có nhiều thức ăn và vịt con bắt đầu cảm thấy vui hơn một tí , cho dù chú vẫn một mình .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>One day at sunrise , he saw a flight of beautiful birds wing overhead .</s>
+<s id='vn61'>Một ngày nọ khi mặt trời hé rạng , chú thấy một đàn chim xinh đẹp bay trên đầu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>White , with long slender necks , yellow beaks and large wings , they were migrating south .</s>
+<s id='vn62'>Những đôi cánh rộng với cổ dài , trắng thon thả và những chiếc mỏ vàng , chúng đang di cư về phương nam .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>" I 'll take him home to my children .</s>
+<s id='vn63'>" Mình sẽ đón nó về nhà cho các con .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>They 'll look after him .</s>
+<s id='vn64'>Chúng sẽ chăm sóc nó .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Poor thing , he 's frozen ! "</s>
+<s id='vn65'>Tội nghiệp , nó đang lạnh thấu xương ! " .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The duckling was showered with kindly care at the farmer 's house .</s>
+<s id='vn66'>Thế là vịt con được sống tràn ngập sự quan tâm , yêu thương trong ngôi nhà của bác nông dân .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>In this way , the ugly duckling was able to survive the bitterly cold winter .</s>
+<s id='vn67'>Bằng cách này , vịt con xấu xí có thể sống sót trong mùa đông giá rét .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>However , by springtime , he had grown so big that the farmer decided :</s>
+<s id='vn68'>Tuy nhiên , khi mùa xuân đến , chú phát triển to lớn đến nỗi bác nông dân quyết định :</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" I 'll set him free by the pond ! "</s>
+<s id='vn69'>" mình sẽ trả tự do cho nó bằng cách cho nó ra cái ao ! "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>That was when the duckling saw himself mirrored in the water .</s>
+<s id='vn70'>Đó là lúc vịt con tận mắt chứng kiến bóng mình phản chiếu trong làn nước .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>" Goodness !</s>
+<s id='vn71'>" Trời đất !</s>
+</spair>
+<spair id='72'>
+<s id='en72'>How I 've changed !</s>
+<s id='vn72'>Sao mình thay đổi đến như vậy !</s>
+</spair>
+<spair id='73'>
+<s id='en73'>I hardly recognize myself ! "</s>
+<s id='vn73'>Mình hầu như không nhận ra chính mình ! "</s>
+</spair>
+<spair id='74'>
+<s id='en74'>The flight of swans winged north again and glided on to the pond .</s>
+<s id='vn74'>Bầy thiên nga bay về hướng bắc trở lại và lướt qua cái ao .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>When the duckling saw them , he realized he was one of their kind , and soon made friends .</s>
+<s id='vn75'>Khi chú vịt con thấy chúng , chú nhận ra mình cũng giống chúng và chẳng bao lâu kết bạn với nhau .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>" We 're swans like you !</s>
+<s id='vn76'>" Chúng tôi là những con thiên nga giống bạn !</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" they said , warmly .</s>
+<s id='vn77'>" chúng nói với vẻ nồng nhiệt .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>" Where have you been hiding ?</s>
+<s id='vn78'>" Bạn đã trốn ở đâu thế ?</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" .</s>
+<s id='vn79'>" .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>" It 's a long story , " replied the young swan , still astounded .</s>
+<s id='vn80'>" Chuyện dài lắm , " chú thiên nga nhỏ này đáp và vẫn còn sững sờ .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Now , he swam majestically with his fellow swans .</s>
+<s id='vn81'>Giờ đây nó bơi một cách oai vệ với những chú thiên nga bạn .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>One day , he heard children on the river bank exclaim : " Look at that young swan !</s>
+<s id='vn82'>Một hôm , chú nghe bọn trẻ trên bờ sông kêu lên : " Hãy nhìn chú thiên nga nhỏ này đi !</s>
+</spair>
+<spair id='83'>
+<s id='en83'>He 's the finest of them all ! "</s>
+<s id='vn83'>Nó đẹp nhất bọn đấy !</s>
+</spair>
+<spair id='84'>
+<s id='en84'>And he almost burst with happiness .</s>
+<s id='vn84'>Và chú vịt con thưở nào cảm thấy lòng tràn ngập hạnh phúc .</s>
+</spair>
+</text>
+</doc>

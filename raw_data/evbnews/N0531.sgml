@@ -1,0 +1,88 @@
+﻿<doc id='N0531'>
+<head>
+<title>Australia delays emissions scheme</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Australia delays emissions scheme</s>
+<s id='vn1'>Úc hoãn chương trình cắt giảm thán khí</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Australian government says it will push back a planned carbon emissions trading scheme ( ETS ) by a year .</s>
+<s id='vn2'>Chính phủ Úc cho biết họ sẽ hoãn chương trình mậu dịch khí thải các bon đã được lên kế hoạch ( ETS ) trong khoảng một năm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Prime_Minister Kevin Rudd said the delay was necessary because of the poor economic climate .</s>
+<s id='vn3'>Thủ tướng Kevin Rudd cho biết sự trì hoãn là cần thiết vì hoàn cảnh kinh tế khó khăn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But he also suggested that Australia could pursue tougher emissions reductions targets if an international deal was reached .</s>
+<s id='vn4'>Nhưng ông cũng đề nghị rằng Úc nên theo đuổi mục tiêu giảm khí thải kiên quyết hơn nếu đã đạt được một thoả thuận quốc tế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The ETS , which has been criticised by both industrial and environment groups , was due to launch in July 2010 .</s>
+<s id='vn5'>ETS bị cả hai nhóm môi trường và công nghiệp chỉ trích , được dự định sẽ bắt đầu vào tháng bảy năm 2010 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Business say the scheme will delay economic recovery and lead to job losses .</s>
+<s id='vn6'>Giới doanh nghiệp cho rằng kế hoạch sẽ làm chậm tiến trình phục hồi kinh tế và dẫn đến mất việc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The environmental lobby , meanwhile , says that the targets are not tough enough .</s>
+<s id='vn7'>Trong khi đó , nhóm vận động môi trường lại cho rằng mục tiêu này chưa đủ độ khó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Australia has the highest per capita emissions in the developed world and coal is its biggest export .</s>
+<s id='vn8'>Úc có tỉ lệ khí thải trên đầu người cao nhất trong thế giới phát triển và than là mặt hàng xuất khẩu lớn nhất của nó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Appropriate response "</s>
+<s id='vn9'>" Phản hồi thích hợp "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In a speech in Canberra , Mr Rudd said that the carbon trading scheme - requiring industrial polluters to buy licences to emit carbon - would be pushed back until July 2011 .</s>
+<s id='vn10'>Trong bài diễn văn ở Canberra , ông Rudd nói rằng kế hoạch mua bán thán khí - đòi hỏi các công ty gây ô nhiễm môi trường mua giấy phép để thải khí thải - sẽ bị hoãn lại cho đến tháng 7 năm 2011 .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" The worst global recession since the great depression means we must adapt our climate change measures but not abandon them ," he said .</s>
+<s id='vn11'>Ông phát biểu " Tình trạng suy thoái toàn cầu tệ hại nhất kể từ cuộc Đại khủng hoảng kinh tế có nghĩa là chúng ta phải chấp nhận các biện pháp thay đổi khí hậu của mình chứ không bỏ rơi chúng ,'' .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A one-year fixed price period would be introduced for the first year , he said , with carbon permits costing A$ 10 ( $ 7 , £ 5 ) per tonne , followed by a floating price until July 2013 .</s>
+<s id='vn12'>Ông cho biết , thời gian giá ấn định một năm đã được đưa ra cho năm đầu tiên , với giấy phép thải khí thải trị giá 10 đô la Úc ( 7 đô la Mỹ , 5 bảng Anh ) một tấn , theo sau giá thả nổi cho đến tháng bảy năm 2013 .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" This , we believe represents an appropriate response to current uncertainty , " he said .</s>
+<s id='vn13'>Ông nói " Điều này , chúng tôi tin đại diện cho phản hồi thích hợp đối với sự bất ổn hiện nay , " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But - in a move aimed at the environment lobby - Mr Rudd said that the range of the emissions reduction target could be increased up to 25 % of 2000 levels if other nations agreed similar targets .</s>
+<s id='vn14'>Nhưng - trong một động thái nhắm đến giới vận động môi trường - Ông Rudd nói rằng một loạt mục tiêu giảm khí thải có thể gia tăng đến 25% của mức 2000 nếu những quốc gia khác cũng đồng ý mục tiêu tương tự .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The previous target was to reduce emissions by between 5 and 15 % of 2000 levels by 2020 .</s>
+<s id='vn15'>Mục tiêu trước đây là giảm khí thải từ 5 đến 15% của mức 2000 vào năm 2020 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Mr Rudd needs the support of Greens senators to pass the carbon trading legislation .</s>
+<s id='vn16'>Ông Rudd cần sự hỗ trợ của các thượng nghị sĩ Đảng Xanh để thông qua luật kinh doanh thán khí .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He admitted that he had been under pressure from industry and the resources sector to delay the scheme , reports the BBC 's Nick Bryant , in Sydney .</s>
+<s id='vn17'>Ông thừa nhận rằng ông đang chịu áp lực từ khu vực tài nguyên và công nghiệp khi trì hoãn kế hoạch , theo báo cáo từ Nick Bryant của BBC , ở Sydney .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He also conceded that there had been international pressure on Australia to make deeper cuts in emissions .</s>
+<s id='vn18'>Ông cũng thừa nhận rằng đã có áp lực quốc tế buộc Úc cắt giảm nhiều hơn lượng khí thải .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The policy changes reflect the difficulties of reconciling the needs of the domestic economy against global expectations , our correspondent says .</s>
+<s id='vn19'>Các phóng viên của chúng tôi cho biết , những thay đổi của chính sách đã phản ánh những khó khăn trong việc điều chỉnh cho phù hợp nhu cầu của nền kinh tế trong nước với mong đợi toàn cầu</s>
+</spair>
+</text>
+</doc>

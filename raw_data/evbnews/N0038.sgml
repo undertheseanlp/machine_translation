@@ -1,0 +1,552 @@
+﻿<doc id='N0038'>
+<head>
+<title>Boys and puberty</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Boys and puberty</s>
+<s id='vn1'>Bạn trai và tuổi dậy thì</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A lot of changes happen as you grow up , especially as you reach puberty , the name for the time when body begins to develop and change .</s>
+<s id='vn2'>Cơ thể bạn thay đổi rất nhiều khi bạn lớn lên , nhất là đến tuổi dậy thì , giai đoạn mà cơ thể bắt đầu phát triển và thay đổi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Girls start developing breasts and get their periods - signs they are growing into women .</s>
+<s id='vn3'>Các bé gái sẽ phát triển vòng ngực và bắt đầu hành kinh – những dấu hiệu chuyển thành phụ nữ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But how do boys know they are growing into men ?</s>
+<s id='vn4'>Làm sao biết được mình có đang phát triển thành đàn ông hay chưa ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Let 's find out .</s>
+<s id='vn5'>Chúng ta cùng tìm hiểu nhé .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>For a guy , there isn't just one event or sign that you 're growing up .</s>
+<s id='vn6'>Ở bé trai , không chỉ một sự kiện hoặc một dấu hiệu cho thấy bạn đang lớn đâu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There are lots of them , including your body growing bigger , your voice changing , and hair sprouting everywhere .</s>
+<s id='vn7'>Rất nhiều đấy chứ , như cơ thể bạn to cao hơn , giọng bạn thay đổi , và lông mọc khắp nơi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Most boys begin puberty between the ages of 9 and 14 .</s>
+<s id='vn8'>Hầu hết các bé trai đều bắt đầu tuổi dậy thì từ 9 đến 14 tuổi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But keep in mind that puberty starts when a boy 's body is ready , and everyone grows at his own pace .</s>
+<s id='vn9'>Nhưng xin nhớ rằng khi cơ thể đã sẵn sàng thì giai đoạn dậy thì này mới phát triển , và không phải ai cũng có nhịp độ giống nhau .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Here are some of the questions boys have .</s>
+<s id='vn10'>Dưới đây là một số vấn đề mà các bạn trai thường hay thắc mắc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Why are girls taller than me ?</s>
+<s id='vn11'>Tại sao các bạn gái lại cao hơn mình ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>You might have noticed that some of the girls you know are taller than the boys .</s>
+<s id='vn12'>Chắc có lẽ bạn cũng thấy được là một số bạn gái bạn biết cao hơn bạn trai .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But you 've probably noticed that out of the adults you know , most of the men are taller than the women .</s>
+<s id='vn13'>Nhưng cũng có thể đã biết là hầu hết nam thanh niên trưởng thành đều cao hơn phụ nữ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>What 's going on ?</s>
+<s id='vn14'>Sao lạ vậy ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Well , girls get a head start on puberty - and growing taller - because they usually start these changes between the ages of 8 and 13 .</s>
+<s id='vn15'>À , các bạn nữ thường phát triển tuổi dậy thì một cách thuận lợi – các bạn cao lớn hơn – bởi những biến đổi này bắt đầu từ giai đoạn 8 đến 13 tuổi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Most boys , on the other hand , don't begin until between the ages of 9 and 14 .</s>
+<s id='vn16'>Ngược lại , hầu hết các bạn trai , mãi đến những năm 9 đến 14 tuổi mới bắt đầu dậy thì .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>So that 's why girls are often taller than boys during that time .</s>
+<s id='vn17'>Đó là lý do vì sao bạn nữ thường cao hơn bạn nam trong khoảng thời gian này .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Most boys may catch up - and even grow taller than girls .</s>
+<s id='vn18'>Đa số phái nam cũng có thể bắt kịp - và thậm chí là còn cao hơn cả bạn nữ đấy chứ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But it 's also important to remember that your genetics play a role in height .</s>
+<s id='vn19'>Nhưng xin nhớ cho là yếu tố di truyền cũng đóng vai trò hết sức quan trọng , quyết định chiều cao của bạn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>So if your mom and dad are tall , you 're more likely to be tall .</s>
+<s id='vn20'>Vì vậy nếu bố mẹ của bạn cao , ắt là bạn cũng sẽ cao ; .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>And if your mom and dad are kind of short , you may be short , too .</s>
+<s id='vn21'>Còn nếu bố mẹ bạn thấp , có thể bạn cũng sẽ thấp .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>But nothing is definite .</s>
+<s id='vn22'>Nhưng chưa có gì là chắc chắn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>You have to wait and see how it turns out , but you can also talk to a doctor if you 're concerned .</s>
+<s id='vn23'>Bạn phải chờ xem bạn thay đổi như thế nào nữa , nhưng bạn cũng có thể tham khảo ý kiến của bác sĩ nếu có quan tâm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Remember - not every adult male is tall .</s>
+<s id='vn24'>Nhưng xin nhớ rằng – không phải bất cứ người đàn ông trưởng thành nào cũng cao ráo đâu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Many men who are considered " short " have gone on to have careers in the movies , the military , and even professional basketbal l !</s>
+<s id='vn25'>Nhiều người bị cho là " lùn " đấy cũng đã làm nghề điện ảnh , quân sự , và thậm chí còn là đấu thủ bóng rổ nhà nghề nữa !</s>
+</spair>
+<spair id='26'>
+<s id='en26'>There aren't any exercises or magic pills to make you grow tall immediately .</s>
+<s id='vn26'>Không có bất kỳ bài tập hoặc thuốc tiên nào có thể làm bạn cao to ngay tức khắc .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>But by being active and eating nutritious foods , you 're helping your body grow up healthy .</s>
+<s id='vn27'>Việc hoạt động thể chất và ăn uống thức ăn bổ dưỡng có thể giúp cơ thể bạn phát triển khỏe mạnh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>When will I get muscles ?</s>
+<s id='vn28'>Khi nào mình mới có cơ bắp ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>During puberty , some boys might become worried about their bodies after seeing what some of their friends look like .</s>
+<s id='vn29'>Trong gian đoạn dậy thì , một vài bạn nam cũng có thể trở nên bất an về cơ thể của mình khi thấy một số bạn bè khác đồng tuổi .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>For instance , lots of boys are concerned about their muscles .</s>
+<s id='vn30'>Chẳng hạn như , nhiều bạn quan tâm về cơ bắp .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>You may have already noticed some boys starting to get chest muscles ( called the pectoralis muscles or pecs for short ) .</s>
+<s id='vn31'>Bạn cũng có thể thấy một số bạn nam đã bắt đầu phát triển cơ ngực ( gọi là pectoralis muscles – hoặc pecs cho ngắn gọn ) .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Others may have broad shoulders ( the deltoids , or delts for short ) .</s>
+<s id='vn32'>Số khác có thể là phát triển cơ vai to rộng rồi ( cơ đen-ta : hoặc gọi tắt là delts ) .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Other boys might still be slimmer and smaller .</s>
+<s id='vn33'>Nhiều bạn nam khác vẫn còn nhỏ hơn và gầy còm hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Remember that puberty happens on its own schedule , so there 's no rushing it if you 're a little slower to develop muscles .</s>
+<s id='vn34'>Hãy nhớ là tuổi dậy thì chỉ đến theo đúng thời gian của nó , thế nên chẳng có gì phải vội nếu thấy cơ bắp mình phát triển hơi chậm hơn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Maybe you 've considered lifting weights to help yourself get bigger .</s>
+<s id='vn35'>bạn cũng có thể thử tập tạ để giúp cơ bắp mình to hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>It 's important to know that if you haven't quite reached puberty , this will tone your muscles , but it won't build up any muscles yet .</s>
+<s id='vn36'>điều cần thiết nên biết là nếu bạn vẫn chưa đến tuổi dậy thì , việc tập luyện này cũng có tác dụng giúp bắp thịt của bạn khỏe khoắn , tuy chưa làm cho cơ bắp to ra được .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Eating nutritious food and being active ( like riding your bike , swimming , and playing sports ) will help you be a kid who 's strong and fit .</s>
+<s id='vn37'>Việc ăn nhiều thức ăn bổ dưỡng và vận động thân thể ( như chạy xe đạp , bơi lội , và chơi thể thao ) cũng có thể giúp cho cơ thể bạn cân đối và khỏe mạnh .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>you 'll reach puberty and you can start building your muscles , too .</s>
+<s id='vn38'>Đến tuổi dậy thì , bạn cũng có thể bắt đầu phát triển cơ bắp của mình được .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>If you decide to try lifting weights , first let your doctor know you are interested .</s>
+<s id='vn39'>Nếu bạn có ý định chọn môn cử tạ , hãy nói cho bác sĩ biết điều bạn quan tâm trước .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>He may tell you to hold off on weightlifting for a bit or give you some advice on how to start .</s>
+<s id='vn40'>Bác sĩ có thể khuyến cáo bạn nên đợi thêm một thời gian trước khi tập tạ hoặc cho bạn lời khuyên nên bắt đầu như thế nào .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If your doctor discourages weightlifting , try some other ways to work out .</s>
+<s id='vn41'>Nếu bác sĩ không đồng tình với tập tạ , hãy tìm một vài phương pháp khác xem sao .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Resistance bands , which are like big rubber bands , are a great way to help build your strength without putting too much strain on your muscles .</s>
+<s id='vn42'>Các sợi dây kéo cơ , giống như những sợi băng cao su lớn , cũng có tác dụng rất tốt giúp tăng cường sức mạnh mà không làm cơ của bạn căng nhiều quá .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>If your doctor recommends weightlifting , here are some tips :</s>
+<s id='vn43'>Nếu bác sĩ khuyên nên tập tạ , dưới đây là một số mẹo vặt :</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* Have a qualified coach or trainer supervise you .</s>
+<s id='vn44'>* Nên có một huấn luyện viên hoặc một người hướng dẫn đủ trình độ để giám sát bạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It 's smart to have somebody show you the proper way to lift weights .</s>
+<s id='vn45'>Nên tìm một người nào đó có thể chỉ cho bạn phương pháp đúng đắn để tập .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>This will help you gain strength and prevent injury .</s>
+<s id='vn46'>Điều này sẽ giúp bạn tăng cường sức khỏe và phòng tránh được chấn thương .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* Use lighter weights .</s>
+<s id='vn47'>* Nên sử dụng tạ nhẹ hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Your coach or trainer can recommend the right amount .</s>
+<s id='vn48'>Huấn luyện viên hay người hướng dẫn cho bạn có thể khuyên nên tập với tạ đúng trọng lượng .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Lifting heavy weights can cause injuries and then you 'll have to wait until you recover before you can work out again .</s>
+<s id='vn49'>Việc nhấc tạ nặng cũng có thể gây chấn thương và bạn phải mất thời gian chờ cho đến khi vết thương phục hồi trước khi có thể bắt đầu trở lại .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>* Do repetitions .</s>
+<s id='vn50'>* Hãy kiên trì tập luyện .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>It 's better to lift a smaller of weight a bunch of times than to try to lift a heavy weight once or twice .</s>
+<s id='vn51'>Thà là chúng ta nhấc tạ nhẹ hơn được nhiều lần hơn là nhấc tạ nặng trong một hai lần .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>* Rest .</s>
+<s id='vn52'>* Nghỉ ngơi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Let your body have a break at least every other day .</s>
+<s id='vn53'>Hãy để cho cơ thể của mình được nghỉ ngơi ít nhất là 2 ngày một lần .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Do I think about girls too much or not enough ?</s>
+<s id='vn54'>Mình có nghĩ đến các bạn gái quá nhiều hoặc mình có lơ là họ không ?</s>
+</spair>
+<spair id='55'>
+<s id='en55'>There is this girl who lives in your neighborhood and you see her playing with her friends every afternoon when school is done .</s>
+<s id='vn55'>Có một bạn gái sống cạnh nhà bạn và bạn cũng thường thấy cô ấy chơi với bạn bè sau mỗi chiều tan trường .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>You get really hot and your palms sweat when she says " hi " to you .</s>
+<s id='vn56'>Bạn thực sự trở nên hồi hộp và lòng bàn tay đổ mồ hôi khi cô ấy chào bạn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>That night you go to bed and before you sleep , you have one last thought about her .</s>
+<s id='vn57'>Tối đó bạn đi ngủ và trước khi nhắm mắt lại , trong tư tưởng bạn xuất hiện một ý nghĩ cuối cùng về cô ấy .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Every day for the next few weeks you keep thinking about her .</s>
+<s id='vn58'>Vài tuần sau , ngày nào bạn cũng mơ tưởng về cô ấy .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>You might be wondering , " Why do I feel this way ? "</s>
+<s id='vn59'>Bạn cũng có thể thắc mắc là " Không biết tại sao mình có cảm giác như vậy nữa ? "</s>
+</spair>
+<spair id='60'>
+<s id='en60'>You just may have a crush .</s>
+<s id='vn60'>Có phải là bạn đã phải lòng ? .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Or perhaps your friend keeps talking about this one girl he thinks is so pretty .</s>
+<s id='vn61'>Hoặc là anh bạn của bạn cứ luôn miệng kể về một cô nàng mà anh ta cho là rất xinh .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>He goes on and on about how she tells funny jokes .</s>
+<s id='vn62'>Anh ta lại liến thoắng về việc cô ấy kể chuyện hài hước .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>He also tells you that he likes her .</s>
+<s id='vn63'>Anh ta còn kể cho bạn nghe là anh ta rất thích cô ấy .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>You think , " Why don't I feel or talk this way about a girl - am I supposed to ? "</s>
+<s id='vn64'>Bạn thầm nghĩ " Tại sao mình không có cảm giác hoặc nói về một cô gái nào như thế nhỉ – liệu mình có nên làm như vậy không ? "</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Every boy has his own likes and dislikes .</s>
+<s id='vn65'>Mỗi bạn trai đều có sở thích riêng của mình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>And during puberty , some boys are very friendly with girls and others might be nervous about talking to girls .</s>
+<s id='vn66'>Và trong giai đoạn tuổi dậy thì , một số bạn tỏ ra rất thân thiện với bạn khác phái và một số khác cũng có thể rất hồi hộp về việc nói chuyện với bạn gái .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Thinking about someone you like is a normal process of puberty .</s>
+<s id='vn67'>Hành vi nghĩ ngợi về một ai đó mình thích cũng là chuyện bình thường ở lứa tuổi này thôi .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>And if you feel like you don't like any girls , that 's fine , too .</s>
+<s id='vn68'>Và nếu như bạn có cảm giác là mình không thích một cô nàng nào hết , thì chuyện ấy cũng là bình thường .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Eventually , you may find someone who makes you feel giddy inside .</s>
+<s id='vn69'>Cuối cùng rồi , bạn cũng có thể tìm thấy một cô có thể làm bạn " say nắng " cho xem .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Only time will tell .</s>
+<s id='vn70'>Thời gian là câu trả lời hay nhất đấy .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>So why do you feel this way ?</s>
+<s id='vn71'>Vậy thì tại sao bạn có cảm giác như vậy ?</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The hormones in your body are becoming more active .</s>
+<s id='vn72'>Các hooc-môn trong cơ thể bạn trở nên mạnh hơn rồi đấy .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>As a result , you 're starting to have more feelings .</s>
+<s id='vn73'>Kết quả là bạn bắt đầu có nhiều cảm xúc hơn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>These feelings can confuse you and may leave you scared .</s>
+<s id='vn74'>Những cảm xúc này có thể làm cho rối lên và cũng có thể làm cho bạn phải hoảng sợ .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>This is natural because you are going through a new phase in your life .</s>
+<s id='vn75'>Điều này cũng tự nhiên vì bạn đang chuyển sang một giai đoạn mới trong đời của mình mà .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Talking with a friend or an older person like your brother or sister might help you be less confused .</s>
+<s id='vn76'>Việc tâm sự với bạn bè hoặc một người lớn tuổi như anh trai hoặc chị gái của mình cũng có thể giúp cho bạn cảm thấy bớt hoang mang .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Older people sometimes have more experience than you , so they can be good people to go to for advice .</s>
+<s id='vn77'>Người lớn đôi khi cũng có nhiều kinh nghiệm hơn bạn , vì vậy họ có thể là những người rất đỗi tuyệt vời để mỗi khi cần lời khuyên .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>What 's up with body hair ?</s>
+<s id='vn78'>Lông trên cơ thể có vấn đề gì vậy ?</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Body hair really gets going during puberty .</s>
+<s id='vn79'>Ở tuổi dậy thì thì lông trên cơ thể thực sự bắt đầu mọc nhiều hơn .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Some boys will start to notice hair growing on their face around the chin , on the cheeks , and above the lip .</s>
+<s id='vn80'>Một số bạn trai bắt đầu chú ý lông mọc trên mặt , xung quanh cằm , trên má , và trên môi .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Also , hair grows on the chest , the armpits , and even down there in the pubic region .</s>
+<s id='vn81'>Ngoài ra , lông còn mọc trên ngực , nách và thậm chí ở vùng mu .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Remember that there 's nothing to worry about because hair is just one of the body 's many ways of telling you that you are on your way to manhood .</s>
+<s id='vn82'>Xin nhớ rằng chẳng nên lo lắng gì về điều này bởi lông tóc chỉ là một trong những cách mà cơ thể có thể cho bạn biết là mình sắp thành người lớn rồi .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>You 're growing hair in new places because hormones are telling your body that it is ready to change .</s>
+<s id='vn83'>Lông mọc ở nhiều chỗ mới bởi các hooc-môn cho cơ thể biết đã đến lúc thay đổi rồi .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Some of the hormones that trigger this new hair growth come from your adrenal glands .</s>
+<s id='vn84'>Một số hooc-môn làm kích thích cho loại lông mới này mọc lên được tiết ra từ tuyến thượng thận .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Other hormones come from your pituitary gland ( a pea-shaped gland located at the bottom of your brain ) .</s>
+<s id='vn85'>Một số hooc-môn khác cũng do tuyến yên tiết ra ( tuyến hình hạt đậu nằm ở dưới đáy não ) .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>These pituitary hormones travel through your bloodstream and make your testicles grow bigger and start to release another hormone called testosterone that also helps make your body start sprouting hair in your pubic area , under your arms , and on your face .</s>
+<s id='vn86'>Các hooc-môn tuyến yên này đi qua máu và làm cho tinh hoàn to hơn và bắt đầu tiết ra một loại hooc-môn khác có tên là kích thích tố sinh dục nam , chất này cũng làm cho cơ thể bạn bắt đầu mọc lông ở vùng xương mu , dưới cánh tay , và trên mặt .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Boys don't really need to do anything about this new hair that 's growing .</s>
+<s id='vn87'>Các bạn trai không cần phải làm gì với loại lông mới này .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Later , when you 're a teen , the hair gets thick enough on your face , you may want to talk with your parents about shaving .</s>
+<s id='vn88'>Sau này , khi bạn đến tuổi thanh thiếu niên , thứ lông này sẽ mọc rậm trên mặt , bạn nên nói với bố mẹ mình về việc cạo sạch .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Do I smell ?</s>
+<s id='vn89'>Cơ thể mình có mùi phải không ?</s>
+</spair>
+<spair id='90'>
+<s id='en90'>You probably know what sweat is , but did you know that it 's also called perspiration ?</s>
+<s id='vn90'>Ắt là bạn cũng biết mồ hôi là gì , nhưng bạn có biết đó cũng là sự thoát mồ hôi không ?</s>
+</spair>
+<spair id='91'>
+<s id='en91'>How does it happen ?</s>
+<s id='vn91'>Nó xảy ra như thế nào ?</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Perspiration comes out of your skin through tiny holes called pores when your body gets hot .</s>
+<s id='vn92'>Mồ hôi thoát khỏi da của bạn qua những lỗ li ti được gọi là lỗ chân lông khi cơ thể nóng dần lên .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Your body likes a temperature that is 98.6° Fahrenheit ( 37° Celsius ) .</s>
+<s id='vn93'>Cơ thể bạn thường ở 98.6° F ( 37° C ) .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>If you get hotter than that , your body doesn't like it , so then your body sweats .</s>
+<s id='vn94'>Nếu thân nhiệt cao hơn , cơ thể sẽ không thích và sẽ tiết ra mồ hôi .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The sweat comes out of the skin , then evaporates into the air , which cools you down .</s>
+<s id='vn95'>Mồ hôi thoát ra qua da và bốc hơi trong không khí , để làm mát hoặc điều hoà thân nhiệt cho bạn .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Sometimes this sweat or wetness can be smelly and create body odor .</s>
+<s id='vn96'>Đôi khi mồ hôi hoặc chất ẩm này có thể bốc mùi hoặc làm cho cơ thể bạn hôi thối .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>During puberty , your hormones are working all the time , which explains why you sweat a lot and , sometimes smell .</s>
+<s id='vn97'>Trong giai đoạn dậy thì , các hooc-môn của bạn hoạt động không ngừng , điều này lý giải vì sao cơ thể bạn đổ mồ hôi nhiều và đôi khi còn có mùi .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>What makes it smelly ?</s>
+<s id='vn98'>Điều gì làm cho mồ hôi nặng mùi ?</s>
+</spair>
+<spair id='99'>
+<s id='en99'>The sweat is made almost completely of water , with amounts of other chemicals like ammonia , urea , salts , and sugar .</s>
+<s id='vn99'>Mồ hôi hầu như hoàn toàn là nước , cùng một số các chất hoá học khác như a-mô-ni-ắc , urê , muối , và đường .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>( Ammonia and urea are left over when your body breaks down protein . )</s>
+<s id='vn100'>( A-mô-ni-ắc và urê được sinh ra khi cơ thể chúng ta phân huỷ protein . )</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Sweat by itself is not really smelly , but when it comes in contact with the bacteria on your skin ( which everyone has ) it becomes smelly .</s>
+<s id='vn101'>Bản thân của mồ hôi thực sự không gây mùi khó chịu , nhưng khi tiếp xúc với vi khuẩn trên da ( ai cũng có ) nó trở nên nặng mùi .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>But how can you keep yourself from being all sweaty and smelly ?</s>
+<s id='vn102'>Nhưng làm sao bạn có thể giữ cho thân mình khỏi đổ mồ hôi và không bị nặng mùi ?</s>
+</spair>
+<spair id='103'>
+<s id='en103'>First , you can shower or bathe regularly , especially after playing sports or sweating a lot , like on a hot day .</s>
+<s id='vn103'>Trước hết , bạn có thể tắm rửa thường xuyên , nhất là sau khi chơi thể thao hoặc đổ nhiều mồ hôi , như vào ngày oi nắng .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>You can also use deodorant under your arms .</s>
+<s id='vn104'>Bạn có thể sử dụng chất khử mùi dưới cánh tay của mình .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Deodorant has many good-smelling scents or you can use one that 's unscented .</s>
+<s id='vn105'>Chất khử mùi có nhiều hương thơm hoặc bạn có thể sử dụng một chất khử mùi nào đó không thơm .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Some deodorants come in a white stick that you can twist up .</s>
+<s id='vn106'>Một số chất khử mùi có dạng ống trắng , bạn có thể vặn lên .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Lots of people put this on after showering before they put their clothes on .</s>
+<s id='vn107'>Nhiều người sử dụng chất khử mùi này sau khi tắm xong trước khi mặc quần áo vào .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Otherwise , the white stick deodorants can leave white marks on your clothes .</s>
+<s id='vn108'>Mặt khác , chất khử mùi ống trắng còn có thể để lại nhiều vạch trắng trên trang phục của bạn .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>You can also choose a deodorant that 's clear instead of white .</s>
+<s id='vn109'>Bạn cũng có thể lựa chọn một chất khử mùi trong suốt thay vì có màu trắng .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>You can decide to wear a deodorant ( which helps stops the smell ) or a deodorant antiperspirant ( which helps stops the smell and the sweat ) .</s>
+<s id='vn110'>Bạn có thể chọn sử dụng chất khử mùi ( giúp ngăn mùi ) hoặc chất khử mùi chất ngăn tiết mồ hôi ( giúp ngăn mùi và tiết mồ hôi ) .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>If you find these products are n't working for you , talk with your doctor .</s>
+<s id='vn111'>Nếu thấy những sản phẩm này không có tác dụng tốt với bạn thì hãy tham khảo ý kiến của bác sĩ nhé .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>What about erections ?</s>
+<s id='vn112'>Còn trạng thái cương dương thì sao ?</s>
+</spair>
+<spair id='113'>
+<s id='en113'>An erection is what happens when your penis fills up with blood and hardens .</s>
+<s id='vn113'>Cương dương là trạng thái dương vật căng máu và cứng lên .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The penis will become bigger and stand out from the body .</s>
+<s id='vn114'>Dương vật sẽ trở nên to hơn và nhô ra khỏi cơ thể .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Boys will start to notice erections occurring more often when they reach puberty .</s>
+<s id='vn115'>Các bạn trai có thể sẽ bắt đầu thấy cương dương nhiều hơn khi đến tuổi dậy thì .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>And they 're perfectly normal .</s>
+<s id='vn116'>Và chuyện này hoàn toàn bình thường .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>An erection can happen at any time .</s>
+<s id='vn117'>Trạng thái cương dương cũng có thể xảy ra bất cứ lúc nào .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>You can get many in one day or none at all .</s>
+<s id='vn118'>Bạn có thể cương dương nhiều lần trong ngày hoặc không hề xảy ra trạng thái đó .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>It depends on your age , sexual maturity , level of activity , and even the amount of sleep you get .</s>
+<s id='vn119'>Điều này phụ thuộc vào tuổi tác , khả năng trưởng thành về giới tính , cường độ hoạt động , và thậm chí là lượng giấc ngủ của bạn .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>An erection can happen even when you 're sleeping .</s>
+<s id='vn120'>Trạng thái cương dương cũng có thể xảy ra trong khi bạn ngủ .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Sometimes you might wake up your underwear or bed is wet .</s>
+<s id='vn121'>Đôi khi thức dậy , quần lót hoặc giường chiếu của mình bị ướt nữa đấy .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>You may worry that this means you wet your bed like when you were little , but chances are you had a nocturnal emission , or " wet dream . "</s>
+<s id='vn122'>Bạn có thể lo sợ rằng việc này y như chuyện đái dầm thời còn bé , nhưng cũng có thể là bạn bị " mộng tinh " hoặc xuất tinh về đêm .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>A wet dream is when semen ( the fluid containing sperm ) is discharged from the penis while a boy is asleep .</s>
+<s id='vn123'>Mộng tinh là khi tinh dịch ( dịch chứa tinh trùng ) được dương vật phóng ra khi ngủ .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Semen is released through the urethra - the same tube that urine .</s>
+<s id='vn124'>Tinh dịch được phóng ra qua niệu đạo – ống nước tiểu .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>This is called ejaculation .</s>
+<s id='vn125'>Đây được gọi là hiện tượng xuất tinh .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Wet dreams occur when a boy 's body starts making more testosterone .</s>
+<s id='vn126'>Mộng tinh xảy ra khi cơ thể của bé trai bắt đầu tiết nhiều kích thích tố sinh dục nam hơn .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>This change for boys is little bit like when a girl gets her period .</s>
+<s id='vn127'>Sự biến chuyển này đối với các cậu bé đều là rất nhỏ như giai đoạn các bé gái hành kinh .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>It 's a sign a boy is growing up and the body is preparing for the day in the future when a boy might decide to be a father .</s>
+<s id='vn128'>Đây là một dấu hiệu cho thấy bé trai đang trưởng thành và cơ thể cũng đã đang chuẩn bị để một ngày nào đó trong tương lai khi có thể quyết định trở thành bố .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Semen contains sperm , which can fertilize a woman 's egg and begin the process that ends with a baby being born .</s>
+<s id='vn129'>Tinh dịch chứa tinh trùng , có thể thụ tinh với trứng của người nữ và bắt đầu một quá trình mà kết thúc là một em bé chào đời .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Although some boys might feel embarrassed or even guilty about having wet dreams , a boy can't help it .</s>
+<s id='vn130'>Mặc dù một số bé trai có thể cảm thấy ngượng ngùng hoặc thậm chí cảm thấy tội lỗi về việc mộng tinh , bạn trai không thể tránh được .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Almost all boys normally experience them at some time during puberty and even as adults .</s>
+<s id='vn131'>Hầu hết các bạn trai đều bị mộng tinh vào một thời điểm nào đó trong gian đoạn dậy thì và ngay cả khi đã thành người lớn .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>But if you ever have pain or a problem with your penis or testicles , it is important that someone take you to the doctor .</s>
+<s id='vn132'>Nhưng nếu dương vật hoặc tinh hoàn của bạn từng bị đau hoặc có vấn đề , quan trọng là nên để người nào đó đưa bạn đến khám bác sĩ .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>You may think " Man , I don't want to go to the doctor for that ! "</s>
+<s id='vn133'>Bạn cũng có thể nghĩ là " Ôi trời , tôi không muốn đi bác sĩ chuyện đó đâu !</s>
+</spair>
+<spair id='134'>
+<s id='en134'>But it 's best to get problems like this checked out - doctor won't be embarrassed at all .</s>
+<s id='vn134'>Nhưng tốt hơn hết bạn nên kiểm tra các vấn đề như thế này – bác sĩ sẽ chẳng ngại ngùng gì đâu .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>It 's a doctor 's job to help you take care of your body - even that part .</s>
+<s id='vn135'>Nhiệm vụ của bác sĩ là giúp cho bạn chăm sóc cơ thể của mình – thậm chí là bộ phận đó .</s>
+</spair>
+</text>
+</doc>

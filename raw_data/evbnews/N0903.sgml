@@ -1,0 +1,464 @@
+﻿<doc id='N0903'>
+<head>
+<title>Coping with an alcoholic parent</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Coping with an alcoholic parent</s>
+<s id='vn1'>Đối phó với bố ( mẹ ) hay nhậu nhẹt</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Anthony is in bed when he hears the front door slam .</s>
+<s id='vn2'>Anthony lên giường đi ngủ , lúc đó nó nghe tiếng ai đó đóng cửa trước rầm rầm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He covers his head with his pillow so he does n't have to listen to the sound of his parents arguing .</s>
+<s id='vn3'>Nó lấy gối bịt tai lại để khỏi phải nghe tiếng cha mẹ nó cãi vã nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Anthony knows that his mother has been drinking again .</s>
+<s id='vn4'>Anthony biết là mẹ nó lại say xỉn nữa rồi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Anthony is in bed when he hears the front door slam .</s>
+<s id='vn5'>Anthony lên giường đi ngủ , lúc đó nó nghe tiếng ai đó đóng cửa trước rầm rầm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He covers his head with his pillow so he doesn't have to listen to the sound of his parents arguing .</s>
+<s id='vn6'>Nó lấy gối bịt tai lại để khỏi phải nghe tiếng bố mẹ nó cãi vã nhau .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Anthony knows that his mother has been drinking again .</s>
+<s id='vn7'>Anthony biết là mẹ nó lại say xỉn nữa rồi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He starts worrying about getting to school on time and realizes he will probably have to help get his younger sister ready too .</s>
+<s id='vn8'>Nó bắt đầu lo đến cái chuyện đi học đúng giờ và hiểu rằng có lẽ nó cũng phải giúp em gái nó chuẩn bị đi học nữa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Why do people drink too much ?</s>
+<s id='vn9'>Tại sao người ta lại nhậu nhẹt quá nhiều như vậy ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Lots of people live with a parent or caregiver who is an alcoholic or who drinks too much .</s>
+<s id='vn10'>Nhiều người sống với bố ( mẹ ) hoặc người chăm sóc có tật nghiện rượu hoặc uống rượu vô độ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Alcoholism has been around for centuries , yet no one has discovered an easy way to prevent it .</s>
+<s id='vn11'>Người ta đã biết đến thói nghiện rượu từ rất lâu rồi , tuy chẳng ai tìm ra cách nào dễ dàng để có thể ngăn ngừa được cái tật nghiện rượu này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Alcohol can affect people 's health and also how they act .</s>
+<s id='vn12'>Bia rượu có thể ảnh hưởng đến sức khỏe của con người đồng thời cũng ảnh hưởng đến cách thức người ta hành động nữa .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>People who are drunk might be more aggressive or have mood swings .</s>
+<s id='vn13'>" Ma men " có thể hung hăng hơn hoặc tâm trạng rất thất thường , thay đổi " như chong chóng " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They may act in a way that is embarrassing to them or other people .</s>
+<s id='vn14'>Họ có thể cư xử , hành động gây ngượng cho mình hoặc cho người khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Alcoholism is a disease .</s>
+<s id='vn15'>Nghiện rượu là một chứng bệnh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Like any disease , it needs to be treated .</s>
+<s id='vn16'>Giống như bất kỳ một chứng bệnh nào khác , nó cũng cần được trị .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Without professional help , a person with alcoholism will probably continue to drink and may even become worse over time .</s>
+<s id='vn17'>Nếu không có chuyên gia hỗ trợ thì người bị nghiện rượu sẽ có thể vẫn tiếp tục uống và thậm chí ngày này tháng nọ còn có thể nghiện hơn nữa .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Diseases like alcoholism are no one 's fault .</s>
+<s id='vn18'>Mấy thứ bệnh như chứng nghiện rượu này thì hoàn toàn không phải do lỗi của ai hết .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Some people are susceptible to wanting to drink too much .</s>
+<s id='vn19'>Một số người có thể thèm uống rất nhiều .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Scientists think it has to do with genetics , as well as things like family history , and life events .</s>
+<s id='vn20'>Các nhà khoa học cho rằng nó có liên quan đến di truyền học , cũng như những điều đại loại như tiền sử gia đình , và các biến cố cuộc đời .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Sometimes what starts as a bad habit can become a very big problem .</s>
+<s id='vn21'>Đôi khi chứng nghiện rượu này cũng bắt đầu y như một thói quen xấu có thể trở thành vấn đề hết sức gay go .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>For example , people may drink to cope with problems like boredom , stress , or money troubles .</s>
+<s id='vn22'>Chẳng hạn , nhiều người có thể mượn rượu bia để giải quyết các vấn đề của mình như buồn chán , căng thẳng , hoặc các rắc rối về tài chính .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Maybe there 's an illness in the family , or parents are having marriage problems .</s>
+<s id='vn23'>Cũng có thể là người thân trong gia đình bị bệnh , hoặc hôn nhân của bố mẹ đang trục trặc .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>How does alcoholism affect families ?</s>
+<s id='vn24'>Thói nghiện rượu ảnh hưởng đến gia đình như thế nào ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If you live with a parent who drinks , you may feel embarrassed , angry , sad , hurt , or any emotions .</s>
+<s id='vn25'>Nếu bố ( mẹ ) của mình hay nhậu nhẹt thì có thể bạn cũng cảm thấy ngượng , tức tối , buồn phiền , tổn thương , hoặc bất kỳ thứ cảm xúc nào khác .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>You may feel helpless : When parents promise to stop drinking , for example , it can be in frustration when they don't keep their promises .</s>
+<s id='vn26'>Bạn cũng có thể cảm thấy bất lực , vô vọng khi bố mẹ hứa sẽ bỏ rượu , chẳng hạn , và rồi bạn có thể sẽ chán chường thất vọng khi họ vẫn chứng nào tật nấy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Problem drinking can change how families function .</s>
+<s id='vn27'>Chứng nghiện rượu có thể làm thay đổi sinh hoạt của gia đình .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A parent may have trouble keeping a job and problems paying the bills .</s>
+<s id='vn28'>Bố ( mẹ ) có thể khó mà giữ được công ăn việc làm của mình đồng thời cũng khó mà thanh toán các khoản phí .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Older kids may have to take care of younger siblings .</s>
+<s id='vn29'>Những trẻ lớn hơn có thể phải chăm sóc cho các em ruột của mình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Some parents with alcohol problems might mistreat or abuse their children emotionally or physically .</s>
+<s id='vn30'>Một số phụ huynh có thói quen nghiện rượu có thể ngược đãi hoặc lạm dụng con mình về mặt tinh thần hoặc thể chất .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Others may neglect their kids by not providing sufficient care and guidance .</s>
+<s id='vn31'>Số khác có thể bỏ bê con cái bằng cách không chăm sóc và dạy dỗ đàng hoàng cho chúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Parents with alcohol problems might also use other drugs .</s>
+<s id='vn32'>Hơn thế nữa , một số người nghiện rượu cũng có thể tìm đến các loại thuốc ma tuý khác .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Despite what happens , most children of alcoholics love their parents and worry about something bad happening to them .</s>
+<s id='vn33'>Dẫu cho có chuyện gì xảy ra đi chăng nữa thì hầu hết con cái có bố mẹ nghiện rượu thường yêu bố mẹ của mình và lo lắng chuyện không may sẽ xảy đến với gia đình mình .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Kids who live with problem drinkers often try all kinds of ways to prevent them from drinking .</s>
+<s id='vn34'>Trẻ sống với người thân hay say xỉn thường cố làm đủ mọi cách để ngăn không cho người thân của mình uống rượu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But , just as family members don't cause the addiction , they can't stop it either .</s>
+<s id='vn35'>Nhưng cũng như chuyện các thành viên trong gia đình không làm cho họ nghiện rượu thì cũng không tài nào có thể ngăn không cho họ uống rượu được .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Someone who has a bad habit or an addiction to alcohol needs to get help from a treatment center .</s>
+<s id='vn36'>Người có thói quen xấu hoặc nghiện rượu bia cần phải được trung tâm cai nghiện hỗ trợ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Alcoholism affects family members just as much as it affects the person drinking .</s>
+<s id='vn37'>Thói nghiện rượu gây ảnh hưởng đến các thành viên trong gia đình tương tự như bản thân người bị nghiện vậy .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Because of this , there are lots of support groups to help children of alcoholics cope with the problem .</s>
+<s id='vn38'>Vì vậy , có nhiều nhóm hỗ trợ nhằm giúp con cái của các bậc bố mẹ nghiện rượu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>What if a parent does n't see a problem ?</s>
+<s id='vn39'>Nếu bố ( mẹ ) không thấy được vấn đề thì chuyện gì sẽ xảy ra ?</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Drinking too much can be a problem that nobody likes to talk about .</s>
+<s id='vn40'>Nhậu nhẹt bê tha có thể là một vấn đề mà không ai muốn nhắc tới .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>In fact , lots of parents may become enraged at the slightest suggestion that they are drinking too much .</s>
+<s id='vn41'>Thực vậy , nhiều bố mẹ có thể nổi điên lên khi nghe ai đó đề cập sơ đến việc họ uống quá nhiều .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Sometimes , parents deny that they have a problem .</s>
+<s id='vn42'>Đôi khi bố mẹ cũng phủ nhận chuyện mình bê tha .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>A person in denial refuses to believe the truth about a situation .</s>
+<s id='vn43'>Họ không tin hoàn cảnh này là thật .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>So problem drinkers may try to blame someone else because it is easier than taking responsibility for their own drinking .</s>
+<s id='vn44'>Vì vậy người nghiện rượu chè có thể cố trách một ai đó bởi việc này dễ dàng hơn so với gánh lấy trách nhiệm say xỉn thuộc về mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Some parents make their families feel bad by saying stuff like , "You 're driving me crazy ! " or " I ca n't take this anymore . "</s>
+<s id='vn45'>Một số bố mẹ còn làm cho gia đình mình cảm thấy như sống trong điạ ngục bằng cách nói những thứ đại loại như " Mấy đứa bây làm tao phát điên lên đây này ! " hoặc " Tao không chịu đựng nổi chuyện này nữa . "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>That can be harmful , especially to kids : Most young children do n't know that the problem has nothing to do with their actions and that it 's all in the drinker 's mind .</s>
+<s id='vn46'>Điều này có thể rất có hại , nhất là đối với trẻ con : Hầu hết trẻ nhỏ không hề biết vấn đề không liên quan gì đến hành động của chúng cả mà tất cả chỉ là trong tâm trí của người say mà thôi .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Some parents do acknowledge their drinking , but deny that it 's a problem .</s>
+<s id='vn47'>Một số người cũng thừa nhận thói rượu chè của mình nhưng bác bỏ chuyện rắc rối , phiền hà .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>They may say stuff like , " I can stop anytime I want to , " " Everyone drinks to unwind sometimes , " or " My drinking is not a problem . "</s>
+<s id='vn48'>Họ có thể nói những điều đại loại như " Tôi có thể bỏ rượu bất kỳ lúc nào mà " " Người ta uống để thư giãn trong người thôi " hoặc " Tôi uống rượu đâu có gây chuyện gì cho ai . "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Lots of people fall into the trap of thinking that a parent 's drinking is only temporary .</s>
+<s id='vn49'>Nhiều người nhầm lẫn nghĩ rằng tật rượu chè của bố ( mẹ ) chỉ là nhất thời thôi .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>They tell themselves that , when a particular problem is over , like having a rough time at work , the drinking will stop .</s>
+<s id='vn50'>Họ tự nhủ khi một vấn đề nào đó qua rồi , chẳng hạn như công việc làm ăn đang trục trặc , thì người ta cũng bỏ rượu .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>But even if a parent who drinks too much has other problems , drinking is a separate problem .</s>
+<s id='vn51'>Nhưng cho dù là bố ( mẹ ) uống quá nhiều gặp thêm nhiều rắc rối khác thì thói say xỉn cũng là một vấn đề hoàn toàn tách biệt .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>And that problem won't go away unless the drinker gets help .</s>
+<s id='vn52'>Và chuyện này không hề tự khỏi nếu không có sự can thiệp , hỗ trợ của người khác đối với người nghiện này .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Why do I feel so bad ?</s>
+<s id='vn53'>Tại sao tôi cảm thấy khốn khổ như thế ?</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If you 're like most teens , your life is probably filled with emotional ups and downs , regardless of what 's happening at home .</s>
+<s id='vn54'>Nếu bạn giống như hầu hết các thanh thiếu niên khác thì cuộc sống của bạn ắt hẳn cũng đã đầy những cung bậc cảm xúc , bất kể chuyện gì đang xảy ra ở nhà mình đi chăng nữa .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Adding a parent 's drinking problem to the mix , it can all seem like too much .</s>
+<s id='vn55'>Thứ cảm xúc lộn xộn ấy giờ đây lại bị nhồi thêm vấn đề rượu chè của bố ( mẹ ) thì có thể dường như quá sức đối với lứa tuổi này .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>There are many reasons why a parent 's drinking can contribute to feelings of anger , frustration , disappointment , sadness , embarrassment , worry , loneliness , and helplessness .</s>
+<s id='vn56'>Có nhiều lý do vì sao tật nghiện rượu của bố ( mẹ ) có thể góp phần gây nên những cảm xúc giận dữ , thất vọng , chán nản , buồn phiền , ngượng ngùng , lo âu , cô đơn và bất lực .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>For example :</s>
+<s id='vn57'>Chẳng hạn như :</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* You might be subjected to a parent 's changing moods .</s>
+<s id='vn58'>* Bạn có lẽ phải chịu những tâm trạng thay đổi thất thường của bố ( mẹ ) .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>People who drink can behave unpredictably .</s>
+<s id='vn59'>Người nghiện rượu chè có thể cư xử rất thất thường .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Kids who grow up around them may spend a lot of energy trying to figure out a parent 's mood or guess what that parent wants .</s>
+<s id='vn60'>Trẻ sống trong gia đình với họ có thể phải tốn nhiều công sức để cố hiểu tâm trạng của bố ( mẹ ) hoặc đoán xem bố ( mẹ ) muốn gì .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>One day you might walk on eggshells to avoid an outburst because the dishes are n't done or the lawn is n't mowed .</s>
+<s id='vn61'>Một ngày nào đó bạn có thể hết sức cẩn trọng để tránh cơn giận dữ bùng nổ của bố ( mẹ ) bởi bạn chưa nấu ăn xong hoặc bởi chưa cắt xong bãi cỏ .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The next day , you may feel easy because a parent who promises that things will be better .</s>
+<s id='vn62'>Hôm sau , bạn có thể sẽ cảm thấy dễ chịu bởi bố ( mẹ ) hứa rằng mọi chuyện sẽ tốt hơn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* It may be hard to do things with friends or other people .</s>
+<s id='vn63'>* Bạn cũng có thể khó giao thiệp với bạn bè của mình hoặc với những người khác .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>For some people , it feels like too much trouble to have a friend over or do the things that everyone else does .</s>
+<s id='vn64'>Đối với một số người , thì có vẻ như rất phiền khi có một người bạn hoặc làm những điều mà người khác có thể làm .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You just never know how your parent will act .</s>
+<s id='vn65'>Bạn hoàn toàn không biết bố ( mẹ ) mình sẽ cư xử như thế nào .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Will your mom or dad show up drunk for school events or drive you ( and your friends ) home drunk ?</s>
+<s id='vn66'>Bố ( mẹ ) bạn có đến các sự kiện ở trường với bộ dạng say xỉn hay không hoặc là họ có lái xe chở bạn ( hoặc bạn bè của bạn ) về nhà trong trạng thái xỉn say ?</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* You might be stressed or worried .</s>
+<s id='vn67'>* Bạn có thể cảm thấy căng thẳng hoặc lo lắng .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>It can be scary to listen to adults in the house yell , fight , or break things .</s>
+<s id='vn68'>Nghe người lớn trong nhà la lối , ẩu đả nhau , hoặc làm vỡ nhiều thứ có thể rất hãi sợ .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Worrying about a parent adds to all the other emotions you may be feeling .</s>
+<s id='vn69'>Tất cả những thứ cảm xúc khác của bạn có thể giờ đây bị nhồi thêm vào cảm giác lo lắng về bố ( mẹ ) .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Are you lying awake waiting for mom or dad to get home safely ?</s>
+<s id='vn70'>Có phải bạn đang nằm thao thức chờ mẹ hoặc bố về nhà an toàn hay không ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Do you feel it 's not fair that you have to be the grown up and take care of things around the house ?</s>
+<s id='vn71'>Có phải bạn cảm thấy bất công khi phải trở thành người lớn và trông coi những thứ lặt vặt trong nhà ?</s>
+</spair>
+<spair id='72'>
+<s id='en72'>These are all normal reactions .</s>
+<s id='vn72'>Tất cả đều là những phản ứng bình thường thôi .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Although each family is different , people who grow up with alcoholic parents often feel alone , unloved , depressed , or burdened by the secret life they lead at home .</s>
+<s id='vn73'>Dẫu rằng mỗi nhà mỗi cảnh , nhưng người sống cùng với bố mẹ hay nhậu nhẹt thường cảm thấy cô đơn , bị bỏ bê , không được bố mẹ yêu thương , trầm cảm , hoặc bị đè nặng bởi cuộc sống riêng tư ở nhà của mình .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>What can I do ?</s>
+<s id='vn74'>Tôi có thể làm gì ?</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Acknowledge the problem .</s>
+<s id='vn75'>Thừa nhận vấn đề .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Many kids of parents who drink too much try to protect their parents or hide the problem .</s>
+<s id='vn76'>Nhiều trẻ có bố mẹ rất hay nhậu nhẹt cố bảo vệ bố mẹ mình hoặc che giấu vấn đề này .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Admitting that your parent has a problem - even if he or she won't - is the first step in taking control .</s>
+<s id='vn77'>Việc thừa nhận bố ( mẹ ) mình có vấn đề – cho dù là bố mẹ sẽ không thừa nhận đi chăng nữa – là bước quan trọng đầu tiên để giải quyết vấn đề này .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Start by talking to a friend , teacher , counselor , or coach .</s>
+<s id='vn78'>Bạn hãy nên bắt đầu nói chuyện với một người bạn , một giáo viên , một nhân viên tư vấn , hoặc một huấn luyện viên nào đó của mình .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>If you can't face telling someone you know , call an organization like Al-Anon/Alateen ( they have a 24-hour hotline at 1-800-344-2666 ) or go online for help .</s>
+<s id='vn79'>Nếu không thể kể trực tiếp cho một người nào đó mà mình quen biết nghe thì hãy nên gọi điện cho một tổ chức nào đó chẳng hạn như Al-Anon/Alateen ( số 1-800-344-2666 họ có đường dây nóng 24/24 ) hoặc lên mạng cầu cứu nhé .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Be informed .</s>
+<s id='vn80'>Hãy nắm bắt được tình hình .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Being aware of how your parent 's drinking affects you can help put things in perspective .</s>
+<s id='vn81'>Việc nhận thức được tật nghiện rượu của bố ( mẹ ) gây ảnh hưởng đến mình có thể giúp cho bạn nhìn nhận được mọi chuyện .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>For example , some teens who live with alcoholic adults become afraid to speak out or show any normal anger or emotion because they worry it may trigger a parent 's drinking .</s>
+<s id='vn82'>Chẳng hạn như , một số thanh thiếu niên sống chung với những người lớn hay nhậu nhẹt rượu chè có thể sợ nói ra hoặc sợ bày tỏ bất kỳ cơn tức giận hoặc bất kỳ một cảm xúc bình thường nào bởi các bạn ấy lo lắng việc này có thể khiến cho bố ( mẹ ) mình say xỉn nhiều hơn .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Remind yourself that you are not responsible for your parent drinking , and that you cannot cause it or stop it .</s>
+<s id='vn83'>Hãy nên tự nhắc mình rằng bạn không chịu trách nhiệm việc bố ( mẹ ) bê tha rượu chè , và bạn cũng không thể khiến bố ( mẹ ) trở nên như thế hoặc bạn cũng không tài nào làm cho bố ( mẹ ) bỏ rượu được .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Be aware of your emotions .</s>
+<s id='vn84'>Nhận biết cảm xúc của mình .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>When you feel things like anger or resentment , try to identify those feelings .</s>
+<s id='vn85'>Khi bạn cảm thấy những điều đại loại như tức giận hoặc oán hờn , thì hãy cố nhận biết các thứ cảm xúc này nhé .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Talk to a close friend or write down how you are feeling .</s>
+<s id='vn86'>Bạn nên nói chuyện với một người bạn thân nào đó hoặc viết ra những tâm sự , cảm xúc của mình .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Recognizing how a parent 's problem drinking makes you feel can help you from burying your feelings and pretending that everything 's OK .</s>
+<s id='vn87'>Việc nhận ra vấn đề rượu chè của bố ( mẹ ) ảnh hưởng đến cảm xúc của mình như thế nào có thể giúp bạn khỏi phải che giấu cảm xúc của mình và giả vờ như mọi thứ đều ổn hết .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Learn healthy coping strategies .</s>
+<s id='vn88'>Học các chiến lược đối phó lành mạnh .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>When we grow up around people who turn to alcohol or other unhealthy ways of dealing with problems , they become our example .</s>
+<s id='vn89'>Khi chúng ta lớn lên xung quanh những người hay tìm đến rượu hoặc có những cách giải quyết vấn đề không lành mạnh thì họ trở thành tấm gương cho chúng ta .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Watching new role models can help people learn healthy coping mechanisms and ways of making good decisions .</s>
+<s id='vn90'>Việc quan sát những tấm gương mới có thể giúp người ta biết học được kỹ thuật đối phó lành mạnh và biết được nhiều cách đưa ra quyết định đúng đắn .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Coaches , aunts , uncles , parents of friends , or teachers all have to deal with things like frustration or disappointment .</s>
+<s id='vn91'>Tất cả các huấn luyện viên , các cô , các chú , bố mẹ của bạn bè , hoặc tất cả các thầy cô đều phải đối phó với những điều đại loại như thất vọng hoặc chán chường .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Watch how they do it .</s>
+<s id='vn92'>Bạn nên quan sát cách đối phó của họ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>School counselors can be a great resource here .</s>
+<s id='vn93'>Ở đây thì các nhân viên tư vấn ở trường học có thể giúp ích được nhiều cho bạn đấy .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Next time you have a problem , ask someone you trust for help .</s>
+<s id='vn94'>Lần sau nếu bạn có vấn đề gì , thì hãy hỏi một người nào đó mà bạn tin tưởng để nhờ giúp đỡ nhé .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Find support .</s>
+<s id='vn95'>Tìm nguồn hỗ trợ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>It 's good to share your feelings with a friend , but it 's equally important to talk to an adult you trust .</s>
+<s id='vn96'>Bạn nên bộc lộ , chia sẻ cảm xúc của mình với một người bạn nào đó , nhưng cũng nên nói chuyện với một người lớn tuổi mà bạn tin tưởng .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>A school counselor , favorite teacher , or coach may be able to help .</s>
+<s id='vn97'>Một nhân viên tư vấn nào đó ở trường học , một giáo viên nào đó mà bạn yêu thích , hoặc một huấn luyện viên nào đó cũng có thể giúp ích được cho bạn trong lúc này .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Some teens turn to their school D.A.R.E. ( Drug and Alcohol Resistance Education ) officer .</s>
+<s id='vn98'>Một số bạn thanh thiếu niên có thể tìm đến nhân viên chương trình D.A.R.E. ở trường của mình ( chương trình Giáo dục Đấu tranh Chống Rượu bia và Ma tuý ) .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Others prefer to talk to a family member or parents of a close friend .</s>
+<s id='vn99'>Số khác thích nói chuyện với một người thân nào đó trong gia đình hơn hoặc nói chuyện với bố mẹ của một người bạn thân của mình .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Find a safe environment .</s>
+<s id='vn100'>Tìm môi trường an toàn .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Do you find yourself avoiding your house as much as possible ?</s>
+<s id='vn101'>Có phải bạn thấy mình lánh khỏi ngôi nhà của mình càng nhiều càng tốt không ?</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Are you thinking about running away ?</s>
+<s id='vn102'>Có phải bạn đang nghĩ đến việc bỏ trốn khỏi ngôi nhà ấy không ?</s>
+</spair>
+<spair id='103'>
+<s id='en103'>If you feel that the situation at home is becoming dangerous , you can call the National Domestic Violence Hotline at ( 800 ) 799-SAFE.</s>
+<s id='vn103'>Nếu nghĩ rằng tình hình ở nhà đang trở nên nguy hiểm thì bạn có thể gọi điện đến Đường dây nóng Bạo hành Gia đình Quốc gia số ( 800 ) 799-SAFE .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>And don't hesitate to dial 911 if you think you or another family member is in immediate danger .</s>
+<s id='vn104'>Và đừng nên do dự quay số 911 nếu bạn nghĩ mình hoặc một thành viên trong gia đình khác hiện đang lâm nguy .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Stop the cycle .</s>
+<s id='vn105'>Ngăn chu kỳ xoay vòng này .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Teenage children of alcoholics are at higher risk of becoming alcoholics themselves .</s>
+<s id='vn106'>Con cái ở tuổi thanh thiếu niên có bố mẹ bê tha rượu chè có nguy cơ biến mình thành tên nghiện rượu .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Scientists think this is because of genetics and the environment that kids grow up in .</s>
+<s id='vn107'>Các nhà khoa học cho rằng nguyên nhân là do di truyền và môi trường mà trẻ phát triển .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>For example , people might learn to drink as a way to avoid fear , boredom , anxiety , sadness , or other unpleasant feelings .</s>
+<s id='vn108'>Chẳng hạn như , người ta có thể biết cách " mượn rượu " để tránh sợ hãi , buồn chán , lo âu , phiền muộn , hoặc tránh đi những cảm xúc khó chịu khác .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Understanding that there could be a problem and finding adults and peers to help you can be the most important thing you do to reduce the risk of problem drinking .</s>
+<s id='vn109'>Việc thấu hiểu có thể có vấn đề và tìm những người lớn tuổi hơn và bạn bè đồng lứa để hỗ trợ cho bạn có thể là biện pháp tốt nhất nhằm làm giảm nguy cơ rượu chè về sau của mình .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Alcoholism is a disease .</s>
+<s id='vn110'>Nghiện rượu là một chứng bệnh .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>You can show your love and support , but you won't be able to stop someone from drinking .</s>
+<s id='vn111'>Bạn có thể bày tỏ tình thương yêu và giúp đỡ của mình nhưng sẽ không tài nào có thể ngăn không cho người ấy uống rượu được đâu .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Talking about the problem , finding support , and choosing healthy ways to cope are choices you can make to feel more in control of the situation .</s>
+<s id='vn112'>Nói ra vấn đề đó , tìm nguồn hỗ trợ , đồng thời chọn cho mình những cách lành mạnh để đối phó vấn đề là những điều mà bạn có thể lựa chọn để thực hiện nhằm giúp bạn kiểm soát được hoàn cảnh nhiều hơn .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Above all , don't give up !</s>
+<s id='vn113'>Điều quan trọng hơn hết là không nên từ bỏ bạn nhé !</s>
+</spair>
+</text>
+</doc>

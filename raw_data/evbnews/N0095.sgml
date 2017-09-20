@@ -1,0 +1,160 @@
+﻿<doc id='N0095'>
+<head>
+<title>Nobel Peace Prize awarded to China dissident Liu Xiaobo</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Nobel Peace Prize awarded to China dissident Liu Xiaobo</s>
+<s id='vn1'>Giải Nôbel Hoà bình được trao cho Lưu Hiểu Ba , kẻ chống lại Trung Quốc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Jailed Chinese dissident Liu Xiaobo has been named the winner of the 2010 Nobel Peace Prize .</s>
+<s id='vn2'>Kẻ chống đối người Trung Quốc Lưu Hiểu Ba bị bỏ tù đã được đề cử là người đoạt Giải Nôbel Hoà bình năm 2010 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Making the announcement in Oslo , the head of the Norwegian Nobel committee said Mr Liu was " the foremost symbol " of the human rights struggle in China .</s>
+<s id='vn3'>Khi đưa ra thông báo ở Oslo , người đứng đầu Uỷ ban trao giải Nô-ben của Na Uy nói rằng Ông Lưu là " biểu tượng hàng đầu " của cuộc đấu tranh nhân quyền ở Trung Quốc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Several countries including the US , France and Germany , called for his immediate release .</s>
+<s id='vn4'>Vài quốc gia bao gồm Hoa Kỳ , Pháp và Đức , yêu cầu phóng thích ông ta ngay lập tức .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>China said the award could damage ties with Norway , and summoned the country 's ambassador in Beijing in protest .</s>
+<s id='vn5'>Trung Quốc nói rằng giải thưởng này có thể làm tổn hại mối quan hệ với Na Uy , và đã cho mời đại sứ của nước này ở Bắc Kinh đến để phản kháng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Norwegian Nobel Committee chairman Thorbjoern Jagland admitted he knew the choice would be controversial .</s>
+<s id='vn6'>Thorbjoern Jagland chủ tịch ủy ban trao giải Nô-ben của Na Uy thừa nhận rằng ông ấy biết lựa chọn này sẽ có thể gây ra tranh luận .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>He told local television before the announcement :</s>
+<s id='vn7'>Ông ấy nói với truyền hình địa phương trước khi có thông báo rằng :</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" You 'll understand when you hear the name . "</s>
+<s id='vn8'>" Các bạn sẽ hiểu khi bạn nghe tên . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Curtailed freedom "</s>
+<s id='vn9'>" Tự do bị tước đoạt "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Mr Jagland , reading the citation , said China 's new status in the world " must entail increased responsibility " .</s>
+<s id='vn10'>Đọc lời trích dẫn này , Ông Jagland đã nói rằng địa vị mới của Trung Quốc trên thế giới " đòi hỏi phải tăng cường trách nhiệm nhiều hơn nữa " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" China is in breach of several international agreements to which it is a signatory , as well as of its own provisions concerning political rights . "</s>
+<s id='vn11'>" Trung Quốc vi phạm vài thoả thuận quốc tế mà nó đã ký kết , cũng như những quy định riêng của nó về quyền chính trị . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>10 Years of Peace Prize Winners</s>
+<s id='vn12'>10 Người đoạt Giải Hòa bình qua các năm</s>
+</spair>
+<spair id='13'>
+<s id='en13'>2010 : Liu Xiaobo</s>
+<s id='vn13'>2010 : Lưu Hiểu Ba</s>
+</spair>
+<spair id='14'>
+<s id='en14'>2009 : Barack Obama</s>
+<s id='vn14'>2009 : Barack Obama</s>
+</spair>
+<spair id='15'>
+<s id='en15'>2008 : Martti Ahtisaari</s>
+<s id='vn15'>2008 : Martti Ahtisaari</s>
+</spair>
+<spair id='16'>
+<s id='en16'>2007 : Al Gore and the UN Intergovernmental Panel on Climate Change</s>
+<s id='vn16'>2007 : Al Gore và Uỷ ban liên chính phủ của Liên Hiệp Quốc về thay đổi khí hậu</s>
+</spair>
+<spair id='17'>
+<s id='en17'>2006 : Muhammad Yunus and the Grameen Bank</s>
+<s id='vn17'>2006 : Muhammad Yunus và Grameen Bank</s>
+</spair>
+<spair id='18'>
+<s id='en18'>2005 : IAEA and Mohamed ElBaradei</s>
+<s id='vn18'>2005 : IAEA và Mohamed ElBaradei</s>
+</spair>
+<spair id='19'>
+<s id='en19'>2004 : Wangari Maathai</s>
+<s id='vn19'>2004 : Wangari Maathai</s>
+</spair>
+<spair id='20'>
+<s id='en20'>2003 : Shirin Ebadi</s>
+<s id='vn20'>2003 : Shirin Ebadi</s>
+</spair>
+<spair id='21'>
+<s id='en21'>2002 : Jimmy Carter</s>
+<s id='vn21'>2002 : Jimmy Carter</s>
+</spair>
+<spair id='22'>
+<s id='en22'>2001 : Kofi Annan and the United Nations</s>
+<s id='vn22'>2001 : Kofi Annan và Liên Hiệp Quốc</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Norwegian Prime Minister Jens Stoltenberg said it would be " negative for China 's reputation in the world " if it chose to punish his country over the award .</s>
+<s id='vn23'>Jens Stoltenberg - thủ tướng Na Uy nói sẽ " không tốt cho danh tiếng của Trung Quốc trên thế giới " nếu họ quyết định trừng phạt đất nước họ vì giải thưởng này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Mr Liu 's wife , Liu Xia , said she was " so excited " by the award .</s>
+<s id='vn24'>Vợ của Ông Lưu , Liu Xia , nói rằng bà ấy " rất phấn khích " về giải thưởng này .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>She told AFP news agency :</s>
+<s id='vn25'>Bà ấy nói với hãng thông tấn AFP rằng :</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" I want to thank everyone for supporting Liu Xiaobo .</s>
+<s id='vn26'>" Tôi muốn cảm ơn tất cả mọi người vì đã ủng hộ cho Lưu Hiểu Ba .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>I strongly ask that the Chinese government release Liu . "</s>
+<s id='vn27'>Tôi kịch liệt yêu cầu chính quyền Trung Quốc phóng thích anh Lưu . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Mrs Liu said police had informed her they would take her to Mr Liu 's prison in the north-eastern province of Liaoning on Saturday so she could give him the news .</s>
+<s id='vn28'>Bà Lưu nói rằng cảnh sát đã thông báo cho bà ấy rằng họ sẽ đưa bà ấy đến nhà tù của ông Lưu ở phía bắc miền đông tỉnh Liêu Ninh vào thứ bảy , vì vậy bà ấy có thể báo cho ông ấy biết tin này .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The prize is worth 10 million Swedish crowns ( $ 1.5M ; £944,000 ) and will be awarded in Oslo on 10 December .</s>
+<s id='vn29'>Giải thưởng trị giá 10 triệu tiền Thụy Điển ( 1,5 triệu đô la Mỹ ; 944.000 bảng Anh ) và sẽ được trao ở Oslo vào ngày 10 tháng 12 .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>US President Barack Obama said Mr Liu had " has sacrificed his freedom for his beliefs " and called for his speedy release .</s>
+<s id='vn30'>Tổng thống Barack Obama đã nói Ông Lưu " đã hy sinh tự do của ông ấy cho niềm tin " và yêu cầu nhanh chóng phóng thích ông ấy .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>German government spokesman Steffen Seibert said China should free him so he could attend the ceremony .</s>
+<s id='vn31'>Người phát ngôn của chính phủ Đức Steffen Seibert nói rằng Trung Quốc nên trả tự do cho ông ấy để ông ấy có thể tham dự buổi lễ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>France 's Foreign Minister Bernard Kouchner also welcomed the award and also called on China to release Mr Liu .</s>
+<s id='vn32'>Bộ trưởng ngoại giao của Pháp Bernard Kouchner cũng cảm thấy vui mừng vì giải thưởng này và cũng đã kêu gọi Trung Quốc phóng thích Ông Lưu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>UN human rights commissioner Navi Pillay said the prize recognised a " very prominent human rights defender " .</s>
+<s id='vn33'>Uỷ viên hội đồng nhân quyền Liên Hiệp Quốc Navi Pillay nói rằng giải thưởng này công nhận một " người bảo vệ nhân quyền rất lỗi lạc " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The London-based rights group Amnesty International said Mr Liu was a " worthy winner " .</s>
+<s id='vn34'>Tổ chức ân xá quốc tế về nhân quyền ở Luân Đôn nói rằng Ông Lưu là " người đoạt giải xứng đáng " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>But Catherine Baber , Amnesty 's deputy Asia-Pacific director , added : " This award can only make a real difference if it prompts more international pressure on China to release Liu , along with the numerous other prisoners of conscience languishing in Chinese jails . "</s>
+<s id='vn35'>Nhưng Catherine Baber , phó giám đốc Tổ chức ân xá châu Á - Thái Bình Dương nói thêm rằng : " Giải thưởng này chỉ có thể gây ra sự bất đồng thực sự nếu nó gây áp lực quốc tế lên Trung Quốc về việc phóng thích Ông Lưu , cùng với rất nhiều tù nhân lương tâm khác đang mòn mỏi trong các nhà tù của Trung Quốc . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>No candidates are announced ahead of the peace prize but others mentioned in the media included Afghan women 's rights activist Sima Samar , Russian human rights activist Svetlana Gannushkina , former German chancellor Helmut Kohl and Zimbabwean Prime Minister Tsvangirai Morgan .</s>
+<s id='vn36'>Không có ứng cử viên nào được công bố trước giải Hòa bình nhưng những người khác đã được đề cập trên phương tiện truyền thông đại chúng bao gồm Sima Samar - nhà hoạt động vì nữ quyền của Afghanistan , Svetlana Gannushkina - nhà hoạt động nhân quyền của Nga , Helmut Kohl - cựu thủ tướng Đức và Morgan Tsvangirai - thủ tướng Zimbabwean .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The Nobel committee had to defend last year 's controversial peace prize choice of US President Barack Obama .</s>
+<s id='vn37'>Ủy ban trao giải Nô-ben phải bảo vệ người được chọn trao giải Hòa bình gây tranh cãi vào năm ngoái là tổng thống Barack Obama của Hoa Kỳ .</s>
+</spair>
+</text>
+</doc>

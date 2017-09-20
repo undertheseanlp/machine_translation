@@ -1,0 +1,120 @@
+﻿<doc id='N0602'>
+<head>
+<title>US unemployment rate falls to 8.9%</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>US unemployment rate falls to 8.9%</s>
+<s id='vn1'>Tỷ lệ thất nghiệp ở Hoa Kỳ giảm xuống còn 8.9%</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The US unemployment rate fell slightly to 8.9% in February , down from 9% the month before .</s>
+<s id='vn2'>Tỷ lệ thất nghiệp ở Hoa Kỳ giảm nhẹ còn 8.9% vào tháng hai , giảm xuống từ mức 9% vào tháng trước .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It is the third month in a row that the jobless rate has fallen , with February 's figure marking a near two-year low .</s>
+<s id='vn3'>Đây là tháng thứ ba liên tiếp mà tỉ lệ thất nghiệp đã giảm xuống , con số của tháng hai đánh dấu mức thấp trong vòng gần hai năm .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Employers added 192,000 jobs last month , the US Labor Department said , above market expectations .</s>
+<s id='vn4'>Những chủ doanh nghiệp đã tăng thêm 192,000 công việc vào tháng trước , Bộ Lao động Hoa Kỳ cho biết , trên mức mong đợi của thị trường .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>President Barack Obama said the jobs figures showed progress in the US economy .</s>
+<s id='vn5'>Tổng thống Barack Obama cho biết những con số việc làm cho thấy sự tiến bộ trong nền kinh tế Hoa Kỳ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He said the country needed to " keep building on that momentum . "</s>
+<s id='vn6'>Ông cho biết đất nước cần " giữ vững sự phát triển trên sự thúc đẩy đó . "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A Labor Department statement said that most job gains were in manufacturing , construction , business services and transport .</s>
+<s id='vn7'>Báo cáo của Bộ lao động cho biết hầu hết các công việc có được là ở các ngành sản xuất , xây dựng , dịch vụ kinh doanh và giao thông .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Analysis</s>
+<s id='vn8'>Phân tích</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Michelle Fleury BBC business correspondent , New York</s>
+<s id='vn9'>Phóng viên thương mại BBC , Michelle Fleury , New York</s>
+</spair>
+<spair id='10'>
+<s id='en10'>With jobs being created in virtually all sectors , February 's employment report was the most positive we 've seen in a while .</s>
+<s id='vn10'>Với số lượng công việc được tạo ra trên gần như tất cả các lĩnh vực , bản báo cáo việc làm của tháng hai cho thấy con số tích cực nhất mà lâu rồi chúng ta từng xem .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But the reality is still sobering .</s>
+<s id='vn11'>Nhưng tình hình thực tế vẫn còn khá nghiêm trọng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The unemployment rate remains stubbornly high , with more than 13 million Americans out of work .</s>
+<s id='vn12'>Tỉ lệ thất nghiệp tiếp tục cao dai dẳng , với hơn 13 triệu người Mỹ thất nghiệp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>As the Chairman of the Federal Reserve , Ben Bernanke testified this week , the current jobs growth is not enough to recover the millions of jobs lost during the recent recession .</s>
+<s id='vn13'>Như chủ tịch của Cục Dự trữ Liên bang , Ben Bernanke , xác nhận vào tuần này , mức tăng trưởng công việc hiện tại không đủ để khôi phục hàng triệu việc làm đã mất trong thời kỳ suy thoái kinh tế gần đây .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>And today 's figures are only part of the story .</s>
+<s id='vn14'>Và những con số của hôm nay chỉ là một phần của câu chuyện .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>They do n't take into account those people who have given up looking for work or those who want full time employment but can only find part-time jobs .</s>
+<s id='vn15'>Chúng không tính đến những người đã từ bỏ việc tìm việc làm hoặc những người muốn việc làm toàn thời gian nhưng chỉ có thể tìm được công việc bán thời gian .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>State and local government slashed 30,000 jobs , the most since November as budget cuts continue to bite .</s>
+<s id='vn16'>Nhà nước và chính quyền địa phương đã cắt giảm 30,000 công việc , mức cao nhất kể từ tháng 11 khi việc cắt giảm ngân quỹ tiếp tục có hiệu lực .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The data showed that the jobless rate for adult men was 8.7% , for adult women 8% , and for teenagers 23.9% .</s>
+<s id='vn17'>Dữ liệu cho thấy rằng tỉ lệ thất nghiệp đối với nam giới trưởng thành là 8.7% , phụ nữ trưởng thành là 8% , và thanh thiếu niên là 23.9% .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The unemployment rate has come down from 9.8% in November .</s>
+<s id='vn18'>Tỉ lệ thất nghiệp đã giảm xuống từ 9.8% vào tháng mười một .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" We have moved into the expansion phase of the economic cycle and the economy is self-sustaining , " said Brian Levitt , an economist at Oppenheimer .</s>
+<s id='vn19'>" Chúng ta đã chuyển sang giai đoạn tăng trưởng của chu kỳ kinh tế và nền kinh tế đang có thể tự lực " Brian Levitt , nhà kinh tế học ở Oppenheimer nói .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Underemployment "</s>
+<s id='vn20'>" Tình trạng thiếu việc làm "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Data for December and January was also revised upwards to show 58,000 more jobs created than previously estimated .</s>
+<s id='vn21'>Dữ liệu tháng 12 và tháng giêng cũng đã được sửa đổi đi lên để tạo ra thêm 58,000 công việc hơn ước tính trước đây .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The total number of unemployed people now stands at 13.7 million , still almost double pre-recession levels .</s>
+<s id='vn22'>Tổng số người thất nghiệp hiện đứng ở ngưỡng 13.7 triệu , vẫn gần như gấp đôi mức trước khi suy thoái kinh tế .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The Labor Department estimated that , when factoring in the number of part-time workers who would rather be working full time and those who have given up looking for work , the percentage of " underemployed " Americans dropped to 15.9% in February .</s>
+<s id='vn23'>Bộ lao động ước tính , nếu tính luôn số công nhân làm việc bán thời gian mà thích làm việc toàn thời gian và những người đã từ bỏ chuyện tìm việc làm , thì phần trăm số người Mỹ " bán thất nghiệp " giảm xuống còn 15.9% vào tháng hai .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This is the lowest in nearly two years .</s>
+<s id='vn24'>Đây là mức thấp nhất trong gần hai năm nay .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The improving jobless rate reflects growth in the economy .</s>
+<s id='vn25'>Tỉ lệ thất nghiệp đang được cải thiện phản ánh mức tăng trưởng trong nền kinh tế .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Recent retail and export data have been healthier .</s>
+<s id='vn26'>Số liệu xuất khẩu và bán lẻ gần đây đã được dồi dào hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Manufacturing is growing at its fastest pace in nearly seven years and the service sector is expanding at its fastest pace for more than five years .</s>
+<s id='vn27'>Ngành sản xuất đang phát triển với nhịp độ nhanh nhất của nó trong gần bảy năm nay và ngành dịch vụ đang mở rộng ở tốc độ nhanh nhất trong hơn 5 năm qua .</s>
+</spair>
+</text>
+</doc>

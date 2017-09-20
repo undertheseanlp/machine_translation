@@ -1,0 +1,104 @@
+﻿<doc id='N0321'>
+<head>
+<title>Microsoft details how to port iPhone apps to Windows Mobile</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft details how to port iPhone apps to Windows Mobile</s>
+<s id='vn1'>Microsoft đưa ra chi tiết cách thức chuyển mã ứng dụng iPhone sang Windows Mobile</s>
+</spair>
+<spair id='2'>
+<s id='en2'>IDG News Service - Microsoft has published a case study detailing how to port an iPhone application to its Windows Mobile platform as it prepares to launch an online store for mobile applications to compete with Apple .</s>
+<s id='vn2'>IDG News Service - Microsoft đã công bố một case study mô tả chi tiết cách thức chuyển mã một ứng dụng của iPhone sang nền tảng Windows Mobile khi họ chuẩn bị ra mắt kho ứng dụng di động trực tuyến để cạnh tranh với Apple .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A post on The Windows Blog highlights a case study published on Microsoft 's Microsoft Developer Network ( MSDN ) site containing a detailed technical blueprint that describes the porting of the iPhone application Amplitude to Windows Mobile 6.5 .</s>
+<s id='vn3'>Một bài viết trên blog của Windows nêu bật nghiên cứu đã được công bố trên trang Microsoft Developer Network của Microsoft ( MSDN ) chứa một kế hoạch kĩ thuật chi tiết mô tả việc chuyển mã ứng dụng Amplitude của iPhone sang Windows Mobile 6.5 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The report was created by a third-party consulting group , Crimson Consulting , and is meant to be a helpful document for developers as they build Windows Mobile applications for Microsoft Marketplace Windows 's .</s>
+<s id='vn4'>Bản báo cáo được viết bởi nhóm tư vấn bên thứ ba Crimson Consulting và chắc hẳn sẽ là tài liệu hữu ích cho các nhà phát triển khi họ xây dựng các ứng dụng Windows Mobile cho kho Windows Marketplace của Microsoft .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Amplitude is an iPhone app that picks up any sound in a user 's immediate surroundings through a microphone , amplifies it and renders it on the device in a graphical representation .</s>
+<s id='vn5'>Amplitude là một ứng dụng dành cho iPhone để thu bất kì âm thanh xung quanh người dùng ngay lập tức thông qua một microphone , khuếch đại âm thanh đó lên và biểu diễn tần số trên thiết bị dưới dạng đồ họa .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In particular , it can amplify sounds not normally picked up by the human ear , such as heartbeats .</s>
+<s id='vn6'>Đặc biệt là nó có thể khuếch đại âm thanh thu được mà tai người nghe không rõ ví dụ như nhịp tim .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>According to the blog post by Constanze Roman , a Windows Mobile Community team project manager , Amplitude is well-suited for a porting project because it is difficult to port .</s>
+<s id='vn7'>Theo bài viết trên blog của Constanze Roman , trưởng nhóm dự án Windows Mobile Community , Amplitude rất phù hợp cho dự án chuyển mã bởi vì nó rất khó để chuyển mã .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In a way that will provide a good learning experience for Windows Mobile developers .</s>
+<s id='vn8'>Theo đó dự án này sẽ cung cấp một trải nghiệm thú vị cho các nhà phát triển Windows Mobile .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It combines a rich user interface with features such as alpha blending and transparency with specific audio and sound requirements .</s>
+<s id='vn9'>Nó kết hợp một giao diện người dùng phong phú với các đặc điểm như hoà trộn alpha và tạo ảnh trong suốt cùng các yêu cầu âm thanh và tiếng động rõ ràng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This makes it challenging to port the app .</s>
+<s id='vn10'>Điều này tạo nên sự thách thức để chuyển mã ứng dụng này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Microsoft plans to launch the Windows Marketplace for mobile applications in the fall , which in the U.S. means the late-September to later December time frame .</s>
+<s id='vn11'>Microsoft dự kiến sẽ ra mắt kho ứng dụng di động Windows Marketplace trong mùa thu này , có nghĩa là nằm trong khoảng từ cuối tháng 9 đến cuối tháng 12 ở Mỹ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Last week Microsoft began accepting submissions of mobile-phone software applications for the site from registered developers in 29 countries .</s>
+<s id='vn12'>Tuần trước , Microsoft bắt đầu nhận những đề xuất của các ứng dụng phần mềm di động trên trang web này từ các nhà phát triển đăng ký ở 29 quốc gia .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>As an incentive , the company is offering prizes for the most popular applications as judged by downloads , revenue , usefulness and more .</s>
+<s id='vn13'>Như một sự khích lệ , Microsoft treo giải thưởng cho các ứng dụng nổi tiếng nhất được đánh giá bởi số lượng download , doanh thu , sự hữu ích và nhiều thứ khác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Apple already has a thriving marketplace for developers that build iPhone applications .</s>
+<s id='vn14'>Apple đã có một kho chứa ứng dụng trực tuyến vô cùng thịnh vượng dành cho các nhà phát triển để xây dựng các ứng dụng iPhone .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Microsoft President of Entertainment and Devices Robbie Bach acknowledged last week at the company 's annual meeting of financial analysts that Microsoft 's mobile business , centered around its Windows Mobile OS and development plat form , did not perform well in the last fiscal year , losing market share while making modest gains in unit volume .</s>
+<s id='vn15'>Trưởng bộ phận Thiết bị và Giải trí của Microsoft Robbie Bach thừa nhận vào cuối tuần trước tại cuộc hợp thường niên của các nhà phân tích tài chính công ty rằng việc kinh doanh bên lĩnh vực di động của Microsoft tập trung xoay quanh Hệ điều hành Windows Mobile của họ và nền tảng phát triển đã không thực hiện tốt trong năm tài chính trước , mất thị phần trong khi số lượng đạt được thì lại rất khiêm tốn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Apple 's iPhone continues to leave most other competitors in the dust in the mobile space , and Microsoft has been struggling for some time to compete in this market .</s>
+<s id='vn16'>iPhone của Apple tiếp tục bỏ xa các đối thủ cạnh tranh khác trong thị trường di động , và Microsoft đã và đang vật lộn bấy lâu nay để cạnh tranh trong thị trường này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In fact , while Microsoft and most other tech companies continue to report declines across their business .</s>
+<s id='vn17'>Trên thực tế , trong khi Microsoft và hầu hết các công ty công nghệ khác liên tục báo cáo về sự sụt giảm kinh doanh của họ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Apple is doing well financially , mainly because of its booming iPhone business .</s>
+<s id='vn18'>Apple thì vẫn đang tiến triển tốt về mặc tài chính , phần lớn là nhờ sự tăng vọt từ việc buôn bán điện thoại iPhone .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In addition to the apps marketplace , Bach said Microsoft has a few ideas to improve its mobile business , including adding talent to the team and continuing to innovate on the platform without building its own hardware to compete with the iPhone .</s>
+<s id='vn19'>Ngoài thị trường các ứng dụng , Bach nói rằng Microsoft đã có một vài ý tưởng để cải thiện việc kinh doanh điện thoại , bao gồm việc thêm vào các đội ngũ có năng lực và liên tục đổi mới nền tảng mà không cần xây dựng phần cứng riêng để cạnh tranh với iPhone .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Analysts have suggested it should do .</s>
+<s id='vn20'>Các nhà phân tích đã đề nghị họ nên làm điều này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Analysts agree that Microsoft needs more than an online store to boost its mobile business .</s>
+<s id='vn21'>Các nhà phân tích đồng ý rằng Microsoft cần mở thêm nhiều kho ứng dụng trực tuyến để thúc đẩy việc kinh doanh điện thoại của họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Matt Rosoff , an analyst with Directions on Microsoft , said recently that Microsoft would serve itself well by making an acquisition in the mobile space .</s>
+<s id='vn22'>Matt Rosoff , một nhà phân tích xu hướng của Microsoft , phát biểu gần đây rằng Microsoft sẽ được cải thiện bằng cách tạo ra một cuộc thu mua trong lĩnh vực di động .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>That is completely unlikely given the company has been hoarding cash instead of buying back a lot of its stock , going against what analysts have expected .</s>
+<s id='vn23'>Điều đó hoàn toàn có thể mang lại cho công ty nguồn tích trữ tiền mặt thay vì mua lại rất nhiều cổ phần đã bán , điều này đi ngược với những gì mà các nhà phân tích mong đợi .</s>
+</spair>
+</text>
+</doc>

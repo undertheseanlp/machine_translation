@@ -1,0 +1,292 @@
+﻿<doc id='N0666'>
+<head>
+<title>Promises to Keep</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Promises to Keep</s>
+<s id='vn1'>Giữ lời hứa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Kris Hamm Rose</s>
+<s id='vn2'>Tác giả Kris Hamm Rose</s>
+</spair>
+<spair id='3'>
+<s id='en3'>I 'm a teacher .</s>
+<s id='vn3'>Tôi là một giáo viên .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But there are days , like today , when I wonder why .</s>
+<s id='vn4'>Nhưng lại có những ngày , chẳng hạn như hôm nay , tôi cũng thật kinh ngạc không biết tại sao lại ra thế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It 's been a tough day .</s>
+<s id='vn5'>Đó là một ngày căng thẳng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The results of an English quiz taken by my fifth-graders were dismal .</s>
+<s id='vn6'>Kết quả bài kiểm tra tiếng Anh lớp năm thật sự thê thảm .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Despite my best efforts , the world of pronouns remains a mystery to them .</s>
+<s id='vn7'>Mặc dù đã nỗ lực hết sức , nhưng nhiều đại từ vẫn còn là điều bí ẩn mơ hồ đối với chúng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>How I wish there is a way to make the study of our language as exciting as a computer game , so the glazed looks would not appear in their eyes at the mention of the word " grammar . "</s>
+<s id='vn8'>Tôi mơ ước có cách để biến chuyện học ngôn ngữ này cũng hứng thú như một trò chơi trên máy tính , để trên mắt của lũ học trò không còn những cái nhìn đờ đẫn khi nghe tới từ " ngữ pháp " nữa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>I wanted to spend my lunch period thinking of a way to enrich the next day 's lesson , but a child became sick and needed me to gather her assignments while she waited for her mother .</s>
+<s id='vn9'>Tôi muốn dành thời gian ăn trưa của mình để nghĩ cách làm phong phú bài học ngày hôm sau , thế mà một đứa lại bị bệnh và cần tôi thu gom bài tập khi chờ mẹ đến .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It took longer than I thought so there was n't time for lunch .</s>
+<s id='vn10'>Việc này mất nhiều thời gian hơn tôi tưởng nên cũng chẳng còn giờ để ăn trưa nữa .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Then an argument broke out at recess .</s>
+<s id='vn11'>Và rồi một cuộc cãi cọ đã diễn ra trong giờ ra chơi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Angry boys needed to be calmed and hurt feelings soothed before we could return to the classroom .</s>
+<s id='vn12'>Tôi phải dỗ dành mấy thằng nhóc đang nỗi lô cồ và vuốt ve những đứa bị xúc phạm trước khi chúng tôi có thể trở lại lớp học .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>We were all emotionally spent and found it hard to return to history books and Revolutionary War battles .</s>
+<s id='vn13'>Ai cũng đầy cảm xúc và khó có thể quay trở lại học mấy quyển sách lịch sử và các Cuộc Chiến tranh Giành Độc lập .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Hunger had given me a nagging headache , lingering long after the last child filed out for car pool .</s>
+<s id='vn14'>Cơn đói làm cho tôi nhức đầu khó chịu , nấn ná một hồi lâu sau khi chờ cho được đứa học trò cuối cùng lên xe đưa rước .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Now , as I drive home , rubbing aching temples , I remember my husband 's words , delivered like a lecture , after other days like this .</s>
+<s id='vn15'>Giờ đây khi tôi lái xe về nhà , đang xoa bóp vùng thái dương đau buốt , tôi chợt nhớ lại lời của chồng tôi , như một bài lên lớp , hết ngày này đến ngày khác .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Why do n't you quit ?</s>
+<s id='vn16'>" Tại sao em không nghỉ dạy đi chứ ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>You 'd probably make more money doing something else , and you would n't have papers to grade every night . "</s>
+<s id='vn17'>Em có thể làm việc khác và kiếm được nhiều tiền hơn vậy cơ mà , và không phải đêm nào cũng thức khuya để chấm bài như vậy . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This late afternoon , I 'm considering the wisdom of his words .</s>
+<s id='vn18'>Cuối buổi chiều hôm ấy , tôi xét nghĩ lại lời nói của chồng mình cũng đúng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>I have a stack of papers to grade , which I promised my fifth-graders I would return tomorrow .</s>
+<s id='vn19'>Một đống bài đang chờ tôi chấm , tôi đã hứa với học trò lớp năm của mình là sẽ trả cho chúng vào ngày mai .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But tonight a friend , whom we have n't seen in a year , is visiting from Belgium , and I told her I would keep this evening free .</s>
+<s id='vn20'>Nhưng tối nay , có một người bạn ở Bỉ đến thăm và chúng tôi đã không gặp nhau một năm rồi và tôi cũng đã nói với cô ấy là tối nay tôi rảnh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Frustration builds as traffic slows , and I realize it 's rush hour .</s>
+<s id='vn21'>Thật sự nản lòng khi thấy kẹt xe , và tôi nhận ra đây là giờ cao điểm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>No matter how hard I try , I can't seem to get out of my classroom at this time .</s>
+<s id='vn22'>Dẫu có cố gắng thế nào , tôi cũng không tài nào ra khỏi lớp học vào giờ này .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The world of my profession , a world filled with children , requires so much time .</s>
+<s id='vn23'>Thế giới nghề nghiệp của tôi , một thế giới đầy trẻ con và đòi hỏi rất nhiều thời gian cho chúng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>After school today , we had a faculty meeting .</s>
+<s id='vn24'>Sau buổi học hôm nay , chúng tôi phải họp khoa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Events had to be planned , problems solved , new ideas discussed .</s>
+<s id='vn25'>Các sự kiện phải được lên kế hoạch , nhiều vấn đề cần được giải quyết và phải còn thảo luận nhiều ý tưởng mới phát sinh .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So many details to remember .</s>
+<s id='vn26'>Có quá nhiều chi tiết cần phải nhớ lắm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Just when I thought my day was over , a student peeked her head into the classroom to remind me I had promised to help her with a difficult assignment .</s>
+<s id='vn27'>Vừa khi tôi nghĩ ngày của mình kết thúc thì một đứa học trò lén đưa đầu vào lớp nhắc tôi nhớ việc tôi đã hứa giúp nó làm một bài tập hóc búa .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I returned her to her waiting mother and wearily walked to my car .</s>
+<s id='vn28'>Đưa một học trò ra với mẹ đang chờ , tôi lê chân mệt mỏi về phía xe hơi của mình .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The building was empty .</s>
+<s id='vn29'>Trường học đã vắng tanh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Sitting in traffic threaded behind a distant stoplight , it 's hard not to replay the day and revisit the tension .</s>
+<s id='vn30'>Ngồi trong xe len lỏi qua đám đông đằng sau đèn đỏ xa xa , thật khó mà hồi tưởng lại những chuyện trong ngày và ngẫm lại căng thẳng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>I turn up the air conditioner , hoping the coolness will ease my frustration and aching head .</s>
+<s id='vn31'>Tôi bật máy điều hoà , hy vọng cái mát lạnh sẽ làm dịu nỗi thất vọng và cơn đau đầu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The last notes of a familiar melody are interrupted by news from the real world .</s>
+<s id='vn32'>Những nốt nhạc cuối cùng của giai điệu quen thuộc đã bị nhiễu do hàng loạt tin tức của thế giới thực tại chen vào .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Stock prices are down .</s>
+<s id='vn33'>Giá cổ phiếu đang xuống .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Crime is up .</s>
+<s id='vn34'>Tội ác ngày càng tăng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The sound of gunfire fills the car as a broadcaster reveals the horror of life in a distant country .</s>
+<s id='vn35'>Âm thanh của hoả lực đại bác làm chiếc xe thêm ngột ngạt khi phát thanh viên tiết lộ nỗi sợ về cuộc sống ở quốc gia xa xăm nào đó .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>A strained voice reports the body of a local youngster , missing for weeks , has been identified .</s>
+<s id='vn36'>Một giọng nói căng thẳng đưa tin cho biết thi thể một đứa bé ở địa phương , mất tích nhiều tuần nay , đã được nhận diện .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Too much real world has invaded my space .</s>
+<s id='vn37'>Thế giới thực đã xâm nhập vào không gian của tôi quá nhiều .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>This missing child has had a profound effect on my fifth-graders .</s>
+<s id='vn38'>Đứa bé mất tích này đã gây ấn tượng sâu sắc đối với các học sinh lớp năm của tôi .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Every morning since she was first reported missing , my children have discussed news reports about her and prayed for her safe return .</s>
+<s id='vn39'>Từ khi biết tin con bé bị mất tích , bọn học sinh đã bàn tán về bản tin thời sự này và cầu nguyện cho con bé vào mỗi buổi sáng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Their concern was not only for her and her family but also for themselves .</s>
+<s id='vn40'>Nỗi lo ngại của bọn chúng không phải chỉ cho con bé , gia đình nó mà còn cho cả chúng nữa .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>After all , she was one of them .</s>
+<s id='vn41'>Xét cho cùng , con bé cũng là một trong số chúng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>A child believing herself to be safe and secure in her own neighborhood .</s>
+<s id='vn42'>Một đứa bé tin mình được bảo vệ và an toàn trong thế giới lân cận thân thiết của nó .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>My students , only one scant year younger than the tragic victim , wondered , " If it happened to her , could it happen to me ? "</s>
+<s id='vn43'>Con bé tội nghiệp kia chỉ nhích hơn lũ trẻ của tôi chưa đầy một tuổi , bọn chúng cũng tự hỏi là , " Nếu chuyện đó xảy ra với chị ấy , liệu rồi có xảy ra với mình không ? "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Their thoughts and fears mirrored my own as I tried to find the right words to calm anxieties hoisted upon them by a world seemingly gone mad .</s>
+<s id='vn44'>Những suy nghĩ kể cả nỗi sợ hãi của chúng phản ánh chính những điều tôi cũng đang lo lắng mỗi khi tôi cố tìm từ nào đó phù hợp để trấn an bọn chúng , xua đi những âu lo đã kéo chúng vào một thế giới mà dường như phát điên lên được .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>There were no easy answers to quiet their apprehensions .</s>
+<s id='vn45'>Chẳng có câu trả lời nào dễ dàng khiến chúng bớt lo sợ .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>How could I help them make sense out of senseless things and restore security to the small world of our classroom ?</s>
+<s id='vn46'>Tôi có thể giúp lũ trẻ ý thức khỏi những thứ điên rồ kia bằng cách nào đây và làm sao để làm cho lớp học nhỏ bé của chúng tôi an toàn trở lại đây ?</s>
+</spair>
+<spair id='47'>
+<s id='en47'>My children , ever wise with the innocence of youth , had found the answer themselves .</s>
+<s id='vn47'>Bọn trẻ của tôi rất thông minh với bản tính ngây thơ vốn có của chúng , đã tự tìm ra câu trả lời .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>They got out their pencils , markers and Crayolas and made cards .</s>
+<s id='vn48'>Chúng lấy bút chì , bút nỉ và sáp màu ra làm thiệp .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Cards written with words of compassion and love for a mother and father they did n't know .</s>
+<s id='vn49'>Chúng viết đầy những lời thương cảm và yêu thương gởi cho một người mẹ , một người bố mà chúng không biết mặt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Cards that spoke of faith and the promise of peace .</s>
+<s id='vn50'>Những tấm thiệp của bọn trẻ nói lên niềm tin và hứa hẹn một sự yên bình .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Cards adorned with ruby red hearts , golden crosses , spring flowers and rosy-cheeked angels .</s>
+<s id='vn51'>Thiệp được trang trí bằng rất nhiều trái tim màu đỏ ngọc , thánh giá vàng , hoa mùa xuân và những thiên thần có đôi má hồng hào dễ thương .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>No grammar book , no lesson , could ever teach the beauty of the thoughts drawn and expressed by these children .</s>
+<s id='vn52'>Chẳng quyển sách ngữ pháp nào , chẳng bài học nào có thể truyền cho chúng vẻ đẹp tâm hồn và ý tưởng để chúng có thể bày tỏ và thể hiện bằng nét vẽ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Their cards , intended to comfort others , comforted the children themselves by leading them pass the anxiety , back into the world of security that should be theirs .</s>
+<s id='vn53'>Những cánh thiệp này nhằm an ủi người khác , vỗ về chính tâm hồn trẻ thơ của chúng bằng cách dẫn chúng qua khỏi nỗi âu lo hoang mang quá khứ và trở lại một thế giới an toàn mà phải là của chúng .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>As I sit in my car inching through the fumes of evening rush hour , I reflect on the strength of my students as they sought to right their world in the one way that made sense to them .</s>
+<s id='vn54'>Khi ngồi trong xe , nhích từng chút qua hơi khói của buổi chiều tan tầm , tôi suy nghĩ về sức mạnh của bọn trẻ bởi chúng đã cố tìm ra một thế giới đúng nghĩa theo cách chúng cảm nhận .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>I find myself smiling in spite of the heat , the traffic and the pile of ungraded tests .</s>
+<s id='vn55'>Tôi mỉm cười một mình dẫu ngồi trong hơi nóng , xe cộ và một đống bài kiểm tra chưa chấm .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The rules of grammar might not have been learned today , but something bigger and better happened in my classroom .</s>
+<s id='vn56'>Có thể là hôm nay chúng tôi chưa học một nguyên tắc ngữ pháp nào nhưng một điều gì đó lớn hơn và tốt đẹp hơn đã xảy ra nơi lớp học này .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>I just did n't recognize it at the time .</s>
+<s id='vn57'>Tôi tuyệt nhiên không thể nhận ra vào lúc đó .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>And then I remember .</s>
+<s id='vn58'>Rồi tôi nhớ .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>I remember why I 'm still teaching .</s>
+<s id='vn59'>Tôi nhớ ra được vì sao tôi vẫn còn đi dạy .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>It 's the children .</s>
+<s id='vn60'>Đó là vì bọn trẻ .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>They 're more important than a lifetime filled with quiet evenings and more valuable than a pocket filled with money .</s>
+<s id='vn61'>Chúng quan trọng hơn cả cuộc đời với những buổi chiều yên tĩnh và quý báu hơn một túi đựng đầy tiền .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The world of noise , pronouns , recess and homework is my world .</s>
+<s id='vn62'>Thế giới của tiếng ồn , của những đại từ , của giờ nghỉ giải lao và bài tập là thế giới của tôi .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>My classroom , a child-filled world of discovery , of kindness and of caring is the real world .</s>
+<s id='vn63'>Lớp học của tôi , một thế giới trẻ con khám phá , nhân từ và quan tâm là một thế giới có thực .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>And I 'm so lucky to be in it .</s>
+<s id='vn64'>Và tôi rất may mắn được ở trong thế giới đó .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>The traffic clears and I move past the stoplight , into the shady streets of my neighborhood .</s>
+<s id='vn65'>Đường xá đã thông thoáng và tôi có thể vượt qua đèn đỏ , đi vào những con phố rợp bóng mát thân cận của mình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>I 'm glad to be home .</s>
+<s id='vn66'>Tôi vui mừng đã về đến nhà .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>It 's time to call my friend and tell her I ca n't meet her tonight .</s>
+<s id='vn67'>Đến lúc phải gọi cho cô bạn và nói với cô ấy rằng tôi không thể gặp cô ấy đêm nay được .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>I have promises to keep .</s>
+<s id='vn68'>Tôi phải giữ lời hứa .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>She 'll understand .</s>
+<s id='vn69'>Cô ấy sẽ hiểu .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>After all , she 's also a teacher .</s>
+<s id='vn70'>Xét cho cùng , cô ấy cũng là một giáo viên .</s>
+</spair>
+</text>
+</doc>

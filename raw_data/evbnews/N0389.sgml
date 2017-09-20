@@ -1,0 +1,96 @@
+﻿<doc id='N0389'>
+<head>
+<title>McAfee Strategy Security Talks with " Security Connected " Vision</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>McAfee Strategy Security Talks with " Security Connected " Vision</s>
+<s id='vn1'>McAfee Bàn Về Tầm Nhìn Chiến Lược Bảo Mật " Security Connected "</s>
+</spair>
+<spair id='2'>
+<s id='en2'>McAfee discussed its security strategy , which the company has dubbed " Security Connected . "</s>
+<s id='vn2'>McAfee đã thảo luận về chiến lược bảo mật của hãng và đặt tên là " An ninh Kết nối "</s>
+</spair>
+<spair id='3'>
+<s id='en3'>McAfee is pushing a new initiative it calls " Security Connected " that puts an emphasis on correlating information from its security products to better protect devices .</s>
+<s id='vn3'>Mcafee đang đẩy mạnh sáng kiến mới được gọi là " Security Connected " mà đặt một tầm quan trọng lên các vấn đề có liên quan đến các sản phầm bảo mật của hãng để bảo vệ các thiết bị tốt hơn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>According to McAfee , the approach is meant to help businesses apply more intelligent and effective security .</s>
+<s id='vn4'>Theo McAfee , phương pháp này dự định là sẽ trợ giúp các doanh nghiệp áp dụng công nghệ bảo mật hiệu quả và thông minh hơn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The enemy of Security Connected is a siloed security strategy found in many businesses where disparate technologies are used to address problems individually rather than holistically , explained Martin Ward , senior director of risk and compliance at McAfee .</s>
+<s id='vn5'>Sự trở ngại của Security Connected là một chiến lược an ninh bưng bít tại nhiều doanh nghiệp , nơi mà các công nghệ khác nhau được sử dụng để giải quyết các vấn đề cá nhân chứ không phải là toàn diện , Martin Ward giám đốc cấp cao về rủi ro và tuân thủ quy định của McAfee đã giải thích .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" You can never chase the threat curve and think you are going to keep up with it , " Ward said .</s>
+<s id='vn6'>Ông Ward phát biểu " Bạn không bao giờ có thể theo đuổi những lối đi lắc léo và đầy nguy hiểm , thậm chí nghĩ rằng bạn sẽ theo kịp nó " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" The right approach to that is to take … a Security Connected approach .</s>
+<s id='vn7'>" Phương pháp đúng đắn đó là chọn phương pháp Security Connected .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In there , we 're connecting our security products and connecting our security intelligence so that they can all work in concert to prevent the more advanced threats that are occurring out there today . "</s>
+<s id='vn8'>Ở đó chúng tôi đang kết nối những sản phẩm bảo mật và tin tức tình báo an ninh sao cho chúng có thể hoạt động phối hợp với nhau để ngăn chặn các mối đe dọa ngày càng gia tăng đang xảy ra hiện nay . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The need for the Security Connected approach is being driven in part by the consumerization of IT , said Kevin LeBlanc , senior director of product marketing for endpoint security at McAfee .</s>
+<s id='vn9'>Kevin Le Blanc giáo đốc cấp cao mảng tiếp thị sản phẩm bảo mật đầu cuối của McAfee cho biết : Nhu cầu về phương pháp Security Connected đang được thúc đẩy một phần bởi xu hướng công nghệ thông tin hiện nay .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" The challenge that customers are going through that we 're seeing from an organization perspective is that consumer devices - the iPhone , Android the iPad tablet - have now become indispensable productivity work tools , " LeBlanc said .</s>
+<s id='vn10'>LeBlanc cho biết " Thách thức khách hàng đang mang đến cho chúng ta chính là viễn cảnh trong một tổ chức mà ở đó các thiết bị tiêu dùng - điện thoại iPhone , Android máy tính bảng iPad - hiện đã trở thành các công cụ làm việc hiệu quả không thể thiếu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" And more and more information workers … are using these tools in our day-to-day business life , which is providing pressure on the corporations to enable access to applications and business data on the go . "</s>
+<s id='vn11'>Và ngày càng nhiều nhân viên phụ trách thông tin … đang sử dụng những công cụ này trong cuộc sống làm ăn hàng ngày của họ , điều đó đã đem lại áp lực cho các công ty để cho phép họ truy cập vào các ứng dụng và dữ liệu kinh doanh mọi lúc mọi nơi . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" The IT landscape is rapidly changing , " said Chris Christiansen , vice president of security products and services at IDC , in a statement .</s>
+<s id='vn12'>Chris Christiansen phó chủ tịch mảng sản phẩm và dịch vụ tại IDC đã nói trong một bài phát biểu : " Bối cảnh CNTT đang thay đổi nhanh chóng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Virtualization of servers and endpoints , shifting of data and services to the cloud , and the consumerization of IT is creating new holes in previously protected systems and networks .</s>
+<s id='vn13'>Việc ảo hoá các máy chủ và các thiết bị đầu cuối , chuyển dữ liệu và các dịch vụ sang đám mây , xu hướng CNTT đang tạo ra các lỗ hổng mới trong các mạng lưới và hệ thống bảo vệ trước đây .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>This is a fundamental shift from even just a few years ago when the bifurcation points between business and personal , outside and inside , and us-and-them was more visible . "</s>
+<s id='vn14'>Đây là sự thay đổi cơ bản thậm chí từ cách đây vài năm khi có sự phân chia giữa doanh nghiệp và cá nhân , bên ngoài và bên trong , chúng ta và họ rõ ràng hơn " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Security Connected extends across McAfee 's portfolio of security and reporting technologies , ranging from product integration to work with the company 's partner ecosystem to deliver services to customers and ensure product compatibility .</s>
+<s id='vn15'>Security Connected mở rộng sang danh mục vốn đầu tư các công nghệ báo cáo và bảo mật của Mcafee , bao gồm từ việc tích hợp sản phẩm để làm việc cùng với môi trường đối tác của công ty đến các dịch vụ chuyển giao cho khác hàng và đảm bảo khả năng tương thích sản phẩm .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Two key pieces of the strategy are the releases this week of Endpoint Security 9.0 and Security Management 5.0.</s>
+<s id='vn16'>Hai phần chiến lược chính sẽ ra mắt bộ sản phẩm Endpoint Security 9.0 và Security Management 5.0 vào tuần này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Endpoint Security extends protection to any device , ranging from desktops to virtual machines to mobile devices and embedded systems .</s>
+<s id='vn17'>Endpoint Security mở rộng sự bảo vệ cho bất kỳ thiết bị nào , từ máy tính để bàn cho đến các máy ảo , thiết bị di động và các hệ thống nhúng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The new McAfee platfom , meanwhile , offers a centralized management platform with new interfaces and software development kits to enable businesses to integrate it into existing business processes .</s>
+<s id='vn18'>Trong khi nền tảng mới của McAfee cung cấp một nền tảng quản lí tập trung cùng với giao diện và bộ công cụ phát triển phần mềm mới cho phép các doanh nghiệp tích hợp nó vào các qui trình kinh doanh hiện có .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Under Security Connected , if a malicious file is discovered on a laptop or other device , " we 'll not only send information about that piece of malware up to our intelligence cloud , but we 'll also send what Website did it come from , what network port did it come from , information like that so we can … isolate that threat and prevent it from spreading and exploding anywhere in the environment , " Ward said .</s>
+<s id='vn19'>Ward cho biết dưới chiến lược Security Connected , nếu một tập tin độc hại bị phát hiện trên một máy tính xách tay hay thiết bị khác , " chúng tôi sẽ không chỉ gửi thông tin về loại phần mềm độc hại lên đám mây tình báo mà còn gửi cả thông tin về website chứa phần mềm độc hại đó , nó đến từ cổng mạng nào , thông tin như thế để chúng tôi có thể cô lập mối đe doạ và ngăn chặn nó lan rộng và bùng nổ bất cứ nơi nào trong môi trường này " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Disjointed point products simply wo n't work with today 's businesses , " said George Kurtz , McAfee 's CTO , in a statement .</s>
+<s id='vn20'>George Kurtz giám đốc kỹ thuật của McAfee cho biết trong một bài phát biểu rằng " Các sản phẩm không có mối liên kết với nhau sẽ không phù hợp với các doanh nghiệp ngày nay .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Security … needs to be connected and correlated , with shared intelligence , and centrally managed . "</s>
+<s id='vn21'>Bảo mật cần được kết nối và có mối tương quan với các tin tức tình báo chung và được quản lí tập trung " .</s>
+</spair>
+</text>
+</doc>

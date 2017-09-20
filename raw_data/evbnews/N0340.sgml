@@ -1,0 +1,756 @@
+﻿<doc id='N0340'>
+<head>
+<title>SOI Technology : IBM 's Next Advance In Chip Design</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>SOI Technology : IBM 's Next Advance In Chip Design</s>
+<s id='vn1'>Công nghệ SOI : Sự cải tiến mới trong thiết kế Chip của IBM</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I - Introduction</s>
+<s id='vn2'>Tôi - Giới thiệu</s>
+</spair>
+<spair id='3'>
+<s id='en3'>As with IBM 's leadership manufacturing microchips using copper interconnect technology , the company has now announced what it believes to be the first commercially-viable implementation of SOI .</s>
+<s id='vn3'>Cùng với các vi mạch sản xuất của IBM sử dụng công nghệ kết nối bằng đồng , hiện tại hãng đã công bố những điều mà họ tin tưởng tương lai của sự triển khai thương mại đầu tiên công nghệ SOI .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>For more than three decades , scientists have been searching for a way to enhance existing silicon technology to speed computer performance .</s>
+<s id='vn4'>Trong hơn ba thập kỷ , các nhà khoa học đã và đang tìm kiếm phương pháp cải tiến công nghệ silicon hiện nay để tăng tốc độ vận hành máy tính .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>This new IBM success in harnessing SOI technology will result in faster computer chips that also require less power - a key requirement for extending the battery life of small , hand-held devices that will be pervasive in the future .</s>
+<s id='vn5'>Thành công mới này của IBM trong lĩnh vực khai thác công nghệ SOI sẽ làm cho các chip máy tính hoạt động nhanh hơn nhưng tiêu thụ điện năng ít - một nhu cầu thiết yếu để kéo dài tuổi thọ của pin , các thiết bị cầm tay sẽ phổ biến trong tương lai .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>SOI is a major breakthrough because it advances chip manufacturing one-to-two years ahead of conventional bulk silicon .</s>
+<s id='vn6'>SOI là bước đột phá lớn bởi vì nó cải tiến công nghệ sản xuất chip trong một hai năm tới so với công nghệ Bulk Silicon thông thường .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The following provides a step-by-step look at the developments leading up to the development of SOI technology including : a basic description of what a transistor is , a description of how chips are made , the need for improving the way chips are made , the elements of SOI technology and the impact of the technology .</s>
+<s id='vn7'>Tiếp theo sẽ cung cấp chi tiết các bước phát triền chính của công nghệ SOI bao gồm : mô tả khái quát một bóng bán dẫn là gì , mô tả về cách chế tạo chip , sự cần thiết để cải tiến cách chế tạo chip , các thành phần của công nghệ SOI và sự tác động của công nghệ này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>II - Transistors And Chips</s>
+<s id='vn8'>II - Các bóng bán dẫn và Chip</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What is a transistor ?</s>
+<s id='vn9'>bóng bán dẫn là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>A transistor is the electronic version of a switch .</s>
+<s id='vn10'>Bóng bán dẫn là một phiên bản điện tử của một công-tắc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>When it is on , it allows current to flow , and when it is off , it will stop current from flowing .</s>
+<s id='vn11'>Khi bóng bán dẫn bật , nó cho phép dòng điện chạy qua , và khi nó tắt thì dòng điện sẽ ngừng chạy .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It is exactly the same as the everyday switch that we use to turn lights on and off , except instead of using our finger , the switch is turned on and off by electricity .</s>
+<s id='vn12'>Nó hoạt động giống như công tắc hàng ngày mà chúng ta dùng để bật và tắt đèn , nhưng thay vì dùng ngón tay thì công tắc này được bật và tắt bằng điện .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The switch that is used to turn a light on and off is very big , very slow , and carries a lot of current .</s>
+<s id='vn13'>Công tắc được dùng để bật tắt đèn rất lớn , rất chậm và tải nhiều dòng điện .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The transistor or " electronic switch " is usually very small , very fast , and carries less current .</s>
+<s id='vn14'>Bóng bán dẫn hoặc " công-tắc điện tử " thường rất nhỏ , nhanh , và tải dòng điện ít hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There are two basic type of transistors or electronic " switches " - bipolar and MOS .</s>
+<s id='vn15'>Có hai loại bóng bán dẫn chính hay " công-tắc " điện tử - lưỡng cực và MOS .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Bipolar switches were widely used from the 1960 's to the 1980 's in computer chips for mainframe computers because performance was the key factor .</s>
+<s id='vn16'>Công-tắc lưỡng cực được sử dụng rộng rãi từ những năm 1960 đến những năm 1980 trong các chip máy tính cho các hệ thống máy tính lớn bởi vì hiệu suất là yếu tố quan trọng nhất .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Bipolar chips usually consume more power , are bigger , and are harder to manufacture but were faster than MOS chips until about 5 years ago .</s>
+<s id='vn17'>Các chip lưỡng cực thường tiêu tốn nhiều điện năng hơn , lớn hơn và khó chế tạo hơn nhưng nhanh hơn các chip MOS cách đây khoảng 5 năm trước .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Bipolar switches are gradually being eliminated from use in chips and IBM , in fact , has stopped making mainframe computers with bipolar transistors in them .</s>
+<s id='vn18'>Trên thực tế , công tắc lưỡng cực đang dần dần bị loại bỏ khỏi các chip và IBM đã ngừng sản xuất các hệ thống máy tính lớn với các bóng bán dẫn lưỡng cực trong đó .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>MOS transistors are used in the vast majority of semiconductors .</s>
+<s id='vn19'>Các bóng bán dẫn MOS được dùng trong đại đa số các dụng cụ chất bán dẫn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>MOS transistors are smaller , faster , consume less power , and cheaper to manufacture .</s>
+<s id='vn20'>Các bóng bán dẫn MOS nhỏ hơn , nhanh hơn , tiêu thụ ít điện năng và có giá thành sản xuất rẻ hơn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>IBM just announced its G5 family of mainframe computers containing MOS transistors that are as fast as the fastest mainframes containing bipolar transistors .</s>
+<s id='vn21'>IBM vừa công bố dòng chíp G5 của họ cho các hệ thống máy tính lớn chứa các bóng bán dẫn MOS nhanh bằng các hệ thống máy tính lớn chứa các bóng bán dẫn lưỡng cực nhanh nhất .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The advantage to MOS technology is the chips can be built a lot smaller and are cheaper to manufacture .</s>
+<s id='vn22'>Ưu điểm của công nghệ MOS là các con Chip có thể được xây dựng nhỏ hơn nhiều và sản xuất với giá thành rẻ hơn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Next generation MOS mainframes will be faster than any bipolar mainframes .</s>
+<s id='vn23'>Các hệ thống máy tính lớn với công nghệ MOS thế hệ tiếp theo sẽ nhanh hơn bất kỳ hệ thống máy tính lớn lưỡng cực nào .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>MOS switches are currently used in making IBM servers and almost all PCs and electronic products on the market .</s>
+<s id='vn24'>Công-tắc MOS hiện đang được sử dụng trong việc sản xuất các máy chủ IBM và hấu hết các máy PC và các sản phẩm điện tử trên thị trường .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>What does an MOS transistor look like ?</s>
+<s id='vn25'>bóng bán dẫn trông giống như thế nào ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>MOS transistors actually look very much like a switch : they consist of a piece of metal on an oxide that is placed on a piece of silicon ( semiconductor ) .</s>
+<s id='vn26'>Các bóng bán dẫn MOS thực sự nhìn rất giống với một công-tắc : chúng bao gồm một tấm oxit kim loại được đặt trên một tấm silicon ( chất bán dẫn ) .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Pure silicon does not conduct electricity .</s>
+<s id='vn27'>Silicon nguyên chất không dẫn điện .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But if enough of the right kind of chemical " impurities " are added to the silicon , it will conduct electricity .</s>
+<s id='vn28'>Tuy nhiên nếu có " tạp chất " lẫn vào trong sillicon , nó sẽ dẫn điện .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>On the piece of silicon that is on either side of the metal , known as a " gate " area , chemical " impurities " are added to make the silicon conduct electricity .</s>
+<s id='vn29'>Trên tấm sillicon mà cả hai mặt của tấm kim loại , được biết như vùng " cổng " , các " tạp chất " hóa học được thêm vào để làm cho Silicon dẫn điện .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If current is transmitted to the metal , the silicon will conduct electricity .</s>
+<s id='vn30'>Nếu dòng điện được truyền đến tấm kim loại , sillicon sẽ dẫn điện .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The " impure " silicon will be " attached " to the two conducting areas on either side of the metal and electricity will flow .</s>
+<s id='vn31'>Sillicon " không nguyên chất " sẽ được " gắn " hai vùng dẫn trên cả hai mặt của tấm kim loại và dòng điện sẽ chạy qua .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Silicon , then , can act both as a conductor and a non-conductor , which is why it is called a " semiconductor " .</s>
+<s id='vn32'>Sau đó , Sillicon có thể hoạt động vừa là chất dẫn và vừa là chất không dẫn , đó là lí do tại sao nó được gọi là một " chất bán dẫn " .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>What is a chip ?</s>
+<s id='vn33'>Chip là gì ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Chips are basically made of thousands to millions of transistors packed into a small piece of silicon .</s>
+<s id='vn34'>Chip về cơ bản được làm từ hàng ngàn đến hàng triệu bóng bán dẫn được đóng gói vào trong một tấm sillicon nhỏ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The transistors are wired together to perform a specific function .</s>
+<s id='vn35'>Các bóng bán dẫn được nối với nhau để thực hiện một chức năng cụ thể .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Traditional wiring uses aluminum .</s>
+<s id='vn36'>Thông thường sử dụng dây nhôm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In chips made using more advanced technology , they are wired together using copper .</s>
+<s id='vn37'>Trong các chip được sản xuất sử dụng công nghệ tiên tiến hơn , chúng được nối với nhau bằng dây đồng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The number of transistors on a chip , the speed of each transistor , and the delay passing electricity through each transistor and each transistor 's metal interconnect determine how fast the entire chip operates .</s>
+<s id='vn38'>Số lượng các bóng bán dẫn trong một chip , tốc độ của mỗi bóng bán dẫn và độ trể truyền dẫn điện thông qua mỗi bóng bán dẫn và liên kết kim loại của mỗi bóng bán dẫn để xác định con chip này hoạt động nhanh bao nhiêu .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Three of the most common kind of chips include : microprocessors , memory and logic chips .</s>
+<s id='vn39'>Có ba loại chip thông dụng nhất là : các bộ vi xử lý , bộ nhớ và các chip logic .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Microprocessors , the " brains " of a computer or other electronic device , carry out most calculations and operations .</s>
+<s id='vn40'>Các bộ vi xử lý , " bộ não " của một máy tính hoặc một thiết bị điện tử khác thực hiện hầu hết các phép tính và các hoạt động .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Memory chips are used to store data and computer programs that are executed .</s>
+<s id='vn41'>Các chip nhớ được dùng để lưu trữ dữ liệu và các chương trình máy tính mà được thực thi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>There are usually two kinds of memory found in a computer .</s>
+<s id='vn42'>Có hai loại bộ nhớ thường được tìm thấy trong một máy tính .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Static memory ( SRAM ) , which is fast , but not as dense and dynamic memory ( DRAM ) , which , is slower but much denser .</s>
+<s id='vn43'>Bộ nhớ tĩnh ( SRAM ) hoạt động nhanh nhưng không lưu trữ nhiều dữ liệu và bộ nhớ động ( DRAM ) thì chậm hơn nhưng mật độ dữ liệu được chứa nhiều hơn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The forth kind of chip on the computer is a collection of logic chips : these are the chips that control the operation of the " bus " on the computer , the disk drive , and many other operations .</s>
+<s id='vn44'>4 loại chip tương tự trong máy tính là một tập hợp các chip logic : đó là các chip điều khiển sự hoạt động của " bus " trên máy tính , ổ đĩa , và nhiều hoạt động khác .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Since the speed and the number of transistors on a chip are critical in determining the performance of computers , most leading edge microprocessors and dynamic memory chips on the market today usually use the most advanced technology available when they are manufactured .</s>
+<s id='vn45'>Từ đó tốc độ và số lượng các bóng bán dẫn trên một chip là điều rất quan trọng trong việc xác định hiệu suất của các máy tính , hầu hết các bộ vi xử lý hàng đầu và chip nhớ động trên thị trường ngày nay thường được sử dụng công nghệ tiên tiến nhất hiện có khi chúng được sản xuất ra .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>It is fair to assume that any leading chip technology under development today will appear in the most advanced computer microprocessors within 1-2 years .</s>
+<s id='vn46'>Công bằng mà nói thì bất cứ công nghệ chip hàng đầu nào dưới sự phát triển ngày nay sẽ xuất hiện trong hầu hết các bộ vi xử lý máy tính cao cấp trong vòng 1-2 năm tới .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The copper metal technology , announced by IBM last year , is currently being shipped to customers .</s>
+<s id='vn47'>Công nghệ kim loại đồng , được IBM công bố hồi năm ngoái hiện đang được bán cho các khách hàng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>What is CMOS ?</s>
+<s id='vn48'>CMOS là gì ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>CMOS stands for Complementary Metal Oxide Semiconductor .</s>
+<s id='vn49'>CMOS là viết tắt cho - chất bán dẫn ô-xít kim loại bổ sung .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>In the traditional MOS switch , if " high " voltage is applied to the metal " gate " , it will conduct electricity .</s>
+<s id='vn50'>Trong công-tắc MOS truyền thống , nếu điện áp " cao " được đưa vào " cổng " kim loại , nó sẽ dẫn điện .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>If low voltage is applied , then the switch will be open and current flow will stop .</s>
+<s id='vn51'>Nếu điện áp thấp thì công tắc sẽ được mở và dòng điện sẽ ngừng lại .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Up to 15 years ago , only this traditional switch was in-use in chips .</s>
+<s id='vn52'>Cách đây 15 năm , chỉ có công-tắc truyền thống này được sử dụng trong các chip .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Since then , another kind of MOS switch has been developed .</s>
+<s id='vn53'>Kể từ đó , các loại công tắc MOS tương tự khác được phát triển .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>This second kind of switch , operates with the opposite polarity charge of a traditional MOS , " complementing " the traditional MOS switch .</s>
+<s id='vn54'>Loại công-tắc thứ hai này hoạt động với sự tích điện đối cực của MOS truyền thống , " bổ sung " công-tắc MOS truyền thống .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In this switch , if a low voltage is applied to the metal " gate " , the switch will close and current will flow .</s>
+<s id='vn55'>Trong công tắc này , nếu điện áp thấp được đưa vào " cổng " kim loại , công tắc sẽ đóng lại và dòng điện sẽ chạy qua .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Likewise , if high voltage is applied , then it will open and the current will stop .</s>
+<s id='vn56'>Tương tự như vậy , nếu điện áp cao được đưa vào thì sau đó nó sẽ mở và dòng điện chạy sẽ ngừng lại .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Almost all microprocessor , memory and support chips use both kinds of MOS switch , and thus are CMOS-based .</s>
+<s id='vn57'>Hầu như tất cả các bộ vi xử lý , bộ nhớ và các chip hỗ trợ sử dụng cả hai loại công-tắc MOS và vì vậy nó dựa vào CMOS .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>III - Miniaturization And Performance</s>
+<s id='vn58'>III - Thu nhỏ và Hiệu suất</s>
+</spair>
+<spair id='59'>
+<s id='en59'>What is scaling ?</s>
+<s id='vn59'>Qui mô là gì ?</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Scaling simply refers to the drive to continue making the transistor , and the technology that connects transistors together , smaller .</s>
+<s id='vn60'>Qui mô đơn giản là đề cập đến xu hướng để tiếp tục tạo ra các bóng bán dẫn và công nghệ dùng để ghép các bóng bán dẫn với nhau , nhỏ hơn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>As a transistor becomes smaller , it becomes faster and can conduct more electricity .</s>
+<s id='vn61'>Nếu một bóng bán dẫn trở nên nhỏ hơn , nó sẽ nhanh hơn và có thể dẫn điện tốt hơn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>It also consumes less power when it switches on or off or when electricity passes through it .</s>
+<s id='vn62'>Nó cũng tiêu thụ điện năng ít hơn khi bật và tắt hoặc khi có dòng điện chạy qua nó .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Finally , the smaller a transistor becomes , the cost of producing each transistor goes down and more of them can be packed on a chip .</s>
+<s id='vn63'>Nói tóm lại , một bóng bán dẫn nhỏ hơn thì chi phí sản xuất sẽ giảm xuống và nhiều bóng bán dẫn sẽ được gắn trên một con chip hơn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It is worth mentioning that the critical dimension of a MOS switch , first introduced in the IBM PC 15 years ago , has gone down from 10 microns to 0.2 microns in leading chips today .</s>
+<s id='vn64'>Đề cập đến vấn đề kích thước của một công-tắc MOS , được giới thiệu lần đầu tiên trong máy tính IBM cách đây 15 năm đã giảm kích thước từ 10 micron xuống còn 0.2 micron trong các chip hàng đầu hiện nay .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>In that time , a chip 's electrical frequency rate has also increased by more than 50 times , and the number of the transistors on the chip has gone up by a factor of 20 .</s>
+<s id='vn65'>Trong thời gian đó , tỉ lệ tần số điện tử của một con chip cũng tăng lên nhiều hơn 50 lần và số lượng các bóng bán dẫn trên chip cũng tăng lên gấp 20 lần .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The single , biggest driving force behind growth in the semiconductor , computer , networking , consumer electronic and software industries in the last half century has been the continuous scaling or miniaturization of the transistor .</s>
+<s id='vn66'>Động lực thúc đẩy tăng trưởng lớn nhất trong các ngành công nghiệp chất bán dẫn , máy tính , mạng , điện tử tiêu dùng và phần mềm trong nửa cuối thế kỷ đã tiếp tục giảm tỉ lệ hoặc thu nhỏ kích thước bóng bán dẫn .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>By making the transistor smaller , faster , lower powered and cheaper , more of them can be packed on a chip so it performs more functions faster and at lower power .</s>
+<s id='vn67'>Bằng cách tạo ra bóng bán dẫn nhỏ hơn , nhanh hơn , tiêu thụ điện năng ít hơn và giá thành rẻ hơn , sẽ có nhiều bóng bán dẫn có thể được tích hợp trên 1 chip do đó nó sẽ thực hiện các chức năng nhanh hơn và ở điện năng thấp hơn .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Computers and other electronic devices have become smaller , more portable , cheaper , easier to use , and more accessible to everyone .</s>
+<s id='vn68'>Các máy tính và các thiết bị điện tử khác trở nên nhỏ hơn , nhiều tính di động , rẻ tiền , dễ sử dụng hơn và mọi người dễ dàng tiếp cận .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>As long as we can make the transistor faster and smaller , make the wiring that attaches them less resistive to electrical current and make each chip denser , the digital revolution will continue to accelerate into the 21st century .</s>
+<s id='vn69'>Miễn là chúng ta có thể tạo ra bóng bán dẫn nhanh hơn và nhỏ hơn , khí đó sẽ tạo ra hệ thống dây gắn kèm với chúng có mức điện trở nhỏ cho dòng điện và làm cho mỗi chip chứa nhiều hơn , cuộc cách mạng số sẽ tiếp tục tăng tốc trong thế kỷ 21 .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Why the need for faster performance ?</s>
+<s id='vn70'>Tại sao cần phải hiệu suất nhanh hơn ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>The increased speed and capability of computers has had enormous impact on our society .</s>
+<s id='vn71'>Tăng tốc độ và khả năng làm việc của các máy tính đã tác động lớn đến xã hội của chúng ta .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The Internet , advanced software applications , speech recognition , advances in telecommunications and the many services that we take for granted all are made feasible only because the performance of microchips has increased over time .</s>
+<s id='vn72'>Internet , các ứng dụng phần mềm tiên tiến , công nghệ nhận dạng giọng nói , những tiến bộ trong lĩnh vực viễn thông và nhiều dịch vụ mà chúng ta nắm lấy để cho phép tất cả mọi thứ được tạo chỉ mang lại khả thi bởi là bởi vì hiệu năng của các vi mạch xử lý tăng lên nhiều lần .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>And judging from what is in development in the research labs of many companies and universities , the increased performance of chips will continue to fundamentally change the way we live in the future .</s>
+<s id='vn73'>Và đánh giá từ những gì đã được phát triển trong các phòng thí nghiệm nghiên cứu của nhiều công ty và trường đại học , hiệu năng được tăng lên của các chip về cơ bản sẽ tiếp tục thay đổi cách sống của chúng ta trong tương lai .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>How do we make chips faster ?</s>
+<s id='vn74'>Chúng ta tạo ra chip nhanh hơn bằng cách nào ?</s>
+</spair>
+<spair id='75'>
+<s id='en75'>A number of techniques can be used to make chips faster .</s>
+<s id='vn75'>Một số công nghệ có thể được sử dụng đề làm ra các chip nhanh hơn .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>One way is to make the transistor smaller .</s>
+<s id='vn76'>Chỉ có một cách là tạo ra bóng bán dẫn nhỏ hơn .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>But as transistors are made smaller and faster , delays through the wiring also become more frequent , which limits the speed of the transistor .</s>
+<s id='vn77'>Nhưng khi các bóng bán dẫn được tạo ra nhỏ và nhanh hơn , sự chậm trể thông qua hệ thống dây điện cũng trở nên thường xuyên hơn mà nó sẽ hạn chế tốc độ của bóng bán dẫn .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Copper wiring , first introduced by IBM , aims to reduce the wiring delay of the chip .</s>
+<s id='vn78'>Hệ thống dây đồng được IBM giới thiệu đầu tiên nhằm mục đích giảm bớt sự chậm trể của hệ thống dây điện trong chip .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Another technique to speed up chips is to use an alternative " faster " semiconductor .</s>
+<s id='vn79'>Kỹ thuật khác để tăng tốc độ chip là sử dụng một chất bán dẫn " nhanh hơn " thay thế .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>IV - Silicon on Insulator</s>
+<s id='vn80'>IV - Silicon trên chất cách điện</s>
+</spair>
+<spair id='81'>
+<s id='en81'>What is silicon-on-insulator ?</s>
+<s id='vn81'>Silicon trên chất cách điện là gì ?</s>
+</spair>
+<spair id='82'>
+<s id='en82'>One faster semiconductor substrate that has been under active consideration for the last 30 years has been SOI .</s>
+<s id='vn82'>Một chất nền bán dẫn nhanh hơn đã được quan tâm tích cực trong suốt 30 năm qua là SOI .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>SOI refers to placing a thin layer of silicon on top of an insulator such as silicon oxide or glass .</s>
+<s id='vn83'>SOI dùng để chỉ việc đặt một lớp silicon mỏng lên trên một lớp cách điện chẳng hạn như oxit silicon hoặc thuỷ tinh .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>The transistors would then be built on top of this thin layer of SOI.</s>
+<s id='vn84'>Các bóng bán dẫn sau đó sẽ được xây dựng lên trên lớp SOI mỏng này .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>The basic idea is that the SOI layer will reduce the capacitance of the switch , so it will operate faster .</s>
+<s id='vn85'>Ý tưởng chính là lớp SOI sẽ giảm điện dung của công tắc , do đó nó sẽ hoạt động nhanh hơn .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>What is capacitance ?</s>
+<s id='vn86'>Điện dung là gì ?</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Capacitance is the ability of a structure to store electrical charge .</s>
+<s id='vn87'>Điện dung là khả năng của một cấu trúc lưu trữ điện tích .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Every structure that can pass electricity through it has capacitance associated with it .</s>
+<s id='vn88'>Mỗi cấu trúc có thể truyền điện nhờ nó có điện dung kết hợp với nó .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>The MOS transistor or switch is one such structure .</s>
+<s id='vn89'>bóng bán dẫn MOS hoặc công - tắc là một cấu trúc như vậy .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Every time the transistor is turned on , it must first charge all its internal capacitance before it can begin to conduct electricity .</s>
+<s id='vn90'>Mỗi lần bóng bán dẫn được bật lên , đầu tiên nó phải tích điện cho tất cả điện dung bên trong nó trước khi nó có thể bắt đầu dẫn điện .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>It takes a relatively long time to charge and discharge compared to the actual time that it takes to turn the transistor on and off .</s>
+<s id='vn91'>Nó mất một khoảng thời gian tương đối lâu để tích và xả điện so với thời gian thực tế mà nó mất để bật tắt bóng bán dẫn .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Developing a way to reduce the internal capacitance of a transistor , it would cause it to operate much faster .</s>
+<s id='vn92'>Việc phát triển một phương pháp để giảm điện dung bên trong của một bóng bán dẫn , nó sẽ làm cho hệ thống hoạt động nhanh hơn .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>How Does SOI Reduce Capacitance ?</s>
+<s id='vn93'>Công nghệ SOI giảm điện dung bằng cách nào ?</s>
+</spair>
+<spair id='94'>
+<s id='en94'>One of the areas that can store charge in a MOS switch is the area between the impurities added to a chip 's silicon and the silicon substrate itself , which is free of impurities .</s>
+<s id='vn94'>Một trong các vùng có thể lưu trữ điện tích trong một công tắc MOS là một vùng giữa các tạp chất được thêm vào silicon của một con chip và chất nền silicon của nó mà không có tạp chất .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>That area is called the " junction capacitance " .</s>
+<s id='vn95'>Vùng đó được gọi là " điện dung tiếp xúc " .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>If a thin layer of an insulator , such as glass , is placed between the impurities and the silicon substrate , the junction capacitance will be eliminated and the MOS transistor will operate faster .</s>
+<s id='vn96'>Nếu có một lớp chất cách điện mỏng như là thuỷ tinh nằm giữa các tạp chất và chất nền sillion thì điện dung tiếp xúc sẽ bị loại bỏ và bóng bán dẫn MOS sẽ hoạt động nhanh hơn .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>This is the basic reason why many research groups have been trying to develop SOI technology .</s>
+<s id='vn97'>Đây là lý do chính tại sao nhiều nhóm nghiên cứu đã và đang cố gắng tìm cách phát triển công nghệ SOI .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>SOI technology results in a faster MOS transistor .</s>
+<s id='vn98'>Công nghệ SOI tạo ra bóng bán dẫn MOS nhanh hơn .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>The ultimate goal has been to use SOI as the substrate for mainstream CMOS technology used in the manufacturing of microprocessor chips that power computers and other emerging electronic devices .</s>
+<s id='vn99'>Mục tiêu cuối cùng là sử dụng SOI như một lớp nền cho công nghệ CMOS chủ đạo được dùng trong việc sản xuất các vi xử lý cho máy tính mạnh và các thiết bị điện tử hiện đại khác .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>This is why IBM 's announcement is so significant .</s>
+<s id='vn100'>Đây chính là lý do tại sao sự công bố của IBM là hết sức quan trọng .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>While others , including IBM , have been successful in developing SOI technology , IBM is the first to be able to apply it in building fully functional mainstream microprocessors , the most complex type of chip .</s>
+<s id='vn101'>Trong khi các hãng khác kể cả IBM đã thành công trong việc phát triển công nghệ SOI , IBM là hãng đầu tiên có khả năng áp dụng công nghệ này trong việc xây dựng các vi xử lý chủ đạo đầy đủ tính năng , loại chip phức tạp nhất .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>V-Overcoming SOI 's Hurdles</s>
+<s id='vn102'>Vượt qua rào cản của công nghệ SOI</s>
+</spair>
+<spair id='103'>
+<s id='en103'>What have been some of the challenges in developing SOI ?</s>
+<s id='vn103'>Một số thách thức trong việc phát triển SOI là gì ?</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The silicon film used for making MOS transistors is perfect crystalline silicon .</s>
+<s id='vn104'>Film sillicon này được dùng để tạo ra các bóng bán dẫn MOS là silicon kết tinh hoàn hảo .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>The insulator oxide layer on the other hand is not crystalline .</s>
+<s id='vn105'>Lớp oxit cách điện nhưng không phải là chất kết tinh .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>It is very difficult to make perfect crystalline silicon on oxide or silicon with other insulators since the insulator layer 's crystalline properties are so different from pure silicon .</s>
+<s id='vn106'>Rất khó tạo ra sillicon tinh thể hoàn toàn trên oxit hoặc silicon với các chất cách điện khác vì các đặc tính kết tinh của lớp chất cách điện này rất khác sillion tinh khiết .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>If perfect crystalline silicon is not obtained , then defects will find their way onto the SOI film .</s>
+<s id='vn107'>Nếu không thu được sillion kết tinh hoàn toàn thì sau đó các khiếm khuyết sẽ được tìm thấy trên các film SOI .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>This could degrade the MOS switch severely both in terms of speed and leakage through the switch .</s>
+<s id='vn108'>Điều này có thể phá hỏng một cách nghiêm trọng công tắc MOS về mặc tốc độ lẫn rò rỉ điện qua công tắc này .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>One of the major areas of research has been trying to obtain " perfect " SOI layers .</s>
+<s id='vn109'>Một trong các lĩnh vực nghiên cứu quan trọng đã và đang nỗ lực nhằm thu được các lớp SOI " hoàn hảo " .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>One insulator found to be perfectly crystalline and whose properties are close to those of silicon is sapphire .</s>
+<s id='vn110'>Một chất cách điện tìm thấy sẽ là chất kết tinh hoàn toàn và có các đặc tính gần với sillion là sapphire .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>While silicon-on-sapphire has been one of the SOI layers actively investigated , SOI film utilizing it has still been found to be defective and silicon-on-sapphire was never able to be successfully used as an insulating material .</s>
+<s id='vn111'>Mặc dù silicon trên shapphire là một trong các lớp SOI được nghiên cứu rất tỉ mĩ , nhưng film SOI sử dụng nó vẫn tìm thấy khiếm khuyết và sillion trên sapphire không bao giờ có thể sử dụng thành công như một vật liệu cách điện .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Even in cases where the quality of the SOI layer has been fine for making single chips or small circuits , the MOS transistor placed on the SOI layer has continued to pose serious challenges .</s>
+<s id='vn112'>Ngay cả trong trường hợp mà ở đó chất lượng của lớp SOI tốt để tạo ra các chip đơn hoặc các mạch nhỏ , bóng bán dẫn MOS được đặt trên lớp SOI này đã tiếp tục đặt ra các thách thức quan trọng .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>When a MOS transistor is placed on SOI , it is also placed next to a parallel bipolar transistor .</s>
+<s id='vn113'>Khi một bóng bán dẫn được đặt trên lớp SOI , nó cũng được đặt cạnh bóng bán dẫn lưỡng cực song song .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The bipolar transistor can turn on when the MOS switch passes current through itself , i.e . base current will be supplied through the base impact ionization .</s>
+<s id='vn114'>bóng bán dẫn lưỡng cực có thể bật khi công-tắc MOS truyền dòng điện qua chính nó , nghĩa là dựa vào dòng điện sẽ được cung cấp thông qua quá trình i-on hoá tương tác bazơ .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>This reaction of the bipolar transistor to current passing through the nearby MOS transistor gives rise to a number of unwanted effects that complicate the operation of the chip 's circuit and its modeling .</s>
+<s id='vn115'>Sự phản ứng này của bóng bán dẫn lưỡng cực tới dòng điện chạy qua bóng bán dẫn MOS gần đó sẽ làm tăng lên một số hiệu ứng không mong muốn mà làm phức tạp sự hoạt động của mạch chip và khuôn của nó .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Significant effort has been devoted in the last three decades in characterizing , modeling , eliminating or at least reducing , and controlling the unwanted effects caused by the bipolar device .</s>
+<s id='vn116'>Nỗ lực tích cực đã được cống hiến trong ba thập kỷ qua việc mô tả , lên khuôn , loại bỏ hoặc giảm thiểu đáng kể và kiểm soát các hiệu ứng không mong muốn gây ra bởi các thiết bị lưỡng cực .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>One solution to the bipolar transistor dilemma that has been under strong consideration over the last two-to-three years was to use very thin layer SOI films ( less than 0.1 micron ) called " fully-depleted films . "</s>
+<s id='vn117'>Một giải pháp cho vần đề nan giải về bóng bán dẫn lưỡng cực đã được mạnh dạn xem xét trong 2–3 năm qua để sử dụng các lớp film SOI rất mỏng ( nhỏ hơn 0.1 micron ) gọi là " các lớp mỏng toàn phần " .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>IBM 's approach has been different , and it uses slightly thicker films ( greater than 0.15 micron ) , called " partially-depleted films . "</s>
+<s id='vn118'>Các phương pháp của IBM khác nhau và họ sử dụng các film dầy hơn ( lớn hơn 0.15 micron ) , gọi là " các film mỏng bán phần "</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Perhaps one of the biggest obstacles facing adoption of SOI as a mainstream technology has been steady progress in traditional bulk CMOS technology over the years .</s>
+<s id='vn119'>Có lẽ một trong những rào cản lớn nhất đối với việc áp dụng SOI như một công nghệ chủ đạo đã được tiến hành dựa trên công nghệ Bulk CMOS truyền thống qua nhiều năm .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>While much attention has been devoted to perfecting SOI , Bulk Silicon technology has shown consistent advances .</s>
+<s id='vn120'>Trong khi nhiều sự chú ý tập trung hoàn toàn cho công nghệ SOI , công nghệ Bulk Silicon đã cho thấy có những sự tiến bộ thích hợp .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>VI - IBM 's SOI Approach</s>
+<s id='vn121'>VI - Tiếp cận công nghệ SOI của IBM</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Why did n't IBM give up on SOI ?</s>
+<s id='vn122'>Tại sao IBM không từ bỏ công nghệ SOI ?</s>
+</spair>
+<spair id='123'>
+<s id='en123'>At its core , IBM is a technology company .</s>
+<s id='vn123'>Thực chất , IBM là một công ty công nghệ .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>As a leader in the information technology industry , IBM is committed to developing the best technology for use in its products .</s>
+<s id='vn124'>Với vai trò dẫn đầu trong ngành công nghiệp CNTT , IBM cam kết phát triển công nghệ tốt nhất để sử dụng trong các sản phẩm của mình .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Leading edge silicon technology is a major element of IBM 's leadership.</s>
+<s id='vn125'>Công nghệ mũi nhọn silicon là yếu tố trọng yếu ở vị trí hàng đầu của IBM .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>The company 's investment in silicon technology has resulted in major breakthroughs .</s>
+<s id='vn126'>Sự đầu tư của công ty vào công nghệ silicon đã đạt được những bước đột phá quan trọng .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>IBM has led the development of one-transistor cell memory , quarter-micron CMOS technology and the use of copper to replace aluminum in producing faster , better-performing , lower-power chips .</s>
+<s id='vn127'>IBM đã dẫn đường cho sự phát triển bộ nhớ tế bào với một bóng bán dẫn , công nghệ CMOS chỉ bằng ¼ micron và sử dụng đồng để thay thế nhôm để sản xuất ra những con chip có tốc độc nhanh hơn , hoạt động tốt hơn và tiêu thụ điện năng thấp hơn .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Today , SOI is a key component of IBM 's goal to provide customers the best CMOS technology in the industry .</s>
+<s id='vn128'>Hiện nay , SOI là một thành phần quan trọng trong mục tiêu của IBM để cung cấp cho khách hàng công nghệ CMOS tốt nhất trong ngành công nghiệp này .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>IBM 's Microelectronics Division first began looking at SOI in the early 1970's .</s>
+<s id='vn129'>Bộ phận Vi điện tử của IBM đã bắt đầu xem xét công nghệ SOI vào đầu những năm 1970 .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>As part of that pioneering work , IBM first developed the " bonded " method of making SOI films .</s>
+<s id='vn130'>Là một phần của công việc tiên phong , IBM lần đầu tiên phát triển phương pháp " keo dính " trong việc tạo ra các film SOI .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Initially discontinued in the mid-1970's , the team responsible for developing IBM 's leading edge bulk silicon technology at the company 's Research Division took a second look at SOI in 1989 .</s>
+<s id='vn131'>Ban đầu dự án này bị gián đoạn vào giữa những năm 1970 , nhóm chịu trách nhiệm phát triển công nghệ mũi nhọn Bulk silicon của IBM tại Bộ Phận Nghiên Cứu của công ty đã xem xét lại công nghệ SOI lần thứ 2 vào năm 1989 .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>A team at Research worked closely together with the bulk team and was instrumental in the rapid progress of SOI technology at IBM .</s>
+<s id='vn132'>Đội ngũ tại phòng nghiên cứu này đã làm việc chặt chẽ cùng với đội ngũ Bulk và là phương tiện đem lại tiến bộ nhanh chóng của công nghệ SOI tại IBM .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>After five years of significant progress on SOI material , device , characterization , and some early circuit work , the decision was made to move the SOI technology development to a " manufacturing-like " development line at the Advanced Silicon Technology Center ( ASTC ) in East Fishkill , New York .</s>
+<s id='vn133'>Sau 5 năm tiến bộ đáng kể về công nghệ vật liệu SOI , thiết bị , tính chất và một vài sản phẩm mạch điện tử gần đây , quyết định thực hiện để di chuyển sự phát triển công nghệ SOI sang lối phát triển " kiểu như chế tạo " tại Trung tâm Công nghệ Silicon Cao Cấp ( ASTC ) ở Đông Fishkill , New York .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Move to ASTC was particularly important , since it placed SOI CMOS technology under the same rigor that the bulk technology was going through .</s>
+<s id='vn134'>Bước di chuyển sang ASTC là đặc biệt quan trọng từ đó nó đặt công nghệ SOI CMOS dưới sự giám sát nghiêm ngặt giống như công nghệ Bulk .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The move to ASTC also allowed SOI technology access to a low-defect manufacturing line that was instrumental in SOI material development as well as many advanced microprocessor and memory designs , modeling and circuit design infrastructure , and methodology for evaluating reliability of SOI devices and circuits .</s>
+<s id='vn135'>Việc di chuyển đến ASTC cũng cho phép công nghệ SOI tiếp cận đến một dây chuyền sản xuất ít lỗi mà nó là công cụ phát triển nguyên liệu SOI cũng như nhiều bộ vi xử lý tiên tiến và thiết kế bộ nhớ , mô hình hoá , cơ sở hạ tầng thiết kế mạch điện tử và hệ phương pháp để đánh giá độ tin cậy của thiết bị và mạch điện SOI .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Today , SOI technology continues to go through the same qualification process as Bulk CMOS technology , with the same rigorous attention to detail that is part of all technology development at IBM 's Microelectronic Division .</s>
+<s id='vn136'>Ngày nay , công nghệ SOI tiếp tục đi qua quá trình thẩm định tương tự như công nghệ Bulk CMOS , với sự quan tâm chặt chẽ đến từng chi tiết như vậy đó là một phần của tất cả sự phát triển công nghệ tại Bộ phận Vi Điện Tử của IBM .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>How did IBM finally make SOI a Feasible Alternative ?</s>
+<s id='vn137'>Làm thế nào cuối cùng IBM đã tạo ra công nghệ SOI như một giải pháp thay thế khả thi ?</s>
+</spair>
+<spair id='138'>
+<s id='en138'>A number of factors led to IBM 's ability to make SOI a mainstream chip making technique .</s>
+<s id='vn138'>Một số yếu tố dẫn đến khả năng của IBM nhằm tạo ra SOI như là một kỹ thuật làm chip chủ đạo .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>One important factor is the slowing of the rate of progress in CMOS technology , making the extra performance offered by SOI even more valuable .</s>
+<s id='vn139'>Một yếu tố quan trọng là làm chậm tiến trình trong công nghệ CMOS tạo ra hiệu suất phụ do công nghệ SOI cung cấp càng có giá trị hơn .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Secondly , designers will use whatever performance is given to them by the developers of a technology .</s>
+<s id='vn140'>Thứ hai , nhà thiết kế sẽ sử dụng bất kỳ hiệu suất nào do các nhà phát triển công nghệ đem lại cho họ .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>A faster technology in use by designers translates into faster microchips and , ultimately , faster computers in the marketplace .</s>
+<s id='vn141'>Một công nghệ nhanh hơn đang được các nhà thiết kế sử dụng để chuyển thành các mạch xử lý nhanh hơn và cuối cùng cho ra đời các máy tính nhanh hơn trên thị trường .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>But probably the single most important factor in SOI becoming a mainstream technology is the breadth and quality of work done at IBM while developing it .</s>
+<s id='vn142'>Nhưng có lẽ một yếu tố quan trọng nhất trong công nghệ SOI trở thành một công nghệ chủ đạo là bề rộng và chất lượng của công tác thực hiện tại IBM trong khi phát triển nó .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>The most important breakthrough , among many , was the recent demonstration of fully functional microprocessors and large static random access memory chips utilizing SOI .</s>
+<s id='vn143'>Trong số các bước đột phá quan trọng nhất là sự chứng minh gần đây của các vi xử lý đầy đủ chức năng và các chip RAM tĩnh lớn sử dụng công nghệ SOI .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>This work has convinced many skeptics that after three decades SOI is real technology that can be used to design the next generation of chips at profitable levels and achieve a two year performance gain over conventional bulk silicon technology .</s>
+<s id='vn144'>Công việc này đã thuyết phục nhiều người hoài nghi rằng sau ba thập kỷ công nghệ SOI thực sự là một công nghệ có thể được sử dụng để thiết kế các thế hệ chip mới ở các mức độ thuận lợi và đạt được một hiệu suất hai năm vượt qua công nghệ Bulk Silicon thông thường .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>How is the SOI material made ?</s>
+<s id='vn145'>Vật liệu để làm chip SOI là như thế nào ?</s>
+</spair>
+<spair id='146'>
+<s id='en146'>There are a number of methods under development inside and outside IBM for making SOI material and wafers .</s>
+<s id='vn146'>Có một số phương thức đang được phát triển bên trong và bên ngoài hãng IBM cho việc tạo ra vật liệu SOI và các tấm wafer .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Presently , IBM is manufacturing its own SOI wafers using what is known as the SIMOX or " Separation by Implantation of Oxygen " technique .</s>
+<s id='vn147'>Hiện nay , IBM đang tự sản xuất các tấm wafer cho chip SOI bằng cách sử dụng thứ mà được biết đến như là SIMOX hay còn gọi là kỹ thuật " Tách bằng cách cấy Ion Oxy " .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>In this method , oxygen is implanted in very heavy doses and the wafer is annealed at a high temperature until a thin layer of SOI film is formed .</s>
+<s id='vn148'>Trong phương pháp này , Ion oxy được cấy bằng một lượng rất mạnh và các tấm wafer được luyện ở nhiệt độ cao cho đến khi một lớp film SOI mỏng được hình thành .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>In addition , IBM continues to focus on new methods to reduce the SOI film defects .</s>
+<s id='vn149'>Ngoài ra , IBM tiếp tục tập trung vào phương pháp mới để giảm thiểu những khiếm khuyết của film SOI .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>During the course of this work , IBM is the only company that has provided evidence proving that there is no difference in yield between bulk and SOI wafers .</s>
+<s id='vn150'>Trong suốt quá trình làm công việc này , IBM là công ty duy nhất đã cung cấp bằng chứng chứng minh rằng không có sự khác biệt giữa việc sản xuất các wafer của Bulk và SOI .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>How is the SOI Transistor Applied To The Circuit ?</s>
+<s id='vn151'>Các bóng bán dẫn SOI được ứng dụng cho bảng mạch như thế nào ?</s>
+</spair>
+<spair id='152'>
+<s id='en152'>Once the SOI film is made , putting the transistor on the SOI film is straightforward .</s>
+<s id='vn152'>Một khi film SOI được tạo ra , việc đặt các bóng bán dẫn trên film SOI thì không phức tạp .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>It will basically go through the same process as a similar Bulk CMOS wafer .</s>
+<s id='vn153'>Về cơ bản nó sẽ đi qua qui trình tương tự như một tấm wafer của công nghệ Bulk CMOS .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>There are minor differences in the details of the process , but it uses the exact same lithography , tool set , and metalization .</s>
+<s id='vn154'>Đó là sự khác biệt nhỏ trong các chi tiết của qui trình này , nhưng nó sử dụng cùng thuật khắc chính xác , khuôn và lắng kim loại .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>At IBM we are in the final stages of qualifying a 0.22 micron CMOS on SOI and at the initial stages of development of 0.15micron CMOS on SOI technology .</s>
+<s id='vn155'>Tại IBM , chúng tôi đang trong giai đoạn cuối cùng của tiêu chuẩn CMOS 0,22 micron trên SOI và đang ở các giai đoạn đầu của sự phát triển CMOS 0.15micron trên công nghệ SOI .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Additionally , when designing the SOI chip , IBM put significant effort to minimize the effect of the bipolar transistor in parallel with the MOS transistor .</s>
+<s id='vn156'>Ngoài ra , khi thiết kế chip SOI , IBM đã nỗ lực đáng kể để giảm thiểu hiệu ứng của các bóng bán dẫn lưỡng cực đặt song song với các bóng bán dẫn MOS .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Minimizing the bipolar effect would make the SOI chip " bulk-like " and would allow circuit designers to reuse many familiar circuit techniques and macros that have been developed in bulk CMOS technology .</s>
+<s id='vn157'>Giảm thiểu hiệu ứng lưỡng cực sẽ làm cho chip SOI " giống kỹ thuật Bulk " và sẽ cho phép nhà thiết kế mạch tái sử dụng các kỹ thuật mạch quen thuộc và các lệnh macro mà đã được phát triển trong công nghệ Bulk CMOS .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>VII - Benefits of SOI</s>
+<s id='vn158'>VII - Lợi ích của công nghệ SOI</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Performance : IBM has built and tested SOI-based chips that have produced 20-25% cycle time and 25-35% improvement over equivalent bulk CMOS technology .</s>
+<s id='vn159'>Hiệu Suất : IBM đã xây dựng và thử nghiệm các chip dựa trên công nghệ SOI có thời gian chu kỳ sản xuất 20-25% và cải thiện hơn 25-35% công nghệ tương đương Bulk CMOS .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>This is equivalent to about two years of progress in bulk CMOS technology .</s>
+<s id='vn160'>Điều này tương đương với khoảng hai năm phát triển trong công nghệ CMOS Bulk .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>On Moore 's chart , SOI will cause a jump in the performance road-map , and will compensate for some of the expected loss of bulk technology performance improvement in the next few years .</s>
+<s id='vn161'>Trên biểu đồ định luật Moore , SOI tạo ra một bước nhảy trong đường hiệu suất , và sẽ bù đắp cho một vài sự thiếu hụt trong sự cải tiến hiệu suất công nghệ Bulk trong những năm tới .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>The sources of increased SOI performance are elimination of area junction capacitance and elimination of " body effect " in bulk CMOS technology .</s>
+<s id='vn162'>Cực nguồn của hiệu suất SOI tăng lên là sự loại bỏ vùng điện dung tiếp xúc và loại bỏ " hiệu ứng toàn thân " trong công nghệ CMOS Bulk .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Body effect is an MOS bulk effect , which results in lower current , and lower performance , in bulk MOS transistors , if they are placed in a certain configuration ( i.e . if they are stacked , of if the sources of the MOS devices are not grounded ) .</s>
+<s id='vn163'>Hiệu ứng toàn thân là một hiệu ứng của công nghệ Bulk CMOS mà có kết quả là dòng điện thấp và hiệu suất thấp hơn , trong các bóng bán dẫn MOS , nếu chúng được đặt trong một cấu hình nhất định ( tức là nếu chúng được xếp chồng lên nhau trong khi các cực nguồn của các thiết bị MOS thì không được tiếp xúc với đế ) .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Low Power : Although this paper focuses on SOI performance issues , SOI has excellent capability as a low power technology .</s>
+<s id='vn164'>Điện năng thấp : Mặc dù nghiên cứu này tập trung vào các vấn đề hiệu suất của công nghệ SOI , SOI có khả năng tuyệt vời như là một công nghệ năng lượng thấp .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>One disturbing trend over the last few years , as people have been using more advanced technologies , has been that the power of microprocessors has been going up .</s>
+<s id='vn165'>Một trong những xu hướng đáng lo ngại trong vài năm qua là mọi người đã được sử dụng nhiều công nghệ tiên tiến nhận thấy rằng điện năng tiêu thụ của vi xử lý đã tăng lên .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>For example , the 486 chip of several years ago consumed less than five Watts , while a Pentium consumes about 10 Watts , and a 400-MHz Pentium II has peak power consumption of about 28 Watts .</s>
+<s id='vn166'>Ví dụ , chip 486 của một vài năm trước đây tiêu thụ dưới 5W , trong khi bộ xử lý Pentium tiêu thụ khoảng 10 W , và một bộ vi xử lý Pentium II 400-MHz có điện năng tiêu thụ tối đa khoảng 28W .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Increased power seriously limits the use of microprocessors , especially in mobile applications .</s>
+<s id='vn167'>Giới hạn nguồn tiêu thụ tăng lên đáng kể việc sử dụng các vi xử lý đặc biệt là trong các ứng dụng điện thoại di động .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>IBM replaced bipolar transistors with MOS transistors due to the high consumption power of the bipolar transistors .</s>
+<s id='vn168'>IBM thay thế bóng bán dẫn lưỡng cực bằng các bóng bán dẫn MOS vì điện năng tiêu thụ của bóng bán dẫn lưỡng cực cao .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Dropping the voltage is very effective in reducing chip power .</s>
+<s id='vn169'>Việc giảm điện áp rất hiệu quả trong việc giảm năng lượng chip .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>The ability of SOI as a low power source originates from the fact that SOI circuits can operate at low voltage with the same performance as a bulk technology at high voltage .</s>
+<s id='vn170'>Khả năng của SOI như một nguồn năng lượng thấp bắt nguồn từ thực tế mạch SOI có thể hoạt động ở mức điện áp thấp có cùng hiệu suất giống như sử dụng công nghệ Bulk ở mức điện áp cao .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>As ASIC libraries for SOI are developed , SOI will have a tremendous impact on applications where low power is needed , such as portable and wireless applications .</s>
+<s id='vn171'>Các thư viện ASIC giúp SOI được phát triển , SOI sẽ có tác động to lớn trên các ứng dụng nơi mà cần ít điện năng chẳng hạn như các ứng dụng không dây và di động .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>As an example , measured on a 4 Mb SRAM .</s>
+<s id='vn172'>Ví dụ , đo trên 4 Mb SRAM .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>At the same performance as bulk CMOS , SOI can reduce the chip power by 1.7-3X ( depending on the switching factor of the devices ) .</s>
+<s id='vn173'>Cùng mức hiệu suất như Bulk CMOS , công nghệ SOI có thể giảm điện năng của chip từ 1,7-3X lần ( phụ thuộc vào yếu tố chuyển mạch của các thiết bị ) .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>Soft Error Rate : One of the early benefits of SOI has been the reduction in soft-error rate .</s>
+<s id='vn174'>Tỉ lệ lỗi mềm : Một trong những lợi ích ban đầu của SOI đã giảm trong tỷ lệ lỗi mềm .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>Soft error rate refers to upset of data in the memory by cosmic rays and background radioactive material .</s>
+<s id='vn175'>Tỷ lệ lỗi mềm dùng để chỉ sự lộn xộn của dữ liệu trong bộ nhớ do các tia vũ trụ và chất phóng xạ tự nhiên .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>In fact one of the first early applications of SOI has been in memories for space application , since the memories built on SOI were perceived to be more resistant to soft error rate .</s>
+<s id='vn176'>Trong thực tế , một trong những ứng dụng đầu tiên của SOI đã được áp dụng trong những bộ nhớ dành cho ứng dụng không gian , từ những bộ nhớ được xây dựng trên SOI đã tránh được nhiều tỷ lệ lỗi mềm .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>As chips are getting smaller and the voltages are dropped , soft error rate is slowly becoming a major concern in server and mainframe chips .</s>
+<s id='vn177'>Như các chip ngày càng trở nên nhỏ hơn và có điện áp giảm xuống , tỷ lệ lỗi mềm dần trở thành mối quan tâm chính trong các chip máy chủ và hệ thống máy tính lớn .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>As an example , computers that do not guard band for SER , have a higher failure rate if they are operated in high altitudes .</s>
+<s id='vn178'>Ví dụ , các máy tính không kiểm soát SER , nó sẽ có tỷ lệ lỗi cao hơn nếu chúng hoạt động ở cường độ cao .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>IBM 's early studies indicate that as CMOS is scaled into 0.18 micron range and voltages are dropped , SOI indeed has much lower soft error rate than bulk CMOS.</s>
+<s id='vn179'>Những nghiên cứu trước đây của IBM cho thấy CMOS có kích thước là 0.18 micron và điện áp đã giảm xuống , SOI thực sự có tỷ lệ lỗi mềm thấp hơn Bulk CMOS .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>VIII - Summary</s>
+<s id='vn180'>VIII - Tổng kết</s>
+</spair>
+<spair id='181'>
+<s id='en181'>IBM has shown its chip technology leadership by becoming the first to implement copper interconnect technology .</s>
+<s id='vn181'>IBM đã cho thấy khả năng đi đầu trong công nghệ chip bằng việc trở thành công ty đầu tiên triển khai công nghệ kết nối bằng đồng .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>IBM 's announcement of a mainstream SOI technology is equally significant .</s>
+<s id='vn182'>Công bố của IBM về một công nghệ SOI chủ đạo có ý nghĩa hơn thế nữa .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>SOI technology improves performance over bulk CMOS technology by 25-35% , equivalent to two years of bulk CMOS advances .</s>
+<s id='vn183'>Công nghệ SOI cải tiến hiệu suất hơn công nghệ Bulk CMOS tới 25-35% , tương đương với hai năm cải tiến trong Bulk CMOS .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>SOI technology also brings power use advantages of 1.7-3 times .</s>
+<s id='vn184'>Công nghệ SOI cũng mang lại hiệu quả về điện năng gấp 1.7-3 lần .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>IBM is currently working with many circuit designers and product groups that are designing with SOI technology .</s>
+<s id='vn185'>IBM hiện đang làm việc với nhiều nhà thiết kế bảng mạch và các nhóm sản phẩm mà đang thiết kế bằng công nghệ SOI .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>The company expects SOI will eventually replace bulk CMOS as the most commonly used substrate for advanced CMOS in mainstream microprocessors and other emerging wireless electronic devices requiring low power .</s>
+<s id='vn186'>Hãng hi vọng SOI sẽ hoàn toàn thay thế Bulk CMOS như thường được sử dụng làm chất nền cho công nghệ CMOS cải tiến trong các vi xử lý chủ đạo và các thiết bị điện tử không dây khác yêu cầu lượng điện năng tiêu thụ thấp .</s>
+</spair>
+</text>
+</doc>

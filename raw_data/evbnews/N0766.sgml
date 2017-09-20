@@ -1,0 +1,164 @@
+﻿<doc id='N0766'>
+<head>
+<title>Bonds and eurobonds</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bonds and eurobonds</s>
+<s id='vn1'>Trái phiếu và trái phiếu châu Âu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The idea of eurozone economies clubbing together to issue bonds representing all 17 member nations has been gathering momentum in recent days .</s>
+<s id='vn2'>Ý tưởng các nền kinh tế khu vực sử dụng đồng Euro cùng nhau phát hành các trái phiếu đại diện cho tất cả 17 quốc gia thành viên đang không ngừng gia tăng trong những ngày gần đây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>And it has some pretty influential backers .</s>
+<s id='vn3'>Và nó được một số người tương đối có ảnh hưởng ủng hộ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>For example , billionaire investor George Soros has said the bonds could be a good way to reduce the borrowing costs of highly-indebted nations , while Italian Finance Minister Giulio Tremonti has described them as the " master solution " to the debt crisis .</s>
+<s id='vn4'>Chẳng hạn , nhà đầu tư tỷ phú George Soros đã phát biểu rằng các trái phiếu có thể là một biện pháp hữu hiệu để giảm chi phí vay mượn của những quốc gia mắc nợ nhiều , trong khi Bộ trưởng Bộ tài chính Ý Giulio Tremonti lại mô tả chúng là " giải pháp chính " cho cuộc khủng hoảng nợ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But those that really matter are less keen .</s>
+<s id='vn5'>Nhưng những ý kiến thực sự có tầm ảnh hưởng như vậy không nhiều .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The German government has said eurobonds " do n't make sense " right now , given that individual member states conduct their own economic policies .</s>
+<s id='vn6'>Chính phủ Đức cho rằng các trái phiếu châu Âu phát hành ngay tại thời điểm này " không hợp lý chút nào " , hãy cứ để mỗi quốc gia thành viên thực hiện những chính sách kinh tế của riêng họ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It is also concerned the introduction of such bonds could reduce the resolve of highly-indebted governments to balance their budgets .</s>
+<s id='vn7'>Họ còn lo ngại việc phát hành những trái phiếu như vậy có thể giảm sự quyết tâm cân đối ngân sách của các chính phủ mắc nợ nhiều .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But what are eurobonds , and government bonds on which they are based ( just remember of course that eurobonds do n't actually exist at the moment ) ?</s>
+<s id='vn8'>Nhưng trái phiếu châu Âu , và trái phiếu chính phủ dựa vào đó để phát hành ( dĩ nhiên cần nhớ rằng các trái phiếu châu Âu trên thực tế chưa tồn tại lúc này ) là gì ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What is a government bond ?</s>
+<s id='vn9'>Trái phiếu chính phủ là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Governments borrow money by selling securities known as bonds to investors .</s>
+<s id='vn10'>Các chính phủ mượn tiền bằng cách bán chứng khoán được gọi là trái phiếu cho nhà đầu tư .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In return for the investor 's cash , the government promises to pay a fixed rate of interest over a specific period - say 4% every year for 10 years .</s>
+<s id='vn11'>Để đổi lấy tiền của nhà đầu tư , chính phủ ấy cam kết trả một mức lãi suất cố định suốt một khoảng thời gian nhất định - ví dụ 4% mỗi năm trong 10 năm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>At the end of the period , the investor is repaid the cash they originally paid , cancelling that particular bit of government debt .</s>
+<s id='vn12'>Khi kết thúc khoảng thời gian đó , nhà đầu tư được hoàn trả số tiền họ đã bỏ ra lúc đầu , huỷ khoản nợ chính phủ đặc biệt kia .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Government bonds have traditionally been seen as ultra-safe long-term investments and are held by pension funds , insurance companies and banks , as well as private investors .</s>
+<s id='vn13'>Trái phiếu chính phủ xưa nay được xem là những khoản đầu tư dài hạn vô cùng an toàn và được các quỹ hưu trí , công ty bảo hiểm và ngân hàng , cũng như những nhà đầu tư cá nhân nắm giữ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They are a vital way for countries to raise funds .</s>
+<s id='vn14'>Chúng là một biện pháp cực kỳ quan trọng để các nước huy vốn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>So what is a eurobond ?</s>
+<s id='vn15'>Vậy trái phiếu châu Âu là gì ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A eurobond would operate in exactly the same way as a government bond , except that all 17 member states of the eurozone would collectively guarantee the debt rather than a single government .</s>
+<s id='vn16'>Một trái phiếu châu Âu sẽ hoạt động giống hệt như một trái phiếu chính phủ , ngoại trừ việc tất cả 17 quốc gia thành viên khu vực sử dụng đồng Euro sẽ cùng bảo đảm số nợ đó chứ không phải một chính phủ riêng rẽ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What is a bond market ?</s>
+<s id='vn17'>Thị trường trái phiếu là gì ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Once a bond has been issued - and the government has the cash - the investor can hold it and collect the interest every year until it is repayable .</s>
+<s id='vn18'>Khi một trái phiếu được phát hành xong - và chính phủ đã có tiền - nhà đầu tư có thể nắm giữ và thu lãi mỗi năm đến thời điểm nó có thể hoàn trả .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>But investors can also sell the bond on the financial markets .</s>
+<s id='vn19'>Nhưng các nhà đầu tư cũng có thể bán trái phiếu đó trên thị trường tài chính .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The price of the bond will fluctuate as the outlook for interest rates changes .</s>
+<s id='vn20'>Giá trái phiếu sẽ dao động khi có ý kiến cho rằng lãi suất sẽ thay đổi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>So , for example , if the markets think that interest rates are going to rise sharply , then the value of a bond paying a fixed rate of 4 % for the next 10 years will fall .</s>
+<s id='vn21'>Chẳng hạn , nếu các thị trường tin là lãi suất sẽ tăng mạnh , thì giá trị một trái phiếu trả lãi suất cố định 4% trong 10 năm nữa sẽ giảm xuống .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Bond prices will also fall if investors think that there is a risk of the government that issued the bond not being able to make the annual interest payment or repay it in full on maturity - and these are the fears which have been pushing down Irish bond prices .</s>
+<s id='vn22'>Giá trái phiếu cũng sẽ giảm nếu nhà đầu tư cho rằng có rủi ro là chính phủ phát hành trái phiếu đó không thể thanh toán tiền lãi hàng năm hoặc hoàn trả đầy đủ tiền gốc khi đáo hạn - và đây chính là những lo sợ gần đây đã làm cho giá trái phiếu của Ai-len xuống .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>What is a bond yield ?</s>
+<s id='vn23'>Mức sinh lời của trái phiếu là gì ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This sounds complicated , but is n' t !</s>
+<s id='vn24'>Cái này nghe có vẻ rắc rối , nhưng không phải vậy !</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The yield is the return received by an investor who buys the bond at today 's market price .</s>
+<s id='vn25'>Mức sinh lời là lợi nhuận nhà đầu tư thu về do mua trái phiếu theo giá thị trường ngày hôm nay .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For example , a bond is sold by a government for 100 euros , paying an annual interest rate of 4% , or 4 euros per year .</s>
+<s id='vn26'>Ví dụ , một trái phiếu chính phủ nọ bán với giá 100 euros , trả lãi suất hàng năm 4% , hoặc 4 euros mỗi năm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The yield is 4 % .</s>
+<s id='vn27'>Mức sinh lời là 4% .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But then the market price of the bond falls to 50 euros .</s>
+<s id='vn28'>Nhưng sau đó giá thị trường của trái phiếu giảm xuống còn 50 euros .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The interest payment ( the coupon ) is still 4 euros per year .</s>
+<s id='vn29'>Tiền trả lãi vẫn là 4 euros mỗi năm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>So for a 50 euro investment the investor can get a 4 euro annual payment , which is a return or " yield " of 8 % .</s>
+<s id='vn30'>Như vậy với một khoản đầu tư 50 euros nhà đầu tư có thể thu về số tiền trả hàng năm là 4 euros , có nghĩa là lợi nhuận hoặc " mức sinh lợi " là 8% .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Market commentators usually quote bond yields , rather than prices .</s>
+<s id='vn31'>Các nhà phân tích thị trường thường viện dẫn các mức sinh lợi của trái phiếu hơn là giá cả của chúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The key thing to remember is that bad news drives down bond prices , which pushes up bond yields .</s>
+<s id='vn32'>Điều quan trọng cần nhớ là tin xấu làm giá trái phiếu giảm , mà đưa mức sinh lợi trái phiếu tăng lên .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Why do bond markets matter ?</s>
+<s id='vn33'>Tại sao thị trường trái phiếu có vai trò quan trọng ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Because they determine what it costs a government to borrow .</s>
+<s id='vn34'>Vì chúng quyết định chi phí chính phủ bỏ ra để mượn tiền .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>When a government wants to raise new money it issues new bonds .</s>
+<s id='vn35'>Khi một chính phủ muốn huy động nhiều tiền mới hơn họ phát hành các trái phiếu mới .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>But those bonds have to pay an annual interest rate which is close to the current yield for bonds which it has issued earlier and are now being traded in the market ( see above ) .</s>
+<s id='vn36'>Nhưng những trái phiếu đó phải trả lãi suất hàng năm mà sát với mức sinh lợi hiện tại của trái phiếu đã phát hành sớm hơn và hiện đang được giao dịch trên thị trường ( xem bên trên ) .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So if a crisis of confidence drives up market yields the government has to pay more for new borrowings - possibly a lot more .</s>
+<s id='vn37'>Vì thế nếu một cuộc khủng hoảng lòng tin đẩy mức sinh lợi trên thị trường lên thì chính phủ phải trả nhiều tiền hơn cho các khoản vay nợ mới - có thể nhiều hơn rất nhiều .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>( But remember that it does not affect the cost of paying the annual interest of existing bonds , because the interest rate is fixed for the life of the bond ) .</s>
+<s id='vn38'>( Nhưng nhớ rằng nó không ảnh hưởng đến chi phí trả lãi hàng năm của trái phiếu hiện hành , vì lãi suất cố định suốt thời hạn trái phiếu . ) .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,60 @@
+﻿<doc id='N0494'>
+<head>
+<title>The Gettysburg Address</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Gettysburg Address</s>
+<s id='vn1'>Diễn văn Gettysburg</s>
+</spair>
+<spair id='2'>
+<s id='en2'>President Abraham Lincoln</s>
+<s id='vn2'>Tổng thống Abraham Lincoln</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Four score seven years ago our fathers brought forth on this continent , a new nation , conceived in Liberty , and dedicated to the proposition that all men are created equal .</s>
+<s id='vn3'>Tám mươi bảy năm trước , cha ông ta đã khai sinh ra một quốc gia mới trên lục địa này , được sinh ra trong tự do , và sống hiến dâng cho lý tưởng rằng tất cả mọi người sinh ra đều bình đẳng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Now we are engaged in a great civil war , testing whether that nation , or any nation so conceived and so dedicated , can long endure .</s>
+<s id='vn4'>Giờ đây chúng ta lâm vào một cuộc nội chiến vĩ đại , thử thách xem quốc gia này hay bất cứ quốc gia nào khác được sinh ra và sống hiến dâng như thế có thể tồn tại lâu dài được hay không .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>We are met on a great battle-field of that war .</s>
+<s id='vn5'>Chúng ta gặp nhau trên chiến trường vĩ đại và rộng lớn của cuộc chiến tranh này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>We have come to dedicate a portion of that field , as a final resting place for those who here gave their lives that nation might live .</s>
+<s id='vn6'>Chúng ta đến để hiến dâng một phần đất nhỏ của chiến trường này làm nơi an nghỉ cuối cùng cho những người đã hi sinh mạng sống của mình để tổ quốc có thể tồn tại .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It is altogether fitting and proper that we should do this .</s>
+<s id='vn7'>Đây là điều hoàn toàn phù hợp và chính đáng mà chúng ta nên làm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But , in a larger sense , we can not dedicate , can not consecrate , can not hallow -- this ground .</s>
+<s id='vn8'>Tuy nhiên , theo một nghĩa rộng hơn , chúng ta không thể hiến dâng , không thể tôn phong , không thể thánh hoá mảnh đất này được .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The brave men , living and dead , who struggled here , have consecrated it , far above our poor power to add or detract .</s>
+<s id='vn9'>Chính những con người dũng cảm đã chiến đấu tại đây , dù còn sống hay đã mất , mới là người biến nơi này thành mảnh đất thiêng liêng , việc mà những kẻ có khả năng kém cỏi như chúng ta không thể nào làm được .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The world will little note , or long remember what we say here , but it can never forget what they did here .</s>
+<s id='vn10'>Thế giới sẽ chẳng mấy bận tâm hay nhớ lâu những điều chúng ta nói tại nơi này , nhưng chắc chắn sẽ không thể nào quên được những gì họ đã làm tại nơi đây .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It is for us the living , rather , to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced .</s>
+<s id='vn11'>Chính chúng ta , những người còn sống , mới phải cống hiến sức mình cho công việc dở dang mà những người chiến đấu ở đây đã thực hiện hết sức cao quý .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It is rather for us to be here dedicated to the great task remaining before us - that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion - that we here highly resolve that these dead shall not have died in vain - that this nation , under God , shall have a new birth of freedom - and that government of the people , by the people , for the people , shall not perish from the earth .</s>
+<s id='vn12'>Chính chúng ta mới là người phải cống hiến sức mình cho nhiệm vụ cao cả đang chờ phía trước - rằng từ những người đã hi sinh được vinh danh này , chúng ta hãy tận tuỵ hơn nữa cho sự nghiệp mà họ đã trọn đời cống hiến - rằng chúng ta ở đây sẽ quyết tâm cao độ để sự hi sinh của những liệt sĩ ấy không trở nên vô ích - rằng quốc gia này , dưới sự chở che của Chúa , sẽ khai sinh một nền tự do mới - và rằng chính quyền của dân , do dân , vì dân sẽ không bao giờ lụi tàn trên trái đất này .</s>
+</spair>
+</text>
+</doc>

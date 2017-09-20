@@ -1,0 +1,252 @@
+﻿<doc id='N0734'>
+<head>
+<title>10 Tips to Boost Your Android Phone 's Battery Life</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>10 Tips to Boost Your Android Phone 's Battery Life</s>
+<s id='vn1'>10 Mẹo giúp tăng thời lượng pin trên điện thoại Android</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Today 's Android phones pack huge bright screens and high-end features that suck plenty of power ;</s>
+<s id='vn2'>Điện thoại Android ngày nay được trang bị màn hình lớn , độ sáng cao cùng những tính năng cao cấp , vốn là những yếu tố ngốn pin .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Here 's how to squeeze the most juice out of your battery .</s>
+<s id='vn3'>Sau đây là các cách giúp bạn tối ưu hoá pin của mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Top-notch Android smartphones like the HTC One S and LG Viper 4G LTE are really powerful , but unfortunately , they do n't have endless battery life .</s>
+<s id='vn4'>Những chiếc điện thoại thông minh xuất sắc chạy Android như HTC One S và LG Viper 4G LTE quả thực rất mạnh mẽ , nhưng đáng tiếc , thời lượng pin của chúng lại không phải là vô tận .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In fact , many Android phone users would be happy to make it through a single day .</s>
+<s id='vn5'>Thật vậy , người dùng điện thoại Android đã thấy hài lòng nếu pin điện thoại của họ có thể sử dụng được trọn ngày .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>They hope that a nightly recharge is sufficient .</s>
+<s id='vn6'>Họ hi vọng rằng một lần sạc vào đêm sẽ đủ cho một ngày .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Sadly , it sometimes is n't .</s>
+<s id='vn7'>Đáng tiếc , đôi khi nó lại không được như vậy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A number of factors have conspired to reduce gadget endurance over the past several years .</s>
+<s id='vn8'>Trong vài năm qua , có nhiều yếu tố kết hợp với nhau làm giảm thời lượng pin điện thoại .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Thinner designs with less room for batteries , larger and brighter screens , faster dual-core processors , more software that runs in the background , and power-hungry GPS radios all share responsibility .</s>
+<s id='vn9'>Thiết kế mỏng hơn khiến diện tích chứa pin bị thu hẹp , màn hình lớn hơn và sáng hơn , bộ xử lý hai nhân nhanh hơn , nhiều phần mềm chạy ngầm hơn , và sóng GPS ngốn pin , tất cả đều có phần trách nhiệm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The move from 3G to 4G networks - particularly of the LTE variety - has also taken its toll .</s>
+<s id='vn10'>Việc chuyển từ mạng 3G sang mạng 4G - đặc biệt là chuẩn LTE - cũng góp phần gây hao pin .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But there 's much more to poor battery life results than that .</s>
+<s id='vn11'>Nhưng còn có nhiều yếu tố khác dẫn đến thời lượng pin kém .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Fortunately , there 's plenty you can do to stem the flow of juice from your Android device .</s>
+<s id='vn12'>Thật may là có nhiều cách để bạn ngăn chặn hao tốn pin trên thiết bị Android của mình .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Try these tips to extend your handset 's battery life :</s>
+<s id='vn13'>Hãy thử những mẹo sau để kéo dài thời lượng pin :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>1 . See what 's sucking the most juice</s>
+<s id='vn14'>1 . Xem những ứng dụng ngốn pin nhiều nhất</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Navigate to Settings > About Phone > Battery Use to see an organized breakdown of what 's consuming your phone 's battery .</s>
+<s id='vn15'>Vào Cài đặt > Giới thiệu về điện thoại > Sử dụng pin để xem chi tiết những ứng dụng đang tiêu thụ pin .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Applications and features will display in a descending list of battery hogs .</s>
+<s id='vn16'>Những ứng dụng và tính năng này sẽ được hiển thị trong một danh sách ngốn pin theo trình tự giảm dần .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>If you see an application you barely use or a feature you never use , uninstall the app or turn off the feature .</s>
+<s id='vn17'>Nếu thấy một ứng dụng bạn hầu như không dùng hoặc một tính năng không bao giờ dùng , hãy gỡ bỏ ứng dụng hoặc tắt tính năng đó .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>2 . Turn unnecessary hardware features off</s>
+<s id='vn18'>2 . Tắt những tính năng phần cứng không cần thiết</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It 's great that today 's phones have LTE , GPS , Wi-Fi , and Bluetooth , but do you really need all four activated 24 hours per day ?</s>
+<s id='vn19'>Thật tuyệt khi điện thoại ngày nay được trang bị đầy đủ LTE , GPS , Wi-Fi , và Bluetooth , nhưng có thực sự cần phải kích hoạt cả bốn tính năng này trong suốt 24h/ngày ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Android keeps location-based apps resident in the background , and the constant drain on your battery will become noticeable , fast .</s>
+<s id='vn20'>Android cho phép những ứng dụng dựa trên vị trí tiếp tục chạy ngầm , và tình trạng hao pin liên tục sẽ rất dễ nhận thấy và diễn ra rất nhanh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Some 4G and 4G LTE smartphones let you turn off 4G mode separately .</s>
+<s id='vn21'>Vài điện thoại thông minh 4G và 4G LTE cho phép bạn tắt riêng chế độ 4G .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>It is a good thing , since LTE consumes extra power but has yet to blanket the country .</s>
+<s id='vn22'>Điều này thật tốt vì LTE sẽ tiêu thụ thêm một lượng pin nhưng nó vẫn chưa phủ sóng khắp cả nước .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If your phone has a power control widget , you can use it to quickly turn on/off GPS , Wi-Fi , and Bluetooth , and sometimes 4G as well ( depending on the phone ) .</s>
+<s id='vn23'>Nếu điện thoại của bạn có widget kiểm soát điện năng , bạn có thể sử dụng nó để nhanh chóng bật/tắt GPS , Wi-Fi , và Bluetooth , và đôi khi là 4G ( tùy điện thoại ) .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>3 . Set display brightness to adjust automatically</s>
+<s id='vn24'>3 . Thiết lập độ sáng màn hình sang tự động điều chỉnh</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Turning down the brightness is obvious - you 'll be surprised at how much this one helps alone .</s>
+<s id='vn25'>Giảm độ sáng là việc ai cũng biết - bạn sẽ ngạc nhiên vì chỉ việc này thôi cũng đã giúp ích rất nhiều .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>But the automatic adjustment setting is less well known .</s>
+<s id='vn26'>Nhưng thiết lập tự động điều chỉnh lại ít được biết đến hơn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Activating it means the OS will automatically dim its display in darker environments , including seemingly well-lit indoor rooms .</s>
+<s id='vn27'>Kích hoạt nó đồng nghĩa với việc hệ điều hành sẽ tự động làm mờ màn hình trong môi trường tối , và cả khi trong phòng có vẻ đủ sáng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>4 . Dump unnecessary home screen widgets and live wallpaper</s>
+<s id='vn28'>4 . Gỡ bỏ những widget không cần thiết trên màn hình chủ và không dùng hình nền động</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Just because they 're sitting on the home screen , seemingly inactive , does n't mean they 're not consuming power .</s>
+<s id='vn29'>Đâu phải vì chúng ở yên trên màn hình chủ , có vẻ như không hoạt động , mà coi như chúng không tiêu hao pin .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>That goes for widgets that poll status updates in the background , as well as ones that just sit there but look pretty and animated - not to mention animated live wallpaper .</s>
+<s id='vn30'>Đây là trường hợp của những widget chạy ngầm để cập nhật trạng thái , cũng như những widget chỉ ở yên đó nhưng lại trông rất đẹp mắt và sinh động - đó là chưa kể đến hình nền động .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>( But do n't dump everything , as part of what makes Android great are the home screen customizations ; just remove the ones that you do n't use . )</s>
+<s id='vn31'>( Nhưng đừng gỡ bỏ mọi thứ , bởi một trong những yếu tố khiến Android trở nên tuyệt vời là khả năng tuỳ chỉnh màn hình chủ ; hãy chỉ gỡ những thứ bạn không sử dụng . )</s>
+</spair>
+<spair id='32'>
+<s id='en32'>5 . Reduce email , Twitter , and Facebook polling</s>
+<s id='vn32'>5 . Giảm tần suất cập nhật email , Twitter , và Facebook</s>
+</spair>
+<spair id='33'>
+<s id='en33'>This is a big one .</s>
+<s id='vn33'>Đây là vấn đề quan trọng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Even handset manufacturers like Motorola do n't necessarily get this , and leave everything enabled by default .</s>
+<s id='vn34'>Thậm chí những nhà sản xuất điện thoại như Motorola cũng không nhất thiết đã nắm bắt được vấn đề này , và họ cứ để mọi thứ được kích hoạt theo mặc định .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Set your various messaging apps to " manual " for the polling or refresh fequency , and you 'll instantly extend your device 's battery life by a significant amount .</s>
+<s id='vn35'>Thiết lập những ứng dụng nhắn tin khác nhau sang chế độ cập nhật thủ công , và bạn đã ngay tức thì gia tăng thời lượng pin điện thoại một cách đáng kể .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Once you see what a difference that makes , try re-enabling just the most important ones , and possibly reducing their polling ( or " checking , " as opposed to push , which happens only when there are new messages ) frequency in the process .</s>
+<s id='vn36'>Một khi bạn thấy được sự khác biệt , hãy thử kích hoạt lại những ứng dụng quan trọng nhất , và có thể là giảm tần suất cập nhật ( hoặc " kiểm tra mới " , khác với tải về máy chỉ xảy ra khi có tin nhắn mới ) .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>HTC just added something called SmartSync to its new One S .</s>
+<s id='vn37'>Mới đây HTC đã bổ sung tính năng có tên là SmartSync cho điện thoại One S .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>This function targets enhancing battery life specifically when syncing accounts over the air in the background .</s>
+<s id='vn38'>Tính năng này nhắm đến việc tăng thời lượng pin , cụ thể là khi đồng bộ ngầm tài khoản qua mạng không dây .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>6 . Disable Adobe Flash</s>
+<s id='vn39'>6 . Adobe Flash</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Being able to run Adobe Flash in Web pages is great , but it consumes battery life - which is a major part of the reason Adobe has decided to discontinue Flash development for all mobile devices .</s>
+<s id='vn40'>Có thể chạy Adobe Flash trên trang web là một điều tuyệt vời , nhưng tính năng này tiêu hao thời lượng pin - đây là phần chính của lý do mà Adobe quyết định ngừng phát triển Flash cho mọi thiết bị di động .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If you have Adobe Flash installed on your smartphone , by default it 's set to load every piece of Flash content on every Web page .</s>
+<s id='vn41'>Nếu bạn có cài đặt Adobe Flash trên điện thoại , thì mặc định nó được thiết lập tải toàn bộ nội dung Flash trên tất cả các trang web .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It 's possible to change this so the browser only loads Flash when instructed to : Open the browser , hit the Menu key , go to Settings > Enable Plug-ins and set it to " On Demand " .</s>
+<s id='vn42'>Bạn có thể thay đổi này để trình duyệt chỉ tải Flash khi bạn cần : Mở trình duyệt lên , chọn Menu > Cài đặt > Kích hoạt plug-in và thiết lập khi cần .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>7 . Update your apps</s>
+<s id='vn43'>7 . Cập nhật ứng dụng</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Applications often get updated to use less battery power , so you should make sure your apps are up to date .</s>
+<s id='vn44'>Ứng dụng thường được cập nhật phiên bản mới để tiêu thụ ít điện năng hơn , vì vậy bạn nên đảm bảo rằng ứng dụng của bạn đã được cập nhật .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Even if you configured the phone for automatic up dates , some apps still require that you manually install up dates .</s>
+<s id='vn45'>Cho dù bạn đã cấu hình điện thoại ở chế độ tự động cập nhật , một số ứng dụng vẫn đòi hỏi bạn cài bản cập nhật thủ công .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Check for app updates in Google Play by hitting the menu key and going to My Apps .</s>
+<s id='vn46'>Kiểm tra cập nhật mới cho ứng dụng trên Google Play bằng cách chọn phím chức năng Menu > My Apps ) .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>8 . Reduce RSS feed update frequency</s>
+<s id='vn47'>8 . Giảm tần số cập nhật RSS</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Staying current with the news is great , but why update feeds constantly in the background ?</s>
+<s id='vn48'>Luôn nắm bắt tin tức thì thật là tuyệt , nhưng tại sao phải liên tục cập nhật feed ngầm ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Plenty of third-party apps set their defaults to check for updates at a set period of time .</s>
+<s id='vn49'>Nhiều ứng dụng bên thứ ba được thiết lập mặc định kiểm tra cập nhật mới vào một thời điểm xác định .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Others may offer a choice , but give no indication to the user that battery life will suffer as a result .</s>
+<s id='vn50'>Một số khác có thể đưa ra lựa chọn , nhưng không cho người dùng biết rằng thời lượng pin sẽ vì vậy mà giảm sút .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>9 . Keep an eye on signal strength</s>
+<s id='vn51'>9 . Để ý đến cường độ sóng</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If you 're in an area with low signal strength , the phone will work harder to latch onto a strong-enough cellular signal .</s>
+<s id='vn52'>Nếu bạn ở trong khu vực có cường độ sóng yếu , điện thoại sẽ hoạt động với công suất cao hơn bắt được một mức sóng đủ mạnh .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>This has an adverse effect on battery life .</s>
+<s id='vn53'>Điều này làm tốn pin .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>There 's not much you can do about this one , but keep in mind that this could be the culprit behind a seemingly weak battery .</s>
+<s id='vn54'>Bạn chẳng thể cải thiện gì nhiều về vấn đề này , nhưng bạn hãy nhớ rằng đây có thể là thủ phạm gây pin yếu .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>10 . Check the reviews</s>
+<s id='vn55'>10 . Xem qua các bài đánh giá</s>
+</spair>
+<spair id='56'>
+<s id='en56'>We conduct battery life tests of every single phone we review .</s>
+<s id='vn56'>Chúng tôi tiến hành kiểm tra thời lượng pin của từng mẫu điện thoại mà chúng tôi đánh giá .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Unsurprisingly , the results vary widely between handsets , even on the same network .</s>
+<s id='vn57'>Tất nhiên , kết quả sẽ rất khác nhau giữa các mẫu điện thoại , thậm chí là trên cùng một mạng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>When choosing a phone , make sure that real world talk time is sufficient .</s>
+<s id='vn58'>Khi chọn mua điện thoại , bạn hãy chắc chắn rằng thời gian thoại thực tế sẽ đủ cho bạn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>You ca n't go by what the manufacturer says ; we 've seen variances on the order of several hours of usage in both directions .</s>
+<s id='vn59'>Bạn không thể dựa vào thông tin từ nhà sản xuất ; chúng tôi nhận thấy có sự chênh lệch khoảng vài giờ sử dụng theo cả hai hướng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>One standout in particular , the Motorola Droid Razr Maxx , nearly tripled that of most other handsets we 've tested .</s>
+<s id='vn60'>Riêng có một mẫu vượt trội là Motorola Droid Razr Maxx lâu hơn gần gấp ba lần so với hầu hết những mẫu điện thoại khác mà chúng tôi đã thử nghiệm .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,188 @@
+﻿<doc id='N0333'>
+<head>
+<title>How Intel 's supercomputer almost used HP chips</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How Intel 's supercomputer almost used HP chips</s>
+<s id='vn1'>Làm thế nào mà hầu hết siêu máy tính Intel sử dụng chip HP</s>
+</spair>
+<spair id='2'>
+<s id='en2'>SAN FRANCISCO - More than a decade ago , Intel ran into an issue trying to deliver what was to be the world 's top-ranked supercomputer : it looked possible that its new Pentium Pro processors at the heart of the system might not arrive in time .</s>
+<s id='vn2'>SAN FRANCISCO - Hơn một thập kỷ trước , Intel đã gặp phải vấn đề về việc cố gắng đưa ra một thứ mà sẽ trở thành một siêu máy tính hàng đầu thế giới : Nó như thể là các bộ vi xử lí Pentium Pro mới vào trung tâm của hệ thống nhưng có lẽ không đủ thời gian .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>As a result , the chipmaker made an unusual move by paying Hewlett-Packard $ 100,000 to evaluate building the system using its PA-RISC processors in the machine .</s>
+<s id='vn3'>Kết quả là nhà sản xuất chip này đã tạo ra một bước đi khác thường bằng cách trả cho Hewlett-Packard 100,000 $ để đánh giá xây dựng hệ thống sử dụng các bộ xử lí PA-RISC của hãng trong các máy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Paul Prince said , now Dell 's chief technology officer for enterprise products but then Intel 's system architect for the supercomputer .</s>
+<s id='vn4'>Ông Paul Prince , hiện là Giám đốc kỹ thuật của hãng Dell bên mảng các sản phẩm doanh nghiệp nhưng hồi ấy cũng từng là kiến trúc sư hệ thống của Intel cho siêu máy tính này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Called ASCI Red and housed at Sandia National Laboratories , it was designed to be the first supercomputer to cross the threshold of a trillion math calculations per second .</s>
+<s id='vn5'>Được gọi là ASCI Red và được giữ tại Phòng thí nghiệm Quốc gia Sandia , nó được thiết kế để trở thành siêu máy tính đầu tiên vượt qua ngưỡng một nghìn tỷ phép tính mỗi giây</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Intel ultimately met that 1-teraflops performance deadline using the Intel chips , HP dropped its PA-RISC line in favor of Intel 's Itanium processor line , and the Pentium Pro paved the way for Intel 's present powerhouse status in the server market .</s>
+<s id='vn6'>Cuối cùng Intel cũng thực hiện được mức 1.000 tỷ phép tính mỗi giây bằng cách sử dụng chip Intel , HP đã từ bỏ dòng chip PA-RISC của hãng để ủng hộ cho dòng vi xử lí Itanium của Intel và Pentium Pro đã dọn đường cho Intel trở thành ngôi vô dịch trong thị trường máy chủ thời ấy .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But the supercomputing division within Intel was phased out , and ASCI Red was its last job , Prince said in an interview here on the eve of the Intel Developer Forum .</s>
+<s id='vn7'>Nhưng bộ phận bên mảng siêu máy tính bên trong Intel đã rút lui dần dần và ASCI Red là công việc cuối cùng của họ , ông Prince cho biết trong một cuộc phỏng vấn ngay bên lề của Diễn đàn Nhà phát triển Intel .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The division had enough independence that Intel could have used another company 's chips , but doubtless eyebrows would have been raised had a rival processor design showed up in such a high-profile machine that ultimately used more than 9,000 processors .</s>
+<s id='vn8'>Các bộ phận đã đủ sức hoạt động độc lập để Intel có thể sử dụng các chip của một hãng khác , nhưng chắc chắn không còn nghi ngờ gì trong nháy mắt sẽ có một bản thiết kế vi xử lí của đối thủ cạnh tranh xuất hiện trong một cỗ máy qui mô lớn được dùng hơn 9000 vi xử lí .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It wasn't the only hurdle the Intel group overcame in the design and construction of ASCI Red , which used ordinary processors but plenty of one-off technology including a customized operating system and Intel 's own router chips to send data from through the system .</s>
+<s id='vn9'>Nó không phải là rào cản duy nhất mà tập đoàn Intel đã chiến thắng trong bản thiết kế và xây dựng ASCI Red , nó sử dụng các vi xử lí thông thường nhưng có nhiều công nghệ chỉ sử dụng một lần bao gồm một hệ điều hành tuỳ biến và các chip định tuyến riêng của Intel để gửi dữ liệu qua hệ thống .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The first version of the router chip had a data integrity problem , and Intel didn't have time to fully validate a fixed version even though the engineers knew what caused the problem , Prince said .</s>
+<s id='vn10'>Ông Prince đã cho biết , phiên bản đầu tiên của chip định tuyến có một vấn đề về tính toàn vẹn dữ liệu , và Intel không có thời gian phê chuẩn hoàn toàn phiên bản đã sửa lỗi mặc dù các kỹ sư đã biết nguyên nhân của vấn đề này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>However , in a presentation titled " Statistics for the Common Man , " Prince convinced Intel management that a variety of worst-case scenario tests could reduce the validation time from more than a dozen weeks to about four to six weeks .</s>
+<s id='vn11'>Tuy nhiên , trong bài thuyết trình mang tên " Statistics for the Common Man " , Prince tin chắc ban lãnh đạo của Intel sẽ đưa ra một loạt các kiểm nghiệm kịch bản trong trường hợp xấu nhất có thể giảm thiểu thời gian phê chuẩn từ hơn 12 tuần thành khoảng từ 4 đến 6 tuần .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>He prevailed .</s>
+<s id='vn12'>Ông ấy đã thuyết phục .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" It worked , and they didn't fire me , " Prince said .</s>
+<s id='vn13'>Ông Prince cho biết " Nó đã hoạt động và họ đã không chỉ trích tôi " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>ASCI Red , developed for the Energy Department 's Accelerated Strategic Computing Initiative to simulate nuclear weapons physics in a computer rather than with real-world tests .</s>
+<s id='vn14'>ASCI Red được phát triển cho Accelerated Strategic Computing Initiative của Bộ năng lượng để mô phỏng vật lý vũ khí hạt nhân trong một máy tính thay vì với các thử nghiệm thực tế .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Leading the Top500 list of supercomputers from June 1997 until November 2000 , when IBM 's ASCI White took the top spot .</s>
+<s id='vn15'>Dẫn dầu danh sách trong Top500 siêu máy tính hàng đầu từ tháng 6 năm 1997 cho tới tháng 11 năm 2000 , khi ASCI White của IBM cướp mất vị trí dẫn đầu này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Meanwhile , in today 's world</s>
+<s id='vn16'>Trong khi đó , trong thế giới ngày nay</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Naturally Prince now is focused on the best directions for getting Dell servers , storage , and networking gear into customers " hands .</s>
+<s id='vn17'>Tất nhiên hiện tại ông Prince đang tập trung vào hướng tốt nhất cho việc đưa các máy chủ Dell , kho lưu trữ , và thiết bị mạng đến tay khách hàng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And though he 's comfortable with nitty-gritty chip details , he said customers these days are gravitating toward higher-level discussions .</s>
+<s id='vn18'>Và mặc dù ông ta yên tâm với các chi tiết chip cốt lõi này , ông ta cho biết khách hàng ngày nay đang bị hút theo hướng các cuộc tranh luận ở mức cao hơn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" At this point nobody 's keeping up with the gigahertz rating of chips , " he said , no doubt to the delight of Intel and AMD , who ran into physical limits on clock speed and focused their attention on multiple processing cores and getting more work done in each tick of a chip 's clock .</s>
+<s id='vn19'>" Tại thời điểm này không ai đuổi kịp tốc độ chip ở mức gigahertz " ông ta cho biết không còn nghi ngờ gì nữa Intel và AMD đang chạy đua vào trong ranh giới vật lý trên tốc độ xung nhịp và đã tập trung sự quan tâm của mình vào đa lõi xử lí và làm nhiều công việc hơn trong mỗi chu kỳ xung nhịp chip .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Instead , he said , customers are asking , " How does this fit into my virtual environment ?</s>
+<s id='vn20'>Thay vào đó , ông ta cho biết những khách hàng đang hỏi " Làm cách nào để điều này phù hợp với môi trường ảo của tôi ?</s>
+</spair>
+<spair id='21'>
+<s id='en21'>What 's my management look like ? "</s>
+<s id='vn21'>Sự quản lý của tôi giống như cái gì ? "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Thus , Dell is leading a lot of marketing with virtualization , which lets a single physical computer house many independent operating systems called virtual machines .</s>
+<s id='vn22'>Vì vậy , Dell đang dẫn đầu trong nhiều thị trường ảo hoá , nó cho phép một máy tính vật lý chứa nhiều hệ điều hành độc lập với nhau được gọi là các máy ảo .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Dell had expected Microsoft and various Linux players to challenge virtualization expert and EMC subsidiary VMware , but it 's withstood the competition so far , he said .</s>
+<s id='vn23'>Ông ta phát biểu Dell mong đợi Microsoft và Linux thử thách các chuyên gia ảo hoá và Vmware công ty con của EMC , nhưng nó đã vẫn trụ vững trước sự cạnh tranh này cho đến nay .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Dell itself has about 6,000 VMware-hosted virtual machines running on about 620 real machines in its own computing infrastructure , but that 's only a small fraction of the 12,000 physical servers total the company has .</s>
+<s id='vn24'>Dell có khoảng 6,000 máy ảo lưu trữ VMware đang chạy trên khoảng 620 máy thực trong cơ sở hạ tầng điện toán riêng của mình , nhưng đó chỉ là một phần nhỏ của tổng 12,000 máy chủ vật lý mà công ty có .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Some physical machines house as many as 20 virtual machines , but for business-critical tasks , Dell puts 10 virtual machines on a physical server .</s>
+<s id='vn25'>Một số máy vật lý chứa tới 20 máy ảo nhưng đối với các nhiệm vụ quan trọng của doanh nghiệp , Dell đặt 10 máy ảo trên một máy chủ vật lý .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In Dell 's analysis , using virtual machines saved $ 60 million in capital equipment expenses , he said .</s>
+<s id='vn26'>Ông ta nói trong bản phân tích của Dell , việc sử dụng các máy ảo tiết kiệm được 60 triệu USD trong chi phí đầu tư cố định .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>But virtualization poses problems , too--the virtual equivalent of server sprawl , in which new servers are added to a company 's infrastructure faster than administrators can keep up .</s>
+<s id='vn27'>Nhưng sự ảo hoá cũng có những vấn đề – thành phần ảo hoá tương đương của các máy chủ hoạt động kém , ở đó các máy chủ mới được bổ sung vào cơ sở hạ tầng của hãng nhanh hơn các nhà quản trị có thể duy trì nó .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" You can deploy new servers in hours instead of weeks .</s>
+<s id='vn28'>" Bạn có thể triển khai các máy chủ mới trong vài giờ thay vì nhiều tuần .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The downside is you crank 'em out , so you have this proliferation of resources , and virtual machines don't come with handy tracking technology .</s>
+<s id='vn29'>Điều không thuận lợi là bạn lắp chúng ở ngoài vì vậy bạn sẽ phát sinh thêm nhiều tài nguyên , " và các máy ảo không có công nghệ theo dõi thuận tiện . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The reason it 's hard to get rid of them is it 's hard to track them .</s>
+<s id='vn30'>Lý do là rất khó để loại bỏ chúng vì chúng khó theo dõi .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>There 's no asset tag .</s>
+<s id='vn31'>Không có thẻ tài sản .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There 's no depreciation on a virtual server . "</s>
+<s id='vn32'>Không có khấu hao trên một máy chủ ảo . "</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Hardware still matters</s>
+<s id='vn33'>Vẫn còn những vấn đề về phần cứng</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Though sales have moved to a higher level , hardware details still matter , Prince said .</s>
+<s id='vn34'>Prince cho biết mặc dù doanh thu đã phát triển ở mức cao hơn , các chi tiết phần cứng vẫn có vấn đề .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>One he 's most excited about is solid-state drives , which use flash memory rather than the spinning platters of conventional hard drives .</s>
+<s id='vn35'>Điều ông ấy hứng thú nhất là các ổ đĩa ở thể rắn , nó sử dụng bộ nhớ flash thay vì các đĩa tròn của các ổ đĩa cứng thông thường .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Many SSDs today directly replace hard drives , using the same size and SATA or SAS communication protocols to connect to a machine in a way that makes them interchangeable with conventional hard drives .</s>
+<s id='vn36'>Ngày nay nhiều ổ đĩa SSD thay thế hoàn toàn các ổ đĩa cứng , sử dụng cùng kích cỡ và kiểu kết nối SATA hoặc các giao thức truyền thông SAS để kết nối với máy bằng cách mà làm cho chúng có thể thay thế cho các ổ đĩa cứng thông thường .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>But Prince is more interested in a technology that bypasses that older hard drive technology in favor of a more direct connection over a computer 's PCI Express subsystem .</s>
+<s id='vn37'>Nhưng ông Prince quan tâm nhiều hơn trong công nghệ mà nó bỏ qua công nghệ ổ đĩa cứng cũ hơn để theo một kết nối trực tiếp qua một hệ thống con là PCI Express của máy tính .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Companies including Fusion-io and Texas Memory Systems supply the technology , and Prince is among those in the server realm who like the idea .</s>
+<s id='vn38'>Những hãng bao gồm Fusion-io và Texas Memory Systems cung cấp công nghệ , và ông Prince là một trong những người ở lĩnh vực máy chủ thích ý tưởng này . "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" You can get a massive performance upgrade in terms of IOPS, " or input-output operations per second .</s>
+<s id='vn39'>Bạn có thể nhận được một sự nâng cấp về hiệu năng qui mô lớn trong phạm vi IOPS hay input-output operations per second .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>He 's also a believer in a technology called wear leveling , which moves data around the physical storage device so no elements don't get overused and therefore effectively worn out .</s>
+<s id='vn40'>Ông ta cũng là một người tin tưởng vào công nghệ wear leveling mà nó chuyển dữ liệu xung quanh thiết bị lưu trữ vật lí để không có các phần tử nào được dùng quá nhiều và vì vậy có thể chống hao mòn .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" The life has to be better than enterprise-class drives , " he said .</s>
+<s id='vn41'>Ông cho biết " Tuổi thọ có thể tốt hơn nhiều so với các ổ đĩa doanh nghiệp "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Prince also predicted the eventual triumph of Ethernet over more special-purpose high-speed network fabrics , Fibre Channel and InfiniBand .</s>
+<s id='vn42'>Ông Prince cũng dự đoán chiến thắng chung cuộc của mạng Ethetnet qua nhiều cấu trúc mạng tốc độ cao chuyên dụng , Fibre Channel và InfiniBand .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Fibre Channel will reach 16 gigabits per second , probably won't move beyond 40 gigabits per second , but Ethernet is headed for 40 and 100 gigabits per second today with 400 gigabits and even 1 terabit per second on the horizon .</s>
+<s id='vn43'>Fibre Channel sẽ đạt 16 gigabit mỗi giây , có lẽ sẽ không đi vượt quá 40 gigabit mỗi giây nhưng mạng Ethernet ngày nay đạt tới 40 và 100 gigabit mỗi giây với tầm nhìn sắp tới có thể lên 400 gigabit và thậm chí 1 terabit mỗi giây .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" Everybody is converging on Ethernet as the high-performance fabric of the future , " Prince said .</s>
+<s id='vn44'>Ông Prince cho biết " Tất cả mọi người đang cùng hướng về mạng Ethernet như một cấu trúc mạng hiệu năng cao trong tương lai "</s>
+</spair>
+</text>
+</doc>

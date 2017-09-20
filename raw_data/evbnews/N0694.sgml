@@ -1,0 +1,128 @@
+﻿<doc id='N0694'>
+<head>
+<title>Would a Bigger iPhone Cause Developers Headaches ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Would a Bigger iPhone Cause Developers Headaches ?</s>
+<s id='vn1'>Liệu iPhone màn hình lớn hơn có làm đau đầu lập trình viên ứng dụng ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Wall Street Journal and Bloomberg News reported separately last week that Apple will introduce a screen of " at least 4 inches diagonal " or " bigger than 3.5 inches, " the current screen size .</s>
+<s id='vn2'>Nhật báo phố Wall và hãng tin Bloomberg đưa tin hồi tuần trước rằng Apple sẽ giới thiệu màn hình " có đường chéo ít nhất 4 inch " hoặc " lớn hơn 3,5 inch " , kích thước màn hình hiện tại .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>What 's not clear is how Apple would go about this and satisfy both users - who may enjoy a larger screen but also want to keep the Retina display quality - and its army of third-party developers - who do n't want to have to come up with a wide variety of different screen sizes .</s>
+<s id='vn3'>Không rõ là Apple sẽ làm thế nào để xử lý việc này và làm hài lòng cả người dùng - những người có thể sẽ thích màn hình lớn hơn nhưng cũng muốn giữ lại chất lượng của màn hình retina - lẫn đội ngũ phát triển ứng dụng bên thứ ba - nhũng người không muốn phải nghĩ ra nhiều kích thước màn hình khác nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>There are several theories as to how Apple could build a larger-screen iPhone , including scaling up the screen and dropping the pixel density a bit ; changing the aspect ratio , increasing the screen height and keeping the pixel density the same ; increasing the width and height ; or going bigger than 4 inches and using a standard 16:9 resolution .</s>
+<s id='vn4'>Có vài giả thuyết về phương pháp mà Apple có thể chế tạo iPhone có màn hình lớn hơn , như tăng kích thước màn hình và giảm mật độ điểm ảnh đi một chút ; thay đổi tỷ lệ hiển thị ; tăng chiều cao màn hình và giữ nguyên mật độ điểm ảnh ; tăng chiều rộng và chiều cao ; hoặc tăng kích thước lên trên 4 inch và sử dụng độ phân giải chuẩn 16:9 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But what do the developers who will have to deal with the implications of a larger screen think ?</s>
+<s id='vn5'>Nhưng các nhà phát triển ứng dụng sẽ phải giải quyết vấn đề kéo giãn màn hình nghĩ gì ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>I talked to a few iOS app makers , and many of them interestingly are not convinced Apple actually " pull an Android , " and as one developer put it , it would be more complicated to design for a bunch of different screen sizes ( iPhone 3GS , iPhone 4/4S , and something new ) .</s>
+<s id='vn6'>Tôi trò chuyện với một vài người viết ứng dụng iOS , và điều thú vị là nhiều người trong số họ không tin là Apple sẽ thực sự " làm theo cách của Android Một lập trình viên cho biết mọi chuyện sẽ phức tạp hơn khi phải thiết kế cho nhiều kích thước màn hình khác nhau ( iPhone 3GS , iPhone 4/4S , và iPhone mới ) .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Sam Shank , the chief executive officer of Hotel Tonight , a hotel-finding app for both iOS and Android , said if Apple does change the screen size , he believes the phone itself would become slightly wider but not much taller .</s>
+<s id='vn7'>Sam Shank , Giám đốc điều hành của Tonight , hãng phát triển ứng dụng tìm kiếm khách sạn cho iOS và Android , cho rằng nếu Apple thật sự thay đổi kích thước màn hình , ông tin rằng bản thân chiếc điện thoại sẽ rộng hơn một chút nhưng chiều dài sẽ không tăng nhiều .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But he does n't believe Apple would mess with either the aspect ratio or the pixel density .</s>
+<s id='vn8'>Nhưng ông không nghĩ rằng Apple sẽ thay đổi tỷ lệ hiện thị hoặc mật độ điểm ảnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Changing the aspect ratio would be a lot of work for development teams .</s>
+<s id='vn9'>" Thay đổi tỷ lệ hiện thị sẽ gây tốn nhiều công sức của đội ngũ phát triển .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>We found that maybe 50 percent of iOS development is in layout , " he said in an interview on Friday .</s>
+<s id='vn10'>Chúng tôi nhận thấy có thể 50% quá trình phát triển iOS dành cho việc tạo bố cục " , ông cho biết trong một cuộc phỏng vấn vào thứ Sáu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" If we had to do two versions of that - the current aspect ratio and a new aspect ratio - and had to lay it out again , that would add considerably to our development time . "</s>
+<s id='vn11'>" Nếu chúng tôi phải làm hai phiên bản – tỷ lệ hiển thị hiện có và tỷ lệ hiển thị mới - và phải tạo lại bố cục , điều này sẽ tăng thêm đáng kể thời gian phát triển ứng dụng của chúng tôi " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Lenny Rachitsky , who heads Localmind , a social discovery app for iOS and Android , said he does n't see Apple creating fragmentation problems for its developers .</s>
+<s id='vn12'>Lenny Rachitsky , giám đốc Localmind , hãng phát triển ứng dụng khám phá mạng xã hội cho iOS và Android , cho biết ông không nhận thấy Apple đang tạo ra sự phân mảnh cho các nhà phát triển ứng dụng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" We have n't put a lot of thought into it yet , partly because we assume Apple is n't going to pull an Android and fragment the device market unnecessarily .</s>
+<s id='vn13'>" Chúng tôi vẫn chưa nghĩ nhiều về chuyện này , một phần vì chúng tôi cho rằng Apple sẽ không làm giống như cách của Android và làm phân mảnh thị trường iPhone một cách không cần thiết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>If they do , they must have a really good reason to do it , and we 're confident they 'll provide tools to make it easy to mig rate .</s>
+<s id='vn14'>Nếu họ làm vậy , họ phải có lý do thực sự chính đáng , và chúng tôi tin chắc họ sẽ cung cấp công cụ để việc chuyển đổi trở nên dễ dàng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The last thing they want to do is put more friction in front of developers . "</s>
+<s id='vn15'>Điều họ không muốn làm nhất là gây thêm căng thẳng cho lập trình viên " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Localmind 's lead iOS developer , Nelson Gauthier said , " Apple often changes the requirements for iOS applications , but they usually give developers fair warning and decent tools to accommodate new devices .</s>
+<s id='vn16'>Lập trình viên iOS hàng đầu của Localmind , Nelson Gauthier , cho biết , " Apple thường thay đổi yêu cầu đối với các ứng dụng iOS , nhưng thông thường Apple sẽ ra thông báo và cung cấp công cụ cho các nhà phát triển để họ tích hợp thiết bị mới .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The transition to Retina display and iPad were both relatively straightforward . "</s>
+<s id='vn17'>Việc chuyển tiếp lên màn hình Retina và iPad đều tương đối đơn giản " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Gauthier continued in an email :</s>
+<s id='vn18'>Gauthier cho biết thêm trong email :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A bigger display could mean a few things .</s>
+<s id='vn19'>Màn hình lớn hơn có thể hiểu theo vài cách .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It could mean the display has a higher resolution while retaining the same aspect ratio .</s>
+<s id='vn20'>Đó có thể là màn hình có độ phân giải cao hơn và tỷ lệ hiển thị không đổi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The new display might be a different shape .</s>
+<s id='vn21'>Màn hình mới có thể có hình dạng khác .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Finally , the display might simply grow while retaining the old resolution .</s>
+<s id='vn22'>Cuối cùng , màn hình có thể lớn hơn và giữ lại độ phân giải cũ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But changing the resolution or aspect of the display need not have an effect on user interface elements , just their layout .</s>
+<s id='vn23'>Nhưng việc thay đổi độ phân giải hoặc tỉ lệ hiển thị của màn hình không nhất thiết sẽ ảnh hưởng đến giao diện người dùng , mà chỉ ảnh hưởng đến bố cục mà thôi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Bars and controls could stay the same size while content areas expand to fill the additional screen real estate .</s>
+<s id='vn24'>Các thanh thông báo và nút điều khiển có thể giữ nguyên kích thước trong khi phần nội dung sẽ mở rộng ra để lấp đầy diện tích màn hình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Apple might help developers transition between form factors by providing a system that would automatically adjust layouts for new resolutions and display aspects .</s>
+<s id='vn25'>Có thể Apple sẽ giúp các nhà phát triển ứng dụng chuyển đổi giữa các kiểu dáng thiết bị bằng cách cung cấp hệ thống tự động điều chỉnh bố cục cho độ phân giải và tỉ lệ màn hình mới .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Last year at WWDC ( Worldwide Developers Conference ) , they revealed a component for Mac OS X called Cocoa Auto-Layout that allows developers to define layouts .</s>
+<s id='vn26'>Năm ngoái tại WWDC ( Hội thảo các nhà phát triển toàn cầu ) , họ công bố công cụ cho Mac OS X có tên là Cocoa Auto-Layout cho phép các nhà phát triển xác định bố cục .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>A system like this could also work on iOS.</s>
+<s id='vn27'>Hệ thống như vậy cũng có thể họat động trên iOS .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Massive Damage , which makes location-based iOS games , is also betting against major changes for developers .</s>
+<s id='vn28'>Massive Damage , hãng phát triển game dựa trên vị trí cho iOS , cũng chắc rằng sẽ không có thay đổi lớn nào đối với các nhà phát triển ứng dụng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>As CEO Ken Soto points out , there are already two resolutions many developers have to worry about for iPhone games : standard resolution for older iPhones , and Retina for the iPhone 4 and iPhone 4S .</s>
+<s id='vn29'>Như Giám đốc Điều hành của công ty này , ông Ken Soto , chỉ ra , đã có hai độ phân giải làm nhiều phát triển phải lo ngại khi viết game cho iPhone : độ phân giải chuẩn cho iPhone thế hệ cũ , và Retina cho iPhone 4 và iPhone 4S .</s>
+</spair>
+</text>
+</doc>

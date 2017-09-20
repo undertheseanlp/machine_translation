@@ -1,0 +1,204 @@
+﻿<doc id='N0937'>
+<head>
+<title>Why do magazines look so bad on the new iPad ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Why do magazines look so bad on the new iPad ?</s>
+<s id='vn1'>Vì sao tạp chí trông thật tệ trên iPad mới ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>( Mashable ) -- As with any high-profile product release , Apple 's new iPad device has been peppered with complaints since reaching consumers ' hands on March 16 .</s>
+<s id='vn2'>( Mashable ) -- Như bất kì lần ra mắt sản phẩm nào nhận được sự quan tâm của giới truyền thông , iPad mới của Apple đã nhận được rất nhiều lời phàn nàn kể từ khi tới tay người tiêu dùng vào hôm 16/3 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Among them : that magazines look terrible on the iPad 3 's high-resolution display .</s>
+<s id='vn3'>Trong số đó là việc tạp chí trông thật tệ trên màn hình độ phân giải cao của iPad 3 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The complaints were first brought to light by Tumblr blogger Jamie Billett .</s>
+<s id='vn4'>Lời phàn nàn bắt đầu từ blogger trang Tumblr , anh Jamie Billett .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He pointed out that in the New Yorker 's iPad app , the text on some pages is rendered as HTML , and the text on other pages is rendered as an image ( .png ) file .</s>
+<s id='vn5'>Anh chỉ ra rằng trong ứng dụng iPad của tờ New Yorker , chữ trên một số trang được xuất dưới dạng HTML , còn trên các trang thì dưới dạng tập tin ảnh ( .png )</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The latter pages now appear " badly aliased " -- i.e . conspicuously pixelated -- throughout the app because the images have n't been formatted to accommodate the iPad 3 2048x1536-pixel resolution , he complains .</s>
+<s id='vn6'>Chữ trên các trang xuất dưới dạng ảnh bị răng cưa trầm trọng -- nghĩa là pixelated thấy rõ -- trong toàn bộ ứng dụng vì hình ảnh chưa được định dạng để thích ứng với độ phân giải 2048x1536 của iPad 3 , anh phàn nàn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>( The iPad 2 , by comparison , has a resolution of 1024x768 pixels . )</s>
+<s id='vn7'>( Để so sánh , IPad 2 có độ phân giải 1024x768 . )</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The New Yorker and other Conde Nast title have taken the heat for looking poor under the new display , but they 're not alone .</s>
+<s id='vn8'>Tờ New Yorker và các tờ tạp chí khác của công ty xuất bản Conde Nast đã bị chỉ trích vì trông tệ hại trên màn hình i Pad mới , nhưng không chỉ có những tờ này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Titles from other magazine publishers -- we looked at Time magazine and Sports Illustrated from Time Inc. , and at Esquire and O : The Oprah Magazine from Hearst Empty -- all suffered from the same problems .</s>
+<s id='vn9'>Các tờ tạp chí của những công ty xuất bản khác - - Time Magazine và Sports Illustrated của Time Inc . , và Esquire and O : Oprah Magazine của Hearst - - đều gặp phải tình trạng trên .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The only exception ?</s>
+<s id='vn10'>Ngoại lệ duy nhất ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Vo gue , which launched its iPad edition the same day the iPad 3 hit stores .</s>
+<s id='vn11'>Đó là tờ Vogue.Tờ này đã cho ra mắt phiên bản dành cho i Pad cùng ngày với ngày i Pad 3 được bán ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The title planned its debut in conjunction with the tablet 's release , and thus was able to optimize for the iPad 's " retina display " ahead of time , a Conde Nast spokesperson told us .</s>
+<s id='vn12'>Tờ Vouge đã lên kế hoạch ra mắt phiên bản này cùng thời điểm i Pad mới được tung ra , và do đó có thể tối ưu hoá cho màn hình retina của i Pad sớm , người phát ngôn của Conde Nast cho biết .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The spokesperson added that the company is " working to optimize the rest of our digital edition portfolio over the next few weeks . "</s>
+<s id='vn13'>Người phát ngôn này nói thêm là công ty " đang tối ưu hoá phần nội dung số còn lại trong vài tuần tới " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But what will the 'optimization' process entail ?</s>
+<s id='vn14'>Nhưng quá trình " tối ưu hoá " này gồm những gì ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>How much will it increase file sizes ?</s>
+<s id='vn15'>Nó sẽ tăng kích cỡ tập tin lên bao nhiêu ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>( We noticed , for instance , that Vo gue 's premiere issue was a full 408 megabytes on the iPad 3 , and less than 300 on the iPad 2 . )</s>
+<s id='vn16'>( Chẳng hạn như , chúng tôi nhận thấy số báo đầu tiên của Vogue là 408 MB trên iPad 3 và chưa tố 300 MB trên iPad 2 . )</s>
+</spair>
+<spair id='17'>
+<s id='en17'>We spoke with Zeke Koch , senior director of product management of Adobe 's digital publishing arm , to find out .</s>
+<s id='vn17'>Chúng tôi đã trò chuyện với Zeke Koch , giám đốc cao cấp về quản lý sản phẩm của chi nhánh xuất bản số của Adobe , để tìm hiểu thêm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Adobe 's software powers all of Conde Nast 's editions for tablets .</s>
+<s id='vn18'>Phần mềm của Adobe cho phép toàn bộ các phiên bản của Conde Nast hoạt động trên máy tính bảng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Magazine publishers who use Adobe 's software all begin with InDesign to develop lay outs , Koch explained .</s>
+<s id='vn19'>Những công ty xuất bản tạp chí sử dụng phần mềm của Adobe đều bắt đầu bằng InDesign để phát triển bố cục , Koch giải thích .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Those layouts can then be exported in three different kinds of formats : as images ( .png or .jpg ) , PDF or HTML.</s>
+<s id='vn20'>Các bố cục đó có thể xuất thành ba loại định dạng khá nhau : dạng ảnh ( . png hoặc . jpg ) , PDF hoặc HTML .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Different kinds of files -- images , for instance , or video and audio files -- are embedded within those larger file types .</s>
+<s id='vn21'>Những loại tập tin khác -- chẳng hạn như hình ảnh , video , âm thanh -- được nhúng vào những loại tập tin lớn hơn này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Since magazines began publishing on tablets , " virtually all " publishers have chosen to export their digital editions as PNG ( .png ) files , Koch said .</s>
+<s id='vn22'>Kể từ khi tạp chí bắt đầu được phát hành trên máy tính bảng , " hầu như tất cả " các nhà xuất bản đều chọn xuất phiên bản số của họ dưới dạng tập tin PNG ( .png ) , Koch nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" The primary reason they did that is because the fidelity is perfect . "</s>
+<s id='vn23'>" Nguyên nhân chính là vì độ trung thực hoàn hảo " .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>What you see on the desktop when you 're designing is exactly what you see on the iPad when you 're finished .</s>
+<s id='vn24'>Những gì bạn nhìn thấy trên máy tính bàn trong lúc thiết kế cũng chính là những gì bạn nhìn thấy trên iPad khi bạn hoàn tất .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Images are the fastest thing to load , and if you 're trying to create a quick , effortless browsing experience , images are the way to do that , " he explained .</s>
+<s id='vn25'>Hình ảnh là loại tập tin tải về nhanh nhất , và nếu bạn đang cố gắng tạo ra một trải nghiệm lướt web nhanh nhất và dễ dàng thì hình ảnh là cách để làm được chuyện này , " Koth giải thích .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" That was okay when there was only one screen size -- when you were just working with the iPad 1 and 2 , " he added .</s>
+<s id='vn26'>" Sẽ không có vấn đề gì khi chỉ có một kích cỡ màn hình -- khi bạn chỉ làm việc với iPad 1 và 2 , " anh nói thêm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" When the iPad 3 came out , you were now dealing with a device with four times as many pixels . "</s>
+<s id='vn27'>" Khi iPad 3 ra mắt , bạn phải làm việc với thiết bị có số điểm ảnh nhiều gấp bốn lần " .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The iPad 3 applies an anti-aliasing filter to all low-resolution content , which blurs images ever so slightly .</s>
+<s id='vn28'>IPad 3 áp dụng một kính lọc chống răng cưa cho tất cả nội dung độ phân giải thấp , làm ảnh mờ đi chút ít .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>As a result , photographs still look about the same on the iPad 3 , but the text looks a lot worse -- i.e. , visibly blurry , or pixelated .</s>
+<s id='vn29'>Kết quả là hình ảnh trông vẫn gần như không đổi chất lượng trên iPad 3 , nhưng văn bản thì trông tệ hơn nhiều -- nghĩa là , mờ đi trông thấy , hoặc răng cưa .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>What Vogue did -- and what all other titles will have to do in the coming weeks -- is begin exporting their digital editions as PDFs , said Koch .</s>
+<s id='vn30'>Những gì mà tờ Vogue đã làm -- và tất cả các tờ tạp chí khác cũng sẽ phải làm trong vài tuần tới -- là bắt đầu xuất phiên bản số của họ ra PDF , Koch nói .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But what about file siz #e ?</s>
+<s id='vn31'>Nhưng còn kích cỡ tập tin thì sao ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>I pointed out to Koch that Vogue was nearly as large as Wired 's first issue for the original iPad .</s>
+<s id='vn32'>Tôi chỉ ra cho Koch rằng tờ Vouge có kích cỡ lớn gần bằng số báo đầu tiên của tờ Wired dành cho iPad đời đầu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Unfortunately , he said , magazine files will be larger for iPad 3 readers because the image and video files need to be delivered at a higher resolution .</s>
+<s id='vn33'>Thật không may , anh nói , các tập tin tạp chí sẽ có kích cỡ lớn hơn cho độc giả iPad 3 vì các tập tin ảnh và video cần được hiển thị ở độ phân giải cao hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Owners of first and second-generation iPads will still be able to download smaller , lower-resolution files , however .</s>
+<s id='vn34'>Tuy nhiên , người sở hữu iPad thế hệ đầu tiên và thứ hai vẫn có thể tải xuống các tập tin dung lượng nhỏ hơn và độ phân giải thấp hơn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>A magazine that is around 400 megabytes on the iPad 3 will be around 280 megabytes on the iPad 1 and 2 , Koch said .</s>
+<s id='vn35'>Một tạp chí nặng khoảng 400 MB trên iPad 3 sẽ tương đương 280 MB trên iPad 1 và 2 , Koch nói .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>But why not render in HTML ?</s>
+<s id='vn36'>Nhưng tạo sao không xuất ra HTML ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I asked Koch .</s>
+<s id='vn37'>Tôi hỏi Koch .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Would n't that make the files smaller , and give readers the added benefit of selectable text ?</s>
+<s id='vn38'>Không phải như vậy sẽ giảm kích cỡ tập tin , và độc giả có thêm lợi ích chọn text ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Koch claimed that publishing in HTML would n't substantially reduce the file siz #es .</s>
+<s id='vn39'>Koch cho rằng rằng xuất ra HTML sẽ không giảm đáng kể kích cỡ tập tin .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" In both cases , you have a bunch of words , and descriptions of where things should be , and multimedia .</s>
+<s id='vn40'>" Trong cả hai trường hợp , bạn đều có chữ , và bố cục trang , và tập tin đa phương tiện .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Those multimedia files are still the same size . "</s>
+<s id='vn41'>Những tập tin đa phương tiện này vẫn có cùng kích cỡ " .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>He said the big disadvantage with HTML is that it 's " not very good at layout out things predictably and perfectly . "</s>
+<s id='vn42'>Anh cho rằng sự bất lợi lớn với HTML là nó là " không thích hợp lắm cho việc bố cục nội dung theo mẫu định sẵn và tuyệt đối " .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Rather , it 's optimal for helping people create content that will adapt to any size screen .</s>
+<s id='vn43'>Nói đúng hơn là , nó là tối ưu trong việc tạo ra nội dung có thể thích ứng với bất kỳ màn hình cỡ nào .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Ultimately , however , Koch believes most publishers will move to HTML as standards improve and as publishers move to publish on a wider range of tablets .</s>
+<s id='vn44'>Tuy nhiên , Koch tin rằng cuối cùng thì hầu hết các nhà xuất bản sẽ di chuyển sang HTML khi các tiêu chuẩn được cải thiện và khi các công ty xuất bản chuyển sang phát hành tạp chí trên nhiều máy tính bảng hơn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>So there you have it .</s>
+<s id='vn45'>Như bạn đã rõ .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Magazine readers need not despair about the appearances of their magazines for too much longer , as publishers are working to optimize their editions .</s>
+<s id='vn46'>Độc giả tạp chí sẽ không phải thất vọng về bề ngoài của tạp chí lâu nữa , bởi lẽ các nhà xuất bản đang tối ưu hoá phiên bản của họ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The fix is relatively simple : publishers will have to increase the resolution of their image and video files , and export their digital editions as PDFs .</s>
+<s id='vn47'>Việc điều chỉnh tương đối đơn giản : nhà xuất bản sẽ phải tăng độ phân giải hình ảnh và video , và xuất phiên bản số dưới dạng PDF .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>IPad 3 owners will have to suffer longer download times , and wo n't be able to store as many magazines on their devices as iPad 1 and 2 owners , but that 's the price one pays for a visually stunning reading experience , no ?</s>
+<s id='vn48'>Người sở hữu iPad 3 sẽ chịu thời gian tải về dài hơn , và sẽ không thể lưu trữ nhiều tạp chí trên thiết bị của mình như người sở hữu iPad 1 và 2 , nhưng đó là cái giá phải trả cho trải nghiệm đọc sách báo hấp dẫn thị giác ?</s>
+</spair>
+</text>
+</doc>

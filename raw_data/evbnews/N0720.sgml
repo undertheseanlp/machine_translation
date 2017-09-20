@@ -1,0 +1,212 @@
+﻿<doc id='N0720'>
+<head>
+<title>5 Reasons To Fear The Stock Market</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Reasons To Fear The Stock Market</s>
+<s id='vn1'>5 lý do để sợ thị trường chứng khoán</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Even for those who know nothing about investing , they 've heard of the stock market .</s>
+<s id='vn2'>Ngay cả với những người không biết gì về đầu tư , họ cũng đã từng nghe nói về thị trường chứng khoán .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Each night on the evening news telecasts , the level of the Dow Jones Industrial Average is reported .</s>
+<s id='vn3'>Mỗi tối người ta đều thông báo mức chỉ số bình quân công nghiệp Dow Jones vào các chương trình truyền hình thời sự .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>When there is a significant market move up or down , it 's often a front page story .</s>
+<s id='vn4'>Khi có biến động lên hoặc xuống đáng kể nào trên thị trường , nó thường là một tin tức quan trọng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>This allows for the stock market to hold a kind of celebrity status in many people 's minds .</s>
+<s id='vn5'>Điều này cho phép thị trường chứng khoán giữ loại vị trí danh giá theo suy nghĩ của nhiều người .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>However , for those looking to put some of their hard earned money to work , is the stock market a place to make money or is it a financial wolf in sheep 's clothing ?</s>
+<s id='vn6'>Tuy nhiên , với những người tìm cách đem số tiền mồ hôi công sức của mình đi đầu tư , thì thị trường chứng khoán có phải là nơi kiếm tiền hay thị trường ấy có phải là sói đội lốt cừu trong lĩnh vực tài chính ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>1 . The Market Is Rigged</s>
+<s id='vn7'>1 . Thị trường bị thao túng</s>
+</spair>
+<spair id='8'>
+<s id='en8'>If you 're avoiding the stock market because you 've heard that it 's rigged , that is debat able .</s>
+<s id='vn8'>Nếu bạn đang tránh thị trường chứng khoán vì từng nghe nói rằng nó bị thao túng , thì có thể nghi ngờ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>When we hear stories of Bernard Madoff and the many other cases of insider trading scandals , it 's easy to believe that the market is made up of greedy people willing to break the law to make a few bucks - that they 're making the money by taking yours .</s>
+<s id='vn9'>Khi chúng ta nghe những chuyện về Bernard Madoff và nhiều vụ bê bối khác liên quan đến giao dịch nội gián , dễ tin là thị trường gồm những người tham lam sẵn sàng phạm pháp để kiếm tiền - họ đang cướp tiền của bạn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Barry Ritholtz is a well-known financial blogger who was interviewed by Yahoo Finance recently on this subject .</s>
+<s id='vn10'>Barry Ritholtz là một blogger tài chính nổi tiếng gần đây được trang Yahoo Finance phỏng vấn về chủ đề này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He said that although insider trading certainly takes place , the bulk of the information that may be considered inside or privileged information is nothing more than rumor that is often untrue .</s>
+<s id='vn11'>Ông cho biết mặc dù chắc chắn xảy ra tình trạng giao dịch nội gián , nhưng phần lớn thông tin mà có thể coi là thông tin nội gián hoặc thông tin không được phép tiết lộ chẳng qua chỉ là những tin đồn thường không chính xác .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Because of that , professional money managers conduct their own research and ignore the rumors .</s>
+<s id='vn12'>Vì vậy , những nhà quản lý tài chính chuyên nghiệp thực hiện nghiên cứu của riêng mình và phớt lờ những tin đồn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Ritholtz goes on to say that where the individual investor is at a disadvantage is that they lack the tools or manpower to sift through the huge volume of information publicly available .</s>
+<s id='vn13'>Ritholtz còn nói thế bất lợi của nhà đầu tư cá nhân là họ thiếu các công cụ hay nhân lực để sàng lọc số lượng thông tin khổng lồ đã công khai sẵn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The market certainly has people who are breaking the law , but the pros are just as vulnerable as the little players .</s>
+<s id='vn14'>Thị trường nhất định có những tên phạm pháp , nhưng các cao thủ cũng dễ bị tổn thương như những kẻ vừa mới nhập môn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>2 . Computers Run the Show</s>
+<s id='vn15'>2 . Máy tính nắm quyền</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This is true .</s>
+<s id='vn16'>Điều này đúng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Current statistics show that computers are responsible for 70 % of all trading volume in the world markets .</s>
+<s id='vn17'>Các số liệu thống kê hiện nay cho thấy máy tính chịu trách nhiệm về 70% tất cả khối lượng giao dịch trên thị trường thế giới .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Millions of stock trades are taking place each second and those computers are n't evaluating stocks using the typical screening criteria that is publicly available to the average investor .</s>
+<s id='vn18'>Hàng triệu giao dịch cổ phiếu diễn tra mỗi giây và các máy tính đó không định giá cổ phiếu bằng cách dùng tiêu chuẩn sàng lọc đặc trưng có sẵn chung cho nhà đầu tư bình thường .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Proprietary computer programs are often not even fully understood by the people using them .</s>
+<s id='vn19'>Các chương trình máy tính độc quyền thường không phải mọi người sử dụng chúng đều có khả năng hiểu biết đầy đủ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>While the retail investor might be evaluating the quality of the management at the company , a computer may be evaluating the mathematics of the price history of the stock .</s>
+<s id='vn20'>Trong khi nhà đầu tư nhỏ lẻ có thể đang đánh giá năng lực quản trị tại công ty nọ , thì một máy tính lại có thể đang đánh giá toán học quá trình biến động giá cả cổ phiếu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If computers are controlling 70 % of the price action of the stock , how is an individual supposed to forecast the direction of a stock ?</s>
+<s id='vn21'>Nếu máy tính kiểm soát 70% biến động giá cả cổ phiếu , thì làm sao một người có thể dự báo xu hướng của một cổ phiếu ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The modern part-time investor may be best served by long term investing that allows for the characteristics of the company to play more heavily in to the equation .</s>
+<s id='vn22'>Nhà đầu tư bán thời gian hiện đại có thể hài lòng nhất về đầu tư dài hạn , đầu tư mà cho phép các đặc điểm của công ty đóng vai trò quan trọng hơn vào sự cân bằng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>3 . It 's too Tough for the Average Investor</s>
+<s id='vn23'>3 . Quá khó đối với nhà đầu tư bình thường</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This may be cause for fear unless you ask former hedge fund manager and CNBC commentator Jim Cramer .</s>
+<s id='vn24'>Điều này có thể là nguyên nhân gây lo lắng trừ khi bạn xin ý kiến tư vấn của cựu giám đốc quỹ đầu tư phòng hộ và là nhà bình luận kênh CNBC .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>As stated in his book , " Real Money , " Cramer believes that the retail or part time investor can make money in the stock market by following a set of rules .</s>
+<s id='vn25'>Như những gì đã nói trong cuốn sách của mình , cuốn " Tiền Thật " , Cramer cho rằng nha # đầu tư nhỏ lẻ hoặc bán thời gian có thể kiếm tiền trên thị trường chứng khoán bằng cách tuân theo một số quy tắc .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Among them , conducting at least one hour per week of research for every stock owned .</s>
+<s id='vn26'>Trong đó , dành ít nhất mỗi tuần một giờ nghiên cứu từng cổ phiếu sở hữu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Of his 25 investing rules , others include diversifying your portfolio and buying stocks that are undervalued but not purchasing stocks of damaged companies .</s>
+<s id='vn27'>Cũng thuộc 25 quy tắc đầu tư của ông , còn có những quy tắc đa dạng hoá danh mục đầu tư và mua cổ phiếu bị định giá dưới giá trị thật nhưng không mua cổ phiếu của những công ty bị thua lỗ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>His contention is that many retail investors lose money not because the stock market is too difficult but because part-time investors do n't have the time or may not be willing to put in the time needed to make informed decisions in a complicated market .</s>
+<s id='vn28'>Quan điểm của ông là nhiều nhà đầu tư nhỏ lẻ mất tiền không phải vì thị trường chứng khoán quá khắc nghiệt mà vì những nhà đầu tư bán thời gian không có thời gian hoặc không chịu bỏ chút thời gian cần thiết để ra những quyết định có hiểu biết trong một thị trường đầy phức tạp .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>4 . The Economy Is Bad</s>
+<s id='vn29'>4 . Nền kinh tế xấu</s>
+</spair>
+<spair id='30'>
+<s id='en30'>One of the real reasons to fear the stock market could very well be the economy .</s>
+<s id='vn30'>Một trong những lý do thật sự để sợ thị trường chứng khoán rất có thể là nền kinh tế .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The Federal Reserve reports that for every 20 % drop in the stock market , gross domestic product is reduced by 1.25 % after one year .</s>
+<s id='vn31'>Cục Dự trữ Liên bang cho biết với mỗi mức sụt giảm 20% trong thị trường chứng khoán , tổng sản lượng nội địa giảm 1,25% sau một năm .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>However , as any seasoned investor knows , the stock market rarely represents in real time the state of the current economy .</s>
+<s id='vn32'>Tuy nhiên , như bất kỳ nhà đầu tư nhiều kinh nghiệm nào cũng biết , thị trường chứng khoán ít khi đại diện theo thời gian thực tình trạng nền kinh tế hiện thời .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>When the economy is questionable , the stock market tends to be the same way .</s>
+<s id='vn33'>Khi nền kinh tế có vấn đề , thị trường chứng khoán thường cũng giống như vậy .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Investors may see a quick rise in prices presenting a false sense of security only to see it violently drop in value in a short time .</s>
+<s id='vn34'>Các nhà đầu tư có thể xem giá tăng đột biến là biểu hiện của một cảm giác an toàn giả mạo chỉ khi thấy nó mất giá thảm hại trong một thời gian ngắn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>A struggling economy is definitely cause for fear of the stock market , and some would recommend new investors wait until some stability in the market and the overall economy is seen .</s>
+<s id='vn35'>Một nền kinh tế đang gặp khó khăn chắc chắn là nguyên nhân gây ra nỗi sợ hãi thị trường chứng khoán , và một số người sẽ khuyến nghị những nhà đầu tư mới chờ đợi đến khi nhìn thấy sự ổn định trên thị trường và trong toàn nền kinh tế .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The problem is that finding stability in the stock market may take a long time .</s>
+<s id='vn36'>Vấn đề là tìm thấy sự ổn định trên thị trường chứng khoán có thể mất nhiều thời gian .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>5 . It Has Gone Up Fast</s>
+<s id='vn37'>5 . Thị trường đã tăng nhanh</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Since the 2009 lows , the stock market has risen more than 70 % .</s>
+<s id='vn38'>Kể từ những mức giá đáy năm 2009 , thị trường đã tăng hơn 70% .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>For many , that 's a recipe for disaster .</s>
+<s id='vn39'>Với nhiều người , đó là công thức cho thảm họa .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If anything is a cause for fear , this may be it .</s>
+<s id='vn40'>Nếu cái gì đó là nguyên nhân gây ra nỗi sợ hãi , thì đây có thể là cái như vậy .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>On one hand , markets that move up fast tend to fall fast - with a market that has been in bull mode for the past year , that should scare any investor .</s>
+<s id='vn41'>Theo một quan điểm nào đó , thị trường tăng lên nhanh thường giảm xuống nhanh - với một thị trường trong trạng thái tăng giá trong năm qua , thì điều đó có thể làm sợ hãi bất kỳ nhà đầu tư nào .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Others will argue that the market is up drastically because the Great Recession caused it to drop just as violently , which makes the recent uptrend a move towards fair value .</s>
+<s id='vn42'>Những người khác sẽ phản biện rằng thị trường tăng lên mạnh mẽ vì giai đoạn Đại suy thoái làm thị trường sụt giảm cũng rất trầm trọng , khiến khuynh hướng tăng lên gần đây hướng đến giá trị hợp lý .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>So which of these opposing views does the part time retail investor believe ?</s>
+<s id='vn43'>Vậy trong số những quan điểm đối lập này nhà đầu tư nhỏ lẻ bán thời gian tin vào quan điểm nào ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Do they have enough experience and expertise to make an informed choice ?</s>
+<s id='vn44'>Họ có đủ kinh nghiệm và hiểu biết để lựa chọn sáng suốt ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Unfortunately , there is no easy answer .</s>
+<s id='vn45'>Tiếc là không có câu trả lời dễ dàng .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The Bottom Line</s>
+<s id='vn46'>Kết luận</s>
+</spair>
+<spair id='47'>
+<s id='en47'>When investing , the stock market is definitely cause for concern but sometimes a little bit of fear is healthy .</s>
+<s id='vn47'>Khi đầu tư , thị trường chứng khoán chắc chắn có lý do để lo lắng nhưng đôi khi chút lo lắng lại có lợi .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Avoiding putting your money to work because of fear probably is n't the best course of action either .</s>
+<s id='vn48'>Tránh đem tiền đi đầu tư vì sợ hãi có thể cũng không phải là cách hành động tốt nhất .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>If you do n't feel that you have the necessary knowledge , get help .</s>
+<s id='vn49'>Nếu bạn cảm thấy mình không có đủ kiến thức cần thiết , hãy nhờ giúp đỡ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Find an independent , fee based financial advisor in your area to help you make a reasonable return while teaching you about the ins and outs of the market .</s>
+<s id='vn50'>Tìm một nhà tư vấn tài chính có phí , độc lập trong vùng để giúp bạn kiếm được lợi nhuận hợp lý khi hướng dẫn cho bạn về mọi vấn đề của thị trường .</s>
+</spair>
+</text>
+</doc>

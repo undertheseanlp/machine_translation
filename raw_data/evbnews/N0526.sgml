@@ -1,0 +1,476 @@
+﻿<doc id='N0526'>
+<head>
+<title>A Global Recovery for a Global Recession</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A Global Recovery for a Global Recession</s>
+<s id='vn1'>Sự khôi phục toàn cầu cho tình trạng suy thoái toàn cầu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>By Joseph E. Stiglitz</s>
+<s id='vn2'>Bởi Joseph E. Stiglitz</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This article appeared in the July 13 , 2009 edition of The Nation</s>
+<s id='vn3'>Bài báo này xuất hiện vào ngày 13 tháng bảy năm 2009 ấn bản của The Nation .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>June 24 , 2009</s>
+<s id='vn4'>Ngày 24 tháng sáu năm 2009</s>
+</spair>
+<spair id='5'>
+<s id='en5'>This is not only the worst global economic downturn of the World War II era ; it is the first serious global downturn of the modern era of globalization .</s>
+<s id='vn5'>Đây không chỉ là thời kỳ suy thoái kinh tế toàn cầu tồi tệ nhất của thời kỳ sau Chiến tranh Thế giới lần II ; đó là thời kỳ suy thoái toàn cầu nghiêm trọng đầu tiên của thời kỳ toàn cầu hoá hiện đại .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>America 's financial markets failed to do what they should have done - manage risk and allocate capital well - and these failures have had a major impact all over the world .</s>
+<s id='vn6'>Thị trường tài chính của Hoa Kỳ không làm điều mà họ nên làm - quản lý rủi ro và phân bổ vốn tốt - và các thất bại này đã có ảnh hưởng lớn khắp nơi trên thế giới .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Globalization , too , did not work the way it was supposed to .</s>
+<s id='vn7'>Toàn cầu hoá , cũng vậy , không hoạt động theo cách người ta nghĩ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It helped spread the consequences of the failures of US financial markets around the world .</s>
+<s id='vn8'>Nó giúp lây lan hậu quả của thất bại của thị trường tài chính Hoa Kỳ ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>September 11 , 2001 , taught us that with globalization not only do good things travel more easily across borders ; bad things do too .</s>
+<s id='vn9'>Ngày 11 tháng Chín năm 2001 , dạy ta biết là với toàn cầu hoá không chỉ làm những điều tốt đẹp đi lại dễ dàng hơn qua biên giới ; những thứ tệ cũng vậy .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>September 15 , 2008 , has reinforced that lesson .</s>
+<s id='vn10'>Ngày 15 tháng Chín năm 2008 , đã củng cố thêm bài học đó .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A global downturn requires a global response .</s>
+<s id='vn11'>Thời kỳ suy thoái toàn cầu đòi hỏi phản ứng toàn cầu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But so far our responses to - stimulate and regulate the global economy - have largely been framed at the national level and often take insufficient account of the effect on others .</s>
+<s id='vn12'>Nhưng cho đến nay phản ứng của chúng tôi - để kích thích và kiểm soát kinh tế toàn cầu - phần lớn bị đóng khung ở cấp quốc gia và thường ít tính đến ảnh hưởng đối với người khác .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The result is that there is less coordination than there should be , as well as a smaller and less well-designed stimulus than is optimal .</s>
+<s id='vn13'>Kết quả là có ít phối hợp hơn cần có , cũng như nhỏ hơn và chương trình kích thích kinh tế ít toàn diện hơn hơn là tối ưu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A poorly designed and insufficient stimulus means that the downturn will last longer , the recovery will be slower and there will be more innocent victims .</s>
+<s id='vn14'>Kém thiết kế và không đủ kích thích nghĩa là thời kỳ suy thoái sẽ bền lâu hơn , phục hồi sẽ chậm và sẽ có nhiều nạn nhân vô tội hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Among these victims are the many developing countries including those that have had far better regulatory and macroeconomic policies than the United States and some European countries .</s>
+<s id='vn15'>Trong số các nạn nhân này là nhiều nước đang phát triển bao gồm những nước đã có hành pháp và chính sách kinh tế vĩ mô tốt hơn nhiều so với Hoa Kỳ và vài các quốc gia Châu Âu .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In the United States a financial crisis transformed itself into an economic crisis ; in many developing countries the economic downturn is creating a financial crisis .</s>
+<s id='vn16'>Ở Hoa Kỳ khủng hoảng tài chính tự biến thành khủng hoảng kinh tế ; ở nhiều nước đang phát triển thời kỳ suy thoái kinh tế đang tạo khủng hoảng tài chính .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The world has two choices : either we move to a better global regulatory system , or we lose some of the important benefits that have resulted from globalization .</s>
+<s id='vn17'>Thế giới có hai lựa chọn : hoặc chúng tôi tiến đến một hệ thống quản lý toàn cầu tốt hơn , hoặc chúng ta mất một vài lợi ích quan trọng đã tạo ra bởi toàn cầu hoá .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>But continuing the status management of globalization is no longer tenable ; too many countries have had to pay too high a price .</s>
+<s id='vn18'>Nhưng tiếp tục hiện trạng quản lý của toàn cầu hoá không còn giữ được ; quá nhiều quốc gia đã phải trả bằng một cái giá quá đắt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The G-20 's response to the global economic crisis , crafted at meetings in November in Washington and in April in London , was a beginning but just a beginning .</s>
+<s id='vn19'>Phản ứng của G-20 đối với khủng hoảng kinh tế toàn cầu , làm bằng tay tại cuộc họp vào tháng 11 ở Washington và vào tháng tư ở Luân đôn , là sự khởi đầu nhưng chỉ mới là sự khởi đầu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It did not do enough to address the short-term problems nor did it put in place the long-term restructuring necessary to prevent another crisis .</s>
+<s id='vn20'>Nó chưa làm đủ để giải quyết những vấn đề ngắn hạn hay đặt đúng chỗ tái cơ cấu lâu dài cần thiết để ngăn ngừa một cuộc khủng hoảng khác .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A United Nations meeting in late June hopes to continue the global discussion begun at earlier G-20 meetings and to extend this discussion to what went wrong in the first place so that we can do a better job of preventing another crisis .</s>
+<s id='vn21'>Cuộc họp của Liên Hiệp Quốc vào cuối tháng Sáu hy vọng sẽ tiếp tục thảo luận toàn cầu bắt đầu từ cuộc họp G-20 trước đây và mở rộng cuộc thảo luận này sang những gì sai lầm ở giai đoạn đầu tiên sao cho chúng tôi có thể làm tốt hơn công việc ngăn ngừa một cuộc khủng hoảng khác .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The global politics of this meeting are complex .</s>
+<s id='vn22'>Chính sách toàn cầu của cuộc họp này là phức tạp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Many of the 173 countries that are not members of the G-20 argue that decisions affecting the lives of their citizens should not be made by a self-selected club that lacks political legitimacy .</s>
+<s id='vn23'>Nhiều nước trong số 173 quốc gia mà không phải là thành viên của G-20 biện luận rằng quyết định ảnh hưởng đến mạng sống của công dân của họ không nên được tạo ra bởi câu lạc bộ tự chọn thiếu tính hợp pháp chính trị .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Some members of the G-20 --including new members brought into the discussion for the first time as the G-8 expanded to the G-20 --like things the way they are ; they like being in the inner circle and argue that enlarging it will only complicate matters .</s>
+<s id='vn24'>Một số thành viên của G-20 -- bao gồm thành viên mới được đưa vào thảo luận lần đầu tiên như G-8 mở rộng thành G-20 -- thích y như cũ ; họ thích đứng trong nhóm chủ chốt và biện luận rằng mở rộng nó sẽ chỉ gây rắc rối .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Many from the advanced industrial countries would like to avoid overly harsh criticism of their banks , which played a pivotal role in the crisis , or of the international economic institutions that not only failed to prevent the crisis but pushed the deregulatory policies that contributed so much to it and its rapid spread around the world .</s>
+<s id='vn25'>Nhiều nước thuộc các quốc gia có nền công nghiệp tiên tiến muốn tránh chỉ trích gay gắt quá mức của ngân hàng của họ , đóng một vai trò trụ cột trong khủng hoảng , hoặc viện kinh tế quốc tế không những không ngăn chặn được cuộc khủng hoảng này mà còn thúc đẩy chính sách sai quy định góp phần vào đó rất nhiều và lan nhanh của nó ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Indeed , the G-20 's response to the crisis in developing countries relied centrally on the IMF.</s>
+<s id='vn26'>Quả thực , phản ứng của G-20 đối với khủng hoảng ở các nước đang phát triển toàn trông mong vào Quỹ tiền tệ thế giới .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>I chair the UN Commission of Experts , which was given the task by the General Assembly of preparing an interim report before the June meeting .</s>
+<s id='vn27'>Tôi làm chủ tịch Ủy ban các chuyên gia của Liên Hiệp Quốc , được Đại hội đồng trao nhiệm vụ chuẩn bị bản báo cáo tạm thời trước cuộc họp tháng sáu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This report will , I hope , have some influence on the discussions .</s>
+<s id='vn28'>Bản báo cáo này sẽ , tôi hy vọng , có ảnh hưởng chút ít đến cuộc thảo luận .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It is too soon to tell whether it will , or if anything concrete will come from the meeting .</s>
+<s id='vn29'>Còn quá sớm để nói liệu nó sẽ , hoặc nếu bất cứ thứ gì cụ thể sẽ đến từ cuộc họp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The international community should realize , however , that much more needs to be done than has so far been undertaken by the G-20 .</s>
+<s id='vn30'>Cộng đồng quốc tế nên nhận biết , tuy nhiên , rằng có thêm nhiều nhu cầu cần được thực hiện hơn có cho đến nay được tiến hành bởi G-20 .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Our preliminary report lists ten policies that need to be implemented immediately .</s>
+<s id='vn31'>Bản báo cáo sơ bộ của chúng tôi liệt kê mười điều khoản cần được triển khai ngay lập tức .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>These include strong stimulus efforts from developed countries , providing additional funding for developing countries , creating more policy space for developing countries , avoiding protectionism , opening advanced countries ' markets to the least developed countries ' exports and improving coordination of global economic policies .</s>
+<s id='vn32'>Này bao gồm nỗ lực kích thích mạnh mẽ từ các quốc gia phát triển , cung cấp thêm vốn cho các nước đang phát triển , tăng cường phạm vi áp dụng chính sách cho các nước đang phát triển , tránh chủ nghĩa bảo hộ mậu dịch , mở cửa thị trường các nước tiên tiến để tiếp nhận hàng xuất khẩu của các nước kém phát triển nhất và cải thiện sự phối hợp các chính sách kinh tế toàn cầu .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In addition , the commission recommends ten deeper reforms to the global financial system on which work needs to begin .</s>
+<s id='vn33'>Ngoài ra , ủy ban giới thiệu mười cải cách sâu hơn cho hệ thống tài chính toàn cầu trên đó công việc cần bắt đầu .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The United States may have the resources to bail out its banks and stimulate its economy , but developing countries do not .</s>
+<s id='vn34'>Hoa Kỳ có thể có nguồn để giải cứu ngân hàng của nó và kích thích nền kinh tế của nó , nhưng các nước đang phát triển không .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Developing countries have been important engines for economic growth in recent years , and it is hard to see a robust global recovery in which they do not play an important role .</s>
+<s id='vn35'>Các nước đang phát triển đã là những phương tiện quan trọng để tăng trưởng kinh tế trong những năm vừa qua , và thật khó mà xem sự khôi phục toàn cầu vững chắc trong đó họ không đóng một vai trò quan trọng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>There is a consensus that all countries should provide strong stimulus packages , but many of the poorer developing countries do n't have the resources to do so .</s>
+<s id='vn36'>Có sự nhất trí tất cả quốc gia nên cung cấp gói kích cầu mạnh , nhưng nhiều quốc gia đang phát triển nghèo hơn không có tài nguyên làm như vậy .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Many in the developed world are worried about the debt burdens resulting from stimulus packages , but for those still scarred by debt crises , taking on additional debt may involve an unacceptable burden .</s>
+<s id='vn37'>Nhiều nước trong thế giới phát triển lo về gánh nặng nợ nần gây ra bởi gói kích cầu , nhưng đối với những nước còn chịu ảnh hưởng của cuộc khủng hoảng nợ nần , rước thêm nợ có thể bao gồm gánh nặng không thể chấp nhận .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Assistance has to be provided in grants , not just loans .</s>
+<s id='vn38'>Trợ giúp phải được mang lại theo kiểu viện trợ , không chỉ vay .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>In the past , the IMF provided assistance accompanied by " conditions . "</s>
+<s id='vn39'>Trước đây , Quỹ tiền tệ thế giới cung cấp viện trợ đi kèm với " điều kiện .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In many cases it demanded that countries raise interest rates to high ( sometimes very , very high ) levels and reduce deficits by cutting expenditures and_or raising taxes --just_the opposite of US and European policies .</s>
+<s id='vn40'>" trong nhiều trường hợp nó yêu cầu quốc gia tăng lãi suất lên mức cao ( đôi khi rất , rất cao ) và giảm sự thâm hụt bằng cách cắt chi phí và hoặc tăng thuế - - chỉ ngược lại với các chính sách của Hoa Kỳ và Châu Âu .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>This led to a weakening of national economies , when the point of IMF assistance was to strengthen them .</s>
+<s id='vn41'>Điều này đã dẫn đến sự suy yếu của nền kinh tế của đất nước , khi mục đích của việc viện trợ của IMF làm vững mạnh chúng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Although those providing assistance want to be sure their money is used well , these kinds of conditions are counterproductive and make many developing countries reluctant to accept help .</s>
+<s id='vn42'>Mặc dù viện trợ có điều kiện đó muốn chắc chắn tiền của họ được sử dụng tốt , những loại điều kiện này là phản tác dụng và làm nhiều nước đang phát triển miễn cưỡng chấp nhận sự giúp đỡ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>A condition imposed on international institutions that provide assistance to developing countries should be that they not engage in such " conditionality " .</s>
+<s id='vn43'>Một điều kiện cần bắt buộc với cơ quan quốc tế cung cấp viện trợ cho các nước đang phát triển không nên để họ vướng vào " tính cách điều kiện " như thế .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>To help fund the large amount of assistance required , developed countries should set aside 1 percent of their stimulus package to help developing countries .</s>
+<s id='vn44'>Để giúp cấp vốn số lượng lớn trợ giúp yêu cầu , các quốc gia phát triển nên dành riêng ra 1 phần trăm gói kích cầu của họ để giúp các nước đang phát triển .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The funds have to be distributed through a variety of channels , including regional institutions and possibly a newly created credit facility whose governance better reflects new potential donors ( Asian and Middle East countries ) and recipients .</s>
+<s id='vn45'>Kinh phí phải được phân phối qua nhiều kênh , bao gồm các cơ quan trong khu vực và có thể là một cơ quan tín dụng mới thành lập mà việc cai quản sẽ thu hút thêm nhiều nhà tài trợ ( châu Á và các quốc gia Trung Đông ) và người nhận .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The G-20 did make significant efforts to expand the IMF 's lending capacity --partly , some suspect , because of the role the IMF may play in rescuing Eastern Europe rather than because of its desire to help the least developed countries .</s>
+<s id='vn46'>G-20 đã nỗ lực đáng kể để mở rộng khả năng cho vay của Quỹ tiền tệ thế giới -- một phần , một số nghi , vì vai trò Quỹ tiền tệ thế giới có thể cứu nguy Đông Âu chớ không phải là vì mong muốn giúp các quốc gia kém phát triển nhất .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>One clever way of doing so was a new issue of IMF money ( to the tune of $ 250 billion ) called " special drawing rights , " a positive move , but too little of it will wind up in the hands of the poorest countries .</s>
+<s id='vn47'>Một cách thông minh hơn để làm chuyện đó là một đợt phát hành tiền mới của IMF ( với số tiền là 250 tỉ đô-la Mỹ ) được gọi là " quyền rút đặc biệt , " một biện pháp tích cực , nhưng rất ít trong số đó sẽ đến được tay của các nước nghèo nhất .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Although the G-20 made grand statements at its November meeting about avoiding protectionism , the World Bank notes that since then seventeen members have undertaken protectionist measures .</s>
+<s id='vn48'>Mặc dù G-20 đã trang trọng tuyên bố tại cuộc họp vào tháng 11 của nó về tránh chủ nghĩa bảo hộ mậu dịch , Ngân hàng Thế giới lưu ý là từ đó thành viên thứ mười bảy đã tiến hành các biện pháp bảo hộ mậu dịch .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Developing countries have to be protected from protectionism and its consequences , especially when it discriminates against them .</s>
+<s id='vn49'>Các nước đang phát triển phải được bảo vệ khỏi chủ nghĩa bảo hộ mậu dịch và hậu quả của nó , nhất là khi nó phân biệt đối xử đối với họ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The United States , for example , included a " buy American " provision in its stimulus bill , but many advanced industrial countries are exempt from this provision due to a WTO government procurement agreement .</s>
+<s id='vn50'>Hoa Kỳ , chẳng hạn , bao gồm một điều khoản " mua hàng Mỹ " trong dự luật kích cầu của nó , nhưng nhiều nước công nghiệp tiên tiến không bị chi phối bởi điều khoản này vì hiệp định mua hàng qua WTO .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>This means that America , in effect , discriminates against poor countries .</s>
+<s id='vn51'>Điều này có nghĩa Hoa Kỳ , trong thực tế , phân biệt đối xử đối với quốc gia nghèo .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>We know that subsidies distort free and fair trade as much as tariffs , but subsidies are even worse than tariffs , because developing countries can ill afford them .</s>
+<s id='vn52'>Chúng ta biết là trợ cấp bóp méo thương mại tự do và công bằng nhiều như thuế quan , nhưng trợ cấp là thậm chí tệ hơn thuế nhập khẩu , vì các nước đang phát triển khó có thể đủ điều kiện để có chúng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The massive bailouts and guarantees provided by the United States and other wealthy countries give their firms an unfair competitive advantage .</s>
+<s id='vn53'>Bảo đảm và các hành động cứu nguy về tài chính ồ ạt cung cấp bởi Hoa kỳ và các quốc gia giàu có đưa cho hãng của họ ưu thế cạnh tranh bất công .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>It is one thing for firms from poor countries to compete against well-capitalized US firms ; it is another to compete against Washington .</s>
+<s id='vn54'>Đó là một điều cho các hãng thuộc các nước nghèo để cạnh tranh với các công ty giàu có của Hoa Kỳ ; một mặt nữa là phải cạnh tranh với Washington .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Such subsidies , bailouts and guarantees are understandable , but the adverse impacts on developing countries must be recognized , and we must find some way of compensating them to offset this unfair advantage .</s>
+<s id='vn55'>Trợ cấp như thế , bảo đảm và hành động cứu nguy về tài chính là dễ hiểu , nhưng ảnh hưởng bất lợi trên các nước đang phát triển phải được công nhận , và chúng ta phải tìm ra cách nào đó để bù đắp cho họ để bù đắp sự bất bình đẳng này .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>International cooperation is also required if we are to devise an effective regulatory regime .</s>
+<s id='vn56'>Hợp tác quốc tế cũng là cần thiết nếu chúng ta sẽ nghĩ ra cơ chế điều tiết hiệu quả .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>There is international agreement on ten issues .</s>
+<s id='vn57'>Có thoả thuận quốc tế trên mười vấn đề .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>First , the crisis was caused by excesses of deregulation and deficiencies in the enforcement of existing regulations .</s>
+<s id='vn58'>Trước tiên , khủng hoảng gây ra do vượt quá giới hạn của không tuân thủ quy định và những khiếm khuyết trong thi hành nguyên tắc hiện có .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Second , self-regulation will not suffice .</s>
+<s id='vn59'>Thứ hai , tự điều tiết sẽ không đủ để đáp ứng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Third , regulation is required because failures in a large financial institution or the financial system more generally can have " externalities , " adverse effects on workers , homeowners , taxpayers and others worldwide .</s>
+<s id='vn60'>Thứ ba , điều tiết là cần thiết vì thất bại trong tổ chức tài chính lớn hoặc hệ thống tài chính khái quát hơn có thể có " hậu quả do sản xuất không chú ý đến giá cả , " ảnh hưởng bất lợi lên công nhân , chủ nhà , người đóng thuế và những người khác trên toàn thế giới .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Fourth , more than transparency is required --even full disclosure of the complex derivatives and other financial products might not have allowed for an adequate risk assessment .</s>
+<s id='vn61'>Thứ tư , cần minh bạch hơn - ngay cả - tiết lộ đầy đủ về các biến thể phức tạp và sản phẩm tài chính khác có thể đã không cho phép đánh giá ngăn ngừa rủi ro thoả đáng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Fifth , perverse incentives that encouraged excessive risk-taking and shortsighted behavior contributed to bad banking practices .</s>
+<s id='vn62'>Thứ năm , ưu đãi quá đáng khuyến khích cách cư xử thiển cận và liều lĩnh quá độ góp phần tạo nên các hoạt động ngân hàng sai trái .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Sixth , deficiencies in corporate governance contributed to flawed incentive structures .</s>
+<s id='vn63'>Thứ sáu , những khiếm khuyết trong phương thức và quy trình quản lý công ty góp phần tạo nên những cơ chế ưu đãi sai lầm .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Seventh , so too did the fact that many banks had grown " too big to fail " --which meant that if they gambled and won , they walked away with the gains , but if they lost , taxpayers picked up the losses .</s>
+<s id='vn64'>Bảy , cũng vậy nhiều ngân hàng đã phát triển " quá lớn nên không thể thất bại " -- mà nghĩa là nếu họ đánh bạc và thắng cuộc , họ thu lợi nhuận , nhưng nếu họ thua , người đóng thuế gánh chịu thiệt hại .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Eighth , unless regulation is comprehensive there can be a " race to the bottom , " with countries with lax regulation competing to attract financial services .</s>
+<s id='vn65'>Thứ tám , trừ phi quy định dễ hiểu và toàn diện có thể có " đua đến tận cùng , " với quốc gia có quy định lỏng lẻo cạnh tranh thu hút hoạt động tài chính .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Ninth , if that race happens , countries will have to take action to protect their economies they cannot allow bad practices elsewhere to harm their citizens .</s>
+<s id='vn66'>Chín , nếu cuộc đua xảy ra , quốc gia sẽ phải hành động để bảo vệ nền kinh tế của họ - - họ không thể cho phép thói quen xấu nơi khác để làm tổn hại công dân của họ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>And tenth , regulation has to be comprehensive across financial institutions .</s>
+<s id='vn67'>Và thứ mười , quy định phải dễ hiểu đối với tổ chức tài chính .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>As we have seen , if we regulate the banking system but not the shadow banking system , business will migrate to where it is less well regulated and less transparent .</s>
+<s id='vn68'>Như chúng ta đã từng nhìn thấy , nếu chúng ta kiểm soát hệ thống ngân hàng nhưng không phải các hoạt động ngầm của ngân hàng , kinh doanh sẽ di dời đến nơi được kiểm soát kém hơn và ít minh bạch hơn .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Despite this broad consensus , the G-20 said little or nothing about some key issues : what to do with banks that have grown not only too big to fail but ( according to the Obama administration ) too big to be financially restructured ?</s>
+<s id='vn69'>Bất chấp sự đồng lòng rộng rãi này , G-20 đã nói ít hay đúng hơn là không hề nói gì về vài vấn đề then chốt : những gì phải làm với ngân hàng đã phát triển không chỉ quá lớn nên không thể thất bại nhưng ( theo chính quyền Obama ) quá lớn để được tái cơ cấu về mặt tài chính ?</s>
+</spair>
+<spair id='70'>
+<s id='en70'>The G-20 failed to ask the hard questions : if these big banks ' shareholders and bondholders are insulated from the risk of default , how can there be market discipline ?</s>
+<s id='vn70'>G-20 không đặt ra những câu hỏi khó : nếu những người nắm giữ trái phiếu và các cổ đông của các ngân hàng lớn này được bảo vệ khỏi nguy cơ phá sản , làm thế nào có được nguyên tắc thị trường ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>What will replace that discipline ?</s>
+<s id='vn71'>Điều gì sẽ thay thế nguyên tắc đó ?</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The G-20 has talked about the rapid return of " private capital , " but what does this bode if private capital returns without market discipline ?</s>
+<s id='vn72'>G-20 đã nói về hoàn trả nhanh chóng " vốn tư nhân , " nhưng những gì phải chịu này nếu trả lại vốn tư nhân không có nguyên tắc thị trường ?</s>
+</spair>
+<spair id='73'>
+<s id='en73'>There was also talk of continuing to allow over-the-counter derivatives-trading with no transparency .</s>
+<s id='vn73'>Cũng có bàn luận về tiếp tục cho phép các biến thể - thương mại ngoài danh mục không minh bạch .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>But without transparency of each trade -- to_assess the nature of the counterparty risk -- how can there be market discipline ?</s>
+<s id='vn74'>Nhưng không có sự minh bạch của mỗi giao dịch -- để đánh giá bản chất của nguy cơ của bên đối tác -- làm thế nào có được nguyên tắc thị trường ?</s>
+</spair>
+<spair id='75'>
+<s id='en75'>The G-20 did take long-overdue action on nontransparent offshore banking centers .</s>
+<s id='vn75'>G-20 đã có hành động quá trễ nãi về những trung tâm ngân hàng ở nước ngoài kém minh bạch .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The large amount of banking in these centers is not a result of these countries ' comparative advantage in providing banking services .</s>
+<s id='vn76'>Số lượng lớn nghiệp vụ ngân hàng trong các trung tâm này không phải là kết quả của các ưu thế tương đối của quốc gia này trong việc cung cấp các dịch vụ ngân hàng .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>It is because they avoid and evade taxes and regulations .</s>
+<s id='vn77'>Đó là vì họ tránh và trốn thuế và quy định .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>But these problems , while important , played little if any role in the current crisis .</s>
+<s id='vn78'>Nhưng những vấn đề này , dù là quan trọng , đóng vai trò nhỏ nếu không nói là chẳng hề đóng vai trò gì trong khủng hoảng hiện thời .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Why was so much effort spent on these extraneous issues rather than on those more directly related to the crisis ?</s>
+<s id='vn79'>Tại sao đã rất nhiều nỗ lực dành cho các vấn đề không liên quan đến vấn đề đang đề cập này chớ không phải là về những thứ liên quan trực tiếp hơn đến khủng hoảng ?</s>
+</spair>
+<spair id='80'>
+<s id='en80'>From the perspective of the developing countries , though , not enough was done about bank secrecy in offshore as well as onshore centers .</s>
+<s id='vn80'>Từ cách nhìn của các nước đang phát triển , cho dù , chưa được thực hiện đủ về bí mật ngân hàng trong những trung tâm ở nước ngoài cũng như trong nước .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Developing nations are often criticized for corruption , but secret bank accounts wherever they may be facilitate corruption , providing safe haven for stolen funds .</s>
+<s id='vn81'>Các quốc gia đang phát triển thường bị chỉ trích vì tham nhũng , nhưng giữ kín các tài khoản ngân hàng cho dù họ có thể tạo điều kiện cho việc tham nhũng , cung cấp nơi trú ẩn an toàn cho nguồn tiền ăn cắp .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Developing countries want this money returned and want access to information that will allow them to detect secret accounts .</s>
+<s id='vn82'>Các nước đang phát triển muốn số tiền này phải được hoàn lại và muốn truy cập vào các thông tin sẽ cho phép họ phát hiện tài khoản bí mật .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Financial and capital market liberalization --as well as banking deregulation -- contributed to the crisis and to the spread of the crisis from the United States to developing countries .</s>
+<s id='vn83'>Tự do hoá thị trường vốn và tài chính - - cũng như việc không tuân thủ quy định về nghiệp vụ ngân hàng -- góp phần tạo nên khủng hoảng và lan truyền khủng hoảng từ Hoa Kỳ đến các nước đang phát triển .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Advanced industrial nations are reluctant to admit that these policies , which they pushed so hard on developing countries , are part of the problem .</s>
+<s id='vn84'>Các quốc gia có nền công nghiệp tiên tiến miễn cưỡng thừa nhận các chính sách này , họ gây áp lực quá nhiều lên các nước đang phát triển , là một phần của vấn đề .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>No wonder , then , that the G-20 did not argue for a reconsideration of these longstanding policies .</s>
+<s id='vn85'>Chẳng có gì lạ khi , sau đó , G-20 không ủng hộ việc xem xét lại các chính sách lâu dài này .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>The global economic crisis highlights the deficiencies of existing international institutions .</s>
+<s id='vn86'>Khủng hoảng kinh tế toàn cầu nhấn mạnh những khiếm khuyết của cơ quan quốc tế hiện tại .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>As I noted , the IMF and the Financial Stability Forum --created in the aftermath of the last global financial crisis , in 1997-98 -- did not prevent the crisis .</s>
+<s id='vn87'>Như tôi lưu ý , Quỹ tiền tệ thế giới và Diễn đàn Ổn định Tài chính -- được tạo ra sau hậu quả của cuộc khủng hoảng tài chính toàn cầu vừa qua , vào năm 1997-98 -- không ngăn chặn được cuộc khủng hoảng này .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>In some cases they pushed policies that are now recognized as root causes .</s>
+<s id='vn88'>Trong vài trường hợp họ thúc đẩy chính sách mà nay được công nhận là nguyên nhân sâu xa .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Although some of the proposals are moves in the right direction , others ( such as changing the name of the Financial Stability Forum to the Financial Stability Board ) are unlikely to have much effect , and as a package they are unlikely to suffice .</s>
+<s id='vn89'>Mặc dù vài bản kế hoạch là các động thái đúng hướng , những cái khác ( như là thay đổi tên Diễn đàn Ổn định Tài chính thành Ủy ban Ổn định Tài chính ) khó có thể có ảnh hưởng nhiều , và như gói hàng họ khó có thể đủ để đáp ứng .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>If we are to make our global economic system work better , we have to have better systems of global economic governance .</s>
+<s id='vn90'>Nếu chúng ta muốn làm cho hệ thống kinh tế toàn cầu của chúng ta hoạt động tốt hơn , chúng ta phải có các hệ thống cai quản kinh tế toàn cầu tốt hơn .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>It is important to move from ad-hoc arrangements to more inclusive and representative institutional frameworks .</s>
+<s id='vn91'>Điều quan trọng là phải chuyển các vụ dàn xếp tạm thời thành khuôn khổ pháp lý bao quát hơn và tiêu biểu hơn .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>We need a global economic coordinating council within the UN , not only to coordinate economic policies ( e.g. , the size of the stimulus and regulatory structures ) but also to identify and rectify gaps in the global economic institutional structure .</s>
+<s id='vn92'>Chúng ta cần Hội đồng phối hợp kinh tế toàn cầu trong Liên Hiệp Quốc , không chỉ để phối hợp chính sách kinh tế ( ví dụ như , phạm vi kích cầu và cơ cấu điều hành ) mà còn để nhận biết và bổ sung những kẽ hở trong cấu trúc tổ chức kinh tế toàn cầu .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>For instance , this crisis will almost surely be marked by some sovereign debt defaults .</s>
+<s id='vn93'>Ví dụ , cuộc khủng hoảng này sẽ hầu như chắc chắn được đánh dấu bởi vài khoản nợ mà chính phủ không trả nổi .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Despite extensive discussions at the time of Argentina 's 2001 default , there was no progress in creating a sovereign debt-restructuring mechanism .</s>
+<s id='vn94'>Mặc dù thảo luận rộng rãi vào lúc Argentina không trả nợ năm 2001 , không có tiến bộ trong việc tạo cơ chế điều chỉnh nợ của chính phủ .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The IMF -- dominated by the creditor countries -- cannot play a central role in designing such a mechanism ( any more than we in the United States should turn to our banks to design a good bankruptcy law ) .</s>
+<s id='vn95'>Quỹ tiền tệ thế giới -- bị gây áp lực bởi các quốc gia chủ nợ -- không thể đóng vai trò chủ yếu trong việc thiết kế cơ chế như vậy ( cũng như chúng ta không thể ở Hoa Kỳ nên chuyển sang ngân hàng của chúng tôi thiết kế luật phá sản đích đáng ) .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>One of the alleged reasons for not " playing by the rules " and forcing troubled international banks to go through financial restructuring ( instead , bailing them out ) was that it would give rise to huge cross-border complications .</s>
+<s id='vn96'>Một trong những lý do được viện ra để không " chơi đúng luật " và buộc các ngân hàng quốc tế có vấn đề để đi qua tái cơ cấu tài chính ( thay vào đó , cấp tiền cứu giúp chúng ) là nó sẽ thúc đẩy sự phức tạp xuyên biên giới khổng lồ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Citibank , for example , operates worldwide , and depositors in many countries are not insured .</s>
+<s id='vn97'>Citibank , chẳng hạn , hoạt động toàn cầu , và người gửi tiền ở nhiều quốc gia không được đảm bảo .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>What responsibility do US taxpayers have to depositors abroad if Citibank fails ?</s>
+<s id='vn98'>Người đóng thuế của Hoa Kỳ phải có nghĩa vụ gì đối với người gửi tiền ở nước ngoài nếu Citibank thất bại ?</s>
+</spair>
+<spair id='99'>
+<s id='en99'>They did n't pay deposit insurance ; there is no contract committing us to pick up the pieces .</s>
+<s id='vn99'>Họ không trả bảo hiểm tiền gửi ; chẳng có hợp đồng nào buộc chúng tôi phải giải quyết hậu quả .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Yet some claim it would do irreparable harm to America 's image if we took no responsibility .</s>
+<s id='vn100'>Nhưng vài người tuyên bố nó có thể gây ra thiệt hại không thể bù đắp được đối với hình ảnh của nước Mỹ nếu chúng ta không chịu trách nhiệm .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Iceland 's banking problems illustrate the potential seriousness of these cross-border problems .</s>
+<s id='vn101'>Vấn đề về ngân hàng của iceland minh hoạ tính nghiêm trọng tiềm tàng của những vấn đề xuyên biên giới này .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Its citizens ' standard of living may be impaired for decades because of the bankruptcies of its banks and the Icelandic government 's decision to assume some responsibility for these failures .</s>
+<s id='vn102'>Mức sống của công dân của nó có thể bị sút giảm trong nhiều thập niên vì phá sản của các ngân hàng của nó và quyết định của chính phủ Aixơlen -- để gánh trách nhiệm nào đó cho các thất bại này .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>And yet , again , nothing is being done to address these problems .</s>
+<s id='vn103'>Và tuy nhiên , lại , chẳng có gì sẽ được thực hiện để giải quyết những vấn đề này .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Most important , the UN commission calls attention to the need for reform in the dollar-based global reserve system ; it advocates the creation of a global reserve system .</s>
+<s id='vn104'>Quan trọng nhất , Uỷ ban Liên Hiệp Quốc thu hút sự chú ý đến nhu cầu cải cách trong hệ thống dự trữ đôla toàn cầu ; nó ủng hộ việc thành lập một hệ thống dự trữ toàn cầu .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Not only is the current system fraying ; it contributes to an insufficiency of global aggregate demand and to global instability .</s>
+<s id='vn105'>Hệ thống hiện hành không những làm cho người ta bực bội ; nó góp phần tạo nên sự thiếu hụt tổng cầu toàn cầu và bất ổn toàn cầu .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Every year developing countries set aside hundreds of billions of dollars to protect themselves against the costs of such instability , made so evident by the East Asia crisis .</s>
+<s id='vn106'>Mỗi năm các nước đang phát triển dành riêng ra hàng trăm tỷ đôla để tự bảo vệ mình khỏi cái giá phải trả cho tình trạng bất ổn như thế , được chứng minh rõ ràng qua cuộc khủng hoảng ở Đông Á .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>The commission has argued persuasively that this problem must be addressed if we are to have a robust global recovery .</s>
+<s id='vn107'>Ủy ban đã tranh luận đầy thuyết phục vấn đề này phải được giải quyết nếu chúng ta cần phải có sự khôi phục toàn cầu vững chắc .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Recent statements from the BRIC nations ( Brazil , Russia , India and China ) , expressing their concerns about the dollar reserve system , have added immediacy to the commission 's recommendation .</s>
+<s id='vn108'>Lời tuyên bố gần đây từ quốc gia BRIC ( Braxin , nước Nga , Ấn Độ và Trung Quốc ) , bày tỏ nỗi lo ngại của họ về hệ thống dự trữ dựa trên đồng đô la , đã làm tăng thêm tính cấp bách cho kiến nghị của ủy ban .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>This is an old idea --Keynes argued strongly for the creation of a global reserve currency more than sixty years ago --whose time has come .</s>
+<s id='vn109'>Đây là ý tưởng cũ -- keynes tích cực ủng hộ cho việc tạo ra một đồng tiền dự trữ toàn cầu cách đây hơn sáu mươi năm -- đã đến lúc phải làm như vậy .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Those who would like us to go back to the world as it was before the crisis will find some of the questions being asked at the UN summit uncomfortable .</s>
+<s id='vn110'>Những người muốn chúng tôi trở lại thế giới như trước khi khủng hoảng sẽ thấy vài vấn đề đang được chất vấn tại Hội nghị thượng đỉnh Liên Hiệp Quốc không thoải mái .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>They would be happier with a few harsh words for the offshore islands , a few cosmetic reforms to banking regulation , a few lectures about hedge funds ( which , like offshore banking centers , were not at the center of this crisis ) , a new name and a couple of new members for the Financial Stability Forum --and_then for us to move on .</s>
+<s id='vn111'>Họ sẽ vui với một vài lời nói khó nghe cho đảo ở ngoài khơi , vài cải cách chiếu lệ đối với các quy định về ngân hàng , một vài bài thuyết trình về công ty liều lĩnh ( mà , như các trung tâm ngân hàng ở nước ngoài , không ở trung tâm của cuộc khủng hoảng này ) , tên mới và một vài thành viên mới cho Diễn đàn Ổn định Tài chính - - rồi cho chúng tôi chuyển sang làm chuyện khác .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Many developing countries will be less content to accept these " reforms " as going to the heart of the matter .</s>
+<s id='vn112'>Nhiều nước đang phát triển sẽ không hài lòng lắm khi chấp nhận các " cải cách này " khi đi thẳng vào trọng tâm của vấn đề .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>As developed countries struggle to ensure a quick recovery , they need to think of the effects of their actions on developing countries .</s>
+<s id='vn113'>Khi các nước phát triển cố gắng đảm bảo phục hồi nhanh , họ cần nghĩ về ảnh hưởng việc làm của họ đối với các nước đang phát triển .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>It is time to begin the restructuring of our global economic and financial system in ways that ensure that the fruits of prosperity are more widely shared and that the system is more stable .</s>
+<s id='vn114'>Đã đến lúc phải bắt đầu tái cơ cấu hệ thống kinh tế và tài chính toàn cầu để đảm bảo rằng thành quả của sự thịnh vượng được chia sẻ nhiều hơn và hệ thống ổn định hơn .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>This task will not be accomplished overnight .</s>
+<s id='vn115'>Nhiệm vụ này sẽ không hoàn thành trong một sớm một chiều .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>But it is a task that must be begun , now .</s>
+<s id='vn116'>Nhưng đó là nhiệm vụ phải bắt đầu , ngay bây giờ .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,104 @@
+﻿<doc id='N0169'>
+<head>
+<title>Japan : Earthquake prompts regional alert</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Japan : Earthquake prompts regional alert</s>
+<s id='vn1'>Nhật Bản : Động đất gây cảnh báo trong khu vực</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A powerful aftershock has struck north-east Japan , a month after a violent quake led to a devastating tsunami .</s>
+<s id='vn2'>Một dư chấn mạnh lại tấn công vùng đông bắc Nhật Bản , một tháng sau trận động đất dữ dội dẫn đến cơn sóng thần có sức tàn phá khủng khiếp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Officials ordered mass evacuations and workers at the damaged Fukushima nuclear plant took shelter after the quake triggered a tsunami warning .</s>
+<s id='vn3'>Các quan chức đã yêu cầu hàng loạt cuộc di tản và công nhân nhà máy hạt nhân Fukushima đang bị thiệt hại đã ẩn nấp sau trận động đất gây ra cảnh báo sóng thần .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But this alert was lifted after 90 minutes and no damage was reported at the nuclear plant .</s>
+<s id='vn4'>Nhưng cảnh báo này đã bị bãi bỏ sau 90 phút và báo cáo không có thiệt hại nào tại nhà máy hạt nhân .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Emergency crews said two people died as an indirect result of the quake and about 100 more were injured .</s>
+<s id='vn5'>Đội cứu hộ khẩn cấp cho biết có hai người tử vong do hậu quả gián tiếp của trận động đất và có khoảng hơn 100 người bị thương .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A 63-year-old woman died when the tremor knocked out power in Yamagata prefecture , shutting off her respirator .</s>
+<s id='vn6'>Một phụ nữ 63 tuổi ở quận Yamagata đã chết khi cơn địa chấn làm mất nguồn điện làm ngắt máy hô hấp của bà .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>And a 79-year-old man in Miyagi prefecture died of shock .</s>
+<s id='vn7'>Còn một cụ ông 79 tuổi ở quận Miyagi chết do bị sốc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" So scared "</s>
+<s id='vn8'>" Sợ hãi "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The latest earthquake - at a depth of 49km ( 32 miles ) - struck off Japan 's north-east coast , close to the epicentre of the 11 March .</s>
+<s id='vn9'>Trận động đất mới nhất ở độ sâu 49km ( 32 dặm ) đã tấn công bờ biển đông bắc Nhật Bản gần tâm chấn của trận động đất hôm 11 tháng 3 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>All seven of the workers at Fukushima Daiichi were safe , a spokesman for plant operator Tepco told a news conference in Tokyo .</s>
+<s id='vn10'>Một phát ngôn viên cho người điều hành nhà máy Tepco báo cáo tại cuộc họp báo ở Tokyo rằng cả bảy công nhân nhà máy Fukushima Daiichi đều an toàn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" They have not been injured and they have all taken shelter in our seismic-resistant building " .</s>
+<s id='vn11'>" Mọi người không có ai bị thương và họ đều ẩn náu trong toà nhà chống địa chấn " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This workers are trying to keep the damaged reactors cool to stop further releases of radioactive .</s>
+<s id='vn12'>Những người công nhân này đang cố gắng làm mát các lò phản ứng đã bị hư hỏng nhằm ngăn chặn giải thoát phóng xạ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Thursday 's quake struck at 2332 local time ( 1432 GMT ) on Thursday , 118km ( 78 miles ) north of Fukushima , 40km offshore .</s>
+<s id='vn13'>Trận động đất xảy ra vào lúc 23:32 theo giờ địa phương ( 14:32 theo giờ quốc tế ) vào hôm thứ Năm , cách phía bắc Fukushima 118km ( 78 dặm ) , cách ngoài khơi 40km .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>First reports said it had a magnitude of 7.4 but that was later revised to 7.1 , according to the US Geological Survey ( USGS ) .</s>
+<s id='vn14'>Bản báo cáo đầu tiên cho biết cơn địa chấn có độ lớn 7,4 độ Richter nhưng sau đó Cục Khảo sát Địa chấn Hoa Kỳ ( USGS ) sửa lại là 7,1 độ Richter .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Last month 's earthquake had a magnitude of 9.0 struck at 32km deep .</s>
+<s id='vn15'>Trận động đất vào tháng trước có độ lớn 9.0 độ Richter xảy ra tại độ sâu 32km .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Thursday 's quake struck at about the same location as the 11 March quake .</s>
+<s id='vn16'>Trận động đất hôm thứ Năm cũng xảy ra cùng vị trí động đất ngày 11 tháng Ba vừa qua .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This quake was strong enough to shake buildings in Tokyo , 265km to the south .</s>
+<s id='vn17'>Trận động đất này đủ mạnh để làm rung chuyển các toà nhà ở phía nam Tokyo 265km .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" It started off with small shakes , then shook bigger , " Miri Gono in Tokyo told the BBC by e-mail .</s>
+<s id='vn18'>Miri gono , ở Tokyo đã kể với hãng tin BBC qua email " cơn động đất bắt đầu bằng những rung lắc nhỏ rồi lớn dần " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" I was alone in my house with my brother and we were so scared ...</s>
+<s id='vn19'>" Tôi với anh trai ở trong nhà một mình và chúng tôi rất sợ hãi …</s>
+</spair>
+<spair id='20'>
+<s id='en20'>We took our bottles of water and hid under the table . "</s>
+<s id='vn20'>Chúng tôi chụp lấy mấy chai nước rồi núp xuống dưới gầm bàn . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Japan 's meteorological agency issued tsunami warnings and advisories for a stretch of coast 420km long , from Aomori prefecture in the north to Ibaraki prefecture in central Japan , just north of Tokyo .</s>
+<s id='vn21'>Cơ quan khí tượng ở Nhật Bản đã đưa ra cảnh báo về sóng thần đối với vùng bờ biển kéo dài 420km từ quận Aomori ở phía bắc đến quận Ibaraki ở miền trung Nhật Bản , ngay phía bắc Tokyo .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Hundreds of aftershocks have shaken north-eastern Japan in the of the earlier earthquake , but few have measured higher than 7.0 .</s>
+<s id='vn22'>Hàng trăm cơn địa chấn đã làm rung chuyển vùng đông bắc Nhật Bản sau trận động đất mới đây nhưng chỉ có một số ít cơn địa chấn lớn hơn 7.0 độ Richter .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>About 28,000 people are dead or missing , hundreds of thousands were left homeless after the tsunami which ripped through this region .</s>
+<s id='vn23'>Có khoảng 28.000 người chết và mất tích , hàng trăm ngàn người vô gia cư sau cơn sóng thần đổ ập vào vùng này .</s>
+</spair>
+</text>
+</doc>

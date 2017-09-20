@@ -1,0 +1,280 @@
+﻿<doc id='N0339'>
+<head>
+<title>10 Reasons Why Reliable Windows 7 Security Is Crucial to Users .</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>10 Reasons Why Reliable Windows 7 Security Is Crucial to Users .</s>
+<s id='vn1'>10 lý do tại sao độ tin cậy về bảo mật của Windows 7 là quan trọng đối với người dùng .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Windows Security has been a particular pain point for users with every new edition Microsoft has released since the advent of the Internet .</s>
+<s id='vn2'>Bảo mật của Windows đã từng là một trở ngại đặc biệt cho người dùng với mọi phiên bản mới của Microsoft đã phát hành kể từ sự ra đời của Internet .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Effective security is essential in any operating system in preventing malware , protecting a network and ensuring data protection .</s>
+<s id='vn3'>Bảo mật hiệu quả là rất cần thiết trong bất kỳ hệ điều hành nào trong việc ngăn chặn phần mềm độc hại , bảo vệ hệ thống mạng và bảo đảm việc bảo vệ dữ liệu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But reliable security is especially important to restore trust in the Windows ecosystem .</s>
+<s id='vn4'>Nhưng sự bảo mật đáng tin cậy thì đặc biệt quan trọng để khôi phục sự tín nhiệm của người dùng trong " hệ sinh thái " của HĐH Windows này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>If Windows 7 is n't as secure as it could be , Microsoft could face significant trouble going forward .</s>
+<s id='vn5'>Nếu Windows 7 không an toàn như nó có thể , Microsoft có thể đối mặt với những khó khăn lớn trong tương lai .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>As Microsoft prepares Windows 7 for its release later this month , it 's important to realize that there really is n't a guarantee that it will offer any more value than earlier versions .</s>
+<s id='vn6'>Như việc Microsoft chuẩn bị phát hành Windows 7 cuối tháng này , điều quan trọng để nhận ra rằng thực sự không có một sự đảm bảo nào là nó sẽ đem lại giá trị nhiều hơn các phiên bản trước đó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Recent reports have said that it 's a superior operating system to its predecessors - Windows XP and Windows Vista - but in the software space , that does n't mean that it will necessarily be true .</s>
+<s id='vn7'>Các báo cáo gần đây đã cho rằng đó là một hệ điều hành cao cấp hơn hẳn các phiên bản trước đây - Windows XP và Windows Vista - nhưng trong không gian phần mềm , điều đó không có nghĩa là nó sẽ nhất thiết phải đúng sự thật .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>There are several factors at play .</s>
+<s id='vn8'>Đó là một vài yếu tố tại cuộc chơi này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>One of the most prominent factors is security .</s>
+<s id='vn9'>Một trong những yếu tố nổi bật nhất là sự bảo mật .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Long the thorn in Microsoft 's side , security could make or break Windows 7 .</s>
+<s id='vn10'>Một cái gai dài trước mắt Microsoft , sự bảo mật có thể quyết định sự thành bại của Windows 7 .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If it 's more secure than earlier versions of the software , Windows 7 could be a winner .</s>
+<s id='vn11'>Nếu nó an toàn hơn các phiên bản trước , Windows 7 có thể là một người chiến thắng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>If not , it could be a loser .</s>
+<s id='vn12'>Ngược lại , nó có thể trở thành một kẻ bại trận .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Arguably , security matters most to Windows 7 's success , and to how consumers and IT administrators view the new OS .</s>
+<s id='vn13'>Nhiều người cho rằng , các vấn đề bảo mật đem lại sự thành công của Windows 7 và để làm thế nào người tiêu dùng và các quản trị viên CNTT xem xét hệ điều hành mới này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Here 's why :</s>
+<s id='vn14'>Đây là lý do :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>1 . The enterprise relies on security</s>
+<s id='vn15'>1 . Doanh nghiệp tin vào sự bảo mật</s>
+</spair>
+<spair id='16'>
+<s id='en16'>There 's nothing worse for an enterprise than deploying an operating system that fails to offer the kind of security it expects .</s>
+<s id='vn16'>Không có gì tệ hơn cho một doanh nghiệp khi triển khai một HĐH mà không đủ khả năng cung cấp các loại hình an ninh như họ mong đợi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Nowhere is that more evident than in Windows Vista , which turned many companies away prior to the release of Service Pack 1 .</s>
+<s id='vn17'>Không tìm thấy ở đâu mà cụ thể hơn trong Windows Vista , ở đó nhiều công ty đã rời bỏ HĐH này trước khi phát hành bản Service Pack 1 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Windows 7 cannot afford to be insecure .</s>
+<s id='vn18'>Windows 7 không phải là không có khả năng an toàn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The key customers Microsoft relies on for big profits - corporations - won't like it .</s>
+<s id='vn19'>Những khách hàng then chốt của Microsoft dựa vào lợi nhuận lớn - các tập đoàn - sẽ không giống như vậy .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>2 . Consumers wo n't like it either</s>
+<s id='vn20'>2 . Người tiêu dùng sẽ không thích chọn nó để thay thế .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Microsoft also needs to worry about consumers .</s>
+<s id='vn21'>Microsoft cũng cần nghĩ đến người tiêu dùng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Those that learn that Windows 7 is insecure or vulnerable to viruses and malware will find alternatives for fear of losing their data .</s>
+<s id='vn22'>Những người mà tìm hiểu rằng Windows 7 là không an toàn hoặc dễ bị virus và các phần mềm độc hại làm mất dữ liệu của họ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Granted , the state of cyber-security in the consumer space is poor .</s>
+<s id='vn23'>Công nhận rằng khả năng tự bảo mật thông tin của người dùng còn nhiều hạn chế .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>But I 'm a firm believer that more people than ever are at least aware of security concerns and the latest attacks .</s>
+<s id='vn24'>Nhưng tôi tin chắc rằng nhiều người trong số đó ít nhất cũng nhận thức về các mối quan tâm bảo mật và các cuộc tấn công gần đây nhất .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If they find out that an operating system is insecure , they wo n't be happy .</s>
+<s id='vn25'>Nếu họ nhận thấy rằng một hệ điều hành không an toàn , họ sẽ cảm thấy không an tâm .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>3 . What about market share ?</s>
+<s id='vn26'>3 . Thế còn thị phần thì sao ?</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If Windows 7 is insecure , you can expect Microsoft 's dominance in the operating-system market to slip .</s>
+<s id='vn27'>Nếu Windows 7 không an toàn , bạn có thể nghĩ rằng vị thế của Microsoft trên thị trường điều hành sẽ bị trượt dốc .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Those that were intent on buying Windows 7 prior to its release will learn of its troubles and opt for a different operating system .</s>
+<s id='vn28'>Những người có ý định mua Windows 7 trước khi phát hành sẽ biết được các vấn đề của nó và lựa chọn một HĐH khác .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>That could mean Linux or , most likely , Apple will reap the reward .</s>
+<s id='vn29'>Điều đó có nghĩa là Linux hay , rất có thể là Apple sẽ là sự lựa chọn của họ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>4 . Microsoft 's loss of power</s>
+<s id='vn30'>4 . Microsoft mất đi quyền lực</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If Windows 7 suffers from insecurity , much of the power Microsoft wields in the computing industry will be eliminated .</s>
+<s id='vn31'>Nếu Windows 7 kém an toàn , nhiều quyền lực mà Microsoft nắm giữ trong ngành công nghiệp máy tính sẽ bị mất đi .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>When Windows XP was at its height , companies like Dell and Hewlett-Packard were forced to " play ball " with Microsoft .</s>
+<s id='vn32'>Khi Windows XP lên đến đỉnh điểm , các công ty như Dell và Hewlett-Packard bị buộc phải " chơi trò ném bóng " với Microsoft .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If Microsoft required something of those companies , they did it .</s>
+<s id='vn33'>Nếu Microsoft cần một cái gì đó của những công ty này , họ nhanh chóng đáp ứng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But after the downgrade-rights fiasco allowed users to get Windows XP bundled in computers rather than Windows Vista , those vendors regained some power .</s>
+<s id='vn34'>Nhưng sau khi thất bại thì các quyền lợi hạ thấp xuống cho phép người dùng mua Windows XP kèm trong máy tính thay vì kèm Windows Vista , những bù lại nhà cung cấp giành lại được một số quyền lực .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>An insecure Windows 7 will ensure that Microsoft will fully relinquish its grip in that space .</s>
+<s id='vn35'>Sự không an toàn của windows 7 sẽ đảm bảo rằng Microsoft sẽ từ bỏ hoàn toàn sự kiềm kẹp của họ trong lĩnh vực này .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>5 . Criticism , anyone ?</s>
+<s id='vn36'>5 . Sự phê bình , bất cứ ai ?</s>
+</spair>
+<spair id='37'>
+<s id='en37'>As soon as the news broke that Windows 7 was insecure , you can bet that Apple would jump on it .</s>
+<s id='vn37'>Ngay sau khi các tin tức đã tiết lộ rằng Windows 7 không an toàn , bạn có thể đặt cược rằng Apple sẽ nhảy vào đó .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The company 's " I'm a Mac , I'm a PC " ads have been so successful because they highlight Windows 's security problems when it comes to malware and viruses .</s>
+<s id='vn38'>Quảng cáo của công ty này " I'm a Mac , I'm a PC " đã rất thành công vì họ nêu bật những vấn đề bảo mật của Windows khi đề cập đến phần mềm độc hại và virus .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>An insecure Windows 7 will only maximize Apple 's intent on making Microsoft look bad .</s>
+<s id='vn39'>Windows 7 không an toàn sẽ làm tăng thêm các mục đích bôi nhọ của Apple làm cho hình ảnh của Microsoft trở nên mờ nhạt .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Say what you will about Mac OS X , but Apple will be licking its chops if Windows 7 is insecure and open to security attacks .</s>
+<s id='vn40'>Bạn sẽ nói những gì về Mac OS X , nhưng Apple sẽ nhếch mép cười nhạo nếu Windows 7 không an toàn và mở đường cho các cuộc tấn công bảo mật .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>6 . It loses the security high ground</s>
+<s id='vn41'>6 . Mất đi nền tảng bảo mật cao</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Microsoft has done a relatively good job over the past couple years at rebuilding its standing in the security community .</s>
+<s id='vn42'>Microsoft đã hoàn thành được một nhiệm vụ tương đối tốt trong 2 năm vừa qua để xây dựng lại vị thế của nó trong cộng đồng bảo mật .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>For too long , the company had what looked like a lackadaisical attitude towards security .</s>
+<s id='vn43'>Từ lâu , công ty này đã có những cái nhìn trông giống như một thái độ không mạnh mẽ hướng tới sự bảo mật .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>But in recent years , the rhetoric has ramped up and Microsoft has made it clear that it wants to make Windows far more secure and better at data protection and ensuring network security .</s>
+<s id='vn44'>Nhưng trong những năm gần đây , việc làm này đã được đẩy mạnh và Microsoft đã bộc lộ rõ rằng họ muốn tạo ra Windows an toàn hơn , bảo vệ dữ liệu tốt hơn và bảo đảm an ninh mạng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>An insecure Windows 7 will fly in the face of that .</s>
+<s id='vn45'>Suy nghĩ một Windows 7 không an toàn sẽ biến mất .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>And the security community will take notice .</s>
+<s id='vn46'>Và cộng đồng an ninh sẽ chú ý điều này .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>7 . Hackers will take notice</s>
+<s id='vn47'>7 . Hacker sẽ chú ý</s>
+</spair>
+<spair id='48'>
+<s id='en48'>As soon as malicious hackers realized that Windows 7 was insecure , they would immediately jump at the chance to prey on users ,while spreading malware .</s>
+<s id='vn48'>Khi các hacker có ý đồ không tốt nhận thấy Windows 7 không an toàn , ngay lập tức họ sẽ nắm lấy cơ hội để làm hại người dùng , lợi dụng để phát tán phần mềm độc hại .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The issues would only escalate , causing Microsoft and Windows 7 to look even worse .</s>
+<s id='vn49'>Những vấn đề sẽ ngày càng leo thang và gây ra cho Microsoft và Windows 7 trông có vẻ còn tệ hơn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>8 . Comparisons will be drawn</s>
+<s id='vn50'>8 . Những sự so sánh sẽ được rút ra</s>
+</spair>
+<spair id='51'>
+<s id='en51'>As Microsoft gets ready to release Windows 7 , the company wants everyone to forget about its past mistakes .</s>
+<s id='vn51'>Như việc Microsoft sẵn sàng phát hành Windows 7 , hãng Microsoft muốn mọi người quên đi những sai lầm trong quá khứ của họ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It does n't want users to think of Windows Vista when they load Windows 7 . They want them to remember the good old days of PC computing .</s>
+<s id='vn52'>Họ không muốn người dùng nghĩ về Windows Vista khi họ tải Windows 7 . Microsoft muốn họ nhớ đến thời huy hoàng của điện toán PC những ngày trước .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>If Windows 7 is insecure , comparisons between Windows Vista , Windows ME , or Windows 2000 will be immediately drawn .</s>
+<s id='vn53'>Nếu Windows 7 không an toàn , sự so sánh giữa Windows Vista , Windows ME hoặc Windows 2000 sẽ được rút ra ngay lập tức .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>And it will only spell trouble for Microsoft .</s>
+<s id='vn54'>Và nó sẽ nói vấn đề này cho Microsoft .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>9 . Confidence will be lost</s>
+<s id='vn55'>9 . Niềm tin sẽ bị đánh mất</s>
+</spair>
+<spair id='56'>
+<s id='en56'>With not one , but two operating systems not living up to customer expectations , Microsoft would put itself in a bad position .</s>
+<s id='vn56'>Không phải chỉ với một mà đến hai hệ điều hành không đáp ứng được kỳ vọng của khách hàng , Microsoft sẽ tự đặt chính mình vào tình huống xấu .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Windows 8 would cause users to be suspect of the operating system 's ability to satisfy their needs security needs and protecting their corporate networks .</s>
+<s id='vn57'>Windows 8 sẽ khiến cho người dùng phải hoài nghi về khả năng HĐH này đáp ứng các nhu cầu bảo mật cần thiết và bảo vệ mạng doanh nghiệp của họ .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>And Microsoft would need to find a way ( probably through cash ) to get customers ' minds off of Windows Vista and Windows 7 and on to the future .</s>
+<s id='vn58'>Và Microsoft sẽ cần phải tìm một cách ( có thể là bằng tiền mặt ) để tâm trí của khách hàng không còn nghĩ về Windows Vista và Windows 7 và trong tương lai .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>With two missteps , that might be difficult .</s>
+<s id='vn59'>Với hai bước đi sai lầm , điều này có thể trở nên khó khăn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>10 . It gives Chrome an opening</s>
+<s id='vn60'>10 . Đem lại cơ hội cho Chrome</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Microsoft has been forced to take on Google in practically every place it competes .</s>
+<s id='vn61'>Trên thực tế , Microsoft bị buộc phải để mất cương vị của nó cho đối thủ cạnh tranh là Google .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>From word processing to search , the company has battled it out with Google .</s>
+<s id='vn62'>Từ xử lý văn bản đến tìm kiếm , Microsoft đã chiến đấu với Google .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>If Windows 7 is a security failure , you can bet that Google will take advantage by promoting its new Chrome OS and its security features .</s>
+<s id='vn63'>Nếu Windows 7 thiếu khả năng bảo mật , bạn có thể đặt cược rằng Google sẽ tận dụng thời cơ này để quảng cáo HĐH mới Chrome và các tính năng bảo mật .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>The company will jump at the chance to call it an alternative to Windows .</s>
+<s id='vn64'>Google sẽ nắm lấy cơ hội này để nói Chrome là một giải pháp thay thế cho Windows .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>And in the end , it could give Google the opening it needs to capitalize on the OS market .</s>
+<s id='vn65'>Và cuối cùng , nó có thể đem lại cho Google lợi thế tốt trên thị trường hệ điều hành .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Security is a major issue for Microsoft Windows .</s>
+<s id='vn66'>Bảo mật là một vấn đề lớn đối với Microsoft Windows .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>The company does n't have an opportunity to slack on it .</s>
+<s id='vn67'>Công ty này không còn cơ hội để chùn bước trước nó .</s>
+</spair>
+</text>
+</doc>

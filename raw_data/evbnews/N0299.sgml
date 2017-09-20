@@ -1,0 +1,100 @@
+﻿<doc id='N0299'>
+<head>
+<title>Negative experiences stop painkillers working</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Negative experiences stop painkillers working</s>
+<s id='vn1'>Những trải nghiệm thực tế thiếu lạc quan ngăn chặn tác dụng của thuốc giảm đau</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A patient 's belief that a drug will not work can become a self fulfilling prophecy , according to researchers .</s>
+<s id='vn2'>Theo các nhà nghiên cứu niềm tin của bệnh nhân có thể trở thành dự báo nhằm thoả mãn bản thân thuốc sẽ không có tác dụng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They showed the benefits of painkillers could be boosted or completely wiped out by manipulating expectations .</s>
+<s id='vn3'>Họ cho thấy lợi ích của thuốc giảm đau có thể tăng tác dụng hoặc hoàn toàn không có tác dụng bằng những hy vọng nguỵ tạo .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>This study , published in Science Translational Medicine , also identifies the regions of the brain which are affected .</s>
+<s id='vn4'>Nghiên cứu này cũng xác nhận những vùng ở não bị ảnh hưởng , được công bố trên Science Translational Medicine .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Experts said this could have important consequences for patient care and for testing new drugs .</s>
+<s id='vn5'>Các chuyên gia cho rằng điều này có thể gây hậu quả nghiêm trọng trong việc chăm sóc bệnh nhân và thử nghiệm các loại thuốc mới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Heat was applied to the legs of 22 patients , who were asked to report the level of pain on a scale of one to 100 .</s>
+<s id='vn6'>Nhiệt được dùng để tác động vào chân ở 22 bệnh nhân , họ được yêu cầu thông báo về mức độ cơn đau trên thang từ 1 đến 100 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They were also attached to an intravenous drip so drugs could be administered secretly .</s>
+<s id='vn7'>Họ cũng được truyền máu vào tĩnh mạch để có thể đưa thuốc vào cơ thể một cách bí mật .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The initial average pain rating was 66 .</s>
+<s id='vn8'>Tỷ lệ cơn đau trung bình đầu tiên là 66 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Patients were then given a potent painkiller , remifentanil , without their knowledge and the pain score went down to 55 .</s>
+<s id='vn9'>Sau đó bệnh nhân được đưa vào loại thuốc giảm đau mạnh , remifentanil , mà họ không biết thì lúc đó mức độ cơn đau giảm xuống 55 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>They were then told they were being given a painkiller and the score went down to 39 .</s>
+<s id='vn10'>Sau đó người ta thông báo họ đã được tiêm thuốc giảm đau thì thang giảm xuống 39 .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Then , without changing the dose , the patients were then told the painkiller had been withdrawn and to expect pain , and the score went up to 64 .</s>
+<s id='vn11'>Vẫn với liều lượng như vậy nhưng bệnh nhân được thông báo thuốc giảm đau đã được rút ra để cơn đau xảy đến , thang tăng lên 64 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>So even though the patients were being given remifentanil , they were reporting the same level of pain as when they were getting no drugs at all .</s>
+<s id='vn12'>Vậy là mặc dù bệnh nhân được tiêm thuốc giảm đau remifentanil , thang vẫn biểu hiện cùng mức độ cơn đau như khi họ chưa được tiêm thuốc vào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Professor Irene Tracey , from Oxford University , told the BBC : " It 's phenomenal , it 's really cool .</s>
+<s id='vn13'>Giáo sư Irene Tracey ở trường Đại học Oxford phát biểu trên BBC , " Thật là tuyệt , đó chính là một hiện tượng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It 's one of the best analgesics we have brain 's influence can either vastly increase its effect , or completely remove it . "</s>
+<s id='vn14'>Nó là một trong những loại thuốc giảm đau tốt nhất mà chúng tôi có , ảnh hưởng của não vừa có thể tăng tác dụng rất lớn vừa hoàn toàn làm mất tác dụng . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This study was conducted on healthy people who were subjected to pain for a short period of time .</s>
+<s id='vn15'>Nghiên cứu này được thực hiện ở những người khoẻ mạnh bị chi phối bởi cơn đau trong khoảng thời gian ngắn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>She said people with chronic conditions who had unsuccessfully tried many drugs for many years would have built up a much greater negative experience , which could impact on their future healthcare .</s>
+<s id='vn16'>Bà nói rằng những người bị căn bệnh mãn tính đã thử dùng nhiều loại trong nhiều năm mà không lành , điều này làm tăng thêm trải nghiệm bi quan lớn hơn , và tác động đến việc chăm sóc sức khoẻ của họ trong tương lai .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Professor Tracey said : " Doctors need more time for consultation and to investigate the cognitive side of illness , the focus is on physiology not the mind , which can be a real roadblock to treatment . "</s>
+<s id='vn17'>Giáo sư Tracey nói rằng : " Bác sĩ cần có thêm thời gian để tư vấn và nghiên cứu kỹ khía cạnh căn bệnh có liên quan đến nhận thức , tập trung vào sinh lý học chứ không phải là ý thức mà điều này có thể là một rào cản thực sự trong việc điều trị . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Brain scans during the experiment also showed which regions of the brain were affected .</s>
+<s id='vn18'>Nội soi não trong quá trình thử nghiệm cho thấy các vùng xung quanh não cũng bị ảnh hưởng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The expectation of positive treatment was associated with activity in the cingulo-frontal and subcortical brain areas while the negative expectation led to increased activity in the hippocampus and the medialfrontal cortex .</s>
+<s id='vn19'>Hy vọng về việc điều trị tích cực liên quan đến hoạt động ở vùng não thuộc vành trán và vùng dưới vỏ não trong khi hy vọng tiêu cực dẫn đến tính hoạt động gia tăng ở đồi hải mã và vỏ não trán giữa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Researchers also say this study raises concerns about clinical trials used to determine the effectiveness of drugs .</s>
+<s id='vn20'>Các nhà nghiên cứu cũng cho rằng nghiên cứu này làm tăng sự lo ngại về các thử nghiệm lâm sàng nhằm xác định tính hiệu quả của thuốc .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>George Lewith , professor of health research at the University of Southampton , said : " It 's another of evidence that we get what we expect in life . " .</s>
+<s id='vn21'>Giáo sư George Lewith chuyên nghiên cứu về y tế ở Trường Đại học Southampton nói rằng : " Đó là dấu hiệu khác mà chúng ta có thể đạt được những gì chúng ta muốn trong cuộc sống . " .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" It completely blows cold randomised clinical trials , which don't take into account expectation . "</s>
+<s id='vn22'>" Nó như thổi một cơn gió mát vào các cuộc thử nghiệm lâm sàng ngẫu nhiên mà không tính đến sự mong đợi nào . "</s>
+</spair>
+</text>
+</doc>

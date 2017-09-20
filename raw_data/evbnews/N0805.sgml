@@ -1,0 +1,216 @@
+﻿<doc id='N0805'>
+<head>
+<title>Google and Microsoft 's New Battleground : Your Living Room</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google and Microsoft 's New Battleground : Your Living Room</s>
+<s id='vn1'>Chiến trường mới của Google và Microsoft : Phòng khách nhà bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft and Google are n't going head to head just over Internet search , office productivity suites and cloud-based applications and services .</s>
+<s id='vn2'>Microsoft và Google không chỉ đối đầu trong lĩnh vực tìm kiếm trên Internet , bộ phần mềm văn phòng , các ứng dụng và dịch vụ nền tảng đám mây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Their next looming battle is over who will own the living room , and the outcome will have surprising implications for IT as well .</s>
+<s id='vn3'>Trận chiến sắp diễn ra tiếp theo giữa hai hãng sẽ liên quan đến việc ai sẽ là người sở hữu phòng khách nhà bạn , và kết quả cũng sẽ mang đến những tác động không ngờ tới cho giới CNTT .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In February , news leaked about a new service and device Google has been working on that will stream music throughout a home usingGoogle 's cloud-based music service and Google-branded , wirelessly enabled speakers .</s>
+<s id='vn4'>Hồi tháng Hai vừa qua , có tin rò rỉ về một dịch vụ và thiết bị mới mà Google đã nghiên cứu với chức năng truyền tải âm nhạc khắp nhà nhờ sử dụng dịch vụ âm nhạc nền tảng đám mây của Google và loa ngoài gắn mác Google được kích hoạt qua mạng không dây .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The New York Times reported that the device has been in development for a year .</s>
+<s id='vn5'>Theo New York Times , thiết bị này đã được phát triển một năm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's likely that once Goo gle 's purchase of Motorola goes through , Motorola Empty will manufacture it .</s>
+<s id='vn6'>Rất có thể ngay khi thương vụ mua Motorola của Google được chấp thuận , Motorola Empty sẽ sản xuất thiết bị này .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Music is only Goo gle 's first target ; ultimately the service is expected to include streaming video as well .</s>
+<s id='vn7'>Âm nhạc chỉ là đích nhắm đầu tiên của Google ; cuối cùng , dịch vụ này được mong đợi cũng có thể truyền tải video .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And even that represents just the beginning of Goo gle 's ambitions in the home .</s>
+<s id='vn8'>Ngay cả việc này cũng chỉ nói lên sự khởi đầu cho những tham vọng của Google về thiết bị trong nhà .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A person connected with the project told the Times that Google wants eventually to control all gadgets in the home -- televisions , speakers , even light bulbs -- and link them to the Internet .</s>
+<s id='vn9'>Một nhân viên của dự án này cho tờ New York Times biết là Google muốn cuối cùng mình sẽ điều khiển tất cả thiết bị điện tử trong nhà - - tivi , loa , thậm chí là bóng đèn - - và kết nối chúng với Internet .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Microsoft has similar ambitions .</s>
+<s id='vn10'>Microsoft cũng có những tham vọng tương tự .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In a blog post last summer , Frank X . Shaw , a Microsoft corporate communications executive , laid out a vision of a world in which people would use Microsoft 's Kinect , Xbox and Bing to interact with TV and entertainment devices via gesture and voice .</s>
+<s id='vn11'>Trong một bài viết trên blog mùa hè năm ngoái , Frank X . Shaw , giám đốc truyền thông doanh nghiệp của Microsoft , đã dựng nên viễn cảnh về một thế giới mà trong đó mọi người sẽ sử dụng sản phẩm của Microsoft như Kinect , Xbox và Bing để tương tác với TV và thiết bị giải trí bằng cử chỉ và giọng nói .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Xbox already streams music and video , so Microsoft Empty is there before Google .</s>
+<s id='vn12'>Xbox đã có thể truyền tải âm nhạc và video , do đó Microsoft Empty đã đi trước Google ở lĩnh vực này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>You can be sure , though , that Microsoft 's ambitions go beyond the living room , just as Goo gle 's do .</s>
+<s id='vn13'>Thế nhưng , bạn có thể chắc chắn rằng tham vọng của Microsoft không chỉ là thiết bị phòng khách , cũng giống như tham vọng của Google .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The battle here is about much more than selling devices like the Xbox or Goo gle 's upcoming streaming-music device .</s>
+<s id='vn14'>Cuộc chiến lần này vượt xa hơn nhiều so với việc bán những thiết bị như Xbox hoặc thiết bị truyền tải âm nhạc sắp ra mắt của Google .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>To a certain extent , that kind of hardware may eventually be little more than a loss leader .</s>
+<s id='vn15'>Trong một chừng mực nào đó , loại phần cứng này có thể cuối cùng cũng chỉ hơn một sản phẩm bán lỗ để khuyến khích tiêu dùng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Both companies ultimately want you to live in their cloud .</s>
+<s id='vn16'>Cả hai công ty đều muốn bạn sống trên   " đám mây " của họ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>They do n't want you just to store your music there ; they want information about your entire life there .</s>
+<s id='vn17'>Họ không chỉ muốn bạn lưu trữ nhạc trên đó ; mà họ muốn mọi thông tin về cả cuộc đời bạn cũng ở trên đó .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>If they 're going to control your lights and use of electricity , they need information about when you want your lights automatically turned on and off , for example .</s>
+<s id='vn18'>Chẳng hạn như để điều khiển đèn điện và kiểm soát việc sử dụng điện của bạn , họ cần biết khi nào bạn muốn đèn nhà mình   tự động tắt và mở .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>If they 're going to take charge of your television , they 'll need to know what types of shows you like to watch so they can make suggestions for new shows and record your favorites when you 're otherwise occupied .</s>
+<s id='vn19'>Nếu họ muốn đảm nhiệm về truyền hình nhà bạn , họ cần biết bạn thích xem những loại show truyền hình nào để họ có thể gợi ý những show mới và ghi hình lại những show yêu thích của bạn khi bạn bận việc .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>And they 'll store all that information , along with your music , personal documents and more , in your personal cloud .</s>
+<s id='vn20'>Và họ sẽ lưu trữ tất cả thông tin , cùng với nhạc , tài liệu cá nhân của bạn và nhiều hơn nữa , trên dịch vụ đám mây cá nhân của bạn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>What does this have to do with IT and the enterprise ?</s>
+<s id='vn21'>Điều này có gì liên quan đến CNTT và doanh nghiệp ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>More than you might expect .</s>
+<s id='vn22'>Nó có liên quan nhiều hơn bạn nghĩ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The ongoing consumerization of IT shows that there 's no longer a clear line between personal and professional use of technology .</s>
+<s id='vn23'>Xu hướng công nghệ tiêu dùng đang diễn ra cho thấy không còn ranh giới rõ ràng giữa việc sử dụng công nghệ của cá nhân và doanh nghiệp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If people use an iPad at home , they 're also going to use it at work , and not just for playing Angry Birds .</s>
+<s id='vn24'>Nếu mọi người sử dụng i Pad ở nhà thì họ cũng sẽ sử dụng nó ở công sở , và không chỉ là để chơi Angry Birds .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>So they expect support for issues such as how to access company email and networks on their iPad .</s>
+<s id='vn25'>Vì vậy họ mong được hỗ trợ về những vấn đề như là làm sao truy cập email công ty và mạng trên i Pad .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>That 's true today and will become even more true in the future .</s>
+<s id='vn26'>Điều này đúng với hiện tại và sẽ thậm chí còn đúng hơn trong tương lai .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>And when people are storing their music and personal information in their clouds with Microsoft and Google , that fuzzy line between work and home will become even fuzzier -- and more significant .</s>
+<s id='vn27'>Và khi mọi người lưu trữ thông tin cá nhân và nhạc trên " đám mây " của mình với Microsoft và Google , ranh giới mờ nhạt giữa công sở và nhà ở thậm chí sẽ còn mờ nhạt hơn - - và đáng kể hơn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>You can count on people mixing personal and professional information in those vendors ' clouds .</s>
+<s id='vn28'>Bạn có thể tin rằng mọi người sẽ lưu trữ chung thông tin cá nhân và nghiệp vụ trên " đám mây " của hai nhà cung cấp dịch vụ này .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>And that means that they 'll be coming to IT when they have problems accessing their professional information from their personal clouds .</s>
+<s id='vn29'>Và điều đó có nghĩa rằng mọi người sẽ . tìm đến CNTT khi họ gặp vấn đề truy cập thông tin nghiệp vụ từ các " đám mây " cá nhân của họ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They 'll expect their cloud-based services at home to trade information with their cloud-based services at work .</s>
+<s id='vn30'>Họ sẽ mong muốn các dịch vụ nền tảng đám mây tại nhà có thể trao đổi thông tin với các dịch vụ nền tảng đám mây của họ tại công sở .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>That 's one of the reasons Microsoft and Google will be trying so hard to get consumers ' loyalty at home ; it 's a way to get their loyalty at work as well .</s>
+<s id='vn31'>Đó là một trong những lý do mà Microsoft và Google sẽ phải rất cố gắng để có được sự trung thành của người tiêu dùng tại nhà ; đó cũng là cách để có được lòng trung thành của họ tại công sở .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>So if you 're in IT , the battle between the Xbox and Goo gle 's upcoming streaming-music service may only be a sideshow today , but tomorrow there 's a good chance that you will have to know about both services as part of your job .</s>
+<s id='vn32'>Vậy nếu bạn là dân CNTT thì trận chiến giữa Xbox và dịch vụ truyền tải âm nhạc sắp ra mắt của Google ngày hôm nay có thể chỉ là một show diễn nhỏ , nhưng ngày mai rất có khả năng bạn sẽ phải biết đến hai dịch vụ này như là một phần công việc của bạn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Seagate Ships Its Fastest-Yet Enterprise SSDs</s>
+<s id='vn33'>Seagate ra mắt ổ lưu trữ SSD nhanh nhất dành cho doanh nghiệp .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>New SSDs are optimized for mixed workloads , such as online transaction processing , database or Web indexing , and email .</s>
+<s id='vn34'>Các ổ đĩa SSD mới được tối ưu hóa cho các khối lượng công việc chung , chẳng hạn như xử lí giao dịch trực tuyến , lập chỉ mục cơ sở dữ liệu hoặc Web và email .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Seagate started shipping its new Pulsar solid-state drives-2.5-inch SSDs the company claims are the fastest it has ever manufactured-July 18 to its channel partners .</s>
+<s id='vn35'>Công ty Seagate bắt đầu tung ra ổ đĩa thể rắn SSD 2.5 inch Pulsar mới , những tuyên bố của công ty này với các đối tác làm đại lý vào ngày 18 7 là nó có tốc độ nhanh nhất mà họ từng sản xuất .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Seagate said that the 400GB Pulsar XT.2 uses SLC ( single-level cell ) flash with a native 6Gb/s SAS ( serial-attached SCSI ) interface .</s>
+<s id='vn36'>Seagate cho biết rằng ổ đĩa Pulsar XT.2400GB sử dụng chip nhớ flash SLC ( single-level cell – Ô nhớ đơn cấp với một kết nối chuẩn SAS ( serial-attached SCSI ) 6GB/s . Ổ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The XT.2 is optimized for mixed workloads typical of enterprise environments , such as OLTP ( on line transaction processing ) , database or Web indexing , and email .</s>
+<s id='vn37'>đĩa XT . 2 tối ưu hóa cho các khối lượng công việc chung điển hình của môi trường doanh nghiệp , chẳng hạn như OLTP ( xử lý giao dịch trực tuyến ) , lập chỉ mục cơ sở dữ liệu hoặc web , và email .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>A more capacious version , the 800GB Pulsar.2 , is scheduled to become available July 29 .</s>
+<s id='vn38'>Một phiên bản cao hơn là Pulsar.2 với dung lượng là 800GB , dự kiến sẽ ra mắt vào ngày 29 tháng 7 .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Seagate claimed that this is the first MLC flash-enabled SSD made available by an enterprise hard-drive producer .</s>
+<s id='vn39'>Seagate tuyên bố rằng đây là ổ lưu trữ flash SSD MLC đầu tiên được làm bởi một nhà sản xuất ổ đĩa cứng doanh nghiệp .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In a single storage device configuration , the XT.2 produced an SPC-1C result of 20,008.82</s>
+<s id='vn40'>Trong một cấu hình thiết bị lưu trữ đơn , XT.2 đạt được một kết quả tiêu chuẩn công nghiệp SPC-1C là 20,008.82</s>
+</spair>
+<spair id='41'>
+<s id='en41'>SPC-1 IOPS with an average response time of 2.05 milliseconds over a 10-minute duration , compared with an SPC-1C Sustainability Test result of 20,0 11.07</s>
+<s id='vn41'>SPC - 1 IOPS với thời gian đáp ứng trung bình 2,05 phần nghìn giây trong vòng 10 phút , so với kết quả Thử nghiệm Tính bền vững là 20,011.07</s>
+</spair>
+<spair id='42'>
+<s id='en42'>IOPS with an average response time of 2.08 milliseconds over four hours .</s>
+<s id='vn42'>IOPS với thời gian đáp ứng trung bình 2,08 phần nghìn giây trong vòng bốn giờ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>SPC ( Storage Performance Council , an independent storage research firm ) benchmark results on testing of the Pulsar can be found here .</s>
+<s id='vn43'>Kết quả kiểm chuẩn của SPC ( Storage Performance Council – Một công ty chuyên nghiên cứu lưu trữ độc lập ) thử nghiệm SSD Pulsar có thể được tìm thấy ở đây .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The Pulsar.2 is aimed specifically for data centers , unlike typical MLC solid-state drives built for consumer applications .</s>
+<s id='vn44'>Pulsar . 2 là nhằm mục tiêu đặc biệt đến trung tâm dữ liệu , không giống như những ổ đĩa thể rắn SSD MLC thông thường được xây dựng cho các ứng dụng của người tiêu dùng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The Pulsar.2 holds up to 800GB and has built-in intelligence , in that it is able to automatically detect and correct data errors that could plague normal drive operations .</s>
+<s id='vn45'>Pulsar . 2 có sức chứa lên đến 800GB và được thiết kế thông minh , trong đó nó có thể tự động phát hiện và sửa lỗi dữ liệu mà có thể làm cản trở các hoạt động bình thường của ổ đĩa .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Seagate said .</s>
+<s id='vn46'>Công ty Seagate cho biết .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The Pulsar.2 SSD supports both native 6Gbps SAS and Serial ATA ( SATA ) 6Gbps interfaces for primary and secondary server storage .</s>
+<s id='vn47'>SSD Pulsar.2 hỗ trợ cả kết nối chuẩn SAS 6Gb/s và Serial ATA ( SATA ) 6Gb/s cho kho lưu trữ máy chủ chính và máy chủ thứ cấp .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>" Most SSD suppliers are n't fully aware of the needs of the enterprise , " said Jim Handy of Objective Analysis .</s>
+<s id='vn48'>JimHandy , nhân viên của công ty Objective Analysis cho biết " Hầu hết các nhà cung cấp SSD không nhận thức đầy đủ các nhu cầu của doanh nghiệp .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" It is n't just a fast interface like SAS , Fibre Channel or PCIe that they need , and it is n't just IOPS levels in the tens to hundreds of thousands .</s>
+<s id='vn49'>Nó không phải chỉ là một hệ giao tiếp nhanh như SAS , Fibre Channel hoặc PCIe mà họ cần , và nó cũng không chỉ ở mức hiệu năng đọc ghi ngẫu nhiên IOPS trong hàng chục đến hàng trăm ngàn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" Without data integrity and reliability , an SSD is worthless to most enterprise users .</s>
+<s id='vn50'>" Nếu không có độ tin cậy và tính toàn vẹn dữ liệu , một ổ SSD sẽ là vô giá trị cho hầu hết các người dùng doanh nghiệp .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Seagate 's undeniable leadership in the enterprise HDD market has given the company a deep understanding of the necessity of data integrity and endurance . "</s>
+<s id='vn51'>Không thể phủ nhận vai trò lãnh đạo của Seagate trong thị trường ổ đĩa cứng doanh nghiệp đã mang lại cho công ty này một sự hiểu biết sâu sắc về sự cần thiết của độ bền và tính toàn vẹn dữ liệu . "</s>
+</spair>
+</text>
+</doc>

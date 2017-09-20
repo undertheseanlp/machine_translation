@@ -1,0 +1,152 @@
+﻿<doc id='N0581'>
+<head>
+<title>Apple 's push into chips could unnerve suppliers</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Apple 's push into chips could unnerve suppliers</s>
+<s id='vn1'>Apple tập trung vào Chip có thể là một Bất lợi lớn cho các Nhà cung cấp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Apple Inc appears to be pushing toward designing its own microchips for the iPhone , a move that would give it greater control but inevitably affect its base of suppliers .</s>
+<s id='vn2'>Apple Inc dường như đang đẩy mạnh việc thiết kế các vi mạch riêng cho iPhone , một động thái giúp họ tăng quyền kiểm soát nhiều hơn nhưng điều này chắc hẳn sẽ ảnh hưởng cơ bản đến các nhà cung cấp cho hãng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The iPhone now uses chips from a variety of suppliers including Samsung Electronics Co Ltd , Broadcom Corp , Marvell Technology Inc , CSR Plc and Infineon Technologies AG , analysts say .</s>
+<s id='vn3'>Các nhà phân tích cho biết , hiện nay iPhone sử dụng chip từ các nhà cung cấp khác nhau gồm có Samsung Electronics Co Ltd , Broadcom Corp , Marvell Technology Inc , CSR Plc và Infineon Technologies AG .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>If Apple succeeds in coming up with its own chip , it could potentially dislodge at least one of these companies from the iPhone , while sending notice of its intent to take an even bigger role in the creation of its products .</s>
+<s id='vn4'>Nếu Apple thành công trong việc tiến tới sản xuất chip riêng cho mình , nó có thể đánh bật ít nhất một trong các công ty ra khỏi iPhone , trong khi gửi thông báo về ý định của họ để nắm giữ một vai trò lớn hơn ngay cả trong việc tạo ra các sản phẩm của họ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Apple 's semiconductor strategy has been apparent for at least a year , analysts say , pointing to its acquisition of microchip company PA Semi and its hiring of experts from chip companies like Advanced Micro Devices Inc .</s>
+<s id='vn5'>Các nhà phân tích cho hay , chiến lược về mạch bán dẫn của Apple đã được vạch ra ít nhất một năm , đánh dấu cho sự kiện này là việc mua lại các công ty vi mạch PA Semi và việc thuê các chuyên gia từ các công ty chip chẳng hạn như từ công ty AMD .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" It 's not chatter , " said Broadpoint AmTech analyst Doug Freedman .</s>
+<s id='vn6'>" Đây không phải là chuyện đùa " , nhà phân tích Doug Freedman của hãng Broadpoint AmTech phát biểu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But even so , it would take about two years for Apple to come up with a chip , said Freedman .</s>
+<s id='vn7'>Nhưng ngay cả điều này sẽ mất khoảng hai năm để Apple tiến tới việc sản xuất chip , Freedman cho biết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" I do n't think there 's any material impact to the supply chain for another year or two - maybe longer " .</s>
+<s id='vn8'>" Tôi không nghĩ bất cứ điều gì quan trọng ở đây ảnh hưởng đến dây chuyền cung cấp cho một hoặc hai năm tới và có thể lâu hơn " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Analysts say Apple is working on developing an application processor for the iPhone , which is currently supplied by Samsung .</s>
+<s id='vn9'>Nhà phân tích nói rằng Apple đang tiếp tục phát triển bộ xử lí ứng dụng cho iPhone , mà hiện nay đang được cung cấp bởi Samsung .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Application processors control advanced features on phones , such as multimedia capabilities .</s>
+<s id='vn10'>Bộ xử lí ứng dụng điều khiển các tính năng tiên tiến trên điện thoại , như khả năng đa phương tiện chẳng hạn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Apple is basically saying we do n't want to put our future in somebody else 's hands , said Craig Berger , an analyst with FBR Capital Markets .</s>
+<s id='vn11'>" Về cơ bản Apple cho biết họ không muốn trao vận mệnh của họ vào bàn tay bất cứ ai " Craig Berger một nhà phân tích của FBR Capital Markets phát biểu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" The key for them is super low-power and better graphics processing . "</s>
+<s id='vn12'>" Chìa khóa của họ là siêu tiết kiệm năng lượng và việc xử lí đồ hoạ tốt hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Samsung and Apple declined to comment .</s>
+<s id='vn13'>Samsung và Apple đã từ chối bình luận .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>LOST OPPORTUNITY</s>
+<s id='vn14'>ĐÁNH MẤT CƠ HỘI</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Although it would not be a huge monetary loss for Samsung - analysts estimate its iPhone chip generates revenue in the low hundreds of millions of dollars - it would remove the South Korean company from a mobile platform that is expected to see huge growth in the coming years .</s>
+<s id='vn15'>Mặc dù hãng sẽ không bị mất mát một số lượng lớn tiền tệ từ phía Samsung - nhà phân tích ước tính chip trong iPhone của hãng sẽ tạo ra khoảng thu nhập thấp hơn hàng trăm triệu USD - hãng sẽ loại bỏ công ty của Hàn Quốc ra khỏi nền tảng điện thoại di động mà được hứa hẹn phát triển rộng lớn trong những năm sắp tới .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The impact of an Apple-designed application processor on other suppliers like Marvell , Broadcom and Infineon - which provide chips that control such things as connectivity and the touch-screen interface - is less clear .</s>
+<s id='vn16'>Sự tác động của bộ xử lí ứng dụng được Apple thiết kế đối với các nhà cung cấp khác giống như Marvell , Broadcom và Infineon - đây là những hãng cung cấp các chip điều khiển như điều khiển kết nối và điều khiển giao diện màn hình cảm ứng - là không rõ ràng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It might not affect them directly , but when they 're selling these WiFi or Bluetooth chips , they 're hoping in the future that they 'll get more business than that , " said Kaufman Bros ' analyst Shaw Wu .</s>
+<s id='vn17'>" Nó có lẽ không ảnh hưởng trưc tiếp đến những công ty này , nhưng họ vẫn đang bán những chip WiFi và Bluetooth , họ hi vọng rằng trong tương lai họ sẽ thu được nhiều hơn từ việc kinh doanh này , " nhà phân tích Shaw Wu của Kaufman Bros nói .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" It ends up being a lost opportunity . "</s>
+<s id='vn18'>" Nó kết thúc là một cơ hội bị mất . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Wu believes Apple has been working on an application processor for the iPhone for around a year .</s>
+<s id='vn19'>Wu tin rằng Apple đang phát triển bộ xử lí ứng dụng cho iPhone trong vòng một năm nay .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He agreed that any new chip is at least a year away and wo n't make it into the next iPhone , which is expected to be released this summer .</s>
+<s id='vn20'>Ông ta nhận định rằng không có bất kì một con chip mới nào ra đời ít nhất là trong một năm tới và cũng không được trang bị trong iPhone thế hệ kế tiếp , điều mà được mong đợi phát hành vào mùa hè này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Observers say it makes sense for a company like Apple , which tightly manages its intellectual property , to want more control over the most important pieces in one of its hottest products - more than 21 million iPhone units have been shipped since its launch in 2007 .</s>
+<s id='vn21'>Các quan sát viên cho rằng nó có ý nghĩa đối với một công ty như Apple , họ quản lí một cách chặt chẽ về sở hữu trí tuệ của mình , để họ muốn kiểm soát nhiều hơn các phần quan trọng nhất trong một trong các sản phẩm đang được ưa chuộng nhất - hơn 21 triệu iPhone đã được tiêu thụ từ khi nó công bố vào năm 2007 .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Apple is one of the few guys out there who can pull it off , " Wu said .</s>
+<s id='vn22'>" Apple là một trong số ít các công ty mà có thể đạt được điều như thế này " Wu nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>NEW ARENA :</s>
+<s id='vn23'>ĐẤU TRƯỜNG MỚI :</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The move would be a chance for Apple to extend its famed engineering prowess into a new arena .</s>
+<s id='vn24'>Bước đi mới sẽ là cơ hội cho Apple để mở rộng sự tinh thông về kỹ thuật công nghệ danh tiếng của mình trong một đấu trường mới .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The company rose to prominence on the strength of its Mac personal computers .</s>
+<s id='vn25'>Công ty trở nên nổi bật ưu thế sức mạnh của mình qua các máy tính cá nhân Mac .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Its fortunes soared with the release of the iPod media player , which it created in the wake of the dotcom crash .</s>
+<s id='vn26'>Vận may của công ty đang ở đỉnh cao với việc cho ra đời của các máy chơi nhac iPod mà nó đã tạo ra sau thời kì suy sụp dotcom .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Apple appears to be using the current downturn to scoop up engineering talent and acquire the means to design semiconductors .</s>
+<s id='vn27'>Apple xuất hiện trong thời kì kinh tế đang suy sụp như hiện nay để đào bới nhân tài kỹ thuật và tìm kiếm những phương tiện để thiết kế các dụng cụ bán dẫn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It has hired Bob Drebin and Raja Koduri , both former chief technology officers of the graphics products group at AMD .</s>
+<s id='vn28'>Họ đã thuê Bob Drebin và Raja Koduri , cả hai nguyên là những người đứng đầu bộ phận kỹ thuật của nhóm các sản phẩm đồ họa ở AMD .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Mark Papermaster , who left International Business Machines Corp last year to join Apple as senior vice president of devices hardware engineering , has a strong background in chips .</s>
+<s id='vn29'>Mark Papermaster , người đã rời bỏ tập đoàn International Business Machines Corp hồi năm trước để làm việc cho Apple với tư cách là phó giám đốc cấp cao phụ trách bộ phận kỹ thuật phần cứng thiết bị , có một nền tảng vững mạnh về chip .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Analysts point out .</s>
+<s id='vn30'>Các nhà phân tích nhấn mạnh .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But some analysts find it hard to believe Apple would leap into the complex and competitive semiconductor business .</s>
+<s id='vn31'>Tuy nhiên một số nhà phân tích tìm thấy khó để tin rằng Apple sẽ mạo hiểm nhảy vào sự phức tạp và cạnh tranh kinh doanh mạch bán dẫn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" It 's feasible for them to do it but I do n't know that it would be practical , " said Jim McGregor , chief technology strategist at In-Stat , adding that chip design costs hundreds of millions of dollars .</s>
+<s id='vn32'>" Nó là điều khả thi cho họ làm nhưng tôi không biết rằng nó đi vào thực tiễn như thế nào " Jim McGregor , nhà chiến lược kỹ thuật cao cấp ở In-Stat phát biểu và thêm vào rằng chi phí hàng trăm triệu USD cho việc thiết kế chip .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Apple is n't the mega company that can do everything very well ," he said , but added that Apple is profitable and well-positioned .</s>
+<s id='vn33'>Ông ấy cũng nói rằng " Apple không phải là công ty có thể làm tốt mọi thứ " tuy nhiên thêm vào đó là Apple có lợi nhuận và có địa vị tốt .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The company is also flush with cash to fuel any expensive endeavors .</s>
+<s id='vn34'>Công ty cũng có lắm tiền mặt để tăng cường các hoạt động có giá trị lớn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>With nearly $ 29 billion in cash , cash equivalents and marketable securities at the end of March .</s>
+<s id='vn35'>Với gần 29 tỉ USD tiền mặt , các vật tương đương tiền mặt và số cổ phiếu có thế bán được vào cuối tháng Ba .</s>
+</spair>
+</text>
+</doc>

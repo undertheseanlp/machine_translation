@@ -1,0 +1,572 @@
+﻿<doc id='N0319'>
+<head>
+<title>Childhood illnesses every parent should know</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Childhood illnesses every parent should know</s>
+<s id='vn1'>Các bệnh của trẻ mà bố mẹ cần nên biết</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Childhood Illnesses : The Facts</s>
+<s id='vn2'>Các bệnh của trẻ con : Thông tin thực tế</s>
+</spair>
+<spair id='3'>
+<s id='en3'>While vaccines have made some childhood illnesses rare , many others remain a fact of life .</s>
+<s id='vn3'>Mặc dù việc tiêm chủng vắc-xin đã làm cho một số bệnh của trẻ con trở nên hiếm gặp , nhưng trên thực tế vẫn còn nhiều .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>They range from common infections like croup to mysterious ailments like Kawasaki disease .</s>
+<s id='vn4'>Bệnh tật nhiều vô kể từ những bệnh nhiễm trùng thường thấy như viêm thanh quản cấp đến những bệnh kỳ quặc như bệnh Kawasaki .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In the following slides , you 'll learn the facts about two dozen childhood illnesses .</s>
+<s id='vn5'>Trong những khung hình dưới đây , bạn sẽ biết được sự thật về 24 chứng bệnh xảy ra ở trẻ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But be sure to consult your pediatrician for proper diagnosis and treatment .</s>
+<s id='vn6'>Nhưng nên nhớ là phải đảm bảo việc tham khảo ý kiến của bác sĩ nhi khoa để được khám và điều trị đúng đắn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>RSV</s>
+<s id='vn7'>RSV</s>
+</spair>
+<spair id='8'>
+<s id='en8'>RSV stands for respiratory syncytial virus , and it 's the top cause of bronchiolitis ( inflammation of the small airways ) and pneumonia in U.S. infants .</s>
+<s id='vn8'>RSV có nghĩa là vi-rút hợp bào hô hấp , nó là nguyên nhân gây viêm tiểu phế quản ( viêm đường thở nhỏ ) hàng đầu và viêm phổi ở trẻ sơ sinh Hoa Kỳ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The infection begins with flu-like symptoms , including a fever , runny nose , and cough .</s>
+<s id='vn9'>Chứng nhiễm trùng này bắt đầu bằng các triệu chứng giống như cúm , bao gồm sốt , sổ mũi , và ho .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Up to 40 % of young children with their first RSV infection will develop noticeable wheezing , and up to 2 % will require hospitalization .</s>
+<s id='vn10'>Đến 40% trẻ em bị nhiễm RSV lần đầu sẽ trở nên khò khè có thể nghe thấy được , và đến 2% cần phải nhập viện .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>RSV tends to be milder in older kids and adults .</s>
+<s id='vn11'>Ở trẻ lớn tuổi hơn và người lớn thì RSV có xu hướng trở nên nhẹ hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Ear Infection</s>
+<s id='vn12'>Bệnh viêm tai</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Young children are prone to ear infections because of their small Eustachian tubes .</s>
+<s id='vn13'>Trẻ con rất dễ bị bệnh viêm tai vì ống Ớt-tát của chúng còn rất nhỏ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>These tubes connect the ears to the throat , and they may get blocked when a cold causes inflammation .</s>
+<s id='vn14'>Những ống này nối tai và cuống họng , và có thể bị nghẹt khi cảm lạnh gây ra viêm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This traps fluid inside the middle ear , behind the eardrum , allowing germs to breed .</s>
+<s id='vn15'>Điều này làm nghẽn dịch bên trong tai giữa , đằng sau màng nhĩ , và làm cho mầm bệnh sản sinh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The symptoms include fever , fussiness , and ear-pulling .</s>
+<s id='vn16'>Các triệu chứng gồm sốt , hay cáu gắt và thường kéo lỗ tai .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Most ear infections are due to viruses and go away on their own .</s>
+<s id='vn17'>Đa số trường hợp viêm tai là do vi rút gây ra và có thể tự lành .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Childhood vaccinations help prevent infections from certain bacteria that can cause ear infections .</s>
+<s id='vn18'>Việc tiêm chủng cho trẻ cũng giúp ngăn ngừa lây nhiễm một số vi khuẩn nào đó có thể gây bệnh viêm tai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Glue Ear</s>
+<s id='vn19'>Viêm tai giữa</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Glue ear refers to a buildup of fluid in the middle ear without any pain .</s>
+<s id='vn20'>Viêm tai giữa là tình trạng tăng sinh dịch tiết trong tai giữa mà không gây đau đớn gì .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The medical term for glue ear is otitis media with effusion or OME , and it often follows an acute ear infection .</s>
+<s id='vn21'>Thuật ngữ y học của bệnh viêm tai giữa là hiện tượng viêm tai tiết dịch hoặc OME , và thường phát sinh sau một bệnh viêm tai cấp tính .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The fluid usually clears up on its own .</s>
+<s id='vn22'>Dịch tiết này thường sẽ tự khô hết .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If it lingers and threatens to interfere with a child 's hearing , ear tubes may be recommended to help the fluid drain .</s>
+<s id='vn23'>Nếu chất này vẫn còn dai dẳng và có nguy cơ làm ảnh hưởng thính giác của trẻ thì ống tai nên được rút dịch ra ngoài .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Croup</s>
+<s id='vn24'>Viêm thanh quản cấp</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The hallmark of croup is a tight cough that sounds like a barking seal .</s>
+<s id='vn25'>Dấu hiệu nhận biết viêm thanh quản cấp là ho dữ dội , nghe như tiếng hải cẩu sủa .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The cause of the cough is inflammation in the upper airways , usually due to a virus .</s>
+<s id='vn26'>Nguyên nhân gây ho là do viêm đường hô hấp trên , thường là do vi rút gây ra .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>If breathing becomes severely impaired , hospital treatment may be needed .</s>
+<s id='vn27'>Nếu trẻ trở nên khò khè , khó thở thì cần phải được nhập viện để được điều trị .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>However , most kids get better on their own in about a week .</s>
+<s id='vn28'>Tuy nhiên , hầu hết trẻ em đều tự khỏe hơn trong khoảng một tuần .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Croup is most common in toddlers .</s>
+<s id='vn29'>Viêm thanh quản cấp là chứng bệnh thường thấy nhất ở trẻ mới chập chững biết đi .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Hand-Foot-and-Mouth Disease</s>
+<s id='vn30'>Bệnh tay-chân-miệng</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Hand-foot-and-mouth disease causes a fever along with blisters on the inside of the mouth , the palms of the hands , the but tocks , and the soles of the feet .</s>
+<s id='vn31'>Bệnh tay-chân-miệng gây sốt kèm theo giộp lở bên trong miệng , lòng bàn tay , mông , và lòng bàn chân .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In the U.S. , it is usually caused by Coxsackie virus A16 .</s>
+<s id='vn32'>Ở Mỹ , bệnh này thường do virút Coxsackie A16 gây ra .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>This virus tends to spread among children during summer and early fall .</s>
+<s id='vn33'>Vi rút này thường lây lan ở trẻ con vào mùa hè và đầu mùa thu .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Most cases are not serious and last a week to 10 days .</s>
+<s id='vn34'>Hầu hết các trường hợp đều không nguy hiểm và kéo dài từ 1 tuần đến 10 ngày .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Pinkeye</s>
+<s id='vn35'>Bệnh đau mắt đỏ</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Tearing , redness , itching , and crusty eyelashes are all signs of conjunctivitis , commonly called pinkeye .</s>
+<s id='vn36'>Chảy nước mắt , mắt đỏ , ngứa , và mi mắt khó chịu là những dấu hiệu của chứng viêm kết mạc , thường được gọi là bệnh đau mắt đỏ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Often caused by the same viruses as the common cold , pinkeye spreads rapidly in schools and day care centers .</s>
+<s id='vn37'>Bệnh này thường do các vi rút giống như vi rút gây cảm lạnh , bệnh đau mắt đỏ lan nhanh ở trường và trung tâm giữ trẻ ban ngày .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Consult your pediatrician to determine whether your child needs treatment .</s>
+<s id='vn38'>Hãy tham khảo ý kiến của bác sĩ nhi khoa để xem liệu con bạn cần nên được điều trị không .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Most cases clear up in four to seven days .</s>
+<s id='vn39'>Hầu hết các trường hợp đều lành trong vòng từ 4 đến 7 ngày .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Fifth Disease</s>
+<s id='vn40'>Bệnh ban đỏ nhiễm khuẩn cấp</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Often called " slapped cheek " disease , fifth disease causes a bright red rash on a child 's face .</s>
+<s id='vn41'>Bệnh ban đỏ nhiễm khuẩn cấp thường được gọi là " bệnh bị vỗ má " , gây phát ban đỏ trên mặt trẻ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>A rash may also appear on the torso , arms , or legs .</s>
+<s id='vn42'>Ngoài ra , ban cũng còn có thể xuất hiện trên thân mình , tay , hoặc chân .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The culprit is human parvovirus B19 , a virus that may cause mild cold-like symptoms before the rash is seen .</s>
+<s id='vn43'>Nguyên nhân là do vi-rút gây bệnh ở người B19 gây ra , đây là một loại vi rút có thể gây các triệu chứng giống như cảm lạnh nhẹ trước khi phát ban .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Up to 20% of kids get it by age 5 , and up to 60% have had it by age 19 .</s>
+<s id='vn44'>Đến 20% trẻ mắc bệnh này ở tuổi lên 5 , và có đến 60% bị bệnh này ở tuổi 19 .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The rash usually disappears in seven to 10 days .</s>
+<s id='vn45'>Bệnh này thường hết trong vòng từ 7 đến 10 ngày .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Rotavirus</s>
+<s id='vn46'>Rotavirus</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Before the introduction of an effective vaccine , rotavirus was the top cause of diarrhea-related deaths in young children .</s>
+<s id='vn47'>Trước khi có vắc-xin phòng chống hiệu quả , thì rotavirus là nguyên nhân gây tử vong liên quan đến tiêu chảy hàng đầu ở trẻ nhỏ .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The main symptoms are vomiting and watery diarrhea , which can make babies become dehydrated very quickly .</s>
+<s id='vn48'>Các triệu chứng chủ yếu là ói mửa và tiêu chảy nước , làm cho trẻ bị mất nước rất nhanh .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>There are now two rotavirus vaccines for infants , and studies indicate a dramatic drop in the number of new cases .</s>
+<s id='vn49'>Hiện có 2 loại vắc-xin ngừa viêm ruột cho trẻ sơ sinh , và các công trình nghiên cứu cho thấy đã giảm đột ngột số ca mắc bệnh mới .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Kawasaki Disease</s>
+<s id='vn50'>Bệnh Kawasaki</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Kawasaki disease is a very rare and mysterious ailment that strikes children under age 5 .</s>
+<s id='vn51'>Bệnh Kawasaki là một bệnh rất hiếm gặp và kỳ quặc thường xảy ra ở trẻ dưới 5 tuổi .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The symptoms include a high fever , patchy rash , swelling and redness of the hands and feet , bloodshot eyes , and chapped , red lips .</s>
+<s id='vn52'>Các triệu chứng bao gồm sốt cao , phát ban lốm đốm , bàn tay và bàn chân sưng đỏ , mắt đỏ ngầu , và môi đỏ , nứt nẻ .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Without treatment , the illness can damage the heart and may be fatal .</s>
+<s id='vn53'>Nếu không điều trị thì bệnh này sẽ có thể gây tổn hại cho tim và có thể gây tử vong .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Doctors have yet to discover what causes Kawasaki disease .</s>
+<s id='vn54'>Các bác sĩ vẫn chưa tìm ra nguyên nhân gây bệnh Kawasaki .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Chickenpox</s>
+<s id='vn55'>Bệnh thuỷ đậu</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Chickenpox is now preventable through the varicella vaccine .</s>
+<s id='vn56'>Bệnh thủy đậu hiện đã có thể phòng tránh được nhờ vào vắc xin ngừa thủy đậu . .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The reasons for vaccination go beyond sparing your child the uncomfortable red blisters .</s>
+<s id='vn57'>Lý do tiêm chủng không chỉ là để tránh cho con bạn bị giộp lở đỏ loét khó chịu .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Chickenpox can cause dangerous complications in newborns , adults , and pregnant women .</s>
+<s id='vn58'>Bệnh thủy đậu có thể gây biến chứng nguy hiểm ở trẻ sơ sinh , người lớn và phụ nữ có thai .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Before the vaccine , chickenpox sent 11,000 Americans to the hospital every year .</s>
+<s id='vn59'>Trước khi có vắc-xin thì mỗi năm bệnh thuỷ đậu làm cho 11.000 người Mỹ phải nhập viện .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Measles</s>
+<s id='vn60'>Sởi</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If your kids are up-to-date on their vaccines , you probably do n't have to worry about measles .</s>
+<s id='vn61'>Nếu bé mới chích ngừa vắc-xin thì hẳn là bạn cũng không cần phải lo lắng về bệnh sởi đâu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>But the CDC has reported outbreaks among unvaccinated children .</s>
+<s id='vn62'>Nhưng tổ chức CDC đã đưa tin dịch sởi sẽ bùng phát ở những trẻ chưa tiêm phòng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The infection starts with a fever , runny nose , and cough .</s>
+<s id='vn63'>Các triệu chứng ban đầu gồm sốt , sổ mũi và ho .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>As these symptoms fade , a full-body rash appears .</s>
+<s id='vn64'>Khi hết các triệu chứng này thì toàn thân bé sẽ phát ban .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Most kids get better in two weeks , but some develop pneumonia or other problems .</s>
+<s id='vn65'>Hầu hết trẻ em đều có thể khỏe hơn trong vòng 2 tuần , nhưng một số lại có thể phát triển thành bệnh viêm phổi và một số chứng bệnh khác .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Mumps</s>
+<s id='vn66'>Quai bị</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Mumps is another childhood illness that was very common before a vaccine was developed .</s>
+<s id='vn67'>Quai bị là một chứng bệnh khác rất thường thấy ở trẻ nhỏ trước khi vắc-xin ra đời .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The infection often causes no symptoms , but when it does , the classic sign is swollen glands between the ear and jaw .</s>
+<s id='vn68'>Bệnh này thường không gây ra triệu chứng gì , nhưng khi xảy ra bệnh thì dấu hiệu dễ nhận thấy nhất là các tuyến giữa lỗ tai và hàm bị phồng to lên .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>This creates the appearance of " chipmunk cheeks . "</s>
+<s id='vn69'>Điều này làm cho má của trẻ nhìn giống " má của sóc chuột " .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Despite high vaccination rates , recent outbreaks have infected thousands of people in the U.S .</s>
+<s id='vn70'>Dẫu rằng tỉ lệ tiêm chủng ở Hoa Kỳ rất cao , nhưng dịch bệnh gần đây đã làm hàng ngàn người nhiễm .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Rubella</s>
+<s id='vn71'>Bệnh sởi ru-bê-la</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Rubella , also called German measles , is a mild virus that usually causes no serious problems .</s>
+<s id='vn72'>Ru-bê-la , còn có tên gọi khác sởi Đức , là một vi rút yếu thường không gây ra vấn đề nào nguy hiểm cả .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>However , it can harm the fetus if a pregnant woman becomes infected .</s>
+<s id='vn73'>Tuy nhiên , nếu phụ nữ mang thai bị bệnh thì nó có thể gây hại cho bào thai .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>The symptoms are a low fever and rash that spreads from the face to the rest of the body .</s>
+<s id='vn74'>Các triệu chứng gồm sốt nhẹ , và phát ban khắp người từ mặt đến toàn thân .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>A standard childhood vaccine called MMR protects against measles , mumps , and rubella .</s>
+<s id='vn75'>Vắc-xin tiêm phòng chuẩn cho trẻ có tên là MMR , có thể giúp ngừa sởi , quai bị và ru-bê-la .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Whooping Cough</s>
+<s id='vn76'>Ho gà</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Whooping cough makes children cough so hard , they run out of breath and inhale with a " whoop . "</s>
+<s id='vn77'>Bệnh ho gà làm cho trẻ ho dữ dội , ho kiệt sức và hít thở " khọt khẹt " .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>The infection is most severe in infants and may require hospital treatment .</s>
+<s id='vn78'>Đây là chứng bệnh nguy hiểm nhất ở trẻ sơ sinh và có thể cần phải được nhập viện .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The medical term for the disease is pertussis - the " P " in the DTaP vaccine .</s>
+<s id='vn79'>Thuật ngữ y học để chỉ bệnh này là ho gà - chữ cái " P " có nguồn gốc từ vắc-xin DtaP .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Despite widespread vaccination , cases of pertussis are on the rise .</s>
+<s id='vn80'>Mặc dù đã được tiêm chủng rộng rãi , nhưng số ca mắc bệnh vẫn còn tăng cao .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Adults may need a booster shot .</s>
+<s id='vn81'>Người lớn cũng cần nên được tiêm phòng nhắc lại .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Meningitis</s>
+<s id='vn82'>Viêm màng não</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Meningitis is an inflammation or infection of the tissue around the brain and spinal cord .</s>
+<s id='vn83'>Viêm màng não là chứng viêm hay nhiễm trùng mô quanh não và tuỷ sống .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>In teens and adults , the main symptoms are headache , fever , and stiff neck .</s>
+<s id='vn84'>Đối với người lớn và thanh thiếu niên thì triệu chứng chủ yếu bao gồm nhức đầu , sốt , và vẹo cổ .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Young children may have flu-like symptoms .</s>
+<s id='vn85'>Trẻ em cũng có thể có các triệu chứng giống như cúm .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Viral meningitis is usually mild , but bacterial meningitis is more severe with serious consequences if it is n't treated quickly .</s>
+<s id='vn86'>Viêm màng não do vi-rút thường nhẹ , nhưng viêm màng não do vi khuẩn thường nặng hơn để lại hậu quả nghiêm trọng nếu không được chữa trị nhanh chóng .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Vaccines are available to prevent certain causes of meningitis .</s>
+<s id='vn87'>Đã có nhiều vắc-xin phòng tránh được một số nguyên nhân gây viêm màng não nào đó .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Strep Throat</s>
+<s id='vn88'>Viêm họng</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Most kids get a sore throat now and then , usually due to a cold virus .</s>
+<s id='vn89'>Hầu hết trẻ con thỉnh thoảng cũng bị đau họng , thường là do vi rút cảm lạnh gây nên .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>So how can you tell if it 's caused by the strep bacteria ?</s>
+<s id='vn90'>Vì vậy làm thế nào biết được liệu đó có phải là do khuẩn cầu chuỗi không ?</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Sneezing or a runny nose point to a cold .</s>
+<s id='vn91'>Hắt hơi hoặc sổ mũi là dấu hiệu cảm lạnh .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Signs of strep include a sore throat that lasts more than a week , painful or difficult swallowing , excessive drooling , a rash , pus in the back of the throat , fever over 100°F degrees , or contact with someone with strep throat .</s>
+<s id='vn92'>Các dấu hiệu của khuẩn cầu chuỗi gồm đau họng kéo dài hơn một tuần , đau hoặc khó nuốt , chảy nước mũi , nước dãi dữ dội , phát ban , đáy cổ họng mưng mủ lên , sốt trên 100°F , hoặc tiếp xúc với người bị viêm họng .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Strep throat is treated with antibiotics .</s>
+<s id='vn93'>Chứng viêm họng được điều trị bằng thuốc kháng sinh .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Scarlet Fever</s>
+<s id='vn94'>Ban đỏ</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Sometimes a rough , red rash accompanies strep throat .</s>
+<s id='vn95'>Đôi khi triệu chứng phát ban đỏ nặng cũng kèm theo viêm họng .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>This is known as scarlet fever .</s>
+<s id='vn96'>Đây là bệnh ban đỏ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The rash begins on the chest and abdomen and spreads all over the body , accompanied by a strawberry-looking tongue and high fever .</s>
+<s id='vn97'>Chứng phát ban này xuất hiện đầu tiên ở ngực và bụng và lan nhanh toàn thân , kèm theo triệu chứng cổ họng sưng đỏ và sốt cao .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Without treatment , it can lead to rheumatic fever and , in rare cases , heart damage .</s>
+<s id='vn98'>Nếu không chữa trị , nó có thể dẫn tới bệnh thấp khớp cấp và , trong trường hợp hiếm thấy , cũng gây hại cho tim .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>That 's why scarlet fever was once a dreaded childhood illness .</s>
+<s id='vn99'>đó là lý do tại sao bệnh ban đỏ trước đây được coi như một bệnh đáng sợ ở trẻ nhỏ .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Today , it is easily cured with antibiotics .</s>
+<s id='vn100'>Ngày nay , bệnh này đã được chữa trị dễ dàng bằng thuốc kháng sinh .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Reye 's Syndrome</s>
+<s id='vn101'>Hội chứng Reye</s>
+</spair>
+<spair id='102'>
+<s id='en102'>You 've probably heard you should never give aspirin to children or teens .</s>
+<s id='vn102'>Chắc là bạn cũng từng biết là không nên cho trẻ nhỏ hoặc thiếu niên sử dụng thuốc aspirin .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Reye 's syndrome is the reason .</s>
+<s id='vn103'>Hội chứng Reye giải thích cho điều này .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>This life-threatening condition may strike kids who take medications containing aspirin during a viral illness .</s>
+<s id='vn104'>Chứng bệnh gây chết người này có thể gây đột quỵ cho trẻ sử dụng thuốc chứa aspirin trong thời gian bệnh do vi rút .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Symptoms include dramatic behavior changes , seizures , and coma .</s>
+<s id='vn105'>Các triệu chứng gồm biến đổi hành vi đột ngột , tai biến ngập máu , và hôn mê .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Reye 's syndrome has become very rare since the CDC warned against giving aspirin to children .</s>
+<s id='vn106'>Hội chứng Reye trở nên rất hiếm thấy kể từ khi tổ chức CDC khuyến cáo không nên sử dụng aspirin cho trẻ nhỏ .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>MRSA Infection</s>
+<s id='vn107'>MRSA nhiễm tụ cầu khuẩn</s>
+</spair>
+<spair id='108'>
+<s id='en108'>MRSA is a type of staph that does n't respond to some antibiotics .</s>
+<s id='vn108'>MRSA là loại khuẩn tụ cầu không đáp ứng với một số thuốc kháng sinh .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Doctors say MRSA is now the top cause of skin infections .</s>
+<s id='vn109'>Nhiều bác sĩ cho biết MRSA hiện là nguyên nhân hàng đầu gây nhiễm trùng da .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>These infections usually appear in the form of sores or boils and may look like a spider bite .</s>
+<s id='vn110'>Các bệnh nhiễm trùng này thường xuất hiện dưới dạng u nhọt hoặc lở loét và có thể nhìn giống vết nhện cắn .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>MRSA ear , nose , and throat infections are also on the rise in elementary school children .</s>
+<s id='vn111'>Nhiễm tụ cầu khuẩn ở tai , mũi , và cuống họng cũng đang tăng vọt ở trẻ em tiểu học .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Impetigo</s>
+<s id='vn112'>Chốc lở</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Impetigo is another bacterial skin infection .</s>
+<s id='vn113'>Chốc lở là một dạng nhiễm trùng da khác do vi khuẩn .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>It most commonly causes clusters of tiny blisters on the skin that ooze and form a golden crust .</s>
+<s id='vn114'>Chứng bệnh này thường gây giộp từng cụm nhỏ trên da , gây rỉ dịch và tạo lớp vảy màu vàng .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Touching the fluid can spread the infection to other parts of the body or other people .</s>
+<s id='vn115'>Việc sờ chạm vào dịch tiết này có thể làm lây lan sang nhiều vùng khác trên cơ thể hoặc cho người khác .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>It is often caused by staph bacteria but also can be caused by strep bacteria .</s>
+<s id='vn116'>Chốc lở thường do khuẩn tụ cầu nhưng cũng có thể do khuẩn cầu chuỗi .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>This type of impetigo is most common in kids ages 2 to 6 .</s>
+<s id='vn117'>Loại chốc lở này thường thấy nhiều nhất ở trẻ từ 2 đến 6 tuổi .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>If treated with antibiotics , the sores usually heal without leaving scars .</s>
+<s id='vn118'>Nếu được chữa trị bằng thuốc kháng sinh thì những vết thương này sẽ thường lành hẳn mà không để lại một vết sẹo nào .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Ringworm</s>
+<s id='vn119'>Bệnh ecpet mảng tròn</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Yet another skin infection , ringworm is actually caused by a fungus .</s>
+<s id='vn120'>Lại thêm một chứng nhiễm trùng da nữa , bệnh ecpet mảng tròn thực sự do nấm gây ra .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>No worms involved .</s>
+<s id='vn121'>Không phải do giun .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>It causes a red , scaly ring on the skin or a round patch of hair loss on the scalp .</s>
+<s id='vn122'>Bệnh này tạo quầng hình tròn màu đỏ , có vảy trên da hoặc gây rụng tóc mảng tròn trên da đầu .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>The fungus spreads easily from child to child , so sharing combs , brushes , towels , and clothes should be avoided .</s>
+<s id='vn123'>Nấm có thể dễ dàng lây lan nhanh chóng từ đứa trẻ này sang đứa trẻ khác , vì vậy không nên sử dụng chung lược chải đầu , bàn chải đánh răng , khăn tắm , và quần áo .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Ringworm is treated with antifungal medication .</s>
+<s id='vn124'>Bệnh ecpet mảng tròn được chữa lành bằng thuốc diệt nấm .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Lyme Disease</s>
+<s id='vn125'>Bệnh nhiễm khuẩn do ve</s>
+</spair>
+<spair id='126'>
+<s id='en126'>The hallmark of Lyme disease is a target-shaped rash that appears 1-2 weeks after a tick bite , though not everyone will develop the distinctive rash .</s>
+<s id='vn126'>Dấu hiệu để nhận biết bệnh nhiễm khuẩn do ve gây ra là nốt ban có dạng hình tròn nhỏ , xuất hiện trong 1 đến 2 tuần sau khi bị ve cắn , mặc dù không phải ai cũng phát ban dạng đặc biệt này .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>The rash may be accompanied by a fever , chills , and body aches .</s>
+<s id='vn127'>Chứng phát ban cũng có thể kèm theo sốt , ớn lạnh , và đau nhức toàn thân .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>The culprit is a type of bacterium carried by tiny deer ticks .</s>
+<s id='vn128'>Nguyên nhân là do loại vi khuẩn trong những con ve nhỏ .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Without treatment , Lyme disease can affect the joints , nervous system , and heart .</s>
+<s id='vn129'>Nếu không được điều trị thì chứng bệnh này có thể ảnh hưởng đến khớp , hệ thần kinh , và tim .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Flu</s>
+<s id='vn130'>Cúm</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Is it a cold or the flu ?</s>
+<s id='vn131'>Cảm lạnh hay là cúm ?</s>
+</spair>
+<spair id='132'>
+<s id='en132'>These illnesses can have similar symptoms .</s>
+<s id='vn132'>Hai bệnh này có thể có những triệu chứng tương tự nhau .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>The flu more commonly causes high fever , chills , body aches , extreme fatigue , and nausea or vomiting .</s>
+<s id='vn133'>Cúm thường gây sốt cao hơn , ớn lạnh , cơ thể đau nhức , hết sức mệt mỏi , và buồn nôn hoặc ói mửa .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>While most children get better on their own , the flu can lead to serious complications like pneumonia , especially in younger children .</s>
+<s id='vn134'>Trong khi hầu hết trẻ con đều có thể tự khỏe hơn được thì bệnh cúm có thể lại gây nhiều biến chứng trầm trọng , chẳng hạn như viêm phổi , nhất là ở trẻ nhỏ hơn .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The CDC recommends an annual flu vaccination for children ages 6 months and older .</s>
+<s id='vn135'>Tổ chức CDC khuyến cáo nên tiêm phòng cúm hằng năm cho bé tuổi từ 6 tháng trở lên .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Seasonal Allergies</s>
+<s id='vn136'>Dị ứng mùa</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Seasonal allergies , sometimes called hay fever , are not an infection , but a reaction to microscopic particles like pollen .</s>
+<s id='vn137'>Dị ứng mùa , đôi khi cũng được gọi là viêm mũi dị ứng , không phải là một bệnh nhiễm trùng , mà là một phản ứng với các hạt li ti như phấn hoa .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Symptoms may include sneezing , watery eyes , and a runny or stuffy nose and may only occur in spring or fall .</s>
+<s id='vn138'>Triệu chứng có thể bao gồm hắt hơi , chảy nước mắt , chảy nước mũi hoặc nghẹt mũi và cũng có thể chỉ xảy ra vào mùa xuân hoặc mùa thu .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Kids may constantly rub their nose with the palm of the hand .</s>
+<s id='vn139'>Trẻ con có thể hay chà mũi bằng lòng bàn tay .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>There is no cure for hay fever , but there are ways to help control the symptoms .</s>
+<s id='vn140'>Không có thuốc chữa viêm mũi dị ứng , nhưng có thể làm giảm các triệu chứng của nó .</s>
+</spair>
+</text>
+</doc>

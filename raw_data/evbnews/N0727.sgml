@@ -1,0 +1,76 @@
+﻿<doc id='N0727'>
+<head>
+<title>EU leaders pledge to do what is needed to help Greece</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>EU leaders pledge to do what is needed to help Greece</s>
+<s id='vn1'>Các lãnh đạo EU hứa làm những gì cần thiết để giúp đỡ Hy Lạp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>European Union leaders have reaffirmed their commitment to help Greece out of its current debt woes and maintain EU financial stability .</s>
+<s id='vn2'>Các lãnh đạo của Liên Minh Châu Âu đã tái khẳng định cam kết giúp đỡ Hy Lạp giải quyết những nỗi khổ nợ nần hiện thời và duy trì sự ổn định tài chính của EU .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>European Commission President Jose Manuel Barroso said there was " a real will of the member states to do what is necessary " .</s>
+<s id='vn3'>Chủ tịch Uỷ ban Châu Âu Jose Manuel Barroso đã tuyên bố " các quốc gia thành viên thực sự có ý định làm việc gì đó cần thiết " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>His comments came at the end of the first day of an EU summit in Brussels .</s>
+<s id='vn4'>Các nhận xét của ông được đưa ra vào cuối ngày đầu tiên của hội nghị thượng đỉnh EU tại Brussels .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The Greek parliament has to pass fresh austerity measures next week before the country can gain vital bail-out funds .</s>
+<s id='vn5'>Quốc hội Hy Lạp phải thông qua các biện pháp cắt giảm bắt buộc mới vào tuần tới trước khi nước này nhận được các khoản cứu trợ tài chính quan trọng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Greece 's government is proposing additional spending cuts worth 28bn euros ( £25bn ) over five years .</s>
+<s id='vn6'>Chính phủ Hy Lạp đang đề xuất các khoản cắt giảm chi tiêu bổ sung trị giá 28 tỷ euro ( 25 tỷ bảng Anh ) trong năm năm .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>If these are passed then Greece will get its next 12bn-euro instalment from the current 110bn euro bail-out package from fellow eurozone countries and the International Monetary Fund .</s>
+<s id='vn7'>Nếu các đề xuất được thông qua Hy Lạp sẽ nhận được khoản giải ngân kế tiếp trị giá 12 tỷ euro từ gói cứu trợ tài chính 110 tỷ euro hiện thời từ các quốc gia đồng minh thuộc khối euro và Quỹ Tiền Tệ Quốc Tế .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Without this money Greece will default on its next loan payments due in mid-July .</s>
+<s id='vn8'>Nếu không có số tiền này Hy Lạp sẽ không có khả năng thanh toán các khoản chi trả nợ vay kế tiếp đáo hạn vào giữa tháng Bảy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>However , many economists think it will be difficult for Greece to avoid default at some time in the future .</s>
+<s id='vn9'>Tuy nhiên , nhiều nhà kinh tế học cho rằng Hy Lạp sẽ khó tránh được vỡ nợ vào lúc nào đó trong tương lai .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>No plan B</s>
+<s id='vn10'>Không có kế hoạch B</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Also speaking at the end of the first day in Brussels , European Council President Herman Van Rompuy said the EU was moving to make it easier for Greece to access European Union development funds to help boost its economy .</s>
+<s id='vn11'>Cũng tuyên bố vào cuối ngày đầu tiên ở Brussels , Chủ tịch Hội Đồng Châu Âu Herman Van Rompuy cho biết EU đang vận động để tạo điều kiện dễ dàng hơn cho Hy Lạp tiếp cận các quỹ phát triển của Liên Minh Châu Âu để giúp thúc đẩy nền kinh tế của mình .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Earlier on Thursday , Luxembourg Prime Minister Jean-Claude Juncker urged Athens to meet its commitments under the bail-out programme .</s>
+<s id='vn12'>Vào sáng sớm thứ Năm , Thủ tướng Jean-Claude Juncker của Luxembourg kêu gọi Athens thỏa mãn các cam kết của mình theo chương trình cứu trợ tài chính .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" All conditions must be met , " said Mr Juncker , who also chairs the groups of eurozone finance ministers .</s>
+<s id='vn13'>" Mọi điều kiện phải được thỏa mãn , " đó là lời của ông Juncker , cũng là người chủ trì các nhóm bộ trưởng tài chính thuộc khối euro .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" You ca n't let anyone believe there is a Plan B. If Greece does what it has to do , we will do what we have to do . "</s>
+<s id='vn14'>" Bạn không được để cho bất kỳ ai nghĩ rằng có một kế hoạch B . Nếu Hy Lạp làm điều họ phải làm , thì chúng tôi sẽ làm điều chúng tôi phải làm . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Greek Prime Minister George Papandreou said his government was committed to pushing the austerity plans - which are deeply unpopular with the Greek people - through parliament next week .</s>
+<s id='vn15'>Thủ tướng Hy Lạp George Papandreous nói chính phủ của ông đã cam kết thúc đẩy quốc hội thông qua các kế hoạch cắt giảm - gây bất bình sâu sắc cho người dân Hy Lạp - vào tuần tới .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Greece is committed , strongly committed , to continue a very important programme for major changes , radical changes , to make our economy viable , " he said .</s>
+<s id='vn16'>" Hy Lạp cam kết , cam kết mạnh mẽ , tiếp tục một chương trình rất quan trọng tạo ra những thay đổi lớn , những thay đổi triệt để , nhằm giữ vững nền kinh tế của mình , " ông nói .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,264 @@
+﻿<doc id='N0748'>
+<head>
+<title>Gout</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gout</s>
+<s id='vn1'>Bệnh gút</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is gout ?</s>
+<s id='vn2'>Gút là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Gout is a kind of arthritis caused by a buildup of uric acid crystals in the joints .</s>
+<s id='vn3'>Gút là một dạng viêm khớp do lượng tinh thể a-xít u-ric tăng quá cao trong các khớp gây ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Uric acid is a breakdown product of purines that are part of many foods we eat .</s>
+<s id='vn4'>A-xít u-ric là sản phẩm phân huỷ của purin có trong nhiều loại thức ăn của con người .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>An abnormality in handling uric acid and crystallization of these compounds in joints can cause attacks of painful arthritis , kidney stones , and blockage of the kidney filtering tubules with uric acid crystals , leading to kidney failure .</s>
+<s id='vn5'>Quá trình xử lý bất thường a-xít u-ric và kết tinh các hợp chất này trong khớp có thể gây các cơn viêm đau khớp , sỏi thận , và làm tắc nghẽn những ống lọc nhỏ trong thận do các tinh thể a-xít uric , dẫn đến suy thận .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Gout has the unique distinction of being one of the most frequently recorded medical illnesses throughout history .</s>
+<s id='vn6'>Bệnh gút có đặc điểm duy nhất là một trong những bệnh được chẩn đoán thường xuyên qua khai thác bệnh sử .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Symptoms of gout</s>
+<s id='vn7'>Các triệu chứng của gút</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Acute gout attacks are characterized by a rapid onset of pain in the affected joint followed by warmth , swelling , reddish discoloration , and marked tenderness .</s>
+<s id='vn8'>Cơn gút cấp được đặc trưng bởi việc khởi phát nhanh những cơn đau ở khớp bị viêm và sau đó là nóng , sưng đỏ và đau dữ dội .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The small joint at the base of the big toe is the most common site for an attack .</s>
+<s id='vn9'>Khớp nhỏ ở đáy ngón chân cái là nơi mà gút xuất hiện thường nhất .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Other joints that can be affected include the ankles , knees , wrists , fingers , and elbows .</s>
+<s id='vn10'>Các khớp khác cũng có thể bị ảnh hưởng như mắt cá chân , đầu gối , cổ tay , ngón tay , và khuỷu tay .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In some people , the acute pain is so intense that even a bed sheet on the toe causes severe pain .</s>
+<s id='vn11'>Ở một số người , cơn đau cấp này có thể dữ dội đến nỗi đắp khăn giường lên ngón chân cũng khiến người ta đau nhức .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>These painful attacks usually subside in hours to days , with or without medication .</s>
+<s id='vn12'>Những cơn đau này thường giảm đi sau một vài tiếng đồng hồ hoặc sau nhiều ngày , cho dù có điều trị bằng thuốc hay không .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In rare instances , an attack can last for weeks .</s>
+<s id='vn13'>Trong những trường hợp hiếm gặp , cơn gút cũng có thể kéo dài nhiều tuần liền .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Most people with gout will experience repeated bouts of gouty arthritis over the years .</s>
+<s id='vn14'>Hầu hết các bệnh nhân gút đều bị viêm khớp tái phát do gút trong nhiều năm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Who 's affected by gout ?</s>
+<s id='vn15'>Ai bị bệnh gút ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Gout is nine times more common in men than in women .</s>
+<s id='vn16'>Nam giới bị gút cao gấp 9 lần so với phụ nữ ; .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It predominantly attacks males after puberty , with a peak age of 75 .</s>
+<s id='vn17'>Phần lớn xảy ra sau tuổi dậy thì và đạt đỉnh điểm ở tuổi 75 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>In women , gout attacks usually occur after menopause .</s>
+<s id='vn18'>Phụ nữ thường hay bị gút sau tuổi mãn kinh .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Among the U.S. male population , about 10 % have elevated blood uric acid levels , a condition known as hyperuricemia .</s>
+<s id='vn19'>Khoảng 10% nam giới ở Hoa Kỳ mắc chứng a-xít u-ric cao trong máu , đây là bệnh thừa a-xít u-ric trong máu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>However , only a small portion of those with hyperuricemia will actually develop gout .</s>
+<s id='vn20'>Tuy nhiên chỉ một tỉ lệ nhỏ người bị thừa a-xít u-ric trong máu thực sự phát triển thành bệnh gút .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If your parents have gout , then you have a 20 % chance of developing it .</s>
+<s id='vn21'>Nếu bố mẹ bạn bị gút thì bạn có nguy cơ mắc bệnh lên đến 20% .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Risk factors for gout</s>
+<s id='vn22'>Các yếu tố nguy hiểm đối với bệnh gút</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Obesity , excessive weight gain , especially in youth , moderate to heavy alcohol in take , high blood pressure , and abnormal kidney function are among the risk factors for developing gout .</s>
+<s id='vn23'>Béo phì , tăng cân quá mức , nhất là đối với thanh niên , sử dụng rượu bia từ mức độ vừa phải đến nhiều , huyết áp cao , và chức năng thận bất thường là những yếu tố nguy hiểm làm phát triển bệnh gút .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Certain drugs and diseases can also cause elevated levels of uric acid .</s>
+<s id='vn24'>Một số thuốc và bệnh cũng có thể làm cho nồng độ a-xit u-ric tăng cao .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Interestingly , a recent study demonstrated an increased prevalence of abnormally low thyroid hormone levels ( hypothyroidism ) in patients with gout .</s>
+<s id='vn25'>Điều thú vị là , một nghiên cứu mới đây cho thấy có sự gia tăng số bệnh nhân bị gút khi có nồng độ hooc- môn tuyến giáp thấp bất thường ( suy giáp ) .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>What gout looks like : The big toe</s>
+<s id='vn26'>Bệnh gút như thế nào : Hãy nhìn ngón chân cái</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The joint at the base of the big toe is the most common site of an acute gout attack .</s>
+<s id='vn27'>Khớp bàn ngón chân cái là nơi thường thấy cơn gút cấp nhất .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>These attacks can recur unless gout is treated .</s>
+<s id='vn28'>Nếu không được điều trị thì những cơn gút này có thể tái phát nhiều lần .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>See your doctor even if your pain from gout is gone .</s>
+<s id='vn29'>Hãy đến khám bác sĩ cho dù là bạn đã hết đau do gút đi nữa .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Over time , they can harm your joints , tendons , and other tissues .</s>
+<s id='vn30'>Nếu để lâu , chúng có thể gây hại cho các khớp , gân và nhiều mô khác .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>What gout looks like : The fingers</s>
+<s id='vn31'>Bệnh gút như thế nào : Hãy nhìn các ngón tay</s>
+</spair>
+<spair id='32'>
+<s id='en32'>People may experience gout with deposits of uric acid crystals in their finger joints .</s>
+<s id='vn32'>Người ta có thể bị gút do lắng đọng các tinh thể axit u-ric ở các khớp ngón tay .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>To ease the pain during a gout attack , rest the joint that hurts .</s>
+<s id='vn33'>Để giảm đau trong khi bị gút , bạn nên để yên khớp tay bị tổn thương nhé .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>What gout looks like : The elbow</s>
+<s id='vn34'>Bệnh gút như thế nào : Hãy nhìn khuỷu tay</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Gout can also attack joints such as the elbows and the knees .</s>
+<s id='vn35'>Bệnh gút cũng có thể xảy ra ở nhiều khớp , chẳng hạn như khuỷu tay và đầu gối .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Notice the protrusion on the elbow .</s>
+<s id='vn36'>Hãy chú ý bướu u trên khuỷu tay nhé .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Diagnosing gouty arthritis</s>
+<s id='vn37'>Chẩn đoán viêm khớp do gút</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Gout is considered when a patient reports a history of repeated attacks of painful arthritis , especially at the base of the toes or in the ankles and knees .</s>
+<s id='vn38'>Bệnh gút được nghi ngờ khi bệnh nhân khai bệnh sử có những cơn viêm đau khớp cứ lặp đi lặp lại , nhất là ở đáy ngón chân hoặc ở mắt cá chân và đầu gối .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The most reliable test for gout is detecting uric acid crystals in the joint fluid obtained by joint aspiration .</s>
+<s id='vn39'>Phương pháp xét nghiệm bệnh gút đáng tin cậy nhất là dò tìm tinh thể axit u - ric trong dịch khớp bằng cách chọc hút khớp .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>This common office procedure is performed with topical local anesthesia .</s>
+<s id='vn40'>Thủ thuật này được thực hiện bằng gây tê cục bộ .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Using sterile technique , fluid is withdrawn ( aspirated ) from the inflamed joint with a syringe and needle .</s>
+<s id='vn41'>Với kỹ thuật vô trùng , chất dịch được rút ra ( hút ra ) khỏi khớp bị viêm bằng ống chích và kim tiêm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Diagnosing gouty arthritis : Joint fluid analysis</s>
+<s id='vn42'>Chẩn đoán viêm khớp do gút bằng cách phân tích dịch khớp</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Once the joint fluid is obtained , it is analyzed for uric acid crystals and for infection .</s>
+<s id='vn43'>Khi dịch khớp được rút ra , nó được phân tích để tìm tinh thể axit u-ric và bệnh nhiễm trùng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Your doctor may also do a blood test to measure the amount of uric acid in your blood .</s>
+<s id='vn44'>Bác sĩ có thể cũng cho làm xét nghiệm máu để đo nồng độ axit u-ric trong máu của bạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>How are gout attacks prevented ?</s>
+<s id='vn45'>Làm thế nào có thể phòng tránh cơn gút ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Maintaining adequate fluid intake helps prevent acute gout attacks and decreases the risk of kidney stone formation in people with gout .</s>
+<s id='vn46'>việc cung cấp nước đầy đủ cho cơ thể thường xuyên có thể giúp phòng tránh các cơn gút cấp và làm giảm nguy cơ sỏi thận ở người bị gút .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Alcohol is known to have diuretic effects that can contribute to dehydration and precipitate acute gout attacks .</s>
+<s id='vn47'>Rượu bia có tác dụng lợi tiểu có thể góp phần làm mất nước và làm các cơn gút cấp xảy ra nhanh hơn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Alcohol can also affect uric acid metabolism and cause hyperuricemia .</s>
+<s id='vn48'>Rượu bia cũng làm ảnh hưởng đến chuyển hoá a-xít u-ríc và làm thừa a-xít u-ríc trong máu .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>It causes gout by slowing down the excretion of uric acid from the kidneys as well as by causing dehydration , which precipitates the crystals in the joints .</s>
+<s id='vn49'>Nó gây ra gút bằng cách làm chậm quá trình bài tiết a-xít u-ríc ra khỏi thận cũng như bằng cách gây mất nước , làm ngưng tụ tinh thể trong khớp .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>More prevention techniques</s>
+<s id='vn50'>Các kỹ thuật phòng tránh khác</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Dietary changes can help reduce uric acid levels in the blood .</s>
+<s id='vn51'>Thay đổi chế độ dinh dưỡng có thể giúp làm giảm nồng độ a-xít u-ríc trong máu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Since purine chemicals are converted by the body into uric acid , purine-rich foods should be avoided .</s>
+<s id='vn52'>Vì chất hoá học purin được cơ thể chuyển hoá thành a-xít u-ríc , nên bệnh nhân bị gút nên tránh các thực phẩm giàu purin .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Foods rich in purines include shellfish and organ meats , such as liver , brains , and kidneys .</s>
+<s id='vn53'>Thức ăn chứa nhiều purin gồm tôm cua và ngũ tạng , như gan , óc , và thận .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Researchers have reported that meat or seafood consumption increases the risk of gout attacks , while dairy consumption seemed to reduce this risk .</s>
+<s id='vn54'>Các nhà nghiên cứu cho biết nếu ăn thịt hoặc hải sản sẽ làm tăng nguy cơ bị gút còn nếu sử dụng các sản phẩm làm từ sữa thì có vẻ như làm giảm nguy cơ này .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Weight reduction can be helpful in lowering the risk of recurrent attacks of gout .</s>
+<s id='vn55'>Việc giảm cân cũng có thể làm giảm nguy cơ tái phát các cơn gút .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Treating gout with medications</s>
+<s id='vn56'>Điều trị gút bằng thuốc</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Certain medications reduce the pain and inflammation of gout attacks , such as anti-inflammatory drugs ( ibuprofen and others ) , colchicines , and corticosteroids .</s>
+<s id='vn57'>Một số thuốc giảm đau và viêm do gút , chẳng hạn như thuốc kháng viêm ( ibuprofen và nhiều thuốc khác ) , colchicines , và corticosteroids .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Other medications decrease the level of uric acid in the blood and prevent the deposit of uric acid in joints ( gouty arthritis ) , the kidneys ( stones ) , and in tissue ( tophi ) , helping to prevent further attacks and complications .</s>
+<s id='vn58'>Nhiều thuốc khác làm giảm nồng độ axit u-ric trong máu và ngăn không cho axit u-ric lắng đọng trong khớp ( viêm khớp do gút ) , thận ( sỏi ) , và mô ( sạn u-rat ) , giúp phòng tránh các cơn gút và nhiều biến chứng khác .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>These medications include allopurinol , febuxostat , and probenicid .</s>
+<s id='vn59'>Những thuốc này bao gồm allopurinol , febuxostat , và probenicid .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>What does the future hold for gout ?</s>
+<s id='vn60'>Tương lai của bệnh gút ra sao ?</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Active research is ongoing in a variety of fields related to gout and hyperuricemia .</s>
+<s id='vn61'>Một công trình nghiên cứu thiết thực đang tiến hành trên nhiều lĩnh vực liên quan đến bệnh gút và thừa axit u-ric trong máu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Scientists recently reported that high animal protein slightly increased the risk for gout .</s>
+<s id='vn62'>Các nhà khoa học mới đây cho biết ăn nhiều đạm động vật có thể làm tăng nhẹ nguy cơ bệnh gút .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>New drugs are being developed that may be more versatile and safe in treating the elevated uric acid levels in patients with chronic gout .</s>
+<s id='vn63'>Nhiều loại thuốc mới cũng đang được phát triển để có thể sử dụng linh hoạt hơn và an toàn hơn trong việc điều trị nồng độ axit u-ric tăng cao ở bệnh nhân bị gút mãn tính .</s>
+</spair>
+</text>
+</doc>

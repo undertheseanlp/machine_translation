@@ -1,0 +1,120 @@
+﻿<doc id='N0253'>
+<head>
+<title>Ex-Nokia Executives to Revive MeeGo with New Smartphone</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Ex-Nokia Executives to Revive MeeGo with New Smartphone</s>
+<s id='vn1'>Cựu nhân viên Nokia sẽ làm MeeGo hồi sinh bằng điện thoại thông minh mới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Their startup , Jolla , is looking to use the open-source OS to create an alternative to Apple 's iOS and Google 's Android .</s>
+<s id='vn2'>Công ty mới thành lập của họ , mang tên Jolla , dự định sẽ sử dụng hệ điều hành mã nguồn mở này để tạo ra nền tảng thay thế iOS của Apple và Android của Google .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A startup formed by ex- Nokia engineers is looking to muscle its way into an already highly competitive and crowded smartphone market with new devices based on the MeeGo operating system that Nokia shoved aside last year in favor of Microsoft 's Windows Phone OS.</s>
+<s id='vn3'>Một công ty mới thành lập của các cựu kỹ sư Nokia dự định sẽ chen chân vào thị trường điện thoại thông minh vốn đã rất cạnh tranh và đông đúc bằng những chiếc điện thoại mới chạy hệ điều hành MeeGo mà Nokia đã bỏ rơi hồi năm ngoái để chuyển sang hệ điều hành Windows Phone của Microsoft .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The former Nokia employees and other MeeGo supports have been working behind the scenes for the past year to create Jolla .</s>
+<s id='vn4'>Trong năm qua , các cựu nhân viên Nokia và các nguồn lực khác hỗ trợ MeeGo vẫn đang âm thầm họat động để thành lập Jolla .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The company officials said will not only make smartphones based on MeeGo that will hit the market by the end of the year , but also will build up the all-important ecosystem of applications and services around them .</s>
+<s id='vn5'>Theo nhân viên của họ , sẽ không chỉ sản xuất điện thoại thông minh chạy MeeGo sẽ ra mắt thị trường vào cuối năm , mà còn phát triển hệ sinh thái vô cùng quan trọng cho các ứng dụng và dịch vụ trên nền tảng này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Jolla officials are hoping to gain traction in a market that not only includes Apple and its iPhones as well as the rash of smartphone makers that have signed onto Google 's Android OS , but also a struggling Research In Motion and its BlackBerry devices as well as Nokia and its smartphones based on the Microsoft operating system .</s>
+<s id='vn6'>Nhân viên của Jolla hy vọng sẽ có được chỗ đứng trên thị trường mà ở đó không chỉ có Apple và điện thoại iPhone cũng như hàng loạt hãng sản xuất điện thoại thông minh sử dụng hệ điều hành Android của Google , mà còn có Research In Motion đang gặp khó khăn và điện thoại Blackberry cũng như Nokia và điện thoại thông minh chạy hệ điều hành của Microsoft .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Nokia and chip maker Intel began developing MeeGo in 2010 as a Linux-based open-source alternative to Apple 's iOS and Google 's Android , and as a replacement for Nokia 's own fading Symbian operating system .</s>
+<s id='vn7'>Nokia và nhà sản xuất chíp Intel bắt đầu phát triển MeeGo vào năm 2010 như một nền tảng nguồn mở dựa trên Linux để thay thế iOS của Apple và Android của Google , và cũng để thay thế hệ điều hành Symbian sắp tàn lụi của chính Nokia .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>However , early last year , Nokia CEO Stephen Elop announced that the company was abandoning MeeGo - apparently unhappy with the relatively slow development of the OS - in favor of Windows Phone .</s>
+<s id='vn8'>Tuy nhiên , đầu năm ngoái , Giám đốc Điều hành Nokia , Stephen Elop , tuyên bố rằng công ty sẽ từ bỏ MeeGo - dường như họ không hài lòng với sự phát triển tương đối chậm của hệ điều hành này - để chuyển sang Windows Phone .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But that did n't stop Nokia from releasing one MeeGo-based smartphone - the N9 - which saw some strong reviews when it was released last summer .</s>
+<s id='vn9'>Nhưng điều đó cũng không ngăn được Nokia công bố một chiếc điện thoại thông minh chạy MeeGo - Nokia N9 - vốn được đánh giá cao khi ra mắt mùa hè năm ngoái .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Jolla officials are hoping to revive MeeGo which Intel brought to the Linux Foundation and LiMo Foundation and rebranded as Tizen as a viable alternative to iOS and Android .</s>
+<s id='vn10'>Các nhân viên của Jolla hy vọng sẽ làm MeeGo hồi sinh - nền tảng này được Intel giao lại cho Linux Foundation và LiMo Foundation và đổi tên là Tizen - để trở thành nền tảng đủ sức thay thế iOS và Android .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Nokia created something wonderful - the world 's best smartphone product , " Jolla officials said in a statement .</s>
+<s id='vn11'>" Nokia đã tạo ra một sản phẩm tuyệt vời - sản phẩm tốt nhất thế giới dành cho điện thoại thông minh " , các nhân viên của Jolla phát biểu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" It deserves to be continued , and we will do that together with all the bright and gifted people contributing to the MeeGo success story . "</s>
+<s id='vn12'>" Nó xứng đáng được tiếp tục phát triển , và chúng tôi sẽ thực hiện điều đó cùng với tất cả những con người tài ba đang góp phần làm nên câu chuyện thành công MeeGo " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Jolla has been working on the new smartphone and MeeGo since the end of 2011 , according to officials , and will incorporate aspects of the Mer Core operating system and Qt framework , as well as the startup 's own user interface .</s>
+<s id='vn13'>Các nhân viên cho biết kể từ cuối năm 2011 , Jolla vẫn đang nghiên cứu về chiếc điện thoại thông minh mới và MeeGo , và công ty sẽ tích hợp hệ điều hành Mer Core và nền tảng Qt , cũng như giao diện người dùng của chính công ty .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Jolla CEO Jussi Hurmola , who spent 12 years with Nokia , told the Wall Street Journal July 9 that despite the strong market position of Apple 's and Google 's operating systems , there is room for other platforms .</s>
+<s id='vn14'>Jussi Hurmola , Giám đốc Điều hành Jolla , người từng làm việc 12 năm ở Nokia , phát biểu trên tờ nhật báo phố Wall hôm 9/7 là tuy hệ điều hành của Apple và Google có vị trí lớn mạnh trên thị trường , nhưng vẫn còn chỗ cho các nền tảng khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" With all the respect to ( Apple 's mobile operating system ) and Android , I 'm quite sure that the market is ready for something new , " Hurmola told the Journal .</s>
+<s id='vn15'>" Nói về ( hệ điều hành di động của Apple ) và Android , tôi hoàn toàn chắc chắn rằng thị trường đã sẵn sàng đón nhận cái mới " , Hurmola chia sẻ với tờ nhật báo .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" As I see it , there are user segments that have been left unserved .</s>
+<s id='vn16'>" Theo quan điểm của tôi , vẫn còn những phân khúc người dùng chưa được khai thác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>There is this view that certain players dominate the market , but it 's not really true .</s>
+<s id='vn17'>Có quan điểm cho rằng một vài công ty đang chiếm lĩnh thị trường , nhưng điều đó không thực sự đúng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>If we manage to hit the right notes , I 'm sure market will change with us .</s>
+<s id='vn18'>Nếu chúng tôi có được chiến lược phù hợp , tôi chắc chắn thị trường sẽ thay đổi theo chúng tôi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>We are not aiming to become a niche player . "</s>
+<s id='vn19'>Chúng tôi không định tham gia vào thị trường ngách " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In their statement , Jolla officials said the company boasts " a substantial number of MeeGo 's core engineers and directors " among its employees , and is continuing to recruit more people with MeeGo expertise .</s>
+<s id='vn20'>Trong lời phát biểu của mình , nhân viên của Jolla cho biết công ty lấy làm kiêu hãnh vì " có nhiều giám đốc và kỹ sư cốt lõi của MeeGo " trong tổng số nhân viên , và công ty vẫn đang tiếp tục tuyển thêm nhân viên thông thạo về MeeGo .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Hurmola said about half of the company 's 50 or so employees are from Nokia , and that the company is talking with potential hardware partners .</s>
+<s id='vn21'>Hurmola cho hay khoảng một nửa trong số trên dưới 50 nhân viên của công ty đến từ Nokia , và công ty cũng đang thương thảo với các đối tác phần cứng tiềm năng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He said the company , based in Finland , will need to raise about $ 12 million and to sell 50,000 to 100,000 of the new smartphones to break even .</s>
+<s id='vn22'>Ông cho biết công ty , trụ sở tại Phần Lan , sẽ cần phải huy động khoảng 12 triệu đô-la Mỹ và bán ra 50.000 đến 100.000 chiếc trong tổng số điện thoại thông minh mới để hoà vốn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>As Jolla employees look to get their company off the ground , Nokia 's struggles are continuing .</s>
+<s id='vn23'>Trong lúc nhân viên Jolla lên kế hoạch triển khai hoạt động của công ty , những khó khăn của Nokia vẫn đang tiếp diễn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The company , which lost $ 2 billion in the first quarter , in June announced it was cutting 10,000 jobs - about 19 percent of its workforce - by the end of 2013 as it looks to better compete with Apple and Google 's phone partners .</s>
+<s id='vn24'>Sau khi thua lỗ 2 tỷ đô-la Mỹ trong quý 1 , hồi tháng Sáu hãng tuyên bố sẽ cắt giảm 10.000 việc làm vào cuối năm 2013 - chiếm khoảng 19% lực lượng lao động - bởi hãng hi vọng sẽ cạnh tranh tốt hơn với Apple và các đối tác sản xuất điện thoại của Google .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Other plans call for shuttering three manufacturing facilities and focusing on the company 's Lumia line of Windows-based phones , which have received good review .</s>
+<s id='vn25'>Các kế hoạch khác yêu cầu phải đóng cửa ba nhà máy sản xuất và tập trung vào dòng điện thoại Lumia chạy Windows được đánh giá tốt .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>According to Canaccord Genuity analysts in a June 5 research note , the Lumia 900 was the second best selling phone at AT&T during April and May , behind Apple 's iPhone 4S .</s>
+<s id='vn26'>Theo các chuyên gia phân tích thuộc công ty Canaccord Genuity trong một nghiên cứu tiến hành ngày 5/6 , Lumia 900 là điện thoại bán chạy thứ hai tại AT&T sau iPhone 4S trong suốt tháng Tư và Tháng Năm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>However , during those months , Nokia was the fifth best selling smartphone maker , behind Apple , Samsung , Motorola Mobility and HTC .</s>
+<s id='vn27'>Tuy nhiên , trong những tháng đó , Nokia lại là hãng sản xuất điện thoại thông minh bán chạy thứ năm , sau Apple , Samsung , Motorola và HTC .</s>
+</spair>
+</text>
+</doc>

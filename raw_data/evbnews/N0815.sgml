@@ -1,0 +1,100 @@
+﻿<doc id='N0815'>
+<head>
+<title>Frog skin could help treat cancer and other diseases</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Frog skin could help treat cancer and other diseases</s>
+<s id='vn1'>Da ếch có thể giúp điều trị ung thư và các bệnh khác</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Scientists have discovered two proteins secreted from the skin of frogs that could help treat cancer and other diseases by disrupting the growth of blood vessels : one switches the process of " angiogenesis " on , and the other switches it off .</s>
+<s id='vn2'>Các nhà khoa học đã phát hiện ra hai loại prô-tê-in tiết ra từ da của ếch có thể giúp điều trị ung thư và các bệnh khác bằng cách làm gián đoạn sự phát triển của các mạch máu : một prô-tê-in kích hoạt quá trình " tạo mạch " và prô-tê-in kia làm ngưng quá trình này .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The researchers say the discovery has the potential to transform cancer from a terminal illness to a chronic condition .</s>
+<s id='vn3'>Các nhà nghiên cứu cho biết phát hiện này có tiềm năng biến đổi bệnh ung thư từ một bệnh nan y thành một bệnh mãn tính .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The award-winning discovery is the work of Professor Chris Shaw and colleagues at Queen 's University Belfast , in Northern Ireland .</s>
+<s id='vn4'>Phát hiện đoạt giải thưởng này là công trình nghiên cứu của Giáo sư Chris Shaw và các đồng nghiệp tại Đại học Queen Belfast , ở Bắc Ai-len .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Shaw is Professor in Drug Discovery at Queen 's School of Pharmacy , where he specializes in finding and classifying naturally occurring , biologically active agents , most notably those found in the venom of amphibians all over the world .</s>
+<s id='vn5'>Shaw là giáo sư khoa Nghiên cứu chế tạo thuốc tại Trường Đại học Dược Queen , nơi ông chuyên về phát hiện và phân loại các chất có hoạt tính sinh học có trong tự nhiên , đáng chú ý nhất là các chất thấy trong nọc độc của loài lưỡng cư ở khắp nơi trên thế giới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In this latest discovery , Shaw and colleagues identified two mini-proteins or " peptides " ( typically shorter than proteins but made from similar building blocks , amino acids ) secreted on the skin of the Waxy Monkey Frog and the Giant Firebellied Toad that have the potential to stimulate or switch off " angiogenesis " , the process of growing new blood vessels .</s>
+<s id='vn6'>Trong khám phá mới nhất này , Shaw và đồng nghiệp phân biệt 2 prô-tê-in nhỏ hay còn gọi là " pép-tít " ( thường ngắn hơn so với các prô-tê-in nhưng cũng được tạo thành từ các khối thành phần tương tự , a-xít aminô ) tiết ra trên da của ếch xanh lá và giống cóc Firebellied lớn , có tiềm năng kích thích hay làm tắt " sự tạo mạch " , quá trình phát triển mạch máu mới .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The peptide they found in skin of the Waxy Monkey Frog can switch off angiogenesis and the peptide they found in the skin of the Giant Firebellied Toad does the opposite : it can switch on angiogenesis .</s>
+<s id='vn7'>Loại pép-tít họ thấy trong da của ếchxanh lá có thể làm tắt sự tạo mạch và loại pép-tít trong da của cóc Firebellied lớn có tác dụng ngược lại : kích hoạt sự tạo mạch .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>As a cancer tumor grows and needs more oxygen and nutrients , it gets to a point where it has to develop its own blood supply , or it ca n't grow any bigger .</s>
+<s id='vn8'>Khi khối u ung thư phát triển và cần có thêm ô-xi cùng với chất dinh dưỡng , nó sẽ đến mức cần phải phát triển nguồn cung cấp máu riêng của nó , hoặc nó không thể nào phát triển lớn hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>So the idea is that a peptide that switches off angiogenesis could be incorporated into cancer drugs so the tumors either starve or stop growing .</s>
+<s id='vn9'>Vì vậy , ý tưởng là một pép-tít sẽ làm tắt mạch có thể được kết hợp vào các loại thuốc trị ung thư khiến các khối u bị chết đói hoặc ngừng phát triển .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In a statement to the press , Shaw explained the potential of such a compound :</s>
+<s id='vn10'>Trong một tuyên bố với báo chí , Shaw giải thích tiềm năng của một hợp chất như vậy :</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Stopping the blood vessels from growing will make the tumour less likely to spread and may eventually kill it .</s>
+<s id='vn11'>" Ngăn chặn các mạch máu phát triển sẽ làm cho khối u ít có khả năng phát tán và cuối cùng có thể giết nó .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This has the potential to transform cancer from a terminal illness into a chronic condition . "</s>
+<s id='vn12'>Điều này có tiềm năng để biến bệnh ung thư từ bệnh nan y thành một bệnh mãn tính . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>On the other hand , a peptide that can switch on angiogenesis is also useful .</s>
+<s id='vn13'>Mặt khác , một pép-tít có thể kích hoạt sự tạo mạch cũng rất hữu ích .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>For instance , in diseases or conditions where blood vessels need to repair quickly , such as in helping wounds to heal , in organ transplants , diabetic ul cers , and where strokes or heart conditions have left blood vessels damaged .</s>
+<s id='vn14'>Ví dụ , trong các bệnh hay tình trạng mà mạch máu cần được sửa chữa nhanh chóng , chẳng hạn như trong việc giúp chữa lành vết thương , trong cấy ghép nội tạng , loét do tiểu đường , và đột quỵ hay các bệnh tim mà làm cho mạch máu bị tổn thương .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Angiogenesis has been a prime target for new drugs for over four decades , said Shaw , who said the reason he and his team look to the natural world for such compounds is because despite billions of investment by scientists and drug companies , man-made drugs that can effectively target and control the growth of blood vessels have yet to appear .</s>
+<s id='vn15'>Theo Shaw , sự tạo mạch đã là một mục tiêu chính cho các loại thuốc mới trong hơn bốn thập niên qua , đó cũng chính là lý do ông và nhóm của mình tìm kiếm trong thế giới tự nhiên những hợp chất như vậy bởi vì mặc dù nhiều nhà khoa học và các công ty dược phẩm đã đầu tư hàng tỉ nghiên cứu thì các loại thuốc do con người tạo ra nhắm đến sự kiểm soát tăng trưởng mạch máu một cách hiệu quả vẫn chưa đạt được .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" We are absolutely convinced that the natural world holds the solutions to many of our problems , we just need to pose the right questions to find them ," said Shaw .</s>
+<s id='vn16'>" Chúng tôi hoàn toàn tin rằng thế giới tự nhiên nắm giữ giải pháp cho nhiều vấn đề của con người , chúng ta chỉ cần đặt ra các câu hỏi thích hợp để tìm thấy chúng " , Shaw nói .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It would be a great shame to have something in nature that is potentially the wonder drug to treat cancer and not aim to do everything in our power to make it work ," he added .</s>
+<s id='vn17'>" Sẽ thật xấu hổ nếu có một chất gì đó trong tự nhiên có tiềm năng là thuốc trị ung thư mà chúng ta không cố gắng làm mọi chuyện trong khả năng để biến nó thành hiện thực " , ông nói thêm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Shaw 's team members are very careful when they handle the frogs , so as not to harm them .</s>
+<s id='vn18'>Các thành viên trong nhóm của Shaw rất cẩn thận khi xử lý ếch , để không làm hại chúng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>They gently extract the secretions , and then release the frogs back into the wild .</s>
+<s id='vn19'>Họ nhẹ nhàng trích xuất các dịch tiết , và sau đó thả những con ếch trở lại môi trường hoang dã .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Other studies have also shown that amphibians synthesize and secrete a range of chemicals with antimicrobial properties .</s>
+<s id='vn20'>Các nghiên cứu khác cũng chỉ ra rằng động vật lưỡng cư tổng hợp và tiết ra một loạt các hoá chất có tính kháng khuẩn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Earlier this year , scientists Ren Lai and colleagues from China reported in the Journal of Proteome Research that they found 79 different antimicrobial peptides , including 59 that were totally new to science , in the brains of two types of toad .</s>
+<s id='vn21'>Vào đầu năm nay , nhà khoa học Ren Lai và các đồng nghiệp từ Trung Quốc đã trình bày trong Tạp chí Nghiên cứu Proteome rằng họ đã tìm thấy 79 loại pép-tít kháng khuẩn khác nhau , bao gồm 59 loại hoàn toàn mới đối với khoa học , trong não bộ của 2 loài cóc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Some of the peptides were so powerful they could cripple or kill strains of staph bacteria , E. coli , and some types of fungus that infect humans .</s>
+<s id='vn22'>Một số loại pép-tít mạnh đến nỗi chúng có thể làm tê liệt hoặc giết chết các dòng tụ cầu khuẩn , trực khuẩn E.coli , và một số loài nấm gây bệnh cho người .</s>
+</spair>
+</text>
+</doc>

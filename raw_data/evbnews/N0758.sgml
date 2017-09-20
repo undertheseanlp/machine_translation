@@ -1,0 +1,156 @@
+﻿<doc id='N0758'>
+<head>
+<title>Why Apple is Making OS X More Like iOS</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Why Apple is Making OS X More Like iOS</s>
+<s id='vn1'>Vì sao Apple làm OS X ngày càng giống iOS</s>
+</spair>
+<spair id='2'>
+<s id='en2'>When Apple unveiled its preview of OS X 10.8 Mountain Lion earlier this year , many people in the blogosphere concluded that Mac OS X was being " iOSified " .</s>
+<s id='vn2'>Khi Apple cho ra mắt phiên bản dùng thử của OS X 10.8 Mountain Lion hồi đầu năm nay , nhiều cư dân trong cộng đồng blog kết luận rằng Mac OS X đang bị " iOS hoá " .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In other words , features from iOS were being ported to OS X for use on the desktop .</s>
+<s id='vn3'>Nói cách khác , những tính năng của iOS đang được chuyển sang OS X để sử dụng trên máy tính .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Some lamented that this has been a bad thing - as if features that work , in some cases , better on iOS than on the desktop , should n't be added to OS X , because the former is a mobile operating system , and the latter built for the desktop .</s>
+<s id='vn4'>Một số người than phiền rằng đây là điều tồi tệ - như thể trong vài trường hợp , những tính năng họat động tốt hơn trên iOS so với trên máy tính cũng không nên bổ sung vào OS X , bởi iOS là hệ điều hành di động , còn OS X được xây dựng cho máy tính .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>IOS and OS X have the same foundation , and there is no reason why efficient features of one should n't be added to the other .</s>
+<s id='vn5'>IOS và OS X có cùng nền tảng , và không có lý do mà những tính năng hiệu quả của hệ điều hành này lại không được thêm vào hệ điều hành kia .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But Apple is , in my opinion , developing a much deeper and longer term strategy in iOSifying OS X .</s>
+<s id='vn6'>Nhưng tôi nghĩ là Apple đang phát triển chiến lược chuyên sâu và dài hạn hơn trong việc " iOS hoá " OS X .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In its most recent fiscal quarter , Apple 's earnings were dominated by sales of iOS devices .</s>
+<s id='vn7'>Trong quý tài chính mới đây , doanh thu của Apple phần lớn đến từ doanh số bán thiết bị i OS .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Out of $ 39.2 billion in revenue , the iPhone and iPad represented three quarters of the company 's sales .</s>
+<s id='vn8'>Trong số 39,2 tỷ đô-la Mỹ doanh thu , iPhone và iPad chiếm 3/4 doanh số bán hàng của hãng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>While Mac growth is still well ahead of the rest of the PC market , the Mac now makes up less than one-fifth of the company 's revenue .</s>
+<s id='vn9'>Mặc dù mức tăng trưởng của máy Mac vẫn vượt trên các đối thủ khác trên thị trường PC , máy Mac hiện chiếm chưa đến 1/5 doanh thu của công ty .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Apple is making some 75 percent of its income from product lines introduced within the past five years .</s>
+<s id='vn10'>Khoảng 75% doanh thu của Apple đến từ các dòng sản phẩm được giới thiệu trong năm năm qua .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>IOS devices are driving sales for Apple .</s>
+<s id='vn11'>Thiết bị iOS làm tăng doanh thu cho Apple .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>At the same time , there 's another stat Apple presents during its quarterly earning announcements : Half of the Macs sold at the company 's retail stores are to new customers - to switchers .</s>
+<s id='vn12'>Đồng thời , trong những lần công bố doanh thu quý của hãng , Apple cũng đưa ra số liệu thống kê cho thấy : Một nửa số máy Mac bán được tại các cửa hàng bán lẻ của hảng là cho khách hàng mới - những người chuyển đổi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Put yourself in the shoes of a person who owns an iPhone or iPad .</s>
+<s id='vn13'>Đặt mình vào vị trí của một người sở hữu iPhone hoặc iPad .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>If they want a new computer , and they have been happy with their iPhone or iPad , they might consider buying a Mac .</s>
+<s id='vn14'>Nếu họ muốn mua máy tính mới , và họ hài lòng với iPhone hoặc iPad của họ , có thể họ sẽ cân nhắc việc mua máy Mac .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>When they go to an Apple Store today , they 'll look at a Mac and see applications like iCal and Address Book , or System Preferences and iChat .</s>
+<s id='vn15'>Khi hôm nay họ đến Apple Store , họ sẽ nhìn ngắm máy Mac và thấy các ứng dụng như iCal và Address Book , hay System Preferences và iChat .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>While the icons are similar enough for them to figure out the link between these and their mobile equivalents , it would be a lot easier if they saw Calendar and Contacts ; Settings and Messages .</s>
+<s id='vn16'>Mặc dù biểu tượng nhìn tương tự nhau đủ để họ nhận ra mối liên hệ giữa những dụng ứng trên máy này và trên các thiết bị di động , nhưng sẽ dễ dàng hơn nhiều nếu họ nhìn thấy Calendar và Contacts ; Settings và Messages .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And those little Share buttons ?</s>
+<s id='vn17'>Còn những nút Share ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>People use them all the time to send things by e-mail , but it 's not clear how to do this in OS X .</s>
+<s id='vn18'>Nhiều người thường xuyên sử dụng chúng để gửi mọi thứ qua email , nhưng không rõ cách làm như thế nào trên OS X .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Apple 's Mac growth is impressive , but the company can do so much more to bring into the fold people who have already been converted to iOS .</s>
+<s id='vn19'>Mức tăng trưởng Mac của Apple khá ấn tượng , nhưng hãng có thể làm nhiều hơn thế nữa để ngăn chặn khách hàng đã chuyển sang iOS sử dụng sản phẩm của các đối thủ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>What better way to do so than to say , " You know how to use an iPhone ; so you already know how to use a Mac . "</s>
+<s id='vn20'>Còn cách nào tốt hơn là tuyên bố rằng , " Bạn biết cách sử dụng iPhone ; thế thì bạn đã biết cách sử dụng máy Mac " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>This iOSification is a drive to create consistency across the two platforms .</s>
+<s id='vn21'>Việc " iOS hoá " là lực đẩy để tạo ra tính nhất quán trên hai nền tảng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I certainly do n't expect touch-screen laptops - just think how tired your arm would get after constantly raising it to touch the screen - but making the two operating systems coherent is the best thing that Apple can do to get new customers to buy Macs .</s>
+<s id='vn22'>Dĩ nhiên tôi không mong đợi sẽ có máy tính xách tay màn hình cảm ứng - bạn thử nghĩ xem cánh tay của bạn sẽ mỏi như thế nào khi phải liên tục giơ lên để chạm vào màn hình - nhưng việc gắn kết hai hệ điều hành này là điều tốt nhất mà Apple có thể làm để khiến khách hàng mới mua máy Mac .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>In addition , Apple 's iCloud strategy is clearly designed to link the two types of devices .</s>
+<s id='vn23'>Ngoài ra , chiến lược iCloud của Apple rõ ràng được lập ra để liên kết hai loại thiết bị .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>With OS X Mountain Lion , iCloud will be enhanced , managing reminders , notes , passwords and much more .</s>
+<s id='vn24'>Với OS X Mountain Lion , iCloud sẽ được cải thiện , có thể quản lý nhắc nhở , ghi chú , mật khẩu và nhiều thứ khác nữa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Once Apple makes iCloud syncing fully transparent , the ability to switch from an iPad to a Mac will be simple enough that it will become second nature .</s>
+<s id='vn25'>Một khi Apple minh bạch hoá hoàn toàn việc đồng bộ hóa trên iCloud , khả năng chuyển từ iPad sang dùng Mac sẽ trở nên đơn giản đến mức quá dễ dàng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I can see Apple launching a major marketing campaign to get its iOS customers to buy Macs .</s>
+<s id='vn26'>Tôi có thể thấy Apple đang phát động chiến dịch tiếp thị lớn để khiến khách hàng dùng iOS mua máy Mac .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>With the rapprochement of the two operating systems , I can even picture a new commercial the company might run .</s>
+<s id='vn27'>Với việc gắn kết hai hệ điều hành này , tôi thậm chí có thể hình dung ra mẫu quảng cáo mới mà có thể hãng sẽ dùng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It might start something like this :</s>
+<s id='vn28'>Nó có thể bắt đầu như thế này :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>A : Hi , I 'm an iPhone .</s>
+<s id='vn29'>A : Xin chào , tôi đang dùng iPhone .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>B : I 'm an iPad .</s>
+<s id='vn30'>B : Tôi đang dùng iPad .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>C : And I 'm a Mac</s>
+<s id='vn31'>C : Và tôi đang dùng Mac .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The three characters can then go on to point out how easy it is for one of the hundreds of millions of iOS users to buy a new Mac , enter their Apple ID , and start working ( and playing ) .</s>
+<s id='vn32'>Ba nhân vật này sau đó có thể chỉ ra rằng nó việc mua máy Mac mới , nhập Apple ID rồi bắt đầu công việc ( và giải trí ) sẽ dễ dàng biết bao đối với một người dùng trong số hàng trăm triệu người dùng iOS .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>They could show how so many familiar apps and concepts make picking up and using a new Mac simple for anyone who is used to an iPhone or iPad .</s>
+<s id='vn33'>Họ có thể chỉ ra bằng cách nào mà việc có quá nhiều ứng dụng và ý tưởng quen thuộc sẽ làm cho việc mua và dùng máy Mac mới sẽ trở nên đơn giản đối với bất cứ ai đã quen với iPhone hoặc iPad .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Taking the best of iOS and adding it to OS X will not weaken the desktop platform , as some have suggested ; the features being added are those that have proven effective on mobile devices .</s>
+<s id='vn34'>Lấy những gì tốt nhất của iOS thêm vào OS X sẽ không làm suy yếu nề tảng để bàn , như một số người vẫn nghĩ ; những tính năng được thêm vào đã chứng tỏ hiệu quả trên các thiết bị di động .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If anything , this cross-pollination will improve both plat forms , and simplify tasks for those who use both platforms to get things done .</s>
+<s id='vn35'>Có thể sự " kết duyên " này sẽ cải thiện cả hai nền tảng , và đơn giản hóa tác vụ cho những ai làm việc trên cả cả hai nền tảng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>And , in the end , the iOSification of OS X may be the catalyst that allows Apple to take Mac sales to a new level .</s>
+<s id='vn36'>Và , cuối cùng , việc " iOS hoá " OS X có thể là chất xúc tác giúp Apple tăng doanh số bán Mac lên một mức mới .</s>
+</spair>
+</text>
+</doc>

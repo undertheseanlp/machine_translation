@@ -1,0 +1,392 @@
+﻿<doc id='N0762'>
+<head>
+<title>A kid 's guide to divorce</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A kid 's guide to divorce</s>
+<s id='vn1'>Hướng dẫn cho trẻ biết về cuộc ly hôn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Do you know someone whose parents are divorced ?</s>
+<s id='vn2'>Bạn có biết ai có bố mẹ ly dị không ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Are your parents divorced ?</s>
+<s id='vn3'>Bố mẹ của bạn có ly hôn không ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Chances are that you can answer yes to one - or maybe both - of those questions .</s>
+<s id='vn4'>Rất có thể câu trả lời của bạn là " có " với một trong hai - hoặc cũng có thể là cả hai câu hỏi trên .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>And you are not alone !</s>
+<s id='vn5'>Và bạn không phải là người duy nhất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Read on to find out what divorce is and what you can do to help your family , your friends , or yourself when people get divorced .</s>
+<s id='vn6'>Xin đọc bài dưới đây để hiểu được ly hôn là gì và bạn có thể làm được gì để giúp gia đình mình , bạn bè mình , hoặc cả bản thân mình nữa khi có ai đó ly hôn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>What is divorce ?</s>
+<s id='vn7'>Ly hôn là gì ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A divorce happens after a husband and wife decide they ca n't live together anymore and no longer want to be married .</s>
+<s id='vn8'>Cuộc ly hôn xảy ra sau khi vợ chồng quyết định không thể sống chung với nhau được nữa và không còn muốn là chồng vợ của nhau nữa .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>They agree to sign legal papers that make them each single again and allow them to marry other people if they want to .</s>
+<s id='vn9'>Họ đồng ý ký vào giấy ly và theo pháp luật trả cuộc sống độc thân cho nhau và được phép kết hôn với người khác nếu họ muốn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Although that may sound simple , it 's not easy for a husband and wife to decide to end a marriage .</s>
+<s id='vn10'>Dẫu rằng nghe có vẻ đơn giản quá , nhưng đối với một cặp vợ chồng thì việc đưa ra quyết định chấm dứt cuộc hôn nhân không dễ dàng gì .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Often they spend a long time trying to solve problems before deciding to divorce .</s>
+<s id='vn11'>Thường thì phải mất một thời gian dài để họ cố giải quyết vấn đề trước khi đi đến quyết định ly hôn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But sometimes they just ca n't fix the problems and decide that a divorce is the best solution .</s>
+<s id='vn12'>Nhưng đôi khi đúng là người ta không thể giải quyết được vấn đề và quyết định chọn ly hôn là giải pháp tốt nhất .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Sometimes both parents want to divorce , and sometimes one wants to and the other one does n't .</s>
+<s id='vn13'>Đôi khi cả hai vợ chồng đều muốn ly hôn , và cũng có lúc một người muốn và người còn lại thì không .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Usually , both parents are disappointed that their marriage ca n't last , even if one wants a divorce more than the other .</s>
+<s id='vn14'>Thường thì cả hai đều cảm thấy thất vọng bởi cuộc hôn nhân của mình không kéo dài , cho dù là một người muốn ly hôn hơn người kia .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Many kids do n't want their parents to divorce .</s>
+<s id='vn15'>Nhiều trẻ chẳng muốn bố mẹ chúng ly hôn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Some kids have mixed feelings about it , especially if they know their parents were n't happy together .</s>
+<s id='vn16'>Một số có cảm giác lẫn lộn về nó , nhất là nếu biết được bố mẹ mình không hạnh phúc với nhau .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Some kids may even feel relieved when parents divorce , especially if there 's been a lot of fighting between parents during the marriage .</s>
+<s id='vn17'>Một số có thể thậm chí cảm thấy nhẹ nhõm khi bố mẹ ly hôn nhau , nhất là nếu giữa bố mẹ đã xảy ra nhiều trận ẩu đả trong cuộc sống hôn nhân .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>It 's really important for kids to know that just because parents divorce each other , they 're not divorcing their kids .</s>
+<s id='vn18'>Điều thực sự quan trọng đối với trẻ là chúng nên hiểu rằng chỉ là bởi bố mẹ ly hôn nhau thôi , chứ bố mẹ không hề ly hôn với chúng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Some kids think that if their parents are divorcing , it means their moms and dads will want to leave them , too .</s>
+<s id='vn19'>Một số trẻ cho là nếu bố mẹ chia tay nhau rồi thì đồng nhất với việc mẹ và bố cũng sẽ muốn rời xa chúng nữa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Although it 's true that the kid of a divorced couple usually lives with only one parent most of the time , the parent who lives somewhere else is still that kid 's mom or dad - forever .</s>
+<s id='vn20'>Mặc dù quả đúng là con của một cặp vợ chồng ly hôn nhau thường hầu như chỉ sống với bố hoặc mẹ , và người kia sống ở một nơi nào đó thì mãi vẫn là mẹ hoặc là bố của trẻ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>That will never change .</s>
+<s id='vn21'>Điều đó sẽ chẳng hề thay đổi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Kids ca n't cause divorce !</s>
+<s id='vn22'>Trẻ con không là nguyên nhân khiến bố mẹ ly hôn !</s>
+</spair>
+<spair id='23'>
+<s id='en23'>There are many reasons why people divorce .</s>
+<s id='vn23'>Người ta ly hôn nhau vì nhiều lý do .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Maybe they 've grown apart .</s>
+<s id='vn24'>Có thể là họ đã dần xa cách .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Maybe the love they once had for each other has changed .</s>
+<s id='vn25'>Có thể là tình yêu cho nhau trước kia giờ đã thay đổi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Maybe they fight and just ca n't agree about things .</s>
+<s id='vn26'>Có thể là họ xung đột và hoàn toàn không thống nhất với nhau về nhiều thứ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Every couple has their own reasons for divorce .</s>
+<s id='vn27'>Mỗi cặp vợ chồng đều có những lý do riêng để ly hôn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Whatever the reasons are , one thing is for sure : Kids do n't cause divorce .</s>
+<s id='vn28'>Nhưng bất kể vì lý do gì đi nữa thì có một điều chắc chắn là : Trẻ không là nguyên nhân khiến cho bố mẹ ly hôn nhau .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Still , many children of divorced parents believe they are the reason their mom and dad got divorced .</s>
+<s id='vn29'>Tuy thế , nhiều trẻ cũng nghĩ rằng chúng là nguyên nhân làm cho bố mẹ chia tay nhau .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They think that if only they had behaved better , gotten better grades , or helped more around the house , the divorce would n't have happened .</s>
+<s id='vn30'>Chúng nghĩ là giá mà mình đã cư xử tốt hơn , được hạng cao hơn , hoặc đã giúp bố mẹ nhiều công việc nhà hơn thì lẽ ra bố mẹ đã chẳng ly hôn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But this is n't true .</s>
+<s id='vn31'>Nhưng điều này không đúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Divorce is between moms and dads only !</s>
+<s id='vn32'>Ly hôn là việc chỉ có liên quan giữa mẹ và bố thôi !</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Even if you once heard your parents argue about you , or your friend next door thinks his parents broke up because he got in trouble at school , these things do n't cause a husband and wife to end their marriage .</s>
+<s id='vn33'>Cho dù là bạn đã từng nghe bố mẹ cãi vã nhau về mình , hoặc là một đứa bạn ngay sát vách nhà của bạn nghĩ là bố mẹ mình chia tay nhau bởi bạn ấy không học tốt ở trường , những chuyện này không làm cho bố mẹ ly hôn đâu .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>You may feel you 're to blame for your parents ' divorce , but you are not the cause .</s>
+<s id='vn34'>Bạn cũng có thể cảm thấy mình có lỗi , phải chịu trách nhiệm về cuộc ly hôn của bố mẹ , nhưng bạn không phải là nguyên do .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>And the fact that your parents decide not to stay married is not your fault .</s>
+<s id='vn35'>Và sự thật là việc bố mẹ quyết định chia tay không phải là lỗi của bạn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Kids ca n't fix divorce !</s>
+<s id='vn36'>Trẻ cũng không thể giúp bố mẹ hàn gắn cuộc ly hôn !</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Just like the divorce is not the kid 's fault , getting parents back together is not up to the kid , either .</s>
+<s id='vn37'>Cũng giống như ly hôn không phải là lỗi của trẻ , thì việc hàn gắn tình cảm của bố mẹ lại với nhau cũng không phải tuỳ thuộc vào trẻ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>And most likely , this does n't happen , although plenty of kids wish for it and even try things they think might work .</s>
+<s id='vn38'>Và rất có thể là điều này không xảy ra , dẫu nhiều đứa trẻ ao ước và thậm chí cố làm những thứ mà chúng cho là có thể làm được .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Acting like an angel at home all the time may make your mom and dad happy with you , but it does n't mean they 'll get back together .</s>
+<s id='vn39'>Lúc nào cũng cư xử giống như một thiên thần nhỏ ở nhà có thể làm cho bố và mẹ cảm thấy vui với bạn , nhưng đó không có nghĩa là họ sẽ trở lại với nhau .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The opposite is also true .</s>
+<s id='vn40'>Điều ngược lại cũng đúng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Making trouble so your mom and dad will have to get together to talk about these problems is not going to make the divorce go away , either .</s>
+<s id='vn41'>Gây rắc rối để bố và mẹ tụ họp lại nói chuyện về những vấn đề này cũng không làm chấm dứt cuộc ly hôn được .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>So , just be yourself and try to talk to your parents about any feelings you have .</s>
+<s id='vn42'>Vì vậy , hãy bình tĩnh và cố nói cho bố mẹ nghe về bất cứ cảm xúc nào mà mình có .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>But I feel like my whole world just fell apart !</s>
+<s id='vn43'>Nhưng tôi cảm thấy như cả thế giới hoàn toàn đổ sụp !</s>
+</spair>
+<spair id='44'>
+<s id='en44'>If your family is going through a divorce or you 're helping a friend through it , there are a few important things about feelings you need to remember .</s>
+<s id='vn44'>Nếu gia đình bạn đang phải trải qua , đang phải chịu đựng một cuộc ly hôn hoặc bạn đang giúp một người bạn có hoàn cảnh tương tự thế thì bạn nên nhớ một vài điều quan trọng về cảm xúc sau .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>First of all , it 's normal to feel lots of different things , including anger , fear , and sadness .</s>
+<s id='vn45'>Một là , việc mang nhiều tâm trạng khác nhau , như tức giận , sợ hãi , và buồn phiền là chuyện đương nhiên , quá đỗi bình thường .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Second , even though it may seem like your whole world just fell apart , with time , things will be better again .</s>
+<s id='vn46'>Hai là , dẫu rằng điều đó có thể giống như cả thế giới này hoàn toàn sụp đổ , nhưng với thời gian thì mọi thứ sẽ trở nên tốt đẹp hơn trở lại .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Your life might be a bit different , but the pieces will come back together again - maybe even sooner than you think .</s>
+<s id='vn47'>Cuộc sống của bạn có thể sẽ thay đổi một chút , nhưng những mảnh vỡ ấy rồi sẽ dính với nhau trở lại - thậm chí có lẽ còn nhanh hơn bạn nghĩ nữa đấy .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Meanwhile , there are ways you can deal with the feelings you have .</s>
+<s id='vn48'>Bên cạnh đó , cũng có một số cách có thể giúp bạn đối phó với những cảm xúc của mình có .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>If you are really mad , you can punch your pillow , kick some empty boxes , go hit a baseball , or run for as long and as fast as you can .</s>
+<s id='vn49'>Nếu bạn thực sự phát điên lên thì có thể đấm vào gối của mình , đá một số hộp rỗng nào đó , đi đánh bóng chày , hoặc chạy bộ càng xa và càng nhanh càng tốt .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>But never take your feelings out on another person .</s>
+<s id='vn50'>Nhưng đừng bao giờ trút những cảm xúc của mình lên một người nào khác nhé .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Telling someone how you feel can also help .</s>
+<s id='vn51'>Bộc lộ cảm xúc của mình cho một người nào đó biết cũng là một cách .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>If you feel really angry , say so .</s>
+<s id='vn52'>Nếu bạn cảm thấy thực sự tức giận thì bạn hãy nói ra .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Talking is much better than keeping your feelings to yourself or acting all grouchy and irritable .</s>
+<s id='vn53'>Việc tâm sự tốt hơn nhiều so với giữ kín cảm xúc của mình trong lòng hoặc hành động quạu quọ và khó chịu một mình .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Sometimes just talking to someone else is a big relief .</s>
+<s id='vn54'>Đôi khi chỉ cần tâm sự với một ai đó cũng làm bạn cảm thấy nhẹ nhõm rất nhiều .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Try simply saying , " I 'm so angry ( or sad or worried ) about my parents getting divorced !</s>
+<s id='vn55'>Bạn chỉ cần thử nói " Mình rất tức giận ( hoặc buồn hoặc lo lắng ) về việc bố mẹ mình chia tay !</s>
+</spair>
+<spair id='56'>
+<s id='en56'>It really upsets me ! "</s>
+<s id='vn56'>Chuyện này thực sự làm mình khó chịu ! "</s>
+</spair>
+<spair id='57'>
+<s id='en57'>When the person who 's listening can say something back to you like , " No wonder you feel that way , I totally understand why you do , " it can help you feel better .</s>
+<s id='vn57'>Khi người được bạn tâm sự có thể nói cho bạn nghe lại một điều gì đó chẳng hạn như " Không có gì ngạc nhiên khi bạn có cảm xúc đó , mình hoàn toàn hiểu được tại sao bạn làm như thế " - việc này cũng có thể giúp bạn cảm thấy thoải mái hơn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Sometimes that 's all the talking someone needs to do .</s>
+<s id='vn58'>Đôi khi người ta chỉ cần tâm sự cho nhau nghe là đủ .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Sometimes it 's just the beginning of many more conversations you 'll have .</s>
+<s id='vn59'>Đôi khi đây chỉ là sự khởi đầu của nhiều cuộc nói chuyện hơn mà bạn sẽ có sau đó .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Talk to a parent .</s>
+<s id='vn60'>Hãy tâm sự với bố hoặc mẹ .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Or , if that does n't feel right , find someone else you really like to talk to , maybe your brother or sister , a teacher , school counselor , neighbor , or grandparent .</s>
+<s id='vn61'>Hoặc nếu không thoải mái thì hãy tìm một ai đó mà bạn thấy thực sự thích nói chuyện , có thể là anh trai hoặc chị gái của mình , thầy cô , nhân viên tư vấn ở trường , hàng xóm , hoặc ông bà .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>It 's tough to let it out , but it can really help .</s>
+<s id='vn62'>Nói ra quả là điều rất khó , nhưng nó có thể thực sự có ích với bạn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>If you have a friend whose parents are divorcing , try to be a good listener when your friend wants to talk .</s>
+<s id='vn63'>Nếu một người bạn nào đó của bạn có bố mẹ đang ly hôn thì bạn cũng nên cố lắng nghe khi người ấy muốn tâm sự nhé .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Divorce is never easy .</s>
+<s id='vn64'>Ly hôn chẳng hề dễ dàng chút nào .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Sometimes the feelings kids have about their parents ' divorce are so strong that kids have a hard time concentrating on anything else .</s>
+<s id='vn65'>Đôi khi cảm xúc về cuộc ly hôn giữa bố và mẹ quá dữ dội đến nỗi trẻ khó có thể tập trung vào bất cứ việc gì khác .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>When kids are very sad , mad , or worried , they may have trouble paying attention in class , focusing on homework , or even remembering what they 've just read .</s>
+<s id='vn66'>Khi trẻ cảm thấy quá buồn , quá bực dọc , hoặc quá lo âu thì chúng có thể rất khó chú ý học hành trong lớp , khó có thể tập trung vào bài tập ở nhà , hoặc thậm chí khó nhớ là mình vừa mới đọc được cái gì .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>If this happens , it 's especially important to get some help .</s>
+<s id='vn67'>Nếu như điều này xảy ra thế thì trẻ rất cần được giúp đỡ .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Kids may feel much better after talking to a therap ist , counselor , or social worker .</s>
+<s id='vn68'>Trẻ có thể cảm thấy nhẹ nhõm hơn sau khi tâm sự với nhà trị liệu , nhà tư vấn , hoặc một người làm công tác xã hội .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>These adults are trained to talk with people about their problems and help with feelings that are too intense .</s>
+<s id='vn69'>Những người này được đào tạo để có thể nói chuyện với những người đang gặp khó khăn và có thể giúp đỡ họ giải quyết những cảm xúc quá dữ dội đó .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>There are also support groups in schools and other places in the community where kids can get to know other kids whose parents have divorced or are divorcing and talk about how it affects them .</s>
+<s id='vn70'>Cũng có những nhóm hỗ trợ ở trường học và những nơi khác trong cộng đồng nơi mà trẻ có thể biết được những đứa trẻ khác có bố mẹ đã ly hôn hoặc sắp ly hôn và nói chuyện về việc ly hôn làm ảnh hưởng đến chúng như thế nào .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>There are also lots of books about divorce written just for kids .</s>
+<s id='vn71'>Cũng có rất nhiều sách viết về ly hôn chỉ dành cho trẻ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Life after divorce</s>
+<s id='vn72'>Cuộc sống sau khi bố mẹ ly hôn</s>
+</spair>
+<spair id='73'>
+<s id='en73'>When parents divorce , usually one parent moves out of the house and lives somewhere else .</s>
+<s id='vn73'>Khi bố mẹ ly hôn thì thường là bố hoặc mẹ phải dọn ra ngoài và sống ở một nơi khác .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Some kids spend part of the time living with one parent and part of the time living with the other .</s>
+<s id='vn74'>Một số trẻ sống một thời gian với bố và một thời gian khác lại sống với mẹ .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Other kids live mostly with one parent and visit the other .</s>
+<s id='vn75'>Số khác hầu như lúc nào cũng sống với bố hoặc mẹ và đến thăm người kia .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>If this is the case for you , it may seem strange at first to be visiting your own parent , but you may even start to enjoy a little time away from your everyday house .</s>
+<s id='vn76'>Nếu bạn rơi vào tình huống này thì ban đầu có thể là bạn sẽ cảm thấy lạ lẫm với việc đến thăm bố ( mẹ ) của mình , nhưng thậm chí cũng có thể bắt đầu cảm thấy thích khoảng thời gian hiếm hoi khi phải xa ngôi nhà hằng ngày của mình .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>And it can feel good knowing you have two homes where someone loves you .</s>
+<s id='vn77'>Và có thể còn cảm thấy thoải mái khi biết rằng mình có hai gia đình yêu thương .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>If you live mostly with one parent , the other parent might live close to you or far away .</s>
+<s id='vn78'>Nếu bạn sống chủ yếu với bố hoặc mẹ thì người kia có thể sống gần bạn hoặc dọn đi xa .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>How often you can visit might depend partly on where everyone lives .</s>
+<s id='vn79'>Việc đến thăm bố ( mẹ ) bao lâu một lần có thể tuỳ thuộc vào nơi ở của mỗi người .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Some kids whose parents get divorced have to move to a new home or a new neighborhood , and that can be tough , too .</s>
+<s id='vn80'>Một số trẻ có bố mẹ chia tay phải dọn đến nhà mới hoặc đến một chỗ ở mới , và điều đó cũng có thể gây khó khăn .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Often most other things - like your school , friends , and neighborhood - will be the same .</s>
+<s id='vn81'>Thông thường thì hầu như mọi thứ khác - chẳng hạn như trường học , bạn bè , và hàng xóm - đều không có gì thay đổi .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>When to speak up</s>
+<s id='vn82'>Khi nào bạn cần lên tiếng</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Sometimes problems come up when kids visit one parent and then go home to the other .</s>
+<s id='vn83'>Đôi khi nhiều vấn đề xuất hiện khi trẻ đến thăm bố hoặc mẹ và rồi trở về nhà với người kia .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>For example , one parent might ask a lot of questions about stuff the other parent is doing .</s>
+<s id='vn84'>Chẳng hạn như , một bên sẽ có thể hỏi trẻ nhiều câu hỏi về những chuyện lặt vặt mà bên kia đang làm .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Sometimes a parent wants the kid to be a messenger between homes .</s>
+<s id='vn85'>Đôi khi bố hoặc mẹ còn muốn trẻ là người đưa tin giữa hai nhà nữa .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Kids usually feel uncomfortable when this sort of thing happens .</s>
+<s id='vn86'>Trẻ thường cảm thấy không thoải mái khi một thứ đại loại như vậy xảy ra .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>They wish that parents would just ask each other what they want to know .</s>
+<s id='vn87'>Chúng muốn bố mẹ chỉ hỏi thăm nhau về những điều mà họ muốn biết .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Kids do n't want to feel like they are in the middle .</s>
+<s id='vn88'>Trẻ không muốn có cảm giác mình là người đứng giữa .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>If something like this happens to you , talk to your parents and tell them how it makes you feel .</s>
+<s id='vn89'>Nếu có điều gì giống như thế xảy ra với bạn thì bạn nên nói cho bố mẹ biết và kể cho họ nghe chuyện ấy làm bạn có cảm giác như thế nào .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>The future</s>
+<s id='vn90'>Tương lai</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Would n't you like to know what will happen in the future ?</s>
+<s id='vn91'>Bạn không muốn biết chuyện gì sẽ xảy ra trong tương lai ?</s>
+</spair>
+<spair id='92'>
+<s id='en92'>For a kid of a divorced family , it may mean stepfamilies someday .</s>
+<s id='vn92'>Đối với một đứa trẻ có bố mẹ ly hôn thì có thể là một ngày nào đó nó sẽ sống với cha dượng hoặc mẹ kế .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Do n't expect everything to go smoothly all the time .</s>
+<s id='vn93'>Bạn đừng mong tất cả mọi thứ sẽ xuôi chèo mát mái hoài nhé .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>It can be really hard dealing with divorce , but try to remember that lots of kids go through what you 're going through , and usually everything and everyone turns out fine .</s>
+<s id='vn94'>Có thể thực sự là rất khó khi phải đối phó với một cuộc ly hôn , nhưng hãy cố nhớ rằng nhiều đứa trẻ cũng đã chịu đựng hoàn cảnh tương tự như bạn vậy , và thường thì mọi chuyện và mọi người sẽ trở nên tốt thôi .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>In fact , you might be surprised at how good the future turns out to be !</s>
+<s id='vn95'>Thực vậy , bạn cũng có thể phải ngạc nhiên với việc tương lai hoá ra lại tốt đẹp đến thế !</s>
+</spair>
+</text>
+</doc>

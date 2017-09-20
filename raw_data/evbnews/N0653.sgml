@@ -1,0 +1,132 @@
+﻿<doc id='N0653'>
+<head>
+<title>A little girl whose parents had died lived with her grandmother and slept in an upstairs bedroom .</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A little girl whose parents had died lived with her grandmother and slept in an upstairs bedroom .</s>
+<s id='vn1'>Một cô bé mồ côi cha mẹ sống với bà ngoại trong căn phòng nhỏ trên gác .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>One night , there was a fire in the house and the grandmother perished while trying to rescue the child .</s>
+<s id='vn2'>Một đêm , căn nhà bỗng bốc cháy và người bà đã thiệt mạng trong khi gắng sức cứu đứa cháu gái .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The fire spread quickly , and the first floor of the house was soon engulfed in flames .</s>
+<s id='vn3'>Ngọn lửa lan nhanh , và cả tầng trệt của căn nhà chẳng mấy chốc đã chìm vào biển lửa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Neighbors called the fire department , then stood helplessly by , unable to enter the house because flames blocked all the entrances .</s>
+<s id='vn4'>Hàng xóm gọi điện cho lính cứu hỏa , rồi đứng đó nhìn vô vọng , mà không thể xông vào nhà vì ngọn lửa đã chặn kín mọi lối vào .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The little girl appeared at an upstairs window , crying for help , just as word spread among the crowd that firefighters would be delayed a few minutes because they were all at another fire .</s>
+<s id='vn5'>Cô bé chạy đến cửa sổ trên gác tuyệt vọng kêu khóc cầu cứu và có người trong đám đông đồn rằng lực lượng cứu hỏa sẽ đến chậm vài phút vì họ đang bận chữa cháy ở nơi khác .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Suddenly , a man appeared with a ladder .</s>
+<s id='vn6'>Đột nhiên , có một người đàn ông xuất hiện cùng với chiếc thang .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>He delivered the child to the waiting arms below , then disappeared into the night .</s>
+<s id='vn7'>Ông trao cô bé cho những cánh tay đang dang chờ bên dưới rồi mất hút vào màn đêm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>An investigation revealed that the child had no living relatives ,</s>
+<s id='vn8'>Người ta điều tra thấy rằng cô bé chẳng còn người thân nào cả .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>And weeks later a meeting was held to determine who would take the child into their home and bring her up .</s>
+<s id='vn9'>Vài tuần sau , một cuộc họp được tổ chức để quyết định xem ai là người sẽ chăm sóc và nuôi nấng cô bé .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>A teacher said she would like to raise the child .</s>
+<s id='vn10'>Một cô giáo muốn nhận nuôi cô bé .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>She pointed out that she could ensure her a good education .</s>
+<s id='vn11'>Cô đưa ra lý do rằng mình có thể bảo đảm cho em một nền giáo dục tốt .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A farmer offered her an upbringing on his farm .</s>
+<s id='vn12'>Một người nông dân nhận chăm sóc cô bé .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He pointed out that living on a farm was healthy and satisfying .</s>
+<s id='vn13'>Vì ông cho rằng cô bé sẽ khỏe mạnh và thoải mái khi được sống ở nông trại .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Others spoke , giving their reasons why it was to the child's advantage to live with them .</s>
+<s id='vn14'>Những người khác cũng đưa ra những lý do thuận lợi để được nhận nuôi cô bé .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Finally , the town's richest resident arose and said :</s>
+<s id='vn15'>Cuối cùng , một người dân giàu có nhất thị trấn đứng dậy và nói :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" I can give this child all the advantages that you have mentioned here , plus money and everything that money can buy . "</s>
+<s id='vn16'>" Tôi có thể mang đến cho cô bé này tất cả những điều kiện thuận lợi mà mọi người vừa đề cập , cộng với tiền bạc và tất cả những gì mà tiền có thể mua được . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Throughout all this , the child remained silent , her eyes on the floor .</s>
+<s id='vn17'>Trong suốt buổi thảo luận , cô bé vẫn im lặng , mắt nhìn xuống sàn nhà .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Does anyone else want to speak ? "</s>
+<s id='vn18'>" Còn ai có ý kiến khác nữa không ? "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The meeting chairman asked .</s>
+<s id='vn19'>Ông chủ tịch lên tiếng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>A man came forward from the back of the hall .</s>
+<s id='vn20'>Một người đàn ông từ cuối phòng bước lên phía trước .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>His gait was slow and he seemed in pain .</s>
+<s id='vn21'>Dáng đi của ông chậm chạp và có vẻ đau đớn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>When he got to the front of the room , he stood directly before the little girl and held out his arms .</s>
+<s id='vn22'>Khi đã đến trước mặt mọi người , ông đứng ngay trước mặt cô bé và đưa đôi bàn tay ra .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The crowd gasped .</s>
+<s id='vn23'>Mọi người vô cùng kinh ngạc .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>His hands and arms were terribly scarred .</s>
+<s id='vn24'>Hai bàn tay và cánh tay của ông đầy sẹo bỏng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The child cried out : " This is the man who rescued me ! "</s>
+<s id='vn25'>Cô bé òa khóc : " Đây chính là người đã cứu cháu ! "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>With a leap , she threw her arms around the man's neck , holding on for dear life , just as she had that fateful night .</s>
+<s id='vn26'>Rồi cô bé choàng tay quanh cổ người đàn ông , như đang giữ chặt lấy cuộc sống quý báu của mình , như em đã làm trong cái đêm định mệnh ấy .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>She buried her face on his shoulder and sobbed for a few moments .</s>
+<s id='vn27'>Rồi cô bé gục đầu vào vai người đàn ông và khóc nức nở một lúc .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Then she looked up and smiled at him .</s>
+<s id='vn28'>Rồi em ngước lên , nhìn ông mỉm cười .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" This meeting is adjourned , " said the chairman .</s>
+<s id='vn29'>Ông chủ tịch tuyên bố " Cuộc họp đến đây là kết thúc " .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Not he who has much is rich , but he who gives much .</s>
+<s id='vn30'>Người có nhiều của cải không phải là người giàu có mà chính người cho đi mới là người giàu có .</s>
+</spair>
+</text>
+</doc>

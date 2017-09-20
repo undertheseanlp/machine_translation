@@ -1,0 +1,52 @@
+﻿<doc id='N0352'>
+<head>
+<title>Intel 's Next Generation Platform to Support GPGPU</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel 's Next Generation Platform to Support GPGPU</s>
+<s id='vn1'>Nền tảng thế hệ Chip kế tiếp của Intel sẽ hỗ trợ GPGPU</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel Corp. , the world 's largest maker of semiconductors , late on Friday said that its next-generation integrated graphics platform will support video trans-coding .</s>
+<s id='vn2'>Tập đoàn Intel , hãng sản xuất chip bán dẫn lớn nhất thế giới vào cuối ngày thứ Sáu nói rằng nền tảng đồ họa tích hợp thế hệ chip tiếp theo sẽ hỗ trợ chuyển mã video .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>While the move seems to be insignificant in general , it may mean a lot for the industry in general .</s>
+<s id='vn3'>Trong khi đó bước di chuyển này dường như là không đáng kể , nhưng có thể có rất nhiều ý nghĩa cho ngành công nghiệp này nói chung .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>According to an Intel 's spokesman , its next-generation code-named Clarkdale central processing unit with integrated graphics core will support video encoding using graphics processing engines via a driver update .</s>
+<s id='vn4'>Theo một phát ngôn viên của Intel , thế hệ chip kế tiếp với tên mã là Clarkdale , bộ vi xử lý với lõi đồ họa tích hợp sẽ hỗ trợ mã hóa video bằng cách sử dụng công cụ xử lý đồ họa thông qua một bản cập nhật trình điều khiển .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Despite lack of initial support of the feature , which will be added using a driver update , there is a confidence in the forthcoming Intel 's integrated desktop platform .</s>
+<s id='vn5'>Mặc dù thiếu sự hỗ trợ ban đầu cho tính năng này nhưng nó sẽ được bổ sung bằng cách sử dụng một bản cập nhật trình điều khiển , đáng tin cậy trong nền tảng máy tính để bàn tích hợp của Intel sắp tới .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This seems to be the first time when Intel admits the importance of GPGPU in general , particularly about video transcoding .</s>
+<s id='vn6'>Đây dường như có vẻ là lần đầu tiên khi mà Intel thừa nhận tầm quan trọng của GPGPU nói chung , đặc biệt là về chuyển mã video .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Intel Clarkdale are dual-core microprocessors based on Westmere micro-architecture with 4MB of cache , Hyper-Threading , dual-channel DDR3 memory controllers and integrated graphics cores .</s>
+<s id='vn7'>Intel Clarkdale là vi xử lý lõi kép dựa trên vi kiến trúc Westmere với bộ nhớ đệm 4MB , siêu phân luồng , trình điều khiển bộ nhớ kênh đôi DDR3 và các lõi đồ họa tích hợp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Arrandale are similar chips aimed at mobile computers .</s>
+<s id='vn8'>Arrandale cũng là bộ vi xử lý tương tự nhằm vào nền tảng máy tính di động .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Both Arrandale and Clarkdale are essentially multi-chip modules featuring one dual-core processor made using 32nm fabrication process and graphics and other system logic core produced at 45nm node .</s>
+<s id='vn9'>Bản chất của cả hai vi xử lý Arrandale và Clarkdale đều là các module đa chip có đặc điểm là bộ vi xử lý lõi kép được sản xuất trên qui trình 32nm , đồ họa và lõi logic hệ thống khác được sản xuất trên dây chuyền 45nm .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It is highly likely that the new processors will be launched on the same day - on January 7 , 2010 - at the Consumer Electronics Show .</s>
+<s id='vn10'>Rất có khả năng rằng các bộ vi xử lý mới sẽ được tung ra trong cùng một ngày - vào ngày 07 tháng 1 năm 2010 tại Triễn Lãm Điện tử Tiêu Dùng .</s>
+</spair>
+</text>
+</doc>

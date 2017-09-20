@@ -1,0 +1,72 @@
+﻿<doc id='N0857'>
+<head>
+<title>Bank of Japan announces fresh stimulus to boost growth</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bank of Japan announces fresh stimulus to boost growth</s>
+<s id='vn1'>Ngân hàng Nhật Bản công bố biện pháp kích thích mới nhằm đẩy mạnh tăng trưởng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Japanese central bank has been using the asset purchase programme to boost growth .</s>
+<s id='vn2'>Ngân hàng trung ương Nhật Bản đã và đang sử dụng chương trình mua tài sản để kích thích tăng trưởng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The Bank of Japan ( BOJ ) has increased its stimulus programme for the second time in just over two months in a bid boost the country 's economic growth .</s>
+<s id='vn3'>Ngân hàng Nhật Bản ( BOJ ) đã tăng thêm chương trình kích thích lần thứ hai trong vòng chỉ hơn hai tháng với nỗ lực đẩy mạnh tăng trưởng kinh tế của quốc gia .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The central bank said it would expand its purchase of Japanese government bonds by 10tn yen ( $ 123bn ; £76bn ) .</s>
+<s id='vn4'>Ngân hàng trung ương cho biết họ sẽ mở rộng việc mua trái phiếu chính phủ Nhật Bản với 10 nghìn tỷ yên ( 123 tỷ đô-la Mỹ ; 76 tỷ bảng Anh ) .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The move comes as Japan 's economy continues to struggle amid a slowdown in key export markets such as the US and eurozone and weak domestic demand .</s>
+<s id='vn5'>Biện pháp này được nghĩ ra khi nền kinh tế của Nhật Bản tiếp tục đấu tranh trong sự suy thoái của những thị trường xuất khẩu then chốt như Hoa Kỳ và khu vực đồng Euro cũng như nhu cầu trong nước yếu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The BOJ also left its key interest rate unchanged from zero to 0.1 % .</s>
+<s id='vn6'>BOJ cũng để lãi suất cơ bản không đổi từ 0 đến 0.1% .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" The bank is trying to send a message that they are supporting the market and the economic recovery , just like they did in February , " said Masamichi Adachi of JP Morgan Securities .</s>
+<s id='vn7'>" Ngân hàng đang cố phát đi một thông điệp cho thấy họ đang hỗ trợ thị trường và phục hồi kinh tế , cũng giống như những gì họ đã làm vào tháng hai , " theo ông Masamichi Adachi thuộc công ty JP Morgan Securities cho biết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Deflation pressure</s>
+<s id='vn8'>Áp lực giảm phát</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Unlike other economies in the region such as China and India where consumer prices have been rising , Japan has seen consumer prices falling in recent years .</s>
+<s id='vn9'>Không giống như các nền kinh tế khác trong khu vực như Trung Quốc và Ấn Độ , những nơi mà giá tiêu dùng đã và đang tăng lên , Nhật Bản lại có giá tiêu dùng giảm trong những năm gần đây .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Falling prices hurt the economy as consumers tend to put off their purchases in the hope that prices may go down even further .</s>
+<s id='vn10'>Giá tiêu dùng giảm gây thiệt hại cho nền kinh tế khi người tiêu dùng có huynh hướng trì hoãn việc mua hàng với hy vọng giá có thể giảm xuống thêm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The Japanese central bank has been trying to reverse the trend and has set a target of 1 % consumer price growth .</s>
+<s id='vn11'>Ngân hàng trung ương Nhật Bản đang cố gắng đảo ngược khuynh hướng trên và đã đặt ra mục tiêu tăng giá tiêu dùng lên 1% .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>However , data out on Friday showed that consumer prices in Japan rose by just 0.2 % in March from a year earlier .</s>
+<s id='vn12'>Tuy nhiên , dữ liệu công bố vào ngày thứ sáu cho thấy giá tiêu dùng ở Nhật tăng lên chỉ 0,2 % vào tháng ba so với một năm trước đó .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Excluding food and energy costs , which are highly volatile , consumer prices fell 0.5 % from last year .</s>
+<s id='vn13'>Ngoài giá thức ăn và năng lượng là hai mặt hàng rất hay thay đổi thì giá tiêu dùng cũng đã giảm 0,5% từ năm ngoái .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Analysts said the data indicated that the issue continues to remain a threat to the Japanese economy .</s>
+<s id='vn14'>Các nhà phân tích cho biết dữ liệu cho thấy vấn đề này tiếp tục vẫn là hiểm hoạ cho nền kinh tế Nhật Bản .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" The core consumer price index number shows that deflationary conditions are continuing ... it shows what a difficult task the Bank of Japan faces , " said Ayako Sera of Sumitomo Trust and Banking .</s>
+<s id='vn15'>" Chỉ số giá tiêu dùng cơ bản cho thấy tình trạng lạm phát vẫn đang tiếp tục diễn ra … nó cho thấy những khó khăn mà ngân hàng Nhật Bản hiện đối mặt , " theo Ayako Sera , thuộc tập đoàn Sumitomo Trust and Banking nhận định .</s>
+</spair>
+</text>
+</doc>

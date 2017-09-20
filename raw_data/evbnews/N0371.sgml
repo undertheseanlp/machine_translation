@@ -1,0 +1,60 @@
+﻿<doc id='N0371'>
+<head>
+<title>Lenovo rolls ultra-thin netbook , NVIDIA Ion nettop</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Lenovo rolls ultra-thin netbook , NVIDIA Ion nettop</s>
+<s id='vn1'>Lenovo ra mắt netbook siêu mỏng , nettop nền tảng NVIDIA Ion</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Lenovo tonight added a pair of Atom-based PCs to its mix that add relatively new technology for the company .</s>
+<s id='vn2'>Vào tối hôm nay Lenovo đã bổ sung thêm hai máy tính dựa trên vi xử lí Atom vào sự kết hợp có bổ sung công nghệ tương đối mới cho hãng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The IdeaPad S10-3s is one of the thinnest netbooks yet at about 0.63 inches thick and also makes use of the same design techniques borrowed from the ThinkPad Edge .</s>
+<s id='vn3'>IdeaPad S10-3 là một trong những netbook mỏng nhất cho đến nay có độ dày khoảng 0.63 inch cũng như sử dụng cùng kỹ thuật thiết kế được vay mượn từ ThinkPad Edge .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It carries the same rounded chiclet keys and a trackpad that runs to the lip , in this case using a MacBook-style " buttonless " design that clicks the pad itself .</s>
+<s id='vn4'>Nó có các phím chiclet có góc tròn và một bảng điều khiển chuột cảm ứng chạy dài đến mép máy , trong trường hợp này sử dụng thiết kế theo kiểu dáng của Macbook " không có nút nhấn " mà nhấn vào bảng điều khiển .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>As a netbook , the S10-3s is relatively customizable with the choice of a 1.66GHz or 1.83GHz Atom , up to a 720p 10-inch display , and the option of 3G .</s>
+<s id='vn5'>S10-3s là máy tính xách tay mini khá tuỳ biến với các tuỳ chọn Atom 1.66Ghz hoặc 1.83Ghz , màn hình 10inch có độ phân giải lên đến 720p và có tùy chọn 3G .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It normally comes with between 160GB to 320GB of disk space , but it can be outfitted with a 16GB or 32GB SSD when used with a lightweight OS like Windows XP .</s>
+<s id='vn6'>Nó thường đi kèm với ổ đĩa cứng có dung lượng từ 160GB đến 320Gb , ngoài ra nó có thể được trang bị một SSD dung lượng 16Gb hoặc 32Gb khi được sử dụng với hệ điều hành nhẹ như Windows XP .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Most systems come with Windows 7 Home Starter or Home Basic , and all of them have the earlier instant-on Linux boot for quick tasks .</s>
+<s id='vn7'>Hầu hết các hệ thống đều đi kèm với Windows 7 Home Starter hoặc Home Basic và tất cả đều có tính năng khởi động nhanh dựa trên Linux trước đây để thực hiện các tác vụ nhanh chóng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The new IdeaPad ships mid-April for $ 380 in its base configuration .</s>
+<s id='vn8'>Chiếc IdeaPad mới sẽ được bày bán vào giữa tháng tư với mức giá là 380 USD cho cấu hình cơ bản .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The C Series all-in-ones get the C200 , Lenovo 's first nettop with NVIDIA 's Ion for graphics ; it also has the pick of either the 1.6GHz Atom D410 or 1.66GHz D510 versus the single-core options for the C300 .</s>
+<s id='vn9'>C200 là chiếc nettop tất cả trong một thuộc dòng C đầu tiên của Lenovo được trang bị nền tảng đồ họa NVIDIA Ion ; nó cũng có sự lựa chọn một trong hai chip Atom D410 1.6 Ghz hoặc D510 1.66 Ghz đối với tuỳ chọn lõi đơn cho C300 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Its 18.5-inch display tops out at 1366x768 , but it can get a single-touch screen .</s>
+<s id='vn10'>Màn hình 18,5-inch có độ phân giải lên đến 1366x768 , nhưng nó có thể là một màn hình cảm ứng đơn điểm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Lenovo equips it with up to 4GB of RAM and between 160GB and 500GB of permanent storage , along with the requisite DVD burner .</s>
+<s id='vn11'>Lenovo trang bị cho C200 lên đến 4Gb RAM và ổ cứng 160Gb và 500Gb cùng với ổ ghi DVD .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Shipments of the C200 have a less definite April release date and will start out at a slightly more expensive $ 399 .</s>
+<s id='vn12'>Lô hàng C200 được tung ra vào một ngày chưa ấn định trong tháng Tư và sẽ có mức giá khởi đầu hơi đắt hơn là 399 USD .</s>
+</spair>
+</text>
+</doc>

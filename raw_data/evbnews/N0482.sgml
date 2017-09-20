@@ -1,0 +1,436 @@
+﻿<doc id='N0482'>
+<head>
+<title>Leaving your child home alone</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Leaving your child home alone</s>
+<s id='vn1'>Để con ở nhà một mình</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Whether it 's a snow day home from school , an unexpected business appointment , or a childcare arrangement that fell through , situations are likely to arise where you feel you have little choice but to leave your child home alone .</s>
+<s id='vn2'>Dẫu cho đó là một ngày tuyết rơi suốt từ trường học về nhà , hay một cuộc hẹn làm ăn bất thình lình , hoặc không sắp xếp nhờ người trông chừng con được , các tình huống rất có thể xảy ra đó làm cho bạn buộc lòng phải để con lại ở nhà một mình .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It 's natural for parents to be a bit anxious when first leaving kids without supervision .</s>
+<s id='vn3'>Bố mẹ thường hay cảm thấy hơi hồi hộp khi lần đầu tiên để con ở nhà mà không có người trông nom .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But you can feel prepared and confident with some planning and a couple of trial runs .</s>
+<s id='vn4'>Nhưng bạn cũng có thể cảm thấy sẵn sàng và tự tin với một số kế hoạch và thử nghiệm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>And handled well , staying home alone can be a positive experience for kids , too , helping them gain a sense of self-assurance and independence .</s>
+<s id='vn5'>Và nếu xử lý tốt thì việc ở nhà một mình cũng có thể là một kinh nghiệm tích cực cho trẻ , giúp con có thêm cảm giác tự tin và độc lập .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Factors to consider</s>
+<s id='vn6'>Các yếu tố cần cân nhắc</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's obvious that a 5-year-old ca n't go it alone but that a 16-year-old probably can .</s>
+<s id='vn7'>Rõ ràng là một đứa trẻ 5 tuổi thì không thể ở nhà một mình nhưng 16 tuổi thì chắc chắn được .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But what about those school-aged kids in the middle ?</s>
+<s id='vn8'>Nhưng còn những đứa ở độ tuổi đi học thì sao ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It can be difficult to know when kids are ready to handle being home alone .</s>
+<s id='vn9'>Thật khó biết được khi nào trẻ có thể sẵn sàng ở nhà một mình .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Ultimately , it comes down to your judgment about what your child is ready for .</s>
+<s id='vn10'>Cuối cùng thì phần quyết định thuộc về bạn xem bé đã sẵn sàng gì rồi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>You 'll want to know how your child feels about the idea , of course .</s>
+<s id='vn11'>Tất nhiên là bạn muốn biết thái độ của con về việc ở nhà một mình như thế nào .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But kids often insist that they 'll be fine long before parents feel comfortable with it .</s>
+<s id='vn12'>Nhưng trẻ nhỏ thường hay khẳng định là chúng sẽ ổn trước khi bố mẹ cảm thấy thoải mái từ rất lâu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>And then there are older kids who seem afraid even when you 're pretty confident that they 'd be just fine .</s>
+<s id='vn13'>Và trẻ lớn tuổi hơn cũng dường như e ngại thậm chí khi bạn tỏ ra khá tự tin rằng chúng sẽ ổn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>So how do you know ?</s>
+<s id='vn14'>Làm sao bạn biết đây ?</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In general , it 's not a good idea to leave kids younger than 10 years old home alone .</s>
+<s id='vn15'>Thông thường thì không nên để trẻ dưới 10 tuổi ở nhà một mình .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Every child is different , but at that age , most kids do n't have the maturity and skills to respond to an emergency if they 're alone .</s>
+<s id='vn16'>Mỗi đứa trẻ mỗi khác nhưng ở tuổi này , hầu hết trẻ nhỏ đều không chín chắn và có đủ kỹ năng để phản ứng tình huống khẩn cấp nếu chúng ở nhà một mình .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Think about the area where you live .</s>
+<s id='vn17'>Bạn hãy nghĩ về nơi mình đang sống .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Are there neighbors nearby you know and trust to help your child in case of an emergency ?</s>
+<s id='vn18'>Bạn có biết hàng xóm nào sống gần bên và tin để giúp được con mình trong tình huống khẩn cấp không ?</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Or are they mostly strangers ?</s>
+<s id='vn19'>Hay hàng xóm bạn hầu như toàn là người lạ ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Do you live on a busy street with lots of traffic ?</s>
+<s id='vn20'>Bạn đang sống ở một đường phố đông đúc , nhiều xe cộ qua lại ?</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Or is it a quiet area ?</s>
+<s id='vn21'>Hay là một nơi yên ắng ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Is there a lot of crime in or near your neighborhood ?</s>
+<s id='vn22'>Trong khu ấy hoặc lân cận đó có nhiều tệ nạn không ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It 's also important to consider how your child handles various situations .</s>
+<s id='vn23'>Cũng nên cân nhắc xem con bạn xử lý nhiều tình huống khác nhau như thế nào .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Here are a few questions to think about :</s>
+<s id='vn24'>Dưới đây là một số câu hỏi mà bạn nên suy nghĩ :</s>
+</spair>
+<spair id='25'>
+<s id='en25'>* Does your child show signs of responsibility with things like homework , household chores , and following directions ?</s>
+<s id='vn25'>* Bé có tỏ ra có trách nhiệm với những việc như bài tập về nhà , công việc ở nhà , và có nghe lời không ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>* How does your child handle unexpected situations ?</s>
+<s id='vn26'>* Bé xử trí các tình huống bất thình lình như thế nào ?</s>
+</spair>
+<spair id='27'>
+<s id='en27'>How calm does your child stay when things do n't go as planned ?</s>
+<s id='vn27'>Mức độ bình tĩnh của bé như thế nào khi mọi thứ không nằm trong kế hoạch ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>* Does your child understand and follow rules ?</s>
+<s id='vn28'>* Bé có hiểu và làm theo các nguyên tắc không ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>* Can your child understand and follow safety measures ?</s>
+<s id='vn29'>* Bé có thể hiểu và làm theo các biện pháp an toàn không ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>* Does your child make good judgments or is he or she prone to taking risks ?</s>
+<s id='vn30'>* Bé có óc phán đoán tốt không hay dễ mạo hiểm , chấp nhận rủi ro ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>* Does your child know basic first-aid procedures ?</s>
+<s id='vn31'>* Bé có biết các thủ thuật sơ cứu cơ bản không ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>* Does your child follow your instructions about staying away from strangers ?</s>
+<s id='vn32'>* Bé có vâng lời bạn về việc tránh xa người lạ mặt không ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Make a " practice run "</s>
+<s id='vn33'>Hãy thử " thực hành " nhé</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Even if you 're confident about your child 's maturity , it 's wise to make some practice runs , or home-alone trials , before the big day .</s>
+<s id='vn34'>Cho dù là bạn có tự tin con của mình đã khôn ngoan , chín chắn thì cũng nên thử một vài động tác tập luyện nhé , hoặc cho bé thử ở nhà một mình xem sao trước " ngày trọng đại " đó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Let your child stay home alone for 30 minutes to an hour while you remain nearby and easily reachable .</s>
+<s id='vn35'>Hãy cho bé ở nhà một mình từ 30 phút đến 1 tiếng đồng hồ trong khi bạn vẫn ở gần đó và dễ dàng có thể tới được .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>When you return , discuss how it went and talk about things that you might want to change or skills that your child might need to learn for the next time .</s>
+<s id='vn36'>Khi trở lại , hãy thảo luận về những việc đã diễn ra và cho con biết những điều bạn muốn bé thay đổi hoặc những kỹ năng con bạn cần nên học cho lần ở nhà tiếp theo .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Handling the unexpected</s>
+<s id='vn37'>Giải quyết những tình huống bất ngờ</s>
+</spair>
+<spair id='38'>
+<s id='en38'>You can feel more confident about your absence if your child learns some basic skills that might come in handy during an emergency .</s>
+<s id='vn38'>Bạn có thể cảm thấy tự tin hơn về sự vắng mặt của mình nếu con biết được một số kỹ năng cơ bản có thể sử dụng được trong tình huống khẩn cấp .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Organizations such as the American Red Cross offer courses in first aid and cardiopulmonary resuscitation ( CPR ) in local places like schools , hospitals , and community centers .</s>
+<s id='vn39'>Nhiều tổ chức chẳng hạn như Hội Chữ thập Đỏ Hoa Kỳ đã tổ chức nhiều khoá học về sơ cứu và hồi sức tim-phổi ( hô hấp nhân tạo ) ở các khu vực địa phương , như trường học , bệnh viện và các trung tâm cộng đồng .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Before being left home alone , your child should be able to complete certain tasks and safety precautions , such as :</s>
+<s id='vn40'>Trước khi ở nhà một mình , con bạn nên thực hiện được một số " nghiệp vụ " và các biện pháp an toàn nhất định nào đó , chẳng hạn như :</s>
+</spair>
+<spair id='41'>
+<s id='en41'>* knowing when and how to call 911 and what address to give the dispatcher</s>
+<s id='vn41'>* biết khi nào và cách gọi 911 như thế nào và địa chỉ gì để gởi thư đi</s>
+</spair>
+<spair id='42'>
+<s id='en42'>* knowing how to work the home security system , if you have one , and what to do if the alarm is accidentally set off</s>
+<s id='vn42'>* biết cách thao tác và điều khiển hệ thống an ninh ở nhà , nếu có , và nên làm gì khi còi báo động ngẫu nhiên bị bật lên</s>
+</spair>
+<spair id='43'>
+<s id='en43'>* locking and unlocking doors</s>
+<s id='vn43'>* biết khoá và mở cửa</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* working the phone / cell phone ( in some areas , you have to dial 1 or the area code to dial out )</s>
+<s id='vn44'>* biết gọi điện thoại / điện thoại di động ( ở một số khu vực , bạn phải bấm số 1 hoặc mã vùng mới có thể gọi được )</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* turning lights off and on</s>
+<s id='vn45'>* biết tắt và mở đèn</s>
+</spair>
+<spair id='46'>
+<s id='en46'>* operating the microwave</s>
+<s id='vn46'>* biết điều khiển lò vi-ba</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* knowing what to do if :</s>
+<s id='vn47'>* biết làm gì nếu :</s>
+</spair>
+<spair id='48'>
+<s id='en48'>o there 's a small fire in the kitchen</s>
+<s id='vn48'>o trong bếp có đám cháy nhỏ</s>
+</spair>
+<spair id='49'>
+<s id='en49'>o the smoke alarm goes off</s>
+<s id='vn49'>o thiết bị phát hiện khói bị hỏng</s>
+</spair>
+<spair id='50'>
+<s id='en50'>o there 's a tornado or other severe weather</s>
+<s id='vn50'>o có bão hoặc thời tiết khắc nghiệt</s>
+</spair>
+<spair id='51'>
+<s id='en51'>o a stranger comes to the door</s>
+<s id='vn51'>o người lạ đến gõ cửa</s>
+</spair>
+<spair id='52'>
+<s id='en52'>o someone calls for a parent who is n't home</s>
+<s id='vn52'>o có người khác gọi bố mẹ khi vắng nhà</s>
+</spair>
+<spair id='53'>
+<s id='en53'>o there 's a power outage</s>
+<s id='vn53'>o bị cúp điện</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Regularly discuss some emergency scenarios - ask what your child would do if , for example , he or she smelled smoke , a stranger knocked at the door , or someone called for you while you 're gone .</s>
+<s id='vn54'>Hãy thường xuyên thảo luận với con về những tình huống dự phòng khẩn cấp – hỏi bé xem con sẽ xử lý như thế nào , nếu ngửi thấy mùi khói , có người lạ đến gõ cửa , hoặc có người khác gọi điện cho bố mẹ khi vắng nhà .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Before you leave</s>
+<s id='vn55'>Trước khi bạn đi</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Even after you decide that your child is ready to stay home alone , you 're bound to feel a little anxious when the time comes .</s>
+<s id='vn56'>Thậm chí ngay cả sau khi bạn quyết định con mình đã sẵn sàng ở nhà một mình thì bạn cũng chắc chắn có một chút hồi hộp vào lúc ra đi .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Taking these practical steps can make it easier for you both :</s>
+<s id='vn57'>Việc thực hiện các bước thực hành này có thể giúp cả bạn và con cảm thấy thoải mái hơn đấy :</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* Schedule time to get in touch .</s>
+<s id='vn58'>* Định thời gian liên lạc nhau .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Set up a schedule for calling .</s>
+<s id='vn59'>Hãy lên kế hoạch gọi điện vào một thời gian cụ thể nào đó .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>You might have your child call right away if he or she is coming home to an empty house , or set up a time when you 'll call home to check in .</s>
+<s id='vn60'>Bạn có thể bắt con gọi điện lại ngay khi về đến nhà một mình , hoặc định sẵn thời gian nào bạn có thể gọi về nhà cho con .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Figure out something that 's convenient for both of you .</s>
+<s id='vn61'>Hãy sắp xếp và lựa chọn thời gian phù hợp thuận tiện cho cả hai .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Make sure your child understands when you 're readily available and when you might not be able to answer a call .</s>
+<s id='vn62'>Hãy đảm bảo rằng con bạn biết được khi nào bạn có thể nghe điện thoại được và khi nào không thể trả lời điện thoại được cho con .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* Set ground rules .</s>
+<s id='vn63'>* đặt ra các nguyên tắc cơ bản .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Establish some special rules for when you 're away and make sure that your child knows and understands them .</s>
+<s id='vn64'>Hãy đưa ra một số quy tắc đặc biệt khi bạn đi vắng và chắc rằng bé đã biết và hiểu được những nguyên tắc đó .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Consider rules about :</s>
+<s id='vn65'>Hãy cân nhắc các điều sau :</s>
+</spair>
+<spair id='66'>
+<s id='en66'>o having a friend or friends over while you 're not there</s>
+<s id='vn66'>o bé có bạn bè ở cùng trong lúc bạn không có mặt ở nhà</s>
+</spair>
+<spair id='67'>
+<s id='en67'>o rooms of the house that are off limits , especially with friends</s>
+<s id='vn67'>o có những phòng trong nhà không được phép vào , nhất là với bạn bè</s>
+</spair>
+<spair id='68'>
+<s id='en68'>o TV time and types of shows</s>
+<s id='vn68'>o thời gian xem ti vi của con và các loại chương trình mà con có thể xem được</s>
+</spair>
+<spair id='69'>
+<s id='en69'>o Internet and computer rules</s>
+<s id='vn69'>o các nguyên tắc về mạng Internet và máy tính</s>
+</spair>
+<spair id='70'>
+<s id='en70'>o kitchen and cooking ( you might want to make the oven and utensils like sharp knives off limits )</s>
+<s id='vn70'>o nhà bếp và công việc nấu nướng ( có lẽ bạn cũng nên đưa ra các nguyên tắc về việc sử dụng bếp lò và các công cụ làm bếp như dao bén không được đụng tới )</s>
+</spair>
+<spair id='71'>
+<s id='en71'>o not opening the door for strangers</s>
+<s id='vn71'>o không mở cửa cho người lạ</s>
+</spair>
+<spair id='72'>
+<s id='en72'>o answering the phone</s>
+<s id='vn72'>o trả lời điện thoại</s>
+</spair>
+<spair id='73'>
+<s id='en73'>o getting along with siblings</s>
+<s id='vn73'>o hoà thuận với anh chị em ruột</s>
+</spair>
+<spair id='74'>
+<s id='en74'>o not telling anyone he or she is alone</s>
+<s id='vn74'>o không kể cho ai nghe là bé đang ở nhà một mình</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* Stock up .</s>
+<s id='vn75'>* Để đồ dự trữ trong nhà .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Make sure your house has everyday goods and emergency supplies .</s>
+<s id='vn76'>Phải đảm bảo ngôi nhà của bạn có đủ các thực phẩm ăn được hằng ngày và các vật dụng cần thiết khi khẩn cấp .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Stock the kitchen with healthy foods for snacking .</s>
+<s id='vn77'>Hãy trữ sẵn trong nhà bếp nhiều thức ăn có lợi cho sức khỏe để có thể ăn nhẹ được .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Leave a precise dose of any medication that your child needs to take , but do n't leave medication bottles out as this could lead to an accidental overdose or ingestion , especially if younger siblings are also present .</s>
+<s id='vn78'>Phân chia thuốc đúng liều cho bé , nhưng chớ để các lọ thuốc ra ngoài bởi điều này có thể dẫn đến tình trạng sử dụng thuốc quá liều hoặc nuốt phải thuốc ngẫu nhiên , nhất là trong trường hợp có các em nhỏ của bạn ở cùng .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>In addition , leave flashlights in an accessible place in case of a power outage .</s>
+<s id='vn79'>Ngoài ra , bạn cũng nên để đèn pin ở nơi có thể dễ dàng lấy được trong trường hợp cúp điện .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Post important phone numbers - yours and those of friends , family members , the doctor , police , and fire department - that your child might need in an emergency .</s>
+<s id='vn80'>Hãy dán các số điện thoại quan trọng – của bạn và của bạn bè , các người thân trong gia đình , bác sĩ , cảnh sát , và sở cứu hoả – bé có thể cần đến khi nguy cấp .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>* Be sure that you :</s>
+<s id='vn81'>* phải chắc rằng bạn đã :</s>
+</spair>
+<spair id='82'>
+<s id='en82'>o Create a list of friends your child can call or things your child can do if lonely .</s>
+<s id='vn82'>o Tạo cho bé một danh sách tên những người bạn mà con có thể gọi hoặc những thứ bé có thể làm khi ở nhà một mình</s>
+</spair>
+<spair id='83'>
+<s id='en83'>o Leave a snack or a note so your child knows you 're thinking of him or her .</s>
+<s id='vn83'>o Để cho bé chút thức ăn vặt hoặc một phiếu ghi chú vì vậy bé sẽ biết rằng bạn đang nghĩ về chúng .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>o Make up a schedule for your child to follow while you 're away .</s>
+<s id='vn84'>o Lên lịch cho bé làm theo trong thời gian bạn đi vắng .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>o Make sure the parental controls systems , if you have any , are programmed for the Internet on your computer and on your TV .</s>
+<s id='vn85'>o Đảm bảo các hệ thống kiểm soát của bố mẹ , nếu có , được lập trình mạng Internet trên máy tính và trên ti vi của bạn .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>* Childproof your home .</s>
+<s id='vn86'>* Hãy giữ ngôi nhà an toàn cho bé .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>No matter how well your child follows rules , be sure to secure anything that could be healthy or safe .</s>
+<s id='vn87'>Dẫu cho con bạn có thực hiện các nguyên tắc tốt đến đâu đi nữa thì vẫn nên đảm bảo mọi thứ có thể được an toàn và lành mạnh .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Lock them up and put them in a place where kids ca n't get to them or , when possible , remove them from your home .</s>
+<s id='vn88'>Hãy khoá và để những vật dụng có hại ở chỗ trẻ không lấy được , hoặc khi có thể , bạn nên bỏ chúng khỏi nhà .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>These items include :</s>
+<s id='vn89'>Các thứ ấy bao gồm :</s>
+</spair>
+<spair id='90'>
+<s id='en90'>o alcohol</s>
+<s id='vn90'>o rượu</s>
+</spair>
+<spair id='91'>
+<s id='en91'>o prescription medications</s>
+<s id='vn91'>o thuốc theo toa</s>
+</spair>
+<spair id='92'>
+<s id='en92'>o over-the-counter medications that could cause problems if taken in excess : sleeping pills , cough medicine , etc .</s>
+<s id='vn92'>o thuốc mua tự do không theo toa có thể gây rắc rối nếu sử dụng quá liều như thuốc ngủ , thuốc ho , v.v.</s>
+</spair>
+<spair id='93'>
+<s id='en93'>o guns (if you do keep one , make sure it is locked up and leave it unloaded and stored away from ammunition )</s>
+<s id='vn93'>o súng ( nếu bạn có súng thì hãy đảm bảo là súng phải được khoá và không có đạn và phải được cất ở xa đạn dược )</s>
+</spair>
+<spair id='94'>
+<s id='en94'>o tobacco</s>
+<s id='vn94'>o thuốc lá</s>
+</spair>
+<spair id='95'>
+<s id='en95'>o car keys</s>
+<s id='vn95'>o chìa khoá xe</s>
+</spair>
+<spair id='96'>
+<s id='en96'>o lighters and matches</s>
+<s id='vn96'>o đồ bật lửa và diêm quẹt</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Ready to go</s>
+<s id='vn97'>Sẵn sàng lên đường</s>
+</spair>
+<spair id='98'>
+<s id='en98'>When you 're ready to leave your child home alone for the first time , a few other steps can help both of you manage the transition .</s>
+<s id='vn98'>Khi bạn đã sẵn sàng để con ở nhà một mình lần đầu tiên thì một số biện pháp khác cũng có thể giúp ích được cho cả bố mẹ và con đấy .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>You might have an older teen or a friend of the family come over to stay with your child .</s>
+<s id='vn99'>Bạn có thể nhờ một thanh thiếu niên nào đó lớn tuổi hơn hoặc một người bạn của gia đình đến để ở cùng với bé .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Do n't call that person a " babysitter " - tell your child that the person is there to keep him or her company .</s>
+<s id='vn100'>Đừng gọi người này là " người giữ trẻ " nhé – hãy nói với bé là người này đến để ở cùng với con .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>You might also want to let your child invite a trusted friend of the same age to come over , and propose this as a trial run for later solo stays .</s>
+<s id='vn101'>Bạn cũng nên cho bé mời một người bạn đáng tin cùng độ tuổi với con đến ở cùng và hãy xem đây là bước thử nghiệm cho những lần ở nhà một mình vào lần sau .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Be sure to let the friend 's parents know that you wo n't be home .</s>
+<s id='vn102'>Phải cho bố mẹ của bạn con biết rằng bạn không có ở nhà .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>And do n't forget that pets can be great company for kids who are home alone .</s>
+<s id='vn103'>Bạn đừng quên là thú cưng cũng là những người bạn ở cùng tuyệt vời của trẻ khi chúng phải ở nhà một mình đấy nhé .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Many kids feel safer with a pet around - even a small one , like a hamster , can make them feel like they have a companion .</s>
+<s id='vn104'>Nhiều bé cảm thấy an toàn hơn khi có thú cưng quanh mình – thậm chí là một con vật nhỏ đi nữa , chẳng hạn như chuột cảnh , cũng có thể làm cho bé cảm thấy như có một người bạn .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>So pack up your cases and rel a x .</s>
+<s id='vn105'>Vì vậy hãy sắp xếp đồ đạc vào va - li và thư giãn đi nào .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>With the right preparation and some practice , you and your child will get comfortable with home-alone days in no time !</s>
+<s id='vn106'>Với sự chuẩn bị đúng đắn và một số bước thực hành như thế , bạn và con sẽ cảm thấy thoải mái với những ngày ở nhà một mình trong nháy mắt !</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,76 @@
+﻿<doc id='N0289'>
+<head>
+<title>Espionage virus sent blueprints to China</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Espionage virus sent blueprints to China</s>
+<s id='vn1'>Virus gián điệp gửi các bản thiết kế sản phẩm đến Trung Quốc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Computer security experts have uncovered an industrial espionage virus designed to steal blueprints for buildings , machinery and other products , and deliver them to China .</s>
+<s id='vn2'>Các chuyên gia bảo mật máy tính đã phát hiện ra một loại virus gián điệp công nghiệp được tạo ra để đánh cắp bản thiết kế kiến trúc các tòa nhà , máy móc cũng như các sản phẩm khác và chuyển giao chúng cho Trung Quốc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The virus , " ACAD/Medre.A " , has stolen tens of thousands of blueprints from companies mostly based in Peru .</s>
+<s id='vn3'>Virus với tên gọi là " ACAD/Medre.A " , đã đánh cắp hàng chục ngàn bản thiết kế từ các công ty chủ yếu đặt ở Peru .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>ESET , a computer security firm , said .</s>
+<s id='vn4'>ESET , một công ty bảo mật máy tính cho biết .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It targeted software called AutoCAD , which is very widely used by industrial designers and architects .</s>
+<s id='vn5'>Nó nhắm mục tiêu vào phần mềm AutoCAD mà được sử dụng rộng rãi bởi các nhà thiết kế công nghiệp và kiến trúc sư .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The stolen drawings were surreptitiously sent to email accounts provided by two Chinese internet firms , 163.com and qq.com , although this is no guarantee the criminals behind the raid were Chinese .</s>
+<s id='vn6'>Các bản vẽ thiết kế bị đánh cắp được gửi bí mật vào các tài khoản email được cung cấp bởi hai công ty Internet của Trung Quốc là 163.com và qq.com , mặc dù vẫn chưa chắc chắn rằng những tên tội phạm đứng đằng sau vụ tấn công này là người Trung Quốc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It is believed ACAD/Medre.A was distributed to Peruvian companies via a booby-trapped AutoCAD template that was initially sent to public bodies .</s>
+<s id='vn7'>Người ta tin rằng virus " ACAD/Medre.A " được phát tán vào các công ty Peru thông qua một mẫu AutoCAD có cài bẫy mà bước đầu đã được gửi đến cơ quan công quyền .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The virus was first detected some months ago but ESET saw a sudden spike in infections two months ago as its authors began to exploit their creation .</s>
+<s id='vn8'>Virus này được phát hiện đầu tiên cách đây vài tháng nhưng ESET đã nhìn thấy chúng lây lan một các đột biến cách đây hai tháng khi tác giả của chúng bắt đầu khai thác virus này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" ( It ) represents a serious case of industrial espionage , " said ESET researcher Righard Zwienenberg .</s>
+<s id='vn9'>" ( Nó ) biểu trưng cho một trường hợp nghiêm trọng của gián điệp công nghiệp " , Righard Zwienenberg , một nhà nghiên cứu tại ESET cho biết .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Every new design is sent automatically to the operator of this malware .</s>
+<s id='vn10'>" Tất cả các thiết kế mới được gửi tự động đến người điều khiển phần mềm độc hại này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Needless to say this can cost the legitimate owner of the intellectual property a lot of money as the cybercriminals have access to the designs even before they go into production . "</s>
+<s id='vn11'>Tất nhiên điều này có thể gây tổn thất nhiều tiền bạc cho chủ sở hữu hợp pháp tài sản trí tuệ vì các tội phạm mạng có thể lấy các bản thiết kế ngay cả trước khi họ đi vào sản xuất . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" They may even have the guts to apply for patents on the product before the inventor has registered it at the patent office . "</s>
+<s id='vn12'>" Thậm chí bạo dạn hơn chúng còn có thể áp dụng các bằng sáng chế trên sản phẩm trước khi nhà sáng chế đăng ký nó tại Cục Sở hữu trí tuệ . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Unusually , Chinese authorities have cooperated with efforts to investigate and disable the virus .</s>
+<s id='vn13'>Điều khác thường , các nhà chức trách Trung Quốc đã hợp tác với những nỗ lực để điều tra và vô hiệu hóa đám virus này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" We were really surprised they helped us because it 's the first time we have worked with Chinese authorities , " said Mr Zwienenberg .</s>
+<s id='vn14'>" Chúng tôi thật sự bất ngờ khi họ đã giúp chúng tôi bởi vì đó là lần đầu tiên chúng tôi làm việc với các nhà chức trách Trung Quốc , " ông Zwienenberg cho biết .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Government experts helped follow the path taken by the stolen drawings to their final destination in Chinese email accounts , which have been blocked .</s>
+<s id='vn15'>Các chuyên gia Chính phủ đã giúp đỡ thực hiện công việc lần theo dấu vết của các bản vẽ bị đánh cắp có đích đến cuối cùng là các tài khoản email của người Trung Quốc hiện tại đã bị chặn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>China is seen a major source of industrial espionage online , a reputation that has prompted warnings to major British firms from MI5 .</s>
+<s id='vn16'>Trung Quốc được xem là một nguồn gốc của các hoạt động gián điệp công nghiệp trực tuyến , một điểm đen mà đã được cơ quan tình báo Anh MI5 nhắc nhở cảnh báo .</s>
+</spair>
+</text>
+</doc>

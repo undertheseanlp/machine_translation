@@ -1,0 +1,240 @@
+﻿<doc id='N0747'>
+<head>
+<title>Cooking with kids</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Cooking with kids</s>
+<s id='vn1'>Vào bếp với trẻ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The kitchen can be a fascinating place for young children .</s>
+<s id='vn2'>Nhà bếp có thể là một nơi lý tưởng có thể thu hút trẻ nhỏ đấy chứ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They see grown-ups working briskly in there , watch the steam rise from pots on the stove , and smell what 's on the menu that night .</s>
+<s id='vn3'>Chúng đến đây để xem người lớn làm việc thuần thục trong bếp , thấy hơi bốc ra từ ấm nước trên bếp lò , và ngửi thấy mùi món ăn trong thực đơn bữa tối .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Even older kids might be intrigued by how baked goods and meals come together .</s>
+<s id='vn4'>Thậm chí là đến trẻ lớn cũng có thể tò mò muốn biết làm sao có món bánh nướng và làm sao có được các bữa ăn ngon như thế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It is n't always convenient to invite them into the kitchen to help , but consider doing so when time allows .</s>
+<s id='vn5'>Không phải lúc nào cũng thuận tiện để bạn mời bọn trẻ vào bếp để giúp mình đâu , nhưng bạn nên làm việc này khi thời gian cho phép nhé .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Younger kids can watch what you 're doing and help out with small tasks , like stirring something or setting the table .</s>
+<s id='vn6'>Trẻ nhỏ có thể quan sát việc bạn đang làm và giúp đỡ một số việc vặt , chẳng hạn như khuấy cái gì đó hoặc bày dọn bàn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Older kids can be taught how to crack eggs or measure ingredients .</s>
+<s id='vn7'>Trẻ lớn hơn có thể học cách đập trứng hoặc lường thành phần nấu ăn .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Even teens might be lured into the kitchen if you tell them they can choose the dish and you 'll help prepare it with them .</s>
+<s id='vn8'>Thậm chí thanh thiếu niên cũng có thể thấy nhà bếp hấp dẫn nếu như bạn nhờ chúng chọn món ăn và giúp chúng chuẩn bị nấu món ăn đó .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>To the kids , it will seem like fun , but there are other benefits to this time together :</s>
+<s id='vn9'>Với trẻ thì đây sẽ là thời gian thú vị của chúng , nhưng bên cạnh đó , những hoạt động nhà bếp cùng nhau cũng đem lại các lợi ích đáng kể khác :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>* Preschoolers see how the dishes they eat are put together - and they get hands-on experience , which is a great way to learn and feel like they are helping out .</s>
+<s id='vn10'>* Trẻ chưa đến tuổi đi học có thể quan sát thấy cách các món ăn được chế biến với nhau như thế nào - đồng thời chúng cũng có được kinh nghiệm thực hành , đây là cách hay để học hỏi và cảm thấy như thể mình đang giúp đỡ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>* School-age kids can learn some cooking basics and use their math skills as they help combine ingredients for recipes .</s>
+<s id='vn11'>* Trẻ độ tuổi đi học có thể học được một số điều cơ bản của việc nấu ăn và sử dụng kỹ năng tính toán khi giúp cộng các thành phần để có công thức món ăn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>You also can use the time to talk about good nutrition and why you chose the ingredients you 're using .</s>
+<s id='vn12'>Bạn cũng có thể chỉ cho con biết về dinh dưỡng tốt cho sức khỏe và vì sao mình cần phải chọn thành phần để chế biến món ăn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It can lay the groundwork for healthy eating later on .</s>
+<s id='vn13'>Đây có thể là một nền tảng cho việc ăn uống lành mạnh về sau .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>* Teens might appreciate the chance to improve their cooking skills - good preparation for when they 'll need to cook for themselves .</s>
+<s id='vn14'>* Thanh thiếu niên có thể cũng thích có cơ hội để nâng cao kỹ năng nấu ăn của mình - đây là bước chuẩn bị tốt cho lúc phải tự nấu ăn một mình .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Teens also might be interested in trying different cuisines .</s>
+<s id='vn15'>Các em cũng có thể bị lôi cuốn khi thử nhiều món ngon khác nhau .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Do they love Asian food ?</s>
+<s id='vn16'>Các em có thích thức ăn Châu Á không ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Visit an Asian market and put together something authentic .</s>
+<s id='vn17'>Hãy đến tham quan chợ ở Châu Á và chế biến món gì đó nhé .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Here are some tips for having fun and staying safe while you 're cooking with kids .</s>
+<s id='vn18'>Dưới đây là một số bí quyết giúp bạn có được niềm vui và an toàn khi nấu ăn chung với trẻ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Choose the right time</s>
+<s id='vn19'>Bạn hãy chọn thời gian phù hợp</s>
+</spair>
+<spair id='20'>
+<s id='en20'>If you 're going to have kids helping you in the kitchen , you do n't want to be on a tight time schedule .</s>
+<s id='vn20'>Nếu sắp nhờ con cùng giúp mình nấu ăn trong nhà bếp , thì bạn cũng không muốn có lịch thời gian eo hẹp .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Instead of involving them in a dinner you have to cook lightning-fast , enlist their help on a weekend afternoon when you do n't feel crunched .</s>
+<s id='vn21'>Thay vì nhờ con phụ giúp bữa tối mà bạn phải nấu thật nhanh , bạn nên để việc đó đến chiều cuối tuần khi thời gian của cả hai đều không vội vã nhé .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>With younger kids , choose a time when they 're well-rested and not easily frustrated .</s>
+<s id='vn22'>Với trẻ nhỏ , bạn nên lựa chọn lúc chúng khỏe khoắn và không dễ bị làm thất vọng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It 's also a smart idea to have another adult in the kitchen to help you keep an eye on your junior chef .</s>
+<s id='vn23'>Cũng nên nhờ một người lớn tuổi khác cùng ở nhà bếp để giúp bạn quan sát " đầu bếp cấp dưới " của mình nhé .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Choose the right tasks</s>
+<s id='vn24'>Lựa chọn công việc thích hợp</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Plan ahead a little when deciding what you 'll prepare together .</s>
+<s id='vn25'>Hãy lên kế hoạch trước một chút khi quyết định sẽ cùng con chuẩn bị món ăn gì .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For younger kids , consider starting with simple dishes with fewer than five ingredients .</s>
+<s id='vn26'>Đối với trẻ nhỏ , bạn nên bắt đầu với những món ăn đơn giản với thành phần chưa đến 5 thứ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Then your child wo n't have to wait it out while you tackle a complicated step .</s>
+<s id='vn27'>Trẻ không chờ nổi khi bạn phải làm một bước nào đó phức tạp đâu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A tossed salad or easy muffin recipe can be good starter projects .</s>
+<s id='vn28'>công thức món salad trộn hoặc món bánh xốp nướng dễ dàng có thể giúp trẻ bắt đầu vào bếp thoải mái .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>You also might set up a pizza-making assembly line where kids can choose their own mini-crusts , sauces , cheeses , and toppings .</s>
+<s id='vn29'>Bạn cũng có thể bắt đầu làm bánh pizza theo dây chuyền khi trẻ có thể tự chọn được mẩu bánh nhỏ , nước xốt , phô-mai , và lớp kem trên mặt bánh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Older kids can take cooking to the next level and work with you on more challenging recipes .</s>
+<s id='vn30'>Trẻ lớn tuổi hơn có thể nấu ăn ở mức độ khó hơn và thực hiện với bạn những công thức nấu ăn cần nhiều công sức hơn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>When you 've chosen a recipe , think about which steps your child can do independently .</s>
+<s id='vn31'>Khi đã chọn một công thức nào đó , bạn nên nghĩ các bước nào mà con có thể tự thực hiện được .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>For instance , kids who can read can call out the ingredients from the recipe card while you put them out on the counter .</s>
+<s id='vn32'>Chẳng hạn như trẻ biết đọc có thể đọc các thành phần trong thẻ ghi công thức trong khi bạn tính trên máy tính .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>A younger child can help you pour ingredients into a bowl .</s>
+<s id='vn33'>Trẻ nhỏ có thể phụ đổ các thành phần ra tô .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>An older child might be able to measure out ingredients and add them unassisted .</s>
+<s id='vn34'>Còn trẻ lớn hơn có thể lường và thêm thành phần vào mà không cần người lớn giúp đỡ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Doing some prep work in advance , such as rinsing the berries for muffins , will make the process move more swiftly .</s>
+<s id='vn35'>Chuẩn bị trước một số công đoạn như rửa quả mọng cho món bánh nướng xốp , sẽ làm cho quá trình nấu ăn diễn ra nhanh hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>If there 's a lull in the action , you might consider giving your child a well-deserved break .</s>
+<s id='vn36'>Nếu trong khi làm , trẻ bị chán hoặc mệt , bạn nên cho con nghỉ ngơi thoải mái .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Then you can call him or her back in when there 's another kid-friendly task to do , or when it 's time to taste what you made .</s>
+<s id='vn37'>Sau đó hãy gọi bé trở lại nhà bếp khi đến đoạn trẻ thích , hoặc đến lúc nếm các món mà mình đã chế biến xong .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Stress safety</s>
+<s id='vn38'>Nhà bếp cần phải được an toàn</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Children need supervision when they 're in the kitchen .</s>
+<s id='vn39'>Trẻ nhỏ cần nên được giám sát khi vào nhà bếp .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Preschoolers must learn not to touch whirring electric beaters , hot pans , and stovetops .</s>
+<s id='vn40'>Trẻ chưa đến tuổi đi học phải biết là không được chạm tay vào các máy đánh trứng đang quay , các chảo nóng , và mặt lò .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Here are some safety tips :</s>
+<s id='vn41'>Dưới đây là một số bí quyết an toàn cho trẻ :</s>
+</spair>
+<spair id='42'>
+<s id='en42'>* Give frequent reminders about what 's OK to touch and which items can hurt them .</s>
+<s id='vn42'>* Thường xuyên nhắc trẻ vật nào có thể chạm vào được và vật nào có thể làm chúng bị thương .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>* Talk about which kitchen tasks are for grown-ups and which are for kids .</s>
+<s id='vn43'>* Cho con biết việc nào trong nhà bếp là của người lớn và việc nào là của trẻ con .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* Establish kitchen rules , such as washing hands and not touching stove knobs or knives .</s>
+<s id='vn44'>* Cho trẻ biết các quy tắc ở nhà bếp , chẳng hạn như phải rửa tay và không được sờ vào các nút bấm của lò hoặc dao .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Even older kids will need safety reminders , especially if they 're working with appliances and knives , or at the stove .</s>
+<s id='vn45'>Thậm chí là các trẻ lớn cũng cần được nhắc các nguyên tắc an toàn , nhất là khi chúng làm việc với dao và các dụng cụ nhà bếp , hoặc đang nấu ăn ở bếp lò .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Loosen up</s>
+<s id='vn46'>Đừng quá nghiêm khắc</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Kids cannot be counted on to be neat in the kitchen .</s>
+<s id='vn47'>Không thể mong rằng trẻ sẽ gọn gàng trong nhà bếp .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Even adults have trouble with that .</s>
+<s id='vn48'>Người lớn thậm chí còn không làm được điều này .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>To make your experience together more enjoyable , allow for some extra mess and try to be patient .</s>
+<s id='vn49'>Để trải nghiệm với con thêm phần thú vị , bạn nên cho phép con bừa bãi thêm một chút và hãy cố kiên nhẫn nhé .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>To prevent cooking disasters , be sure your child is n't measuring ingredients over the bowl - risking a big oops .</s>
+<s id='vn50'>Để tránh làm cho chuyện nấu ăn trở thành " tai hoạ " , bạn không nên để trẻ đong lường thành phần vào tô - đó là nguy cơ lớn đấy .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Instead , you might measure them separately and put them in small bowls , like they do on TV cooking shows .</s>
+<s id='vn51'>Thay vì vậy , bạn có thể lường các thành phần riêng và để chúng vào từng cái chén nhỏ , như ở chương trình dạy nấu ăn trên ti vi vậy .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Even if everything does n't go perf ectly , try to keep the mood light .</s>
+<s id='vn52'>Cho dù là mọi thứ không được hoàn hảo thì bạn cũng nên cố giữ cho tâm trạng thoải mái nhé .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>If the egg gets smashed , offer some guidance and let your child try again .</s>
+<s id='vn53'>Nếu món trứng bị nát nhừ , hãy hướng dẫn con và để cho bé làm lại .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Little by little , kids will gain these skills - and feel great once they 're mastered .</s>
+<s id='vn54'>Dần dần trẻ sẽ đạt được những kỹ năng này - và cảm thấy thật tuyệt vời khi mình đã làm được thuần thục hơn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Last , but not least , be sure to compliment your assistant chefs on a job well done .</s>
+<s id='vn55'>Cuối cùng , nhưng không kém phần quan trọng , đó là hãy chắc rằng một lời khen dành cho các đầu bếp phó đã làm xuất sắc công việc không bao giờ thừa đâu .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Offer them first taste of whatever you cooked together - and ask what you should make together next time .</s>
+<s id='vn56'>Hãy để trẻ được nếm thử bất cứ món nào mà bạn và con cùng làm - và hỏi bé xem mình nên làm gì lần sau nhé .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Bon appetit !</s>
+<s id='vn57'>Chúc các bạn ngon miệng !</s>
+</spair>
+</text>
+</doc>

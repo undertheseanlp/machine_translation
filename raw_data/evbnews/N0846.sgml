@@ -1,0 +1,160 @@
+﻿<doc id='N0846'>
+<head>
+<title>Once a century earthquake rattles East Coast</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Once a century earthquake rattles East Coast</s>
+<s id='vn1'>Trận động đất xuất hiện mỗi thế kỷ một lần làm chấn động Bờ Đông</s>
+</spair>
+<spair id='2'>
+<s id='en2'>There were no reports of major damage or serious injuries from the 5.8 magnitude quake , which was centered in Mineral , Virginia .</s>
+<s id='vn2'>Không có bất cứ báo cáo nào về thiệt hại nặng nề hoặc tổn thương nghiêm trọng sau trận động đất cường độ 5,8 độ richter xảy ra ở trung tâm thành phố Mineral thuộc bang Virginia .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It was the largest quake in Virginia since 1897 and struck at a shallow depth , increasing its potency .</s>
+<s id='vn3'>Đó là trận động đất lớn nhất ở bang Virginia kể từ năm 1897 và đã ảnh hưởng xấu đến độ nông sâu của vùng khi cường độ của nó tăng lên .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The Pentagon , White House and Capitol were evacuated in Washington , and thousands of alarmed workers scurried into the streets up and down the East Coast as the lunchtime quake sent items crashing down from store and office shelves .</s>
+<s id='vn4'>Lầu năm góc , Nhà Trắng và Trụ sở quốc hội Hoa Kỳ ở Washington đã được di tản , hàng ngàn công nhân được cảnh báo đã chạy ào ra các con đường khắp nơi ở Bờ Đông khi trận động đất xảy ra vào giờ ăn trưa , làm cho hàng hóa cùng vật dụng ở các cửa hàng và các ngăn kệ trong văn phòng đổ ầm xuống .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" We were rocking , " said Larry Beach , who works at the U.S. Agency for International Development in downtown Washington , 83 miles from the quake 's epicenter .</s>
+<s id='vn5'>" Chúng tôi đang rung chuyển , " Larry Beach - người làm việc ở Cơ quan Phát triển Quốc tế Hoa Kỳ ở trung tâm Washington , cách tâm động đất 83 dặm , đã nói .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" It was definitely significant . "</s>
+<s id='vn6'>" Điều đó là chắc chắn " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Federal workers were sent home early .</s>
+<s id='vn7'>Các công nhân liên bang đã được nghỉ làm sớm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Washington 's National Cathedral , host to state funerals and memorial services for many U.S. presidents , suffered damage with three spires in the central tower breaking off .</s>
+<s id='vn8'>Ba ngọn tháp ở tòa nhà chính của Nhà thờ Quốc gia ở Washington – là nơi chuyên tổ chức các đám tang trọng thể và lễ truy điệu cho các tổng thống Hoa Kỳ - đã bị gãy đổ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The U.S. East Coast does not normally experience quakes as strong as Tuesday 's .</s>
+<s id='vn9'>Ở Bờ Đông của Hoa Kỳ chưa bao giờ xảy ra trận động đất nào mạnh như trận động đất hôm thứ ba .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The U.S. Geological Survey said the quake was of 5.8 magnitude , downgrading an earlier estimate if 5.9 .</s>
+<s id='vn10'>Cục Khảo sát Địa chất Hoa Kỳ cho biết trận động đất có cường độ 5,8 ritcher , đã giảm bớt so với ước tính trước đó là 5,9 độ ritcher .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Earthquakes of magnitude 5.5 can cause damage to buildings and other structures .</s>
+<s id='vn11'>Các trận động đất có cường độ 5,5 độ ritcher có thể phá hủy nhiều tòa cao ốc và nhiều công trình kiến trúc khác .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In addition to the Virginia earthquake , there were nine tremors in the area immediately around Cokedale , Colorado , near the border of New Mexico .</s>
+<s id='vn12'>Ngoài trận động đất ở bang Virginia , còn chín cơn động đất nhẹ ngay sau đó ở khu vực xung quanh vùng Cokedale thuộc bang Colorado , gần biên giới của bang New Mexico .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Today we had two significant earthquakes shake large portions of the country , " said David Wald , a geophysicist with the USGS .</s>
+<s id='vn13'>" Ngày hôm nay đã có hai trận động đất mạnh làm rung chuyển nhiều khu vực rộng lớn trên toàn quốc , " , David Wald - một nhà địa vật lý của Cục Khảo sát Địa chất Hoa Kỳ - cho biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" The Western earthquake , magnitude 5.3 , within the last 24 hours , shook roughly four western states , primarily Colorado and New Mexico , but also parts of Kansas , Oklahoma as well as Texas -- large states , but probably experienced by tens of thousands of people ," he said .</s>
+<s id='vn14'>" Trận động đất ở phía tây có cường độ 5,3 độ ritcher diễn ra trong vòng 24 tiếng đồng hồ qua , đã làm chấn động mạnh bốn bang phía tây , chủ yếu là ở bang Colorado và New Mexico ; ngoài ra còn ảnh hưởng đến một số nơi ở các bang có diện tích lớn như Kansas , Oklahoma và Texas , nhưng chắc chắn hàng chục ngàn người đã cảm giác được trận động đất , " , ông David Wald nói .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>CAPITOL SHAKEN</s>
+<s id='vn15'>Trụ sở Quốc hội Hoa Kỳ rung chuyển</s>
+</spair>
+<spair id='16'>
+<s id='en16'>As if a rare strong earthquake were not enough , the East Coast was also on alert for powerful Hurricane Irene which was heading up from the Caribbean and could hit at the weekend .</s>
+<s id='vn16'>Có vẻ như một trận động đất mạnh hiếm thấy như thế là chưa đủ , Bờ Đông còn ở trong tình trạng báo động về cơn bão có sức tàn phá dữ dội Irene đang tiến thẳng vào từ vùng biển Caribbean và có khả năng ập đến vào cuối tuần này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The quake made chandeliers sway in the Capitol and the floor of the Senate shook before staff headed for the exits .</s>
+<s id='vn17'>Trận động đất này làm cho các ngọn đèn treo trong Trụ sở Quốc hội Hoa Kỳ và sàn nhà của Thượng nghị viện rung lắc trước khi các nhân viên ra đến lối thoát hiểm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Some minor damage could be seen in the rotunda , under the dome of the Capitol .</s>
+<s id='vn18'>Có vài thiệt hại nhỏ trong nhà tròn , dưới mái vòm của Trụ sở Quốc hội Hoa Kỳ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Bits of paint and plaster fell from high on the walls and chunks of plaster fell from above a doorway in the Capitol 's Statuary Hall .</s>
+<s id='vn19'>Một số mảnh sơn vữa rơi từ trên tường xuống và nhiều mảng thạch cao lớn rơi xuống từ trên một khung cửa của sảnh Statuary trong Trụ sở Quốc hội Hoa Kỳ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Congress is in recess so most members were away .</s>
+<s id='vn20'>Cuộc họp Quốc hội bị hoãn lại do có quá nhiều thành viên vắng mặt .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" I thought at first somebody was shaking my chair and then I thought maybe it was a bomb , " said Senate aide Wendy Oscarson-Kirchner .</s>
+<s id='vn21'>" Lúc đầu tôi cứ tưởng có ai đó đang rung cái ghế , sau đó tôi lại nghĩ có thể là có bom , " một sĩ quan của Thượng nghị viên - Wendy Oscarson-Kirchner đã nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Phone service was disrupted throughout the region as network congestion blocked cell phone users from making calls .</s>
+<s id='vn22'>Dịch vụ điện thoại bị gián đoạn trên toàn khu vực này vì mạng lưới bị tắc nghẽn đã ngăn người dùng điện thoại di động thực hiện các cuộc gọi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>There were also nuclear safety fears when one of four emergency diesel generators at the North Anna nuclear power plant in Virginia lost power due to the quake and automatically halted operations .</s>
+<s id='vn23'>Còn có nhiều nỗi lo sợ về an toàn hạt nhân khi một trong bốn máy phát điện khẩn cấp dùng động cơ diesel của nhà máy điện hạt nhân North Anna thuộc bang Virgina không còn năng lượng do trận động đất và các hoạt động tạm dừng tự động .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The plant operated by Dominion Resources was designed to withstand an earthquake of magnitude up to 6.2 , a company spokesman said .</s>
+<s id='vn24'>Nhà máy hạt nhân này do công ty Dominion Resources quản lý , được thiết kế để có thể chịu được một trận động đất có cường độ lên đến 6,2 độ ritcher , một người phát ngôn của công ty cho biết .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Dominion reported no major damage to the facility .</s>
+<s id='vn25'>Dominion tuyên bố rằng không có thiệt hại nặng nề về vật chất .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Three generators were needed to kick in and keep the reactors " radioactive cores cool .</s>
+<s id='vn26'>Ba nhà máy điện hạt nhân còn lại cần phải góp phần giữ mát cho các hạt nhân phóng xạ trong lò phản ứng hạt nhân .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In New York , the tremors prompted evacuations of courthouses , City Hall and halted work at the World Trade Center construction site .</s>
+<s id='vn27'>Ở New York , những trận động đất nhẹ đã làm cho các trụ sở tòa án thuộc tòa án thành phố phải di tản và trang web về xây dựng World Trade Center phải tạm ngừng hoạt động .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" What a spooky , strange feeling , " said Billy Simeonidis , the owner of BareBurger in Brooklyn .</s>
+<s id='vn28'>Billy Simeonidis - chủ nhà hàng BareBurger ở bang Brooklyn - phát biểu : " Thật là một cảm giác đáng sợ và lạ lùng , " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" You just don't have any control .</s>
+<s id='vn29'>" Bạn trở nên mất kiểm soát .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I don't know how they do it on the West Coast . "</s>
+<s id='vn30'>Tôi không biết người ta làm điều đó như thế nào trên Bờ Tây . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Control towers at John F. Kennedy International Airport in New York City and Newark Liberty Airport in New Jersey were also evacuated , and flights were grounded briefly in Washington , Philadelphia and New York .</s>
+<s id='vn31'>Các đài kiểm soát không lưu của sân bay quốc tế John F. Kennedy ở thành phố New York và của sân bay Newark Liberty ở thành phố New Jersey cũng được di tản ; ở Washington , Philadelphia và New York , một số chuyến bay tạm hoãn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The quake was felt as far away as Toronto .</s>
+<s id='vn32'>Trận động đất đã gây chấn động xa tới tận Toronto .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Buildings in Boston were evacuated , and some people who experienced swaying offices said they felt their stomachs turn .</s>
+<s id='vn33'>Các cao ốc ở Boston được sơ tán , một số người cảm nhận được sự rung chuyển của căn phòng cho biết khi đó họ cảm thấy buồn nôn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" We see we had shaking from Canada and Maine all the way down to Georgia and in Michigan and Illinois .</s>
+<s id='vn34'>" Chúng tôi thấy rằng có sự chấn động kéo dài từ Canada và bang Maine xuống tận bang Georgia và ở các bang Michigan và Illinois .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>So this was over about 20 states , " said the USGS 's Wald .</s>
+<s id='vn35'>Có nghĩa là trận động đất này ảnh hưởng đến khoảng 20 bang , " ông Wald của Cục Khảo sát Địa chất Hoa Kỳ đã nói .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>But saturation TV coverage of an East Coast quake that caused little damage drew smirks of amused disbelief from seismic-savvy Californians watching the news .</s>
+<s id='vn36'>Tuy nhiên , bản tin trên ti vi về một trận động đất ở Bờ Đông gây thiệt hại không đáng kể đã làm cho những người dân vùng California hiểu biết về động đất phải hồ nghi khi họ xem bản tin này .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>" East Coasters freak out , West Coasters roll their eyes , " read one headline accompanying a story about Twitter reactions on the Hollywood website The Wrap.com .</s>
+<s id='vn37'>" Đông thì gió dồn sóng dập , Tây thì lặng yên đứng nhìn " là tiêu đề của một bài viết về phản ứng của cộng đồng mạng xã hội Twitter trên trang web của Hollywood là The Wrap.com .</s>
+</spair>
+</text>
+</doc>

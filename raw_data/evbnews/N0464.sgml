@@ -1,0 +1,232 @@
+﻿<doc id='N0464'>
+<head>
+<title>Bringing the Beauty of Math to Life</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bringing the Beauty of Math to Life</s>
+<s id='vn1'>Mang cái đẹp của toán học vào cuộc sống</s>
+</spair>
+<spair id='2'>
+<s id='en2'>For many people , math can be intimidating .</s>
+<s id='vn2'>Đối với nhiều người , toán học có thể là đáng sợ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But Alex Bellos finds it intriguing .</s>
+<s id='vn3'>Nhưng Alex Bellos lại thấy nó vô cùng hấp dẫn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The journalist has degrees in mathematics and philosophy from Oxford University .</s>
+<s id='vn4'>Nhà báo này có bằng cấp về toán học và triết học của Đại học Oxford .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>After 20 years as a reporter , Bellos decided to combine his profession and his degrees .</s>
+<s id='vn5'>Sau 20 năm làm phóng viên , Bellos quyết định kết hợp nghề nghiệp và học vị của mình .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>He traveled around the world - and back in time - to uncover fascinating stories of mathematical achievements and to profile people whose lives are intertwined with numbers .</s>
+<s id='vn6'>Anh ấy du lịch vòng quanh thế giới - và truy tìm lại lịch sử - để khám phá những câu chuyện thú vị về những thành tựu toán học đồng thời kể về những con người mà cuộc đời của họ gắn liền với những con số .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Alex Bellos discovered that mathematics - which seems so absolute - is not the same everywhere around the globe .</s>
+<s id='vn7'>Alex Bellos khám phá ra được rằng toán học - dường như rất tuyệt đối - lại không hề giống nhau ở khắp nơi trên địa cầu này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" While two plus two is indeed four all over the world , the approach to math is so , so different , " Bellos says .</s>
+<s id='vn8'>" Mặc dù 2+2=4 đều công nhận ở mọi nơi nhưng phương pháp tiếp cận toán học là rất khác nhau " , Bellos nói .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" I came from the U.K. where being good at math is seen as being uncool .</s>
+<s id='vn9'>" Tôi đến từ Anh quốc , nơi mà một người giỏi toán được xem như chẳng có gì đáng nói .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This is not the case even in France .</s>
+<s id='vn10'>Nhưng ở đất Pháp thì lại khác .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The French love their math .</s>
+<s id='vn11'>Người Pháp rất yêu thích toán học .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It 's quite cool to be a mathematician .</s>
+<s id='vn12'>Một nhà toán học ở đây thì khá là " hay ho " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Mathematicians in France are seen as great intellectuals .</s>
+<s id='vn13'>Ở Pháp , những nhà toán học được xem là giới trí thức uyên bác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>And being good at arithmetic in India is almost seen as a badge of national pride .</s>
+<s id='vn14'>Và tại Ấn Độ , học giỏi về số học hầu như được xem là một biểu hiện của lòng tự hào dân tộc .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In Japan , which is a culture most different from mine , a million children study the abacus for fun after school .</s>
+<s id='vn15'>Ở Nhật , nơi có nền văn hoá khác xa xứ tôi , một triệu trẻ em học toán bằng bàn tính để giải trí sau giờ học .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Counting is seen as fun .</s>
+<s id='vn16'>Tính toán được coi là một thú tiêu khiển .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It 's quite fun to be able to calculate and do multiplication very , very quickly . "</s>
+<s id='vn17'>Thật là vui thú khi có thể tính toán và làm tính nhân một cách thật mau chóng . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Japan was one of the places Bellos visited on his year-long journey .</s>
+<s id='vn18'>Nhật Bản là một trong những nơi Bellos viếng thăm trong chuyến hành trình kéo dài nhiều năm của mình .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>There , he met the creator of the popular Sudoku puzzles and talked about the brain-teasing delights of mathematical games .</s>
+<s id='vn19'>Ở đó , anh gặp người sáng tạo ra trò Sudoku nổi tiếng và bàn luận về những cái thú vị động não trong những trò chơi toán học .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In a town near Tokyo , he spent time with a guru of origami , the traditional Japanese art of paper folding .</s>
+<s id='vn20'>Ở một thị trấn gần Tokyo , anh ấy bỏ một chút thời gian đàm đạo với một bậc thầy Origami , nghệ thuật xếp giấy truyền thống Nhật Bản .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Origami , Bellos says , is one of the hottest areas of mathematical work today .</s>
+<s id='vn21'>Bellos cho rằng Origami là một trong những lĩnh vực thành công nhất của toán học hiện đại .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" It turns out that origami is a brilliant way to understand geometry , " he says .</s>
+<s id='vn22'>" Hoá ra Origami là một phương pháp xuất sắc để hiểu về hình học , " anh ấy nói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" And if you start to think about paper folding , there are lots of things you ca n't do with the methods that have been taught in schools really since the Greeks .</s>
+<s id='vn23'>" Và nếu bạn bắt đầu nghĩ về việc xếp giấy , có nhiều thứ bạn không thể làm bằng những phương pháp đã được dạy ở trường học từ thời có người Hy lạp .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>For instance , trisection of an angle .</s>
+<s id='vn24'>Chẳng hạn như , chia một góc làm ba .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Just using a compass and straight-edge , you cannot construct an angle which is a third of another angle , but you can do that with origami .</s>
+<s id='vn25'>Chỉ cần sử dụng com-pa và thước thẳng , bạn không thể vẽ được một góc bằng 3 của một góc khác , nhưng bạn có thể làm điều đó với Origami .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So it 's quite interesting to think that origami in Japan , it may be a cultural thing for children , but now people study origami at the highest level in academia . "</s>
+<s id='vn26'>Thật là thú vị khi nghĩ rằng ở Nhật origami có thể là một trò chơi văn hoá dành cho trẻ em , nhưng giờ đây người ta nghiên cứu chuyên sâu về origami ở cấp cao nhất trong học thuật . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>While in Japan , Bellos also met a math whiz who is not human .</s>
+<s id='vn27'>Khi ở Nhật , Bellos cũng gặp một cao thủ toán học nhưng không phải là một con người .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I met the world 's most numeric chimpanzee .</s>
+<s id='vn28'>Tôi đã gặp một con tinh tinh giỏi số học nhất thế giới .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>And it 's fascinating just to see that chimpanzees can learn to count .</s>
+<s id='vn29'>Và thật thú vị khi nhìn con tinh tinh đó có thể học đếm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Bellos recounts his adventures in a new book , " Here 's Looking at Euclid . "</s>
+<s id='vn30'>Bellos kể lại những cuộc phiêu lưu của anh ấy trong một cuốn sách mới " Hãy nhìn Euclid " .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The title is a play on Humphrey Bogart 's famous line , " Here 's looking at you , kid , " from the movie " Casablanca " .</s>
+<s id='vn31'>Tiêu đề nhại theo một câu nói nổi tiếng của Humphrey Bogart , " Hãy nhìn mày đi nhóc " trong bộ phim " Casablanca " .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The ancient Greek mathematician Euclid is known as the father of geometry .</s>
+<s id='vn32'>Nhà toán học Hy Lạp cổ đại Euclid được coi là ông tổ hình học .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Bellos also had fun with the title of the UK edition of the book , " Alex 's Adventures in Numberland , " an obvious takeoff on the British classic , " Alice 's Adventures in Wonderland . "</s>
+<s id='vn33'>Bellos còn chơi chữ với tên của ấn bản sách xuất bản ở Anh " Những cuộc phiêu lưu của Alex trong vùng đất số " , rõ ràng là nhại từ câu chuyện cổ của Anh " Những cuộc phiêu lưu của Alice ở xứ sở thần tiên . "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The book is subtitled , " A Surprising Excursion through the Astonishing World of Math . "</s>
+<s id='vn34'>Tiêu đề phụ của cuốn sách là " Cuộc dạo chơi đầy bất ngờ trên khắp thế giới lạ lùng của toán học . "</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In it , Bellos talks to two Ukrainian-American brothers who have built the world 's biggest supercomputer in their New York apartment .</s>
+<s id='vn35'>Trong đó , Bellos có cuộc trò chuyện với hai anh em quốc tịch Mỹ-Ukraina đã xây dựng một siêu máy tính lớn nhất thế giới trong một căn hộ ở New York của họ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>He also went to Reno , Nevada to meet the man who sets the odds for more than half of the world 's slot machines .</s>
+<s id='vn36'>Anh ấy cũng đi đến Reno , Nevada để gặp người đàn ông chơi chấp hơn một nửa máy đánh bạc trên thế giới .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>While in Missouri , Bellos met with the president of the Dozenal Society of America .</s>
+<s id='vn37'>Khi ở Missouri , Bellos gặp chủ tịch Hiệp hội Dozenal Hoa Kỳ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>" Dozenalists are people who believe the decimal system - the system of 10 digits , zero to nine - is not very good , is not sufficient , and suggest we need to add two extra digits , " say Bellos .</s>
+<s id='vn38'>" Dozenalist là những người cho rằng hệ thập phân - hệ 10 chữ số , từ 0 đến 9 - là không đủ và không còn hiệu quả và đề nghị chúng ta cần bổ sung thêm hai chữ số nữa " Bellos nói .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" One might say it 's crazy , trying to introduce two new numbers to the number system , but mathematically it makes a perfect sense because multiplication and division become much easier if we count in twelves rather than tens . "</s>
+<s id='vn39'>" Một người nào đó có thể cho rằng việc này là điên rồ khi cố đưa thêm hai chữ số mới mới và hệ số , nhưng về toán học thì nó có một ý nghĩa tuyệt vời vì sự nhân chia sẽ trở nên dễ dàng hơn nếu chúng ta đếm trong 12 chữ số thay vì 10 chữ số . "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In exploring the wonder of math , Bellos discovered numbers are not innate to humans .</s>
+<s id='vn40'>Khi tìm hiểu sự kỳ diệu của toán học , Bellos còn khám phá ra những con số không xuất hiện đồng thời với con người .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>They were first used only about 5,000 years ago .</s>
+<s id='vn41'>Chúng được sử dụng lần đầu tiên chỉ cách đây khoảng 5.000 năm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>And he found groups of people today that do n't use numbers at all or very few of them .</s>
+<s id='vn42'>Và anh ấy còn phát hiện ngày nay có những nhóm người không hề sử dụng con số nào hoặc rất ít con số .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" In the Amazon , I spoke to a man who has been researching the tribe , the Munduruku , who have numbers up to five , " he says .</s>
+<s id='vn43'>" Ở Amazon , tôi trò chuyện với một chuyên gia nghiên cứu về bộ lạc Munduruku , họ chỉ có vỏn vẹn 5 con số " anh ấy nói .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" Actually , they maybe even have numbers up to four because they have a word for one , for two , for three-ish , for four-ish and then they use the word palm or handful for five . "</s>
+<s id='vn44'>" Thực ra thì , có lẽ họ chỉ có đếm được tới 4 thôi vì họ có những từ để biểu thị cho số 1 , số 2 , số 3 , số 4 và sau cùng họ cùng từ biểu thị bàn tay để chỉ số 5 . "</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Bellos also stopped in Germany this summer to report on the bi-annual Mental Calculation World Cup .</s>
+<s id='vn45'>Bellos cũng dừng lại ở Đức mùa hè này để theo dõi cuộc thi tính nhẩm thế giới tổ chức một năm hai lần .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The 10-year-old competition has several categories : addition , multiplication , square root and calendar calculation .</s>
+<s id='vn46'>Cuộc đua tranh đã trải qua 10 năm này có vài nội dung như sau : cộng , nhân , căn bậc hai và tính lịch .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>In that last event , contestants are given a number of dates and they have to figure out which days of the week those dates fall on - all in their head .</s>
+<s id='vn47'>Trong kỳ thi trước gần đây nhất , những người dự thi được trao cho một con số về ngày tháng và họ phải tính nhẩm trong đầu xem con số này rơi vào ngày nào trong tuần .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>The winner of the 2010 competition is 11 years old girl .</s>
+<s id='vn48'>Người chiến thắng năm 2010 là một cô bé 11 tuổi .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" Priyanshi Somani from India .</s>
+<s id='vn49'>" Priyanshi Somani đến từ Ấn Độ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>She learned to calculate using an abacus , " he says .</s>
+<s id='vn50'>Cô bé học sử dụng bàn tính , " anh ấy nói .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>" So when she 's calculating , she 's moving her hands around in the air in front of her as if there is an abacus there . "</s>
+<s id='vn51'>" Vì vậy khi tính nhẩm , cô bé huơ hai tay trong không khí ngay trước mặt mình như thể có một cái bàn tính ở đó . "</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Somani later told Bellos she imagined she was using an abacus during the competition .</s>
+<s id='vn52'>Sau đó Somani nói với Bellos rằng cô bé tưởng tượng là mình đang sử dụng bàn tính trong khi thi đấu .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>When asked whether she could do the mental calculations without using her hands , Somani told Bellos that she did n't think so .</s>
+<s id='vn53'>Khi được hỏi nếu không sử dụng tay thì cô bé có thể tính nhẩm được không thì Somani nói với Bellos là cô nghĩ mình không làm được .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Bellos embarked on his around-the-world excursion to prove that mathematics is not a dry field of learning .</s>
+<s id='vn54'>Bellos bắt đầu chuyến hành trình đi đến mọi miền trên thế giới để chứng tỏ toán học chưa bao giờ là một mảnh đất học thuật khô khan .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The stories in his book prove that it 's surprising and astonishing , as surely as the square of the hypotenuse of a right triangle equals the sum of the square of its two other sides .</s>
+<s id='vn55'>Những câu chuyện kể trong sách của anh ấy cho thấy những điều bất ngờ thú vị và không kém phần đúng đắn như định lý bình phương cạnh huyền của một tam giác vuông bằng tổng bình phương của hai cạnh góc vuông .</s>
+</spair>
+</text>
+</doc>

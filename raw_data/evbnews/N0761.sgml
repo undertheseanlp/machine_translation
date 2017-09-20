@@ -1,0 +1,300 @@
+﻿<doc id='N0761'>
+<head>
+<title>Your mouth , your health</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Your mouth , your health</s>
+<s id='vn1'>Miệng của bạn , sức khỏe của bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Bacteria cause gum disease and worse</s>
+<s id='vn2'>Vi khuẩn gây bệnh nướu răng và làm cho bệnh nướu răng càng trầm trọng hơn</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The research is n't conclusive , but red , swollen , and bleeding gums may point to health problems of heart disease or diabetes .</s>
+<s id='vn3'>Người ta chưa nghiên cứu rõ ràng , nhưng tình trạng nướu răng sưng đỏ và xuất huyết có thể là những vấn đề sức khỏe của bệnh tim hoặc bệnh tiểu đường gây ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Sometimes , bacteria from your mouth can travel to your bloodstream , setting off an inflammatory reaction elsewhere in your body .</s>
+<s id='vn4'>Đôi khi vi khuẩn từ miệng của bạn có thể di chuyển trong máu , gây phản ứng viêm ở một chỗ khác trong cơ thể .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Left untreated , gum disease can increase your risk for a host of diseases linked to inflammation .</s>
+<s id='vn5'>Nếu không được chữa trị thì bệnh nướu răng có thể làm tăng nguy cơ mắc rất nhiều bệnh liên quan đến viêm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Certain diseases and medications also may cause mouth problems .</s>
+<s id='vn6'>Một số thuốc và bệnh nào đó cũng có thể gây ra nhiều vấn đề về miệng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Can mouth bacteria affect the heart ?</s>
+<s id='vn7'>Vi khuẩn ở miệng có thể làm ảnh hưởng đến tim không ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Some studies show that people with gum disease are more likely to suffer from heart disease than those with healthy , pink gums .</s>
+<s id='vn8'>Một số nghiên cứu cho thấy người bị bệnh nướu răng dễ mắc bệnh tim hơn là người khỏe mạnh , có nướu hồng bình thường .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Researchers are n't sure why this association exists .</s>
+<s id='vn9'>Các nhà nghiên cứu cũng không biết chắc tại sao lại có mối tương quan như thế .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>One theory is that oral bacteria travel into the bloodstream where it may attach to fatty plaques in the arteries , causing inflammation and setting the stage for a heart attack .</s>
+<s id='vn10'>Một giả thiết cho rằng vi khuẩn ở miệng di chuyển vào trong máu và nơi đây nó có thể kết hợp với các mảng bám chất béo trong động mạch , gây viêm và hình thành nên một giai đoạn nào đó của chứng đau tim .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Are you at risk ?</s>
+<s id='vn11'>Bạn có đang gặp nguy cơ này không ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Talk to your doctor .</s>
+<s id='vn12'>Hãy nói chuyện với bác sĩ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Gum disease and diabetes</s>
+<s id='vn13'>Bệnh nướu răng và tiểu đường</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Diabetes can reduce the body 's resistance to infection .</s>
+<s id='vn14'>Bệnh tiểu đường có thể làm giảm sức đề kháng của cơ thể chống lại nhiễm trùng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Elevated blood sugars increase the risk of developing gum disease .</s>
+<s id='vn15'>Đường huyết cao cũng làm tăng nguy cơ phát triển bệnh nướu răng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>What 's more , gum disease can make it harder to keep blood sugar levels in check .</s>
+<s id='vn16'>Hơn nữa , bệnh nướu răng có thể làm cho việc kiểm soát đường huyết khó khăn hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Protect your gums by keeping blood sugar levels as close to normal as possible .</s>
+<s id='vn17'>Bạn nên bảo vệ nướu bằng cách giữ cho đường huyết càng gần với mức bình thường càng tốt .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Brush after each meal and floss daily .</s>
+<s id='vn18'>Hãy đánh răng sau mỗi bữa ăn và làm sạch kẽ răng bằng chỉ nha khoa hằng ngày ;</s>
+</spair>
+<spair id='19'>
+<s id='en19'>See your dentist at least once a year .</s>
+<s id='vn19'>Đồng thời nên đến khám nha sĩ ít nhất là mỗi năm một lần .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Dry mouth and tongue cause tooth decay</s>
+<s id='vn20'>Miệng và lưỡi khô gây sâu răng</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The 4 million Americans who have Sjögren 's syndrome are more prone to have oral health problems , too .</s>
+<s id='vn21'>4 triệu người Mỹ mắc hội chứng Sjoegren cũng rất dễ mắc các vấn đề về răng miệng hơn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>With Sjögren 's , the body 's immune system mistakenly attacks tear ducts and saliva glands , leading to chronically dry eyes and dry mouth ( called xerostomia ) .</s>
+<s id='vn22'>Khi bị hội chứng này thì hệ miễn dịch của cơ thể tấn công nhầm tuyến lệ và tuyến nước bọt , làm cho mắt ráo hoảnh và miệng khô kinh niên ( gọi là chứng khô miệng ) .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Saliva helps protect teeth and gums from bacteria that cause cavities and gingivitis .</s>
+<s id='vn23'>Nước bọt giúp bảo vệ răng và nướu chống lại vi khuẩn gây sâu răng và viêm lợi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>So a perpetually dry mouth is more susceptible to tooth decay and gum disease .</s>
+<s id='vn24'>Vì vậy chứng khô miệng kinh niên dễ gây sâu răng và bệnh nướu răng hơn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Medications that cause dry mouth</s>
+<s id='vn25'>Nhiều loại thuốc cũng gây khô miệng</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Given that a chronically dry mouth raises risk of cavities and gum disease , you may want to check your medicine cabinet .</s>
+<s id='vn26'>Như đã biết thì chứng khô miệng kinh niên làm tăng nguy cơ sâu răng và bệnh nướu răng , bạn có thể cần nên kiểm tra lại tủ thuốc của mình .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Antihistamines , decongestants , painkillers , and antidepressants are among the drugs that can cause dry mouth .</s>
+<s id='vn27'>Thuốc kháng histamine , thuốc giảm xung huyết , thuốc giảm đau , và thuốc chống trầm cảm là những thuốc có thể gây khô miệng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Talk to your doctor or dentist to find out if your medication regimen is affecting your oral health , and what you can do about it .</s>
+<s id='vn28'>Bạn nên nói chuyện với bác sĩ hoặc nha sĩ xem liệu chế độ điều trị bằng thuốc của mình có ảnh hưởng đến sức khoẻ răng miệng hay không , và bạn có thể làm gì với vấn đề này .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Stress and teeth grinding</s>
+<s id='vn29'>Căng thẳng và chứng nghiến răng</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If you are stressed , anxious , or depressed , you may be at higher risk for oral health problems .</s>
+<s id='vn30'>Nếu bạn bị stress , lo âu , hoặc trầm cảm thì bạn có thể có nguy cơ mắc các vấn đề về sức khỏe răng miệng nhiều hơn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>People under stress produce high levels of the hormone cortisol , which wreaks havoc on the gums and body .</s>
+<s id='vn31'>Người bị stress tạo nồng độ hooc - môn cortisol cao , gây hại cho nướu răng và cơ thể .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Stress also leads to poor oral care ; more than 50 % of people do n't brush or floss regularly when stressed .</s>
+<s id='vn32'>Ngoài ra chứng căng thẳng còn làm cho người ta ít chăm sóc răng miệng , hơn 50% người bị stress không đánh răng hoặc làm sạch kẽ răng bằng chỉ nha khoa thường xuyên .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Other stress-related habits include smoking , drinking alcohol , and clenching and grinding teeth ( called bruxism ) .</s>
+<s id='vn33'>Các thói quen liên quan đến stress khác bao gồm hút thuốc , uống rượu , và nghiến răng ( đây cũng được gọi là thói nghiến răng ) .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Osteoporosis and tooth loss</s>
+<s id='vn34'>Loãng xương và rụng răng</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The brittle bone disease , osteoporosis affects all the bones in your body -- including your jaw bone -- and can cause tooth loss .</s>
+<s id='vn35'>Bệnh xương thủy tinh , bệnh loãng xương làm ảnh hưởng đến tất cả các xương bên trong cơ thể bạn – kể cả xương hàm – và có thể gây rụng răng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Bacteria from periodontitis , which is severe gum disease , can also break down the jaw bone .</s>
+<s id='vn36'>Vi khuẩn do bệnh nha chu , một bệnh nướu răng nặng , cũng có thể làm gãy xương hàm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>One kind of osteoporosis medication -- bisphosphonates -- may slightly increase the risk of a rare condition called osteonecrosis , which causes bone death of the jaw .</s>
+<s id='vn37'>bisphosphonates – một loại thuốc trị loãng xương – có thể làm tăng nhẹ nguy cơ mắc bệnh hiếm gặp đó là hoại tử xương , làm cho xương hàm không còn hoạt động được nữa .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Tell your dentist if you take bisphosphonates .</s>
+<s id='vn38'>Bạn nên thông báo cho nha sĩ biết nếu đang sử dụng thuốc bisphosphonates nhé .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Pale gums and anemia</s>
+<s id='vn39'>Nướu răng nhợt nhạt và bệnh thiếu máu</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Your mouth may be sore and pale if you 're anemic , and your tongue can become swollen and smooth ( glossitis ) .</s>
+<s id='vn40'>Miệng của bạn có thể bị đau và tái nhợt nếu bị thiếu máu , và lưỡi có thể trở nên bị sưng và trơn bóng ( viêm lưỡi ) .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>When you have anemia , your body does n't have enough red blood cells , or your red blood cells do n't contain enough hemoglobin .</s>
+<s id='vn41'>Khi bị thiếu máu , thì cơ thể của bạn không có đủ hồng cầu , hoặc hồng cầu của bạn không chứa đủ hê - mô-glô-bin .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>As a result , your body does n't get enough oxygen .</s>
+<s id='vn42'>Kết quả là cơ thể của bạn không nhận đủ ô - xy .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>There are different types of anemia , and treatment varies .</s>
+<s id='vn43'>Có nhiều loại thiếu máu và các phương pháp điều trị cho từng loại cũng không giống nhau .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Talk to your doctor to find out what type you have and how to treat it .</s>
+<s id='vn44'>Bạn nên nói chuyện với bác sĩ để phát hiện xem mình đang bị thiếu máu loại gì và điều trị như thế nào .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Eating disorders erode tooth enamel</s>
+<s id='vn45'>Bệnh rối loạn ăn uống làm mòn men răng</s>
+</spair>
+<spair id='46'>
+<s id='en46'>A dentist may be the first to notice signs of an eating disorder such as bulimia .</s>
+<s id='vn46'>Nha sĩ có thể là người đàu tiên phát hiện ra các dấu hiện rối loạn ăn uống như chứng cuồng ăn vô độ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The stomach acid from repeated vomiting can severely erode tooth enamel .</s>
+<s id='vn47'>A-xít trong dạ dày do nôn mửa liên tục có thể làm mòn men răng trầm trọng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Purging can also trigger swelling in the mouth , throat , and salivary glands as well as bad breath .</s>
+<s id='vn48'>Thuốc xổ cũng có thể làm sưng miệng , sưng cổ họng , và sưng tuyến nước bọt cũng như bệnh hôi miệng .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Anorexia , bulimia , and other eating disorders can also cause serious nutritional shortfalls that can affect the health of your teeth .</s>
+<s id='vn49'>Biếng ăn , cuồng ăn vô độ , và các chứng rối loạn ăn uống khác cũng có thể gây suy dinh dưỡng nghiêm trọng có thể làm ảnh hưởng đến sức khỏe răng miệng của bạn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Thrush and HIV</s>
+<s id='vn50'>Bệnh tưa miệng ( tưa lưỡi ) và HIV</s>
+</spair>
+<spair id='51'>
+<s id='en51'>People with HIV or AIDS may develop oral thrush , oral warts , fever blisters , canker sores , and hairy leukoplakia , which are white or gray patches on the tongue or the inside of the cheek .</s>
+<s id='vn51'>Người bị HIV hoặc AIDS có thể bị bệnh tưa miệng ( tưa lưỡi ) , mụn cơm ở miệng , mụn rộp môi , viêm loét miệng , và bạch sản dạng lông , biểu hiện nhiều mảng trắng hoặc xám trên lưỡi hoặc bên trong má .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The body 's weakened immune system and its inability to stave off infections are to blame .</s>
+<s id='vn52'>Hệ miễn dịch đã bị suy yếu của cơ thể và hệ miễn dịch không chống nhiễm trùng được đều là những nguyên nhân .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>People with HIV/AIDS may also experience dry mouth , which increases the risk of tooth decay and can make chewing , eating , swallowing , or talking difficult .</s>
+<s id='vn53'>Người bị HIV/AIDS cũng có thể bị khô miệng , làm tăng nguy cơ bị sâu răng và có thể làm cho việc nhai , ăn , nuốt hoặc nói chuyện trở nên khó khăn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Treating gum disease may help RA</s>
+<s id='vn54'>Điều trị bệnh nướu răng có thể giúp chữa bệnh viêm khớp kinh niên</s>
+</spair>
+<spair id='55'>
+<s id='en55'>People with rheumatoid arthritis ( RA ) are eight times more likely to have gum disease than people without this autoimmune disease .</s>
+<s id='vn55'>Người bị viêm khớp kinh niên ( RA ) có thể bị bệnh nướu răng hơn gấp 8 lần so với người không mắc bệnh tự miễn nhiễm này .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Inflammation may be the common denominator between the two .</s>
+<s id='vn56'>Viêm có thể là đặc điểm chung của bệnh nướu răng và viêm khớp kinh niên .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>People with RA can have trouble brushing and flossing because of damage to finger joints .</s>
+<s id='vn57'>Người bị viêm khớp kinh niên có thể cảm thấy khó khăn khi đánh răng và làm sạch kẽ răng bằng chỉ nha khoa bởi làm tổn thương đến các khớp ngón tay .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The good news is that treating existing gum inflammation and infection can also reduce joint pain and inflammation .</s>
+<s id='vn58'>Tin vui là việc chữa trị chứng viêm nướu và nhiễm trùng nướu hiện tại cũng có thể giúp giảm đau và viêm khớp .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Tooth loss and kidney disease</s>
+<s id='vn59'>Rụng răng và bệnh thận</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Adults without teeth may be more likely to have chronic kidney disease than those who still have teeth .</s>
+<s id='vn60'>Người lớn không còn răng có thể dễ bị bệnh thận mãn tính hơn nguời vẫn còn răng .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Exactly how kidney disease and periodontal disease are linked is not 100 % clear yet .</s>
+<s id='vn61'>Nhưng mối liên quan chính xác giữa bệnh thận và bệnh nha chu vẫn chưa được chứng minh rõ ràng hoàn toàn được .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>So taking care of your teeth and gums may reduce your risk of developing chronic kidney problems .</s>
+<s id='vn62'>Vì vậy việc chăm sóc răng và nướu có thể làm giảm nguy cơ phát triển các vấn đề về thận mãn tính .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Gum disease and premature birth</s>
+<s id='vn63'>Bệnh nướu răng và chứng sinh non</s>
+</spair>
+<spair id='64'>
+<s id='en64'>If you 're pregnant and have gum disease , you could be more likely to have a baby that is born too early and too small .</s>
+<s id='vn64'>Nếu bạn mang thai và bị bệnh nướu răng thì bạn có thể dễ sinh em bé quá non và quá nhẹ cân .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Exactly how the two conditions are linked remains poorly understood .</s>
+<s id='vn65'>Nhưng mối tương quan giữa thai nghén và bệnh nướu răng vẫn còn chưa được giải thích chính xác .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Underlying inflammation or infections may be to blame .</s>
+<s id='vn66'>Các chứng bệnh nhiễm trùng hoặc viêm tiềm ẩn có thể là nguyên nhân .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Pregnancy and its related hormonal changes also appear to worsen gum disease .</s>
+<s id='vn67'>Thai nghén và các thay đổi hooc - môn cũng có vẻ như làm cho bệnh nướu răng trầm trọng thêm .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Talk to your obstetrician or dentist to find out how to protect yourself and your baby .</s>
+<s id='vn68'>Bạn nên nói chuyện với bác sĩ sản khoa hoặc nha sĩ để tìm xem nên tự bảo vệ mình và bảo vệ cho bé như thế nào .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>What healthy gums look like</s>
+<s id='vn69'>Nướu khỏe mạnh trông như thế nào</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Healthy gums should look pink and firm , not red and swollen .</s>
+<s id='vn70'>Nướu khỏe mạnh sẽ có màu hồng và cứng chắc , chứ không đỏ ửng và sưng phồng lên .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>To keep gums healthy , practice good oral hygiene .</s>
+<s id='vn71'>Để giữ cho nướu khỏe mạnh , bạn nên vệ sinh răng miệng sạch sẽ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Brush your teeth at least twice a day , floss at least once a day , see your dentist regularly , and avoid smoking or chewing tobacco .</s>
+<s id='vn72'>Hãy đánh răng ít nhất 2 lần một ngày , làm sạch kẽ chân răng bằng chỉ nha khoa ít nhất mỗi ngày 1 lần , hãy đến khám nha sĩ đều đặn và tránh hút thuốc hoặc nhai thuốc lá .</s>
+</spair>
+</text>
+</doc>

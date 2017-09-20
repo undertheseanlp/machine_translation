@@ -1,0 +1,664 @@
+﻿<doc id='N0915'>
+<head>
+<title>11 . A Comic Book About Business Finance</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>11 . A Comic Book About Business Finance</s>
+<s id='vn1'>11 . tranh về tài chính kinh doanh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>You probably have heard of comic book heroes like Superman , Batman and Spiderman .</s>
+<s id='vn2'>Chắc bạn đã nghe về những truyện tranh anh hùng như Siêu nhân , Người dơi và Người nhện .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But what about Tom motorcycle shop owner , Joe Knight and Karen Berman ?</s>
+<s id='vn3'>Nhưng còn chủ cửa hàng xe mô tô Tom , Joe Knight và Karen Berman thì sao ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Tom , Joe and Karen all appear in a comic book called " Financial Intelligence . "</s>
+<s id='vn4'>Tom , Joe và Karen đều xuất hiện trong quyển truyện tranh tựa đề " Hiểu biết tài chính " .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But Mr. Knight and Ms. Berman are real people .</s>
+<s id='vn5'>Nhưng nhân vật Knight và Berman là những nhân vật có thật .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In two thousand six , they wrote book called " Financial Intelligence : Manager Guide to Knowing What Numbers Really Mean . "</s>
+<s id='vn6'>Năm 2006 , họ viết quyển sách với tựa đề " Hiểu biết tài chính : Hướng dẫn nhà quản lý hiểu biết về ý nghĩa thật sự của những con số " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It was written for people who need to learn quickly about accounting .</s>
+<s id='vn7'>Quyển sách được viết dành cho những người cần nắm bắt nhanh về kế toán .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>book explains , in simple ways , often-complex methods of keeping financial information .</s>
+<s id='vn8'>Quyển sách giải thích theo một cách đơn giản - các phương pháp phức tạp để nắm được các thông tin tài chính .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It became best-seller .</s>
+<s id='vn9'>Nó trở thành quyển sách bán chạy nhất .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This month , publisher SmarterComics released a comic book provides same information in easy-to-understand , picture form .</s>
+<s id='vn10'>Tháng này , nhà xuất bản SmarterComics đã phát hành quyển truyện tranh cung cấp những thông tin tài chính tương tự một cách dễ hiểu bằng tranh vẽ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>new book is a combination of textbook and graphic novel .</s>
+<s id='vn11'>Cuốn sách mới là một sự kết hợp của sách và tiểu thuyết bằng tranh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It tells the story of Tom , a mechanic who must quickly learn how to direct motorcycle repair shop his father founded .</s>
+<s id='vn12'>Cuốn sách kể về câu chuyện của Tom , một thợ máy phải nhanh chóng học cách quản lý cửa hàng sửa chữa mô tô cha anh sáng lập .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Tom has no experience with finance , and is struggling with business .</s>
+<s id='vn13'>Tom không có kinh nghiệm về tài chính , và đang vật lộn với việc kinh doanh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Joe Knight and Karen Berman help him .</s>
+<s id='vn14'>Joe Knight và Karen Berman giúp đỡ anh ấy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Artist Dave Wachter made illustrations for the comic book .</s>
+<s id='vn15'>Họa sĩ Dave Wachter đã vẽ minh họa cho quyển truyện tranh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Franco Arda is founder and head of SmarterComics .</s>
+<s id='vn16'>Franco Arda là người sáng lập và giám đốc hãng SmarterComics .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He formerly worked as investment banker .</s>
+<s id='vn17'>Trước đây ông từng làm giám đốc quỹ đầu tư .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He started company almost three years ago with his own money .</s>
+<s id='vn18'>Ông sáng lập công ty cách đây 3 năm với số tiền tự có .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>He wanted to create educational comics increase understanding .</s>
+<s id='vn19'>Ông muốn tạo ra quyển truyện giáo dục nâng cao hiểu biết .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>FRANCO ARDA : " I think almost everybody understands phrase a picture says a thousand words , " so , I mean , mentally , probably ninety percent of us grew up with comics and understand that comics or illustrations help learning concept much quicker than just text alone . "</s>
+<s id='vn20'>FRANCO ARDA : " Tôi nghĩ hầu hết mọi người hiểu câu thành ngữ " một bức tranh biểu thị ngàn từ " , vì thế , tôi nghĩ , về mặt tinh thần , chắc 90% chúng ta lớn lên cùng với các quyển truyện tranh và hiểu rằng truyện tranh hay hình minh họa giúp cho việc học các khái niệm nhanh hơn so với việc chỉ dùng chữ đơn thuần .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Franco Arda says " Financial Intelligence " will help readers quickly understand many of major areas of accounting .</s>
+<s id='vn21'>Franco Arda nói " Hiểu biết tài chính " sẽ giúp độc giả nắm bắt nhanh chóng các vấn đề chính của kế toán .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>FRANCO ARDA : " Within an hour , you kind of get idea of accounting , very quickly and not in boring way .</s>
+<s id='vn22'>FRANCO ARDA : " Trong vòng một giờ , bạn hầu như nắm được kiến thức kế toán cơ bản , rất nhanh và không hề nhàm chán .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>So you get these illustrations , you get basics accounting and you get balance sheets and cash-flow statements . "</s>
+<s id='vn23'>Khi bạn thấy những tranh minh họa này , bạn nắm được những kiến thức kế toán cơ bản và bảng cân đối kế toán cũng như báo cáo lưu chuyển tiền tệ . "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The new comic book is available in paperback .</s>
+<s id='vn24'>Quyển truyện tranh mới đã có bản in .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>There will also be versions for iPad and iPhone users .</s>
+<s id='vn25'>Cũng như có phiên bản cho người dùng iPad và iPhone .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>website Entrepreneur.com named SmarterComics to list of 100 Brilliant Companies of 2012 .</s>
+<s id='vn26'>Website Entrepreneur đã chọn SmarterComics vào danh sách 100 công ty nổi bật năm 2012 .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>company has created comic book versions of more than ten other books .</s>
+<s id='vn27'>Công ty đã tạo ra phiên bản truyện tranh dành cho hơn 10 quyển sách khác .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>These include " Think and Grow Rich " by Napoleon Hill , " Prince " by Niccolo Machiavelli and " Art of War " by Sun Tzu .</s>
+<s id='vn28'>Chúng bao gồm " Suy nghĩ và làm giàu " của Napoleon Hill , " Hoàng tử " của Niccolo Machiavelli và " Nghệ thuật chiến tranh " của Sun Tzu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Later this year , SmarterComics plans to release a comic book by rapper 50Cent .</s>
+<s id='vn29'>Cuối năm nay , SmarterComics có kế hoạch phát hành một quyển truyện tranh của Rapper 50Cent .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>12 . JEFF RAGSDALE : MAN WHO GAVE WORLD NUMBER</s>
+<s id='vn30'>12 . JEFF RAGSDALE : NGƯỜI ĐÀN ÔNG ĐƯA SỐ ĐIỆN THOẠI CHO CẢ THẾ GIỚI</s>
+</spair>
+<spair id='31'>
+<s id='en31'>- BBC News -</s>
+<s id='vn31'>- Tin tức từ BBC -</s>
+</spair>
+<spair id='32'>
+<s id='en32'>When Jeff Ragsdale went through difficult break-up last year , he found himself isolated and alone in New York City .</s>
+<s id='vn32'>Jeff Ragsdale vượt qua sự suy sụp khó khăn vào năm ngoái , anh nhận ra mình đang bị cô lập , và thực sự cảm thấy cô đơn giữa thành phố New York .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Desperate , he put his phone number on a flier along with a simple message : " If anyone wants to talk about anything , call me . "</s>
+<s id='vn33'>Trong cơn khủng hoảng , anh đã viết số điện thoại của mình lên một tờ rơi với 1 lời nhắn : " Bất kỳ ai cần nói chuyện , hãy gọi cho tôi " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>He posted copies all across city , and waited .</s>
+<s id='vn34'>Anh này dán tất cả các bản phô-tô khắp thành phố , và chờ đợi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>response was overwhelming , with thousands of calls coming from across the US and around world .</s>
+<s id='vn35'>Hàng nghìn cuộc gọi đến từ khắp nước Mỹ và trên thế giới là sự hồi âm quá sức mong đợi mà anh ta nhận được .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Jeff and two collaborators then transcribed conversations , text messages and voice mails , publishing them in Jeff , One Lonely Guy .</s>
+<s id='vn36'>Sau đó , Jeff và hai cộng sự chép lại các cuộc hội thoại , tin nhắn văn bản và thư thoại ; đăng tải chúng lên " Jeff - một kẻ cô đơn " .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>13 . What $ 1 buys around world</s>
+<s id='vn37'>13 . có thể mua được gì với 1 $ tại các nơi khác nhau trên thế giới ?</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Lonely Planet , we 're big fans of travel bargain .</s>
+<s id='vn38'>Lonely Planet , chúng tôi là những người ưa thích du lịch giá rẻ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>After all , first guide we produced was Asia Cheap and then Southeast Asia on Shoestring .</s>
+<s id='vn39'>rốt cuộc chúng tôi đã viết cuốn hướng dẫn đầu tiên dành cho du khách mang tên Châu Á Giá Rẻ - và cuốn tiếp theo là Đông nam Á trên chiếc dây giày .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Just recently we 've had articles about countries that can still be travelled on cheap and how to cope in Copenhagen if you 're down to last krone .</s>
+<s id='vn40'>Vừa qua chúng tôi có những bài báo về các nước bạn vẫn có thể đi du lịch mà ít tốn kém và làm thế nào để xoay xở được ở Copenhagen khi bạn đang tiêu đến đồng krone cuối cùng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Little surprise then that we loved Contemporary Nomad 's blog post about what $ 1 can buy you in the Philippines .</s>
+<s id='vn41'>Sau đó , bất ngờ nho nhỏ mà chúng tôi rất thích thú là bài đăng trên blog Contemporary Nomad có đặt câu hỏi : một đô la bạn có thể mua được gì ở Philippines ?</s>
+</spair>
+<spair id='42'>
+<s id='en42'>answer ?</s>
+<s id='vn42'>Câu trả lời ?</s>
+</spair>
+<spair id='43'>
+<s id='en43'>A lot .</s>
+<s id='vn43'>Rất nhiều .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>In fact , it 's little like the world is your $ 1 shop ; by handing over buck , you can get everything from a haircut to 45 kikiam ( fried fish ) .</s>
+<s id='vn44'>Thật ra , giông giống như cái thế giới ấy là cửa hàng một đô la của bạn vậy ; cầm một đô la trên tay , bạn có thể có được tất tần tật từ một kiểu tóc cho đến 45 miếng kikiam ( cá chiên ) .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>So we thought we 'd ask Lonely Planet 's Facebookers , what can you get for US$ 1 where you are</s>
+<s id='vn45'>Vì vậy chúng tôi nảy ra ý tưởng hỏi những người dùng Facebook của Lonely Planet xem một đô la Mỹ bạn có thể mua được gì ở nơi bạn đang sống .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Here 's just a taste of possibilities :</s>
+<s id='vn46'>Dưới đây chỉ là một chút khả năng có thể xảy ra :</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Chester , England : US$ 1 ( 63 pence ) gets me half loaf of bread .</s>
+<s id='vn47'>Chester , Anh : 1 đô la Mỹ ( 63 xu ) tôi mua được nửa ổ bánh mì .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>As for Philippines , one of best things you can get with $ 1 is a big bag of sweets to keep in backpack , hand out to kids . James</s>
+<s id='vn48'>Còn ở Philippines , một trong những thứ tốt nhất bạn có thể mua được với 1 đô la là một bịch kẹo lớn để bỏ trong ba lô , phân phát cho trẻ em theo James</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Vienna : a dollar would buy you a freshly baked Kornspitz ( a kind of bread roll ) , but wouldn't be enough for a salty pickle from street market or a short-distance public transport ticket .</s>
+<s id='vn49'>Viên : 1 đô la bạn sẽ mua được một ổ bánh nướng mới ra lò Kornspitz ( một loại bánh mì ) , nhưng không đủ để mua một phần dưa chua mặn ngoài chợ trời hay một tấm vé xe công cộng đoạn đường ngắn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>However , with change from that Kornspitz , you can visit museum of applied art ( MAK ) on Saturday since it 's free of charge .</s>
+<s id='vn50'>Tuy nhiên , với số tiền mua bánh Kornspitz còn dư kia , bạn có thể tham quan Bảo tàng Nghệ thuật Ứng dụng ( MAK ) vào thứ 7 vì miễn phí tham quan .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>– Dilyan</s>
+<s id='vn51'>– theo Dilyan</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Tenerife , Canary Islands it will get you a good cup of coffee in capital , Santa Cruz , but in tourist areas of South you will be lucky if it gets you half a cup .</s>
+<s id='vn52'>Tenerife , đảo Canaria bạn sẽ mua được một ly cà phê ngon ở thủ đô Santa Cruz , nhưng trong khu du lịch phía nam thì may mắn lắm bạn cũng chỉ có được nửa ly mà thôi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Linda</s>
+<s id='vn53'>theo Linda</s>
+</spair>
+<spair id='54'>
+<s id='en54'>South India : it will give a unlimited servings of rice with rasam , sambhar , curd , papad , 1 piece sweet on banana leaf .</s>
+<s id='vn54'>Nam Ấn Độ : bạn sẽ có một bữa cơm nhiều vô kể đặt trên lá chuối với canh rasam , đậu lăng , sữa đông , bánh mì xốp , một miếng bánh ngọt .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Tarun</s>
+<s id='vn55'>- theo Tarun .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Cebu , Philippines : $ 1 can get 30-45 minutes of glorious foot massage .</s>
+<s id='vn56'>Cebu , Philippines : 1 đô la mua được 30-45 phút matxa chân tuyệt cú mèo .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Nepal : you can get momo ( ten units of dumpling ) and a 250ml of coke .</s>
+<s id='vn57'>Nepal : bạn có thể mua được momo ( 10 cái bánh bao ) và 250ml cô-ca .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Croatia : a big scoop of ice-cream .</s>
+<s id='vn58'>Croatia : một muỗng kem lớn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The UK : 60 pence buys you about 3/4 litre of milk , half a litre of petrol/diesel for your car , 2 cigarettes ( that 's two single ones , not a packet ) , 3 apples , 2 days supply of the Sun tabloid newspaper , a small portion of fries from Maccy D or a can of coke from my office vending machine .</s>
+<s id='vn59'>Vương quốc Anh : 60 xu bạn mua được khoảng 3/4 lít sữa , nửa lít xăng dầu diesel đổ xe , 2 điếu thuốc ( hai điếu riêng lẻ chứ không phải một gói ) , 3 trái táo , 2 ngày đọc báo lá cải của the Sun , một ít khoai tây chiên của cửa hàng McDonald hay một lon cô-ca trong máy bán hàng ở văn phòng của tôi .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Denmark : you can get a litre of milk , a ciabatta bun in Godthaabsvej Bakery , a stamp for postcard/letter with receiver in Denmark , a cucumber or maybe a chocolate bar .</s>
+<s id='vn60'>Đan Mạch : bạn có thể mua 1 lít sữa , 1 ổ ciabatta trong cửa hàng bánh Godthaabsvej , 1 con tem để gửi bưu thiếp hoặc thư mà người nhận ở Đan Mạch , 1 trái dưa chuột hoặc có thể là 1 thanh sô-cô-la .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>1 dollar = 5,5 danish kroner .</s>
+<s id='vn61'>Một đô la Mỹ = 5,5 kroner Đan Mạch .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Budapest : 1 scoop of ice cream small apples 1_plain hamburger at McDonald ' postcard daily newspaper 30_minutes parking in downtown area .</s>
+<s id='vn62'>Budapest : 1 muỗng kem trái táo nhỏ 1 cái bánh hamburger bình thường trong cửa hàng McDonald bưu thiếp tờ nhật báo 30 phút đậu xe khu vực trung tâm thành phố .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Canad : Nothing !</s>
+<s id='vn63'>Canada : Chẳng mua được gì sất !</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Blame on Canadian taxes .</s>
+<s id='vn64'>Hãy lên án thuế khoá của Canada .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Faroe Islands , a pack of chewing gum , 2 apples at supermarket , some candy probably , hardly anything .</s>
+<s id='vn65'>Quần đảo Faroe : 1 gói kẹo cao su , 2 trái táo trong siêu thị , hoặc có thể là một vài cái kẹo , hầu như chẳng mua được gì .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Vietnam : you can buy either 1 hat , 1 or 2 magazines , 1 DVD , 3 pairs of flip sandals , 5 instant noodle packages or snacks , 1 meal in some cheap food courts .</s>
+<s id='vn66'>Việt Nam : bạn có thể mua được một trong những thứ sau : 1 cái nón , 1 hay 2 tờ tạp chí , 1 đĩa DVD , 3 đôi dép nhẹ , 5 bịch mì ăn liền hoặc ăn vặt , 1 bữa ăn trong quán cơm giá rẻ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>ALOT , rite ?</s>
+<s id='vn67'>Quá nhiều phải không ?</s>
+</spair>
+<spair id='68'>
+<s id='en68'>In middle Italy : a litre of cheap wine or 1kg Spaghetti or 6 bottles of mineral water and just about one tablet of Ibruprofen which you might need if you drank the cheap vino !</s>
+<s id='vn68'>Miền trung Italia : 1 lít rượu rẻ tiền hoặc 1 ký mì ống hay 6 chai nước khoáng và chỉ khoảng 1 viên thuốc Ibruprofen mà có thể bạn sẽ cần nếu uống thứ rượu nho rẻ tiền kia !</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Chiang Mai : question is , what can't you get in Chiang Mai for US$ 1 ?</s>
+<s id='vn69'>Chiang Mai : Câu hỏi phải là , những gì bạn không thể mua được ở Chiang Mai chỉ với 1 đô la Mỹ ?</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Street food does n't usually cost more than that .</s>
+<s id='vn70'>Thức ăn đường phố thường không đắt hơn thế .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>I even get a cooked to order vegetarian lunch delivered to my office everyday for that price .</s>
+<s id='vn71'>Tôi thậm chí mua được 1 bữa trưa chay nấu theo yêu cầu giao đến tận văn phòng tôi mỗi ngày với giá ấy .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Bogotá , Colombia : A cup of coffee and 2 fresh baked cookies .</s>
+<s id='vn72'>Bogota , Colombia : 1 ly cà phê và 2 cái bánh mới ra lò .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Or an arepa with some spicy home made aji salsa !</s>
+<s id='vn73'>Hoặc một chiếc arepa kèm chút gia vị aji salsa tự làm !</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Seou : one subway or bus ticket and a mask pack for skin .</s>
+<s id='vn74'>Seoul : một vé xe buýt hoặc tàu điện ngầm và một hộp kem dưỡng da .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Egypt : you could buy a koshary plate Egyptian dish basically includes spaghetti , rice , lentil and fried onions on top .</s>
+<s id='vn75'>Ai Cập : bạn có thể mua một đĩa koshary , món ăn Ai Cập về cơ bản bao gồm mì ống , gạo , đậu lăng và hành phi rắc ở trên .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Another choice would be about ten Fool ( beans ) sandwiches maybe even some falafel or in other parts of Cairo just a donut .</s>
+<s id='vn76'>Ngoài ra , có thể chọn mua khoảng 10 chiếc bánh xăng-uých nhân đậu hoặc thậm chí vài miếng bánh falafe hay những chỗ khác của Cairo chỉ mua được một cái bánh nướng .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>India : Â1USD = around 50 Indian Rupees can get you a hearty meal of boiled rice , dal , vegetables , pickles , chutney and papads in a Kolkata basa and it 's usually eat as much as you want !</s>
+<s id='vn77'>Ấn Độ : 1 đô la = 50 ru-pi Ấn Độ , bạn có thể mua được một bữa ăn thịnh soạn với cơm , ra-gu đậu lăng , rau , dưa chua , tương ớt và bánh mì trong một " basa " của Kolkata và thông thường bạn muốn ăn nhiều bao nhiêu tuỳ ý !</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Costa Rica : you can buy one papaya , one watermelon , one pineapple and perhaps a cup of coffee of decent quality .</s>
+<s id='vn78'>Costa Rica : bạn có thể mua 1 trái đu đủ , 1 trái dưa hấu , 1 trái thơm và có thể là 1 ly cà phê khá ngon .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Los Angeles : one hour of street parking .</s>
+<s id='vn79'>Los Angeles : 1 giờ đậu xe trên phố .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Paris : about 40 % of an espresso at Starbucks .</s>
+<s id='vn80'>Paris : khoảng 40% ly cà phê đậm tại Starbucks .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Dubai : a dollar will get you a " Jabal Al Noor " shawarma .</s>
+<s id='vn81'>Dubai : 1 đô la bạn sẽ mua được 1 chiếc bánh shawarma Al Noor .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Portugal : 1 espresso coffee .</s>
+<s id='vn82'>Bồ Đào Nha : 1 ly cà phê đậm .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Except if you in airport .</s>
+<s id='vn83'>Ngoại trừ trường hợp bạn ở sân bay .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Australia : a scratchy ( lottery ticket ) with chance of getting enough cash together for next trip .</s>
+<s id='vn84'>Úc : 1 scratchy ( vé số ) với cơ may có đủ tiền cho chuyến đi tiếp theo .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>So if you 're looking to make one dollar go further , as William says on our Facebook page , Indonesia , Thailand , and India are winners !</s>
+<s id='vn85'>Vậy nếu bạn đang tìm xem 1 đô la ở đâu mua được nhiều nhất , như William đã nói trên trang Facebook của chúng tôi , Indonesia , Thái Lan và Ấn Độ là những nơi thắng cuộc !</s>
+</spair>
+<spair id='86'>
+<s id='en86'>14 . Tech is getting more gay-friendly</s>
+<s id='vn86'>14 . Công nghệ thông tin đang dần trở nên thân thiện hơn với những người đồng tính .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>( CNN ) James Lazar is married to a man .</s>
+<s id='vn87'>( CNN ) James Lazar kết hôn với một người đàn ông .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>He won't buy anniversary cards that picture a man and a woman .</s>
+<s id='vn88'>Anh sẽ không mua thiệp cưới có hình một người đàn ông và một người phụ nữ .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>He did n't want his Facebook page to show those symbols , either .</s>
+<s id='vn89'>không hề muốn trang Facebook cá nhân của mình có những hình tượng như thế .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>" I don't like being forced into typical gender roles because we aren't , " he said by phone .</s>
+<s id='vn90'>Anh nói qua điện thoại , " Tôi không thích tự ép mình thành những giới tính kiểu mẫu bởi vì chúng tôi không như vậy .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>" I think it 's offensive . "</s>
+<s id='vn91'>Tôi nghĩ như thế khá là xúc phạm . "</s>
+</spair>
+<spair id='92'>
+<s id='en92'>The 38-year-old Chicago man would n't have considered changing his Facebook status to " married " until recently not because privacy , but because Facebook had n't created icons for same-sex couples .</s>
+<s id='vn92'>Người đàn ông 38 tuổi ở Chicago này không hề bận tâm về việc thay đổi tình trạng hôn nhân trên Facebook sang " đã kết hôn " cho tới tận gần đây không phải vì tính riêng tư , mà vì Facebook vẫn chưa có những biểu tượng cho những cặp đôi cùng giới .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>His marriage would have tagged with a cake-topper-looking picture of a male-and-female couple , and there was no way to change it .</s>
+<s id='vn93'>Việc kết hôn của anh sẽ được đính cùng một bức hình có bánh cưới với một đôi nam-nữ ở trên , và không có cách nào để thay đổi nó cả .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>But on Saturday or Sunday Facebook won't say specifically when 900-million-person social network updated marriage icons include one for men who marry men and women who marry women .</s>
+<s id='vn94'>Tuy nhiên , vào Thứ Bảy hay Chủ Nhật , Facebook không đưa ra thời gian cụ thể khi mà 900-triệu-người sử dụng mạng xã hội cập nhật biểu tượng hôn nhân đã có biểu tượng người đàn ông kết hôn với đàn ông , và phụ nữ cũng cưới người bạn cùng giới với mình .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The changes took place automatically for many people .</s>
+<s id='vn95'>Sự thay đổi tự động xảy đến với nhiều người .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Lazar updated his status because of the news .</s>
+<s id='vn96'>Lazar đã cập nhật trạng thái của mình cũng nhờ thông tin mới này .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>" I honestly did n't realize it was going to show up in my feed , " he said with laugh .</s>
+<s id='vn97'>" Thât thà mà nói , tôi không nhận ra là nó sẽ xuất hiện trên dòng tin mới của mình , " anh đã cười và nói .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>" I have 80,000 people liking " and congratulating me and I 'm like , Well , it was seven years ago ! "</s>
+<s id='vn98'>" Có 80,000 người đã nhấn nút " thích " và chúc mừng tôi , còn tôi thì nói rằng , " đó là chuyện của 7 năm về trước rồi ! "</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Facebook 's icon shift may seem like a relatively minor update , but for some members of LGBT community it 's a sign that social network and other tech products that serve as some sort of stand-in for real-world identity are becoming more inclusive of LGBT people .</s>
+<s id='vn99'>Sự thay đổi về biểu tượng của Facebook , có chỉ là môt sự thay đổi nhỏ thôi , nhưng đối với những thành viên của cộng động LGBT đó lại là một dấu hiệu cho thấy mạng xã hội và các sản phẩm công nghệ khác mà đang phục vụ như vai trò thay thế trong cuộc sống thực của con người , đang ngày càng chấp nhận những người LGBT .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>" People can say Who cares , that 's just an icon , " but we definitely do n't see it as that because of scale of this platform and because of its role in culture today , " Allison Palmer , spokeswoman for GLAAD , group advocates for fair inclusion of LGBT people in media .</s>
+<s id='vn100'>" Người ta nói " Ai thèm bận tâm cơ chứ , chỉ là một biểu tượng thôi mà , " nhưng chúng tôi không hề thấy thế , vì quy mô mức độ của vấn đề và vai trò của nó trong nền văn hóa hiện đại hiện nay , Allision Palmerm , người phát ngôn của GLADD nhóm bênh vực cho sự công bằng cho LGBT trong giới truyền thông .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>She added : " There 's more marriage equality on Facebook than there is generally in the United States .</s>
+<s id='vn101'>Cô còn cho biết thêm : " Trên Facebook còn có nhiều cuộc hôn nhân bình đẳng hơn cả ở Mỹ .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>In most states your marriage can be recognized by Facebook but not your state . "</s>
+<s id='vn102'>Ở nhiều bang , tình trạng hôn nhân của bạn có thể được Facebook chấp nhận , nhưng chưa chắc đã là bang của bạn "</s>
+</spair>
+<spair id='103'>
+<s id='en103'>This is just Facebook 's latest step in reaching out to gay community .</s>
+<s id='vn103'>Đây chỉ là môt bước tiến mới nhất của Facebook trong việc tiếp cận gần hơn với cộng đồng người đồng tính .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The social network in 2011 added " in a domestic partnership " and " in a civil union " to list of relationship statuses , which long has included everything from " in relationship " to " it 's complicated . "</s>
+<s id='vn104'>Mạng xã hội này , vào năm 2011 , đã thêm vào " đang trong mối quan hệ gia đình " và " đang trong mối quan hệ cộng đồng " vào danh sách trạng thái các mối quan hệ , mà trước đó rất lâu đã bao gồm gần như tất cả mọi mối quan hệ , từ " hẹn hò " cho tới " phức tạp " .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>This summer it painted courtyard at its California headquarters in colors of rainbow flag , in support of gay-pride month .</s>
+<s id='vn105'>Mùa hè này Facebook sẽ sơn sân trước tại trụ sở của nó ở California trong màu cầu vồng để ủng hộ tháng của những người đồng tính .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>company likes to brag that courtyard , which displays word " HACK , " is visible from space .</s>
+<s id='vn106'>Công ty muốn thể khoe khoang rằng sân trước của họ mà có trưng bày chữ HACK , sẽ có thể nhìn thấy được từ trong không gian .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>And the trend , of course , is n't limited to Facebook .</s>
+<s id='vn107'>Và xu hướng này , đương nhiên , không chỉ giới hạn với Facebook .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Apple recently updated its mobile operating system , iOS , include text-message " emojis " of same-sex couples .</s>
+<s id='vn108'>Apple gần đây đã nâng cấp hệ điều hành trên đi động của hãng này , iOS , bao gồm cả biểu tượng vui emoji cho các cặp đôi cùng giới trong các tin nhắn .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Google employees march in gay pride parades .</s>
+<s id='vn109'>Còn các nhân viên của Google thì tham gia vào buổi diễu hành những người đồng tính .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The company controversially added rainbow feature to its search engine last summer in support of gay and lesbian communities .</s>
+<s id='vn110'>Hãng này còn tranh cãi để đưa thêm biểu tượng cầu vồng vào bộ máy tìm kiếm vào hè năm ngoái sự ủng hộ giới đồng tính nam và nữ .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>MySpace ( remember that ? ) added " Gay " as relationship status in 2003 and dating site eHarmony added same-sex icons on a spinoff site in 2009 .</s>
+<s id='vn111'>MySpace ( các bạn còn nhớ chứ ? ) đã thêm " Đồng tính nam " vào trạng thái quan hệ vào năm 2003 và trang web hẹn hò eHarmony cũng đã thêm vào biểu tượng của hẹn hò cùng giới ở một trang web con năm 2009 .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Check out timeline of same-sex icons in tech history on BuzzFeed .</s>
+<s id='vn112'>Nhìn lại dòng thời gian cũng thấy biểu tượng tương tự trong lịch sử công nghệ ở BuzzFeed .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Facebook , however , has become specific target for LGBT activist groups in part because network does so much these days to shape person digital identity .</s>
+<s id='vn113'>Facebook , tuy nhiên , lại trở thành đối tượng mục tiêu cho các nhóm hoạt động của những người LGBT vì mạng xã hội đã ảnh hưởng quá nhiều đến sự xây dựng hình ảnh con người trên thế giới kỹ thuật số .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>The social network has formed a taskforce in collaboration with LGBT groups to address issues sensitive to them .</s>
+<s id='vn114'>Mạng lưới xã hội bây giờ đã thành lập một lực lượng đặc nhiệm , hợp tác với các nhóm LGBT để xử lý những vấn đề nhạy cảm với những người này .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>That does n't mean there 's always been warm reception for these changes .</s>
+<s id='vn115'>Nhưng điều đó không có nghĩa là lúc nào cũng có sự chào đón nồng nhiệt cho những sự thay đổi này .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Facebook co-founder Chris Hughes update to his page over weekend indicating that he had married his boyfriend Sean Eldridge .</s>
+<s id='vn116'>Người đồng sáng lập Chris Hughes trên trang cá nhân của mình đã cập nhật qua các tuần ám chỉ rằng ông đã kết hôn với bạn trai của mình Sean Eldridge .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>item got media attention because of recently released same-sex icons , and Hughes " history with Facebook .</s>
+<s id='vn117'>Vấn đề ngay lập tức thu hút được sự chú ý bởi sự thay đổi biểu tượng kết hôn cùng giới ra mắt gần đây , và lịch sử của Hughes với Facebook .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>More than 2,700 people " liked " the update , but one person commented that marriage was " NOT normal "</s>
+<s id='vn118'>Hơn 2,700 thích thông tin này , nhưng 1 người đã bình luận rằng cuộc hôn nhân này là không bình thường .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Another used derogatory term for gay people .</s>
+<s id='vn119'>Một người khác thì sử dụng từ xúc phạm đối với những người đồng tính nam .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Last year , in a highly publicized case , Facebook deleted photo of two men kissing , which was seen as violating its terms of use .</s>
+<s id='vn120'>Năm ngoái , trong một vụ việc được công khai trong quần chúng , là việc Fecebook xóa bức ảnh 2 người đàn ông hôn nhau , được coi như là vi phạm điều luật sử dụng .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Facebook apologized and take-down was chalked up to Facebook 's arduous process for vetting content that is flagged as inappropriate .</s>
+<s id='vn121'>Facebook đã xin lỗi và sự gỡ bỏ này đã được đánh dấu trên chặng đường xem xét những nội dung được coi là không phù hợp của Facebook .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Additionally , some LGBT advocates have called for Facebook to include gender options go beyond male and female such as third gender " or " other " for people who have another gender identity .</s>
+<s id='vn122'>Thêm vào đó , một vài người ủng hộ LGBT đã kêu gọi Facebook chèn thêm vào sự lựa chọn giới tính hơn là chỉ có nam và nữ như là giới tính thứ 3 " , hay " khác " cho những người có giới tính khác .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Facebook has said such users can opt out of selecting gender on site , according to news reports .</s>
+<s id='vn123'>Một bài báo cho biết , Facebook đã đáp lại rằng những người dùng như thế có thể bỏ chọn giới tính trên trang cá nhân của mình .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>And there has been debate about role Facebook plays in outing people as gay or straight .</s>
+<s id='vn124'>Và đã có một cuộc tranh luận về vai trò của Facebook trong việc chỉ ra người ta là bình thường hay đồng tính .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>In his 2010 profile of Facebook CEO Mark Zuckerberg , Jose Antonio Vargas writes about difficult choice he faced about Facebook and sex uality .</s>
+<s id='vn125'>Trong tiểu sử 2010 của CEO Mark Zuckerberg , Jose Antonio Vargas đã viết về sự lựa chọn khó khăn anh phải đối mặt với Facebook và giới tính .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>" Users are asked to check a box to indicate they 're interested in men or in women .</s>
+<s id='vn126'>" Người sử dụng được hỏi điền vào 1 ô chỉ ra họ có hứng thú với phụ nữ hay đàn ông .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>I told Zuckerberg that it took me a few hours to decide which box to check .</s>
+<s id='vn127'>Tôi nói với Zuckerberg rằng tôi mất đến mấy tiếng đồng hồ để quyết định nên điền vào ô nào .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>If I said on Facebook that I 'm man interested in men , all my Facebook friends , including relatives , co-workers , sources some of whom might not approve of homosexuality would see it . "</s>
+<s id='vn128'>Nếu tôi nói trên Facebook rằng tôi quan tâm tới đàn ông , thì tất cả bạn bè trên Facebook của tôi , bao gồm cả họ hàng , đồng nghiệp , những người khác mà một vài trong số đó sẽ không ủng hộ việc đồng tính sẽ nhìn thấy . "</s>
+</spair>
+<spair id='129'>
+<s id='en129'>He added : " Facebook had asked me to publish a personal detail that I was not ready to share . "</s>
+<s id='vn129'>Anh thêm vào : " Facebook đã yêu cầu tôi công khai một số thông tin cá nhân mà tôi chưa sẵn sàng chia sẻ . "</s>
+</spair>
+<spair id='130'>
+<s id='en130'>LGBT Facebook users can opt to have their relationship status seen by only certain category of Facebook friends , although users need to know how to navigate those setttings in order to hide information from some groups of people .</s>
+<s id='vn130'>LGBT sử dụng Facebook có thể lựa chọn để trạng thái quan hệ của họ có thể nhìn được bởi các kiểu bạn bè trên Facebook , mặc dù người dùng nên biết làm sao để điều chỉnh để che giấu những thông tin khỏi một số nhóm người .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>That may seem like no big deal , but consider that in 29 states , a person legally can be fired for being gay , according to the Human Rights Campaign .</s>
+<s id='vn131'>Điều đó có thể không thành vấn đề , nhưng xem xét điều này ở 29 bang , một người có thể bị phạt một cách hợp pháp chỉ vì bị đồng tính , theo một chiến dịch về quyền con người .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>15 . Ready to Save Like There 's No Tomorrow</s>
+<s id='vn132'>15 . Sẵn sàng tiết kiệm như " không có ngày mai " .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Are you saver or spender ?</s>
+<s id='vn133'>Bạn đang là người tiết kiệm hay tiêu xài ?</s>
+</spair>
+<spair id='134'>
+<s id='en134'>" A penny saved is a penny earned . "</s>
+<s id='vn134'>" Một xu tiết kiệm cũng là một xu làm ra " .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>This old saying calls attention to the wisdom of saving money .</s>
+<s id='vn135'>Câu châm ngôn xưa này đề cao : biết dành dụm tiền là khôn ngoan .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>" Putting money away for rainy day " is another way to talk about saving for the future .</s>
+<s id='vn136'>Hay một câu nói khác : " Hãy dành dụm phòng khi túng thiếu " nên biết tiết kiệm cho tương lai .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>People who hate to spend money are known as " tightwads , " while those who like to get most value for their money are called " thrifty . "</s>
+<s id='vn137'>Người ghét phải tiêu tiền bị coi là " những kẻ bần tiện " , trong khi người biết cách nhận được nhiều giá trị nhất từ số tiền của họ được xem là " người tiết kiệm " .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>thrifty person is different from " spendthrift . "</s>
+<s id='vn138'>Người tiết kiệm sẽ khác với " kẻ phung phí " .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>spendthrift is someone who spends wastefully .</s>
+<s id='vn139'>Kẻ phung phí là những người tiêu phá lãng phí .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>People like are often said to spend money " like a drunken sailor " or " like there 's no tomorrow . "</s>
+<s id='vn140'>Người như thế thường được cho là tiêu tiền như " một thủy thủ say rượu " hay " như không có ngày mai " .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>In the United States , people who want to start a savings account have different choices of where to put money .</s>
+<s id='vn141'>Ở đất Mỹ , một người bắt đầu muốn mở một tài khoản tiết kiệm , họ đều phải chọn lựa nơi để gửi tiền .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>These include banks and credit unions .</s>
+<s id='vn142'>Trong số đó có ngân hàng và hiệp hội tín dụng .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Credit unions are cooperatives for people who have some kind of connection .</s>
+<s id='vn143'>Hiệp hội tín dụng là một hình thức hợp tác của những người có một vài mối quan hệ chung nào đó .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>For example , members might work for a university or government agency .</s>
+<s id='vn144'>Chẳng hạn như , các thành viên làm việc chung trong một trường đại học hay một cơ quan chính phủ .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Most credit unions are nonprofit organizations .</s>
+<s id='vn145'>Hầu hết mọi hiệp hội tín dụng đều là các tổ chức phi lợi nhuận .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Credit unions , banks and other financial institutions pay interest on savings accounts .</s>
+<s id='vn146'>Hiệp hội tín dụng , ngân hàng và các tổ chức tài chính khác đều chi trả lãi cho các tài khoản tiết kiệm .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>But interest rates are low .</s>
+<s id='vn147'>Nhưng với lãi suất thấp .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Certificates of deposit pay higher returns .</s>
+<s id='vn148'>Chứng chỉ tiền gửi là kênh đầu tư thu lại lợi nhuận cao hơn .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>With certificate of deposit , person agrees not to withdraw money for a certain period of time .</s>
+<s id='vn149'>Đối với hình thức chứng chỉ tiền gửi , người gửi sẽ cam kết không rút tiền trong một khoảng thời gian nhất định nào đó .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>This term could be anywhere from a few months to several years .</s>
+<s id='vn150'>Kỳ hạn này có thể kéo dài từ vài tháng đến vài năm .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Longer terms , and larger amounts , pay higher interest .</s>
+<s id='vn151'>Kỳ hạn dài hơn cộng với số tiền gửi lớn hơn thì sẽ được lãi suất cao hơn .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>People can withdraw their money early but have to pay a penalty .</s>
+<s id='vn152'>Người ta có thể rút tiền trước kỳ hạn nhưng sẽ phải trả một khoản tiền phạt .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>Another way to save is through money market fund .</s>
+<s id='vn153'>Một cách tiết kiệm khác là thông qua quỹ thị trường tiền tệ .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>This is a kind of mutual fund .</s>
+<s id='vn154'>Đây là một kiểu đầu tư tín thác .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Mutual funds invest money from many people .</s>
+<s id='vn155'>Quỹ đầu tư tín thác chuyên đầu tư tiền của rất nhiều người .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>The money is sometimes placed in short-term government securities .</s>
+<s id='vn156'>Đôi khi số tiền này được đầu tư vào chứng khoán chính phủ ngắn hạn .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Money market funds , however , may not be federally guaranteed like other kinds of savings .</s>
+<s id='vn157'>Tuy nhiên , quỹ thị trường tiền tệ có thể không được đảm bảo trên toàn liên bang như các hình thức tiết kiệm khác .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Federal Deposit Insurance Corporation guarantees savings up to two hundred fifty thousand dollars .</s>
+<s id='vn158'>Tập đoàn bảo hiểm tiền gửi liên bang chỉ bảo đảm các khoản tiết kiệm trên 250 ngàn đô la .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>In a number of countries , people have been saving less over the years .</s>
+<s id='vn159'>Ở một số quốc gia , người dân ngày càng tiết kiệm ít đi những năm trở lại đây .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Organization for Economic Cooperation and Development is a group of thirty-four countries .</s>
+<s id='vn160'>Tổ chức hợp tác và phát triển kinh tế là một nhóm gồm 34 quốc gia thành viên .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>OECD says in nineteen ninety , Americans had household savings rate of seven percent .</s>
+<s id='vn161'>OECD cho biết trong năm 1990 , người Mỹ có tỷ lệ tiết kiệm trong hộ gia đình đạt 7% .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>This year , rate is to be a little more than four percent .</s>
+<s id='vn162'>trong năm nay , tỉ lệ này sẽ chỉ cao hơn 4% một chút .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Many European countries have higher rates , but save more than families in countries like Japan and South Korea .</s>
+<s id='vn163'>Tỉ lệ này có thấp hơn các quốc gia ở châu Âu , nhưng vẫn còn cao hơn các quốc gia như Nhật Bản và Hàn Quốc .</s>
+</spair>
+</text>
+</doc>

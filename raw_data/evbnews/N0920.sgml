@@ -1,0 +1,88 @@
+﻿<doc id='N0920'>
+<head>
+<title>Bringing water into exams may improve grades</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Bringing water into exams may improve grades</s>
+<s id='vn1'>Mang nước theo khi đi thi có thể cải thiện điểm số</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A new study presented at a psychology conference in London this week suggests students who bring water to drink while they sit exams may improve their grades , presumably by keeping themselves hydrated .</s>
+<s id='vn2'>Một nghiên cứu mới được trình bày tại một hội nghị tâm lý học ở Luân Đôn tuần này cho thấy học sinh mang theo nước uống trong khi ngồi làm bài thi có thể cải thiện điểm số , có lẽ là nhờ giữ cho bản thân có đủ nước .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The findings are the work of researchers from the University of East London and the University of Westminster and were presented at the British Psychological Society Annual Conference in London on Wednesday .</s>
+<s id='vn3'>Những phát hiện này công trình của các nhà nghiên cứu từ Đại học East London và Đại học Westminster và được trình bày tại Hội nghị Tâm lý Xã hội thường niên Anh quốc tại Luân Đôn vào hôm thứ tư .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Dr Chris Pawson , school Leader in Learning and Teaching and a senior lecturer within the School of Psychology at the University of East London , told the media :</s>
+<s id='vn4'>Tiến sĩ Chris Pawson , hiệu trưởng trường Giảng dạy và Học tập và là giảng viên cao cấp trong trường Tâm lý học tại Đại học East London , nói với các phương tiện truyền thông :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" The results imply that the simple act of bringing water into an exam was linked to an improvement in students " grades . "</s>
+<s id='vn5'>" Các kết quả này ngụ ý rằng hành động đơn giản là mang nước vào một kỳ thi có liên quan đến một sự cải tiến trong điểm số của sinh viên . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>While the study did not investigate the reasons behind the results , Pawson speculated there might be several possible physiological and psychological explanations , one being that there might be a direct physiological effect of hydration on thinking ability , and the other , that consuming water might help students calm down and reduce the anxiety that is known to damage exam performance .</s>
+<s id='vn6'>Trong khi nghiên cứu đã không điều tra những lý do đằng sau kết quả này , Pawson suy đoán có thể có nhiều giải thích sinh lý và tâm lý , một là có thể có tác dụng sinh lý trực tiếp của việc hy-đrát hoá lên khả năng suy nghĩ , và giải thích khác là tiêu thụ nước có thể giúp sinh viên bình tĩnh và làm giảm sự lo lắng khiến ảnh hưởng xấu đến việc làm bài thi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>For their study , Pawson and colleagues recruited 447 undergraduates in three different cohorts and monitored whether they took drinks into exam rooms with them .</s>
+<s id='vn7'>Trong nghiên cứu , Pawson và các đồng nghiệp đã tuyển dụng 447 sinh viên đại học thành 3 đội khác nhau và theo dõi cho họ có đem nước vào phòng thi không .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>They also noted the types of drinks they took .</s>
+<s id='vn8'>Họ cũng lưu ý các loại thức uống mà sinh viên mang theo .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>They noticed that first year undergraduates were less likely to take drinks into exams than students in higher years .</s>
+<s id='vn9'>Các nhà nghiên cứu nhận thấy những sinh viên đại học năm đầu thường ít mang theo thức uống vào phòng thi hơn so với những sinh viên các năm sau .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>When the exam results came out , they related the marks to whether those students had taken water with them into the exam .</s>
+<s id='vn10'>Khi có kết quả thi , họ so sánh điểm số với việc các sinh viên đã mang theo nước vào phòng thi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In their analysis , the researchers took into account coursework marks to rule out as far as they could , the possibility that the students most likely to take water in with them were the more able ones .</s>
+<s id='vn11'>Trong phân tích của họ , các nhà nghiên cứu đã tính đến điểm số trong suốt khóa học để loại bỏ nhiều hết mức có thể , khả năng những sinh viên mang nước uống trong khi thi là những người học khá hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They found that the students who did better in the exams tended to be the ones who took water into the exam room with them .</s>
+<s id='vn12'>Họ nhận thấy rằng những sinh viên làm bài tốt hơn trong các kỳ thi có xu hướng là những người mang nước vào phòng thi với họ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>( The researchers did not examine whether the students actually drank the water : so this does not rule out the possibility that the influence may have come wholly or partly from just having the bottle there , rather than actually consuming its contents ) .</s>
+<s id='vn13'>( Các nhà nghiên cứu đã không kiểm tra xem liệu các sinh viên có thực sự uống nước hay không : do đó điều này không loại trừ khả năng ảnh hưởng có thể có trên toàn bộ hoặc một phần từ việc có mặt của chai nước , chứ không phải là việc thực sự uống nước ) .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Pawson said more research would be needed to tease apart these factors and their underlying explanations .</s>
+<s id='vn14'>Pawson cho biết sẽ cần nhiều nghiên cứu khác nữa để tách biệt những yếu tố này và các lý giải cơ bản của chúng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But whatever the result , he suggests it is probably a good thing for students to try and keep themselves hydrated while sitting exams .</s>
+<s id='vn15'>Nhưng dù kết quả là gì , ông cho rằng có lẽ là một điều tốt cho sinh viên để thử và giữ cho cơ thể có đủ nước trong khi ngồi làm bài thi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Judging from the results of this study , it appears that first year undergraduates in particular need to hear this message .</s>
+<s id='vn16'>Đánh giá từ kết quả của nghiên cứu này , cho thấy các sinh viên đại học năm đầu rất nên đọc thông tin này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>There is an implication here for education policymakers too : whether students , at all levels of education , should have access to drinks during exams .</s>
+<s id='vn17'>Có một ngụ ý ở đây cho các nhà hoạch định chính sách giáo dục : học sinh , tại tất cả các cấp giáo dục , nên có quyền mang đồ uống theo mình khi tham dự các kỳ thi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Written by Catharine Paddock PhD</s>
+<s id='vn18'>Tác giả : Tiến sĩ Catharine Paddock</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Copyright : Medical News Today</s>
+<s id='vn19'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

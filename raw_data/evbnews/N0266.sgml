@@ -1,0 +1,120 @@
+﻿<doc id='N0266'>
+<head>
+<title>You Just May Live Longer</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>You Just May Live Longer</s>
+<s id='vn1'>Bạn có thể sống thọ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you have a firm handshake , can walk and chew gum at the same time , leap from your chair during a scary movie or always win the three legged race at the family reunion , then well , you just live longer than your fellow human .</s>
+<s id='vn2'>Nếu bạn có một cái bắt tay mạnh mẽ , có thể đi bộ và nhai kẹo cao su cùng một lúc , nhảy nhổm ra khỏi ghế bởi một bộ phim đáng sợ hoặc luôn luôn giành chiến thắng trong cuộc chạy đua ba chân của một buổi đoàn tụ gia đình , thì bạn có thể sống thọ hơn những người khác .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>New studies from the BMJ ( British Medical Journal ) formed by UK researchers have discovered the relation between basic physical tasks and mortality .</s>
+<s id='vn3'>Các nghiên cứu mới từ BMJ ( British Medical Journal ) được thành lập bởi các nhà nghiên cứu Anh đã phát hiện ra mối quan hệ giữa các động tác cơ thể cơ bản và tỷ lệ tử vong .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>How was this correlation discovered ?</s>
+<s id='vn4'>Làm thế nào phát hiện được mối tương quan này ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>By screening how well persons before basic functions can determine those folks that may benefit from targeted strength training programs used to improve longevity .</s>
+<s id='vn5'>Bằng cách kiểm tra khả năng của một người trong những chức năng cơ bản như thế , có thể xác định những người này có thể có lợi từ các chương trình đào tạo sức khỏe nhằm vào mục tiêu cải thiện tuổi thọ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A review of 57 studied by the MRC Unit for Lifelong Health and Ageing that looked at physical capability tests in humans of all ages and compared these to mortality rates .</s>
+<s id='vn6'>Kết luận của 57 nghiên cứu được thực hiện bởi Khoa Sức khoẻ tuổi già và lão hóa thuộc Hội đồng Nghiên cứu Y học xem xét các thí nghiệm kiểm tra khả năng thể chất của mọi lứa tuổi và so sánh những kết quả này với các tỷ lệ tử vong .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>nursing homes and hospitals were not included in this investigation .</s>
+<s id='vn7'>Nghiên cứu này không tính đến những người đang nằm viện hoặc ở trong viện dưỡng lão .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A total of 33 sets of individual results were reviewed after five additional , unpublicized comparisons were included in this total set .</s>
+<s id='vn8'>Tổng cộng có 33 tập hợp kết quả cá nhân đã được xem xét sau 5 bổ sung , những sự so sánh chưa công bố đã được bao gồm trong toàn bộ tập hợp này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Listen</s>
+<s id='vn9'>Nghe</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Read sound</s>
+<s id='vn10'>Đọc ngữ âm</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Consistent evidence of associations between all four measures of physical capability ( gripping , walking , rising from a chair and balancing on one leg ) death .</s>
+<s id='vn11'>Bằng chứng đáng tin cậy về mối liên quan giữa cái chết và tất cả 4 giới hạn của năng lực thể chất ( cầm nắm , đi bộ , đứng dậy và giữ thăng bằng trên một chân ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Simply stated , persons who are unable to perform such tasks at a high level have a higher risk of death .</s>
+<s id='vn12'>Nói một cách đơn giản , những người không thể thực hiện các hoạt động như vậy ở mức cao thì sẽ có nguy cơ tử vong cao .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Objective measures of physical capability are predictors of all cause mortality in older community .</s>
+<s id='vn13'>Mục tiêu của việc đo các năng lực thể chất là để dự đoán tất cả các tỷ lệ tử vong xảy ra trong cộng đồng người cao tuổi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Such measures may therefore provide useful tools for identifying older people at higher risk of death .</s>
+<s id='vn14'>Những đo đạc như thế có thể cung cấp các công cụ hữu ích để xác định những người già nào có nguy cơ tử vong cao .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The following facts from the British study are quite eye-opening :</s>
+<s id='vn15'>Các dữ kiện sau đây từ nghiên cứu của Anh gây khá nhiều ngạc nhiên :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In 53,476 persons that had grip strength analyzed , death rate among the weakest people , taking into consideration age , sex and weight , was 1.67 times greater than among the persons with a stronger grip .</s>
+<s id='vn16'>Trong 53.476 người được phân tích về lực bắt tay , tỷ lệ tử vong trong số những người yếu nhất , khi đã tính đến tuổi tác , giới tính và cân nặng , lớn hơn 1,67 lần so với những người có cái bắt tay mạnh mẽ hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Slow walkers in a group of 14,692 participants had a 2.87 times great mortality rate than their more brisk counterparts .</s>
+<s id='vn17'>Những người đi bộ chậm trong nhóm 14,692 người tham dự có tỉ lệ tử vong cao hơn 2.87 lần so với những người nhanh nhẹn hơn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Almost 50% increase in the rate of death was found in 28,036 people that rose out of their chairs slower than the other half of the group .</s>
+<s id='vn18'>Tỷ lệ tử vong tăng gần 50% được ghi nhận trong 28.036 người đứng lên khỏi ghế chậm hơn so với nửa kia của nhóm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The association of grip strength with mortality was detected in younger populations although the studies covered an older population .</s>
+<s id='vn19'>Mối liên hệ giữa lực bắt tay với tỷ lệ tử vong được phát hiện trong nhóm người trẻ mặc dù các nghiên cứu cũng bao quát cả nhóm dân số già hơn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The authors say that a steep decline in physical capability may be a better predictor of mortality than is the absolute level at a single point in time .</s>
+<s id='vn20'>Các tác giả cho rằng suy giảm nghiêm trọng trong khả năng vật lý có thể là một yếu tố dự báo tốt hơn về tỷ lệ tử vong so với mức tuyệt đối tại một thời điểm duy nhất .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Finally they concluded that adding a third variable of declining age in correlation to basic physical tasks and death rates may shed more light on this curious topic .</s>
+<s id='vn21'>Cuối cùng họ kết luận rằng việc thêm một biến thứ ba của tuổi già trong tương quan với các động tác cơ thể cơ bản và tỷ lệ tử vong có thể làm sáng tỏ thêm về vấn đề gây tò mò này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Now go give someone a hug .</s>
+<s id='vn22'>Hãy thử đi ôm một ai đó 1 cái nào .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Objectively measured physical capability and mortality : systematic review and meta-analysis</s>
+<s id='vn23'>Đánh giá khách quan khả năng thể chất và tử vong : xem xét lại theo hệ thống và phương pháp phân tích tổng hợp</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Rachel Cooper , Diana Kuh , Rebecca Hardy</s>
+<s id='vn24'>Rachel Cooper , Diana Kuh , Rebecca Hardy</s>
+</spair>
+<spair id='25'>
+<s id='en25'>BMJ 2010 ; 341:c4467</s>
+<s id='vn25'>BMJ 2010 ; 341:c4467</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Written by : Sy Kraft , B.A. - Journalism - California State University , Northridge ( CSUN )</s>
+<s id='vn26'>Tác giả : Sy Kraft , Cử nhân văn chương - Nhà văn - Đại học Bang California , Northridge ( CSUN )</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Copyright : Medical News Today</s>
+<s id='vn27'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

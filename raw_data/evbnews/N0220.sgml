@@ -1,0 +1,136 @@
+﻿<doc id='N0220'>
+<head>
+<title>A Comic Book About Business Finance</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A Comic Book About Business Finance</s>
+<s id='vn1'>Truyện tranh về tài chính kinh doanh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>You probably have heard of comic book heroes like Superman , Batman and Spiderman .</s>
+<s id='vn2'>Chắc bạn đã nghe kể những anh hùng truyện tranh như Siêu nhân , Người dơi và Người nhện .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But what about Tom the motorcycle shop owner , Joe Knight and Karen Berman ?</s>
+<s id='vn3'>Nhưnng còn chủ cửa hàng xe mô tô Tom , Joe Knight và Karen Berman thì sao ?</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You probably have heard of comic book heroes like Superman , Batman and Spiderman .</s>
+<s id='vn4'>Chắc bạn đã nghe kể những anh hùng truyện tranh như Siêu nhân , Người dơi và Người nhện .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But what about Tom the motorcycle shop owner , Joe Knight and Karen Berman ?</s>
+<s id='vn5'>Nhưng còn chủ cửa hàng xe mô tô Tom , Joe Knight và Karen Berman thì sao ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Tom , Joe and Karen all appear in a comic book called " Financial Intelligence . "</s>
+<s id='vn6'>Tom , Joe và Karen đều xuất hiện trong quyển truyện tranh tựa đề " Hiểu biết tài chính " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But Mr. Knight and Ms. Berman are real people .</s>
+<s id='vn7'>Nhưng ông Knight và cô Berman là người thật .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In two thousand six , they wrote a book called " Financial Intelligence : A Manager 's Guide to Knowing What the Numbers Really Mean . "</s>
+<s id='vn8'>Năm 2006 , họ viết quyển sách với tựa để " Hiểu biết tài chính : Hướng dẫn nhà quản lý hiểu biết về ý nghĩa thật sự của những con số " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It was written for people who need to learn quickly about accounting .</s>
+<s id='vn9'>Quyển sách được viết dành cho những người cần nắm bắt nhanh về kế toán .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The book explains , in simple ways , often-complex methods of keeping financial information .</s>
+<s id='vn10'>Chẳng hạn , quyển sách giải thích các phương pháp phức tạp để nắm được các thông tin tài chính .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It became a best-seller .</s>
+<s id='vn11'>Nó trở thành quyển sách bán chạy nhất .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This month , publisher SmarterComics released a comic book that provides the same information in easy-to-understand , picture form .</s>
+<s id='vn12'>Tháng này , nhà xuất bản SmarterComics đã phát hành quyển truyện tranh cung cấp thông tin tương tự bằng tranh , rất dễ hiểu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The new book is a combination of a textbook and a graphic novel .</s>
+<s id='vn13'>Quyển sách mới là một sự kết hợp của sách và tiểu thuyết bằng tranh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It tells the story of Tom , a mechanic who must quickly learn how to direct the motorcycle repair shop his father founded .</s>
+<s id='vn14'>Nó kể về câu chuyện của Tom , một thợ máy phải nhanh chóng học cách quản lý cửa hàng sửa chữa mô tô do cha anh sáng lập .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Tom has no experience with finance , and is struggling with the business .</s>
+<s id='vn15'>Tom không có kinh nghiệm trong vấn đề tài chính , và đang vật lộn với việc kinh doanh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Joe Knight and Karen Berman help him .</s>
+<s id='vn16'>Joe Knight và Karen Berman giúp đỡ anh ấy .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Artist Dave Wachter made illustrations for the comic book .</s>
+<s id='vn17'>Họa sĩ Dave Wachter đã vẽ minh họa cho quyển truyện tranh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Franco Arda is the founder and head of SmarterComics .</s>
+<s id='vn18'>Franco Arda là người sáng lập và đứng đầu SmarterComics .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>He formerly worked as an investment banker .</s>
+<s id='vn19'>Trước đây ông từng làm giám đốc quỹ đầu tư .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He started the company almost three years ago with his own money .</s>
+<s id='vn20'>Ông sáng lập công ty cách đây 3 năm với số tiền tự có .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He wanted to create educational comics that increase understanding .</s>
+<s id='vn21'>Ông muốn tạo ra quyển truyện giáo dục nâng cao hiểu biết .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>FRANCO ARDA : " I think almost everybody understands the phrase that 'a picture says a thousand words , " so , I mean , mentally , probably ninety percent of us grew up with comics and they understand that comics or illustrations help learning a concept much quicker than just text alone . "</s>
+<s id='vn22'>FRANCO ARDA : " Tôi nghĩ hầu hết mọi người hiểu câu thành ngữ " một bức họa biểu thị ngàn từ " , vì thế , tôi nghĩ , về mặt tinh thần , chắc 90% chúng ta lớn lên cùng với các quyển truyện tranh và hiểu rằng truyện tranh hay hình minh họa giúp học nhanh hơn nhiều so với chỉ bao gồm chữ và chữ . "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Franco Arda says " Financial Intelligence " will help readers quickly understand many of the major areas of accounting .</s>
+<s id='vn23'>Franco Arda nói " Hiểu biết tài chính " sẽ giúp độc giả nắm bắt nhanh chóng nhiều điểm chính của kế toán .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>FRANCO ARDA : " Within an hour , you kind of get the idea of accounting , very quickly and not in a boring way .</s>
+<s id='vn24'>FRANCO ARDA : " Trong vòng một giờ , bạn hầu như nắm được kiến thức kế toán cơ bản , rất nhanh và không phải theo một cách chán ngắt .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>So you get these illustrations , you get the basics of accounting and you get some balance sheets and cash-flow statements . "</s>
+<s id='vn25'>Khi bạn thấy những tranh minh họa này , bạn nắm được những kiến thức kế toán cơ bản và bảng cân đối kế toán cũng như báo cáo lưu chuyển tiền tệ . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The new comic book is available in paperback .</s>
+<s id='vn26'>Quyển truyện tranh mới đã có bản in .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>There will also be versions for iPad and iPhone users .</s>
+<s id='vn27'>Cũng như có phiên bản cho người dùng iPad và iPhone .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The website Entrepreneur.com named SmarterComics to its list of 100 Brilliant Companies of 2012 .</s>
+<s id='vn28'>Trang web Entrepreneur.com đã chọn SmarterComics vào danh sách 100 công ty nổi bật năm 2012 . .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The company has created comic book versions of more than ten other books .</s>
+<s id='vn29'>Công ty đã tạo ra phiên bản truyện tranh dành cho hơn 10 quyển sách khác .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>These include " Think and Grow Rich " by Napoleon Hill , " The Prince " by Niccolo Machiavelli and " The Art of War " by Sun Tzu .</s>
+<s id='vn30'>Chúng bao gồm " Suy nghĩ và làm giàu " của Napoleon Hill , " Hoàng tử " của Niccolo Machiavelli và " Nghệ thuật chiến tranh " của Sun Tzu .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Later this year , SmarterComics plans to release a comic book by rapper 50Cent .</s>
+<s id='vn31'>Cuối năm nay , SmarterComics có kế hoạch phát hành một quyển truyện tranh của Rapper 50Cent .</s>
+</spair>
+</text>
+</doc>

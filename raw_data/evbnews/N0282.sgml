@@ -1,0 +1,300 @@
+﻿<doc id='N0282'>
+<head>
+<title>Hand , foot and mouth disease</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Hand , foot and mouth disease</s>
+<s id='vn1'>Bệnh tay chân miệng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Hand , foot and mouth disease ( HFMD ) is a human syndrome caused by intestinal viruses of the Picornaviridae family .</s>
+<s id='vn2'>Bệnh tay chân miệng ( HFMD ) là một hội chứng bệnh ở người do vi rút đường ruột họ Picornaviridae gây ra .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The most common strains causing HFMD are Coxsackie A virus and Enterovirus 71 ( EV-71 ) .</s>
+<s id='vn3'>Giống vi rút HFMD gây bệnh thường thấy nhất là vi rút Coxsackie A và vi rút Enterovirus 71 ( EV-71 ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>HFMD usually affects infants and children , and is quite common .</s>
+<s id='vn4'>Bệnh tay chân miệng khá phổ biến và thường xảy ra ở trẻ sơ sinh và trẻ nhỏ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It is moderately contagious and is spread through direct contact with the mucus , saliva , or feces of an infected person .</s>
+<s id='vn5'>Bệnh này lây lan ở mức độ trung bình và lây trực triếp qua tiếp xúc với dịch nhầy , nước bọt hoặc phân của người bệnh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It typically occurs in small epidemics in nursery schools or kindergartens , usually during the summer and autumn months .</s>
+<s id='vn6'>Bệnh xuất hiện ở nhà trẻ hoặc trường mẫu giáo như những dịch bệnh nhỏ , thường là trong những tháng mùa thu và mùa hè .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The usual incubation period is 3–7 days .</s>
+<s id='vn7'>Thời gian ủ bệnh thường là từ 3 đến 7 ngày .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It is uncommon in adults , but those with immune deficiencies are very susceptible .</s>
+<s id='vn8'>Nó hiếm khi xuất hiện ở người lớn , nhưng những người bị suy giảm hệ miễn dịch thì rất dễ mắc bệnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>HFMD is not to be confused with foot-and-mouth disease , which is a disease affecting sheep , cattle , and swine , and which is unrelated to HFMD ( but also caused by a member of the Picornaviridae family ) .</s>
+<s id='vn9'>HFMD rất khó nhầm lẫn với bệnh lở mồm long móng , đây là bệnh ảnh hưởng đến cừu , gia súc , và heo , và không liên quan gì với HFMD cả ( nhưng cũng do một loại vi rút họ Picornaviridae gây ra ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Signs and symptoms</s>
+<s id='vn10'>Triệu chứng và dấu hiệu nhận biết</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Symptoms of HFMD include :</s>
+<s id='vn11'>Các triệu chứng của HFMD bao gồm :</s>
+</spair>
+<spair id='12'>
+<s id='en12'>- Fever</s>
+<s id='vn12'>- Sốt</s>
+</spair>
+<spair id='13'>
+<s id='en13'>- Headache</s>
+<s id='vn13'>- Nhức đầu</s>
+</spair>
+<spair id='14'>
+<s id='en14'>- Vomiting</s>
+<s id='vn14'>- Ói mửa</s>
+</spair>
+<spair id='15'>
+<s id='en15'>- Fatigue</s>
+<s id='vn15'>- Mệt mỏi</s>
+</spair>
+<spair id='16'>
+<s id='en16'>- Malaise</s>
+<s id='vn16'>- Khó chịu</s>
+</spair>
+<spair id='17'>
+<s id='en17'>- Referred ear pain</s>
+<s id='vn17'>- Đau lan lỗ tai</s>
+</spair>
+<spair id='18'>
+<s id='en18'>- Sore throat</s>
+<s id='vn18'>- Đau họng</s>
+</spair>
+<spair id='19'>
+<s id='en19'>- Painful oral lesions</s>
+<s id='vn19'>- Thương tổn đau rát ở miệng</s>
+</spair>
+<spair id='20'>
+<s id='en20'>- Non-itchy body rash , followed by sores with blisters on palms of hands and soles of feet</s>
+<s id='vn20'>- Phát ban không ngứa toàn thân , kèm theo sau đó là xuất hiện nhiều nốt mụn lở giộp nước trong lòng bàn tay và lòng bàn chân .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>- Oral ulcer</s>
+<s id='vn21'>- Loét miệng</s>
+</spair>
+<spair id='22'>
+<s id='en22'>- Sores or blisters may be present on the buttocks of small children and infants</s>
+<s id='vn22'>- Mụn lở và giộp da có thể xuất hiện ở mông của trẻ sơ sinh và trẻ nhỏ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>- Irritability in infants and toddlers</s>
+<s id='vn23'>- Trẻ sơ sinh và trẻ mới tập đi trở nên cáu kỉnh</s>
+</spair>
+<spair id='24'>
+<s id='en24'>- Loss of appetite .</s>
+<s id='vn24'>- Biếng ăn .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>- Diarrhea</s>
+<s id='vn25'>- Tiêu chảy</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The common incubation period ( the time between infection and onset of symptoms ) is from three to seven days .</s>
+<s id='vn26'>Thời kỳ ủ bệnh thường thấy ( thời gian từ khi nhiễm bệnh và bắt đầu phát triệu chứng ) là từ 3 đến 7 ngày .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Early symptoms are likely to be fever often followed by a sore throat .</s>
+<s id='vn27'>Các triệu chứng ban đầu có thể là sốt thường kèm theo đau họng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Loss of appetite and general malaise may also occur .</s>
+<s id='vn28'>Bé cũng có thể cảm thấy biếng ăn và khó chịu .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Between one and two days after the onset of fever , painful sores ( lesions ) may appear in the mouth and/or throat .</s>
+<s id='vn29'>Sau khi bị sốt từ 1 đến 2 ngày thì các nốt mụn lở đau rát ( tổn thương ) có thể xuất hiện trong miệng và/hoặc cổ họng của bé .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>A rash may become evident on the hands , feet , mouth , tongue , inside of the cheeks , and occasionally the buttocks ( but generally , the rash on the buttocks will be caused by the diarrhea . )</s>
+<s id='vn30'>Chứng phát ban có thể nhìn thấy dấu hiệu ở bàn tay , bàn chân , miệng , lưỡi , bên trong má và đôi khi cũng xuất hiện ở mông ( nhưng thường thì ban nổi ở mông là do bệnh tiêu chảy gây ra . )</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Treatment</s>
+<s id='vn31'>Điều trị</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There is no specific treatment for hand , foot and mouth disease .</s>
+<s id='vn32'>Không có phương pháp điều trị đặc biệt gì cho bệnh tay chân miệng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Individual symptoms , such as fever and pain from the sores , may be eased with the use of medication .</s>
+<s id='vn33'>Các triệu chứng riêng lẻ , như sốt và đau rát do lở loét có thể sử dụng thuốc để cảm thấy dễ chịu hơn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>HFMD is a viral disease that has to run its course ; many doctors do not issue medicine for this illness , unless the infection is severe .</s>
+<s id='vn34'>HFMD là bệnh do vi rút gây ra phải phát triển một cách tự nhiên ; nhiều bác sĩ không cho sử dụng thuốc đối với chứng bệnh này , trừ phi bệnh nhân bị nhiễm trùng nặng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Infection in older children , adolescents , and adults is normally very mild and lasts around 1 week or sometimes more .</s>
+<s id='vn35'>Trẻ lớn tuổi hơn , thanh thiếu niên , và người lớn thường bị rất nhẹ và kéo dài khoảng 1 tuần hoặc đôi khi lâu hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Fever reducers will help to control high temperatures .</s>
+<s id='vn36'>Thuốc hạ sốt sẽ giúp làm hạ sốt cao .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Luke-warm baths will also help bring temperature down .</s>
+<s id='vn37'>Việc tắm nước ấm cũng có thể làm hạ sốt .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Only a very small minority of sufferers require hospital admission , mainly as a result of neurological complications ( encephalitis , meningitis , or acute flaccid paralysis ) or pulmonary edema pulmonary hemorrhage .</s>
+<s id='vn38'>Chỉ một số ít người bệnh phải nhập viện , chủ yếu là do các biến chứng thần kinh gây nên ( viêm não , viêm màng não , hoặc chứng liệt mềm cấp ) hoặc phù nề phổi xuất huyết phổi .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Complications</s>
+<s id='vn39'>Các biến chứng</s>
+</spair>
+<spair id='40'>
+<s id='en40'>* Complications from the virus infections that cause HFMD are not common , but if they do occur , medical care should be sought .</s>
+<s id='vn40'>* Các biến chứng do nhiễm vi rút gây HFMD thường hiếm thấy , nhưng nếu có xảy ra , trong trường hợp này nên nhờ đến chăm sóc sức khỏe .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>* Viral or aseptic meningitis can rarely occur with HFMD.</s>
+<s id='vn41'>* Viêm màng não vi rút hoặc viêm màng não vô trùng có thể hiếm khi xảy ra do HFMD .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Viral meningitis causes fever , headache , stiff neck , or back pain .</s>
+<s id='vn42'>Viêm màng não vi rút gây sốt , nhức đầu , vẹo cổ , hoặc đau lưng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The condition is usually mild and clears without treatment ; however , some patients may need to be hospitalized for a short time .</s>
+<s id='vn43'>Bệnh thường nhẹ và tự khỏi mà không cần điều trị gì , tuy nhiên , một số bệnh nhân có thể cần phải nhập viện một thời gian ngắn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* Other serious diseases , such as encephalitis ( swelling of the brain ) or a polio-like paralysis , result even more rarely .</s>
+<s id='vn44'>* Nhiều chứng bệnh nguy hiểm khác , như viêm não ( sưng não ) hoặc bại liệt do bệnh tay chân miệng gây ra thậm chí càng hiếm gặp hơn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Encephalitis can be fatal .</s>
+<s id='vn45'>Bệnh viêm não cũng có thể làm bệnh nhân tử vong .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>* There have been reports of fingernail and toenail loss occurring mostly in children within 4 weeks of their having hand , foot , and mouth disease .</s>
+<s id='vn46'>* Đã có báo cáo về hiện tượng mất móng tay và mất móng chân hầu hết xảy ra ở trẻ bị bệnh tay chân miệng trong 4 tuần .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>At this time , it is not known whether the reported nail loss is or is not a result of the infection .</s>
+<s id='vn47'>Ở thời điểm này thì người ta không biết liệu tình trạng mất móng như đã báo cáo có phải là do bệnh này hay không .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>However , the nail loss has been temporary and nail growth resumed without medical treatment .</s>
+<s id='vn48'>Tuy nhiên , hiện tượng mất móng ấy cũng chỉ xảy ra tạm thời và móng phát triển phục hồi lại mà không cần phải điều trị gì .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Outbreaks</s>
+<s id='vn49'>Các đợt bùng phát bệnh</s>
+</spair>
+<spair id='50'>
+<s id='en50'>1997</s>
+<s id='vn50'>Năm 1997</s>
+</spair>
+<spair id='51'>
+<s id='en51'>* In 1997 , 31 children died in an outbreak in the Malaysian state of Sarawak .</s>
+<s id='vn51'>* 31 trẻ chết do bùng phát dịch bệnh ở bang Sarawak , Malaysia vào năm 1997 .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>1998</s>
+<s id='vn52'>Năm 1998</s>
+</spair>
+<spair id='53'>
+<s id='en53'>* In 1998 , there was an outbreak in Taiwan , affecting mainly children .</s>
+<s id='vn53'>* Năm 1998 , dịch bệnh bùng phát ở Đài Loan , gây bệnh chủ yếu cho trẻ em .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>There were 405 severe complications , and 78 children died .</s>
+<s id='vn54'>Có 405 ca biến chứng nặng , và làm chết 78 trẻ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>The total number of cases in that epidemic is estimated to have been 1.5 million .</s>
+<s id='vn55'>Tổng số ca trong đợt dịch bệnh đó được ước tính lên đến 1,5 triệu .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>2006</s>
+<s id='vn56'>Năm 2006</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* In 2006 , 7 people died in an outbreak in Kuching , Sarawak ( according to the New Straits Times , March 14 ) .</s>
+<s id='vn57'>* Năm 2006 , dịch bệnh bùng phát ở Kuching , Sarawak làm 7 người chết ( theo tin của tờ New Straits Times , đăng ngày 14 tháng 3 ) .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* In 2006 , after an outbreak of Chikungunya in southern and some western parts of India , cases of HFMD were reported .</s>
+<s id='vn58'>* Năm 2006 , sau trận bùng phát dịch ở miền nam Chikungunya và một số vùng tây Ấn thì người ta đã đăng tin có nhiều ca mắc bệnh tay chân miệng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>2007</s>
+<s id='vn59'>Năm 2007</s>
+</spair>
+<spair id='60'>
+<s id='en60'>* The largest outbreak of HFMD in India occurred in 2007 .</s>
+<s id='vn60'>* Đợt bùng phát dịch bệnh tay chân miệng lớn nhất xảy ra ở Ấn Độ vào năm 2007 .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>38 cases of HFMD in and around Kolkata .</s>
+<s id='vn61'>38 trường hợp ở Kolkata và vùng lân cận Kolkata .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>2008</s>
+<s id='vn62'>Năm 2008</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* An outbreak in China , beginning in March in Fuyang , Anhui , led to 25,000 infections , and 42 deaths , by May 13 .</s>
+<s id='vn63'>* Một đợt bùng phát dịch bệnh ở Trung Quốc , bắt đầu vào tháng 3 ở Fuyang , An Huy , làm cho 25.000 người mắc bệnh , 42 người chết vào ngày 13 tháng 5 .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Similar outbreaks were reported in Singapore ( more than 2,600 cases as of April 20 , 2008 ) , Vietnam ( 2,300 cases , 11 deaths ) , Mongolia ( 1,600 cases ) , and Brunei ( 1053 cases from June - August 2008 )</s>
+<s id='vn64'>Nhiều đợt bùng phát dịch bệnh tương tự được đưa tin ở Singapore ( hơn 2.600 ca vào ngày 20 tháng 4 năm 2008 ) , Việt Nam ( 2.300 ca , 11 người chết ) , Mongolia ( 1.600 ca ) , và Brunei ( 1053 ca từ tháng 6 đến tháng 8 năm 2008 )</s>
+</spair>
+<spair id='65'>
+<s id='en65'>2009</s>
+<s id='vn65'>Năm 2009</s>
+</spair>
+<spair id='66'>
+<s id='en66'>* 17 children died in an outbreak during March and April 2009 in China 's eastern Shandong Province , and 18 children died in the neighboring Henan Province .</s>
+<s id='vn66'>* Đợt bùng phát dịch bệnh trong tháng 3 và tháng 4 ở tỉnh Sơn Đông miền đông Trung Quốc làm chết 17 trẻ em và ở tỉnh Hà Nam lân cận cũng làm chết 18 trẻ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Out of 115,000 reported cases in China from January to April , 773 were severe and 50 were fatal .</s>
+<s id='vn67'>Trong số 115.000 ca bệnh được đăng tin ở Trung Quốc từ tháng 1 đến tháng 4 có 773 ca nặng và 50 ca tử vong .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* In Indonesia , where the disease is often called Singaporean influenza , the disease was reported in the Jakarta area , starting with eight young children .</s>
+<s id='vn68'>* Ở Indonesia , người ta thường hay gọi bệnh này là bệnh cúm Singapore , được báo cáo xuất hiện ở vùng Jakarta , bắt đầu ở 8 trẻ nhỏ .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>By late April , health agencies in Jakarta were warning community health centers and advocating preventive steps , including the use of thermal scanners in airports and avoiding travel to Singapore .</s>
+<s id='vn69'>Vào cuối tháng 4 , các cơ quan y tế ở Jakarta đã cảnh báo nhiều trung tâm y tế cộng đồng và tán thành các biện pháp phòng ngừa bệnh , như việc sử dụng máy quét nhiệt ở sân bay và tránh du lịch đến Singapore .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>2010</s>
+<s id='vn70'>Năm 2010</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* In China , an outbreak occurred in southern China 's Guangxi Autonomous Region as well as Guangdong , Henan , Hebei and Shandong provinces .</s>
+<s id='vn71'>* Ở Trung Quốc , đợt dịch bệnh bùng phát ở vùng tự trị Guangxi , miền nam Trung Quốc cũng như các tỉnh Quảng Đông , Hà Nam , Hà Bắc và Sơn Đông .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Until March 70,756 children were infected and 40 died from the disease .</s>
+<s id='vn72'>Cho đến tháng 3 thì có đến 70.756 trẻ em bị mắc bệnh và 40 ca tử vong vì bệnh này .</s>
+</spair>
+</text>
+</doc>

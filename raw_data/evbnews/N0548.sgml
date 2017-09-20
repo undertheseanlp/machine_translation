@@ -1,0 +1,132 @@
+﻿<doc id='N0548'>
+<head>
+<title>Gamers crack AIDS puzzle</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gamers crack AIDS puzzle</s>
+<s id='vn1'>Game thủ giải được thách thức của bệnh AIDS</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In what might be a significant breakthrough in HIV_AIDS research , online gamers playing a game called Foldit have cracked a key protein structure problem that has had scientists scratching their heads for years .</s>
+<s id='vn2'>Trong những gì có thể là một bước đột phá đáng kể khi nghiên cứu về bệnh HIV AIDS , các game thủ trò chơi trực tuyến có tên Foldit đã khám phá được nút thắt trong một cấu trúc prô-tê-in quan trọng đã khiến các nhà khoa học phải bó tay trong nhiều năm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>And the gamers did it in three weeks .</s>
+<s id='vn3'>Và các game thủ đã giải quyết được nó trong vòng 3 tuần .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You can read a scientific account of how researchers recruited Foldit players to work on the modeling problem and ultimately solve the crystal structure of M-PMV retroviral protease in a paper published online this week in the journal Nature Structural & Molecular Biology .</s>
+<s id='vn4'>Bạn có thể đọc một báo cáo khoa học về cách mà các nhà nghiên cứu tuyển chọn người chơi Foldit để làm việc trên các vấn đề minh hoạ và cuối cùng là giải quyết những cấu trúc tinh thể của M-PMV , có chức năng phá huỷ prô-tê-in qua quá trình thuỷ phân , trong một bài báo xuất bản trực tuyến trên tạp chí Nature Structural & Molecular Biology .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In what might be a significant breakthrough in HIV AIDS research , online gamers playing a game called Foldit have cracked a key protein structure problem that has had scientists scratching their heads for years .</s>
+<s id='vn5'>Trong những gì có thể là một bước đột phá đáng kể khi nghiên cứu về bệnh HIV AIDS , các game thủ trò chơi trực tuyến có tên Foldit đã khám phá được nút thắt trong một cấu trúc prô-tê-in quan trọng đã khiến các nhà khoa học phải bó tay trong nhiều năm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Foldit invites players to predict protein structures .</s>
+<s id='vn6'>Foldit mời người chơi dự đoán cấu trúc prô-tê-in .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The game was developed by researchers at the University of Washington , as a deliberate way to get gamers to compete by solving scientific problems .</s>
+<s id='vn7'>Trò chơi được phát triển bởi các nhà nghiên cứu tại Đại học Washington , như là một cách cố ý để có được các game thủ cạnh tranh bằng cách giải quyết các vấn đề khoa học .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The game requires they use spatial and critical thinking skills to build 3D models of protein molecules .</s>
+<s id='vn8'>Trò chơi đòi hỏi họ sử dụng các kỹ năng tư duy không gian và quan trọng để xây dựng các mô hình 3D của các phân tử prô-tê-in .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In this case , they were invited to build models of M-PMV , a protease enzyme that plays a key role in how a virus similar to HIV replicates in cells .</s>
+<s id='vn9'>Trong trường hợp này , họ đã được mời để xây dựng các mô hình của M-PMV , một en-zim có trong vi-rút M-PMV đóng một vai trò quan trọng trong việc làm thế nào mà một vi-rút giống với vi-rút HIV sao chép trong tế bào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Few of the players had any background in biochemistry .</s>
+<s id='vn10'>Trong số những người chơi , có rất ít người có nền tảng kiến thức về hóa sinh .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>By solving the mystery of the 3D structure of the protein , the gamers have helped scientists move a step forward in developing a drug that could stop viruses like HIV from spreading .</s>
+<s id='vn11'>Bằng cách giải quyết những bí ẩn về cấu trúc 3D của prô-tê-in , các game thủ đã giúp khoa học tiến thêm một bước trong việc phát triển thuốc có thể ngăn chặn vi-rút như HIV lan rộng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The researchers write :</s>
+<s id='vn12'>Các nhà nghiên cứu viết :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Remarkably , Foldit players were able to generate models of sufficient quality for successful molecular replacement and subsequent structure determination .</s>
+<s id='vn13'>" Thật phi thường , người chơi Foldit có thể tạo ra các mô hình đủ chất lượng để thay thế thành công phân tử và xác định cấu trúc tiếp theo .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The refined structure provides new insights for the design of antiretroviral drugs . "</s>
+<s id='vn14'>Các cấu trúc được tạo ra này cung cấp những hiểu biết mới cho việc chế tạo các loại thuốc kháng vi-rút . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The study is a good example of how people skilled at video games can get involved in science and help solve a wide range of problems .</s>
+<s id='vn15'>Nghiên cứu này là một ví dụ minh hoạ rõ ràng cho thấy những người giỏi chơi video game có thể tham gia vào khoa học và giúp giải quyết rất nhiều vấn đề .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In Foldit , the gamers try to predict how proteins fold themselves .</s>
+<s id='vn16'>Ở Foldit , người chơi cố dự đoán cách prô-tê-in tự xoắn với nhau .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When the gamers are playing the game , their actions to try and solve the problems are recorded and used to create algorithms to help computers increase their spatial reasoning .</s>
+<s id='vn17'>Khi các game thủ đang chơi trò chơi , hành động của họ để cố gắng giải quyết các vấn đề được ghi lại và được sử dụng để tạo ra các thuật toán để giúp máy tính tăng khả năng lập luận không gian .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Solving problems in the game helps scientists gain a better understanding of how cells make protein , a process call biosynthesis .</s>
+<s id='vn18'>Giải quyết vấn đề trong trò chơi giúp các nhà khoa học hiểu rõ hơn về cách thức tế bào tạo ra prôtê-in , một tiến trình gọi là sinh tổng hợp .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A particular challenge in this field is understanding how certain proteins fold into three-dimensional structures .</s>
+<s id='vn19'>Một thách thức đặc biệt trong lĩnh vực này là hiểu cách thức một số prô-tê-in xoắn trong các cấu trúc ba chiều .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>To win , gamers have to do well in three factors : how well you pack the protein in 3D , how efficiently you hide the hydrophobic bits of the molecule , and how you resolve the clashes .</s>
+<s id='vn20'>Để giành chiến thắng , người chơi phải làm tốt trong ba yếu tố : sắp xếp theo cách tốt nhất các prô-tê-in trong cấu trúc 3D , cách bạn che giấu hiệu quả các đầu kỵ nước của phân tử , và cách bạn giải quyết những sự không tương hợp .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The gamers don't have to understand these factors in this way to play the game .</s>
+<s id='vn21'>Người chơi chẳng cần phải hiểu các yếu tố trên theo cách như vậy khi chơi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The game presents them with a new protein and away they go , trying to bend it around to find its ideal form .</s>
+<s id='vn22'>Trò chơi này giới thiệu với họ một prô-tê-in mới , và khi chơi , họ phải cố gắng xoắn nó để tìm ra cấu trúc lý tưởng của nó .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>When they hit a correct move , that hits these factors , they get points .</s>
+<s id='vn23'>Khi họ làm đúng , các yếu tố này , họ nhận được điểm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The gamers are able to chat to each other online and compare solutions .</s>
+<s id='vn24'>Các game thủ có thể trò chuyện với nhau qua mạng và so sánh các giải pháp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It was through sharing strategies that gamers around the world solved the M-PMV problem .</s>
+<s id='vn25'>Bằng cách chia sẻ chiến lược với nhau , game thủ trên khắp thế giới đã giải quyết được khúc mắc M-PMV .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Seth Cooper , lead designer of Foldit and co-author of the paper , told the press :</s>
+<s id='vn26'>Seth Cooper , trưởng nhóm thiết kế của Foldit và đồng tác giả của bài báo , nói với báo chí :</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" People have spatial reasoning skills , something computers are not yet good at . "</s>
+<s id='vn27'>" Con người có những kỹ năng lý luận không gian mà máy tính chưa thể nào sánh kịp " .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Games provide a framework for bringing together the strengths of computers and humans , " he added .</s>
+<s id='vn28'>" Trò chơi cung cấp một ý tưởng nền tảng để kết hợp những thế mạnh của máy tính và con người " , ông nói thêm .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Written by Catharine Paddock PhD</s>
+<s id='vn29'>Tác giả : Tiến sĩ Catharine Paddock</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Copyright : Medical News Today</s>
+<s id='vn30'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

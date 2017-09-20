@@ -1,0 +1,356 @@
+﻿<doc id='N0697'>
+<head>
+<title>I Have a Dream</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>I Have a Dream</s>
+<s id='vn1'>Tôi Có Một Giấc mơ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation .</s>
+<s id='vn2'>Hôm nay tôi vui mừng được cùng các bạn tham dự một sự kiện mà sẽ đi vào lịch sử là cuộc tuần hành vì tự do vĩ đại nhất trong lịch sử đất nước chúng ta .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Five score years ago , a great American , in whose symbolic shadow we stand today , signed the Emancipation Proclamation .</s>
+<s id='vn3'>Một trăm năm trước đây , có một người Mỹ vĩ đại mà dưới tượng đài của Người là nơi chúng ta đang tề tựu hôm nay , đã ký vào Tuyên ngôn giải phóng nô lệ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>This momentous decree came as a great beacon light of hope to millions of Negro slaves who had been seared in the flames of withering injustice .</s>
+<s id='vn4'>Văn kiện trọng đại này quả là một nguồn hy vọng sáng ngời cho hàng triệu nô lệ da đen từng bị thiêu đốt trong ngọn lửa bất công cay nghiệt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It came as a joyous daybreak to end the long night of their captivity .</s>
+<s id='vn5'>Đó chính là ánh bình minh hạnh phúc cứu họ ra khỏi đêm dài trong vòng xiềng xích .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But one hundred years later , the Negro still is not free .</s>
+<s id='vn6'>Nhưng một trăm năm sau đó , người da đen vẫn chưa được tự do .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>One hundred years later , the life of the Negro is still sadly crippled by the manacles of segregation and the chains of discrimination .</s>
+<s id='vn7'>Một trăm năm sau đó , cuộc sống của người da đen vẫn bị trì trệ thảm hại bởi gông cùm của nạn kỳ thị chủng tộc và xiềng xích của nạn phân biệt đối xử .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>One hundred years later , the Negro lives on a lonely island of poverty in the midst of a vast ocean of material prosperity .</s>
+<s id='vn8'>Một trăm năm sau đó , người da đen vẫn sống trên một ốc đảo đói nghèo giữa một đại dương ngồn ngộn của cải vật chất .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>One hundred years later , the Negro is still languished in the corners of American society and finds himself an exile in his own land .</s>
+<s id='vn9'>Một trăm năm sau đó , người da đen vẫn vất vưởng bên lề xã hội Hoa Kỳ và đành tự xem mình là kẻ tha hương ngay trên mảnh đất của chính mình .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>And so we 've come here today to dramatize a shameful condition .</s>
+<s id='vn10'>Và vì thế , hôm nay chúng ta đến đây là để lột tả một thân phận tủi nhục .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In a sense we 've come to our nation 's capital to cash a check .</s>
+<s id='vn11'>Hiểu theo một nghĩa nào đó , chúng ta đến thủ đô để được thanh toán một tấm séc .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>When the architects of our republic wrote the magnificent words of the Constitution and the Declaration of Independence , they were signing a promissory note to which every American was to fall heir .</s>
+<s id='vn12'>Những người dựng nền cộng hoà cho chúng ta đã viết những lời hoa mỹ trong Hiến pháp và Tuyên ngôn độc lập cũng tức là họ đã ký một giấy nợ và mọi công dân Mỹ đều có quyền đòi nợ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This note was a promise that all men , yes , black men as well as white men , would be guaranteed the " unalienable Rights " of " Life , Liberty and the pursuit of Happiness . "</s>
+<s id='vn13'>Giấy nợ này hứa hẹn rằng tất cả mọi người , vâng , người da đen cũng như người da trắng , đều được đảm bảo những " quyền bất khả nhượng " - " quyền sống , quyền được tự do và mưu cầu hạnh phúc " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It is obvious today that America has defaulted on this promissory note , insofar as her citizens of color are concerned .</s>
+<s id='vn14'>Rõ ràng là đến hôm nay nước Mỹ vẫn chưa trả món nợ này cho người Mỹ da màu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Instead of honoring this sacred obligation , America has given the Negro people a bad check , a check which has come back marked " insufficient funds . "</s>
+<s id='vn15'>Thay vì phải trả món nợ thiêng liêng này , đất nước Hoa Kỳ đã trao cho người da đen một tấm séc không hợp lệ , một tấm séc bị trả lại với dòng chữ " không đủ tiền bảo chứng " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>But we refuse to believe that the bank of justice is bankrupt .</s>
+<s id='vn16'>Nhưng chúng ta vẫn không tin rằng ngân hàng công lý đã bị phá sản .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>We refuse to believe that there are insufficient funds in the great vaults of opportunity of this nation .</s>
+<s id='vn17'>Chúng ta vẫn không tin rằng cái kho cơ hội ngút ngàn của đất nước này mà lại thiếu tiền .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And so , we 've come to cash this check , a check that will give us upon demand the riches of freedom and the security of justice .</s>
+<s id='vn18'>Và vì thế , chúng ta đến đây để được thanh toán tấm séc này , một tấm séc làm cho chúng ta được tự do và bảo đảm về công lý .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>We have also come to this hallowed spot to remind America of the fierce urgency of Now .</s>
+<s id='vn19'>Chúng ta cũng đến chốn thiêng liêng này để nhắc cho nước Mỹ biết rằng THỜI ĐIỂM NÀY vô cùng cấp bách .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This is no time to engage in the luxury of cooling off or to take the tranquilizing drug of gradualism .</s>
+<s id='vn20'>Bây giờ không phải là lúc nhởn nhơ khuây khoả hoặc cứ cầu an , làm việc gì cũng từ từ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Now is the time to make real the promises of democracy .</s>
+<s id='vn21'>Bây giờ là lúc phải làm cho lời hứa thực thi dân chủ trở thành hiện thực .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice .</s>
+<s id='vn22'>Bây giờ là lúc phải vực mình ra khỏi bóng tối và thung lũng tiêu điều của nạn kỳ thị chủng tộc để bước lên con đường ngập tràn ánh nắng của sự công bình đối với mọi chủng tộc .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Now is the time to lift our nation from the quicksands of racial injustice to the solid rock of brotherhood .</s>
+<s id='vn23'>Bây giờ là lúc phải đưa đất nước chúng ta từ vũng lầy của sự bất bình đẳng chủng tộc tiến lên một khối đá vững chắc của tình huynh đệ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Now is the time to make justice a reality for all of God 's children .</s>
+<s id='vn24'>Bây giờ là lúc phải biến công lý thành hiện thực cho tất cả con cái của Chúa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It would be fatal for the nation to overlook the urgency of the moment .</s>
+<s id='vn25'>Thật tai hại nếu đất nước này không xem thời điểm này là một thời điểm cấp bách .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>This sweltering summer of the Negro 's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality .</s>
+<s id='vn26'>Mùa hè ngột ngạt vì những nỗi bất bình chính đáng của người da đen sẽ không kết thúc nếu chưa có một mùa thu tiếp thêm sinh khí của sự tự do và bình đẳng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Nineteen sixty-three is not an end , but a beginning .</s>
+<s id='vn27'>Năm một nghìn chín trăm sáu mươi ba không phải là năm kết thúc , mà đúng ra là năm khởi đầu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>And those who hope that the Negro needed to blow off steam and will now be content will have a rude awakening if the nation returns to business as usual .</s>
+<s id='vn28'>Và những ai hi vọng rằng người da đen cần được bày tỏ cảm nghĩ của mình và bây giờ mãn nguyện rồi ắt phải giật mình thức tỉnh nếu đất nước này lại vẫn cứ như mọi khi .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>And there will be neither rest nor tranquillity in America until the Negro is granted his citizenship rights .</s>
+<s id='vn29'>Và đất Mỹ sẽ không có lúc nào lắng dịu hoặc bình yên nếu người da đen chưa được bảo đảm quyền công dân đích thực .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The whirlwinds of revolt will continue to shake the foundations of our nation until the bright day of justice emerges .</s>
+<s id='vn30'>Cơn lốc bạo loạn sẽ tiếp tục làm lung lay nền móng của đất nước chúng ta cho đến khi nào ánh bình minh của công lý hé rạng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But there is something that I must say to my people , who stand on the warm threshold which leads into the palace of justice : In the process of gaining our rightful place , we must not be guilty of wrongful deeds .</s>
+<s id='vn31'>Nhưng có một điều tôi phải nói với đồng bào tôi , những người đang đứng trước cái ngưỡng ấm áp dẫn vào lâu đài công lý : Trên con đường đi tìm vị trí đích thực cho mình , chúng ta không được làm bất cứ điều gì sai trái .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred .</s>
+<s id='vn32'>Đừng vì cố thoả mãn niềm khao khát tự do mà phải uống bằng một cái tách đắng cay và căm hờn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>We must forever conduct our struggle on the high plane of dignity and discipline .</s>
+<s id='vn33'>Bao giờ chúng ta cũng phải đấu tranh thật nghiêm túc và có kỷ luật .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>We must not allow our creative protest to degenerate into physical violence .</s>
+<s id='vn34'>Chúng ta không được để cho cuộc tuần hành phản kháng chưa từng có này hoá ra lại là một cuộc bạo động .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Again and again , we must rise to the majestic heights of meeting physical force with soul force .</s>
+<s id='vn35'>Xin nhắc lại là , chúng ta phải vươn tới đỉnh cao chót vót của sự kết hợp sức mạnh thể xác với sức mạnh tâm hồn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The marvelous new militancy which has engulfed the Negro community must not lead us to a distrust of all white people , for many of our white brothers , as evidenced by their presence here today , have come to realize that their destiny is tied up with our destiny .</s>
+<s id='vn36'>Không thể để cho cái tinh thần chiến đấu mới nhưng phi thường , từng lan toả khắp cộng đồng người da đen , thúc đẩy chúng ta hoài nghi tất cả những người da trắng , bởi trong số những ngưởi da trắng anh em với chúng ta , đã có không ít người nhận ra rằng số phận của họ gắn chặt với số phận của chúng ta , bằng chứng là hôm nay họ cũng có mặt nơi đây .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>And they have come to realize that their freedom is inextricably bound to our freedom .</s>
+<s id='vn37'>Và họ đã nhận ra rằng tự do của họ gắn bó keo sơn với tự do của chúng ta .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>We cannot walk alone .</s>
+<s id='vn38'>Chúng ta không thể đi một mình .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>And as we walk , we must make the pledge that we shall always march ahead .</s>
+<s id='vn39'>Và khi chúng ta cất bước , chúng ta phải thề rằng chúng ta luôn tiến về phía trước .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>We cannot turn back .</s>
+<s id='vn40'>Chúng ta không thể quay lại .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>There are those who are asking the devotees of civil rights , " When will you be satisfied ?"</s>
+<s id='vn41'>Có nhiều người hỏi những người ủng hộ dân quyền rằng " Khi nào bạn sẽ hài lòng ? " .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality .</s>
+<s id='vn42'>Không bao giờ chúng ta có thể hài lòng nếu người da đen vẫn còn sợ những hành động bạo tàn của cảnh sát đến nỗi không nói nên lời .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We can never be satisfied as long as our bodies , heavy with the fatigue of travel , cannot gain lodging in the motels of the highways and the hotels of the cities .</s>
+<s id='vn43'>Không bao giờ chúng ta có thể hài lòng nếu thân xác chúng ta mệt nhoài vì đi đường xa mà vẫn không được vào nghỉ trong khách sạn ven xa lộ hoặc khách sạn ở khu đô thị .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>We cannot be satisfied as long as the negro 's basic mobility is from a smaller ghetto to a larger one .</s>
+<s id='vn44'>Chúng ta chưa thể hài lòng khi mà cơ bản là người da đen chỉ được phép di chuyển từ khu ổ chuột này sang khu ổ chuột khác to hơn thôi .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>We can never be satisfied as long as our children are stripped of their self-hood and robbed of their dignity by signs stating : " For Whites Only . "</s>
+<s id='vn45'>Không bao giờ chúng ta có thể hài lòng nếu con em chúng ta bị tước đoạt hết nhân cách cũng như phẩm giá của mình bởi những tấm biển mang dòng chữ " Dành riêng cho người da trắng " .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>We cannot be satisfied as long as a Negro in Mississippi cannot vote and a Negro in New York believes he has nothing for which to vote .</s>
+<s id='vn46'>Chúng ta chưa thể hài lòng khi mà một người da đen ở Mississippi không được bầu cử hoặc một người da đen ở New York cho rằng anh ta chẳng việc gì phải đi bầu .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>No , no , we are not satisfied , and we will not be satisfied until " justice rolls down like waters , and righteousness like a mighty stream . "</s>
+<s id='vn47'>Không , không , chúng ta chưa hài lòng và chúng ta cũng sẽ không hài lòng cho đến khi " Công lý tuôn trào như thác , công bình cuồn cuộn như sông " .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>I am not unmindful that some of you have come here out of great trials and tribulations .</s>
+<s id='vn48'>Tôi không quên rằng một số bạn đã vượt qua bao gian nan thử thách cam go để đến đây .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Some of you have come fresh from narrow jail cells .</s>
+<s id='vn49'>Một số bạn vừa mới ra khỏi những xà lim chật hẹp .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>And some of you have come from areas where your quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality .</s>
+<s id='vn50'>Và một số bạn đến đây từ nơi mà những đòi hỏi về quyền tự do đã làm các bạn phải hứng chịu những đợt truy bức dồn dập và xiểng niểng vì hàng loạt ngón đòn tàn bạo của cảnh sát .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Continue to work with the faith that unearned suffering is redemptive .</s>
+<s id='vn51'>Hãy tiếp tục làm việc và tin tưởng rằng những nỗi oan ức của bạn sẽ giúp cho bạn được hưởng ơn cứu chuộc .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Go back to Mississippi , go back to Alabama , go back to South Carolina , go back to Georgia , go back to Louisiana , go back to the slums and ghettos of our northern cities , knowing that somehow this situation can and will be changed .</s>
+<s id='vn52'>Hãy nhìn lại Mississippi , nhìn lại Alabama , nhìn lại South Carolina , nhìn lại Georgia , nhìn lại Louisiana , nhìn lại những khu ổ chuột ở các thành phố miền bắc nước ta để biết rằng bằng một cách nào đó thì tình cảnh này có thể thay đổi và sẽ thay đổi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Let us not wallow in the valley of despair , I say to you today , my friends .</s>
+<s id='vn53'>Xin đừng mãi ngủ yên trong thung lũng tuyệt vọng , đó là điều mà tôi muốn nói với các bạn hôm nay .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>And so even though we face the difficulties of today and tomorrow , I still have a dream .</s>
+<s id='vn54'>Và vì thế , cho dù hôm nay và ngày mai chúng ta còn phải đối mặt với nhiều khó khăn thì tôi vẫn có một ước mơ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It is a dream deeply rooted in the American dream .</s>
+<s id='vn55'>Đó là một ước mơ không thể tách rời khỏi giấc mộng Mỹ Quốc .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>I have a dream that one day this nation will rise up and live out the true meaning of its creed : " We hold these truths to be self-evident , that all men are created equal . "</s>
+<s id='vn56'>Tôi ước mơ một ngày kia đất nước này sẽ thức tỉnh và sống đúng ý nghĩa đức tin của nó : " Chúng tôi khẳng định những chân lý này là hiển nhiên , mọi người sinh ra đều bình đẳng . "</s>
+</spair>
+<spair id='57'>
+<s id='en57'>I have a dream that one day on the red hills of Georgia , the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood .</s>
+<s id='vn57'>Tôi ước mơ một ngày kia trên ngọn đồi đỏ rực ở Georgia , con cháu của những người nô lệ năm xưa cùng con cháu của các chủ nô ngày trước sẽ quây quần bên nhau quanh chiếc bàn của tình huynh đệ .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>I have a dream that one day even the state of Mississippi , a state sweltering with the heat of injustice , sweltering with the heat of oppression , will be transformed into an oasis of freedom and justice .</s>
+<s id='vn58'>Tôi ước mơ một ngày kia , kể cả bang Mississippi là bang hừng hực không khí áp bức và bất công cũng sẽ biến thành một ốc đảo của tự do và công bằng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character .</s>
+<s id='vn59'>Tôi ước mơ một ngày kia , 4 đứa con nhỏ bé của tôi sẽ sống trong một đất nước mà chúng được đánh giá theo tính cách mỗi đứa , chứ không còn bị xét đoán qua màu da của chúng nữa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>I have a dream today !</s>
+<s id='vn60'>Hôm nay tôi có một ước mơ !</s>
+</spair>
+<spair id='61'>
+<s id='en61'>I have a dream that one day , down in Alabama , with its vicious racists , with its governor having his lips dripping with the words of " interposition " and " nullification " -- one day right there in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers .</s>
+<s id='vn61'>Tôi ước mơ một ngày kia , ở tận Alabama , nơi nhan nhản những kẻ phân biệt chủng tộc , nơi có một gã thống đốc mà cặp môi sẵn sàng tuôn ra những chữ " can thiệp " và " vô hiệu hoá " - một ngày nào đó ngay tại Alabama , các em trai và em gái da đen sẽ nối vòng tay lớn với các em trai và em gái da trắng như anh chị em một nhà .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>I have a dream today !</s>
+<s id='vn62'>Hôm nay tôi có một ước mơ !</s>
+</spair>
+<spair id='63'>
+<s id='en63'>I have a dream that one day every valley shall be exalted , and every hill and mountain shall be made low , the rough places will be made plain , and the crooked places will be made straight ; " and the glory of the Lord shall be revealed and all flesh shall see it together . "</s>
+<s id='vn63'>Tôi ước mơ một ngày kia mọi thung lũng đều được nâng lên , mọi đồi núi đều được san bằng , những nơi gồ ghề sẽ thành bằng phẳng và những nơi cong vẹo sẽ thành thẳng tắp ; " và vinh quang của Chúa sẽ hiện ra và tất cả mọi người sẽ cùng nhau chiêm ngưỡng " .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>This is our hope , and this is the faith that I go back to the South with .</s>
+<s id='vn64'>Đây là niềm hi vọng của chúng ta , và đây chính là niềm tin mà tôi mang theo trên đường về miền Nam .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>With this faith , we will be able to hew out of the mountain of despair a stone of hope .</s>
+<s id='vn65'>Với niềm tin này , chúng ta sẽ đẽo được một hòn đá hy vọng trong cả một tảng núi tuyệt vọng .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>With this faith , we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood .</s>
+<s id='vn66'>Với niềm tin này , chúng ta sẽ chuyển những mối bất hoà gay gắt của đất nước chúng ta thành một bản giao hưởng tuyệt vời của tình huynh đệ .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>With this faith , we will be able to work together , to pray together , to struggle together , to go to jail together , to stand up for freedom together , knowing that we will be free one day .</s>
+<s id='vn67'>Với niềm tin này , chúng ta có thể cùng nhau làm việc , cùng nhau cầu nguyện , cùng nhau tranh đấu , cùng nhau vào tù , cùng nhau đấu tranh vì tự do , chỉ biết rằng một ngày nào đó chúng ta sẽ được tự do .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>And this will be the day - this will be the day when all of God 's children will be able to sing with new meaning :</s>
+<s id='vn68'>Và đó sẽ là cái ngày - đó sẽ là cái ngày mà tất cả con cái của Chúa cùng cất tiếng ca mang ý nghĩa mới :</s>
+</spair>
+<spair id='69'>
+<s id='en69'>My country is of thee , sweet land of liberty , of thee I sing .</s>
+<s id='vn69'>Đất nước tôi , cũng là của bạn , một mảnh đất ngọt ngào của tự do , tôi hát về người .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Land where my fathers died , land of the Pilgrim 's pride ,</s>
+<s id='vn70'>Mảnh đất nơi cha ông tôi đã ngã xuống , mảnh đất tự hào của những người hành hương ,</s>
+</spair>
+<spair id='71'>
+<s id='en71'>From every mountainside , let freedom ring !</s>
+<s id='vn71'>Hãy để tự do reo vang từ khắp mọi sườn núi !</s>
+</spair>
+<spair id='72'>
+<s id='en72'>is to be a great nation , this must become true .</s>
+<s id='vn72'>Và nếu Hoa Kỳ phải là một quốc gia vĩ đại thì điều này phải trở thành sự thật .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>And</s>
+<s id='vn73'>Và</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Let freedom ring from the mighty mountains of New York .</s>
+<s id='vn74'>Hãy để tự do reo vang từ những ngọn núi hùng vĩ của New York .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Let freedom ring from the heightening Alleghenies of Pennsylvania .</s>
+<s id='vn75'>Hãy để tự do reo vang từ dãy Alleghenies cao chót vót ở Pennsylvania .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Let freedom ring from the snow-capped Rockies of Colorado .</s>
+<s id='vn76'>Hãy để tự do reo vang từ dãy núi đá đầy tuyết phủ ở Colorado .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Let freedom ring from the curvaceous slopes of California .</s>
+<s id='vn77'>Hãy để tự do reo vang từ những triền dốc mơn mởn ở California .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>But not only that :</s>
+<s id='vn78'>Nhưng không chỉ có thế :</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Let freedom ring from Stone Mountain of Georgia .</s>
+<s id='vn79'>Hãy để tự do reo vang từ Stone Mountain ở Georgia .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Let freedom ring from Lookout Mountain of Tennessee .</s>
+<s id='vn80'>Hãy để tự do reo vang từ Lookout Mountain ở Tennessee .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Let freedom ring from every hill and molehill of Mississippi .</s>
+<s id='vn81'>Hãy để tự do reo vang khắp mọi đồi to đồi nhỏ ở Mississippi .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>From every mountainside , let freedom ring .</s>
+<s id='vn82'>Hãy để tự do reo vang từ khắp mọi sườn núi .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>And when this happens , when we allow freedom ring , when we let it ring from every village and every hamlet , from every state and every city , we will be able to speed up that day when all of God 's children , black men and white men , Jews and Gentiles , Protestants and Catholics , will be able to join hands and sing in the words of the old Negro spiritual :</s>
+<s id='vn83'>Và khi điều đó xảy ra , khi chúng ta đã để cho tự do reo vang , khi chúng ta đã để nó reo vang từ khắp mọi làng mạc và thôn xóm , từ khắp mọi tiểu bang và thành phố , nhất định chúng ta có thể làm cho cái ngày đó đến gần hơn , cái ngày mà tất cả con cái của Chúa , người da đen và da trắng , người Do Thái và người không phải Do Thái , người theo Công giáo và người theo Tin Lành , sẽ cùng nắm tay nhau và hát vang bài thánh ca của người da đen năm xưa :</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Free at last !</s>
+<s id='vn84'>Cuối cùng cũng được tự do !</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Free at last !</s>
+<s id='vn85'>Cuối cùng cũng được tự do !</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Thank God Almighty , we are free at last !</s>
+<s id='vn86'>Tạ ơn Thiên Chúa toàn năng , cuối cùng chúng con cũng được tự do !</s>
+</spair>
+</text>
+</doc>

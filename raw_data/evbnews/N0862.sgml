@@ -1,0 +1,188 @@
+﻿<doc id='N0862'>
+<head>
+<title>What You Should Know About Inflation</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What You Should Know About Inflation</s>
+<s id='vn1'>Những điều cần biết về lạm phát</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Inflation is defined as a sustained increase in the general level of prices for goods and services .</s>
+<s id='vn2'>Lạm phát được định nghĩa là sự gia tăng liên tục mức giá chung các hàng hoá và dịch vụ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It is measured as an annual percentage increase as reported in the Consumer Price Index ( CPI ) , generally prepared on a monthly basis by the U.S. Bureau of Labor Statistics .</s>
+<s id='vn3'>Nó được đo lường như một sự gia tăng tỷ lệ phần trăm hàng năm , như báo cáo về chỉ số giá cả tiêu dùng ( CPI ) mà thường mỗi tháng Cục Thống kê Lao động Hoa Kỳ tiến hành .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>As inflation rises , purchasing power decreases , fixed-asset values are affected , companies adjust their pricing of goods and services , financial markets react and there is an impact on the composition of investment portfolios .</s>
+<s id='vn4'>Khi lạm phát tăng , sức mua giảm , giá trị tài sản cố định bị ảnh hưởng , các công ty điều chỉnh giá hàng hoá và dịch vụ , thị trường tài chính phản ứng lại , và có sự tác động đến cơ cấu thành phần các danh mục đầu tư .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Inflation , to one degree or another , is a fact of life .</s>
+<s id='vn5'>Lạm phát , ở mức độ này hay mức độ khác , là điều không thể tránh khỏi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Consumers , businesses and investors are impacted by any upward trend in prices .</s>
+<s id='vn6'>Người tiêu dùng , doanh nghiệp và nhà đầu tư đều chịu ảnh hưởng bởi bất kỳ xu hướng giá cả đi lên nào .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In this article , we 'll look at various elements in the investing process affected by inflation and show you what you need to be aware of .</s>
+<s id='vn7'>Trong bài này , chúng ta sẽ tìm hiểu những yếu tố khác nhau trong quá trình đầu tư bị lạm phát tác động và bạn sẽ thấy những gì mình cần phải biết .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Financial Reporting and Changing Prices</s>
+<s id='vn8'>Quá trình lập báo cáo tài chính và giá cả thay đổi</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Back in the period from 1979 to 1986 , the Financial Accounting Standards Board ( FASB ) experimented with " inflation accounting , " which required that companies include supplemental constant dollar and current cost accounting information ( unaudited ) in their annual reports .</s>
+<s id='vn9'>Trở lại giai đoạn từ 1979 tới 1986 , Hội đồng Tiêu chuẩn Kế toán Tài chính ( FASB ) thử nghiệm " phương pháp kế toán theo lạm phát " , phương pháp đòi hỏi các công ty trong những báo cáo thường niên của mình phải có thông tin kế toán chi phí hiện hành ( chưa được kiểm tra ) và giá trị đồng đô la cố định bổ sung .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The guidelines for this approach were laid out in Statement of Financial Accounting Standards No. 33 , which contended that " inflation causes historical cost financial statements to show illusionary profits and mask erosion of capital . "</s>
+<s id='vn10'>Nguyên tắc chỉ đạo đối với phương pháp này trình bày trong Thông báo Chuẩn mực Kế toán Tài chính số 33 , cho rằng " lạm phát khiến các báo cáo tài chính theo nguyên tắc giá phí lịch sử thể hiện lợi nhuận ảo và che giấu sự xói mòn vốn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>With little fanfare or protest , SFAS No. 33 was quietly rescinded in 1986 .</s>
+<s id='vn11'>Không cần ồn ào hay phản đối nhiều , Thông báo Chuẩn mực Kế toán Tài chính số 33 đã bị bãi bỏ một cách lẹ làng vào năm 1986 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Nevertheless , serious investors should have a reasonable understanding of how changing prices can affect financial statements , market environments and investment returns .</s>
+<s id='vn12'>Tuy vậy , những nhà đầu tư nghiêm túc nên hiểu biết hợp lý về cách giá cả thay đổi có thể tác động đến các báo cáo tài chính , hoàn cảnh thị trường và lợi nhuận đầu tư .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Corporate Financial Statements</s>
+<s id='vn13'>Báo cáo tài chính công ty</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In a balance sheet , fixed assets - property , plant and equipment - are valued at their purchase prices ( historical cost ) , which may be significantly understated compared to the assets " present day market values .</s>
+<s id='vn14'>Trong bảng cân đối kế toán , tài sản cố định - đất đai , nhà xưởng và trang thiết bị - được định giá theo các mức giá khi mua chúng ( giá nguyên thuỷ ) , có thể bị giảm đi đáng kể so với giá trị thị trường hiện tại của tài sản .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It 's difficult to generalize , but for some firms , this historical/current cost differential could be added to a company 's assets , which would boost the company 's equity position and improve its debt/equity ratio .</s>
+<s id='vn15'>Thật khó có thể đưa ra một nhận xét khái quát , nhưng đối với một số doanh nghiệp , sự chênh lệch giá hiện tại và giá nguyên thuỷ này có thể thêm vào tài sản công ty , nâng vị thế vốn của công ty lên và cải thiện tỷ lệ nợ trên vốn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In terms of accounting policies , firms using the last-in , first-out ( LIFO ) inventory cost valuation are more closely matching costs and prices in an inflationary environment .</s>
+<s id='vn16'>Về mặt chính sách kế toán , các doanh nghiệp sử dụng phương pháp tính giá hàng tồn kho nhập sau xuất trước ( LIFO ) thì trong hoàn cảnh lạm phát , chi phí và giá cả gần khớp với nhau nhiều hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Without going into all the accounting intricacies , LIFO understates inventory value , overstates the cost of sales , and therefore lowers reported earnings .</s>
+<s id='vn17'>Không đi sâu vào chi tiết các vấn đề phức tạp thuộc lĩnh vực kế toán , phương pháp LIFO làm giảm bớt giá trị hàng tồn kho , tăng chi phí vật liệu và nhân công , và do đó hạ thấp thu nhập trong báo cáo .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Financial analysts tend to like the understated or conservative impact on a company 's financial position and earnings that are generated by the application of LIFO valuations as opposed to other methods such as first-in , first-out ( FIFO ) and average cost .</s>
+<s id='vn18'>Các nhà phân tích tài chính thường thích tác động giảm nhẹ hoặc vừa phải đối với tình trạng tài chính và thu nhập của công ty , được tạo ra nhờ áp dụng các phương pháp định giá LIFO ( nhập sau xuất trước ) đối lập với những phương pháp khác , chẳng hạn phương pháp giá thành bình quân và nhập trước xuất trước ( FIFO ) .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Market Sentiment</s>
+<s id='vn19'>Tâm lý thị trường</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Every month , the U.S. Department of Commerce 's Bureau of Labor Statistics reports on two key inflation indicators : the Consumer Price Index ( CPI ) and the Producer Price Index ( PPI ) .</s>
+<s id='vn20'>Mỗi tháng , Cục Thống kê Lao động Bộ Thương mại Hoa Kỳ báo cáo về 2 chỉ số lạm phát quan trọng : chỉ số giá tiêu dùng ( CPI ) và chỉ số giá sản xuất ( PPI ) .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>These indexes are the two most important measurements of retail and wholesale inflation , respectively .</s>
+<s id='vn21'>Những chỉ số này là 2 thước đo quan trọng nhất về lạm phát bán sỉ và bán lẻ , theo thứ tự .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>They are closely watched by financial analysts and receive a lot of media attention .</s>
+<s id='vn22'>Chúng được các nhà phân tích tài chính theo dõi chặt chẽ và giới truyền thông chú ý rất sít sao .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The CPI and PPI releases can move markets in either direction .</s>
+<s id='vn23'>Những dịp công bố chỉ số giá tiêu dùng ( CPI ) và chỉ số giá sản xuất ( PPI ) có thể làm cho thị trường hướng đi lên hoặc đi xuống .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Investors do not seem to mind an upward movement ( low or moderating inflation reported ) but get very worried when the market drops ( high or accelerating inflation reported ) .</s>
+<s id='vn24'>Các nhà đầu tư dường như không bận tâm với xu hướng đi lên ( lạm phát thấp hoặc vừa phải được báo cáo ) nhưng lại rất lo lắng khi thị trường rớt giá ( lạm phát cao hoặc tăng nhanh được báo cáo ) .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The important thing to remember about this data is that it is the trend of both indicators over an extended period of time that is more relevant to investors than any single release .</s>
+<s id='vn25'>Điều quan trọng phải cần nhớ về dữ liệu này là xu hướng của cả hai chỉ số trong suốt một khoảng thời gian dài có liên quan đến các nhà đầu tư nhiều hơn bất kỳ sự công bố riêng lẻ nào .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Investors are advised to digest this information slowly and not to overreact to the movements of the market .</s>
+<s id='vn26'>Các nhà đầu tư được khuyến cáo nên tiếp nhận thông tin này một cách chậm rãi và không nên phản ứng thái quá với các biến động của thị trường .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Interest Rates</s>
+<s id='vn27'>Lãi suất</s>
+</spair>
+<spair id='28'>
+<s id='en28'>One of the most reported issues in the financial press is what the Federal Reserve does with interest rates .</s>
+<s id='vn28'>Một trong những vấn đề được báo chí tài chính đưa tin nhiều nhất là Cục Dự trữ Liên bang giải quyết vấn đề lãi suất như thế nào .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The periodic meetings of the Federal Open Market Committee ( FOMC ) are a major news event in the investment community .</s>
+<s id='vn29'>Những cuộc họp định kỳ của Ủy ban Thị trường Tự do Liên bang ( FOMC ) là sự kiện tin tức quan trọng trong giới đầu tư .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The FOMC uses the federal funds target rate as one of its principal tools for managing inflation and the pace of economic growth .</s>
+<s id='vn30'>Ủy ban Thị trường Tự do Liên bang ( FOMC ) sử dụng lãi suất mục tiêu quỹ liên bang như là một trong những công cụ chủ yếu để kiềm chế lạm phát và điều tiết tốc độ tăng trưởng kinh tế .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If inflationary pressures are building and economic growth is accelerating , the Fed will raise the fed-funds target rate to increase the cost of borrowing and slow down the economy .</s>
+<s id='vn31'>Nếu áp lực lạm phát đang lớn dần và mức tăng trưởng kinh tế đang gia tăng , Cục Dự trữ Liên bang sẽ nâng lãi suất mục tiêu quỹ liên bang để tăng chi phí vay và hạ nhiệt nền kinh tế .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>If the opposite occurs , the Fed will push its target rate lower .</s>
+<s id='vn32'>Nếu trường hợp ngược lại xảy ra , Cục Dự trữ Liên bang sẽ đẩy lãi suất mục tiêu của mình xuống thấp hơn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>All of this makes sense to economists , but the stock market is much happier with a low interest rate environment than a high one , which translates into a low to moderate inflationary outlook .</s>
+<s id='vn33'>Tất cả những điều này đều có ý nghĩa đối với nhà kinh tế học , nhưng thị trường chứng khoán sẽ thoải mái hơn nhiều với một môi trường lãi suất thấp hơn một môi trường lãi suất cao , được hiểu là một viễn cảnh lạm pháp từ thấp đến vừa phải .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>A so-called " Goldilocks " - not too high , not too low - inflation rate provides the best of times for stock investors .</s>
+<s id='vn34'>Cái gọi là " Goldilocks " - tức là không quá cao , không quá thấp - tỷ lệ lạm phát cho các nhà đầu tư cổ phiếu khoảng thời gian tươi đẹp nhất .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Future Purchasing Power</s>
+<s id='vn35'>Sức mua trong tương lai</s>
+</spair>
+<spair id='36'>
+<s id='en36'>It is generally assumed that stocks , because companies can raise their prices for goods and services , are a better hedge against inflation than fixed-income investments .</s>
+<s id='vn36'>Người ta thường cho rằng cổ phiếu , vì các công ty có thể tăng giá hàng hoá và dịch vụ của họ , là hàng rào chống lạm phát tốt hơn những khoản đầu tư có thu nhập cố định .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>For bond investors , inflation , whatever its level , eats away at their principal and reduces future purchasing power .</s>
+<s id='vn37'>Đối với những nhà đầu tư trái phiếu , lạm phát , bất kể mức độ nào , cũng ăn mòn vào tiền vốn của họ và giảm sức mua trong tương lai .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Inflation has been fairly tame in recent history ; however , it 's doubtful that investors can take this circumstance for granted .</s>
+<s id='vn38'>Lạm phát khá lành trong lịch sử gần đây ; tuy nhiên chưa chắc các nhà đầu tư có thể cho rằng trường hợp này là đúng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>It would be prudent for even the most conservative investors to maintain a reasonable level of equities in their portfolios to protect themselves against the erosive effects of inflation .</s>
+<s id='vn39'>Thậm chí ngay cả những nhà đầu tư bảo thủ nhất cũng thận trọng duy trì mức cổ phiếu hợp lý trong danh mục đầu tư của họ nhằm tự bảo vệ mình trước những tác động mang tính ăn mòn của lạm phát .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Conclusion</s>
+<s id='vn40'>Kết luận</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Inflation will always be with us ; it 's an economic fact of life .</s>
+<s id='vn41'>Lạm phát sẽ luôn đồng hành cùng chúng ta ; đó là điều tất yếu về mặt kinh tế .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It is not intrinsically good or bad , but it certainly does impact the investing environment .</s>
+<s id='vn42'>Thực chất lạm phát không tốt cũng không xấu , nhưng chắc chắn có tác động đến môi trường đầu tư .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Investors need to understand the impacts of inflation and structure their portfolios accordingly .</s>
+<s id='vn43'>Các nhà đầu tư cần hiểu những tác động của lạm phát và cơ cấu danh mục đầu tư của mình cho phù hợp .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>One thing is clear : depending on personal circumstances , investors need to maintain a blend of equity and fixed-income investments with adequate real returns to address inflationary issues .</s>
+<s id='vn44'>Một điều chắc chắn là , tuỳ vào hoàn cảnh cá nhân , nhà đầu tư cần duy trì sự kết hợp các khoản đầu tư vốn và đầu tư thu nhập cố định có lợi nhuận trên thực tế tương xứng để giải quyết các vấn đề lạm phát .</s>
+</spair>
+</text>
+</doc>

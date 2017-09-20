@@ -1,0 +1,204 @@
+﻿<doc id='N0452'>
+<head>
+<title>Declaration of Independence</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Declaration of Independence</s>
+<s id='vn1'>Tuyên ngôn Độc lập</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Audio mp3 Reading by John F. Kennedy</s>
+<s id='vn2'>Audio mp3 Reading by John F. Kennedy</s>
+</spair>
+<spair id='3'>
+<s id='en3'>When , in the course of human events , it becomes necessary for one people to dissolve the political bands which have connected them with another , and to assume among the powers of the earth , the separate and equal station to which the laws of nature and of nature 's God entitle them , a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation .</s>
+<s id='vn3'>Trong tiến trình lịch sử nhân loại , khi một dân tộc thấy cần rũ bỏ những mối liên hệ chính trị ràng buộc họ với một dân tộc khác và cần giành lấy một địa vị riêng biệt , bình đẳng trong hàng cường quốc trên trái đất này - địa vị mà các quy luật của thiên nhiên và của đấng cai quản muôn loài cho phép họ được hưởng thì vì nghiêm túc tôn trọng phán xét của nhân loại , họ nên tuyên bố những căn nguyên khiến họ phải ly khai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>We hold these truths to be self-evident , that all men are created equal , that they are endowed by their Creator with certain unalienable rights , that among these are life , liberty and the pursuit of happiness .</s>
+<s id='vn4'>Chúng tôi khẳng định những chân lý này là hiển nhiên , mọi người sinh ra đều bình đẳng , họ được Tạo hoá ban cho một số quyền bất khả nhượng , trong đó có quyền sống , quyền tự do và quyền mưu cầu hạnh phúc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>That to secure these rights , governments are instituted among men , deriving their just powers from the consent of the governed .</s>
+<s id='vn5'>Để đảm bảo cho những quyền này , chính phủ đã được lập ra từ trong nhân dân và có được quyền lực chính đáng là do có sự ưng thuận của nhân dân .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>That whenever any form of government becomes destructive to these ends , it is the right of the people to alter or to abolish it , and to institute new government , laying its foundation on such principles and organizing its powers in such form , as to them shall seem most likely to effect their safety and happiness .</s>
+<s id='vn6'>Bất cứ khi nào một hình thức chính quyền nào đó trở nên có hại cho việc thực hiện những mục tiêu này thì đương nhiên nhân dân có quyền thay đổi hoặc loại bỏ nó , và lập chính quyền mới , đặt nền tảng trên những nguyên tắc đó và sắp xếp quyền lực cho nó dưới một hình thức nào đó , sao cho có thật nhiều khả năng làm cho nhân dân được an toàn và hạnh phúc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Prudence , indeed , will dictate that governments long established should not be changed for light and transient causes ; and accordingly all experience hath shown that mankind are more disposed to suffer , while evils are sufferable , than to right themselves by abolishing the forms to which they are accustomed .</s>
+<s id='vn7'>Thật ra , nếu đúng là thận trọng thì đừng vì những lý do đơn giản và nhất thời mà thay đổi những chính phủ đã hình thành từ lâu ; và do vậy , kinh nghiệm từ bao đời nay đều cho thấy rằng con người thà chịu đựng khi cái xấu còn ở mức chịu đựng được , còn hơn là tự hoàn thiện bằng cách loại bỏ những hình thức mà mình đã quen thuộc .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But when a long train of abuses and usurpations , pursuing invariably the same object evinces a design to reduce them under absolute despotism , it is their right , it is their duty , to throw off such government , and to provide new guards for their future security .</s>
+<s id='vn8'>Nhưng khi hàng loạt hành vi lạm dụng và tước đoạt , khăng khăng đeo đuổi một mục tiêu , đã làm lộ rõ ý đồ khuất phục họ dưới ách chuyên chế tuyệt đối thì họ có quyền , có bổn phận lật đổ một chính quyền như thế và cử những người khác ra giữ yên ổn cho họ trong tương lai .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Such has been the patient sufferance of these colonies ; and such is now the necessity which constrains them to alter their former systems of government .</s>
+<s id='vn9'>Các thuộc địa này từng phải cắn răng chịu đựng như thế ; cho nên bây giờ hoàn cảnh buộc họ cũng phải thay đổi những hệ thống chính quyền cũ như thế .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The history of the present King of Great Britain is a history of repeated injuries and usurpations , all having in direct object the establishment of an absolute tyranny over these states .</s>
+<s id='vn10'>Thành tích của vua nước Anh hiện nay toàn là những chuyện xâm phạm và tước đoạt triền miên , tất cả đều nhằm mục đích trực tiếp là thiết lập ách chuyên chế bạo ngược ở những bang này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>To prove this , let facts be submitted to a candid world .</s>
+<s id='vn11'>Ðể chứng minh điều này , ta hãy để sự thật cho một thế giới trung thực tự phán xét lấy .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>He has refused his assent to laws , the most wholesome and necessary for the public good .</s>
+<s id='vn12'>Ông ta từ chối phê chuẩn một số đạo luật , dù đó là những đạo luật tốt đẹp nhất và cần thiết nhất đối với lợi ích của quần chúng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He has forbidden his governors to pass laws of immediate and pressing importance , unless suspended in their operation till his assent should be obtained ; and when so suspended , he has utterly neglected to attend to them .</s>
+<s id='vn13'>Ông ta cấm giới thống đốc thông qua những đạo luật mang tính cấp bách và bức xúc , trừ phi ngưng thực thi chúng để chờ ông ta phê chuẩn và trong khi đình chỉ như vậy , ông ta lại bỏ mặc luôn , chẳng bận tâm gì về chúng nữa .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He has refused to pass other laws for the accommodation of large districts of people , unless those people would relinquish the right of representation in the legislature , a right inestimable to them and formidable to tyrants only .</s>
+<s id='vn14'>Ông ta không chịu thông qua các đạo luật về cư trú ở những vùng đông dân cư , trừ phi đám dân này từ bỏ quyền có người đại diện cho họ trong cơ quan lập pháp , một loại quyền vô giá đối với họ nhưng lại rất đáng sợ đối với bọn bạo chúa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>He has called together legislative bodies at places unusual , uncomfortable , and distant from the depository of their public records , for the sole purpose of fatiguing them into compliance with his measures .</s>
+<s id='vn15'>Ông ta đã triệu tập các cơ quan lập pháp ở những địa điểm bất thường , bất tiện , cách xa kho lưu trữ hồ sơ công vụ , cốt là làm cho họ vì mệt mỏi mà đành tuân theo các chủ trương của ông ta .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He has dissolved representative houses repeatedly , for opposing with manly firmness his invasions on the rights of the people .</s>
+<s id='vn16'>Ông ta đã nhiều lần giải tán các hạ nghị viện , vì họ kịch liệt chống đối việc ông ta xâm phạm các quyền của nhân dân .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He has refused for a long time , after such dissolutions , to cause others to be elected ; whereby the legislative powers , incapable of annihilation , have returned to the people at large for their exercise ;</s>
+<s id='vn17'>Rồi sau những lần giải tán như thế , phải lâu lắm ông ta mới chịu cho bầu lại những cơ quan này , vậy là quyền lập pháp , một loại quyền không gì xóa bỏ được , lại về tay dân chúng để họ tự hành sử .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The state remaining in the meantime exposed to all the dangers of invasion from without , and convulsions within .</s>
+<s id='vn18'>Cùng lúc đó , nhà nước vẫn phải đối mặt với đủ thứ nguy cơ về ngoại xâm và nội loạn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>He has endeavored to prevent the population of these states ;</s>
+<s id='vn19'>Ông ta ra sức ngăn cản việc tăng dân số ở các bang này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>For that purpose obstructing the laws for naturalization of foreigners ; refusing to pass others to encourage their migration hither , and raising the conditions of new appropriations of lands .</s>
+<s id='vn20'>Vì mục đích đó , ông ta cản trở việc thực hiện luật nhập quốc tịch cho người nước ngoài , từ chối thông qua các đạo luật khuyến khích nhập cư và khắt khe hơn nữa đối với các trường hợp tậu thêm đất .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He has made judges dependent on his will alone , for the tenure of their offices , and the amount and payment of their salaries .</s>
+<s id='vn21'>Ông ta đã buộc các quan tòa phải lệ thuộc vào ý muốn của ông ta , thông qua những qui định về nhiệm kỳ cũng như lương bổng trả cho họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He has erected a multitude of new offices , and sent hither swarms of officers to harass our people , and eat out their substance .</s>
+<s id='vn22'>Ông ta lập ra rất nhiều cơ quan mới và bổ nhiệm vào đó vô số quan lại sách nhiễu dân chúng và vơ vét tài sản của họ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>He has kept among us , in times of peace , standing armies without the consent of our legislature .</s>
+<s id='vn23'>Trong thời bình , ông ta vẫn duy trì những đạo quân thường trực trên đất nước chúng ta dù cơ quan lập pháp của chúng ta không hề đồng ý .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He has affected to render the military independent of and superior to civil power .</s>
+<s id='vn24'>Ông ta đã tác động sao cho quân đội độc lập và vượt lên trên chính quyền dân sự .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>He has combined with others to subject us to a jurisdiction foreign to our constitution , and unacknowledged by our laws ; giving his assent to their acts of pretended legislation :</s>
+<s id='vn25'>Ông ta đã cùng với nhiều kẻ khác ép chúng ta phải cam chịu một nền tư pháp không liên quan gì với hiến pháp của chúng ta mà cũng chẳng được luật pháp của chúng ta công nhận , rồi ông ta phê chuẩn những đạo luật giả dối sau đây :</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For quartering large bodies of armed troops among us :</s>
+<s id='vn26'>Cho phép những đạo quân hùng hậu trú đóng trên đất nước chúng ta .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>For protecting them , by mock trial , from punishment for any murders which they should commit on the inhabitants of these states :</s>
+<s id='vn27'>Qua những phiên tòa giả hiệu , che chở cho chúng khỏi bị trừng phạt về tội sát hại dân cư ở các bang này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>For cutting off our trade with all parts of the world :</s>
+<s id='vn28'>Cắt đứt quan hệ thương mại giữa chúng ta với cả thế giới .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>For imposing taxes on us without our consent :</s>
+<s id='vn29'>Bắt chúng ta nộp những khoản thuế mà chúng ta không đồng ý .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>For depriving us in many cases , of the benefits of trial by jury :</s>
+<s id='vn30'>Nhiều lần không cho chúng ta hưởng quyền được đưa ra toà xét xử .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>For transporting us beyond seas to be tried for pretended offenses :</s>
+<s id='vn31'>Ðưa chúng ta ra hải ngoại để xét xử về những tội trạng không có thật .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>For abolishing the free system of English laws in a neighboring province , establishing therein an arbitrary government , and enlarging its boundaries so as to render it at once an example and fit instrument for introducing the same absolute rule in these colonies :</s>
+<s id='vn32'>Xóa bỏ thể chế tự do của luật pháp nước Anh ở một vùng lân cận và dựng một chính quyền độc đoán ngay tại đó ; rồi mở rộng ranh giới vùng đó để lập tức biến nó thành kiểu mẫu và công cụ thích hợp nhằm đặt đúng cái ách chuyên chế ấy vào các thuộc địa này .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>For taking away our charters , abolishing our most valuable laws , and altering fundamentally the forms of our governments :</s>
+<s id='vn33'>Tước đoạt hiến chương của chúng ta , huỷ bỏ những đạo luật quý giá nhất của chúng ta và thay đổi thể chế chính quyền của chúng ta đến tận gốc rễ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For suspending our own legislatures , and declaring themselves invested with power to legislate for us in all cases whatsoever .</s>
+<s id='vn34'>Không cho các cơ quan lập pháp của chúng ta hoạt động nữa , rồi tự tuyên bố là họ có quyền làm luật cho chúng ta trong mọi trường hợp .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>He has abdicated government here , by declaring us out of his protection and waging war against us .</s>
+<s id='vn35'>Ông ta chối bỏ chính quyền ở đây và tuyên bố rằng chúng ta không còn được ông ta che chở nữa , rồi gây chiến với chúng ta .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>He has plundered our seas , ravaged our coasts , burned our towns , and destroyed the lives of our people .</s>
+<s id='vn36'>Ông ta đã vơ vét biển cả , tàn phá miền duyên hải , thiêu huỷ vùng đô thị , huỷ hoại sinh mạng của nhân dân chúng ta .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>He is at this time transporting large armies of foreign mercenaries to complete the works of death , desolation and tyranny , already begun with circumstances of cruelty and perfidy scarcely paralleled in the most barbarous ages , and totally unworthy the head of a civilized nation .</s>
+<s id='vn37'>Bây giờ ông ta còn đưa những đạo quân hùng hậu toàn là lính đánh thuê nước ngoài sang làm nốt cái công việc giết tróc , tàn phá và bạo ngược , vốn đã được khai mào bằng những cảnh tàn ác và xảo trá mà ngay cả trong thời đại dã man nhất cũng khó mà sánh được , đúng là không hề xứng đáng với cương vị người đứng đầu một quốc gia văn minh .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>He has constrained our fellow citizens taken captive on the high seas to bear arms against their country , to become the executioners of their friends and brethren , or to fall themselves by their hands .</s>
+<s id='vn38'>Ông ta đã ép những đồng bào của chúng ta bị bắt ngoài biển khơi phải cầm súng chống lại đất nước mình , trở thành những tên đao phủ chuyên hành hình bạn bè và anh em của chính mình , hoặc phải chết dưới tay bạn bè và anh em của chính mình .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>He has excited domestic insurrections amongst us , and has endeavored to bring on the inhabitants of our frontiers , the merciless Indian savages , whose known rule of warfare , is undistinguished destruction of all ages , sexes and conditions .</s>
+<s id='vn39'>Ông ta đã kích động bạo loạn ngay trong nội bộ chúng ta và cố đưa vào vùng dân cư ở miền biên cương nước ta những kẻ man rợ tàn bạo theo kiểu thổ dân Indian , những kẻ mà quy tắc chiến tranh khét tiếng của chúng là giết sạch , không phân biệt già hay trẻ , nam hay nữ , sang hay hèn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In every stage of these oppressions we have petitioned for redress in the most humble terms : our repeated petitions have been answered only by repeated injury .</s>
+<s id='vn40'>Trong các giai đoạn bị áp bức như vậy , chúng ta đều có yêu cầu bồi thường với lời lẽ hết sức khiêm nhường , nhưng đáp lại những kiến nghị dồn dập này luôn là những hành vi xâm phạm triền miên .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>A prince , whose character is thus marked by every act which may define a tyrant , is unfit to be the ruler of a free people .</s>
+<s id='vn41'>Một ông hoàng mà nhất cứ nhất động đều có thể gọi là tính cách của một tên bạo chúa thì làm sao xứng đáng thống lĩnh một dân tộc tự do .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Nor have we been wanting in attention to our British brethren .</s>
+<s id='vn42'>Không phải chúng ta không lưu ý đến các bạn Anh .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us .</s>
+<s id='vn43'>Ð ã nhiều lần chúng ta cảnh báo họ về mưu toan của cơ quan lập pháp của họ trong việc bành trướng quyền tài phán quá đáng sang đất nước chúng ta .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>We have reminded them of the circumstances of our emigration and settlement here .</s>
+<s id='vn44'>Chúng ta đã nhắc nhở họ về hoàn cảnh nhập cư và cư trú của chúng ta tại nơi này .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>We have appealed to their native justice and magnanimity , and we have conjured them by the ties of our common kindred to disavow these usurpations , which , would inevitably interrupt our connections and correspondence .</s>
+<s id='vn45'>Chúng ta đã kêu gọi ý thức công bằng và lòng hào hiệp ở họ , chúng ta đã yêu cầu họ vì mối liên hệ ruột thịt giữa đôi bên mà từ bỏ những hành vi chiếm đoạt , vì chắc chắn những hành vi này sẽ gây trở ngại cho sự giao thiệp và trao đổi thư từ giữa hai phía với nhau .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>They too have been deaf to the voice of justice and of consanguinity .</s>
+<s id='vn46'>Họ cũng không thèm lắng nghe tiếng nói của công lý , tiếng nói của tình máu mủ .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>We must , therefore , acquiesce in the necessity , which denounces our separation , and hold them , as we hold the rest of mankind , enemies in war , in peace friends .</s>
+<s id='vn47'>Vì vậy , chúng ta đành chấp nhận tuyên bố cắt đứt quan hệ với họ và đối xử với họ giống như với tất cả những người khác : Thời bình là bạn , thời chiến là thù .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>We , therefore , the representatives of the United States of America , in General Congress , assembled , appealing to the Supreme Judge of the world for the rectitude of our intentions , do , in the name , and by the authority of the good people of these colonies , solemnly publish and declare , that these united colonies are , and of right ought to be free and independent states ; that they are absolved from all allegiance to the British Crown , and that all political connection between them and the state of Great Britain , is and ought to be totally dissolved ; and that as free and independent states , they have full power to levy war , conclude peace , contract alliances , establish commerce , and to do all other acts and things which independent states may of right do .</s>
+<s id='vn48'>Vì vậy , thông qua Quốc hội này , chúng tôi , những người đại diện cho Hợp Chúng Quốc Hoa Kỳ , đang tề tựu nơi đây để thỉnh nguyện Đấng phán xét tối cao chứng giám cho ý định đúng đắn của chúng tôi , đồng thời nhân danh những người lương thiện ở các thuộc địa này và do sự uỷ quyền của họ , chúng tôi long trọng công khai tuyên bố rằng các thuộc địa liên minh với nhau này là những quốc gia độc lập tự do và họ có quyền được như vậy , rằng họ hoàn toàn không còn phải trung thành với vua Anh nữa , rằng những liên hệ chính trị giữa họ với nước Anh cần phải bị xóa hẳn , rằng với tư cách là quốc gia độc lập tự do , họ hoàn toàn có quyền khai chiến , ký hoà ước , lập liên minh , lập quan hệ thương mại , làm tất cả những gì và những việc gì mà các quốc gia độc lập có quyền làm .</s>
+</spair>
+</text>
+</doc>

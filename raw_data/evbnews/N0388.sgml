@@ -1,0 +1,76 @@
+﻿<doc id='N0388'>
+<head>
+<title>Hitachi , LG , Micron Combine for New Hybrid Storage Drive</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Hitachi , LG , Micron Combine for New Hybrid Storage Drive</s>
+<s id='vn1'>Hitachi , LG và Micron Hợp Tác Về Ổ Đĩa Lưu Trữ Lai Mới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The new HLDS ( Hitachi LG Data Storage partnership ) hybrid drive with Micron 's 25nm NAND flash will be used in PCs , DVD players and Blu-ray products .</s>
+<s id='vn2'>Ổ đĩa lai mới của HLDS ( Sự cộng tác giữa công ty LG Data Storage và Hitachi ) cùng với chip nhớ flash NAND 25 nm của Micron sẽ được dùng trong các PC , máy nghe nhạc DVD và các sản phẩm Blu-ray .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Hitachi , which partners with South Korea 's LG Data Storage to make storage devices , on Oct. 4 introduced what it called the world 's first hybrid NAND flash optical disk drive with its own on-board storage .</s>
+<s id='vn3'>Hitachi hợp tác với công ty sản xuất thiết bị lưu trữ LG Data Storage của Hàn Quốc , vào ngày 4 tháng 10 đã giới thiệu sản phẩm mà được gọi là ổ đĩa quang flash NAND lai đầu tiên trên thế giới với khả năng lưu trữ trên bo mạch riêng của nó .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Boise , Idaho-based Micron Technology supplies its new 25-nanometer NAND as the flash memory for the new optical disk drive , ODD .</s>
+<s id='vn4'>Micron Technology có trụ sở tại Idaho , Boise cung cấp chip NAND 25-nm mới như là bộ nhớ flash cho ổ đĩa quang ODD .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The chip debuted last February as the result of a cooperative project with Intel .</s>
+<s id='vn5'>Chip này đã ra mắt vào cuối tháng 2 vừa qua là kết quả của dự án hợp tác với Intel .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The new 25nm , 2-bit-per-cell chip can hold 8GB of data storage , more than 10 times the 700MB capacity of a standard CD .</s>
+<s id='vn6'>Chip 25nm mới này có 2 bit trên mỗi ô nhớ có thể lưu trữ 8GB dữ liệu , nhiều hơn 10 lần dung lượng 700MB của một CD chuẩn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The chip measures a mere 167 square millimeters , making it small enough to fit through the hole in the middle of a CD.</s>
+<s id='vn7'>Chip có kích thước chỉ 167 mm vuông , nó đủ nhỏ để đặt vừa vặn trong lỗ ở giữa một CD .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The small size of the flash chip is a big advantage to the manufacturing process of the drive itself in that it allows designers more flexibility to fit it into the layout .</s>
+<s id='vn8'>Kích thước nhỏ của chip nhớ fash là một lợi thế lớn đối với qui trình chế tạo của chính ổ đĩa này ở chỗ nó cho phép các nhà thiết kế linh hoạt hơn để đặt vừa nó vào khuôn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The new HLDS ( Hitachi LG Data Storage partnership ) hybrid drive will be used in PCs , DVD players and Blu-ray products .</s>
+<s id='vn9'>Ổ đĩa lai mới của HLDS ( Sự cộng tác giữa LG Data Storage và Hitachi ) sẽ được dùng trong các PC , máy nghe nhạc DVD và các sản phẩm Blu-ray .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The first edition of the drive will come in embedded flash memory capacities of 16GB , 32GB and 64GB.</s>
+<s id='vn10'>Phiên bản đầu tiên của ổ đĩa sẽ được nhúng bộ nhớ flash dung lượng từ 16GB , 32GB và 64GB .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Higher NAND capacities will be available in future versions .</s>
+<s id='vn11'>Dung lượng NAND cao hơn sẽ ra mắt trong các phiên bản tới .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The HLDS Hybrid Drive is designed for thin and light notebooks that traditionally have space for one drive , Micron said .</s>
+<s id='vn12'>Micron cho biết Ổ đĩa Lai HLDS được thiết kế cho các máy tính xách tay mỏng và nhẹ mà theo truyền thống có không gian đủ cho một ổ đĩa .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It can be used for client-side applications that in the past would have employed a hard disk or solid-state drive for long-term storage .</s>
+<s id='vn13'>Nó có thể được dùng cho các ứng dụng trên máy khách mà trước đây sử dụng ổ đĩa cứng hoặc ổ đĩa thể rắn để lưu trữ lâu dài .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In these deployments , the hybrid drive would be used for caching and launching applications and providing an improvement in system performance , including faster boot times .</s>
+<s id='vn14'>Trong lần ra mắt này , ổ đĩa lai sẽ được dùng cho các ứng dụng đệm và khởi động , đem lại sự cải tiến về hiệu suất cho hệ thống kể cả thời gian khởi động nhanh hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>HLDS will be demonstrating the Hybrid Drive using Micron 's 25nm NAND at the CEATEC conference Oct. 5-9 in Japan .</s>
+<s id='vn15'>HLDS sẽ thử nghiệm Ổ đĩa lai sử dụng chip NAND 25nm của Micron tại hội nghị CEATEC từ ngày 5-9 tháng 10 ở Nhật .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They will begin showing up in devices later this fall .</s>
+<s id='vn16'>Chúng sẽ bắt đầu xuất hiện trong các thiết bị vào cuối mùa thu này .</s>
+</spair>
+</text>
+</doc>

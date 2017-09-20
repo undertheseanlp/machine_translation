@@ -1,0 +1,152 @@
+﻿<doc id='N0157'>
+<head>
+<title>New fire hits Japan nuclear plant</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>New fire hits Japan nuclear plant</s>
+<s id='vn1'>Thêm một vụ cháy nổ ở nhà máy hạt nhân Nhật Bản</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Fire has again broken out at the quake-stricken Fukushima Daiichi nuclear plant in northern Japan .</s>
+<s id='vn2'>Ngọn lửa lại bùng cháy ở nhà máy hạt nhân Fukushima Daiichi do trân động đất gây ra ở miền Bắc nước Nhật .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The blaze has struck reactor four , where spent fuel rods are kept .</s>
+<s id='vn3'>Ngọn lửa làm nổ lò phản ứng số bốn nơi chứa các thanh nhiên liệu đã dùng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The plant has already been hit by four explosions , triggering radiation leaks and sparking health concerns .</s>
+<s id='vn4'>Lò phản ứng số bốn đã bị bốc cháy dẫn đến rò rỉ phóng xạ và gây lo lắng ảnh hưởng đến sức khoẻ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Friday 's 9.0-magnitude earthquake damaged the plant 's cooling functions .</s>
+<s id='vn5'>Trận động đất 9.0 độ Rích-te hôm thứ Sáu đã làm hỏng các chức năng làm lạnh của nhà máy này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>More than 3,300 have been confirmed dead and thousands are missing after the quake and tsunami last Friday .</s>
+<s id='vn6'>Hơn 3.300 người xác nhận đã chết , hàng ngàn người mất tích sau trận động đất và sóng thần vào thứ Sáu tuần trước .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Officials have warned people within 20-30km ( 12-19 miles ) of the site to either leave the area or stay indoors .</s>
+<s id='vn7'>Các quan chức cảnh báo người dân trong vòng phạm vi 20-30km ( 12-19 dặm ) cách nhà máy hạt nhân hoặc phải di dời hoặc phải ở trong nhà .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The Tokyo Electric Power Co ( Tepco ) , which operates the Fukushima plant , said on Wednesday that efforts were under way to put out the latest fire .</s>
+<s id='vn8'>Tokyo Electric Power Co ( Tepco ) đang vận hành nhà máy Fukushima cho biết vào hôm thứ Tư họ đã cố gắng dập tắt vụ nổ gần đây nhất .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>This plant was under control .</s>
+<s id='vn9'>Nhà máy này đang được kiểm soát .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It is the second fire to hit the spent fuel storage pond at reactor four in 24 hours .</s>
+<s id='vn10'>Đây là vụ nổ thứ hai làm nổ hồ chứa nhiên liệu đã dùng tại lò phản ứng số bốn trong vòng 24 giờ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The reactor had been shut down before the quake for maintenance , but its spent fuel rods were still stored on the site .</s>
+<s id='vn11'>Lò phản ứng đã được ngưng hoạt động để bảo trì trước khi xảy ra động đất , nhưng các thanh nhiên liệu đã dùng vẫn được lưu trữ tại đây .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Kyodo news agency says the storage pool may be boiling and further radiation leaks are feared .</s>
+<s id='vn12'>Thông tấn xã Kyodo cho biết hồ lưu trữ có thể sôi và có nguy cơ rò rỉ phóng xạ nhiều hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Tepco said it may pour water and fire retardant from helicopters to stop fuel rods from being exposed to the air and releasing even more radioactivity .</s>
+<s id='vn13'>Tepco cho biết họ sẽ dùng trực thăng để đổ nước và chất chống cháy vào lò nhằm ngăn chặn các thanh nhiên liệu nổ ra ngoài không khí thậm chí rò rỉ phóng xạ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The crisis at the plant - which contains six nuclear reactors - began when the earthquake struck .</s>
+<s id='vn14'>Khủng hoảng tại nhà máy chứa sáu lò phản ứng hạt nhân bắt đầu khi xảy ra động đất .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Explosions rocked the buildings housing reactors one and three on Saturday and Monday .</s>
+<s id='vn15'>Vụ nổ làm rung các toà nhà chứa lò phản ứng số một và số ba vào hôm thứ Bảy và hôm thứ Hai .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>On Tuesday morning , a third blast hit the building of reactor two , while a fourth damaged the building of reactor four .</s>
+<s id='vn16'>Vào sáng thứ Ba , vụ nổ thứ ba đã bùng cháy ở lò phản ứng số hai trong khi lò số bốn đã bị hư hại .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Officials said the explosions at the first three reactors , and possibly the fourth as well , were caused by a buildup of hydrogen .</s>
+<s id='vn17'>Các quan chức cho biết các vụ nổ xảy ra đầu tiên ở lò phản ứng số ba và có thể ảnh hưởng đến lò số bốn do gia tăng khí hy-đrô .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Chief Cabinet Secretary Yukio Edano said cooling seawater was being pumped into reactors one and three - which were returning to normal - and into reactor two , which remained unstable .</s>
+<s id='vn18'>Chánh văn phòng Nội các ông Yukio Edano nói rằng đã bơm nước biển để làm lạnh vào lò phản ứng số một và số ba và chúng đã trở lại bình thường còn lò phản ứng số hai vẫn chưa ổn định .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Japan 's nuclear safety agency said earlier it suspected the blast may have damaged reactor two 's suppression chamber , which would have allowed radioactive steam to escape .</s>
+<s id='vn19'>Cơ quan an toàn hạt nhân của Nhật cho biết họ đã sớm nghi ngờ vụ nổ có thể làm thiệt hại khoang nén của lò phản ứng số hai để hơi hạt nhân thoát ra .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Health hazard</s>
+<s id='vn20'>Mối hiểm hoạ về sức khoẻ</s>
+</spair>
+<spair id='21'>
+<s id='en21'>After Tuesday 's explosions and fire , radiation dosages of up to 400 millisieverts per hour were recorded at the Fukushima Daiichi site , about 250km north-east of Tokyo .</s>
+<s id='vn21'>Sau vụ cháy nổ ngày thứ Ba , liều lượng phóng xạ lên đến 400 millisieverts giờ đã được ghi lại tại nhà máy Fukushima Daiichi , cách Tokyo khoảng 250km về phía đông bắc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>A single dose of 1,000 millisieverts causes temporary radiation sickness such as nausea and vomiting .</s>
+<s id='vn22'>Chỉ một liều lượng khoảng 1,000 millisieverts có thể gây ra bệnh nhiễm phóng xạ tạm thời như buồn nôn và ói .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Later , a reading of 0.6 millisieverts ( mSv ) per hour was recorded at the plant 's main gate , the International Atomic Energy Agency ( IAEA ) said .</s>
+<s id='vn23'>Cơ quan năng lượng nguyên tử quốc tế ( IAEA ) cho biết tại cổng chính của nhà máy , lượng phóng xạ được ghi là 0.6 millisieverts ( mSv ) giờ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Japan has also announced a 30-km no-fly zone around the site to prevent planes spreading the radiation further afield .</s>
+<s id='vn24'>Nhật cũng đã thông báo không cho máy bay vào khu vực cấm bay 30km quanh nhà máy nhằm ngăn chặn phát tán phóng xạ ra xa hơn nữa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Three other nuclear power plants shut down automatically during Friday 's earthquake .</s>
+<s id='vn25'>Ba nhà máy hạt nhân còn lại tự động đóng lại khi động đất vào hôm thứ Sáu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The loss of so much generating capacity in one blow has meant rolling blackouts have had to imposed on parts of the country .</s>
+<s id='vn26'>Việc mất quá nhiều năng lượng tạo ra trong vụ nổ cũng giống như mất nguồn điện đang hoạt động khiến mọi hoạt động trong cả nước phải gánh chịu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The repeated releases of different amounts of radiation - some large , some small - are unnerving the Japanese and their neighbours nations , who want reassurances that the situation will soon be brought under control , says the BBC 's reporters Hogg in Tokyo .</s>
+<s id='vn27'>Việc phát tán hàm lượng phóng xạ khác nhau lặp đi lặp lại , khi nhỏ khi lớn khiến người Nhật và các nước lân cận lo ngại , phóng viên BBC tại Tokyo cho biết mọi người muốn yên tâm rằng tình hình này sẽ sớm được giải quyết .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>US President Barack Obama defended nuclear power as an important source of energy , despite new questions raised about its safety .</s>
+<s id='vn28'>Tổng thống Hoa Kỳ Barack Obama ủng hộ năng lượng hạt nhân như là một nguồn năng lượng quan trọng mặc dù có nhiều vấn đề đặt ra về độ an toàn của nó .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In a television interview on Tuesday , he said he was " deeply worried " about radiations leaks in Japan , but added : " The nuclear facilities that we have here are closely monitored ...</s>
+<s id='vn29'>Trong buổi phỏng vấn trên truyền hình vào ngày thứ Ba , tổng thống nói rằng ông " vô cùng lo lắng " về vụ rò rỉ hạt nhân ở Nhật , nhưng ông cũng nói rằng " các cơ sở hạt nhân mà chúng ta có ở đây đều được kiểm soát chặt chẽ …</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I do think that it is important for us to think through constantly how we improve nuclear technologies to deal with additional safety concerns that people have . "</s>
+<s id='vn30'>Tôi cho rằng điều quan trọng là chúng ta luôn luôn biết xem xét đầy đủ làm thế nào chúng ta cải thiện các công nghệ hạt nhân để đối phó với những mối lo lắng thêm về an toàn hạt nhân " .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>On the Tokyo stock exchange , the Nikkei index rose 6 % in early trading on Wednesday , after plummeting 20 % over the previous two days .</s>
+<s id='vn31'>Trên thị trường chứng khoán Tokyo , chỉ số Nikkei tăng 6% ở phiên giao dịch sớm vào ngày thứ Tư sau khi tụt xuống 20% vào hai ngày vừa qua .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>More than 500,000 people have been made homeless by the quake .</s>
+<s id='vn32'>Hơn 500.000 người trở thành vô gia cư do vụ động đất gây ra .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The government has deployed 100,000 troops to lead the aid effort .</s>
+<s id='vn33'>Chính phủ đã điều động 100.000 binh lính nhằm nổ lực cứu trợ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The UK Foreign Office has updated its travel advice to warn against all non-essential travel to Tokyo and north-eastern Japan .</s>
+<s id='vn34'>Bộ ngoại giao Anh đã cập nhật thông tin về hướng dẫn du lịch để khuyến cáo những chuyến du lịch không cần thiết đến Tokyo và miền đông bắc Nhật Bản .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>British nationals and friends and relatives of those in Japan can contact the Foreign Office on +44(0)2070080000 .</s>
+<s id='vn35'>Kiều dân Anh , bạn bè và thân nhân ở Nhật có thể liên lạc theo số +44(0)2070080000 của Bộ Ngoại giao .</s>
+</spair>
+</text>
+</doc>

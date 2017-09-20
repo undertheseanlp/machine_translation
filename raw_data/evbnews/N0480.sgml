@@ -1,0 +1,324 @@
+﻿<doc id='N0480'>
+<head>
+<title>Are you a tiger mom ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Are you a tiger mom ?</s>
+<s id='vn1'>Bạn có phải là một " con hổ mẹ " ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Experts say most parents are too lenient with their kids .</s>
+<s id='vn2'>Nhiều chuyên gia cho rằng hầu hết bố mẹ đều quá dễ dãi , nuông chiều con cái .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But some fall into the opposite camp .</s>
+<s id='vn3'>Nhưng cũng có một số người hoàn toàn trái ngược .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>16 signs you 're too strict with your kids</s>
+<s id='vn4'>16 dấu hiệu cho thấy bạn quá khắt khe với con</s>
+</spair>
+<spair id='5'>
+<s id='en5'>If this is you , it may be time to change your discipline style .</s>
+<s id='vn5'>Nếu bạn cũng như thế thì có lẽ đã đến lúc phải thay đổi kiểu kỹ luật của mình rồi đấy .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>If your 4-year-old gets sassy at the dinner table , do you wash her mouth out with soap , give her a time-out , or take away a prized position ?</s>
+<s id='vn6'>Nếu bé con 4 tuổi của bạn hỗn láo ngay tại bàn ăn tối thì bạn có rửa miệng cho nó bằng xà phòng , cho nó nghỉ ăn , hay không cho nó ngồi chỗ đó nữa ?</s>
+</spair>
+<spair id='7'>
+<s id='en7'>What about your fifth grader who is not doing well in school and refuses to do his homework -- do you take away his television or video privileges ?</s>
+<s id='vn7'>Còn nếu đứa con lớp năm của bạn học kém ở trường và không chịu làm bài tập ở nhà thì bạn có không cho nó coi ti-vi hoặc vi-đi-ô không ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And what do you do when your teen starts missing curfew ?</s>
+<s id='vn8'>Và bạn sẽ làm gì nếu con mình ở tuổi teen bắt đầu không tuân thủ theo nguyên tắc ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Discipline dilemmas plague all parents .</s>
+<s id='vn9'>Bậc cha mẹ nào cũng phiền toái với những tình thế khó xử về kỹ luật của mình .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>How can you tell if you are taking your discipline techniques too far or not far enough ?</s>
+<s id='vn10'>Làm sao bạn có thể biết được là đã quá khắt khe với con hay là chưa đủ nghiêm khắc ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>That classic parenting dilemma is at the heart of controversy about Amy Chua 's memoir , The Battle Hymn of the Tiger Mother .</s>
+<s id='vn11'>Tình thế tiến thoái lưỡng nan của người làm bố mẹ cổ điển là tâm điểm bất đồng về truyện ký của tác giả Amy Chua , The Battle Hymn of the Tiger Mother .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In the book , Chua calls her eldest daughter " garbage " for being disrespectful in front of guests , throws away a homemade birthday card because it was n't up to snuff , bans sleepovers , and refuses to accept anything other than straight A 's from her two daughters .</s>
+<s id='vn12'>Trong tác phẩm này , Chua gọi con gái lớn của mình là " rác rưởi , đồ vô dụng " vì tội vô lễ trước mặt khách , bà quăng tấm thiệp sinh nhật tự làm của em đi vì nó không đẹp , cấm em không được ngủ qua đêm ở nhà người lạ , không chấp thuận được điều gì ngoài điểm A của 2 con gái .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>That 's left many parents wondering if they are too strict , or perhaps too lenient , with their own children - and what effect it will have on their children when they grow up .</s>
+<s id='vn13'>Điều này làm cho nhiều bậc làm cha mẹ phải hoang mang không biết là mình có quá nghiêm khắc , hoặc quá dễ dãi với con - và con cái mình sẽ bị ảnh hưởng thế nào khi chúng trưởng thành .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" In America , we tend not to be strict enough and everyone wants to be friends with kids , " says Elizabeth J. Short , PhD , a psychology professor and the associate director of the Schubert Center at Case Western Reserve University in Cleveland .</s>
+<s id='vn14'>Tiến sĩ Elizabeth J. Short , giáo sư tâm lý học và phó giám đốc của Trung tâm Schubert ở Trường Đại học Case Western Reserve , Cleveland cho biết " Ở Mỹ , chúng tôi thường không khắt khe với trẻ con và ai cũng muốn làm bạn với chúng . " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But being too strict is risky because it could undermine the kids .</s>
+<s id='vn15'>Nhưng hành vi quá nghiêm khắc cũng rất nguy hiểm bởi nó có thể ngấm ngầm làm hại đứa trẻ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" They are eager to please their parents and worried about parental approval , so you end up with kids that are anxious and indecisive , " Short says .</s>
+<s id='vn16'>Short cũng cho hay " Bọn trẻ rất muốn làm vui lòng bố mẹ và lo lắng về sự đồng ý của bố mẹ , thế nên bạn làm cho chúng không còn hồi hộp và do dự nữa . " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" Or sometimes they know there is no way they can hit the bar you have set , so they do n't even try . "</s>
+<s id='vn17'>" Hoặc đôi khi chúng biết chẳng có cách nào đạt được mục tiêu bạn đặt ra , nên chúng thậm chí là chẳng cố gắng làm gì . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Here are 16 signs that you are too strict with your kids , and what you can do about it .</s>
+<s id='vn18'>Dưới đây là 16 dấu hiệu cho thấy bạn quá khắt khe với con , và điều bạn có thể làm ngay bây giờ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>1 . You set too many rules .</s>
+<s id='vn19'>1 . Bạn đưa ra quá nhiều luật .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" It is a sign that you are too strict if you set so many rules that you can't possibly enforce them all ," says Nancy Darling , PhD , a psychology professor at Oberlin College in Oberlin , Ohio .</s>
+<s id='vn20'>Tiến sĩ Nancy Darling , nhà giáo sư tâm lý học ở Trường Đại học Oberlin , Oberlin , Ohio cho biết " Đây là dấu hiệu cho thấy bạn quá nghiêm khắc nếu đặt ra quá nhiều luật đến nỗi không tài nào thực hiện được .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Instead , set fewer rules and reinforce them very consistently .</s>
+<s id='vn21'>Thay vì vậy , hãy nên đưa ra ít nguyên tắc hơn và củng cố chúng thường xuyên .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Follow-through is really important , " .</s>
+<s id='vn22'>" Thực hiện được mới thực sự là quan trọng . " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>2 . Your threats are over the top .</s>
+<s id='vn23'>2 . Bạn hăm doạ con quá đáng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Saying ' I am going to destroy all your toys ' or 'throw you out of the house ' won't work because if your kid says 'fine' , all you can do is back down , " Darling says .</s>
+<s id='vn24'>Darling chia sẻ thêm những câu nói kiểu " Mẹ sẽ đập hết đồ chơi của con " hoặc " quăng con ra đường " sẽ chẳng có tác dụng gì đâu bởi nếu con bạn trả lời là " Vâng . Mẹ cứ làm đi " , thì giờ bạn nên kiềm chế , rút lui , " .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" What you have done is make an empty threat , and taught your child to misbehave , " she says .</s>
+<s id='vn25'>" Cách hăm doạ của bạn chỉ là lối doạ suông , và dạy cho bé cư xử không đúng đắn , " .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" It 's a problem when you can't back down and know that you have made a mistake because you do n't even believe in what you are doing anymore . "</s>
+<s id='vn26'>" Thật rắc rối nếu bạn không chịu chấp thuận và không biết mình mắc lỗi bởi thậm chí bạn không còn tin vào điều mình đang làm nữa . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>3 . Your rules overstep your parental boundaries .</s>
+<s id='vn27'>3 . Quy tắc của bạn vượt khuôn khổ của bố mẹ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Parents can and should set rules about how a child does in school , treats other people , and safety issues , " Darling says .</s>
+<s id='vn28'>Darling cho biết " Bố mẹ có thể và nên đặt cho con nhiều nguyên tắc về cách hoạt động , học tập ở trường , vấn đề an toàn và cư xử với người khác . " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Rules about safety and moral issues are OK , but rules about personal issues may not be appropriate , she says .</s>
+<s id='vn29'>Các luật lệ về an toàn và vấn đề đạo đức lúc nào cũng được hoan nghênh , nhưng đối với các vấn đề cá nhân thì có lẽ không phù hợp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>It is not always so black and white , because parents and kids do n't always agree about which issues are personal and which are related to safety or morals .</s>
+<s id='vn30'>Không phải lúc nào cũng trắng đen rạch ròi bởi bố mẹ và con cái không phải lúc nào cũng thống nhất với nhau chuyện gì là riêng tư và chuyện gì là an toàn và thuộc về đạo đức .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" Sometimes what the parents say is about safety or morality , kids say is personal . " .</s>
+<s id='vn31'>" Đôi khi bố mẹ cho là an toàn và đạo đức thì con cái lại nghĩ rằng đó là việc cá nhân . " .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>For instance , music with violent or demeaning lyrics may strike parents as something to set rules about to avoid bad influences , but their teens may say it 's just their personal taste .</s>
+<s id='vn32'>Chẳng hạn như , nhạc bạo lực hoặc âm lời thô thiển có thể làm cho bố mẹ bị sốc và không muốn cho con nghe nhằm tránh ảnh hưởng xấu , nhưng giới thanh thiếu niên lại có thể cho rằng đó chỉ là sở thích cá nhân .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>4 . Your love is conditional ( or your words sound that way ) .</s>
+<s id='vn33'>4 . Tình yêu bạn dành cho con có điều kiện ( hoặc ngôn lời của bạn nghe có vẻ như thế ) .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" Say , " I always love you , but I expect you to behave in this way " or , " I know you can do better , " " Darling says .</s>
+<s id='vn34'>Darling khuyên bạn nên nói với con " Mẹ lúc nào cũng yêu con , nhưng mẹ muốn con cư xử theo cách này " , hoặc " Mẹ biết con có thể làm được tốt hơn mà " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Do n't say , " You are garbage if you do n't behave in this way . " "</s>
+<s id='vn35'>Đừng nói với trẻ " Con là thứ vô dụng nếu không làm như thế này . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The latter is attacking your child 's core .</s>
+<s id='vn36'>Kiểu nói này có thể công kích nhân cách của trẻ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>5 . You do n't watch your words .</s>
+<s id='vn37'>5 . Bạn không giữ gìn , để ý lời nói của mình .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>It 's not just how you say it ; it is what you say .</s>
+<s id='vn38'>Điều quan trọng không phải chỉ là cách bạn nói mà là lời bạn nói ra .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Even if your tone is measured , your words matter .</s>
+<s id='vn39'>Cho dù là giọng của bạn có êm ái , dịu dàng đi nữa thì ngôn từ của bạn mới là vấn đề .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" Calm voices can say humble things , " .</s>
+<s id='vn40'>" Giọng nói dịu dàng , điềm tĩnh có thể nói điều ôn hoà , khiêm tốn . " .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>" Content is more important than the way it is said . "</s>
+<s id='vn41'>" Nội dung quan trọng hơn nhiều so với cách truyền đạt lời nói . "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>6 . You do n't put in the time .</s>
+<s id='vn42'>6 . Bạn không dành thời gian cùng con .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>When you do ask your child to do something difficult , work alongside them instead of ordering them to do it .</s>
+<s id='vn43'>Khi yêu cầu trẻ làm một việc gì đó khó khăn , hãy nên đồng hành với chúng thay vì ra lệnh và bắt chúng tự làm lấy .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" Good parenting is about putting the time in " .</s>
+<s id='vn44'>" Bố mẹ tốt sẽ cùng con làm mọi thứ đấy . " .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>7 . You are always the cop , nag , monitor , or reminder .</s>
+<s id='vn45'>7 . Bạn luôn làm mật thám , cằn nhằn , theo dõi ; hoặc nhắc nhở .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>If these are the mainstays of your relationship to the exclusion of many other things that one could and should do as a parent , you may be too strict , " says Ron Taffel , PhD , a New York child psychologist and the author of several books on parenting , including Childhood Unbound .</s>
+<s id='vn46'>ngoài những điều mà các bậc bố mẹ khác có thể làm , nếu mối quan hệ của bạn thường như thế thì có lẽ là bạn quá nghiêm khắc rồi đấy , Tiến sĩ Ron Taffel , nhà tâm lý trẻ em ở New York và là tác giả của một số sách dạy làm bố mẹ , như quyển Childhood Unbound .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>8 . Your child leaves you out .</s>
+<s id='vn47'>8 . Con trẻ không muốn đến gần bạn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>" If your child talks to you less and less about the things that matter , this could be a sign that you are too strict , " Taffel says .</s>
+<s id='vn48'>Theo Taffel , " Nếu trẻ ngày càng nói chuyện với bạn ít dần về những điều quan trọng thì có lẽ đây là dấu hiệu cho thấy bạn quá khắt khe với con " .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" You can win the battle , but lose the war .</s>
+<s id='vn49'>" Bạn có thể thắng trận đấy , nhưng đã mất cuộc chiến .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>You can get your child to do things that you like them to do , but they are not opening up to you about the things that make them anxious or uneasy . "</s>
+<s id='vn50'>Bạn có thể bắt con làm những gì bạn thích , nhưng chúng không nói cho bạn biết về điều làm chúng lo âu hoặc làm chúng không thoải mái tí nào . "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>9 . Your children do n't bring their friends over anymore .</s>
+<s id='vn51'>9 . Con của bạn không dẫn bạn về nhà nữa .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" Kids want rules and all kids will gravitate to a house with rules , but if you spend your time reminding children about the rules , criticizing your child in front of other kids , and asking too many probing questions , your kids may stop bringing their friends by , " Taffel says .</s>
+<s id='vn52'>Taffel chia sẻ " Trẻ nhỏ nào cũng thích có nguyên tắc và chuộng gia đình có nguyên tắc , nhưng nếu bạn cứ luôn miệng nhắc con về luật này , luật nọ , chỉ trích , mắng mỏ con trước mặt những đứa trẻ khác , và hỏi quá nhiều câu hỏi thăm dò , thì ắt là con bạn có thể sẽ chẳng dẫn bạn bè về nhà nữa đâu .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>" If children do ask for return play dates , and other kids talk to you and approach you , you have made your house a home that kids want to be in . "</s>
+<s id='vn53'>" Nếu trẻ con xin lại chơi lần sau , và nhiều đứa trẻ khác nói chuyện với bạn và đến gần bên bạn , thì bạn đã làm ngôi nhà mình trở thành chỗ mà bọn trẻ muốn ở rồi đó . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>10 . Your child is seen , not heard .</s>
+<s id='vn54'>10 . Bạn chỉ quan sát con , bạn chưa từng lắng nghe con .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" In the 21st century - with kids Twittering , tweeting and Facebooking -- they expect to be heard , " Taffel says .</s>
+<s id='vn55'>" Vào thế kỷ 21 - khi mà trẻ tiếp xúc với Twitter , tweet và Facebook – thì chúng có nhu cầu muốn được người khác lắng nghe mình " Taffel cho biết .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" You are too strict if you do n't give kids two or three minutes in the spotlight a day to state their opinion , " .</s>
+<s id='vn56'>" Bạn quả là quá nghiêm khắc nếu không cho trẻ 2 đến 3 phút một ngày để bày tỏ ý kiến của mình . " .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>" You do n't have to agree with them or do what they are saying , but you should allow them the time to say it . "</s>
+<s id='vn57'>" Chẳng cần phải đồng ý hoặc làm điều con nói đâu , nhưng bạn nên cho con thời gian để nói ra điều mình suy nghĩ . "</s>
+</spair>
+<spair id='58'>
+<s id='en58'>11 . Your child is all work and no play .</s>
+<s id='vn58'>11 . Ham học – Bỏ chơi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>" Kids need comfort time and downtime to synthesize what they have learned , " Taffel says .</s>
+<s id='vn59'>Theo Taffel " Trẻ con cần thời gian thư giãn thoải mái và nghỉ ngơi để tổng hợp những gì đã học được . " .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>" If they are filled with skills , knowledge , and information that they can't use and are just learning for the sake of learning , their brains end up like sponges absorbing things , but they have no idea what it all means . "</s>
+<s id='vn60'>" Nếu cứ nhồi nhét vào đầu trẻ toàn những kỹ năng , kiến thức , và thông tin mà chúng không sử dụng được và học là chỉ để học mà thôi , thì bộ não dần dần cũng như những miếng bọt biển thấm vào nhiều thứ , mà không biết chúng có ý nghĩa gì . "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>12 . You are the only one .</s>
+<s id='vn61'>12 . Bạn là người duy nhất .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>" Find out what other parents are doing , " .</s>
+<s id='vn62'>" Bạn hãy tìm hiểu xem các bậc cha mẹ khác làm gì nhé . "</s>
+</spair>
+<spair id='63'>
+<s id='en63'>" When no other parents are doing the same exact thing as you such as not allowing your children to go online even with parental supervision , you may be too strict . "</s>
+<s id='vn63'>" Nếu chẳng một ai làm giống như bạn , chẳng hạn như cấm con không được online thậm chí ngay khi có sự quản lý của bố mẹ , thì có lẽ là bạn quá khắt khe . "</s>
+</spair>
+<spair id='64'>
+<s id='en64'>13 . You forbid anything .</s>
+<s id='vn64'>13 . Bạn cấm con bất cứ thứ gì .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>" You don't encourage something , but you also don't forbid it , " Short says .</s>
+<s id='vn65'>Short cho hay " Bạn không khuyến khích con một thứ gì , nhưng cũng không cấm . " .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>" Say , 'I 'd rather you did n't do this for these reasons , but if you choose to do it anyway , I may keep a closer watch on you because of my concerns . " "</s>
+<s id='vn66'>Hãy nói với trẻ " Mẹ muốn con đừng làm việc đó bởi những lý do này , nhưng nếu con thích làm , thì mẹ sẽ canh chừng con nhiều hơn vì mẹ lo lắng . "</s>
+</spair>
+<spair id='67'>
+<s id='en67'>14 . The rules are the rules , no questions asked .</s>
+<s id='vn67'>14 . Nguyên tắc là nguyên tắc , không hỏi han gì hết .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>" You have to have rules in place , so your children know they can be broken , " Short says .</s>
+<s id='vn68'>" Bạn phải đưa ra nguyên tắc , luật lệ đúng nơi đúng chỗ , vì vậy con bạn biết là các nguyên tắc ấy có thể bị phá vỡ . " Short cho biết .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" There have to be clear , consistent rules because it helps with predictability and expectations , but there also needs to be some wiggle room in special situations . "</s>
+<s id='vn69'>" Nguyên tắc phải rạch ròi , nhất quán bởi có thể giúp người ta hiểu và đoán được chuyện gì xảy ra sau đó , nhưng cũng cần linh động , mềm dẻo trong những trường hợp đặc biệt . "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>For example , if your child has a midnight curfew but the designated driver is drunk , they need to feel comfortable phoning home to ask for leniency , she says .</s>
+<s id='vn70'>Chẳng hạn như , nếu trẻ có lệnh giới nghiêm là phải ở nhà trước 12 giờ đêm nhưng tài xế đưa con bạn về bị say rượu thì chúng cần cảm thấy thoải mái khi gọi điện về nhà xin tha thứ .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>15 . If you are authoritarian , not authoritative .</s>
+<s id='vn71'>15 . Nếu bạn độc đoán , mà không quyết đoán .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>There 's a difference , .</s>
+<s id='vn72'>Có sự khác biệt đấy .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Authoritative parents set clear expectations and can be hard on their kids , but they do it out of warmness and concern for a child 's betterment whereas authoritarian parents say " It 's my way or the highway . "</s>
+<s id='vn73'>Những bố mẹ quyết đoán thường cho con trẻ hiểu kỳ vọng của mình một cách rõ ràng và có thể là nghiêm khắc với con , nhưng họ làm điều ấy bằng tình thương và quan tâm đến sự cải thiện , phát triển tốt hơn của trẻ trong khi bố mẹ độc đoán lại có cách thực hiện khác " Đó là cách của bố ( mẹ ) hoặc đường lối của bố ( mẹ ) . "</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Authoritarian parents are " controlling and not warm " .</s>
+<s id='vn74'>Họ " kiểm soát mà không thiện cảm " .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>" An authoritative parent is age-appropriately controlling and also warm . "</s>
+<s id='vn75'>" Bố mẹ quyết đoán kiểm soát con mình phù hợp từng độ tuổi với tất cả sự nhiệt tình và yêu thương . "</s>
+</spair>
+<spair id='76'>
+<s id='en76'>16 . You are as cold as ice .</s>
+<s id='vn76'>16 . Bạn lạnh như băng .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" Nobody cares if parents are tough as long as they are warm , " Short says .</s>
+<s id='vn77'>Short chia sẻ " Chẳng ai để ý là bố mẹ có khó khăn hay không miễn là họ thân thiện " .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>" It 's when you are tough and cold that is really the problem . "</s>
+<s id='vn78'>" Vấn đề quan trọng ở đây là khi nào bạn khó khăn và lạnh lùng . "</s>
+</spair>
+</text>
+</doc>

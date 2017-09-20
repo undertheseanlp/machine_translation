@@ -1,0 +1,116 @@
+﻿<doc id='N0532'>
+<head>
+<title>Is Copycat Behavior Driving Murder-Suicides ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Is Copycat Behavior Driving Murder-Suicides ?</s>
+<s id='vn1'>Có phải tập tính bắt chước là động lực thúc đẩy việc giết người rồi tự tử ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>AP - Rick Bedell kneels over a memorial as wife Lucy Bedell consoles him at the entrance of Athens Community .</s>
+<s id='vn2'>Hãng tin AP - Rick Bedell quỳ trước đài tưởng niệm tại cổng vào Athens Community trong khi người vợ an ủi ông .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>By Maia Szalavitz - Apr 26 Sun , 5:45 pm ( ET )</s>
+<s id='vn3'>Maia Szalavitz - Chủ Nhật ngày 4 , 5:45 chiều ( ET )</s>
+</spair>
+<spair id='4'>
+<s id='en4'>On March 30 , a Santa Clara , Calif. , man shot five people to death , including three children , before killing_himself .</s>
+<s id='vn4'>Vào ngày 30 tháng 3 , Santa Clara , một đàn ông California , đã bắn chết 5 người , trong đó có 3 trẻ em trước khi tự sát .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>On April 3 , a gunman went on a shooting rampage in an immigration center in Binghamton , New York , killing 13 people before taking his own life .</s>
+<s id='vn5'>Vào ngày 3 tháng 4 , một kẻ có súng đã xả súng điên cuồng trong trung tâm nhập cư ở Binghamton , New York , giết chết 13 người sau đó tự kết liễu .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>And on April 20 , employees of a Sheraton Hotel in Maryland found the bodies of a husband and wife and two daughters , victims of another apparent murder-suicide .</s>
+<s id='vn6'>Và vào ngày 20 tháng 4 , các nhân viên của khách sạn Sheraton ở Maryland đã tìm thấy thi thể của một cặp vợ chồng cùng 2 con gái , nạn nhân của một vụ giết người rồi tự sát khác .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>These are only the most publicized of the recent murder-suicide crimes in the U.S .</s>
+<s id='vn7'>Đây chỉ là những trường hợp được biết đến nhiều nhất trong những vụ giết người rồi tự sát trong thời gian gần đây tại Mỹ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It is also not clear whether the spate of recent deaths represents an escalation in the typical murder-suicide death toll .</s>
+<s id='vn8'>Cũng không có bằng chứng rõ ràng liệu có phải sự gia tăng đột ngột của những cái chết gần đây là kết quả của sự leo thang trong tổng số người bị giết trong các vụ thảm sát điển hình .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But it has got some observers wondering why .</s>
+<s id='vn9'>Nhưng nó cũng làm cho mọi người tự hỏi tại sao .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Past research suggests that factors ranging from the time of year ( suicides are more common in spring ) to the financial climate may have an impact on the rates of suicide and murder ; in the recent events , the apparent motive of the killers included sexual jealousy and economic despair .</s>
+<s id='vn10'>Nghiên cứu trong quá khứ đưa ra giả thuyết là những yếu tố thay đổi từ thời gian trong năm ( các vụ tự tử thường xảy ra nhiều hơn vào mùa xuân ) đến tình trạng tài chính có thể có tác động lên tỷ lệ tự tử và giết người ; trong các vụ gần đây , động cơ chính của những kẻ giết người là do ghen tuông và tuyệt vọng về kinh tế .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But Steven Stack , professor of psychiatry and criminal justice at Wayne State University , offers another explanation : the copycat effect .</s>
+<s id='vn11'>Nhưng giáo sư tâm lý học tội phạm Steven Stack tại đại học Wayne State lại đưa ra một cách giải thích khác : hiệu ứng bắt chước .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The copycat theory was first conceived by a criminologist in 1912 , after the London newspapers " wall-to-wall coverage of the brutal crimes of Jack the Ripper in the late 1800s led to a wave of copycat rapes and murders throughout England .</s>
+<s id='vn12'>Giả thiết về sự bắt chước này được đưa ra đầu tiên bởi một nhà tội phạm học vào năm 1912 , sau khi tờ thời báo Luân Đôn đưa hàng loạt tin về những tội ác tàn bạo của tên " thợ xẻ " Jack vào cuối những năm 1800 , dẫn đến một làn sóng những vụ hãm hiếp và giết người tương tự trên khắp nước Anh .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Since then , there has been much research into copycat events - mostly copycat suicides , which appear to be most common - but , taken together , the findings are inconclusive .</s>
+<s id='vn13'>Từ đó , có rất nhiều nghiên cứu về những vụ bắt chước theo , hầu hết là các vụ tự tử do bắt chước , các vụ như vậy có vẻ phổ biến nhất - nhưng đồng thời các kết quả nghiên cứu vẫn không đem lại kết luận cuối cùng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In a 2005 review of 105 previously published studies , Stack found that about 40% of the studies suggested an association between media coverage of suicide , particularly celebrity suicide , and suicide rates in the general public .</s>
+<s id='vn14'>Vào năm 2005 , trong một thống kê 105 nghiên cứu đã công bố trước đó , Stack thấy rằng khoảng 40% các nghiên cứu cho rằng có sự liên quan giữa những tin tức về tự tử , đặc biệt là cái chết của những nhân vật tiếng tăm , và các tỷ lệ tự tử trong quảng đại quần chúng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>He also found a dose-response effect : The more coverage of a suicide , the greater the number of copycat deaths .</s>
+<s id='vn15'>Ông cũng thấy rằng có một hội chứng bắt chước : Càng nhiều tin tức về một vụ tự tử của một nhân vật nổi tiếng , càng nhiều vụ tự tử do bắt chước theo .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>But 60 % of past research found no such link .</s>
+<s id='vn16'>Nhưng 60% các nghiên cứu trước đây đã không tìm ra mối liên hệ như vậy .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Stack explains in his studies that were able to find associations were those that tended to involve celebrity death or heavy media coverage - factors that , unsurprisingly , tend to co-occur .</s>
+<s id='vn17'>Trong nghiên cứu của mình Stack giải thích rằng có thể tìm ra các mối liên hệ là những nghiên cứu xem xét đến những cái chết của các nhân vật nổi tiếng và tin tức truyền thông rầm rộ - những yếu tố mà , không đáng ngạc nhiên , thường đi cùng với nhau .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" The stories that are most likely to have an impact are ones that concern entertainment and political celebrities . " Stack says</s>
+<s id='vn18'>Theo Stack , " Những chuyện thường có khả năng gây tác động nhiều nhất là những chuyện liên quan đến các nhân vật nổi tiếng trong giới giải trí và chính trị .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Coverage of these suicides is 5.2 times more likely to produce a copycat effect than coverage of ordinary people 's suicides " .</s>
+<s id='vn19'>Tin tức truyền thông về những vụ tự tử như vậy có khả năng tạo nên tác động tự tử " ăn theo " cao gấp 5.2 lần so với tin tức về những vụ tự sát của người bình thường " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In the month after Marilyn Monroe 's death , for example , the suicide rate in the U.S. rose by 12% .</s>
+<s id='vn20'>Ví dụ như tỷ lệ các vụ tự sát ở Mỹ tăng lên 12% chỉ trong vòng một tháng sau cái chết của Marilyn Monroe .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Stack also conducted the only study to examine whether murder-suicide ( as opposed to suicide alone ) is associated with copycat crimes .</s>
+<s id='vn21'>Stack cũng khảo sát một nghiên cứu xem xét liệu việc giết người rồi tự sát có liên hệ với các tội ác do bắt chước theo hay không ( trái với việc tự tử đơn thuần ) .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>That study , published 20 years ago , analyzed the impact of media coverage of mass murders and murder-suicides between 1968 and 1980 .</s>
+<s id='vn22'>Nghiên cứu này , đã được công bố cách đây 20 năm , phân tích tác động của tin tức truyền thông đối với các vụ giết người và thảm sát hàng loạt từ năm 1968 đến 1980 .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The study found no associated increase in homicide rates , but did note an uptick in suicide after well-publicized events .</s>
+<s id='vn23'>Nghiên cứu không tìm thấy sự gia tăng liên đới trong tỷ lệ vụ giết người , nhưng đã lưu ý đến sự gia tăng trong số vụ tự sát sau khi các sự kiện này được công bố rộng rãi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" There was a significant increase in national monthly suicide rates , " he said .</s>
+<s id='vn24'>Ông cho biết , " Tỷ lệ tự tử hàng tháng trong nước đã tăng đáng kể .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" It is a fairly substantial association and was independent of major control variables like the unemployment rate .</s>
+<s id='vn25'>Rõ ràng có một mối liên hệ hoàn toàn có thật và không phụ thuộc vào các biến số kiểm soát chủ yếu giống như tỷ lệ thất nghiệp " .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For now , it seems that the reason behind the recent series of murder-suicides will remain unclear , but whether it 's the economy , the season , gun availability or copycatting , it will be no simple task figuring out how to stop them .</s>
+<s id='vn26'>Cho đến bây giờ , dường như lý do đằng sau hàng loạt các vụ thảm sát gần đây vẫn chưa được lý giải , nhưng cho dù nó là do vấn đề kinh tế , khí hậu , quyền mua bán và sở hữu súng hay do tác động bắt chước , thì tìm ra cách để ngăn chặn nó vẫn không hề là một nhiệm vụ đơn giản .</s>
+</spair>
+</text>
+</doc>

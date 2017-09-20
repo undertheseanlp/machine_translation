@@ -1,0 +1,128 @@
+﻿<doc id='N0901'>
+<head>
+<title>Loneliness linked to disrupted sleep</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Loneliness linked to disrupted sleep</s>
+<s id='vn1'>Cô đơn dẫn đến giấc ngủ bị đứt quãng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A new US study reports this week that loneliness is linked to sleep disruption : people who scored themselves high on loneliness were also the ones whose monitored sleep patterns were most fragmented .</s>
+<s id='vn2'>Một nghiên cứu mới của Mỹ báo cáo tuần này cho rằng sự cô đơn là liên quan đến rối loạn giấc ngủ : những người đã tự cho rằng mình cô đơn nhiều cũng là những người có mô hình giấc ngủ được theo dõi đã bị đứt quãng nhiều nhất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Reporting their findings in the 1 November issue of the journal Sleep , lead author Dr Lianne Kurina , of the Department of Health Studies at the University of Chicago , and colleagues found however , that loneliness does not appear to be linked to duration of sleep .</s>
+<s id='vn3'>Báo cáo về những phát hiện của họ trên số ra ngày 01 tháng 11 của tạp chí Giấc ngủ , tác giả chính , Tiến sĩ Lianne Kurina , Khoa Nghiên cứu Sức Khỏe tại Đại học Chicago , và các đồng nghiệp tìm thấy , tuy nhiên , sự cô đơn dường như không liên quan đến thời gian của giấc ngủ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>A new US study reports this week that loneliness is linked to sleep disruption : people who scored themselves high on loneliness were also the ones whose monitored sleep patterns were most fragmented .</s>
+<s id='vn4'>Một nghiên cứu mới của Mỹ báo cáo tuần này cho rằng sự cô đơn là liên quan đến rối loạn giấc ngủ : những người đã tự cho rằng mình cô đơn nhiều cũng là những người có mô hình giấc ngủ được theo dõi đã bị đứt quãng nhiều nhất .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Reporting their findings in the 1 November issue of the journal Sleep , lead author Dr Lianne Kurina , of the Department of Health Studies at the University of Chicago , and colleagues found however , that loneliness does not appear to be linked to duration of sleep .</s>
+<s id='vn5'>Báo cáo về những phát hiện của họ trên số ra ngày 01 tháng 11 của tạp chí Giấc ngủ , tác giả chính , Tiến sĩ Lianne Kurina , Khoa Nghiên cứu Sức Khỏe tại Đại học Chicago , và các đồng nghiệp tìm thấy , tuy nhiên , sự cô đơn dường như không liên quan đến thời gian của giấc ngủ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In a press release from the American Academy of Sleep Medicine , Kurina said that :</s>
+<s id='vn6'>Trong một thông cáo báo chí từ Học viện Y khoa về giấc ngủ của Hoa Kỳ , Kurina cho biết :</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" The relationship between loneliness and restless sleep appears to operate across the range of perceived connectedness . "</s>
+<s id='vn7'>" Mối quan hệ giữa sự cô đơn và giấc ngủ bị ngắt quãng dường như có tác động qua lại trên phạm vi của mối liên hệ cảm nhận được . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>She and her co-authors were interested in further exploring reports that loneliness is linked to poor health .</s>
+<s id='vn8'>Cô và các đồng tác giả rất quan tâm đến các các báo cáo sâu hơn khám phá ra rằng sự cô đơn liên quan đến sức khỏe kém .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>One theory is that lonely people do n't sleep as well as those who feel more connected to others .</s>
+<s id='vn9'>Một giả thuyết cho rằng những người cô đơn thường không ngủ sâu và ngon như những người cảm thấy kết nối với người khác nhiều hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" We wanted to explore one potential pathway ... the theory that sleep - a key behavior to staying healthy - could be compromised by feelings of loneliness , " explained Kurina , adding that :</s>
+<s id='vn10'>" Chúng tôi muốn tìm hiểu một chuỗi phản ứng hoá sinh tiềm năng ... lý thuyết cho rằng giấc ngủ - một hoạt động quan trọng để mạnh khỏe - có thể bị ảnh hưởng bởi cảm giác cô đơn " , Kurina giải thích thêm .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" What we found was that loneliness does not appear to change the total amount of sleep in individuals , but awakens them more times during the night . "</s>
+<s id='vn11'>" Những gì chúng tôi tìm thấy là sự cô đơn dường như không thay đổi tổng thời gian ngủ trong từng người , nhưng làm họ bị thức giấc nhiều lần hơn trong đêm "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>For their cross-sectional study , Kurina and colleagues recruited 95 adults of of a traditional , close-knit farming community in rural south Dakota .</s>
+<s id='vn12'>Trong nghiên cứu thành phần tiêu biểu của họ , Kurina và các đồng nghiệp đã tuyển 95 người trưởng thành trong một cộng đồng truyền thống nông nghiệp ở vùng nông thôn phía nam Dakota .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>They compared self-reported levels of loneliness assessed through interviews with measurements of their sleep cycles .</s>
+<s id='vn13'>Họ so sánh các mức độ cô đơn tự đánh giá thông qua các cuộc phỏng vấn với các phép đo chu kỳ giấc ngủ của họ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The participants were aged 19 and over and their average age was 39.8 years , 55 % were female .</s>
+<s id='vn14'>Người tham gia đều từ 19 tuổi trở lên và có độ tuổi trung bình là 39.8 . 55% là nữ giới .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In the interviews they answered questions about loneliness , depression , anxiety , and stress , as well as subjective sleep quality and daytime sleepiness .</s>
+<s id='vn15'>Trong các cuộc phỏng vấn , họ trả lời các câu hỏi về sự cô đơn , trầm cảm , lo âu , và căng thẳng , cũng như chất lượng giấc ngủ theo quan điểm chủ quan và sự buồn ngủ vào ban ngày .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>To measure objective sleep properties , the researchers gave the participants wrist actigraphs which they wore for a week .</s>
+<s id='vn16'>Để đo các thuộc tính giấc ngủ khách quan , các nhà nghiên cứu đã yêu cầu những người tham dự đeo vào cổ tay một thiết bị theo dõi có tên actigraph trong một tuần .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>None of the participants was socially isolated , yet their perceptions of loneliness varied , and the researchers found that higher loneliness scores were linked to significantly higher levels of sleep fragmentation .</s>
+<s id='vn17'>Không ai trong số những người tham gia bị cô lập về mặt xã hội , nhưng nhận thức của họ về sự cô đơn rất khác nhau , và các nhà nghiên cứu tìm thấy rằng mức độ cô đơn cao hơn có liên quan đến mức độ cao hơn đáng kể của giấc ngủ bị đứt quãng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This was after taking into account potential confounders like age , sex , body mass index , risk of sleep apnea and negative mood ( assessed from responses to questions about depression , anxiety and stress ) .</s>
+<s id='vn18'>Điều này là sau khi có tính đến những yếu tố có thể gây nhiễu như tuổi tác , giới tính , chỉ số khối cơ thể , nguy cơ ngưng thở khi ngủ và tâm trạng tiêu cực ( đánh giá từ câu trả lời cho các câu hỏi về lo âu , trầm cảm và căng thẳng ) .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>They also found that loneliness was not linked to total sleep duration , subjective sleep or daytime sleepiness .</s>
+<s id='vn19'>Họ cũng tìm thấy rằng sự cô đơn không liên quan đến tổng thời gian ngủ , giấc ngủ tự nhiên hoặc sự buồn ngủ vào ban ngày .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The findings are similar to a study published in 2002 by the American Psychological Society that compared students " perceptions of loneliness with their measured sleep quality .</s>
+<s id='vn20'>Những phát hiện này tương tự như một nghiên cứu đã được công bố vào năm 2002 do Hiệp hội tâm lý Hoa Kỳ so sánh nhận thức của sinh viên với nỗi cô đơn và chất lượng giấc ngủ của họ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>This found that the ones who reported feeling the most lonely had more broken night-time sleep .</s>
+<s id='vn21'>Phát hiện này cho thấy những người cảm thấy cô đơn nhất thì có thời gian ngủ trong đêm bị ngắt quãng nhiều hơn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Kurina said when you look at the similar results of the two studies , you realize that loneliness and social isolation are not the same thing .</s>
+<s id='vn22'>Kurina nói khi bạn nhìn vào các kết quả tương tự của hai nghiên cứu , bạn nhận ra rằng sự cô đơn và tình trạng bị cô lập trong xã hội không phải là một điều tương tự .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Loneliness is about perceived social isolation , feeling like an outcast , and reflects the difference between what a person wants and what they actually have in their social connections with others .</s>
+<s id='vn23'>Cô đơn là cảm nhận về sự cô lập xã hội , cảm giác như bị bỏ rơi , và phản ánh sự khác biệt giữa những gì một người muốn và những gì họ thực sự có trong các mối quan hệ xã hội của họ với những người khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Whether you 're a young student at a major university or an older adult living in a rural community , we may all be dependent on feeling secure in our social environment in order to sleep soundly , " said Kurina , adding that the findings of studies like these help us further understand how social and psychological factors impact our health .</s>
+<s id='vn24'>" Cho dù bạn là một sinh viên trẻ tại một trường đại học lớn hoặc người lớn lên sống trong một cộng đồng nông thôn , tất cả chúng ta đều phụ thuộc vào cảm giác an toàn trong môi trường xã hội mình sống để có thể ngủ ngon " , Kurina nói , và thêm vào là phát hiện của những nghiên cứu như thế này giúp chúng ta hiểu rõ hơn cách thức mà các yếu tố tâm lý và xã hội tác động đến sức khoẻ của chúng ta .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>While these conclusions seem plausible we should however , remind ourselves that this was a cross-sectional study and thus at the most can only assert whether links are strong or not : it cannot establish the direction of cause and effect .</s>
+<s id='vn25'>Mặc dù những kết luận này có vẻ xác đáng , tuy nhiên chúng ta cũng nên tự nhắc mình rằng đây là một nghiên cứu thành phần tiêu biểu và do đó nhiều nhất chỉ có thể khẳng định là mối liên kết có mạnh hay không thôi chứ không thể xem như là nguyên nhân và hệ quả .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For example , an equally scientific explanation from these results could be as follows : disrupted sleep affects mood in a way that makes people less likely to engage with others to the level that they would like .</s>
+<s id='vn26'>Ví dụ , một lời giải thích khoa học không kém từ những kết quả này có thể là như sau : giấc ngủ bị gián đoạn ảnh hưởng đến tâm trạng theo cách khiến cho mọi người ít muốn tham gia với những người khác như mức mà họ muốn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>This may seem less plausible , but the study is not of a design that can rule this out .</s>
+<s id='vn27'>Điều này có thể có vẻ ít xác đáng nhưng nghiên cứu này không phải là một đề cương có thể bác bỏ điều này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Written by Catharine Paddock PhD</s>
+<s id='vn28'>Tác giả : Catharine Paddock PhD</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Copyright : Medical News Today</s>
+<s id='vn29'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

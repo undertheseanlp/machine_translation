@@ -1,0 +1,164 @@
+﻿<doc id='N0225'>
+<head>
+<title>Three Reasons You Should Switch to Office 365</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Three Reasons You Should Switch to Office 365</s>
+<s id='vn1'>Ba lý do bạn nên chuyển sang Office 365</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Office 2013 will soon be here , along with a new and improved version of the cloud-based Office 365 .</s>
+<s id='vn2'>Bộ Office 2013 sẽ sớm được bán ra , bên cạnh đó là một phiên bản mới và cải tiến của gói dịch vụ Office 365 dựa trên nền tảng đám mây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>If you 're looking to upgrade , you have to decide whether the traditional desktop version of Office is the way to go , or if Office 365 is a better fit for your needs .</s>
+<s id='vn3'>Nếu bạn đang có ý định nâng cấp , bạn phải quyết định xem nên chọn phiên bản Office truyền thống cài trên máy tính , hay Office 365 sẽ phù hợp với nhu cầu của bạn hơn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>There are a few compelling arguments in favor of Office 365 .</s>
+<s id='vn4'>Có một vài lập luận thuyết phục nghiêng về phía Office 365 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Let 's take a look at three reasons Office 365 might be the right choice :</s>
+<s id='vn5'>Chúng ta hãy cùng xem qua ba lý do vì sao Office 365 có thể sẽ là lựa chọn đúng đắn :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>1 . Cost</s>
+<s id='vn6'>1 . Chi phí</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Microsoft has n't yet shared what the price tag will be for the new Office 2013 .</s>
+<s id='vn7'>Microsoft vẫn chưa tiết lộ mức giá của Office 2013 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But , unless it follows the same bold path laid out in offering Windows 8 for a mere $ 40 , history suggests the new productivity suite will start somewhere in the $ 150 neighborhood .</s>
+<s id='vn8'>Nhưng , trừ phi Microsoft vẫn theo đường lối táo bạo khi cung cấp Windows 8 với mức giá chỉ 40 đô la , còn không thì dựa trên giá các phiên bản trước , bộ ứng dụng văn phòng mới sẽ có giá khởi điểm dao động trong khoảng 150 đô la .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Office 365 plans start at $ 4 per month .</s>
+<s id='vn9'>Office 365 có mức giá khởi điểm là 4 đô la mỗi tháng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Small businesses can get access to Exchange , ShareP oint , and Lync in addition to the core Office productivity applications for only $ 6 per month .</s>
+<s id='vn10'>Các doanh nghiệp nhỏ có thể sử dụng thêm Exchange , SharePoint , và Lync ngoài các ứng dụng văn phòng cốt yếu chỉ với 6 đô la mỗi tháng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Larger businesses that want to take advantage of Active Directory integration can do so for $ 8 per user per month .</s>
+<s id='vn11'>Doanh nghiệp lớn hơn muốn tận dụng Active Directory có thể trả 8 đô la mỗi người dùng mỗi tháng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Breaking those down , it takes more than three years to reach $ 150 based on the $ 4 per month plan , and more than 18 months under the $ 8 per month plan .</s>
+<s id='vn12'>Phân tích các mức giá trên cho thấy để đạt đến mức giá 150 đô la , phải mất hơn ba năm nếu dùng gói 4 đô la mỗi tháng và hơn 18 tháng nếu dùng gói 8 đô la mỗi tháng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Of course , those are the current subscription prices and plans for Office 365 , so those figures are subject to change as well .</s>
+<s id='vn13'>Tất nhiên , đây là những mức giá hiện tại cho dịch vụ Office 365 , vì vậy chúng có thể sẽ thay đổi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>2 . Updates and Maintenance</s>
+<s id='vn14'>2 . Nâng cấp và bảo trì</s>
+</spair>
+<spair id='15'>
+<s id='en15'>What else do you get with your Office 365 subscription ?</s>
+<s id='vn15'>Bạn còn nhận được những gì khi sử dụng Office 365 ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>An IT department .</s>
+<s id='vn16'>Một đội ngũ CNTT .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Sure , you can set up your own Exchange Server , SharePoint Server , and Lync infrastructure .</s>
+<s id='vn17'>Đương nhiên , bạn có thể tự thiết lập cơ sở hạ tầng Exchange Server , SharePoint Server , và Lync .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>You can manage and maintain the desktop Microsoft Office software , and install the patches and updates every month yourself .</s>
+<s id='vn18'>Bạn có thể quản lý và bảo trì bộ phần mềm Microsoft Office cài trên máy , và tự cài đặt các bản vá lỗi và cập nhật hằng tháng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>How much will that cost ?</s>
+<s id='vn19'>Bạn sẽ tốn bao nhiêu chi phí cho những việc trên ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Consider that implementing the same capabilities in-house requires servers , and network infrastructure , and IT personnel to install , manage , update , and maintain it all .</s>
+<s id='vn20'>Hãy suy xét kĩ là việc triển khai các tính năng tương tự tại doanh nghiệp đòi hỏi phải có máy chủ , và cơ sở hạ tầng mạng , cũng như đội ngũ CNTT để cài đặt , quản lý , cập nhật , và bảo trì mọi thứ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Plus , you still have to buy and maintain the Office software itself .</s>
+<s id='vn21'>Ngoài ra , bạn vẫn phải mua và bảo trì chính bộ phần mềm văn phòng này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>With Office 365 , Microsoft takes care of all the dirty work so you do n't have to .</s>
+<s id='vn22'>Với Office 365 , Microsoft lo liệu tất cả mọi việc , vì vậy bạn chẳng cần phải làm gì cả .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Updates , patches , and upgrades just happen in the backgroudn without you needing to worry about it .</s>
+<s id='vn23'>Các bản cập nhật , vá lỗi , và nâng cấp đều diễn ra ở nền sau mà bạn cần lo lắng về nó .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>When the server crashes , its Microsoft 's problem .</s>
+<s id='vn24'>Khi máy chủ bị treo , Microsoft sẽ lo liệu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>When a hard drive needs to be replaced , Microsoft will handle it .</s>
+<s id='vn25'>Khi cần thay ổ cứng , Microsoft sẽ xử lý chuyện đó .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>You get the benefits of using Office without any of the headaches of updating and maintaining it all .</s>
+<s id='vn26'>Bạn được lợi sử dụng bộ Office mà không hề phải đau đầu với việc cập nhật và bảo trì nó .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>3 . Accessibility</s>
+<s id='vn27'>3 . Dễ dàng truy cập</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Office 365 lives in the cloud .</s>
+<s id='vn28'>Office 365 lưu trú trên đám mây .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>That means you have access to Word , Excel , Outlook , and other Microsoft Office tools from anywhere you can get a Web connection , and from virtually any device - Windows or Mac desktops and laptops , Android devices , iPhones , iPads , and other smartphones and tablets .</s>
+<s id='vn29'>Điều đó có nghĩa là bạn có thể sử dụng Word , Excel , Outlook , và các công cụ Microsoft Office khác từ bất kỳ nơi đâu có kết nối internet , và hầu như mọi thiết bị - máy tính để bàn và máy tính xách tay chạy Windows hoặc Mac , thiết bị Android , iPhone , iPad , và các điện thoại thông minh , máy tính bảng khác .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>This is n't quite the selling point it once was for a couple reasons .</s>
+<s id='vn30'>Vì một số lý do , đây không hẳn là lợi điểm bán hàng giống như trước đây .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>First , even with the desktop Office 2013 suite Microsoft is pushing users to save files to the cloud-based SkyDrive , or to a SharePoint server by default .</s>
+<s id='vn31'>Thứ nhất , ngay cả với bộ Office 2013 , theo mặc định Microsoft cũng yêu cầu người dùng lưu tập tin lên dịch vụ nền tảng đám mây SkyDrive , hoặc lên máy chủ SharePoint .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>So , there 's no reason the data ca n't be accessible regardless of whether you choose Office 2013 or Office 365 .</s>
+<s id='vn32'>Vì vậy , không có lý do gì mà dữ liệu không thể trở nên dễ dàng truy cập , cho dù bạn lựa chọn giữa Office 2013 hay Office 365 .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The second reason it may not be all that compelling is that Office Web Apps are already available for free from the SkyDrive site .</s>
+<s id='vn33'>Lý do thứ hai khiến nó có thể sẽ không hấp dẫn chút nào là do Office Web Apps được cung cấp miễn phí trên SkyDrive .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>So , even without Office 365 users can create , view , and edit Word , Excel , PowerPoint , and OneNote files from the Web .</s>
+<s id='vn34'>Vì vậy , ngay cả khi không có Office 365 , người dùng cũng có thể tạo mới , xem , và chỉnh sửa các tin Word , Excel , PowerPoint , và OneNote trên nền web .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>For businesses , though , SharePoint , Active Directory , and other elements of Office 365 that go beyond simply creating and editing Office documents still make Office 365 a better value .</s>
+<s id='vn35'>Thế nhưng , đối với doanh nghiệp thì SharePoint , Active Directory , và các thành phần khác của Office 365 với nhiều tính năng nâng cao hơn là chỉ tạo mới và chỉnh sửa tài liệu văn phòng vẫn khiến Office 365 có giá trị hơn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Your mileage will vary of course .</s>
+<s id='vn36'>Dĩ nhiên , khả năng tài chính của mỗi người là khác nhau .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>There are a number of factors involved in calculating the cost of purchasing , installing , configuring , updating , and maintaining Microsoft Office and the accompanying back-end services versus the ongoing subscription costs associated with Office 365 .</s>
+<s id='vn37'>Có nhiều yếu tố chi phối khi bạn cân nhắc giữa chi phí mua , cài đặt , cấu hình , cập nhật , và bảo trì Microsoft Office và các dịch vụ hỗ trợ đi kèm với chi phí hiện thời của Office 365 .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Office 365 is a solid service providing tremendous bang for the buck , though , So it wo n't be easy to beat the value it brings to the table .</s>
+<s id='vn38'>Office 365 là một dịch vụ đồng nhất mang đến những lợi ích khổng lồ so với chi phí bỏ ra , vì vậy giá trị nó đem lại sẽ không dễ gì vượt mặt .</s>
+</spair>
+</text>
+</doc>

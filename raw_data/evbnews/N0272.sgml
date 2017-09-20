@@ -1,0 +1,940 @@
+﻿<doc id='N0272'>
+<head>
+<title>1 . 4 most common reasons airlines lose luggage</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>1 . 4 most common reasons airlines lose luggage</s>
+<s id='vn1'>1 . 4 lý do phổ biến nhất khiến hãng hàng không làm thất lạc hành lý</s>
+</spair>
+<spair id='2'>
+<s id='en2'>( Budget Travel ) -- As frequent globetrotters and travel writers , we have no shortage of nightmarish lost-luggage tales -- and neither , it seems , do our readers .</s>
+<s id='vn2'>( Budget Travel ) - Là người thường xuyên đi du lịch ở những nơi xa cũng như nhiều nhà văn du lịch , chúng tôi không khỏi gặp ác mộng về việc mất hành lý và dường như , những độc giả của chúng tôi cũng không ngoại lệ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Take Geri Mitchell of Seattle , for example , whose bag went missing for the entirety of her four-day stay in Hawaii for a wedding .</s>
+<s id='vn3'>Như Geri Mitchell ở Seattle chẳng hạn , cô bị thất lạc hành lý trong suốt chuyến du lịch bốn ngày dự đám cưới ở Hawaii .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The day she arrived back home , a Maui airport employee called to inform her that her belongings had been sitting in the lost-luggage office there for a week .</s>
+<s id='vn4'>Ngày cô trở về nhà , nhân viên sân bay Maui gọi đến thông báo cho biết đồ đạc cá nhân của cô ta đã nằm trong văn phòng chứa hành lý bị thất lạc trong vòng một tuần .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" For five days , not one person who works there bothered to read the very obvious ID tags and call me ! " a still-incredulous Mitchell noted .</s>
+<s id='vn5'>" Trong vòng năm ngày , không một người nào làm việc ở đó lo đọc tấm thẻ nhận dạng ghi rất rõ ràng này và gọi cho tôi cả ! " Mitchell vẫn còn hoài nghi nhắc lại .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Michelle Buchecker of Chicago , whose suitcase vanished during a six-day , multi-city business trip in 1993 , is very angry about this .</s>
+<s id='vn6'>Michelle Buchecker ở Chicago , người bị mất chiếc va-li trong chuyến đi công tác sáu ngày qua nhiều thành phố vào năm 1993 , thì rất giận dữ về chuyện này .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>She had to buy new clothes when she landed .</s>
+<s id='vn7'>Cô ấy phải mua quần áo mới khi máy bay hạ cánh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Oh , and the missing bag ?</s>
+<s id='vn8'>Ồ , và chiếc va-li bị thất lạc thì sao ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>She never saw it again and is among the tens of thousands of air travelers each year to have their luggage lost forever .</s>
+<s id='vn9'>Cô ấy không bao giờ được thấy nó nữa và trường hợp của cô nằm trong số hàng chục ngàn hành khách đi máy bay mỗi năm bị mất luôn hành lý .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It 's simply that , if a suitcase ca n't be reunited with its rightful owner within 90 days , the contents may be donated to charity - or , more likely , shipped off to the Unclaimed Baggage Center in Alabama , a sprawling , 40,000 -square-foot store where eager shoppers snap up lost treasures ( maybe even yours ) at bargain-basement prices .</s>
+<s id='vn10'>Đơn giản là , nếu chiếc va-li nào không thể kết hợp với chủ sở hữu hợp pháp của nó trong vòng 90 ngày thì đồ đạc đựng trong va-li đó có thể dùng làm từ thiện - hoặc nhiều khả năng hơn , được gửi đến Trung tâm Hành lý Không người nhận ở Alabama , với một cửa hàng rộng 40.000 bộ vuông ngổn ngang mà ở đó những người mua hàng háo hức chộp ngay những vật quý giá bị thất lạc ( có lẽ thậm chí có của bạn nữa ) với giá cực rẻ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>So how does it get to that point ?</s>
+<s id='vn11'>Thế thì làm sao mà các hãng hàng không lại để chuyện xảy ra đến mức đó ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Though none of the following four scenarios are common ( last year , airlines only mishandled 12.07 bags for every 1,000 passengers ) they are among the most frequent reasons bags are lost , according to various airline officials and fliers " rights groups .</s>
+<s id='vn12'>Cho dù bốn tình huống sau xảy ra không thường xuyên mấy ( năm ngoái , các hãng hàng không chỉ xử lý kém có 12,07 va-li trong số 1.000 hành khách ) nhưng đây nằm trong số những lý do phổ biến nhất khiến hành lý bị thất lạc , theo nhiều viên chức hãng hàng không và tổ chức bảo vệ nhân quyền của người đi máy bay cung cấp .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Scenario # 1 : The routing label gets damaged</s>
+<s id='vn13'>Tình huống # 1 : Thẻ lộ trình bị hỏng</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Cause : When you check your bag , it gets tagged with an oddly printed , illegible routing label - or a legible label gets snagged and torn off your bag shortly after being tagged .</s>
+<s id='vn14'>Nguyên nhân : Khi bạn kiểm tra va-li của mình , nó được gắn thẻ lộ trình khó đọc , hàng chữ in xộc xệch - hoặc thẻ dễ đọc thì bị rách và rớt ra khỏi va-li ít lâu sau khi dán .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Adding insult to injury , it 's a new suitcase , and you 've forgotten to fill in the cool , leather-bound identification card .</s>
+<s id='vn15'>Còn tồi tệ hơn nữa , đó là một chiếc va-li mới , và bạn đã quên điền thông tin vào thẻ nhận dạng bọc bằng da , mát lạnh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Effect : No one notices the missing/unreadable tag until the bag has gone through TSA and arrived in the hectic distribution area .</s>
+<s id='vn16'>Hậu quả : Không ai để ý thẻ đã bị thất lạc và khó đọc này cho đến khi va-li được chuyển qua Cơ quan an ninh vận tải và đến khu vực phân phối sầm uất này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Because there 's no way to tell where the bag should be headed , it just stays put .</s>
+<s id='vn17'>Vì chẳng thể nào thông báo nên chuyển chiếc va-li này đến đâu ; do đó , nó chỉ ở yên tại chỗ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>After arriving at your destination and waiting in vain for your bag to appear on the carousel , you file a report at the local baggage-service counter , providing a solid description of the suitcase .</s>
+<s id='vn18'>Sau khi bạn đến nơi và chờ mãi chẳng thấy chiếc va-li của mình xuất hiện trên băng chuyền hành lý , bạn nộp bản tường trình tại quầy dịch vụ hành lý địa phương , mô tả chính xác về chiếc va-li .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>You 're told it 's going to take a bit of searching , so you continue on without it .</s>
+<s id='vn19'>Bạn được báo cho biết là sẽ mất công tìm kiếm một tí , do đó bạn tiếp tục cuộc hành trình mà không có nó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Scenario # 2 : You forget to pick up your luggage upon landing</s>
+<s id='vn20'>Tình huống # 2 : Bạn quên lấy hành lý của mình khi máy bay hạ cánh</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Cause : Maybe you 're distracted by an urgent text upon landing at home , and head straight for a taxi .</s>
+<s id='vn21'>Nguyên nhân : Có lẽ bạn bị phân tâm vì một chuyện cấp bách nào đó khi máy bay hạ cánh về nhà , và cứ thế bạn tiến thẳng về phía chiếc tắc-xi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Maybe you 're weighed down with heavy carry-on bags and forget you checked once more .</s>
+<s id='vn22'>Có lẽ bạn oằn người với nhiều túi hành lý xách tay nặng mà quên kiểm tra lại một lần nữa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Or perhaps you 're a tad buzzed from in-flight cocktails .</s>
+<s id='vn23'>Hoặc có lẽ bạn giống đứa trẻ bị lâng lâng bởi buổi tiệc cốc-tai trên chuyến bay .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Whatever the reason , you walk straight past the carousel and leave the airport without collecting your generic black roller bag ( with no I.D. tag , natch ) , and do n't realize it until you 've arrived at home .</s>
+<s id='vn24'>Bất kể lý do gì đi nữa thì bạn cũng đi bộ ngang qua băng chuyền hành lý và rời khỏi sân bay mà không lấy chiếc va-li có bánh xe màu đen thông dụng của bạn ( tất nhiên , không có thẻ nhận dạng ) , và không nhận ra nó mãi cho đến khi bạn về đến nhà .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Effect : Eventually , an airline employee takes the bag off the carousel and stores it in the carrier 's unclaimed baggage room .</s>
+<s id='vn25'>Hậu quả : Cuối cùng , nhân viên hãng hàng không lấy chiếc va-li ra khỏi băng chuyền hành lý và lưu nó ở phòng hành lý không người nhận .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>You call the airline and they put you through to an airport-based staff member who takes down a description and begins a search .</s>
+<s id='vn26'>Bạn gọi cho hãng và họ chuyển bạn gặp nhân viên trực sân bay rồi nhân viên này ghi lại lời khai và bắt đầu tìm kiếm .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Scenario # 3 : The attendant types in the wrong destination code</s>
+<s id='vn27'>Tình huống # 3 : Nhân viên hàng không đánh máy nhầm mã nơi đến</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Cause : When you hand over your luggage , the bag-check attendant accidentally inputs the wrong destination code .</s>
+<s id='vn28'>Nguyên nhân : Khi bạn chuyển giao hành lý , nhân viên kiểm tra vô tình nhập vào mã nơi đến sai .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>So off you go to La Guardia Airport - while your bag heads to LAX .</s>
+<s id='vn29'>Thế là bạn lên đường đến sân bay La Guardia - trong khi va-li của bạn thì đến sân bay Los Angeles .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Effect : When you arrive to your destination and your bag does not , you file a lost-baggage report , giving a detailed description .</s>
+<s id='vn30'>Hậu quả : Khi bạn đến nơi còn va-li thì không thấy đâu cả , bạn nộp đơn tường trình về hành lý bị mất , kèm theo miêu tả chi tiết .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The agent files it into the system and other agents are notified to be on the lookout in case an unclaimed bag fitting your description arrives at their location .</s>
+<s id='vn31'>Nhân viên lưu nó vào hệ thống và các nhân viên khác được thông báo để đề phòng trường hợp va-li không người nhận khớp với mô tả của bạn có mặt tại khu vực của họ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Your suitcase sits in your airline carrier 's holding area waiting to be properly identified .</s>
+<s id='vn32'>Va-li của bạn nằm ở kho chứa đồ của hãng hàng không chờ để được nhận dạng đúng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If it 's tagged with your identification details , employees will most likely figure out where your bag was supposed to go and eventually send it there ( or at least call to inform you it 's been found ) .</s>
+<s id='vn33'>Nếu nó được gắn thẻ kèm theo chi tiết nhận dạng , nhân viên chắc chắn hình dung lộ trình túi của bạn lẽ ra phải đến và cuối cùng sẽ chuyển nó đến đó ( hoặc ít nhất thì cũng gọi để thông báo cho bạn biết là đã tìm thấy hành lý ) .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>If it has no ID tag , it will sit - with the other unclaimed luggage .</s>
+<s id='vn34'>Nếu nó không có thẻ nhận dạng , nó sẽ nằm lại ở đó - cùng với các hành lý không người nhận khác .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Scenario # 4 : Your bag is loaded onto the wrong plane</s>
+<s id='vn35'>Tình huống # 4 : Va-li của bạn được chất lên sai chuyến bay</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Cause : You check your bag and , moments after it rides out of view on the conveyor belt , human error steps in : An employee places it on the wrong baggage cart , and , as a result , it gets loaded onto the wrong plane .</s>
+<s id='vn36'>Nguyên nhân : Bạn kiểm tra va-li và nhiều phút sau khi nó rời khỏi tầm mắt lên băng chuyền , liền sau đó có sai sót về phía con người : nhân viên đặt nó lên sai số xe đẩy hành lý và kết quả là nó được chất lên nhầm chuyến bay .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Effect : Even though the bag goes to the wrong city , it is properly tagged .</s>
+<s id='vn37'>Hậu quả : mặc dù hành lý đến nhầm thành phố nhưng nó lại được dán nhãn đúng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>So when it is the last piece of luggage on the carousel , an attendant will most likely see it , realize the mistake , and notify an attendant at your destination .</s>
+<s id='vn38'>Vì thế đó là món hành lý cuối cùng trên băng chuyền , nhân viên hàng không chắc chắn sẽ thấy nó , phát hiện ra sai sót , và thông báo cho nhân viên hàng không ở nơi đến của bạn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The airline will then re-route your bag to where you are ( hopefully without further incident ) , usually delivering it to your destination or , if you 've reached the end of your trip , to your home .</s>
+<s id='vn39'>Hãng hàng không sau đó sẽ gởi đến nơi bạn ở ( hy vọng không gặp sự cố nào thêm ) , thường giao tới nơi đến của bạn hoặc , nếu bạn đã kết thúc chuyến đi thì sẽ gởi nó đến nhà của bạn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>How NOT to lose your luggage :</s>
+<s id='vn40'>Làm thế nào để KHÔNG mất hành lý của bạn :</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Over two million bags were lost , damaged , delayed , or pilfered in 2010 , according to " mishandled baggage " reports made by the largest U.S. airlines to the Department of Transportation .</s>
+<s id='vn41'>Hơn hai triệu va-li bị thất lạc , hư hỏng , chậm trễ hoặc bị ăn cắp vặt vào năm 2010 , theo các báo cáo về trường hợp " hành lý bị xử lý kém " do hãng hàng không lớn nhất Hoa Kỳ gởi cho Bộ giao thông .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>(That 's about 3.57 reports per 1,000 passengers . ) Here 's how you can prevent becoming part of this statistic :</s>
+<s id='vn42'>( Đó là khoảng 3,57 báo cáo trên 1.000 hành khách . ) Sau đây là những cách giúp bạn có thể không trở thành chủ nhân của số liệu thống kê này :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Double-check : Ask the flight attendant handling your bag if you can see the routing information placed on the handle to verify its accuracy before she sends your suitcase down the conveyor belt .</s>
+<s id='vn43'>Kiểm tra lại kỹ lưỡng : Hãy yêu cầu tiếp viên hàng không có nhiệm vụ xử lý hành lý để bạn có thể xem thông tin lộ trình nằm trên tay cầm va-li để kiểm tra chính xác trước khi cô ấy gửi va-li của bạn xuống băng chuyền hành lý .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>This is especially important if you have a connecting flight , because bags are not always routed directly to the final destination - on occasion , it may be your responsibility to pick up your bag from the first leg of your journey and re-check it , and the best way to confirm this is to see what 's written on the label .</s>
+<s id='vn44'>Điều này đặc biệt quan trọng nếu bạn có chuyến bay chuyển tiếp , vì những chiếc va-li này thường không được gửi trực tiếp đến điểm đến cuối cùng - thỉnh thoảng , có thể bạn phải có trách nhiệm nhận va-li ở chặng đầu tiên của hành trình và kiểm tra lại , và cách tốt nhất để xác nhận lại lần nữa là xem những gì được viết trên nhãn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Make yourself known : The key is to ID your bag in multiple places - outside as well as inside - by placing ID cards in various pockets and pouches .</s>
+<s id='vn45'>Làm cho chính mình được biết đến : Điều quan trọng để nhận ra va-li của bạn ở nhiều nơi - bên ngoài cũng như bên trong va-li - bằng cách đặt nhiều thẻ nhận dạng vào nhiều ngăn túi nhỏ .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>And then add another , using the paper tags provided by the airline carrier .</s>
+<s id='vn46'>Rồi thêm một cách nữa là , sử dụng thẻ giấy cung cấp bởi hãng hàng không .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Be sure to include your name , address , and phone number ( preferably a mobile number ) .</s>
+<s id='vn47'>Chắc chắn thẻ phải gồm tên , địa chỉ và số điện thoại của bạn ( tốt nhất là số điện thoại di động ) .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Share your plans : Pack a copy of your itinerary ( in a place that 's not too hard to find ) so that airline workers will know where to route your bag in the case they find it and cannot get in touch with you .</s>
+<s id='vn48'>Chia sẻ kế hoạch của bạn : Xếp một tờ hành trình ( vào một nơi không quá khó khi tìm ) sao cho nhân viên hãng hàng không sẽ biết nơi để gửi va-li của bạn trong trường hợp họ thấy nó mà không thể liên lạc được với bạn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Document the evidence : Photograph or video the contents of your bag as you pack .</s>
+<s id='vn49'>Ghi lại bằng chứng : Chụp ảnh hoặc quay vi-đê-ô đồ đạc trong va-li khi bạn xếp đồ vào .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" I just lay everything out on the bed and take a few photos with my phone , " said Kate Hanni , of FlyersRights.org .</s>
+<s id='vn50'>" Tôi chỉ đơn giản để mọi thứ trên giường và chụp vài tấm hình bằng điện thoại , " Kate Hanni thuộc tổ chức FlyersRights.org kể .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Not only will that help to identify your bag if it goes missing , it will also help with claims forms if your suitcase is never found .</s>
+<s id='vn51'>Không những thao tác này giúp nhận bạn nhận ra túi của mình nếu chẳng may nó bị mất , mà việc này còn làm bằng chứng cho đơn khiếu nại nếu va-li của bạn chẳng được tìm thấy .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Remove extras : Before checking your bag , take off any removable straps ; this will decrease the likelihood of it getting snagged along the way .</s>
+<s id='vn52'>Tháo ra những phụ kiện : Trước khi kiểm tra lại va-li của mình , hãy tháo ra những dây đai nào có thể tháo ra được ; điều này sẽ giảm khả năng bị vướng dọc đường .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Arrive early : If you check a bag within 30 minutes of your departure time , it may not actually make it onto the plane .</s>
+<s id='vn53'>Đến sớm : Nếu bạn kiểm tra hành lý trong vòng 30 phút trong giờ khởi hành thì việc chậm trễ như thế có thể thật sự là nguyên nhân làm cho hành lý không thể lên được máy bay .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Stick to tradition : Finally , do n't check your bag with the curbside baggage checker ; go inside to the main counter to decrease the chances of a mix-up .</s>
+<s id='vn54'>Cứ theo thông lệ : Cuối cùng , không nên kiểm tra hành lý của bạn với người kiểm tra hành lý dịch vụ vỉa hè mà đi vào trong quầy chính để tránh tình trạng lộn xộn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Embellish your bag : Whether you buy a colorful handle wrap or just add a few stripes of bright duct tape , making yours different from the others could draw the attention of a not-so-motivated airline employee .</s>
+<s id='vn55'>Trang trí cho va-li của bạn : Dù bạn mua đồ bọc nhiều màu sắc cho quai va-li hay chỉ quấn bằng một vài sọc băng keo to màu sáng , thì việc làm chiếc va-li của mình khác với những hành lý của người khác có thể sẽ gây chú ý cho người nhân viên hàng không hết sức thiếu nhiệt tình .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Another option is to purchase a bag that 's not black or navy ( like the overwhelming majority ) , making it easier to spot in a roomful of luggage .</s>
+<s id='vn56'>Một lựa chọn khác nữa là đừng mua va-li màu đen hay xanh nước biển ( như đại đa số những va-li khác ) , làm cho nó dễ nhận ra hơn trong một phòng đầy hành lý .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Finally , what are your rights if your bag is lost for good ?</s>
+<s id='vn57'>Cuối cùng , bạn có quyền lợi gì nếu va-li của bạn bị mất luôn ?</s>
+</spair>
+<spair id='58'>
+<s id='en58'>HA NOI - Shares slid during yesterday 's session despite the General Statistics Office revealing that the national trade deficit had dropped 25 per cent compared to last year to US$ 9.5 billion .</s>
+<s id='vn58'>HA NOI - Shares slid during yesterday " s session despite the General Statistics Office revealing that the national trade deficit had dropped 25 per cent compared to last year to US$ 9.5 billion .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>2 . SHARE DIVE DISPITE GOOD NEWS ON TRADE DEFICIT</s>
+<s id='vn59'>2 . THÂM HỤT THƯƠNG MẠI HỒI PHỤC , CỔ PHIẾU VẪN MẤT GIÁ</s>
+</spair>
+<spair id='60'>
+<s id='en60'>On the HCM City Stock Exchange , the VN-Index lost 1.15 per cent over Thursday 's session to close at 356.21 points .</s>
+<s id='vn60'>Trên sàn chứng khoán thành phố Hồ Chí Minh , Chỉ số VN-Index giảm 1.15% trong phiên hôm thứ 5 xuống còn 356.21 điểm .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Losers overwhelmed gainers by 134-86 .</s>
+<s id='vn61'>Số nhà đầu tư thua lỗ áp đảo người thành công với tỉ lệ 134-86 .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Market value plunged 50 percent from Thursday 's level , totalling just VND398.8 billion ( $ 18.8 million ) .</s>
+<s id='vn62'>Giá thị trường sụt giảm 50% so với mức hôm thứ 5 , chỉ đạt 398.8 tỷ VND ( 18.8 triệu dola ) .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Trading volume reached 29.1 million shares , or 63.3 percent of the previous day 's figure .</s>
+<s id='vn63'>Khối lượng thương mại đạt 29.1 triệu cổ phiếu , bằng khoảng 63.3% so với con số hôm trước .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Among blue chips , only a few managed to add points , including Vietinbank ( CTG ) , Eximbank ( EIB ) and hotel and entertainment service provider Vinpearl ( VPL ) .</s>
+<s id='vn64'>Trong giới cổ phiếu thượng hạng chỉ có một số tăng điểm , gồm Vietinbank ( CTG ) , Eximbank ( EIB ) và tập đoàn cung cấp dịch vụ giải trí khách sạn Vinpearl ( VPL ) .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Meanwhile , PVF plunged to its floor price of VND7,800 .</s>
+<s id='vn65'>Trong khi đó , PVF hạ xuống mức giá sàn 7800 VND .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Sacombank ( STB ) - one of the largest shares led by capitalisation - was the most active stock in HCM City with about 2.2 million shares changing hands .</s>
+<s id='vn66'>Sacombank ( STB ) - một trong những cổ phiếu lớn nhất vận hành bằng vốn hóa - là cổ phiếu năng động nhất ở thành phố Hồ Chí Minh với khoảng 2.2 triệu cổ phiếu giao dịch .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>It closed unchanged from Thursday 's close .</s>
+<s id='vn67'>Nó không dao động gì kể từ thời điểm đóng cửa hôm thứ 5 .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The HNX-Index on the Ha Noi Stock Exchange also retreated 0.7 percent to hit a new low of 58.00 points with decliners largely outnumbering advancers by 167-68 .</s>
+<s id='vn68'>HNX-Index trên sàn Hà Nội cũng giảm 0.7% xuống mức 58.00 điểm với số người bán ra áp đảo số mua vào theo tỷ lệ 167-68 .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The value of trades decreased by 38 percent to just VND200 billion ( $ 9.4 million ) on a volume of nearly 26 million shares .</s>
+<s id='vn69'>Giá trị các giao dịch cũng giảm 38% xuống chỉ còn 200 tỷ VND ( 9.4 triệu dola ) trên khối lượng gần 26 triệu cổ phiếu .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>The most heavily traded stock was Kim Long Securities Co ( KLS ) with roughly 2.6 million shares exchanged .</s>
+<s id='vn70'>Cổ phiếu được giao dịch nhiều nhất là Kim Long Securities Co ( KLS ) với khoảng 2.6 triệu lượt giao dịch cổ phiếu .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>In recent sessions , trading via negotiations accounted for the lion 's share of the market value .</s>
+<s id='vn71'>Trong các phiên gần đây , giao dịch thương lượng chiếm phần chủ yếu trong giá trị thị trường .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Notably , STB , SSI and property developers Hoang Anh Gia Lai and Vincom ( VIC ) were the most actively traded stock .</s>
+<s id='vn72'>Đáng chú ý , STB , SSI và tập đoàn bất động sản Hoang Anh Gia Lai và Vincom ( VIC ) là những cổ phiếu được giao dịch nhiều nhất .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>However , it was " simply the transfer of share ownership " , said Nguyen Van Thuan , head of the HCM City Open University 's Finance-Securities-Bank Department .</s>
+<s id='vn73'>Tuy nhiên , theo ông Nguyễn Văn Thuần , Giám đốc Ủy ban tài chính - chứng khoán - ngân hàng thuộc Đại học Mở thành phố Hồ Chí Minh thì đó " đơn thuần chỉ là sự sang nhượng hữu cổ phần " .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>It might just be shareholders trying reduce their holding percentage in listed companies to below 5 percent so that they did not need to disclose their trading information and make changes to the way they pay securities tax .</s>
+<s id='vn74'>Đây có thể là động thái của các cổ đông để giảm cổ phần của họ trong các công ty được niêm yết xuống dưới mức 5% , nhằm mục đích né tránh việc phải công khai các thông tin giao dịch , cũng như thay đổi cách thức thanh toán thuế chứng khoán .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Investors might have sold shares to investment funds , minimising the disadvantages of paying securities income tax , the Dau tu chung khoan ( Securities Investment ) quoted experts as saying .</s>
+<s id='vn75'>Báo đầu tư chứng khoán trích dẫn ý kiến một số chuyên gia , rằng các nhà đầu tư có thể đã bán cổ phiếu vào các quỹ đầu tư , nhằm giảm thiểu những tác hại từ việc thanh toán thuế thu nhập chứng khoán .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>In addition , purchase through negotiation tended to target acquisition .</s>
+<s id='vn76'>Thêm vào đó , các vụ mua bán thông qua thương lượng thường mang mục đích thâu tóm .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>The recent trading of STB , SBS and food and beverage firm Hung Vuong ( HVG ) was said to be related to takeover and anti-takeover .</s>
+<s id='vn77'>Giao dịch gần đây của STB , SBS và hãng thực phẩm giải khát Hùng Vương ( HVG ) bị đồn là có liên quan đến việc thâu tóm và chống thâu tóm cổ phần .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>However , in the long term , Phan Dung Khanh , Kim Eng Securities Co analyst , said : " The growth of transactions through negotiation brings about many positive messages .</s>
+<s id='vn78'>Tuy nhiên , theo ông Phan Dung Khanh , chuyên gia phân tích chứng khoán tập đoàn Kim Eng , thì về lâu về dài " Việc gia tăng các giao dịch thương lượng sẽ mang lại nhiều tín hiệu lạc quan .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Even though these transactions do not directly increase market liquidity , there was a significant amount of money being poured into stocks " .</s>
+<s id='vn79'>Mặc dù các giao dịch này không trực tiếp nâng cao khả năng thanh toán tiền mặt cho thị trường chứng khoán , nhưng cũng đã rót vào đó một lượng tiền đáng kể " .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>News Item # 3 : Glass Is Half Full , Not Half Empty</s>
+<s id='vn80'>Bản Tin # 3 : Ly Nước Còn Đầy Một Nửa , Chớ Không Phải Đã Vơi Một Nửa</s>
+</spair>
+<spair id='81'>
+<s id='en81'>We seem to be going through another one of those periods when almost everyone you meet , especially in the bars , is talking Vietnam down and being negative .</s>
+<s id='vn81'>Chúng ta dường như lại đang trải qua một trong những thời kì mà hầu như gặp ai đi nữa , nhất là ở mấy quán bar , đều đánh giá thấp Việt Nam và cảm thấy chán nản .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>However , there is a difference this time .</s>
+<s id='vn82'>Thế nhưng , lần này có khác .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>In my 20 plus years here , the Vietnamese have never been negative or pessimistic , but today they seem to be adopting the negative sentiment .</s>
+<s id='vn83'>Suốt hơn 20 năm sống ở đây , tôi thấy người Việt chưa từng suy nghĩ tiêu cực hay bi quan , nhưng có vẻ như bây giờ họ đang dần nhiễm lối suy nghĩ tiêu cực ấy .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>The economy is in far better shape than it was 12 months ago and the stock market has sprung back to life .</s>
+<s id='vn84'>Nền kinh tế đã khá hơn rất nhiều so với 12 tháng trước và thị trường chứng khoán đã hồi sinh .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Granted the property market has been flat , gold prices have lost their lustre and the local currency has been stable for 12 months , which generally means no easy money .</s>
+<s id='vn85'>Đúng là thị trường bất động sản ảm đạm , giá vàng kém sức hấp dẫn và đồng Việt Nam đã ổn định suốt 12 tháng qua , điều này thường đồng nghĩa với chuyện không dễ kiếm tiền .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>But , there are still real opportunities .</s>
+<s id='vn86'>Thế nhưng vẫn có cơ hội thực sự .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Some good news is that Europe seems to have weathered the current storm , although it is not out of the woods , just yet .</s>
+<s id='vn87'>Có mấy tin vui là kinh tế châu Âu có vẻ đã vượt qua cơn bão táp phong ba hiện tại , mặc dù vẫn còn nhiều khó khăn khác trước mắt .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>The US seems to be on the road to recovery which augers well for Vietnam 's overseas trade .</s>
+<s id='vn88'>Kinh tế Mỹ có vẻ như đang trên đà phục hồi , điều này mang đến nhiều hi vọng cho lĩnh vực ngoại thương của Việt Nam .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Exports were up almost 24 percent in the first quarter .</s>
+<s id='vn89'>Xuất khẩu tăng gần 24% trong quý 1 .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>We can expect that growth to continue albeit at lower rates than last year .</s>
+<s id='vn90'>Chúng ta có thể kì vọng rằng đà tăng trưởng sẽ còn tiếp tục mặc dù ở mức thấp hơn năm ngoái .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Think of it , 12 months ago we had just had a 10 percent currency devaluation , inflation was heading to 20 percent , banks were offering around 20 percent for VND deposits and 6 percent for USD deposits .</s>
+<s id='vn91'>Còn nhớ cách đây 12 tháng , đồng tiền mất giá 10% , lạm phát gần đạt mức 20% , các ngân hàng đưa ra lãi suất tiền gửi ở mức khoảng 20% đối với đồng Việt Nam và 6% đối với USD .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Investors were sitting on the sidelines questioning Vietnam 's macroeconomic stability and policies .</s>
+<s id='vn92'>Các nhà đầu tư đứng ngoài cuộc chơi , hoài nghi về tính ổn định cũng như các chính sách kinh tế vĩ mô của Việt Nam .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>The Government moved quickly to address many of the fundamental issues causing these macroeconomic problems , yet there are still many sceptics who question whether the measures taken would work .</s>
+<s id='vn93'>Chính phủ đã nhanh chóng có những động thái nhằm tìm cách giải quyết những vấn đề cốt lõi gây ra những khó khăn cho kinh tế vĩ mô , song nhiều người vẫn hoài nghi không tin những giải pháp đó sẽ có tác dụng .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>For the more seasoned campaigners who have been through many crises in Vietnam going back to 1990 when the Soviet Union withdrew its financial support , the one thing we have learnt is , Vietnam does have the capacity to address and resolve economic problems even though it may be slow to react .</s>
+<s id='vn94'>Còn với những người dày dạn kinh nghiệm , từng trải qua nhiều cuộc khủng hoảng ở Việt Nam vào năm 1990 khi Liên Xô ngừng hỗ trợ tài chính , thì có một điều mà chúng ta học được là , Việt Nam hoàn toàn có khả năng giải quyết những khó khăn về kinh tế , dù phản ứng có thể chậm chạp .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Inflation , which was one of the greatest causes for concern has moderated significantly with the current annual rate close to 16 percent and the year to date rate of less than 2.5 percent making the Government 's target of 10 percent for 2012 achievable .</s>
+<s id='vn95'>Lạm phát , một trong những nguyên nhân làm ta lo ngại nhất , đã giảm đáng kể với tỷ lệ lạm phát hiện nay gần 16% và mức lạm phát từ đầu năm đến nay thấp hơn 2,5% , khiến cho mục tiêu giảm lạm phát của chính phủ này trong năm 2012 xuống còn 10% có thể thực hiện được .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>The State Bank has successfully stabilised the currency , since the devaluation in February 2011 .</s>
+<s id='vn96'>Ngân hàng Nhà nước đã thành công trong việc bình ổn giá đồng nội tệ , kể từ khi đồng tiền mất giá hồi tháng Hai năm 2011 .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>And although many experts were forecasting further pressure at the end of last year this did not materialise .</s>
+<s id='vn97'>Mặc dù nhiều chuyên gia dự báo rằng sẽ có nhiều áp lực hơn vào cuối năm ngoái , nhưng điều này đã không xảy ra .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>The Government 's target of keeping any exchange rate movement against the US dollar to less than 3 percent in 2012 seems to be highly plausible .</s>
+<s id='vn98'>Mục tiêu mà chính phủ đặt ra là giữ cho biến động tỷ giá hối đoái so với đô la Mỹ dưới mức 3% vào năm 2012 có vẻ rất khả thi .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Another interesting fact is that the difference between the official rate and the " free market " or " unofficial " rate has all but disappeared .</s>
+<s id='vn99'>Một điều thú vị nữa là chênh lệch giữa tỷ giá chính thức và tỷ giá " thị trường tự do " hoặc " không chính thức " gần như không còn .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>This is the best indication that the Government is achieving success in its efforts to de-dollarise the economy .</s>
+<s id='vn100'>Đây là dấu hiệu khả quan nhất cho thấy rằng chính phủ này đang thành công trong nỗ lực chống đô la hoá nền kinh tế .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Gross domestic product ( GDP ) continues to grow at a healthy rate which many countries can only dream of .</s>
+<s id='vn101'>Tổng sản phẩm quốc nội ( GDP ) tiếp tục tăng trưởng tốt với tỷ lệ mà nhiều quốc gia chỉ có thể mơ ước .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Although last year and this year ( forecast at 6 percent ) , will be a little lower than the average rates seen over the last 10 years .</s>
+<s id='vn102'>Mặc dù năm ngoái và năm nay ( dự báo ở mức 6% ) , sẽ thấp hơn một chút so với mức trung bình trong 10 năm qua .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>a steady growth like this compounded over many years will be a satisfactory performance .</s>
+<s id='vn103'>Mức tăng trưởng ổn định như vậy gộp lại qua nhiều năm sẽ là một thành tích khá tốt .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>According to a recent HSBC survey , Vietnam is listed as one of the 10 growth economies from now till 2050 , with a projected long-term average growth of 5.5 per annum .</s>
+<s id='vn104'>Theo một cuộc khảo sát gần đây của HSBC , Việt Nam nằm trong nhóm 10 nền kinh tế tăng trưởng tính từ thời điểm hiện tại đến năm 2050 , với tỷ lệ tăng trưởng trung bình dài hạn dự kiến là 5,5% mỗi năm .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Another area to show improvement is the trade deficit .</s>
+<s id='vn105'>Một lĩnh vực khác cũng có cải thiện là thâm hụt thương mại .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>This , which has been a major concern together with the country 's foreign exchange reserves , has fallen dramatically and only registered a deficit of $ 250 million in the first quarter of 2012 .</s>
+<s id='vn106'>Điều này cùng với dự trữ ngoại hối được xem là mối quan ngại lớn của cả nước , đã giảm nhiều trong quý 1/2012 , được ghi nhận chỉ còn 250 triệu USD .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Of course caution is needed here as this may reflect a slow down in orders , which may translate into a fall in exports .</s>
+<s id='vn107'>Tất nhiên cẩn trọng là cần thiết vì điều này có thể tương ứng với việc có ít đơn đặt hàng hơn và cũng có thể hiểu là xuất khẩu giảm sút .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>However , it appears the Government is being successful in tackling the trade deficit to a much lower level than projected .</s>
+<s id='vn108'>Tuy nhiên , có vẻ như chính phủ này đang thành công trong việc kiểm soát thâm hụt thương mại xuống mức thấp hơn nhiều so với dự kiến .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Foreign direct investment ( FDI ) continues to match the levels seen over the last three years , despite of increasing competition from Indonesia .</s>
+<s id='vn109'>Đầu tư trực tiếp nước ngoài ( FDI ) tiếp tục đạt mức của ba năm vừa qua , mặc dù cạnh tranh từ phía Indonesia ngày càng tăng .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The march of investors from China seems set to continue as does the increased interest from Japanese investors .</s>
+<s id='vn110'>Cuộc đổ bộ của các nhà đầu tư Trung Quốc có vẻ như sẽ còn tiếp diễn cũng như sự quan tâm của các nhà đầu tư Nhật Bản ngày càng tăng .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>A recent survey by the ASEAN Business Council ranked Vietnam as the second most attractive investment destination behind Indonesia and ahead of Singapore , Thailand , and Malaysia .</s>
+<s id='vn111'>Một cuộc khảo sát gần đây của Hội đồng Kinh doanh ASEAN đã xếp Việt Nam là điểm đầu tư hấp dẫn thứ hai đứng sau Indonesia và dẫn trước Singapore , Thái Lan cũng như Malaysia .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>There is also a significant volume , of what I would describe as FDI , being counted as indirect investment .</s>
+<s id='vn112'>Ngoài ra , một nguồn vốn lớn , có thể coi là vốn đầu tư trực tiếp nước ngoài , được tính vào vốn đầu tư gián tiếp .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>That is investments by Private Equity Funds and trade buyers who are investing directly into Vietnamese businesses through share acquisition .</s>
+<s id='vn113'>Đó là vốn đầu tư của các Quỹ Cổ phần Tư nhân và các công ty thôn tính , những tổ chức đang đầu tư trực tiếp vào doanh nghiệp Việt Nam bằng cách mua cổ phần .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>This is not really indirect investment as it is medium to long-term investment and not subject to stock market sentiment .</s>
+<s id='vn114'>Đây không hẳn là vốn đầu tư gián tiếp vì đây là vốn đầu tư trung đến dài hạn và không bị chi phối bởi thị trường chứng khoán .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>With the above trends and the continued high level of overseas remittances there is no pressure on Vietnam 's foreign exchange reserves .</s>
+<s id='vn115'>Với những xu hướng trên và lượng kiều hối tiếp tục ở mức cao thì không có áp lực nào đè nặng lên nguồn dự trữ ngoại hối của Việt Nam .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>VinaCapital recently estimated that the State Bank had this year purchased $ 6 billion in foreign currency from the market to increase the foreign exchange reserves .</s>
+<s id='vn116'>Mới đây , VinaCapital ước tính trong năm nay Ngân hàng Nhà nước đã mua 6 tỷ USD ngoại tệ trên thị trường để tăng nguồn dự trữ ngoại hối .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>My own major concern was the state of the banking industry , but it also seems to be being addressed in a quiet , but firm way .</s>
+<s id='vn117'>Mối lo ngại chính của tôi là tình trạng của ngành ngân hàng , nhưng có vẻ như vấn đề này cũng đang được giải quyết một cách nhẹ nhàng , nhưng chắc chắn .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>The State Bank has started to classify banks into three groups and also to allocate credit growth ceilings on a selective basis recognising the well managed banks .</s>
+<s id='vn118'>Ngân hàng Nhà nước đã bắt đầu phân loại ngân hàng thành ba nhóm và phân bổ mức tăng trưởng tín dụng trần trên cơ sở chọn lọc nhằm công nhận những ngân hàng được quản lý tốt .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>The top tier banks are showing signs of improved liquidity and merging of the weaker banks with the stronger banks is actually starting to happen .</s>
+<s id='vn119'>Những ngân hàng nhóm đầu cho thấy có khả năng thanh khoản tốt hơn và xu hướng sáp nhập ngân hàng yếu vào ngân hàng mạnh hơn cũng bắt đầu diễn ra .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>There is also no end of foreign banks looking to acquire significant and strategic stakes in Vietnamese banks , so this cloud seems to be slowly lifting .</s>
+<s id='vn120'>Ngoài ra , các ngân hàng nước ngoài cũng luôn ráo riết tìm cách mua những cổ phần quan trọng và có tính chiến lược của các ngân hàng Việt nam , do đó , mối lo ngại này có vẻ sẽ dần được giải toả .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Although this will be a long process , in my opinion , a significant bank failure is unlikely .</s>
+<s id='vn121'>Mặc dù đây là một tiến trình lâu dài , nhưng tôi nghĩ , ngân hàng phá sản là chuyện không thể xảy ra .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>So why are we all so negative ?</s>
+<s id='vn122'>Thế thì tại sao ta lại bi quan như vậy ?</s>
+</spair>
+<spair id='123'>
+<s id='en123'>My glass is certainly half full not half empty .</s>
+<s id='vn123'>Ly nước của tôi còn đầy một nửa chớ không phải đã vơi hết một nửa .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>We must remember the fundamentals which attracted us all in the first place are still there , although our game plans may need to be modified .</s>
+<s id='vn124'>Và ta phải nhớ rằng những yếu tố căn bản đã thu hút tất cả chúng ta ngay từ đầu , vẫn còn nguyên đó , mặc dù có thể chúng ta sẽ cần phải thay đổi chiến lược của mình .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>3 , Vietnam 's Recovery Remains Fragile</s>
+<s id='vn125'>3 . Phục hồi của Việt Nam vẫn mong manh</s>
+</spair>
+<spair id='126'>
+<s id='en126'>HANOI - Vietnam showed further signs of emerging from the economic crisis Tuesday , as industrial production , oil output and retail sales continue to rise , but a sustainable recovery remains fragile .</s>
+<s id='vn126'>Hà Nội - hôm thứ ba Việt Nam cho thấy thêm dấu hiệu của xuất hiện từ khủng hoảng kinh tế , như sản xuất công nghiệp , sản lượng dầu và doanh số bán lẻ tiếp tục dâng lên , nhưng hồi phục bền vững vẫn mong manh .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Industrial production in July was forecast to grow 7.6 % from a year earlier to 59.07 trillion vietnamese dong ( $ 3.38 billion ) , according to preliminary data published Tuesday by the General Statistics Office .</s>
+<s id='vn127'>Sản xuất công nghiệp vào tháng bảy đã được dự báo để phát triển 7.6% từ một năm trước đó để 59.07 nghìn tỷ đồng ( 3.38 tỷ đô-la Mỹ ) , theo dữ liệu sơ bộ do General Statistics Office công bố hôm thứ ba .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Output rose 21.96 % in June versus the previous month and 8.2 % from a year earlier to VND58.38 trillion , the GSO said .</s>
+<s id='vn128'>Đầu ra tăng 21.96% vào tháng Sáu một tháng trước và 8.2% từ một năm trước đó để vnd 58.38 nghìn tỷ , GSO đã nói .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>For the first seven months of 2009 , Vietnam 's industrial output is projected to rise 5.1 % on year to VND382.66 trillion .</s>
+<s id='vn129'>Trong bảy tháng đầu tiên của 2009 , sản lượng công nghiệp của Việt Nam dự kiến sẽ tăng 5.1% trong năm 382.66 nghìn tỷ đồng .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Earlier this month , Deputy Minister of Industry and Trade Bui Xuan Khu said Vietnam will try boosting industrial production in the second half to ensure growth of not less than 10 % for the whole year .</s>
+<s id='vn130'>Đầu tháng này , người đại diện bộ trưởng công nghiệp và Bộ Thương mại Bui Xuan Khu đã nói Việt Nam sẽ cố gắng đẩy mạnh sản xuất công nghiệp trong quý hai để bảo đảm tăng trưởng không nhỏ hơn 10% cho cả năm .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Consumers are also continuing to show resilience , with retail sales of goods and services expected to rise 18.3 % in the first seven months of the year to VND643.64 trillion from a year earlier , the GSO said .</s>
+<s id='vn131'>Người tiêu dùng cũng là tiếp tục cho thấy khả năng mau phục hồi , với doanh số bán lẻ của hàng hoá và dịch vụ hy vọng sẽ tăng 18.3% trong bảy tháng đầu năm đạt 643.64 nghìn tỷ đồng từ một năm trước đó , GSO đã nói .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>The Ministry of Industry and Trade said earlier this year that total retail sales of goods and services in 2009 are expected to rise 25.1 % to VND1,210 trillion .</s>
+<s id='vn132'>Bộ Công nghiệp và thương mại đã nói đầu năm nay doanh số bán lẻ toàn diện của hàng hoá và dịch vụ trong năm 2009 hy vọng sẽ tăng 25.1% đạt 1,210 nghìn tỷ đồng .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>" The economic crisis has left little impact on the consumption of the middle class .</s>
+<s id='vn133'>" Khủng hoảng kinh tế ít có ảnh hưởng trên tiêu thụ tầng lớp trung lưu .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>They still travel and spend money , " said Vo Tri Thanh , an economist with the government 's Central Institute of Economic Management .</s>
+<s id='vn134'>Họ vẫn du lịch và sử dụng tiền , " theo Võ Trí Thanh , nhà kinh tế học với Viện Quản lý Kinh tế Trung ương của chính phủ .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>The Vietnam government has poured billions of dollars into the economy since the start of the global economic crisis .</s>
+<s id='vn135'>Chính phủ Việt Nam đã đổ hàng tỷ đô la vào nền kinh tế từ lúc bắt đầu khủng hoảng kinh tế toàn cầu .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>But analysts say a return to higher growth also depends largely on the health of its trading partners , who consume everything from coal and oil to textiles and farm produce .</s>
+<s id='vn136'>Nhưng nhà phân tích nói một việc quay lại tăng trưởng kinh tế cao hơn cũng phụ thuộc nhiều đến sức khoẻ của đối tác thương mại của nó , người tiêu thụ mọi thứ từ than và dầu đến sản phẩm dệt may và nông sản .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>In June , Vietnam revised down its 2009 gross domestic product growth target to 5 % from 6.5 % set previously .</s>
+<s id='vn137'>Vào tháng Sáu , Việt Nam sửa đổi hạ mục tiêu tăng trưởng tổng sản lượng nội địa năm 2009 xuống 5% từ 6.5% đã định trước đây .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Exports are projected to fall 27.4 % on year to $ 4.75 billion in July , while exports between January and July are expected to drop 13.4 % to $ 32.35 billion .</s>
+<s id='vn138'>Xuất khẩu dự kiến sẽ giảm 27.4% trong năm thành 4.75 tỉ đô-la Mỹ vào tháng bảy , trong khi xuất khẩu từ tháng giêng đến tháng bảy bị cho là sẽ giảm 13.4% đạt 32.35 tỷ đô-la Mỹ .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>" We still have to stick to the economic stimulus package as there is still a big gap between actual growth and potential growth and the world recovery is weak , " said Mr. Thanh .</s>
+<s id='vn139'>" chúng ta vẫn phải trung thành với chương trình kích thích kinh tế vì vẫn còn khoảng cách lớn giữa tăng trưởng thực tế và tăng trưởng tiềm năng và sự phục hồi của thế giới là yếu , " ông Thanh nói .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>He said the government needs to pay more attention to stabilizing macroeconomic factors , but also needs a strategy to gradually withdraw the state 's " massive interference " in the economy .</s>
+<s id='vn140'>Anh ấy đã nói chính phủ cần chú ý hơn đến giữ thăng bằng yếu tố kinh tế vĩ mô , và cả cần chiến lược để dần dần rút " sự can thiệp ồ ạt " của nhà nước trong nền kinh tế .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Meanwhile , Vietnam 's crude oil production in July is estimated to have grown 18.5 % compared with last July , to 1.4 million metric tons , or 340,254 barrels a day .</s>
+<s id='vn141'>Trong khi đó , sản lượng dầu thô của Việt Nam vào tháng bảy được ước tính để đã phát triển 18.5% so với tháng bảy vừa qua , đến 1.4 triệu tấn , hoặc 340,254 thùng một ngày .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>In June , the country produced 1.4 million tons of crude , or 346,220 barrels a day , according to revised government figures .</s>
+<s id='vn142'>Vào tháng Sáu , quốc gia tạo ra 1.4 triệu tấn dầu thô , hoặc 346,220 thùng một ngày , theo chính quyền đã sửa đổi con số .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Production of crude oil between January and July is estimated up 18.1 % to 10.1 million tons , the GSO said .</s>
+<s id='vn143'>Sản lượng dầu thô giữa tháng giêng và tháng bảy được ước tính lên 18.1% đến 10.1 triệu tấn , GSO đã nói .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Natural gas production is estimated at 644,000 cubic meters in July , down 2.3 % .</s>
+<s id='vn144'>Sản lượng khí tự nhiên được ước tính là 644,000 mét khối vào tháng bảy , xuống 2.3% .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>The GSO forecast a 28.5 % on-year rise in liquefied petroleum gas output , to 25,700 tons , in July .</s>
+<s id='vn145'>GSO dự báo 28.5% trong năm - tăng sản lượng khí đốt dầu khí hoá lỏng , để 25,700 tấn , vào tháng bảy .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Coal production , however , likely fell 3.5 % on year in July to 3.6 million metric tons .</s>
+<s id='vn146'>Sản xuất than , tuy nhiên , có thể rơi 3.5% trong năm vào tháng bảy đến 3.6 triệu tấn .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>The figure represents a 9.8 % fall from 4 million tons produced in June , according to revised GSO data .</s>
+<s id='vn147'>Con số đại diện cho 9.8% rơi từ 4 triệu tấn tạo ra trong tháng Sáu , theo dữ liệu GSO đã sửa đổi .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>The country produced an estimated 24.9 million tons in the January-July period , down 1.7 % .</s>
+<s id='vn148'>Quốc gia tạo ra ước tính 24.9 triệu tấn trong thời kỳ tháng bảy - tháng giêng , xuống 1.7% .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Electricity output in July is projected to have risen 15 % on year to 7.2 billion kilowatt-hours , the GSO said .</s>
+<s id='vn149'>Sản lượng điện trong tháng bảy dự kiến tăng 15% trong năm đạt 7.2 tỉ kilôoat-giờ , GSO đã nói .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>In June , Vietnam also produced 7.2 billion kWh .</s>
+<s id='vn150'>Vào tháng Sáu , Việt Nam cũng tạo ra 7.2 tỉ kWh .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Between January and July this year , Vietnam produced an estimated 44.9 billion kWh , up 9.6 % from the same period last year .</s>
+<s id='vn151'>Giữa tháng giêng và tháng bảy năm nay , Việt Nam tạo ra ước tính 44.9 tỉ kWh , lên 9.6% so với cùng kỳ năm ngoái .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>U.S.-China Meeting Renews the Dialogue</s>
+<s id='vn152'>Mỹ - Trung Quốc cuộc họp phục hồi đối thoại</s>
+</spair>
+<spair id='153'>
+<s id='en153'>4 . Economic , Strategic Issues Stressed</s>
+<s id='vn153'>4 . Kinh tế , nhấn mạnh vấn đề chiến lược</s>
+</spair>
+<spair id='154'>
+<s id='en154'>For many years , U.S. officials traveled to Beijing and lectured the Chinese about the value of their currency and the need for economic and political reforms .</s>
+<s id='vn154'>Trong nhiều năm , các quan chức Hoa Kỳ đến thăm Bắc Kinh và quở trách Trung Quốc về giá trị của tiền tệ của họ và nhu cầu cần có cải cách chính trị và kinh tế .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>On Monday , about 200 senior Chinese officials traveled to Washington and heard soothing words of reassurance from U.S. officials : The dollar is still sound , your investments are safe and we are working really hard to restructure our economy .</s>
+<s id='vn155'>Vào ngày thứ hai , khoảng 200 quan chức cấp cao Trung Quốc đến thăm Washington và nghe những lời trấn an êm ái từ các quan chức Hoa Kỳ : đô la vẫn còn vững chắc , đầu tư của bạn an toàn và chúng tôi đang làm việc vô cùng chăm chỉ để tổ chức lại nền kinh tế của chúng tôi .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Such is the nature of the U.S.-China relationship today .</s>
+<s id='vn156'>Đó là bản chất của Hoa Kỳ - Trung Quốc quan hệ hôm nay .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Behind all the reassuring language is a nervous sense that the fate of the world economy is increasingly dependent on the United States and China working together .</s>
+<s id='vn157'>Đằng sau ngôn ngữ làm yên lòng tất cả là cảm giác hồi hộp số phận của kinh tế thế giới là càng ngày càng phụ thuộc vào Hoa Kỳ và Trung Quốc hợp tác với nhau .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>President Obama opened the first meeting of the U.S.-China Strategic and Economic Dialogue on Monday by declaring that the two countries share a responsibility for the 21st century , and should strive to cooperate not only on economic matters but also on key issues such as climate change , nuclear proliferation and transnational threats .</s>
+<s id='vn158'>Tổng thống Obama mở phiên họp đầu tiên của Hoa Kỳ - Trung Quốc Đối thoại về Kinh tế và Chiến lược vào ngày thứ hai bằng cách tuyên bố rằng hai quốc gia chia sẻ trách nhiệm về thế kỷ 21 , và nên cố gắng để hợp tác không chỉ vào vấn đề kinh tế mà còn về vấn đề then chốt như là thay đổi khí hậu , triển khai vũ khí hạt nhân và đe doạ liên quốc gia .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>" The pursuit of power among nations must no longer be seen as a zero-sum game , " he said at the start of the two-day meeting , held at the Ronald Reagan Building and co-cha ired by Secretary of State Hillary Rodham Clinton and Treasury Secretary Timothy F. Geithner .</s>
+<s id='vn159'>" theo đuổi quyền lực giữa các nước phải không còn là xem như trận đấu một mất một còn , " anh ấy đã nói lúc khởi sự của cuộc họp hai ngày , được tổ chức tại Ronald Reagan Building và được đồng chủ trì bởi Ngoại trưởng Hillary Rodham Clinton và Bộ trưởng tài chính Timothy F. Geithner .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>" Progress - including security - must be shared . "</s>
+<s id='vn160'>" Progress - bao gồm an ninh - phải chia sẻ . "</s>
+</spair>
+<spair id='161'>
+<s id='en161'>The meetings are intended mostly to allow officials to exchange views on a wide range of issues and to establish contacts in each other 's governments .</s>
+<s id='vn161'>Cuộc họp được dự định chủ yếu để cho phép viên chức trao đổi ý kiến trên rất nhiều vấn đề và thiết lập thông tin liên lạc trong chính phủ của nhau .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>On Monday , Obama gave a gentle prod to China on its human rights record , noting that " all people should be free to speak their minds , " but otherwise focused on forming with China a partnership " of opportunity . "</s>
+<s id='vn162'>Vào ngày thứ hai , Obama chọt một cú nhẹ vào Trung Quốc về các thành tích về nhân quyền , lưu ý là " tất cả mọi người nên được tự do nói thẳng nói thật , " nhưng mặt khác tập trung vào tạo thành với Trung Quốc sự cộng tác " hội . "</s>
+</spair>
+<spair id='163'>
+<s id='en163'>The talks are a broader version of the dialogue that was started in 2005 by Robert B. Zoellick , deputy secretary of state under President George W. Bush , and later led , with a more economic tilt , by Henry M. Paulson Jr. , Treasury secretary under Bush .</s>
+<s id='vn163'>Cuộc đàm phán là phiên bản bao quát hơn của đối thoại đã được bắt đầu vào năm 2005 do Robert B Zoellick , Phó Bộ trưởng Ngoại giao dưới tổng thống George W. Bush , và sau đó lãnh đạo , nghiêng về kinh tế nhiều hơn , bằng Henry M. Paulson Jr. , Bộ trưởng tài chính dưới thời Bush .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>This time around , Clinton , who during the presidential primary campaign declared that the U.S. relationship with China would be the " most bilateral relationship in the world in this century , " has sought a prominent role for foreign policy issues .</s>
+<s id='vn164'>Quanh lần này , Clinton , người trong cuộc vận động chính tổng thống tuyên bố rằng Hoa Kỳ quan hệ với Trung Quốc sẽ " quan hệ song phương đúng nghĩa nhất trên thế giới trong thế kỷ này , " đã tìm kiếm vai trò nổi bật cho các vấn đề về chính sách nước ngoài .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>The cast of participants has been broadened ; Monday 's talks includes Federal Reserve Chairman Ben Bernanke , National Economic Council Director Lawrence H. Summers and Peter Orszag , Obama 's budget director , as well as other Cabinet members .</s>
+<s id='vn165'>Thành phần tham dự đã được mở rộng ; cuộc đàm phán của thứ hai bao gồm Chủ tịch cục dự trữ liên bang Ben Bernanke , Giám đốc Hội đồng Kinh tế Quốc gia Lawrence H Summers và Peter Orszag , giám đốc ngân sách của Obama , cũng như các thành viên trong Nội các khác .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>The Chinese side is led by State Councilor Dai Bingguo , who oversees foreign policy , and Vice Premier Wang Qishan , who oversees economic policy .</s>
+<s id='vn166'>Bên Trung Quốc được dẫn đầu bởi State Councilor Dai Bingguo , người trông nom chính sách đối ngoại , và Phó Thủ tướng Wang Qishan , người trông nom chính sách kinh tế .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Dai , speaking in the morning , noted that the two countries are separated by huge differences in culture , ideology and social systems , but added that the economic crisis demonstrated " we are actually all in the same big boat that has been hit by fierce wind and huge waves . "</s>
+<s id='vn167'>Dai , nói vào buổi sáng , lưu ý là hai quốc gia bị chia cắt bởi sự khác biệt lớn trong văn hoá , tư tưởng và hệ thống xã hội , nhưng thêm khủng hoảng kinh tế được biểu lộ " chúng tôi là thực sự tất cả trong cùng một con thuyền lớn đã bị tấn công bởi gió dữ dội và sóng lớn . "</s>
+</spair>
+<spair id='168'>
+<s id='en168'>" The United States will never become China , and China will never become the United States , " he added .</s>
+<s id='vn168'>" Hoa Kỳ sẽ không bao giờ trở thành Trung Quốc , và Trung Quốc sẽ không bao giờ trở thành Hoa Kỳ , " ông ấy thêm .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>" But the living fact is that China and the United States " interactions have never been so frequent , our interest has never been interwoven so closely , and the mutually beneficial cooperation between our two countries has never been so broad , and the driving force boosting the China-U.S. relationship has never been so strong . "</s>
+<s id='vn169'>" Nhưng thực tế hiện tại là Trung Quốc và tương tác Hoa Kỳ chưa từng thường xuyên như thế , quan tâm của chúng tôi chưa bao giờ đan lẫn với nhau chặt như vậy , và hợp tác đôi bên cùng có lợi giữa hai quốc gia của chúng tôi chưa từng rộng như thế , và động lực đẩy mạnh quan hệ Trung Quốc - Hoa Kỳ chưa từng mạnh như thế . "</s>
+</spair>
+<spair id='170'>
+<s id='en170'>As China 's economy has boomed , so has its international clout .</s>
+<s id='vn170'>Như nền kinh tế của Trung Quốc đã bùng nổ , vì vậy có ảnh hưởng quốc tế của nó .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>With the revenue generated by huge trade surpluses with the United States - and policies that keep its currency artificially low - Beijing is the largest single investor in U.S. Treasury bonds .</s>
+<s id='vn171'>Với doanh thu tạo ra bởi thặng dư mậu dịch khổng lồ với Hoa Kỳ - và chính sách giữ tiền tệ của nó bằng phương pháp nhân tạo thấp - Bắc Kinh là nhà đầu tư lớn nhất vào trái phiếu Treasury Hoa Kỳ .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>That $ 1.5 trillion stake means that China has been critical to Obama 's efforts to boost the U.S. economy through deficit spending , although Chinese officials have expressed worry that the value of their holdings will fall if the U.S. deficit is not brought under control .</s>
+<s id='vn172'>15 ngàn tỷ đô-la Mỹ cọc đó nghĩa là Trung Quốc đã rất quan trọng trong việc các nỗ lực của Obama nhằm đẩy mạnh kinh tế Hoa Kỳ qua sự thâm hụt chi xài , mặc dù các quan chức Trung Quốc đã bày tỏ lo ngại giá trị cổ phần của họ sẽ rơi nếu sự thâm hụt của Hoa Kỳ không được chế ngự .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>" China has a huge amount of investment in the U.S. , mainly in the form of Treasury bonds , " Assistant Finance Minister Zhu Guangyao said in a press briefing with reporters .</s>
+<s id='vn173'>" Trung Quốc có rất nhiều đầu tư ở Mỹ , chủ yếu dưới dạng trái phiếu Treasury , " người phụ tá Bộ trưởng Bộ tài chính Zhu Guangyao đã nói ở cuộc họp báo với phóng viên .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>" We are concerned about the security of our financial assets . "</s>
+<s id='vn174'>" chúng tôi lo lắng cho an ninh của tài sản tài chính của chúng tôi .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>" He added that China favors a " stable " dollar , which has fallen in value this year against major currencies .</s>
+<s id='vn175'>" anh ấy nói thêm Trung Quốc ủng hộ " ổn định " đô la , đã rơi xuống trong giá trị năm nay chống lại tiền tệ lớn .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>Geithner , addressing the meeting , stressed that the administration is " committed to taking the necessary measures to bring our fiscal deficits down to a more sustainable level once recovery is firmly established . "</s>
+<s id='vn176'>Geithner , nhắm đến cuộc họp , nhấn mạnh rằng quản trị là " cam kết mang biện pháp cần thiết để mang sự thâm hụt tài chính của chúng tôi xuống mức bền vững hơn một khi phục hồi được thành lập một cách bền chặt .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>" He also praised Chinese leaders for their efforts to boost domestic consumption , which he said " will be a huge contribution to our global challenge in bringing about a more rapid but more balanced and sustainable global recovery . "</s>
+<s id='vn177'>" Anh ấy cũng ca ngợi nhà lãnh đạo Trung Quốc đã nỗ lực của họ để đẩy mạnh tiêu thụ nội địa , anh ấy đã nói " sẽ là đóng góp to lớn cho thách thức toàn cầu của chúng tôi trong dẫn đến nhanh hơn nhưng cân bằng hơn và sự khôi phục toàn cầu bền vững " .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>Both sides acknowledged that they must tread carefully in the coming months , with U.S. officials warning Beijing not to expect that American demand will once again spur China 's growth .</s>
+<s id='vn178'>Cả hai bên thừa nhận rằng họ phải bước đi cẩn thận trong những tháng tới , với các quan chức Hoa Kỳ cảnh báo Bắc Kinh đừng mong là nhu cầu của người Mỹ sẽ một lần nữa thúc đẩy tăng trưởng của Trung Quốc .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>" There was a lot of discussion about how both sides are grappling with the timing of the withdrawal of their macroeconomic stimulus , " said David Loevinger , the Treasury 's senior coordinator for China affairs , told reporters .</s>
+<s id='vn179'>" Có nhiều thảo luận về cách cả hai bên vật lộn với thời gian của sự rút lui của kích thích kinh tế vĩ mô của họ , " đã nói David Loevinger , điều phối viên cao cấp của Bộ Tài chính cho công việc Trung Quốc , nói với phóng viên .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>" There was general agreement that it was very important that this does n't occur too soon because the recoveries are still very fragile , but also an acknowledgment that they have to take place at the right time , and not let another set of imbalances and bubbles build up in the economy . "</s>
+<s id='vn180'>" mọi người đều đồng ý rằng điều hết sức quan trọng là điều này không xảy ra quá sớm vì sự hồi phục vẫn rất mong manh , và cả sự xác nhận họ phải diễn ra đúng lúc , và không phải để cho xác lập khác của bong bóng và mất cân đối tăng lên trong nền kinh tế . "</s>
+</spair>
+<spair id='181'>
+<s id='en181'>5 . China manufacturing hub hit by downturn</s>
+<s id='vn181'>5 . Trung tâm sản xuất Trung Quốc đến thời suy thoái</s>
+</spair>
+<spair id='182'>
+<s id='en182'>Dongguan , the south China city whose factories alone outpace those of Vietnam in exports , has recorded a 10 percent decline in employment since the onset of the global economic downturn , its mayor said on Wednesday .</s>
+<s id='vn182'>Dongguan , chỉ một mình thành phố ở miền nam Trung Quốc có các nhà máy đi nhanh hơn Việt Nam về hàng xuất khẩu , đã ghi nhận suy thoái 10 phần trăm về số lượng công ăn việc làm từ khởi phát của thời kỳ suy thoái kinh tế toàn cầu , thị trưởng của nó đã nói vào ngày thứ tư .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>The city , about 90 kilometres north of Hong Kong , was hit by a 24 percent year-on-year decline in exports over the first six months of 2009 as developed country consumers reined in spending .</s>
+<s id='vn183'>Thành phố , khoảng 90 ki-lô-mét phía bắc của Hồng Kông , bị tấn công bởi 24 phần trăm suy giảm mỗi năm về hàng xuất khẩu trên sáu tháng đầu năm 2009 vì người tiêu dùng trong các quốc gia phát triển kềm chế trong chi xài .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>As a result , gross domestic product grew just 0.6 percent in the first half , compared with the national figure of 7.1 percent and a 30-year average in Dongguan of 18 percent .</s>
+<s id='vn184'>Kết quả là tổng sản lượng nội địa phát triển chỉ 0.6 phần trăm trong một nửa đầu tiên , so với số liệu cả nước của 7.1 phần trăm và trung bình 30 năm trong dongguan của 18 phần trăm .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>" Manufacturing is Dongguan 's pillar industry , " Li Yuquan said at a briefing .</s>
+<s id='vn185'>" Sản xuất là dongguan của công nghiệp trụ cột , " Li Yuquan đã nói ở tài liệu tóm tắt .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>" The global financial crisis has had a strong impact on Dongguan . "</s>
+<s id='vn186'>" Khủng hoảng tài chính toàn cầu đã có tác động mạnh vào dongguan . "</s>
+</spair>
+<spair id='187'>
+<s id='en187'>Mr Li said registered employment has fallen to 5.7m , an implied loss of 630,000 jobs .</s>
+<s id='vn187'>Ông Li đã nói số công nhân làm việc có đăng ký đã giảm xuống còn 5.7m , hàm ý mất 630,000 công việc .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>In January , a central government study estimated that 20m of the country 's approximately 130m migrant workers had lost their jobs and returned home for the annual Chinese new year holiday .</s>
+<s id='vn188'>Vào tháng giêng , nghiên cứu chính quyền trung ương ước tính 20m của 130m công nhân nhập cư khoảng của quốc gia đã mất công ăn việc làm và về nhà cho ngày lễ năm mới Trung Quốc hàng năm .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>The vast majority of Dongguan 's 10m residents are migrants from other areas of the country .</s>
+<s id='vn189'>Đại đa số 10 triệu cư dân của Dongguan là người di cư từ những vùng khác của đất nước .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>Despite the grim data , the mayor expressed confidence that Dongguan could still reach its official annual GDP growth target of 10 percent .</s>
+<s id='vn190'>Mặc dù dữ liệu đáng thất vọng , thị trưởng bày tỏ tự tin Dongguan vẫn còn có thể đạt đến mục tiêu tăng trưởng GDP hàng năm chính thức của nó 10 phần trăm .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>" We are under great pressure to meet our GDP goal because Dongguan is an export-oriented economy ," Mr Li said .</s>
+<s id='vn191'>" chúng tôi bị áp lực lớn để đạt mục tiêu GDP của chúng tôi vì Dongguan là nền kinh tế định hướng xuất khẩu , " ông Li đã nói .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>" But we have every confidence we will achieve it . "</s>
+<s id='vn192'>" nhưng chúng tôi hết sức tự tin chúng tôi sẽ đạt được nó . "</s>
+</spair>
+<spair id='193'>
+<s id='en193'>The Dongguan government , whose own revenues are also under pressure , has allocated Rmb1bn ( $ 147m ) in emergency financing for smaller entrep rises , with another Rmb4bn earmarked to support technological upgrades , research and development and worker training .</s>
+<s id='vn193'>Chính phủ Đông Quản , doanh thu riêng mà cũng là dưới áp lực , đã phân bổ rmb1bn ( $ 147m ) trong tình trạng khẩn cấp tài chính cho các xí nghiệp nhỏ hơn , với rmb 4bn khác dành riêng để hỗ trợ nâng cấp công nghệ , nghiên cứu và phát triển và huấn luyện công nhân .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>According to Mr Li , some 1,200 companies have taken advantage of the funds .</s>
+<s id='vn194'>Theo ông Li , khoảng 1,200 công ty đã lợi dụng kinh phí .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>He also said that the local government had helped entreprises secure an additional Rmb20bn in bank loans .</s>
+<s id='vn195'>Anh ấy cũng nói rằng chính quyền địa phương đã giúp các xí nghiệp bảo mật rmb20bn bổ sung trong tiền vay ngân hàng .</s>
+</spair>
+<spair id='196'>
+<s id='en196'>The crisis has primarily affected smaller factories , with 342 closing in the first six months of this year .</s>
+<s id='vn196'>Khủng hoảng đã chủ yếu tác động nhà máy nhỏ hơn , với 342 đóng cửa trong sáu tháng đầu tiên của năm nay .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>Some 865 closed in 2008 .</s>
+<s id='vn197'>Khoảng 865 bị đóng vào năm 2008 .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>" I can assure you that these figures are accurate , " Mr Li said .</s>
+<s id='vn198'>" Tôi có thể bảo đảm bạn rằng con số này chính xác , " ông Li đã nói .</s>
+</spair>
+<spair id='199'>
+<s id='en199'>" The main impact of the financial crisis has not been factory closures but shrinking orders and manufacturing capacity .</s>
+<s id='vn199'>" Ảnh hưởng chính của khủng hoảng tài chính đã không đóng cửa nhà máy nhưng giảm số lượng đơn đặt hàng và khả năng sản xuất .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>Larger , more established factories appear to be benefiting from the pain at the bottom end of the manufacturing chain .</s>
+<s id='vn200'>Những nhà máy thành lập lâu năm hơn , lớn hơn dường như đang được hưởng lợi từ đau ở dưới đáy của dây chuyền sản xuất .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>C K Choi , general manager of a large Nokia factory in Dongguan , said his facility was on track to better last year 's 5 percent increase in export revenues .</s>
+<s id='vn201'>C K Choi , tổng giám đốc của nhà máy Nokia lớn ở Đông Quản , đã nói phương tiện của anh ấy chắc chắn sẽ cải thiện tăng 5 phần trăm so với năm ngoái về doanh thu xuất khẩu .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>Dongguan last year ranked behind only Shenzhen , Shanghai and Suzhou in exports among Chinese cities , with $ 65.54bn in shipment .</s>
+<s id='vn202'>Năm ngoái Đông Quản chỉ đứng sau Thâm Quyến , Thượng Hải và Suzhou về hàng xuất khẩu giữa thành phố Trung Quốc , với $ 65.54bn về vận chuyển hàng .</s>
+</spair>
+<spair id='203'>
+<s id='en203'>6 . Trade Balance , Regulation Are Key Goals</s>
+<s id='vn203'>6 . Cán cân thương mại , quy định là mục tiêu then chốt</s>
+</spair>
+<spair id='204'>
+<s id='en204'>The United States and China pledged Tuesday to lay a foundation for a global economic recovery by pursuing policies aimed at easing their massive trade imbalance and improving regulation of the financial system .</s>
+<s id='vn204'>Hoa Kỳ và Trung Quốc cam kết thứ ba để đặt nền móng cho phục hồi kinh tế toàn cầu bằng cách tiếp tục thực hiện những chính sách nhằm làm dịu đi mất cân đối thương mại ồ ạt của họ và cải thiện quy định của hệ thống tài chính .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>The commitments by the two major engines of the global economy came at the end of two days of high-level discussions in Washington that covered a broad range of topics besides the global recession , including North Korea , nuclear proliferation and climate change .</s>
+<s id='vn205'>Cam kết bằng hai động cơ chính của kinh tế toàn cầu đi đến vào cuối hai ngày thảo luận cao cấp ở Washington bao gồm nhiều chủ đề ngoài tình trạng suy thoái toàn cầu , bao gồm Bắc Triều Tiên , triển khai vũ khí hạt nhân và thay đổi khí hậu .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>The talks , co-chaired by Treasury Secretary Timothy F. Geithner and Secretary of State Hillary Rodham Clinton , produced little in the way of substantive agreements .</s>
+<s id='vn206'>Cuộc đàm phán , được đồng chủ trì bởi Bộ trưởng tài chính Timothy F. Geithner và Ngoại trưởng Hillary Rodham Clinton , ít theo hướng thoả thuận lâu dài .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>Instead , officials from both countries outlined common concerns that they said they would continue to address : the trade imbalance , financial regulatory reform , protectionism and climate change .</s>
+<s id='vn207'>Thay vào đó , viên chức từ cả hai quốc gia phác thảo mối quan ngại chung họ đã nói họ sẽ tiếp tục nhắm đến : thương mại mất cân đối , cải cách hành pháp tài chính , chủ nghĩa bảo hộ mậu dịch và thay đổi khí hậu .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>They also said they would work to reform the governance of the International Monetary Fund and the World Bank to better reflect China 's status as the world 's third-largest economy .</s>
+<s id='vn208'>Họ cũng đã nói họ sẽ làm việc để cải cách cai quản của quỹ tiền tệ quốc tế và Ngân hàng Thế giới để nên phản ánh địa vị của Trung Quốc như nền kinh tế lớn thứ ba của thế giới .</s>
+</spair>
+<spair id='209'>
+<s id='en209'>In closing statements , Geithner called cooperation between the United States and China " vital not only to the well-being of our two nations but also the health of the global economy . "</s>
+<s id='vn209'>Trong lời tuyên bố bế mạc , Geithner gọi hợp tác giữa Hoa Kỳ và Trung Quốc " trọng yếu không chỉ để tình trạng khoẻ mạnh của hai quốc gia của chúng tôi mà còn sức khoẻ của kinh tế toàn cầu . "</s>
+</spair>
+<spair id='210'>
+<s id='en210'>Geithner assembled a team of senior U.S. economic officials for the meetings , including Federal Reserve Chairman Ben S. Bernanke and White House economic adviser Lawrence H. Summers , in part to reassure the Chinese about the safety of their U.S. investments .</s>
+<s id='vn210'>Geithner đang tụ tập nhóm của các quan chức kinh tế cao cấp của Hoa Kỳ cho cuộc họp , bao gồm Chủ tịch cục dự trữ liên bang Ben S. Bernanke và cố vấn kinh tế của Nhà Trắng Lawrence H. Summers , phần nào để đảm nhận lại Trung Quốc về an toàn đầu tư Hoa Kỳ của họ .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>Last fall , China replaced Japan as the United States ' No. 1 foreign creditor ; it now holds roughly $ 1 out of every $ 10 in U.S. public debt .</s>
+<s id='vn211'>Mùa thu năm ngoái , Trung Quốc thay Nhật Bản như chủ nợ số một nước ngoài của Hoa Kỳ ; nó bây giờ chiếm khoảng $ 1 trong số mỗi 10 đô-la Mỹ trong tiền nợ của chính phủ Hoa Kỳ .</s>
+</spair>
+<spair id='212'>
+<s id='en212'>But the Chinese , along with many other investors , fear that massive U.S. spending , as well as the Fed 's injection of hundreds of billions of dollars into the financial system , may cause inflation to flare , reducing the value of their U.S. investments .</s>
+<s id='vn212'>Nhưng Trung Quốc , cùng với nhiều nhà đầu tư khác , sợ rằng chi tiêu ồ ạt của Hoa Kỳ , cũng như việc bơm hàng trăm tỷ đô la của Fed của vào hệ thống tài chính , có thể làm lạm phát phồng ra , giảm giá trị đầu tư vào Hoa Kỳ của họ .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>China 's trade surplus with the United States long helped fuel its investment in Treasurys .</s>
+<s id='vn213'>Thặng dư mậu dịch của Trung Quốc với Hoa Kỳ dài giúp gây ra đầu tư trong kho bạc .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>As Americans bought cheap Chinese imports , U.S. dollars flowed to China , which in turn used those dollars to invest in U.S. debt and mortgage-related securities .</s>
+<s id='vn214'>Như người Mỹ mua hàng nhập khẩu Trung Quốc rẻ tiền , đồng đô-la Mỹ chảy đến Trung Quốc , lần lượt sử dụng các đô la đó đầu tư vào nợ của Hoa Kỳ và chứng khoán liên quan đến thế chấp .</s>
+</spair>
+<spair id='215'>
+<s id='en215'>But with U.S. home prices falling and unemployment rising , American consumers have cut back on spending - a shift that has dampened growth in China .</s>
+<s id='vn215'>Nhưng với giá nhà ở Hoa Kỳ rơi và thất nghiệp gia tăng , người tiêu dùng Hoa Kỳ đã giảm chi xài - một thay đổi đã làm giảm phát triển ở Trung quốc .</s>
+</spair>
+<spair id='216'>
+<s id='en216'>The country has made up for some of the lost demand for exports through stimulus spending .</s>
+<s id='vn216'>Quốc gia đã bù đắp cho một số không còn nhu cầu về hàng xuất khẩu qua kích thích chi xài .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>The Chinese economy grew at a surprisingly strong annualized rate of 7.9 percent in the second quarter , the government said this month .</s>
+<s id='vn217'>Kinh tế Trung quốc tăng trưởng ở mức tỉ lệ hàng năm mạnh ngạc nhiên của 7.9 phần trăm trong quý thứ nhì , chính phủ tháng này nói .</s>
+</spair>
+<spair id='218'>
+<s id='en218'>But , over the long term , Chinese officials said they want to reduce their dependence on exports by stimulating domestic consumption .</s>
+<s id='vn218'>Nhưng , lâu dài , các quan chức Trung hoa đã nói họ muốn giảm sự phụ thuộc của họ vào hàng xuất khẩu bằng cách kích thích tiêu dùng trong nước .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>On the political front , Clinton on Tuesday said her discussions on North Korea 's nuclear program , Iran 's nuclear program and climate change were the most productive .</s>
+<s id='vn219'>Trên mặt trận chính trị , Clinton vào ngày thứ ba đã nói cô ấy thảo luận về chương trình hạt nhân của Bắc Triều Tiên , chương trình hạt nhân của Iran và thay đổi khí hậu được hiệu quả nhất .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>She also said U.S. officials " expressed our concern " about human rights issues , especially the recent violence in China 's far western region of Xinjiang , where rioting by ethnic Uighur protesters was met with deadly force by government forces .</s>
+<s id='vn220'>Cô ấy cũng đã nói các quan chức Hoa Kỳ " bày tỏ mối quan ngại của chúng tôi " về vấn đề nhân quyền , nhất là bạo lực gần đây ở vùng phía tây xa của Trung Quốc của Tân Cương , nơi cuộc nổi loạn bằng những người biểu tình thuộc chủng tộc Duy Ngô Nhĩ đã được gặp quyền giết người bởi lực lượng chính phủ .</s>
+</spair>
+<spair id='221'>
+<s id='en221'>Asked about that conversation on Xinjiang , China 's vice foreign minister , Wang Guangya , described the violence as a " terrorist act . "</s>
+<s id='vn221'>Hỏi thăm về câu chuyện trên Tân Cương , thứ trưởng ngoại giao của Trung Quốc , Wang Guangya , mô tả bạo lực như là " hành động khủng bố . "</s>
+</spair>
+<spair id='222'>
+<s id='en222'>He said the Chinese side " expressed our appreciation for the moderate attitude of the United States " on the matter .</s>
+<s id='vn222'>Anh ấy đã nói phía Trung Quốc " tỏ lòng cảm kích của chúng tôi cho thái độ ôn hoà của Hoa Kỳ " về vấn đề này .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>Separately , officials from China and the United States signed a memorandum of understanding reaffirming their commitment to cooperation on climate change without agreeing to specific emissions targets .</s>
+<s id='vn223'>Đặc biệt là , viên chức từ Trung Quốc và Hoa Kỳ ký bản ghi nhớ khẳng định lại cam kết của họ để hợp tác về thay đổi khí hậu mà không đồng ý mục tiêu khí thải cụ thể .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>The agreement was yet another step in slow-moving negotiations seen as vital to the effort to produce a global pact on greenhouse gases .</s>
+<s id='vn224'>Thoả thuận là lại thêm một bước trong đàm phán chậm chạp xem như trọng yếu để nỗ lực để tạo ra hiệp ước toàn cầu trên khí gây ra hiệu ứng nhà kính .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>The United States and China are the world 's two biggest emitters of the heat-trapping gases , and neither joined the Kyoto Protocol , an agreement to reduce emissions .</s>
+<s id='vn225'>Hoa Kỳ và Trung Quốc là hai người phát hành lớn nhất của thế giới của khí giữ nhiệt , và không tham gia Nghị định thư Kyoto , một thoả thuận nhằm giảm khí thải .</s>
+</spair>
+<spair id='226'>
+<s id='en226'>Around the world , diplomats are trying to hammer out a replacement agreement for the Kyoto pact , to be signed in Copenhagen in December .</s>
+<s id='vn226'>Ở khắp nơi trên thế giới , các nhà ngoại giao đang cố thoả thuận thoả thuận thay thế cho hiệp ước Kyoto , sẽ được ký ở Copenhagen vào tháng 12 .</s>
+</spair>
+<spair id='227'>
+<s id='en227'>But environmentalists say that will be difficult if China and the United States do not reach an agreement first .</s>
+<s id='vn227'>Nhưng nhà môi trường nói rằng sẽ khó nếu Trung Quốc và Hoa Kỳ không đạt đến thoả thuận trước tiên .</s>
+</spair>
+<spair id='228'>
+<s id='en228'>" If you do n't get ... the U.S. and China to the table , then it 's very difficult to get to a global solution , " said David Pumphrey , a climate-policy expert at the Center for Strategic and International Studies .</s>
+<s id='vn228'>" Nếu bạn không bị ... Hoa Kỳ và Trung Quốc để bàn , sau đó rất khó để đạt đến một giải pháp toàn cầu , " đã nói David Pumphrey , chuyên gia về chính sách liên quan đến khí hậu ở Trung tâm nghiên cứu quốc tế và chiến lược .</s>
+</spair>
+<spair id='229'>
+<s id='en229'>Analysts said that while this week 's talks did not produce any breakthrough agreements , they laid the foundation for future ones by setting the right tone for a relationship that has at times been tense .</s>
+<s id='vn229'>Nhà phân tích nói rằng trong khi cuộc đàm phán của tuần này không tạo ra bất cứ thoả thuận đáng chú ý , họ đặt nền móng cho những tương lai bằng điều chỉnh âm điệu thích hợp cho mối quan hệ có đôi khi căng thẳng .</s>
+</spair>
+<spair id='230'>
+<s id='en230'>Last year , for instance , military ties between the countries cooled after the Pentagon announced the sale of $ 6.5 billion in weaponry to Taiwan , which Beijing regards as a part of China .</s>
+<s id='vn230'>Năm ngoái , ví dụ , các mối quan hệ về quân sự giữa quốc gia nguội lạnh đi sau Lầu năm góc công bố bán 6.5 tỷ đô-la Mỹ trong vũ khí đến Đài Loan , Bắc Kinh coi như bộ phận của Trung Quốc .</s>
+</spair>
+<spair id='231'>
+<s id='en231'>On Tuesday , the Chinese delegation announced that the vice chairman of China 's Central Military Commission would visit the United States this year .</s>
+<s id='vn231'>Vào ngày thứ ba , phái đoàn Trung Quốc tuyên bố rằng phó chủ tịch của Central Military Commission của Trung Quốc sẽ thăm Hoa Kỳ năm nay .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>The Obama administration " is saying let 's see if there are ways we can minimize disagreements to get to good outcomes , " said Kenneth Lieberthal , a China expert with the Brookings Institution .</s>
+<s id='vn232'>Chính quyền Obama " đang nói để cho chúng tôi xem liệu có cách chúng ta có thể giảm thiểu bất đồng để đạt được các kết quả tốt đẹp , " đã nói Kenneth Lieberthal , chuyên gia Trung Quốc với Brookings Institution .</s>
+</spair>
+</text>
+</doc>

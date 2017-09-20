@@ -1,0 +1,172 @@
+﻿<doc id='N0158'>
+<head>
+<title>US alarm over Japan atomic crisis</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>US alarm over Japan atomic crisis</s>
+<s id='vn1'>Mỹ cảnh báo khủng hoảng hạt nhân ở Nhật</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Increasing alarm has been voiced in the US about the crisis at the Fukushima Daiichi nuclear plant in Japan .</s>
+<s id='vn2'>Mỹ tăng báo động về khủng hoảng tại nhà máy hạt nhân Fukushima Daiichi ở Nhật .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A top US nuclear official said attempts to cool reactors with sea water to prevent a meltdown appeared to be failing and workers could be exposed to " potentially lethal " radiation doses .</s>
+<s id='vn3'>Một quan chức hạt nhân hàng đầu của Mỹ cho biết những nỗ lực nhằm làm nguội các lò phản ứng bằng nước biển để ngăn chặn hiện tượng lõi chảy tan có vẻ không thành công và công nhân có thể bị nhiễm liều lượng phóng xạ " có khả năng gây chết người " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Japanese army helicopters today dumped water on the reactors to try to cool overheated fuel rods .</s>
+<s id='vn4'>Hôm nay các trực thăng quân sự Nhật Bản đã đổ nước xuống các lò phản ứng để làm nguội các thanh nhiên liệu đang trở nên quá nóng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The plant was severely damaged by last week 's huge earthquake and tsunami .</s>
+<s id='vn5'>Nhà máy này đã bị thiệt hại nghiêm trọng do cơn động đất và sóng thần vào tuần trước .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>US Energy Secretary Steven Chu has said that the situation at the plant appears to be more serious than the partial meltdown at the Three Mile Island nuclear plant in Pennsylvania in 1979 .</s>
+<s id='vn6'>Bộ trưởng Năng lượng Hoa Kỳ Steven Chu cho biết tình hình tại nhà máy này có vẻ nghiêm trọng hơn nhiều so với hiện tượng lõi lò phản ứng hạt nhân chảy tan một phần tại nhà máy hạt nhân Three Mile Island ở Pennsylvania vào năm 1979 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The US state department has urged Americans living within 80km ( 50 miles ) of Fukushima Daiichi , which lies 220km from Tokyo , to leave the area - a much wider exclusion zone than the 20km advised by the Japanese government .</s>
+<s id='vn7'>Bộ ngoại giao Hoa Kỳ đã kêu gọi công dân Mỹ đang sống trong vòng bán kính 80 km ( 50 dặm ) ở Fukushima Daiichi cách Tokyo 220 km phải rời khỏi khu vực này xa hơn khu vực cấm khoảng 20km do chính phủ Nhật đưa ra .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Some US military personnel in Japan have been given tablets against possible radiation effects .</s>
+<s id='vn8'>Một số quân đội Mỹ ở Nhật được cho viên ngừa khả năng ảnh hưởng phóng xạ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Britain has now advised its nationals currently in Tokyo and to the north of the capital to consider leaving the area .</s>
+<s id='vn9'>Hiện nay nước Anh đã khuyến cáo công dân Anh đang sống ở Tokyo và các vùng phía Bắc của thủ đô rời khỏi khu vực này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Engineers are racing to avert a nuclear catastrophe at Fukushima Daiichi , where the tsunami wrecked back-up diesel generators that kept the nuclear fuel cool .</s>
+<s id='vn10'>Các kỹ sư đang chạy đua để ngăn chặn thảm hoạ hạt nhân tại Fukushima Daiichi vì sóng thần đã phá huỷ máy phát điện diesel giữ mát nhiên liệu hạt nhân dự phòng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Workers have been dousing the reactors with sea water in a frantic effort to stabilise their temperatures , since the first in a series of explosions rocked the plant on Saturday .</s>
+<s id='vn11'>Công nhân nhà máy đang dập tắt các lò phản ứng bằng nước biển để ổn định nhiệt độ vì vụ nổ đầu tiên vào hôm thứ Bảy trong loạt cháy nổ đã làm rung chuyển nhà máy này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Unprecedented " crisis</s>
+<s id='vn12'>Thảm hoạ " chưa từng có "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>On Thursday , army helicopters dumped tonnes of water on reactor three - a day after they were forced to pull out amid concerns over radiation levels in the air around the site .</s>
+<s id='vn13'>Hôm thứ sáu , trực thăng quân sự đã đổ hàng tấn nước xuống lò phản ứng số ba - một ngày sau khi họ buộc phải dập tắt giữa những mối lo ngại về mức độ phóng xạ trong không khí quanh khu vực này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>There are fears that reactor three may have released radioactive steam due to a reported damage to its containment vessel .</s>
+<s id='vn14'>Người ta lo sợ rằng lò phản ứng số ba có thể đã phát tán hơi phóng xạ do bị hỏng bình khí nén như đã báo cáo .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The helicopters soon left the site in order to minimise the crews ' exposure to radiation .</s>
+<s id='vn15'>Các trực thăng sớm rời khỏi khu vực này để giảm thiểu sự tiếp xúc với phóng xạ cho phi hành đoàn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Meanwhile , water trucks are now on standby to spray water on to a spent-fuel storage pond at reactor four , following fires there .</s>
+<s id='vn16'>Trong khi đó , các xe tải nước đang sẵn sàng để xịt nước lên hồ chứa nhiên liệu đã dùng tại lò phản ứng số bốn , theo sau các vụ nổ ở đó .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Fukushima has sent low levels of radiation wafting into Tokyo .</s>
+<s id='vn17'>Nhà máy Fukushima đã phát tán mức phóng xạ thấp vào Tokyo .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Plant operator Tokyo Electric Power Co. has said it is seeking to restore the power supply to the plant 's cooling systems " as soon as possible " .</s>
+<s id='vn18'>Người điều hành nhà máy Tokyo Electric Power Co cho biết họ đang tìm cách khôi phục lại nguồn cung cấp cho hệ thống làm lạnh của nhà máy " càng sớm càng tốt " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>On Wednesday , Greg Jaczko , chairman of the US Nuclear Regulatory Commission ( NRC ) , told a congressional energy and commerce subcommittee hearing in Washington that there appeared to be serious problems with attempts to cool the reactors .</s>
+<s id='vn19'>Vào hôm thứ Tư , ông Greg Jaczko - chủ tịch Uỷ ban điều chỉnh hạt nhân Hoa Kỳ ( NRC ) cho biết tiểu bang thương mại và năng lượng thuộc quốc hội đang nghe ngóng ở Washington rằng có vẻ như là có vấn đề nghiêm trọng trong nỗ lực làm lạnh các lò phản ứng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" We believe that around the reactor site there are high levels of radiation " he said .</s>
+<s id='vn20'>Ông nói : " Chúng tôi cho rằng quanh khu vực lò phản ứng có mức độ phóng xạ cao " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" It would be very difficult for emergency workers to get near the reactors .</s>
+<s id='vn21'>" Rất khó để thông báo khẩn cấp cho những công nhân đến gần các lò phản ứng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The doses they could experience would potentially be lethal doses in a very short period of time . "</s>
+<s id='vn22'>Liều lượng phóng xạ họ có thể nhiễm có khả năng gây chết người trong khoảng thời gian rất ngắn . "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The US NRC has 11 agency experts in Tokyo monitoring the situation .</s>
+<s id='vn23'>Uỷ ban điều chỉnh hạt nhân Hoa Kỳ có 11 chuyên gia phân điểm ở Tokyo đang giám sát tình hình .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The head of the UN 's Atomic Energy Agency , Yukio Amano , is travelling to Japan in person to gather more information .</s>
+<s id='vn24'>Giám đốc Cơ quan Năng lượng Nguyên tử của Liên Hiệp Quốc , ông Yukio Amano , đang tự mình đến Nhật để thu thập thêm thông tin .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Earlier , in a rare public appearance , Japan 's Emperor Akihito said he was " deeply worried " about the crisis his country was facing .</s>
+<s id='vn25'>Trước đó , trong lần xuất hiện hiếm hoi trước công chúng , Nhật hoàng Akihito nói rằng ông " vô cùng lo lắng " về cuộc khủng hoảng mà đất nước ông đang phải đối mặt .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>TV stations interrupted programming to show the emperor describing the crisis facing the nation as " unprecedented in scale " .</s>
+<s id='vn26'>Đài truyền hình đã cắt chương trình đang phát để chiếu phát biểu của Nhật hoàng về cuộc khủng hoảng mà quốc gia đang phải đối mặt là " quy mô chưa từng có " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The 77-year-old emperor - deeply respected by many Japanese - said : " I hope from the bottom of my heart that the people will , hand in hand , treat each other with compassion and overcome these difficult times . "</s>
+<s id='vn27'>Nhật hoàng 77 tuổi được sự kính trọng của người Nhật nói rằng : " Từ tận đáy lòng tôi hy vọng người Nhật sẽ tay trong tay , đối xử với nhau bằng tình thương và cùng nhau vượt qua khời khắc khó khăn này . "</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Fukushima prefecture governor Yuhei Sato has criticised official handling of the evacuation of the area around the stricken power plant .</s>
+<s id='vn28'>Thống đốc Yuhei Sato thuộc quận Fukushima đã chỉ trích chính quyền về việc xử lý vùng di tản quanh nhà máy điện bị ảnh hưởng nặng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Anxiety and anger felt by people have reached boiling point , " he said .</s>
+<s id='vn29'>Ông cho biết " Sự lo lắng và giận dữ của người dân đã lên đến cực điểm . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Mr Sato said centres already housing people who had been moved from their homes near the plant did not have enough hot meals and basic necessities such as fuel and medical supplies .</s>
+<s id='vn30'>Ông Sato nói các trung tâm cung cấp nơi ăn chốn ở cho những người ở gần nhà máy thì không đủ thức ăn nóng và các nhu cầu cơ bản như nhiên liệu và thuốc men .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" We 're lacking everything " .</s>
+<s id='vn31'>" Chúng tôi đang thiếu mọi thứ " .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In other developments :</s>
+<s id='vn32'>Các diễn biến khác :</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The benchmark Nikkei index fell 3.6 % in early Thursday trading in Tokyo , shortly after the yen briefly hit the highest level against the US dollar since World War II .</s>
+<s id='vn33'>Ở Tokyo chỉ số chuẩn của Nikkei giảm 3.6% trong phiên giao dịch sáng thứ Năm , ngay sau khi đồng yên lên nhanh ở mức cao nhất so với đồng đô-la Mỹ từ thế chiến thứ II .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>France urged its nationals in Tokyo to leave the country or move the south ; two Air France planes were sent to begin evacuation</s>
+<s id='vn34'>Pháp kêu gọi công dân của họ ở Tokyo phải rời khỏi quốc gia này hoặc di chuyển về phía nam ; hai máy bay của hãng hàng không Pháp được gởi đến để bắt đầu cuộc di tản</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Australia advised its citizens to consider leaving Tokyo and the most damaged prefectures</s>
+<s id='vn35'>Úc khuyên công dân nên xem xét để rời khỏi Tokyo và những quận bị thiệt hại nặng</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Turkey warned against travel to Japan</s>
+<s id='vn36'>Thổ Nhĩ Kỳ cảnh báo việc du lịch đến Nhật</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Thousands of people were killed in the 9.0-magnitude quake and tsunami .</s>
+<s id='vn37'>Hàng ngàn người bị thiệt mạng trong vụ động đất 9.0 độ và sóng thần .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Snow has blanketed swathes of the disaster zone , where many survivors have little food , water and heat .</s>
+<s id='vn38'>Tuyết đã phủ khắp đống đổ nát ở khu vực thảm hoạ nơi nhiều người sống sót chỉ còn rất ít thức ăn , nước uống và nhiệt .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>About 450,000 people have been staying in temporary shelters , many sleeping on the floor of school gymnasiums .</s>
+<s id='vn39'>Khoảng 450.000 người đang ở trong những nơi trú ẩn tạm thời , nhiều người phải nằm ngủ trên sàn phòng tập thể dục của trường học .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>More than 4,300 people are listed as dead but it is feared the total death toll from the catastrophe , which pulverised the country 's north-east coast , will rise substantially .</s>
+<s id='vn40'>Danh sách số người thiệt mạng được liệt kê hơn 4300 người nhưng e rằng tổng số người chết từ vụ thảm hoạ đã phá huỷ vùng bờ biển đông bắc của đất nước này sẽ còn tăng lên đáng kể .</s>
+</spair>
+</text>
+</doc>

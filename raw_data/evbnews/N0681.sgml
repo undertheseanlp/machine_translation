@@ -1,0 +1,276 @@
+﻿<doc id='N0681'>
+<head>
+<title>Is There A Dragonfly On Your Shoulder ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Is There A Dragonfly On Your Shoulder ?</s>
+<s id='vn1'>Có con chuồn chuồn nào trên vai bạn hay không ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>There were two sweethearts in a quiet and beautiful small town .</s>
+<s id='vn2'>Ở một thị trấn nhỏ yên tĩnh và xinh đẹp nọ có một đôi trai gái yêu nhau thắm thiết .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They went to the beach for sunrise and sunset every day .</s>
+<s id='vn3'>Mỗi ngày họ đều đi dạo trên bờ biển ngắm bình minh và hoàng hôn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Every passer-by envied them two very much .</s>
+<s id='vn4'>Những người khách qua đường đều tỏ vẻ ghen tị với họ rất nhiều .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>But one day , in a car accident , the girl got hurt very seriously .</s>
+<s id='vn5'>Nhưng một ngày nọ , trong một vụ tai nạn xe , cô gái đã bị thương rất nặng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>She was lying in bed in a hospital and still never came to life after quite a few days .</s>
+<s id='vn6'>Cô đang nằm trên giường bệnh trong một bệnh viện , nhiều ngày trôi qua mà cô vẫn chưa tỉnh lại .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In the daytime , the boy was calling his sweetheart who was unconscious all the time at her bedside ; at night , he ran to the church in the small town and prayed to God .</s>
+<s id='vn7'>Ngày ngày chàng trai đến bên cạnh giường cô , gọi tên người yêu đang nằm bất động , đêm xuống anh đến một nhà thờ trong thị trấn nhỏ để cầu xin Chúa .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>His tears had run dry .</s>
+<s id='vn8'>Anh đã khóc cạn khô nước mắt .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A month passed , the girl was still unconscious .</s>
+<s id='vn9'>Một tháng trôi qua , cô gái vẫn còn chưa tỉnh lại .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The boy became very languish , but he still continued his calling and prayer .</s>
+<s id='vn10'>Chàng trai mòn mỏi trong tuyệt vọng , nhưng anh vẫn cứ gọi tên cô và cầu nguyện .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Finally one day , God was moved by him .</s>
+<s id='vn11'>Rồi đến một ngày nọ , Chúa đã động lòng trước tấm chân tình của anh .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>So He decided to make an exception for him .</s>
+<s id='vn12'>Nên Ngài quyết định ban cho anh một cơ hội .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>God asked him :</s>
+<s id='vn13'>Chúa hỏi :</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Are you willing to trade it with your life ? "</s>
+<s id='vn14'>" Con có sẵn lòng đánh đổi bằng sinh mạng của con hay không ? "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The boy answered without any hesitation :</s>
+<s id='vn15'>Chàng trai trả lời không chút lưỡng lự :</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" I am ! "</s>
+<s id='vn16'>" Con bằng lòng ! "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>God said :</s>
+<s id='vn17'>Chúa nói :</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" I could let her come to life as soon as possible , but you have to become a dragonfly for three years , will you ? "</s>
+<s id='vn18'>" Ta sẽ làm cho cô ấy tỉnh lại , nhưng con phải bị biến thành chuồn chuồn trong ba năm , con đồng ý chứ ? "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The boy was still very determined :</s>
+<s id='vn19'>Chàng trai quả quyết :</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" I will ! "</s>
+<s id='vn20'>" Con đồng ý ! "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>At dawn , the boy became a beautiful dragonfly .</s>
+<s id='vn21'>Rồi khi bình minh vừa ló dạng , chàng trai hoá thành một con chuồn chuồn xinh đẹp .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He said goodbye to God and flew to the hospital quickly .</s>
+<s id='vn22'>Anh ấy chào tạm biệt Chúa và liền bay đến bệnh viện .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The girl really regained consciousness and talked with a doctor next to her , but the dragonfly could hear nothing .</s>
+<s id='vn23'>Cô gái thật sự đã tỉnh lại và trò chuyện với vị bác sĩ đang ở cạnh bên cô , nhưng chuồn chuồn không thể nghe được câu chuyện của họ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>A few days later , the girl recovered and went out of the hospital .</s>
+<s id='vn24'>Vài ngày sau , cô gái hồi phục và xuất viện .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But she was unhappy .</s>
+<s id='vn25'>Nhưng cô rất buồn bã .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>She seeked news about the boy everywhere .</s>
+<s id='vn26'>Cô hỏi tin tức về người yêu của cô khắp nơi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>But no one knew where he was .</s>
+<s id='vn27'>Nhưng không ai biết anh ấy đang ở đâu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>She sought him every day .</s>
+<s id='vn28'>Mỗi ngày cô đều đi tìm anh ấy .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>But actually the dragonfly that was just the boy flew around her every time everywhere , though he couldn't whisper her name or hug her .</s>
+<s id='vn29'>Nhưng thực ra chuồn chuồn đã quanh quẩn bên cô mọi lúc mọi nơi , dù rằng anh không thể thì thầm tên cô hay ôm lấy cô .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>He had to bear her turning a blind eye to him alone .</s>
+<s id='vn30'>Anh âm thầm chịu đựng sự vô tâm hờ hững của cô .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The summer was gone and the wind of the fall blew off the leaves .</s>
+<s id='vn31'>Mùa hè trôi qua và những cơn gió cuốn những chiếc lá rời xa cây .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The dragonfly had to leave .</s>
+<s id='vn32'>Chuồn chuồn cũng phải ra đi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>So he landed on the girl 's shoulder for the last time .</s>
+<s id='vn33'>Anh đáp xuống trên vai cô gái lần cuối cùng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>He wanted to fondle her face with his wings and kiss her forehead with his small mouth , but he was too small for her to notice .</s>
+<s id='vn34'>Anh mong ước được dùng đôi cánh mỏng manh vuốt ve gương mặt cô , dùng đôi môi bé nhỏ hôn lên vầng trán cô , nhưng thân xác quá mỏng manh của chuồn chuồn không thể khiến cô chú ý đến .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>How time flied .</s>
+<s id='vn35'>Rồi thời gian thoăn thoắt thoi đưa .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The spring came again .</s>
+<s id='vn36'>Mùa xuân lại đến .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The dragonfly could n't wait to fly back to his sweetheart .</s>
+<s id='vn37'>Chuồn chuồn nóng lòng bay trở lại bên người yêu .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>But he saw a tall and handsome young man standing beside her this time .</s>
+<s id='vn38'>Nhưng lần này anh đã bắt gặp một chàng trai cao ráo , khôi ngô bên cạnh cô ấy .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>At that very moment , the dragonfly almost fell from the air .</s>
+<s id='vn39'>Vào đúng giây phút đó , chuồn chuồn chao đảo suýt rơi từ trên cao xuống đất .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>People talked about how serious the girl hurt in the accident , and how sweet and kind the doctor was , and how reasonable their love was .</s>
+<s id='vn40'>Người ta bàn tán về chuyện cô gái bị thương nặng trong vụ tai nạn , chàng bác sĩ tốt và đáng yêu ra sao , rồi tình yêu của họ nảy nở như thế nào .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Of course they also said the girl was happy again as before .</s>
+<s id='vn41'>Tất nhiên họ cũng kể rằng cô gái đã vui vẻ trở lại như ngày xưa .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The dragonfly was very sad .</s>
+<s id='vn42'>Chuồn chuồn rất buồn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>And in the following days , he often saw the man taking his own sweetheart to see the sunrise and sunset together on the beach .</s>
+<s id='vn43'>Rồi những ngày sau , anh thường thấy chàng trai ấy và người yêu của anh tay trong tay ngắm bình minh và hoàng hôn trên bãi biển .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>But he could do nothing except stopping on her shoulder occasionally .</s>
+<s id='vn44'>Nhưng anh chẳng thể làm gì được ngoài việc đôi lúc buông cánh đậu trên vai cô .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It seemed that this summer was extremely long .</s>
+<s id='vn45'>Dường như mùa hè năm đó dài lê thê .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The dragonfly flew around with his broken heart every day .</s>
+<s id='vn46'>Con chuồn chuồn bay quanh quẩn với trái tim tan nát .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>He had no courage to approach his sweetheart .</s>
+<s id='vn47'>Anh không còn chút can đảm nào đến gặp người yêu dấu của mình .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>He felt suffocated when he heard their whisper and laughter .</s>
+<s id='vn48'>Anh cảm thấy nghẹt thở khi nghe thấy tiếng thì thầm to nhỏ , tiếng cười nói vui vẻ của hai người yêu nhau .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>In the third summer , the dragonfly didn't fly to see his sweetheart that often any more .</s>
+<s id='vn49'>Mùa hạ thứ ba , chuồn chuồn đã không còn thường bay đi tìm người yêu .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>She was cuddled by the doctor , and her face was kissed by him .</s>
+<s id='vn50'>Cô đắm chìm trong vòng tay ôm ấp , những nụ hôn nồng cháy của chàng bác sĩ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>She had no time to pay attention to a sad dragonfly and she was in no mood to look back on the days with her previous sweetheart .</s>
+<s id='vn51'>Cô không có thời gian để tâm tới một con chuồn chuồn phiền muộn và cũng chẳng đoái hoài những ngày cô từng trải qua với người yêu cũ trước đây của mình .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The deadline of the promise that the dragonfly made to God was nearing fast .</s>
+<s id='vn52'>Thời hạn chót trong lời hứa của chuồn chuồn với Chúa sắp đến gần .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>On the last day of the third year , the dragonfly 's sweetheart married the doctor .</s>
+<s id='vn53'>Vào ngày cuối cùng của năm thứ ba , người yêu của chuồn chuồn kết hôn với chàng bác sĩ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The dragonfly flew to the church quietly , and settled on the shoulder of God .</s>
+<s id='vn54'>Con chuồn chuồn lặng lẽ bay đến nhà thờ , và đậu lên vai Chúa .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>He heard them vow to God :</s>
+<s id='vn55'>Anh nghe thấy họ thề nguyện trước Ngài :</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" I do ! "</s>
+<s id='vn56'>" Con bằng lòng ! "</s>
+</spair>
+<spair id='57'>
+<s id='en57'>He saw the doctor putting the ring on the finger of his sweetheart , and them kissing sweetly .</s>
+<s id='vn57'>Anh nhìn thấy chàng bác sĩ lồng chiếc nhẫn vào tay người yêu của anh rồi họ hôn nhau thật say đắm .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Tears full of sorrow fell from the dragonfly 's eyes .</s>
+<s id='vn58'>Những giọt nước mắt đau đớn rơi từ khoé mi anh .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>God sighed : " Do you regret ? "</s>
+<s id='vn59'>Chúa thở dài : " Con có hối tiếc không ? "</s>
+</spair>
+<spair id='60'>
+<s id='en60'>The dragonfly wiped his tears and said : " Never ! " God felt happy about that and said : " Then , you can become yourself a man tomorrow . "</s>
+<s id='vn60'>Chuồn chuồn gạt lệ nói : " Thưa con không bao giờ hối tiếc ! " Chúa cảm thấy hài lòng và nói : " Rồi ngày mai , con sẽ trở lại làm người . "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The dragonfly shook his head and said : " No , thanks .</s>
+<s id='vn61'>Con chuồn chuồn lắc đầu và nói : " Không , cảm ơn Chúa .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Just let me be a dragonfly forever and ever .. . "</s>
+<s id='vn62'>Hãy cứ để con mãi là chuồn chuồn . "</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Sometimes , it is your destiny that you have to lose someone .</s>
+<s id='vn63'>Đôi khi số phận đưa đẩy bạn phải đánh mất một ai đó .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Sometimes there won't be a good ending for you and somebody .</s>
+<s id='vn64'>Đôi khi sẽ không hề có một kết thúc có hậu cho bạn và người ấy .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>To love someone is not to own her , but if you have her , you should cherish her forever ...</s>
+<s id='vn65'>Yêu một người không nhất định là phải có được họ , nhưng nếu bạn đã có được một người thì bạn hãy cứ yêu thương họ mãi mãi ...</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Is there a dragonfly on your shoulder ?</s>
+<s id='vn66'>Có một cánh chuồn nào trên vai bạn hay không ?</s>
+</spair>
+</text>
+</doc>

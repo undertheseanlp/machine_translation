@@ -1,0 +1,88 @@
+﻿<doc id='N0246'>
+<head>
+<title>Stroke Rehabilitation And Music Therapy</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Stroke Rehabilitation And Music Therapy</s>
+<s id='vn1'>Phục hồi sau đột quỵ và liệu pháp âm nhạc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Music therapy provided by trained music therapists may help to improve movement in stroke patients , according to a new Cochrane Systematic Review .</s>
+<s id='vn2'>Liệu pháp âm nhạc áp dụng bởi những chuyên gia âm nhạc trị liệu có thể giúp đến cải thiện vận động của bệnh nhân đột quỵ , theo một Nghiên cứu Hệ thống Cochrane mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A few small trials also suggest a wider role for music in recovery from brain injury .</s>
+<s id='vn3'>Một số cuộc thử nghiệm nhỏ cũng ủng hộ việc sử dụng rộng rãi âm nhạc để giúp bình phục sau chấn thương não .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>More than 20 million people suffer strokes each year .</s>
+<s id='vn4'>Hơn 20 triệu người bị đột quỵ mỗi năm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Many patients acquire brain injuries that affect their movement and language abilities , which results in significant loss of quality of life .</s>
+<s id='vn5'>Nhiều bệnh nhân bị chấn thương não ảnh hưởng đến khả năng vận động và ngôn ngữ của họ , dẫn đến giảm đáng kể chất lượng cuộc sống .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Music therapists are trained in techniques that stimulate brain functions and aim to improve outcomes for patients .</s>
+<s id='vn6'>Các chuyên gia âm nhạc trị liệu được huấn luyện những kỹ thuật kích thích chức năng não và cố gắng cải thiện kết quả cho bệnh nhân .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>One common technique is rhythmic auditory stimulation ( RAS ) , which relies on the connections between rhythm and movement .</s>
+<s id='vn7'>Một kỹ thuật phổ biến là kích thích thính giác nhịp nhàng ( RAS ) , dựa trên mối quan hệ giữa nhịp điệu và chuyển động .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Music of a particular tempo is used to stimulate movement in the patient .</s>
+<s id='vn8'>Âm nhạc của một nhịp độ đặc biệt dùng để kích thích vận động của bệnh nhân .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Seven small studies , which together involved 184 people , were included in the review .</s>
+<s id='vn9'>Bảy nghiên cứu nhỏ , cùng bao gồm 184 người , được đưa vào trong tra cứu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Four studies focused specifically on stroke patients , with three of these using RAS as the treatment technique .</s>
+<s id='vn10'>Bốn cuộc nghiên cứu này đều đặc biệt tập trung vào những bệnh nhân đột quỵ , với ba nghiên cứu sử dụng RAS như một kỹ thuật điều trị .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>RAS therapy improved walking speed by an average of 14 metres per minute compared to standard movement therapy , and helped patients take longer steps .</s>
+<s id='vn11'>Liệu pháp RAS cải thiện tốc độ đi bộ trung bình 14 mét mỗi phút so với liệu pháp vận động tiêu chuẩn , và giúp bệnh nhân bước dài hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In one trial , RAS also improved arm movements , as measured by elbow extension angle .</s>
+<s id='vn12'>Trong một thử nghiệm , RAS cũng cải tiến chuyển động của cánh tay , khi đo bằng góc duỗi khuỷu tay .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" This review shows encouraging results for the effects of music therapy in stroke patients , " said lead researcher Joke Bradt of the Arts and Quality of Life Research Center at Temple University in Philadelphia , US .</s>
+<s id='vn13'>" Bài phê bình này cho thấy những kết quả tích cực từ ảnh hưởng của liệu pháp âm nhạc trong bệnh nhân đột quỵ " , theo nhà nghiên cứu trưởng Joke Bradt của Trung tâm Nghiên cứu Nghệ thuật và Chất lượng Cuộc sống tại Đại học Temple , Philadelphia , Hoa Kỳ . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>As most of the studies we looked at used rhythm-based methods , we suggest that rhythm may be a primary factor in music therapy approaches to treating stroke . "</s>
+<s id='vn14'>Bởi vì hầu hết các nghiên cứu chúng tôi xem xét những phương pháp dựa trên nhịp điệu , chúng tôi cho rằng nhịp điệu có thể là yếu tố chính trong cách dùng liệu pháp âm nhạc dùng để chữa đột quỵ . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Other music therapy techniques , including listening to live and recorded music , were employed to try to improve speech , behaviour and pain in patients with brain injuries , and although outcomes in some cases were positive , evidence was limited .</s>
+<s id='vn15'>Các kỹ thuật dùng liệu pháp âm nhạc khác , bao gồm nghe nhạc sống và nhạc ghi âm , được kết hợp để thử cải thiện khả năng nói , phản ứng và cơn đau trong những bệnh nhân bị chấn thương não , và mặc dù kết quả trong vài trường hợp rất khả quan , thì bằng chứng vẫn còn giới hạn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Several trials that we identified had less than 20 participants , " said Bradt .</s>
+<s id='vn16'>" Nhiều cuộc thử nghiệm mà chúng tôi đã nhận biết chỉ có ít hơn 20 người tham dự , " Bradt chia sẻ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" It is expected that larger samples sizes will be used in future studies to enable sound recommendations for clinical practice . "</s>
+<s id='vn17'>" Hy vọng rằng quy mô lớn hơn sẽ được thực hiện trong các nghiên cứu tương lai để cho phép có được những kết quả vững chắc trong điều trị lâm sàng . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Source : Wiley-Blackwell</s>
+<s id='vn18'>Nguồn : Wiley-blackwell</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Copyright : Medical News Today</s>
+<s id='vn19'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,84 @@
+﻿<doc id='N0365'>
+<head>
+<title>Microsoft Launches Windows MultiPoint Server 2010</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft Launches Windows MultiPoint Server 2010</s>
+<s id='vn1'>Microsoft ra mắt Windows Multipoint Server 2010</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft unveils Windows MultiPoint Server 2010 , aimed at the education segment .</s>
+<s id='vn2'>Microsoft vừa tiết lộ Windows MultiPoint Server 2010 , đang được nhắm vào phân khúc giáo dục .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This product allows multiple users at multiple thin-client terminals to operate independently in a Windows environment while linked to a single host system .</s>
+<s id='vn3'>Sản phẩm này cho phép nhiều người sử dụng thiết bị đầu cuối nhỏ vận hành một cách độc lập trong môi trường Windows trong khi kết nối với một hệ thống máy chủ đơn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In theory , this would save schools or even small workgroups the expense of purchasing multiple workstations .</s>
+<s id='vn4'>Về mặt lý thuyết , điều này sẽ tiết kiệm cho các trường học thậm chí cho các nhóm làm việc nhỏ chi phí đặt mua nhiều máy trạm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Another of Microsoft 's server offerings , SQL Server 2008 Release 2 , is due in May .</s>
+<s id='vn5'>Một sự chào hàng khác dành cho máy chủ trong tháng 5 của Microsoft là SQL Server 2008 Release 2 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Microsoft has launched its Windows MultiPoint Server 2010 , which allows users at multiple terminals to connect to a single host computer .</s>
+<s id='vn6'>Microsoft đã cho ra mắt Windows MultiPoint Server 2010 , cho phép nhiều người sử dụng các thiết bị đầu cuối để kết nối với một máy chủ đơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This operating system , released Feb. 24 , is being aimed at the education segment , and Microsoft said it will make this product available to academic volume licensing customers on March 1 .</s>
+<s id='vn7'>Được phát hành ngày 24 tháng 2 , hệ điều hành này đang nhắm vào phân khúc giáo dục và Microsoft cho biết hãng sẽ bán sản phẩm này dưới giấy phép số lượng cho các khách hàng là đơn vị giáo dục vào ngày 1 tháng 3 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In theory , Windows MultiPoint Server 2010 can save schools money by reducing the number of computers needed in a typical classroom to one , the host system , which could be connected to multiple thin-client terminals through a video card or USB.</s>
+<s id='vn8'>Về mặt lý thuyết , Windows MultiPoint Server 2010 có thể tiết kiệm tiền bạc cho các trường bằng cách giảm số lượng máy tính cần thiết trong một lớp học bình thường thành một hệ thống máy chủ , hệ thống máy chủ này có thể kết nối với nhiều thiết bị đầu cuối nhỏ thông qua một card video hoặc một cổng USB .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Students on those terminals could have their own accounts and work independently in a Windows environment .</s>
+<s id='vn9'>Sinh viên sử dụng những thiết bị đầu cuối này có thể có các tài khoản riêng và làm việc một cách độc lập trong môi trường Windows .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>From the host computer , an administrator or other controller can drop content into a Public Documents folder , with that content appearing in users ' Document Libraries .</s>
+<s id='vn10'>Từ máy chủ , một quản trị viên hoặc một người điều khiển khác có thể đưa nội dung vào thư mục gọi là Public Documents , với nội dung xuất hiện trong các Thư viện Tài liệu của người dùng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Although aimed at educators , MultiPoint Server 2010 could potentially be deployed in other contexts , such as small working groups .</s>
+<s id='vn11'>Mặc dù được nhằm vào các nhà giáo dục nhưng MultiPoint Server 2010 cũng có thể được triển khai trong môi trường khác như các nhóm làm việc nhỏ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" Shared resource computing can multiply the number of student workstations available to schools , delivering more value while staying within the same budget , "</s>
+<s id='vn12'>" Chia sẽ tài nguyên máy tính có thể nhân số máy trạm của sinh viên hiện có ở trường , mang lại giá trị lớn trong khi chi phí vẫn nằm trong ngân sách "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Gartner analyst Bill Rust said in a statement accompanying the Microsoft announcement .</s>
+<s id='vn13'>Bill Rust , nhà phân tích của hãng Gartner phát biểu trong một bài phát biểu đi kèm với thông báo của Microsoft .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" Teachers can better align computing resources with instructional strategies while deploying fewer fully configured computers and reducing workstation support liabilities . "</s>
+<s id='vn14'>" Giáo viên có thể bố trí tốt hơn các tài nguyên máy tính với các chiến lược giảng dạy trong khi triển khai ít hơn các máy tính có cấu hình đầy đủ và giảm đi khoản tiền phải trả để hỗ trợ cho máy trạm . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Microsoft is preparing other server offerings for later in 2010 .</s>
+<s id='vn15'>Microsoft đang chuẩn bị chào hàng máy chủ khác vào cuối năm 2010 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>On Jan. 19 , the company announced that SQL Server 2008 Release 2 would be ready at some point in May .</s>
+<s id='vn16'>Vào ngày 19 tháng Giêng , hãng thông báo rằng SQL Server 2008 Release 2 sẽ sẵn sàng ra mắt tại một thời điểm nào đó trong tháng 5 .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Currently in its community technology preview phase , SQL Server 2008 R2 includes enhancements to help administrators centrally monitor and manage multiple database applications , servers and instances .</s>
+<s id='vn17'>Hiện đang trong giai đoạn thử nghiệm kỹ thuật ra mắt cộng đồng , SQL Server 2008 R2 gồm nhiều cải tiến giúp cho các quản trị viên quản lí và kiểm soát một cách tập trung nhiều ứng dụng cơ sở dữ liệu , máy chủ và các thứ khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Theo eweek</s>
+<s id='vn18'>Theo eweek</s>
+</spair>
+</text>
+</doc>

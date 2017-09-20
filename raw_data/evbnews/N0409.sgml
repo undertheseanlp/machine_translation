@@ -1,0 +1,172 @@
+﻿<doc id='N0409'>
+<head>
+<title>Financial Management</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Financial Management</s>
+<s id='vn1'>Quản lý tài chính</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Financial Management is the process of managing the financial resources , including accounting and financial reporting , budgeting , collecting accounts receivable , risk management , and insurance for a business .</s>
+<s id='vn2'>Quản lý tài chính là quy trình quản lý các nguồn lực tài chính , bao gồm quy trình báo cáo tài chính và kế toán , quy trình dự thảo ngân sách , thu hồi các khoản phải thu , quản lý rủi ro , và bảo hiểm cho doanh nghiệp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The financial management system for a small business includes both how you are financing it as well as how you manage the money in the business .</s>
+<s id='vn3'>Hệ thống quản lý tài chính cho một doanh nghiệp nhỏ gồm cả việc bạn đang bỏ vốn vào nó như thế nào cũng như bạn quản lý đồng tiền trong doanh nghiệp ấy ra sao .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In setting up a financial management system your first decision is whether you will manage your financial records yourself or whether you will have someone else do it for you .</s>
+<s id='vn4'>Trong việc xây dựng một hệ thống quản lý tài chính thì quyết định trước hết của bạn là sẽ tự quản lý mọi sổ sách tài chính của mình hay nhờ người khác làm việc đó .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>There are a number of alternative ways you can handle this .</s>
+<s id='vn5'>Có một số vấn đề tương tự bạn có thể giải quyết như vậy .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You can manage everything yourself ; hire an employee who manages it for you ; keep your records inhouse , but have an accountant prepare specialized reporting such as tax returns ; or have an external bookkeeping service that manages financial transactions and an accountant that handles formal reporting functions .</s>
+<s id='vn6'>Bạn có thể tự mình quản lý mọi thứ ; thuê người làm quản lý giúp ; nắm giữ mọi sổ sách nội bộ , nhưng nhờ một kế toán viên soạn thảo báo cáo chuyên dụng chẳng hạn như các bản khai thuế ; hoặc thuê dịch vụ kế toán bên ngoài quản lý các giao dịch tài chính và một kế toán viên giải quyết các công việc kế toán .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Software packages are also available for handling bookkeeping and accounting .</s>
+<s id='vn7'>Những phần mềm ứng dụng cũng có thể dùng để xử lý các công việc sổ sách kế toán .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Bookkeeping refers to the daily operation of an accounting system , recording routine transactions within the appropriate accounts .</s>
+<s id='vn8'>Nghiệp vụ kế toán là hoạt động hàng ngày của hệ thống kế toán , ghi chép các giao dịch hàng ngày trong những tài khoản thích hợp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>An accounting system defines the process of identifying , measuring , recording and communicating financial information about the business .</s>
+<s id='vn9'>Một hệ thống kế toán xác định rõ quy trình nhận diện , đo lường , lưu trữ , và truyền đạt thông tin tài chính của doanh nghiệp .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>So , in a sense , the bookkeeping function is a subset of the accounting system .</s>
+<s id='vn10'>Vì vậy , hiểu theo một khía cạnh nào đó , chức năng của nghiệp vụ kế toán là một bộ phận của hệ thống kế toán .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A bookkeeper compiles the information that goes into the system .</s>
+<s id='vn11'>Một người giữ sổ sách kế toán tổng hợp các thông tin trong hệ thống .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>An accountant takes the data and analyzes it in ways that give you useful information about your business .</s>
+<s id='vn12'>Một kế toán viên lấy dữ liệu và phân tích nó để cung cấp thông tin hữu ích về doanh nghiệp cho bạn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>They can advise you on the systems needed for your particular business and prepare accurate reports certified by their credentials .</s>
+<s id='vn13'>Họ có thể tư vấn về những cơ chế cần thiết cho doanh nghiệp đặc thù của bạn và soạn thảo các báo cáo chính xác được bằng cấp của họ chứng thực .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>While software packages are readily available to meet almost any accounting need , having an accountant at least review your records can lend credibility to your business , especially when dealing with lending institutions and government agencies .</s>
+<s id='vn14'>Khi các phần mềm chuyên dụng có thể sẵn sàng đáp ứng hầu hết mọi yêu cầu về kế toán , thì việc nhờ một kế toán viên ít nhất là xem xét toàn bộ sổ sách có thể khiến doanh nghiệp của bạn nhận được sự tín nhiệm , đặc biệt trong trường hợp giao dịch với các tổ chức tín dụng và các cơ quan nhà nước .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Setting up an accounting system , collecting bills , paying employees , suppliers , and taxes correctly and on time are all part of running a small business .</s>
+<s id='vn15'>Xây dựng một hệ thống kế toán , như thu các hoá đơn , trả lương cho người làm , nhà cung cấp , và nộp thuế chính xác và kịp thời , tất cả là bộ phận của quy trình vận hành một doanh nghiệp nhỏ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>And , unless accounting is your small business , it is often the bane of the small business owner .</s>
+<s id='vn16'>Và , thông thường đó là khó khăn của những chủ doanh nghiệp nhỏ trừ khi doanh nghiệp của bạn là một công ty kế toán .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Setting up a system that does what you need with the minimum of maintenance can make running a small business not only more pleasant , but it can save you from problems down the road .</s>
+<s id='vn17'>Xây dựng một hệ thống làm những gì mình cần , ít phải sửa chữa lại nhất , có thể giúp việc điều hành một doanh nghiệp nhỏ không chỉ thuận lợi hơn mà còn có thể giúp bạn tránh khỏi những rắc rối về sau .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The basis for every accounting system is a good Bookkeeping system .</s>
+<s id='vn18'>Nền tảng cho mọi hệ thống kế toán là một chế độ ghi chép sổ sách tốt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>What is the difference between that and an accounting system ?</s>
+<s id='vn19'>Sự khác biệt giữa chế độ ấy với một hệ thống kế toán là gì ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Think of accounting as the big picture of how your business runs - income , expenses , assets , liabilities - an organized system for keeping track of how the money flows through your business , keeping track that it goes where it is supposed to go .</s>
+<s id='vn20'>Hãy hình dung kế toán như một bức tranh tổng thể của phương thức doanh nghiệp bạn vận hành - thu nhập , chi phí , tài sản , công nợ - một hệ thống được tổ chức nhằm theo dõi các dòng tiền chảy qua doanh nghiệp của bạn như thế nào , giám sát nó đi đến nơi cần đến .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A good bookkeeping system keeps track of the nuts and bolts - the actual transactions that take place .</s>
+<s id='vn21'>Một chế độ ghi chép sổ sách tốt theo dõi tỉ mỉ những chi tiết quan trọng - những giao dịch thực tế diễn ra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The bookkeeping system provides the numbers for the accounting system .</s>
+<s id='vn22'>Chế độ ghi chép sổ sách cung cấp những số liệu cho hệ thống kế toán .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Both accounting and bookkeeping can be contracted out to external firms if you are not comfortable with managing them yourself .</s>
+<s id='vn23'>Cả việc ghi chép sổ sách và kế toán có thể được loại bỏ , để cho những doanh nghiệp bên ngoài làm giúp nếu bạn không yên tâm khi tự mình quản lý chúng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Even if you outsource the accounting functions , you will need some type of Recordkeeping Systems to manage the day-to-day operations of your business - in addition to a financial plan and a budget to make certain you have thought through where you are headed in your business finances .</s>
+<s id='vn24'>Dù bạn khoán các công việc kế toán cho bên ngoài , bạn vẫn cần đến một số loại Hệ thống Lưu trữ Hồ sơ để quản lý các hoạt động hàng ngày của doanh nghiệp mình - ngoài một kế hoạch tài chính và một ngân quỹ để đảm bảo bạn đã cân nhắc kỹ mục tiêu bạn nhắm tới trong tài chính của doanh nghiệp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>And , your accounting system should be producing Financial Statements .</s>
+<s id='vn25'>Và , hệ thống kế toán của bạn phải làm ra các báo cáo tài chính .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Learning to read them is an important skill to acquire .</s>
+<s id='vn26'>Học để đọc được những báo cáo này là một kỹ năng quan trọng cần có .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Another area that your financial management system needs to address is risk .</s>
+<s id='vn27'>Một lĩnh vực khác nữa hệ thống quản lý tài chính của bạn cần giải quyết đó là rủi ro .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Any good system should minimize the risks in your business .</s>
+<s id='vn28'>Bất kỳ hệ thống tốt nào cũng phải giảm đến mức tối thiểu các rủi ro trong doanh nghiệp của bạn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Consider implementing some of these risk management strategies .</s>
+<s id='vn29'>Hãy xem xét việc thực hiện một số những chiến lược quản lý rủi ro này .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Certainly , insurance needs to be considered not only for your property , office , equipment , and employees , but also for loss of critical employees .</s>
+<s id='vn30'>Chắc chắn là bảo hiểm cần thiết không chỉ cho tài sản , văn phòng , trang thiết bị và nhân viên của bạn mà còn cho trường hợp mất những nhân sự chủ chốt .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Even in businesses that have a well set up system , cash flow can be a problem .</s>
+<s id='vn31'>Ngay cả những doanh nghiệp có một hệ thống được tạo dựng hoàn hảo , luồng tiền mặt có thể vẫn là một vấn đề .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There are some tried and true methods for Managing Cash Shortages that can help prevent cash flow problems and deal with them if they come up .</s>
+<s id='vn32'>Có một số phương pháp phù hợp và đã được chứng minh đối với việc quản lý các thiếu hụt về tiền mặt có thể giúp tránh những rắc rối lưu lượng tiền mặt và xử lý chúng nếu chúng xảy đến .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In the worst case you may have difficulties meeting all you debt obligations .</s>
+<s id='vn33'>Trong trường hợp tồi tệ nhất bạn có thể gặp khó khăn khi phải trả hết các khoản nợ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Take a look at Financial Difficulties to learn more about ways to manage situations in which you have more debt than income .</s>
+<s id='vn34'>Hãy nhìn vào những khó khăn tài chính để học thêm về các biện pháp quản lý những tình huống mà trong đó bạn mắc nợ nhiều hơn thu nhập .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It is possible you may even be at the a point where you want to sell the business or simply close it and liquidate assets .</s>
+<s id='vn35'>Khả năng có thể là bạn thậm chí ở vào tình huống mà muốn bán doanh nghiệp hoặc đơn giản là đóng cửa và thanh lý tài sản .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>There are financial issues involved for these circumstances too .</s>
+<s id='vn36'>Cũng có những vấn đề tài chính liên quan đến những trường hợp như vậy .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>So , be certain that you know what steps you need to take in order to protect yourself financially in the the long run .</s>
+<s id='vn37'>Do đó , hãy chắc chắn rằng bạn biết các bước cần thực hiện để bảo vệ mình về mặt tài chính trong dài hạn .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Clearly , financial management encompasses a number of crucial areas of your business .</s>
+<s id='vn38'>Rõ ràng việc quản lý tài chính chứa đựng một số mặt chủ yếu của doanh nghiệp .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Take time to set them up right .</s>
+<s id='vn39'>Hãy đầu tư thời gian để xây dựng chúng cho thích hợp .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It will make a significant difference in your stress levels and in the bottom line for your business .</s>
+<s id='vn40'>Nó sẽ làm nên sự khác biệt đáng kể trong các mức độ căng thẳng bạn phải chịu và trong kết quả cuối cùng của doanh nghiệp của bạn .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,404 @@
+﻿<doc id='N0934'>
+<head>
+<title>The truth about your makeup</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The truth about your makeup</s>
+<s id='vn1'>Sự thật về mỹ phẩm của bạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Nail polish , particularly darker colors , may stain your fingernails or toenails and leave them yellowed and discolored .</s>
+<s id='vn2'>Sơn bóng móng tay , đặc biệt là những màu tối hơn , có thể làm ố móng tay hoặc móng chân của bạn và làm cho chúng ngả vàng và đổi màu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The stained nails will grow out , but it may take several months .</s>
+<s id='vn3'>Móng bị ố sẽ mọc dài ra , nhưng có thể phải mất vài tháng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It 's OK to sleep in your eye makeup .</s>
+<s id='vn4'>Bạn có thể để nguyên phấn mắt khi đi ngủ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>* True</s>
+<s id='vn5'>* Đúng</s>
+</spair>
+<spair id='6'>
+<s id='en6'>* False</s>
+<s id='vn6'>* Sai</s>
+</spair>
+<spair id='7'>
+<s id='en7'>* Correct answer : False</s>
+<s id='vn7'>* Câu trả lời đúng : Sai</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Mascara can flake into your eyes while you sleep .</s>
+<s id='vn8'>Mascara có thể rơi vào mắt của bạn khi ngủ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>You might wake up with itchy , bloodshot eyes , scratched corneas , or even an infection .</s>
+<s id='vn9'>Mắt bạn có thể bị ngứa , đỏ ngầu , trầy xước giác mạc , hoặc thậm chí còn nhiễm trùng khi thức dậy nữa .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Make sure to remove all makeup before you go to bed .</s>
+<s id='vn10'>Phải đảm bảo tẩy trang hết trước khi đi ngủ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Which of the following may attract the sun 's UV rays to your lips ?</s>
+<s id='vn11'>Loại mỹ phẩm nào dưới đây có thể bắt tia tử ngoại của ánh nắng mặt trời cho môi ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>* Lip balm</s>
+<s id='vn12'>* Kem thoa môi</s>
+</spair>
+<spair id='13'>
+<s id='en13'>* Lip liner</s>
+<s id='vn13'>* Chì kẻ viền môi</s>
+</spair>
+<spair id='14'>
+<s id='en14'>* High-gloss sheer lipstick</s>
+<s id='vn14'>* Son bóng trong suốt đậm đặc</s>
+</spair>
+<spair id='15'>
+<s id='en15'>* Opaque cream lipstick</s>
+<s id='vn15'>* Kem thoa môi mờ</s>
+</spair>
+<spair id='16'>
+<s id='en16'>* Correct answer : High-gloss sheer lipstick</s>
+<s id='vn16'>* Câu trả lời đúng : Son bóng trong suốt đậm đặc</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Sheer , high-gloss lipsticks offer little protection and can attract damaging UV rays to your lips .</s>
+<s id='vn17'>Son bóng đậm đặc , trong suốt bảo vệ môi rất ít và có thể gây bắt tia tử ngoại có hại cho môi của bạn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>If you want the wet look , apply an opaque lipstick first , then top with the gloss .</s>
+<s id='vn18'>Nếu muốn có đôi môi bóng mượt , bạn nên thoa son môi mờ trước , rồi quét son bóng lên trên cùng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Use a lip balm with at least SPF 30 .</s>
+<s id='vn19'>Nên sử dụng kem thoa môi có chỉ số SPF ít nhất là 30 .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Nail polish may stain your nails .</s>
+<s id='vn20'>Sơn bóng móng tay có thể làm cho móng của bạn bị ố</s>
+</spair>
+<spair id='21'>
+<s id='en21'>* True</s>
+<s id='vn21'>* Đúng</s>
+</spair>
+<spair id='22'>
+<s id='en22'>* False</s>
+<s id='vn22'>* Sai</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Correct answer : True</s>
+<s id='vn23'>* Câu trả lời đúng : Đúng</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Nail polish , particularly darker colors , may stain your fingernails or toenails and leave them yellowed and discolored .</s>
+<s id='vn24'>Sơn bóng móng tay , đặc biệt là những màu tối hơn , có thể làm ố móng tay hoặc móng chân của bạn và làm cho chúng ngả vàng và đổi màu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The stained nails will grow out , but it may take several months .</s>
+<s id='vn25'>Móng bị ố sẽ mọc dài ra , nhưng có thể phải mất vài tháng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Hypoallergenic cosmetic products do n't cause allergic reactions .</s>
+<s id='vn26'>Mỹ phẩm có nhãn không dị ứng thì không gây dị ứng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>* True</s>
+<s id='vn27'>* Đúng</s>
+</spair>
+<spair id='28'>
+<s id='en28'>* False</s>
+<s id='vn28'>* Sai</s>
+</spair>
+<spair id='29'>
+<s id='en29'>* Correct answer : False</s>
+<s id='vn29'>* Câu trả lời đúng : Sai</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Just because a product says it 's hypoallergenic does n't mean you won't have a reaction to it .</s>
+<s id='vn30'>Đâu phải bởi sản phẩm có ghi " hypoallergenic không có nghĩa là bạn sẽ không phản ứng với nó .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The FDA does n't have standards for using the term " hypoallergenic , " so cosmetic makers do n't have to prove their claims .</s>
+<s id='vn31'>Tổ chức FDA không đưa ra một tiêu chuẩn nào đối với việc sử dụng thuật ngữ " hypoallergenic , " vì vậy các nhà sản xuất mỹ phẩm chẳng nhất thiết phải chứng minh những lời tuyên bố của mình .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Any product can be labeled " hypoallergenic " no matter what its ingredients , and no cosmetic product can be guaranteed not to cause an allergic reaction .</s>
+<s id='vn32'>Bất cứ sản phẩm nào cũng có thể được đính nhãn " hypoallergenic " bất kể thành phần của nó là gì đi chăng nữa , và không có một loại mỹ phẩm nào có thể được bảo đảm là không gây dị ứng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>According to some experts , which product should you replace every three months ?</s>
+<s id='vn33'>Theo một số chuyên gia thì bạn nên thay thế loại sản phẩm nào cứ 3 tháng một lần ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>* Powder eye shadow</s>
+<s id='vn34'>* Phấn bột màu mắt</s>
+</spair>
+<spair id='35'>
+<s id='en35'>* Mascara</s>
+<s id='vn35'>* Mascara</s>
+</spair>
+<spair id='36'>
+<s id='en36'>* Lipstick</s>
+<s id='vn36'>* Son môi</s>
+</spair>
+<spair id='37'>
+<s id='en37'>* Powder</s>
+<s id='vn37'>* Phấn</s>
+</spair>
+<spair id='38'>
+<s id='en38'>* Correct answer : Mascara</s>
+<s id='vn38'>* Câu trả lời đúng : Mascara</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Because of the risk of eye infections , you may not be able to use eye makeup , including mascara , eyeliner , and eye shadow .</s>
+<s id='vn39'>Vì nguy cơ nhiễm trùng mắt nên bạn có thể không sử dụng được phấn mắt , gồm mascara , mắt nước , và màu mắt .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Liquid or creamy makeup can harbor bacteria more easily , so some experts recommend replacing your mascara every three months .</s>
+<s id='vn40'>Mỹ phẩm dạng kem hoặc dạng lỏng có thể là nơi trú ẩn của vi khuẩn dễ dàng hơn , vì vậy một số chuyên gia đã khuyến nghị nên thay mascara cứ mỗi ba tháng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If mascara dries out , don't add water or saliva to moisten it .</s>
+<s id='vn41'>Nếu mascara bị khô thì bạn đừng nên đổ nước hoặc nhổ nước bọt vào để làm ẩm sản phẩm .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>That can introduce bacteria .</s>
+<s id='vn42'>Việc đó có thể đưa vi khuẩn vào .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Which of the following promotes bacterial growth in makeup ?</s>
+<s id='vn43'>Việc làm nào dưới đây làm cho vi khuẩn phát triển nhiều hơn trong mỹ phẩm ?</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* Sharing makeup with friends</s>
+<s id='vn44'>* Dùng chung đồ trang điểm với bạn bè</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* Exposing makeup to light or heat</s>
+<s id='vn45'>* Để mỹ phẩm tiếp xúc với ánh sáng hoặc nhiệt nóng</s>
+</spair>
+<spair id='46'>
+<s id='en46'>* Using makeup when you have an eye infection</s>
+<s id='vn46'>* Trang điểm khi bạn bị nhiễm trùng mắt</s>
+</spair>
+<spair id='47'>
+<s id='en47'>* All of the above</s>
+<s id='vn47'>* Tất cả các câu trả lời trên</s>
+</spair>
+<spair id='48'>
+<s id='en48'>* Correct answer : All of the above</s>
+<s id='vn48'>* Câu trả lời đúng : Tất cả các câu trả lời trên</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Cosmetic brushes , sponges , and fingertips pick up bacteria and other germs from the skin , so sharing makeup can mean you 're also sharing bacteria .</s>
+<s id='vn49'>Cọ , bọt xốp trang điểm , và đầu ngón tay làm lây vi khuẩn và các mầm bệnh khác từ trên da sang , vì vậy sử dụng chung đồ trang điểm có thể đồng nghĩa với việc bạn cũng làm lây vi khuẩn qua lại cho nhau .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Extended exposure to light or heat can break down the preservatives that fight bacteria , so do n't leave your makeup in a hot car .</s>
+<s id='vn50'>Việc tiếp xúc với ánh sáng hoặc nhiệt nóng có thể làm hư chất bảo quản - đây là hoá chất kháng khuẩn , vì vậy bạn đừng nên để mỹ phẩm của mình trên xe hơi bị hầm nóng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>And do n't use cosmetics if you have an eye infection like pinkeye .</s>
+<s id='vn51'>Và cũng chớ nên trang điểm nếu bị nhiễm trùng mắt như bệnh đau mắt đỏ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Throw away any makeup you were using when you discovered the infection .</s>
+<s id='vn52'>Bạn nên vứt bỏ hết bất kỳ loại mỹ phẩm nào đang sử dụng nếu phát hiện ra bị nhiễm trùng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Some lipsticks made in the U.S. contain lead .</s>
+<s id='vn53'>Một số son môi của Mỹ có chứa chì .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>* True</s>
+<s id='vn54'>* Đúng</s>
+</spair>
+<spair id='55'>
+<s id='en55'>* False</s>
+<s id='vn55'>* Sai</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* Correct answer : True</s>
+<s id='vn56'>* Câu trả lời đúng : Đúng</s>
+</spair>
+<spair id='57'>
+<s id='en57'>While some lipsticks do contain small amounts of lead , lipstick is intended for external use only and you probably swallow only very small quantities of it .</s>
+<s id='vn57'>Mặc dù một số son môi có chứa hàm lượng chỉ rất nhỏ , nhưng chúng thường chỉ nhằm để sử dụng bên ngoài thôi và có lẽ là bạn chỉ nuốt một lượng rất ít son môi .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>While the FDA has concluded that lead levels in lipsticks are n't a safety concern , the agency plans to pursue further testing .</s>
+<s id='vn58'>Mặc dù FDA đã kết luận hàm lượng chì trong son môi không phải là mối quan tâm về an toàn , nhưng tổ chức này cũng có kế hoạch thử nghiệm nhiều hơn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Some eye makeup made in other countries contains hazardous levels of lead .</s>
+<s id='vn59'>Một số phấn mắt được sản xuất ở nhiều nước khác chứa hàm lượng chì nguy hiểm</s>
+</spair>
+<spair id='60'>
+<s id='en60'>* True</s>
+<s id='vn60'>* Đúng</s>
+</spair>
+<spair id='61'>
+<s id='en61'>* False</s>
+<s id='vn61'>* Sai</s>
+</spair>
+<spair id='62'>
+<s id='en62'>* Correct answer : True</s>
+<s id='vn62'>* Câu trả lời đúng : Đúng</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Kohl is a traditional type of eye makeup that can contain significant amounts of lead .</s>
+<s id='vn63'>Kohl là loại phấn mắt truyền thống có thể chứa hàm lượng chì đáng kể .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It 's not permitted for use as an additive in any cosmetic or FDA-regulated product , but it has been advertised for mail order online .</s>
+<s id='vn64'>Nó không được phép sử dụng làm chất phụ gia trong bất kỳ một loại mỹ phẩm nào hoặc một loại sản phẩm nào được FDA kiểm soát , nhưng nó được quảng cáo đặt hàng trực tuyến trên thư điện tử .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Some types of eye makeup may be labeled with the term " kohl " to indicate the shade , but the product does n't actually contain kohl .</s>
+<s id='vn65'>Một số loại phấn mắt có thể được đính nhãn là " kohl " để chỉ màu tối , nhưng thực ra trong sản phẩm không chứa phấn côn .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The FDA approves all cosmetics before they are sold to the public .</s>
+<s id='vn66'>FDA duyệt hết tất cả các mỹ phẩm trước khi chúng được bán ra thị trường .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* True</s>
+<s id='vn67'>* Đúng</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* False</s>
+<s id='vn68'>* Sai</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* Correct answer : False</s>
+<s id='vn69'>* Câu trả lời đúng : Sai</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A cosmetics maker can sell products without FDA approval .</s>
+<s id='vn70'>Nhà sản xuất mỹ phẩm có thể bán sản phẩm của mình mà không có sự phê duyệt của FDA .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>The FDA does not review or approve cosmetic products or any cosmetic ingredients , with the exception of color additives , which are required to have safety testing .</s>
+<s id='vn71'>Cơ quan này không xem xét hoặc duyệt các mỹ phẩm hoặc bất kỳ thành phần nào trong đó , ngoại trừ chất phụ gia màu , chất này đòi hỏi phải được thử nghiệm an toàn .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>A cosmetics maker is required to report injuries caused by its products .</s>
+<s id='vn72'>Nhà sản xuất mỹ phẩm đòi hỏi phải báo cáo lại những tổn thương do sản phẩm của mình gây ra .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>* True</s>
+<s id='vn73'>* Đúng</s>
+</spair>
+<spair id='74'>
+<s id='en74'>* False</s>
+<s id='vn74'>* Sai</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* Correct answer : False</s>
+<s id='vn75'>* Câu trả lời đúng : Sai</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The FDA does n't require cosmetics makers to submit information about any injuries caused by their products and does n't issue cosmetics recalls , though it can request recalls by the manufacturer .</s>
+<s id='vn76'>FDA không yêu cầu nhà sản xuất mỹ phẩm phải đệ trình thông tin về bất kỳ tổn thương nào do sản phẩm gây ra và cũng không công bố về việc thu hồi mỹ phẩm , cho dù nhà sản xuất có thể yêu cầu thu hồi lại .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>A product can be taken off the market only if the FDA proves that it is dangerous or breaks the law .</s>
+<s id='vn77'>Một sản phẩm có thể bị tẩy khỏi thị trường nếu FDA chứng minh được nó nguy hiểm hoặc vi phạm pháp luật .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Which of the following is the most common injury from cosmetics ?</s>
+<s id='vn78'>Tổn thương do mỹ phẩm nào dưới đây là thường thấy nhất ?</s>
+</spair>
+<spair id='79'>
+<s id='en79'>* Allergic reactions to foundation</s>
+<s id='vn79'>* Dị ứng với kem nền</s>
+</spair>
+<spair id='80'>
+<s id='en80'>* Damaged fingernails with acrylic</s>
+<s id='vn80'>* Móng tay bị tổn thương do chứa nhựa a-cri-lích</s>
+</spair>
+<spair id='81'>
+<s id='en81'>* Scratching the eye with a mascara wand</s>
+<s id='vn81'>* Mắt bị trầy xước do sử dụng cây quét mascara</s>
+</spair>
+<spair id='82'>
+<s id='en82'>* Correct answer : Scratching the eye with a mascara wand</s>
+<s id='vn82'>* Câu trả lời đúng : Mắt bị trầy xước do sử dụng cây quét mascara</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Scratching the eye with a mascara wand is the most common cosmetic s-related injury .</s>
+<s id='vn83'>Mắt bị trầy xước do sử dụng cây quét mascara là tổn thương liên quan đến mỹ phẩm thường thấy nhất .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>It can lead to an eye infection if the scratches go untreated , and infections can result in ulcers on the cornea , eyelash loss , or even blindness .</s>
+<s id='vn84'>Nó có thể dẫn tới nhiễm trùng mắt nếu vết xước này để lâu không được điều trị , và nhiễm trùng có thể gây loét giác mạc , rụng lông mi , hoặc thậm chí mù .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>To avoid this type of injury , do n't try to apply mascara while driving or riding in a moving vehicle .</s>
+<s id='vn85'>Để tránh loại tổn thương này , đừng nên cố quét mascara trong khi đang lái xe hoặc đang chạy trên một chiếc xe chuyển động .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>A manufacturer that claims a cosmetic has medicinal benefits may be breaking the law .</s>
+<s id='vn86'>Nhà sản xuất tuyên bố mỹ phẩm có lợi về mặt dược lý có thể vi phạm pháp luật .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>* True</s>
+<s id='vn87'>* Đúng</s>
+</spair>
+<spair id='88'>
+<s id='en88'>* False</s>
+<s id='vn88'>* Sai</s>
+</spair>
+<spair id='89'>
+<s id='en89'>* Correct answer : True</s>
+<s id='vn89'>* Câu trả lời đúng : Đúng</s>
+</spair>
+<spair id='90'>
+<s id='en90'>" Cosmeceutical " is a popular term for a product that 's meant to beautify but also treats a condition .</s>
+<s id='vn90'>" Cosmeceutical " là một thuật ngữ phổ biến đối với một sản phẩm nào đó được sử dụng để làm đẹp đồng thời cũng để chữa bệnh .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>However , the FDA classifies a product as either a cosmetic or a drug based on its intended use ; it does n't recognize any category that 's a combination of the two .</s>
+<s id='vn91'>Tuy nhiên , FDA phân loại một sản phẩm hoặc là mỹ phẩm hoặc là dược phẩm dựa trên ích lợi được nhắm đến của nó ; tổ chức này chưa phát hiện ra bất kỳ loại sản phẩm nào kết hợp được cả hai .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>A company that associates a drug claim with a product the FDA has classified as a cosmetic may be violating federal law .</s>
+<s id='vn92'>Công ty kết hợp tuyên bố một sản phẩm nào đó là dược phẩm mà FDA đã phân loại là mỹ phẩm thì có thể vi phạm pháp luật liên bang .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>There is no hard evidence linking the use of cosmetics with cancer .</s>
+<s id='vn93'>Không có chứng cứ nào rõ ràng về mối liên kết giữa sử dụng mỹ phẩm và ung thư .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>* True</s>
+<s id='vn94'>* Đúng</s>
+</spair>
+<spair id='95'>
+<s id='en95'>* False</s>
+<s id='vn95'>* Sai</s>
+</spair>
+<spair id='96'>
+<s id='en96'>* Correct answer : True</s>
+<s id='vn96'>* Câu trả lời đúng : Đúng</s>
+</spair>
+<spair id='97'>
+<s id='en97'>According to The American Cancer Society , based on available data , " there is little evidence to suggest that using cosmetics , or being exposed to the ingredients in cosmetics during normal use of these products , increases cancer risk . "</s>
+<s id='vn97'>Theo Hiệp hội Ung thư Hoa Kỳ , dựa trên dữ liệu có sẵn thì " rất ít bằng chứng giữa sử dụng mỹ phẩm , hoặc tiếp xúc với các thành phần trong mỹ phẩm trong khi sử dụng bình thường các sản phẩm này , làm tăng nguy cơ ung thư . "</s>
+</spair>
+<spair id='98'>
+<s id='en98'>But certain products may have not been thoroughly tested , so more research is needed .</s>
+<s id='vn98'>Nhưng một số sản phẩm nào đó có thể đã không được kiểm tra kỹ càng , vì vậy cần phải nghiên cứu nhiều hơn nữa .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,288 @@
+﻿<doc id='N0817'>
+<head>
+<title>Hacking Android Devices : It 's Not Just Apps You Need to Worry About</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Hacking Android Devices : It 's Not Just Apps You Need to Worry About</s>
+<s id='vn1'>Hack thiết bị Android : Không chỉ có ứng dụng mới là thứ bạn cần lo lắng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's not just malicious apps you need to be wary of infecting your smartphone .</s>
+<s id='vn2'>Không chỉ có ứng dụng độc hại mới là thứ bạn cần đề phòng để khỏi nhiễm vào điện thoại thông minh của mình .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Now , navigating to poisoned websites are a threat , too .</s>
+<s id='vn3'>Giờ đây , việc chuyển hướng đến các trang web độc hại cũng là một mối đe doạ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Security researchers have discovered a new malware targeting Android devices that does n't take the usual route of embedding itself in an app .</s>
+<s id='vn4'>Các nhà nghiên cứu bảo mật đã phát hiện ra một loại phần mềm độc hại mới nhắm đến thiết bị Android , nhưng không theo cách thức thông thường là tự nhúng mình vào một ứng dụng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The malware , dubbed " NotCompatible , " is instead tucked into websites .</s>
+<s id='vn5'>Thay vào đó , phần mềm độc hại này , có tên là " NotCompatible " , được đưa vào những trang web .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>These websites try to push the malware onto visitors ' devices , representing a dangerous new technique by hackers to try and access personal data , according to research from Lookout Security and separate findings from Symantec Corp .</s>
+<s id='vn6'>Những trang web này sẽ đưa phần mềm độc hại đến thiết bị của khách truy cập – một kỹ thuật mới đầy nguy hiểm của bọn hacker nhằm tra truy cập dữ liệu cá nhân , theo nghiên cứu của hãng bảo mật Lookout và những phát hiện khác của Tập đoàn Symantec .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Fortunately , the malware is n't very stealthy .</s>
+<s id='vn7'>May mắn thay , phần mềm độc hại này hoạt động không lén lút lắm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>You would need to approve the download of the application , which masquerades as a security update .</s>
+<s id='vn8'>Bạn cần cho phép tải xuống ứng dụng mềm giả dạng như một bản cập nhật bảo mật .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>And the handful of known sites distributing it have low traffic , according to Lookout .</s>
+<s id='vn9'>Ngoài ra , một vài trang bị phát hiện phát tán phần mềm độc hại này cũng có ít người truy cập , theo Lookout .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" This threat does not currently appear to cause any direct harm to target devices , but it_could potentially be used to gain illicit access to private networks by turning an infected Android device into a proxy , " Lookout researchers wrote on the company 's blog .</s>
+<s id='vn10'>" Hiện tại , mối đe doạ này dường như không gây hại trực tiếp lên thiết bị nó nhắm đến , nhưng có thể nó được dùng để giành quyền truy cập trái phép vào mạng riêng bằng cách biến thiết bị Android bị nhiễm thành một máy chủ trung gian " , các nhà nghiên cứu của Lookout viết trên blog của hãng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Mobile malware threats are not as widespread as those on_targeting PCs .</s>
+<s id='vn11'>Mối đe doạ về phần mềm độc hại trên di động không lan rộng như trên bị PC .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Criminal hackers are experimenting with different business models for mobile devices , such as tricking users into subscribing to pay-text-message services that the criminals control .</s>
+<s id='vn12'>Bọn hacker tội phạm đang tiến hành thí nghiệm với những mô hình kinh doanh khác nhau trên thiết bị di động , như lừa người dùng đăng ký những dịch vụ thanh toán qua tin nhắn được đặt dưới sự kiểm soát của chúng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The lesson be learned from the NotCompatible findings is similar to warnings PC users have gotten for years : The worst kind of update you can download to your machine is one that you did n't ask for and do n't know where it comes from .</s>
+<s id='vn13'>Bài học rút ra từ việc phát hiện NotCompatible cũng tương tự như lời cảnh báo mà người dùng PC vẫn nhận được trong nhiều năm qua : Loại cập nhật tệ hại nhất mà bạn có thể tải về máy mình là loại mà bạn không yêu cầu tải và không biết xuất xứ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Google Drive Storage Cloud : 10 Things You Should Know About It</s>
+<s id='vn14'>Kho lưu trữ đám mây Google Drive : 10 điều nên biết về nó</s>
+</spair>
+<spair id='15'>
+<s id='en15'>NEWS ANALYSIS : After a long development program , Google Drive has finally been released to use_general availability .</s>
+<s id='vn15'>PHÂN TÍCH TIN TỨC : Sau một thời gian lập trình phát triển lâu dài , Google Drive cuối cùng đã được phát hành để sẵn sàng đưa vào sử dụng phổ biến .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>But what should customers know about the platform before they start using it ?</s>
+<s id='vn16'>Nhưng khách hàng nên biết điều gì về nền tảng này trước khi bắt đầu sử dụng nó ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It might have taken a while , but finally , Google Drive has launched .</s>
+<s id='vn17'>Có thể đã phải mất một khoảng thời gian , nhưng cuối cùng Google Drive đã được ra mắt .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Google has been talking about its intention to introduce a cloud storage service for at least six years .</s>
+<s id='vn18'>Google cho biết về ý định của mình để giới thiệu một dịch vụ lưu trữ đám mây ít nhất là trong 6 năm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Rumors about the imminent release of a forthcoming_storage solution to take on companies like Box and Dropbox started percolating vigorously in the past few weeks .</s>
+<s id='vn19'>Tin đồn về việc ra mắt một giải pháp lưu trữ sắp tới này để thách thức các công ty như là Box và Dropbox đã bắt đầu lan truyền sôi nổi trong vài tuần qua .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>On Apr. 24 , Google finally confirmed that they were , in fact , working on a service storage offering and perhaps even better , they were making it available to customers in the coming weeks .</s>
+<s id='vn20'>Ngày 24/4 , Google cuối cùng đã xác nhận rằng thực tế họ đang tiến hành dịch vụ lưu trữ và thậm chí có thể tốt hơn , họ đang chuẩn bị sẵn sàng cho khách hàng trong những tuần tới .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Now that the curtain has been pulled back , however , Google must begin the process of informing the world about why they might want to use Google Drive .</s>
+<s id='vn21'>Tuy nhiên , bây giờ bức màn đã được kéo lại , Google phải bắt đầu quá trình thông báo với thế giới về lý do tại sao họ có thể cần sử dụng Google Drive .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Sure , it 's a cloud-storage offering that works on just about any plat form , but there 's much more to it than that .</s>
+<s id='vn22'>Đương nhiên , nó là một dịch vụ kho lưu trữ đám mây hoạt động trên bất kỳ nền tảng nào , nhưng hiện tại vẫn chưa có nhiều .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But , before any consumer or even enterprise user jumps onto the Google Drive bandwagon , they 'll need to know more about the solution .</s>
+<s id='vn23'>Tuy nhiên , trước khi người tiêu dùng bất kỳ hay ngay cả người dùng doanh nghiệp nhảy vào " trào lưu " Google Drive , họ sẽ cần phải biết nhiều hơn về giải pháp này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>To help out , we 've decided to take a look at some of the finer points of Google Drive to help inform would-be users about why they might or might not want to sign up for the service when it launches in the coming weeks .</s>
+<s id='vn24'>Để giúp đỡ , chúng tôi đã quyết định tìm hiểu một vài điểm tốt của Google Drive giúp thông báo cho những người dùng tương lai về lý do tại sao họ nên hay không nên đăng ký dịch vụ này khi nó ra mắt trong vài tuần tới .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>1 . It 's not unique</s>
+<s id='vn25'>1 . Nó không phải là duy nhất</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Let 's just get the simple truth out of the way first : Google Drive is in no way unique .</s>
+<s id='vn26'>Trước tiên , chúng ta hãy tránh đi sự thật dễ hiểu này : Google Drive không phải là cách duy nhất .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>There are hosts of cloud-based storage solutions across the Web , including Dropbox , Box , Amazon 's cloud services , and many company others , that perform the same function .</s>
+<s id='vn27'>Có hàng loạt giải pháp lưu trữ dựa trên nền tảng đám mây trên Web bao gồm cả dịch vụ đám mây của Amazon , Dropbox , Box và nhiều công ty khác mà cũng thực hiện các chức năng tương tự này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Google is But Google .</s>
+<s id='vn28'>Nhưng Google là Google .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>And that alone makes this offering somewhat special .</s>
+<s id='vn29'>Và một mình nó tạo ra một cái gì đó hơi đặc biệt .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>2 . 5GB of free storage</s>
+<s id='vn30'>2 . 5GB lưu trữ miễn phí</s>
+</spair>
+<spair id='31'>
+<s id='en31'>One of the nicest things about Google Drive is that it provides ample storage for what customers need .</s>
+<s id='vn31'>Một trong những điều tốt đẹp nhất về Google Drive là nó cung cấp kho lưu trữ dồi dào cho những khách hàng cần đến .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>From video to music to documents , users can save up to 5GB of content at no charge .</s>
+<s id='vn32'>Từ video đến nhạc , tài liệu , người dùng có thể lưu trữ miễn phí nội dung trên đó đến 5GB .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Considering how many users will likely sign up for Google Drive , that 's an awfully large amount of storage Google is willing to provide at no charge .</s>
+<s id='vn33'>Việc xem xét có bao nhiêu người dùng có khả năng đăng ký dịch vụ Google Drive , đó là một kho lưu trữ rất lớn để Google sẵn sàng cung cấp miễn phí .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>3 . Google has integrated into its existing solutions</s>
+<s id='vn34'>3 . Google đã tích hợp vào các giải pháp hiện tại của mình</s>
+</spair>
+<spair id='35'>
+<s id='en35'>As one might expect , Google has integrated Drive into nearly all of its prominent applications .</s>
+<s id='vn35'>Như người ta có thể mong đợi , Google đã tích hợp Drive vào gần như tất cả các ứng dụng nổi trội của họ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Gmail users can send bulky attachments through Driver ; Google Docs users will be able to collaborate on documents from within the platform ; and Google+ users will find their videos and pictures in Drive instantly available on the social network .</s>
+<s id='vn36'>Người dùng Gmail có thể gửi tập tin đính kèm dung lượng lớn thông qua Drive , người dùng Google Docs sẽ có thể kết hợp trên các tài liệu từ bên trong nền tảng ; và người dùng Google+ sẽ tìm thấy video và hình ảnh của mình có sẵn trong Drive ngay lập tức trên mạng xã hội .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Google is big on integration , and it has proven it again with Drive .</s>
+<s id='vn37'>Google là " ông trùm " về sự tích hợp và nó đã chứng minh một lần nữa với Drive .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>4 . Third-party apps play a crucial role</s>
+<s id='vn38'>4 . Ứng dụng của bên thứ ba đóng một vai trò quan trọng</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Google is n't establishing a walled garden-apps with Drive .</s>
+<s id='vn39'>Google không xây dựng một khu vườn ứng dụng bao quanh Drive .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Instead , the company says that a host of third-party application providers will support the service , allowing users to store and share content across multiple platforms .</s>
+<s id='vn40'>Thay vào đó , công ty nói rằng một máy chủ của nhà cung cấp ứng dụng của bên thứ ba sẽ hỗ trợ dịch vụ này , cho phép người dùng lưu trữ và chia sẻ nội dung trên nhiều nền tảng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>That 's important .</s>
+<s id='vn41'>Đó là điều quan trọng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>In the online world having the ability to transfer data from one service to another is increasingly appealing to users .</s>
+<s id='vn42'>Trong thế giới trực tuyến , khả năng chuyển dữ liệu từ dịch vụ này sang dịch vụ khác đang ngày càng hấp dẫn người dùng .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>It 's a welcome move by Google and its partners .</s>
+<s id='vn43'>Đó là một động thái chào đón bởi Google và các đối tác của họ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Apple iOS Device Support Is Missing From the Package</s>
+<s id='vn44'>Dịch vụ này thiếu hỗ trợ cho thiết bị i OS của Apple</s>
+</spair>
+<spair id='45'>
+<s id='en45'>5 . Windows , Mac , and Android out of the box</s>
+<s id='vn45'>5 . Không nhất thiết phải là Windows , Mac hay Android</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The nice thing about being Google is that it does n't necessarily have to only play nice with one platform the way Apple and Microsoft do .</s>
+<s id='vn46'>Những điều tốt đẹp về việc Google cho rằng không nhất thiết phải chơi đẹp chỉ với một nền tảng theo mà cách Apple và Microsoft làm .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>So , the company said on Apr. 24 that it will enable allow Drive to support Windows , Mac , and Android devices out of the box .</s>
+<s id='vn47'>Vì vậy , công ty cho biết vào ngày 24/4 rằng sẽ cho phép Drive hỗ trợ tương thích trên nền tảng Windows , Mac và các thiết bị Android .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>6 . iOS support is coming soon</s>
+<s id='vn48'>6 . Hỗ trợ iOS sắp có</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Did you notice anything missing from that previous mention of Google Drive support ?</s>
+<s id='vn49'>Bạn có nhận thấy điều gì thiếu sót từ trong đề cập trước đây về việc hỗ trợ của Google Drive ?</s>
+</spair>
+<spair id='50'>
+<s id='en50'>According to Google , iOS support will not be available to Drive users .</s>
+<s id='vn50'>Theo Google , việc hỗ trợ cho i OS sẽ chưa có sẵn cho người dùng Drive .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>However , the company has said that it will be " coming soon . "</s>
+<s id='vn51'>Tuy nhiên , công ty đã cho biết rằng sẽ " sắp có " .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Whatever that means is up for debate .</s>
+<s id='vn52'>Điều này có nghĩa là còn cân nhắc .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>7 . File support should come in handy</s>
+<s id='vn53'>7 . Hỗ trợ tập tin nên là điều cần thiết</s>
+</spair>
+<spair id='54'>
+<s id='en54'>There 's nothing worse than receiving an attachment to an e-mail , only to find that it comes with a file extension that your computer does n't support .</s>
+<s id='vn54'>Không có gì tệ hại hơn khi nhận được một tập tin đính kèm trong e-mail mà thấy rằng với phần mở rộng tập tin không được hỗ trợ trên máy tính của bạn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>To cure that problem in Google Drive , the search company says that it has built in native file support for over 30 different application file formats , so users will still be able to open , say , Photoshop or Illustrator files even if they do n't have the application running on their computers .</s>
+<s id='vn55'>Để giải quyết vấn đề này trong Google Drive , công ty tìm kiếm này cho biết rằng họ đã xây dựng bằng việc hỗ trợ tập tin gốc cho hơn 30 định dạng tập tin của các ứng dụng khác nhau , vì vậy người dùng vẫn sẽ có thể chạy được , cũng cho biết các tập tin của Photoshop hay Illustrator cũng được mở ngay cả khi họ không có ứng dụng đang chạy trên máy tính .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>8 . Go back to the database_past</s>
+<s id='vn56'>8 . Xem lại dữ liệu cũ</s>
+</spair>
+<spair id='57'>
+<s id='en57'>As anyone who has spent time backing up data knows , being able to go back in time to a previous upload is vastly important .</s>
+<s id='vn57'>Khi bất cứ ai đã dành thời gian sao lưu dữ liệu nhận biết được việc có thể xem lại những gì đã tải lên trước đó là rất quan trọng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>According to Google , Drive will allow users to go back data as far as 30 days to see what updates were made .</s>
+<s id='vn58'>Theo Google , Drive sẽ cho phép người dùng xem lại dữ liệu trước đó 30 ngày để thấy những cập nhật gì được thực hiện .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The company also says that users can save a specific revision forever , if it 's really important .</s>
+<s id='vn59'>Công ty cũng cho biết người dùng có thể lưu một phiên bản cụ thể mãi mãi , nếu nó thực sự quan trọng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>9 . There is a cost involved</s>
+<s id='vn60'>9 . Có một chi phí liên quan</s>
+</spair>
+<spair id='61'>
+<s id='en61'>All this talk of free storage and features then_forgets one important piece that customers will n't want to miss : Google Drive is a paid service for power users .</s>
+<s id='vn61'>Tất cả điều này nói về dung lượng lưu trữ và các tính năng miễn phí mà quên một phần quan trọng là khách hàng sẽ không muốn bỏ lỡ : Google Drive là một dịch vụ trả phí dành cho người dùng cao cấp .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Those who want 25GB of storage , for example , will need to pay $ 2.49 per month .</s>
+<s id='vn62'>Ví dụ những người mà muốn có 25GB dung lượng lưu trữ sẽ phải trả 2.49 đô-la mỗi tháng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>A total of 100GB of storage will set customers back $ 4.99 per month .</s>
+<s id='vn63'>100 GB dung lượng lưu trữ khách hàng sẽ mất 4.99 đô-la mỗi tháng .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>According to Google , it 'll charge $ 49.99 per month for 1TB of data_storage .</s>
+<s id='vn64'>Theo Google , họ sẽ tính phí 49.99 đô-la mỗi tháng với 1TB lưu trữ dữ liệu .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>10 . Search plays a key role</s>
+<s id='vn65'>10 . Tìm kiếm đóng một vai trò quan trọng</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Given Google 's history , it would only make sense that search is built into Drive .</s>
+<s id='vn66'>Với lịch sử của Google , nó đúng nghĩa là việc tìm kiếm được xây dựng vào Drive .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>The company says that users will be able to search based on keywords , file types , owners , and other attributes .</s>
+<s id='vn67'>Công ty này nói rằng người dùng sẽ có thể tìm kiếm dựa trên từ khóa , các loại tập tin , chủ sở hữu và các thuộc tính khác .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Even better , users will be able to search with image-recognition technology and by objects contained in scanned documents .</s>
+<s id='vn68'>Thậm chí tốt hơn , người dùng sẽ có thể tìm kiếm với công nghệ nhận diện hình ảnh và bằng đối tượng chứa trong các tài liệu được quét .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The platform 's search sounds quite powerful .</s>
+<s id='vn69'>Nền tảng tìm kiếm này nghe có vẻ khá mạnh mẽ .</s>
+</spair>
+</text>
+</doc>

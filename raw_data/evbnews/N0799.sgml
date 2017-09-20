@@ -1,0 +1,168 @@
+﻿<doc id='N0799'>
+<head>
+<title>WHO : Unknown E. Coli Variant Has Killed 18</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>WHO : Unknown E. Coli Variant Has Killed 18</s>
+<s id='vn1'>Tổ chức Y tế Thế giới : Biến thể lạ của khuẩn E.Coli làm 18 người thiệt mạng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The World Health Organization says a deadly outbreak of E.coli bacteria that has killed 18 people in Europe is a unique strain that has never been found in infected patients before .</s>
+<s id='vn2'>Tổ chức y tế thế giới cho biết một đợt bùng phát dịch khuẩn chết người E.coli đã khiến 18 người thiệt mạng ở châu Âu là một dòng vi khuẩn mới lạ chưa từng thấy ở các bệnh nhân nhiễm bệnh trước đây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The United Nations agency said Thursday that preliminary genetic tests suggest that the highly contagious strain behind the outbreak could be a genetic recombination of two different E. coli bacteria .</s>
+<s id='vn3'>Cơ quan này của Liên Hiệp Quốc cho biết các cuộc xét nghiệm di truyền sơ bộ hôm thứ năm cho thấy dòng vi khuẩn rất dễ lây lan trong đợt dịch lần này là sự tái kết hợp gien của hai loại khuẩn E.coli khác nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Scientists in China who have analyzed the bacteria behind the German outbreak confirmed that this variant has not been involved in any previous infections .</s>
+<s id='vn4'>Qua phân tích vi khuẩn gây nên dịch bệnh ở Đức , các nhà khoa học ở Trung Quốc xác nhận rằng biến thể này không hề liên quan đến bất kỳ bệnh nhiễm trùng nào trước đây .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The outbreak is the deadliest in modern history to involve E. coli , and appears to be the second - or third-largest in terms of the number of people who have become ill .</s>
+<s id='vn5'>Đây là dịch bệnh có liên quan đến khuẩn E.coli gây chết người nhiều nhất trong lịch sử đương đại và đứng hàng thứ hai hay thứ ba về số lượng người mắc bệnh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A food safety expert at the WHO , Hilde Kruse , said the deadly strain has various characteristics that make it more toxic and more virulent than other strains .</s>
+<s id='vn6'>Một chuyên gia an toàn thực phẩm của WHO , Hilde Kruse , cho biết dòng vi khuẩn gây chết người này có nhiều đặc điểm khiến nó nó độc hơn và có khả năng gây chết người hơn các dòng vi khuẩn khác .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>More than 1,600 people in 11 European countries have been sickened by the rapid spread of the bacteria , with most infections and deaths occurring in Germany .</s>
+<s id='vn7'>Hơn 1.600 người ở 11 quốc gia Châu Âu đã mắc bệnh do tốc độ lây nhiễm nhanh chóng , trong đó Đức có số người nhiễm bệnh và thiệt mạng nhiều nhất .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Health officials have been unable to find the cause or origin of the outbreak , but similar infections come primarily from contaminated foods .</s>
+<s id='vn8'>Các quan chức y tế vẫn chưa tìm ra được nguyên nhân hay nguồn gốc của đợt bùng phát , nhưng các trường hợp nhiễm bệnh tương tự chủ yếu là từ nguồn thực phẩm nhiễm bẩn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>With the uncertainty surrounding the latest outbreak , concern about European produce is spreading .</s>
+<s id='vn9'>Trong khi vẫn chưa có một thông tin chắc chắn nào về đợt bùng phát dịch bệnh mới nhất này thì dấy lên những mối lo ngại về nông phẩm có nguồn gốc từ Châu Âu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The United Arab Emirates on Thursday banned the import of cucumbers from Spain , Germany , Denmark and the Netherlands .</s>
+<s id='vn10'>Hôm thứ năm , các tiểu vương quốc Ả Rập thống nhất đã cấm nhập khẩu dưa leo từ Tây Ban Nha , Đức , Đan Mạch và Hà Lan .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Russia said it is banning the import of all fresh vegetables from the European Union - an action the EU immediately called " disproportionate . "</s>
+<s id='vn11'>Nga cho biết nước này đang cấm nhập khẩu tất cả rau quả tươi từ Liên minh Châu Âu – một hành động mà EU ngay lập tức lên án là " bất công " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The EU , which exported $ 853 million worth of vegetables to Russia last year , said it would seek an explanation from Moscow .</s>
+<s id='vn12'>Với kim ngạch xuất khẩu rau quả sang Nga trong năm ngoái là 853 triệu đô la Mỹ , EU cho biết sẽ tìm cách buộc chính quyền Mát-xcơ-va đưa ra lời giải thích rõ ràng về vấn đề này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Russia said vegetables already imported from EU countries will be seized .</s>
+<s id='vn13'>Nga cho biết rau quả nhập khẩu từ các quốc gia EU sẽ bị tịch thu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The chief of Russia 's consumer protection agency , Gennady Onishchenko , urged his countrymen to avoid imported vegetables in favor of domestic products .</s>
+<s id='vn14'>Người đứng đầu cơ quan bảo vệ người tiêu dùng của Nga , Gennady Onishchenko , kêu gọi dân Nga tẩy chay rau quả nhập khẩu để ủng hộ sản phẩm nội địa .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Germany initially pointed to cucumbers from Spain as a possible source of the contamination , but further tests showed that those vegetables were not the cause of the outbreak .</s>
+<s id='vn15'>Ban đầu Đức tố cáo dưa leo Tây Ban Nha có thể là nguồn gây nhiễm bệnh , nhưng các xét nghiệm cho thấy loại dưa leo này không phải là nguyên nhân của đợt bùng phát dịch bệnh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The erroneous conclusion angered Spanish officials .</s>
+<s id='vn16'>Kết luận sai lầm này khiến các quan chức Tây Ban Nha tức giận .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Prime Minister Jose Luis Rodriguez Zapatero said Spain will seek reparations from authorities in Europe for the damages its vegetable growers have suffered .</s>
+<s id='vn17'>Thủ tướng Jose Luis Rodriguez Zapatero cho biết Tây Ban Nha sẽ buộc các nhà chức trách châu Âu bồi thường cho những thiệt hại mà các nông dân trồng rau quả của họ đã gánh chịu .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Germany 's national disease center says the outbreak started nearly two weeks before the first infections were reported in mid-May .</s>
+<s id='vn18'>Trung tâm dịch bệnh quốc gia của Đức thừa nhận đợt bùng phát đã bắt đầu từ trước khi có những ca nhiễm bệnh đầu tiên được báo cáo vào giữa tháng Năm gần hai tuần .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The infection can result in a secondary disease that attacks the victims ' kidneys , sometimes causing seizures , strokes , comas and death .</s>
+<s id='vn19'>Căn bệnh nhiễm trùng này có thể dẫn đến căn bệnh thứ phát tấn công thận của bệnh nhân , đôi khi gây ra tai biến mạch máu , đột quỵ , hôn mê và tử vong .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The EuropeanCenter for Disease Prevention and Control said Thursday that the outbreak of the current strain of bacteria has been rarely reported worldwide .</s>
+<s id='vn20'>Trung tâm Phòng ngừa và Kiểm soát dịch bệnh của Châu Âu hôm thứ Năm đã loan báo đợt bùng phát của dòng vi khuẩn hiện tại này là hiếm thấy trên thế giới .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>It recommended hygiene and cooking foods thoroughly to prevent infection .</s>
+<s id='vn21'>Trung tâm này còn khuyến cáo mọi người nên giữ vệ sinh và dùng thức ăn nấu kỹ để phòng chống lây nhiễm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Vegetable growers across Europe say they are suffering major economic losses as the mystery goes unsolved .</s>
+<s id='vn22'>Nông dân trồng rau khắp châu Âu nói rằng họ đang gánh chịu những thiệt hại về kinh tế vì bí ẩn này chưa được giải quyết .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Spain says it is losing $ 288 million a week because of import bans and weak demand for the produce , while the Netherlands says it is losing $ 43 million .</s>
+<s id='vn23'>Tây Ban Nha cho biết nước này đã lỗ 288 triệu đô la Mỹ một tuần vì lệnh cấm nhập khẩu và nhu cầu tiêu dùng suy giảm , trong khi đó Hà Lan thiệt hại 43 triệu đô la Mỹ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The president of Spain 's produce export trade group said almost all Europeans have stopped buying Spanish vegetables and fruit .</s>
+<s id='vn24'>Chủ tịch tập đoàn thương mại xuất khẩu của Tây Ban Nha cho biết hầu hết người dân châu Âu đã tẩy chay trái cây và rau quả Tây Ban Nha .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The World Health Organization said Thursday that it does not recommend any trade restrictions related to the outbreak .</s>
+<s id='vn25'>Hôm thứ Năm , Tổ chức y tế thế giới đã lên tiếng không đồng tình với bất kỳ hạn chế thương mại nào có liên quan đến đợt bùng phát dịch bệnh này .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>7 Children Infected With E.Coli in France</s>
+<s id='vn26'>7 Trẻ em nhiễm trực khuẩn E.coli ở Pháp</s>
+</spair>
+<spair id='27'>
+<s id='en27'>French health authorities say seven children have been hospitalized with E.coli infections in northern France , five of them after eating defrosted beef burgers .</s>
+<s id='vn27'>Các cơ quan y tế Pháp cho biết có bảy trẻ em nhập viện do nhiễm khuẩn E.coli ở miền Bắc nước Pháp , có năm trẻ bị nhiễm sau khi ăn phải bánh mỳ hăm-bơ-gơ rã đông .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The officials said Thursday the strain of E. coli that infected the children is not linked to a deadly outbreak of bacteria in Germany that has killed at least 39 people and infected more than 3,300 others in recent weeks .</s>
+<s id='vn28'>Các viên chức nói rằng những đứa trẻ bị nhiễm khuẩn E.coli vào hôm thứ Năm không liên quan đến khuẩn bùng phát gây chết người ở Đức đã làm 39 người tử vong và gây nhiễm cho hơn 3.300 người khác trong vòng những tuần qua .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The seven children , the youngest of them 20 months old , come from towns in France 's Pas de Calais region .</s>
+<s id='vn29'>Bảy trẻ em , trong đó trẻ nhỏ nhất 20 tháng tuổi đều ở vùng Pas de Calais , Pháp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>They were hospitalized on Wednesday and Thursday with E. coli symptoms such as bloody diarrhea .</s>
+<s id='vn30'>Chúng được nhập viện vào hôm thư Tư và thư Năm với triệu chứng nhiễm E.coli như tiêu chảy xuất huyết .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>French officials say five of the children had eaten frozen ground beef patties sold by German supermarket chain Lidl and produced by French company SEB.</s>
+<s id='vn31'>Các quan chức Pháp cho biết năm trong số những đứa trẻ đó đã ăn thịt bò xay ép miếng đông lạnh được bày bán trong chuỗi siêu thị Lidl ở Đức do công ty SEB của Pháp sản xuất .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Lidl has removed the " Steak Country " product from all of its stores in France on orders of French health authorities .</s>
+<s id='vn32'>Lidl đã loại bỏ sản phẩm " Steak Country " ra khỏi các cửa hàng ở Pháp theo lệnh của các cơ quan y tế Pháp .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>SEB says the recall affects about 10 tons of meat that may come from several EU nations , including Belgium , France , Germany , Italy and the Netherlands .</s>
+<s id='vn33'>SEB cho biết việc thu hồi này gây ảnh hưởng đến khoảng 10 tấn thịt đến từ một số nước châu Âu như Bỉ , Pháp , Đức , Ý và Hà Lan .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>SEB chief executive Guy Lamorlette told the French news agency that the company is awaiting test results to determine if the frozen beef burgers were responsible for the French E. coli cases .</s>
+<s id='vn34'>Guy Lamorlette giám đốc điều hành SEB trả lời hãng thông tấn xã Pháp rằng công ty này đang chờ kiểm tra kết quả để xác định liệu có phải bánh hăm-bơ-gơ bò đông lạnh là nguyên nhân gây ra các ca nhiễm khuẩn E.coli hay không .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>He says the products were checked for safety before being delivered to stores .</s>
+<s id='vn35'>Ông còn cho biết các sản phẩm đã được kiểm tra an toàn trước khi chuyển đến các cửa hàng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>German officials say the more dangerous strain of E. coli affecting northern Germany has been traced to sprouts from a local farm .</s>
+<s id='vn36'>Các quan chức của Đức còn cho biết có dòng trực khuẩn E.coli nguy hiểm hơn đang ảnh hưởng đến miền Bắc nước Đức được phát hiện có nguồn gốc từ một trang trại địa phương .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Germany 's disease control center reported a new fatality Thursday from that outbreak raising the European death toll to 39 .</s>
+<s id='vn37'>Trung tâm kiểm soát bệnh ở Đức báo cáo con số tử vong mới từ dịch khuẩn bùng phát châu Âu nâng tổng số người chết lên 39 người vào hôm thứ Năm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>All but one of the deaths and most of the infections have been reported in Germany .</s>
+<s id='vn38'>Tất cả trừ một người trong số những người tử vong , và hầu hết các ca nhiễm được báo cáo là ở Đức .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>A woman in Sweden died of the infection days after visiting Germany</s>
+<s id='vn39'>Một phụ nữ ở Thuỵ Điển chết do nhiễm khuẩn sau nhiều ngày đến Đức tham quan .</s>
+</spair>
+</text>
+</doc>

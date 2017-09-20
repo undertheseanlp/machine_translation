@@ -1,0 +1,188 @@
+﻿<doc id='N0651'>
+<head>
+<title>The Window</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Window</s>
+<s id='vn1'>Cánh cửa sổ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Two men , both seriously ill , occupied the same hospital room .</s>
+<s id='vn2'>Có hai người đàn ông nọ đều mắc bệnh nặng và cùng ở chung phòng trong bệnh viện .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One man was allowed to sit up in his bed for an hour a day to drain the fluids from his lungs .</s>
+<s id='vn3'>Một người đàn ông được phép ngồi dậy trên giường một tiếng đồng hồ mỗi ngày để rút chất dịch từ phổi của ông ấy ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>His bed was next to the room's only window .</s>
+<s id='vn4'>Giường của ông ấy ở cạnh chiếc cửa sổ duy nhất trong phòng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The other man had to spend all his time flat on his back .</s>
+<s id='vn5'>Còn người đàn ông kia thì phải nằm suốt .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The men talked for hours on end .</s>
+<s id='vn6'>Hai người đàn ông này trò chuyện với nhau suốt mấy giờ liền .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They spoke of their wives and families , their homes , their jobs , their involvement in the military service , where they had been on vacation .</s>
+<s id='vn7'>Họ nói về vợ và gia đình của họ , nhà cửa , nghề nghiệp , thời gian phục vụ trong quân đội , những nơi chốn mà họ từng đi nghỉ mát .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And every afternoon when the man in the bed next to the window could sit up , he would pass the time by describing to his roommate all the things he could see outside the window .</s>
+<s id='vn8'>Và mỗi buổi chiều khi người đàn ông nằm cạnh cửa sổ có thể ngồi dậy , ông ấy giết thời gian bằng việc mô tả cho người bạn cùng phòng của mình tất cả những gì ông thấy được bên ngoài cánh cửa sổ kia .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The man in the other bed would live for those one-hour periods where his world would be broadened and enlivened by all the activity and color of the outside world .</s>
+<s id='vn9'>Người đàn ông nằm trên chiếc giường còn lại có thể sống được là nhờ vào những khoảnh khắc kéo dài 1 tiếng đồng hồ đó nơi thế giới của ông sẽ được mở rộng ra và trở nên sống động bằng tất cả những hoạt động và màu sắc của thế giới bên ngoài .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The window overlooked a park with a lovely lake , the man had said .</s>
+<s id='vn10'>Người đàn ông đã kể rằng cửa sổ nhìn ra một có cái hồ nước tuyệt đẹp .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Ducks and swans played on the water while children sailed their model boats .</s>
+<s id='vn11'>Thiên nga và vịt bơi lội tung tăng trên mặt nước và lũ trẻ đang điều khiển những chiếc tàu mô hình của chúng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Lovers walked arm in arm amid flowers of every color of the rainbow .</s>
+<s id='vn12'>Những cặp tình nhân tay đan tay dìu nhau đi giữa ngàn hoa với màu sắc rực rỡ như cầu vồng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Grand old trees graced the landscape , and a fine view of the city skyline could be seen in the distance .</s>
+<s id='vn13'>Những cây cổ thụ to lớn làm cho cảnh vật thêm phần duyên dáng , và xa xa là cảnh quan xinh đẹp của thành phố vươn cao lên trời xanh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>As the man by the window described all this in exquisite detail , the man on the other side of the room would close his eyes and imagine the picturesque scene .</s>
+<s id='vn14'>Khi người đàn ông gần cửa sổ miêu tả tất cả những hình ảnh một cách thật chi tiết tỉ mỉ , người đàn ông nằm phía bên kia trong phòng sẽ nhắm mắt lại và tưởng tượng khung cảnh đẹp như tranh ấy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>One warm afternoon the man by the window described a parade passing by .</s>
+<s id='vn15'>Một buổi chiều ấm áp người đàn ông cạnh cửa sổ miêu tả một đoàn diễu hành đi ngang qua .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Although the other man could not hear the band , he could see it in his mind's eye as the gentleman by the window portrayed it with descriptive words .</s>
+<s id='vn16'>Mặc dù người đàn ông kia không thể nghe âm thanh của dàn nhạc nhưng ông có thể nhìn thấy được điều đó trong trí tưởng tượng của mình khi quý ông gần cửa sổ phát hoạ lại nó bằng những từ ngữ giàu hình ảnh .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Unexpectedly , an alien thought entered his head : Why should he have all the pleasure of seeing everything while I never get to see anything ?</s>
+<s id='vn17'>Bất ngờ , một dòng suy nghĩ lạ lùng nảy ra trong đầu : tại sao ông ta lại được có tất cả niềm vui thú được chiêm ngưỡng mọi thứ trong khi tôi không bao giờ nhìn được gì cả ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>It didn't seem fair .</s>
+<s id='vn18'>Dường như chẳng công bằng chút nào .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>As the thought fermented , the man felt ashamed at first .</s>
+<s id='vn19'>Khi có ý nghĩ như thế , lúc đầu ông ta cảm thấy xấu hổ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But as the days passed and he missed seeing more sights , his envy eroded into resentment and soon turned him sour .</s>
+<s id='vn20'>Nhưng ngày qua ngày , ông ấy không được nhìn nhiều cảnh đẹp hơn , lòng ghen tị của ông bùng phát thành oán giận và nhanh chóng khiến ông trở nên khó chịu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>He began to brood and found himself unable to sleep .</s>
+<s id='vn21'>Ông ấy bắt đầu lo lắng và mất ngủ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>He should be by that window - and that thought now controlled his life .</s>
+<s id='vn22'>Giờ đây ý nghĩ rằng mình phải ở gần cửa sổ điều khiển cuộc sống của ông ấy .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Late one night , as he lay staring at the ceiling , the man by the window began to cough .</s>
+<s id='vn23'>Một đêm khuya nọ , khi ông ấy nằm nhìn chằm chằm lên trần nhà , người đàn ông gần cửa sổ bắt đầu trở ho .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He was choking on the fluid in his lungs .</s>
+<s id='vn24'>Ông ấy đang bị nghẹn vì chất dịch trong phổi .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The other man watched in the dimly lit room as the struggling man by the window groped for the button to call for help .</s>
+<s id='vn25'>Người đàn ông kia vẫn nằm thức trong căn phòng tối lờ mờ khi người đàn ông gần cửa sổ đang vật lộn mò tìm cái nút báo kêu cứu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Listening from across the room , he never moved , never pushed his own button which would have brought the nurse running .</s>
+<s id='vn26'>Dù nghe thấy tất cả từ phía bên kia của căn phòng nhưng ông ấy không hề cử động gì , cũng không ấn nút báo của mình mà lẽ ra sẽ kêu được y tá chạy vào .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In less than five minutes , the coughing and choking stopped , along with the sound of breathing .</s>
+<s id='vn27'>Chưa đầy năm phút , cơn ho và nghẹn dừng lại , cùng với tiếng thở .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Now , there was only silence deathly silence .</s>
+<s id='vn28'>Bây giờ , chỉ có sự yên lặng - một sự im lặng chết chóc .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The following morning , the day nurse arrived to bring water for their baths .</s>
+<s id='vn29'>Sáng hôm sau , người y tá trực ngày mang nước đến cho họ tắm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>When she found the lifeless body of the man by the window , she was saddened and called the hospital attendant to take it away no words , no fuss .</s>
+<s id='vn30'>Khi cô ấy phát hiện người đàn ông nằm gần cửa sổ đã chết , cô ấy buồn rầu và gọi nhân viên bệnh viện đến mang xác đi - không một lời nói nào , không một tiếng ồn ào nào .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>As soon as it seemed appropriate , the man asked if he could be moved next to the window .</s>
+<s id='vn31'>Ngay khi đến lúc thích hợp , người đàn ông hỏi rằng liệu có thể chuyển ông ấy đến nằm cạnh cửa sổ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The nurse was happy to make the switch and after making sure he was comfortable , she left him alone .</s>
+<s id='vn32'>Cô y tá vui vẻ chuyển chỗ và sau khi đảm bảo ông ấy đã yên vị , cô bỏ lại ông ấy một mình .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Slowly , painfully , he propped himself up on one elbow to take his first look .</s>
+<s id='vn33'>Ông ấy gượng người dậy bằng khuỷu tay mình một cách từ từ và đau đớn để đưa mắt ngắm nhìn cảnh vật lần đầu tiên .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Finally , he would have the joy of seeing it all himself .</s>
+<s id='vn34'>Cuối cùng thì ông ấy cũng sẽ tận hưởng niềm vui được tận mắt nhìn thấy mọi thứ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>He strained to slowly turn to look out the window beside the bed .</s>
+<s id='vn35'>Ông ráng sức từ từ ghé mắt nhìn ra cánh cửa sổ bên cạnh giường .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>It faced a blank wall .</s>
+<s id='vn36'>Đối diện với nó là một bức tường trống .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Moral of the story :</s>
+<s id='vn37'>Bài học từ câu chuyện :</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The pursuit of happiness is a matter of choice ... it is a positive attitude we consciously choose to express .</s>
+<s id='vn38'>Mưu cầu hạnh phúc là vấn đề lựa chọn ... nó là một thái độ tích cực mà chúng ta cố tình thể hiện .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>It is not a gift that gets delivered to our doorstep each morning , nor does it come through the window .</s>
+<s id='vn39'>Nó không phải là một món quà được chuyển đến trước ngưỡng cửa nhà chúng ta mỗi buổi sáng , nó cũng chẳng đi qua bằng cửa sổ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>And I am certain that our circumstances are just a small part of what makes us joyful .</s>
+<s id='vn40'>Và tôi chắc chắn là những tình huống của chúng ta chỉ là một phần nhỏ của những gì khiến chúng ta vui sướng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>If we wait for them to get just right , we will never find lasting joy .</s>
+<s id='vn41'>Nếu chúng ta chờ đợi để đạt được đúng chuẩn hạnh phúc thì chúng ta sẽ không bao giờ tìm thấy niềm vui lâu dài .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The pursuit of happiness is an inward journey .</s>
+<s id='vn42'>Mưu cầu hạnh phúc là hành trình nội tâm .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Our minds are like programs , awaiting the code that will determine behaviors ; like bank vaults awaiting our deposits .</s>
+<s id='vn43'>Tâm trí của chúng ta giống như những chương trình máy tính , chờ đợi mã hoá để xác định hành vi ; như kho bạc ngân hàng chờ chúng ta rút tiền tiết kiệm .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>If we regularly deposit positive , encouraging , and uplifting thoughts , if we continue to bite our lips just before we begin to grumble and complain , if we shoot down that seemingly harmless negative thought as it germinates , we will find that there is much to rejoice about .</s>
+<s id='vn44'>Nếu chúng ta thường xuyên gửi vào đó những suy nghĩ tích cực , động viên , và bồi đắp tinh thần , nếu chúng ta tiếp tục mím môi nén giận ngay trước chúng ta bắt đầu làu bàu và phàn nàn , nếu chúng ta triệt bỏ những suy nghĩ có vẻ tiêu cực vô hại khi nó vừa mới nảy mầm thì chúng ta sẽ nhận thấy là có nhiều thứ khiến chúng ta vui vẻ hơn .</s>
+</spair>
+</text>
+</doc>

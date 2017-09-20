@@ -1,0 +1,84 @@
+﻿<doc id='N0215'>
+<head>
+<title>Are Personal Music Players Causing Hearing Loss ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Are Personal Music Players Causing Hearing Loss ?</s>
+<s id='vn1'>Máy nghe nhạc cá nhân gây ra mất thính lực ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In an editorial published today on bmj.com , an expert warns that young people who listen to personal music players for several hours a day at high volume could be putting their hearing at risk .</s>
+<s id='vn2'>Trong bài xã luận công bố hôm nay trên bmj.com , một chuyên gia cảnh báo là những người trẻ nghe nhạc từ các máy nghe nhạc cá nhân vài giờ mỗi ngày với âm lượng cao có thể gây nguy hiểm thính giác của họ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Personal music devices such as MP3 players can generate levels of sound at the ear in excess of 120 decibels .</s>
+<s id='vn3'>Các thiết bị nghe nhạc cá nhân như là máy nghe nhạc MP3 có thể tạo ra mức âm thanh vượt quá 120 đề-xi-ben ở tai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Professor Peter Rabinowitz from Yale University School of Medicine explains that this is similar in intensity to a jet engine , especially when used with earphones that insert into the ear canal .</s>
+<s id='vn4'>Giáo sư Peter Rabinowitz từ trường đại học y Yale giải thích rằng điều này tương tự ở cường độ của động cơ phản lực , nhất là khi sử dụng tai nghe chèn vào ống tai .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The majority of young people commonly use these devices .</s>
+<s id='vn5'>Phần lớn thanh niên thường sử dụng các thiết bị này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Surveys from Europe and the United States report that more than 90 percent use them .</s>
+<s id='vn6'>Các cuộc nghiên cứu từ châu Âu và Hoa Kỳ cho thấy hơn 90 phần trăm sử dụng máy nghe nhạc cá nhân .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Professor Rabinowitz says it " has grown faster than our ability to assess their potential health consequences . "</s>
+<s id='vn7'>Giáo sư Rabinowitz nói điều này " đã phát triển nhanh hơn khả năng của chúng ta để đánh giá hậu quả sức khỏe tiềm ẩn của các việc đó . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>However , evidence that music players are causing hearing loss in young people is mixed .</s>
+<s id='vn8'>Tuy nhiên , bằng chứng máy nghe nhạc gây ra mất thính lực trong thanh niên cũng hỗn tạp .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The author says that this suggests that the true population effects may be starting to be noticeable only now .</s>
+<s id='vn9'>Tác giả nói rằng điều này khiến ta nghĩ rằng các ảnh hưởng cộng đồng thật sự có thể chỉ đang bắt đầu được chú ý bây giờ .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Also , other health effects may need to be examined .</s>
+<s id='vn10'>Hơn nữa , những ảnh hưởng sức khỏe khác có thể cần phải được xem xét .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>For instance , in a similar way to mobile phones , some studies have indicated that use of personal music players can interfere with concentration and performance when driving .</s>
+<s id='vn11'>Chẳng hạn như , cùng một cách với điện thoại di động , một số nghiên cứu đã cho thấy sử dụng máy nghe nhạc cá nhân có thể cản trở sự tập trung và hiệu quả khi lái xe .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Evidence based guidance is lacking .</s>
+<s id='vn12'>Hướng dẫn dựa trên bằng chứng vẫn đang còn thiếu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>But Rabinowitz comments that the importance of hearing loss as a public health problem makes it logical to encourage patients of all ages to promote " hearing health " through avoidance of excessive noise exposure .</s>
+<s id='vn13'>Nhưng Rabinowitz chú thích rằng tầm quan trọng của sự mất thính lực như là một vấn đề y tế cộng đồng khiến việc khuyến khích bệnh nhân ở mọi lứa tuổi coi trọng " sức khỏe thính giác " bằng cách tránh tiếp cận tiếng ồn quá mức .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In addition , he suggests cautiously removing earphones while driving and performing other safety tasks .</s>
+<s id='vn14'>Ngoài ra , ông khuyên hãy cẩn thận tháo tai nghe trong khi lái xe và thực hiện các nhiệm vụ cần sự an toàn khác .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>He recommends further comprehensive and ongoing surveys of the hearing health of young people .</s>
+<s id='vn15'>Ông đề nghị thêm các cuộc khảo sát toàn diện về sức khoẻ thính giác của thanh niên .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>He writes in conclusion : " Personal music players provide a reminder that our hunger for new technology should be accompanied by equally vigorous efforts to understand and manage the health consequences of changing lifestyles . "</s>
+<s id='vn16'>Ông kết luận rằng : " Máy nghe nhạc cá nhân nhắc nhở rằng sự ham thích công nghệ mới của chúng ta nên đi kèm với các nỗ lực mạnh mẽ hơn nữa để hiểu và kiểm soát các hệ quả sức khoẻ trong lối sống đang thay đổi . "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Written by Stephanie Brunner ( B A )</s>
+<s id='vn17'>Được viết bởi Stephanie Brunner ( B A )</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Copyright : Medical News Today</s>
+<s id='vn18'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

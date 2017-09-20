@@ -1,0 +1,548 @@
+﻿<doc id='N0688'>
+<head>
+<title>The Story of Snow White and the Seven Dwarves</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Story of Snow White and the Seven Dwarves</s>
+<s id='vn1'>Chuyện nàng Bạch Tuyết và Bảy chú lùn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Grimm 's Fairy Tale version - translated by Margaret Hunt - language modernized a bit by Leanne Guenther</s>
+<s id='vn2'>Chuyện cổ tích Grimm - được dịch bởi Margaret Hunt - mô phỏng theo ngôn ngữ hiện đại của Leanne Guenther</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Once upon a time , long , long ago a king and queen ruled over a distant land .</s>
+<s id='vn3'>Ngày xửa ngày xưa , đã lâu lắm rồi , có một vị vua và hoàng hậu nọ cai trị vùng đất xa xôi kia .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The queen was kind and lovely and all the people of the realm adored her .</s>
+<s id='vn4'>Vị hoàng hậu này rất tốt bụng và đáng mến khiến tất cả thần dân trong vương quốc đều tôn thờ bà .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The only sadness in the queen 's life was that she wished for a child but did not have one .</s>
+<s id='vn5'>Nỗi buồn duy nhất của hoàng hậu là ước mong có một đứa con nhưng chưa thực hiện nổi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>One winter day , the queen was doing needle work while gazing out her ebony window at the new fallen snow .</s>
+<s id='vn6'>Vào một ngày mùa đông , vị hoàng hậu đang may vá thêu thùa và đưa mắt nhìn chăm chú ra chiếc cửa sổ bằng gỗ mun thì phát hiện tuyết vừa rơi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A bird flew by the window startling the queen and she pricked her finger .</s>
+<s id='vn7'>Một chú chim bay gần cửa sổ làm vị hoàng hậu giật mình và mổ mổ ngón tay của bà .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A single drop of blood fell on the snow outside her window .</s>
+<s id='vn8'>Một giọt máu rơi xuống màn tuyết bên ngoài cửa sổ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>As she looked at the blood on the snow she said to herself , " Oh , how I wish that I had a daughter that had skin as white as snow , lips as red as blood , and hair as black as ebony . "</s>
+<s id='vn9'>Khi bà nhìn thấy đốm máu trên tuyết , bà liền tự nhủ , " ồ , ước chi mình có một cô con gái có da trắng như tuyết , môi đỏ như máu và tóc đen như mun nhỉ . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Soon after that , the kind queen got her wish when she gave birth to a baby girl who had skin white as snow , lips red as blood , and hair black as ebony .</s>
+<s id='vn10'>Chẳng bao lâu sau đó , vị hoàng hậu tốt bụng này đạt được ước nguyện khi hạ sinh được một bé gái có da trắng như tuyết , môi đỏ như máu và tóc đen như mun .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They named the baby princess Snow White , but sadly , the queen died after giving birth to Snow White .</s>
+<s id='vn11'>Họ đã đặt tên cho nàng là công chúa Bạch Tuyết , nhưng buồn thay , vị hoàng hậu đã chết sau khi sinh ra Bạch Tuyết .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Soon after , the king married a new woman who was beautiful , but as well proud and cruel .</s>
+<s id='vn12'>Ngay sau đó , Đức vua cưới với một người khác xinh đẹp , nhưng cực kỳ độc ác và tự mãn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>She had studied dark magic and owned a magic mirror , of which she would daily ask , Mirror , mirror on the wall , who 's the fairest of them all ? .</s>
+<s id='vn13'>Bà ta nghiên cứu yêu thuật đen tối và có một cái gương ma quái dùng để tra hỏi nó mỗi ngày , " Gương kia ngự ở trên tường , thế gian ai đẹp được dường như ta ? " .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Each time this question was asked , the mirror would give the same answer , " Thou , O Queen , art the fairest of all . "</s>
+<s id='vn14'>Mỗi lần mụ ta hỏi thế , chiếc gương liền đáp lại một câu tương tự , " thưa hoàng hậu , bà là người đẹp nhất . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This pleased the queen greatly as she knew that her magical mirror could speak nothing but the truth .</s>
+<s id='vn15'>Câu trả lời làm mụ ta hết sức mãn nguyện khi biết tấm gương yêu thuật của mình nói đúng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>One morning when the queen asked ,</s>
+<s id='vn16'>Một buổi sáng nọ khi mụ hoàng hậu độc ác hỏi , "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" Mirror , mirror on the wall , who 's the fairest of them all ?</s>
+<s id='vn17'>Gương kia ngự ở trên tường , thế gian ai đẹp được dường như ta ? " ,</s>
+</spair>
+<spair id='18'>
+<s id='en18'>She was shocked when it answered :</s>
+<s id='vn18'>Rồi mụ ta hoảng hồn khi nó trả lời :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>You , my queen , are fair ; it is true but Snow White is even fairer than you .</s>
+<s id='vn19'>Xưa kia bà đẹp nhất trần , ngày nay Bạch Tuyết muôn phần đẹp hơn "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The Queen flew into a jealous rage and ordered her huntsman to take Snow White into the woods to be killed .</s>
+<s id='vn20'>Mụ hoàng hậu liền trỗi dậy cơn ghen tức và ra lệnh cho người thợ săn đem nàng Bạch Tuyết vào rừng để giết đi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>She demanded that the huntsman return with Snow White 's heart as proof .</s>
+<s id='vn21'>Mụ ta còn ra lệnh người thợ săn phải trở về với trái tim của nàng Bạch Tuyết để làm bằng chứng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The poor huntsman took Snow White into the forest , but found himself unable to kill the girl .</s>
+<s id='vn22'>Người thợ săn tội nghiệp đem nàng Bạch Tuyết vào rừng , nhưng nhận thấy mình không thể giết cô gái đáng thương này .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Instead , he let her go , and brought the queen the heart of a wild boar .</s>
+<s id='vn23'>Thay vào đó , ông ta để cho cô đi và mang về cho mụ hoàng hậu trái tim của con lợn rừng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Snow White was now all alone in the great forest , and she did not know what to do .</s>
+<s id='vn24'>Giờ đây nàng Bạch Tuyết còn lại một mình trong khu rừng lớn và cô không biết phải làm gì .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The trees seemed to whisper to each other , scaring Snow White who began to run .</s>
+<s id='vn25'>Những bụi cây đang thì thầm với nhau , làm cho nàng Bạch Tuyết hoảng sợ bắt đầu chạy .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>She ran over sharp stones and through thorns .</s>
+<s id='vn26'>Cô chạy giẫm phải đá nhọn và đi ngang qua các bụi gai .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>She ran as far as her feet could carry her , and just as evening was about to fall she saw a little house and went inside in order to rest .</s>
+<s id='vn27'>Cô chạy xa đến chừng nào đôi chân mệt mới thôi và vừa lúc màn đêm buông xuống cô liền thấy một ngôi nhà nhỏ và đi vào trong để nghỉ chân .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Inside the house everything was small but tidy .</s>
+<s id='vn28'>Bên trong ngôi nhà mọi vật tuy nhỏ nhưng gọn gàng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>There was a little table with a tidy , white tablecloth and seven little plates .</s>
+<s id='vn29'>Có cái bàn nhỏ nhưng rất ngăn nắp với chiếc khăn trải bàn màu trắng và bảy cái đĩa nhỏ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Against the wall there were seven little beds , all in a row and covered with quilts .</s>
+<s id='vn30'>Sát gần bức tường là bảy chiếc giường nhỏ , tất cả đều đặt gọn gàng theo một dãy và phủ mền lên trên .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Because she was so hungry Snow White ate a few vegetables and a little bread from each little plate and from each cup she drank a bit of milk .</s>
+<s id='vn31'>Vì đang rất đói bụng nên nàng Bạch Tuyết ăn vài miếng rau và ít bánh mì trên cái đĩa nhỏ và uống một chút sữa trong cái tách .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Afterward , because she was so tired , she lay down on one of the little beds and fell fast asleep .</s>
+<s id='vn32'>Sau đó , vì vô cùng mệt mỏi , nên cô nằm xuống cái giường nhỏ và ngủ ngon lành .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>After dark , the owners of the house returned home .</s>
+<s id='vn33'>Sau khi màn đêm buông xuống , những người chủ về đến nhà .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>They were the seven dwarves who mined for gold in the mountains .</s>
+<s id='vn34'>Họ là bảy chú lùn khai thác vàng ở các vùng núi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>As soon as they arrived home , they saw that someone had been there - for not everything was in the same order as they had left it .</s>
+<s id='vn35'>Ngay khi họ về đến nhà , họ phát hiện có người nào đó ở trong ngôi nhà của họ - vì mọi thứ đã bị xáo trộn lên khi họ rời khỏi chúng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The first one said , " Who has been sitting in my chair ? "</s>
+<s id='vn36'>Người đầu tiên nói , " ai đã ngồi vào ghế của tôi ? "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>The second one , " Who has been eating from my plate ? "</s>
+<s id='vn37'>Người thứ nhì nói , " ai đã ăn bằng cái đĩa của tôi ? "</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The third one , " Who has been eating my bread ?"</s>
+<s id='vn38'>Người thứ ba nói , " ai đã ăn bánh mì của tôi ? "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The fourth one , " Who has been eating my vegetables ? "</s>
+<s id='vn39'>Người thứ tư nói , " ai đã ăn rau của tôi ? "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The fifth one , " Who has been eating with my fork ? "</s>
+<s id='vn40'>Người thứ năm nói , " ai đã ăn bằng cái nĩa của tôi ? "</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The sixth one , " Who has been drinking from my cup ? "</s>
+<s id='vn41'>Người thứ sáu nói , " ai đã uống bằng cái cốc của tôi ? "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>But the seventh one , looking at his bed , found Snow White lying there asleep .</s>
+<s id='vn42'>Nhưng chú lùn thứ bảy , khi nhìn vào giường của mình thì thấy nàng Bạch Tuyết đang nằm ở đó ngủ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The seven dwarves all came running up , and they cried out with amazement .</s>
+<s id='vn43'>Tất cả bảy người lùn liền chạy đến và họ thét lên kinh ngạc .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>They fetched their seven candles and shone the light on Snow White .</s>
+<s id='vn44'>Họ lấy bảy cây nến và chiếu ánh sáng vào mặt nàng Bạch Tuyết .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>" Oh good heaven ! "</s>
+<s id='vn45'>" Ôi , lạy Chúa ! "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>They cried .</s>
+<s id='vn46'>Họ la lên .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>" This child is beautiful ! "</s>
+<s id='vn47'>" Cô bé xinh đẹp quá ! "</s>
+</spair>
+<spair id='48'>
+<s id='en48'>They were so happy that they did not wake her up , but let her continue to sleep in the bed .</s>
+<s id='vn48'>Họ quá vui đến nỗi không muốn đánh thức cô dậy , để cho cô tiếp tục ngủ trên giường .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The next morning Snow White woke up , and when she saw the seven dwarves she was frightened .</s>
+<s id='vn49'>Sáng hôm sau , nàng thức dậy và hoảng sợ khi thấy bảy người lùn trong ngôi nhà .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>But they were friendly and asked , " What is your name ? "</s>
+<s id='vn50'>Nhưng họ tỏ vẻ thân thiện và hỏi cô , " tên nàng là gì ? "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>" My name is Snow White , " she answered .</s>
+<s id='vn51'>" Tên tôi là Bạch Tuyết , " cô trả lời .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" How did you find your way to our house ? " the dwarves asked further .</s>
+<s id='vn52'>" Làm sao nàng biết đường vào nhà chúng tôi ? " những chú lùn hỏi thêm .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Then she told them that her stepmother had tried to kill her , that the huntsman had spared her life , and that she had run the entire day through the forest , finally stumbling upon their house .</s>
+<s id='vn53'>Rồi cô kể với họ chuyện người mẹ kế đã cố giết mình , nhưng người thợ săn tha chết cho , cô đã chạy cả ngày xuyên qua cánh rừng này và cuối cùng tình cờ thấy ngôi nhà của họ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The dwarves spoke with each other for awhile and then said , " If you will keep house for us , and cook , make beds , wash , sew , and knit , and keep everything clean and orderly , then you can stay with us , and you shall have everything that you want . "</s>
+<s id='vn54'>Những chú lùn trao đổi với nhau trong chốc lát rồi nói , " Nếu nàng biết tề gia nội trợ cho chúng tôi như nấu ăn , dọn giường , rửa chén bát , may vá , đan áo và giữ mọi thứ sạch sẽ ngăn nắp , sau đó nàng có thể ở lại với chúng tôi , và nàng sẽ có mọi thứ nàng muốn . "</s>
+</spair>
+<spair id='55'>
+<s id='en55'>" Yes , " said Snow White , " with all my heart . "</s>
+<s id='vn55'>" Vâng , " nàng Bạch Tuyết trả lời , " tôi sẽ hết lòng làm những điều ấy "</s>
+</spair>
+<spair id='56'>
+<s id='en56'>For Snow White greatly enjoyed keeping a tidy home .</s>
+<s id='vn56'>Bởi vì nàng rất thích giữ nhà cửa gọn gàng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>So Snow White lived happily with the dwarves .</s>
+<s id='vn57'>Thế là nàng Bạch Tuyết sống vui vẻ với những chú lùn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Every morning , they went into the mountains looking for gold , and in the evening when they came back home Snow White had their meal ready and their house tidy .</s>
+<s id='vn58'>Mỗi buổi sáng , họ đi vào núi tìm vàng và buổi tối khi họ về đến nhà thì nàng Bạch Tuyết đã chuẩn bị bữa ăn sẵn sàng và nhà cửa gọn gàng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>During the day the girl was alone , except for the small animals of the forest that she often played with .</s>
+<s id='vn59'>Vào ban ngày , cô ở một mình trong căn nhà , ngoài ra còn có những con thú nhỏ trong rừng mà cô thường chơi cùng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Now the queen , believing that she had eaten Snow White 's heart , could only think that she was again the first and the most beautiful woman of all .</s>
+<s id='vn60'>Lúc bấy giờ , mụ hoàng hậu , tin rằng mình đã ăn được tim của nàng Bạch Tuyết , đinh ninh nghĩ rằng bà ta là người phụ nữ đẹp nhất trần gian .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>She stepped before her mirror and said :</s>
+<s id='vn61'>Mụ ta bước lại trước tấm gương và tra hỏi :</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Mirror , on the wall ,</s>
+<s id='vn62'>Gương kia ngự ở trên tường ,</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Who in this land is fairest of all ?</s>
+<s id='vn63'>Thế gian ai đẹp được dường như ta ? "</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It answered :</s>
+<s id='vn64'>Nó liền đáp lại :</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You , my queen , are fair ; it is true .</s>
+<s id='vn65'>" Thưa hoàng hậu , bà rất đẹp .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>But Snow White , beyond the mountains</s>
+<s id='vn66'>Nhưng nàng Bạch Tuyết , đã ở trong các dãy núi kia</s>
+</spair>
+<spair id='67'>
+<s id='en67'>With the seven dwarves ,</s>
+<s id='vn67'>Với bảy chú lùn ,</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Is still a thousand times fairer than you .</s>
+<s id='vn68'>Muôn phần đẹp hơn . "</s>
+</spair>
+<spair id='69'>
+<s id='en69'>This startled the queen , for she knew that the mirror did not lie , and she realized that the huntsman had deceived her and that Snow White was still alive .</s>
+<s id='vn69'>Câu trả lời này làm mụ hoàng hậu giật mình vì mụ ta biết chiếc gương không nói dối bao giờ và nhận ra người thợ săn đã lừa mình và nàng Bạch Tuyết vẫn còn sống .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Then she thought , and thought again , how she could rid herself of Snow White - for as long as long as she was not the most beautiful woman in the entire land her jealousy would give her no rest .</s>
+<s id='vn70'>Sau đó , bà ta cứ nghĩ mãi cách làm sao tống khứ hình ảnh nàng Bạch Tuyết xinh đẹp ra khỏi đầu - vì càng ngày bà ta càng nhận thấy mình không phải là người phụ nữ đẹp nhất trần gian thì cơn ghen tức làm bà ta không hề ngơi nghỉ .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>At last she thought of something .</s>
+<s id='vn71'>Cuối cùng , mụ ta nảy ra một ý nghĩ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>She went into her most secret room -- no one else was allowed inside -- and she made a poisoned apple .</s>
+<s id='vn72'>Mụ ta đi vào căn phòng bí mật nhất của mình mà không người nào khác được phép vào bên trong nó - và bà ta chế một trái táo độc .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>From the outside it was beautiful , and anyone who saw it would want it .</s>
+<s id='vn73'>Nhìn bên ngoài thì thật đẹp và bất cứ ai nhìn thấy nó cũng đều muốn ăn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>But anyone who might eat a little piece of it would died .</s>
+<s id='vn74'>Nhưng hễ ai chỉ cần ăn một mẩu nhỏ thôi cũng chết .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Coloring her face , she disguised herself as an old peddler woman , so that no one would recognize her , traveled to the dwarves house and knocked on the door .</s>
+<s id='vn75'>Sau khi tô vẽ khuôn mặt mình , mụ ta cải trang thành một bà lão bán hàng rong để không ai nhận ra mình rồi đến nhà những chú lùn và gõ cửa .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Snow White put her head out of the window , and said , " I must not let anyone in ; the seven dwarves have forbidden me to do so . "</s>
+<s id='vn76'>Nàng Bạch Tuyết ló đầu ra ngoài cửa sổ và nói : " con không được phép cho ai vào nhà , bảy chú lùn đã cấm con như thế . "</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" That is all right with me , " answered the peddler woman .</s>
+<s id='vn77'>" Với ta thì không sao đâu , " bà lão bán hàng rong trấn an .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>" I 'll easily get rid of my apples .</s>
+<s id='vn78'>" Ta bán những quả táo này rất đắt hàng mà .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Here , I 'll give you one of them . "</s>
+<s id='vn79'>Này , ta sẽ cho con một trái nhé . "</s>
+</spair>
+<spair id='80'>
+<s id='en80'>" No , " said Snow White , " I cannot accept anything from strangers . "</s>
+<s id='vn80'>" Không đâu , " nàng Bạch Tuyết nói , " con không thể nhận bất cứ thứ gì từ người lạ . "</s>
+</spair>
+<spair id='81'>
+<s id='en81'>" Are you afraid of poison ? "</s>
+<s id='vn81'>" Con sợ ta bỏ thuốc độc à ? "</s>
+</spair>
+<spair id='82'>
+<s id='en82'>The old woman asked .</s>
+<s id='vn82'>Bà cụ hói .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>" Look , I 'll cut the apple in two .</s>
+<s id='vn83'>" Nhìn nè , ta sẽ cắt quả táo làm đôi .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>You eat half and I shall eat half . "</s>
+<s id='vn84'>Con ăn một nửa còn ta sẽ ăn nửa còn lại . "</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Now the apple had been so artfully made that only the one half was poisoned .</s>
+<s id='vn85'>Giờ thì quả táo đã được cắt khéo léo đến nỗi chỉ có một nửa chứa thuốc độc .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Snow White longed for the beautiful apple , and when she saw that the peddler woman was eating part of it she could no longer resist , and she stuck her hand out and took the poisoned half .</s>
+<s id='vn86'>Nàng Bạch Tuyết háo hức nhìn quả táo mọng nước và khi bà lão bán hàng rong ăn một nửa thì cô không còn có thể cưỡng lại được và cô chìa tay ra lấy nửa táo chứa thuốc độc kia .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>She barely had a bite in her mouth when she fell to the ground dead .</s>
+<s id='vn87'>Cô chỉ vừa cắn vào một chút trong miệng thì lăn quay ra đất và chết .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>The queen looked at her with an evil stare , laughed loudly , and said , " White as snow , red as blood , black as ebony wood !</s>
+<s id='vn88'>Mụ hoàng hậu nhìn cô với tia mắt độc ác , cười rộ lên và nói : " Trắng như tuyết này , đỏ như máu này , đen như mun này !</s>
+</spair>
+<spair id='89'>
+<s id='en89'>The dwarves shall never awaken you . "</s>
+<s id='vn89'>Mấy thằng lùn kia sẽ không bao giờ đánh thức mày dậy được nữa đâu . "</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Back at home she asked her mirror :</s>
+<s id='vn90'>Trở lại nhà , bà ta lại hỏi chiếc gương :</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Mirror , on the wall ,</s>
+<s id='vn91'>Gương kia ngự ở trên tường ,</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Who in this land is fairest of all ?</s>
+<s id='vn92'>Thế gian ai đẹp được dường như ta ? "</s>
+</spair>
+<spair id='93'>
+<s id='en93'>It finally answered :</s>
+<s id='vn93'>Cuối cùng , nó đáp lại :</s>
+</spair>
+<spair id='94'>
+<s id='en94'>You , my queen , are fairest of all .</s>
+<s id='vn94'>Thưa hoàng hậu , bà đẹp nhất thế gian này .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Then her cruel and jealous heart was at rest , as well as a cruel and jealous heart can be at rest .</s>
+<s id='vn95'>Thế là thói độc ác và lòng ghen tỵ tan biến đi , rồi thì chúng cũng có thể làm cho mụ ta thanh thản hơn .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>When the dwarves came home that evening they found Snow White lying on the ground .</s>
+<s id='vn96'>Tối hôm đó , khi những chú lùn về đến nhà , họ thấy nàng Bạch Tuyết nằm ngay đơ trên mặt đất .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>She was not breathing at all .</s>
+<s id='vn97'>Nàng đã tắt thở .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>She was dead .</s>
+<s id='vn98'>Nàng đã chết .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>They lifted her up and looked at her longingly .</s>
+<s id='vn99'>Họ ôm cô lên và nhìn cô thắm thiết .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>They talked to her , shook her and wept over her .</s>
+<s id='vn100'>Họ nói chuyện với cô , lay cô dậy và khóc sướt mướt .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>But nothing helped .</s>
+<s id='vn101'>Nhưng chẳng ích chi cả .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The dear child was dead , and she remained dead .</s>
+<s id='vn102'>Cô gái đáng yêu đã chết và cô vẫn tiếp tục trong tình trạng như thế .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>They laid her on a bed of straw , and all seven sat next to her and mourned for her and cried for three days .</s>
+<s id='vn103'>Họ đặt cô lên cái giường rơm và tất cả bảy người ngồi kế bên cô và than khóc trong ba ngày .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>They were going to bury her , but she still looked as fresh as a living person , and still had her beautiful red cheeks .</s>
+<s id='vn104'>Họ đang chuẩn bị chôn cô , nhưng cô vẫn tươi trẻ như người đang sống và đôi má của cô vẫn ửng hồng .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>They said , " We cannot bury her in the black earth , " and they had a transparent glass coffin made , so she could be seen from all sides .</s>
+<s id='vn105'>Họ nói : " chúng ta không thể chôn cô ấy trong lòng đất đen được " và họ nhờ làm một cái quan tài trong suốt , vì vậy có thể thấy cô từ mọi phía .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>They laid her inside , and with golden letters wrote on it her name , and that she was a princess .</s>
+<s id='vn106'>Họ đặt cô vào trong cỗ quan tài và viết tên nàng công chúa bằng những chữ vàng .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Then they put the coffin outside on a mountain , and one of them always stayed with it and watched over her .</s>
+<s id='vn107'>Sau đó họ đặt chiếc quan tài bên ngoài ngọn núi và cử một người luôn trực quan tài và canh chừng cô .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>The animals too came and mourned for Snow White , first an owl , then a raven , and finally a dove .</s>
+<s id='vn108'>Những con thú đến bên quan tài than khóc nàng Bạch Tuyết , trước tiên là con cú , sau đó là con quạ và sau cùng là chim bồ câu .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Now it came to pass that a prince entered these woods and happened onto the dwarves " house , where he sought shelter for the night .</s>
+<s id='vn109'>Lúc bấy giờ , bỗng dưng có một chàng hoàng tử đi qua khu rừng này và thấy ngôi nhà của các chú lùn , bèn tìm nơi trú ẩn qua đêm .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>He saw the coffin on the mountain with beautiful Snow White in it , and he read what was written on it with golden letters .</s>
+<s id='vn110'>Chàng thấy chiếc quan tài trên núi với nàng Bạch Tuyết xinh đẹp bên trong và chàng đọc nội dung những chữ vàng được viết lên đó .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Then he said to the dwarves , " Let me have the coffin .</s>
+<s id='vn111'>Sau đó , chàng nói với những chú lùn : " Để tôi trông coi quan tài cho .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>I will give you anything you want for it . "</s>
+<s id='vn112'>Tôi sẽ cho những gì các ông muốn . "</s>
+</spair>
+<spair id='113'>
+<s id='en113'>But the dwarves answered , " We will not sell it for all the gold in the world . "</s>
+<s id='vn113'>Nhưng những chú lùn trả lời : " chúng tôi sẽ không bán nó để đổi lấy tất cả số vàng trên thế gian này . "</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Then he said , " Then give it to me , for I cannot live without being able to see Snow White .</s>
+<s id='vn114'>Sau đó , vị hoàng tử lại nói : " Hãy trao cho tôi đi vì tôi không thể sống mà thiếu nàng Bạch Tuyết .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>I will honor her and respect her as my most cherished one . "</s>
+<s id='vn115'>Tôi sẽ ca ngợi cô ấy và tôn trọng cô ấy như người thân yêu quý nhất của tôi . "</s>
+</spair>
+<spair id='116'>
+<s id='en116'>As he thus spoke , the good dwarves felt pity for him and gave him the coffin .</s>
+<s id='vn116'>Khi vị hoàng tử nói như vậy , những chú lùn tốt bụng kia thấy thương hại cho hoàng tử và trao cho chàng cỗ quan tài .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>The prince had his servants carry it away on their shoulders .</s>
+<s id='vn117'>Hoàng tử nhờ những người hầu khiêng đi trên vai .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>But then it happened that one of them stumbled on some brush , and this dislodged from Snow White 's throat the piece of poisoned apple that she had bitten off .</s>
+<s id='vn118'>Nhưng rồi tình cờ một trong số họ vấp phải bụi cây và đã làm cho miếng táo chứa thuốc độc nàng đã cắn vào văng ra khỏi họng .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Not long afterward she opened her eyes , lifted the lid from her coffin , sat up , and was alive again .</s>
+<s id='vn119'>Không lâu sau đó , cô mở mắt , mở nắp quan tài , ngồi bật dậy và sống lại .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>" Good heavens , where am I ? " she cried out .</s>
+<s id='vn120'>" Trời ơi , tôi đang ở đâu vậy ? " cô thét lên .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>The prince said joy fully , " You are with me . "</s>
+<s id='vn121'>Hoàng tử nói với giọng vui mừng , " Nàng đang ở bên ta mà " .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>He told her what had happened , and then said , " I love you more than anything else in the world .</s>
+<s id='vn122'>Chàng kể cho cô những gì đã xảy ra , đoạn nói : " Ta yêu nàng hơn bất cứ thứ gì khác trên thế gian này .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Come with me to my father 's castle .</s>
+<s id='vn123'>Hãy cùng đi với ta đến lâu đài của cha ta .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>You shall become my wife . "</s>
+<s id='vn124'>Nàng sẽ trở thành vợ của ta . "</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Snow White loved him , and she went with him .</s>
+<s id='vn125'>Nàng Bạch Tuyết rất yêu vị hoàng tử nên đồng ý đi với chàng .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Their wedding was planned with great splendor and majesty .</s>
+<s id='vn126'>Đám cưới của họ được diễn ra hết sức lộng lẫy và huy hoàng .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Snow White 's wicked step-mother was invited to the feast , and when she had arrayed herself in her most beautiful garments , she stood before her mirror , and said :</s>
+<s id='vn127'>Người mẹ kế độc ác của nàng Bạch Tuyết được mời đến bữa tiệc và khi mụ ta mặc quần áo xinh đẹp , mụ đứng trước tấm gương tra hỏi :</s>
+</spair>
+<spair id='128'>
+<s id='en128'>Mirror , on the wall ,</s>
+<s id='vn128'>Gương kia ngự ở trên tường ,</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Who in this land is fairest of all ?</s>
+<s id='vn129'>Thế gian ai đẹp được dường như ta ? "</s>
+</spair>
+<spair id='130'>
+<s id='en130'>The mirror answered :</s>
+<s id='vn130'>Nó liền đáp lại :</s>
+</spair>
+<spair id='131'>
+<s id='en131'>You , my queen , are fair ; it is true .</s>
+<s id='vn131'>Thưa hoàng hậu , bà rất đẹp .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>But the young queen is a thousand times fairer than you .</s>
+<s id='vn132'>Nhưng ngày nay vị hoàng hậu trẻ muôn phần đẹp hơn . "</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Not knowing that this new queen was indeed her stepdaughter , she arrived at the wedding , and her heart filled with the deepest of dread when she realized the truth .</s>
+<s id='vn133'>Không biết vị hoàng hậu mới này thật ra là đứa con ghẻ của mình , mụ ta đến dự lễ cưới và trong thâm tâm mụ ta khiếp sợ khi nhận ra sự thật cay đắng này .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>The evil queen was banished from the land forever and the prince and Snow White lived happily ever after .</s>
+<s id='vn134'>Thế là mụ hoàng hậu độc ác bị trục xuất khỏi vương quốc mãi mãi và Hoàng tử cùng nàng Bạch Tuyết sống hạnh phúc suốt đời .</s>
+</spair>
+</text>
+</doc>

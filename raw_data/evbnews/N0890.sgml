@@ -1,0 +1,172 @@
+﻿<doc id='N0890'>
+<head>
+<title>Most smokers want to quit - very few succeed</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Most smokers want to quit - very few succeed</s>
+<s id='vn1'>Hầu hết người hút thuốc lá đều muốn bỏ hút nhưng rất ít người thành công</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Although 68.8 % of American adults want to give up smoking , very few manage to do so successfully , according to a new report published by Morbidity and Mortality Weekly Report ( MMWR ) , a part of the CDC ( Centers for Disease Control and prevention ) .</s>
+<s id='vn2'>Mặc dù 68.8% người trưởng thành Mỹ muốn bỏ hút thuốc , nhưng rất ít người có thể vượt qua bản thân để làm được thành công , theo một báo cáo mới được công bố trên Báo cáo tình trạng bệnh tật & tử vong hàng tuần , ( MMWR ) thuộc Trung tâm Phòng ngừa và Kiểm soát Bệnh tật ( CDC ) .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The authors found that 52.4 % of regular smokers had tried to quit at some time during the previous 12 months - only 31.7 % attempted to do so with either counseling or medication .</s>
+<s id='vn3'>Các tác giả thấy rằng 52,4% người hút thuốc thường xuyên đã cố gắng để bỏ thuốc lá trong vòng 12 tháng trước đó - và chỉ có 31,7% cố gắng làm được như vậy nhờ gặp chuyên gia tư vấn hoặc dùng thuốc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Although 68.8 % of American adults want to give up smoking , very few manage to do so successfully , according to a new report published by Morbidity and Mortality Weekly Report ( MMWR ) , a part of the CDC ( Centers for Disease Control and prevention ) .</s>
+<s id='vn4'>Mặc dù 68.8% người trưởng thành Mỹ muốn bỏ hút thuốc , nhưng rất ít người có thể vượt qua bản thân để làm được thành công , theo một báo cáo mới được công bố trên ( MMWR ) Báo cáo tình trạng bệnh tật & tử vong hàng tuần , thuộc Trung tâm Phòng ngừa và Kiểm soát Bệnh tật ( CDC ) .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The authors found that 52.4 % of regular smokers had tried to quit at some time during the previous 12 months - only 31.7 % attempted to do so with either counseling or medication .</s>
+<s id='vn5'>Các tác giả thấy rằng 52,4% người hút thuốc thường xuyên đã cố gắng để bỏ thuốc lá trong vòng 12 tháng trước đó – và chỉ có 31,7% cố gắng làm được như vậy nhờ gặp chuyên gia tư vấn hoặc dùng thuốc .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The number of times people tried to give up smoking during 2001-2010 rose among smokers aged between 25 and 64 years , but fell among older individuals .</s>
+<s id='vn6'>Số lần cố gắng bỏ hút thuốc trong giai đoạn 2001-2010 đã tăng trong những người hút thuốc ở độ tuổi từ 25 đến 64 , nhưng giảm trong những người lớn tuổi hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In view of the obvious difficulty in successfully quitting , the authors believe health care professionals should offer smokers brief cessation advice whenever they come in for a visit .</s>
+<s id='vn7'>Theo quan điểm của những khó khăn rõ ràng trong việc bỏ thuốc thành công , các tác giả tin rằng chuyên gia chăm sóc sức khỏe nên cung cấp lời khuyên ngừng hút thuốc ngắn gọn bất cứ khi nào bệnh nhân nhờ họ giúp đỡ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Those wishing to give up should be offered medication or counseling .</s>
+<s id='vn8'>Những người có nhu cầu bỏ hút thuốc cần được cung cấp thuốc điều trị hoặc tư vấn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Below is some highlighted data from the report :</s>
+<s id='vn9'>Dưới đây là một số dữ liệu nổi bật từ báo cáo :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>53.8 % of smokers aged 65 + years wanted to quit</s>
+<s id='vn10'>53,8% những người hút thuốc từ 65 tuổi trở lên muốn bỏ thuốc lá</s>
+</spair>
+<spair id='11'>
+<s id='en11'>70.2 % of those aged less than 65 years wanted to quit</s>
+<s id='vn11'>70,2% những người độ tuổi dưới 65 tuổi muốn bỏ thuốc lá</s>
+</spair>
+<spair id='12'>
+<s id='en12'>75.6 % of non-Hispanic black smokers wanted to stop - the highest percentage</s>
+<s id='vn12'>75,6% người hút thuốc là dân da đen không phải gốc Mỹ La Tinh muốn dừng lại - tỷ lệ cao nhất</s>
+</spair>
+<spair id='13'>
+<s id='en13'>69.1 % of non-Hispanic whites wanted to give up</s>
+<s id='vn13'>69,1% người da trắng không phải gốc Mỹ La Tinh muốn bỏ thuốc lá</s>
+</spair>
+<spair id='14'>
+<s id='en14'>61 % of Hispanics wanted to stop</s>
+<s id='vn14'>61% những người Mỹ gốc Tây Ban Nha muốn bỏ thuốc lá</s>
+</spair>
+<spair id='15'>
+<s id='en15'>65.9 % of those with just a high school graduation wanted to cease smoking</s>
+<s id='vn15'>65,9% những người chỉ tốt nghiệp trung học muốn chấm dứt hút thuốc</s>
+</spair>
+<spair id='16'>
+<s id='en16'>73.4 % of those with a college qualification wanted to give up</s>
+<s id='vn16'>73,4% những người có trình độ đại học muốn bỏ hút thuốc</s>
+</spair>
+<spair id='17'>
+<s id='en17'>71.2 % of individuals with Medicaid , wanted to stop , compared to 70.4 % with private insurance , 60.7 % with Medicare and 55.3 % with a military health plan</s>
+<s id='vn17'>71,2% những người thuộc Chương trình chăm sóc sức khoẻ của Chính Phủ , muốn bỏ thuốc , so với 70,4% những người có bảo hiểm cá nhân , 60,7% với Chương trình chăm sóc người cao tuổi và 55.3% với Chương trình chăm sóc sức khỏe quân sự .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>52.4 % of current and former smokers had tried to give up for more than one day during the previous 12 months - 62.4 % of 18-24 year olds compared to 43.5 % of 65 + year old</s>
+<s id='vn18'>52,4% những người đang và đã từng hút thuốc đã cố gắng để ngừng hút trong hơn một ngày trong vòng 12 tháng trước đó - 62,4% ở độ tuổi 18-24 so với 43,5% ở độ tuổi trên 65</s>
+</spair>
+<spair id='19'>
+<s id='en19'>6.2 % had given up recently , and were still not smoking - 6. % of non-Hispanic whites compared to 3.3 % of non-Hispanic blacks</s>
+<s id='vn19'>6,2% đã bỏ trong thời gian gần đây , và vẫn không hút trở lại – 6% người da trắng không phải gốc Mỹ La tinh so với 3.3% người da đen không phải gốc Mỹ La tinh</s>
+</spair>
+<spair id='20'>
+<s id='en20'>11.4 % of college graduates had given up recently and were still not smoking , compared to 3.2 % of those with just high school education</s>
+<s id='vn20'>11,4% người tốt nghiệp đại học đã bỏ được thuốc lá , so với 3,2% những người chỉ tốt nghiệp phổ thông trung học</s>
+</spair>
+<spair id='21'>
+<s id='en21'>7.8 % of individuals in a private health plan had recently stopped smoking and were still not smoking compared to 4.6 % of those with Medicaid and 3.6 % of people with no health plan</s>
+<s id='vn21'>7,8% số người trong một kế hoạch sức khỏe cá nhân gần đây đã ngừng hút thuốc và không hút thuốc so với 4,6% những người nằm trong chương trình chăm sóc sức khỏe do Chính phủ Hoa Kỳ tài trợ và 3,6% những người không có bảo hiểm y tế</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Of all the smokers interviewed , only 48.3 % who had seen a health care professional during the previous 12 months said they had been given advice on how to give up .</s>
+<s id='vn22'>Trong tất cả những người hút thuốc được phỏng vấn , chỉ có 48,3% người đã trải qua chăm sóc sức khỏe chuyên nghiệp trong vòng 12 tháng trước đó và cho biết họ đã được tư vấn cách bỏ thuốc lá .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Apparently , doctors and nurses are more likely to suggest giving up to female smokers and smokers of both sexes over the age of 65 .</s>
+<s id='vn23'>Rõ ràng , các bác sĩ và y tá có nhiều khả năng đề nghị bỏ hút thuốc cho phụ nữ và cả nam lẫn nữ trên 65 tuổi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Hispanic smokers were the least likely to be offered any advice .</s>
+<s id='vn24'>Những người hút thuốc người Mỹ gốc Tây Ban Nha thì lại ít có khả năng được cung cấp bất kỳ lời khuyên nào .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>All the figures in this paragraph refer to people going to see a doctor or nurse about something not related to giving up smoking .</s>
+<s id='vn25'>Tất cả các số liệu trong đoạn này đề cập đến những người đi gặp bác sĩ hoặc y tá về một lý do nào đó không liên quan đến việc từ bỏ thuốc lá .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Among smokers who received counseling or took medications to stop :</s>
+<s id='vn26'>Trong số những người hút thuốc nhận được sự tư vấn hoặc được cho thuốc để giúp bỏ thuốc lá :</s>
+</spair>
+<spair id='27'>
+<s id='en27'>30 % used medications</s>
+<s id='vn27'>30% sử dụng thuốc</s>
+</spair>
+<spair id='28'>
+<s id='en28'>- 14.6 % , Nicotine patch</s>
+<s id='vn28'>- 14,6% , dùng miếng dán có chứa Nicotine</s>
+</spair>
+<spair id='29'>
+<s id='en29'>- 11.2 % , Varenicline</s>
+<s id='vn29'>- 11,2% , dùng Varenicline</s>
+</spair>
+<spair id='30'>
+<s id='en30'>- 8.9 % , Nicotine gum/lozenge</s>
+<s id='vn30'>- 8,9% , dùng kẹo cao su hay thuốc viên có chứa nicotine</s>
+</spair>
+<spair id='31'>
+<s id='en31'>- 3.2 % , Bupropion</s>
+<s id='vn31'>- 3,2% , dùng Bupropion</s>
+</spair>
+<spair id='32'>
+<s id='en32'>- 1 % , Nicotine spray/inhaler</s>
+<s id='vn32'>- 1% , dùng ống xịt hay ống hít chứa nicotine</s>
+</spair>
+<spair id='33'>
+<s id='en33'>5.9 % received counseling</s>
+<s id='vn33'>5,9% nhận được tư vấn</s>
+</spair>
+<spair id='34'>
+<s id='en34'>- 3.1 % , Telephone quitline</s>
+<s id='vn34'>- 3,1% , qua điện thoại của Đường dây tư vấn bỏ thuốc lá Quitline</s>
+</spair>
+<spair id='35'>
+<s id='en35'>- 2.6 % , Face-to-face counseling on a one-to-one basis</s>
+<s id='vn35'>- 2,6% , tư vấn trực tiếp trên nền tảng chỉ có 2 người với nhau</s>
+</spair>
+<spair id='36'>
+<s id='en36'>- 2.4 % , Group counseling</s>
+<s id='vn36'>- 2,4% , tư vấn theo nhóm</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Women are more likely to use medication or counseling than men .</s>
+<s id='vn37'>Phụ nữ có nhiều khả năng sử dụng thuốc hoặc tư vấn giúp bỏ thuốc lá hơn nam giới .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The researchers used data from the 2001-2010 National Health Interview Surveys ( NHIS ) for this report .</s>
+<s id='vn38'>Các nhà nghiên cứu sử dụng dữ liệu từ Các cuộc khảo sát # # phỏng vấn y tế quốc gia ( NHIS ) giai đoạn 2011 – 2010 cho báo cáo này .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Written by Christian Nordqvist</s>
+<s id='vn39'>Tác giả : Christian Nordqvist</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Copyright : Medical News Today</s>
+<s id='vn40'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

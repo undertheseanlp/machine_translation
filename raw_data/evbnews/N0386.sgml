@@ -1,0 +1,60 @@
+﻿<doc id='N0386'>
+<head>
+<title>Microsoft delivers Visual Basic tools for Windows Phone 7 development</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft delivers Visual Basic tools for Windows Phone 7 development</s>
+<s id='vn1'>Microsoft cung cấp các công cụ Visual Basic để phát triển Windows Phone 7</s>
+</spair>
+<spair id='2'>
+<s id='en2'>With this new Community Technology Preview , Visual Basic developers can create Windows Phone 7 apps .</s>
+<s id='vn2'>Với Phiên bản thử nghiệm công nghệ dành cho cộng đồng mới này , các nhà phát triển Visual Basic có thể tạo ra các ứng dụng Windows Phone 7 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft has delivered the capability for Visual Basic developers to create Windows Phone 7 applications .</s>
+<s id='vn3'>Microsoft đã mang lại khả năng cho các nhà phát triển Visual Basic tạo ra các ứng dụng Windows Phone 7 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>On Sept. 23 , Microsoft released the CTP of Microsoft Visual Basic for Windows Phone Developer Tools .</s>
+<s id='vn4'>Vào ngày 23 tháng 9 , Microsoft đã phát hành CTP của Microsoft Visual Basic cho Windows Phone Developer Tools .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>This CTP enables Visual Basic developers to create Windows Phone 7 applications with the final version of the Windows Phone Developer Tools .</s>
+<s id='vn5'>Phiên bản CTP này cho phép các nhà phát triển Visual Basic tạo ra các ứng dụng Windows Phone 7 với phiên bản chính thức của Windows Phone Developer Tools .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In a Sept. 23 blog post , S. Soma Somasegar , senior vice president of the Microsoft Developer Division , said , " Starting today , you can download Microsoft Visual Basic CTP for Windows Phone Developer Tools .</s>
+<s id='vn6'>Trong một bài viết trên blog vào ngày 23 tháng 9 , Soma Somasegar phó chủ tịch bộ phận Microsoft Developer Division cho biết : " Bắt đầu từ ngày hôm nay , bạn có thể tải Microsoft Visual Basic CTP cho Windows Phone Developer Tools .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This is a great milestone as it enables our Visual Basic developers to be able to build applications for Windows Phone . "</s>
+<s id='vn7'>Đây là một cột mốc quan trọng vì nó cho phép các nhà phát triển Visual Basic có thể xây dựng các ứng dụng cho Windows Phone . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Somasegar said applications built using the CTP run on both the emulator and the phone .</s>
+<s id='vn8'>Somasegar cho biết các ứng dụng được xây dựng bằng việc sử dụng CTP chạy trên cả trình giả lập và điện thoại .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" To try the CTP , you 'll need the final version of Windows Phone Developer Tools and Visual Studio 2010 Professional or higher .</s>
+<s id='vn9'>" Để thử CTP , bạn sẽ cần phiên bản chính thức của Windows Phone Developer Tools và Visual Studio 2010 Professional hoặc cao hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>If you do n't have Visual Studio 2010 Professional , you can install the free trial of Visual Studio Professional , " Somasegar said .</s>
+<s id='vn10'>Nếu bạn không có Visual Studio 2010 Professional , bạn có thể cài đặt phiên bản dùng thử miễn phí Visual Studio Professional " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The CTP includes Visual Studio 2010 project templates , item templates , designer support , emulator support , debugging and IntelliSense for Visual Basic .</s>
+<s id='vn11'>CTP bao gồm các mẫu dự án Visual Studio 2010 , mục mẫu , hỗ trợ thiết kế , hỗ trợ trình giả lập , gỡ lỗi và hỗ trợ mã IntelliSense cho Visual Basic .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>After installing the CTP , Visual Studio 2010 Professional and higher users will find Windows Phone project types for Visual Basic in the New Project Dialog .</s>
+<s id='vn12'>Sau khi cài đặt CTP , Visual Studio 2010 Professional hoặc cao hơn , người dùng sẽ thấy các kiểu dự án Windows Phone cho Visual Basic trong Hộp thoại Dự án Mới .</s>
+</spair>
+</text>
+</doc>

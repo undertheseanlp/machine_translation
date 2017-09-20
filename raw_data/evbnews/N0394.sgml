@@ -1,0 +1,104 @@
+﻿<doc id='N0394'>
+<head>
+<title>Researchers Find Security Flaws in Palm Smartphone webOS</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Researchers Find Security Flaws in Palm Smartphone webOS</s>
+<s id='vn1'>Các nhà nghiên cứu tìm thấy lỗ hổng bảo mật trong WebOS của điện thoại thông minh Palm .</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Security researchers have uncovered three flaws in the Linux-based webOS platform used in Palm devices .</s>
+<s id='vn2'>Các nhà nghiên cứu bảo mật đã khám phá 3 lỗ hổng trong nền tảng WebOS dựa trên Linux được sử dụng trong các thiết bị Palm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Security researchers uncovered critical flaws in webOS , including a cross-site scripting issue that could be used to gain remote control of devices and possibly build a bot net .</s>
+<s id='vn3'>Các nhà nghiên cứu bảo mật đã khám phá ra các lỗ hổng nghiêm trọng trong HĐH WebOS bao gồm vấn đề tấn công kịch bản liên trang mà có thể được sử dụng để chiếm quyền điều khiển thiết bị từ xa và có thể xây dựng thành một mạng botnet .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>WebOS is the operating system used in Palm smartphones .</s>
+<s id='vn4'>WebOS là hệ điều hành sử dụng trong các điện thoại thông minh Palm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The issues were uncovered by Orlando Barrera and Daniel Herrera of SecTheory , who discovered a total of three unique flaws - a floating-point overflow issue , a denial of service bug and the cross-site scripting vulnerability .</s>
+<s id='vn5'>Các vấn đề này được phát hiện bởi Orlando Barrera và Daniel Herrera từ SecTheory , họ phát hiện tổng cộng ba lỗ hổng đáng chú ý - một lỗ hổng về tràn vùng nhớ dấu phẩy động , lỗ hổng tấn công từ chối dịch vụ và lỗ hổng tấn công kịch bản liên trang .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The researchers are expected to present their findings later today at the Austin Hacker Association meeting in Texas .</s>
+<s id='vn6'>Các nhà nghiên cứu dự định sẽ trình bày các lỗ hổng mà họ tìm thấy sau ngày hôm nay tại hội nghị Austin Hacker Association tại bang Texas .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>According to Barrera , the vulnerabilities can be used by an attacker in a number of ways to threaten security .</s>
+<s id='vn7'>Theo Barrera , các lỗ hổng này có thể được sử dụng bởi kẻ tấn công bằng một số cách để de dọa bảo mật .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" For example utilizing the cross-site scripting issue we are able to conduct the following attacks : remote command and control , by using JavaScript to dynamically modify the user experience an attacker is able to control aspects of the device over time ," he said .</s>
+<s id='vn8'>Ông ta nói : " ví dụ cho việc sử dụng kỹ thật tấn công liên trang XSS , chúng tôi có thể tiến hành tấn công sau đây : điều khiển và ra lệnh từ xa bằng cách sử dụng JavaScript để tự động thay đổi trải nghiệm người dùng , kẻ tấn công có thể kiểm soát các phần nào đó của bị theo thời gian . .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" This in essence is the foundation of a bot net , with time and effort I believe it is feasible for an attacker to complete a functional command and control program for this device . "</s>
+<s id='vn9'>" Đây thực chất là nền tảng của botnet , với thời gian và nỗ lực tôi tin rằng nó có thể dễ dàng cho một kẻ tấn công hoàn thành một lệnh chức năng và chương trình điều khiển cho thiết bị này . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In addition , the researchers were able to use XML HTTP Requests to access the local file system via " localhost " .</s>
+<s id='vn10'>Ngoài ra , các nhà nghiên cứu cũng có thể sử dụng phương pháp XML HTTP Request để truy cập vào hệ thống tập tin cục bộ thông qua " localhost " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Due to the access permissions associated to the web user , the researchers were able to read the local database file , Barrera said .</s>
+<s id='vn11'>Bởi vì các quyền hạn truy cập liên quan tới người dùng web , các nhà nghiên cứu có thể đọc tập tin cơ sở dữ liệu cục bộ , Barrere nói .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" This allowed us to exfiltrate sensitive user data stored within the database to a remote server under our control , " he added .</s>
+<s id='vn12'>" Điều này cho phép chúng tôi lấy dữ liệu nhạy cảm của người dùng được lưu trong cơ sỡ dữ liệu ở một máy chủ từ xa dưới quyền kiểm soát của chúng tôi . " Ông ấy nói thêm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" This database includes contact information , usernames , password hashes , and unencrypted communications like SMS and email . "</s>
+<s id='vn13'>" Cơ sở dữ liệu này bao gồm thông tin liên lạc , tên người dùng , chuỗi băm của mật khẩu và các thông tin không được mã hóa khác như tin nhắn SMS và email . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The specific cross-site scripting injection flaw used by the duo to demonstrate the attacks was fixed by Palm as of the webOS 2.0 beta .</s>
+<s id='vn14'>Lỗ hổng để chèn kịch bản tấn công liên trang cụ thể được sử dụng bởi bộ đôi này để trình diễn các cuộc tấn công được bố trí bởi Palm trên phiên bản web OS 2.0 beta .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>However , webOS 2.0 remains susceptible to the floating-point overflow and denial of service issues , Barrera said .</s>
+<s id='vn15'>Tuy nhiên , webOS 2.0 vẫn còn tồn tại các lỗ hổng tràn vùng nhớ dấu phẩy động và từ chối dịch vụ , Barrera nói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" Once we understood the design it was just a matter of identifying applications where : user-supplied content is visually presented to the user , and ideally from a remote source , " Herrera said .</s>
+<s id='vn16'>" Một khi chúng ta hiểu được thiết kế nó chỉ là một vấn đề của việc nhận dạng các ứng dụng mà : nội dung cung cấp cho người dùng được trình bày một cách trực quan cho người dùng và lý tưởng từ một nguồn từ xa " , Herrea nói .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The " Sync " feature of the default " Contacts " application had both desired attributes allowing us to create and demonstrate the impact of these types of injection attacks against the WebOS platform . "</s>
+<s id='vn17'>Tính năng " Sync " của ứng dụng " Contacts " mặc định mô tả cả các thuộc tính cho phép chúng tôi tạo và chứng tỏ tác động của các loại tấn công " injection " đe dọa nền tảng WebOS .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The researchers conducted their work on webOS version 1.4.x and the webOS 2.0 beta platforms developed by Palm .</s>
+<s id='vn18'>Các nhà cứu đã tiến hành công việc của họ trên nền tảng WebOS phiên bản 1.4.x và 2.0 beta do Palm phát triển .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>This is not the first time the security community has poked around on Palm devices .</s>
+<s id='vn19'>Đây không phải là lần đầu tiên cộng đồng bảo mật đi sâu vào các thiết bị Palm .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Earlier this year for example , the Intrepidus Group detailed a vulnerability impacting webOS' SMS client .</s>
+<s id='vn20'>Chẳng hạn vào năm nay , Intrepidus Group đã liệt kê một lỗ hổng mà tác động lên chương trình nhắn tin SMS của WebOS .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" The user experience in webOS is constructed similar to a Web application : mark-up rendering ( HTML CSS ) is used for the visual elements , JavaScript is used for dynamic updating modification , and system commands are communicated via HTTP locally , " Herrera added .</s>
+<s id='vn21'>Herrera nói thêm : " Trải nghiệm người dùng trong webOS được xây dựng tương tự như các ứng dụng Web : Ngôn ngữ đánh dấu siêu văn bản ( HTML CSS ) được sử dụng cho các yếu tố trực quan , JavaScript được dùng cho việc cập nhật thay đổi động , các câu lệnh hệ thống được giao tiếp qua HTTP cục bộ . .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This design leaves the webOS susceptible to attacks similar to Cross-site Scripting .</s>
+<s id='vn22'>Thiết kế này làm cho webOS dễ bị các cuộc tấn công giống như XSS .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If user-supplied content is not properly sanitized prior to it being included within the user interface , conditions are created where this content can execute commands against the system and modify the user experience . "</s>
+<s id='vn23'>Nếu nội dung cung cấp cho người dùng không đúng cách trước khi được đưa vào bên trong giao diện người dùng , các điều kiện được tạo ra mà nội dung này có thể thực thi các dòng lệnh để tấn công hệ thống và thay đổi trải nghiệm người dùng . "</s>
+</spair>
+</text>
+</doc>

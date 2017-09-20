@@ -1,0 +1,192 @@
+﻿<doc id='N0645'>
+<head>
+<title>A test of love</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A test of love</s>
+<s id='vn1'>Thử nghiệm tình yêu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>John Blanchard stood up from the bench , straightened his Army uniform , and studied the crowd of people making their way through Grand Central Station .</s>
+<s id='vn2'>John Blanchard bật dậy khỏi băng ghế , chỉnh trang lại bộ quân phục và ngắm nhìn dòng người hối hả bước vào Nhà Ga Trung Tâm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He looked for the girl whose heart he knew , but whose face he didn't , the girl with the rose .</s>
+<s id='vn3'>Anh đang tìm kiếm một cô gái mình rất thân quen mà chưa hề biết mặt , cô gái với cành hoa hồng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>His interest in her had begun thirteen months before in a Florida library .</s>
+<s id='vn4'>Anh biết cô cách đây mười ba tháng trong một thư viện Florida .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Taking a book off the shelf he found himself intrigued , not with the words of the book , but with the notes penciled in the margin .</s>
+<s id='vn5'>Khi lấy một quyển sách trên kệ xuống anh không khỏi tò mò , không phải vì nội dung của quyển sách , mà là vì những dòng ghi chú bằng bút chì bên lề sách .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The soft handwriting reflected a thoughtful soul and insightful mind .</s>
+<s id='vn6'>Những dòng chữ phản ánh một con người với nội tâm sâu sắc , tinh tế .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In the front of the book , he discovered the previous owner 's name , Miss Hollis Maynell .</s>
+<s id='vn7'>Anh tìm thấy tên của người mượn sách trước anh ở mặt trước quyển sách , cô Hollis Maynell .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>With time and effort he located her address .</s>
+<s id='vn8'>Sau một thời gian cố công tìm kiếm anh đã tìm được địa chỉ của cô gái .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>She lived in New York City .</s>
+<s id='vn9'>Cô sống ở thành phố New York .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He wrote her a letter introducing himself and inviting her to correspond .</s>
+<s id='vn10'>Anh đã viết thư giới thiệu mình và tỏ ý muốn làm quen .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The next day he was shipped overseas for service in World War II .</s>
+<s id='vn11'>Ngày hôm sau anh phải lên tàu nhập ngũ , tham gia cuộc Chiến Tranh Thế Giới lần II .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>During the next year and one-month the two grew to know each other through the mail .</s>
+<s id='vn12'>Mười ba tháng trôi qua , cả hai đã làm quen và hiểu nhau qua những cánh thư .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Each letter was a seed falling on a fertile heart .</s>
+<s id='vn13'>Mỗi lá thư như mỗi hạt mầm tình yêu nảy nở trong trái tim của họ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A Romance was budding .</s>
+<s id='vn14'>Một chuyện tình lãng mạn đang dần lớn lên .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Blanchard requested a photograph , but she refused .</s>
+<s id='vn15'>Blanchard muốn có một tấm ảnh nhưng cô gái từ chối .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>She felt that if he really cared , it wouldn't matter what she looked like .</s>
+<s id='vn16'>Cô cho rằng nếu anh thực sự yêu cô thì việc cô trông như thế nào đâu có quan trọng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When the day finally came for him to return from Europe , they scheduled their first meeting - 7:00 PM at the Grand Central Station in New York .</s>
+<s id='vn17'>Rồi ngày anh được trở về từ châu Âu đã đến , họ hẹn gặp nhau lần đầu - 7giờ tối tại Nhà Ga Trung Tâm ở New York .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" You 'll recognize me , " she wrote , " by the red rose I 'll be wearing on my lapel . "</s>
+<s id='vn18'>" Anh sẽ nhận ra em thôi , " cô gái viết , " em sẽ cài một bông hồng đỏ nơi cổ áo " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>So at 7:00 he was in the station looking for a girl whose heart he loved , but whose face he 'd never seen .</s>
+<s id='vn19'>Đúng 7 giờ tối anh đã có mặt nơi nhà ga và dõi mắt tìm kiếm người con gái anh yêu nhưng chưa một lần gặp mặt .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>I 'll let Mr. Blanchard tell you what happened :</s>
+<s id='vn20'>Hãy để chính Blanchard kể cho bạn nghe chuyện xảy ra thế nào :</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A young woman was coming toward me , her figure long and slim .</s>
+<s id='vn21'>Một người phụ nữ trẻ tiến về phía tôi , dáng người thanh mảnh .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Her blonde hair lay back in curls from her delicate ears ; her eyes were blue as flowers .</s>
+<s id='vn22'>Mái tóc vàng óng uốn lọn ôm lấy đôi tai nhỏ nhắn ; đôi mắt xanh trong như cánh hoa ,</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Her lips and chin had a gentle firmness , and in her pale green suit she was like springtime come alive .</s>
+<s id='vn23'>Đôi môi và chiếc cằm đằm thắm , trong chiếc áo khoác màu xanh nhạt cô tươi tắn như mùa xuân đang về .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I started toward her , entirely forgetting to notice that she was not wearing a rose .</s>
+<s id='vn24'>Tôi bắt đầu tiến về phía cô và hoàn toàn không nhận ra rằng cô không cài hoa hồng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>As I moved , a small , provocative smile curved her lips .</s>
+<s id='vn25'>Khi tôi bước đến , một nụ cười đầy vẻ khiêu khích trên môi , .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Going my way , sailor ? "</s>
+<s id='vn26'>" Anh sẽ đi cùng với em chứ ? "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>she murmured .</s>
+<s id='vn27'>Cô thì thầm .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Almost uncontrollably I made one step closer to her , and then I saw Hollis Maynell .</s>
+<s id='vn28'>Hoàn toàn không thể cưỡng lại , tôi bước gần hơn về phía cô , bất chợt tôi nhìn thấy Hollis Maynell .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>She was standing almost directly behind the girl .</s>
+<s id='vn29'>Cô đứng ngay phía sau cô gái này .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>A woman well past 40 , she had graying hair tucked under a worn hat .</s>
+<s id='vn30'>Một phụ nữ đã ngoài 40 , mái tóc hoa râm bới gọn bên dưới chiếc nón đã sờn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>She was more than plump , her thick-ankled feet thrust into low-heeled shoes .</s>
+<s id='vn31'>Dáng người thấp đậm , hai bàn chân với đôi mắt cá to bè lèn chặt trong đôi giày gót thấp .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The girl in the green suit was walking quickly away .</s>
+<s id='vn32'>Cô gái mặc áo xanh đã nhanh chóng bước đi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>I felt as though I was split in two , so keen was my desire to follow her , and yet so deep was my longing for the woman whose spirit had truly companioned me and upheld my own .</s>
+<s id='vn33'>Tôi cảm thấy mình như đã chia đôi , một nửa háo hức muốn đuổi theo cô gái , nhưng tận sâu thẳm trong lòng mình lại dành cho người phụ nữ mà tâm hồn đã cùng đồng hành , nâng bước cho tôi .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>And there she stood .</s>
+<s id='vn34'>Và người ấy vẫn đang đứng đó .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Her pale , plump face was gentle and sensible , her gray eyes had a warm and kindly twinkle .</s>
+<s id='vn35'>Gương mặt nhợt nhạt , tròn trĩnh , dịu dàng và tình cảm , đôi mắt nâu xám với ánh nhìn ấm áp và phúc hậu .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>I did not hesitate .</s>
+<s id='vn36'>Tôi không còn lưỡng lự nữa .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>My fingers gripped the small worn blue leather copy of the book that was to identify me to her .</s>
+<s id='vn37'>Những ngón tay nắm chặt vào quyển sách bọc da màu xanh đã sờn màu , quyển sách giúp cô ta nhận ra tôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>This would not be love , but it would be something precious , something perhaps even better than love , a friendship for which I had been and must ever be grateful .</s>
+<s id='vn38'>Có thể đây không chỉ là một tình yêu mà là một điều gì đó thật quý giá , một điều có lẽ còn hơn cả tình yêu , một tình bạn mà tôi đã và phải biết ơn vì đã có được .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>I squared my shoulders and saluted and held out the book to the woman , even though while I spoke I felt choked by the bitterness of my disappointment .</s>
+<s id='vn39'>Tôi đứng ngay lại , chào cô ta và chìa quyển sách cho cô ấy , dù vậy tôi vẫn cảm thấy một sự thất vọng và chua xót trong lòng khi nói rằng :</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" I 'm Lieutenant John Blanchard , and you must be Miss Maynell .</s>
+<s id='vn40'>" Tôi là trung uý John Blanchard , và cô hẳn là Maynell .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>I am so glad you could meet me ; may I take you to dinner ? "</s>
+<s id='vn41'>Tôi rất vui vì cô đến gặp tôi , tôi mời cô ăn tối nhé ? "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The woman 's face broadened into a tolerant smile .</s>
+<s id='vn42'>Gương mặt người phụ nữ giãn ra với nụ cười rộng lượng :</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" I do n't know what this is about , son , " she answered , " but the young lady in the green suit who just went by , she begged me to wear this rose on my coat .</s>
+<s id='vn43'>" Ta cũng không biết chuyện là thế nào nữa con trai ạ , " bà ta trả lời , " nhưng có một cô gái trẻ mặc áo xanh đã đi ngang qua đây , cô ấy xin ta hãy cài bông hoa này lên cổ áo ,</s>
+</spair>
+<spair id='44'>
+<s id='en44'>And she said if you were to ask me out to dinner , I should go and tell you that she is waiting for you in the big restaurant across the street .</s>
+<s id='vn44'>Và nói rằng nếu con đến mời ta đi ăn tối , ta sẽ cho con hay rằng cô ấy đang đợi con ở nhà hàng lớn ngay góc đường .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>She said it was some kind of test ! "</s>
+<s id='vn45'>Cô ấy bảo rằng đây chỉ là một cuộc thử nghiệm nhỏ thôi ! "</s>
+</spair>
+</text>
+</doc>

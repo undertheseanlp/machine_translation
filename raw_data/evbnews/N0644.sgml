@@ -1,0 +1,244 @@
+﻿<doc id='N0644'>
+<head>
+<title>The Letter</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Letter</s>
+<s id='vn1'>Bức Thư</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Ruth went to her mailbox and there was only one letter .</s>
+<s id='vn2'>Ruth đi đến hộp thư của mình và thấy chỉ có một lá thư .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She picked it up and looked at it before opening , but then she looked at the envelope again .</s>
+<s id='vn3'>Cô cầm nó lên và lướt nhìn nó trước khi mở ra , nhưng sau đó cô nhìn lại phong bì một lần nữa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>There was no stamp , nopostmark , only her name and address .</s>
+<s id='vn4'>Không có tem , không có dấu bưu điện , chỉ có tên và địa chỉ của cô .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>She read the letter :</s>
+<s id='vn5'>Cô đọc thư :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Dear Ruth , I 'm going to be in your neighborhood Saturday afternoon and I 'd like to stop by for a visit .</s>
+<s id='vn6'>Ruth yêu quý , ta sẽ là láng giềng của con vào chiều thứ bảy và ta muốn ghé thăm con .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Love Always , Jesus</s>
+<s id='vn7'>Luôn yêu thương , Chúa Giê–xu</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Her hands were shaking as she placed the letter on the table .</s>
+<s id='vn8'>Cô run rẩy đặt bức thư lên bàn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Why would the Lord want to visit me ?</s>
+<s id='vn9'>" Tại sao Chúa muốn thăm con ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>I 'm nobody special .</s>
+<s id='vn10'>Con chẳng phải là người đặc biệt .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I don't have anything to offer . "</s>
+<s id='vn11'>Con không có bất cứ thứ gì để dâng tặng . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>With that thought , Ruth remembered her empty kitchen cabinets .</s>
+<s id='vn12'>Nghĩ tới đó , Ruth nhớ đến cái tủ bếp trống không của mình .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Oh my goodness , I really don't have anything to offer .</s>
+<s id='vn13'>" Ôi trời ơi , mình thật sự chẳng có cái gì để dâng tặng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>I 'll have to run down to the store and buy something for dinner . "</s>
+<s id='vn14'>Mình phải chạy xuống cửa hàng và mua chút gì đó cho bữa tối . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>She reached for her purse and counted .</s>
+<s id='vn15'>Cô với lấy ví tiền và đếm .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Five dollars and forty cents .</s>
+<s id='vn16'>Năm đô-la và bốn mươi xu .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" Well , I can get some bread and cold cuts , at least . "</s>
+<s id='vn17'>" Được rồi , ít nhất thì mình cũng có thể mua một ít bánh mì và thịt cắt khúc đông lạnh . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>She threw on her coat and hurried out the door .</s>
+<s id='vn18'>Cô khoác vội áo choàng và nhanh chóng ra cửa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>A loaf of French bread , a half-pound of sliced turkey , and a carton of milk ...leaving Ruth with grand total of twelve cents to last her until Monday .</s>
+<s id='vn19'>Một ổ bánh mì Pháp , nửa lạng gà cắt khúc , và một hộp sữa ... đã ngốn gần hết số tiền , chỉ để lại cho Ruth tổng cộng có 12 xu để kéo dài cho đến thứ hai .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Nonetheless , she felt good as she headed home , her meagerofferings tucked under her arm .</s>
+<s id='vn20'>Mặc dù vậy , cô cảm thấy dễ chịu khi trở về nhà với các món lễ vật đạm bạc kẹp dưới cánh tay .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" Hey lady , can you help us , lady ? "</s>
+<s id='vn21'>" Này bà ơi , bà có thể giúp chúng tôi không , thưa bà ? "</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Ruth had been so absorbed in her dinner plans , she had n't even noticed two figures huddled in thealleyway .</s>
+<s id='vn22'>Ruth quá say mê với kế hoạch cho bữa tối của mình đến nỗi cô thậm chí không nhận thấy hai người đang khép mình trong con hẻm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>A man and a woman , both of them dressed in little more than rags .</s>
+<s id='vn23'>Một người đàn ông và một người phụ nữ , cả hai ăn mặc tồi tàn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Look lady , I did n't got a job , you know , and my wife and I have been living out here on the street , and , well , now it 's getting cold and we 're getting kind of hungry and , well , if you could help us , lady , we 'd really appreciate it . "</s>
+<s id='vn24'>" Bà nhìn xem , tôi vẫn chưa có việc làm , và bà biết không , vợ tôi và tôi đang sống ngoài đường phố này , và , ờ , bây giờ trời đang trở lạnh và chúng tôi cũng hơi đói và , ờ , nếu bà có thể giúp chúng tôi , thưa bà , chúng tôi sẽ vô cùng biết ơn . "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Ruth looked at them both .</s>
+<s id='vn25'>Ruth nhìn cả hai .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>They were dirty , they smelled bad and , frankly , she was certain that they could get some kind of work if they really wanted to .</s>
+<s id='vn26'>Họ đều dơ bẩn , bốc mùi hôi hám và , thực ra , cô chắc chắn là họ có thể nhận được một loại công việc nào đó nếu họ thực sự muốn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" Sir , I 'd like to help you ,but I 'm a poor woman myself .</s>
+<s id='vn27'>" Thưa ngài , tôi rất muốn giúp ngài , nhưng chính tôi cũng là một người phụ nữ nghèo .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>All I have is a few cold cuts and some bread , and I 'm having an important guest for dinner tonight and I was planning on serving that to Him . "</s>
+<s id='vn28'>Tất cả những gì tôi có chỉ là một ít thịt đông lạnh và chút bánh mì , và đêm nay tôi sắp có một người khách quan trọng đến dùng bữa tối và tôi định dùng chúng để phục vụ ông ấy . "</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Yeah , well , okay lady , I understand .</s>
+<s id='vn29'>" Vâng , ờ , thôi được rồi bà ạ , tôi hiểu rồi .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Thanks anyway . "</s>
+<s id='vn30'>Dù sao cũng xin cám ơn nhé . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The man put his arm around the woman 's shoulders , turned and headed back into the alley .</s>
+<s id='vn31'>Người đàn ông choàng cánh tay qua vai người phụ nữ và quay bước , hướng về phía con hẻm .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>As she watched them leave , Ruth felt a familiar twinge in her heart .</s>
+<s id='vn32'>Nhìn họ bước đi , Ruth cảm thấy tim mình nhói lên nỗi đau đớn quen thuộc .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" Sir , wait ! "</s>
+<s id='vn33'>" Ông ơi , đợi đã ! "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The couple stopped and turned as she ran down the alley after them .</s>
+<s id='vn34'>Hai con người khốn khổ dừng lại và quay về phía cô khi cô chạy theo họ xuống con hẻm .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" Look , why do n't you take this food .</s>
+<s id='vn35'>" Nhìn nè , sao hai ông bà không lấy chỗ thức ăn này .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>I 'll figure out something else to serve my guest . "</s>
+<s id='vn36'>Tôi sẽ tìm cái gì khác để đãi vị khách của tôi . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>She handed the man her grocery bag .</s>
+<s id='vn37'>Cô trao cho người đàn ông túi thức ăn của mình .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>" Thank you lady .</s>
+<s id='vn38'>" Cảm ơn bà .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Thank you very much ! "</s>
+<s id='vn39'>Xin cảm ơn bà rất nhiều ! "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" Yes , thank you ! "</s>
+<s id='vn40'>" Vâng , cảm ơn bà ! "</s>
+</spair>
+<spair id='41'>
+<s id='en41'>It was the man 's wife , and Ruth could see now that she was shivering .</s>
+<s id='vn41'>Người vợ lên tiếng , và giờ Ruth mới nhìn thấy bà ấy đang run rẩy .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>" You know , I 've got another coat at home .</s>
+<s id='vn42'>" Bà biết đó , tôi có một cái áo choàng khác ở nhà nữa mà .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Here , why do n't you take this one . "</s>
+<s id='vn43'>Đây , sao bà không lấy cái này đi . "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Ruth unbuttoned her jacket and slipped it over the woman 's shoulders .</s>
+<s id='vn44'>Ruth cởi khuy áo khoác của mình và choàng nó lên vai người phụ nữ .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Then smiling , she turned and walked back to the street ...without her coat and with nothing to serve her guest .</s>
+<s id='vn45'>Sau đó cô mỉm cười , quay đi và trở lại con đường ... mà không có áo khoác và không có gì để đãi vị khách của mình .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>" Thank you lady !</s>
+<s id='vn46'>" Cảm ơn bà !</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Thank you very much ! "</s>
+<s id='vn47'>Xin cảm ơn bà rất nhiều ! "</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Ruth was chilled by the time she reached her front door , and worried too .</s>
+<s id='vn48'>Ruth rùng mình vì lạnh khi bước đến cửa trước của nhà mình , và cũng lo lắng nữa .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The Lord was coming to visit and she did n't have anything to offer Him .</s>
+<s id='vn49'>Chúa sắp đến thăm và cô không có thứ gì để tặng người .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>She fumbled through her purse for the door key .</s>
+<s id='vn50'>Cô mò mẫm ví tiền của mình kiếm chiếc chìa khoá cửa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>But as she did , she noticed another envelope in her mailbox .</s>
+<s id='vn51'>Nhưng khi làm điều đó , cô nhận thấy một cái phong bì khác trong hộp thư của mình .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" That 's odd .</s>
+<s id='vn52'>" Thật kỳ quặc .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The mailman does n't usually come twice in one day . "</s>
+<s id='vn53'>Người đưa thư thường không đi đến hai lần trong một ngày . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>She took the envelope out of the box and opened it .</s>
+<s id='vn54'>Cô lấy chiếc phong bì ra khỏi hộp và mở nó ra .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Dear Ruth , It was so good to see you again .</s>
+<s id='vn55'>Ruth yêu quý , thật vui khi gặp con một lần nữa .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Thank you for the lovely meal and thank you , too , for the beautiful coat .</s>
+<s id='vn56'>Cám ơn con vì bữa ăn ngon và cũng cám ơn con vì chiếc áo choàng xinh đẹp nhé .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Love Always , Jesus</s>
+<s id='vn57'>Luôn yêu thương , Chúa Giê–xu</s>
+</spair>
+<spair id='58'>
+<s id='en58'>The air was still cold , but even without her coat , Ruth no longer noticed .</s>
+<s id='vn58'>Trời vẫn còn lạnh , và thậm chí không có áo khoác , nhưng Ruth không còn thấy lạnh nữa .</s>
+</spair>
+</text>
+</doc>

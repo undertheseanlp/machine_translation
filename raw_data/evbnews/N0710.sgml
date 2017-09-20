@@ -1,0 +1,72 @@
+﻿<doc id='N0710'>
+<head>
+<title>Gold price hits new high as concerns over US debt remain</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gold price hits new high as concerns over US debt remain</s>
+<s id='vn1'>Giá vàng chạm đỉnh cao mới vì còn đó những mối lo về nợ của Mỹ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>THE price of gold rose yesterday to a fresh all-time high of $ 1594.16 an ounce , and the dollar fell on foreign exchange markets , over concerns the United States may default on its debts .</s>
+<s id='vn2'>Giá vàng ngày hôm qua tăng lên đến một mốc cao kỷ lục mới là 1594,16 đô la Mỹ một ao-xơ , và đồng đô la giảm giá trên các thị trường ngoại hối , phản ứng lại những lo ngại Mỹ có thể bị vỡ nợ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The yellow metal jumped after ratings agency Moody 's said it may cut America 's debt rating , warning there was a " rising possibility " US will default .</s>
+<s id='vn3'>Kim loại có màu vàng này đã tăng vọt sau khi cơ quan đánh giá tín nhiệm Moody 's cho biết họ có thể hạ mức tín nhiệm nợ của Mỹ , cảnh báo rằng có khả năng ngày càng cao là Mỹ sẽ vỡ nợ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>To avoid default , politicians in Washington have to agree to raise the country 's debt limit by August 2 .</s>
+<s id='vn4'>Để tránh vỡ nợ , các chính trị gia ở Washington phải chấp nhận nâng mức giới hạn nợ của quốc gia trước thời điểm 2 tháng tám .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Democrats and Republicans are at logger heads over how best to do this .</s>
+<s id='vn5'>Các thành viên đảng Cộng hoà và Dân chủ đang tranh cãi quyết liệt về giải pháp tốt nhất cho vấn đề này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>President Barack Obama has told Republican congressional leaders that they must act quickly if the Government is to avoid an unprecedented default .</s>
+<s id='vn6'>Tổng thống Barack Obama đã nói với các nhà lãnh đạo quốc hội thuộc phe Cộng hoà là họ phải hành động nhanh lên nếu muốn chính phủ tránh một vụ phá sản chưa từng có .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In a further boost to bullion prices , Federal Reserve chairman Ben Bernanke voiced concerns about the strength of the US economy on Wednesday .</s>
+<s id='vn7'>Trong việc giá vàng nén tiếp tục tăng thêm , vào hôm thứ tư , chủ tịch Cục Dự trữ Liên bang Ben Bernanke bày tỏ những lo ngại về sức mạnh của nền kinh tế Mỹ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" The possibility remains that the recent economic weakness may prove more persistent than expected and that deflationary risks might re-emerge , implying the need for additional policy support , " he told the US House of Representatives Financial Services Committee .</s>
+<s id='vn8'>Ông nói với Uỷ ban Tài chính Hạ Nghị viện Hoa Kỳ : " Vẫn có khả năng tình trạng yếu kém kinh tế gần đây sẽ kéo dài hơn dự kiến và nguy cơ giảm phát có thể xuất hiện trở lại , vì vậy cần hỗ trợ bằng các chính sách bổ sung " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The spot price for gold rose to a record high of $ 1594.16 an ounce in trading , before easing to $ 1590.66 .</s>
+<s id='vn9'>Giá vàng giao ngay tăng lên một mức cao kỷ lục là 1594,16 đô la Mỹ một ao-xơ trên thị trường , trước khi dịu xuống còn 1590,66 đô la .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Gold is seen as the best safe haven purchase in times of economic uncertainty , but analysts said Gold rise was also caused by the fall in the dollar , which makes the precious metal more affordable for holders of other currencies .</s>
+<s id='vn10'>Vàng được coi là mặt hàng trú ẩn an toàn nhất trong những giai đoạn bất ổn về kinh tế , nhưng các nhà phân tích cho biết vàng tăng còn vì đồng đô la mất giá , điều này khiến thứ kim loại quý hiếm ấy càng có giá hợp lý hơn đối với những người nắm giữ những đồng tiền khác .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Some countries , including Britain , sold part of their gold reserves a decade ago .</s>
+<s id='vn11'>Một thập niên trước , một số nước , trong đó có Anh , bán phần dự trữ vàng của họ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Between 1999 and 2002 , Gordon Brown , who was then Chancellor , sold 60 % of the UK 's gold reserves just before gold entered a protracted bull market .</s>
+<s id='vn12'>Giai đoạn giữa năm 1999 và năm 2002 , ông Gordon Brown , người sau đó là Bộ trưởng tài chính , bán 60% dự trữ vàng của Anh ngay trước khi vàng trên thị trường có xu hướng tăng giá kéo dài .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The official reason for selling the gold reserves was to reduce the portfolio risk of the UK 's reserves by diversifying away from gold .</s>
+<s id='vn13'>Lý do chính thức để bán dự trữ vàng là nhằm giảm rủi ro danh mục đầu tư các khoản dự trữ của Anh theo hướng đa dạng hoá đầu tư ra khỏi vàng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The UK eventually sold about 395 tons of bullion in 17 auctions from July 1999 to March 2002 , at an average price of about $ 275 per ounce , raising approximately $ 3.5bn .</s>
+<s id='vn14'>Rốt cuộc Anh bán khoảng 395 tấn vàng nén trong 17 cuộc đấu giá từ tháng bảy năm 1999 đến tháng ba năm 2002 , với giá bình quân khoảng 275 đô-la Mỹ mỗi ao-xơ , thu xấp xỉ 3,5 tỷ đô-la Mỹ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>By 2011 , that quantity of gold would be worth more than $ 19bn , leading to widespread criticism of Mr Brown 's decision to sell the Gold .</s>
+<s id='vn15'>Vào thời điểm năm 2011 , số lượng vàng đó có thể có giá hơn 19 tỷ đô la Mỹ , khiến ngày càng nhiều người chỉ trích quyết định bán vàng của ông Brown .</s>
+</spair>
+</text>
+</doc>

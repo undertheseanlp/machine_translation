@@ -1,0 +1,416 @@
+﻿<doc id='N0229'>
+<head>
+<title>How to avoid car sickness</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>How to avoid car sickness</s>
+<s id='vn1'>Làm thế nào để tránh say xe</s>
+</spair>
+<spair id='2'>
+<s id='en2'>If you get car sick , you probably anticipate every extended road trip with dread .</s>
+<s id='vn2'>Nếu bạn bị say xe , bạn đã liệu biết trước mỗi chuyến đi của mình sẽ hãi sợ đến dường nào phải không .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Car sickness is just one kind of motion sickness .</s>
+<s id='vn3'>Chứng say xe chỉ là một dạng của chứng buồn nôn và chóng mặt khi đi tàu xe .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Dizziness , fatigue and nausea might make the trip miserable , and even vomiting doesn't make the affected person feel any better .</s>
+<s id='vn4'>Việc chóng mặt , mệt mỏi và buồn nôn có thể làm cho chuyến đi trở nên khổ sở , và thậm chí nôn ói ra cũng không làm cho người say xe cảm thấy khoẻ hơn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>So how do you go about preventing car sickness in the first place ?</s>
+<s id='vn5'>Vậy cách nào có thể giúp bạn phòng tránh chứng say tàu xe ngay từ đầu đây ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Here are some ways to enjoy the ride , sickness-free .</s>
+<s id='vn6'>Dưới đây là một vài biện pháp giúp bạn có thể thưởng thức chuyến đi , mà không sợ phải say xe .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Steps</s>
+<s id='vn7'>Các biện pháp</s>
+</spair>
+<spair id='8'>
+<s id='en8'>- Understand why car sickness .</s>
+<s id='vn8'>- Hiểu được nguyên nhân say xe .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>All motion sickness results from your body sensing a discrepancy between what you see ( in this case , the inside of a car , which tells your brain that you 're sitting still ) and what you feel ( your body 's vestibular system , which senses balance from your inner ear , tells your brain that you 're moving ) .</s>
+<s id='vn9'>Tất cả những triệu chứng chóng mặt buồn nôn khi đi tàu xe là do cơ thể của bạn nhận thức được sự khác nhau giữa hình ảnh ( trong trường hợp này khi đang ở trong xe thì bộ não của bạn sẽ cho biết là bạn đang ngồi yên ) và cảm giác ( hệ thống tiền đình của cơ thể , cảm nhận sự cân bằng của tai trong , cho bộ não biết là cơ thể đang chuyển động ) .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The conflict between what you see and what you feel triggers the production of a neurotransmitter , likely mistaken as a signal of hallucinogenic poisoning , so your body tries to rid itself of whatever is causing this disorienting condition .</s>
+<s id='vn10'>Mâu thuẫn giữa hình ảnh và cảm giác làm tiết ra chất dẫn truyền thần kinh , có thể nhầm lẫn với một dấu hiệu của việc ngộ độc ảo giác , nên cơ thể bạn sẽ cố thoát khỏi điều gây ra cảm giác khó chịu này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>- Look out the window .</s>
+<s id='vn11'>- Nhìn ra cửa sổ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Watching the passing scenery can confirm balance system's detection of motion and help resolve the mismatch that causes car sickness .</s>
+<s id='vn12'>Hành động nhìn ngắm , thưởng ngoạn phong cảnh đang đi qua có thể khiến cho hệ thống giữ thăng bằng chuyển động của bạn được mạnh hơn và giúp giải thích sự nhầm lẫn cho rằng đây là nguyên nhân gây ra chứng say xe .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Focus on a non-moving object in the distance , such as the horizon .</s>
+<s id='vn13'>Hãy tập trung nhìn vào một vật thể nào đó không di chuyển ở xa , như là chân trời .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Don't do anything that involves focusing on a fixed spot , such as reading or playing a card game .</s>
+<s id='vn14'>Đừng làm việc gì tập trung vào một điểm cố định , như đọc sách hoặc chơi đánh bài .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Don't turn around or look from side to side much .</s>
+<s id='vn15'>Đừng quay đầu lại hoặc nhìn từ bên này sang bên kia nhiều quá .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>- Sit in the front .</s>
+<s id='vn16'>- Ngồi đằng trước .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Consider driving ( if possible ) .</s>
+<s id='vn17'>Hãy lái xe ( nếu được ) .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Drivers rarely get car sickness as they are always focused on the road .</s>
+<s id='vn18'>Tài xế hiếm khi bị say xe vì lúc nào họ cũng tập trung nhìn trên đường .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Sitting in the passenger 's seat up front is the best thing .</s>
+<s id='vn19'>Ngồi ở băng ghế hành khách phía trước cũng là vị trí tốt nhất .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Not only will you have more window space to look through , but in some cars , the ride tends to be less bumpy in the front .</s>
+<s id='vn20'>không những có được không gian thoáng ở cửa sổ nhiều hơn để nhìn ngắm đây đó , mà ở một số xe hơi , người ngồi phía trước ít bị dằn xóc hơn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>If driving is not possible or desirable , visualize driving or pretend you are driving .</s>
+<s id='vn21'>Nếu không lái xe được hay không thích lái xe , hãy hình dung ra việc lái xe hay giả vờ bạn đang lái xe .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This can often prevent or alleviate nausea .</s>
+<s id='vn22'>Điều này cũng giúp bạn ngăn ngừa hoặc làm giảm nhẹ chứng buồn nôn .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>- Close eyes .</s>
+<s id='vn23'>- Nhắm mắt lại .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Sleep if you can .</s>
+<s id='vn24'>Hãy ngủ đi nếu bạn có thể ngủ được .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If your eyes are closed , you don't see anything , and that removes the cause_of sickness .</s>
+<s id='vn25'>Nếu nhắm mắt lại , bạn sẽ không thấy gì hết , giúp tránh cảm giác buồn nôn , chóng mặt .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In addition , sleeping can take your mind off of your car sickness .</s>
+<s id='vn26'>Ngoài ra , ngủ cũng giúp bạn quên đi chứng say xe của mình .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>- Open the window .</s>
+<s id='vn27'>- Mở cửa sổ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Many people find that smelling fresh , cool air helps make them feel better , although the reason behind this isn't clear .</s>
+<s id='vn28'>Nhiều người nghĩ rằng việc hít thở không khí trong lành , mát mẻ có thể làm cho họ cảm thấy khoẻ khoắn hơn , dẫu rằng lý do của việc này còn chưa rõ ràng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>If it is not possible to open the window , lean towards the bottom of the window and breathe .</s>
+<s id='vn29'>Nếu bạn không mở cửa sổ được , hãy ngả dựa vào chân cửa sổ để hít thở .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>There should be leaks of air .</s>
+<s id='vn30'>Ở chỗ này cũng có không khí vào đấy .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Some people find that certain smells can make them feel worse ( such as car air fresheners , perfumes , smoke and food ) .</s>
+<s id='vn31'>Một số người cho rằng có những mùi khiến họ cảm thấy say xe nhiều hơn ( như là chất làm thơm xe , dầu thơm , mùi khói , và mùi thức ăn ) .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Remove the source of the smell if possible or keep fresh air .</s>
+<s id='vn32'>Hãy làm sạch chất gây mùi nếu có thể được và nên giữ cho không khí trong lành .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If neither is possible , spray a soothing smell like lavender or mint to cover up the other smells .</s>
+<s id='vn33'>Nếu không làm được những điều này , phun một mùi hương êm dịu như mùi hoa oải hương hay bạc hà để làm át đi những mùi khác .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>- Take breaks .</s>
+<s id='vn34'>- Nghỉ ngơi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Go outside to stretch your legs .</s>
+<s id='vn35'>Hãy ra ngoài để duỗi chân .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Sit on a bench or under a tree and take some deep breaths through your mouth , breathing deeply to relax .</s>
+<s id='vn36'>Ngồi trên băng ghế hay duới một gốc cây và hít thở sâu bằng miệng , hãy hít thở sâu để thư giãn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>This is especially important during journeys that involve a long distance of curvy roads .</s>
+<s id='vn37'>Điều này rất quan trọng trong suốt các chuyến đi đường dài , quanh co .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Not only do these tend to make car sickness better , but it is also good for the driver to take a break .</s>
+<s id='vn38'>Nghỉ ngơi có thể giúp bạn chống say xe tốt hơn đồng thời giúp tài xế nghỉ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>- Take steps to prevent nausea .</s>
+<s id='vn39'>- Thực hiện lần lượt các biện pháp phòng tránh buồn nôn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Since nausea is the most debilitating symptom of car sickness , it 's always good to take precautionary measures .</s>
+<s id='vn40'>Vì buồn nôn là triệu chứng say xe làm mệt người nhiều nhất ; hãy luôn thực hiện các biện pháp phòng ngừa .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Ginger root is a classic remedy because of its widely recognized antiemetic effects .</s>
+<s id='vn41'>Củ gừng là biện pháp chống nôn dân gian cổ điển vì nó nổi tiếng với tác dụng chống nôn mửa .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Keep in mind , however , that many medications which are normally effective against nausea might not work against nausea caused by motion sickness .</s>
+<s id='vn42'>Tuy nhiên , nên nhớ rằng nhiều loại thuốc bình thường có tác dụng chống nôn lại có thể không có tác dụng ngăn nôn mửa do say xe .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>- Eat a few ginger biscuits ( cookies ) before you go , during the journey , and after you arrive .</s>
+<s id='vn43'>- Ăn một vài cái bánh bít-quy gừng ( bánh quy ) trước khi bạn khởi hành chuyến đi , cả trong suốt hành trình chuyến đi , và cả sau khi bạn đến .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>- Other good things to try eating are ginger candies ( chewable ) , ginger coated in sugar ( if you don't mind the heat of ginger ) or ginger-mint candies .</s>
+<s id='vn44'>- Nhiều thứ khác cũng rất tốt mà bạn nên ăn là kẹo gừng ( có thể nhai được ) , gừng áo đường ( nếu bạn chịu được độ cay nóng của gừng ) hoặc kẹo bạc hà gừng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>- If you are traveling a long distance , you could also consider taking ginger tea in a thermos .</s>
+<s id='vn45'>- Nếu đi du lịch đường dài , bạn có thể giữ trà gừng trong phích .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Peppermint tea is another good alternative .</s>
+<s id='vn46'>Trà bạc hà cay cũng là một biện pháp tốt khác dùng để thay thế .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Cold drinks could include ginger beer or soda .</s>
+<s id='vn47'>Thức uống lạnh có thể kể đến bia gừng hoặc xô-đa gừng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>- You can also take over-the-counter ginger root caplets ( 1 to 2 caplets will work well for most adults . )</s>
+<s id='vn48'>- Bạn cũng có thể mua thuốc con nhộng gừng tự do không theo toa ( người lớn có thể uống 1 đến 2 viên . )</s>
+</spair>
+<spair id='49'>
+<s id='en49'>They are commonly available at health food stores and larger grocery stores .</s>
+<s id='vn49'>Chúng thường có bán ở các cửa hàng thực phẩm tự nhiên hoặc ở các cửa hàng tạp hoá lớn hơn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>- Fresh mint can also cure or alleviate nausea .</s>
+<s id='vn50'>- Bạc hà tươi cũng có tác dụng làm thuyên giảm hoặc chữa được chứng buồn nôn .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Buy it in the supermarket .</s>
+<s id='vn51'>Mua nó ở siêu thị .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It doesn't have the drowsiness side-effect of nausea medicine .</s>
+<s id='vn52'>Nó không có tác dụng phụ gây buồn ngủ như thuốc chống ói .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Start by eating 2 leaves and feel free to eat more if you need it .</s>
+<s id='vn53'>Bắt đầu ăn 2 lá bạc hà và sau đó có thể thoải mái ăn nhiều hơn nếu thấy cần thiết .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>- Keep a peppermint candy ( or just about any long lasting hard candy ) in your mouth .</s>
+<s id='vn54'>- Hãy ngậm một viên kẹo bạc hà cay ( hay bất cứ thứ kẹo cứng lâu tan ) trong miệng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>This method will work very well even after feelings of nausea have begun .</s>
+<s id='vn55'>Biện pháp này có tác dụng rất tốt sau khi bắt đầu có cảm giác buồn nôn .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Do not chew the candy because feelings of nausea may return fairly quickly after the candy is gone .</s>
+<s id='vn56'>Đừng nhai kẹo vì bạn có thể buồn nôn trở lại nhanh chóng sau khi đã hết kẹo .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>For those whose nausea is worsened by the smell or taste of peppermint , lemon drops may prove helpful .</s>
+<s id='vn57'>Những ai cảm thấy buồn nôn nhiều hơn khi ngửi hay nếm mùi bạc hà cay , có thể dùng kẹo chanh cũng rất tốt .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>- Rubbing alcohol wipes are useful as well for nausea .</s>
+<s id='vn58'>- Khăn lau có tẩm cồn rửa vết thương cũng có tác dụng tốt đối với chứng buồn nôn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>These are purchased at a medical supply stores .</s>
+<s id='vn59'>Có bán ở các cửa hiệu thuốc tây .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Tear open a wipe and sniff gently as you pass it past your nose .</s>
+<s id='vn60'>Hãy xé mở khăn lau ra và đưa ngang qua mũi hít nhẹ nhàng .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>This works very well .</s>
+<s id='vn61'>Biện pháp này cũng rất tốt .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>- Listening to music can help keep your mind off the sickness .</s>
+<s id='vn62'>- Nghe nhạc cũng có thể giúp bạn khỏi nghĩ đến buồn nôn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>- Practice acup ressure .</s>
+<s id='vn63'>- Bấm huyệt .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>If you feel car sick , apply gentle pressure between the two tendons about 3cm ( about an inch ) from the wrist joint .</s>
+<s id='vn64'>Nếu cảm thấy say xe , có thể ấn nhẹ vào giữa hai sợi gân cách khớp cổ tay khoảng chừng 3cm ( hay khoảng 1 in-sơ ) .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>You can also purchase motion sickness wrist bands .</s>
+<s id='vn65'>Bạn cũng có thể mua băng cổ tay chống nôn .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>This should temporarily delay or alleviate nausea until you can take a break from the trip .</s>
+<s id='vn66'>Điều này tạm thời có thể giúp bạn thuyên giảm hoặc chống được cơn nôn cho đến khi bạn được ngừng lại để nghỉ ngơi .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>You can purchase accu-pressure bands at a local pharmacy .</s>
+<s id='vn67'>Bạn có thể mua băng dán tay chống nôn ở hiệu thuốc địa phương .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>- Use medication that prevents car sickness .</s>
+<s id='vn68'>- Dùng thuốc chống say xe .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>There are over-the-counter and prescription drugs that are effective against car sickness .</s>
+<s id='vn69'>Có nhiều loại thuốc mua tự do và theo toa có tác dụng chống say xe .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Most of them contain dimenhydrinate , meclizine or scopolamine .</s>
+<s id='vn70'>Hầu hết đều chứa dimenhydrinate , meclizine hoặc scopolamine .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Some popular brands are Dramamine and Bonine_Antivert .</s>
+<s id='vn71'>Một số thương hiệu nổi tiếng như Dramamine và Bonine Antivert .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Look into the side effects before using any of these drugs ( especially if you 're driving ) , and ask your doctor just in case .</s>
+<s id='vn72'>Nên đọc kỹ các tác dụng phụ trước khi bắt đầu sử dụng bất kỳ loại thuốc nào ( nhất là khi bạn đang lái xe ) , và tham khảo ý kiến của bác sĩ để đề phòng trường hợp có thể xảy ra .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Some of these are available as patches and can be particularly helpful .</s>
+<s id='vn73'>Một số loại thuốc chống say xe này có bán ở dạng miếng dán và có tác dụng rất tốt .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Folk Remedies</s>
+<s id='vn74'>Các phương thuốc dân gian</s>
+</spair>
+<spair id='75'>
+<s id='en75'>- There are many " folk remedies " which seem to work for some people , but can't be explained and haven't been proven .</s>
+<s id='vn75'>- Có nhiều " phương thuốc dân gian " có thể chữa được chứng say xe đối với một số người , nhưng người ta không giải thích được và chưa được chứng minh .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>- Some people swear the smell of newspaper makes them feel better .</s>
+<s id='vn76'>- Một số người đưa ra lý do là mùi báo có thể làm họ bớt say xe hơn .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Since reading the paper will probably make you sick , just have some newspaper in the car with you because all you really need is the smell .</s>
+<s id='vn77'>Vì đọc sách báo có thể làm bạn nôn , nên chỉ cần để một vài tờ báo trên xe để lấy mùi là đủ .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>If you don't always have a newspaper handy , many art supply stores sell pads of newsprint ( which smells the same ) that you may put in the car .</s>
+<s id='vn78'>Nếu bạn không lúc nào cũng cầm báo trên tay được , bạn có thể để trên xe các tập giấy in báo có bán ở cửa hàng bán đồ mỹ nghệ ( cũng có mùi tương tự ) .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>- Eating a dill pickle before and during a trip could prevent feeling sick .</s>
+<s id='vn79'>- Ăn dưa chuột muối trước và cả trong chuyến đi có thể giúp phòng tránh chứng say xe .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>- Wrapping a rubber band around your wrist .</s>
+<s id='vn80'>- Quấn dây thun quanh bạn cổ tay .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>You can also purchase motion sickness wrist bands at the pharmacy .</s>
+<s id='vn81'>Bạn cũng có thể mua băng cổ tay chống say tàu xe ở hiệu thuốc .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>- Chewing gum seems to ease the feeling for some people .</s>
+<s id='vn82'>- Nhai kẹo cao su cũng làm giảm cảm giác buồn nôn đối với một số người .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>- slightly salty snacks appears to help some people .</s>
+<s id='vn83'>- Bánh snack hơi mặn cũng có tác dụng đối với một số người .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>- Placing a plaster over the belly button .</s>
+<s id='vn84'>- Dán cao lên rốn .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Tips</s>
+<s id='vn85'>Một số mẹo vặt</s>
+</spair>
+<spair id='86'>
+<s id='en86'>- Don't eat a heavy meal or consume alcohol right before you take off on your trip .</s>
+<s id='vn86'>- Không nên ăn quá no hoặc uống rượu bia ngay trước khi bắt đầu chuyến đi .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Some find that eating chocolate in the morning before taking the trip can make car sickness worse .</s>
+<s id='vn87'>Một số người phát hiện ra rằng ăn sô-cô-la vào buổi sáng trước khi đi cũng làm cho chứng say xe trầm trọng hơn .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>- Don't talk about motion sickness , or even look at someone else who 's experiencing it .</s>
+<s id='vn88'>- Đừng nói về say xe , hoặc thậm chí là đừng nhìn người khác đang say xe .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>- Help prevent car sickness in children by giving them a raised seat where they have a clear view of the outdoors , and play games that encourage them to look outwards .</s>
+<s id='vn89'>- Bạn có thể chống say xe cho trẻ con bằng cách cho chúng ngồi trên ghế cao có thể nhìn thấy rõ bên ngoài , và chơi game kích thích chúng nhìn ra bên ngoài .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Don't let them watch movies in the car , it can trigger car sickness .</s>
+<s id='vn90'>Xem phim trong xe có thể khiến trẻ say xe .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>- If you find map-reading makes you sick , ask the driver to pull over to check a map .</s>
+<s id='vn91'>- Nếu bạn thấy xem bản đồ làm bạn buồn nôn , hãy yêu cầu tài xế tấp vào để xem bản đồ .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>- A heavy fog will severely limit your view range and can hasten the sick feeling .</s>
+<s id='vn92'>- Sương mù dày đặc sẽ làm hạn chế tầm nhìn của bạn rất nhiều và có thể làm bạn say xe nhanh hơn .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>If that 's the case , close your eyes and try to sleep .</s>
+<s id='vn93'>Trong trường hợp này , bạn nên nhắm mắt lại và cố ngủ .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Warnings</s>
+<s id='vn94'>Cảnh báo</s>
+</spair>
+<spair id='95'>
+<s id='en95'>- Even if you take all of these precautions , you might still get car sick .</s>
+<s id='vn95'>- Mặc dù bạn có thực hiện hết tất cả các biện pháp phòng tránh này , bạn cũng có thể bị say xe .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Have single use emesis bags .</s>
+<s id='vn96'>Hãy dùng túi nôn sử dụng một lần .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>- Always carry bicarbonate of soda in the car .</s>
+<s id='vn97'>- Lúc nào cũng nên mang theo bi-các-bô-nát na-tri trong xe .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>If you do vomit on the car upholstery , rub the bicarbonate into it straight away to remove the smell and to assist cleaning when you can get to it later .</s>
+<s id='vn98'>Nếu bạn có nôn ói trên nệm ghế xe , hãy chà bi-các-bô-nát na-tri vào đó ngay lập tức để tẩy mùi và giúp cho việc vệ sinh sau này được dễ dàng hơn .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>- Consult your doctor before using any medications for motion_car sickness .</s>
+<s id='vn99'>- Hãy tham khảo ý kiến bác sĩ của bạn trước khi dùng bất kỳ loại thuốc chống nôn do say tàu xe nào .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>- If you have stomach problems such as GERDs or acid reflux , sucking a peppermint may give you heartburn .</s>
+<s id='vn100'>- Nếu bạn bị các vấn đề về dạ dày như trào ngược dạ dày thực quản hoặc trào ngược a-xít , việc ngậm bạc hà cay có thể gây cho bạn chứng ợ nóng .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Check with your doctor first .</s>
+<s id='vn101'>Hãy khám bác sĩ trước .</s>
+</spair>
+</text>
+</doc>

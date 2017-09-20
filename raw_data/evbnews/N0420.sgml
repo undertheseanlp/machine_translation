@@ -1,0 +1,160 @@
+﻿<doc id='N0420'>
+<head>
+<title>14 Principles of Management</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>14 Principles of Management</s>
+<s id='vn1'>14 nguyên tắc quản trị</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Henry Fayol ( 1841-1925 ) was a French mining engineer working for a coal mining company .</s>
+<s id='vn2'>Henry Fayol ( 1841-1925 ) là kỹ sư mỏ người Pháp làm việc cho một công ty khai thác than .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He developed the 14 principles of management published in his book General and Industrial Management ( 1916 ) .</s>
+<s id='vn3'>Ông trình bày 14 nguyên tắc quản trị trong cuốn sách Quản trị Công nghiệp và Tổng quát ( 1916 ) của mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>He was of the firm belief that management is a universal activity irrespective of the field , which led him to develop the 14 principles of management .</s>
+<s id='vn4'>Ông tin tưởng chắc chắn rằng quản trị là hoạt động phổ biến không thuộc riêng một lĩnh vực nào , điều này giúp ông phát triển 14 nguyên tắc quản trị .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>1 . Division of Work : The specialization of workers based on their experience and skill can improve their performance and productivity .</s>
+<s id='vn5'>1 . Phân chia công việc : Sự chuyên môn hoá của người lao động dựa trên kinh nghiệm và kỹ năng của họ có thể cải thiện kết quả và năng suất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It increases their work efficiency and reduces the overall time taken to perform a particular task .</s>
+<s id='vn6'>Nó làm tăng năng suất công việc của họ và giảm bớt tổng số thời gian cần để thực hiện một nhiệm vụ cụ thể .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This principle is applicable to any field managerial or non-managerial .</s>
+<s id='vn7'>Nguyên tắc này có thể áp dụng cho bất kỳ lĩnh vực nào , dù thuộc quản trị hay là không .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>2 . Authority and Responsibility : A manager or a superior must have a right to issue commands .</s>
+<s id='vn8'>2 . Quyền hành và trách nhiệm : Một nhà quản trị hay thượng cấp phải có quyền ra lệnh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He must also take responsibility for the outcome of his commands .</s>
+<s id='vn9'>Ông ta đồng thời cũng phải chịu trách nhiệm về kết quả của mệnh lệnh đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Thus , authority and responsibility must be supplementary traits that the manager adopts .</s>
+<s id='vn10'>Vì vậy , quyền hành và trách nhiệm phải là những điểm bổ sung nhà quản trị nhận lấy mà thực thi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>3 . Discipline : The employees must follow the rules and regulations of the organization .</s>
+<s id='vn11'>3 . Kỷ luật : Người lao động phải tuân theo những quy định và luật lệ của tổ chức .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They must follow the code of conduct and respect their seniors .</s>
+<s id='vn12'>Họ phải tuân theo các quy tắc làm việc và tôn trọng cấp trên của mình .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>4 . Unity of Command : Unity of command means taking orders and instructions from one superior only .</s>
+<s id='vn13'>4 . Thống nhất sự lãnh đạo : Thống nhất sự lãnh đạo nghĩa là nhận mệnh lệnh và chỉ thị từ thượng cấp duy nhất .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>More than one superior commanding a single employee can lead to confusion and conflicts .</s>
+<s id='vn14'>Nhiều cấp trên ra lệnh cho một nhân viên có thể dẫn đến sự rối loạn và mâu thuẫn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>5 . Unity of Direction : A group of workers under the same team and engaged in similar activities must be familiar with the objectives to be achieved and work toward the same objectives .</s>
+<s id='vn15'>5 . Thống nhất sự chỉ đạo : Một nhóm người lao động trong cùng một đội và tham gia những hoạt động như nhau phải nắm rõ các mục tiêu cần đạt được và cố gắng đạt được mục tiêu chung đó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This is essential for co-ordination of the team .</s>
+<s id='vn16'>Điều này rất quan trọng cho sự phối hợp của toàn đội .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>A single manager must lead the team , i.e . it must follow the previous rule of Unity of Command for the smooth functioning of the team and its activities .</s>
+<s id='vn17'>Một nhà quản trị riêng lẻ phải lãnh đạo cả đội , nghĩa là phải tuân theo quy tắc Thống nhất sự lãnh đạo ở trên để các hoạt động và nhiệm vụ của đội diễn ra suôn sẻ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>6 . Subordination of Individual Interest to general interest : The interests or goals of a worker or a team should not be given priority over the interest of the organization .</s>
+<s id='vn18'>6 . Sự lệ thuộc lợi ích cá nhân vào lợi tích chung : Các lợi ích hoặc mục tiêu của một người lao động hoặc một nhóm người không được ưu tiên hơn lợi ích của cả tổ chức .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The management must always put the interests of the firm before anything else .</s>
+<s id='vn19'>Quản trị phải luôn đặt lợi ích của doanh nghiệp trước bất kỳ lợi ích nào .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>7 . Remuneration : Paying the workers , the amount they deserve is an important management rule .</s>
+<s id='vn20'>7 . Tiền công : Trả công cho người lao động , số tiền họ xứng đáng nhận được , là một quy tắc quản trị quan trọng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>It motivates the workers to work better and greatly influences their productivity .</s>
+<s id='vn21'>Nó thúc đẩy người lao động làm việc tốt hơn và ảnh hưởng nhiều đến năng suất lao động của họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Employee satisfaction is very important for the success of a company .</s>
+<s id='vn22'>Sự hài lòng của người lao động vô cùng quan trọng đối với thành công của một doanh nghiệp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>8 . Centralization : Centralization is the number of superiors in the top management who are the decision-makers in the company .</s>
+<s id='vn23'>8 . Tập trung : Tập trung là số những thượng cấp trong đội ngũ lãnh đạo cấp cao - những người ra quyết định chủ chốt trong công ty .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>This rule implies that the number of decision makers of a company must be balanced and based on the company size .</s>
+<s id='vn24'>Quy tắc này ngụ ý rằng số người ra quyết định của một công ty phải được cân đối và dựa trên quy mô của công ty đó .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>9 . Scalar Chain : Scalar chain is the number of levels in an organization , starting from top management to the lowest rank .</s>
+<s id='vn25'>9 . Chuỗi cấp bậc : Chuỗi cấp bậc là số cấp bậc trong một tổ chức , bắt đầu từ quản lý cấp cao nhất đến cấp thấp nhất .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The number of levels differ for different companies , however it must not be so high that it produces communication gaps between the higher and lower levels .</s>
+<s id='vn26'>Số cấp bậc khác nhau đối với những công ty khác nhau , tuy nhiên nó không được cao đến mức tạo ra những khoảng cách giao tiếp giữa cấp trên và cấp dưới .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>10 . Order : By order , Fayol suggested maintaining a social and material order at the workplace .</s>
+<s id='vn27'>10 . Trật tự : Về trật tự , Fayol đề nghị duy trì trật tự vật chất và xã hội tại nơi làm việc .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Social order implied a sense of order among the workers , by following instructions and sticking to their duties .</s>
+<s id='vn28'>Trật tự xã hội nghĩa là ý thức về trật tự giữa những người lao động , bằng việc tuân theo những chỉ dẫn và gắn bó với nhiệm vụ của họ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>A material order implied the correct and effective usage of material resources to avoid manhandling or wastage of resources .</s>
+<s id='vn29'>Trật tự vật chất hàm ý là sử dụng đúng đắn và hiệu quả các nguồn tài nguyên vật chất để tránh lạm dụng hoặc lãng phí tài nguyên .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>11 . Equity : Fayol believed that the workers must be treated with fairness and equity .</s>
+<s id='vn30'>11 . Công bằng : Fayol cho rằng người lao động phải được đối xử bình đẳng và công bằng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>12 . Stability of Tenure of Personnel : An organization runs better if the employee turnover is kept to a minimum .</s>
+<s id='vn31'>12 . Ổn định nhân sự : Một doanh nghiệp sẽ hoạt động tốt hơn nếu sự thay đổi nhân công được hạn chế đến mức thấp nhất .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This is only possible if the employees are happy with their work and are not constantly moved between the different departments of the organization .</s>
+<s id='vn32'>Điều này chỉ có thể xảy ra nếu người lao động hạnh phúc với công việc mình đang làm và ít khi bị thuyên chuyển qua lại giữa các phòng ban khác nhau của doanh nghiệp .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>13 . Initiative : Initiative of the employees can be used for the benefit of the organization .</s>
+<s id='vn33'>13 . Sáng kiến : Sáng kiến của người lao động có thể được sử dụng vì lợi ích của doanh nghiệp .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Every employee can take it upon themselves and show an initiative in some way or another .</s>
+<s id='vn34'>Mỗi nhân viên có thể tự mình đưa ra sáng kiến và thể hiện nó theo cách này hay cách khác .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>This adds to the strength of an organization and makes the employee feel more important if his ideas are heard and implemented .</s>
+<s id='vn35'>Điều này làm tăng thêm sức mạnh cho doanh nghiệp và làm cho người lao động cảm thấy mình quan trọng hơn nếu những ý tưởng của anh ta được lắng nghe và được triển khai .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>14 . Espirit de Corps : Espirit de Corps implies maintaining the morale among the employees .</s>
+<s id='vn36'>14 . Tinh thần đoàn kết : Tinh thần đoàn kết ngụ ý việc duy trì tinh thần hăng hái giữa những người lao động .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Good team spirit can promote concord in the organization .</s>
+<s id='vn37'>Tinh thần đồng đội tốt có thể thúc đẩy sự hoà thuận trong doanh nghiệp .</s>
+</spair>
+</text>
+</doc>

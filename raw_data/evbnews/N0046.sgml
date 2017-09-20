@@ -1,0 +1,160 @@
+﻿<doc id='N0046'>
+<head>
+<title>Obituary : Robert McNamara</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Obituary : Robert McNamara</s>
+<s id='vn1'>Cáo phó : Robert McNamara</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Former American secretaries of defence seldom get such widespread obituaries as Robert S McNamara .</s>
+<s id='vn2'>Hiếm có một vị cựu bộ trưởng Bộ quốc phòng Hoa Kỳ nào được đăng cáo phó rộng rãi đến thế như ông Robert S McNamara .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Despite a distinguished career which saw him at the centre of power or influence at some of the most troubled times of the 20th Century , it was Errol Morris 's 2003 film , The Fog of War , subtitled Eleven Lessons from the Life of Robert McNamara , which singled out this former defence secretary .</s>
+<s id='vn3'>Mặc dù sự nghiệp vẻ vang cho thấy ông từng ở đỉnh cao của quyền lực vào một trong những thời kỳ biến động nhất của thế kỷ 20 , nhưng chính bộ phim của Errol Morris năm 2003 , Màn sương Chiến tranh , còn có tên gọi khác là Mười một bài học từ cuộc đời của Robert McNamara , đã khiến vị cựu bộ trưởng quốc phòng này nổi bật .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the film , McNamara spoke frankly about the Vietnam war , the Cuban missile crisis and World War II , giving a behind-the-scenes account of the context in which important decisions were taken , in so doing raising questions about the nature of war and human behaviour .</s>
+<s id='vn4'>Trong phim , McNamara thẳng thắn kể về cuộc chiến tranh Việt Nam , khủng hoảng tên lửa ở Cu-ba và Chiến tranh thế giới thứ 2 , bằng cách tiết lộ chuyện hậu trường nơi mà những quyết định trọng đại được đưa ra , như thế làm dấy lên những vấn đề về bản chất chiến tranh và hành vi của con người .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Cuban Missile Crisis</s>
+<s id='vn5'>Khủng hoảng tên lửa Cu Ba</s>
+</spair>
+<spair id='6'>
+<s id='en6'>A brilliant statistician , he was drafted to help develop methods of statistical control for managing the strategic bombing campaigns against Germany and Japan .</s>
+<s id='vn6'>Là một nhà thống kê tài ba , ông được biệt phái để giúp phát triển những phương pháp kiểm soát thống kê nhằm quản lý cuộc vận động ném bom chiến lược chống lại Đức và Nhật Bản .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>He worked with General Curtis LeMay on the firebombing of 67 Japanese cities that killed almost a million people , 100,000 on one night in wooden Tokyo .</s>
+<s id='vn7'>Ông làm việc dưới quyền Tướng Curtis Le May trong vụ thả bom lửa xuống 67 thành phố của Nhật Bản giết chết gần một triệu người , riêng thành phố Tokyo cổ kính với kiến trúc gỗ đã có 100 ngàn người chết trong một đêm</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In The Fog of War , he agreed with LeMay 's assertion that the pair " were behaving as war criminals " and would have been tried as such had their side lost .</s>
+<s id='vn8'>Trong phim ' Màn sương chiến tranh ' , ông đã đồng tình với lời khẳng định của Lemay rằng cả hai " đang hành sử như là những tên tội phạm chiến tranh " và sẽ cứ làm như thế nếu họ bị thua trận .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In 1946 , McNamara was hired by the Ford Motor company to rejuvenate its flagging sales .</s>
+<s id='vn9'>Vào 1946 , McNamra vào làm việc ở công ty ô tô Ford giúp phục hồi doanh số bán hàng vốn đang sụt giảm của nó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He rose to become the first president of the company outside the Ford family .</s>
+<s id='vn10'>Ông nhanh chóng trở thành vị chủ tịch đầu tiên của công ty này tuy là người ngoài gia đình Ford .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He was one of the first to introduce safety features in order to reduce the death rate in crashes .</s>
+<s id='vn11'>Ông cũng là một trong những người đầu tiên đưa vào các tính năng an toàn nhằm giảm tỉ lệ tử vong trong các vụ tai nạn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But in 1960 , he was snapped up by President John F Kennedy to become his defence secretary .</s>
+<s id='vn12'>Nhưng vào năm 1960 , ông đã được thu dụng bởi tổng thống John F Kennedy để trở thành Bộ trưởng Quốc phòng của ông ta .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>In this post , he reformed Pentagon practices , oversaw a huge military build-up and was centrally involved in the Cuban Missile Crisis of 1962 , when Soviet nuclear missiles were discovered in Cuba and the world teetered on the brink of a nuclear war for 13 days .</s>
+<s id='vn13'>Trong cương vị này , ông ta đã cải tổ những thủ tục của Lầu năm góc , quản lý việc tăng cường lực lượng quân sự khổng lồ và tập trung hết tâm trí vào cuộc khủng hoảng tên lửa Cu-ba của 1962 , khi tên lửa hạt nhân của Liên xô được tìm thấy ở Cuba và thế giới loạng choạng trên bờ vực chiến tranh hạt nhân trong vòng 13 ngày .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Hate figure</s>
+<s id='vn14'>Nhân vật đáng ghét</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In the film , he described Gen LeMay , at that time an adviser to Kennedy , and Fidel Castro , as the two most dangerous personalities of that crisis .</s>
+<s id='vn15'>Trong phim , ông ấy mô tả Tướng Le May , lúc bấy giờ là cố vấn cho Kennedy , và Fidel Castro , là hai nhân vật nguy hiểm nhất của cuộc khủng hoảng đó .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Gen LeMay wanted to attack Cuba unilaterally , while Mr Castro told him that he had pressed Soviet leader Nikita Krushchev to attack the United States with nuclear weapons if the US invaded .</s>
+<s id='vn16'>Tướng LeMay muốn tấn công Cuba đơn phương , trong khi ông Castro bảo rằng ông đă ép nhà lãnh đạo Xô-viết Nikita Krushchev tấn công Hoa Kỳ bằng vũ khí hạt nhân nếu Hoa Kỳ xâm lược .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>During the Vietnam War , McNamara supported US efforts to prevent the victory of Communist insurgents over the government of South Vietnam .</s>
+<s id='vn17'>Trong chiến tranh Việt Nam , Mcnamara đã khuyến khích nỗ lực của Hoa Kỳ không để cho kẻ chống đối Cộng sản đánh bại chính quyền miền Nam Việt Nam .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>To anti-war protesters at the time , McNamara became something of a hate figure , an arrogant ultra-hawk responsible for escalating the war .</s>
+<s id='vn18'>Đối với người biểu tình phản đối chiến tranh lúc đó , McNamara trở thành nhân vật bị căm ghét chút ít , con diều hâu hiếu chiến kiêu ngạo chịu trách nhiệm về việc leo thang chiến tranh .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Yet recently-released tapes of conversations between McNamara and President Lyndon Johnson , used in The Fog of War , reveal Johnson chiding his defence secretary for having advised Kennedy to pull American military advisers out of Vietnam .</s>
+<s id='vn19'>Song những cuộn băng về cuộc tọa đàm mới được công bố giữa Mcnamara và tổng thống Lyndon Johnson , được dùng trong phim Màn sương Chiến tranh , tiết lộ Johnson đã khiển trách Bộ trưởng Quốc phòng của mình vì đã khuyên Kennedy rút các cố vấn quân sự Mỹ ra khỏi Việt Nam .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Instead , Johnson put ground troops into Vietnam following the Gulf of Tonkin incident in which , it was claimed , Vietnamese torpedo boats had attacked US warships .</s>
+<s id='vn20'>Thay vào đó , Johnson đưa bộ binh vào Việt Nam sau biến cố Vịnh Bắc bộ mà đã được khẳng định rằng tàu phóng ngư lôi của Việt Nam đã tấn công tàu chiến của Hoa Kỳ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>McNamara confirmed that these attacks never actually took place .</s>
+<s id='vn21'>McNamara xác nhận các cuộc tấn công này thực sự không bao giờ diễn ra .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Haunted by Vietnam</s>
+<s id='vn22'>Bị Việt Nam ám ảnh</s>
+</spair>
+<spair id='23'>
+<s id='en23'>By 1966 , McNamara had begun to question the wisdom of US involvement in Vietnam and , a year later , was privately advising Johnson to end the war by negotiation .</s>
+<s id='vn23'>Trước năm 1966 , McNamara đă bắt đầu chất vấn sự đúng đắn của việc Hoa kỳ dính líu vào Việt Nam và , một năm sau , đă kín đáo khuyên Johnson chấm dứt chiến tranh bằng đàm phán .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>He initiated a full investigation of the American commitment to Vietnam .</s>
+<s id='vn24'>Ông ấy bắt đầu cuộc điều tra toàn diện về cam kết của Mỹ đối với Việt Nam .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But Johnson escalated the war further by bombing North Vietnam .</s>
+<s id='vn25'>Johnson leo thang chiến tranh thêm nữa bằng cách ném bom miền Bắc Việt Nam .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>McNamara left the job in 1968 .</s>
+<s id='vn26'>McNamara bỏ việc vào năm 1968 .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The war eventually claimed the lives of three million Vietnamese and 58,000 Americans .</s>
+<s id='vn27'>Cuộc chiến tranh cuối cùng đã tước đi sinh mạng của ba triệu dân Việt Nam và 58,000 người Mỹ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Almost immediately , he took up the presidency of the World Bank where he remained until 1981 , focusing on the developing world .</s>
+<s id='vn28'>Hầu như ngay lập tức , ông ấy đã đảm nhiệm nhiệm kỳ chủ tịch Ngân hàng Thế giới nơi ông ấy tiếp tục cho đến năm 1981 , tập trung vào thế giới phát triển .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In later years , he became a prolific author and lecturer .</s>
+<s id='vn29'>Nhiều năm sau , ông ấy trở thành tác giả có nhiều sáng tác và giảng viên .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>His role in the Vietnam War continued to haunt him , though .</s>
+<s id='vn30'>Mặc dù vậy , vai trò của ông ấy trong cuộc chiến tranh Việt Nam tiếp tục ám ảnh ông ấy</s>
+</spair>
+<spair id='31'>
+<s id='en31'>It was his memoir , In Retrospect : The Tragedy and Lessons of Vietnam ( 1995 ) , which inspired The Fog of War movie .</s>
+<s id='vn31'>Ngẫm lại thì đó là hồi ký của ông ấy : Bi kịch và Bài học của Việt Nam ( 1995 ) , đã truyền cảm hứng cho phim Màn sương Chiến tranh .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>He described the war as " terribly wrong " owing to a combination of the anti-communist climate of the times , mistaken assumptions of foreign policy and military mis judgements .</s>
+<s id='vn32'>Ông ấy mô tả chiến tranh như là điều " thật sự sai lầm " do sự kết hợp của xu thế chống cộng sản bấy giờ , giả định sai lầm về chính sách nước ngoài và đánh giá sai lầm về quân sự .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Critics claimed his admission came 30 years too late .</s>
+<s id='vn33'>Các nhà phê bình khẳng định sự thừa nhận của ông ấy sau 30 năm là quá muộn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In 2004 , at the age of 88 , he married 70-year-old Diana Byfield .</s>
+<s id='vn34'>Vào 2004 , ở tuổi 88 , ông ấy đă lập gia đình với Diana Byfield 70 tuổi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It was his second marriage - his first wife Margaret , to whom he was married for 40 years , died of cancer in 1981 .</s>
+<s id='vn35'>Đó là cuộc hôn nhân thứ hai của ông ấy - người vợ đầu tiên của ông ấy Margaret , người mà ông ấy cưới 40 năm nay , chết vì ung thư vào năm 1981 .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Robert McNamara once said , " I do n't believe we should apply our power unilaterally .</s>
+<s id='vn36'>Robert McNamara có lần đã nói , " Tôi không tin chúng ta sẽ áp dụng quyền lực của chúng ta đơn phương .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If we ca n't persuade nations with similar values , we 'd better re-examine our reasoning . "</s>
+<s id='vn37'>Nếu chúng ta không thể thuyết phục được các quốc gia với những tác dụng tương tự , chúng ta nên xem xét lại lập luận của chúng ta . "</s>
+</spair>
+</text>
+</doc>

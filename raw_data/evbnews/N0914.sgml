@@ -1,0 +1,576 @@
+﻿<doc id='N0914'>
+<head>
+<title>1 . Test Anxiety</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>1 . Test Anxiety</s>
+<s id='vn1'>1 . Hồi hộp trong thi cử</s>
+</spair>
+<spair id='2'>
+<s id='en2'>You 've participated in class , done all of your homework , studied hard , and you think you have a grip on the material .</s>
+<s id='vn2'>Bạn đã đi học đầy đủ , hoàn thành tất cả bài tập ở nhà , học hành chăm chỉ , và bạn nghĩ rằng bạn có đầy đủ kiến thức .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But then the day of the test comes .</s>
+<s id='vn3'>Nhưng khi ngày thi đến .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Suddenly , you blank out , freeze up , zone out , or feel so nervous that you can't get situation together to respond to those questions you knew the answers to just last night .</s>
+<s id='vn4'>Đột nhiên , bạn quên hết mọi thứ , bị tê liệt , mất tập trung , hoặc cảm thấy rất lo sợ bạn sẽ không thể làm chủ huống để trả lời những câu hỏi mà chỉ đêm qua bạn còn biết rõ câu trả lời .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>If this sounds like you , you may have a case of test anxiety — that nervous feeling that people sometimes get when they 're about to take a test .</s>
+<s id='vn5'>Nếu bạn giống như vậy , bạn có thể là trường hợp bị hồi hộp , lo lắng trong thi cử - cảm giác lo lắng mà đôi khi mọi người cảm thấy khi họ sắp sửa đi thi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's pretty normal to feel a little nervous and stressed before a test .</s>
+<s id='vn6'>Việc cảm thấy một chút lo lắng và căng thẳng trước kỳ khi là khá bình thường .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Just about everyone does .</s>
+<s id='vn7'>Hầu hết mọi người đều như vậy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And a touch of nervous anticipation can actually help you get revved and keep you at peak performance while you 're taking the test .</s>
+<s id='vn8'>Và một chút lo lắng thật sự có thể thúc đẩy giúp bạn thực hiện bài thi một cách tốt nhất .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>But for some people , this normal anxiety is more intense .</s>
+<s id='vn9'>Nhưng đối với một số người , điều lo lắng bình thường này lại dữ dội hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The nervousness they feel before a test can be so strong that it interferes with their concentration or performance .</s>
+<s id='vn10'>Nỗi căng thẳng mà họ cảm thấy trước kỳ thi có thể mạnh đến nỗi ảnh hưởng xấu đến sự tập trung & khả năng làm bài của họ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>What Is Test Anxiety ?</s>
+<s id='vn11'>Hồi hộp , lo lắng trong thi cử là gì ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Test anxiety is actually a type of performance anxiety — a feeling someone might have in a situation where performance really counts or when the pressure 's on to do well .</s>
+<s id='vn12'>Hồi hộp , lo lắng trong thi cử thật sự là một dạng lo âu quá đáng về khả năng thực hiện công việc - cảm giác mà một người có thể cảm thấy trong một tình huống mà khả năng thực hiện công việc thực sự quan trọng hoặc khi có áp lực phải làm tốt .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>For example , a person might experience performance anxiety when they are about to try out for the school play , sing a solo on stage , get into position at the pitcher 's mound , step onto the platform in a diving meet , or go into an important interview .</s>
+<s id='vn13'>Ví dụ như , một người có thể cảm thấy lo âu về khả năng thực hiện công việc khi họ sắp sửa thử vai cho một vở kịch ở trường , đơn ca trên sân khấu , vào vị trí ở mô đất của cầu thủ ném bóng , bước lên bục nhảy cầu , hoặc đi vào một cuộc phỏng vấn quan trọng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Like other situations in which a person might feel performance anxiety , test anxiety can bring on " butterflies , " a stomachache , or a tension headache .</s>
+<s id='vn14'>Cũng giống như các tình huống khác trong đó một người có thể cảm thấy lo âu về khả năng thực hiện công việc , hồi hộp , lo lắng trong thi cử có thể gây ra cảm giác nôn nao trong bụng , đau bao tử hoặc nhức đầu do căng thẳng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Some people might feel shaky , sweaty , or feel their heart beating quickly as they wait for the test to be given out .</s>
+<s id='vn15'>Một số người có thể cảm thấy run rẩy , toát mồ hôi , hoặc cảm thấy tim mình đập nhanh khi họ chờ đợi đề thi được phát ra .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A student with really strong test anxiety may even feel like he or she might pass out or throw up .</s>
+<s id='vn16'>Một sinh viên bị hồi hộp , lo lắng trong thi cử nặng thậm chí có thể cảm thấy như thể họ có thể bất tỉnh hoặc muốn nôn</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Test anxiety is not the same as doing poorly on a certain test because your mind is on something else .</s>
+<s id='vn17'>Hồi hộp , lo lắng trong thi cử không giống như cảm giác làm bài tệ trong một kỳ thi nào đó bởi vì tâm trí của bạn khác .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Most people know that having other things on their minds — such as a breakup or the death of someone close - can also interfere with their concentration and prevent them from doing their best on a test .</s>
+<s id='vn18'>Hầu hết mọi người biết rằng có những thứ khác trong tâm trí họ - chẳng hạn như là một cuộc chia tay hoặc cái chết của người thân - cũng có thể cản trở khả năng tập trung của họ và ngăn cản họ làm hết mức tốt nhất trong bài kiểm tra .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>What Causes It ?</s>
+<s id='vn19'>Nguyên nhân là gì ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>All anxiety is a reaction to anticipating something stressful .</s>
+<s id='vn20'>Tất cả các sự lo lắng là một phản ứng liệu trước một điều gì đó căng thẳng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Like other anxiety reactions , test anxiety affects the body and the mind .</s>
+<s id='vn21'>Giống như phản ứng bồn chồn khác , hồi hộp , lo lắng trong thi cử tác động lên cả thể xác và tinh thần .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>When you 're under stress , your body releases the hormone adrenaline , which prepares it for danger ( you may hear this referred to as the " fight or flight " reaction ) .</s>
+<s id='vn22'>Khi bạn bị căng thẳng , cơ thể bạn sẽ tiết ra hoóc-môn a-đrê-na-lin , chuẩn bị cho nguy hiểm ( bạn có thể nghe thấy điều này gọi là phản ứng " chiến đấu hoặc bỏ chạy " ) .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>That 's what causes the physical symptoms , such as sweating , a pounding heart , and rapid breathing .</s>
+<s id='vn23'>Đó là nguyên nhân gây ra các triệu chứng thể chất , chẳng hạn như đổ mồ hôi , tim đập thình thịch , và hơi thở nhanh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>These sensations might be mild or intense .</s>
+<s id='vn24'>Những cảm giác này có thể nhẹ hoặc dữ dội .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Focusing on the bad things that could happen also fuels test anxiety .</s>
+<s id='vn25'>Tập trung vào những điều xấu có thể xảy ra cũng góp phần tạo nên hồi hộp , lo lắng trong thi cử .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>For example , someone worrying about doing poorly might think thoughts like , " What if I forget everything I know ? " or " What if the test is too hard ?"</s>
+<s id='vn26'>Ví dụ , một ai đó lo lắng đến việc làm bài kém có thể suy nghĩ đại loại như , " Chuyện gì sẽ xảy ra nếu tôi quên hết mọi thứ mà tôi biết ? " hoặc " Chuyện gì sẽ xảy ra nếu bài thi quá khó ? "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Too many thoughts like these leave no mental space for thinking about the test questions .</s>
+<s id='vn27'>Suy nghĩ quá nhiều như vậy chiếm hết tâm trí dành cho suy nghĩ về các câu hỏi kiểm tra .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>People with test anxiety can also feel stressed out by their physical reaction and think things like " What if I throw up ? " or " Oh no , my hands are shaking . "</s>
+<s id='vn28'>Những người bị hồi hộp , lo lắng trong thi cử cũng có thể cảm thấy căng thẳng do phản ứng thể chất của họ và nghĩ những việc như " Chuyện gì sẽ xảy ra nếu tôi nôn mất ? " hoặc " Ồ không , tay tôi đang run rẩy . "</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Just like other types of anxiety , test anxiety can create a vicious circle :</s>
+<s id='vn29'>Cũng giống như các dạng lo âu khác , hồi hộp , lo lắng trong thi cử có thể tạo ra một vòng luẩn quẩn :</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The more a person focuses on the bad things that could happen , the stronger the feeling of anxiety becomes .</s>
+<s id='vn30'>Một người càng tập trung vào những điều xấu có thể xảy ra , thì cảm giác lo âu càng tăng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>This makes the person feel worse and , because his or her head is full of distracting thoughts and fears , it can increase the possibility that the person will do worse on the test .</s>
+<s id='vn31'>Điều này làm cho người đó cảm thấy tồi tệ hơn , bởi vì đầu óc đầy những suy nghĩ phân tâm và sợ hãi , có thể làm tăng khả năng người đó sẽ làm bài kiểm tra tệ hơn nhiều .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Who 's Likely to Have Test Anxiety ?</s>
+<s id='vn32'>Ai là người có thể bị hồi hộp , lo lắng trong thi cử ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>People who worry a lot or who are perfectionists are more likely to have trouble with test anxiety .</s>
+<s id='vn33'>Những người hay lo lắng nhiều , hoặc người cầu toàn sẽ có nhiều khả năng gặp khó khăn với sự hồi hộp , lo lắng trong thi cử .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>People with these traits sometimes find it hard to accept mistakes they might make or to get anything less than a perfect score .</s>
+<s id='vn34'>Những người có các đặc điểm này đôi khi thấy khó chấp nhận sai lầm mà họ có thể phạm phải hoặc không muốn bất cứ điều gì không hoàn hảo .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In this way , even without meaning to , they might really pressure themselves .</s>
+<s id='vn35'>Bằng cách này , thậm chí không cố ý , họ có thể thật sự gây áp lực cho chính mình .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Test anxiety is bound to thrive in a situation like this .</s>
+<s id='vn36'>Hồi hộp , lo lắng trong thi cử chắc chắn sẽ càng tăng nhiều trong một tình huống như thế .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Students who are n't prepared for tests but who care about doing well are also likely to experience test anxiety .</s>
+<s id='vn37'>Những học sinh viên không chuẩn bị cho bài thi cũng như những người làm bài tốt cũng đều có thể cảm thấy hồi hộp , lo lắng trong thi cử .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>If you know you 're not prepared , it 's a no-brainer to realize that you 'll be worried about doing poorly .</s>
+<s id='vn38'>Nếu bạn biết mình không chuẩn bị kỹ , dễ hiểu để nhận ra rằng bạn sẽ lo làm bài thi không tốt .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>People can feel unprepared for tests for several reasons :</s>
+<s id='vn39'>Mọi người có thể cảm thấy không chuẩn bị kỹ cho kỳ thi vì một số lý do :</s>
+</spair>
+<spair id='40'>
+<s id='en40'>They may not have studied enough , they may find the material difficult , or perhaps they feel tired because did n't get enough sleep the night before .</s>
+<s id='vn40'>Họ có thể không học đủ , có thể cảm thấy bài học quá khó , hoặc có thể họ cảm thấy mệt mỏi vì đã không ngủ đủ giấc vào đêm hôm trước .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>What Can You Do ?</s>
+<s id='vn41'>Bạn có thể làm gì ?</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Test anxiety can be a real problem if you 're so stressed out over a test that you can't get past the nervousness to focus on the test questions and do your best work .</s>
+<s id='vn42'>Hồi hộp , lo lắng trong thi cử có thể là vấn đề thật sự nếu bạn bị căng thẳng trong kỳ thi nhiều đến nỗi bạn không thể vượt qua để tập trung vào các câu hỏi kiểm tra và làm bài thi một cách tốt nhất .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Feeling ready to meet the challenge , though , can keep test anxiety at a manageable level .</s>
+<s id='vn43'>Dù sao đi nữa , cảm thấy sẵn sàng đương đầu với thử thách có thể giúp giữ sự hồi hộp , lo lắng trong thi cử tại mức độ có thể kềm chế được .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Use a little stress to your advantage .</s>
+<s id='vn44'>Sử dụng một chút căng thẳng làm lợi thế của bạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Stress is your body 's warning mechanism — it 's a signal that helps you prepare for something important that 's about to happen .</s>
+<s id='vn45'>Sự căng thẳng là cơ chế cảnh báo của cơ thể bạn - đó là một tín hiệu giúp bạn chuẩn bị cho một điều gì đó quan trọng sắp xảy ra .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>So use it to your advantage .</s>
+<s id='vn46'>Vì vậy , hãy sử dụng nó thành lợi thế của bạn .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Instead of reacting to the stress by dreading , complai ning , or fretting about the test with friends , take an active approach .</s>
+<s id='vn47'>Thay vì phản ứng với stress bằng cách sợ hãi , phàn nàn , hoặc dằn vặt mình về kỳ thi với bạn bè , hãy giành lấy thế chủ động .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Let stress remind you to study well in advance of a test .</s>
+<s id='vn48'>Hãy để sự căng thẳng nhắc nhở bạn học hành đàng hoàng trước một kỳ thi .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Chances are , you 'll keep your stress from spinning out of control .</s>
+<s id='vn49'>Rất có thể , bạn sẽ không để sự căng thẳng vượt ra khỏi tầm kiểm soát .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>After all , nobody ever feels stressed out by thoughts that they might do well on a test .</s>
+<s id='vn50'>Sau tất cả , không ai cảm thấy căng thẳng bởi những suy nghĩ rằng họ có thể làm tốt trong bài kiểm tra .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Ask for help .</s>
+<s id='vn51'>Yêu cầu giúp đỡ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Although a little test anxiety can be a good thing , an overdose of it is another story entirely .</s>
+<s id='vn52'>Mặc dù một chút hồi hộp , lo lắng trong thi cử có thể là một điều tốt , nhưng lo lắng thái quá lại là chuyện hoàn toàn khác .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>If sitting for a test gets you so stressed out that your mind goes blank and causes you to miss answers that you know , then your level of test anxiety probably needs some attention .</s>
+<s id='vn53'>Nếu ngồi làm bài thi mà khiến bạn căng thẳng đến mức đầu óc bạn trở nên trống rỗng và bạn quên hết câu trả lời mà bạn biết , thì mức độ hồi hộp , lo lắng trong thi cử của bạn cần được quan tâm .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Your teacher , your school guidance counselor , or a tutor can be useful resources to talk to if you always get extreme test anxiety .</s>
+<s id='vn54'>Giáo viên , nhân viên tư vấn ở trường , hoặc người hướng dẫn của bạn có thể là những người hữu ích để trò chuyện nếu bạn luôn bị hồi hộp , lo lắng trong thi cử quá mức .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Be prepared .</s>
+<s id='vn55'>Hãy chuẩn bị .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Some students think that going to class is all it should take to learn and do well on tests .</s>
+<s id='vn56'>Một số học sinh suy nghĩ đi đến lớp học là tất cả những gì nên làm để tìm học và làm tốt các bài kiểm tra .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>But there 's much more to learning than just hoping to soak everything up in class .</s>
+<s id='vn57'>Nhưng chỉ học những gì được dạy trên lớp là chưa đủ .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>That 's why good study habits and skills are so important .</s>
+<s id='vn58'>Đó là lý do tại sao các thói quen và kỹ năng học tập tốt là rất quan trọng .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Many students find that their test anxiety is reduced when they start to study better or more regularly .</s>
+<s id='vn59'>Nhiều sinh viên thấy rằng sự hồi hộp , lo lắng trong thi cử của họ giảm đi khi họ bắt đầu học tốt hơn hoặc thường xuyên hơn nữa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>It makes sense — the more you know the material , the more confident you 'll feel .</s>
+<s id='vn60'>Điều đó là hợp lý vì bạn càng biết nhiều về một điều gì đó , bạn sẽ cảm thấy càng tự tin hơn .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Having confidence going into a test means you expect to do well .</s>
+<s id='vn61'>Có sự tự tin khi đi thi có nghĩa là bạn mong đợi sẽ làm bài tốt .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>When you expect to do well , you 'll be able to relax into a test after the normal first-moment jitters pass .</s>
+<s id='vn62'>Khi bạn mong đợi làm bài tốt , bạn sẽ có thể thư giãn khi bước vào bài thi sau khi vượt qua thời điểm hồp hộp đầu tiên thường gặp .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Watch what you 're thinking .</s>
+<s id='vn63'>Kiểm soát điều mình nghĩ .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>If expecting to do well on a test can help you relax , what about when people expect they won't do well ?</s>
+<s id='vn64'>Nếu mong làm kiểm tra tốt có thể giúp bạn thư giãn , thì mọi người sẽ cảm thấy thế nào nếu lo họ sẽ làm không tốt ?</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Watch out for any negative messages you might be sending yourself about the test .</s>
+<s id='vn65'>Coi chừng những ý nghĩ tiêu cực mà bạn có thể tự gây ra cho mình về kỳ thi .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>They can contribute to your anxiety .</s>
+<s id='vn66'>Chúng có thể góp phần tạo nên sự lo lắng của bạn .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>If you find yourself thinking negative ( " I 'm never any good at taking tests " or " It 's going to be terrible if I do badly on this test " ) , replace them with positive messages .</s>
+<s id='vn67'>Nếu bạn thấy mình có những suy nghĩ tiêu cực ( " Tôi không bao giờ làm tốt được bài thi " hoặc " Sẽ thật là khủng khiếp nếu tôi làm không được bài kiểm tra này " ) , hãy thay thế chúng bằng những thông điệp tích cực .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Not unrealistic positive messages , of course , but ones that are practical and true , such as " I 've studied hard and I know the material , so I 'm ready to do the best I can . "</s>
+<s id='vn68'>Dĩ nhiên không phải những thông điệp tích cực không thực tế , nhưng những gì thiết thực và đúng , chẳng hạn như " Tôi đã học chăm chỉ và tôi hiểu bài , vì vậy tôi sẵn sàng làm nhất tôi thể . "</s>
+</spair>
+<spair id='69'>
+<s id='en69'>( Of course , if you have n't studied , this message won't help ! )</s>
+<s id='vn69'>( Tất nhiên , nếu bạn không học gì hết thì thông điệp này chẳng có ích gì ! )</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Accept mistakes .</s>
+<s id='vn70'>Chấp nhận những sai lầm .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Another thing you can do is to learn to keep mistakes in perspective - especially if you 're a perfectionist or you tend to be hard on yourself .</s>
+<s id='vn71'>Một điều bạn có thể làm là học cách đánh giá đúng đắn về sai lầm - nhất là nếu bạn là người cầu toàn hoặc bạn có xu hướng trở nên hà khắc với chính mình .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Everyone makes mistakes , and you may have even heard teachers or coaches refer to mistakes as " learning opportunities . "</s>
+<s id='vn72'>Mọi người đều phạm sai lầm , và bạn có thể đã nghe nói giáo viên hoặc huấn luyện viên đề cập đến những sai lầm như " cơ hội học tập . "</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Learning to tolerate small failures and mistakes — like that one problem you got wrong in the math pop quiz - is a valuable skill .</s>
+<s id='vn73'>Học cách chấp nhận thất bại và những sai lầm nhỏ - ví dụ như bạn trả lời sai trong một bài đố vui toán học - là một kỹ năng quý báu .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Take care of yourself .</s>
+<s id='vn74'>Chăm sóc bản thân .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>It can help to learn ways to calm yourself down and get centered when you 're tense or anxious .</s>
+<s id='vn75'>Học cách để giữ bản thân bình tĩnh và tập trung khi bạn căng thẳng hoặc lo lắng sẽ có ích .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>For some people , this might mean learning a simple breathing exercise .</s>
+<s id='vn76'>Đối với một số người , điều này có thể nghĩa là học một bài tập hít thở đơn giản .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Practicing breathing exercises regularly ( when you 're not stressed out ) helps your body see these exercises as a signal to relax .</s>
+<s id='vn77'>Thực hành các bài tập thở thường xuyên ( khi bạn đang không căng thẳng ) giúp cơ thể bạn thấy những bài tập như là một tín hiệu để thư giãn .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>And , of course , taking care of your health — such as getting enough sleep , exercise , and healthy eats before a test — can help keep your mind working at its best .</s>
+<s id='vn78'>Và , tất nhiên , chăm sóc sức khỏe của bạn - chẳng hạn như nhận ngủ đủ giấc , tập thể dục , và ăn uống lành mạnh trước khi thi có thể giúp giữ cho tâm trí của bạn làm việc tốt nhất .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Everything takes time and practice , and learning to beat test anxiety is no different .</s>
+<s id='vn79'>Tất cả mọi thứ cần có thời gian và thực hành , và học cách hồi hộp , lo lắng trong thi cử cũng vậy .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Although it wo n't go away overnight , facing and dealing with test anxiety will help you learn stress management , which can prove to be a valuable skill in many situations besides taking tests .</s>
+<s id='vn80'>Mặc dù không phải ngủ một đêm dậy là tự nhiên bạn hết lo lắng hồi hộp , nhưng việc đối mặt và đối phó với sự hồi hộp , lo lắng trong thi cử sẽ giúp bạn học cách chế ngự căng thẳng , mà có thể chứng minh là một kỹ năng có giá trị trong nhiều tình huống bên cạnh việc thi cử .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>2 . Brad Pitt Buys Son Maddox a Cool Gift for His 11th Birthday</s>
+<s id='vn81'>2 . Brad Pitt mua tặng quà " độc " cho lần sinh nhật thứ 11 của Maddox</s>
+</spair>
+<spair id='82'>
+<s id='en82'>When Maddox turned 11 , he did not get an electronic gadget or other item some 11-year-old boys would jump for joy over , Maddox got a Suzuki DRZ-125 motorbike .</s>
+<s id='vn82'>Khi Maddox bước sang tuổi 11 , cậu quý tử nhà Brad Pitt đã không nhận được những thiết bị điện tử hay những món đồ khác mà một cậu bé 11 tuổi sẽ nhảy dựng lên vì sung sướng , thay vào đó Maddox sẽ được nhận một chiếc Suzuki DRZ-125 .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>The motorbike purchase was confirmed to E! News by the manufacturer .</s>
+<s id='vn83'>Hãng sản xuất xe máy này đã xác nhận trên E! News về việc mua bán này .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>A source close to the family says , " He wants the boys to be able to ride them on private land .</s>
+<s id='vn84'>Một nguồn tin thận cận với gia đình cho biết " Anh ấy muốn những đứa trẻ của mình điều khiển chiếc xe trên khu đất riêng .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>It 'll be a fun thing for them to do , and obviously he has a real passion for bikes " .</s>
+<s id='vn85'>Đây sẽ là điều rất thú vị , và rõ ràng anh ấy thật sự thích thú với chiếc xe " .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>The bike is made for the youth market and has a top speed of 50 miles per hour .</s>
+<s id='vn86'>Đây là mẫu xe được thiết kế dành cho giới trẻ với tốc độ tối đa 50dặm/giờ .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Some critics may give Brad a hard time for buying a potentially dangerous toy for an 11 year old .</s>
+<s id='vn87'>Một vài nhà phê bình có thể khiến Brad gặp " khó " khi mua một món đồ chơi nguy hiểm cho một cậu bé 11 tuổi .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>I however , think that Angelina and Brad have made their children a top priority in their lives and am confident that all the important safety measures will be followed .</s>
+<s id='vn88'>Tuy nhiên , tôi cho rằng Angelina và Brad luôn đặt những đứa trẻ của mình lên hàng đầu trong cuộc sống của họ và tự tin rằng tất cả những biện pháp an toàn cần thiết sẽ được đảm bảo .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>So , would you buy your 11 year old a motorbike or other " dangerous " toy ?</s>
+<s id='vn89'>Vậy , bạn sẽ mua tặng đứa con 11 tuổi của mình một chiếc xe máy hay một món đồ chơi " nguy hiểm " chứ ?</s>
+</spair>
+<spair id='90'>
+<s id='en90'>3 . Tobacco health warnings around the world</s>
+<s id='vn90'>3 . Cảnh báo sức khỏe đối với thuốc lá trên toàn thế giới</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Health officials around the world hailed the decision by Australia 's high court , which stubbed out claims by tobacco companies that the packaging of cigarettes without branding was unconstitutional .</s>
+<s id='vn91'>Các quan chức y tế trên khắp thế giới đã hưởng ứng quyết định đưa ra bởi tòa án tối cao của Úc nhằm dập tắt các cáo buộc của các công ty thuốc lá về việc đóng gói thuốc lá mà không kèm nhãn hiệu là sai hiến pháp .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>The Australian decision raises the hopes of anti-tobacco forces of similar moves in other nations .</s>
+<s id='vn92'>Quyết định của tòa án Úc làm dấy lên hi vọng về tác động của việc chống hút thuốc lá đối với các quốc gia khác .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>" We are elated with this victory , " said Bungon Ritthiphakdee , director of the Southeast Asia Tobacco Control Alliance .</s>
+<s id='vn93'>" Chúng ta tự hào về chiến thắng này , " Ông Bungon Ritthiphakdee , giám đốc Hiệp hội kiểm soát thuốc lá Đông Nam Á cho biết .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>" We also draw inspiration from the Australian government for standing up against the challenges from the tobacco industry for trying to block this move -- and winning .</s>
+<s id='vn94'>" Chúng ta cũng cần đưa cảm hứng từ quyết định của chính phủ Úc để đứng lên chống lại thách thức của ngành công nghiệp thuốc lá nhằm cố gắng chống lại những thành công mới này – và chiến thắng .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>This win for Australia prepares the path for the ASEAN ( Association of Southeast Asian Nations ) . "</s>
+<s id='vn95'>Chiến thắng này giúp định hướng đi cho ASEAN ( Hiệp hội các quốc gia Đông Nam Á ) .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>" With Australia 's victory , public health enters a brave new world of tobacco control , " said Dr. Margaret Chan , director-general of the World Health Organization .</s>
+<s id='vn96'>Giáo sư Margaret Chan , Tổng giám đốc Tổ chức Y tế Thế giới cho biết " Với chiến thắng của Úc , sức khỏe cộng đồng đang đang bước chân vào một thế giới mới tốt đẹp của sự kiểm soát thuốc lá " .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Tobacco products in Australia must be in plain packaging without logos and have graphic health warnings as of December 1 .</s>
+<s id='vn97'>Sản phẩm thuốc lá tại Úc phải được đóng gói trong bao bì trống không có logo và có những hình ảnh cảnh bảo sức khỏe từ ngày mùng 1 tháng 12 .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>It 's the latest move in a global trend toward packing that shows diseased organs , dying patients , skin lesions or other medical maladies caused by smoking .</s>
+<s id='vn98'>Đây là những động thái mới nhất trong xu hướng toàn cầu hướng tới việc bao bì với những hình ảnh chỉ ra các bộ phận cơ thể người bị bệnh , nạn nhân tử vong , tổn thương da hoặc các bệnh khác có liên quan tới việc hút thuốc lá .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Canada was the first nation to pass legislation requiring a graphic health warning in 2001 - 41 nations have since followed suit .</s>
+<s id='vn99'>Canada là quốc gia đầu tiên thông qua luật pháp yêu cầu hình ảnh cảnh báo sức khỏe vào năm 2001 - có tới 41 quốc gia áp dụng luật này kể từ đó .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Canada and 18 other nations require at least 50 % of the packaging to contain health warnings .</s>
+<s id='vn100'>Canada và 18 quốc gia yêu cầu ít nhất 50% bao bì phải chứa những cảnh báo sức khỏe .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Until the Australian decision , the nation that required the most prominent warning was Uruguay , where 80 % of packages contain graphic health advisories .</s>
+<s id='vn101'>Cho tới khi quyết định của tòa án Úc , quốc gia yêu cầu việc cảnh báo sức khỏe nổi bất nhất là Uruguay , yêu cầu 80% bao bì cần chứa những khuyến cáo về sức khỏe .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Tobacco companies said the Australian ruling -- which would eliminate iconic branding from appearing on the package - would raise the amount of counterfeit products on the market , eroding government taxes collected on tobacco .</s>
+<s id='vn102'>Các công ty thuốc lá cho rằng phán quyết của tòa án Úc sẽ loại bỏ việc quảng bá thương hiệu thông qua hình ảnh xuất hiện trên bao bì - sẽ tăng cao các sản phẩm giả trên thị trường , sẽ cắt giảm thu nhập từ thuế của chính phủ đối với thuốc lá .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Last year the United States unveiled nine graphic health warning labels that must cover half the area of cigarette packages by this September .</s>
+<s id='vn103'>Năm ngoái , Hoa Kỳ cũng đã đưa ra 9 nhãn cảnh báo sức khỏe cần được phủ kín một nữa bao bì đóng gói thuốc là từ tháng 9 .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>4 . commercial Banking - What Banks Do</s>
+<s id='vn104'>4 . Chức năng của Ngân hàng thương mại</s>
+</spair>
+<spair id='105'>
+<s id='en105'>An illustration of this very basic concept can be found in the old " 3-6-3 Rule , " a tongue-in-cheek " rule " that said a banker would pay out 3 % for deposits , charge 6 % for loans and hit the golf course by 3 p.m.</s>
+<s id='vn105'>Một minh hoạ cho khái niệm rất cơ bản này là quy tắc cũ " quy tắc 3-6-3 " , một " quy tắc " có tính mỉa mai , rằng chủ ngân hàng sẽ trả lãi 3% tiền gửi , tính lãi 6% tiền cho vay và đi đánh gôn lúc 3 giờ chiều .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Accept Deposits / Make Loans</s>
+<s id='vn106'>Nhận tiền gửi / Cho vay</s>
+</spair>
+<spair id='107'>
+<s id='en107'>At the most basic level , what banks do is fairly simple .</s>
+<s id='vn107'>Ở mức cơ bản nhất , chức năng của ngân hàng tương đối đơn giản .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Banks accept deposits from customers , raise capital from investors or lenders , and then use that money to make loans , buy securities and provide other financial services to customers .</s>
+<s id='vn108'>Ngân hàng nhận tiền gửi của khách hàng , huy động vốn từ nhà đầu tư hoặc người cho vay , và sau đó dùng số tiền ấy cho vay , mua chứng khoán và cung cấp các dịch vụ tài chính khác cho khách hàng .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>These loans are then used by people and businesses to buy goods or expand business operations , which in turn leads to more deposited funds that make their way to banks .</s>
+<s id='vn109'>Rồi thì những khoản vay này được mọi người hoặc các doanh nghiệp dùng để mua hàng hoá hay mở rộng hoạt động kinh doanh , sau đó dẫn đến việc có nhiều tiền gửi hơn vào ngân hàng .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>If banks can lend money at a higher interest rate than they have to pay for funds and operating costs , they make money .</s>
+<s id='vn110'>Nếu ngân hàng có thể cho vay với lãi suất cao hơn mức họ phải trả vốn và chi phí hoạt động , thì ngân hàng kiếm được tiền .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>An illustration of this very basic concept can be found in the old " 3-6-3 Rule , " a tongue-in-cheek " rule " that said a banker would pay out 3 % for deposits , charge 6 % for loans and hit the golf course by 3 p.m.</s>
+<s id='vn111'>Minh hoạ cho khái niệm rất cơ bản này là " quy tắc " 3-6-3 trước đây , một " quy tắc " có tính mỉa mai , rằng chủ ngân hàng sẽ trả lãi 3% tiền gửi , tính lãi 6% tiền cho vay và đi đánh gôn lúc 3 giờ chiều .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Provide Safety</s>
+<s id='vn112'>Cung cấp sự an toàn</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Banks also provide security and convenience to their customers .</s>
+<s id='vn113'>Ngân hàng còn cung cấp sự thuận tiện và an toàn cho khách hàng của mình .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Part of the original purpose of banks , and the goldsmiths that predated them , was to offer customers safe keeping for their money .</s>
+<s id='vn114'>Nhiệm vụ hướng đến đầu tiên của ngân hàng , và những người thợ kim hoàn xuất hiện trước họ , là đảm bảo sự an toàn cho tiền gửi của khách hàng .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Of course , this was back in a time when a person 's wealth consisted of actual gold and silver coins , but to a large extent this function is still relevant .</s>
+<s id='vn115'>Dĩ nhiên , chuyện này xảy ra vào thời mà tài sản của một người nào đó là những đồng tiền vàng và bạc thực sự , nhưng trong một chừng mực nhất định , chức năng này ngày nay vẫn còn ít nhiều .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>By keeping physical cash at home , or in a wallet , there are risks of loss due to theft and accidents , not to mention the loss of possible income from interest .</s>
+<s id='vn116'>Việc giữ tiền mặt ở nhà , hoặc trong ví , có nhiều rủi ro như bị mất trộm hay tai nạn , chưa kể mất thu nhập có thể có từ tiền lãi .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>With banks , consumers no longer need to keep large amounts of currency on hand ; transactions can be handled with checks , debit cards or credit cards , instead .</s>
+<s id='vn117'>Gửi ngân hàng , khách hàng không cần phải giữ số lượng tiền mặt lớn trong tay nữa ; thay vào đó , có thể xử lý các giao dịch bằng chi phiếu , thẻ tín dụng hay thẻ ghi nợ .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>While banks do not keep gold or silver bullion as currency on hand anymore , many , if not most , banks still maintain vaults and will rent out space to customers , in the form of safe deposit boxes .</s>
+<s id='vn118'>Khi mà các ngân hàng không giữ vàng bạc nén như là tiền tệ sẵn có nữa thì nhiều ngân hàng , nếu không muốn nói là hầu hết , vẫn còn những hầm an toàn và sẽ cho khách hàng thuê không gian , dưới dạng những hộp ký thác an toàn .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>This allows customers to keep precious or irreplaceable items in a secure setting and gives the bank an opportunity to earn a little extra money , without risk to its capital .</s>
+<s id='vn119'>Việc này cho phép khách hàng giữ tài sản quý giá hoặc những thứ không thể thay thế được ở nơi an toàn và cho ngân hàng cơ hội kiếm thêm ít tiền mà không có rủi ro với vốn của mình .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Act as Payment Agents</s>
+<s id='vn120'>Làm trung gian thanh toán</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Banks also serve often under-appreciated roles as payment agents within a country and between nations .</s>
+<s id='vn121'>Ngân hàng còn đảm nhiệm những vai trò thường không được đánh giá đúng mức như làm trung gian thanh toán trong phạm vi một quốc gia và giữa các quốc gia .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Not only do banks issue debit cards that allow account holders to pay for goods with the swipe of a card , they can also arrange wire transfers with other institutions .</s>
+<s id='vn122'>Ngân hàng không chỉ phát hành thẻ ghi nợ để chủ tài khoản trả tiền mua hàng bằng việc quét nhận dạng thẻ , họ còn có thể thực hiện các giao dịch chuyển khoản qua điện thoại hay hệ thống điện tử với các tổ chức khác .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Banks essentially underwrite financial transactions by lending their reputation and credibility to the transaction ; a check is basically just a promissory note between two people , but without a bank 's name and information on that note , no merchant would accept it .</s>
+<s id='vn123'>Về cơ bản ngân hàng bảo lãnh các giao dịch tài chính bằng cách làm cho giao dịch thêm uy tín và có danh tiếng ; thực chất một chi phiếu chỉ là một giấy nợ giữa hai người , nhưng nếu không có tên và thông tin của ngân hàng trên cái phiếu đó thì không thương buôn nào chấp nhận nó cả .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>As payment agents , banks make commercial transactions much more convenient ; it is not necessary to carry around large amounts of physical currency when merchants will accept the checks , debit cards or credit cards that banks provide .</s>
+<s id='vn124'>Với vai trò trung gian thanh toán , ngân hàng làm cho các giao dịch thương mại trở nên tiện lợi hơn nhiều ; không nhất thiết phải mang theo nhiều tiền mặt đi khắp nơi khi các thương buôn sẽ chấp nhận những chi phiếu , thẻ ghi nợ hay thẻ tín dụng do ngân hàng cung cấp .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>5 . Youth urged to help preserve heritage sites</s>
+<s id='vn125'>5 - Thế hệ trẻ kêu gọi bảo tồn di sản thế giới</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Images of spectacular world heritage sites beguiled Ha Noi ninth grader Nguyen Thu Ha and other students from Trung Vuong , Lomonosov , Hai Boi and Dong Hoi High Schools who attended the interactive UNESCO World Heritage Eco-Learning Programme at Thang Long Citadel on Thursday and Friday .</s>
+<s id='vn126'>Hình ảnh của các di sản thế giới đã làm say mê Nguyễn Thu Hà - một học sinh lớp 9 tại Hà Nội cũng như những em học sinh khác đến từ các trường trung học cơ sở Trưng Vương , Lômônôxốp , Hải Bối và Đông Hội khi tham dự chương trình Giáo dục môi trường - Di sản thế giới UNESCO tổ chức tại Hoàng thành Thăng Long hôm thứ năm và thứ sáu vừa qua .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Instantly , however , the students also learnt that many of these natural and cultural treasures were also suffering from environmental degradation .</s>
+<s id='vn127'>Tuy nhiên , các em cũng học được rằng nhiều trong số các di sản thiên nhiên văn hóa đang phải chịu tác động của môi trường suy thoái .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>During a question-and-answer session , the students became excited to discuss ways to deal with pollution at the sites .</s>
+<s id='vn128'>Trong suốt phần thảo luận của chương trình , các em học sinh trở nên hào hứng khi trao đổi về những biện pháp giải quyết vấn đề ô nhiễm môi trường tại các khu vực này .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Ha , a student at Dong Hoi High School in the outlying district of Dong Anh , said .</s>
+<s id='vn129'>Hà – một học sinh trường THCS Đông Hội thuộc huyện ngoại thành Đông Anh Hà Nội , phát biểu :</s>
+</spair>
+<spair id='130'>
+<s id='en130'>" The earth is warming and it is our responsbility to protect the living environment , "</s>
+<s id='vn130'>" Trái đất đang nóng lên và trách nhiệm của chúng ta là phải bảo vệ môi trường sống " .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>" My classmates will mobilise the masses to make our environment green and clean .</s>
+<s id='vn131'>" Em và các bạn cùng lớp sẽ vận động người dân làm cho môi trường của chúng ta xanh sạch đẹp .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>We will collect rubbish and plant trees at our schools .</s>
+<s id='vn132'>Chúng em sẽ thu gom rác và trồng thật nhiều cây xanh ở trường học " .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>UNESCO Representative in Viet Nam Katherine Muller Marin told the gathering that natural and cultural heritage sites were suffering from different kinds of environmental effects .</s>
+<s id='vn133'>Đại diện UNESCO tại Việt Nam – bà Katherine Muller Marin cho biết các di sản thiên nhiên và văn hóa đang phải chịu nhiều tác động khác nhau của môi trường .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>" Much of the damage to the environment could be avoided , especially in countries like Viet Nam , since the heritage sites have been a resource for development and a motto for tourism development for many years ," said Muller-Marin .</s>
+<s id='vn134'>Bà Muller Marin cho biết " Phần lớn những thiệt hại từ môi trường có thể tránh được , đặc biệt là ở những quốc gia như Việt Nam , bởi khu vực di sản là một nguồn lực để phát triển cùng với phương châm phát triển du lịch trong nhiều năm " .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>" We need to change the way we deal with heritage sites " .</s>
+<s id='vn135'>" Chúng ta cần thay đổi cách đối xử với những di sản thế giới " .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>" We are working with authorities and local people at the sites , and we need to get all children on board .</s>
+<s id='vn136'>" Chúng tôi đang làm việc với chính quyền và người dân dịa phương nơi có các di sản thế giới và chúng tôi cần sự tham gia của tất cả trẻ em .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>If 100 per cent of Vietnamese children were committed to protecting the environment and their heritage , the country 's future development would be guaranteed . "</s>
+<s id='vn137'>Nếu 100% trẻ em Việt Nam cam kết bảo vệ môi trường và các di sản , sự phát triển của đất nước trong tương lai sẽ được đảm bảo . "</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Young people were great agents of peace and national development and were the country 's future leaders , she said .</s>
+<s id='vn138'>Bà cho biết , thế hệ trẻ là đại diện của hòa bình và sự phát triển quốc gia , họ cũng là những chủ nhân tương lai của đất nước .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>" That 's why UNESCO encourages young people to participate in heritage conservation and to respond to the continuing threats facing our heritage . "</s>
+<s id='vn139'>" Đó là lý do tại sao UNESCO khuyến khích thế hệ trẻ tham gia bảo tồn di sản thế giới và ứng phó với những mối hiểm họa đang tiếp tục đe dọa các di sản " .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Nguyen Van Son , the director of the Co Loa , Ha Noi Ancient Citadel Vestige Preservation Centre , said he hoped the young people had an interesting experience discovering the thousand-year history of Thang Long , Ha Noi and enjoying the green space of the site .</s>
+<s id='vn140'>Ông Nguyễn Văn Sơn – Giám đốc Trung tâm bảo tồn khu di tích Cổ Loa – Thành cổ Hà Nội hy vọng các bạn trẻ đã có một trải nghiệm thú vị khi khám phá lịch sử ngàn năm tuổi của Thăng Long – Hà Nội và thưởng thức không gian xanh của di sản này .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>" You are the future owners of our country , the next generation to protect this sacred vestige , so I hope that right now all of you will come here and , with practical efforts , contribute in protecting this site and its green spaces for future generations , " Son said .</s>
+<s id='vn141'>" Các em là những chủ nhân tương lai của đất nước , là thế hệ tiếp theo bảo vệ di tích thiêng liêng này , vì vậy tôi mong rằng ngay lúc này , tất cả các em hãy tới đây , với những đóng góp thiết thực , góp phần bảo vệ di sản và không gian xanh cho những thế hệ tương lai " .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,396 @@
+﻿<doc id='N0448'>
+<head>
+<title>Obama 's victory speech</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Obama 's victory speech</s>
+<s id='vn1'>Diễn văn chiến thắng của Obama</s>
+</spair>
+<spair id='2'>
+<s id='en2'>CHANGE HAS COME</s>
+<s id='vn2'>Thay đổi đã đến</s>
+</spair>
+<spair id='3'>
+<s id='en3'>If there is anyone out there who still doubts that America is a place where all things are possible ; who still wonders if the dream of our founders is alive in our time ; who still questions the power of our democracy , tonight is your answer .</s>
+<s id='vn3'>Nếu có ai ngoài kia còn nghi ngờ rằng Mỹ là một nơi mọi thứ đều có thể xảy ra ; còn tự hỏi liệu giấc mơ của người sáng lập vẫn tồn tại trong thời đại của chúng tôi ; người vẫn còn nghi ngờ về sức mạnh của dân chủ của chúng tôi , đêm nay sẽ là câu trả lời cho bạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It 's the answer told by lines that stretched around schools and churches in numbers this nation has never seen ; by people who waited three hours and four hours , many for the very first time in their lives , because they believed that this time must be different ; that their voices could be that difference .</s>
+<s id='vn4'>Đây là câu trả lời được nói lên bởi dòng người kéo dài quanh nhà thờ và trường học ở số quốc gia này chưa từng thấy ; bởi những người chờ đợi ba tiếng đồng hồ và bốn tiếng đồng hồ , nhiều chính lần đầu tiên trong đời của họ , vì họ tin rằng lần này hẳn sẽ khác ; đó tiếng nói của họ có thể là sự khác biệt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It 's the answer spoken by young and old , rich and poor , Democrat and Republican , black , white , Hispanic , Asian , Native American , gay , straight , disabled and not disabled - Americans who sent a message to the world that we have never been just a collection of individuals or a collection of Red States and Blue States : we are , and always will be , the United States of America .</s>
+<s id='vn5'>Đây là câu trả lời được nói lên bởi già trẻ lớn bé , giàu và nghèo , cộng hoà và người theo chế độ dân chủ , đen , trắng , Tây Ban Nha , châu Á , người dân Mỹ bản địa , đồng tình luyến ái , dị tính luyến ái , tàn tật và không tàn tật - người Mỹ người gởi một thông điệp đến thế giới chúng ta không chỉ là tập hợp các cá nhân hoặc một tập hợp các Blue States và Red States : chúng ta là và sẽ mãi mãi là , Hợp chủng quốc Hoa Kỳ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's the answer that led those who have been told for so long by so many to be cynical , and fearful , and doubtful of what we can achieve to put their hands on the arc of history and bend it once more toward the hope of a better day .</s>
+<s id='vn6'>Đây là câu trả lời sẽ đưa những ai bị bảo là lâu như thế bởi khá nhiều hãy yếm thế , và đáng sợ , và nghi ngờ những gì chúng ta có thể đạt được đặt tay của họ trên bánh xe lịch sử và một lần nữa lái nó về phía hy vọng của một ngày mai tốt đẹp hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It 's been a long time coming , but tonight , because of what we did on this day , in this election , at this defining moment , change has come to America .</s>
+<s id='vn7'>Mong đợi đã rất lâu rồi , nhưng đêm nay , vì những gì chúng tôi đã làm hôm nay , trong cuộc bầu cử này , vào đúng thời điểm này , đổi thay đã đến với Hoa Kỳ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>PARTNERS IN THE JOURNEY</s>
+<s id='vn8'>Bạn đồng hành trong cuộc hành trình</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A little bit earlier this evening I received an extraordinarily gracious call from Senator McCain .</s>
+<s id='vn9'>Lúc đầu hôm tôi nhận được gọi hoà nhã lạ thường từ Thượng nghị sĩ McCain .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>He fought long and hard in this campaign , and he 's fought even longer and harder for the country he loves .</s>
+<s id='vn10'>Anh ấy chiến đấu dài vất vả trong cuộc vận động này , và anh ấy đã chiến đấu thậm chí dài hơn và tốt hơn cho quốc gia anh ấy yêu .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He has endured sacrifices for America that most of us cannot begin to imagine .</s>
+<s id='vn11'>Anh ấy đã cam chịu hy sinh vì America mà hầu hết chúng ta không thể tưởng tượng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>We are better off for the service rendered by this brave and selfless leader .</s>
+<s id='vn12'>Chúng tôi được hưởng điều tốt đẹp nhờ vào dịch vụ cung cấp bởi nhà lãnh đạo dũng cảm và vị tha này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>I congratulate him , I congratulate Governor Palin , for all they have achieved , and I look forward to working with them to renew this nation 's promise in the months ahead .</s>
+<s id='vn13'>Tôi chúc mừng anh ấy , tôi chúc mừng thống đốc Palin , vì mọi điều họ đã đạt được , và tôi mong được làm việc với họ để đổi mới triển vọng của đất nước này trong tháng tới .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>I want to thank my partner in this journey , a man who campaigned from his heart and spoke for the men and women he grew up with on the streets of Scranton and rode with on that train home to Delaware , the vice-president-elect of the United States , Joe Biden .</s>
+<s id='vn14'>Tôi muốn cảm ơn đối tác của tôi trong cuộc hành trình này , người đàn ông tham gia vận động với cả trái tim và đã lên tiếng vì tất cả mọi người anh ấy đã cùng lớn lên trên phố xá Scranton và cùng đi trên đó chuyến tàu về quê Delaware , phó tổng thống đắc cử của Mỹ , Joe Biden .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>And I would not be standing here tonight without the unyielding support of my best friend for the last 16 years , the rock of our family , the love of my life , the nation 's next first lady , Michelle Obama .</s>
+<s id='vn15'>Và tôi sẽ không đứng được nơi đây đêm nay nếu không có sự ủng hộ kiên định của bạn thân nhất của tôi trong suốt 16 năm qua , chỗ dựa của gia đình của chúng tôi , người yêu quý trong đời của tôi , đệ nhất phu nhân tương lai của đất nước , Michelle Obama .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Sasha and Malia , I love you both more than you can imagine , and you have earned the new puppy that 's coming with us to the White House .</s>
+<s id='vn16'>Sasha và Malia , tôi yêu bạn cả hai hơn bạn có thể tưởng tượng , và bạn xứng đáng có chú cún mới đó là cùng đi với chúng tôi đến Nhà Trắng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And while she 's no longer with us , I know my grandmother is watching , along with the family that made me .</s>
+<s id='vn17'>Và dù cô ấy không còn ở cùng chúng tôi , tôi biết bà của tôi đang theo dõi , cùng với gia đình đã sinh ra tôi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>I miss them tonight , and know that my debt to them is beyond measure .</s>
+<s id='vn18'>Tôi nhớ họ đêm nay , và biết rằng món nợ đối với họ là không thể nào trả nổi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>To my sister Maya , my sister Auma , all my other brothers and sisters - thank you so much for all the support you have given me .</s>
+<s id='vn19'>Để thế giới vật chất tri giác được Maya của tôi , Auma của tôi , tất cả anh em khác của tôi - cảm ơn rất nhiều mọi hỗ trợ bạn đã mang lại cho tôi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>I am grateful to them .</s>
+<s id='vn20'>Tôi rất biết ơn họ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>To my campaign manager David Plouffe , the unsung hero of this campaign , who built the best political campaign in the history of the United States of America .</s>
+<s id='vn21'>David Plouffe người chỉ đạo chiến dịch tranh cử của tôi , vị anh hùng thầm lặng của cuộc vận động này , người xây dựng cuộc vận động chính trị tốt nhất trong lịch sử của Hợp chủng quốc Hoa Kỳ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>My chief strategist David Axelrod , who has been a partner with me every step of the way , and to the best campaign team ever assembled in the history of politics - you made this happen , and I am forever grateful for what you 've sacrificed to get it done .</s>
+<s id='vn22'>David Axelrod nhà chiến lược tối cao của tôi , người đã từng là một người bạn đồng hành với tôi trên mọi bước đường , và nhóm vận động tranh cử tuyệt vời nhất từng đang tụ tập trong lịch sử chính trị - bạn làm điều này xảy ra , và tôi sẽ mãi mãi biết ơn về những gì bạn đã hi sinh để hoàn thành nó .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>VICTORY FOR THE PEOPLE</s>
+<s id='vn23'>Chiến thắng cho mọi người</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I was never the likeliest candidate for this office .</s>
+<s id='vn24'>Tôi đã không là ứng viên thích hợp nhất cho chức vụ này .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>We did n't start with much money or many endorsements .</s>
+<s id='vn25'>Chúng ta không bắt đầu với nhiều tiền hoặc nhiều sự ủng hộ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Our campaign was not hatched in the halls of Washington - it began in the backyards of Des Moines and the living rooms of Concord and the front porches of Charleston .</s>
+<s id='vn26'>Cuộc vận động của chúng tôi không được ấp ủ trong các đại sảnh của Washington - nó bắt đầu ở vườn sau của Des Moines và phòng khách của Concord và hiên nhà của Charleston .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It was built by working men and women who dug into what little savings they had to give $ 5 , $ 10 and $ 20 to the cause .</s>
+<s id='vn27'>Nó được xây dựng bởi những người dân lao động người moi móc những gì món tiền tiết kiệm ít ỏi họ phải quyên góp 5 đôla , 10 đôla và 20 đôla cho sự nghiệp này .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It grew strength from the young people who rejected the myth of their generation 's apathy .</s>
+<s id='vn28'>Nó tăng trưởng mạnh từ thanh niên người mà từ chối quan niệm sai lầm về tính thờ ơ của thế hệ của họ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Who left their homes and their families for jobs that offered little pay and less sleep .</s>
+<s id='vn29'>Người rời khỏi nhà của họ và gia đình của họ để làm những công việc lương thấp và ngủ ít .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>It grew strength from the not-so_young people who braved the bitter cold and scorching heat to knock on the doors of perfect strangers .</s>
+<s id='vn30'>Nó tăng trưởng mạnh từ không - cho nên - thanh niên người bất chấp đắng lạnh và nóng như đổ lửa sức nóng để gõ cửa của người hoàn toàn xa lạ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>From the millions of Americans who volunteered , and organised , and proved that more than two centuries later , a government of the people , by the people and for the people has not perished from the Earth .</s>
+<s id='vn31'>Từ có hàng triệu người Mỹ tình nguyện , và cuộc đụng độ dữ dội có tổ chức , và cho thấy hơn hai thế kỷ sau , một chính phủ của dân , do dân và vì dân chưa chết đi từ Trái Đất .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This is your victory .</s>
+<s id='vn32'>Đây là thắng lợi của bạn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>THE TASK AHEAD</s>
+<s id='vn33'>Nhiệm vụ trước mắt</s>
+</spair>
+<spair id='34'>
+<s id='en34'>I know you did n't do this just to win an election and I know you did n't do it for me .</s>
+<s id='vn34'>Tôi biết bạn không làm điều này chỉ để thắng bầu cử và tôi biết bạn không làm vì tôi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>You did it because you understand the enormity of the task that lies ahead .</s>
+<s id='vn35'>Bạn đã làm điều đó vì bạn hiểu tầm cỡ của nhiệm vụ mà đang nằm phía trước .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>For even as we celebrate tonight , we know the challenges that tomorrow will bring are the greatest of our lifetime - two wars , a planet in peril , the worst financial crisis in a century .</s>
+<s id='vn36'>Ngay lúc chúng tôi ăn mừng đêm nay , chúng tôi biết thách thức ngày mai sẽ mang lại những thứ lớn nhất trong quãng đời của chúng tôi - hai cuộc chiến , một hành tinh đang gặp hiểm hoạ , cuộc khủng hoảng tài chính tồi tệ nhất trong một thế kỷ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Even as we stand here tonight , we know there are brave Americans waking up in the deserts of Iraq and the mountains of Afghanistan to risk their lives for us .</s>
+<s id='vn37'>Ngay lúc chúng tôi đứng đây đêm nay , chúng tôi biết có những người con dũng cảm của nước Mỹ thức dậy trong những vùng sa mạc ở Iraq và những ngọn núi Afghanistan để liều thân mình vì chúng ta .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>There are mothers and fathers who will lie awake after their children fall asleep and wonder how they 'll make the mortgage , or pay their doctor 's bills , or save enough for their child 's college education .</s>
+<s id='vn38'>Có những người cha và người mẹ , người sẽ nằm thao thức sau khi con của họ ngủ thiếp đi và tự hỏi họ sẽ làm thế thân , hoặc trả hoá đơn của bác sĩ của họ , hoặc dành dụm tiền đủ cho con mình học đại học .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>There is new energy to harness and new jobs to be created ; new schools to build and threats to meet and alliances to repair .</s>
+<s id='vn39'>Có năng lượng mới để khai thác và công việc mới được tạo ra ; ở những trường mới để xây dựng và hiểm hoạ sẽ gặp phải và những liên minh cần phục hồi .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>REMAKING THE NATION</s>
+<s id='vn40'>Làm thay đổi đất nước</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The road ahead will be long .</s>
+<s id='vn41'>Con đường phía trước sẽ dài .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Our climb will be steep .</s>
+<s id='vn42'>Leo trèo của chúng tôi sẽ rất dốc .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We may not get there in one year or even in one term , but America - I have never been more hopeful than I am tonight that we will get there .</s>
+<s id='vn43'>Chúng ta có thể không đến đó trong một năm hoặc thậm chí trong một nhiệm kỳ , nhưng Hoa Kỳ - tôi chưa bao giờ tràn trề hy vọng như tôi trong đêm nay chúng tôi sẽ đến đó .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>I promise you - we as a people will get there .</s>
+<s id='vn44'>Tôi hứa với bạn - chúng ta , cả dân tộc sẽ đến đó .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>There will be setbacks and false starts .</s>
+<s id='vn45'>Sẽ có sự thất bại và khởi đầu sai lầm .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>There are many who wo n't agree with every decision or policy I make as president , and we know that government ca n't solve every problem .</s>
+<s id='vn46'>Có nhiều người sẽ không đồng ý với mọi chính sách hoặc quyết định tôi làm như tổng thống , và chúng tôi biết là chính phủ không thể giải quyết mọi vấn đề .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>But I will always be honest with you about the challenges we face .</s>
+<s id='vn47'>Nhưng tôi sẽ luôn trung thực với bạn về thách thức chúng ta đối mặt .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>I will listen to you , especially when we disagree .</s>
+<s id='vn48'>Tôi sẽ lắng nghe bạn , nhất là khi chúng tôi không đồng ý .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>And above all , I will ask you to join in the work of remaking this nation the only way it 's been done in America for 221 years - block by block , brick by brick , calloused hand by calloused hand .</s>
+<s id='vn49'>Và quan trọng hơn hết , tôi sẽ yêu cầu bạn chung tay làm công việc làm thay đổi đất nước này chỉ cách nó được làm ở Mỹ trong 221 năm - từng góc phố , từng viên gạch , từng bàn tay chai sạm .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>ONE NATION , ONE PEOPLE</s>
+<s id='vn50'>Đất nước ta là một , dân tộc ta là một</s>
+</spair>
+<spair id='51'>
+<s id='en51'>What began 21 months ago in the depths of winter cannot end on this autumn night .</s>
+<s id='vn51'>Những gì bắt đầu 21 tháng trước đây trong cuối đông không thể chấm dứt vào đêm mùa thu này .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>This victory alone is not the change we seek - it is only the chance for us to make that change .</s>
+<s id='vn52'>Thắng lợi riêng này không là thay đổi chúng tôi mong đợi - đây chỉ là cơ hội cho chúng tôi để thực hiện thay đổi đó .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>And that cannot happen if we go back to the way things were .</s>
+<s id='vn53'>Và nó không thể xảy ra nếu chúng ta trở lại con đường cũ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>It cannot happen without you , without a new spirit of service , a new spirit of sacrifice .</s>
+<s id='vn54'>Nó không thể xảy ra nếu không có bạn , không có tinh thần phục vụ mới , tinh thần hy sinh mới .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>So let us summon a new spirit of patriotism ; of service and responsibility where each of us resolves to pitch in and work harder and look after not only ourselves , but each other .</s>
+<s id='vn55'>Vậy là chúng ta hãy triệu tập một tinh thần yêu nước mới ; về trách nhiệm và dịch vụ nơi mỗi chúng ta quyết định để trợ giúp và làm việc chăm chỉ hơn và chăm sóc không chỉ cho mình , mà cho nhau .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Let us remember that if this financial crisis taught us anything , it 's that we cannot have a thriving Wall Street while Main Street suffers - in this country , we rise or fall as one nation ; as one people .</s>
+<s id='vn56'>Chúng ta hãy nhớ rằng nếu cuộc khủng hoảng tài chính này đã dạy cho chúng ta được điều gì , đó chính là chúng ta không thể có Phố Wall thịnh vượng trong khi Main Street chịu thiệt hại - trong quốc gia này , chúng ta đi lên hoặc đi xuống như một đất nước thống nhất ; như một dân tộc thống nhất .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Let us resist the temptation to fall back on the same partisanship and pettiness and immaturity that has poisoned our politics for so long .</s>
+<s id='vn57'>Chúng ta hãy cưỡng lại lòng mong muốn để cầu viện đến sự non nớt , nhỏ nhen và cùng tính phe đảng đó đã đầu độc hoạt động chính trị của chúng ta lâu như thế .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Let us remember that it was a man from this state who first carried the banner of the Republican Party to the White House - a party founded on the values of self-reliance , individual liberty , and national unity .</s>
+<s id='vn58'>Chúng ta hãy nhớ rằng chính một người từ bang này là người đầu tiên mang biểu ngữ của Republican Party vào Nhà Trắng - đảng được xây dựng trên giá trị của tự lực , tự do cá nhân , và thống nhất đất nước .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Those are values that we all share , and while the Democratic Party has won a great victory tonight , we do so with a measure of humility and determination to heal the divides that have held back our progress .</s>
+<s id='vn59'>Đó là giá trị tất cả chúng tôi cùng chia sẻ , và trong khi Đảng Dân chủ đã giành được thắng lợi lớn đêm nay , chúng tôi làm như thế với một biện pháp khiêm tốn và quyết tâm hàn gắn sự chia rẽ đó đã kềm hãm sự phát triển của chúng tôi .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>As Lincoln said to a nation far more divided than ours : " We are not enemies , but friends … though passion may have strained it must not break our bonds of affection . "</s>
+<s id='vn60'>Như Lincoln đã nói với một quốc gia chia rẽ nhiều hơn của chúng tôi : " chúng tôi không phải là kẻ thù , mà là bạn bè dù sự cuồng nhiệt có thể làm căng thẳng nó không được phá vỡ sự gắn bó của chúng tôi . "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>And to those Americans whose support I have yet to earn - I may not have won your vote tonight , but I hear your voices , I need your help , and I will be your president too .</s>
+<s id='vn61'>Và gởi đến những người Mỹ mà tôi chưa tranh thủ được ủng hộ - tôi không thể có thắng bỏ phiếu của bạn đêm nay , nhưng tôi lắng nghe ý kiến của bạn , tôi cần bạn giúp , và tôi cũng sẽ là tổng thống của bạn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>AMERICA IN THE WORLD</s>
+<s id='vn62'>Hoa Kỳ trên thế giới</s>
+</spair>
+<spair id='63'>
+<s id='en63'>And to all those watching tonight from beyond our shores , from parliaments and palaces to those who are huddled around radios in the forgotten corners of the world - our stories are singular , but our destiny is shared , and a new dawn of American leadership is at hand .</s>
+<s id='vn63'>Và đến những ai đang theo dõi đêm nay từ bên kia bờ đại dương , từ Quốc hội và cung điện đến những ai đang túm tụm quanh ra-đi-ô trong những góc bị quên lãng của thế giới - câu chuyện của chúng tôi khác nhau , nhưng số phận của chúng tôi bị phân chia , và một sự khởi đầu mới của lãnh đạo Mỹ đến trong tầm tay .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>To those who would tear the world down - we will defeat you .</s>
+<s id='vn64'>Đến những ai sẽ phá hủy thế giới - chúng tôi sẽ đánh bại bạn .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>To those who seek peace and security - we support you .</s>
+<s id='vn65'>Đến những ai tìm kiếm hoà bình và an ninh - chúng tôi hỗ trợ bạn .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>And to all those who have wondered if America 's beacon still burns as bright - tonight we proved once more that the true strength of our nation comes not from the might of our arms or the scale of our wealth , but from the enduring power of our ideals : democracy , liberty , opportunity and unyielding hope .</s>
+<s id='vn66'>Và tất cả những người có tự hỏi liệu đèn hiệu của America vẫn cháy sáng - đêm nay chúng tôi chứng minh một lần nữa đó sức mạnh thực sự của quốc gia của chúng tôi không đến từ sức mạnh của vũ khí hoặc mức độ giàu có của chúng tôi , nhưng từ sức bền bỉ của những lý tưởng của chúng tôi : dân chủ , tự do , cơ hội và niềm hy vọng kiên định .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>For that is the true genius of America - that America can change .</s>
+<s id='vn67'>Vì đó là tài năng thực sự của Hoa Kỳ - đó America có thể thay đổi .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Our union can be perfected .</s>
+<s id='vn68'>Sự đoàn kết của chúng tôi có thể hoàn thiện .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>And what we have already achieved gives us hope for what we can and must achieve tomorrow .</s>
+<s id='vn69'>Và những gì chúng ta đã đạt được rồi cho chúng ta hy vọng những gì chúng ta có thể và phải đạt được ngày mai .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>A HISTORY OF STRUGGLE</s>
+<s id='vn70'>Lịch sử của cuộc đấu tranh</s>
+</spair>
+<spair id='71'>
+<s id='en71'>This election had many firsts and many stories that will be told for generations .</s>
+<s id='vn71'>Cuộc bầu cử này có nhiều cái nhất và nhiều câu chuyện đó sẽ được kể lại cho bao thế hệ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>But one that 's on my mind tonight is about a woman who cast her ballot in Atlanta .</s>
+<s id='vn72'>Nhưng một điều làm tôi nghĩ đến đêm nay là về người phụ nữ bỏ phiếu ở Atlanta .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>She 's a lot like the millions of others who stood in line to make their voice heard in this election except for one thing - Ann Nixon Cooper is 106 years old .</s>
+<s id='vn73'>Cô ấy cũng giống như hàng triệu người khác người đứng xếp hàng để làm giọng nói của họ nghe trong cuộc bầu cử này ngoại trừ vì một lý do - Ann Nixon Cooper là 106 tuổi .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>She was born just a generation past slavery ; a time when there were no cars on the road or planes in the sky ; when someone like her could n't vote for two reasons - because she was a woman and because of the colour of her skin .</s>
+<s id='vn74'>Cô ấy được sinh ra qua cảnh nô lệ chỉ một thế hệ ; lúc mà không có xe hơi trên máy bay hay con đường trên trời ; khi những người như cô ấy không thể bỏ phiếu cho hai lý do - bởi vì cô ấy là một phụ nữ và vì màu của da cô ấy .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>And tonight , I think about all that she 's seen throughout her century in America - the heartache and the hope ; the struggle and the progress ; the times we were told that we ca n't , and the people who pressed on with that American creed : Yes , we can .</s>
+<s id='vn75'>Và đêm nay , tôi nghĩ về tất cả rằng cô ấy là xem trong suốt thế kỷ cô ấy ở Mỹ - đau khổ và hy vọng ; cuộc đấu tranh và tiến bộ ; những lần chúng ta được bảo rằng chúng ta không thể , và người đã kiên trì với tín ngưỡng Mỹ đó : vâng , chúng ta có thể .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>At a time when women 's voices were silenced and their hopes dismissed , she lived to see them stand up and speak out and reach for the ballot .</s>
+<s id='vn76'>Tại thời điểm tiếng nói của phụ nữ bị bắt phải im lặng và hy vọng của họ bị từ chối , cô ấy sống để thấy chúng đứng lên và nói ra và được quyền đi bầu .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Yes , we can .</s>
+<s id='vn77'>Vâng , chúng ta có thế .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>When there was despair in the dust bowl and depression across the land , she saw a nation conquer fear itself with a New Deal , new jobs and a new sense of common purpose .</s>
+<s id='vn78'>Khi tuyệt vọng trong trầm cảm và vùng hạn hán có bão bụi ngang qua vùng đất , cô ấy đã thấy một quốc gia chiến thắng chính nỗi sợ hãi với một vụ làm ăn mới , công việc mới và ý thức mới của mục đích chung .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Yes , we can .</s>
+<s id='vn79'>Vâng , chúng ta có thể .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>When the bombs fell on our harbour and tyranny threatened the world , she was there to witness a generation rise to greatness and a democracy was saved .</s>
+<s id='vn80'>Khi bom rơi trên bến cảng của chúng ta và sự chuyên chế đe doạ thế giới , cô ấy ở đó để chứng kiến một thế hệ vươn lên để sự cao cả và một nền dân chủ được cứu vãn .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Yes , we can .</s>
+<s id='vn81'>Vâng , chúng ta có thể .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>She was there for the buses in Montgomery , the hoses in Birmingham , a bridge in Selma , and a preacher from Atlanta who told a people that " we shall overcome " .</s>
+<s id='vn82'>Cô ấy ở đó cho xe buýt ở Montgomery , nhứng ống nước trong Birmingham , một cầu ở Selma , và một nhà thuyết giáo từ Atlanta đến người mà bảo mọi người rằng " chúng ta sẽ vượt qua " .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Yes , we can .</s>
+<s id='vn83'>Vâng , chúng ta có thể làm được .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>A man touched down on the Moon , a wall came down in Berlin , a world was connected by our own science and imagination .</s>
+<s id='vn84'>Một người đàn ông chạm vào trên Moon , bức tường sụp đổ ở Berlin , một thế giới được nối bằng trí tưởng tượng và khoa học riêng của chúng ta .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>And this year , in this election , she touched her finger to a screen , and cast her vote , because after 106 years in America , through the best of times and the darkest of hours , she knows how America can change .</s>
+<s id='vn85'>Và năm nay , trong cuộc bầu cử này , cô ấy chạm ngón tay vào màn hình , và bỏ phiếu , vì sau 106 năm ở Mỹ , qua những lúc tươi đẹp nhất và những giờ phút đen tối nhất , cô ấy biết Hoa Kỳ có thể thay đổi .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Yes , we can .</s>
+<s id='vn86'>Vâng , chúng ta có thể .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>THIS IS OUR MOMENT</s>
+<s id='vn87'>Đây là khoảnh khắc của chúng ta</s>
+</spair>
+<spair id='88'>
+<s id='en88'>America , we have come so far .</s>
+<s id='vn88'>Hoa Kỳ , chúng ta đã tiến rất xa .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>We have seen so much .</s>
+<s id='vn89'>Chúng ta đã được nhìn thấy nhiều .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>But there is so much more to do .</s>
+<s id='vn90'>Nhưng còn nhiều việc phải làm hơn thế .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>So tonight , let us ask ourselves - if our children should live to see the next century ; if my daughters should be so lucky to live as long as Ann Nixon Cooper , what change will they see ?</s>
+<s id='vn91'>Vì thế đêm nay , chúng ta hãy tự vấn chính mình - nếu con của chúng ta phải sống để xem thế kỷ kế tiếp ; nếu con gái của tôi nên quá may mắn vì sống thọ như Ann Nixon Cooper , họ sẽ xem những thay đổi gì ?</s>
+</spair>
+<spair id='92'>
+<s id='en92'>What progress will we have made ?</s>
+<s id='vn92'>Chúng ta sẽ đã làm những tiến bộ gì ?</s>
+</spair>
+<spair id='93'>
+<s id='en93'>This is our chance to answer that call .</s>
+<s id='vn93'>Đây là cơ hội của chúng ta để trả lời lời gọi đó .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>This is our moment .</s>
+<s id='vn94'>Đây là khoảnh khắc của chúng ta .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>This is our time - to put our people back to work and open doors of opportunity for our kids ; to restore prosperity and promote the cause of peace ; to reclaim the American dream and reaffirm that fundamental truth - that out of many , we are one ; that while we breathe , we hope , and where we are met with cynicism and doubt , and those who tell us that we ca n't , we will respond with that timeless creed that sums up the spirit of a people : yes , we can .</s>
+<s id='vn95'>Đây là thời gian của chúng ta - để đưa nhân dân của chúng tôi trở lại làm việc và mở cánh cửa cơ hội cho con của chúng ta ; để khôi phục lại sự thịnh vượng và thúc đẩy nguyên nhân của hoà bình ; để lấy lại giấc mơ của người Mỹ khẳng định lại chân lý cốt lõi - tuy từ số đông , nhưng chúng ta là một ; đó trong khi chúng ta thở , chúng ta hy vọng , và nơi chúng ta đang gặp nghi ngờ và chỉ trích , và những người bảo với chúng ta rằng chúng ta không thể , chúng ta sẽ đáp lại với niềm tin vĩnh viễn đó mà nêu bật tinh thần của một mọi người : vâng , chúng ta có thể làm .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Thank you , God bless you , and may God bless the United States of America .</s>
+<s id='vn96'>Cảm ơn , chúa phù hộ cho bạn , và xin Chúa phù hộ cho Hợp chủng quốc Hoa Kỳ .</s>
+</spair>
+</text>
+</doc>

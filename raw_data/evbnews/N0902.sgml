@@ -1,0 +1,76 @@
+﻿<doc id='N0902'>
+<head>
+<title>Google Chrome Beta 16 Syncs Browser Across Multiple Accounts</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Google Chrome Beta 16 Syncs Browser Across Multiple Accounts</s>
+<s id='vn1'>Google Chrome Beta 16 Đồng Bộ Hoá Trình Duyệt Trên Nhiều Tài Khoản</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Google 's Chrome beta version 16 has one major new feature : the ability to let multiple users create an instantiation of the browser on a single Windows PC or Mac computer .</s>
+<s id='vn2'>Phiên bản Google Chrome beta 16 có một tính năng mới quan trọng : Khả năng cho phép nhiều người dùng tạo ra một đối tượng của trình duyệt trên một máy tính chạy Windows hoặc Mac .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It 's a big portability play .</s>
+<s id='vn3'>Nó là một cuộc chơi có tính di động lớn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>No sooner did Google ( NASDAQ:GOOG ) Chrome wrap a great month of market share gain than the company rolled out its next version of the increasingly popular Web browser .</s>
+<s id='vn4'>Google Chrome ( NASDAQ:GOOG ) vừa mới chiếm được sự tăng trưởng thị phần lớn trong một tháng thì công ty đã ra mắt phiên bản kế tiếp của trình duyệt Web ngày càng phổ biến này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Chrome , which Google CEO Larry Page said last month has more than 200 million users , has moved onto version 16 with syncing software tools that allow more than one user to sign into Chrome and port all of their bookmarks , extensions and applications to any computer .</s>
+<s id='vn5'>Giám đốc điều hành của Google , Larry Page cho biết tháng trước có hơn 200 triệu người dùng trình duyệt Chrome đã chuyển lên phiên bản 16 bằng việc đồng bộ hoá các công cụ phần mềm cho phép nhiều người dùng đăng nhập vào trình duyệt Chrome và chuyển tất cả các đánh dấu ( bookmark ) , các phần mở rộng và các ứng dụng đến bất kỳ máy tính nào .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This will save users of a shared computer from having to download and install software and type in passwords repeatedly .</s>
+<s id='vn6'>Điều này sẽ giúp những người dùng chung máy tính khỏi phải tải xuống và cài đặt phần mềm rồi nhập mật khẩu nhiều lần .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It will also bring over the suggested search capabilities housed in the omnibox Chrome address bar .</s>
+<s id='vn7'>Nó cũng sẽ mang lại khả năng tìm kiếm đề xuất nằm trong thanh địa chỉ hộp đôi của Chrome .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Google has incrementally bolstered its synchronization capabilities since launching Chrome in 2008 , adding sync for bookmarks in December 2009 and sync for autofills and extensions in July 2010 .</s>
+<s id='vn8'>Google đã từng bước củng cố khả năng đồng bộ hóa từ khi ra mắt trình duyệt Chrome vào năm 2008 , bổ sung sự đồng bộ hoá cho các đánh dấu ( bookmark ) vào tháng 12 năm 2009 và đồng bộ hoá cho chức năng tự động điền autofill và phần mở rộng vào tháng 7 năm 2010 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>However , adding sync on a single computer for multiple users is a new , welcome addition at a time when parents are buying new machines for the family , or even visiting relatives or friends .</s>
+<s id='vn9'>Tuy nhiên , bổ sung sự đồng bộ hoá trên một máy tính cho nhiều người dùng là một sự bổ sung mới được hoan nghênh tại thời điểm mà các bậc cha mẹ mua những chiếc máy tính mới cho gia đình hoặc thậm chí thăm bà con và bạn bè .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" You may not want your bookmarks and settings mixing with your brother 's or your roommate 's bookmarks and settings , and you would n't want their Chrome stuff syncing to your other devices , " explained Google Chrome engineer Miranda Callahan .</s>
+<s id='vn10'>Kỹ sư Miranda Callahan của Google Chrome giải thích " Bạn có thể không muốn các đánh dấu và thiết lập của mình nằm lẫn với các đánh dấu và thiết lập của anh trai hoặc của những bạn cùng phòng , bạn không muốn công cụ Chrome của họ đồng bộ hoá các thiết bị khác của bạn " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Users can try this multi-user sync by going to options on their Windows PC ( or preferences on the Mac ) , clicking " personal stuff , " and then clicking " add new users " .</s>
+<s id='vn11'>Người dùng có thể thử việc đồng bộ hoá đa người dùng này bằng cách sử dụng các tùy chọn Options trên máy Windows của họ ( hoặc Preferences trên máy Mac ) , nhấp vào " personal stuff " và sau đó nhấp " add new users " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This will trigger a new instance of Chrome that can be tailored with apps , bookmarks , settings and other Chrome tools .</s>
+<s id='vn12'>Điều này sẽ kích hoạt một đối tượng mới của Chrome mà có thể được điều chỉnh phù hợp với các ứng dụng , các đánh dấu , các thiết lập và các công cụ Chrome khác .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Chrome drops a badge in the upper corner to let users know whose version of Chrome is open on the screen .</s>
+<s id='vn13'>Trình duyệt Chrome xổ một biểu tượng trong góc bên trên để cho người dùng biết có phiên bản nào của Trình duyệt Chrome đang mở trên màn hình .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>A badge in the upper corner lets you know at a glance that this new Chrome browser belongs to you , and users can click on the badge to see a menu of all the users on that computer , and switch between instantiations .</s>
+<s id='vn14'>Một biểu tượng trong góc bên trên báo cho bạn biết ngay rằng trình duyệt Chrome mới này thuộc về bạn và người dùng có thể nhắp chuột vào biểu tượng để nhìn thấy một trình đơn của tất cả người dùng trên máy tính và chuyển đổi giữa các đối tượng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Multi-user sync greatly improves the portability of Chrome and the data users associate with it , which over time can help more users hungry for such portability adopt Chrome with ease and comfort .</s>
+<s id='vn15'>Đồng bộ hoá đa người dùng cải tiến đáng kể khả năng của trình duyệt Chrome và dữ liệu người dùng liên quan với nó , mà theo thời gian có thể làm nhiều người thích tính di động của Chrome một cách dễ dàng và thoải mái .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Chrome 16 beta rolled out one day after Net Applications said the browser grew market share from 16.2 percent in September to 17.6 percent in October , the browser 's greatest single month of growth to date .</s>
+<s id='vn16'>Phiên bản Chrome Beta 16 ra mắt một ngày sau khi công ty Net Applications thông báo trình duyệt này tăng thị phần từ 16.2% lên 17.6% trong tháng 10 , tháng tăng trưởng lớn nhất của trình duyệt này cho đến nay .</s>
+</spair>
+</text>
+</doc>

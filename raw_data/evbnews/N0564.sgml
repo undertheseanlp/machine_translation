@@ -1,0 +1,224 @@
+﻿<doc id='N0564'>
+<head>
+<title>The Dangers of Counterfeit Drugs</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Dangers of Counterfeit Drugs</s>
+<s id='vn1'>Những mối nguy hiểm từ thuốc giả</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Medicines that are not what they seem are a widespread problem in developing countries .</s>
+<s id='vn2'>Những loại thuốc không phải là thuốc thật là một vấn nạn phổ biến tại những nước đang phát triển .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They are a dangerous and sometimes deadly trick for a quick profit .</s>
+<s id='vn3'>Chúng là mánh lới rất nguy hiểm và đôi khi còn gây chết người chỉ vì muốn kiếm tiền nhanh chóng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Counterfeit medicines are a widespread problem in developing countries .</s>
+<s id='vn4'>Thuốc giả đang lan tràn ở các nước đang phát triển .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Like other counterfeits , they look like real products .</s>
+<s id='vn5'>Giống như những món hàng giả khác , chúng trông giống như hàng thật .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>But counterfeit drugs may contain too much , too little or none of the active ingredients of the real thing .</s>
+<s id='vn6'>Nhưng thuốc giả có thể chứa quá nhiều , quá ít hoặc không hề có hoạt chất nào của thuốc thật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>People do not get the medicine they need .</s>
+<s id='vn7'>Người mua không mua đúng thứ thuốc mà họ cần .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And in some cases the counterfeits cause tragic problems of their own .</s>
+<s id='vn8'>Và trong một số trường hợp thuốc giả còn gây ra những hậu quả bi thảm cho chính họ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>About a year ago , more than eighty children in Nigeria died after being given medicine for teething pain .</s>
+<s id='vn9'>Cách đây khoảng một năm , hơn tám mươi trẻ em ở Ni-giê-ri-a bị chết sau khi được cho uống thuốc giảm đau khi mọc răng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>And more than twenty children in Bangladesh died last year after being given acetaminophen .</s>
+<s id='vn10'>Và năm ngoái có hơn hai mươi đứa trẻ ở Bangladesh bị chết sau khi được cho uống thuốc acetaminophen .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In both cases , the medications contained ingredients that looked , smelled and tasted like the real thing .</s>
+<s id='vn11'>Trong cả hai trường hợp trên , những loại thuốc đều chứa thành phần làm cho thuốc có hình dạng , mùi vị giống y như thuốc thật .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But the medicine in Bangladesh was produced by a local drug manufacturer that used a dangerous substitute to save money .</s>
+<s id='vn12'>Nhưng loại thuốc ở Bangladesh được bào chế bởi một hãng sản xuất thuốc ở địa phương đã sử dụng một chất thay thế độc hại nhằm tiết kiệm chi phí .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>And in the case in Nigeria , an illegal chemical dealer sold counterfeit glycerin to a drug company .</s>
+<s id='vn13'>Và trường hợp ở Nigeria thì là một tay bán hoá chất bất hợp pháp đã bán chất glycerin giả cho một công ty dược phẩm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>That company then used the chemical to make the teething medicine .</s>
+<s id='vn14'>Sau đó công ty này đã dùng chất này để làm thuốc giảm đau khi mọc răng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The World Health Organization says the problem with counterfeit medicines is especially bad in Africa , Asia and Latin America .</s>
+<s id='vn15'>Tổ chức y tế thế giới nói vấn nạn thuốc giả đặc biệt nghiêm trọng ở châu Phi , châu Á và châu Mỹ Latinh .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The WHO estimates that up to thirty percent of the medicines on sale in many of those countries are counterfeit .</s>
+<s id='vn16'>WHO ước tính có đến 30% dược phẩm đang lưu hành trên thị trường ở nhiều nước này là hàng giả .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Counterfeit medications are also a problem in the Middle East and in many countries of the former Soviet Union .</s>
+<s id='vn17'>Thuốc giả cũng đang là vấn đề ở Trung đông và nhiều quốc gia thuộc Liên Xô .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The problem is less widespread among industrialized countries .</s>
+<s id='vn18'>Vấn đề này ít phổ biến ở các quốc gia công nghiệp hóa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The W.H.O. says counterfeits represents less than one percent of the illegal drug market in countries like the United States , Canada , Japan , and New Zealand .</s>
+<s id='vn19'>W.H.O. nói rằng thuốc giả chỉ chiếm chưa đến 1% ở thị trường thuốc bất hợp pháp ở nhiều nước như Mỹ , Canada , Nhật Bản , và New Zealand .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>But the agency also says as much as fifty percent of the medicine sold on the Internet is counterfeit .</s>
+<s id='vn20'>Nhưng cơ quan này còn cho hay có đến 50% các loại thuốc rao bán trên mạng Internet đều là hàng giả .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Most people have no way to tell if medications are what they seem .</s>
+<s id='vn21'>Hầu hết nhiều người không biết cách phân biệt đâu là thuốc giả đâu là thuốc thật .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The Center for Medicine in the Public Interest is a group in New York supported in part by the drug industry .</s>
+<s id='vn22'>Trung tâm y học vì lợi ích chung ở New York là một nhóm được bảo trợ một phần bởi công nghiệp dược phẩm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It predicts counterfeit sales will reach seventy-five billion dollars worldwide this year - nearly double the level of two thousand five .</s>
+<s id='vn23'>Nó dự đoán doanh thu từ thuốc giả có thể lên đến 75 tỉ đô-la trên toàn cầu trong năm nay - gần gấp đôi doanh thu vào năm 2005 .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Substandard medicines are also a widespread problem in the developing world .</s>
+<s id='vn24'>Thuốc kém tiêu chuẩn cũng là một vấn đề phổ biến ở các nước đang phát triển .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>How are they different from counterfeits ?</s>
+<s id='vn25'>Chúng khác với thuốc giả như thế nào ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The legal difference is that counterfeit drugs are made with the purpose of misleading people .</s>
+<s id='vn26'>Chúng chỉ khác nhau về mặt pháp lý , thuốc giả được làm ra vì mục đích lường gạt người khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Substandard drugs are just poorly made .</s>
+<s id='vn27'>Thuốc không đúng tiêu chuẩn chỉ là thuốc được sản xuất kém chất lượng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It also estimates that up to fifty percent of the medicine sold on the Internet is counterfeit .</s>
+<s id='vn28'>Người ta cũng ước tính có đến 50 phần trăm thuốc được bán trên Internet là thuốc giả .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>That can put people at risk even in wealthy countries that represent only a small part of the counterfeit drug market .</s>
+<s id='vn29'>Điều này có thể đưa con người vào tình thế nguy hiểm ngay cả ở những nước giàu dù chỉ chiếm một phần nhỏ trên thị trường thuốc giả .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Today we look at what is being done to fight counterfeit drugs .</s>
+<s id='vn30'>Hôm nay chúng ta xem xét những biện pháp chống lại thuốc giả .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Several companies are developing ways to make counterfeits easier to identify .</s>
+<s id='vn31'>Vài công ty đang phát triển cách thức để làm cho thuốc giả dễ dàng nhận biết hơn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>And there are existing methods , like a machine that can quickly identify chemicals in pills to confirm if the pills are real .</s>
+<s id='vn32'>Và có những phương pháp hiện có , như máy có thể nhận biết nhanh hoá chất chứa trong viên thuốc để xác định xem viên thuốc là thật hay không .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Other ideas include things like special tracking codes for drug packages .</s>
+<s id='vn33'>Cũng có các ý kiến khác như việc tra mã theo dõi đặc biệt trên những gói thuốc .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>People could send a text message with the code and get a message back confirming that what they bought is listed in a database .</s>
+<s id='vn34'>Mọi người có thể gửi đoạn mã đó bằng tin nhắn và nhận lại tin nhắn xác minh rằng những gì họ mua có được liệt kê trong cơ sở dữ liệu hay không .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Some drug makers and other companies put three-dimensional images called holograms on their products as a security device .</s>
+<s id='vn35'>Một số người bào chế thuốc và các công ty khác đặt ảnh ba chiều còn là hologram trên sản phẩm của họ như một thiết bị an ninh .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Other anti-counterfeit efforts include the use of radio frequency identification tags .</s>
+<s id='vn36'>Những nỗ lực chống hàng giả khác bao gồm việc sử dụng thẻ nhận dạng tần số ra-đi-ô .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Many companies use these electronic tags to follow products through the supply chain from the manufacturer .</s>
+<s id='vn37'>Nhiều công ty sử dụng các thẻ điện tử này để theo dõi sản phẩm theo chuỗi cung ứng từ nhà sản xuất .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>The American Food and Drug Administration says R.F.I.D. tags act like an electronic safety net to make it easier to catch counterfeits .</s>
+<s id='vn38'>Cơ quan Quản lý Thực phẩm và Dược phẩm Hoa Kỳ nói thẻ R.F.I.D. có chức năng giống một mạng an ninh điện tử để dễ dàng phát hiện ra hàng giả .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Last July , the Food and Drug Administration advised manufacturers to add what are called physical chemical identifiers to their medicines .</s>
+<s id='vn39'>Tháng bảy vừa qua , Cơ quan Quản lý Thực phẩm và Dược phẩm khuyên các nhà sản xuất nên thêm thành phần định dạng hoá chất tự nhiên vào thuốc của họ .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>These are special chemicals , colorings or tastes that counterfeiters could not easily copy .</s>
+<s id='vn40'>Đây là những hoá chất đặc biệt , có màu sắc hay mùi vị mà thuốc giả khó có thể làm nhái theo được .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Bryan Liang is with the Partnership for Safe Medicines , an organization in the United States .</s>
+<s id='vn41'>Bryan Liang làm cộng tác cho chương trình Dược phẩm an toàn , một tổ chức ở Hoa Kỳ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>He says the Internet is not only a place where people can get tricked into buying counterfeit drugs .</s>
+<s id='vn42'>Ông ấy nói mạng internet không những là nơi để mọi người có thể bị mắc lừa khi mua thuốc giả .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>It is also a place where counterfeiters can find all the materials they need to make them .</s>
+<s id='vn43'>Nó còn là nơi kẻ làm hàng giả có thể tìm mọi nguyên liệu mà họ cần để làm hàng giả .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>BRYAN LIANG : " The Internet is the Wild , Wild West .</s>
+<s id='vn44'>BRYAN LIANG : " Mạng internet là viễn tây hoang dã .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Anybody can sell drugs .</s>
+<s id='vn45'>Bất kỳ ai cũng có thể bán thuốc .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Anybody can buy active ingredients . "</s>
+<s id='vn46'>Bất kỳ ai có thể mua được hoạt chất . "</s>
+</spair>
+<spair id='47'>
+<s id='en47'>He says the most important members of the " counterfeit detection team " are the patients themselves .</s>
+<s id='vn47'>Ông ấy nói những thành viên quan trọng nhất của " nhóm phát hiện hàng giả " chính là bệnh nhân .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>He says raids on counterfeiters are often the result of information from people who bought fake medicines .</s>
+<s id='vn48'>Ông ấy nói để có thể dẹp được nạn thuốc giả thường phải nhờ tới những thông tin từ những người mua phải thuốc giả .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>BRYAN LIANG : " The best approach is to know your drug .</s>
+<s id='vn49'>BRYAN LIANG : " Phương pháp tốt nhất là biết rõ về thuốc của bạn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Know what they feel like .</s>
+<s id='vn50'>Biết rõ chúng trông giống thế nào .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Know what they taste like .</s>
+<s id='vn51'>Biết rõ chúng có mùi vị ra sao .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Know what your traditional reactions are .</s>
+<s id='vn52'>Biết rõ phản ứng thông thường của bạn là gì .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>A person that knows their drugs and the effects of their drugs are in fact the best security against fakes . "</s>
+<s id='vn53'>Trong thực tế một người mà biết rõ về thuốc của họ và ảnh hưởng của chúng thì sẽ có biện pháp an toàn nhất chống lại hàng giả mạo . "</s>
+</spair>
+</text>
+</doc>

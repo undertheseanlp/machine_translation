@@ -1,0 +1,144 @@
+﻿<doc id='N0325'>
+<head>
+<title>Nokia 's Linux strategy broadens with upcoming Maemo 5 device</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Nokia 's Linux strategy broadens with upcoming Maemo 5 device</s>
+<s id='vn1'>Chiến lược Linux của Nokia mở rộng với thiết bị chạy Maemo 5 sắp tới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Photos of Nokia 's upcoming Maemo 5 device have been leaked , and they reveal that it is likely a smartphone and not just a tablet .</s>
+<s id='vn2'>Các hình ảnh của thiết bị chạy Maemo 5 sắp tới của Nokia đã được rò rỉ ra ngoài , và họ tiết lộ rằng nó có thể là một smartphone và không chỉ là một máy tính bảng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The device reflects Nokia 's growing commitment to Linux .</s>
+<s id='vn3'>Thiết bị này phản ánh cam kết phát triển của Nokia cho Linux .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Nokia first unveiled its vision for a next-generation Internet Tablet device when it announced plans for Maemo 5 - a new version of the Linux-based tablet operating system "at the Open Source in Mobile event last year in Berlin .</s>
+<s id='vn4'>Lần đầu tiên Nokia cho ra mắt một thiết bị Tablet Internet thế hệ mới khi nó được công bố theo dự kiến dành cho Hệ điều hành Maemo 5 - một phiên bản mới của hệ điều hành máy tính bảng dựa trên Linux tại sự kiện Mã nguồn Mở trong Điện thoại di động diễn ra ở Berlin vào năm ngoái .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Early plans indicated that the OS would be paired with a device that would include 3G connectivity and an OMAP3 processor .</s>
+<s id='vn5'>Các kế hoạch ban đầu cho thấy rằng Hệ điều hành này sẽ được đi kèm với một thiết bị sẽ gồm có kết nối 3G và bộ vi xử lí OMAP3 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Ever since that announcement , mobile Linux enthusiasts have eagerly anticipated the arrival of an actual Maemo 5 device .</s>
+<s id='vn6'>Kể từ lúc điều này được công bố , các tín đồ Linux trong lĩnh vực điện thoại di động đã hết sức mong đợi việc ra mắt của một thiết bị chạy Hệ điều hành Maemo 5 thực tế .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A Nokia product codenamed RX-51 recently cleared FCC approval and has now appeared in leaked photos that made their way onto the Internet ;</s>
+<s id='vn7'>Sản phẩm Nokia có tên mã là RX-51 gần đây đã được thông qua sự chấp thuận của FCC và hiện tại hình ảnh rò rỉ của nó đã xuất hiện tràn lan trên Internet .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It appears to be the long-awaited Maemo 5 product .</s>
+<s id='vn8'>Nó dường như là một sản phẩm chạy Hệ điều hành Maemo 5 được chờ đợi từ khá lâu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The source code of Maemo 5 provided some early clues about the RX-51 last year .</s>
+<s id='vn9'>Mã nguồn của Maemo 5 sớm cung cấp một số thông tin về RX-51 hồi năm ngoái .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Maemo fans have been poring through it and documenting various technical details that provide insight into the hardware .</s>
+<s id='vn10'>Người hâm mộ Maemo đã và đang mải mê nó và ghi chép các chi tiết kỹ thuật khác nhau để cung cấp cái nhìn sâu hơn về phần cứng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The new pictures also seem to indicate that the device is a phone , and not just a Web tablet like its predecessors .</s>
+<s id='vn11'>Những hình ảnh mới dường như cũng cho thấy rằng thiết bị này là một điện thoại chứ không phải là một Web tablet như phiên bản trước đây .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This would be a major step forward for Maemo and could reflect a more Linux-centric mobile strategy for Nokia .</s>
+<s id='vn12'>Điều này sẽ là một bước chuyển tiếp quan trọng cho Maemo và có thể phản ảnh chiến lược lấy Linux làm trọng tâm trong các thiết bị di động của Nokia .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The handset maker announced a project earlier this year called ofono , which seeks to build a complete telephony stack for mobile Linux platforms .</s>
+<s id='vn13'>Nhà sản xuất thiết bị cầm tay này đã công bố một dự án hồi đầu năm nay với tên gọi là ofono , nó tìm cách xây dựng một kho điện thoại hoàn chỉnh dành cho nền tảng Linux .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The emergence of ofono and Nokia 's move to make Maemo a viable smartphone platform has raised .</s>
+<s id='vn14'>Sự ra đời của ofono và bước đi của Nokia tạo ra Maemo , một nền tảng smartphone có thể đứng vững .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>A lot of questions about the company 's commitment to its other mobile OS , Symbian .</s>
+<s id='vn15'>Có nhiều câu hỏi đặt ra về những cam kết của công ty dành cho Hệ điều hành di động khác của họ , đó là Hệ điều hành Symbian .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Nokia acquired Symbian last year .</s>
+<s id='vn16'>Hồi năm ngoái , Nokia đã mua lại Symbian .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Its phones ship with its own S60 variant of the OS.</s>
+<s id='vn17'>Các điện thoại của hãng được bán ra với biến thể của Hệ điều hành S60 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Symbian is increasingly anachronistic compared to modern smartphone platforms .</s>
+<s id='vn18'>Symbian ngày càng lỗi thời so với các nền tảng điện thoại thông minh hiện đại .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Nokia 's plan of opening the Symbian platform appeared to be part of a move to modernize and strengthen it .</s>
+<s id='vn19'>Kế hoạch mở nền tảng Symbian của Nokia có thể là một phần trong bước đi để hiện đại hóa và tăng cường nó .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Several reports have emerged this year , including one in the past few days , saying that sources close to Nokia are suggesting that the handset giant sees Symbian as a dead end and is preparing to move entirely to Linux .</s>
+<s id='vn20'>Một vài bản báo cáo xuất hiện trong năm nay , kể cả một vài ngày trước đây cho rằng mã nguồn đóng của Nokia thừa nhận rằng số lượng khổng lồ thiết bị cầm tay chạy Hệ điều hành Symbian đang dần kết thúc và đang chuẩn bị di chuyển hoàn toàn sang Linux .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>There are still a lot of unanswered questions about Nokia 's long-term platform strategy , but it 's still far too early to say whether Nokia is switching entirely to Linux .</s>
+<s id='vn21'>Hiện vẫn còn nhiều câu hỏi chưa được trả lời về chiến lược nền tảng lâu dài của Nokia nhưng vẫn còn quá sớm để nói rằng Nokia có đang chuyển đổi hoàn toàn sang Linux hay không .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>As we have recently described , the Symbian Foundation has launched a number of far-reaching initiatives that aim to address the platform 's weaknesses .</s>
+<s id='vn22'>Như chúng tôi đã mô tả trong thời gian gần đây , Tổ chức Symbian Foundation đã đưa ra nhiều sáng kiến có ảnh hưởng sâu rộng nhằm mục đích đề cập đến sự yếu kém của nền tảng này .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The resulting user interface and development improvements could make it much more competitive .</s>
+<s id='vn23'>Kết quả cải thiện giao diện người dùng và sự phát triển có thể làm cho nó mang tính cạnh tranh nhiều hơn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The announcement that Symbian is getting a mobile version of Microsoft Office also suggests a long-term commitment .</s>
+<s id='vn24'>Các thông báo rằng Hệ điều hành Symbian đang đón nhận một phiên bản di động của Microsoft Office cũng như đề xuất một sự cam kết lâu dài .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>It 's also important to keep in mind that Nokia has a harmonization strategy : the Qt toolkit , which it obtained through an acquisition of Trolltech last year .</s>
+<s id='vn25'>Nó cũng quan trọng đáng ghi nhớ là Nokia đã có một chiến lược hài hòa : bộ công cụ Qt mà nó có được khi nó mua lại công ty Trolltech vào năm ngoái .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Nokia is bringing Qt to S60 and plans to make Qt the foundation of the Maemo user experience in Harmattan , the version that will follow Maemo 5 .</s>
+<s id='vn26'>Nokia đang đưa Qt vào S60 và lên kế hoạch để làm cho Qt tạo ra những trải nghiệm người dùng Maemo trong Harmattan , phiên bản tiếp theo Maemo 5 .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>This means that developers will be able to use Qt to build software that can run on both mobile platforms .</s>
+<s id='vn27'>Điều này có nghĩa là nhà phát triển sẽ có thể sử dụng Qt để xây dựng phần mềm mà có thể chạy trên cả hai nền tảng điện thoại di động .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This addresses the potential fragmentation issues and makes it practical for Nokia to continue using both plat forms , targeting each to contexts in which it 's appropriate .</s>
+<s id='vn28'>Điều này đề cập đến các vấn đề phân chia tiềm ẩn và làm nó thiết thực đối với Nokia để tiếp tục sử dụng cả hai nền tảng nhắm vào từng bối cảnh thích hợp .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Maemo products have traditionally been developer-centric and somewhat experimental , but it 's likely that we will see the platform move into the regular consumer market as it matures and Nokia boosts its commitment .</s>
+<s id='vn29'>Các sản phẩm Maemo có truyền thống được nhà phát triển tập trung và một số thử nghiệm , nhưng có khả năng chúng ta sẽ thấy nền tảng này di chuyển vào thị trường tiêu dùng tốt và Nokia sẽ hoàn thiện và tăng cường cam kết của mình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If it ends up being a viable and compelling replacement for Symbian , we could potentially see a transition over time .</s>
+<s id='vn30'>Nếu nó tồn tại và thay thế hữu hiệu cho Symbian , chúng ta có thể nhìn thấy một khả năng chuyển đổi theo thời gian .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But Symbian is the world 's dominant smartphone platform today , and its considerable momentum means that there is still a strong business case for modernizing it and moving it forward alongside Maemo .</s>
+<s id='vn31'>Tuy nhiên , ngày nay Symbian là một nền tảng điện thoại thông minh thống trị trên thế giới và việc tạo nên sức bật lớn của nó có nghĩa là ở đó vẫn có một thế mạnh kinh doanh cho việc hiện đại hóa và di chuyển nó cùng với Maemo .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Nokia has recently partnered with Intel to build a somewhat mysterious new class of mobile devices .</s>
+<s id='vn32'>Nokia gần đây đã hợp tác với Intel để xây dựng một loại thiết bị di động mới có vẻ huyền bí .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In addition to delivering Maemo on Internet Tablets , it 's likely that we will see Nokia pushing Maemo in whatever those products turn out to be , while Symbian remains the standard platform for the company 's more conventional smartphone handset lineup .</s>
+<s id='vn33'>Ngoài việc chuyển giao Maemo trên các thiết bị Tablet Internet , có thể chúng ta sẽ thấy Nokia đưa Maemo vào dưới bất cứ hình thức nào của các sản phẩm , trong khi Symbian vẫn là nền tảng chuẩn cho nhiều dòng thiết bị cầm tay điện thoại thông minh thông thường của hãng .</s>
+</spair>
+</text>
+</doc>

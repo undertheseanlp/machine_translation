@@ -1,0 +1,288 @@
+﻿<doc id='N0938'>
+<head>
+<title>Your questions about the tetanus vaccine</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Your questions about the tetanus vaccine</s>
+<s id='vn1'>Thắc mắc về vắc-xin ngừa uốn ván</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Tetanus is a bacterial infection that causes painful muscle spasms and can lead to death .</s>
+<s id='vn2'>Uốn ván là bệnh nhiễm khuẩn gây ra co giật cơ đau đớn và có thể dẫn đến tử vong .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The tetanus vaccine has made tetanus a preventable disease .</s>
+<s id='vn3'>Vắc-xin ngừa uốn ván đã có thể giúp ngăn ngừa được bệnh này .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Tetanus is a bacterial infection that causes painful muscle spasms and can lead to death .</s>
+<s id='vn4'>Uốn ván là bệnh nhiễm khuẩn gây ra co giật cơ đau đớn và có thể dẫn đến tử vong .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The tetanus vaccine has made tetanus a preventable disease .</s>
+<s id='vn5'>Vắc-xin ngừa uốn ván đã có thể giúp ngăn ngừa được bệnh này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Thanks to its widespread use , lockjaw has become very rare in the U.S , even so , many adults in the U.S. need to be vaccinated against tetanus .</s>
+<s id='vn6'>Nhờ được sử dụng rộng rãi nên chứng bệnh này trở nên hiếm gặp ở Mỹ , tuy vậy , nhiều người lớn ở Mỹ cũng cần được chủng ngừa uốn ván .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>You cannot get tetanus from another person .</s>
+<s id='vn7'>Bệnh uốn ván không làm lây lan từ người này sang người kia .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>You can get it through a cut or other wound .</s>
+<s id='vn8'>Bạn có thể mắc bệnh khi bị một vết đứt hoặc bị một vết thương nào đó khác .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Tetanus bacteria are commonly present in soil , dust , and manure .</s>
+<s id='vn9'>Vi khuẩn uốn ván thường có trong đất , bụi , và phân bón .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The tetanus bacteria can infect you even through a tiny scratch .</s>
+<s id='vn10'>Loại vi khuẩn này có thể xâm nhập vào cơ thể bạn thậm chí chỉ qua một vết trầy sướt rất nhỏ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>You are more likely to get tetanus through deep punctures from wounds created by nails or knives .</s>
+<s id='vn11'>Bạn có thể dễ mắc bệnh hơn nếu bị thương lỗ thủng sâu do đinh hoặc dao gây ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>What are the symptoms of tetanus ?</s>
+<s id='vn12'>Các triệu chứng uốn ván là gì ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Tetanus symptoms result from a toxin produced by tetanus bacteria .</s>
+<s id='vn13'>Các triệu chứng uốn ván được gây nên do độc tố của vi khuẩn uốn ván .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Symptoms often begin around a week after infection .</s>
+<s id='vn14'>Chúng thường khởi phát khoảng 1 tuần sau khi bị nhiễm trùng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But this may range from three days to three weeks .</s>
+<s id='vn15'>Nhưng cũng có thể dao động từ 3 ngày đến 3 tuần .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The most common symptom is a stiff jaw , which can become " locked . "</s>
+<s id='vn16'>Triệu chứng thường thấy nhất là cứng hàm , hàm có thể trở nên " đơ " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This is why the disease came to be called lockjaw .</s>
+<s id='vn17'>Đây là lý do vì sao uốn ván được gọi là bệnh cứng khít hàm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Symptoms of tetanus may include :</s>
+<s id='vn18'>Triệu chứng uốn ván có thể bao gồm :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>* Headache</s>
+<s id='vn19'>* Nhức đầu</s>
+</spair>
+<spair id='20'>
+<s id='en20'>* Muscle stiffness , starting in the jaw , then the neck and the arms , legs , or abdomen</s>
+<s id='vn20'>* Cứng cơ , bắt đầu ở hàm , sau đó cổ và cánh tay , cẳng chân , hoặc bụng</s>
+</spair>
+<spair id='21'>
+<s id='en21'>* Trouble swallowing</s>
+<s id='vn21'>* Khó nuốt</s>
+</spair>
+<spair id='22'>
+<s id='en22'>* Restlessness and irritability</s>
+<s id='vn22'>* Bứt rứt và dễ cáu gắt</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Sore throat</s>
+<s id='vn23'>* Đau họng</s>
+</spair>
+<spair id='24'>
+<s id='en24'>* Sweating and fever</s>
+<s id='vn24'>* Ra mồ hôi và sốt</s>
+</spair>
+<spair id='25'>
+<s id='en25'>* Palpitations and high or low blood pressure</s>
+<s id='vn25'>* Hồi hộp và huyết áp thấp hoặc cao</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If not treated , tetanus can cause death from suffocation .</s>
+<s id='vn26'>Nếu không được điều trị thì bệnh có thể gây tử vong do nghẹt thở .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>How and when should you receive the tetanus vaccine ?</s>
+<s id='vn27'>Bạn nên tiêm ngừa vắc-xin uốn ván khi nào và tiêm ra sao ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>You receive tetanus shots in the deltoid muscle .</s>
+<s id='vn28'>Bạn sẽ được tiêm chủng uốn ván ở cơ đen-ta .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>If you did not receive a tetanus vaccine as a child , you should start with a three-dose primary series protecting against both tetanus and diphtheria ( Td ) .</s>
+<s id='vn29'>Nếu bạn không tiêm vắc-xin uốn ván hồi còn bé thì bạn sẽ bắt đầu bằng loạt đầu 3 liều phòng cả uốn ván và bạch hầu ( Td ) .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>You receive this over a period of seven to 12 months .</s>
+<s id='vn30'>Bạn sẽ tiêm liều này trong thời gian từ 7 đến 12 tháng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you are younger than 65 , one of these doses should also include protection against pertussis .</s>
+<s id='vn31'>Nếu bạn dưới 65 tuổi thì 1 trong những liều này cũng sẽ có thể phòng được bệnh ho gà .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This three-in-one combination for adults is called Tdap .</s>
+<s id='vn32'>Liều kết hợp 3 trong 1 này sử dụng cho người lớn được gọi là Tdap .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Vaccination against pertussis is especially important for those in direct contact with young infants or patients .</s>
+<s id='vn33'>Tiêm ngừa ho gà đặc biệt quan trọng đối với người tiếp xúc trực tiếp với trẻ sơ sinh hoặc bệnh nhân .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>After receiving the primary series , get a Td booster every 10 years .</s>
+<s id='vn34'>Sau khi tiêm một loạt đầu thì bạn nên tiêm nhắc lại Td cứ 10 năm 1 lần .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Which adults should receive the tetanus vaccine ?</s>
+<s id='vn35'>Đối tượng người lớn nào nên tiêm phòng vắc-xin ngừa uốn ván ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>You should have a tetanus shot if you :</s>
+<s id='vn36'>Bạn nên tiêm ngừa uốn ván nếu :</s>
+</spair>
+<spair id='37'>
+<s id='en37'>* Did not receive a primary series of tetanus shots as a child .</s>
+<s id='vn37'>* Chưa được tiêm loạt ngừa uốn ván đầu hồi còn bé .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>* Have not had a tetanus booster in the last 10 years .</s>
+<s id='vn38'>* Chưa được tiêm ngừa uốn ván nhắc lại trong 10 năm vừa qua .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>* You have recovered from tetanus disease .</s>
+<s id='vn39'>* Bạn mới khỏi bệnh uốn ván .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Are there any adults who should not get the tetanus vaccine ?</s>
+<s id='vn40'>Có đối tượng người lớn nào không nên chủng ngừa uốn ván không ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>It is OK to receive the tetanus vaccine during pregnancy .</s>
+<s id='vn41'>Thai phụ có thể chủng ngừa uốn ván trong suốt thai kỳ .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>However , you should discuss the risks of the pertussis vaccine with your doctor .</s>
+<s id='vn42'>Tuy nhiên , bạn nên thảo luận các rủi ro của vắc-xin ho gà với bác sĩ của mình .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>If possible , get the Tdap vaccine before you become pregnant .</s>
+<s id='vn43'>Bạn nên chủng ngừa vắc-xin Tdap trước khi có thai nếu có thể .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Usually Td is given to pregnant women needing tetanus vaccination .</s>
+<s id='vn44'>Thông thường thì Td được chủng ngừa cho thai phụ có nhu cầu chủng ngừa uốn ván .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>People who have had a severe allergic reaction to a previous tetanus vaccine in the past or have a severe allergy to any component of a vaccine should not get the vaccine .</s>
+<s id='vn45'>Người đã bị dị ứng nặng với vắc-xin ngừa uốn ván trước đây hoặc bị dị ứng nặng với bất kỳ thành phần nào trong vắc-xin thì không nên chủng ngừa .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>If you have a history of coma , or seizures within a week following a tetanus vaccine that contains pertussis components , get Td vaccines only .</s>
+<s id='vn46'>Nếu bạn có tiền sử bị hôn mê , hoặc bị tai biến mạch máu trong 1 tuần sau khi chủng ngừa vắc-xin uốn ván chứa thành phần thuốc chống ho gà thì bạn chỉ nên tiêm vắc-xin Td thôi .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Talk to your doctor if you have a history of epilepsy or other nervous system problems , severe pain or swelling in the past after a previous tetanus vaccine , or a history of Guillain-Barre syndrome .</s>
+<s id='vn47'>Hãy nói cho bác sĩ biết nếu bạn có tiền sử sức khỏe bị động kinh hoặc bị các vấn đề về hệ thần kinh khác , bị đau nhức hoặc phù nề dữ dội sau khi tiêm vắc-xin uốn ván trước đây , hoặc có tiền sử bị hội chứng Guillain-Barré .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>What are the tetanus vaccine ingredients ?</s>
+<s id='vn48'>Các thành phần có trong vắc-xin ngừa uốn ván là gì ?</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The vaccines are made up of tetanus , diphtheria , and pertussis toxins that have been made nontoxic but they still have the ability to create an immune response .</s>
+<s id='vn49'>Vắc-xin bao gồm độc tố của bệnh uốn ván , bạch hầu , và ho gà đã được khử độc tính nhưng vẫn còn khả năng tạo phản ứng miễn dịch .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>These vaccines do not contain live bacteria .</s>
+<s id='vn50'>Những loại vắc-xin này không chứa vi khuẩn sống .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Are there any dangers or side effects associated with the tetanus vaccine ?</s>
+<s id='vn51'>Có nguy hiểm hoặc tác dụng phụ nào liên quan đến vắc-xin ngừa uốn ván không ?</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It 's important to know that in general the risk of problems from getting tetanus is much greater than getting a tetanus vaccine .</s>
+<s id='vn52'>Điều cần thiết nên biết là nói chung nguy cơ xảy ra vấn đề do mắc bệnh uốn ván cao hơn nhiều so với chủng ngừa vắc-xin uốn ván .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>You cannot get tetanus from the tetanus shot .</s>
+<s id='vn53'>Chủng ngừa không làm bạn mắc bệnh .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>However , sometimes the tetanus vaccine can cause mild side effects .</s>
+<s id='vn54'>Tuy nhiên , đôi khi vắc-xin ngừa uốn ván cũng có thể gây một số tác dụng phụ nhẹ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>These may include :</s>
+<s id='vn55'>Chúng bao gồm :</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* Soreness , redness , or swelling at the site of the injection</s>
+<s id='vn56'>* Đau nhức , đỏ , hoặc sưng ở vùng tiêm</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* Fever</s>
+<s id='vn57'>* Sốt</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* Headache or body aches</s>
+<s id='vn58'>* Nhức đầu hoặc đau nhức toàn thân</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* Fatigue</s>
+<s id='vn59'>* Mệt mỏi</s>
+</spair>
+<spair id='60'>
+<s id='en60'>A severe allergic reaction ( anaphylaxis ) is also very rare , but can result within minutes of being vaccinated .</s>
+<s id='vn60'>Phản ứng dị ứng nặng ( sốc mẫn cảm ) cũng rất hiếm xảy ra , nhưng có thể xảy ra trong khi tiêm chủng một vài phút .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Symptoms may include :</s>
+<s id='vn61'>Triệu chứng có thể gồm :</s>
+</spair>
+<spair id='62'>
+<s id='en62'>* Skin flushing , itching , or swelling</s>
+<s id='vn62'>* Đỏ da , ngứa , hoặc sưng phù</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* Trouble breathing or other respiratory symptoms</s>
+<s id='vn63'>* Khó thở hoặc các triệu chứng hô hấp khác</s>
+</spair>
+<spair id='64'>
+<s id='en64'>* Nausea , vomiting , diarrhea , or abdominal cramping</s>
+<s id='vn64'>* Buồn nôn , ói , tiêu chảy , hoặc chuột rút bụng</s>
+</spair>
+<spair id='65'>
+<s id='en65'>* Dizziness , low blood pressure , a fast heartbeat</s>
+<s id='vn65'>* Chóng mặt , huyết áp thấp , nhịp tim nhanh</s>
+</spair>
+<spair id='66'>
+<s id='en66'>If you have any signs of a severe reaction :</s>
+<s id='vn66'>Nếu bạn có bất kỳ dấu hiệu phản ứng dữ dội nào hãy :</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* Call the doctor or get to a doctor right away .</s>
+<s id='vn67'>* Gọi điện cho bác sĩ hoặc đến khám bác sĩ ngay tức khắc .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* Describe when you had the vaccine and what occurred .</s>
+<s id='vn68'>* Miêu tả cho bác sĩ biết bạn tiêm chủng khi nào và xảy ra triệu chứng gì .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* Have a health care professional report the reaction .</s>
+<s id='vn69'>* Nhờ một chuyên gia chăm sóc sức khỏe thuật lại phản ứng của bệnh .</s>
+</spair>
+</text>
+</doc>

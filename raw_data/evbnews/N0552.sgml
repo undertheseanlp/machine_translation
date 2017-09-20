@@ -1,0 +1,96 @@
+﻿<doc id='N0552'>
+<head>
+<title>Mother 's diet during pregnancy alters baby 's DNA</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Mother 's diet during pregnancy alters baby 's DNA</s>
+<s id='vn1'>Chế độ ăn uống của bà mẹ trong quá trình mang thai thay đổi ADN của trẻ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A mother 's diet during pregnancy can alter the DNA of her child and increase the risk of obesity , according to researchers .</s>
+<s id='vn2'>Các nhà nghiên cứu cho biết chế độ ăn uống của bà mẹ trong quá trình mang thai có thể làm thay đổi ADN của trẻ và làm tăng nguy cơ béo phì .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The study , to be published in the journal Diabetes , showed that eating low levels of carbohydrate changed bits of DNA .</s>
+<s id='vn3'>Nghiên cứu này được công bố trên tạp chí Diabetes nói rằng việc ăn thức ăn chứa hàm lượng hy-đrát-các–bon thấp khiến ADN có nhiều thay đổi .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It then showed children with these changes were fatter .</s>
+<s id='vn4'>Nó còn đưa ra trẻ với những thay đổi này sẽ trở nên béo phì .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The British Heart Foundation called for better nutritional and lifestyle support for women .</s>
+<s id='vn5'>Quỹ tim mạch Anh đã kêu gọi việc hỗ trợ lối sống dinh dưỡng tốt hơn cho phụ nữ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It is thought that a developing baby tries to predict the environment it will be born into , taking cues from its mother and adjusting its DNA .</s>
+<s id='vn6'>Người ta nghĩ rằng một đứa trẻ đang phát triển cố dự đoán môi trường nó sẽ được sinh ra , chịu những ảnh hưởng từ người mẹ và điều chỉnh AND của nó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Epigenetics</s>
+<s id='vn7'>Thuộc biểu sinh</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Studies in animals have shown that changes in diet can alter the function of genes - known as epigenetic change .</s>
+<s id='vn8'>Các nghiên cứu ở động vật cho thấy những thay đổi về chế độ ăn có thể thay đổi chức năng của gen - hay còn gọi là thay đổi biểu sinh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It is a growing field trying to understand how the environment interacts with genes .</s>
+<s id='vn9'>Đây là một lĩnh vực đang phát triển nhằm tìm hiểu cách môi trường tương tác với gen như thế nào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In this study , the researchers took samples from the umbilical cord and looked for " epigenetic markers " .</s>
+<s id='vn10'>Ở nghiên cứu này , các nhà nghiên cứu lấy các mẫu từ dây rốn để tìm kiếm " di truyền biểu sinh " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>They showed that mothers with early pregnancy diets low in carbohydrates , such as sugars and starch , had children with these markers .</s>
+<s id='vn11'>Họ cho thấy những bà mẹ có chế độ ăn chứa hàm lượng hy-đrát-các–bon thấp như đường và tinh bột trong thời kỳ mang thai đầu thì trẻ cũng bị những di chứng đó .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They then showed a strong link between those same markers and a child 's obesity at ages six and nine .</s>
+<s id='vn12'>Sau đó họ còn đưa ra mối liên hệ mạnh mẽ giữa những di chứng tương tự đó với bệnh béo phì ở trẻ từ sáu đến chín tuổi .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Professor Keith Godfrey , who is from the University of Southampton and led the international study , told the BBC : " What is surprising is that it explains a quarter of the difference in the fatness of children six to nine years later . "</s>
+<s id='vn13'>Giáo sư Keith Godfrey đến từ Trường Đại học Southampton người dẫn đầu nghiên cứu quốc tế phát biểu trên BBC rằng : " Điều bất ngờ là nghiên cứu cho thấy một phần tư sự khác nhau ở trẻ béo phì từ sáu đến chín tuổi sau đó . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The report says the effect was " considerably greater " than that of birth weight and did not depend on how thin or fat the mother was .</s>
+<s id='vn14'>Báo cáo còn cho biết ảnh hưởng này " lớn hơn đáng kể " so với ảnh hưởng về trọng lượng lúc chào đời mà không phụ thuộc vào việc bà mẹ mập hay gầy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The changes were noticed in the RXRA gene .</s>
+<s id='vn15'>Những thay đổi đó được nhận thấy ở gen RXRA .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This makes a receptor for vitamin A , which is involved in the way cells process fat .</s>
+<s id='vn16'>Khiến cho việc hấp thụ vitamin A có liên quan đến cơ chế xử lý chất béo của tế bào .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Professor Godfrey said : " It is both a fascinating and potentially important piece of research .</s>
+<s id='vn17'>Giáo sư Godfrey phát biểu rằng : " Đó vừa là một công trình nghiên cứu thú vị vừa mang tầm quan trọng tiềm ẩn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" All women who become pregnant get advice about diet , but it is not always high up the agenda of health professionals .</s>
+<s id='vn18'>" Mọi phụ nữ mang thai đều phải có lời khuyên về chế độ ăn uống , nhưng không phải lúc nào đó cũng là điều quan trọng cần làm của các chuyên gia sức khoẻ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" The research suggests women should follow the advice as it may have a long term influence on the baby 's health after it is born . "</s>
+<s id='vn19'>" Nghiên cứu khuyến cáo phụ nữ nên nghe theo lời khuyên vì nó có thể ảnh hưởng lâu dài đến sức khoẻ của trẻ sau khi trẻ chào đời . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Professor Mark Hanson , of the British Heart Foundation , said : " This study provides compelling evidence that epigenetic changes , at least in part , explain the link between a poor start to life and later disease risk .</s>
+<s id='vn20'>Giáo sư Mark Hanson thuộc Quỹ tim mạch Anh nói rằng : " Nghiên cứu này đưa ra bằng chứng thuyết phục mà những thay đổi biểu sinh , ít nhất là một phần nào đó đã giải thích về mối liên hệ giữa việc bắt đầu cuộc sống không đầy đủ với nguy cơ bệnh tật sau này .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" It strengthens the case for all women of reproductive age having greater access to nutritional , education and lifestyle support to improve the health of the next generation , and to reduce the risk of the conditions such as diabetes and heart disease , which often follow obesity . "</s>
+<s id='vn21'>" Nghiên cứu nhấn mạnh đối với trường hợp phụ nữ trong độ tuổi sinh sản đều có quyền được hỗ trợ nhiều hơn về dinh dưỡng , giáo dục và lối sống nhằm cải thiện sức khỏe thế hệ kế tiếp đồng thời giúp giảm nguy cơ mắc các bệnh như bệnh tiểu đường và bệnh tim thường theo sau bệnh béo phì . "</s>
+</spair>
+</text>
+</doc>

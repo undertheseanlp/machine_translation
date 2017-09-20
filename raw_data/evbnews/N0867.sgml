@@ -1,0 +1,108 @@
+﻿<doc id='N0867'>
+<head>
+<title>Sensor easily detects date rape drugs in drinks</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Sensor easily detects date rape drugs in drinks</s>
+<s id='vn1'>Thiết bị cảm biến dễ dàng phát hiện thuốc kích dục trong thức uống</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Date rape drugs can be added to a person 's drink , making them vulnerable to sexual exploitation .</s>
+<s id='vn2'>Các loại thuốc kích dục có thể được thêm vào thức uống của một người , làm cho họ dễ bị tổn thương để xâm phạm tình dục .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A new sensor that could look like a tiny stirrer or straw can be placed in the drink and accurately tell whether it has been spiked .</s>
+<s id='vn3'>Một thiết bị cảm biến mới có thể trông giống như một que khuấy nhỏ hoặc ống hút có thể được đặt vào trong thức uống và cho biết chính xác thức uống đó có bị pha thuốc hay không .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Creators and developers of the sensor , Professor Fernando Patolsky and Doctor Michael Ioffe of Tel Aviv University 's school of chemistry , say that it looks like a straw and can simply be dipped into a drink .</s>
+<s id='vn4'>Người sáng tạo và phát triển những cảm biến này , giáo sư Fernando Patolsky và Tiến sĩ Michael Ioffe tại trường hóa học của Đại học Tel Aviv , nói rằng nó trông giống như một ống hút và chỉ cần được nhúng vào thức uống .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In the final production they may make it look like a stirrer .</s>
+<s id='vn5'>Khi đưa vào sản xuất thực sự để bán ra thị trường , họ có thể làm cho nó trông giống như một que khuấy .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The tiny device does not even have to be help up to the light to get a reading .</s>
+<s id='vn6'>Thiết bị nhỏ này thậm chí không cần phải đưa ra ánh đèn để đọc kết quả .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Ioffe said :</s>
+<s id='vn7'>Ioffe cho biết :</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" We have n't decided how it will let you know .</s>
+<s id='vn8'>" Chúng tôi chưa quyết định cách nó sẽ báo động cho bạn biết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Maybe it will just light up , or a part of it will rotate or maybe it will send a signal to your cell phone because you want to be discreet about it . "</s>
+<s id='vn9'>Có lẽ nó sẽ sáng lên , hoặc một phần của nó sẽ xoay hoặc có thể nó sẽ gửi một tín hiệu vào điện thoại di động của bạn bởi vì bạn kín đáo về nó . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The researchers say their device is 100% accurate .</s>
+<s id='vn10'>Các nhà nghiên cứu nói rằng thiết bị của họ chính xác 100% .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>According to the US Department of Justice , approximately 200,000 women were raped in the USA after consuming a spiked drink in 2007 .</s>
+<s id='vn11'>Theo Bộ Tư pháp Hoa Kỳ , khoảng 200.000 phụ nữ đã bị hãm hiếp ở Hoa Kỳ sau khi dùng thức uống bị pha thuốc kích dục trong năm 2007 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Sadly , only about 16% of them reported the incident .</s>
+<s id='vn12'>Đáng tiếc là chỉ khoảng 16% trong số họ tố cáo sự việc .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The majority of the victims are teenagers or young adults .</s>
+<s id='vn13'>Phần lớn các nạn nhân là thanh thiếu niên hoặc thanh thiếu niên .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The spiking generally occurs at clubs or bars .</s>
+<s id='vn14'>Việc pha thuốc vào nước uống thường xảy ra tại các câu lạc bộ hay quán rượu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Worldwide , it is thought that at least half a million women are raped each year after consuming adulterated drinks .</s>
+<s id='vn15'>Người ta ước tính có ít nhất một nửa triệu phụ nữ bị cưỡng hiếp mỗi năm trên toàn cầu sau khi dùng đồ uống bị pha thuốc .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In their study , the researchers randomly selected 50 drinks from a series of cocktails and blind tested them with a developed solution .</s>
+<s id='vn16'>Trong nghiên cứu , các nhà nghiên cứu lựa chọn ngẫu nhiên 50 loại đồ uống từ một loạt các loại cocktail và thử nghiệm mù chúng với một dung dịch kiểm tra .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>They say the detection was 100% accurate for several drugs , including ketamine and GHB ( gamma-hydroxybutyric acid ) .</s>
+<s id='vn17'>Họ cho biết việc phát hiện là chính xác 100% đối với nhiều loại thuốc , bao gồm cả thuốc gây mê và GHB ( gamma-hydroxybutyric acid ) .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The teams are seeking financial backing to create a device that can detect Rohypnol , also known as roofies , a drug commonly used to sedate victims of date rape .</s>
+<s id='vn18'>Các nhóm nghiên cứu đang tìm kiếm sự hỗ trợ tài chính để tạo ra một thiết bị có thể phát hiện Rohypnol , còn được gọi là roofies , một loại thuốc thường được dùng giúp an thần cho các nạn nhân bị cưỡng hiếp do bị bỏ thuốc .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Date rape drugs are drugs that are used to facilitate a sexual assault , such as date rape .</s>
+<s id='vn19'>Các loại thuốc kích dục là thuốc dùng để tạo điều kiện thuận lợi cho việc hiếp dâm , như là cưỡng hiếp người quen .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>They may have amnesiac , dissociative , hypnotic , and_or sedative effects , and can be added to drink or food without the attacker 's prey knowing .</s>
+<s id='vn20'>Chúng có thể có tác dụng làm mất trí nhớ , mất lý trí , gây ngủ , và hoặc làm an thần , có thể được thêm vào trong nước uống hay thức ăn mà nạn nhân của kẻ tấn công không hề hay biết .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Adding these substances to drinks is known as drink spiking .</s>
+<s id='vn21'>Thêm những chất này vào thức uống được coi như là bỏ thuốc vào thức uống .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>People may do this out of malice , weird amusement , or for theft or sexual assault .</s>
+<s id='vn22'>Mọi người có thể làm điều này vì ác ý , đùa giỡn kỳ cục , hoặc để trộm cắp hay cưỡng hiếp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The three most popular date rape drugs are alcohol , GHB ( gamma-hydroxybutyric acid ) , and benzodiazepines , such as flunitrazepam ( Rohypnol or roofies ) .</s>
+<s id='vn23'>3 loại thuốc kích dục phổ biến nhất là rượu , GHB ( gamma-hydroxybutyric acid ) , và các benzodiazepin , như flunitrazepam ( Rohypnol hoặc roofies ) .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Alcohol is still the most commonly used drug in substance-assisted sexual assault .</s>
+<s id='vn24'>Rượu vẫn là loại thường được sử dụng nhất trong các chất hỗ trợ tấn công tình dục .</s>
+</spair>
+</text>
+</doc>

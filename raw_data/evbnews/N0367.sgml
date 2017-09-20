@@ -1,0 +1,72 @@
+﻿<doc id='N0367'>
+<head>
+<title>Opera Mini 5 reaches Android</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Opera Mini 5 reaches Android</s>
+<s id='vn1'>Opera Mini 5 dành cho Android</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Opera recommitted to Android in significant fashion today by launching Opera Mini 5 in beta .</s>
+<s id='vn2'>Opera cam kết lại Android là một hệ điều hành thời trang đang được thu hút ngày nay bằng việc cho ra mắt Opera Mini 5 trong phiên bản beta .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The new version brings Speed Dial over from the desktop and lets users visually jump to one of nine favorite sites from the home screen .</s>
+<s id='vn3'>Phiên bản mới này mang theo Speed Dial từ bản dành cho máy tính để bàn và cho phép người dùng có thể chuyển một cách trực quan tới một trong 9 trang web ưa thích từ màn hình chủ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Tabbed browsing is similarly new and uses a relatively uncommon approach that shows tabs visually without disrupting the main page .</s>
+<s id='vn4'>Duyệt web theo Tab tương đối mới mẻ và sử dụng một phương pháp khá lạ để trình bày các thẻ một cách trực quan mà không gây ảnh hưởng đến trang chính .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>More features carry over from full-size releases , such as a password manager and a bookmark sync feature known as Opera Link that can share pages between desktop and mobile versions of the browser .</s>
+<s id='vn5'>Nhiều tính năng hơn có mặt trong các bản phát hành đầy đủ , như một trình quản lý mật khẩu và một tính năng đồng bộ đánh dấu trang gọi là Opera Link để có thể chia sẻ các trang giữa các phiên bản trình duyệt di động và phiên bản máy tính để bàn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Opera Mini is free to use and should work on most any Android phone released so far .</s>
+<s id='vn6'>Opera Mini được dùng miễn phí và sẽ hoạt động trên hầu hết điện thoại Android đã phát hành .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Electronista has given the new Android browser a test .</s>
+<s id='vn7'>Electronista đã cho trình duyệt Android mới thử nghiệm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>So far , we 're fairly impressed by the browser 's interface most of all .</s>
+<s id='vn8'>Cho đến nay , chúng tôi khá ấn tượng trước hầu hết giao diện của trình duyệt này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although it lacks multi-touch in the current version ( for those phones that support it ) , all its features are easy to use ; we especially liked tabbed browsing , since it provides an easy point of reference both for the existing page and for those opened in tabs .</s>
+<s id='vn9'>Mặc dù nó thiếu khả năng đa chạm trong phiên bản hiện tại ( đối với những điện thoại mà hỗ trợ nó ) , tất cả các tính năng của nó rất dễ sử dụng , chúng tôi đặc biệt thích duyệt web theo Tab , vì nó cung cấp một điểm tham chiếu dễ dàng đến cả trang hiện tại và những trang được mở trong thẻ đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Speed Dial is no longer a special feature for browsers as a whole , but it 's convenient for sites you visit almost constantly .</s>
+<s id='vn10'>Speed Dial không còn là một tính năng đặc biệt cho các trình duyệt nói chung mà nó còn thuận tiện đối với các trang web mà bạn truy cập thường xuyên .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The browser loads content very quickly due to Opera 's signature compression feature , which squeezes sites through a proxy server before they reach the phone .</s>
+<s id='vn11'>Trình duyệt này tải nội dung rất nhanh chóng nhờ vào tính năng nén chữ ký của Opera , nó nén các trang web thông qua một máy chủ proxy trước khi chúng tới điện thoại .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It may be this , however , that poses the problem .</s>
+<s id='vn12'>Tuy nhiên để làm được như vậy có nhiều vấn đề được đặt ra .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>We noticed some rendering inaccuracies around the text on some parts of our own pages .</s>
+<s id='vn13'>Chúng tôi nhận thấy một số sai sót xuất hiện trong văn bản trên một số phần trang riêng của chúng tôi .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Also , Opera does n't always behave well when the phone is n't directly connected to the cellular network : page loads would often stall out on Wi-Fi but work properly the moment we dropped Wi-Fi and switched to 3G .</s>
+<s id='vn14'>Ngoài ra , Opera không phải lúc nào cũng xử lí tốt khi điện thoại không kết nối trực tiếp với mạng điện thoại di động : trang tải về sẽ thường ngừng chạy trên mạng Wi-Fi nhưng sẽ hoạt động tốt khi chúng tôi bỏ mạng Wi-Fi và chuyển sang dùng 3G .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Still , the app is currently in a beta that could fix such issues , and those who regularly juggle multiple pages or who simply need to conserve bandwidth on a limited data plan will want to consider even the pre-release version of Opera as an alternative .</s>
+<s id='vn15'>Tuy nhiên , ứng dụng này hiện tại chỉ là phiên bản beta nên có thể nhiều vấn đề cần được khắc phục và những người thường xuyên mở nhiều trang hoặc đơn giản là cần tiết kiệm băng thông dữ liệu giới hạn muốn được xem xét 2 khả năng này ngay cả những phiên bản được phát hành trước khi Opera chính thức ra mắt .</s>
+</spair>
+</text>
+</doc>

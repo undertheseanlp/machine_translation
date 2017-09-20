@@ -1,0 +1,88 @@
+﻿<doc id='N0711'>
+<head>
+<title>US debt talks deadlock drags on</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>US debt talks deadlock drags on</s>
+<s id='vn1'>Đàm phán nợ của Mỹ tiếp tục bế tắc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>President Barack Obama has told lawmakers he wants agreement on a US debt deal in 24-36 hours , Republican and Democratic aides say .</s>
+<s id='vn2'>Các trợ lý hai đảng Cộng Hòa và Dân chủ cho hay , tổng thống Barack Obama nói với các nhà lập pháp rằng ông muốn đạt được thỏa thuận đàm phán nợ của Mỹ trong vòng 24 đến 36 giờ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A fifth consecutive day of cross-party negotiations at the White House between President Obama and congressional leaders failed to make a breakthrough .</s>
+<s id='vn3'>Ngày thứ năm liên tiếp trong cuộc thương thuyết của hai đảng tại Tòa Bạch Ốc giữa Tổng thống Obama và các lãnh đạo quốc hội không tạo ra được bước đột phá nào .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The president plans to hold a news conference to discuss the troubled talks at 11h ( 15:00 GMT ) on Friday .</s>
+<s id='vn4'>Tổng thống dự định tổ chức một cuộc họp báo để thảo luận về cuộc thương lượng bế tắc vào lúc 11 giờ ( 15 giờ GMT ) vào thứ Sáu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The US must raise its $ 14.3tn ( £8.9tn ) debt ceiling to borrow beyond 2 August .</s>
+<s id='vn5'>Hoa Kỳ phải nâng mức trần vay nợ 14,3 tỷ đô - la ( 8,9 tỷ bảng Anh ) sau thời hạn 2 tháng Tám .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Failure to reach a deal would rattle a world economy still trying to put the 2008 downturn behind it , analysts say .</s>
+<s id='vn6'>Theo giới phân tích , không đạt được thỏa thuận sẽ gây bối rối cho nền kinh tế thế giới vẫn còn đang cố gắng vượt qua hậu quả của thời kỳ suy thoái năm 2008 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" Childish "</s>
+<s id='vn7'>" Trẻ con "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>On Thursday , Standard Poor 's became the second of the major credit rating agencies to place US debt problem review , citing an increasing risk of a payment default .</s>
+<s id='vn8'>Hôm thứ Năm , Standard Poor 's trở thành đơn vị thứ hai trong số các cơ quan xếp hạng khả tín quan trọng xem xét lại vấn đề nợ của Mỹ , và dẫn ra nguy cơ vỡ nợ đang gia tăng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Another ratings agency , Moody 's , warned a day earlier that it might cut Washington 's triple-A debt rating .</s>
+<s id='vn9'>Moody 's , một cơ quan xếp bậc khả tín khác , trước đó một ngày đã cảnh báo rằng họ có thể hạ bậc khả tín AAA của Washington .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>President Obama said that if congressional leaders could not " find agreement on the path forward " in the next 24-36 hours , the negotiations would have to continue into the weekend , according to Democratic and Republican aides .</s>
+<s id='vn10'>Theo các trợ lý của đảng Dân Chủ và Cộng Hòa , Tổng thống Obama nói rằng nếu các lãnh đạo quốc hội không thể " đạt được thỏa thuận cho tiếp trình sắp tới " trong vòng 24 đến 36 giờ kế tiếp , cuộc đàm phán sẽ phải tiếp tục diễn ra vào cuối tuần .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The political impasse boiled over on Thursday to the Senate floor , where Majority Leader Harry Reid , a Democrat , called House Republican Leader Eric Cantor " childish " .</s>
+<s id='vn11'>Vào thứ Năm , bế tắc chính trị sôi sục tràn sang cơ quan Thượng Nghị Viện , lãnh đạo phe đa số Harry Reid , đảng viên đảng Dân Chủ , gọi lãnh đạo Hạ Nghị Viện theo đảng Cộng hòa Eric Cantor là " trẻ con " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Mr Reid said Mr Cantor " has shown he should n't even be at the table " in the debt talks at the White House .</s>
+<s id='vn12'>Ông Reid phát biểu ông Cantor " cho thấy rằng ông ta thậm chí không nên có mặt tại bàn hội nghị " trong cuộc đàm phán nợ tại Tòa Bạch Ốc .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Mr Cantor reportedly told President Obama during Wednesday evening 's negotiations that the tax rises sought by Democrats simply were not going to happen .</s>
+<s id='vn13'>Theo tin đã đưa , ông Cantor nói với Tổng thống Obama trong cuộc đàm phán tối thứ Tư rằng việc tăng thuế theo ý muốn của các đảng viên Dân Chủ đơn giản sẽ không diễn ra .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>He is also said to have urged the president to accept a short-term deal instead of a budget that would carry through to the presidential election in November 2012 .</s>
+<s id='vn14'>Nguồn tin còn cho hay ông ấy đã hối thúc tổng thống nên chấp nhận thỏa thuận ngắn hạn thay vì một ngân sách kéo dài sang kỳ bầu cử tổng thống vào tháng 11 năm 2012 .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>That is said to have prompted Mr Obama to say : " Enough is enough ... I 'll see you all tomorrow , " before leaving the room .</s>
+<s id='vn15'>Tin cho biết điều này khiến ông Obama nói : " Quá đủ rồi … sẽ gặp lại tất cả các vị vào ngày mai , " trước khi rời khỏi phòng họp .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>US Federal Reserve chairman chief Ben Bernanke warned a Senate panel on Wednesday that a default would cause a " major crisis " , adding it would be a " self-inflicted wound " .</s>
+<s id='vn16'>Chủ tịch thứ nhất Cục Dự Trữ Liên Bang Mỹ Ben Bernanke cảnh báo ủy ban Thượng Nghị Viện hôm thứ Tư rằng trường hợp vỡ nợ sẽ gây ra một cuộc " khủng hoảng lớn " , và nói thêm đó sẽ là một " vết thương tự gây ra " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>President Obama needs the Republican-led House of Representatives and Democratic-held Senate to agree a deal to trim the US deficit , and allow Washington to borrow beyond the 2 August deadline .</s>
+<s id='vn17'>Tổng thống Obama cần Hạ Viện do phe Cộng Hòa kiểm soát và Thượng Viện do đảng Dân Chủ lãnh đạo đạt được thỏa thuận cắt giảm thâm hụt ngân sách Mỹ , và cho phép Washington vay tiền sau thời hạn ngày 2 tháng Tám .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He has said he is willing to countenance cuts to social safety-net programmes dear to Democrats , as long as there are tax rises for the rich .</s>
+<s id='vn18'>Ông nói ông sẵn sàng đồng ý cắt giảm chương trình mạng lưới an toàn xã hội mà phe Dân Chủ đánh giá cao , chừng nào có tăng thuế đối với người giàu .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Republicans have rejected the latter proposal , saying that would stifle investment and job growth .</s>
+<s id='vn19'>Các đảng viên Cộng Hòa đã từ chối lời đề nghị sau , vì cho rằng điều đó sẽ bóp nghẹt đầu tư và tăng trưởng việc làm .</s>
+</spair>
+</text>
+</doc>

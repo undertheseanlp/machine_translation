@@ -1,0 +1,72 @@
+﻿<doc id='N0098'>
+<head>
+<title>Typhoon Megi death toll rises to three in Philippines</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Typhoon Megi death toll rises to three in Philippines</s>
+<s id='vn1'>Ba người tử vong vì cơn bão Megi ở Philippines</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Baguio , Philippines ( AFP ) - Philippine authorities said Tuesday the death toll from Typhoon Megi had risen to three , as the storm dumped heavy rains across the main island of Luzon for a second consecutive day .</s>
+<s id='vn2'>Baguio , Philippines ( AFP ) - Chính quyền Philippine cho biết vào ngày thứ ba tổng số người tử vong vì cơn bão Megi đã tăng đến con số ba người , trong khi đó cơn bão đổ lượng mưa lớn xuống hòn đảo Luzon trong ngày thứ nhì kế tiếp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Many areas in northern Isabela province , which bore the brunt of Megi 's fury , remained without power and communication facilities after being lashed by wind gusts of up to 260 kilometres ( 161 miles ) an hour on Monday .</s>
+<s id='vn3'>Nhiều khu vực ở tỉnh miền bắc Isabela , nới gánh chịu hậu quả nặng nhất của bão Megi , vẫn còn bị ngắt điện và các phương tiện thông tin bị gián đoạn sau khi bị những cơn gió mạnh lên đến 260 km ( 161 dặm ) một giờ đánh sập vào ngày thứ hai .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In its latest update on Tuesday morning , the Disaster Risk Reduction Management Council said a man and a woman were crushed by fallen trees separately in the northern Philippines on Monday .</s>
+<s id='vn4'>Theo thông tin cập nhật mới nhất vào sáng thứ ba , Cơ quan Quản lý và Hạn chế Rủi ro Thiên tai cho hay có một người đàn ông và một người phụ nữ đều bị chết vì bị cây ngã ở hai nơi khác nhau thuộc miền bắc Philippines vào ngày thứ hai .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A 53-year-old man was previously reported dead after he drowned in a swollen river at the height of the typhoon in another area of the north .</s>
+<s id='vn5'>Trước đó một người đàn ông 53 tuổi được báo cáo là đã chết đuối do nước sông dâng cao ở đỉnh điểm cơn bão thuộc một khu vực khác của phía bắc .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The head of the Philippine Red Cross , Gwen Pang , said it was too early to know the extent of the damage .</s>
+<s id='vn6'>Giám đốc hội Chữ thập đỏ Philippine , Gwen Pang , cho hay vẫn còn quá sớm để có thể biết được mức độ thiệt hại .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" We are hoping that the casualties remain low , " Pang told AFP .</s>
+<s id='vn7'>Ông Pang đã phát biểu với AFP : " Chúng tôi hi vọng số người tử vong vẫn duy trì ở mức thấp ,</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" We ca n't say it will not go up , but people were more prepared this time . "</s>
+<s id='vn8'>" Chúng tôi không đảm bảo con số này sẽ không còn tăng thêm nhưng lần này mọi người đã có sự chuẩn bị tốt hơn . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What we are expecting is more reports of heavy damage .</s>
+<s id='vn9'>Chúng tôi đang mong chờ nhận được thêm các bản báo cáo về tình hình thiệt hại .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>There are still many areas without power and communications , while some roads are cut off by landslides .</s>
+<s id='vn10'>Vẫn còn nhiều khu vực không có điện và thông tin liên lạc , trong khi đó một số tuyến đường bị chặn vì lở đất .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Megi , the strongest typhoon to hit the Philippines in four years , slammed into Isabela province at midday ( 04:00 GMT ) on Monday , bringing heavy rains and winds that tore roofs off houses .</s>
+<s id='vn11'>Megi , là cơn bão mạnh nhất ập vào Philippines trong bốn năm nay , làm tê liệt tỉnh Isabela vào buổi trưa ( 04:00 GMT ) ngày thứ hai , trút những trận mưa lớn và gió mạnh làm tốc nhiều mái nhà .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It then cut a westward path and exited Luzon 's western coast at midnight .</s>
+<s id='vn12'>Sau đó nó rẽ hướng về hướng tây và rời khỏi bờ biển phía tây của đảo Luzon lúc nửa đêm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>By Tuesday morning it was about 210 kilometres ( 130 miles ) off the west coast of Luzon and heading toward the South China Sea , the state weather bureau said .</s>
+<s id='vn13'>Theo cơ quan khí tượng quốc gia cho biết , vào sáng thứ ba nó sẽ tiếp tục di chuyển 210km ( 130 dặm ) ngoài khơi bờ biển phía tây Luzon và hướng về Biển Đông .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But the storm continued to dump heavy rains across Luzon .</s>
+<s id='vn14'>Nhưng cơn bão vẫn tiếp tục làm mưa to ở Luzon .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Classes remained suspended in several northern provinces Tuesday , while Isabela was declared under a " state of calamity " allowing it to tap into emergency funding .</s>
+<s id='vn15'>Trường học tiếp tục tạm hoãn ở vài tỉnh miền bắc vào ngày thứ ba , trong khi đó Isabela được tuyên bố đang ở trong " tình trạng thảm hoạ " cần phải cứu trợ khẩn cấp .</s>
+</spair>
+</text>
+</doc>

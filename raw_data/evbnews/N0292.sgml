@@ -1,0 +1,80 @@
+﻿<doc id='N0292'>
+<head>
+<title>Baby 's Brain Suffers When Mother Eats Less</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Baby 's Brain Suffers When Mother Eats Less</s>
+<s id='vn1'>Não trẻ bị tổn thương khi mẹ ăn ít</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Brain development could be impacted in babies whose mothers ate poorly during pregnancy .</s>
+<s id='vn2'>Phát triển trí não có thể bị ảnh hưởng ở trẻ mà mẹ của chúng ăn uống quá kiêng trong giai đoạn mang thai .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>New research indicates that even in a mother 's eating can have a negative impact on her baby 's brain development .</s>
+<s id='vn3'>Một nghiên cứu mới cho thấy việc ăn uống kém của bà mẹ có thể gây ảnh hưởng tiêu cực đến sự phát triển trí não của con cái .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Previous studies have shown that seriously undernourished pregnant women are more likely to have babies who are , weigh less , and have various health issues .</s>
+<s id='vn4'>Các nghiên cứu trước đây đã cho thấy phụ nữ đang mang thai với chế độ dinh dưỡng kém có nguy cơ sinh con nhỏ , nhẹ cân , và mắc nhiều vấn đề sức khoẻ khác .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Even a small reduction in food can apparently also affect the brain of the developing fetus .</s>
+<s id='vn5'>Thậm chí khi giảm khẩu phần ăn lại một chút cũng có thể ảnh hưởng đến não của thai nhi đang phát triển .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>In a new study , researchers at the University of Texas Health Science Center in San Antonio gave one group of pregnant baboons a normal diet , while others ate 30 percent less .</s>
+<s id='vn6'>Trong một nghiên cứu mới , các nhà nghiên cứu tại Trường Đại học Texas Health Science Center ở San Antonio cho một nhóm khỉ đầu chó mang thai với chế độ ăn uống bình thường , và một nhóm ăn ít hơn 30% .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>According to lead researcher Thomas McDonald , when the mother had less food to eat , the shortage showed up in certain structures inside the developing infants ' brains .</s>
+<s id='vn7'>Theo trưởng nhóm nghiên cứu Thomas McDonald , khi con mẹ ăn ít , vài cấu trúc trong não của con bị kém phát triển .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" We have the ability to pinpoint things like synapse formation , connectivity between neurons , " McDonald said .</s>
+<s id='vn8'>" Chúng tôi có khả năng xác định chính xác những cấu trúc như sự hình thành khớp thần kinh , sự kết nối giữa các tế bào thần kinh , " Mcdonald cho biết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" And we found that supporting cells called glial cells are less mature than they should be at specific ages . "</s>
+<s id='vn9'>" Và chúng tôi nhận thấy các tế bào hỗ trợ gọi là tế bào thần kinh đệm ít tăng trưởng hơn bình thường tại một độ tuổi cụ thể . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Those findings of various problems in brain development were identified by dissecting the brains of the fetal baboons halfway through their normal gestation period - something that obviously wouldn't be possible with human .</s>
+<s id='vn10'>Các phát hiện về các vấn đề khác nhau trong sự phát triển trí não đã được xác định bằng cách cắt lớp của bào thai khỉ đầu chó ở giữa thời gian mang thai bình thường của chúng - điều hiển nhiên sẽ không thể thực hiện trên con người .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>These discoveries may help explain what other researchers have learned about children whose mothers didn't eat enough while pregnant .</s>
+<s id='vn11'>Những khám phá này có thể giúp giải thích những gì mà các nhà nghiên cứu khác đã tìm hiểu về trẻ em mà mẹ của chúng đã không ăn uống đầy đủ trong khi mang thai .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" I think what has been found in human studies is behavioral problems , certainly , very decreased attention spans , lower IQ , " McDonald said .</s>
+<s id='vn12'>" Tôi nghĩ khám phá trong các nghiên cứu ở là các vấn đề về hành vi như suy giảm tập trung , chỉ số IQ thấp , " Mcdonald nói .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" I think that 's the big thing , when these kids get to school , a lot of these kids just can't concentrate . "</s>
+<s id='vn13'>" Tôi nghĩ đó là những vấn đề quan trọng , khi bọn trẻ này đến trường , nhiều đứa không thể tập trung . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The researcher says his study underscores the importance for pregnant women to focus on their baby 's needs .</s>
+<s id='vn14'>Nhà nghiên cứu cho biết nghiên cứu của ông nhấn mạnh tầm quan trọng đối với phụ nữ mang thai nên tập trung đến nhu cầu của trẻ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" You don't want to shortchange your baby .</s>
+<s id='vn15'>" Bạn không muốn đối xử bất công với con bạn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>You want to give them the best chance in life .</s>
+<s id='vn16'>Bạn muốn cho chúng tất cả cơ hội tốt nhất để sống .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And I think good nutrition and good prenatal care is the best thing a parent can do . "</s>
+<s id='vn17'>Và tôi nghĩ dinh dưỡng tốt và sự chăm sóc tiền sản chu đáo là thứ tốt nhất một bậc cha mẹ có thể làm . "</s>
+</spair>
+</text>
+</doc>

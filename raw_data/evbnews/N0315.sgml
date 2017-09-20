@@ -1,0 +1,728 @@
+﻿<doc id='N0315'>
+<head>
+<title>1 . Japan GDP figures show sharp slowing of economic growth</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>1 . Japan GDP figures show sharp slowing of economic growth</s>
+<s id='vn1'>1 . Con số về GDP của Nhật Bản cho thấy mức tăng trưởng kinh tế chậm rõ nét</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Japan relies on exports for growth but the strong yen is making that more difficult</s>
+<s id='vn2'>Nhật Bản phát triển chủ yếu dựa vào xuất khẩu nhưng đồng yên mạnh hiện đang làm cho việc này trở nên khó khăn hơn .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Economic growth in Japan weakened significantly in the last financial quarter , official figures show .</s>
+<s id='vn3'>Các con số chính thức cho thấy mức tăng trưởng kinh tế của Nhật Bản đã suy yếu đi đáng kể trong quý tài chính vừa qua .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Between April and June this year gross domestic product - the sum of the nation 's goods and services - grew by 0.1 % , much lower than expected .</s>
+<s id='vn4'>Từ tháng tư đến tháng sáu năm nay , tổng sản lượng nội địa - tổng lượng hàng hoá và dịch vụ của quốc gia - chỉ tăng 0,1% , con số này thấp hơn nhiều so với mong đợi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Analysts say the country 's export-led recovery appears to be faltering as the value of the yen appreciates .</s>
+<s id='vn5'>Các nhà phân tích cho thấy sự phục hồi kinh tế tập trung theo hướng xuất khẩu của quốc gia này dường như đang trở nên chậm chạp vì đồng yên đang tăng giá .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Japan 's close rivals , Germany and the US , recently reported far superior GDP figures for the same period .</s>
+<s id='vn6'>Hai đối thủ gắn liền với Nhật Bản , Đức và Kỳ , theo báo cáo gần đây cho thấy các con số GDP cao hơn nhiều so với nó trong cùng thời kỳ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Germany registered a 2.2 % rise , while the US economy grew at an annualised rate of 2.4 % .</s>
+<s id='vn7'>Đức đăng lên con số tăng 2,2% , trong khi kinh tế Hoa Kỳ tăng trưởng ở mức tỉ lệ hàng năm là 2,4% .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The BBC 's Roland Buerk in Tokyo says Japan remains one of the wealthiest and most prosperous countries in the world , but the trajectory of its economy has been clear for years .</s>
+<s id='vn8'>Phóng viên Buerk Roland của BBC ở Tokyo cho biết Nhật Bản vẫn là một trong những nước giàu có nhất và thịnh vượng nhất trên thế giới , nhưng hướng phát triển kinh tế của nó đã tỏ ra cong lại trong hàng nhiều năm trời .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>World Bank figures show that in the first eight years of this century Japan 's economy expanded by just 5 % while China 's grew by 261 % .</s>
+<s id='vn9'>Theo số liệu của Ngân hàng Thế giới cho thấy , trong tám năm đầu của thế kỷ này , kinh tế của Nhật Bản tăng trưởng chỉ 5 % trong khi đó Trung Quốc là 261% .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The GDP figures give further credibility to the widely held belief that China will soon overtake Japan as the world 's second biggest economy .</s>
+<s id='vn10'>Các con số GDP cho thấy mọi người ngày càng nghĩ rằng Trung Quốc sẽ nhanh chóng vượt qua Nhật Bản và trở thành nền kinh tế thứ nhì trên thế giới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Analysis</s>
+<s id='vn11'>Phân tích</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Roland Buerk BBC News , Tokyo</s>
+<s id='vn12'>Roland Buerk BBC News từ Tokyo</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Japan remains one of the wealthiest and most prosperous countries in the world , but the trajectory of its economy has been clear for years : Japan has been stagnating .</s>
+<s id='vn13'>Nhật Bản vẫn là một trong những nước giàu có nhất và thịnh vượng nhất trên thế giới , nhưng hướng phát triển kinh tế của nó đã tỏ ra cong lại trong hàng nhiều năm trời : cho thấy nền kinh tế Nhật Bản đã có sự trì trệ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Japan has relied on exports for growth .</s>
+<s id='vn14'>Nhật Bản phát triển chủ yếu dựa vào xuất khẩu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The problem is that the yen has been rising , making Japan less competitive abroad .</s>
+<s id='vn15'>Vần đề ở đây là đồng yên đang tăng giá , làm cho Nhật Bản kém cạnh tranh ở nước ngoài .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Demand at home has been pretty weak too , and the big reason why is deflation .</s>
+<s id='vn16'>Nhu cầu trong nước cũng yếu đi , và lý do chính là do giảm phát .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>In June deflation was running at 1 % .</s>
+<s id='vn17'>Vào tháng sáu , giảm phát đang ở mức 1% .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Prices getting cheaper discourages people from spending in the long term and it discourages people from investing too .</s>
+<s id='vn18'>Giá cả trở nên rẻ hơn đã cản trở việc mọi người chi xài về lâu về dài và nó cũng làm mọi người chán nản không muốn đầu tư nữa .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Japan recovered from the recession pretty well but there are fears that it could be faltering now .</s>
+<s id='vn19'>Nhật Bản khôi phục khá tốt sau thời kỳ suy thoái nhưng người ta sợ rằng hiện giờ nó có thể đang bấp bênh .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The government and the authorities here are worried .</s>
+<s id='vn20'>Chính phủ và chính quyền nơi đây đang lo lắng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The Bank of Japan has kept interest rates super low at 0.1 % in the hope that that will encourage people to borrow .</s>
+<s id='vn21'>Ngân hàng Nhật Bản đã giữ lãi suất siêu thấp ở mức 0,1% với hy vọng sẽ khuyến khích mọi người vay tiền .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The problem is , in a stagnant economy people do n't want to take on loans .</s>
+<s id='vn22'>Vấn đề là , trong nền kinh tế trì trệ như thế thì mọi người cũng không muốn vay tiền .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>That will become clearer early in 2011 , when GDP figures for the whole of 2010 become available for each country .</s>
+<s id='vn23'>Điều đó sẽ trở nên rõ ràng vào đầu năm 2011 , khi con số GDP cho cả năm 2010 của mỗi quốc gia .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Japanese shares closed lower after the announcement , with the benchmark Nikkei 225 index falling 0.6 % to 9,196.67 .</s>
+<s id='vn24'>Cổ phiếu Nhật Bản đã đóng ở mức thấp hơn sau công bố này , với chỉ số chuẩn Nikkei 225 giảm từ 0,6% đến 9.196,67 .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" Short-termism "</s>
+<s id='vn25'>" Chủ nghĩa ngắn hạn "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Dr Seijiro Takeshita , director of Mizuho International , said Japan 's government had made a mistake in its policy choice .</s>
+<s id='vn26'>Tiến sĩ Seijiro Takeshita , giám đốc công ty Mizuho International , cho rằng chính phủ Nhật Bản đã phạm sai lầm trong việc lựa chọn chính sách .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" The problem for Japan was they were going for short-termism as far as policy was concerned .</s>
+<s id='vn27'>" Về chính sách , vấn đề ở đây là Nhật Bản lại hướng theo chủ nghĩa ngắn hạn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>They were trying to put a bandage over a deep wound " .</s>
+<s id='vn28'>Họ đang cố dùng một dải băng để băng lại một vết thương sâu " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" Private consumption did n't take off because our economy is still so dependent on external demand or exports .</s>
+<s id='vn29'>" Tiêu dùng cá nhân không tăng lên vì nền kinh tế của chúng tôi vẫn còn phụ thuộc rất nhiều vào nhu cầu bên ngoài hoặc xuất khẩu .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" What they should have done is made much more transformation into the domestic side , which would have induced much more spending and most importantly created more jobs in the Japanese workplace . "</s>
+<s id='vn30'>" Những việc họ đáng lẽ phải làm là chuyển đổi nhiều hơn hướng về phía trong nước , việc này sẽ làm giảm chi xài nhiều hơn và quan trọng hơn hết là tạo thêm công ăn việc làm ở các công ty Nhật Bản . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Japan has relied on exports for growth .</s>
+<s id='vn31'>Nhật Bản phát triển chủ yếu dựa vào xuất khẩu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The problem is that the yen has been rising , making Japan less competitive abroad .</s>
+<s id='vn32'>Vần đề ở đây là đồng yên đang tăng giá , làm cho Nhật Bản kém cạnh tranh ở nước ngoài .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Japan remains one of the wealthiest and most prosperous countries in the world , but the trajectory of its economy has been clear for years : Japan has been stagnating .</s>
+<s id='vn33'>Nhật Bản vẫn là một trong những nước giàu có nhất và thịnh vượng nhất trên thế giới , nhưng hướng phát triển kinh tế của nó đã tỏ ra cong lại trong hàng nhiều năm trời : cho thấy Nhật Bản đã có sự trì trệ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Japan has relied on exports for growth .</s>
+<s id='vn34'>Nhật Bản phát triển chủ yếu dựa vào xuất khẩu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The problem is that the yen has been rising , making Japan less competitive abroad .</s>
+<s id='vn35'>Vần đề ở đây là đồng yên đang tăng giá , làm cho Nhật Bản kém cạnh tranh ở nước ngoài</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Demand at home has been pretty weak too , and the big reason why is deflation .</s>
+<s id='vn36'>Nhu cầu trong nước cũng yếu đi , và lý do chính là do giảm phát .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In June deflation was running at 1 % .</s>
+<s id='vn37'>Vào tháng sáu , giảm phát đang ở mức 1% .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Prices getting cheaper discourages people from spending in the long term and it discourages people from investing too .</s>
+<s id='vn38'>Giá cả trở nên rẻ hơn đã cản trở việc mọi người chi xài về lâu về dài và nó cũng làm mọi người chán nản không muốn đầu tư nữa .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Japan recovered from the recession pretty well but there are fears that it could be faltering now .</s>
+<s id='vn39'>Nhật Bản khôi phục khá tốt sau thời kỳ suy thoái nhưng người ta sợ rằng hiện giờ nó có thể đang bấp bênh .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The government and the authorities here are worried .</s>
+<s id='vn40'>Chính phủ và chính quyền nơi đây đang lo lắng .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The Bank of Japan has kept interest rates super low at 0.1 % in the hope that that will encourage people to borrow .</s>
+<s id='vn41'>Ngân hàng Nhật Bản đã giữ lãi suất siêu thấp ở mức 0,1% với hy vọng sẽ khuyến khích mọi người vay tiền .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The problem is , in a stagnant economy people do n't want to take on loans .</s>
+<s id='vn42'>Vấn đề là , trong nền kinh tế trì trệ như thế thì mọi người cũng không muốn vay tiền .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>That will become clearer early in 2011 , when GDP figures for the whole of 2010 become available for each country .</s>
+<s id='vn43'>Điều đó sẽ trở nên rõ ràng vào đầu năm 2011 , khi con số GDP cho cả năm 2010 của mỗi quốc gia .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Japanese shares closed lower after the announcement , with the benchmark Nikkei 225 index falling 0.6 % to 9,196.67 .</s>
+<s id='vn44'>Cổ phiếu Nhật Bản đã đóng ở mức thấp hơn sau công bố này , với chỉ số chuẩn Nikkei 225 giảm từ 0,6% đến 9.196,67 .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>" Short-termism "</s>
+<s id='vn45'>" Chủ nghĩa ngắn hạn "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Dr Seijiro Takeshita , director of Mizuho International , said Japan 's government had made a mistake in its policy choice .</s>
+<s id='vn46'>Tiến sĩ Seijiro Takeshita , giám đốc công ty Mizuho International , cho rằng chính phủ Nhật Bản đã phạm sai lầm trong việc lựa chọn chính sách .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>" The problem for Japan was they were going for short-termism as far as policy was concerned . " he told the BBC .</s>
+<s id='vn47'>Ông đã nói với phóng viên BBC rằng : " Về chính sách , vấn đề ở đây là Nhật Bản lại hướng theo chủ nghĩa ngắn hạn .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>They were trying to put a bandage over a deep wound " .</s>
+<s id='vn48'>Họ đang cố dùng một dải băng để băng lại một vết thương sâu " .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" Private consumption did n't take off because our economy is still so dependent on external demand or exports .</s>
+<s id='vn49'>" Tiêu dùng cá nhân không tăng lên vì nền kinh tế của chúng tôi vẫn còn phụ thuộc rất nhiều vào nhu cầu bên ngoài hoặc xuất khẩu .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" What they should have done is made much more transformation into the domestic side , which would have induced much more spending and most importantly created more jobs in the Japanese workplace . "</s>
+<s id='vn50'>" Những việc họ đáng lẽ phải làm là chuyển đổi nhiều hơn hướng về phía trong nước , việc này sẽ làm giảm chi xài nhiều hơn và quan trọng hơn hết là tạo thêm công ăn việc làm ở các công ty Nhật Bản . "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Japan has relied on exports for growth , the BBC 's Roland Buerk says .</s>
+<s id='vn51'>Theo Roland Buerk , phóng viên của BBC , Nhật Bản phát triển chủ yếu dựa vào xuất khẩu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>The problem is that the yen has been rising , making Japan less competitive abroad/RB]ADVP.</s>
+<s id='vn52'>Vần đề ở đây là đồng yên đang tăng giá , làm cho Nhật Bản kém cạnh tranh ở nước ngoài .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The state-run People 's Daily newspaper recently urged the US to " recognise and accept " China 's inevitable rise onto the world stage .</s>
+<s id='vn53'>Tờ Nhật báo Nhân Dân do nhà nước quản lý gần đây kêu gọi Hoa Kỳ " phải công nhận và chấp nhận " sự tăng trưởng không thể tránh khỏi được của Trung Quốc trên vũ đài thế giới .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>We expect confirmation that China will overtake Japan as the world 's second biggest economy in about six months .</s>
+<s id='vn54'>Chúng tôi mong mọi người sẽ thừa nhận Trung Quốc sẽ vượt qua Nhật Bản và trở thành nền kinh tế lớn thứ nhì của thế giới trong khoảng sáu tháng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Some economists suggest China could pass the US to become the world 's largest within 10 to 15 years .</s>
+<s id='vn55'>Một số nhà kinh tế học còn đưa ra giả thuyết là Trung Quốc có thể vượt cả Hoa Kỳ để trở thành cường quốc kinhh tế lớn nhất của thế giới trong vòng khoảng 10 đến 15 năm nữa .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>But anyone who travels to the west or to the centre of this country will tell you that such comparisons , while important , offer an incomplete picture of life here .</s>
+<s id='vn56'>Nhưng nếu có ai đi về hướng tây hay đến trung tâm của đất nước này sẽ bảo với bạn rằng những so sánh như thế , không kém phần quan trọng , cho thấy một bức tranh không hoàn hảo về đời sống nơi đây .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Income per head here at $ 6,675 a year is still far lower than Japan 's ( $ 32,443 ) or the US 's ( $ 46,436 ) .</s>
+<s id='vn57'>Thu nhập theo đầu người ở đây là 6.675 đô-la Mỹ một năm vẫn còn thấp hơn nhiều so với của Nhật Bản ( 32.443 đô la Mỹ ) hoặc của Hoa Kỳ ( 46.436 đô la Mỹ ) .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>In the poorer parts of the country there is evidence of growing investment and infrastructure spending that is making a real difference .</s>
+<s id='vn58'>Ở các khu vực nghèo hơn của quốc gia này cho thấy mức chi cho cơ sở hạ tầng và đầu tư đang tăng lên để tạo ra sự khác biệt thực sự .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>But in many parts of rural China , people live in basic conditions that would be unacceptable in Japan or the US.</s>
+<s id='vn59'>Nhưng ở nhiều khu vực nông thôn Trung Quốc , người ta sống trong điều kiện sống tối thiểu mà được xem là không thể chấp nhận được ở Nhật hoặc Hoa Kỳ .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Its achievements in pulling hundreds of millions out of poverty should be lauded .</s>
+<s id='vn60'>Thành công của họ trong việc kéo hàng trăm triệu người thoát khỏi sự nghèo khổ đáng được khen ngợi .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>But the amount of work still to be done should not be underestimated .</s>
+<s id='vn61'>Nhưng lượng công việc cần được thực hiện cũng không nên đánh giá thấp .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The yen hit a 15-year high against the US dollar last week - adding to worries about the impact on exporters .</s>
+<s id='vn62'>Đồng yên đã đạt mức cao nhất so với đô-la Mỹ trong vòng 15 năm qua vào tuần trước - chính điều này đã tăng thêm lo lắng vì tác động của nó lên những nhà xuất khẩu .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>After the GDP figures were released , the yen was relatively unchanged against both the dollar and the euro .</s>
+<s id='vn63'>Sau khi các con số GDP được công bố , đồng yên vẫn tương đối không đổi so với cả hai đồng đô la và đồng euro .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>The dollar fell 0.4 % to 85.81 yen while the euro dipped 0.1 % to 109.81 yen .</s>
+<s id='vn64'>Đô la giảm giá 0,4% xuống còn 85,81 yên trong khi đó đồng euro sụt giảm 0,1% xuống còn 109,81 yên .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Economics Minister Satoshi Arai said that the government needed to work with the Bank of Japan to respond to the rising yen .</s>
+<s id='vn65'>Bộ trưởng kinh tế Satoshi Arai nói rằng chính phủ cần làm việc với ngân hàng Nhật Bản để đối phó với việc đồng yên tăng giá .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>" Risk of collapse "</s>
+<s id='vn66'>" Nguy cơ suy sụp "</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Analysts say Japan may have to take action to lower the yen 's value against other major currencies .</s>
+<s id='vn67'>Các nhà phân tích cho rằng Nhật Bản có thể phải hành động để hạ thấp giá trị đồng yên so với các đồng tiền mạnh khác .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>" The yen 's rise may begin to hurt export growth in the latter half of the current fiscal year , " said Norinchukin Research Institute economist Takeshi Minami .</s>
+<s id='vn68'>Theo nhà kinh tế học Minami Takeshi của Viện nghiên cứu Norinchukin : " Sự tăng giá của đồng yên có thể bắt đầu ảnh hưởng xấu đến mức tăng trưởng xuất khẩu vào nửa cuối của năm tài chánh hiện thời , " .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>" I think the Bank of Japan and the government need to take decisive action against currency moves . "</s>
+<s id='vn69'>" Tôi cho rằng ngân hàng Nhật Bản và chính phủ cần hành động kiên quyết chống lại các động thái tiền tệ . "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Weakening exports are not the only problem confronting Japan .</s>
+<s id='vn70'>Xuất khẩu đang suy yếu không phải là vấn đề duy nhất mà Nhật Bản phải đối mặt .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Prime Minister Naoto Kan recently said Japan was " at risk of collapse " under its huge debts .</s>
+<s id='vn71'>Thủ tướng Naoto Kan gần đây đã nói Nhật Bản có " nguy cơ suy sụp " với những khoản nợ khổng lồ của nó .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>And the domestic market is slow , with the price of goods falling .</s>
+<s id='vn72'>Và thị trường trong nước hoạt động chậm chạp , giá hàng hoá đang sụt giảm .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>The country 's central bank has already announced a scheme to offer 3 trillion yen ( $ 35bn ; £22bn ) in low-interest loans in an effort to spur economic growth .</s>
+<s id='vn73'>Ngân hàng Trung ương của quốc gia này đã công bố kế hoạch đề nghị chi 3 nghìn tỷ yên ( 35 tỷ đô-la Mỹ ; 22 tỷ bảng Anh ) vào những khoản vay lãi suất thấp để cố gắng thúc đẩy mức tăng trưởng kinh tế .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>2 . Japan Is Fading</s>
+<s id='vn74'>2 . Nhật Bản đang lu mờ</s>
+</spair>
+<spair id='75'>
+<s id='en75'>One thing the nation 's next leaders do n't talk about is growth .</s>
+<s id='vn75'>Có một điều mà các nhà lãnh đạo sắp tới của quốc gia này không nhắc tới , đó là sự tăng trưởng .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Japan is heading into a landmark election in a state of freefall .</s>
+<s id='vn76'>Nhật Bản đang chuẩn bị cho một cuộc bầu cử trọng đại trong tình trạng tuột dốc đáng ngại .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Stagnant since the early 1990s , Japan 's economy fell off a cliff in the last quarter , dropping 15.2 percent in the worst collapse of any industrial nation in decades .</s>
+<s id='vn77'>Trì trệ ngay từ đầu thập niên 1990 , nền kinh tế của Nhật Bản đã sa sút tệ hại trong quý vừa qua , giảm 15,2 phần trăm , mức suy giảm tồi tệ nhất của bất kỳ một quốc gia công nghiệp nào trong mấy thập niên qua .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Automakers - Toyota , Nissan , and Honda , once the heart of the Japanese industrial miracle - saw exports fall 70 percent in April , and were forced to shutter factories to clear inventory .</s>
+<s id='vn78'>Các hãng xe hơi như Toyota , Nissan , và Honda , từng là cốt lõi trong nền kỹ nghệ thần kỳ của Nhật Bản - phải chứng kiến doanh số xuất khẩu giảm 70 phần trăm vào tháng tư , và không còn cách nào khác là phải đóng cửa các hãng xưởng để thanh lý hàng tồn kho .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Since pocketbook issues decide elections , it 's not surprising that Japanese voters appeared poised to toss out the ruling Liberal Democratic Party ( LDP ) , only the second time it has lost power in half a century .</s>
+<s id='vn79'>Vì vấn đề tài chính là yếu tố quyết định cho cuộc bầu cử , nên chẳng gì ngạc nhiên khi các cử tri Nhật Bản có vẻ sắp sửa tống khứ Đảng Dân chủ Tự Do ( LDP ) đang cầm quyền , vậy là chỉ mới lần thứ hai đảng này mất quyền lực trong nửa thế kỷ qua .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Meanwhile , China is launching direct challenges to Japan 's position as the leading economy in Asia .</s>
+<s id='vn80'>Trong khi đó , Trung Quốc đang trực tiếp thách thức Nhật Bản trong vai trò là nền kinh tế hàng đầu ở châu Á .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Beijing recently launched an official campaign to build a green car industry , a field in which Japan still holds a commanding lead .</s>
+<s id='vn81'>Bắc Kinh gần đây đã chính thức phát động chiến dịch xây dựng một nền kỹ nghệ xe sạch , một lĩnh vực mà Nhật Bản vẫn đang dẫn đầu .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Some Japan watchers compare China 's green car project to Sputnik , the Soviet satellite that trumped American preeminence in science and technology in the 1950s .</s>
+<s id='vn82'>Một số quan sát viên về Nhật Bản so sánh dự án xe sạch của Trung Quốc với Sputnik , vệ tinh của Liên Xô từng lấn át thế thượng phong của Hoa Kỳ về khoa học và công nghệ vào những năm 1950 .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Just as alarming , China has been making noises about replacing the dollar as the sole international reserve currency , and has begun conducting regional financing deals in Chinese yuan instead , a push Japanese officials see as a direct threat to the yen as well .</s>
+<s id='vn83'>Quả đáng báo động khi Trung Quốc đã và đang làm ầm lên về việc thay thế đô la trong vai trò là đồng tiền dự trữ quốc tế duy nhất , và thay vào đó họ đã bắt đầu tiến hành giao dịch tài chính trong khu vực bằng đồng nhân dân tệ của Trung Quốc , một nỗ lực mà các giới chức Nhật Bản xem như là hiểm hoạ trực tiếp đối với cả đồng yên nữa .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>" It brought home the fact that the yen is not used in this way by others , " notes Yasuo Ota , an editorial writer for Nikkei .</s>
+<s id='vn84'>" Điều này đã làm người ta nhận thấy là đồng yên không được các nước khác sử dụng theo cách này , " Yasuo Ota – nhà báo chuyên viết xã luận cho Nikkei - nhận thấy như vậy .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>The worry grew in July , when top Chinese officials flew to Washington , D.C. , to continue their high-level " strategic dialogue " : " That caused concern , because the Japanese feel that we need to be involved in any conversation about security in the region , " notes Shinzo Kobori of the Institute for International Policy Studies in Tokyo .</s>
+<s id='vn85'>Nỗi quan ngại này càng tăng cao vào tháng bảy , khi các giới chức chóp bu Trung Quốc bay sang Washington , D.C. , để tiếp tục " cuộc đối thoại chiến lược " cấp cao của họ : " Điều đó khiến phải lo lắng , vì người Nhật cảm thấy rằng mọi cuộc đối thoại về an ninh trong khu vực này đều phải có chúng ta tham dự , " theo nhận xét của Shinzo Kobori thuộc Viện Nghiên cứu Chính sách Quốc tế ở Tokyo .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>So Japan is preparing to usher in a new government against a backdrop of worry that the nation is already Asia 's political and economic also-ran , prematurely playing No. 2 to China .</s>
+<s id='vn86'>Vì thế Nhật Bản đang chuẩn bị đưa ra một chính phủ mới trong bối cảnh lo ngại rằng quốc gia này sẽ là một quốc gia không quan trọng về chính trị và kinh tế ở châu Á , chẳng mấy chốc sẽ đóng vai trò thứ hai sau Trung Quốc .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>It 's all happened fast .</s>
+<s id='vn87'>Mọi chuyện xảy ra nhanh thật .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>When this decade opened , Japan 's economy was still almost four times the size of China 's , but in recent years China looked set to surpass Japan by 2010 or shortly thereafter .</s>
+<s id='vn88'>Hồi đầu thập niên , kinh tế của Nhật Bản vẫn còn lớn gần gấp bốn lần so với Trung Quốc , nhưng trong những năm gần đây Trung Quốc có vẻ sẵn sàng vượt qua Nhật Bản vào năm 2010 hoặc sau đó chút ít .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Now , with China still growing at 8 percent a year and Japan shrinking , commentators in Japan have been forced to admit that the switch will likely come even sooner .</s>
+<s id='vn89'>Bây giờ , khi Trung Quốc vẫn tăng trưởng ở mức 8 phần trăm một năm còn Nhật Bản thì thu hẹp lại , các nhà bình luận ở Nhật bản đã buộc phải thừa nhận rằng bước chuyển biến này thậm chí còn có thể sớm hơn nữa .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>" It 's nonsense for us to continue talking about competing with China ( for sole leadership in Asia ) when their economy will surpass ours by next year , " says Kobori , echoing the sentiments of other academics , writers , intellectuals , and even younger politicians within Japan .</s>
+<s id='vn90'>" Thật vô nghĩa nếu chúng ta vẫn cứ nhắc đến việc cạnh tranh với Trung Quốc ( về vị trí bá chủ ở châu Á ) khi nền kinh tế của họ sẽ vượt qua nền kinh tế của chúng ta trong năm tới , " Kobori nói , phản ánh quan điểm của nhiều giáo sư đại học , nhà văn , giới trí thức , và thậm chí của nhiều chính trị gia trẻ khác ở Nhật Bản .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>There 's a growing , reluctant consensus that Japan will have to find a new role .</s>
+<s id='vn91'>Càng ngày người ta càng miễn cưỡng nhất trí với nhau rằng Nhật Bản sẽ phải tìm vai trò mới .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>From the Meiji Restoration - the great flowering of Japanese innovation and reform in the 1860s - until recently , Japan " had basically one goal : catch up with the West and be accepted as a great power .</s>
+<s id='vn92'>Từ thời Duy tân Minh Trị - thời kỳ nở rộ các chương trình đổi mới và cải cách của Nhật Bản vào thập niên 1860 - cho đến gần đây , Nhật Bản " vốn có một mục tiêu : đuổi kịp phương Tây và được công nhận là một đại cường quốc .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>They achieved that in the '80s , but they 've never figured out what to do for an encore , " says Columbia professor and Japan expert Gerald Curtis .</s>
+<s id='vn93'>Họ đã đạt được điều ấy vào thập niên 80 , nhưng họ chưa hề hình dung những gì phải làm để lặp lại lần nữa , " Gerald Curtis , giáo sư trường Columbia , một chuyên gia về Nhật Bản đã nói như vậy .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>" Japan today is a tired country . "</s>
+<s id='vn94'>" Nhật Bản ngày nay là một quốc gia mệt mỏi . "</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The old model - work hard and save to finance exports to the West - is clearly broken .</s>
+<s id='vn95'>Mô hình cũ - làm việc chăm chỉ và tiết kiệm để đầu tư vào việc xuất khẩu sang phương Tây - rõ ràng đã bị đổ vỡ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>( The other top developed export power , Germany , has also been particularly hard hit by the global recession , as all the rich consuming nations of the West enter what looks to be a long period of slow growth and weak demand . )</s>
+<s id='vn96'>( Đặc biệt là Đức , một cường quốc hàng đầu khác về xuất khẩu trong các nước phát triển , cũng đã bị ảnh hưởng nặng nề bởi tình trạng suy thoái toàn cầu , vì mọi quốc gia tiêu thụ giàu có ở Phương Tây đang bước vào cái gọi là thời kỳ triền miên trong cảnh tăng trưởng chậm chạp và mức cầu suy yếu . )</s>
+</spair>
+<spair id='97'>
+<s id='en97'>With Asia emerging as " the center of the global economy , its new growth engine , Japan now has to figure out how to put itself at the center of that center , " says Curtis .</s>
+<s id='vn97'>Cùng với việc châu Á nổi lên như " trung tâm kinh tế toàn cầu , động cơ phát triển mới của nó , Nhật Bản nay phải nghĩ ra cách đặt mình vào chính giữa trung tâm đó , " Curtis nói như vậy .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>The opposition Democratic Party of Japan ( DPJ ) clearly sees Japan as a regional Asian power , and no longer a nation tied only to the West .</s>
+<s id='vn98'>Rõ ràng Đảng Dân chủ Nhật Bản ( DPJ ) thuộc phe đối lập xem Nhật Bản như một cường quốc trong khu vực châu Á , và không còn là một quốc gia chỉ bám vào phương Tây nữa .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>DPJ leader Yukio Hatoyama has denounced the global free-market consensus , of which Japan was once a happy member , blaming " globalism " and " U.S.-led free-market fundamentalism " for the current crisis .</s>
+<s id='vn99'>Lãnh tụ của DPJ - Hatoyama Yukio - đã phản đối quan niệm thống nhất về thị trường tự do toàn cầu , mà Nhật Bản trước đây là một thành viên tự nguyện , đổ thừa là " quan niệm toàn cầu hoá " và " trào lưu thị trường tự do do Hoa Kỳ dẫn đầu " đã gây ra khủng hoảng hiện nay .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>His vision amounts to a retreat inward , beefing up " fraternity " at home with a stronger welfare state , and more generous pensions and child support , while refocusing Japan 's trade and investment strategies on East Asia .</s>
+<s id='vn100'>Quan điểm của ông ấy chẳng khác nào thu mình lại , nghĩa là củng cố " tình cảm anh em trong nhà " bằng hệ thống phúc lợi xã hội mạnh hơn nữa , và tiền hưu trí và tiền trợ cấp nuôi con hậu hĩ hơn , mà vẫn tập trung các chiến lược đầu tư và thương mại của Nhật Bản vào Đông Á .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Alarmingly , however , the DPJ manifesto did not even mention " growth " until it was attacked by the LDP , suggesting that the DPJ does n't quite get its predic ament .</s>
+<s id='vn101'>Tuy nhiên đáng lo ngại là , bản tuyên ngôn của DPJ thậm chí cũng chẳng đề cập đến " tăng trưởng " cho đến khi nó bị tấn công bởi LDP , vì LDP cho rằng DPJ không hoàn toàn giải quyết được tình huống khó khăn .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>Maintaining Japan 's comfortable standard of living wo n't be possible without growth .</s>
+<s id='vn102'>Vì không tăng trưởng thì không thể duy trì được mức sống thoải mái của Nhật Bản .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>American and Japanese intellectuals have compared Japan 's new position to Canada 's , or Switzerland 's— rich , content powers that have learned to thrive alongside giant neighbors .</s>
+<s id='vn103'>Giới trí thức Mỹ và Nhật Bản đã so sánh vị trí mới của Nhật Bản với của Ca-na-đa , hoặc của Thụy Sĩ – là những cường quốc giàu có , sung mãn đã từng học cách phát triển cùng với các láng giềng khổng lồ của mình .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The problem , says MIT Japan expert Richard Samuels , is that it would be a painful " deep dive " for Japan to go the way of Canada , which has an economy more than three times smaller , and smoother relations with the U.S. than Japan has with China .</s>
+<s id='vn104'>Vấn đề là , Richard Samuels – một chuyên gia của MIT về Nhật Bản – đã nói : Hẳn sẽ là một " cú nhào lặn " gay gonếu Nhật Bản đi theo con đường của Ca-na-đa , vì họ có nền kinh tế nhỏ hơn Hoa Kỳ ba lần , và quan hệ với Hoa Kỳ êm thấm hơn là quan hệ giữa Nhật Bản với Trung Quốc .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>The Asian powers have a rough history dating to the Japanese occupation of China in World War II , and often competing interests in trade and security .</s>
+<s id='vn105'>Các cường quốc châu Á có một lịch sử gai góc từ thời Nhật Bản chiếm đóng Trung Quốc trong Đệ nhị thế chiến , và thường có các quyền lợi đối kháng về thương mại và an ninh .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Japan is still protected by the U.S. nuclear umbrella , now primarily against possible future threats from China .</s>
+<s id='vn106'>Nhật Bản vẫn còn được bảo vệ bởi ô dù hạt nhân của Hoa Kỳ , nay chủ yếu chống lại các hiểm hoạ có thể có trong tương lai từ phía Trung Quốc .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Others have suggested that a more fitting model could be found in France , the wealthy co-leader with Germany of a powerful regional bloc .</s>
+<s id='vn107'>Nhiều người khác lại cho rằng có thể tìm thấy một mô hình phù hợp hơn nữa ở Pháp , một quốc gia giàu có cùng với Đức đứng đầu khối khu vực mạnh .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Japan and China might play this role together in Asia .</s>
+<s id='vn108'>Nhật Bản và Trung Quốc có thể cùng đóng vai trò này ở châu Á .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The DPJ has even proposed French-style child subsidies to boost the country 's birthrate , which would revive some of the economic dynamism Japan has lost as a result of having the world 's most rapidly aging population .</s>
+<s id='vn109'>Thậm chí DPJ còn đề nghị trợ cấp nuôi con theo kiểu Pháp để đẩy mạnh tỉ lệ sinh con của nước này , nhằm vực dậy sự năng động về kinh tế mà Nhật Bản đã mất đi do dân số mau già cỗi nhất thế giới .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Of course , the EU started as the European Coal and Steel Community , a postwar French-German alliance to share resources ; China and Japan are still fighting over offshore oil rights and atrocities from World War II .</s>
+<s id='vn110'>Tất nhiên , Liên minh Châu Âu bắt đầu từ Cộng đồng Than và Thép châu Âu , một liên minh Đức-Pháp thời hậu chiến để chia sẻ tài nguyên với nhau ; Trung Quốc và Nhật Bản vẫn còn hục hặc với nhau về quyền khai thác dầu khí ngoài khơi và những chuyện tàn bạo từ thời Đệ nhị thế chiến .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>The huge gap in average yearly incomes - $ 34,080 in Japan and $ 2,000 in China - will make it difficult for them to work together as regional leaders , the way Germany and France do .</s>
+<s id='vn111'>Khoảng chênh lệch khổng lồ về thu nhập trung bình hàng năm - 34.080 USD ở Nhật và 2.000 USD ở Trung Quốc - sẽ làm cho họ khó mà hợp tác với nhau trong vai trò dẫn đầu khu vực , như Đức và Pháp đã làm .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Yet the benefits of an aggressive regional strategy are clear - France , for example , has boosted its per capita income by 42 percent since the formation of the European Union in 1993 , and no one doubts that it has gained greatly by leveraging the common market .</s>
+<s id='vn112'>Tuy nhiên lợi ích của một chiến lược khu vực tấn công là rất rõ ràng - Pháp , chẳng hạn , đã tăng được 42 phần trăm thu nhập theo đầu người kể từ khi thành lập Liên minh Châu Âu vào năm 1993 , và không ai nghi ngờ rằng điều này đã đạt được một cách đáng kể do ảnh hưởng của thị trường chung .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Japan could do the same .</s>
+<s id='vn113'>Nhật Bản có thể làm giống như vậy .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Goldman Sachs predicts that the major emerging markets , led by China and India , will overtake the combined GDP of the G7 by 2027 , a decade faster than previously thought .</s>
+<s id='vn114'>Goldman Sachs dự đoán là các thị trường lớn đang nổi lên , đứng đầu là Trung Quốc và Ấn Độ , sẽ qua mặt GDP chung của G7 vào năm 2027 , nhanh hơn một thập niên so với những gì người ta nghĩ trước đây .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>By 2010 China will account for an amazing 30 percent of global consumption growth , more than the G3 and double that of the U.S .</s>
+<s id='vn115'>Đến năm 2010 , đáng kinh ngạc là Trung Quốc sẽ nắm được 30 phần trăm tăng trưởng tiêu dùng toàn cầu , hơn hẳn G3 và gấp đôi Hoa Kỳ .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>The Japanese , who have hitherto focused more on economic ties to the U.S. and Europe , are slowly beginning to realize that they would do well to ride this train .</s>
+<s id='vn116'>Người Nhật Bản lâu nay vẫn tập trung nhiều hơn vào quan hệ kinh tế với Hoa Kỳ và Châu Âu , nên đang từ từ nhận ra rằng họ phải khéo xoay xở thì mới đi được chuyến tàu này .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Growth is imperative , whether the DPJ acknowledges it or not .</s>
+<s id='vn117'>Tăng trưởng là cấp bách , dù DPJ có thừa nhận như vậy hay không .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Economists often talk about how the Japanese need to boost domestic consumption , which has been flat for a decade , to make up for falling exports .</s>
+<s id='vn118'>Các nhà kinh tế học thường nói về việc người Nhật cần đẩy mạnh mức tiêu thụ nội địa ( vốn dĩ giậm chân tại chỗ cả chục năm nay ) để bù lại cho khoản xuất khẩu đang sụt giảm .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>But the domestic market is shrinking .</s>
+<s id='vn119'>Nhưng thị trường trong nước đang thu hẹp lại .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>The population peaked in 2004 at 128 million , and is projected to fall to 90 million by 2055 .</s>
+<s id='vn120'>Dân số đạt mức cao nhất vào năm 2004 là 128 triệu , và dự kiến sẽ giảm xuống còn 90 triệu vào năm 2055 .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>The ratio of working-age to elderly Japanese fell from 8:1 in 1975 to about 3:1 in 2005 , and will probably shrivel to about 1.3:1 in 2055 .</s>
+<s id='vn121'>Tỷ lệ giữa số người Nhật trong độ tuổi lao động và số người Nhật lớn tuổi đã giảm từ 8:1 năm 1975 còn khoảng 3:1 năm 2005 , và có lẽ sẽ còn giảm xuống tới 1,3:1 vào năm 2055 .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>This means " there is no viable model for increasing domestic consumption ( to the extent needed ) ," says Kobori .</s>
+<s id='vn122'>Điều này có nghĩa là " không có mô hình nào có thể thực hiện được để tăng mức tiêu thụ nội địa ( trong mức độ cần thiết ) , " Kobori nói như vậy .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>The Japanese are currently putting 5 percent of their GDP into fiscal stimulus , and still nothing is happening .</s>
+<s id='vn123'>Người Nhật đang đặt 5 phần trăm GDP của họ vào việc kích thích tài chính , và vẫn chưa có gì xảy ra .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>America is putting 2 percent in , and is now in recovery .</s>
+<s id='vn124'>Hoa Kỳ đang đặt 2 phần trăm vào , và đang trong giai đoạn hồi phục .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>" What we need is a new model based on more regional integration , " says Kobori .</s>
+<s id='vn125'>" Cái mà chúng tôi cần là một mô hình mới dựa trên sự hội nhập khu vực nhiều hơn nữa , " theo cách nói của Kobori .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>" If we ca n't find that model , we are in trouble . "</s>
+<s id='vn126'>" Nếu chúng ta không tìm được mô hình ấy thì nguy thật . "</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Japanese businesspeople are hunting for one : on a recent visit to top companies in Japan , Curtis found executives talking less about naiju ( domestic demand ) than about jun-naiju ( pseudo–domestic demand ) , a new phrase that means demand in the home region of Asia .</s>
+<s id='vn127'>Doanh nhân Nhật Bản đang săn lùng một thứ : trong lần viếng thăm các công ty hàng đầu ở Nhật gần đây , Curtis thấy những người điều hành nói về naiju ( mức cầu nội địa ) ít hơn là nói về jun-naiju ( mức cầu tương tự như nội địa ) , một cụm từ mới ám chỉ mức cầu ở quê nhà châu Á .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>" The idea is to integrate Japan into the heart of this new and growing Asian 'domestic' market , not only by selling to middle-class Chinese and Southeast Asians , but also by increasing Japanese investment in Asian companies ; further liberalizing import and export markets , particularly in very closed areas like agriculture ; and working more closely with China and other less-developed countries in areas like the environment , technology , and energy , " says Curtis .</s>
+<s id='vn128'>" Ý tưởng ở đây là cho Nhật Bản hội nhập vào trung tâm của thị trường " nội địa " châu Á mới mẻ và đang phát triển , không chỉ bằng cách bán hàng cho dân Đông Nam Á và dân Trung Quốc thuộc tầng lớp trung lưu , mà còn tăng cường đầu tư của Nhật Bản vào các công ty châu Á ; tự do hoá thêm nữa cho các thị trường xuất khẩu và nhập khẩu , đặc biệt trong những lĩnh vực thật khép kín như nông nghiệp chẳng hạn ; và hợp tác chặt chẽ hơn nữa với Trung Quốc và nhiều quốc gia kém phát triển khác trong các lĩnh vực như môi trường , công nghệ , và năng lượng , " Curtis nói .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>In recent years , trade flows to China in particular have increased rapidly ; in 2000 exports to the U.S. from Japan were about five times those to China ; now the figures are nearly equal ( though it 's important to note that most of what goes to China are high-tech components for assembly versus finished goods ) .</s>
+<s id='vn129'>Trong những năm gần đây , đặc biệt là lưu lượng giao thương với Trung Quốc đã tăng nhanh ; trong năm 2000 , doanh số xuất khẩu của Nhật sang Hoa Kỳ bằng khoảng năm lần doanh số xuất khẩu sang Trung Quốc ; nay thì con số này gần như bằng nhau ( mặc dù cần lưu ý rằng phần lớn hàng xuất sang Trung Quốc là linh kiện công nghệ cao để lắp ráp chứ không phải thành phẩm ) .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Flows could be further increased if Japan would dismantle trade barriers and encourage more export of , for example , expensive luxury agricultural products like its very high-quality rice to Asia 's nouveau riche , while allowing penny-pinching Mrs. Watanabes at home to buy more cheap , mass-produced foods from China .</s>
+<s id='vn130'>Luồng hàng có thể tăng thêm nếu Nhật Bản dẹp bỏ hàng rào mậu dịch và khuyến khích xuất khẩu thêm nông sản xa xỉ mắc tiền như gạo chất lượng cao sang anh nhà giàu mới của châu Á chẳng hạn , nhưng vẫn cho phép mấy bà nội trợ Nhật Bản keo kiệt trong nước mua thêm thực phẩm sản xuất hàng loạt mà lại rẻ của Trung Quốc .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Ultimately , trade in finished goods will rise , too .</s>
+<s id='vn131'>Cuối cùng , lượng thành phẩm buôn bán cũng sẽ tăng lên .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Manufacturers are starting to focus more research and marketing dollars on Asian consumers rather than Western ones in order to boost regional exports of Japan 's upscale cars and consumer goods .</s>
+<s id='vn132'>Các nhà sản xuất đang bắt đầu tăng cường nghiên cứu và tiếp thị đối với người tiêu dùng châu Á chứ không phải là phương Tây nữa để đẩy mạnh việc xuất khẩu xe hơi đắt tiền và hàng tiêu dùng của Nhật trong vùng này .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>The DPJ platform calls for an increase in aid to develop Asia as a way of helping bolster those middle-class consumers .</s>
+<s id='vn133'>Cương lĩnh của DPJ kêu gọi gia tăng viện trợ để phát triển châu Á như là một cách để góp phần trợ giúp những người tiêu dùng thuộc tầng lớp trung lưu .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>In other ways , Japan is still strikingly Western-oriented .</s>
+<s id='vn134'>Mặt khác , Nhật Bản vẫn hướng về phương Tây một cách mạnh mẽ .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>It is typically one of the top four investors in China , yet it still sends nearly three times more of its direct investment in factories and companies to the United States .</s>
+<s id='vn135'>Thường thì Nhật Bản là một trong bốn nhà đầu tư hàng đầu ở Trung Quốc , tuy nhiên họ vẫn gửi thêm gần gấp ba lần số đầu tư trực tiếp vào công ty và nhà máy sang Hoa Kỳ .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Experts say Japan tends to pigeonhole China as a place for low-end outsourcing , and is particularly fearful of intellectual-property theft in China because relatively high-cost Japanese manufacturers lose everything if their ideas are stolen .</s>
+<s id='vn136'>Các chuyên gia nói Nhật Bản có khuynh hướng xem Trung Quốc như một nơi đặt làm hàng giá rẻ , và nhất là sợ nạn ăn cắp bản quyền ở Trung Quốc vì các hãng của Nhật Bản tốn khá nhiều chi phí lại sẽ mất cả chì lẫn chài nếu ý tưởng của họ bị lấy cắp .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Stronger protections against intellectual-property pirates could yield all kinds of collaboration , even a world-beating green car capital of the world run by Japan and China , Japan market analysts say .</s>
+<s id='vn137'>Tăng cường phòng chống nạn ăn cắp bản quyền có thể sinh ra cộng tác đủ thứ , thậm chí nơi nổi tiếng thế giới về sản xuất xe sạch thượng hạng cũng do Nhật Bản và Trung Quốc cùng điều hành , các nhà phân tích thị trường Nhật Bản nói như vậy .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Closer ties to China require some semblance of trust .</s>
+<s id='vn138'>Tăng cường hợp tác với Trung Quốc thì phải có chút nào tin cậy .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>There are positive signs .</s>
+<s id='vn139'>Đã có những dấu hiệu tích cực .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>DJP leaders have said they would not continue visits to the Yasukuni Shrine , a bone of contention because Japanese war criminals are buried there alongside regular World War II soldiers .</s>
+<s id='vn140'>Các nhà lãnh đạo DJP đã nói rằng họ sẽ không tiếp tục viếng đền Yasukuni , nơi được xem là nguyên nhân gây bất hoà vì các tội phạm chiến tranh Nhật Bản được chôn ở đó cùng với những người lính bình thường của thời Đệ nhị thế chiến .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>And the two countries recently struck a deal to strengthen Asian currency reserves - putting equal amounts of yen and yuan into the reserve pot , underscoring a joint commitment in Asia .</s>
+<s id='vn141'>Và mới đây hai nước đã thoả thuận với nhau về việc tăng cường lượng dự trữ tiền tệ châu Á - đặt số lượng đồng yên và nhân dân tệ bằng nhau vào rỗ dự trữ , nhấn mạnh một sự cam kết chung ở châu Á .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Peter Petri , a senior fellow at the East-West Center in Honolulu , calls this deal " a very important event " that says " we 're in this together , and even though the future is that China will be the dominant economy , Japan has a lot to contribute , too . "</s>
+<s id='vn142'>Peter Petri , một viên chức cao cấp thuộc Trung tâm Đông-Tây ở Honolulu , gọi thoả thuận này là " một sự kiện rất quan trọng " vì nó cho thấy " chúng ta đang chung lưng đấu cật với nhau , và mặc dù trong tương lai Trung Quốc sẽ là nền kinh tế chiếm ưu thế , nhưng Nhật Bản vẫn có nhiều đóng góp . "</s>
+</spair>
+<spair id='143'>
+<s id='en143'>For Japan , Asian development must mean more than tighter economic relations with the Middle Kingdom .</s>
+<s id='vn143'>Đối với Nhật Bản , việc phát triển châu Á phải có nghĩa là hợp tác kinh tế chặt chẽ hơn nữa với Vương quốc ở trung tâm thế giới .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Japanese officials and companies are looking to strengthen ties with Australia , India , and Southeast Asia .</s>
+<s id='vn144'>Các viên chức và công ty Nhật Bản đang tìm cách tăng cường quan hệ với Úc , Ấn Độ , và Đông Nam Á .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>The only high-profile Japanese corporate acquisition in Asia recently was Daiichi Sankyo 's purchase of the Indian drugmaker Ranbaxy , and India has replaced China as the No. 1 destination for Japanese aid money .</s>
+<s id='vn145'>Gần đây , thành tích duy nhất nổi tiếng của Nhật Bản trong vấn đề tiếp thu công ty ở châu Á là việc Daiichi Sankyo mua hãng dược phẩm Ấn Độ Ranbaxy , và Ấn Độ đã thay Trung Quốc làm nơi ưu tiên số 1 để nhận tiền viện trợ của Nhật Bản .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Japanese aid to ASEAN countries is growing , too .</s>
+<s id='vn146'>Viện trợ của Nhật Bản cho các nước ASEAN cũng đang tăng lên .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>" The Japanese are increasingly going to invest in India , Vietnam , and Indonesia to balance the growth of China , " says Michael Green , the Japan chair at the Center for Strategic and International Studies .</s>
+<s id='vn147'>" Người Nhật càng ngày càng đầu tư nhiều vào Ấn Độ , Việt Nam , và Indonesia để cân bằng với mức tăng trưởng của Trung Quốc , " theo Michael Green , trưởng ban Nhật Bản thuộc Trung tâm nghiên cứu quốc tế và chiến lược .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>He also notes that the Japanese lobbied hard to include India , Australia , and New Zealand in the East Asian summit , first held in 2005 , in order to " buffer Chinese influence . "</s>
+<s id='vn148'>Ông cũng lưu ý rằng người Nhật phải vất vả vận động mới đưa được Ấn Độ , Úc , và Niu Di-lân vào hội nghị thượng đỉnh Đông Á , được tổ chức lần đầu tiên vào năm 2005 , để " cân bằng ảnh hưởng của Trung Quốc . "</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Tokyo 's new focus on Asia could , conceivably , restore its image as a power in the world .</s>
+<s id='vn149'>Có thể việc Tokyo tập trung vào châu Á lần này sẽ khôi phục hình ảnh cường quốc của họ trên thế giới .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>To become " the center of the center of global growth ," as Curtis puts it , would make Japan more central to global diplomacy and politics .</s>
+<s id='vn150'>Việc trở thành " trung tâm của trung tâm phát triển toàn cầu , " theo cách đặt vấn đề của Curtis , cũng sẽ làm cho Nhật Bản quan trọng hơn nữa đối với nền ngoại giao và chính trị toàn cầu .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Closer ties to China could set up Japan as more of a buffer between the U.S. and China , and less of a protectorate of the United States .</s>
+<s id='vn151'>Việc tăng cường hợp tác với Trung Quốc có thể làm cho Nhật Bản càng đúng là vùng đệm giữa Hoa Kỳ và Trung Quốc , và bớt chịu sự bảo hộ của Hoa Kỳ .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>It could make Japan more of a major player in multilateral diplomacy , and less of a junior partner in a special relationship with the United States .</s>
+<s id='vn152'>Điều này có thể làm cho Nhật Bản càng đúng là một đấu thủ quan trọng trong nền ngoại giao đa phương và bớt làm đối tác thứ yếu trong quan hệ đặc biệt với Hoa Kỳ .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>" You can see Japan making a broader strategic outreach with new bilateral security agreements reached with Australia and India , " and in the June meeting of defense ministers from the U.S. , Japan , and South Korea , notes Green .</s>
+<s id='vn153'>" Bạn có thể thấy Nhật Bản đang mở rộng phạm vi chiến lược thông qua các hiệp định an ninh song phương mới với Úc và Ấn Độ , " và trong hội nghị bộ trưởng quốc phòng Hoa Kỳ , Nhật Bản , và Nam Triều Tiên vào tháng sáu , Green đã ghi nhận như vậy .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>But Japan has always been a one-dimensional economic power and , to regain global clout , it needs a return to real world-leading growth .</s>
+<s id='vn154'>Nhưng bề ngoài thì Nhật Bản bao giờ cũng là một cường quốc kinh tế , và để lấy lại ảnh hưởng toàn cầu , họ cần phải quay về mức tăng trưởng thực sự đứng đầu thế giới .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>That 's not what Japan 's next governors - whether from the LDP or the DPJ - are talking about .</s>
+<s id='vn155'>Đó không phải là điều mà những người lãnh đạo sắp tới của Nhật Bản - bất luận là thuộc LDP hoặc DPJ - đang nhắc tới .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>They dream of middle-power models , at most .</s>
+<s id='vn156'>Cùng lắm là họ mơ về một mô hình cường quốc bậc trung mà thôi .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>3 . In Vietnam , Bank Urges Tighter Credit</s>
+<s id='vn157'>3 . Ở Việt Nam , Ngân hàng kêu gọi siết chặt tín dụng hơn nữa</s>
+</spair>
+<spair id='158'>
+<s id='en158'>By PATRICK BARTA and VU TRONG KHANH</s>
+<s id='vn158'>Bằng PATRICK BARTA và KHANH TRONG VU</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Vietnam 's central bank is encouraging lenders to tighten credit for some borrowers , an early sign that Asian economies are preparing to rein in stimulus spending if the world economy continues to recover .</s>
+<s id='vn159'>Ngân hàng trung ương của Việt Nam đang khuyến khích người cho vay siết chặt tín dụng đối với một số người đi vay , dấu hiệu ban đầu cho thấy nền kinh tế châu Á đang chuẩn bị để kiềm chế kích thích tiêu dùng nếu kinh tế thế giới tiếp tục khôi phục .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Like the U.S. , China , Vietnam and other Asian nations have deployed floods of cash over the past six months to lift their economies from recession .</s>
+<s id='vn160'>Như Hoa Kỳ , Trung Quốc , Việt Nam và các nước châu Á khác đã triển khai dòng tiền mặt hơn sáu tháng qua để cứu nền kinh tế của họ thoát khỏi thời kỳ suy thoái kinh tế .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>But as evidence mounts that the worst stage of the downturn is ending , many economists are advising governments to start curtailing credit lest some sectors overheat and trigger inflation problems in 2010 or beyond .</s>
+<s id='vn161'>Nhưng như bằng chứng cho thấy là giai đoạn tệ hại nhất của thời kỳ suy thoái đang chấm dứt , nhiều nhà kinh tế , đang khuyên chính phủ nên bắt đầu cắt bớt tín dụng vì sợ một số lĩnh vực quá nóng và gây ra lạm phát vào năm 2010 hoặc sau đó .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>Economists are particularly concerned about Vietnam , a favorite of foreign investors in Asia that has tangled with asset bubbles , including a period in mid-2008 when inflation soared to 28 % .</s>
+<s id='vn162'>Nhà kinh tế học đặc biệt lo lắng về Việt Nam , một nơi ưa thích của nhà đầu tư nước ngoài ở châu Á đã lộn xộn với bong bóng tài sản , bao gồm thời kỳ vào giữa năm 2008 khi lạm phát bay vọt đến 28% .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Although inflation is now below 4 % , many analysts say the government has gone too far to stimulate growth by subsidizing hefty bank-lending programs that are feeding more money into the economy .</s>
+<s id='vn163'>Mặc dù lạm phát bây giờ là dưới 4% , nhiều nhà phân tích nói chính phủ đã đi quá xa để kích thích phát triển bằng cách trợ cấp những chương trình cho vay ồ ạt của ngân hàng đó là đưa thêm tiền vào nền kinh tế .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Real estate and stock prices have been climbing rapidly .</s>
+<s id='vn164'>Giá cổ phiếu và bất động sản đã và đang leo nhanh chóng .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>On Wednesday , State Bank of Vietnam Governor Nguyen Van Giau appeared to confirm those fears by saying the central bank wants local credit institutions to tighten lending to real estate and stock investors , as well as to consumers .</s>
+<s id='vn165'>Vào ngày thứ tư , Thống đốc ngân hàng nhà nước Việt Nam Nguyen Van Giau có vẻ xác nhận các nỗi sợ hãi đó bằng cách nói Ngân hàng Trung ương muốn cơ quan tín dụng ở địa phương để siết chặt việc cho vay đối với các nhà đầu tư bất động sản và cổ phiếu , cũng như để người tiêu dùng .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>He said lenders should focus instead on extending loans to small and medium-size enterprises to boost their production , and to major state-owned projects .</s>
+<s id='vn166'>Anh ấy đã nói người cho vay nên thay vào đó tập trung vào tăng cường cho vay đối với các doanh nghiệp vừa và nhỏ để đẩy mạnh sản xuất của họ , và chuyên về các dự án của chính phủ .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Further details on the potential tightening , which appeared in a statement published in the Central Bank 's Thoi Bao Ngan Hang newspaper , were n't available .</s>
+<s id='vn167'>Thêm chi tiết về việc siết chặt có thể xảy ra này , xuất hiện trong lời tuyên bố công bố trong tờ Thời báo Ngân hàng của Ngân hàng Trung ương , không có sẵn .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>" I think the key reason behind the Central Bank 's comment is that it wants Vietnam to avoid high inflation , " said Nguyen Duy Hung , chief executive of Saigon Securities Inc. , a Ho Chi Minh City-based securities company .</s>
+<s id='vn168'>" Tôi nghĩ lý do then chốt đằng sau lời bình luận này của Ngân hàng Trung ương là nó muốn Việt Nam để tránh lạm phát cao , " theo Nguyen Duy Hung , giám đốc điều hành của Saigon Securities Inc. , công ty chứng khoán có trụ sở tại Thành phố Hồ Chí Minh .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Since the start of the global economic crisis , Vietnamese state banks have poured at least $ 19 billion in loans into the economy , equivalent to about one-fifth of the country 's annual gross domestic product , as part of a broader stimulus program aimed at expanding credit for state enterprises and exporters .</s>
+<s id='vn169'>Từ lúc bắt đầu khủng hoảng kinh tế toàn cầu , ngân hàng nhà nước Việt Nam đã đổ ít nhất 19 tỷ đô-la Mỹ trong khoản vay vào nền kinh tế , tương đương khoảng một phần năm của tổng sản lượng nội địa hàng năm của quốc gia , trong khuôn khổ của chương trình kích thích bao quát hơn nhằm mở rộng tín dụng đối với doanh nghiệp nhà nước và nhà xuất khẩu .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Partly as a result of the stimulus efforts , total loans outstanding in Vietnam 's banking system at the end of June were 17 % higher than at the end of 2008 , and 17.5 % more than a year earlier , the government said this month .</s>
+<s id='vn170'>Một phần do nỗ lực kích thích , tổng số khoản vay còn tồn đọng trong hệ thống ngân hàng của Việt Nam vào cuối tháng sáu được 17% cao hơn vào cuối 2008 , và cao hơn 17.5% so với một năm trước đó , chính phủ tháng này nói .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>Economists say it is hard for the government to police borrowers and learn exactly how they are using the stimulus money .</s>
+<s id='vn171'>Nhà kinh tế học nói thật khó đối với chính phủ để kiểm soát người đi vay và học chính xác bao nhiêu họ đang sử dụng tiền kích thích .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>Many analysts say they suspect that large sums are leaking into activities the government does n't want to stimulate , with borrowers taking money to speculate in stocks or real estate rather than investing in new production capacity , though proving they are doing so is difficult .</s>
+<s id='vn172'>Nhiều nhà phân tích nói họ nghi ngờ những món tiền lớn đang tiết lộ vào hoạt động chính phủ không muốn kích thích , với người đi vay mang tiền đến đầu cơ cổ phiếu hay bất động sản chớ không phải là đầu tư công suất sản xuất mới , cho dù chứng minh họ đang làm như thế là khó khăn .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>Vietnam 's benchmark stock index is up more than 70 % since March .</s>
+<s id='vn173'>Chỉ số chứng khoán chuẩn của Việt Nam tăng hơn 70% từ tháng ba .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>" I think it 's the right decisio n " to begin reining in credit to some parts of the economy to make sure the money is used wisely , says Vu Thanh Tu Anh , an economist with the Fulbright Economics Teaching Program in Ho Chi Minh City .</s>
+<s id='vn174'>" tôi nghĩ đó là quyết định đúng " bắt đầu kiềm chế tín dụng đối với một số bộ phận của nền kinh tế để đảm bảo số tiền này được sử dụng khôn ngoan , theo Vu Thanh Tu Anh , một giảng viên kinh tế học của chương trình giảng dạy kinh tế học Fulbright tại thành phố Hồ Chí Minh .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>It may be difficult to do so , he said , unless policy makers take more concrete steps such as putting a cap on loan growth or raising interest rates .</s>
+<s id='vn175'>Nó có thể khó làm như thế , anh ấy đã nói , trừ phi nhà lập chính sách thực hiện những bước cụ thể hơn như là đặt giới hạn trên mức tăng trưởng cho vay ngân hàng hoặc nâng cao lãi suất .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>Asian governments remain wary of taking such steps because they are uncertain about the outlook , despite recent signs of economic recovery .</s>
+<s id='vn176'>Chính phủ châu Á vẫn cảnh giác với những bước đi như thế vì họ không chắc về cách nhìn , mặc dù dấu hiệu phục hồi kinh tế gần đây .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Either way , the pressure to wind down some stimulus packages across Asia is growing .</s>
+<s id='vn177'>Dù sao đi nữa , áp lực giảm dần vài gói kích cầu qua châu Á đang phát triển .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>In a report released Wednesday , HSBC economists warned that " money 's too loose in Asia " and raised the specter of new asset bubbles , especially in real estate .</s>
+<s id='vn178'>Trong một bản báo cáo công bố thứ Tư , HSBC nhà kinh tế học cảnh báo là " tiền được quản lý quá lỏng lẻo trong Asia " và gia tăng lo ngại về bong bóng tài sản mới , nhất là trong bất động sản .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>Although Asian countries generally are n't tightening credit yet , " it wo n't be long , I suspect " before they start doing so on a more widespread basis , says Tim Condon , an economist at ING in Singapore .</s>
+<s id='vn179'>Mặc dù quốc gia châu Á nói chung không là siết chặt tín dụng tuy nhiên , " nó sẽ không bị dài , tôi nghi " trước khi họ bắt đầu làm như thế trên cơ sở phổ biến hơn , theo Tim Condon , nhà kinh tế học ở ING ở Singapore .</s>
+</spair>
+</text>
+</doc>

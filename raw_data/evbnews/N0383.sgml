@@ -1,0 +1,76 @@
+﻿<doc id='N0383'>
+<head>
+<title>Microsoft releases application security tool kit for developers</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft releases application security tool kit for developers</s>
+<s id='vn1'>Microsoft phát hành bộ công cụ bảo mật ứng dụng cho các nhà phát triển</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft updates its EMET tool kit , designed to help developers thwart attacks against their applications .</s>
+<s id='vn2'>Microsoft cập nhật bộ công cụ EMET của hãng , được thiết kế để giúp các nhà phát triển ngăn chặn các cuộc tấn công nhằm vào các ứng dụng của họ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Microsoft released an updated version of a tool kit Sept. 2 to help developers make their applications more secure .</s>
+<s id='vn3'>Microsoft đã phát hành phiên bản cập nhật cho bộ công cụ này vào ngày 2/9 nhằm giúp các nhà phát triển tạo ra các ứng dụng của họ an toàn hơn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>With the Enhanced Mitigation Experience Toolkit 2 , Microsoft said , developers can bring technologies such as dynamic data execution prevention to bear to improve security , particularly for older programs that cannot be recompiled to opt in to the security technologies .</s>
+<s id='vn4'>Microsoft cho biết với Enhanced Mitigation Experience Toolkit 2 , các nhà phát triển có thể được đem lại những công nghệ như ngăn chặn thực thi dữ liệu động để có thể tăng cường bảo mật , đặc biệt là đối với các chương trình cũ hơn không thể biên dịch lại để hoạt động bằng các công nghệ bảo mật .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The updated tool kit features a total of six mitigations , including two new ones : Export Address Table Access Filtering and Mandatory Address Space Layout Randomization .</s>
+<s id='vn5'>Bộ công cụ được cập nhật này nổi bật với tổng cộng 6 sự giảm thiểu rủi ro , trong đó có hai tính năng mới : Export Address Table Access Filtering và Mandatory Address Space Layout Randomization .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Export Address Table Access Filtering " is designed to break nearly all shellcode in use today " as it " blocks a common technique shellcode uses " to locate Windows APIs , Microsoft said Aug. 5 .</s>
+<s id='vn6'>Vào ngày 5/8 Microsoft đã cho biết tính năng Export Address Table Access Filtering " được thiết kế nhằm phá vỡ hầu hết mọi shellcode hiện đang được sử dụng " vì nó " ngăn chặn việc sử dụng kỹ thuật shellcode phổ biến " nhằm vào các thư viện API của Windows .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The Mandatory Address Space Layout Randomization mitigation works by " modules to be loaded at randomized addresses for a target process regardless of the flags it was compiled with . "</s>
+<s id='vn7'>Sự giảm thiểu rủi ro trong tính năng Mandatory Address Space Layout Randomization hoạt động bằng cách " các môđun được nạp vào các địa chỉ sắp xếp ngẫu nhiên trong một tiến trình đích bất kể biến nào mà nó được biên dịch cùng . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Application mashups require a strong security approach .</s>
+<s id='vn8'>Bộ ứng dụng đòi hỏi một phương pháp bảo mật tốt .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" By deploying these mitigation technologies on legacy products , the tool can also help customers manage risk while they are in the process of transitioning over to modern , more secure products , " said a Microsoft Security Research Defense post Sept. 2 .</s>
+<s id='vn9'>Ngày 2/9 Trung tâm Nghiên cứu Bảo mật và Phòng vệ của Microsoft cho biết " Bằng cách triển khai các công nghệ giảm thiểu rủi ro này trên các sản phẩm cũ , công cụ cũng có thể giúp khách hàng quản lí rủi ro trong khi họ đang trong giai đoạn chuyển tiếp qua các sản phẩm hiện đại an toàn hơn " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" In addition , it makes it easy for customers to test mitigations against any software and provide feedback on their experience to the vendor . "</s>
+<s id='vn10'>" Ngoài ra , hãng làm cho nó dễ dàng hơn để khách hàng kiểm tra sự giảm thiểu rủi ro đe doạ cho bất kỳ phần mềm nào và cung cấp sự phản hồi về trải nghiệm của họ đến nhà cung cấp " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Secunia security researchers revealed in a July 1 report that many application developers were not taking advantage of protections Microsoft put in place to prevent attacks .</s>
+<s id='vn11'>Các nhà nghiên cứu về bảo mật của Secunia đã cho biết trong một báo cáo vào ngày 1/7 rằng nhiều nhà phát triển ứng dụng không tận dụng sự bảo vệ của Microsoft để ngăn chặn các cuộc tấn công .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>According to the Secunia report , many developers have improperly implemented Address Space Layout Randomization in their programs .</s>
+<s id='vn12'>Theo báo cáo của Secunia , nhiều nhà phát triển đã triển khai Address Space Layout Randomization không đúng cách trong các chương trình phần mềm của họ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The report also found developers have done a poor job of implementing Microsoft 's DEP ( Data Execution Prevention ) protections as well .</s>
+<s id='vn13'>Báo cáo cũng cho thấy các nhà phát triển cũng thực hiện việc triển khai không đầy đủ tính năng bảo vệ DEP ( Ngăn chặn Thực thi Dữ liệu ) của Microsoft .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" I applaud Microsoft for their continued release of tools such as this ," Forrester Research analyst Mike Gualtieri said .</s>
+<s id='vn14'>Ông Mike Gualtieri nhà phân tích nghiên cứu của Forrester cho biết " Tôi hoan nghênh Microsoft về việc họ tiếp tục phát hành các công cụ chẳng như công cụ này " .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Unfortunately , I think is mostly falls on deaf ears since most developers I speak with pay only lip service to the idea of more secure applications . "</s>
+<s id='vn15'>" Điều đáng tiếc theo tôi nghĩ là phần lớn chúng không được ai chú ý đến vì hầu hết các nhà phát triển nói chuyện với tôi chỉ thừa nhận ngoài miệng ý tưởng về các ứng dụng an toàn hơn " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Microsoft has published a video demonstration of using the tool that can be viewed here .</s>
+<s id='vn16'>Microsoft đã công bố giới thiệu đoạn video về việc sử dụng công cụ này có thể xem tại đây .</s>
+</spair>
+</text>
+</doc>

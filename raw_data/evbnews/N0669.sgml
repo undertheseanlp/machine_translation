@@ -1,0 +1,180 @@
+﻿<doc id='N0669'>
+<head>
+<title>Camera megapixels : Why more is n't always better ( Part 1 )</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Camera megapixels : Why more is n't always better ( Part 1 )</s>
+<s id='vn1'>Số megapixel Máy ảnh : Vì sao nhiều " chấm " hơn không phải lúc nào cũng tốt hơn ( Phần 1 )</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It 's time to forget megapixels as the measure of smartphone camera performance and pick a new yardstick .</s>
+<s id='vn2'>Đã đến lúc quên đi số " chấm " như là thước đo hiệu suất máy ảnh trên điện thoại thông minh và chọn một thước đo mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Earlier this week , Samsung announced the Samsung Galaxy S III , the global , quad-core , Android Ice Cream Sandwich successor to its best-selling smartphone ever , the Galaxy S II .</s>
+<s id='vn3'>Đầu tuần này , Samsung đã công bố Samsung Galaxy S III , phiên bản quốc tế , chíp lõi tứ và chạy Android Ice Cream Sandwich kế thừa chiếc điện thoại thông minh bán chạy nhất từ trước đến nay của hãng , Galaxy S II .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>CNET readers " reactions were mixed , with several comments that the 8-megapixel camera did n't seem too hot .</s>
+<s id='vn4'>Độc giả CNET đã có những phản ứng khác nhau , có một số bình luận cho rằng máy ảnh 8 " chấm " có vẻ không quá hấp dẫn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Rumors of a 12-megapixel camera leading up to the announcement were partly to blame .</s>
+<s id='vn5'>Những tin đồn về một máy ảnh 12 megapixel trước khi có công bố là một phần nguyên nhân .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It 's no wonder that some felt that a perfectly good 8-megapixel spec was taking a step back , especially with the 16-megapixel shooter on the HTC Titan II out in the wild , and Nokia 's 41-megapixel 808 PureView , a Mobile World Congress stunner .</s>
+<s id='vn6'>Chẳng có gì phải ngạc nhiên khi có một số người cảm thấy rằng chi tiết kỹ thuật 8 megapixel hoàn toàn ổn là một bước lùi , nhất là khi so với máy ảnh 16 megapixel của HTC Titan II đã bán ra và 41 megapixel của Nokia 808 PureView tại Mobile World Congress .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Despite 8-megapixels is pretty standard for a high-end smartphone camera these days , one CNET reader described the Samsung Galaxy S III 's camera as " so last year . "</s>
+<s id='vn7'>Mặc dù ngày nay 8 megapixel là khá chuẩn đối với máy ảnh trên điện thoại thông minh cao cấp , một độc giả CNET mô tả máy ảnh của Samsung Galaxy S III là " chẳng hơn gì năm ngoái " .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>At least one high-end phone , like the Samsung Galaxy Nexus , still touts a 5-megapixel camera .</s>
+<s id='vn8'>Ít nhất thì chiếc điện thoại cao cấp như Samsung Galaxy Nexus vẫn cũng chỉ có máy ảnh 5 megapixel .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It is n't that 5-megapixel cameras ca n't be good , even better than phones with an 8-megapixel count lens ;</s>
+<s id='vn9'>Không phải máy ảnh 5 " chấm " thì không thể chụp đẹp bằng , thậm chí hơn máy ảnh 8 " chấm " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It 's that to many shoppers , 5-megapixels just does n't sound as good as 8 , even if the camera produces terrific , knock-your-socks-off shots .</s>
+<s id='vn10'>Đối với nhiều người mua điện thoại , 5 " chấm " nghe có vẻ không tốt bằng 8 " chấm " , dù cho máy ảnh 5 " chấm " có cho ra những bức hình đẹp đến kinh ngạc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If 8 is good , then 12 is better .</s>
+<s id='vn11'>Nếu 8 " chấm " đã tốt , thì 12 " chấm " sẽ lại còn tốt hơn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The dirty secret lurking behind today 's 8-megapixel yard stick for high-end phone ( and what any photography nut will tell you ) is that the megapixel number alone is a poor way to predict photographic performance .</s>
+<s id='vn12'>Bí mật ẩn sau thước đo 8 megapixel thời nay dành cho điện thoại cao cấp ( và bất kỳ điều gì mà tín đồ nhiếp ảnh sẽ cho bạn biết ) đó là chỉ dựa vào số " chấm " để phỏng đoán hiệu suất máy ảnh thì thật chưa đủ cơ sở .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>For instance , the original Samsung Focus took some lovely shots on its 5-megapixel camera , while the Motorola Droid Razr 's 8-megapixel lens creates disappointing pictures .</s>
+<s id='vn13'>Ví dụ , Samsung Focus chụp ảnh đẹp với máy ảnh 5 megapixel , trong khi ống kính 8 megapixel của Motorola Droid Razr lại cho ra những bức ảnh đáng thất vọng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>And the 5-megapixel camera on Apple 's iPhone 4 beat out some 8-megapixel cameras on the market and delivered good low-light results .</s>
+<s id='vn14'>Và máy ảnh 5 megapixel trên iPhone 4 của Apple lại " đánh bại " những điện thoại 8 megapixel có trên thị trường và cho ra ảnh đẹp trong điều kiện thiếu sáng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Of course , that 's not to say that bigger ca n't also be sometimes better .</s>
+<s id='vn15'>Tất nhiên , điều đó không có nghĩa số " chấm " lớn hơn thì không thể tốt hơn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>For instance , HTC 's One X high-performance 8-megapixel smartphone camera boasts rapid shot-to-shot action , and HTC Titan II takes 16-megapixel shots of solid quality .</s>
+<s id='vn16'>Ví dụ , máy ảnh 8 megapixel hiệu suất cao của HTC One X nổi bật với tính năng chụp nhanh liên tục nhiều tấm ảnh , và HTC Titan II chụp được những bức ảnh 16 megapixel chất lượng tốt .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>So what 's the formular for fantastic photos ?</s>
+<s id='vn17'>Vậy công thức chung cho ảnh chụp đẹp là gì ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Sensor</s>
+<s id='vn18'>Cảm biến ảnh</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Most budding and professional photographers will tell you that the most important ingredient in the optical system is the sensor , because that 's that 's the part that captures the light .</s>
+<s id='vn19'>Hầu hết các nhiếp ảnh gia với tài năng vừa chớm nở và chuyên nghiệp sẽ cho bạn biết rằng thành phần quan trọng nhất trong hệ thống quang học là cảm biến ảnh , bởi đó là đó là phần bắt lấy ánh sáng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The sensor is essentially the " film " material of a digital camera .</s>
+<s id='vn20'>Về cơ bản , cảm biến ảnh như một " cuộn film " của máy ảnh kỹ thuật số .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>No light , no photo .</s>
+<s id='vn21'>Không có ánh sáng thì không có ảnh .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Light enters through the camera lens , then passes to the camera sensor , which receives the information and translates it into an electronic signal .</s>
+<s id='vn22'>Ánh sáng đi xuyên qua ống kính , sau đó vào cảm biến ảnh , nơi tiếp nhận thông tin và chuyển nó thành tín hiệu điện tử .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>From there , the image processor creates the image and fine-tunes it to correct for a typical set of photographic flaws , like noise .</s>
+<s id='vn23'>Từ đó , bộ xử lý ảnh sẽ tạo ra ảnh và tinh chỉnh nó để sửa các khiếm khuyết ảnh , chẳng hạn như nhiễu hột .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The size of the image sensor is important , and generally , the larger the sensor , the larger your pixels , and the larger the pixels , the more light you can collect .</s>
+<s id='vn24'>Kích thước của cảm biến ảnh là quan trọng , và thông thường , cảm biến càng lớn , thì điểm ảnh càng lớn , và điểm ảnh càng lớn thì bạn có thể thu được càng nhiều ánh sáng .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The more light you can catch , the better the image .</s>
+<s id='vn25'>Ánh sáng càng nhiều , bức ảnh càng đẹp .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The experts I spoke to for this story had colorful ways of describing the relationship between pixels and sensors , but " buckets of water " or " wells " were a favorite intentionally oversimplified analogy .</s>
+<s id='vn26'>Những chuyên gia mà tôi trò chuyện đều có những cách mô tả sinh động về mối quan hệ giữa điểm ảnh và cảm biến , nhưng hình ảnh " xô nước " hoặc " giếng nước " là hình ảnh so sánh cực kỳ đơn giản mà tôi yêu thích .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Imagine you have buckets ( pixels ) on a blacktop ( sensor ) .</s>
+<s id='vn27'>Hãy tưởng tượng bạn có xô nước ( điểm ảnh ) đặt trên một chiếc bàn ( cảm biến ảnh ) .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>You want to collect the most water in those buckets as possible .</s>
+<s id='vn28'>Bạn muốn lấy càng nhiều nước vào trong xô càng tốt .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>To extend the water-and-bucket analogy , the larger the sensor ( blacktop ) you have , the larger the pixels ( buckets ) you can put onto it , and the more light ( water ) you can collect .</s>
+<s id='vn29'>Mở rộng hình ảnh so sánh " nước " và " xô " , bạn có cảm biến ảnh ( mặt bàn ) càng lớn , bạn có thể đặt càng nhiều điểm ảnh ( xô nước ) lên đó , và bạn có thể thu càng nhiều ánh sáng ( nước ) .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Larger sensors are the reason that 8 megapixels from a digital SLR camera are better than 10 megapixels from a smartphone camera .</s>
+<s id='vn30'>Cảm biến lớn hơn là lý do mà một máy ảnh DSLR 8 megapixel sẽ chụp đẹp hơn máy ảnh 10 megapixel trên điện thoại thông minh .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>You have the same number of pixels , but those pixels on the DSLR can be larger , and therefore let in more light .</s>
+<s id='vn31'>Bạn có cùng số điểm ảnh , nhưng điểm ảnh trên máy ảnh DSLR có thể lớn hơn , và do đó cho phép nhiều ánh sáng lọt qua hơn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>More light ( generally ) equals less-noisy images and greater dynamic range .</s>
+<s id='vn32'>Nhiều ánh sáng hơn ( thông thường ) sẽ tương đương với ảnh chụp ít nhiễu hơn và dải động lớn hơn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The fallacy of megapixels</s>
+<s id='vn33'>Ngộ nhận về số " chấm "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>You can start to see that cramming more pixels onto a sensor may not be the best way to increase pixel resolution .</s>
+<s id='vn34'>Bạn có thể nhận thấy rằng việc nhồi nhét thêm điểm ảnh vào cảm biến ảnh có thể không phải là cách tốt nhất để tăng độ phân giải điểm ảnh .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Jon Erensen , a Gartner analyst who has covered camera sensors , remembers when the cell phone industry jumped from 1-megapixel to 2-megapixel sensors .</s>
+<s id='vn35'>Ông Jon Erensen , một nhà phân tích của Gartner chuyên đưa tin về cảm biến ảnh , nhớ lại thời điểm mà ngành công nghiệp điện thoại di động đi từ cảm biến ảnh 1 megapixel lên 2 megapixel .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" They would make the pixel sizes smaller ( to fit in more pixels ) , " Erensen told me over the phone , " But keep the image sensor the same . "</s>
+<s id='vn36'>Erensen nói với tôi qua điện thoại : " Người ta sẽ giảm kích thước điểm ảnh ( để đủ chỗ cho nhiều điểm ảnh hơn ) , nhưng lại giữ nguyên bộ cảm biến ảnh " .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Erensen similarly used the water analogy , this time swapping " buckets " for " wells . "</s>
+<s id='vn37'>Erensen cũng sử dụng hình ảnh so sánh trên , nhưng lần này thay " xô nước " thành " giếng nước " .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>What ended up happening is that the light would go into the well and hit the photo-sensitive part of the image sensor capturing the light .</s>
+<s id='vn38'>Rốt cuộc thì ánh sáng sẽ đi vào " giếng nước " và gặp phần nhạy sáng của cảm biến ảnh , nơi bắt sáng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>So if you make the wells smaller , the light has a harder time getting to the photo-sensitive part of the sensor .</s>
+<s id='vn39'>Vì vậy , nếu bạn giảm kích thước " giếng nước " , ánh sáng sẽ khó chạm đến phần nhạy sáng của cảm biến .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>In the end , increased resolution was n't worth very much .</s>
+<s id='vn40'>Cuối cùng , độ phân giải tăng cũng không có giá trị lắm .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The relationship between the number of pixels and the physical size of the sensor is why some 5-megapixel cameras can outperform some 8-megapixel cameras , and why we may not see , or want , a 12-megapixel camera on a smartphone .</s>
+<s id='vn41'>Mối quan hệ giữa số lượng điểm ảnh và kích thước vật lý của cảm biến là lý do tại sao một số máy ảnh 5 megapixel có thể chụp đẹp hơn một số máy ảnh 8 megapixel , và lý do mà chúng ta có thể sẽ không thấy , hoặc muốn , một máy ảnh 12 megapixel trên điện thoại thông minh .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>A slim smartphone limits the sensor size for one , and moving up the megapixel ladder without increasing the sensor size can unnecessarily degrade the photo quality by letting in less light than you could get with slightly fewer megapixels .</s>
+<s id='vn42'>Một điện thoại thông minh thanh mảnh sẽ giới hạn kích thước cảm biến , và việc tăng số " chấm " mà không tăng kích thước cảm biến có thể làm giảm chất lượng ảnh một cách không cần thiết vì ánh sáng bạn thu được sẽ ít hơn so với khi bạn có ít " chấm " hơn một chút .</s>
+</spair>
+</text>
+</doc>

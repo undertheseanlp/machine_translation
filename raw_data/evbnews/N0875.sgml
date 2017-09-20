@@ -1,0 +1,84 @@
+﻿<doc id='N0875'>
+<head>
+<title>Pregnancy stroke surge in the US</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Pregnancy stroke surge in the US</s>
+<s id='vn1'>Chứng đột quỵ khi mang thai đang gia tăng ở Hoa Kỳ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The numbers of US women having a stroke during pregnancy has surged , according to doctors .</s>
+<s id='vn2'>Theo các bác sĩ cho hay , số phụ nữ ở Hoa Kỳ bị đột quỵ khi mang thai đang ngày càng gia tăng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The incidents increased from 4,085 in 1994-5 to 6,293 in 2006-7 , the journal Stroke suggests .</s>
+<s id='vn3'>Bệnh đột quỵ này tăng từ 4085 ca vào năm 1994-1995 đến 6293 ca vào năm 2006-2007 , tạp chí Stroke đưa ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It is thought other risk factors such as obesity , heart disease and diabetes may be to blame .</s>
+<s id='vn4'>Người ta nghĩ rằng các yếu tố rủi ro khác cũng có thể gây ra đột quỵ như béo phì , bệnh tim và bệnh tiểu đường .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The Stroke Association said it was concerned by the sharp increase .</s>
+<s id='vn5'>Hiệp hội Đột quỵ cho biết điều này gây lo lắng do gia tăng đột ngột .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Pregnancy is a known - if small - risk factor for stroke .</s>
+<s id='vn6'>Mang thai là một yếu tố rủi ro - tuy nhỏ của chứng đột quỵ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>This study compared data from more than 1,000 hospitals in 1994-5 with 2006-7 .</s>
+<s id='vn7'>Nghiên cứu này được so sánh dữ liệu từ hơn 1000 bệnh viện vào năm 1994-5 đến 2006-7</s>
+</spair>
+<spair id='8'>
+<s id='en8'>More common</s>
+<s id='vn8'>Phổ biến hơn</s>
+</spair>
+<spair id='9'>
+<s id='en9'>During pregnancy itself , the proportion of women having a stroke increased by 47% , going from 0.15 to 0.22 strokes per 1000 deliveries .</s>
+<s id='vn9'>Trong chính thời kỳ thai nghén , tỉ lệ phụ nữ bị đột quỵ tăng khoảng 47% , từ 0,15 đến 0,22 ca đột quỵ trên 1000 ca sinh nở .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In the 12 weeks after birth there was an increase from 0.12 to 0.22 strokes per 1000 deliveries , an 83 % increase .</s>
+<s id='vn10'>Ở tuần thứ 12 sau khi sinh , khả năng đột quỵ tăng từ 0.12 đến 0.22 ca trên 1000 ca sinh nở , tăng 83% .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Dr Elena Kuklina , lead researcher from the US Centers for Disease Control and Prevention , said : " I am surprised at the magnitude of the increase , which is substantial .</s>
+<s id='vn11'>Tiến sĩ Elena Kuklina , trưởng nhóm nghiên cứu thuộc Trung tâm Kiểm soát và Ngăn ngừa Bệnh Hoa Kỳ nói rằng : " Tôi thật sự ngạc nhiên vì sự gia tăng lớn này , thật là con số đáng kể .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Our results indicate an urgent need to take a closer look . "</s>
+<s id='vn12'>Kết quả của chúng tôi đòi hỏi yêu cầu cấp bách là phải xem xét kỹ lưỡng hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The researchers suggest that two conditions - high blood pressure and heart disease - " explained almost all of the increase " in stroke after birth .</s>
+<s id='vn13'>Các nhà nghiên cứu đưa ra hai căn bệnh " hầu như đã giải thích được toàn bộ con số gia tăng " đột quỵ sau khi sinh - đó là huyết áp cao và bệnh tim .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Dr Kuklina said : " Now more and more women entering pregnancy already have some type of risk factor for stroke , such as obesity , chronic hypertension , diabetes or congenital heart disease .</s>
+<s id='vn14'>Tiến sĩ Kuklina còn cho biết : " Hiện nay ngày càng nhiều phụ nữ bước vào thời kỳ mang thai đã gặp phải một số loại yếu tố rủi ro gây đột quỵ như béo phì , huyết áp cao mãn tính , tiểu đường hoặc bệnh tim bẩm sinh .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Since pregnancy by itself is a risk factor , if you have one of these other stroke risk factors , it doubles the risk . "</s>
+<s id='vn15'>" Vì chính thai nghén đã là một yếu tố rủi ro rồi , nếu bạn mắc phải một trong rủi ro này thì nguy hiểm càng tăng lên gấp bội . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Many of these conditions are also increasing in the UK.</s>
+<s id='vn16'>Nhiều trong số những tình trạng này cũng đang gia tăng ở Anh quốc .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Dr Sharlin Ahmed , research liaison officer for The Stroke Association , said : " We 're concerned that this study has found such a sharp increase in pregnancy-related stroke over the past few years .</s>
+<s id='vn17'>Tiến sĩ Sharlin Ahmed , nhân viên phòng nghiên cứu thuộc Hiệp hội Đột quỵ cho biết : " Chúng tôi lo lắng rằng nghiên cứu này đã phát hiện ra sự gia tăng đột ngột chứng đột quỵ liên quan đến thai kỳ trong vài năm qua .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" It is so important for woman wanting to start a family to understand the risks associated with pregnancy and to take steps to make sure they are as healthy as possible before they become pregnant . "</s>
+<s id='vn18'>" Đối với phụ nữ muốn lập gia đình , điều quan trọng là họ phải hiểu được những rủi ro trong quá trình mang thai và biết cách bồi bổ sức khỏe trước khi có mang . "</s>
+</spair>
+</text>
+</doc>

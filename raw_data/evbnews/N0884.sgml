@@ -1,0 +1,232 @@
+﻿<doc id='N0884'>
+<head>
+<title>Top 20 Windows 8 Features</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Top 20 Windows 8 Features</s>
+<s id='vn1'>20 Tính năng " đỉnh " của Windows 8</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Windows 8 has been met with passionate and mixed response among those who have had a chance to download and test run the Consumer Preview of Microsoft 's flagship OS .</s>
+<s id='vn2'>Windows 8 đã nhận được những phản hồi nhiệt tình , cả tốt lẫn xấu , từ những người có cơ hội tải xuống và chạy thử hệ điều hành " đầu tàu " của Microsoft .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The company 's bold new direction for Windows , with its dual interface and emphasis on tablet functionality , certainly means changes ahead for IT departments when Windows officially ships .</s>
+<s id='vn3'>Hướng đi mới và táo bạo của Microsoft cho Windows , với giao diện kép và nhấn mạnh vào chức năng trên máy tính bảng , chắc chắn mang đến những thay đổi ở phía trước cho giới CNTT khi Windows chính thức phát hành .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But for users there is a lot to like about the forthcoming OS .</s>
+<s id='vn4'>Còn đối với người dùng thì hệ điều hành sắp phát hành này có nhiều điểm để họ yêu thích .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Here is a look at the 20 features that Windows 8 users will appreciate the most .</s>
+<s id='vn5'>Dưới đây là sơ lược về 20 tính năng trong Windows 8 mà người dùng sẽ thích nhất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>1 . Metro Start Screen</s>
+<s id='vn6'>1 . Màn hình Start giao diện Metro</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Metro Start is Windows 8 's new location for launching applications .</s>
+<s id='vn7'>Màn hình Start giao diện Metro là vị trí mới để khởi chạy ứng dụng trong Windows 8 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It includes updating live tiles that you can regroup as you desire , increasing the flexibility of your Windows 8 experience .</s>
+<s id='vn8'>Nó sẽ cập nhật các ô " live tile " mà bạn có thể sắp xếp lại theo ý muốn , giúp trải nghiệm Windows 8 của bạn trở nên linh hoạt hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>2 . Traditional Desktop</s>
+<s id='vn9'>2 . Giao diện desktop truyền thống</s>
+</spair>
+<spair id='10'>
+<s id='en10'>For those who prefer the traditional desktop experience , this still exists in Windows 8 , which offers a traditional desktop view akin to that of Windows 7 .</s>
+<s id='vn10'>Giao diện desktop truyền thống vẫn được giữ lại trong Windows 8 cho những ai thích trải nghiệm giao diện này hơn , nó mang đến giao diện giống như trên Windows 7 .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Applications that run in Windows 7 will also run on Windows 8 's traditional desktop .</s>
+<s id='vn11'>Những ứng dụng chạy trên Windows 7 cũng sẽ chạy trên giao diện desktop truyền thống của Windows 8 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>3 . Metro Apps</s>
+<s id='vn12'>3 . Ứng dụng Metro</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Part of the new Metro UI , Metro apps are full screen and easy to install , offering an immersive new way to work with Windows .</s>
+<s id='vn13'>Là một phần của giao diện Metro mới , ứng dụng Metro sẽ hiển thị toàn màn hình và dễ cài đặt , mang lại một phương thức mới để bạn sử dụng Windows .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>4 . Windows Store</s>
+<s id='vn14'>4 . Kho ứng dụng Windows Store</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Integrated into Windows 8 , the Windows Store offers Metro apps for download and purchase .</s>
+<s id='vn15'>Được tích hợp vào Windows 8 , Windows Store cung cấp ứng dụng Metro để bạn tải xuống và mua lấy .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It soon will also offer desktop apps .</s>
+<s id='vn16'>Kho ứng dụng này cũng sẽ sớm cung cấp ứng dụng desktop .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>A tile located on the Metro UI start screen offers one-click access to the Windows Store .</s>
+<s id='vn17'>Một ô ' live tile ' trên màn hình Start giao diện Metro sẽ cho phép bạn truy cập Windows Store chỉ bằng một cái nhắp chuột .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>5 . Tablet Ready</s>
+<s id='vn18'>5 . Sẵn sàng cho máy tính bảng</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Unlike previous versions of Windows , which were not built for tablets , Windows 8 has been built from the ground up as both a tablet and desktop operating system .</s>
+<s id='vn19'>Khác với những phiên bản Windows trước , vốn không dành cho máy tính bảng , Windows 8 đã được xây dựng toàn diện để trở thành hệ điều hành dành cho cả máy tính bảng lẫn máy tính bàn .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>6 . Internet Explorer 10 for Metro</s>
+<s id='vn20'>6 . Internet Explorer 10 Metro</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Windows 8 ships with two versions of Internet Explorer 10 , the classic desktop version and a new full-screen immersive browser that is lightweight and easy to use .</s>
+<s id='vn21'>Windows 8 có hai phiên bản Internet Explorer 10 , phiên bản cổ điển dành cho máy tính bàn và phiên bản mới hiển thị toàn màn hình , rất nhẹ và dễ sử dụng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>7 . Touch Interface</s>
+<s id='vn22'>7 . Giao diện cảm ứng</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Windows 8 's touch interface allows you to use a variety of touch commands to navigate the operating system .</s>
+<s id='vn23'>Giao diện cảm ứng của Windows 8 cho phép bạn sử dụng nhiều lệnh cảm ứng khi sử dụng hệ điều hành này .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>8 . SkyDrive Connectivity</s>
+<s id='vn24'>8 . Kết nối SkyDrive</s>
+</spair>
+<spair id='25'>
+<s id='en25'>SkyDrive is not a new feature , but its tight integration into Windows 8 is .</s>
+<s id='vn25'>SkyDrive không phải là tính năng mới , mà điểm mới ở đây là nó được tích hợp chặt chẽ với Windows 8 .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In Windows 8 , the data you store in the cloud is easily accessible on all your Windows 8 devices , and the files you store in the cloud are easily viewable on your tablet , smartphone , or other Windows 8 device .</s>
+<s id='vn26'>Ở Windows 8 , dữ liệu bạn lưu trữ trên ' đám mây ' có thể dễ dàng truy cập được trên tất cả các thiết bị chạy Windows 8 , và tập tin bạn lưu trữ trên ' đám mây ' có thể dễ dàng xem được trên máy tính bảng , điện thoại thông minh , hay các thiết bị Windows 8 khác .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>SkyDrive soon will support large file siz ​es , meaning you will be able to transfer files that are up to 2GB in siz ​e .</s>
+<s id='vn27'>SkyDrive sẽ sớm hỗ trợ tập tin cỡ lớn , nghĩa là bạn sẽ có thể truyền tải tập tin có kích thước lên tới 2 GB .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>9 . Charms Bar</s>
+<s id='vn28'>9 . Thanh Charms</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The Charms bar is a replacement for the Start button , offering quick access to search , sharing features , devices , and settings .</s>
+<s id='vn29'>Thanh Charms sẽ thay thế nút Start , cho phép truy cập nhanh đến tính năng tìm kiếm , chia sẻ , quản lý thiết bị , và thiết lập .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>10 . Search Bar</s>
+<s id='vn30'>10 . Thanh tìm kiếm</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Search is by no means a new feature for Windows , but the search bar in Windows 8 is a powerful improvement on previous generations .</s>
+<s id='vn31'>Tìm kiếm là tính năng không hề mới trên Windows , nhưng thanh tìm kiếm trên Windows 8 là một sự cải tiến mạnh mẽ từ các phiên bản trước .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>11 . Windows 8 Snap-To Feature</s>
+<s id='vn32'>11 . Tính   năng Snap-To</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Windows 8 's snap-to feature allows you to multitask Metro apps , so you wo n't be stuck with just one Metro app at a time .</s>
+<s id='vn33'>Tính năng Snap-To trên Windows 8 cho phép bạn chạy đa nhiệm ứng dụng Metro , để bạn sẽ không bị dính cứng với một ứng dụng Metro trong cùng một lúc .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>With the snap-to feature , you can snap together multiple Metro apps onto the screen , or you can snap Metro apps to your classic desktop applications , giving you the best of both UIs .</s>
+<s id='vn34'>Với tính năng Snap-To , bạn có thể gán nhiều ứng dụng Metro lên màn hình , hoặc bạn có thể gán ứng dụng Metro vào ứng dụng desktop , giúp bạn tận dụng tối đa cả hai giao diện .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>12 . Recover your PC</s>
+<s id='vn35'>12 . Khôi phục máy tính</s>
+</spair>
+<spair id='36'>
+<s id='en36'>A new feature in the control panel , called Recovery , allows you to refresh or reset your PC .</s>
+<s id='vn36'>Một tính năng mới trong Control Panel , có tên là Recovery , cho phép bạn khôi phục cài đặt gốc hoặc xoá toàn bộ dữ liệu trên máy .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>These are two new options offered in addition to the existing system restore and other recovery options available in previous versions of Windows .</s>
+<s id='vn37'>Đây là hai tùy chọn mới , ngoài tuỳ chọn khôi phục hệ thống ( system restore ) và các tùy chọn khôti phục khác hiện có trong những phiên bản Windows trước .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>13 . Simplified Settings</s>
+<s id='vn38'>13 . Thiết lập đơn giản hơn</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The PC settings section offers access to the several of the same commands but in a simplified format so you do n't have to dig deep into Control Panel to find popular options .</s>
+<s id='vn39'>Phần thiết lập mới này cho phép truy cập một số mệnh tương tự nhưng với dạng thức đơn giản hơn để bạn không phải vào tận Control Panel .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>14 . Storage Spaces</s>
+<s id='vn40'>14 . Storage Spaces</s>
+</spair>
+<spair id='41'>
+<s id='en41'>A new feature called Storage Spaces allows you to pool hard drives and access data across them as though they were one large hard drive .</s>
+<s id='vn41'>Một tính năng mới có tên là Storage Spaces cho phép bạn gom nhiều ổ cứng với nhau và truy cập dữ liệu trên đó như thể chúng là một ổ cứng lớn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>All these drives will show up on your Windows 8 system as one single drive letter pooling these devices together .</s>
+<s id='vn42'>Tất cả các ổ cứng sẽ hiển thị trên Windows 8 với một chữ cái duy nhất gom tất cả lại với nhau .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>15 . File History</s>
+<s id='vn43'>15 . File History</s>
+</spair>
+<spair id='44'>
+<s id='en44'>File History offers a new , easier way to back up and restore files .</s>
+<s id='vn44'>File History mang đến một cách thức mới và dễ dàng hơn để sao lưu và khôi phục lại tập tin .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>16 . Ribbon and Quick Access Toolbar</s>
+<s id='vn45'>16 . Thanh công cụ Ribbon và Quick Access .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The unified menu system in Windows 8 now includes the ribbon and the quick access toolbar that were introduced in Office 2007 .</s>
+<s id='vn46'>Hệ thống menu hợp nhất trong Windows 8 hiện gồm có thanh công cụ Ribbon và Quick Access đã được đưa giới thiệu ở Office 2007 .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>17 . Windows Reader</s>
+<s id='vn47'>17 . Windows Reader</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Windows Reader is a native PDF reader included in Windows 8 , freeing you from requiring an additional application to read or mark up PDF files .</s>
+<s id='vn48'>Windows Reader là trình đọc PDF cài sẵn trong Windows 8 , giúp bạn không phải cài thêm ứng dụng để đọc hoặc làm dấu tập tin PDF .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>18 . Metro Video App</s>
+<s id='vn49'>18 . Ứng dụng Metro xem video</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Microsoft has enhanced its video capabilities in Windows 8 with Video , a simple-to-use Metro video app .</s>
+<s id='vn50'>Microsoft Cả Windows Media Player lẫn Media Center</s>
+</spair>
+<spair id='51'>
+<s id='en51'>19 . Integrated Social Networking</s>
+<s id='vn51'>19 . Mạng xã hội tích hợp</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Microsoft</s>
+<s id='vn52'>Microsoft</s>
+</spair>
+<spair id='53'>
+<s id='en53'>20 . Reduced Hardware Requirements</s>
+<s id='vn53'>20 . Yêu cầu phần cứng thấp hơn</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Perhaps one of the most important features for many users is actually having the ability to run the operating system .</s>
+<s id='vn54'>Đối với nhiều người dùng , có lẽ là một trong những đặc điểm quan trọng nhất là khả năng chạy hệ điều hành .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Machines that run Windows 7 and Windows Vista already meet the hardware requirements for Windows 8 , and many systems running Windows XP will also be eligible to run the latest OS.</s>
+<s id='vn55'>Các máy chạy Windows 7 và Windows Vista đã đáp ứng yêu cầu phần cứng dành cho Windows 8 , và nhiều máy chạy Windows XP cũng sẽ có đủ điều kiện để chạy Windows 8 .</s>
+</spair>
+</text>
+</doc>

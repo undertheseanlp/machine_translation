@@ -1,0 +1,152 @@
+﻿<doc id='N0634'>
+<head>
+<title>Time and Love</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Time and Love</s>
+<s id='vn1'>Thời gian và Tình yêu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once upon a time there was an island where all the feelings lived ; Happiness , Sadness , Knowledge , and all the others , including Love .</s>
+<s id='vn2'>Ngày xửa ngày xưa có một hòn đảo nơi đó có tất cả mọi cảm xúc sinh sống : Hạnh phúc , Nỗi buồn , Tri thức và hết thảy những cảm xúc khác , bao gồm cả Tình yêu nữa .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>One day it was announced to all of the feelings that the island was going to sink to the bottom of the ocean .</s>
+<s id='vn3'>Một ngày kia các cảm xúc được thông báo rằng hòn đảo này sắp sửa chìm xuống đáy biển .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>So all the feelings prepared their boats to leave .</s>
+<s id='vn4'>Vì vậy tất cả đều đóng thuyền bè để đi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Love was the only one that stayed .</s>
+<s id='vn5'>Ngoại trừ Tình yêu là ở lại .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>She wanted to preserve the island until the last possible moment .</s>
+<s id='vn6'>Tình yêu muốn gìn giữ hòn đảo cho đến phút cuối cùng mình có thể .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>When the island was almost totally under , Love decided it was time to leave .</s>
+<s id='vn7'>Khi hòn đảo hoàn toàn chìm hẳn , Tình yêu mới quyết định đi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>She began looking for someone to ask for help .</s>
+<s id='vn8'>Tình yêu bắt đầu cậy nhờ vào người khác để mong được giúp đỡ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Just then Richness was passing by in a grand boat .</s>
+<s id='vn9'>Sự Giàu có đi qua Tình yêu trên một chiếc thuyền lớn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Love asked ,</s>
+<s id='vn10'>Tình yêu gọi , "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Richness , can I come with you on your boat ? "</s>
+<s id='vn11'>" Giàu Có ơi , có thể đưa tôi đi cùng với không ? "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Richness answered ,</s>
+<s id='vn12'>Giàu Có trả lời :</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" I 'm sorry .</s>
+<s id='vn13'>" Tôi không thể .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But there is a lot of silver and gold on my boat and there would be no room for you anywhere . "</s>
+<s id='vn14'>Trong thuyền có rất nhiều vàng và bạc , ở đây không có chỗ cho bạn đâu . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Then Love decided to ask Vanity for help who was passing in a beautiful vessel .</s>
+<s id='vn15'>Và rồi Tình yêu quyết định nhớ Phù hoa giúp đỡ , Phù hoa đi trên một con thuyền rất đẹp .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Love cried out , " Vanity , help me please . "</s>
+<s id='vn16'>Tình yêu cất tiếng gọi to , " Phù Hoa ơi , hãy giúp tôi ! "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" I ca n't help you " , Vanity said , " you are all wet and will damage my beautiful boat . "</s>
+<s id='vn17'>" Tôi không thể giúp bạn được đâu " , Phù hoa đáp lại , " Bạn ẩm ướt quá , bạn sẽ làm hỏng chiếc thuyền xinh đẹp của tôi mất . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Next , Love saw Sadness passing by .</s>
+<s id='vn18'>Và rồi , Tình yêu trông thấy Nỗi buồn ở gần đó .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Love said , " Sadness , please let me go with you . "</s>
+<s id='vn19'>Tình yêu gọi , " Nỗi buồn ơi , hãy cho mình đi với cậu . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Love , I 'm sorry , but , I just need to be alone now . "</s>
+<s id='vn20'>" Tình yêu ạ , mình xin lỗi nhé , mình chỉ muốn ở một mình thôi . "</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Then , Love saw Happiness .</s>
+<s id='vn21'>Và Tình yêu lại gặp sự Hạnh phúc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Love cried out , " Hapiness , please take me with you . "</s>
+<s id='vn22'>Tình yêu hét vang , " Hạnh phúc ơi , làm ơn cho tôi đi cùng . "</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Hapiness was so overjoyed that he did n't hear Love calling to him .</s>
+<s id='vn23'>Hạnh phúc quá vui mừng đến độ không hề nghe thấy tiếng kêu của Tình yêu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Love began to cry .</s>
+<s id='vn24'>Tình yêu bắt đầu khóc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Then , she heard a voice say ,</s>
+<s id='vn25'>Bỗng Tình yêu nghe một tiếng gọi ,</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Come Love , I will take you with me . "</s>
+<s id='vn26'>" Lại đây Tình yêu , ta sẽ đưa cháu đi . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It was an elder .</s>
+<s id='vn27'>Đó là một người lớn tuổi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Love felt so blessed and overjoyed that she forgot to ask the elder his name .</s>
+<s id='vn28'>Tình yêu quá vui mừng và sung sướng đến nỗi quên cả hỏi người lớn tuổi đó tên gì nữa .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>When they arrived on the dry land the elder went on his way .</s>
+<s id='vn29'>Khi đến một miền đất khô ráo , người lớn tuổi lại tiếp tục đi con đường của mình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Love realized that she owed the elder .</s>
+<s id='vn30'>Tình yêu chợt nhận ra mình đã mắc nợ người lớn tuổi đó nhiều quá .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Love then found Knowledge and asked , " Who was it that helped me ? "</s>
+<s id='vn31'>Rồi Tình yêu gặp được Tri thức và hỏi , " Ai vừa giúp cháu vậy ? "</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" It was Time " , Knowledge answered .</s>
+<s id='vn32'>Tri thức đáp : " Đó là Thời gian . " .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" But why did Time help me when no one else would ?" ,</s>
+<s id='vn33'>Nhưng tại sao lại là Thời gian mà không là một ai khác ? "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Love asked .</s>
+<s id='vn34'>Tình yêu hỏi .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Knowledge smiled and with deep wisdom and sincerity , answered , " Because only Time is capable of understanding how great Love is . "</s>
+<s id='vn35'>Tri thức mỉm cười bằng cả sự chân thành và khôn ngoan , " Bởi lẽ chỉ có Thời Gian mới hiểu được giá trị của Tình Yêu vĩ đại đến dường nào . "</s>
+</spair>
+</text>
+</doc>

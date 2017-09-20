@@ -1,0 +1,520 @@
+﻿<doc id='N0261'>
+<head>
+<title>Gastroesophageal reflux disease</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gastroesophageal reflux disease</s>
+<s id='vn1'>Bệnh trào ngược dạ dày - thực quản</s>
+</spair>
+<spair id='2'>
+<s id='en2'>After basketball practice , Ella looks forward to hanging out with her teammates and sharing a large pizza with extra cheese and a pitcher of soda - a well-deserved reward after hours of shooting free throws and running laps .</s>
+<s id='vn2'>Sau buổi tập bóng rổ , Ella háo hức muốn được la cà với bạn bè trong nhóm và cùng ăn ổ bánh pizza phô mai lớn với bình nước xô-đa - đây là một phần thưởng xứng đáng cho những giờ tập luyện ném phát bóng tự do và tập chạy nhiều vòng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Lately , though , Ella has n't been enjoying her post-practice treat like she used to .</s>
+<s id='vn3'>Dù vậy , gần đây Ella không còn hào hứng với việc ăn uống , vui chơi sau khi tập luyện xong như trước đây nữa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>After eating , she feels an odd burning sensation in her chest and sometimes in her throat .</s>
+<s id='vn4'>Sau khi ăn xong , em cảm thấy trong ngực mình nóng rát kỳ lạ và đôi khi cổ họng em cũng có cảm giác tương tự .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It 's that uncomfortable feeling people call " heartburn . "</s>
+<s id='vn5'>Cái cảm giác khó chịu đó người ta gọi là " chứng ợ nóng " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Frequent , strong heartburn is one of the signs of gastroesophageal reflux disease , more commonly known as GERD or acid reflux .</s>
+<s id='vn6'>Thường thì chứng ợ nóng dữ dội là một trong những dấu hiệu của bệnh trào ngược dạ dày - thực quản , mà người ta thường gọi là hiện tượng GERD hoặc trào ngược a-xít nhiều hơn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>GERD does n't just affect older people who eat too much while watching TV .</s>
+<s id='vn7'>GERD không chỉ xảy ra ở người già ăn quá no trong lúc coi ti vi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Active , healthy teens can have GERD , too .</s>
+<s id='vn8'>Thanh thiếu niên năng động và khỏe mạnh cũng bị chứng bệnh này .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>What Is GERD ?</s>
+<s id='vn9'>GERD là gì ?</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Gastroesophageal reflux disease is a disorder that results from stomach acid moving backward from the stomach into the esophagus .</s>
+<s id='vn10'>Trào ngược dạ dày - thực quản là chứng rối loạn làm cho axit trong dạ dày trào ngược từ dạ dày lên thực quản .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>GERD usually happens because the lower esophageal sphincter ( LES ) - the muscular valve where the esophagus joins the stomach - opens at the wrong time or does not close properly .</s>
+<s id='vn11'>Chứng bệnh này thường là do cơ thắt thực quản dưới ( LES ) - van cơ nằm tiếp giáp giữa dạ dày và thực quản - không mở đúng lúc hoặc không khép kín được .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>When the stomach contents move backward into the esophagus , this is known as gastroesophageal reflux .</s>
+<s id='vn12'>Khi axit trong dạ dày trào ngược lên thực quản , người ta gọi đây là hiện tượng trào ngược dạ dày - thực quản .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>( Because the stomach makes acid to help a person digest food , gastroesophageal reflux is also known as acid reflux . )</s>
+<s id='vn13'>( Bởi dạ dày có tác dụng tiết ra axit để giúp quá trình tiêu hoá thức ăn , trào ngược dạ dày - thực quản cũng có tên gọi là trào ngược axit . )</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Almost everyone has this type of reflux at some time .</s>
+<s id='vn14'>Hầu hết mọi người ai cũng đều bị hội chứng trào ngược này một lúc nào đó trong đời .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Often a person is n't even aware that it is happening .</s>
+<s id='vn15'>Thường thì người ta thậm chí không biết mình đang mắc bệnh này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Sometimes reflux causes the burning sensation of heartburn that most of us occasionally feel .</s>
+<s id='vn16'>Đôi khi chứng trào ngược này làm chúng ta có cảm giác nóng rát vì ợ nóng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>But although lots of people have heartburn from time to time , that does n't mean that they have GERD.</s>
+<s id='vn17'>Nhưng dẫu là nhiều người thỉnh thoảng cũng bị ợ nóng , không có nghĩa là họ bị GRED .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>When a person has GERD , heartburn or other symptoms happen much more often and cause serious discom fort .</s>
+<s id='vn18'>Khi bệnh nhân bị GERD thì triệu chứng ợ nóng và các triệu chứng khác xảy ra thường xuyên hơn và có thể gây khó chịu dữ dội .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>GERD can be a problem if it 's not treated because , over time , the reflux of stomach acid damages the tissue lining the esophagus , causing inflammation and pain .</s>
+<s id='vn19'>GERD có thể trở thành một vấn đề rắc rối nếu không được chữa trị bởi lẽ nếu để lâu , hiện tượng trào ngược axit dạ dày này sẽ có thể gây hại cho mô lót thực quản , gây viêm và đau nhức .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>In adults , long-lasting , untreated GERD can lead to permanent damage of the esophagus and sometimes even cancer .</s>
+<s id='vn20'>Ở người lớn , GERD nếu để lâu và không được chữa trị thì có thể gây hại đến thực quản của bệnh nhân lâu dài và đôi khi còn gây ra ung thư nữa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>What causes GERD ?</s>
+<s id='vn21'>Nguyên nhân nào gây ra chứng GERD ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>No one knows for sure why people get GERD.</s>
+<s id='vn22'>Không ai có thể biết chắc lý do gì khiến người ta bị GERD .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Although lots of different things may contribute to the condition , doctors believe that the way the LES works is the main reason why people have gastroesophageal reflux .</s>
+<s id='vn23'>Dẫu rằng có nhiều nguyên nhân khác nhau gây nên chứng trào ngược này , nhưng bác sĩ cho cơ thắt thực quản dưới là nguyên nhân chính gây bệnh .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The LES is a muscular ring at the bottom of the esophagus where it joins the stomach .</s>
+<s id='vn24'>Cơ thắt thực quản dưới là một vòng cơ nằm ở đoạn cuối của thực quản , tiếp giáp với dạ dày .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>As a person swallows , muscles in the esophagus move the food down into the stomach .</s>
+<s id='vn25'>Khi chúng ta nuốt , các cơ ở thực quản có tác dụng đẩy thức ăn xuống dạ dày .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The LES relaxes just enough to allow food and liquids into the stomach , but then the powerful muscles in the LES contract ( tighten ) to stop food and liquids from moving back up the esophagus .</s>
+<s id='vn26'>Cơ thắt thực quản dưới mở chỉ đủ để thức ăn và thức uống có thể vào dạ dày được , nhưng sau đó các cơ mạnh trong cơ thắt thực quản dưới co lại ( siết chặt lại ) để ngăn thức ăn , thức uống trào ngược lên thực quản .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In other words , the job of the LES is to prevent reflux .</s>
+<s id='vn27'>Hay nói cách khác là LES có tác dụng tránh trào ngược .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Sometimes , though , the LES might not be able to do its job for various reasons .</s>
+<s id='vn28'>Dù vậy nhưng đôi khi cơ thắt thực quản dưới cũng không hoạt động tốt vì nhiều lý do .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In some people , the LES does n't tighten properly .</s>
+<s id='vn29'>Đối với nhiều người , cơ thắt thực quản dưới không đóng kín được tốt .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>In other cases , the LES does n't close quickly enough or at the right time , allowing stomach contents to wash back up .</s>
+<s id='vn30'>Nó có thể là do cơ thắt thực quản dưới không khép nhanh được hoặc không đúng lúc , khiến cho thức ăn trong dạ dày trào ngược lên trên .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If a person has eaten too much , the stomach may be so stretched full that the LES ca n't do its job properly .</s>
+<s id='vn31'>Khi người ta ăn quá no thì dạ dày cũng có thể giãn ra nhiều đến độ cơ thắt thực quản dưới không đóng lại được .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>In some people who have GERD , a hiatal hernia is to blame .</s>
+<s id='vn32'>Chứng thoát vị khe cũng là nguyên nhân gây trào ngược dạ dày - thực quản ở một số người .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>A hiatal hernia is an opening in the diaphragm ( the muscle that separates the abdomen and chest ) where the esophagus joins the stomach .</s>
+<s id='vn33'>Thoát vị khe là một khe hở trong cơ hoành ( đây là cơ tách bụng và ngực ) , là chỗ tiếp giáp giữa thực quản và dạ dày .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The hernia can allow the uppermost part of the stomach to bulge through the diaphragm into the chest area , interfering with how the LES works .</s>
+<s id='vn34'>Chứng thoát vị cũng có thể khiến cho phần trên cùng của dạ dày phình to ra qua cơ hoành đến vùng ngực , làm cản trở cơ thắt thực quản dưới ( LES ) .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Most teens who have GERD do not have a hiatal hernia .</s>
+<s id='vn35'>Hầu hết thanh thiếu niên mắc bệnh trào ngược này không bị thoát vị khe .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Doctors do know that some things can make GERD worse , including obesity , drinking alcohol , and pregnancy .</s>
+<s id='vn36'>Bác sĩ biết rất rõ một số nguyên nhân có thể khiến cho hội chứng GERD trầm trọng thêm , như chứng béo phì , rượu bia , và thai nghén .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Certain foods and medications can also worsen GERD symptoms ; for example , these foods affect some people with GERD :</s>
+<s id='vn37'>Một số thực phẩm và thuốc nào đó cũng có thể làm cho các triệu chứng GERD này tệ hại hơn ; các thức ăn làm ảnh hưởng một số người bị trào ngược gồm :</s>
+</spair>
+<spair id='38'>
+<s id='en38'>* citrus fruits</s>
+<s id='vn38'>* trái cây họ cam</s>
+</spair>
+<spair id='39'>
+<s id='en39'>* chocolate</s>
+<s id='vn39'>* sô-cô-la</s>
+</spair>
+<spair id='40'>
+<s id='en40'>* drinks or foods with caffeine</s>
+<s id='vn40'>* thức ăn hoặc nước uống chứa cà-phê-in</s>
+</spair>
+<spair id='41'>
+<s id='en41'>* fatty and fried foods</s>
+<s id='vn41'>* thức ăn chiên rán và nhiều chất béo</s>
+</spair>
+<spair id='42'>
+<s id='en42'>* garlic and onions</s>
+<s id='vn42'>* tỏi và hành</s>
+</spair>
+<spair id='43'>
+<s id='en43'>* mint flavorings</s>
+<s id='vn43'>* hương vị bạc hà</s>
+</spair>
+<spair id='44'>
+<s id='en44'>* spicy foods</s>
+<s id='vn44'>* thực ăn cay nóng</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* tomato-based foods - like spaghetti sauce , chili , and pizza</s>
+<s id='vn45'>* thức ăn chế biến từ cà chua - như nước xốt mì ống , ớt và bánh pizza</s>
+</spair>
+<spair id='46'>
+<s id='en46'>How do people know they have GERD ?</s>
+<s id='vn46'>Làm sao có thể nhận biết chứng trào ngược dạ dày - thực quản ?</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Often , people who have GERD notice that they regularly have the pain of heartburn in the chest or stomach - and their heartburn can last up to a couple of hours .</s>
+<s id='vn47'>Thông thường thì người bị trào ngược dạ dày - thực quản phát hiện thấy mình thường xuyên có cảm giác đau đớn vì ợ nóng ở ngực hoặc dạ dày - và chứng ợ nóng này có thể kéo dài đến vài tiếng đồng hồ .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Lots of people who have GERD notice their heartburn is worse after eating .</s>
+<s id='vn48'>Nhiều người nhận thấy rằng triệu chứng ợ nóng này tệ hại hơn nhiều sau khi ăn xong .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Regurgitation is also a sign that a person may have GERD , although , like heartburn , occasional regurgitation is common for everyone .</s>
+<s id='vn49'>Hiện tượng nôn mửa cũng là dấu hiệu của chứng trào ngược dạ dày - thực quản , nhưng mặc dù vậy , giống như chứng ợ nóng thì người ta thỉnh thoảng cũng thường hay bị nôn mửa .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>( Regurgitation is when food and liquid containing stomach acid comes back up into the throat or mouth . )</s>
+<s id='vn50'>( Tình trạng nôn mửa xảy ra khi thức ăn và thức uống chứa axit dạ dày trào ngược lên cổ họng hay miệng . )</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Other symptoms of GERD include :</s>
+<s id='vn51'>Các triệu chứng khác của trào ngược dạ dày - thực quản gồm :</s>
+</spair>
+<spair id='52'>
+<s id='en52'>* a sore , raw throat or hoarse voice</s>
+<s id='vn52'>* cổ họng đau rát hoặc khàn giọng</s>
+</spair>
+<spair id='53'>
+<s id='en53'>* a frequent sour taste of acid , especially when lying down</s>
+<s id='vn53'>* thường xuyên có vị chua của axit , nhất là khi nằm</s>
+</spair>
+<spair id='54'>
+<s id='en54'>* a feeling of burping acid into the mouth</s>
+<s id='vn54'>* cảm giác ợ axit lên miệng</s>
+</spair>
+<spair id='55'>
+<s id='en55'>* trouble swallowing</s>
+<s id='vn55'>* khó nuốt</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* a feeling that food is stuck in the throat</s>
+<s id='vn56'>* cảm giác nghẹn thức ăn trong cổ họng</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* a feeling of choking that may wake someone up</s>
+<s id='vn57'>* cảm giác nghẹn , khó thở làm cho người bệnh phải thức giấc</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* a dry cough</s>
+<s id='vn58'>* ho khan</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* bad breath</s>
+<s id='vn59'>* hơi thở bị hôi</s>
+</spair>
+<spair id='60'>
+<s id='en60'>You should talk to your parents and visit your doctor if you 've had heartburn that does n't seem to go away or any other symptoms of GERD for a while .</s>
+<s id='vn60'>Bạn nên nói cho bố mẹ biết và đến khám bác sĩ nếu bị ợ nóng trong một thời gian mà không thuyên giảm hoặc bị bất kỳ triệu chứng nào của chứng trào ngược dạ dày thực quản nhé .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>How doctors diagnose GERD</s>
+<s id='vn61'>Làm thế nào bác sĩ có thể chẩn đoán được chứng GERD</s>
+</spair>
+<spair id='62'>
+<s id='en62'>If a doctor thinks you might have GERD , he will do a physical examination .</s>
+<s id='vn62'>Nếu bác sĩ nghĩ rằng bạn có thể bị GERD , bác sĩ sẽ cho bạn làm kiểm tra sức khỏe .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Your doctor will also ask about any concerns and symptoms you have , your past health , your family 's health , any medications you 're taking , any allergies you may have , and other issues .</s>
+<s id='vn63'>Bác sĩ cũng muốn biết về bất kỳ mối quan tâm và triệu chứng nào của bạn , về tình trạng sức khỏe trước đây của bạn , sức khỏe của gia đình bạn , xem bạn có đang sử dụng một loại thuốc nào đó không , bạn có bị dị ứng không hoặc các vấn đề nào khác .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>This is called the medical history .</s>
+<s id='vn64'>Đây gọi là tiền sử sức khoẻ .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>If your doctor suspects you might have GERD , he or she may refer you to a pediatric gastroenterologist , a doctor who treats kids and teens who have diseases of the gastrointestinal system ( the esophagus , stomach , intestines , and other organs that aid in digestion ) .</s>
+<s id='vn65'>Nếu nghi ngờ bạn bị trào ngược dạ dày - thực quản , bác sĩ có thể chuyển bạn đến bác sĩ chuyên khoa dạ dày nhi , bác sĩ này chuyên điều trị cho trẻ con và thanh thiếu niên bị các bệnh về cơ quan dạ dày - ruột ( thực quản , dạ dày , ruột , và các cơ quan tiêu hoá khác ) .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Tests</s>
+<s id='vn66'>Các xét nghiệm</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Doctors sometimes run the following tests to diagnose GERD or rule out other possible problems :</s>
+<s id='vn67'>Bác sĩ cũng thường hay cho làm các xét nghiệm sau đây để chẩn đoán bệnh trào ngược dạ dày - thực quản hoặc để loại trừ các bệnh khác có thể xảy ra .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* A special X-ray called a barium swallow radiograph can help doctors see whether liquid is refluxing into the esophagus .</s>
+<s id='vn68'>* Dùng tia X đặc biệt gọi là chụp X-quang đường tiêu hoá có thuốc cản quang ba-ri giúp bác sĩ có thể nhìn thấy chất lỏng có bị trào ngược lên thực quản hay không .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>It can also show whether the esophagus is irritated or whether there are other abnormalities in the esophagus .</s>
+<s id='vn69'>Nó cũng giúp phát hiện xem thực quản có bị kích ứng không hay có dấu hiệu nào bất thường trong thực quản hay không .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>With this test , the person drinks a special solution ( barium , a kind of chalky liquid ) ; this liquid then shows up on the X-rays .</s>
+<s id='vn70'>Để làm xét nghiệm này thì bệnh nhân cần phải uống một loại dung dịch đặc biệt ( đó là ba-ri , đây là loại chất lỏng có màu trắng ) , dung dịch này sẽ được nhìn thấy trên hình X-quang .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* An upper endoscopy allows the doctor to look at the esophagus , stomach , and part of the small intestines using a tiny camera .</s>
+<s id='vn71'>* Nội soi phần trên của đường tiêu hoá , bằng cách sử dụng một máy nội soi nhỏ , bác sĩ có thể nhìn thấy được thực quản , dạ dày , và một phần của ruột non .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>For this test , the doctor may give the patient a medicine to help him or her relax , and may spray the throat to numb it .</s>
+<s id='vn72'>Đối với loại xét nghiệm này , bác sĩ có thể cho bệnh nhân dùng thuốc để giúp bệnh nhân thư giản , và có thể xịt thuốc vào cổ họng bệnh nhân để gây tê .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>This makes the test more comfortable .</s>
+<s id='vn73'>Phương pháp này có tác dụng giúp cho quy trình xét nghiệm diễn ra dễ dàng và thoải mái hơn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Sometimes patients are given anesthesia and are " asleep " when this procedure is done .</s>
+<s id='vn74'>Đôi khi bệnh nhân cũng được gây mê và làm cho " buồn ngủ " suốt quá trình nội soi .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>The doctor then slides a thin , flexible plastic tube called an endoscope down the throat and into the esophagus and the stomach .</s>
+<s id='vn75'>Bác sĩ đưa một ống nhựa mềm và mỏng gọi là đèn nội soi xuống cổ họng và vào thực quản và dạ dày .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>A tiny camera in the endoscope lets the doctor look for abnormalities on the surface of the esophagus and stomach lining .</s>
+<s id='vn76'>Máy ca - me-ra nhỏ xíu trong đèn nội soi có thể giúp cho bác sĩ nhìn thấy bất kỳ dấu hiệu bất thường nào trên bề mặt của thực quản và niêm mạc dạ dày .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>During the endoscopy , the doctor also may use small tweezers ( forceps ) to remove a piece of tissue for biopsy .</s>
+<s id='vn77'>Trong suốt quá trình nội soi , bác sĩ cũng có thể dùng một cái kẹp nhỏ ( cái gắp ) để lấy đi một phần mô làm sinh thiết .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>A biopsy can reveal damage caused by acid reflux or infection and help rule out other problems .</s>
+<s id='vn78'>Phương pháp sinh thiết có thể cho biết các tổn hại do hội chứng trào ngược dạ dày - thực quản hoặc viêm nhiễm gây ra và giúp loại trừ các chứng bệnh khác .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>* In another kind of test , called a 24-hour pH-probe study , the doctor puts a tiny tube into the esophagus that will stay there for 24 hours .</s>
+<s id='vn79'>* Một loại xét nghiệm khác là xét nghiệm thăm dò pH trong 24 tiếng đồng hồ , bác sĩ đặt một ống nhỏ vào trong thực quản và giữ ở đó trong vòng 24 tiếng đồng hồ .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>The tube is connected to a device that monitors the acid levels in the esophagus as the person goes about normal daily activities .</s>
+<s id='vn80'>Ống này nối với một thiết bị có thể theo dõi được nồng độ axit trong thực quản khi người ta làm các hoạt động thường nhật .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>This test is useful for diagnosing people who have symptoms of GERD but no damage to the esophagus .</s>
+<s id='vn81'>Phương pháp xét nghiệm này rất hữu ích dùng để chẩn đoán cho người mắc các triệu chứng GERD mà không gây hại đến thực quản .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>It also can detect whether the reflux triggers respiratory symptoms , such as wheezing and coug hing .</s>
+<s id='vn82'>Nó cũng phát hiện được xem liệu chứng trào ngược có gây ra các triệu chứng về đường hô hấp như thở khò khè và ho hay không .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>How can GERD be treated ?</s>
+<s id='vn83'>Điều trị hội chứng trào ngược dạ dày - thực quản bằng cách nào ?</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Treatment for GERD depends on how severe symptoms are .</s>
+<s id='vn84'>Việc chữa trị cho chứng trào ngược dạ dày - thực quản tuỳ thuộc vào mức độ trầm trọng của các triệu chứng gây bệnh .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>For some people , treatment may just include lifestyle changes , such as changing what they eat or drink .</s>
+<s id='vn85'>Đối với một số người thì chỉ cần thay đổi lối sống như thay đổi chế độ ăn uống .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Others will need to take medications .</s>
+<s id='vn86'>Một số người khác cần phải dùng thuốc .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>In very rare cases , when GERD is particularly severe , a doctor will recommend surgery .</s>
+<s id='vn87'>Rất hiếm khi gặp tình trạng trào ngược dạ dày - thực quản đặc biệt nghiêm trọng thì bác sĩ sẽ khuyến nghị phẫu thuật .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>The following lifestyle changes can help the symptoms of GERD or even prevent the condition :</s>
+<s id='vn88'>Các biện pháp thay đổi cách sống sau đây có thể giúp giảm bớt hoặc thậm chí còn ngăn ngừa được triệu chứng trào ngược dạ dày - thực quản :</s>
+</spair>
+<spair id='89'>
+<s id='en89'>* quitting smoking</s>
+<s id='vn89'>* bỏ thuốc lá</s>
+</spair>
+<spair id='90'>
+<s id='en90'>* avoiding alcohol</s>
+<s id='vn90'>* tránh rượu bia</s>
+</spair>
+<spair id='91'>
+<s id='en91'>* losing weight if you are overweight</s>
+<s id='vn91'>* giảm cân nếu bạn đang tăng cân</s>
+</spair>
+<spair id='92'>
+<s id='en92'>* eating small meals</s>
+<s id='vn92'>* ăn nhiều bữa nhỏ</s>
+</spair>
+<spair id='93'>
+<s id='en93'>* wearing loose-fitting clothes</s>
+<s id='vn93'>* mặc quần áo rộng thùng thình</s>
+</spair>
+<spair id='94'>
+<s id='en94'>* avoiding carbonated beverages</s>
+<s id='vn94'>* tránh thức uống có ga</s>
+</spair>
+<spair id='95'>
+<s id='en95'>* avoiding foods that trigger reflux</s>
+<s id='vn95'>* tránh ăn các loại thức ăn có thể gây hội chứng trào ngược</s>
+</spair>
+<spair id='96'>
+<s id='en96'>It can also help to not lie down for 3 hours after a meal and not eat 2 to 3 hours before going to bed .</s>
+<s id='vn96'>Không nên nằm trong vòng 3 tiếng đồng hồ sau khi ăn xong và không nên ăn trước khi đi ngủ từ 2 đến 3 tiếng đồng hồ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Doctors sometimes also recommend raising the head of the bed about 6 to 8 inches .</s>
+<s id='vn97'>Đôi khi bác sĩ cũng khuyến nghị nên kê cao đầu giường khoảng chừng 6 đến 8 in-sơ .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Before you start a bedroom makeover , though , talk to your doctor and your parents about the best sleeping position for you .</s>
+<s id='vn98'>Trước khi bắt đầu thay đổi bề ngoài của phòng ngủ , bạn nên nói cho bác sĩ và bố mẹ mình biết về tư thế ngủ nào là tốt nhất cho mình nhé .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>A doctor may also recommend different medications to relieve symptoms .</s>
+<s id='vn99'>Bác sĩ cũng có thể cho nhiều loại thuốc khác nhau để giúp giảm bớt các triệu chứng của bệnh .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Over-the-counter antacids , such as Alka-Seltzer or Maalox , work by neutralizing stomach acid and can help with mild symptoms .</s>
+<s id='vn100'>Các thuốc làm giảm độ axit trong dạ dày được bán tự do không theo toa như Alka-Seltzer hoặc Maalox , có tác dụng làm trung hoà axit trong dạ dày và tác dụng tốt đối với các triệu chứng nhẹ .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Other medications called H2 blockers are available over the counter and by prescription and help by blocking the production of stomach acid .</s>
+<s id='vn101'>Bạn cũng có thể mua thuốc H2 blockers tự do và theo toa và giúp ngăn tiết axit trong dạ dày .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>If your doctor thinks you should take these , he or she will recommend certain over-the-counter medications or write you a prescription .</s>
+<s id='vn102'>Nếu bác sĩ nghĩ rằng bạn nên sử dụng các loại thuốc này thì họ sẽ giới thiệu cho bạn một số thuốc mua tự do nào đó hoặc có thể kê toa cho bạn .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>More powerful prescription drugs called proton pump inhibitors also reduce the amount of acid the stomach produces .</s>
+<s id='vn103'>Các thuốc kê toa mạnh hơn như proton pump inhibitors cũng có tác dụng làm ức chế sự tiết axit trong dạ dày .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Some of these are also available over-the-counter .</s>
+<s id='vn104'>Một số loại thuốc này cũng có thể được bán tự do không theo toa .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Doctors also prescribe these for people with more severe or persistent GERD.</s>
+<s id='vn105'>Bác sĩ sẽ kê toa cho những bệnh nhân mắc chứng trào ngược dạ dày - thực quản trầm trọng hoặc lâu dài hơn .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>For some teens , doctors advise combining medications to control different symptoms .</s>
+<s id='vn106'>Đối với một số thanh thiếu niên , bác sĩ có thể khuyến nghị sử dụng kết hợp nhiều loại thuốc để làm giảm nhiều triệu chứng khác nhau .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>For example , people who get heartburn after eating can try taking both antacids and H2 blockers .</s>
+<s id='vn107'>Chẳng hạn như người bị ợ nóng sau khi ăn có thể dùng kết hợp cả thuốc làm trung hoà axit và H2 blocker .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>The antacid goes to work first to neutralize the acid in the stomach , while the H2 blocker acts on acid production .</s>
+<s id='vn108'>Thuốc làm trung hoà axit đầu tiên có tác dụng làm trung hoà axit trong dạ dày , trong khi đó H2 blocker làm ngăn sự tiết axit .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>By the time the antacid stops working , the H2 blocker will have stopped acid production .</s>
+<s id='vn109'>Khi thuốc làm trung hoà axit không còn tác dụng nữa thì H2 blocker sẽ làm ngưng tiết axit trong dạ dày .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Surgery is a last resort for people with GERD and is rarely needed in healthy teens .</s>
+<s id='vn110'>Phẫu thuật là phương kế cuối cùng đối với bệnh nhân bị trào ngược dạ dày - thực quản và hiếm khi sử dụng cho thanh thiếu niên khoẻ mạnh .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>The typical surgical treatment for GERD is called fundoplication .</s>
+<s id='vn111'>Phương pháp điều trị GERD bằng phẫu thuật điển hình gọi là phẫu thuật fundoplication .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>During the surgery , the upper part of the stomach is wrapped around the lower esophageal sphincter to strengthen the sphincter and prevent reflux .</s>
+<s id='vn112'>Trong suốt quá trình phẫu thuật thì phần trên của dạ dày được bọc quanh cơ thắt thực quản dưới nhằm làm mạnh cơ thắt và tránh trào ngược .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Fundoplication has been used in people of all ages , even babies with severe GERD.</s>
+<s id='vn113'>Phẫu thuật fundoplication có thể được sử dụng cho tất cả mọi người ở mọi lứa tuổi , thậm chí đối với trẻ em bị trào ngược dạ dày nặng .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Living with GERD</s>
+<s id='vn114'>Sống với GERD</s>
+</spair>
+<spair id='115'>
+<s id='en115'>The key to living with GERD is to not ignore it .</s>
+<s id='vn115'>Phương châm để sống cùng với GERD là đừng nên phớt lờ nó .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Early diagnosis and treatment can help reduce or even eliminate uncomfortable symptoms .</s>
+<s id='vn116'>Việc chẩn đoán và điều trị sớm có thể làm giảm hoặc thậm chí là làm dứt hết các triệu chứng khó chịu .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Left untreated , however , GERD can cause permanent damage to the esophagus .</s>
+<s id='vn117'>Tuy nhiên , nếu để lâu không điều trị thì chứng bệnh trào ngược dạ dày - thực quản này có thể gây hại lâu dài cho thực quản .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>One possible long-term effect of GERD is something called Barrett 's esophagus .</s>
+<s id='vn118'>Một hậu quả có thể lâu dài do GERD để lại thường được gọi là bệnh Barrett thực quản .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>In this condition , the cells in the esophagus change and become precancerous because they have been irritated by stomach acid for so long .</s>
+<s id='vn119'>Đối với chứng bệnh này thì các tế bào trong thực quản biến đổi và trở thành tế bào tiền ung thư vì chúng bị axit trong dạ dày làm cho kích ứng trong một thời gian quá lâu .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Eventually , it may lead to cancer of the esophagus .</s>
+<s id='vn120'>Cuối cùng , nó có thể dẫn đến ung thư thực quản .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Barrett 's esophagus is mostly found in adults who have had GERD for many years .</s>
+<s id='vn121'>bệnh Barrett thực quản đa số thường xảy ra ở người lớn bị trào ngược dạ dày - thực quản lâu năm .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>But you can help avoid it by dealing with your GERD now .</s>
+<s id='vn122'>Mặc dù vậy bạn cũng có thể phòng tránh chứng bệnh này bằng cách chữa lành chứng GERD của mình ngay từ bây giờ .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>You 'll probably find that one of the simplest ways to make living with GERD easier is to avoid the things that trigger your symptoms .</s>
+<s id='vn123'>Bạn ắt có thể phát hiện ra một cách đơn giản nhất để có thể sống cùng với chứng GERD này dễ dàng hơn là nên tránh những thứ gây nên triệu chứng trào ngược .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Some people will have to limit certain foods ; others may have to give them up entirely .</s>
+<s id='vn124'>Một số người sẽ phải hạn chế một số loại thức ăn nào đó và số khác có thể là phải nhịn ăn hoàn toàn .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>It all depends on your individual symptoms .</s>
+<s id='vn125'>Điều này tuỳ thuộc vào các triệu chứng riêng của từng người .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>It can be hard to give up sodas or favorite foods at first .</s>
+<s id='vn126'>Ban đầu có thể là rất khó để từ chối món xô-đa hoặc các món khoái khẩu của mình .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>But after a while , lots of people discover that they feel so much better that they do n't miss the problem foods as much as they thought they would .</s>
+<s id='vn127'>Nhưng dần dần sau một thời gian , nhiều người phát hiện ra đã đỡ hơn nhiều , không còn thèm và nhớ các loại thức ăn gây bệnh như người ta từng nghĩ nữa .</s>
+</spair>
+</text>
+</doc>

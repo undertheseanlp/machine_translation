@@ -1,0 +1,100 @@
+﻿<doc id='N0781'>
+<head>
+<title>Less educated people age faster , DNA study</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Less educated people age faster , DNA study</s>
+<s id='vn1'>Một nghiên cứu ADN cho thấy người có học vấn thấp sẽ già mau hơn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>People who leave education with fewer academic qualifications may grow old faster , according to a DNA study that compared groups of people who spent different lengths of time in education and found the ones who spent the least time had shorter telomeres or " caps " on the ends of their DNA , a sign of premature aging in cells .</s>
+<s id='vn2'>Những người nghỉ học sớm và có ít bằng cấp có thể già nhanh hơn , theo một nghiên cứu ADN so sánh các nhóm người có thời gian học tập khác nhau , và thấy rằng những người có thời gian học tập ít nhất sẽ có các gien kết thúc ngắn hơn hay " mũ " trên đầu cuối của ADN của họ , một dấu hiệu cho thấy sự lão hóa sớm trong tế bào .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Co-funded by the British Heart Foundation ( BHF ) and the Medical Research Council ( MRC ) , and led by University College London ( UCL ) , the study used 450 volunteers from the ongoing " Whitehall II " study , which started in 1985 to investigate links between social class and health .</s>
+<s id='vn3'>Hiệp hội Tim mạch Anh Quốc ( BHF ) và Hội đồng Nghiên cứu Y học ( MRC ) , do Đại học Luân Đôn ( UCL ) thực hiện , nghiên cứu sử dụng 450 tình nguyện viên đang tham gia dự án nghiên cứu " Whitehall II " , bắt đầu từ năm 1985 để tìm hiểu mối liên kết giữa các tầng lớp xã hội và sức khỏe .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>BHF 's Associate Medical Director , Professor Jeremy Pearson , said the study reinforces the need to tackle social inequalities to combat ill health :</s>
+<s id='vn4'>Bác sĩ Phó Giám đốc của BHF , Giáo sư Jeremy Pearson , cho biết nghiên cứu này củng cố thêm sự cần thiết để giải quyết bất bình đẳng xã hội nhằm phòng chống bệnh tật :</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" It 's not acceptable that where you live or how much you earn - or lesser academic attainment - should put you at greater risk of ill health , " he said in a statement .</s>
+<s id='vn5'>" Không thể chấp nhận được khi nơi bạn sống hoặc số tiền bạn kiếm được - hay học vấn của bạn - sẽ làm cho bạn gặp nhiều nguy cơ sức khỏe hơn " , ông nói trong một tuyên bố .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Andrew Steptoe , BHF Professor of Psychology at UCL , and colleagues , wrote about their findings in a paper published recently in the journal Brain , Behavior , and Immunity .</s>
+<s id='vn6'>Giáo sư Tâm lý học của BHF tại Đại học Luân Đôn , và đồng nghiệp , đã viết về những phát hiện của họ trong một bài báo công bố gần đây trên tạp chí Não , Thói quen , và Miễn dịch .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They were concerned that while there is evidence that low socioeconomic status is linked to faster biological aging , attempts to tie it telomere length have yielded inconsistent results .</s>
+<s id='vn7'>Họ lo ngại rằng trong khi có bằng chứng cho thấy tình trạng kinh tế xã hội thấp có liên quan đến lão hóa sinh học nhanh hơn , thì những nỗ lực để liên hệ nó với chiều dài đoạn cuối nhiễm sắc thể đã mang lại các kết quả không phù hợp .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Telomeres are short repetitive sequences of DNA that " cap " the ends of chromosomes and stop them degrading and fusing with their neighbours .</s>
+<s id='vn8'>Điểm cuối của nhiễm sắc thể là các dãy ngắn lặp đi lặp lại của trình tự ADN tại cuối các nhiễm sắc thể ngăn chặn chúng bị suy thoái hay nối với các nhiễm sắc thể lân cận .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Telomeres are replenished by an enzyme called telomerase , but there is a limit to how many times this can happen , and they gradually get shorter , limiting the number of times cells can divide , and in turn , lifespan .</s>
+<s id='vn9'>Nhiễm sắc thể được bổ sung bởi một en-zim gọi là telomerase , nhưng có giới hạn điều này chỉ có thể xảy ra bao nhiêu lần , và chúng sẽ dần dần ngắn đi , giới hạn số lần mà tế bào có thể phân chia , hay chính là tuổi thọ của tế bào .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The researchers set out to test the hypothesis that " shorter telomere length and telomerase activity would be related more robustly to education , an early life indicator of socioeconomic position , than to current indicators of socioeconomic circumstances " .</s>
+<s id='vn10'>Các nhà nghiên cứu bắt tay vào thử nghiệm giả thuyết " chiều dài của đoạn cuối nhiễm sắc thể ngắn hơn và hoạt động của en-zim cấu tạo lại đoạn cuối nhiễm sắc thể có thể liên quan thiết thực đến việc học tập , một dấu hiệu đặc trưng thời niên thiếu của địa vị kinh tế xã hội , hơn là chỉ số hiện tại của hoàn cảnh kinh tế xã hội " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>For the study , they split the 450 volunteers , healthy men and women aged between 53 and 76 years , into four groups according to how long they had spent in education .</s>
+<s id='vn11'>Để phục vụ nghiên cứu , họ chia 450 tình nguyện viên , đàn ông và phụ nữ khỏe mạnh tuổi từ 53 đến 76 , thành 4 nhóm dựa trên thời gian họ được đi học .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They also measured their current socioeconomic status in terms of household income and grade of employment .</s>
+<s id='vn12'>Họ cũng xét đến hoàn cảnh kinh tế xã hội hiện tại của tình nguyện viên về mặt thu nhập hộ gia đình và trình độ việc làm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>From blood samples , they were able to assess telomere length in 448 of the participants and telomerase activity in 416 .</s>
+<s id='vn13'>Từ các mẫu máu , họ có thể đánh giá chiều dài đoạn cuối nhiễm sắc thể trong 488 người tham gia và hoạt động của en-zim cấu tạo lại đoạn cuối nhiễm sắc thể trong 416 người .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>After adjusting for possible confounding factors , such as age , gender , various health indicators such as smoking and cholesterol , and lifestyle indicators such as exercise , they found that lower educational attainment was linked to shorter telomere length , while household income was not , and neither was employment grade .</s>
+<s id='vn14'>Sau khi điều chỉnh các yếu tố có thể gây nhiễu , như độ tuổi , giới tính , các chỉ số sức khỏe khác nhau như hút thuốc và cô-lét-xtê-ron , và các chỉ số lối sống như tập thể dục , họ thấy rằng học vấn thấp có liên quan đến chiều dài đoạn cuối nhiễm sắc thể ngắn hơn , trong khi không liên quan với thu nhập hộ gia đình và cấp bậc việc làm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In fact , the link between " telomere length and education remained significant after adjusting for current socioeconomic circumstances " , they wrote .</s>
+<s id='vn15'>Thực tế , mối liên hệ giữa " chiều dài đoạn cuối nhiễm sắc thể và trình độ học vấn vẫn đáng kể sau khi xét đến hoàn cảnh kinh tế xã hội hiện tại " , họ viết . .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>They also found that in men , the highest telomerase activity ( the enzyme that repairs the telomeres ) was in the lowest education group .</s>
+<s id='vn16'>Họ cũng thấy rằng ở nam giới , các hoạt động của en-zim cấu tạo lại đoạn cuối nhiễm sắc thể cao nhất ( en-zim sửa chữa các đoạn cuối gien ) ở nhóm người được giáo dục ít nhất .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The researchers concluded that low socioeconomic status defined in terms of education but not current socioeconomic circumstances is linked to shorter telomeres .</s>
+<s id='vn17'>Các nhà nghiên cứu kết luận rằng tình trạng kinh tế xã hội thấp xác định đặc điểm về mặt giáo dục chứ không phải hoàn cảnh kinh tế xã hội hiện tại liên kết với đoạn cuối nhiễm sắc thể ngắn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This supports the idea that faster aging is not just a result of current economic circumstances or social status in a person 's life , but of long-term effects that start early in life , such as education .</s>
+<s id='vn18'>Điều này ủng hộ những ý kiến cho rằng sự lão hóa nhanh hơn không chỉ là kết quả của các hoàn cảnh kinh tế hoặc địa vị xã hội hiện tại trong cuộc sống của một người , mà còn do các ảnh hưởng lâu dài bắt đầu sớm trong cuộc sống , như là giáo dục .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The researchers also suggest that people with higher levels of education are probably better equipped with life skills like problem-solving that help them deal with the stresses of life , and this reduces the biological stress on their bodies , the so-called " allostatic load " .</s>
+<s id='vn19'>Các nhà nghiên cứu cũng gợi ý rằng người có trình độ học vấn cao có thể được trang bị các kỹ năng sống tốt hơn như giải quyết vấn đề sẽ giúp họ đối phó với những căng thẳng của cuộc sống , và điều này làm giảm tác động căng thẳng sinh học lên cơ thể họ , gọi là " tải cân bằng sinh học "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" Educational attainment but not measures of current socioeconomic circumstances are associated with leukocyte telomere length in healthy older men and women . "</s>
+<s id='vn20'>" Trình đô giáo dục chứ không phải hoàn cảnh kinh tế xã hội hiện tại gắn liền với chiều dài đoạn cuối nhiễm sắc thể của bạch cầu trong đàn ông và phụ nữ lớn tuổi khỏe mạnh " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Andrew Steptoe , Mark Hamer , Lee Butcher , Jue Lin , Lena Brydon , Mika Kivimäki , Michael Marmot , Elizabeth Blackburn , Jorge D. Erusalimsky .</s>
+<s id='vn21'>Andrew Steptoe , Mark Hamer , Lee Butcher , Jue Lin , Lena Brydon , Mika KivimaKi , Michael Marmot , Elizabeth Blackburn , Jorge D. Erusalimsky .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Brain , Behavior , and Immunity , In Press , Uncorrected Proof , Available online 23 April 2011 .</s>
+<s id='vn22'>Não , Hành vi , và Miễn dịch , trong hãng thông tấn Press , Uncorrected Proof , đăng trên mạng ngày 23 tháng 4 năm 2011 .</s>
+</spair>
+</text>
+</doc>

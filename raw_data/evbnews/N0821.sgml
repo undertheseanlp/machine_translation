@@ -1,0 +1,660 @@
+﻿<doc id='N0821'>
+<head>
+<title>Are your bones at risk ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Are your bones at risk ?</s>
+<s id='vn1'>Có phải xương của bạn đang có nguy cơ không ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is osteoporosis ?</s>
+<s id='vn2'>Loãng xương là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Osteoporosis is a disease characterized by low bone mass and loss of bone tissue that may lead to weak and fragile bones .</s>
+<s id='vn3'>Loãng xương là bệnh đặc trưng bởi khối lượng xương thấp và mất mô xương có thể làm cho xương yếu và dễ gãy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>If you have osteoporosis , you have an increased risk for fractured bones ( broken bones ) .</s>
+<s id='vn4'>Nếu bạn bị loãng xương , thì nguy cơ bạn bị gãy xương tăng cao .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Does osteoporosis only affect the elderly ?</s>
+<s id='vn5'>Có phải chứng loãng xương chỉ ảnh hưởng đến người già ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Osteoporosis has often been thought to be a condition that frail elderly women develop .</s>
+<s id='vn6'>Người ta thường đã cho rằng bệnh loãng xương là chứng bệnh xảy ra ở phụ nữ ốm yếu lớn tuổi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>However , the damage from osteoporosis begins much earlier in life .</s>
+<s id='vn7'>Tuy nhiên , tổn thương do loãng xương gây ra bắt đầu rất sớm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Because peak bone density is reached at approximately 25 years of age , it is important to build strong bones by that age , so that the bones will remain strong later in life .</s>
+<s id='vn8'>Do mật độ xương cao nhất là ở khoảng 25 tuổi , nên quan trọng là phải làm cho xương chắc khỏe ở độ tuổi này , sao cho xương vẫn còn cứng cáp về sau .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Adequate calcium intake and exercise are essential for building strong bones .</s>
+<s id='vn9'>Luyện tập thể dục và bổ sung can - xi đầy đủ là điều quan trọng để giúp cho xương được chắc khỏe .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Why is osteoporosis an important public health issue ?</s>
+<s id='vn10'>Tại sao bệnh loãng xương là một vấn đề quan trọng của ngành y tế cộng đồng ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In the United States , more than 10 million people have osteoporosis and almost 34 million more have low bone density .</s>
+<s id='vn11'>Có hơn 10 triệu người Mỹ bị loãng xương và gần 34 triệu người có mật độ xương thấp .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Approximately 80 % of those with osteoporosis are women .</s>
+<s id='vn12'>Khoảng 80% bệnh nhân bị loãng xương là phụ nữ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Of people older than 50 years of age , one in two women and one in eight men are predicted to have an osteoporosis-related fracture in their lifetime.</s>
+<s id='vn13'>Đối với người già trên 50 tuổi , tỉ lệ bệnh nhân bị dự đoán nứt xương do loãng xương gây ra là 1 : 2 ở nữ và 1 : 8 ở nam trong suốt cuộc đời mình .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>White and Asian racial groups are at a greater risk .</s>
+<s id='vn14'>Các nhóm người thuộc chủng tộc da trắng và châu Á có nguy cơ bị loãng xương cao hơn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>With the aging of America , the number of people with osteoporosis-related fractures will increase substantially .</s>
+<s id='vn15'>Số người bị nứt xương do loãng xương gây ra tăng nhanh đáng kể đối với người già ở Mỹ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The pain , suffering , and economic costs will be enormous .</s>
+<s id='vn16'>Loãng xương làm cho bệnh nhân đau đớn , khổ sở và tốn kém rất nhiều .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What are the symptoms of osteoporosis ?</s>
+<s id='vn17'>Triệu chứng của loãng xương là gì ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Normal bone is composed of protein , collagen , and calcium , all of which give bone its strength .</s>
+<s id='vn18'>Xương thường được cấu tạo từ prô - tê-in , collagen ( chất tạo keo ) , và can - xi , tất cả làm cho xương trở nên chắc khỏe .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Bones that are affected by osteoporosis can break ( fracture ) with relatively minor injury that normally would not cause a bone to fracture .</s>
+<s id='vn19'>Loãng xương có thể làm cho xương bị gãy ( nứt ) do chấn thương khá nhẹ mà bình thường sẽ không làm cho xương gãy nứt .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The osteoporosis condition can be present without any symptoms for decades .</s>
+<s id='vn20'>Bệnh nhân bị loãng xương có thể không biểu hiện triệu chứng gì trong thời gian dài .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Therefore , patients may not be aware of their osteoporosis until they suffer a painful fracture .</s>
+<s id='vn21'>Do đó , người bệnh có thể không biết mình bị loãng xương cho đến khi bị nứt xương gây đau đớn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Symptoms depend on the location of the fracture .</s>
+<s id='vn22'>Các triệu chứng bệnh tuỳ thuộc vào chỗ xương bị nứt .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>We 'll take a look at the most common locations for osteoporotic fractures on the next few slides .</s>
+<s id='vn23'>Chúng ta sẽ điểm qua những vị trí nứt xương do loãng xương thường thấy nhất ở vài khung hình kế tiếp nhé .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Osteoporosis symptoms : Fractures of the spine</s>
+<s id='vn24'>Triệu chứng của bệnh loãng xương : Nứt cột sống</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Fractures of the spine ( vertebra ) can cause severe " band-like " pain that radiates around from the back to the side of the body .</s>
+<s id='vn25'>Nứt cột sống ( đốt sống ) có thể gây đau nhức dữ dội , đau như một " dải băng " lan ra xung quanh từ vùng lưng đến hai bên hông người .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Over the years , repeated spine fractures can cause chronic lower back pain as well as loss of height or curving of the spine , which gives the individual a hunched-back appearance of the upper back , referred to as a " dowager hump . "</s>
+<s id='vn26'>Nếu không được điều trị , để lâu thì các chỗ nứt tiếp này có thể gây đau thắt lưng mãn tính cũng như làm cho bệnh nhân bị lùn đi hoặc làm cong cột sống , người bệnh trông có vẻ bị gù lưng trên , thường được quy cho đó là " bệnh gù lưng . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Osteoporosis symptoms : Stress fracture</s>
+<s id='vn27'>Triệu chứng của bệnh loãng xương : Nứt xương</s>
+</spair>
+<spair id='28'>
+<s id='en28'>A fracture that occurs during the course of normal activity is called a minimal trauma fracture or stress fracture .</s>
+<s id='vn28'>Nứt gãy xương xảy ra trong khi thực hiện hoạt động bình thường được gọi là chấn thương nứt xương nhẹ hoặc nứt xương nhẹ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>For example , some patients with osteoporosis develop stress fractures of the feet while walking or stepping off a curb .</s>
+<s id='vn29'>Chẳng hạn như một số bệnh nhân loãng xương bị nứt xương bàn chân trong khi đi bộ hoặc bước xuống lề đường .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Osteoporosis symptoms : Hip fracture</s>
+<s id='vn30'>Triệu chứng của bệnh loãng xương : Nứt xương hông</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Hip fractures typically occur as a result of a fall .</s>
+<s id='vn31'>Nứt xương hông thường xảy ra khi bị té .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>With osteoporosis , hip fractures can occur as a result of trivial accidents .</s>
+<s id='vn32'>Đối với chứng loãng xương thì nứt xương hông có thể là do các tai nạn bình thường gây nên .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Hip fractures may also be difficult to heal after surgical repair because of poor bone quality .</s>
+<s id='vn33'>Tình trạng nứt xương hông cũng có thể khó chữa lành sau khi đã phẫu thuật chỉnh hình bởi chất lượng xương bị yếu đi nhiều .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>What are the consequences of osteoporosis ?</s>
+<s id='vn34'>Hậu quả của bệnh loãng xương là gì ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Osteoporosis bone fractures are responsible for considerable pain , decreased quality of life , lost workdays , and disability .</s>
+<s id='vn35'>Nứt xương do loãng xương gây ra làm cho bệnh nhân đau đớn dữ dội , làm giảm chất lượng của cuộc sống , gây tàn tật và không có khả năng làm việc nữa .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Up to 30 % of patients suffering a hip fracture will require long-term nursing-home care .</s>
+<s id='vn36'>Có đến 30% bệnh nhân nứt xương hông phải ở nhà thương điều trị lâu dài .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Some 20 % of women with a hip fracture will die in the subsequent year as an indirect result of the fracture .</s>
+<s id='vn37'>Số bệnh nhân nữ tử vong sau một năm bị nứt xương hông là khoảng chừng 20% mà chứng nứt xương là nguyên nhân gián tiếp gây ra .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>In addition , once a person has experienced a spine fracture due to osteoporosis , he or she is at very high risk of suffering another such fracture in the near future ( next few years ) .</s>
+<s id='vn38'>Ngoài ra , khi một người đã bị nứt cột sống do loãng xương thì sẽ có nguy cơ bị nứt xương như vậy rất cao vào lần sau trong tương lai gần ( một vài năm sau ) .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>What factors determine bone strength ?</s>
+<s id='vn39'>Yếu tố nào xác định được độ chắc của xương ?</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Bone mass ( bone density ) is the amount of bone present in the skeletal structure .</s>
+<s id='vn40'>Khối lượng xương ( mật độ xương ) là lượng xương có trong cấu trúc xương .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Generally , the higher the bone density , the stronger the bones .</s>
+<s id='vn41'>Thông thường mật độ xương càng cao thì xương càng chắc khỏe .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Bone density is greatly influenced by genetic factors and can be affected by environmental factors and medications .</s>
+<s id='vn42'>Mật độ xương bị ảnh hưởng rất lớn bởi các yếu tố di truyền và có thể bởi môi trường và thuốc men .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>For example , men have a higher bone density than women .</s>
+<s id='vn43'>Chẳng hạn như nam giới có mật độ xương cao hơn phụ nữ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>African Americans have a higher bone density than Caucasian or Asian Americans .</s>
+<s id='vn44'>Người Mỹ gốc Phi có mật độ xương cao hơn người da trắng hoặc người Mỹ gốc Á .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Normally , bone density accumulates during childhood and reaches a peak by around 25 years of age .</s>
+<s id='vn45'>Mật độ xương thường được tích tụ khi còn nhỏ và đạt ngưỡng cao nhất ở độ tuổi 25 ;</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Bone density is then maintained for about 10 years .</s>
+<s id='vn46'>Sau đó được duy trì trong khoảng chừng 10 năm như thế .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>After age 35 , both men and women will normally lose 0.3% -0.5 % of their bone density per year as part of the aging process .</s>
+<s id='vn47'>Sau 35 tuổi , mật độ xương thường sẽ mất mỗi năm từ 0.3% đến 0.5% ở cả nam lẫn nữ , như là một phần của quá trình lão hoá .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Menopause , Estrogen , and Osteoporosis</s>
+<s id='vn48'>Mãn kinh , hooc-môn estrogen , và bệnh loãng xương</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Estrogen is important in maintaining bone density in women .</s>
+<s id='vn49'>Estrogen là hooc - môn thiết yếu giúp duy trì mật độ xương ở nữ giới .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>When estrogen levels drop after menopause , bone loss accelerates .</s>
+<s id='vn50'>Khi nồng độ estrogen giảm sau mãn kinh thì mật độ xương cũng giảm nhanh chóng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>During the first five to 10 years after menopause , women can suffer up to 2%-4 % loss of bone density per year !</s>
+<s id='vn51'>Trong 5 đến 10 năm đầu sau mãn kinh thì mỗi năm phụ nữ có thể giảm 2% - 4% mật độ xương !</s>
+</spair>
+<spair id='52'>
+<s id='en52'>This can result in the loss of up to 25%- 30% of their bone density during that time period .</s>
+<s id='vn52'>Điều này có thể làm cho mật độ xương giảm đến 25% - 30% trong suốt khoảng thời gian đó .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Accelerated bone loss after menopause is a major cause of osteoporosis in women .</s>
+<s id='vn53'>Mật độ xương giảm nhanh sau mãn kinh là nguyên nhân chính gây loãng xương ở phụ nữ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>What are the risk factors for developing osteoporosis ?</s>
+<s id='vn54'>Các yếu tố rủi ro làm phát triển bệnh loãng xương là gì ?</s>
+</spair>
+<spair id='55'>
+<s id='en55'>* female gender</s>
+<s id='vn55'>* giới tính nữ</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* Caucasian or Asian race</s>
+<s id='vn56'>* chủng người da trắng hoặc châu Á</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* thin and small body frames</s>
+<s id='vn57'>* người có thân hình nhỏ nhắn , ốm yếu</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* family history of osteoporosis ( for example , having a mother with an osteoporotic hip fracture doubles your risk of hip fracture )</s>
+<s id='vn58'>* có tiền sử gia đình bị loãng xương ( chẳng hạn như có mẹ bị nứt xương hông do loãng xương sẽ có nguy cơ nứt xương hông tăng gấp đôi )</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* personal history of fracture as an adult</s>
+<s id='vn59'>* có tiền sử cá nhân bị nứt xương ở tuổi trưởng thành</s>
+</spair>
+<spair id='60'>
+<s id='en60'>* cigarette smoking</s>
+<s id='vn60'>* hút thuốc lá</s>
+</spair>
+<spair id='61'>
+<s id='en61'>* excessive alcohol consumption</s>
+<s id='vn61'>* uống rượu bia quá nhiều</s>
+</spair>
+<spair id='62'>
+<s id='en62'>* lack of exercise</s>
+<s id='vn62'>* thiếu vận động</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* diet low in calcium</s>
+<s id='vn63'>* chế độ dinh dưỡng nghèo can - xi</s>
+</spair>
+<spair id='64'>
+<s id='en64'>* poor nutrition and poor general health</s>
+<s id='vn64'>* khẩu phần dinh dưỡng kém và sức khỏe tổng quát yếu</s>
+</spair>
+<spair id='65'>
+<s id='en65'>* malabsorption ( nutrients in the bowels are not properly absorbed )</s>
+<s id='vn65'>* kém hấp thu ( dưỡng chất trong ruột không được hấp thu hoàn toàn )</s>
+</spair>
+<spair id='66'>
+<s id='en66'>* low estrogen levels</s>
+<s id='vn66'>* nồng độ hooc - môn estrogen thấp</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* chemotherapy</s>
+<s id='vn67'>* hoá trị liệu</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* loss of the menstrual period ( amenorrhea )</s>
+<s id='vn68'>* mất kinh ( tắt kinh )</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* chronic inflammation</s>
+<s id='vn69'>* bị viêm mãn tính</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* immobility , such as after a stroke or any condition that interferes with walking</s>
+<s id='vn70'>* bị liệt , bất động , chẳng hạn như sau khi bị đột quỵ hoặc sau bất kỳ một chứng bệnh nào làm ảnh hưởng đến khả năng đi đứng</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* hyperthyroidism ( excessive thyroid hormone )</s>
+<s id='vn71'>* bị cường giáp ( hooc-môn tuyến giáp quá cao )</s>
+</spair>
+<spair id='72'>
+<s id='en72'>* hyperparathyroidism ( excessive parathyroid hormone production causes too much calcium to be removed from the bone )</s>
+<s id='vn72'>* bị tăng năng tuyến cận giáp ( sản sinh quá nhiều hooc - môn tuyến cận giáp làm cho xương bị mất quá nhiều can - xi )</s>
+</spair>
+<spair id='73'>
+<s id='en73'>* vitamin D deficiency ( vitamin D helps the body absorb calcium )</s>
+<s id='vn73'>* thiếu vitamin D ( vitamin D giúp cho cơ thể hấp thụ can - xi )</s>
+</spair>
+<spair id='74'>
+<s id='en74'>* certain medications can cause osteoporosis such as long-term use of heparin ( a blood thinner ) , antiseizure medications phenytoin ( Dilantin ) and phenobarbital , and long-term use of oral corticosteroids ( such as prednisone )</s>
+<s id='vn74'>* một số thuốc nào đó cũng có thể gây loãng xương chẳng hạn như sử dụng thuốc hê-pa-rin ( chất thuốc làm loãng máu ) trong thời gian dài , thuốc chống động kinh phenytoin ( Dilantin ) và thuốc an thần , và sử dụng corticosteroid dạng uống lâu dài ( chẳng hạn như thuốc kháng viêm prednisone )</s>
+</spair>
+<spair id='75'>
+<s id='en75'>How is osteoporosis diagnosed ?</s>
+<s id='vn75'>Bệnh loãng xương được chẩn đoán như thế nào ?</s>
+</spair>
+<spair id='76'>
+<s id='en76'>A routine X-ray can suggest osteoporosis of the bone , which appears much thinner and lighter than normal bones .</s>
+<s id='vn76'>Phương pháp chụp X-quang định kỳ có thể cho biết bệnh loãng xương – xương trông có vẻ mỏng và nhẹ hơn nhiều so với xương bình thường .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Unfortunately , by the time X-rays can detect osteoporosis , at least 30 % of the bone has already been lost .</s>
+<s id='vn77'>Đáng tiếc là khi tia X có thể phát hiện ra loãng xương thì đã có ít nhất 30% xương đã bị mất .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>In addition , X-rays are not accurate indicators of bone density .</s>
+<s id='vn78'>Ngoài ra , thủ thuật này cũng không cho biết chính xác mật độ xương .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The appearance of the bone on the X-ray is often affected by variations in the degree of exposure of the X-ray film .</s>
+<s id='vn79'>Việc thay đổi độ chụp phim X-quang cũng thường làm ảnh hưởng đến vẻ ngoài của xương trên tia X .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>The National Osteoporosis Foundation , the American Medical Association , and other major medical organizations are recommending a dual energy X-ray absorptiometry ( DEXA or DXA ) for diagnosing osteoporosis .</s>
+<s id='vn80'>Tổ chức Loãng xương Quốc gia , Hiệp hội Y học Hoa Kỳ , và các tổ chức y tế lớn khác đang khuyến cáo phương pháp đo hấp thụ năng lượng tia X kép ( DEXA hoặc DXA ) để chẩn đoán loãng xương .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>The test measures bone density in the hip and the spine , takes only five to 15 minutes to perform , uses very little radiation ( less than one-tenth to one-hundredth the amount used on a standard chest X-ray ) , and is quite precise .</s>
+<s id='vn81'>Xét nghiệm đo mật độ xương hông và cột sống chỉ mất từ 5 đến 15 phút , sử dụng bức xạ rất nhỏ ( chưa đầy 1/10 đến 1/100 lượng bức xạ dùng để chụp X - quang ngực chuẩn ) , và biện pháp này khá chính xác .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Who should have bone density testing ?</s>
+<s id='vn82'>Đối tượng nào nên xét nghiệm mật độ xương ?</s>
+</spair>
+<spair id='83'>
+<s id='en83'>The national osteoporosis foundation guidelines state that there are several groups of people who should consider DXA testing :</s>
+<s id='vn83'>Tổ chức Loãng xương Quốc gia chỉ ra nguyên tắc một số nhóm người nên thực hiện xét nghiệm DXA :</s>
+</spair>
+<spair id='84'>
+<s id='en84'>* all postmenopausal women below age 65 who have risk factors for osteoporosis ;</s>
+<s id='vn84'>* phụ nữ sau mãn kinh dưới 65 tuổi , có nguy cơ bị loãng xương ;</s>
+</spair>
+<spair id='85'>
+<s id='en85'>* all women aged 65 and older ;</s>
+<s id='vn85'>* phụ nữ tuổi từ 65 trở lên ;</s>
+</spair>
+<spair id='86'>
+<s id='en86'>* postmenopausal women with fractures , although this is not mandatory because treatment may be started regardless of bone density ;</s>
+<s id='vn86'>* phụ nữ sau mãn kinh bị nứt xương , mặc dù đây không phải là điều bắt buộc bởi người ta cũng có thể bắt đầu điều trị mà không kể đến mật độ xương ;</s>
+</spair>
+<spair id='87'>
+<s id='en87'>* women with one of the many medical conditions associated with osteoporosis</s>
+<s id='vn87'>* phụ nữ bị một trong các bệnh liên quan đến loãng xương</s>
+</spair>
+<spair id='88'>
+<s id='en88'>How are bone density results measured ?</s>
+<s id='vn88'>Kết quả mật độ xương được đo như thế nào ?</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Upon completion of a DXA scan , the bone density of the patient is then compared to the average peak bone density of young adults of same sex and race .</s>
+<s id='vn89'>Sau khi quét / chụp DXA xong , mật độ xương của bệnh nhân được đem đối chiếu với mật độ xương ở ngưỡng cao nhất bình thường của thanh niên cùng chủng tộc và giới tính .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>This score is called the " T score , " and it expresses the bone density in terms of the number of standard deviations ( SD ) .</s>
+<s id='vn90'>Đây gọi là chỉ số T ( T score ) – cho biết mật độ xương trong các khoảng sai lệch chuẩn ( SD ) .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>* Osteoporosis is defined as a bone density T score of -2.5 SD or below .</s>
+<s id='vn91'>* Nếu mật độ xương T score là - 2.5 SD trở xuống : loãng xương .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>* Osteopenia ( between normal and osteoporosis ) is defined as a bone density T score between -1 and -2.5 SD for all women aged 65 and older ;</s>
+<s id='vn92'>* Tiền loãng xương ( giữa trạng thái bình thường và loãng xương ) được xác định khi mật độ xương T score dao động giữa 1 và 2.5 SD đối với phụ nữ tuổi từ 65 trở lên ;</s>
+</spair>
+<spair id='93'>
+<s id='en93'>How is osteoporosis treated and prevented ?</s>
+<s id='vn93'>Điều trị và phòng tránh bệnh loãng xương như thế nào ?</s>
+</spair>
+<spair id='94'>
+<s id='en94'>The goal of osteoporosis treatment is the prevention of bone fractures by stopping bone loss and by increasing bone density and strength .</s>
+<s id='vn94'>Mục tiêu của việc điều trị loãng xương là phòng tránh nứt xương bằng cách ngăn không cho mất xương và làm tăng mật độ xương và làm cho xương chắc khỏe hơn .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Although early detection and timely treatment of osteoporosis can substantially decrease the risk of future fracture , none of the available treatments for osteoporosis are complete cures .</s>
+<s id='vn95'>Mặc dù biện pháp phát hiện sớm và điều trị loãng xương kịp thời có thể làm giảm đáng kể nguy cơ nứt xương về sau , không có phương pháp điều trị loãng xương nào chữa lành chứng bệnh này hoàn toàn .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>In other words , it is difficult to completely rebuild bone that has been weakened by osteoporosis .</s>
+<s id='vn96'>Nói một cách khác là khó có thể làm xương bị yếu do loãng xương gây ra trở lại cứng cáp hoàn toàn được .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Therefore , prevention of osteoporosis is as important as treatment .</s>
+<s id='vn97'>Do đó , biện pháp phòng tránh loãng xương được coi là quan trọng như việc điều trị vậy .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>We 'll take a look at some of the prevention and treatment options on the following slides .</s>
+<s id='vn98'>Chúng ta sẽ quan sát một số cách phòng tránh và điều trị ở những khung hình bên dưới nhé .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Prevention and treatment : Exercise</s>
+<s id='vn99'>Phòng tránh và điều trị loãng xương bằng bài tập</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Exercise has a wide variety of beneficial health effects .</s>
+<s id='vn100'>Thể dục rất có lợi cho sức khỏe .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>However , exercise does not bring about substantial increases in bone density .</s>
+<s id='vn101'>Tuy nhiên , thể dục không làm tăng mật độ xương đáng kể được .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The benefit of exercise for osteoporosis has mostly to do with decreasing the risk of falls , probably because balance is improved and/or muscle strength is increased .</s>
+<s id='vn102'>Lợi ích của thể dục đối với bệnh loãng xương chủ yếu là làm giảm nguy cơ té ngã , có lẽ bởi giúp cơ thể thăng bằng hơn và / hoặc làm nâng cao sức mạnh cơ bắp .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Research has not yet precisely determined what type or duration of exercise is best for osteoporosis .</s>
+<s id='vn103'>Nghiên cứu cũng chưa xác định chính xác là loại bài tập nào hoặc thời gian tập là bao nhiêu là tốt nhất cho bệnh loãng xương .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Nevertheless , most doctors recommend weight-bearing exercise , walking , preferably daily .</s>
+<s id='vn104'>Tuy vậy , hầu hết các bác sĩ khuyến cáo nên tập cử tạ , đi bộ , tốt nhất là nên tập hằng ngày .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>A word of caution about exercise</s>
+<s id='vn105'>Cảnh giác với bài tập thể dục</s>
+</spair>
+<spair id='106'>
+<s id='en106'>It is important to avoid exercises that can injure already weakened bones .</s>
+<s id='vn106'>Điều quan trọng là phải tránh các bài tập có thể gây chấn thương cho những xương đã bị yếu sẵn .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>In patients over 40 and those with heart disease , obesity , diabetes mellitus , and high blood pressure , exercise should be prescribed and monitored by their doctors .</s>
+<s id='vn107'>Đối với bệnh nhân trên 40 tuổi và người bị bệnh tim , béo phì , tiểu đường , và huyết áp cao , thì bài tập của họ nên được bác sĩ quy định và giám sát .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Finally , extreme levels of exercise ( such as marathon running ) may not be healthy for the bones .</s>
+<s id='vn108'>Cuối cùng là mức độ thể dục quá nhiều ( chẳng hạn như cuộc chạy đua ma - ra-tông ) có thể là không khỏe cho xương .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Marathon running in young women that leads to weight loss and loss of menstrual periods can actually cause osteoporosis .</s>
+<s id='vn109'>Chạy đua ma - ra-tông ở nữ thanh niên dẫn đến giảm cân và tắc kinh có thể thực sự gây loãng xương .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Prevention and treatment : Quit smoking and curtail alcohol</s>
+<s id='vn110'>Phòng tránh và điều trị loãng xương : Bỏ thuốc lá và hạn chế rượu bia</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Smoking one pack of cigarettes per day throughout adult life can itself lead to loss of 5%- 10% of bone mass .</s>
+<s id='vn111'>Hút một gói thuốc một ngày suốt thời thanh niên có thể tự làm mất 5% - 10% khối lượng xương .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Smoking cigarettes decreases estrogen levels and can lead to bone loss in women before menopause .</s>
+<s id='vn112'>Hút thuốc lá làm giảm nồng độ estrogen và có thể dẫn đến tình trạng mất xương ở phụ nữ trước mãn kinh .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Smoking cigarettes can also lead to earlier menopause .</s>
+<s id='vn113'>Việc hút thuốc lá cũng có thể làm mãn kinh sớm hơn .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Data on the effect of regular consumption of alcohol and caffeine on osteoporosis is not as clear as with exercise and cigarettes .</s>
+<s id='vn114'>Thông tin về ảnh hưởng của việc thường xuyên uống rượu bia và cà - phê-in đối với chứng loãng xương không rõ như ảnh hưởng của thuốc lá và bài tập thể dục .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>In fact , research regarding alcohol and caffeine as risk factors for osteoporosis shows widely varying results and is controversial .</s>
+<s id='vn115'>Thực ra , cuộc nghiên cứu xem rượu bia và cà - phê-in là các yếu tố nguy hiểm đối với bệnh loãng xương cho thấy nhiều kết quả rất khác biệt nhau và người ta vẫn còn đang tranh cãi về vấn đề này .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Certainly , these effects are not as powerful as other factors .</s>
+<s id='vn116'>Tất nhiên là , những ảnh hưởng này không mạnh như những yếu tố khác .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Nonetheless , moderation of both alcohol and caffeine is prudent .</s>
+<s id='vn117'>Mặc dù vậy , việc tiết chế rượu bia và cà - phê-in là vấn đề thận trọng .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Prevention and treatment : Calcium supplements</s>
+<s id='vn118'>Phòng tránh và điều trị loãng xương bằng cách bổ sung can - xi</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Building strong and healthy bones requires an adequate dietary intake of calcium and exercise beginning in childhood and adolescence for both sexes .</s>
+<s id='vn119'>Việc xây dựng xương chắc khỏe đòi hỏi phải bổ sung đầy đủ can - xi trong chế độ ăn uống và luyện tập thể dục bắt đầu ngay từ nhỏ và từ thời trẻ đối với cả nam lẫn nữ .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Importantly , once osteoporosis is present , a high dietary calcium intake or taking calcium supplements alone is not sufficient in treating osteoporosis and should not be viewed as an alternative to or substituted for more potent prescription osteoporosis medications .</s>
+<s id='vn120'>Điều quan trọng là , một khi bệnh nhân đã bị loãng xương thì việc bổ sung can - xi liều cao trong khẩu phần dinh dưỡng hoặc chỉ bổ sung can - xi không đủ để có thể chữa lành được bệnh loãng xương và không nên xem đó là thuốc thay thế hoặc thế cho các loại thuốc trị loãng xương theo toa hiệu nghiệm hơn .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>In the first several years after menopause , rapid bone loss can occur even if calcium supplements are taken .</s>
+<s id='vn121'>Trong một vài năm đầu sau mãn kinh , xương có thể bị mất nhanh chóng cho dù là bệnh nhân được bổ sung can - xi đi nữa .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Unfortunately , surveys have shown that the average woman in the United States consumes less than 500 milligrams of calcium per day in her diet , less than the recommended amounts .</s>
+<s id='vn122'>Tiếc là , nhiều cuộc khảo sát ở Hoa Kỳ cho thấy phụ nữ thường hấp thu chưa đầy 500 milligram can - xi trong chế độ dinh dưỡng mỗi ngày , thấp hơn lượng can - xi được khuyến nghị .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Additional calcium can be obtained by drinking more milk and eating more yogurt or cottage cheese or by taking calcium supplement tablets as well from calcium-fortified foods , such as orange juice .</s>
+<s id='vn123'>Ngoài ra can - xi còn có thể được bổ sung thêm bằng cách uống nhiều sữa và ăn thêm nhiều sữa chua hoặc phô mai làm từ sữa đã gạn kem hoặc bằng cách bổ sung thêm viên can - xi cũng như thực phẩm bổ sung chất vôi , chẳng hạn như nước cam ép .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Prevention and treatment : Calcium-fortified foods</s>
+<s id='vn124'>Phòng tránh và điều trị loãng xương bằng thức ăn bổ sung chất vôi</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Excluding dairy products , the average American diet contains approximately 250 mg of calcium .</s>
+<s id='vn125'>Ngoài các sản phẩm làm từ sữa thì khẩu phần dinh dưỡng của người Mỹ trung bình chứa khoảng 250 mg can - xi .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>As mentioned on the previous slide , here are some examples of calcium-fortified foods and their respective calcium intake .</s>
+<s id='vn126'>Như đã đề cập đến ở khung hình trước , dưới đây là một số ví dụ về thực phẩm bổ sung chất vôi và lượng can - xi hấp thu tương ứng .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Prevention and treatment : Vitamin D</s>
+<s id='vn127'>Phòng tránh và điều trị loãng xương bằng vitamin D</s>
+</spair>
+<spair id='128'>
+<s id='en128'>An adequate calcium intake and adequate body stores of vitamin D are important foundations for maintaining bone density and strength .</s>
+<s id='vn128'>Việc hấp thụ đầy đủ can - xi và dự trữ đủ vitamin D trong cơ thể là nền tảng quan trọng để duy trì mật độ xương và giữ cho xương chắc khỏe .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Unfortunately , vitamin D deficiency is quite common in the United States .</s>
+<s id='vn129'>Tiếc là chứng thiếu vitamin D rất thường thấy ở Mỹ .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Vitamin D is important in several respects :</s>
+<s id='vn130'>Vitamin D cần thiết ở nhiều lĩnh vực khác nhau :</s>
+</spair>
+<spair id='131'>
+<s id='en131'>* vitamin D helps the absorption of calcium from the intestines ;</s>
+<s id='vn131'>* vitamin D giúp hấp thu can - xi từ ruột ;</s>
+</spair>
+<spair id='132'>
+<s id='en132'>* a lack of vitamin D causes calcium-depleted bone ( osteomalacia ) , which further weakens the bones and increases the risk of fractures ; and</s>
+<s id='vn132'>* thiếu vitamin D làm cho xương bị cạn hết can - xi ( nhuyễn xương ) , làm cho xương trở nên yếu hơn và làm tăng nguy cơ nứt gãy , và</s>
+</spair>
+<spair id='133'>
+<s id='en133'>* vitamin D , along with adequate calcium ( 1,200 mg of elemental calcium ) , has been shown in some studies to increase bone density and decrease fractures in older postmenopausal but not in premenopausal or perimenopausal women .</s>
+<s id='vn133'>* vitamin D , và can - xi đầy đủ ( 1,200 mg can - xi cơ bản ) , trong một số nghiên cứu đã cho thấy kết quả làm tăng mật độ xương và giúp cho người già sau mãn kinh giảm nứt xương nhưng không có tác dụng đối với phụ nữ tiền mãn kinh hoặc gần mãn kinh .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>The food and nutrition board of the Institute of Medicine has recommended the following as an as adequate vitamin D intake :</s>
+<s id='vn134'>Ủy ban Thực phẩm và Dinh dưỡng thuộc Viện Y học đã khuyến nghị nên bổ sung đầy đủ vitamin D như sau :</s>
+</spair>
+<spair id='135'>
+<s id='en135'>* 200 IU daily for men and women 19 to 50 years old ;</s>
+<s id='vn135'>* 200 IU / ngày đối với cả nam lẫn nữ từ 19 đến 50 tuổi</s>
+</spair>
+<spair id='136'>
+<s id='en136'>* 400 IU daily for men and women 51 to 70 years old ; and</s>
+<s id='vn136'>* 400 IU / ngày đối với cả nam lẫn nữ từ 51 đến 70 tuổi ; và</s>
+</spair>
+<spair id='137'>
+<s id='en137'>* IU daily for men and women 71 years and older .</s>
+<s id='vn137'>* IU mỗi ngày cho cả nam lẫn nữ từ 71 tuổi trở lên .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Good sources of vitamin D include natural sunlight , fortified milk , cheese , butter_margarine , cereal , and fish .</s>
+<s id='vn138'>Các nguồn cung cấp vitamin D dồi dào gồm ánh nắng tự nhiên , sữa bổ sung vitamin D , phô mai , bơ thực vật , ngũ cốc và cá .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Prevention and treatment : Menopausal hormone therapy</s>
+<s id='vn139'>Phòng tránh và điều trị loãng xương bằng liệu pháp hooc - môn mãn kinh</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Menopausal hormone therapy ( previously referred to as hormone replacement therapy or HRT ) has been shown to prevent bone loss , increase bone density , and prevent bone fractures .</s>
+<s id='vn140'>Liệu pháp hooc - môn mãn kinh ( trước đây gọi là liệu pháp thay thế hooc - môn hoặc HRT ) đã có tác dụng phòng tránh mất xương , tăng mật độ xương , và ngăn ngừa được chứng nứt xương .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Estrogen is available orally ( Premarin , Estrace , Estratest , and others ) or as a skin patch ( Estraderm , Vivelle , and others ) .</s>
+<s id='vn141'>Hooc-môn estrogen có thể được sử dụng dạng uống ( Premarin , Estrace , Estratest , và nhiều loại khác ) hoặc dán trên da ( Estraderm , Vivelle , và nhiều loại khác ) .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Estrogen is also available in combination with progesterone as pills and patches .</s>
+<s id='vn142'>Estrogen cũng có thể kết hợp với progesterone ở dạng viên và miếng dán .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>Progesterone is routinely given along with estrogen to prevent uterine cancer that might result from estrogen use alone .</s>
+<s id='vn143'>Progesterone thường được sử dụng với estrogen để ngăn ngừa ung thư tử cung có thể do sử dụng estrogen riêng lẻ .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Due to adverse effects of menopausal hormone therapy , such as increased risks of heart attack , stroke , blood clots in the veins , and breast cancer ; menopausal hormone therapy is no longer recommended for long-term use but rather short-term use to relieve menopausal hot flashes .</s>
+<s id='vn144'>Do liệu pháp hooc - môn mãn kinh gây ảnh hưởng xấu , chẳng hạn như làm tăng nguy cơ đau tim , đột quỵ , tắc nghẽn tĩnh mạch , và ung thư vú , nên liệu pháp này không còn được khuyến nghị sử dụng trong thời gian dài nữa mà chỉ sử dụng ngắn hạn nhằm làm giảm cơn trào huyết mãn kinh ( kèm theo mất thăng bằng hooc - môn lúc mãn kinh ) .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Every woman should have an individualized discussion regarding estrogen replacement with her doctor .</s>
+<s id='vn145'>Phụ nữ nên thảo luận riêng với bác sĩ về liệu pháp thay thế hooc - môn estrogen .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Prevention and treatment : Medications</s>
+<s id='vn146'>Phòng tránh và điều trị loãng xương bằng thuốc</s>
+</spair>
+<spair id='147'>
+<s id='en147'>Currently , the most effective medications for osteoporosis that are approved by the FDA are anti-resorptive agents , which prevent bone breakdown .</s>
+<s id='vn147'>Hiện nay , nhiều loại thuốc trị loãng xương công hiệu nhất đã được Cơ quan giám sát an toàn thực phẩm và dược phẩm FDA phê duyệt là thuốc chống huỷ xương , phòng tránh gãy xương .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Antiresorptive medications inhibit bone removal ( resorption ) , thus leading to bone rebuilding and increasing bone density .</s>
+<s id='vn148'>Nhiều thuốc chống huỷ xương ngăn không cho mất xương ( phân huỷ xương ) , do đó dẫn đến việc tái xây dựng xương và làm tăng mật độ xương .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>Menopausal estrogen hormone therapy is one example of an antiresorptive agent .</s>
+<s id='vn149'>Liệu pháp hooc - môn estrogen mãn kinh là một trường hợp ví dụ cho thuốc chống huỷ xương .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Others include alendronate ( Fosamax ) , risedronate ( Actonel ) , raloxifene ( Evista ) , ibandronate ( Boniva ) , calcitonin ( Calcimar ) , and zoledronate ( Reclast ) .</s>
+<s id='vn150'>Nhiều loại thuốc khác gồm alendronate ( Fosamax ) , risedronate ( Actonel ) , raloxifene ( Evista ) , ibandronate ( Boniva ) , calcitonin ( Calcimar ) , và zoledronate ( Reclast ) .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>Prevention of hip fractures</s>
+<s id='vn151'>Phòng tránh nứt xương hông</s>
+</spair>
+<spair id='152'>
+<s id='en152'>The FDA has approved hip-protector garments for the prevention of hip fractures in unstable elderly people with known osteoporosis .</s>
+<s id='vn152'>Tổ chức FDA đã cho phép dùng quần áo bảo vệ hông để ngăn ngừa gãy xương hông ở người già bị loãng xương dễ té ngã .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>Brand names available include Hipsaver and Safehip .</s>
+<s id='vn153'>Tên thương hiệu là Hipsaver and Safehip .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>These can be helpful for patients who are in the nursing-home environment , although the real extent of protection against hip fractures that is gained with use of hip protectors is a matter of current controversy .</s>
+<s id='vn154'>Phương pháp này có thể có ích cho những bệnh nhân sống ở môi trường viện dưỡng lão , mặc dù mức độ phòng tránh nứt xương hông thực sự nhờ sử dụng dụng cụ bảo vệ hông là điều mà người ta hiện vẫn còn đang tranh cãi .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Osteoporosis at a glance</s>
+<s id='vn155'>Nhìn sơ lược về bệnh loãng xương</s>
+</spair>
+<spair id='156'>
+<s id='en156'>* Osteoporosis is a condition of increased susceptibility to fracture due to fragile bone .</s>
+<s id='vn156'>* Loãng xương là bệnh xương dễ gãy nứt do xương bị mỏng đi .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>* Osteoporosis weakens bone and increases risk of bone fracture .</s>
+<s id='vn157'>* Bệnh loãng xương làm cho xương yếu và làm tăng nguy cơ nứt xương .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>* Bone mass ( bone density ) decreases after age 35 years and decreases more rapidly in women after menopause .</s>
+<s id='vn158'>* Khối lượng xương ( mật độ xương ) giảm sau 35 tuổi và giảm nhanh hơn ở phụ nữ sau mãn kinh .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>* Key risk factors for osteoporosis include genetic factors , lack of exercise , lack of calcium and vitamin D , personal history of fracture as an adult , rheumatoid arthritis , cigarette smoking , excessive alcohol consumption , low body weight , and family history of osteoporosis .</s>
+<s id='vn159'>* Các yếu tố nguy hiểm chính yếu của bệnh loãng xương gồm yếu tố di truyền , thiếu vận động , thiếu can - xi và thiếu vitamin D , có tiền sử cá nhân bị nứt xương ở tuổi trưởng thành , bị viêm khớp kinh niên , hút thuốc , uống rượu quá nhiều , nhẹ cân , và có tiền sử gia đình bị loãng xương .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>* Patients with osteoporosis have no symptoms until bone fractures occur .</s>
+<s id='vn160'>* Bệnh nhân bị loãng xương không có triệu chứng gì cho đến khi có biểu hiện nứt xương .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>* Diagnosis can be suggested by X-rays and confirmed by using tests to measure bone density .</s>
+<s id='vn161'>* Có thể sử dụng phương pháp chụp X-quang để chẩn đoán bệnh loãng xương và làm nhiều xét nghiệm khác để xác định lại nhằm đo mật độ xương .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>* Treatments for osteoporosis , in addition to prescription osteoporosis medications , include stopping use of alcohol and cigarettes , and assuring adequate exercise , calcium , and vitamin D.</s>
+<s id='vn162'>* Các phương pháp điều trị loãng xương , ngoài những loại thuốc chữa loãng xương theo toa , như bỏ thuốc lá và rượu bia , và đảm bảo nên tập thể dục , bổ sung can - xi và vitamin D đầy đủ .</s>
+</spair>
+</text>
+</doc>

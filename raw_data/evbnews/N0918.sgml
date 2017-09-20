@@ -1,0 +1,148 @@
+﻿<doc id='N0918'>
+<head>
+<title>Playing computer games helps Parkinson 's patients</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Playing computer games helps Parkinson 's patients</s>
+<s id='vn1'>Chơi game trên máy tính sẽ giúp bệnh nhân Parkinson</s>
+</spair>
+<spair id='2'>
+<s id='en2'>More than half of the people with Parkinson 's disease who took part in a small pilot study led by the University of California - San Francisco ( UCSF ) showed small improvements in walking speed , balance and stride length after three months of playing computer-based physical therapy games .</s>
+<s id='vn2'>Hơn một nửa của những người mắc bệnh Parkinson đã tham gia vào một nghiên cứu thử nghiệm nhỏ được thực hiện bởi Trường điều dưỡng Đại học California San-Francisco - ( UCSF ) cho thấy những cải tiến nhỏ trong tốc độ đi bộ , thăng bằng và chiều dài sải chân sau 3 tháng chơi game vật lý trị liệu trên máy tính .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>More than half of the people with Parkinson 's disease who took part in a small pilot study led by the University of California - San Francisco ( UCSF ) showed small improvements in walking speed , balance and stride length after three months of playing computer-based physical therapy games .</s>
+<s id='vn3'>Hơn một nửa của những người mắc bệnh Parkinson đã tham gia vào một nghiên cứu thử nghiệm nhỏ được thực hiện bởi Trường điều dưỡng Đại học California - SanFrancisco ( UCSF ) cho thấy những cải tiến nhỏ trong tốc độ đi bộ , thăng bằng và chiều dài sải chân sau 3 tháng chơi game vật lý trị liệu trên máy tính .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>A UCSF press release dated 19 October describes how the specialized games are not like off-the-shelf computer games .</s>
+<s id='vn4'>Một thông cáo báo chí của UCSF vào hôm 19 tháng 10 đã mô tả cách thức mà các trò chơi đặc thù không giống với các trò chơi thông dụng có sẵn trên máy tính .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They have been designed to encourage scientifically tested physical movements to help people whose motor skills have been affected , for instance as in Parkinson 's disease .</s>
+<s id='vn5'>Chúng được thiết kế để khuyến khích những vận động cơ thể đã được thử nghiệm về mặt khoa học là sẽ giúp những người đã bị ảnh hưởng kỹ năng vận động , ví dụ trong bệnh Parkinson .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Parkinson 's disease is a chronic , progressive neurological disorder of unknown cause that targets cells in the brain that control movement .</s>
+<s id='vn6'>Bệnh Parkinson là một rối loạn thần kinh mãn tính , tiến triển , không rõ nguyên nhân mà tấn công vào các tế bào trong não có chức năng điều khiển vận động .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It affects about 1 million people in the United States .</s>
+<s id='vn7'>Nó ảnh hưởng đến khoảng 1 triệu người tại Hoa Kỳ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Symptoms include tremors , slowness of movement , poor balance , and stiffness in the limbs and trunk .</s>
+<s id='vn8'>Các triệu chứng bao gồm run , chậm di chuyển , cân bằng kém , và cứng ở các chi và thân .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>UCSF and Red Hill Studios , a California serious games developer , were the first US research team to be awarded federal funds to develop low-cost computerized physical therapy games , which the UCSF statement describes as a " burgeoning field " .</s>
+<s id='vn9'>UCSF Red Hill Studios , một nhà phát triển chơi hàng đầu tại California , là nhóm nghiên cứu đầu tiên của Mỹ được quỹ liên bang trao tặng kinh phí để phát triển trò chơi điều trị vật lý máy vi tính với chi phí thấp , UCSF mô tả như là một " lĩnh vực đang phát triển " .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Teams from both organizations worked together to design nine " clinically inspired " games that aim to improve coordination in people with Parkinson 's disease .</s>
+<s id='vn10'>các nhóm từ cả hai tổchức đã làmviệc với nhau để thiết kế 9 trò chơi " lấy cảm hứng lâm sàng " nhằm mục đích cải thiện phối hợp ở những người mắc bệnh Parkinson .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>In earlier work , the team at UCSF had already established which specific body movements and gestures are beneficial for slowing the physical progression of Parkinson 's .</s>
+<s id='vn11'>Trong trình trước đây , nhóm nghiên cứu tại UCSF đã xác minh các chuyển động cơ thể và những cử chỉ cụ thể có lợi , giúp chậm sự tiến triển tự nhiên của bệnh Parkinson .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The team at Red Hill developed the games around these movements .</s>
+<s id='vn12'>Nhóm nghiên cứu tại Red Hill đã phát triển trò chơi xung quanh chuyển động .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The games are similar to the motion sensing games you can play on the Wii and the XBox ( Kinect ) .</s>
+<s id='vn13'>Các trò chơi tương tự như các trò chơi cảm biến chuyển động bạn có thể chơi trên Wii và Xbox ( Kinect ) .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The players have to win points by moving their bodies in certain ways .</s>
+<s id='vn14'>Người chơi phải thắng điểm bằng cách di chuyển cơ thể của họ theo những cách nhất định .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Each game has several levels of difficulty , and the clinical team was also able to tailor them to suit each patient 's particular ability range .</s>
+<s id='vn15'>Mỗi trò chơi có nhiều mức độ khó , và nhóm nghiên cứu lâm sàng cũng có thể điều chỉnh cho phù hợp với phạm vi khả năng riêng biệt của mỗi bệnh nhân .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Bob Hone , creative director of Red Hill Studios and the lead principal investigator of the study , said each participant was able to find his or her gaming " sweet spot " , the point where the physical challenge was neither too hard nor too easy , but " just right " .</s>
+<s id='vn16'>Bob Hone , giám đốc sáng tạo của Studio Red Hill và điều tra viên được ủy nhiệm chính của nghiên cứu , cho biết mỗi người tham gia có thể tìm thấy " điểm ngọt " của mình khi chơi game , điểm mà thách thức vật lý không quá khó cũng không quá dễ dàng , nhưng " vừa phải " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And when they successfully completed one game level , they " often moved on to harder levels for more beneficial effect .</s>
+<s id='vn17'>Và khi họ đã hoàn thành tốt đẹp một cấp độ trò chơi , họ " thường chuyển sang mức độ khó hơn cho các hiệu ứng có lợi hơn .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The subjects improved their games scores while improving their gait and balance , " he added .</s>
+<s id='vn18'>Các đối tượng được cải thiện điểm số trò chơi trong khi cải thiện dáng đi và cân bằng của họ " , ông nói thêm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>For this pilot trial , the researchers recruited 20 people living in northern California who had moderate levels of Parkinson 's disease .</s>
+<s id='vn19'>Đối với thử nghiệm thí điểm này , các nhà nghiên cứu tuyển chọn 20 người sống miền bắc California có bệnh Parkinson ở mức độ trung bình .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>After 12 weeks of playing the games three times a week , 65 % of the participants showed improvements in stride length , 55 % showed improvements in gait velocity and 55 % reported improved balance and confidence .</s>
+<s id='vn20'>Sau 12 tuần chơi các trò chơi ba lần tuần , 65% những người tham gia cho thấy cải thiện chiều dài sải chân , 55% cho thấy những cải tiến trong vận tốc và 55% báo cáo đã cải thiện cân bằng và sự tự tin .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In terms of equipment , the participants , who played the games in their own homes , wore a customized sensor suit containing nine tracking devices that analyzed their movements .</s>
+<s id='vn21'>Về thiết bị , những người tham gia , người chơi các trò chơi trong nhà riêng của họ , mặc một bộthiết bị cảm biến tuỳ biến chứa 9 thiết bị theo dõi phân tích chuyển động của họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>These are more accurate and more sensitive than those you normally get in consumer gaming platforms .</s>
+<s id='vn22'>Những thiết bị này chính xác hơn và nhạy cảm hơn so với những thiết bị bình thường có trong các hệ điều hành máy tính chơi game phổ biến bán cho người tiêu dùng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The PC-based analyzer sent encrypted data to a secure database located at the research labs , where the researchers could then analyze the participants " performance day by day .</s>
+<s id='vn23'>Các phân tích dựa trên máy tính đã gửi dữ liệu mã hóa vào một cơ sở an toàn được đặt tại các phòng thí nghiệm , các nhà nghiên cứu sau đó có thể phân tích hiệu suất của người tham gia theo từng ngày .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Hone said :</s>
+<s id='vn24'>Hone cho biết :</s>
+</spair>
+<spair id='25'>
+<s id='en25'>" From the data tracking we could see that there were some subjects who were playing the games more than the specified three times a week . "</s>
+<s id='vn25'>" Từ dữ liệu theo dõi chúng ta có thể thấy là một số đối tượng chơi các trò chơi nhiều hơn quy định ba lần một tuần . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" Because this was a highly structured research study , we actually had to ask them to play less than they wanted , " he explained .</s>
+<s id='vn26'>" Bởi vì đây là một nghiên cứu có tổ chức cao , chúng tôi thực sự đã phải yêu cầu họ chơi ít hơn họ muốn " , ông giải thích .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Dr Glenna Dowling , professor and chair of the UCSF Department of Physiological Nursing , is one of the clinical team leaders .</s>
+<s id='vn27'>Giáo sư tiến sĩ Glenna Dowling , chủ tịch của Khoa Điều Dưỡng sinh lý tại Đại học California - San Francisco , là một trong những người lãnh đạo nhóm nghiên cứu lâm sàng .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>She told the press :</s>
+<s id='vn28'>Bà trả lời báo chí :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>" These initial studies show the promise of custom-designed physical therapy games promoting specific movements and gestures that can help patients get better . "</s>
+<s id='vn29'>" Những nghiên cứu ban đầu này cho thấy tiềm năng của trò chơi vật lý trị liệu được thiết kế theo yêu cầu thúc đẩy những vận động và cử chỉ cụ thể có thể giúp bệnh nhân khá hơn . "</s>
+</spair>
+<spair id='30'>
+<s id='en30'>" Now that we have this preliminary positive result , we want to conduct a longer term clinical trial with more subjects to confirm these initial findings . ''</s>
+<s id='vn30'>" Bây giờ chúng tôi đã có kết quả khả quan sơ bộ này , chúng tôi muốn tiến hành một thử nghiệm lâm sàng dài hạn hơn với nhiều đối tượng hơn nữa để củng cố cho những phát hiện ban đầu " .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Two Small Business Innovative Research grants totaling $ 1.1 million from the National Institute of Neurological Disorders and Stroke ( part of the National Institutes of Health ) paid for the trial .</s>
+<s id='vn31'>Hai tài trợ nghiên cứu sáng tạo dành cho doanh nghiệp nhỏ với tổng trị giá 1,1 triệuUSD từ Viện Quốc gia về rối loạn thần kinh và đột quỵ ( một phần của Viện Y tế Quốc gia ) đã dược dùng cho thử nghiệm .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The statement did not say whether the trial will be published in a peer-reviewed journal .</s>
+<s id='vn32'>Tuyên bố không cho biết thử nghiệm có được công bố trong một tạp chí phê bình của các chuyên gia hay không .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Written by Catharine Paddock PhD</s>
+<s id='vn33'>Tác giả : Tiến sĩ Catharine Paddock</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Copyright : Medical News Today</s>
+<s id='vn34'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

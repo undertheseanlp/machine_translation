@@ -1,0 +1,432 @@
+﻿<doc id='N0955'>
+<head>
+<title>6 . A Hollywood Movie Producer Helps Develop Mobile Calendar Application</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>6 . A Hollywood Movie Producer Helps Develop Mobile Calendar Application</s>
+<s id='vn1'>6 . Nhà sản xuất phim Hollywood hỗ trợ phát triển Ứng dụng lịch trên điện thoại</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Smartphones , tablet computers and e-readers have become a part of everyday life for many people .</s>
+<s id='vn2'>Điện thoại thông minh , máy tính bảng và các công cụ đọc điện tử đã trở thành một phần không thể thiếu trong cuộc sống của nhiều người .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They have also led to an explosion in the number of mobile applications .</s>
+<s id='vn3'>Chúng cũng dẫn đến việc bùng nổ hàng loạt các ứng dụng trên điện thoại .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>There is an app for just about anything you can think of .</s>
+<s id='vn4'>Dường như có tất cả các ứng dụng mà bạn có thể nghĩ đến .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>And more and more apps are being created every day .</s>
+<s id='vn5'>Và mỗi ngày vẫn có ngày càng nhiều những ứng dụng được viết ra .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Robert DiNozzi is a Hollywood movie producer .</s>
+<s id='vn6'>Ông Robert DiNozzi là một nhà sản xuất phim Hollywood .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>He is perhaps most well-known as the executive producer of " Flight Plan , " the 2005 movie starring actress Jodie Foster .</s>
+<s id='vn7'>Ông được biết đến nhiều nhất với vai trò là giám đốc sản xuất của bộ phim " Flight Plan " , phim 2005 với sự tham gia của diễn viên chính Jodie Foster .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>His most recent claim to fame is as co-developer of a brand new app called " VoiceCal . "</s>
+<s id='vn8'>Nhưng gần đây , người ta biết đến ông nhiều nhất trên cương vị đồng sản xuất của một ứng dụng mới có tên " VoiceCal " .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It is a mobile calendar app that uses voice recognition software .</s>
+<s id='vn9'>Một ứng dụng lịch trên điện thoại sử dụng phần mềm nhận diện giọng nói .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Users are able to enter appointments into their iPhone calendar without having to type in the information .</s>
+<s id='vn10'>Người sử dụng có thể thêm thông tin các cuộc hẹn vào trong lịch của i Phone mà không cần phải " điền " các thông tin .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>ROBERT DiNOZZI : " I have a mobile phone but in order to put anything in my calendar , I had to pull over , stop what I was doing or wait until I got somewhere to remember to do it because it was such an arduous process of hunting and pecking and typing in with my fingers .</s>
+<s id='vn11'>Ông Robert DiNozzi cho biết " Tôi có một chiếc điện thoại nhưng để thêm bất cứ thông tin gì vào lịch , tôi phải táp xe vào lề , dừng những việc đang làm hay đợi đến một nơi nào đó mà tôi bất chợt nhớ ra nó , vì quả thật đây thực sự là " quá trình khó khăn " của việc tìm kiếm , mổ gõ với các ngón tay của tôi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>And it got to the point where I just was n't using the calendar on my iPhone and neither was anybody else that I knew . "</s>
+<s id='vn12'>Đã đến lúc tôi cũng như tất cả những người mà tôi biết sẽ không phải còn sử dụng lịch trên iPhone nữa " .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Robert DiNozzi decided there had to be a better way .</s>
+<s id='vn13'>Robert DiNozzi đã quyết định cần có một cách khác để giải quyết vấn đề này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>So he teamed up with a friend who is a developer .</s>
+<s id='vn14'>Ông đã hợp tác với một người bạn là nhà phát triển ứng dụng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The two used voice recognition software from a company called Nuance to build " VoiceCal . "</s>
+<s id='vn15'>Hai người đã sử dụng phần mềm nhận diện giọng nói của một công ty có tên Nuance để viết lên " VoiceCal " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>ROBERT DiNOZZI : " When you launch VoiceCal you can speak any event that you want to go into your calendar and you can speak it in a natural way .</s>
+<s id='vn16'>Robert DiNozzi " Khi bạn làm quen với VoiceCal , bạn có thể nói bất kỳ sự kiện nào mình muốn tham gia vào lịch của bạn và bạn có thể nói theo cách tự nhiên nhất .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For example , you can say " on Tuesday at five p.m. pick up Dad at the office . "</s>
+<s id='vn17'>Ví dụ , bạn có thể nói " Thứ 3 , 5giờ chiều , đón bố tại văn phòng " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And that will appear instantly on your iPhone 's calendar . "</s>
+<s id='vn18'>Sự kiện này sẽ xuất hiện ngay lập tức trong lịch trên iPhone của bạn . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>If you have two or more events to add to the calendar , you separate them by using the word " also . "</s>
+<s id='vn19'>Nếu bạn có hai hoặc nhiều hơn các sự kiện cần thêm vào lịch , hãy tách riêng các sự kiện này bằng việc sử dụng từ " cũng " .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Mr. DiNozzi says all of this can be done hands-free .</s>
+<s id='vn20'>Ông DiNozzi khẳng định tất cả đều có thể làm được mà không cần dùng tay .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>ROBERT DiN OZZI : " In settings you can make it fully automatic , so I do n't have to touch anything .</s>
+<s id='vn21'>Ông Robert Di Nozzi cho biết " Trong mục cài đặt bạn có thể thiết lập hoàn toàn tự động để không cần phải " gõ " bất cứ thông tin nào .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I launch the app , and I can speak an event and I can see the event show up and it confirms automatically .</s>
+<s id='vn22'>Tôi làm quen với ứng dụng này , và tôi có thể nói một sự kiện và ngay lập tức có thể nhìn thấy sự kiện đó xuất hiện và xác nhận một cách tự động .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I do n't have to touch a single thing .</s>
+<s id='vn23'>Tôi không phải gõ bất cứ một thông tin nào .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>That 's huge for people who do n't have assistants to call and who are walking down the street or driving their car . "</s>
+<s id='vn24'>Điều này có ý nghĩa rất lớn đối với những người không có thư ký hay những người đang đi dạo , hoặc lái xe "</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Robert DiNozzi says there is a great need for an app like " VoiceCal " among busy businessmen like himself .</s>
+<s id='vn25'>Robert DiNozzi cho rằng có một lượng lớn nhu cầu sử dụng ứng dụng như " VoiceCal " trong giới doanh nhân bận rộn như ông .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>He hopes the app will be successful over the long term .</s>
+<s id='vn26'>Ông hi vọng ứng dụng này sẽ thành công trong thời gian dài .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>ROBERT DiNOZZI : " In the movie business you can do all the advertising in the world and that can get you a great opening weekend .</s>
+<s id='vn27'>ROBERT DiNOZZI " Trong ngành kinh doanh phim ảnh bạn có thể làm bất cứ hình thức quảng cáo nào trên thế giới và có một sự khởi đầu tuyệt vời vào cuối tuần .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>But , if the movie 's not good it will die off .</s>
+<s id='vn28'>Nhưng nếu bộ phim không hay , chắc chắn sẽ chết dần .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>So really what supports a film , just like what supports an app , is word of mouth . "</s>
+<s id='vn29'>Vậy những gì thực sự hỗ trợ sự thành công của một bộ phim cũng sẽ giúp sự thành công của một ứng dụng , đó chính lời nói " .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Matt Kozlov is the head of a start-up technology company called " Moonshark " in Los Angeles , California .</s>
+<s id='vn30'>Matt Kozlov là giám đốc của một hãng công nghệ mới thành lập có tên " Moonshark " tại Los Angeles , California .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The company makes game apps for mobile devices .</s>
+<s id='vn31'>Hãng viết các ứng dụng cho game trên các thiết bị di động .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>MATT KOZLOV : " It 's an exploding marketplace , right now .</s>
+<s id='vn32'>MATT KOZLOV cho biết " Đang diễn ra sự bùng nổ thị trường .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>There are hundreds of millions of devices out there right now that we can reach .</s>
+<s id='vn33'>Có hàng trăm triệu các thiết bị đang được sử dụng mà chúng ta có thể hướng đến .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>And these devices have really turned eight-year-old kids , forty-year-old moms into gamers in a way that we 've never seen before . "</s>
+<s id='vn34'>Và các thiết bị này có thể biến những đứa trẻ 8 tuổi hay những bà mẹ 40 tuổi thành những gamer thực thụ , điều không bao giờ có trước đây " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Jennifer Lopez is helping Moonshark with a finger break-dancing game called " Dance Pad . "</s>
+<s id='vn35'>Jennifer Lopez đang giúp đỡ Moonshark với game nhảy break - dance bằng ngón tay có tên " Dance Pad " .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The company is also working with film director John Woo on an action game expected to be released at the end of this year .</s>
+<s id='vn36'>Hãng này cũng đang làm việc với giám đốc phim John Woo trong một thể loại game hành động , dự kiến sẽ ra mắt vào cuối năm nay .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>7 . Meet and greet the beautiful , talented and mysterious Geisha</s>
+<s id='vn37'>7 . Gặp gỡ và chào đón những Geisha xinh đẹp , thông minh và đầy huyền bí .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Made famous by the Arthur Golden book and subsequent film 'Memoirs of a Geisha ' their lifestyle has intrigued the public even more than before .</s>
+<s id='vn38'>Được biết đến từ cuốn sách nổi tiếng của nhà văn Arthur Golden và sau này là bộ phim cùng tên " Hồi ức của một Geisha " cuộc sống của các họ đã trở nên hấp dẫn công chúng hơn bao giờ hết .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Mineko Iwasaki , a retired geisha he had interviewed for information while writing the book , claims the profession was incorrectly depicted by the author .</s>
+<s id='vn39'>Mineko Iwasaki , một geisha đã nghỉ hưu được tác giả phỏng vấn khi viết cuốn sách , đã phản ánh sự miêu tả không chính xác của tác giả về nghề nghiệp của bà .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Because of the novel/book , however , their practice is misunderstood by many not familiar with the concept .</s>
+<s id='vn40'>Tuy nhiên , cũng bởi những cuốn sách hoặc tiểu thuyết mà rất nhiều người đã hiểu sai về công việc này .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Let us briefly explain the geisha to you , and introduce a tour that focuses entirely on their practice .</s>
+<s id='vn41'>Hãy để chúng tôi giải thích cho bạn một cách ngắn gọn về geisha và giới thiệu một tour du lịch về cuộc sống thực sự của các geisha .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The geisha is practically an entertainer , who through dedicated training , is a master practitioner of traditional Japanese arts like dancing and instrument playing , using these skills to entertain clients .</s>
+<s id='vn42'>Geisha là một người nghệ sỹ đích thực , họ được đào tạo bài bản và là những nghệ nhân bậc thầy của nghệ thuật truyền thống Nhật Bản về ca múa , chơi nhạc cụ và sử dụng những kỹ năng điêu luyện mang lại giá trị giải trí cho người xem .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The geisha trainee , called a minarai , starts her discipline at a very early age , sometimes bonded to geisha houses called okiya .</s>
+<s id='vn43'>Những học viên geisha , gọi là minarai , được đưa vào khuôn phép từ khi còn nhỏ , họ thường được đưa tới các nhà geisha – nhà okiya .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>She will develop a close knit relationship with her geisha mentor .</s>
+<s id='vn44'>Tại đây , họ sẽ gắn bó với người " thầy " geisha của mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>First she will start by watching .</s>
+<s id='vn45'>Đầu tiên họ sẽ bắt đầu bằng việc quan sát .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>After a month or so , she will graduate as a maiko ( this stage in her development can take 2-5 years ) and follow her mentor , as well as engage in formal arts training and build social connections .</s>
+<s id='vn46'>Sau một tháng hoặc lâu hơn , họ sẽ trở thành một maiko – geisha học việc ( giai đoạn này có thể kéo dài từ 2 đến 5 năm ) và theo người thầy của mình tham gia vào giai đoạn đào tạo nghệ thuật nghiêm túc và xây dựng những mối quan hệ xã hội .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>The young lady may eventually become a full-fledged geisha in her early 20's .</s>
+<s id='vn47'>Các cô gái trẻ cuối cùng sẽ trở thành một geisha thực thụ khi bước vào lứa tuổi 20 .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>However , she may still be obligated to her okiya , because of the debt she owes .</s>
+<s id='vn48'>Tuy nhiên , cô vẫn có nghĩa vụ với nhà geisha do các khoản nợ của mình .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The geisha house will have provided her with food , board , kimonos , and other tools of her trade throughout her training .</s>
+<s id='vn49'>Nhà geisha sẽ cung cấp thực phẩm , tiền ăn hàng tháng , các bộ kimono cũng như các công cụ khác cho nghề nghiệp của một geisha trong suốt thời gian đào tạo .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Only when the debt has been paid can the geisha work independently .</s>
+<s id='vn50'>Chỉ khi các khoản nợ được trả thì geisha mới có thể làm việc độc lập .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Even though the concept exists today , it is not as prevalent as it was in the past .</s>
+<s id='vn51'>Mặc dù nghề geisha vẫn còn tồn tại cho đến ngày nay nhưng không còn thịnh hành như trước .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>This makes meeting with a maiko or a geisha somewhat difficult .</s>
+<s id='vn52'>Điều này khiến cho việc gặp gỡ với một maiko hoặc geisha trở nên khó khăn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>With Exotissimo 's Evening with a Maiko daytrip , travelers not only get to meet a maiko and/or a gesiha , but also receive in depth information about the profession from Peter Macintosh , an expert in geisha activity who has lived in Kyoto for more than 20 years .</s>
+<s id='vn53'>Nhưng với tour du lịch buổi tối cùng Exotissimo và du lịch trong ngày cùng Maiko , du khách không chỉ được gặp gỡ một maiko hoặc một geisha mà còn được biết những thông tin sâu hơn về nghề geisha từ Peter Macintosh , một chuyên gia nghiên cứu về hoạt động geisha , người đã sống ở Kyoto hơn 20 năm qua .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Peter is married to an ex-geisha and is a lecturer on Geisha Studies at Kansai University .</s>
+<s id='vn54'>Peter kết hôn với một người phụ nữ đã từng là geisha và hiện là một giảng viên về geisha tại đại học Kansai .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>During the program , Peter will take you around Kyoto and its geisha districts .</s>
+<s id='vn55'>Trong suốt hành trình , Peter sẽ đưa bạn dạo quanh Kyoto và các khu phố Geisha .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The experience concludes at private bar for drinks and an hour of private geisha/maiko entertainment .</s>
+<s id='vn56'>Trải nghiệm sẽ kết thúc tại một quán bar riêng tư và giờ đồng hồ giải trí riêng tư bên geisha / maiko .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>This is the perfect opportunity to learn more about their profession from the women themselves .</s>
+<s id='vn57'>Đó quả thực là cơ hội tuyệt vời để bạn có thể tìm hiểu về nghề nghiệp này từ chính những geisha .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Combine this experience with our Kyoto tour for an exceptional and memorable experience .</s>
+<s id='vn58'>Hãy cùng chúng tôi trải nghiệm chuyến du lịch Kyoto đặc biệt và đáng nhớ !</s>
+</spair>
+<spair id='59'>
+<s id='en59'>8 . Hope for more effective TB treatment</s>
+<s id='vn59'>8 . Mong chờ việc điều trị bệnh lao hiệu quả hơn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Hopes of a new , more effective therapy for tuberculosis have been raised following the results of early trials .</s>
+<s id='vn60'>Một liệu pháp điều trị mới hiệu quả hơn đối với bệnh lao đang ngày càng được mong chờ sau những kếtquả thử nghiệm ban đầu .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The study showed three drugs given in combination killed more than 99 % of TB bacteria after two weeks of treatment .</s>
+<s id='vn61'>Kết quả nghiên cứu cho thấy việc sử dụng kết hợp 3 loại thuốc đưa ra tiêu diệt hơn 99% vi khuẩn sau 2 tuần điều trị .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The therapy appeared to be equally effective on the drug-resistant form of the disease in the trials of 85 patients , a team led by Stellenbosch University in South Africa reported .</s>
+<s id='vn62'>Liệu pháp này dường như đem lại hiệu quả cân bằng cả trên hình thức lao kháng thuốc trong các cuộc thử nghiệm đối với 85 bệnh nhân , được thực hiện ở đại học Stellenbosch tại Nam Phi .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Larger studies are now taking place to further test the technique .</s>
+<s id='vn63'>Việc nghiên cứu mở rộng vẫn đang được tiến hành để kiểm nghiệm sâu hơn nữa kỹ thuật này .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>" Better , faster "</s>
+<s id='vn64'>" Tốt hơn , nhanh chóng hơn "</s>
+</spair>
+<spair id='65'>
+<s id='en65'>TB is one of the oldest and most deadly infectious diseases .</s>
+<s id='vn65'>Bệnh lao là một trong những bệnh truyền nhiễm lâu đời và gây tử vong cao nhất .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>About 1.4m people a year die each year from it , mainly in developing countries .</s>
+<s id='vn66'>Mỗi năm có khoảng 1,4 triệu người chết do mắc lao , chủ yếu là tại các nước đang phát triển .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Current treatments usually involve people taking drugs daily for six months .</s>
+<s id='vn67'>Các phương pháp điều trị hiện nay thường đòi hỏi người bệnh phải sử dụng thuốc hàng ngày trong 6 tháng .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The drug-resistant strain is much harder to treat and can involve up to two years of therapy .</s>
+<s id='vn68'>Các chủng kháng thuốc càng gây khó khăn hơn cho việc điều trị và có thể kéo dài thời gian điều trị lên tới 2 năm .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Of the three drugs used in this study , published in the Lancet , one is new , while another is not yet licensed .</s>
+<s id='vn69'>Trong số 3 loại thuốc được sử dụng trong nghiên cứu này , được công bố trên tờ tạp chí chuyên ngành the Lancet , thì một loại là mới , trong khi đó 2 loại còn lại vẫn chưa được cấp phép .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Andreas Diacon , lead researcher for the trial , said :</s>
+<s id='vn70'>Andreas Diacon , trưởng nhóm nghiên cứu thí nghiệm , cho biết :</s>
+</spair>
+<spair id='71'>
+<s id='en71'>" The results of this study give healthcare providers on the front-lines of the TB epidemic hope for better , faster tools needed to stop this disease . "</s>
+<s id='vn71'>" Những kết quả của cuộc nghiên cứu mang đến cho những trung tâm chăm sóc sức khỏe hi vọng đầu tiên cho việc tìm ra những phương pháp tốt hơn , nhanh hơn để ngăn chặn căn bệnh này . "</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Mario Raviglione , a TB expert at the World Health Organization , said :</s>
+<s id='vn72'>Mario Raviglione , chuyên gia về bệnh lao tại Tổ chức Y tế Thế giới WHO , cho biết :</s>
+</spair>
+<spair id='73'>
+<s id='en73'>" The results look strongly promising from this early trial . "</s>
+<s id='vn73'>" Cuộc thử nghiệm ban đầu này dường như đã đem lại những kết quả đầy hứa hẹn . "</s>
+</spair>
+<spair id='74'>
+<s id='en74'>" We could shorten drug regimens substantially for everyone , regardless of whether the form of TB is sensitive or multi-drug resistant . "</s>
+<s id='vn74'>" Chúng tôi có thể rút ngắn phác đồ thuốc điều trị một cách đáng kể cho tất cả mọi người , cho dù đó là hình thức nào của bệnh lao , nhạy cảm hay là lao kháng đa thuốc " .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>9 . Iceberg breaks off from Greenland 's Petermann Glacier</s>
+<s id='vn75'>9 . Núi băng trôi tách khỏi sông băng Petermann ở Greenland</s>
+</spair>
+<spair id='76'>
+<s id='en76'>An iceberg twice the size of Manhattan has broken away from the Petermann Glacier in northern Greenland .</s>
+<s id='vn76'>Một núi băng trôi có kích cỡ bằng 2 lần Manhattan đã tách khỏi sông băng Petermann ở phía bắc Greenland .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Images from a Nasa satellite show the island breaking off a tongue of ice that extends at the end of the glacier .</s>
+<s id='vn77'>Những hình ảnh từ vệ tinh của Nasa cho thấy một hòn đảo đã tách khỏi một lưỡi băng kéo dài tới tận cuối của sông băng .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>In 2010 an ice island measuring 250 square km ( 100 square miles ) broke off the same glacier .</s>
+<s id='vn78'>Vào năm 2010 , một hòn đảo băng khác có kích cỡ 250 km2 ( 100 dặm vuông ) cũng đã tách ra từ sông băng này .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The process that spawns icebergs - known as calving - is a natural , periodic process affecting all glaciers that terminate at the ocean .</s>
+<s id='vn79'>Quá trình này sinh ra các núi băng – được gọi là quá trình băng đảo – là một quá trình tự nhiên , quá trình mang tính chu kỳ này tác động tới tất cả các sông băng và giới hạn đại dương .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>A previous calving event at the same glacier in 2010 created an iceberg twice the size of this one .</s>
+<s id='vn80'>Sự băng đảo trước đây diễn ra trên sông băng vào năm 2010 đã tạo ra một núi băng có kích cỡ bằng 2 lần núi băng lần này .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Scientists have raised concerns in recent years about the Greenland iceshelf , saying that it is thinning extensively amid warm temperatures .</s>
+<s id='vn81'>Những năm gần đây các nhà khoa học đang ngày càng lo ngại về băng trôi tại Greenland , và cho rằng các tảng băng này đang mỏng đi nhanh chóng do tác động của nhiệt độ ấm lên .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>No single event of this type can be ascribed to changes in the climate .</s>
+<s id='vn82'>Không một sự kiện đơn lẻ kiểu như vậy có thể được cho là tác động biến đổi khí hậu .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>But some experts say they are surprised by the extent of the changes to the Petermann Glacier in recent years .</s>
+<s id='vn83'>Tuy nhiên một số chuyên gia cho rằng họ khá bất ngờ với sự thay đổi tương đối nhanh chóng của sông băng Petermann trong những năm gần đây .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>" It is not a collapse but it is certainly a significant event , " Eric Rignot from Nasa said in a statement .</s>
+<s id='vn84'>Trong một phát biểu , ông Eric Rignot thuộc trung tâm Nasa cho biết " Đây không hằn là một sự sụp đổ lớn nhưng rõ ràng là một sự kiện quan trọng " .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>Some other observers have gone further .</s>
+<s id='vn85'>Một vài nhà quan sát đánh giá sự việc một cách nghiêm trọng hơn .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>University of Delaware 's Andreas Muenchow told the Associated Press .</s>
+<s id='vn86'>Ông Andreas Muenchow tới từ đại học Delaware cho biết trên tờ Associated Press .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>" It 's dramatic , It 's disturbing , "</s>
+<s id='vn87'>" Đây thực sự là một thảm họa , một dấu hiệu rất đáng lo ngại " .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>The calving is not expected have an impact on sea levels as the ice was already floating .</s>
+<s id='vn88'>Sự băng đảo lần này được cho là gây ảnh hưởng tới mực nước biển vì núi băng này vốn đã đang nổi .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Icebergs from the Petermann Glacier sometimes reach the waters off Newfoundland in Canada , posing a danger to shipping and navigation , according to the Canadian Ice Service .</s>
+<s id='vn89'>Theo tổ chức Canada Ice Service , các núi băng từ sông băng Petermann đôi khi tới gần vùng biển ngoài khơi Newfoundland , Canada , gây nguy hiểm cho tàu bè qua lại .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Floating " ice tongues " in front of land-based glaciers tend to block the ice flow headed for the sea .</s>
+<s id='vn90'>Ông Muenchow cho biết , các lưỡi băng nổi trước các sông băng trên đất liền co xu hướng ngăn chặn các dòng chảy băng chảy ra biển .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>When ice chunks break loose , the land-based glaciers behind them often move more quickly , Mr Muenchow said .</s>
+<s id='vn91'>Khi khối băng này tách ra , các sông băng trên đất liền phía sau chúng thường có xu hướng " vận động " nhanh hơn .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>The accelerated movement of the Petermann Glacier after the 2010 break was " noticeable but not dramatic ," he said .</s>
+<s id='vn92'>Ông cũng cho rằng sự thay đổi nhanh của sông băng Petermann sau sự tách ra hồi năm 2010 là " đáng chú ý nhưng không quá lo lắng " .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>10 . TV habits 'can predict kids " waist size and fitness "</s>
+<s id='vn93'>10 . Thói quen xem TV có thể dự đoán thể trạng và vòng bụng của trẻ</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Children who increase the number of hours of weekly television they watch between the ages of two and four years old risk larger waistlines by age 10 .</s>
+<s id='vn94'>Những trẻ em trong độ tuổi từ 2 tới 4 tuổi có thời lượng xem truyền hình hàng tuần lớn sẽ có nguy cơ vòng bụng to hơn so với trẻ ở 10 tuổi .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>A Canadian study found that every extra weekly hour watched could add half a millimetre to their waist circumference and reduce muscle fitness .</s>
+<s id='vn95'>Một nghiên cứu của các nhà khoa học Canada đã chỉ ra rằng cứ mỗi giờ trẻ em xem phim mỗi tuần sẽ khiến vòng bụng tăng thêm 1 nửa milimetre và đồng thời giảm lượng mô cơ trong thể trạng của trẻ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>The study , in a BioMed Central journal , tracked the TV habits of 1,314 children .</s>
+<s id='vn96'>Nghiên cứu này đã theo dõi thói quen xem truyền hình của 1,314 trẻ em , và được đăng trên tạp chí BioMed Central .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Experts say children should not watch more than two hours of TV a day .</s>
+<s id='vn97'>Các chuyên gia cho rằng trẻ em không nên xem TV quá 2 giờ một ngày .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>Researchers found that the average amount of television watched by the children at the start of the study was 8.8 hours a week .</s>
+<s id='vn98'>Các nhà nghiên cứu chỉ ra thời lượng trung bình dành cho việc xem truyền hình của trẻ em tại thời điểm bắt đầu cuộc nghiên cứu là 8.8 giờ mỗi tuần .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>This increased on average by six hours over the next two years to reach 14.8 hours a week by the age of four-and-a-half .</s>
+<s id='vn99'>Số liệu này đã tăng so với trung bình 6 giờ mỗi tuần cách đây 2 năm và lên tới 14.8 giờ một tuần đối với trẻ em ở 4 tuổi rưỡi .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Fifteen per cent of the children in the study were watching more than 18 hours per week by that age , according to their parents .</s>
+<s id='vn100'>Theo các bậc cha mẹ , có tới 15% số trẻ em ở độ tuổi này trong nghiên cứu xem truyền hình 18 giờ mỗi tuần .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>The study said the effect of 18 hours of television at 4.5 years of age would by the age of 10 result in an extra 7.6mm of waist because of the child 's TV habit .</s>
+<s id='vn101'>Nghiên cứu cho biết ảnh hưởng của việc trẻ em ở 4.5 tuổi có thời lượng xem truyền hình 18 giờ hàng tuần sẽ được nhìn thấy khi các em ở độ tuổi 10 với khoảng 7.6 mm tăng thêm ở vòng bụng của trẻ do thói quen xem truyền hình .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>" Bottom line "</s>
+<s id='vn102'>" Kết luận cuối cùng "</s>
+</spair>
+<spair id='103'>
+<s id='en103'>As well as measuring waist circum ference , the researchers also carried out a standing long jump test to measure each child 's muscular fitness and athletic ability .</s>
+<s id='vn103'>Cùng với việc đo chu vi vòng bụng của trẻ , các nhà nghiên cứu đã thực hiện các cuộc kiểm tra về khả năng nhảy xa nhằm đo khả năng hoạt động cơ bắp cũng như khả năng thể thao .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>An extra weekly hour of TV can decrease the distance a child is able to jump from standing by 0.36 cm , the study said .</s>
+<s id='vn104'>Mỗi giờ xem truyền hình sẽ làm giảm tầm xa mà trẻ có thể nhảy khoảng 0.36 cm , nghiên cứu cho biết .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>The researchers said that further research was needed to work out whether television watching is directly responsible for the health issues they observed .</s>
+<s id='vn105'>Các nhà khoa học cho biết sẽ cần những nghiên cứu xa hơn nhằm làm sáng tỏ liệu thói quen xem truyền hình có ảnh hưởng trực tiếp tới các vấn đề sức khỏe mà họ đã nghiên cứu hay không .</s>
+</spair>
+</text>
+</doc>

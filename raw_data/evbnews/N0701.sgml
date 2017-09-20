@@ -1,0 +1,112 @@
+﻿<doc id='N0701'>
+<head>
+<title>FBI Warns of Malware Attacks Through Hotel Internet Services</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>FBI Warns of Malware Attacks Through Hotel Internet Services</s>
+<s id='vn1'>FBI cảnh báo các cuộc tấn công bằng phần mềm độc hại thông qua các dịch vụ Internet khách sạn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The FBI warned people traveling abroad that attackers are targeting users on hotel networks by tricking them into installing malware under the guise of software updates .</s>
+<s id='vn2'>FBI cảnh báo những người đi du lịch nước ngoài rằng kẻ tấn công đang nhắm mục tiêu vào người dùng trên hệ thống mạng của khách sạn bằng cách lừa họ cài đặt phần mềm độc hại dưới dạng các bản cập nhật phần mềm .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The agency 's Internet Crime Complaint Center says any government , business or academic personnel traveling abroad should be especially wary .</s>
+<s id='vn3'>Trung Tâm Tiếp nhận Khiếu Nại Tội phạm Internet của cơ quan này nói rằng bất kỳ nhân viên chính phủ , doanh nghiệp hay học viện đi du lịch ở nước ngoài nên đặc biệt thận trọng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The FBI issued an advisory this week alerting international travelers about attempts to infect their computers with malware when they log on to hotel networks .</s>
+<s id='vn4'>FBI đã ban hành một cảnh báo trong tuần này cảnh báo các du khách quốc tế về khả năng lây nhiễm vào máy tính của họ bằng phần mềm độc hại khi họ đăng nhập vào hệ thống mạng của khách sạn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In an intelligence note from the FBI 's Internet Crime Complaint Center ( IC3 ) , the agency warned that attackers have been targeting travelers abroad when they use the Internet connection in their hotel rooms .</s>
+<s id='vn5'>Trong một thông tin tình báo từ Trung Tâm Tiếp nhận Khiếu Nại Tội Phạm Internet của FBI ( IC3 ) , cơ quan này cảnh báo rằng những kẻ tấn công đang nhắm mục tiêu vào du khách nước ngoài khi họ sử dụng kết nối Internet trong phòng khách sạn của họ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>According to the FBI , when the victims attempt to set up the hotel room Internet connection , they were presented with a pop-up window notifying them to update a " widely-used software product . "</s>
+<s id='vn6'>Theo FBI , khi các nạn nhân thử thiết lập kết nối Internet trong phòng khách sạn , họ thấy một cửa sổ pop-up thông báo cho họ cập nhật một " sản phẩm phần mềm được sử dụng rộng rãi . "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" If the user clicked to accept and install the update , malicious software was installed on the laptop , " according to IC3 .</s>
+<s id='vn7'>" Nếu người dùng nhắp vào chấp nhận và cài đặt bản cập nhật , phần mềm độc hại đã được cài đặt trên máy tính xách tay , " theo để IC3 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" The pop-up window appeared to be offering a routine update to a legitimate software product for which updates are frequently available . "</s>
+<s id='vn8'>" Các cửa sổ pop-up xuất hiện sẽ cung cấp một bản cập nhật định kỳ cho một sản phẩm phần mềm hợp pháp mà có các bản cập nhật thường xuyên có sẵn . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The FBI recommends checking the author or digital certificate of any prompted update to see if it corresponds to the software vendor , and advises travelers update the software on their laptops immediately before travelling .</s>
+<s id='vn9'>FBI khuyến cáo kiểm tra các tác giả hoặc chứng nhận số của bất kỳ bản cập nhật được nhắc nhở nào để xem nó có tương ứng với các nhà cung cấp phần mềm hay không và khuyên khách du lịch cập nhật phần mềm trên máy tính xách tay của họ ngay trước khi đi du lịch .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The warning follows a December report from Bloomberg that cited unnamed sources alleging iBAHN , one of the largest providers of hotel Internet service in the world , had been compromised .</s>
+<s id='vn10'>Lời cảnh báo này theo sau một báo cáo tháng 12 từ Bloomberg được trích dẫn từ nguồn tin giấu tên cho là iBAHN , một trong những nhà cung cấp dịch vụ Internet cho khách sạn lớn nhất trên thế giới đã bị xâm nhập .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The company has denied the accusation .</s>
+<s id='vn11'>Công ty đã bác bỏ những lời cáo buộc này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The FBI warning does not include any information about specific hotel chains or service providers .</s>
+<s id='vn12'>Cảnh báo của FBI không bao gồm bất kỳ thông tin về những khách sạn cụ thể hoặc các nhà cung cấp dịch vụ nào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The scant details offered in the intelligence note however make it difficult to know exactly what travelers should do beyond the basics , argued Graham Cluley , senior technology consultant at Sophos .</s>
+<s id='vn13'>Tuy nhiên , rất ít các chi tiết được cung cấp trong thông tình báo làm cho nó khó để biết chính xác du khách nên làm gì để giải quyết vấn đề cơ bản này , lập luận của Graham Cluley , chuyên gia tư vấn công nghệ cấp cao của Sophos .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" What 's fascinating about the advisory is what it does n't say , " he blogged .</s>
+<s id='vn14'>" Điều chú ý về cảnh báo này không có gì đáng nói " , ông viết .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" And without more information it 's hard to know how computer users are supposed to take meaningful action to protect themselves other than follow the normal advice of running security software , being careful what you install , running a VPN to hide your browsing from snoopers , etc . "</s>
+<s id='vn15'>" Và không có nhiều thông tin làm cho nó trở nên khó để biết người dùng máy tính phải đưa ra hành động ý nghĩa nào khác để bảo vệ bản thân mình hơn là theo lời khuyên thông thường chạy phần mềm bảo mật , phải cẩn thận những gì bạn cài đặt , sử dụng kết nối VPN để giấu những việc làm trên mạng của bạn từ những kẻ tò mò ..v.v . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" It 's certainly very peculiar that the FBI did n't share more information in its warning , or mention where in the world it believes it has seen these attacks taking place , " he added .</s>
+<s id='vn16'>" Điều rất đặc biệt rằng FBI đã không chia sẻ nhiều thông tin trong lời cảnh báo của họ , hoặc đề cập đến nơi nào trên thế giới mà họ tin rằng những cuộc tấn công này sẽ xảy ra , " ông nói thêm .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>"By coincidence , earlier this week , for the first time in almost ten years , a Chinese defense minister visited the United States .</s>
+<s id='vn17'>" Sự trùng hợp ngẫu nhiên là vào hồi đầu tuần này , lần đầu tiên trong gần mười năm một Bộ trưởng Quốc phòng Trung Quốc đến thăm Hoa Kỳ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The day before the FBI 's warning was issued , US Defense Secretary Leon Panetta met his Chinese counterpart Liang Guanglie in Washington DC , and told the world 's press that the two countries must work together to avoid cyber war , and emphasiz#ed the importance of the relationship between China and the USA . "</s>
+<s id='vn18'>Một ngày trước khi lời cảnh báo của FBI đã được ban hành , Bộ trưởng bộ quốc phòng Mỹ Leon Panetta đã gặp người đồng cấp phía Trung Quốc là Lương Quang Liệt tại thủ đô Washington và nói với báo chí thế giới rằng hai nước phải làm việc hợp tác với nhau để tránh xảy ra cuộc chiến tranh không gian mạng , ngoài ra cũng nhấn mạnh tầm quan trọng của mối quan hệ giữa Trung Quốc và Kỳ . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>There is inherent risk in connecting to public Wi-Fi networks due to the ability of attackers to target unsuspecting users and pedal scams and mal ware .</s>
+<s id='vn19'>Nguy cơ vốn có trong kết nối với mạng Wi-Fi công cộng do khả năng kẻ tấn công nhắm mục tiêu người dùng không nghi ngờ và những trò gian lận và phần mềm độc hại .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>John Harrison , senior manager at Symantec Security Response , said .</s>
+<s id='vn20'>John Harrison , giám đốc cao cấp tại Symantec Security Response cho biết .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>" It is also unfortunately all too easy for hackers to setup rogue Wi-Fi access points with the sole purpose of intercepting your Internet traffic - whether that is accessing your social media and financial accounts or tricking users with fake software updates , " he said .</s>
+<s id='vn21'>" Điều không may đó là quá dễ dàng để tin tặc thiết lập các điểm truy cập Wi-Fi giả mạo với mục đích duy nhất là cản trở việc truy cập Internet của bạn , cho dù đó là truy cập các phương tiện truyền thông xã hội và các tài khoản tài chính hoặc lừa người dùng bằng bản cập nhật phần mềm giả mạo " , ông nói .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" Just because a network name says " Free Wi-Fi " , " Hotel XYZ Wi-Fi " or even the brand name of your ISP or coffee shop does not ensure it is legitimate . "</s>
+<s id='vn22'>" Chỉ bởi một tên mạng " Wi-Fi Miễn phí " , " Wi-Fi khách sạn XYZ " hoặc thậm chí là tên ISP , cửa hàng cà phê cũng không đảm bảo nó là hợp pháp " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" Corporate users should only connect to their networks using VPN software to ensure encrypted connections between their laptops and their corporate networks , " Harrison added .</s>
+<s id='vn23'>" Người dùng doanh nghiệp chỉ nên kết nối vào mạng của họ bằng cách sử dụng phần mềm VPN để đảm bảo các kết nối mã hóa giữa máy tính xách tay của họ và mạng doanh nghiệp của họ " , Harrison nói thêm .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Beyond that , standard security best practices apply : they should use a modern endpoint or internet security software on their computers and mobile devices and they should be wary of any pop-ups requesting them to download updates and other potential social engineering scams .</s>
+<s id='vn24'>" Ngoài ra , phương thức bảo mật tiêu chuẩn tốt nhất được áp dụng : họ nên sử dụng một thiết bị đầu cuối hiện đại hoặc phần mềm bảo mật internet trên máy tính và các thiết bị di động của họ và họ cần phải cảnh giác bất kỳ thông báo pop-up nào yêu cầu tải bản cập nhật và những chiêu lừa bằng kỹ thuật xã hội tiềm ẩn khác .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Software updates should only be installed through corporate software updating mechanisms , internal servers or by users going directly to their software publishers " websites . "</s>
+<s id='vn25'>Các bản cập nhật phần mềm chỉ được cài đặt thông qua cơ chế cập nhật phần mềm của công ty , các máy chủ nội bộ hoặc người dùng trực tiếp đến các trang web của nhà phát hành phần mềm . "</s>
+</spair>
+</text>
+</doc>

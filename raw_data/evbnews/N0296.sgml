@@ -1,0 +1,128 @@
+﻿<doc id='N0296'>
+<head>
+<title>Microsoft and Google Suddenly Want to Be Like Apple</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft and Google Suddenly Want to Be Like Apple</s>
+<s id='vn1'>Microsoft và Google muốn đột nhiên giống Apple</s>
+</spair>
+<spair id='2'>
+<s id='en2'>On Monday , Microsoft shocked the tech world by announcing a pair of Windows 8 tablets , both dubbed Microsoft Surface .</s>
+<s id='vn2'>Hôm thứ hai , Microsoft đã khiến giới công nghệ phải kinh ngạc khi công bố bộ đôi máy tính bảng chạy Windows 8 , cả hai đều có tên là Microsoft Surface .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But it was n't just the press event 's mysterious nature that made the news so stunning .</s>
+<s id='vn3'>Nhưng không phải chỉ có tính chất bí ẩn của buổi họp báo mới khiến tin này trở nên hấp dẫn đến vậy .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>For the first time , Microsoft will make its own Windows PCs .</s>
+<s id='vn4'>Lần đầu tiên , Microsoft sẽ tự mình sản xuất máy tính chạy Windows .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The company will be in direct competition with hardware partners such as HP and Dell , and judging from early reactions , Microsoft is in a good position to win .</s>
+<s id='vn5'>Công ty sẽ cạnh tranh trực tiếp với các đối tác phần cứng như HP và Dell , và theo nhận định ban đầu , Microsoft ở vị trí thuận lợi để giành chiến thắng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The potential effects of Surface on the PC market ca n't be understated .</s>
+<s id='vn6'>Những tác động tiềm ẩn của máy tính bảng Surface lên thị trường PC là không thể xem thường .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>And yet , anyone who 's paid attention to the tech industry for the last five years should n't be too surprised .</s>
+<s id='vn7'>Tuy nhiên , bất cứ ai quan tâm đến ngành công nghệ trong suốt năm năm qua sẽ không quá bất ngờ .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Microsoft 's approach with Surface - designing the hardware in tandem with the software - is the same approach that Apple has taken for decades .</s>
+<s id='vn8'>Cách tiệp cận của Microsoft bằng máy tính bảng Surface - thiết kế phần cứng cùng lúc với phần mềm - cũng chính là cách tiếp cận mà Apple đã dùng trong nhiều thập niên qua .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>And Apple 's method is paying off - just look at the rise of the iPhone and iPad , and the success of the MacBook Air .</s>
+<s id='vn9'>Và phương pháp của Apple đang tỏ ra hiệu quả - bạn hãy thử nhìn vào sự gia tăng của iPhone và iPad , và sự thành công của MacBook Air .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It took a few years for other companies to catch on , but now it 's finally happening .</s>
+<s id='vn10'>Phải mất một vài năm thì các công ty khác mới có thể tiếp thu được , nhưng cuối cùng thì điều đó cũng đang diễn ra .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" We believe that any intersection between human and machine can be made better when all aspects of the experience - hardware and software - are considered in working together , " Microsoft CEO Steve Ballmer said at the Surface press event .</s>
+<s id='vn11'>" Chúng tôi tin rằng điểm tương đồng nào giữa con người và máy móc có thể cải tiến khi mọi khía cạnh về trải nghiệm người dùng - phần cứng và phần mềm - được cân nhắc đến khi kếp hợp với nhau " , Giám đốc Điều hành của Microsoft , Steve Ballmer , phát biểu tại buổi họp báo công bố Surface .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>You could probably attribute that quote to Steve Jobs and get away with it .</s>
+<s id='vn12'>Có thể bạn sẽ gán câu nói đó với Steve Jobs và không ai chỉ trích bạn vì điều đó .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Microsoft 's not the only company that 's taken a liking to Apple 's approach .</s>
+<s id='vn13'>Microsoft không phải công ty duy nhất ưa chuộng cách tiếp cận của Apple .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Google also intends to build more of its own hardware .</s>
+<s id='vn14'>Google cũng dự định xây dựng thêm phần cứng của riêng hãng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>A new Google-branded tablet , manufactured by Asus , may be announced next week at the Google I/O developers conference , according to numerous reports .</s>
+<s id='vn15'>Một chiếc máy tính bảng mới mang thương hiệu Google , do Asus sản xuất , có thể sẽ được công bố vào tuần tới tại hội nghị các nhà phát triển Google I/O , theo nhiều nguồn tin cho biết .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Several more Google devices , including new Nexus phones , are also reportedly on the way .</s>
+<s id='vn16'>Một vài thiết bị khác của Google , trong đó có điện thoại Nexus mới , cũng là được cho là đang được phát triển .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Do n't forget that Google now owns a hardware maker .</s>
+<s id='vn17'>Bạn đừng quên rằng Google hiện đang sở hữu một công ty sản xuất phần cứng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Motorola , which may start churning out its own Nexus hardware in the future .</s>
+<s id='vn18'>Trong tương lai , Motorola có thể sản xuất phần cứng cho dòng sản phẩm Nexus của mình .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Google has built Nexus phones ( in conjunction with a hardware partner ) before , but the emphasis is different now .</s>
+<s id='vn19'>Trước đây Google đã phát triển điện thoại Nexus ( phối hợp với một đối tác phần cứng ) , nhưng điểm nhấn hiện giờ đã khác .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Nexus devices were once meant to be a reference for developers and hardware makers .</s>
+<s id='vn20'>Điện thoại Nexus từng được nhắm đến như là một tham chiếu cho các lập trình viên và nhà sản xuất phần cứng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Now , Google seems to view them as a way to deliver Android software and Google Play services directly to consumers , unmodified by other companies and untainted by bloatware .</s>
+<s id='vn21'>Hiện tại , có vẻ như Google xem chúng như là cách để cung cấp phần mềm Android và các dịch vụ trên Google Play trực tiếp đến tay người tiêu dùng , mà không bị các hãng khác chỉnh sửa hoặc cài thêm bloatware .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" We want to give you a place to purchase Nexus devices that work really well with your digital entertainment , " Andy Rubin , Google 's senior vice president of mobile and digital content , said back in April , after the company started selling the Galaxy Nexus phone directly .</s>
+<s id='vn22'>" Chúng tôi muốn mang đến cho bạn một nơi để có thể mua thiết bị Nexus đáp ứng tốt nhu cầu giải trí số của bạn " , Andy Rubin , phó chủ tịch cấp cao bộ phận nội dung số và di động của Google , cho biết hồi tháng Tư , sau khi công ty bắt đầu trực tiếp bán ra điện thoại Galaxy Nexus .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>It sounds like Google 's learned that iTunes is as big of a hook for Apple as the core iOS software .</s>
+<s id='vn23'>Nghe có vẻ như Google đã nhận ra rằng iTunes cũng có tác dụng thu hút người dùng cho Apple hệt như phần mềm iOS cốt lõi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Again , it 's software , services , and hardware all rolled into one .</s>
+<s id='vn24'>Một lần nữa , phần mềm , dịch vụ , và phần cứng đều được hoà vào làm một .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>I see this as good news for consumers .</s>
+<s id='vn25'>Tôi cho rằng đây là tin vui đối với người tiêu dùng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The Dells and HPs of the world may not be pleased , but they have no choice but to play along , since they have no other companies to turn to besides Google and Microsoft .</s>
+<s id='vn26'>Dell và HP có thể không hài lòng , nhưng họ không còn lựa chọn nào khác ngoài việc phải tạm hợp tác , bởi họ không còn công ty nào khác để hướng đến ngoài Google và Microsoft .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>( HP tried to control its own software destiny with WebOS , but failed spectacularly , and now the company is recommitted to Windows . )</s>
+<s id='vn27'>( HP đã cố gắng kiểm soát số phận phần mềm của mình bằng WebOS , nhưng đã thất bại thê thảm , và hiện tại phải gắn kết lại với Windows . )</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Apple needs better competition , particularly in tablets .</s>
+<s id='vn28'>Apple cần có những đối thủ cạnh tranh giỏi hơn , đặc biệt là trong lĩnh vực máy tính bảng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>By competing with their hardware partners - and learning some lessons from Apple - Microsoft and Google may end up raising the bar for everyone .</s>
+<s id='vn29'>Bằng cách cạnh tranh với đối tác phần cứng - và rút ra một số bài học từ Apple - Microsoft và Google rốt cuộc có thể sẽ nâng cao tiêu chuẩn công nghệ cho mọi người .</s>
+</spair>
+</text>
+</doc>

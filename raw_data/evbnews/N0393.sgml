@@ -1,0 +1,96 @@
+﻿<doc id='N0393'>
+<head>
+<title>Malicious Websites Jump Dramatically in 2010</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Malicious Websites Jump Dramatically in 2010</s>
+<s id='vn1'>Các website độc hại gia tăng đột biến trong năm 2010</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A new report from Websense highlights both the growth of malicious sites as well as widespread SEO abuse by attackers .</s>
+<s id='vn2'>Một báo cáo mới từ Websense nêu bật cả về sự phát triển của các trang web độc hại cũng như sự lạm dụng SEO rộng rãi bởi những kẻ tấn công .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A look back at the 2010 by researchers at Websense revealed a mix of better tactics and black hat search engine optimization ( SEO ) laid the foundation for a dramatic jump in malicious sites for the year .</s>
+<s id='vn3'>Các nhà nghiên cứu tại Websense cho thấy trong năm 2010 một sự kết hợp tốt hơn giữa chiến thuật và tối ưu hóa cỗ máy tìm kiếm SEO " mũ đen " đã đặt nền móng cho một bước nhảy vọt trong các trang web độc hại vào năm nay .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the " Websense 2010 Threat Report " , researchers had mostly bad news for users - the number of malicious sites increased 111.4 percent between 2009 and 2010 .</s>
+<s id='vn4'>Trong bản báo cáo " Websense 2010 Threat Report " , các nhà nghiên cứu đã mang lại thông tin không mấy tốt đẹp cho người dùng là số lượng các trang web độc hại tăng lên 111,4 % từ 2009 đến 2010 .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Nearly 80 percent of all malicious sites are compromised legitimate Websites , a statistic Websense Senior Manager of Security Research Patrik Runald called " a huge number . "</s>
+<s id='vn5'>Gần 80% trang web độc hại là các website hợp pháp bị xâm phạm , một thống kê của Patrik Runald - Nhà quản lý nghiên cứu bảo mật cao cấp của Websense gọi đó là " một con số khổng lồ . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Attacks by numbers work very well for the bad guys , so as they continuously improve the way they work , combined with attacks on some very large hosting companies … ( that means ) that the total number of ( malicious ) sites goes up substantially , " he said .</s>
+<s id='vn6'>Ông cho biết " các cuộc tấn công theo trình tự có hiệu quả rất tốt đối với những kẻ xấu , do đó họ liên tục cải tiến cách họ thực hiện , kết hợp với các cuộc tấn công nhằm vào một số công ty lưu trữ rất lớn ... ( điều đó có nghĩa là ) tổng số các website ( độc hại ) tăng lên một cách đáng kể " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Search engine optimization by attackers has not helped the situation .</s>
+<s id='vn7'>Tối ưu hóa cỗ máy tìm kiếm bởi những kẻ tấn công đã không giúp ích trong tình hình này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>According to Wedsense , Web users searching for breaking news have a 22.4 percent change of being lured to a malicious site - more than those searching for adult content , who have a 21.8 percent chance .</s>
+<s id='vn8'>Theo Websense , người dùng web tìm kiếm tin tức quan trọng có một sự thay đổi là 22,4 % trong số đó đã bị thu hút vào một trang web độc hại - nhiều hơn so với số người dùng tìm kiếm với nội dung dành cho người lớn là 21,8% .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" The earthquakes in Haiti and Chile , Corey Haim 's death , and the World Cup of Soccer were just a few examples of cleverly manipulated search engine results steering people to bogus links that rated higher than legitimate results , " according to the report .</s>
+<s id='vn9'>Theo báo cáo " Các trận động đất ở Haiti và Chile , cái chết của Corey Haim và bóng đá World Cup chỉ là một vài ví dụ về các kết quả của công cụ tìm kiếm đã khéo léo dẫn người dùng đến các liên kết giả mạo mà được đánh giá cao hơn so với kết quả hợp pháp .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Similar to what we found in 2009 , the botnets behind these campaigns are being repurposed once the illegitimate campaign has been removed from the search engine results . "</s>
+<s id='vn10'>Tương tự như những gì chúng ta thấy trong năm 2009 , các mạng botnet đằng sau các chiến dịch này đang được chuyển đổi mục đích nếu một khi các chiến dịch bất hợp pháp bị xoá khỏi các kết quả của công cụ tìm kiếm . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Many of the 2010 SEO attacks were blended in nature , with a second component consisting of Rogue AV , " the report continued .</s>
+<s id='vn11'>Bản báo cáo tiếp tục cho biết " Nhiều các cuộc tấn công có pha trộn tính chất SEO năm 2010 với một thành phần thứ hai bao gồm Rogue Anti-Virus .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Both approaches used bogus AV campaigns offering free health scans that identified fake infections .</s>
+<s id='vn12'>Cả hai phương pháp đều sử dụng chiến thuật phần mềm AV giả mạo cung cấp việc kiểm tra máy tính miễn phí và cung cấp các kết quả giả mạo .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Upon notification of a fake virus , users were prompted to download a free " antivirus " software where a second scan asked them for their credit card information to remove the fake malware .</s>
+<s id='vn13'>Sau khi thông báo máy bị nhiễm một virus giả , người dùng đã được nhắc nhở tải về phần mềm " diệt vi rút " miển phí ở lần quét thứ hai và yêu cầu họ cho thông tin thẻ tín dụng của họ để loại bỏ các phần mềm độc hại giả mạo .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Researchers said they expect to see more black hat SEO combined with rogue antivirus and e-mail containing data stealing components in the coming 12 months .</s>
+<s id='vn14'>Các nhà nghiên cứu cho biết họ mong đợi để xem nhiều hơn SEO mũ đen kết hợp với phần mềm chống virus giả mạo và e-mail có chứa các thành phần đánh cắp dữ liệu trong 12 tháng tới .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>For 2010 , shopping remained the leading topic of spam , compromising 12 percent .</s>
+<s id='vn15'>Năm 2010 , việc mua sắm vẫn là chủ đề chính của thư rác , ảnh hưởng đến 12% .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Pump-and-dump spam was next at 10 percent .</s>
+<s id='vn16'>Thư rác dạng Pump-and-dump chiếm 10% .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>According to the report , the United States was the number one country hosting crimeware and phishing sites in 2010 .</s>
+<s id='vn17'>Theo báo cáo , Mỹ là quốc gia số một trong việc lưu trữ các phần mềm tội phạm và trang web trộm thông tin cá nhân trong năm 2010 .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>" Stable servers and good Internet connections are two reasons , " Runald said .</s>
+<s id='vn18'>Runald nói : " Máy chủ ổn định và kết nối Internet tốt là hai lý do .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" While it is easy to think that a lot of the stolen data is sent to servers in eastern European or Asian countries , the fact is that the attackers need stable systems just like the rest of us .</s>
+<s id='vn19'>Trong khi đó dễ dàng nghĩ rằng rất nhiều dữ liệu bị đánh cắp được gửi đến các máy chủ ở các nước Đông Âu hoặc châu Á , thực tế là những kẻ tấn công cần có những hệ thống ổn định giống như chúng ta .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>And the US is definitely up there in terms of stability , so it 's logical that it 's one of the most popular hosting countries .</s>
+<s id='vn20'>Và Hoa Kỳ chắc chắn là nơi ổn định , do đó nó phù hợp để trở thành một trong những quốc gia lưu trữ phổ biến nhất .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>That does n't mean , of course , that the attackers are based in the US . "</s>
+<s id='vn21'>Tuy nhiên điều đó không có nghĩa rằng những kẻ tấn công sống ở Mỹ . "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,88 @@
+﻿<doc id='N0590'>
+<head>
+<title>China ' set to tighten monetary policy '</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>China ' set to tighten monetary policy '</s>
+<s id='vn1'>Trung Quốc bắt đầu thắt chặt chính sách tiền tệ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>China is to tighten its monetary policy next year , the Communist Party 's top body has said , in a sign that interest rate rises may be on the way .</s>
+<s id='vn2'>Trụng Quốc phải thắt chặt chính sách tiền tệ vào năm tới do có dấu hiệu là lãi suất có thể tăng , chủ tịch của Đảng Cộng Sản đã nói như vậy .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The country has recently tightened lending rules by telling banks to keep more cash in reserve ,</s>
+<s id='vn3'>Đất nước gần đây đã siết chặt quy định cho vay bằng cách yêu cầu các ngân hàng phải dự trữ nhiều tiền mặt hơn ,</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Now the Communist Party 's Politburo has said China will shift its monetary policy from " relatively loose " to " prudent " , the Xinhua news agency said .</s>
+<s id='vn4'>Hiện tại Đảng Cộng Sản của Politburo đã nói rằng Trung Quốc sẽ chuyển chính sách tiền tệ của nó từ " khá lỏng lẽo " sang " thận trọng " tờ báo Xinhua đã nói như vậy .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Annualised consumer price inflation hit a 25-month high in October , at 4.4 % .</s>
+<s id='vn5'>Lạm phát giá tiêu dùng hàng năm đã đạt mức cao kỷ lục trong 25 tháng qua vào tháng 10 ở mức 4,4% .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>That is well above the government 's full-year target of 3 % .</s>
+<s id='vn6'>Mức này đã bỏ xa mức 3% mục tiêu trong năm của chính phủ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Food prices have been mostly responsible for the rise , but there have been further price pressures on the back of higher global commodity costs .</s>
+<s id='vn7'>Giá thực phẩm phải chịu phần lớn trách nhiệm cho việc gia tăng này nhưng còn có những áp lực giá đằng sau những chi phí hàng hóa toàn cầu tăng cao .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" Price adjustments "</s>
+<s id='vn8'>" Điều chỉnh giá "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The change of monetary policy had been on the cards for a number of weeks before the Politburo announcement .</s>
+<s id='vn9'>Sự thay đổi trong chính sách tiền tệ đã diễn ra trong một vài tuần trước thông báo của Politburo .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" It means that all sort of monetary policy tools to control liquidity and to control inflation can now be used , " said Ken Peng , an economist with Citigroup in Beijing .</s>
+<s id='vn10'>Ken Peng , một nhà kinh tế học của Citigroup ở Bắc Kinh nói " Nó có nghĩa là tất cả các loại công cụ chính sách tiền tệ để quản lý tính thanh khoản và kiểm soát lạm phát bây giờ có thể được sử dụng " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Going forward we could be using more price adjustments via interest rates , " he said .</s>
+<s id='vn11'>Ông ấy đã nói rằng " Tiếp theo chúng ta có thể sử dụng nhiều công cụ điều chỉnh giá thông qua lãi suất hơn " .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The bank funding squeeze that came into effect on Monday has meant that less cash may now find its way into the stock market .</s>
+<s id='vn12'>Việc hạn chế cho vay của ngân hàng có hiệu lực vào ngày thứ 2 làm cho lượng tiền đầu tư vào thị trường chứng khoán hiện tại có thể giảm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>China 's key stock index closed flat on Friday , dropping 1% on the week .</s>
+<s id='vn13'>Chỉ số cổ phiếu chính của Trung Quốc đã đóng cửa ở mức giá không đổi vào thứ 6 , giảm 1% trong cả tuần .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Also on Friday , an IMF paper said China and Hong Kong would need to implement more measures to rein in property bubbles forming in parts of their markets .</s>
+<s id='vn14'>Cũng vào thứ 6 , một bài phát biểu của Quỹ tiền tệ thế giới nói rằng Trung Quốc và Hong Kong sẽ cần phải thực hiện nhiều biện pháp hơn để kiềm soát những bong bóng tài sản hình thành trong những bộ phận của thị trường của nước họ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" The mass-market segment in a few large cities such as Shanghai and Shenzhen , and the luxury segment in Beijing and Nanjing appear to be increasingly disconnected from fundamentals , " the IMF said .</s>
+<s id='vn15'>Quỹ tiền tệ thế giới nói rằng " Phân khúc thị trường đại chúng ở một số thành phố lớn như Thượng Hải và Thẩm Quyến và phân khúc hạng sang ở Bắc Kinh và Nam kinh có vẻ như càng ngày càng xa rời những nguyên tắc cơ bản " .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It added : " A senior official at China 's central bank last week warned that inflationary pressures were building because of flows of capital into the country and expectations of a revaluation of the yuan . "</s>
+<s id='vn16'>Tổ chức này còn nói thêm rằng " Một nhân viên cấp cao của ngân hàng trung ương Trung Quốc tuần rồi đã cảnh báo rằng áp lực lạm phát đang gia tăng do dòng chảy của vốn vào nước này và niềm tin về một sự tái định giá lại đồng nhân dân tệ "</s>
+</spair>
+<spair id='17'>
+<s id='en17'>And another report says gold imports into China have soared this year as investors seek to safeguard their cash amid rising inflation .</s>
+<s id='vn17'>Và một báo cáo khác nói rằng lượng vàng nhập khẩu vào Trung Quốc đã tăng lên đáng kể vào năm nay do các nhà đầu tư tìm cách đảm bảo an toàn cho số tiền của họ giữa lúc lạm phát đang tăng cao .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The country imported 209.7 tonnes of gold in the first 10 months of the year , the China Business News said , citing Shen Xiangrong , chairman of the Shanghai Gold Exchange .</s>
+<s id='vn18'>Theo tờ báo kinh tế Trung Quốc đưa tin trích dẫn lời của ông Shen Xiangrong , chủ tịch của trung tâm giao dịch vàng Thượng Hải thì nước này đã nhập khẩu 209,7 tấn vàng vào 10 tháng đầu năm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>That is an increase of 480% from the same period last year .</s>
+<s id='vn19'>Đó là một mức tăng 480% so với cùng kỳ năm ngoái .</s>
+</spair>
+</text>
+</doc>

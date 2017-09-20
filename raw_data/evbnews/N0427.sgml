@@ -1,0 +1,220 @@
+﻿<doc id='N0427'>
+<head>
+<title>Defining Illegal Insider Trading</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Defining Illegal Insider Trading</s>
+<s id='vn1'>Nhận diện giao dịch tay trong bất hợp pháp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>When hearing news stories about illegal insider trading activity , investors usually take notice because it 's an activity that affects them .</s>
+<s id='vn2'>Khi nghe tin về hoạt động giao dịch tay trong bất hợp pháp , các nhà đầu tư thường dồn sự chú ý vì đó là một hoạt động gây ảnh hưởng đến họ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Although there are legal forms of insider trading , the better you understand why illegal insider trading is a crime , the better you 'll understand how the market works .</s>
+<s id='vn3'>Mặc dù có những hình thức giao dịch tay trong hợp pháp , nhưng bạn càng hiểu rõ vì sao giao dịch tay trong trái với quy định là vi phạm pháp luật , bạn sẽ càng nắm bắt tường tận hơn cách thị trường vận hành .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Here we discuss what an illegal insider_trading is , how it compromises the essential conditions of a capital market and what defines an insider .</s>
+<s id='vn4'>Sau đây chúng ta tìm hiểu xem một giao dịch tay trong trái quy định là gì , nó gây tổn hại đến những điều kiện thiết yếu của thị trường tài chính như thế nào , và căn cứ vào đâu nhận diện một người tay trong .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>What Is It and Why Is It Harmful ?</s>
+<s id='vn5'>Giao dịch tay trong là gì và tại sao nó có hại ?</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Insider trading occurs when a trade has been influenced by the privileged possession of corporate information that has not yet been made public .</s>
+<s id='vn6'>Giao dịch tay trong xảy ra khi sự sở hữu mang tính đặc quyền thông tin doanh nghiệp chưa từng được công bố rộng rãi đã tác động đến một giao dịch .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Because the information is not available to other investors , a person using such knowledge is trying to gain an unfair advantage over the rest of the market .</s>
+<s id='vn7'>Bởi vì thông tin chưa công khai cho những nhà đầu tư khác , một người dùng những thông tin này ra sức thu lợi bất chính đối với phần còn lại của thị trường .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Using nonpublic information for making a trade violates transparency , which is the basis of a capital market .</s>
+<s id='vn8'>Dùng thông tin không được công bố để giao dịch là vi phạm nguyên tắc minh bạch , nguyên tắc cơ bản của thị trường tài chính .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Information in a transparent market is disseminated in a manner by which all market participants receive it at more or less the same time .</s>
+<s id='vn9'>Thông tin trong thị trường minh bạch được phổ biến theo cách mà mọi thành viên tham gia thị trường đều nhận được nó gần như là đồng thời .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Under these conditions , one investor can gain an advantage over another only through acquiring skill in analyzing and interpreting available information .</s>
+<s id='vn10'>Trong những điều kiện ấy , một nhà đầu tư có thể kiếm lời so với nhà đầu tư khác nhờ sở hữu kỹ năng phân tích và giải mã những thông tin có sẵn .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>This skill is based on individual merit and awareness .</s>
+<s id='vn11'>Kỹ năng này dựa trên sự hiểu biết và sự xuất sắc của cá nhân .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>If one person trades with nonpublic information , he gains an advantage that is impossible for the rest of the public .</s>
+<s id='vn12'>Nếu một người giao dịch bằng thông tin chưa được công khai , anh ta thu lợi mà những người khác không thể có được .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This is not only unfair but disruptive to a properly functioning market : if insider trading were allowed , investors would lose confidence in their disadvantaged position ( in comparison to insiders ) and would no longer invest .</s>
+<s id='vn13'>Điều này không chỉ bất công mà còn phá vỡ thị trường đang hoạt động đúng đắn : nếu giao dịch tay trong được phép , các nhà đầu tư sẽ mất niềm tin vào vị thế bất lợi của mình ( so với những người tay trong ) và sẽ không đầu tư nữa .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The Law</s>
+<s id='vn14'>Luật</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In August 2000 , the Securities and Exchange Commission ( SEC ) adopted new rules regarding insider trading ( made effective in October of the same year ) .</s>
+<s id='vn15'>Vào tháng 8 năm 2000 , Uỷ ban Giao dịch Chứng khoán ( SEC ) đã thông qua những quy định mới liên quan đến giao dịch tay trong ( có hiệu lực từ tháng 10 cùng năm ) .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Under Rule 10b5-1 , the SEC defines insider trading as any securities transaction made when the person behind the trade is aware of nonpublic material information , and is hence violating his or her duty to maintain confidentiality of such knowledge .</s>
+<s id='vn16'>Theo quy định 10b5-1 , Uỷ ban Giao dịch Chứng khoán định nghĩa giao dịch tay trong là bất kỳ giao dịch chứng khoán diễn ra khi người đứng đằng sau giao dịch biết thông tin cụ thể , và vì vậy không làm tròn trách nhiệm giữ bí mật những thông tin đó .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Information is defined as being material if its release could affect the company 's stock price .</s>
+<s id='vn17'>Thông tin được xác định như là có tư liệu nếu việc tiết lộ nó có thể ảnh hưởng đến giá cổ phiếu của doanh nghiệp .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The following are examples of material information : the announcement that the company will receive a tender offer , the declaration of a merger , a positive earnings announcement , the release of the company 's discovery such as a new drug , an upcoming dividend , an unreleased buy recommendation by an analyst and finally , an imminent exclusive in a financial news column .</s>
+<s id='vn18'>Sau đây là những ví dụ về những thông tin loại này : thông tin doanh nghiệp sẽ nhận được một lệnh đặt mua , thông tin về một vụ sáp nhập , thông tin thu nhập tăng , tiết lộ bí mật của công ty chẳng hạn cổ tức sắp tới , sản phẩm mới , khuyến nghị mua không được công bố của một nhà phân tích và cuối cùng , thông tin độc quyền sắp xuất hiện trong cột tin tài chính .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In a further effort to limit the possibility of insider trading , the SEC has also stated in Regulation Fair Disclosure ( Reg FD ) , which was released at the same time as Rule10b5-1 , that companies can no longer be selective as to how they release information .</s>
+<s id='vn19'>Với nỗ lực hạn chế khả năng xảy ra giao dịch tay trong , Uỷ ban Giao dịch Chứng khoán còn nêu trong Quy định về Công bố thông tin Công bằng ( Reg FD ) , quy định được ban hành cùng thời điểm với quy định 10b5-1 , theo đó các doanh nghiệp không còn được phép chọn lựa cách họ công bố thông tin .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This means that analysts or institutional clients cannot be privy to information ahead of retail clients or the general public .</s>
+<s id='vn20'>Nghĩa là các nhà phân tích hoặc các khách hàng là các tổ chức không thể nắm giữ bí mật thông tin trước các khách hàng nhỏ lẻ hoặc công chúng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Everyone who is not a part of the company is to receive information at the same time .</s>
+<s id='vn21'>Những người không thuộc công ty cũng nhận được thông tin cùng lúc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Who Is an Insider ?</s>
+<s id='vn22'>Người tay trong , là ai ?</s>
+</spair>
+<spair id='23'>
+<s id='en23'>For the purposes of defining illegal insider trading , a corporate insider is someone who is privy to information that has yet to be released to the public .</s>
+<s id='vn23'>Để nhận diện giao dịch tay trong bất hợp pháp , cần biết về người tay trong , người nắm các thông tin chưa được công bố rộng rãi .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If a person is an insider , he is expected to maintain a fiduciary duty to the company and to the shareholders and is obligated to retain in confidence the possession of the nonpublic material information .</s>
+<s id='vn24'>Nếu một người là người tay trong , anh ta được kỳ vọng nắm giữ trách nhiệm tín thác đối với công ty và các cổ đông và phải giữ bí mật việc sở hữu có ảnh hưởng đến giao dịch chứng khoán không được công khai .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>A person is liable of insider trading when he has acted on privileged knowledge in the attempt to make a profit .</s>
+<s id='vn25'>Một người bị cho là giao dịch tay trong khi anh ta hành động dựa trên thông tin đặc quyền hòng trục lợi .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Sometimes it is easy to identify who insiders are : CEOs , executives and directors are of course directly exposed to material information before it 's made public .</s>
+<s id='vn26'>Đôi khi dễ dàng nhận ra người tay trong là ai : các tổng giám đốc , viên chức cao cấp và những người đứng đầu tất nhiên là những người tiếp cận trực tiếp thông tin quan trọng trước khi công bố .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>However , according to the misappropriation theory of insider trading cases , certain other relationships automatically give rise to confidentiality .</s>
+<s id='vn27'>Tuy nhiên , theo lý thuyết về tham ô trong những trường hợp giao dịch tay trong , một số những mối quan hệ khác tự động sinh bí mật .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>In the second part of Rule 10b5-2 , the SEC has outlined three nonexclusive instances that call for a duty of trust or confidentiality :</s>
+<s id='vn28'>Trong phần thứ hai của quy định 10b5-2 , Uỷ ban Giao dịch Chứng khoán đã phác thảo ba trường hợp tổng quát mà cần phải có trách nhiệm giữ chữ tín hoặc bí mật :</s>
+</spair>
+<spair id='29'>
+<s id='en29'>1 . When a person expresses his or her agreement to maintain confidentiality</s>
+<s id='vn29'>1 . Khi một người cam kết giữ bí mật</s>
+</spair>
+<spair id='30'>
+<s id='en30'>2 . When history , pattern or practice show that a relationship has mutual confidentiality</s>
+<s id='vn30'>2 . Khi lịch sử , phong tục hoặc tập quán cho thấy một mối quan hệ có bí mật chung</s>
+</spair>
+<spair id='31'>
+<s id='en31'>3 . When a person hears information from a spouse , parent , child or sibling ( unless it can be proven that such a relationship has not and does not give rise to confidentiality ) .</s>
+<s id='vn31'>3 . Khi một người nghe thông tin từ người bạn đời , cha mẹ , con cái , hay anh chị em ruột ( trừ khi có thể chứng minh một mối quan hệ như vậy không có và không tạo nên bí mật ) .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Partners in Crime</s>
+<s id='vn32'>Những đồng phạm</s>
+</spair>
+<spair id='33'>
+<s id='en33'>In insider trading that occurs as a result of information leaking outside of company walls , there is what is known as the " tipper " and the " tippee " .</s>
+<s id='vn33'>Trong giao dịch tay trong mà xảy ra do thông tin bị rò rỉ ra bên ngoài khỏi phạm vi công ty , có khái niệm là " người tiết lộ thông tin nội gián " và " người nhận thông tin nội gián " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The tipper is the person who has broken his or her fiduciary duty when he or she has consciously revealed inside information .</s>
+<s id='vn34'>Người tiết lộ thông tin nội gián là người đã vi phạm trách nhiệm tín thác khi cố ý tiết lộ thông tin nội gián .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>The tippee is the person who knowingly uses such information to make a trade ( in turn also breaking his or her confidentiality ) .</s>
+<s id='vn35'>Người nhận thông tin nội gián là người sử dụng có hiểu biết những thông tin ấy để thực hiện giao dịch ( đến lượt họ cũng vi phạm chữ tín ) .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Both parties typically do so for a mutual monetary benefit .</s>
+<s id='vn36'>Cả hai bên thường làm như vậy vì lợi ích tài chính chung .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>A tipper could be the spouse of a CEO who goes ahead and tells his neighbor inside information .</s>
+<s id='vn37'>Người tiết lộ có thể là vợ hoặc chồng của một tổng giám đốc , người này đi nói cho người hàng xóm của mình thông tin nội gián .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>If the neighbor in turn knowingly uses this inside information in a securities transaction , he is guilty of insider trading .</s>
+<s id='vn38'>Nếu người hàng xóm đến lượt mình lại sử dụng thông tin kia vào giao dịch chứng khoán , anh ta phạm tội giao dịch nội gián .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Even if the tippee does not use the information to trade , the tipper can still be liable for releasing it .</s>
+<s id='vn39'>Thậm chí nếu người nhận thông tin nội gián giao dịch không sử dụng thông tin đó để giao dịch , người tiết lộ thông tin có thể vẫn phải chịu trách nhiệm về việc tiết lộ bí mật .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It may be difficult for the SEC to prove whether or not a person is a tippee .</s>
+<s id='vn40'>Có thể Uỷ ban Giao dịch Chứng khoán gặp khó khăn khi phải chứng minh một người có phải là người nhận thông tin nội gián hay không .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The route of insider information and its influence over people 's trading is not so easy to track .</s>
+<s id='vn41'>Lộ trình của thông tin nội gián và tầm ảnh hưởng của nó đối với giao dịch của mọi người là không dễ dàng phát hiện ra .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Take for example a person who initiates a trade because his broker advised him or her to buy_sell a share .</s>
+<s id='vn42'>Ví dụ , một người bắt đầu giao dịch nhờ nhà môi giới của mình tư vấn mua bán một cổ phiếu .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>If the broker based the advice on material non-public information , the person who made the trade may or may not have had awareness of the broker 's knowledge - evidence to prove what the person knew before the trade start .</s>
+<s id='vn43'>Nếu nhà môi giới tư vấn dựa vào thông tin không được công khai , người thực hiện giao dịch có thể đã biết hay không biết về sự am hiểu của nhà môi giới – khó mà phát hiện bằng chứng cho thấy rõ người kia đã biết cái gì trước khi giao dịch xảy ra .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Excuses , Excuses</s>
+<s id='vn44'>Những biện hộ , bào chữa</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Oftentimes , people accused of the crime claim that they just overheard someone talking .</s>
+<s id='vn45'>Những người bị buộc tội thường khẳng định rằng họ chỉ tình cờ nghe ai đó nói .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Take for example a neighbor who overhears a conversation between a CEO and her husband regarding confidential corporate information .</s>
+<s id='vn46'>Chẳng hạn , một người hàng xóm nghe được hai vợ chồng bà tổng giám đốc nói chuyện về thông tin của công ty cần bảo mật .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>If the neighbor then goes ahead and makes a trade based on what was overheard , he would be violating the law even though the information was just " innocently " overheard : the neighbor becomes an insider with a fiduciary duty and obligation to confidentiality the moment he comes to possess the nonpublic material information .</s>
+<s id='vn47'>Nếu sau đó người hàng xóm đi thực hiện giao dịch dựa vào những gì mình nghe được , người này vi phạm pháp luật dù chỉ nghe " một cách tình cờ " : người hàng xóm trở thành người tay trong có trách nhiệm tín thác và nghĩa vụ bảo vệ bí mật trong khoảnh khắc anh ta nắm được thông tin giao dịch chứng khoán không được công khai .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Since , however , the CEO and her husband did not try to from their insider knowledge , they are not necessarily liable of insider trading .</s>
+<s id='vn48'>Tuy nhiên , vì vợ chồng vị tổng giám đốc không hưởng lợi từ thông tin kia , họ không nhất thiết phải chịu trách nhiệm về giao dịch tay trong ấy .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>In their carelessness , they may , however , be in breach of their confidentiality .</s>
+<s id='vn49'>Nhưng , trong trường hợp bất cẩn của họ , họ có thể vi phạm nguyên tắc giữ gìn bí mật .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Conclusion</s>
+<s id='vn50'>Kết luận</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Since illegal insider trading takes advantage not of skill but chance , it threatens investor confidence in the capital market .</s>
+<s id='vn51'>Vì giao dịch tay trong bất hợp pháp lợi dụng không phải kỹ năng mà là cơ may , nó là mối đe doạ đối với niềm tin của nhà đầu tư vào thị trường tài chính .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>It is important for you to understand what illegal insider trading is because it may affect you as an investor and the company in which you are investing .</s>
+<s id='vn52'>Hiểu giao dịch nội gián là gì rất quan trọng bởi nó có thể tác động đến bạn - nhà đầu tư và công ty bạn đang đầu tư .</s>
+</spair>
+</text>
+</doc>

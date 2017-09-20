@@ -1,0 +1,96 @@
+﻿<doc id='N0553'>
+<head>
+<title>Seniors who shop frequently live longer</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Seniors who shop frequently live longer</s>
+<s id='vn1'>Người cao niên đi mua sắm thường xuyên sẽ sống lâu hơn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Elderly people who shop as frequently as every day are more likely to live longer than less frequent shoppers , with men appearing to benefit more from the activity than women , according to a new study from Taiwan published in the Journal of Epidemiology and Community Health recently .</s>
+<s id='vn2'>Những người lớn tuổi đi mua sắm thường xuyên mỗi ngày có nhiều khả năng sống lâu hơn những người ít đi mua hàng , và dường như điều này đúng hơn với đàn ông so với phụ nữ , theo một nghiên cứu mới từ Đài Loan được công bố trên Tạp chí Dịch tể học và Y tế Cộng đồng gần đây .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Dr Yu-Hung Chang from the National Health Research Institutes in Taiwan , and colleagues , studied nearly 1,850 elderly people aged 65 and over who were living independently at home and who took part in the nationally representative 1999-2000 Elderly Nutrition and Health Survey in Taiwan ( NAHSIT Elderly ) .</s>
+<s id='vn3'>Tiến sĩ Yu-Hưng Chang từ Viện nghiên cứu Y tế Quốc gia tại Đài Loan , và các đồng nghiệp , khảo sát gần 1.850 người trên 65 tuổi đang sống độc lập tại nhà và những người tham gia vào Cuộc khảo sát Dinh dưỡng và Sức khỏe Người cao tuổi điển hình của quốc gia vào năm 1999-2000 tại Đài Loan ( NAHSIT Elderly ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Participants answered questions about how often they went shopping , with responses ranging from " never " to " every day " .</s>
+<s id='vn4'>Những người tham gia trả lời câu hỏi về mức độ đi mua sắm thường xuyên , với các câu trả lời khác nhau , từ " không bao giờ " đến " mỗi ngày " .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>They also completed questionnaires that helped researchers assess their intellectual and physical function , and gave the usual demographic information such as financial status , employment status , age , gender , education , and ethnicity , plus lifestyle , health behaviors , and chronic disease medical status .</s>
+<s id='vn5'>Họ cũng hoàn thành bảng câu hỏi giúp các nhà nghiên cứu đánh giá chức năng trí tuệ và thể chất của họ , cùng với cung cấp những thông tin nhân khẩu học thông thường như tình hình tài chính , tình trạng việc làm , tuổi tác , giới tính , giáo dục , và dân tộc , cộng với lối sống , hành vi sức khỏe , và bệnh mãn tính tình trạng sức khỏe .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This data was then cross-referenced to national death registers covering 1999 to 2008 to find out which of the participants had died during that period .</s>
+<s id='vn6'>Dữ liệu này sau đó được tham khảo chéo với số liệu đăng ký tử vong quốc gia trong giai đoạn 1999-2008 để lọc những người tham gia nào đã chết trong thời gian đó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The results showed that :</s>
+<s id='vn7'>Kết quả cho thấy :</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Nearly two-thirds of participants were under the age of 75 , and 54 % were men .</s>
+<s id='vn8'>Gần hai phần ba số người tham gia dưới độ tuổi 75 , và 54% là nam giới .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>48 % of the participants never or rarely shopped during the week , 22 % shopped between 2 and 4 times a week , 17 % shopped every day , and the rest shopped once a week .</s>
+<s id='vn9'>48 % số người tham gia không bao giờ hoặc hiếm khi đi mua sắm trong tuần , 22% mua hàng từ 2 đến 4 lần một tuần , 17 % đi mua sắm mỗi ngày , và phần còn lại đi mua sắm một lần một tuần .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Most participants had a healthy lifestyle , and around three quarters were financially self-sufficient .</s>
+<s id='vn10'>Hầu hết những người tham dự có lối sống lành mạnh , và khoảng 3/4 độc lập về tài chính .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>60 % of participants had either one or two long term medical conditions .</s>
+<s id='vn11'>60% người tham dự có cả một hoặc hai căn bệnh mãn tính .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Those who went shopping more than once a week tended to be men at the younger end of the age range .</s>
+<s id='vn12'>Những người đi mua sắm vài lần một tuần có xu hướng trẻ hơn tuổi thật .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This group had a higher proportion of smokers and drinkers , tended to have better physical and mental health , took more regular exercise and were more likely to have a network of dinner companions .</s>
+<s id='vn13'>Nhóm này có tỷ lệ người hút thuốc và uống rượu cao hơn , thường có sức khỏe thể chất và tâm thần tốt hơn , chăm tập thể dục thường xuyên hơn và có nhiều khả năng có nhóm bạn cùng ăn tối .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Compared with the least frequent shoppers , those who shopped every day had a 27% lower risk of death .</s>
+<s id='vn14'>So với những người ít mua sắm thường xuyên nhất , những người đi mua sắm mỗi ngày có ít hơn 27% nguy cơ tử vong .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>For men this figure was 28 % compared to 23 % for women .</s>
+<s id='vn15'>Ở nam giới , con số này là 28% so với 23% ở nữ giới .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The researchers concluded that their findings showed shopping predicts survival and that very frequent shopping may favour men more than women .</s>
+<s id='vn16'>Các nhà nghiên cứu kết luận những phát hiện của họ cho thấy việc mua sắm dự đoán được sự tồn tại và việc mua sắm rất thường xuyên có thể có lợi cho đàn ông nhiều hơn phụ nữ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>They used different types of analysis to consider the potential effects of physical limitations and cognitive impairment , but these still showed that daily shoppers lived longer than infrequent shoppers .</s>
+<s id='vn17'>Họ sử dụng các loại phân tích khác nhau để xem xét những tác động tiềm năng của các hạn chế về thể chất và suy giảm nhận thức , nhưng vẫn cho thấy nhữngngười mua sắm hàng ngày sống lâu hơn những người mua sắm không thường xuyên .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They conceded that perhaps the ability to shop is just reflective of a person 's health , and frequent shoppers are just healthier people , but they also said it could work the other way around : frequent shopping itself may benefit health , for instance by increasing the opportunity to buy food , take an interest in your diet and health , meet companions , and also take exercise in a way that is easier and requires less motivation than formal methods .</s>
+<s id='vn18'>Họ thừa nhận có lẽ khả năng mua sắm chỉ phản ánh sức khỏe của một người , và người mua sắm thường xuyên chỉ đơn thuần là người khỏe hơn , nhưng họ cũng cho rằng nó có thể có ý nghĩa theo một cách khác : chính việc thường xuyên mua sắm có thể mang lại lợi ích sức khỏe , chẳng hạn do cơ hội mua thức ăn , có thể quan tâm đến chế độ ăn uống và sức khỏe của bạn , gặp bạn bè , cũng như tập thể dục theo cách dễ dàng hơn và đòi hỏi ít động cơ hơn các phương pháp chính thức .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Shopping captures several dimensions of personal well-being , health and security as well as contributing to the community 's cohesiveness and economy and may represent or actually confer increased longevity , " they noted .</s>
+<s id='vn19'>" Việc mua sắm cho thấy một vài khía cạnh sức khỏe cá nhân , hạnh phúc và sự an toàn cũng như góp phần vào sự liên kết và nền kinh tế của cộng đồng và có thể đại diện cho tuổi thọ hoặc thực sự giúp tăng tuổi thọ " , họ nói thêm .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Written by : Catharine Paddock , PhD</s>
+<s id='vn20'>Tác giả : Tiến sĩ Catharine Paddock</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Copyright : Medical News Today</s>
+<s id='vn21'>Bản quyền : Medical News Today</s>
+</spair>
+</text>
+</doc>

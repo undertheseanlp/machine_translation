@@ -1,0 +1,232 @@
+﻿<doc id='N0453'>
+<head>
+<title>John F. Kennedy - Inaugural Address</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>John F. Kennedy - Inaugural Address</s>
+<s id='vn1'>John F. Kennedy - Diễn văn nhậm chức</s>
+</spair>
+<spair id='2'>
+<s id='en2'>delivered 20 January 1961</s>
+<s id='vn2'>phát biểu ngày 20 tháng 1 năm 1961</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Vice President Johnson , Mr. Speaker , Mr. Chief Justice , President Eisenhower , Vice President Nixon , President Truman , reverend clergy , fellow citizens :</s>
+<s id='vn3'>Kính thưa Phó Tổng thống Johnson , Ngài Chủ tịch Hạ nghị viện , Ngài Chánh án Toà án tối cao , Ngài Tổng thống Eisenhower , Ngài Phó Tổng thống Nixon , Ngài Tổng thống Truman , các Đức Cha và đồng bào thân mến :</s>
+</spair>
+<spair id='4'>
+<s id='en4'>We observe today not a victory of party , but a celebration of freedom - symbolizing an end , as well as a beginning - signifying renewal , as well as change .</s>
+<s id='vn4'>Ngày hôm nay chúng ta đến đây không phải để mừng chiến thắng của bất kỳ một đảng phái nào , mà để tôn vinh quyền tự do - đánh dấu một sự kết thúc giai đoạn cũ , đồng thời bắt đầu một giai đoạn mới - báo hiệu một công cuộc đổi mới và chuyển biến .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>For I have sworn before you and Almighty God the same solemn oath our forebears prescribed nearly a century and three-quarters ago .</s>
+<s id='vn5'>Tôi đã thề trước quý vị và Thiên chúa toàn năng lời thề long trọng mà ông cha ta đã từng thề cách đây gần 175 năm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The world is very different now .</s>
+<s id='vn6'>Thế giới ngày nay đã đổi khác rất nhiều .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>For man holds in his mortal hands the power to abolish all forms of human poverty and all forms of human life .</s>
+<s id='vn7'>Con người nắm trong tay mình quyền xoá bỏ sự nghèo nàn dưới mọi hình thức và sự sống còn dưới mọi hình thức .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And yet the same revolutionary beliefs for which our forebears fought are still at issue around the globe - the belief that the rights of man come not from the generosity of the state , but from the hand of God .</s>
+<s id='vn8'>Song những niềm tin cách mạng mà ông cha ta đã dày công chiến đấu để giữ vững vẫn là vấn đề nóng bỏng trên toàn cầu - đó là tin rằng quyền của con người không phải do nhà nước hào phóng ban phát , mà phải từ tay Đức chúa trời ban xuống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>We dare not forget today that we are the heirs of that first revolution .</s>
+<s id='vn9'>Đến hôm nay chúng ta vẫn không dám quên chúng ta là những kẻ kế thừa cuộc cách mạng đầu tiên đó .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Let the word go forth from this time and place , to friend and foe alike , that the torch has been passed to a new generation of Americans -- born in this century , tempered by war , disciplined by a hard and bitter peace , proud of our ancient heritage , and unwilling to witness or permit the slow undoing of those human rights to which this nation has always been committed , and to which we are committed today at home and around the world .</s>
+<s id='vn10'>Từ đây hãy cho cả bạn lẫn thù đều biết rằng ngọn đuốc đã chuyền sang tay một thế hệ người Mỹ mới -- thế hệ chào đời trong thế kỷ này , được trui rèn trong khói lửa chiến tranh , được uốn nắn trong một nền hoà bình cam go và cay đắng , một thế hệ tự hào về di sản của tiền nhân để lại , tuyệt đối không muốn chứng kiến hoặc để mặc cho những quyền con người mà xưa nay Hoa Kỳ luôn cam kết thực thi phải bị lụi tàn , những quyền con người mà hôm nay chính chúng ta cũng cam kết thực thi ở Hoa Kỳ và trên toàn thế giới .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Let every nation know , whether it wishes us well or ill , that we shall pay any price , bear any burden , meet any hardship , support any friend , oppose any foe , to assure the survival and the success of liberty .</s>
+<s id='vn11'>Hãy cho mọi quốc gia biết rằng , dù họ có mong chúng ta gặp phúc hay gặp hoạ , chúng ta vẫn phải trả bất cứ giá nào , gánh vác mọi trách nhiệm , chấp nhận mọi gian lao , ủng hộ bất cứ ai là bạn của chúng ta , chống lại bất cứ ai là kẻ thù của chúng ta , cốt sao cho nền tự do luôn trường tồn và gặt hái thành công .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This much we pledge - and more .</s>
+<s id='vn12'>Điều này chúng ta cam kết - và còn hơn thế nữa .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>To those old allies whose cultural and spiritual origins we share , we pledge the loyalty of faithful friends .</s>
+<s id='vn13'>Với những đồng minh xưa nay chung nguồn cội với chúng ta về văn hoá và tinh thần , chúng ta cam kết trung kiên với những người bạn trung kiên ấy .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>United there is little we cannot do in a host of cooperative ventures .</s>
+<s id='vn14'>Đoàn kết thì ít có việc gì chúng ta không làm được khi kề vai sát cánh bên nhau .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Divided there is little we can do - for we dare not meet a powerful challenge at odds and split asunder .</s>
+<s id='vn15'>Chia rẽ thì ít có việc gì chúng ta làm được - bởi chúng ta đâu dám đối mặt với những thách thức to lớn khi đã tan đàn xẻ nghé .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>To those new states whom we welcome to the ranks of the free , we pledge our word that one form of colonial control shall not have passed away merely to be replaced by a far more iron tyranny .</s>
+<s id='vn16'>Với những quốc gia mới đang được chào đón vào thế giới tự do , chúng ta cam đoan rằng chế độ thuộc địa cáo chung không phải là để được thay bằng một chế độ khác tàn bạo sắt đá gấp bội .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>We shall not always expect to find them supporting our view .</s>
+<s id='vn17'>Không phải lúc nào chúng ta cũng mong họ ủng hộ quan điểm của chúng ta .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>But we shall always hope to find them strongly supporting their own freedom and to remember that , in the past , those who foolishly sought power by riding the back of the tiger ended up inside .</s>
+<s id='vn18'>Nhưng lúc nào chúng ta cũng mong họ ủng hộ mạnh mẽ cho nền tự do riêng của họ và đừng quên rằng xưa nay kẻ nào dại dột mưu cầu quyền lực bằng cách leo lên lưng cọp ắt phải có kết cục thê thảm .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>To those people in the huts and villages of half the globe struggling to break the bonds of mass misery , we pledge our best efforts to help them help themselves , for whatever period is required - not because the Communists may be doing it , not because we seek their votes , but because it is right .</s>
+<s id='vn19'>Với những người còn sống trong lều tranh vách đất và làng mạc heo hút ở nửa kia thế giới , những người đang cố phá vỡ xích xiềng của nạn bần cùng , chúng ta cam kết nỗ lực hết sức để giúp họ tự cứu họ , cho dù có mất bao nhiêu thời gian đi nữa - không phải vì có thể là cộng sản đang làm như vậy , không phải vì chúng ta mong họ bỏ phiếu cho chúng ta , mà chỉ vì đó là lẽ phải .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>If a free society cannot help the many who are poor , it cannot save the few who are rich .</s>
+<s id='vn20'>Một xã hội tự do mà không giúp gì được cho số đông nghèo khó thì chẳng mong gì cứu được số ít giàu sang .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>To our sister republics south of our border , we offer a special pledge : to convert our good words into good deeds , in a new alliance for progress , to assist free men and free governments in casting off the chains of poverty .</s>
+<s id='vn21'>Với các nước cộng hoà anh em ở phía nam biên giới của chúng tôi , chúng tôi có một lời cam kết đặc biệt : Chúng tôi sẽ biến lời nói hay thành nghĩa cử đẹp , trong một khối liên minh mới để cùng nhau tiến bộ , sẽ giúp những con người tự do và các chính phủ tự do tháo bỏ xích xiềng của nạn bần cùng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>But this peaceful revolution of hope cannot become the prey of hostile powers .</s>
+<s id='vn22'>Nhưng cuộc cách mạng hoà bình đầy triển vọng này không thể trở thành con mồi của các cường quốc thù địch .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Let all our neighbors know that we shall join with them to oppose aggression or subversion anywhere in the Americas .</s>
+<s id='vn23'>Hãy cho tất cả các nước láng giềng của chúng ta biết chúng ta sẽ sát cánh với họ chống lại mọi cuộc xâm lược hoặc lật đổ ở bất cứ nơi nào trên lãnh thổ Châu Mỹ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>And let every other power know that this hemisphere intends to remain the master of its own house .</s>
+<s id='vn24'>Và hãy cho mọi cường quốc khác biết bán cầu này vẫn muốn làm chủ ngôi nhà riêng của mình .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>To that world assembly of sovereign states , the United Nations , our last best hope in an age where the instruments of war have far outpaced the instruments of peace , we renew our pledge of support - to prevent it from becoming merely a forum for invective , to strengthen its shield of the new and the weak , and to enlarge the area in which its writ may run .</s>
+<s id='vn25'>Với Liên Hiệp Quốc , hiệp hội các quốc gia có chủ quyền trên thế giới , niềm hy vọng tốt nhất và cũng là niềm hy vọng cuối cùng của chúng ta trong thời đại mà các công cụ chiến tranh đã bỏ xa các công cụ hoà bình , chúng ta tiếp tục cam kết ủng hộ - nhằm giữ cho nó không trở thành một diễn đàn để công kích mà thôi , nhằm củng cố lưới bảo vệ những quốc gia mới và yếu , đồng thời mở rộng phạm vi thực hiện các quyết định của nó .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Finally , to those nations who would make themselves our adversary , we offer not a pledge but a request : that both sides begin anew the quest for peace , before the dark powers of destruction unleashed by science engulf all humanity in planned or accidental self-destruction .</s>
+<s id='vn26'>Cuối cùng , với những quốc gia muốn đối chọi với chúng ta , chúng ta không cam kết mà chỉ đề nghị như sau : cả hai bên nên khởi sự tìm kiếm hoà bình một lần nữa , trước khi các thế lực huỷ diệt tàn nhẫn do khoa học tung ra đẩy cả nhân loại này vào cảnh vô tình hay cố ý tự huỷ diệt mình .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>We dare not tempt them with weakness .</s>
+<s id='vn27'>Chúng ta không dám khích họ khi chúng ta còn yếu kém .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>For only when our arms are sufficient beyond doubt can we be certain beyond doubt that they will never be employed .</s>
+<s id='vn28'>Bởi vì chỉ khi chúng ta đủ mạnh thì chắc chắn chúng ta mới tin chắc rằng họ không bao giờ nhảy vào vòng chiến .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>But neither can two great and powerful groups of nations take comfort from our present course -- both sides overburdened by the cost of modern weapons , both rightly alarmed by the steady spread of the deadly atom , yet both racing to alter that uncertain balance of terror that stays the hand of mankind 's final war .</s>
+<s id='vn29'>Nhưng không một ai trong hai nhóm quốc gia hùng mạnh có thể an tâm về đường lối của chúng ta - - cả hai bên đều đuối sức vì chi phí cho vũ khí hiện đai , cả hai đều được cảnh báo đúng mức về tình trạng liên tục triển khai các loại bom nguyên tử giết người , nhưng cả hai vẫn đua nhau làm cho cán cân lực lượng đang bấp bênh phải nghiêng về mình mặc dù có cân bằng lực lượng thì mới ngăn ngừa được cuộc chiến cuối cùng của nhân loại .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>So let us begin anew - remembering on both sides that civility is not a sign of weakness , and sincerity is always subject to proof .</s>
+<s id='vn30'>Vậy chúng ta hãy làm lại từ đầu - cả hai bên đều nên nhớ rằng lịch sự không phải là biểu hiện của sự kém cỏi , nhưng lòng thành tâm phải luôn luôn chứng tỏ bằng hành động .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Let us never negotiate out of fear , but let us never fear to negotiate .</s>
+<s id='vn31'>Đừng bao giờ vì sợ mà phải thương lượng , nhưng cũng đừng bao giờ sợ thương lượng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Let both sides explore what problems unite us instead of belaboring those problems which divide us .</s>
+<s id='vn32'>Hãy để cả hai bên tìm hiểu những vấn đề giúp chúng ta gắn bó với nhau , thay vì loay hoay với những vấn đề gây chia rẽ chúng ta .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Let both sides , for the first time , formulate serious and precise proposals for the inspection and control of arms , and bring the absolute power to destroy other nations under the absolute control of all nations .</s>
+<s id='vn33'>Hãy cho cả hai bên có một lần trình bày những đề nghị chính xác và nghiêm túc về việc thanh tra và kiểm soát vũ khí , đồng thời đặt cái ưu quyền tiêu diệt các quốc gia khác dưới sự kiểm soát tuyệt đối của tất cả các quốc gia .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Let both sides seek to invoke the wonders of science instead of its terrors .</s>
+<s id='vn34'>Hãy để cả hai bên tìm cách khơi dậy những kỳ tích của khoa học thay vì những nỗi kinh hoàng do khoa học gây ra .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Together let us explore the stars , conquer the deserts , eradicate disease , tap the ocean depths , and encourage the arts and commerce .</s>
+<s id='vn35'>Hãy cùng nhau khám phá các vì sao , chinh phục sa mạc , diệt trừ bệnh tật , thám hiểm đại dương sâu thẳm , khuyến khích nghệ thuật và thương mại phát triển .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Let both sides unite to heed , in all corners of the earth , the command of Isaiah - to " undo the heavy burdens , and let the oppressed go free . "</s>
+<s id='vn36'>Hãy để cả hai bên , dù đang ở xó xỉnh nào trên trái đât này , vẫn phải quây quần nhau lắng nghe lời phán truyền của Isaiah - " trút bỏ gánh nặng , và trả tự do cho những kẻ đang bị áp bức . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>And , if a beachhead of cooperation may push back the jungle of suspicion , let both sides join in creating a new endeavor - not a new balance of power , but a new world of law - where the strong are just , and the weak secure , and the peace preserved .</s>
+<s id='vn37'>Và nếu nền tảng hợp tác có thể đẩy lùi bóng tối ngờ vực thì hãy để cả hai bên cùng nhau nỗ lực một lần nữa - không phải một cán cân quyền lực mới , mà là một thế giới pháp quyền mới - thế giới mà quốc gia nào mạnh thì công bằng , quốc gia nào yếu vẫn được an toàn , hoà bình được giữ vững .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>All this will not be finished in the first one hundred days .</s>
+<s id='vn38'>Tất cả những điều này đều không thể hoàn thành trong một trăm ngày đầu tiên .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Nor will it be finished in the first one thousand days ; nor in the life of this Administration ; nor even perhaps in our lifetime on this planet .</s>
+<s id='vn39'>Cũng không thể hoàn thành trong một ngàn ngày đầu tiên , cũng không phải riêng trong nhiệm kỳ của chính phủ này , mà thậm chí suốt cuộc đời chúng ta trên hành tinh này có lẽ cũng chưa làm xong được .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>But let us begin .</s>
+<s id='vn40'>Nhưng chúng ta vẫn cứ bắt đầu .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>In your hands , my fellow citizens , more than mine , will rest the final success or failure of our course .</s>
+<s id='vn41'>Thưa đồng bào , đường lối của chúng tôi cuối cùng sẽ thành công hay thất bại là do ở đồng bào , chứ không phải cá nhân tôi .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Since this country was founded , each generation of Americans has been summoned to give testimony to its national loyalty .</s>
+<s id='vn42'>Từ khi quốc gia này hình thành , mọi thế hệ người Mỹ đều đã được huy động để chứng tỏ lòng trung thành với đất nước .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The graves of young Americans who answered the call to service surround the globe .</s>
+<s id='vn43'>Thế giới này đâu đâu cũng có mộ của những người Mỹ trẻ tuổi từng hăng hái đáp lời kêu gọi phụng sự đất nước .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Now the trumpet summons us again - not as a call to bear arms , though arms we need - not as a call to battle , though embattled we are - but a call to bear the burden of a long twilight struggle , year in and year out , " re joicing in hope ; patient in tribulation , " a struggle against the common enemies of man : tyranny , poverty , disease , and war itself .</s>
+<s id='vn44'>Ngày hôm nay tiếng kèn thúc quân lại giục chúng ta - không phải để cầm súng , mặc dù chúng ta cần phải cầm súng - không phải để chiến đấu , mặc dù chúng ta sẵn sàng chiến đấu - mà để gánh vác một công cuộc tranh đấu trường kỳ và khó phân định , năm này qua năm khác , " vui mừng trong hy vọng ; bền bĩ trong gian khổ , " tranh đấu chống lại kẻ thù chung của nhân loại : nạn bạo ngược , nạn nghèo khổ , bệnh tật , và chiến tranh theo đúng nghĩa của nó .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Can we forge against these enemies a grand and global alliance , North and South , East and West , that can assure a more fruitful life for all mankind ?</s>
+<s id='vn45'>Liệu chúng ta có lập được một liên minh lớn mạnh trên toàn cầu , Bắc và Nam , Đông và Tây , để chống chọi với những kẻ thù này , một liên minh đủ sức bảo đảm cuộc sống tốt đẹp hơn cho nhân loại ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Will you join in that historic effort ?</s>
+<s id='vn46'>Quý vị có cùng tiếp sức vào nỗ lực lịch sử này chăng ?</s>
+</spair>
+<spair id='47'>
+<s id='en47'>In the long history of the world , only a few generations have been granted the role of defending freedom in its hour of maximum danger .</s>
+<s id='vn47'>Trong tiến trình lịch sử lâu đời của thế giới , chỉ có một vài thế hệ được giao cho vai trò bảo vệ nền tự do trong những giây phút gian nguy nhất .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>I do not shrink from this responsibility - I welcome it .</s>
+<s id='vn48'>Tôi không tránh né trách nhiệm này - tôi chào đón nó .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>I do not believe that any of us would exchange places with any other people or any other generation .</s>
+<s id='vn49'>Tôi tin rằng sẽ không có người nào trong chúng ta hoán đổi vị trí với bất cứ ai khác hoặc bất cứ thế hệ nào khác .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The energy , the faith , the devotion which we bring to this endeavor will light our country and all who serve it .</s>
+<s id='vn50'>Nghị lực , niềm tin , lòng tận tâm của chúng ta dành cho nỗ lực này sẽ thắp sáng đất nước chúng ta và soi đường cho tất cả những ai phụng sự đất nước này .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>And the glow from that fire can truly light the world .</s>
+<s id='vn51'>Và ánh sáng lan toả từ ngọn lửa ấy có thể thực sự thắp sáng thế giới này .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>And so , my fellow Americans , ask not what your country can do for you ; ask what you can do for your country .</s>
+<s id='vn52'>Và vì thế , hỡi đồng bào Hoa Kỳ , đừng hỏi Tổ quốc làm được điều gì cho mình mà hãy tự hỏi mình làm được điều gì cho Tổ quốc .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>My fellow citizens of the world , ask not what America will do for you , but what together we can do for the freedom of man .</s>
+<s id='vn53'>Hỡi các công dân trên toàn thế giới , đừng hỏi Hoa Kỳ sẽ làm được điều gì cho quý vị , mà hãy tự hỏi chúng ta có thể cùng nhau làm được điều gì cho quyền tự do của con người .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Finally , whether you are citizens of America or citizens of the world , ask of us here the same high standards of strength and sacrifice which we ask of you .</s>
+<s id='vn54'>Cuối cùng , dù là công dân Hoa Kỳ hay công dân trên thế giới , hãy đòi hỏi ở chúng tôi những tiêu chuẩn cao về phẩm cách và đức hy sinh y như chúng tôi đòi hỏi ở quý vị .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>With a good conscience our only sure reward , with history the final judge of our deeds , let us go forth to lead the land we love , asking His blessing and His help , but knowing that here on earth God 's work must truly be our own .</s>
+<s id='vn55'>Với một lương tâm tốt đẹp tựa như phần thưởng duy nhất mà chắc chắn chúng ta được hưởng và lịch sử sẽ là vị quan toà sau cùng phán xét những gì chúng ta làm , chúng ta hãy mạnh dạn tiến lên dẫn đường cho đất nước thân yêu của chúng ta , hãy cầu xin Chúa ban phúc lành và phù hộ cho chúng ta , nhưng nhớ rằng những việc Chúa làm trên trần gian này chúng ta phải thật sự noi theo .</s>
+</spair>
+</text>
+</doc>

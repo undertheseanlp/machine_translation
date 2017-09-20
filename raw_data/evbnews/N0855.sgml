@@ -1,0 +1,84 @@
+﻿<doc id='N0855'>
+<head>
+<title>US economic data heightens recession fears</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>US economic data heightens recession fears</s>
+<s id='vn1'>Dữ liệu kinh tế Mỹ gia tăng nỗi lo suy thoái</s>
+</spair>
+<spair id='2'>
+<s id='en2'>New data on the US economy , including a huge drop in a regional manufacturing survey , has heightened market fears of a new recession .</s>
+<s id='vn2'>Số liệu mới về kinh tế Mỹ , bao gồm khoản sụt giảm rất lớn trong khảo sát sản xuất khu vực , làm gia tăng nỗi lo sợ trên thị trường về một đợt suy thoái mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The closely-watched guide to manufacturing activity in the mid-Atlantic states slumped to its lowest level since March 2009 .</s>
+<s id='vn3'>Số liệu hướng dẫn được theo dõi sát về hoạt động sản xuất tại các tiểu bang ven biển trung Đại Tây Dương nước Mỹ đã giảm xuống mức thấp nhất kể từ tháng Ba 2009 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Meanwhile , sales in the heavily depressed US housing market fell unexpectedly , despite mortgage rates hitting their lowest level in 50 years .</s>
+<s id='vn4'>Trong khi đó , doanh số của thị trường nhà ở Mỹ bị suy thoái nặng nề đã giảm bất ngờ , cho dù lãi suất vay thế chấp đạt mức thấp nhất trong 50 năm qua .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Unemployment claims also rose sharply .</s>
+<s id='vn5'>Số lượng đơn xin trợ cấp thất nghiệp cũng tăng mạnh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The number of people claiming unemployment benefit ticked up by 9,000 last week , to a seasonally adjusted 408,000 , according to the Department of Labor .</s>
+<s id='vn6'>Theo Bộ Lao Động , số người xin hưởng trợ cấp thất nghiệp tăng 9.000 trong tuần trước , lên mức được điều chỉnh theo giai đoạn là 408.000 người .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The Federal Reserve Bank of Philadelphia 's manufacturing activity index provided the biggest scare .</s>
+<s id='vn7'>Chỉ số hoạt động sản xuất của Ngân Hàng Dự Trữ Liên Bang tại Philadelphia đưa ra số liệu gây lo sợ nhất .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It slumped to -30.7 points in August from +8.2 points in July .</s>
+<s id='vn8'>Chỉ số này giảm xuống - 30,7 điểm vào tháng Tám từ mức +8,2 điểm của tháng Bảy .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Any figure below zero indicates a contraction in the regional manufacturing sector .</s>
+<s id='vn9'>Bất kỳ con số nào dưới 0 đều chỉ sự co giảm trong hoạt động sản xuất của khu vực .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It is now at its lowest level since March 2009 , and Grant Lewis , head of economic research at Daiwa Capital Markets in London , said the Philadelphia index was now " at levels that point towards recession territory " .</s>
+<s id='vn10'>Chỉ số này hiện ở mức thấp nhất kể từ tháng Ba 2009 , và Grant Lewis , trưởng nhóm nghiên cứu tại Daiwa Capital Markets ở Luân Đôn , cho biết chỉ số Philadelphia hiện đang " ở những mức hướng về vùng suy thoái " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The Philadelphia index is the first of the US regional manufacturing surveys to be released and is seen as a leading indicator of the economy .</s>
+<s id='vn11'>Chỉ số Philadelphia là chỉ số đầu tiên của các khảo sát sản xuất khu vực tại Hoa Kỳ được công bố và được xem là chỉ báo hàng đầu của nền kinh tế này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Meanwhile , the US housing market continued to disappoint .</s>
+<s id='vn12'>Trong khi đó , thị trường nhà đất Hoa Kỳ tiếp tục gây thất vọng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Sales of existing homes in the US during July fell 3.5 % from a month earlier , according to the National Association of Realtors .</s>
+<s id='vn13'>Theo Hiệp Hội Kinh Doanh Bất Động Sản Quốc Gia , doanh số mua bán nhà hiện tại ở Mỹ trong tháng Bảy giảm 3,5% so với tháng trước đó .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The stock of unsold houses rose to the equivalent of 9.4 months worth of supply , which analysts say is likely to put further downward pressure on house prices .</s>
+<s id='vn14'>Lượng nhà chưa bán tồn trữ tăng lên mức tương đương 9,4 tháng cung cấp , mức mà các nhà phân tích cho biết có nhiều khả năng tăng thêm sức ép suy thoái lên giá nhà .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>There was some good news for the housing market , with average interest rates on 30-year mortgages falling to a record low of 4.15 % over the past week , according to the US government home loans agency Freddie Mac .</s>
+<s id='vn15'>Theo Freddie Mac , cơ quan cho vay mua nhà của chính phủ Mỹ , có vài tin tốt lành cho thị trường nhà đất , lãi suất bình quân cho các khoản thế chấp 30 năm giảm xuống mức thấp kỷ lục 4,15% trong tuần trước .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Nonetheless , the string of bad economic data contributed to a slump in global stock markets on Wednesday .</s>
+<s id='vn16'>Tuy nhiên , hàng loạt số liệu kinh tế đáng buồn góp phần vào đà giảm mạnh của thị trường chứng khoán toàn cầu vào hôm thứ Tư .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Mr Lewis of Daiwa added that markets were now looking to Federal Reserve chairman Ben Bernanke 's speech next week at the US central bank 's annual meeting in Jackson Hole , Wyoming , for signs of the bank agreeing to additional quantitative easing .</s>
+<s id='vn17'>Ông Lewis của Daiwa nói thêm các thị trường giờ đang hướng về bài phát biểu vào tuần tới của thống đốc Cục Dữ Trự Liên Bang Ben Bernanke trong cuộc họp thường niên của ngân hàng trung ương Mỹ tại Jackson Hole , bang Wyoming , để chờ tín hiệu của ngân hàng này đồng ý biện pháp nới lỏng định lượng bổ sung .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Under QE , central banks pump new money into the financial system to try to boost the economy .</s>
+<s id='vn18'>Theo biện pháp nới lỏng định lượng , các ngân hàng trung ương bơm thêm tiền vào hệ thống tài chính để cố thúc đẩy nền kinh tế .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,520 @@
+﻿<doc id='N0308'>
+<head>
+<title>Methods of acupuncture</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Methods of acupuncture</s>
+<s id='vn1'>Phương pháp châm cứu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The word " Acupuncture " is derived from two Latin words " acus " which means ' needle ' and " punctura " which means 'to penetrate ' .</s>
+<s id='vn2'>Thuật ngữ " châm cứu " có nguồn gốc từ 2 từ Latinh " acus " có nghĩa là " kim " và " punctura " nghĩa là " đâm thủng hoặc đâm vào " .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>" Acupuncture " therefore means , " to penetrate with a needle " .</s>
+<s id='vn3'>" Châm cứu " có nghĩa là " dùng kim để đâm " .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In acupuncture very thin needles , slightly thicker than a human hair , are inserted into acupuncture points .</s>
+<s id='vn4'>Người ta dùng những cây kim rất mỏng , hơi dày hơn tóc người một chút để đâm vào các huyệt châm cứu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The objective of acupuncture as explained earlier is to regulate and normalize the flow , so that the Yin and the Yang return to a state of dynamic equilibrium .</s>
+<s id='vn5'>Như đã giải thích từ trước thì mục đích của thuật châm cứu là để điều hoà và làm cho khí hoạt động bình thường , sao cho âm dương được cân bằng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Acupuncture aims to relieve symptoms by curing the disease .</s>
+<s id='vn6'>Bên cạnh đó thì châm cứu cũng là phương pháp để làm giảm các triệu chứng bằng cách chữa lành bệnh tật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>It is possible for an acupuncturist to treat the symptoms of various diseases very effectively ; for example a pain in the back can be relieved in minutes .</s>
+<s id='vn7'>Chuyên viên châm cứu có thể chữa dứt các triệu chứng của rất nhiều chứng bệnh khác nhau một cách có hiệu quả ; chẳng hạn làm giảm đau lưng trong nháy mắt .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>However a mere symptomatic treatment , which just removes the symptoms .</s>
+<s id='vn8'>Tuy nhiên chỉ là sự điều trị triệu chứng đơn thuần , làm giảm hết các triệu chứng mà thôi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The acupuncturist should treat the fundamental cause of the illness and as the cure progresses the symptoms disappear on their own .</s>
+<s id='vn9'>Chuyên viên châm cứu nên chữa dứt nguyên nhân gây bệnh từ gốc và khi quá trình điều trị đáp ứng tốt các triệu chứng sẽ nhanh chóng biến mất .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Of course it often takes a great deal of skill to find the true cause of some illnesses !</s>
+<s id='vn10'>Tất nhiên việc này đòi hỏi nhiều kỹ năng và tay nghề giỏi để tìm ra nguyên nhân chính gây bệnh !</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The choice of acupuncture points to be used is the most crucial part of the treatment .</s>
+<s id='vn11'>Lựa chọn và tìm huyệt châm cứu là phần quan trọng nhất trong công việc điều trị .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The acupuncturist must know the function of each acupuncture point and its interaction with other acupuncture points .</s>
+<s id='vn12'>Chuyên viên châm cứu phải biết chức năng của mỗi huyệt châm cứu và những tương tác với các huyệt châm cứu khác .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He can then plan the treatment to eliminate obstructions in the flow of Chi and to balance the Yin and Yang .</s>
+<s id='vn13'>Người ta có thể phác thảo kế hoạch điều trị nhằm làm thông khí và cân bằng âm dương .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>After the acupuncturist has examined the patient and reached a diagnosis , decides how the patient should be treated .</s>
+<s id='vn14'>Sau khi khám cho bệnh nhân và chẩn đoán xong , chuyên viên châm cứu sẽ xem xét nên điều trị cho bệnh nhân như thế nào .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>An experienced acupuncturist uses as few needles as possible to balance the energy flows .</s>
+<s id='vn15'>Chuyên viên châm cứu có kinh nghiệm sử dụng càng ít kim châm càng tốt để giữ cân bằng luồng năng lượng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>In contrast , a novice may use many needles and still be unable to balance the energy flows .</s>
+<s id='vn16'>Ngược lại , người chưa có kinh nghiệm có thể dùng nhiều kim và vẫn không làm cân bằng luồng năng lượng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Most patients need ten to fifteen needles for each treatment , but sometimes only a single needle may be enough .</s>
+<s id='vn17'>Hầu hết bệnh nhân cần 10 đến 15 kim trong mỗi lần điều trị , nhưng đôi khi chỉ cần 1 kim là đủ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>While treating a frozen shoulder , a single needle is inserted into the leg and then twirled .</s>
+<s id='vn18'>Để chữa chứng vai tê cứng , 1 kim châm vào cẳng chân và xoay vòng kim .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In a few minutes , a shoulder that has been immobile for up to three months moves freely without pain .</s>
+<s id='vn19'>Vài phút sau , người bị vai tê cứng không cử động được 3 tháng cử động thoải mái mà không đau đớn gì cả .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Though cartoonists are fond of drawing patients with needles stuck all over them , actually only a few needles are used for each patient .</s>
+<s id='vn20'>Mặc dù trong tranh biếm hoạ , bệnh nhân có rất nhiều kim , nhưng thực ra một người bệnh chỉ cần một vài kim châm là đủ rồi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>the tools of an acupuncturlst - needles</s>
+<s id='vn21'>Công cụ của chuyên viên châm cứu - kim châm cứu</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The earliest acupuncture implements were sharp pieces of bone or flint in the shape of arrowheads called Bian stones .</s>
+<s id='vn22'>Thuật châm cứu đầu tiên sử dụng những mẩu xương sắc nhọn hoặc đá lửa có hình mũi tên nhọn có tên là đá Bian .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Their use was limited because of their size , shape and they were used to prick acupuncture points .</s>
+<s id='vn23'>Những vật châm cứu này rất hạn chế vì kích cỡ , hình dáng và thường dùng để đâm vào huyệt châm cứu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Later , sharp pieces of pottery were used for this purpose .</s>
+<s id='vn24'>Về sau , người ta sử dụng các mẩu gốm sắc để thay thế cho xương và đá lửa .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>As time went on , the Chinese refined this process eventually using needles to stimulate acupuncture points .</s>
+<s id='vn25'>Theo thời gian , Trung Quốc đã cải tiến hơn quá trình này bằng cách dùng kim để kích thích huyệt châm cứu .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Early acupuncture needles were made from bamboo and bone and as they were rather thick , their insertion was painful .</s>
+<s id='vn26'>Kim châm cứu ban đầu được làm bằng tre và xương và vì chúng khá dày , bệnh nhân rất đau khi châm cứu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>In spite of there being no knowledge of sterilization before the 19th century , it is surprising to note that infection rarely occurred with acupuncture .</s>
+<s id='vn27'>Mặc dù chưa có khái niệm , chưa hiểu biết về việc khử trùng vào trước thế kỉ thứ 19 , điều đáng ngạc nhiên là hiếm khi người ta bị nhiễm trùng do châm cứu .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This is because acupuncture stimulates the immune system enhancing the body 's protective mechanisms .</s>
+<s id='vn28'>Điều này là do châm cứu làm kích thích hệ miễn dịch làm tăng cơ chế bảo vệ cơ thể .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>With the advent of the Iron Age and the Bronze Age the next type of needles to be developed were metal needles .</s>
+<s id='vn29'>Cùng với sự xuất hiện của thời kỳ đồ sắt và đồ đồng loại kim châm cứu mới cũng được phát triển hơn đó là kim làm bằng kim loại .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>As the art of metallurgy progressed , different types of needles were made .</s>
+<s id='vn30'>Khi nghệ thuật luyện kim được cải tiến , nhiều loại kim khác nhau cũng ra đời .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Early needles were made from iron , copper , silver and gold .</s>
+<s id='vn31'>Những cây kim ban đầu được làm bằng sắt , đồng , bạc và vàng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>At the time when the " Neiching " was written , there were nine different types of acupuncture needles in use .</s>
+<s id='vn32'>Vào thời mà cuốn sách " Nội Kinh " được xuất bản , người ta đã sử dụng 9 loại kim châm cứu khác nhau .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>These were similar to present day needles .</s>
+<s id='vn33'>Những cây kim ấy cũng tương tự như kim thời nay .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Very thin , fine needles were used for routine treatment .</s>
+<s id='vn34'>Kim rất mỏng , sắc được dùng để điều trị hằng ngày ; .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Arrowhead needles were used to prick the points .</s>
+<s id='vn35'>Kim có đầu mũi tên nhọn dùng để đâm vào huyệt ; .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Blunt and round needles were used for acupressure .</s>
+<s id='vn36'>Kim cùn và tròn để bấm huyệt ; .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Scalpel like needles were used for cutting boils , abscesses .</s>
+<s id='vn37'>Kim giống dao mổ dùng để rạch mổ các nhọt , đinh và các chỗ áp-xe ; .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Larger and heavier needles were available for insertion into joints and when the acupuncture points lay deep below the skin , longer needles were used .</s>
+<s id='vn38'>Những kim lớn hơn và nặng hơn dùng để đâm vào các khớp và khi các huyệt châm cứu nằm sâu bên dưới da , người ta sử dụng kim dài hơn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Small thumbtacks shaped needles were used for insertion at ear acupuncture points when prolonged stimulation was required .</s>
+<s id='vn39'>Kim có hình dạng đinh bấm nhỏ được dùng để châm cứu vào các huyệt ở tai khi cần kích thích kéo dài .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Three-sided needles were used to bleed the patient in cases of coma and high fever .</s>
+<s id='vn40'>Người ta dùng kim 3 khía để chích cho bệnh nhân chảy máu trong trường hợp bệnh nhân bị hôn mê hoặc sốt cao .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>The drawing of a few drops of blood from certain acupuncture points can bring down high fever , stop convulsions and restore consciousness in a matter of minutes without any other treatment .</s>
+<s id='vn41'>Việc làm chảy một vài giọt máu ở một số huyệt châm cứu nào đó cũng có thể giúp giảm sốt cao , hết chứng co giật và làm bệnh nhân tỉnh lại trong chừng vài phút mà không cần phải chữa trị gì khác .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Finally there were the plum blossom needles also called the seven star needles which was used to tap the skin over acupuncture points .</s>
+<s id='vn42'>Cuối cùng là kim hình hoa mận hoặc kim 7 khía dùng để chích các huyệt châm cứu trên da .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>This was mainly used to treat skin diseases , children , old people and patients who were afraid of needles .</s>
+<s id='vn43'>Loại kim 7 khía này thường để chữa các bệnh về da đối với trẻ con , người lớn tuổi và những bệnh nhân sợ kim tiêm .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>These needles were in widespread use for thousands of years until the early years of the 20th century , when the invention of stainless steel revolutionized the art of acupuncture .</s>
+<s id='vn44'>Những loại kim này đã được sử dụng rộng rãi hàng ngàn năm nay cho đến những năm đầu của thế kỷ 20 , sự phát minh thép chống gỉ ra đời đã làm một cuộc cách mạng tất cả nghệ thuật châm cứu .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Some acupuncturists claim that needles made from silver or gold have special therapeutic properties .</s>
+<s id='vn45'>Một số chuyên viên châm cứu khẳng định kim được làm bằng bạc hoặc bằng vàng đều có tính năng trị liệu đặc biệt .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Needles made from sliver and gold are expensive and so are often resharpened , straightened and reused .</s>
+<s id='vn46'>Kim được làm bằng bạc và vàng thường mắc tiền và vì vậy cũng thường được làm sắc , làm thẳng trở lại và tái sử dụng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Unfortunately , the process of sharpening needles is laborious and time consuming and it is rarely possible to get as sharp a point as on a stainless steel needle .</s>
+<s id='vn47'>Đáng tiếc , quá trình làm sắc kim rất khó nhọc và tốn rất nhiều thời gian và hiếm khi đâm vào huyệt châm cứu tốt như kim thép chống gỉ .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>In my experience needles made from stainless steel are as effective in therapy as needles made from any other material .</s>
+<s id='vn48'>Theo kinh nghiệm tôi thấy kim được làm bằng thép chống gỉ có hiệu quả trị bệnh như kim được làm bằng bất kỳ chất liệu nào khác .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Needles made from two metals act as a thermocouple , and generate a small electric current .</s>
+<s id='vn49'>Những cây kim được làm bằng 2 kim loại có tác dụng như một cặp nhiệt điện , và thường tạo ra dòng điện nhỏ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>So the handles of some acupuncture needles are made from metals like copper , silver and gold with the needle itself being made from stainless steel .</s>
+<s id='vn50'>Vì thế cán của một số kim châm cứu được làm bằng các kim loại như đồng , bạc và vàng và thân kim được làm bằng thép chống gỉ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Needle handles made with copper and silver get oxidized during use and storage , which reduces their electrical conductivity making them unsuitable for electrical stimulation .</s>
+<s id='vn51'>Cán kim làm bằng đồng và bạc thường bị ô-xy hoá trong quá trình sử dụng và bảo quản , có thể làm mất khả năng dẫn điện dẫn đến không kích thích điện .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Treatment by acupuncture : pain or pain relief ?</s>
+<s id='vn52'>Điều trị bằng thuật châm cứu : Đau hay giảm đau ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>An average acupuncture needle is slightly thicker than human hair and its insertion is virtually painless .</s>
+<s id='vn53'>Kim châm cứu trung bình hơi dày hơn tóc người và hầu như việc châm cứu là không đau đớn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Many patients are dissuaded from trying acupuncture by the pictures they see of acupuncture where long , thick needles are inserted into the patient .</s>
+<s id='vn54'>Nhiều bệnh nhân cảm thấy kinh hãi không muốn châm cứu khi nhìn thấy những bức ảnh đầy kim dài , dày trên thân thể người bệnh .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>This has given rise to the misconception that acupuncture is painful .</s>
+<s id='vn55'>Điều này làm cho người ta có quan niệm sai lầm về thuật châm cứu là rất đau .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>This misconception also arises from the belief that acupuncture needles are similar to injection needles .</s>
+<s id='vn56'>Quan niệm sai lầm này cũng bắt nguồn từ chỗ người ta nghĩ rằng kim châm cứu cũng tương tự giống như kim tiêm .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>There are several fundamental differences between acupuncture needles and hypodermic needles used for giving an injection .</s>
+<s id='vn57'>Có một vài sự khác biệt chính giữa kim châm cứu và kim tiêm dưới da dùng để tiêm thuốc .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Normal acupuncture needles are so thin that they cannot be seen in a picture or on television .</s>
+<s id='vn58'>Kim châm cứu bình thường rất mỏng đến nỗi người ta khó có thể thấy được trong hình hoặc trên ti vi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The needles used for demonstration are far thicker than those used for acupuncture .</s>
+<s id='vn59'>Những cây kim dùng để minh hoạ dày hơn nhiều so với những cây kim dùng để châm cứu .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>As you know , a silver needle slightly thicker than a human hair is hard to see .</s>
+<s id='vn60'>Như bạn biết , kim bằng bạc hơi dày hơn tóc người rất khó nhìn thấy được .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>An acupuncture needle is very thin , ranging from 0.16 mm to 0.38 mm in thickness , while injection needles range from 0.6 mm to 2 mm ( in blood transfusion needles ) .</s>
+<s id='vn61'>Kim châm cứu rất mỏng , có bề dày thường dao động trong khoảng từ 0.16 mm đến 0.38 mm , trong khi kim tiêm thường dày từ 0.6 đến 2 mm ( đối với kim truyền máu ) .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The tip of an acupuncture needle is conical , which allows it to penetrate the tissues separating the fibres of the muscle , without causing damage .</s>
+<s id='vn62'>Đầu kim châm cứu có hình nón , có thể giúp cho việc đâm vào các mô được dễ dàng và tách biệt các sợi cơ , không gây tổn hại .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Similarly on removing the needle the separated fibres close smoothly around the needle , preventing bleeding .</s>
+<s id='vn63'>Tương tự như việc rút kim ra khỏi các sợi cơ khác gần chỗ kim trở nên nhẹ nhàng không làm chảy máu .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>A hypodermic needle in contrast , has a sharp edge and its insertion cuts out a small cylinder .</s>
+<s id='vn64'>Ngược lại , kim tiêm dưới da có gờ sắc và khi tiêm vào da , nó cắt tế bào hình trụ .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>This fact is used for carrying out a needle biopsy to diagnose cancer .</s>
+<s id='vn65'>Điều này cũng thấy trong việc dùng kim sinh thiết để chẩn đoán ung thư .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>A hypodermic needle also has a hole which a liquid is forced while giving the injection .</s>
+<s id='vn66'>Kim tiêm dưới da còn có lỗ để chất lỏng hay dịch truyền có thể đi qua được khi tiêm .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>The forcing of the medicine into a closed space also causes pain .</s>
+<s id='vn67'>Thuốc tiêm vào làm ép lên các tế bào trên bề mặt da kín cũng làm cho người ta đau đớn .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>In acupuncture , no injected into the body and as the needle does not have a cavity in the middle , it is much thinner than a hypodermic needle .</s>
+<s id='vn68'>Trong thuật châm cứu , người ta chẳng tiêm vào cơ thể cả vì kim châm cứu không có lỗ khoang bên trong kim , kim châm cứu mỏng hơn nhiều so với kim tiêm dưới da .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The sensation felt when an acupuncture is very different from the sensation felt when a hypodermic .</s>
+<s id='vn69'>Cảm giác khi châm cứu cũng khác xa với cảm giác khi tiêm thuốc .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>In contrast to an injection , an acupuncture needle produces its effect by altering the energy flow inside the body .</s>
+<s id='vn70'>Không giống như tiêm thuốc , kim châm cứu gây ảnh hưởng bằng cách làm thay đổi luồng năng lượng bên trong cơ thể .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Acupuncture needles come in various sizes and thicknesses ranging from two millimeters to ten centimeters in length .</s>
+<s id='vn71'>Kim châm cứu có nhiều kích cỡ và nhiều độ dày , chiều dài thường dao động từ 2mm đến 10 cm .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>The handles are one to three centimeters long .</s>
+<s id='vn72'>Cán kim dài từ 1 đến 3 cm .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>The longest needles are used on fat people in areas where there is thick muscle and a lot of fat , like the buttocks and hips .</s>
+<s id='vn73'>Những cây kim dài nhất được dùng cho người mập ở những vùng có cơ dày và nhiều mỡ , như mông và hai bên hông .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>On the forehead , hands and face , only the tip of the needle is inserted .</s>
+<s id='vn74'>Chỉ phần đầu của kim được đâm vào các huyệt châm cứu trên trán , tay và mặt .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>The insertion of the needle from one millimeter to about ten centimeters depending on the depth of the acupuncture point to be treated .</s>
+<s id='vn75'>Tuỳ vào cách châm cứu huyệt sâu bao nhiêu có thể đâm kim vào huyệt từ 1mm đến khoảng 10cm .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Moxibuxtion</s>
+<s id='vn76'>Liệu pháp moxibuxtion</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Acupuncture points are also stimulated by burning a herb called " moxa " over the point .</s>
+<s id='vn77'>Người ta cũng có thể kích thích các huyệt châm cứu bằng cách hơ một loại thảo dược có tên là " ngải cứu " lên huyệt .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>The name " moxa " is derived from its Japanese name Mogusa .</s>
+<s id='vn78'>Tên gọi " ngải cứu " bắt nguồn từ tên Mogusa của Nhật .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The botanical name of the herb is Artemis Vulgaris commonly known as Mugwort .</s>
+<s id='vn79'>Tên thực vật học của loại thảo dược là Artemis Vulgaris thường gọi là Mugwort .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Before use , this herb is processed into moxawool by grinding the dry leaves of this plant into a fine wool .</s>
+<s id='vn80'>Trước khi dùng , loại cây này được làm thành sợi bằng cách xay nghiền lá khô thành sợi tơ mịn .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>When the moxa is burnt , the smoke has a characteristic odour that is similar to the smell of hashish .</s>
+<s id='vn81'>Khi ngải cứu bị đốt nóng , khói có mùi rất đặc trưng giống như mùi của cây hasit .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Moxa is used in two ways , either directly on the skin or indirectly through a needle , garlic , salt and ginger .</s>
+<s id='vn82'>Ngải cứu được dùng theo 2 cách , dùng trực tiếp lên da hoặc gián tiếp bằng kim , tỏi , muối và gừng .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Direct moxibuxtion is carried out with a smouldering cigar of moxa , which is used to warm the acupuncture point from a distance of one centimeter .</s>
+<s id='vn83'>ngải cứu trực tiếp người ta quấn ngải cứu thành điều xì gà rồi đốt để hơ nóng cách 1 cm lên chỗ huyệt châm cứu .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>In indirect moxibuxtion a slice of ginger , or garlic is placed over the acupuncture point .</s>
+<s id='vn84'>Đối với sử dụng ngải cứu gián tiếp , xắt lát gừng hoặc tỏi để lên chỗ huyệt châm cứu .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>The moxa is then placed on it and ignited .</s>
+<s id='vn85'>Ngải cứu được đặt lên đó rồi hơ nóng .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Another method is to place a small ball of Moxawool on the head of an acupuncture needle .</s>
+<s id='vn86'>Một phương pháp khác là đặt một búi tơ ngải cứu lên đầu kim châm cứu , .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>In a patient with severe pain in the abdomen , coma or shock the navel is filled with salt and a small ball of moxa is lit over it .</s>
+<s id='vn87'>Trường hợp bệnh nhân bị đau bụng dữ dội , hôn mê hoặc sốc thì cho vào rốn một búi tơ ngải cứu nhỏ kèm với muối và hơ nóng ở đó .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>This can revive a patient within a few minutes !</s>
+<s id='vn88'>Các triệu chứng bệnh sẽ khỏi trong một vài phút !</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Moxa disperses the cold and so is used in the treatment of diseases like arthritis , and bronchitis , caused by wind and cold .</s>
+<s id='vn89'>Ngải cứu có thể chữa dứt bệnh cảm lạnh và vì vậy ngải cứu cũng được dùng để chữa nhiều bệnh như viêm khớp , và viêm phế quản do gió và cảm lạnh .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Moxibuxtion is used to treat chronic bronchitis , bronchial asthma , chronic diarrhoea , arthritis and some conditions where there has been an inadequate response to acupuncture .</s>
+<s id='vn90'>Người ta cũng dùng ngải cứu để chữa viêm phế quản mãn tính , suyễn cuống phổi , tiêu chảy mãn tính , viêm khớp và một số bệnh khác không châm cứu .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Many other substances have been tried as alternatives to moxa , but it appears that none of these alternatives are as effective as moxa in healing .</s>
+<s id='vn91'>Nhiều chất khác cũng được dùng làm chất thay thế cho ngải cứu nhưng có vẻ như chẳng có chất thay thế nào có hiệu quả như ngải cứu trong việc chữa lành bệnh tật .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Cupping</s>
+<s id='vn92'>Giác hơi</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Another means of eliminating cold is cupping .</s>
+<s id='vn93'>Một phương pháp khác để chữa cảm lạnh là giác hơi .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>A glass or a plastic cup is placed on the thigh or the chest , after a burning paper .</s>
+<s id='vn94'>một chén bằng thuỷ tinh hoặc nhựa dẻo chụp lên đùi hoặc ngực , sau khi đã hơ nóng trong chén bằng giấy đốt .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>This creates a vacuum , which makes the cup stick to the skin .</s>
+<s id='vn95'>Phương pháp này tạo chân không , làm chén dính chặt vào da .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>After a few minutes , the cup slips off the skin , leaving faint red marks .</s>
+<s id='vn96'>Sau vài phút , người ta bỏ chén ra , trên da còn lại nhiều vết đỏ mờ .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>This is quite useful in treating bronchitis and fib rositis .</s>
+<s id='vn97'>Giác hơi cũng khá hữu ích trong việc chữa lành bệnh viêm phế quản và viêm xơ .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>This acts by increasing the flow of blood to the area being treated .</s>
+<s id='vn98'>Việc làm này làm tăng lưu thông máu đến vùng được giác .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>techniques of treatment</s>
+<s id='vn99'>Các kỹ thuật điều trị</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Patients will see that the acupuncturist uses different techniques of insertion of needles and different methods of stimulation of the needles at different stages in the treatment .</s>
+<s id='vn100'>Bệnh nhân sẽ phát hiện ra nhiều chuyên viên châm cứu sửu dụng nhiều kỹ thuật để châm kim khác nhau và nhiều phương pháp để kích thích kim ở từng giai đoạn điều trị khác nhau .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>This is because each patient requires an individual form of treatment that will vary from sitting to sitting .</s>
+<s id='vn101'>Đó là vì mỗi bệnh nhân đòi hỏi một hình thức điều trị riêng thay đổi liên tục .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The patient will also find that the acupuncturist may insert needles in different acupuncture points each time .</s>
+<s id='vn102'>Bên cạnh đó bệnh nhân còn có thể phát hiện ra người châm cứu có thể châm cứu mỗi lần ở các huyệt khác nhau .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>This is because an acupuncture point used too often loses its sensitivity and is not as effective as it was earlier .</s>
+<s id='vn103'>Đó là vì nếu châm cứu ở một huyệt nào đó thường xuyên ở đó sẽ mất đi độ nhạy và không đạt hiệu quả như lúc đầu nữa .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>When a patient is treated every day , he is given a course of eight to ten treatments .</s>
+<s id='vn104'>Khi bệnh nhân cần được châm cứu mỗi ngày , khoảng thời gian châm cứu sẽ từ 8 đến 10 lần điều trị .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>He is then given a break for a week to allow the acupuncture points to regain their sensitivity .</s>
+<s id='vn105'>Sau đó người bệnh được nghỉ 1 tuần để các huyệt châm cứu có thể phục hồi lại độ nhạy của mình .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>If a patient requires continuous treatment , the acupuncture points used are rotated to allow the points that have been used to regain their sensitivity .</s>
+<s id='vn106'>Nếu bệnh nhân cần phải châm cứu liên tục , các huyệt châm cứu sẽ được luân phiên nhau để chúng có thể phục hồi lại được độ nhạy .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>If a patient is treated on alternate days or once or twice a week , there is no need for a break between treatments .</s>
+<s id='vn107'>Nếu bệnh nhân được điều trị cách 1 ngày nghỉ 1 ngày hoặc một hoặc 2 lần 1 tuần thì chẳng cần phải có thời gian nghỉ giữa các đợt điều trị .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>The course of treatment is decided after assessing each individual 's requirements so that he receives the maximum benefit .</s>
+<s id='vn108'>Khoảng thời gian điều trị sẽ được quyết định sau khi biết được yêu cầu của từng đợt điều trị riêng lẻ sao cho sức khỏe người bệnh được cải thiện tốt nhất .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>I normally treat a patient daily , until he starts to improve .</s>
+<s id='vn109'>Tôi thường điều trị cho bệnh nhân mỗi ngày , cho đến khi bệnh nhân bắt đầu hồi phục .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The frequency of the treatment is then reduced to three times a week , then to twice and finally to once .</s>
+<s id='vn110'>Tần số điều trị giảm xuống còn 3 lần một tuần , rồi 2 lần và cuối cùng là 1 lần .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>The patient is asked to return to reassessment four to six weeks after completion of treatment .</s>
+<s id='vn111'>Bệnh nhân được yêu cầu trở lại tái khám sau khi chấm dứt đợt điều trị từ 4 đến 6 tuần .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Most patients have multiple problems that are interrelated .</s>
+<s id='vn112'>Hầu hết bệnh nhân thường gặp nhiều vấn đề liên quan với nhau .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Acupuncture treats the whole person and all his ailments are attended to .</s>
+<s id='vn113'>Thuật châm cứu điều trị toàn thân và tất cả các chứng bệnh khác nữa .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Even though there are numerous instances of quick and miraculous cures , some ailments do respond slower than others .</s>
+<s id='vn114'>Mặc dù có rất nhiều trường hợp khỏi bệnh rất nhanh và kỳ diệu , một số bệnh chậm lành hơn so với các chứng bệnh khác .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>The patient should not disheartened if he finds that some of his problems take longer to respond than others .</s>
+<s id='vn115'>Bệnh nhân không nên nản lòng khi thấy một vài chứng bệnh của mình lâu lành hơn những bệnh khác .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>A cure requires a balancing of the energy flow that maybe a slow process .</s>
+<s id='vn116'>Phương pháp chữa bệnh đòi hỏi sự cân bằng luồng khí có thể rất lâu dài .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>In long standing ailments the response to treatment is slow , as the energy flows that have been disturbed for many years can take time to return to normal .</s>
+<s id='vn117'>Đối với những chứng bệnh đã lâu đời , thời gian điều trị cũng lâu , bởi luồng khí bị rối loạn lâu năm có thể cần thời gian lâu dài mới trở lại bình thường được .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>There are many methods used in acupuncture .</s>
+<s id='vn118'>Có rất nhiều phương pháp châm cứu .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>The needles maybe inserted for a few seconds and taken out immediately .</s>
+<s id='vn119'>có thể châm kim vào huyệt một vài giây và rút kim ra ngay tức khắc .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>They maybe inserted , manipulated for a minute or two and removed or they may be left in for fifteen to thirty minutes without any stimulation .</s>
+<s id='vn120'>Người ta cũng có thể châm kim , thao tác một vài phút rồi mới rút kim ra hoặc có thể giữ kim trong vòng 15 đến 30 phút mà không kích thích gì nơi đó .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>The needles may be inserted and stimulated periodically by hand or with a small battery operated electrical stimulator , which electrically vibrates the needles .</s>
+<s id='vn121'>Kim có thể được châm và kích thích đều đặn bằng tay hoặc bằng máy kích thích điện hoạt động bằng pin tiểu , có tác dụng kích thích kim rung bằng dòng diện .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Each of these methods is used on different patients depending on the diagnosis that the acupuncturist makes .</s>
+<s id='vn122'>Mỗi bệnh nhân cần một phương pháp châm cứu khác nhau , tuỳ thuộc vào chẩn đoán của chuyên viên châm cứu .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Chinese acupuncturists even leave the acupuncture needles until they fall out .</s>
+<s id='vn123'>Các nhà châm cứu Trung Quốc thậm chí còn để cho kim châm cứu tự rơi ra .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>This can be a time consuming process !</s>
+<s id='vn124'>Đây chắc có lẽ là một quá trình châm cứu hết sức lâu dài tốn thời gian !</s>
+</spair>
+<spair id='125'>
+<s id='en125'>There are many other methods of stimulating acupuncture points .</s>
+<s id='vn125'>Có nhiều phương pháp khác dùng để kích thích các huyệt châm cứu .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>These include electrical stimulation , electric conducting pads are placed over the skin and a low frequency electric current is passed through .</s>
+<s id='vn126'>Nó bao gồm kích thích điện , miếng lót dẫn điện đặt trên da và dòng điện tần số thấp đi qua .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Acupuncture points may also be stimulated with pressure , lasers , ultrasound or with audible sound .</s>
+<s id='vn127'>Các huyệt châm cứu cũng có thể được kích thích bằng áp suất , tia la-ze , siêu âm hoặc âm thanh có thể nghe được .</s>
+</spair>
+</text>
+</doc>

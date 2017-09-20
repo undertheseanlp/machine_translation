@@ -1,0 +1,88 @@
+﻿<doc id='N0691'>
+<head>
+<title>The Flying Dutchman</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Flying Dutchman</s>
+<s id='vn1'>Con tàu Flying Dutchman</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The Flying Dutchman is a legendary cursed ship that was doomed to travel around the Cape of Good Hope in South Africa for all eternity .</s>
+<s id='vn2'>Flying Dutchman là một con tàu huyền thoại bị nguyền rủa lang bạt khắp Mũi Hảo Vọng ở Nam Phi vĩnh viễn .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It was made famous in the movie Pirates of the Caribbean .</s>
+<s id='vn3'>Nó trở nên nổi tiếng trong bộ phim Cướp biển vùng Ca-ri-bê .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The legend of The Flying Dutchman started in 1641 when a Dutch ship sank off the coast of the Cape of Good Hope .</s>
+<s id='vn4'>Huyền thoại về Flying Dutchman bắt đầu vào 1641 khi một tàu Hà Lan bị đắm ngoài khơi Mũi Hảo Vọng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The captain , VanderDecken , failed to notice the dark clouds looming and only when he heard the lookout scream out in terror did he realise that they had sailed straight into a fierce storm .</s>
+<s id='vn5'>Thuyền trưởng VanderDecken không nhìn thấy đám mây đen hiện ra lờ mờ và chỉ khi nghe người canh gác thét lên khiếp sợ ông mới nhận ra rằng con tàu đã rơi vào một cơn bão hung tợn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The captain and his crew battled for hours to get out of the storm and at one stage it looked like they would make it .</s>
+<s id='vn6'>Thuyền trưởng và thuỷ thủ đoàn của ông chống chọi hằng giờ liền để thoát khỏi cơn bão và vào lúc nào đó có vẻ như họ đã chiến thắng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Then they heard a sickening crunch - the ship had hit treacherous rocks and began to sink .</s>
+<s id='vn7'>Sau đó họ nghe thấy âm thanh gãy răng rắc kinh tởm - con tàu va phải tảng đá ngầm và bắt đầu chìm xuống biển .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>As the ship plunged downwards , Captain VanderDecken knew that death was approaching .</s>
+<s id='vn8'>Lúc con tàu từ từ chìm xuống , Thuyền trưởng VanderDecken biết là cái chết đang đến gần .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He was not ready to die and screamed out a curse : " I WILL round this Cape even if I have to keep sailing until the end of time ! "</s>
+<s id='vn9'>Ông không cam lòng chịu chết nên đã thét lên một lời nguyền : " Ta SẼ lang bạt quanh khu vực này dù có phải lái con tàu cho đến tận thiên thu ! "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>So , even today whenever a storm brews off the Cape of Good Hope , if you look into the eye of the storm , you will be able to see the ship and its captain - The Flying Dutchman .</s>
+<s id='vn10'>Vì vậy , đến tận bây giờ bất cứ khi nào có một cơn bão ập vào Mũi Hảo Vọng , nếu bạn nhìn vào tâm bão , bạn sẽ có thể thấy một con tàu và thuyền trưởng của nó - con tàu Flying Dutchman .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The legend goes that whoever sees the ship will die a terrible death .</s>
+<s id='vn11'>Truyền thuyết kể rằng bất kỳ ai thấy con tàu sẽ phải hứng chịu một cái chết thật khủng khiếp .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Many people have claimed to have seen The Flying Dutchman , including the crew of a German submarine boat during World War II .</s>
+<s id='vn12'>Nhiều người đã tuyên bố đã từng nhìn thấy con tàu Flying Dutchman trong đó có nhóm thuỷ thủ đoàn của một tàu ngầm Đức trong Đệ nhị thế chiến .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>On 11 July 1881 , the Royal Navy ship , the Bacchante , was rounding the tip of Africa when they were confronted with the sight of The Flying Dutchman .</s>
+<s id='vn13'>Vào ngày 11 tháng bảy năm 1881 , tàu Hải quân Hoàng gia Bacchante , đang quay đầu ở mũi Châu Phi thì họ giáp mặt con tàu Flying Dutchman .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The midshipman , a prince who later became King George V , recorded that the lookout man and the officer of the watch had seen The Flying Dutchman and he used these words to describe the ship :</s>
+<s id='vn14'>Vị chuẩn úy hải quân cũng là một vị hoàng tử sau này trở thành Vua George V , kể lại rằng người canh gác người và người phụ trách ca trực đã nhìn thấy Flying Dutchman và ông đã mô tả con tàu :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" A strange red light as of a phantom ship all aglow , in the midst of which light the mast , spars and sails of a brig 200 yards distant stood out in strong relief . "</s>
+<s id='vn15'>" Một ngọn đèn đỏ kỳ quái sáng rực trên con tàu ma , ở giữa vùng sáng đó là chiếc cột buồm , những trụ buồm và cánh buồm của con tàu nổi bật hai buồm lồ lộ hiện ra trong tầm 200 thước Anh phía trước mặt chúng tôi . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It 's pity that the lookout saw the Flying Dutchman , for soon after on the same trip , he accidentally fell from a mast and died .</s>
+<s id='vn16'>Thật đáng thương cho người canh gác đã nhìn thấy Flying Dutchman , vì sau đó trên cùng chuyến đi này , anh ta vô ý bị rơi từ cột buồm xuống và bị chết .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Fortunately for the English royal family , the young midshipman survived the curse to become The King of England !</s>
+<s id='vn17'>May mắn cho hoàng gia Anh là vị chuẩn úy hải quân trẻ sống sót sau lời nguyền đó trở thành Hoàng đế nước Anh !</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The Flying Dutchman appeared as the ghost ship in the movie Pirates of the Caribbean .</s>
+<s id='vn18'>Flying Dutchman xuất hiện như là một con tàu ma trong bộ phim Cướp biển vùng Ca-ri-bê .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It 's also featured in the novel " Castaways of the Flying Dutchman " by Brian Jacques .</s>
+<s id='vn19'>Nó cũng xuất hiện trong cuốn tiểu thuyết " Những người sống sót của con tàu Flying Dutchman " bởi Brian Jacques .</s>
+</spair>
+</text>
+</doc>

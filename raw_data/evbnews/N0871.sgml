@@ -1,0 +1,312 @@
+﻿<doc id='N0871'>
+<head>
+<title>Nightmares</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Nightmares</s>
+<s id='vn1'>Ác mộng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Ben is in the middle of a wonderful dream .</s>
+<s id='vn2'>Ben đang nằm chiêm bao , cậu có một giấc mơ tuyệt đẹp .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He 's riding the ocean waves with his family when - BAM !</s>
+<s id='vn3'>Trong giấc mơ , cậu thấy mình đang lướt sóng cùng với gia đình trên một đại dương bao la ngút ngàn , bỗng RẦM !</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Along comes a giant sea creature poised for attack .</s>
+<s id='vn4'>Xuất hiện một sinh vật biển khổng lồ đang ở tư thế sẵn sàng tấn công .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Ben thrashes in bed , trying to fight off the monster .</s>
+<s id='vn5'>Ben đạp chân mạnh lên giường , cố chống trả lại con quái vật .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When he calls out , his mom comes in to see what 's wrong .</s>
+<s id='vn6'>Khi cậu bé hét toáng lên , mẹ cậu vội đến xem con có vấn đề gì không ,</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" It 's all right , Ben , " she says , smoothing his sweaty forehead .</s>
+<s id='vn7'>Bà vuốt trán đang vã ướt mồ hôi của cậu " Không sao đâu con . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" You had a bad dream , and now you 're awake .</s>
+<s id='vn8'>" Con mơ thấy ác mộng thôi , giờ thì con tỉnh rồi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>You 're awake and you 're safe . "</s>
+<s id='vn9'>Con an toàn rồi mà , đúng không ? "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>What exactly is a nightmare ?</s>
+<s id='vn10'>Cơn ác mộng chính xác là gì ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If you 've ever had a nightmare , you 're in good company .</s>
+<s id='vn11'>Nhiều người cũng đã từng gặp ác mộng giống như bạn .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Almost everyone gets them once in a while - adults , as well as kids .</s>
+<s id='vn12'>Hầu hết mọi người đều thỉnh thoảng mơ thấy chúng – người lớn cũng như trẻ con .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A nightmare is a bad dream .</s>
+<s id='vn13'>Ác mộng là một giấc mơ rùng rợn .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>It can may make you feel scared , anxious , or upset , but nightmares are not real and can't harm you .</s>
+<s id='vn14'>Nó có thể làm chúng ta sợ hãi , hồi hộp , hoặc bồn chồn khó chịu , nhưng ác mộng không có thực và chẳng thể nào làm hại chúng ta đâu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>While you sleep , your brain does n't just turn off .</s>
+<s id='vn15'>Trong khi bạn ngủ , não bộ không phải là ngưng hoạt động .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It goes through several sleep stages , including REM , or Rapid Eye Movement , and sleep .</s>
+<s id='vn16'>Nó trải qua nhiều giai đoạn ngủ khác nhau , bao gồm giai đoạn ngủ mơ , hoặc mắt cử động , và ngủ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Why do they call it that ?</s>
+<s id='vn17'>Tại sao lại gọi nó bằng thuật ngữ đó ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Because during this stage of sleep , your eyes move back and forth under your closed eyelids .</s>
+<s id='vn18'>Bởi suốt giai đoạn này , mắt của chúng ta cử động lui tới dưới đôi mi đã nhắm nghiền .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>During REM sleep , you have dreams and sometimes those dreams can be scary or upsetting .</s>
+<s id='vn19'>Lúc này nhiều hình ảnh xuất hiện và đôi khi những giấc mơ ấy có thể làm chúng ta sợ hãi hoặc lo ngại , khó chịu trong lòng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>About every 90 minutes your brain switches between non-REM sleep and REM sleep .</s>
+<s id='vn20'>Não bộ của chúng ta sẽ chuyển từ trạng thái ngủ mắt bất động sang trạng thái ngủ mắt cử động cứ khoảng 90 phút một lần .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The amount of time spent in REM sleep increases with each sleep cycle through the night .</s>
+<s id='vn21'>Khoảng thời gian ngủ mắt cử động gia tăng với từng chu kỳ ngủ suốt cả đêm .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The longest periods of REM sleep occur towards morning .</s>
+<s id='vn22'>Khoảng thời gian dài nhất xuất hiện khi trời càng về sáng .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>If you wake during this REM stage , it is easier for you to remember what you were dreaming about .</s>
+<s id='vn23'>Nếu chúng ta thức giấc suốt giai đoạn này thì não sẽ dễ giúp chúng ta nhớ những gì xảy ra trong mơ dễ dàng hơn .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>That 's why your most vivid dreams - and nightmares - occur in the early morning hours .</s>
+<s id='vn24'>Đó là lý do vì sao những giấc mơ sống động nhất – và những cơn ác mộng – thường hay xảy ra vào lúc sáng sớm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Why do I get nightmares ?</s>
+<s id='vn25'>Vì sao tôi mơ thấy ác mộng ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Stressful things that happen during the day can turn dreams into nightmares .</s>
+<s id='vn26'>Nhiều chuyện căng thẳng xảy ra vào ban ngày có thể làm cho giấc mơ trở thành cơn ác mộng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Nightmares may be a way to relieve the pressures of the day .</s>
+<s id='vn27'>Những cơn ác mộng này có thể là cách giải toả áp lực của ban ngày .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This usually means dealing with things most kids have to face : problems at home , problems at school , and stress from sports or schoolwork .</s>
+<s id='vn28'>Vấn đề này thường là những chuyện mà hầu hết trẻ nhỏ phải đối mặt : vấn đề ở nhà , vấn đề ở trường , áp lực thể thao hoặc áp lực học hành .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Sometimes major changes , such as moving or the illness or death of a loved one , can cause stress that leads to nightmares .</s>
+<s id='vn29'>Đôi khi những biến cố lớn , chẳng hạn như di chuyển chỗ ở hoặc là do một người thân yêu nào đó của chúng ta bệnh hoặc mất đi , có thể gây ra căng thẳng dẫn đến một điều là chúng ta gặp ác mộng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Another thing that may cause nightmares is watching scary movies or reading scary books , especially before you go to bed .</s>
+<s id='vn30'>Ác mộng còn có thể là do xem phim kinh dị hoặc đọc sách rùng rợn , nhất là trước khi đi ngủ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Sometimes if you are sick , especially with a high fever , you may have nightmares .</s>
+<s id='vn31'>Đôi khi bệnh , nhất là khi cơ thể bị sốt cao thì chúng ta cũng có thể mơ thấy ác mộng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Certain medications also can cause nightmares .</s>
+<s id='vn32'>Một số loại thuốc nào đó cũng có thể gây ác mộng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Let your parents and doctor know if you notice you are having more nightmares around the time you started a new medicine .</s>
+<s id='vn33'>Bạn nên nói cho bố mẹ và bác sĩ biết khi phát hiện thấy mình bị ác mộng nhiều hơn vào khoảng thời gian bắt đầu sử dụng thuốc mới .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But sometimes you might have a nightmare for no reason at all .</s>
+<s id='vn34'>Nhưng cũng có những lúc mà chúng ta có thể thấy ác mộng mà không vì lý do nào hết .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>How can I prevent nightmares ?</s>
+<s id='vn35'>Tôi có thể ngăn ngừa ác mộng như thế nào ?</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Although it is normal to have a nightmare once in a while , there are some techniques you can try to get nightmares under control .</s>
+<s id='vn36'>Dẫu rằng thỉnh thoảng chúng ta cũng mơ thấy ác mộng , chuyện đó quả là bình thường , nhưng cũng có vài cách bạn có thể thử để kiểm soát được ác mộng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Get into a healthy sleep routine .</s>
+<s id='vn37'>Hãy tập một thói quen ngủ nghỉ đều đặn có lợi cho sức khỏe .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Try to go to bed about the same time and wake up at the same time every day .</s>
+<s id='vn38'>Mỗi ngày bạn nên cố đi ngủ và thức dậy đúng giờ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Unless you 're sick or did n't get enough sleep the night before , avoid naps during the day .</s>
+<s id='vn39'>Trừ phi bị bệnh hoặc không ngủ đủ giấc đêm trước thì nên tránh chợp mắt vào ban ngày .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Avoid eating or exercising just before bedtime .</s>
+<s id='vn40'>Tránh ăn hoặc tập thể dục ngay trước giờ ngủ .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Avoid scary books or movies before bedtime if you think they might be causing your nightmares .</s>
+<s id='vn41'>Đừng đọc sách rùng rợn hoặc xem phim kinh dị trước giờ ngủ nếu bạn nghĩ chúng có thể làm cho mình mơ thấy ác mộng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Sleep with a stuffed toy or favorite blanket .</s>
+<s id='vn42'>ĐI ngủ với một món đồ chơi nhồi bông hay một cái mền yêu thích nào đó .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>This helps some kids feel more secure .</s>
+<s id='vn43'>Điều này giúp cho một số trẻ nhỏ cảm thấy an toàn hơn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Use a nightlight .</s>
+<s id='vn44'>Hãy sử dụng đèn ngủ .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Even if you gave up yours up years ago , you might want to turn it back on .</s>
+<s id='vn45'>Cho dù là bạn đã không sử dụng đèn ngủ cách đây nhiều năm rồi thì bạn cũng cần nên dùng lại .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>With a nightlight , if you awake from a nightmare , you 'll be able to see familiar things and remember where you are .</s>
+<s id='vn46'>Nếu bạn thức giấc do mơ thấy ác mộng thì khi có đèn ngủ , bạn sẽ có thể nhìn thấy nhiều vật quen thuộc xung quanh và nhớ ra mình đang ở đâu .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Keep your door open .</s>
+<s id='vn47'>Đừng đóng kín cửa phòng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This will help you remember that your family is close by .</s>
+<s id='vn48'>Điều này sẽ giúp bạn nhớ ra rằng gia đình của mình đang ở gần bên cạnh .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>If you are scared , get up and find someone for reassurance .</s>
+<s id='vn49'>Nếu bạn cảm thấy sợ hãi thì nên thức dậy và tìm một người nào đó để bạn an tâm trở lại .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>You 're never too old for a hug !</s>
+<s id='vn50'>Bạn chẳng bao giờ quá lớn đến nỗi không thể ôm người khác đâu !</s>
+</spair>
+<spair id='51'>
+<s id='en51'>What if the nightmares do n't go away ?</s>
+<s id='vn51'>Nếu bạn vẫn không hết bị ác mộng thì làm sao đây ?</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Most of the time , nightmares are not a big problem .</s>
+<s id='vn52'>Ác mộng hầu như lúc nào cũng bình thường , không phải là chuyện to tát .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>It often helps to tell a trusted adult about your bad dreams .</s>
+<s id='vn53'>Bạn nên kể cho một người lớn nào đó mà mình tin tưởng , có thể bạn sẽ cảm thấy đỡ hơn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Just talking about what happened might make you feel better .</s>
+<s id='vn54'>Nói về những điều xảy ra với bạn cũng có thể làm bạn thoải mái hơn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>If something has been troubling you during the day , discussing those feelings also may help .</s>
+<s id='vn55'>Nếu có vấn đề gì làm cho bạn khó chịu vào ban ngày thì nên bày tỏ những cảm xúc ấy cũng có thể giúp ích cho bạn .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Some kids " rewrite " their nightmares by giving them happier outcomes .</s>
+<s id='vn56'>Một số trẻ nhỏ " viết lại " các cơn ác mộng của mình bằng cách cho chúng có hậu vui hơn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>For example , Ben could imagine hopping on that sea monster and bringing his family along for a great ride .</s>
+<s id='vn57'>Chẳng hạn như , Ben có thể tưởng tượng mình nhảy lên mình con thuỷ quái kia và cả gia đình cùng có một chuyến đi chơi thú vị .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Another trick to get control of your nightmares is to draw a picture of the bad dream and then rip it up !</s>
+<s id='vn58'>Một mẹo khác có thể giúp bạn khống chế ác mộng là vẽ ra một bức tranh về cơn ác mộng của mình rồi sau đó xé nát nó đi !</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Sometimes it helps to keep a dream journal , a notebook in which you describe the dreams you can recall .</s>
+<s id='vn59'>Đôi khi bạn cũng nên giữ một quyển nhật ký giấc mơ trong đó bạn miêu tả những điều trong mơ mà mình có thể nhớ lại được .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Tracking your dreams - good and bad - and how your felt before you went to sleep can give you a better sense of how your mind works at night .</s>
+<s id='vn60'>Việc để ý , theo dõi giấc mơ – đẹp và kinh khủng – và cảm giác của bạn trước khi đi ngủ cũng có thể giúp bạn hiểu hơn về cách mà đầu óc mình hoạt động vào buổi tối như thế nào .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>If you have frequent nightmares , you and your parent might want to see a counselor or a psychologist to help you deal with your bad dreams .</s>
+<s id='vn61'>Nếu thường xuyên mơ thấy ác mộng thì bạn và bố mẹ cũng cần nên đến một chuyên viên tư vấn hoặc một nhà tâm lý để giúp bạn đối phó với những cơn ác mộng đó .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>It will give you a chance to talk about some of the things bothering you that may be related to your nightmares .</s>
+<s id='vn62'>Đây cũng là cơ hội cho bạn có thể nói ra những điều làm mình phiền muộn có thể liên quan đến những giấc mơ rùng rợn ấy .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Rarely , kids with frequent nightmares may need to visit a doctor or a sleep clinic .</s>
+<s id='vn63'>Trẻ nhỏ mơ thấy ác mộng thường xuyên cũng hiếm khi cần đến khám bác sĩ hoặc bệnh viện hay trung tâm chuyên về giấc ngủ .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>A doctor can determine whether your nightmares are the result of a physical condition .</s>
+<s id='vn64'>Bác sĩ có thể xác định xem các cơn ác mộng của bạn có phải là do tình trạng sức khỏe gây ra hay không .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>A sleep clinic can check your brain waves , muscle activity , breathing , and other things that happen with your body while you sleep .</s>
+<s id='vn65'>Bệnh viện chuyên về giấc ngủ có thể kiểm tra sóng não của bạn , hoạt động cơ , hơi thở , và những thứ khác xảy ra với cơ thể bạn trong lúc ngủ .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>If nothing else seems to work , your doctor may prescribe medicine designed to help you sleep through the night .</s>
+<s id='vn66'>Nếu không có điều gì khác có thể làm bạn cảm thấy thoải mái hơn thì bác sĩ có thể kê toa cho bạn để giúp bạn ngủ được suốt cả đêm .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Remember , nightmares are not real and they cannot hurt you .</s>
+<s id='vn67'>Xin nhớ rằng , những cơn ác mộng đó không phải là thực và chúng cũng chẳng thể làm tổn thương bạn đâu .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Dreaming about something scary does not mean it will happen in real life .</s>
+<s id='vn68'>Mơ thấy điều rùng rợn , kinh dị không đồng nhất với việc nó sẽ xảy ra trong đời sống hiện thực của bạn .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>And it does n't mean you 're a bad person who wants to do mean or scary things .</s>
+<s id='vn69'>Và cũng không có nghĩa là bạn là một người xấu muốn làm chuyện hèn hạ hay làm điều gì đó khủng khiếp .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Everyone has nightmares now and then .</s>
+<s id='vn70'>Con người chúng ta ai cũng thỉnh thoảng mơ thấy ác mộng .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>You are n't a baby if you feel afraid after a nightmare .</s>
+<s id='vn71'>Bạn chẳng phải là một đứa trẻ nếu cảm thấy sợ hãi sau một cơn ác mộng .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>If you need to snuggle with a parent or even a sister or brother , that 's all right .</s>
+<s id='vn72'>Nếu cần ôm bố mẹ hoặc thậm chí là ôm anh em trai hoặc chị em gái , tất cả đều được thôi .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Sometimes just talking to a parent or grabbing a quick hug may be all you need .</s>
+<s id='vn73'>Đôi khi chỉ cần nói chuyện với bố mẹ hoặc chỉ cần một vòng tay ôm nhanh cũng có thể là liều thuốc cần thiết với bạn .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Nightmares may be scary for a little bit , but now you know what to do .</s>
+<s id='vn74'>Ác mộng có thể là đáng sợ một chút vậy thôi , nhưng giờ thì bạn đã biết làm gì rồi phải không .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>Sweet dreams !</s>
+<s id='vn75'>Hãy mơ giấc mơ ngọt ngào đi nhé !</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,140 @@
+﻿<doc id='N0895'>
+<head>
+<title>What to Expect From the Maps App if Apple Ditches Google Maps in iOS 6</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What to Expect From the Maps App if Apple Ditches Google Maps in iOS 6</s>
+<s id='vn1'>Ứng dụng bản đồ : Nên mong đợi gì nếu Apple từ bỏ Google Maps trên iOS 6</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Apple might be moving away from its dependence on Google for its Maps app .</s>
+<s id='vn2'>Apple có thể đang tránh phụ thuộc Google về ứng dụng bản đồ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Apple will reportedly ditch Google 's backend for the built-in Maps app in iOS 6 , according to sources with 9to5Mac .</s>
+<s id='vn3'>Theo 9to5Mac , có nguồn tin cho rằng Apple sẽ từ bỏ Google trong ứng dụng bản đồ tích hợp trên iOS 6 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The app is said to be faster and more reliable , and will come with a few shiny new features that users should eat right up .</s>
+<s id='vn4'>Ứng dụng mới được cho là sẽ họat động nhanh hơn , đáng tin cậy hơn , và sẽ có một vài tính năng mới nổi bật mà người dùng sẽ sử dụng nhiều .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" This move is entirely expected , " Forrester analyst Charles Golvin told Wired via e-mail .</s>
+<s id='vn5'>" Động thái này hoàn toàn đúng như mong đợi " , nhà phân tích thuộc Forrester , ông Charles Golvin chia sẻ với Wired qua email .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" The relationship between Apple and Google has been moving steadily from one of partners to competitors , and Apple has increasingly sought to displace Google technology whenever possible . "</s>
+<s id='vn6'>" Mối quan hệ giữa Apple và Google đã và đang chuyển dần từ đối tác sang đối thủ , và Apple ngày càng tìm cách thay thế công nghệ của Google bất cứ khi nào có thể " .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Apple already abandoned Google Maps in one of its latest app releases , iPhoto .</s>
+<s id='vn7'>Apple đã bỏ Google Maps ra khỏi một trong những ứng dụng phát hành gần đây nhất là iPhoto .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The app now uses the OpenStreetMap Foundation 's mapping data instead .</s>
+<s id='vn8'>Thay vào đó , ứng dụng này hiện đang sử dụng dữ liệu bản đồ của OpenStreetMap Foundation .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Over the past few years , Apple 's made a few acquisitions to make this transition possible .</s>
+<s id='vn9'>Trong vài năm qua , Apple đã mua lại một vài công ty để thực hiện quá trình chuyển đổi này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In 2009 , Apple quietly purchased the mapping firm Placebase , which offered a similar product to Google Maps .</s>
+<s id='vn10'>Năm 2009 , Apple lặng lẽ mua lại công ty bản đồ Placebase , hãng cung cấp sản phẩm tương tự như Google Maps .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>After the purchase , Placebase 's CEO became part of Apple 's " Geo " team .</s>
+<s id='vn11'>Sau đó , Tổng Giám đốc Điều hành của Placebase đã gia nhập đội ngũ " địa lý " của Apple .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>In 2010 , Apple snagged Poly9 , a Canadian online mapping firm .</s>
+<s id='vn12'>Năm 2010 , Apple mua lại Poly9 , một công ty Canada về bản đồ trực tuyến .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Poly9 offered high-res images of metropolitan areas , and technology that provides real-time location statistics , including altitude .</s>
+<s id='vn13'>Poly9 chuyên cung cấp hình ảnh các thành phố lớn với độ phân giải cao , cũng như công nghệ cung cấp số liệu thống kê địa điểm thời gian thực , bao gồm độ cao .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Most recently , Apple purchased C3 Technologies .</s>
+<s id='vn14'>Gần đây nhất , Apple mua lại C3 Technologies .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This company makes uber-sophisticated 3-D maps using unclassified technology designed for missile guidance systems .</s>
+<s id='vn15'>Công ty này cung cấp bản đồ 3D rất tinh vi bằng công nghệ chưa được phân loại được thiết kế cho hệ thống dẫn hướng tên lửa .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>To build their 3-D maps , C3 Technologies repeatedly flew planes equipped with DSLR cameras over cities , collecting overlapping images .</s>
+<s id='vn16'>Để xây dựng bản đồ 3D , C3 Technologies liên tục cho máy bay được trang bị máy ảnh số ống kính rời lượn qua các thành phố và thu thập những hình ảnh xếp chồng lên nhau .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The company then used automated algorithms to generate stereoscopic depth .</s>
+<s id='vn17'>Công ty này sau đó sử dụng thuật toán tự động để tạo ra độ sâu lập thể .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>So what would the new Maps app be like ?</s>
+<s id='vn18'>Vậy ứng dụng bản đồ mới sẽ như thế nào ?</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Will it mean big changes for iOS users ?</s>
+<s id='vn19'>Liệu nó có mang lại những thay đổi to lớn cho người dùng iOS ?</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" I suspect that the impact on users will be small , provided that the user experience of the new Maps application is on par with - or superior to - that provided currently in iOS , " Golvin said .</s>
+<s id='vn20'>" Tôi nghi ngờ rằng tác động đến người dùng sẽ không lớn , miễn là trải nghiệm người dùng với ứng dụng bản đồ mới sẽ bằng - hoặc tốt hơn - trải nghiệm hiện tại trên iOS " , Golvin nói .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The new Maps app will reportedly sport a refreshed icon , says 9to5Mac .</s>
+<s id='vn21'>Theo 9to5Mac , có nguồn tin cho rằng ứng dụng bản đồ mới sẽ có biểu tượng được làm mới lại .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The current icon is a Google Maps - looking thumbnail snapshot of One Infinite Loop .</s>
+<s id='vn22'>Biểu tượng hiện tại là ảnh thumbnail của One Infinite Loop mang phong cách Google Maps .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The new icon will be essentially the same thing , but with a different color scheme .</s>
+<s id='vn23'>Về cơ bản , biểu tượng mới sẽ vẫn như cũ , nhưng có cách phối màu khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Like the current app , it will still simply be called " Maps " - but since it wo n't have Google 's backend , we 'll have to refrain from referring to it as " Google Maps " ( something I do often ) in the future .</s>
+<s id='vn24'>Giống như ứng dụng hiện tại , ứng dụng mới vẫn chỉ gọi là " Maps " - nhưng vì sẽ không còn sự phụ trợ của Google , trong tương lai chúng ta sẽ phải thôi liên hệ tên gọi này với " Google Maps " ( như tôi vẫn hay làm vậy ) .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>And because Apple began acquiring some of these mapping startups three years ago , it should be safe to guess that Apple 's self-built backend has not been rushed , and will be at least as robust as what 's currently offered in iOS .</s>
+<s id='vn25'>Và vì cách đây ba năm Apple đã bắt đầu mua lại một số công ty bản đồ mới thành lập , nên rất có thể Apple đã không vội vã trong việc tự xây dựng ứng dụng , và it nhất là sẽ mạnh mẽ như ứng dụng hiện có trên iOS .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>9to5Mac reports a new 3-D mapping mode would be exclusively powered by C3 Technologies , and would provide " beautiful , realistic " 3-D graphics .</s>
+<s id='vn26'>9to5Mac đưa tin rằng chế độ bản đồ 3D mới sẽ do C3 Technologies độc quyền cung cấp và sẽ mang đến đồ hoạ 3D " thực tế và đẹp mắt " .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It would replace Google Maps " Street View or satellite view feature .</s>
+<s id='vn27'>Nó sẽ thay thế Street View và tính năng xem bản đồ vệ tinh trên Google Maps .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>One thing that 's not discussed in the 9to5Mac report , Golvin notes , is navigation :</s>
+<s id='vn28'>Golvin ghi chú rằng có một điều không được bàn luận trong bản báo cáo 9to5Mac .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Both Android and Windows Phone offer robust turn-by-turn navigation functions in their respective Maps apps .</s>
+<s id='vn29'>Cả Android và Windows Phone đều cung cấp tính năng dẫn đường từng chặng trong ứng dụng bản đồ của mình .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Will Apple fill this void as well in iOS 6 ?</s>
+<s id='vn30'>Liệu Apple sẽ bổ sung thiếu sót này trong iOS 6 ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>We 'll have to wait and see .</s>
+<s id='vn31'>Chúng ta sẽ phải chờ xem .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>iOS 6 will likely make its debut this June at Apple 's WWDC , as that 's when past updates to the iOS have been announced .</s>
+<s id='vn32'>iOS 6 có thể sẽ xuất hiện lần đầu tiên vào tháng Sáu tại Hội nghị WWDC của Apple , vì đây là thời điểm mà các bản cập nhật iOS trước được công bố .</s>
+</spair>
+</text>
+</doc>

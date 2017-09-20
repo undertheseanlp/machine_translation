@@ -1,0 +1,280 @@
+﻿<doc id='N0893'>
+<head>
+<title>Qualitative Analysis : What Makes A Company Great ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Qualitative Analysis : What Makes A Company Great ?</s>
+<s id='vn1'>Phân tích định tính : Điều gì làm cho một công ty trở nên có uy thế ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Evaluating stocks involves two types of analysis : fundamental and technical .</s>
+<s id='vn2'>Việc đánh giá cổ phiếu bao gồm hai loại phân tích : cơ bản và kỹ thuật .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Evaluating stocks involves two types of analysis : fundamental and technical .</s>
+<s id='vn3'>Việc đánh giá cổ phiếu bao gồm hai loại phân tích : cơ bản và kỹ thuật .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The former is all about number crunching while the latter uses up-and-down squiggly lines to chart a stock 's course .</s>
+<s id='vn4'>Phân tích cơ bản chủ yếu chú trọng vào tính toán số liệu trong khi phân tích cơ bản sử dụng những đường nguệch ngoạc lên xuống để vẽ biểu đồ chiều hướng của cổ phiếu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In the end , it 's all about being right more often than wrong .</s>
+<s id='vn5'>Cuối cùng việc đánh giá cốt yếu là đánh giá đúng nhiều hơn là đánh giá sai .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Investment professionals are constantly looking for that slight edge over the competition .</s>
+<s id='vn6'>Các chuyên gia đầu tư luôn tìm kiếm chút lợi thế nhỏ nhoi đó hơn đối thủ cạnh tranh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>One place they might easily overlook ( but shouldn't ) is within the realm of qualitative analysis , a subjective area that is sometimes referred to as soft metrics .</s>
+<s id='vn7'>Một địa hạt họ có thể dễ dàng bỏ qua ( nhưng không nên ) là trong lĩnh vực phân tích định tính , một lĩnh vực mang tính chủ quan đôi khi được gọi là thước đo mềm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>This refers to aspects of a public company that aren't quantifiable or easily explained by numbers .</s>
+<s id='vn8'>Loại thước đo này đề cập đến những khía cạnh về một công ty đại chúng mà ta không thể cân đong đo đếm được hoặc không giải thích dễ dàng bằng những con số .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In general , it 's an underappreciated and underutilized side of fundamental analysis .</s>
+<s id='vn9'>Nói chung , đó là mặt không được tận dụng và không được đánh giá đúng mức của phân tích cơ bản .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The Usual Suspects</s>
+<s id='vn10'>Những hoài nghi thông thường</s>
+</spair>
+<spair id='11'>
+<s id='en11'>When conducting qualitative analysis of a company , most investment professionals look at the business model , competitive advantage in the industry , management and corporate governance .</s>
+<s id='vn11'>Khi tiến hành phân tích định tính một công ty , hầu hết các chuyên gia đầu tư nhìn vào mô hình công ty , lợi thế cạnh tranh trong ngành , ban giám đốc và quy trình quản lý công ty .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This helps to determine how a company makes money , its uniqueness versus the competition , which people are making the decisions and how they treat ordinary shareholders .</s>
+<s id='vn12'>Điều này giúp xác định xem công ty kiếm tiền như thế nào , sự độc đáo của nó đối với các đối thủ cạnh tranh ra sao , những ai đang ra các quyết định và họ đối đãi các cổ đông phổ thông thế nào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Gathering all of this data can provide a better idea of how a company intends to grow its business while rewarding shareholders .</s>
+<s id='vn13'>Tập hợp tất cả các dữ liệu này có thể đem lại một suy nghĩ tốt hơn về cách công ty dự định phát triển kinh doanh trong khi vẫn thưởng cho các cổ đông .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>However , it isn't the entire picture .</s>
+<s id='vn14'>Tuy nhiên , đó không phải là bức tranh tổng thể .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Touchy-feely subjects like satisfying the customer , rewarding employees and maintaining excellent supplier relationships matters as well .</s>
+<s id='vn15'>Những vấn đề mang tính chất động viên khích lệ như làm hài lòng khách hàng , thưởng cho công nhân viên và duy trì các mối quan hệ với những nhà cung cấp tốt cũng có vai trò quan trọng .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The Unheralded</s>
+<s id='vn16'>Sự bất ngờ</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Understanding the qualities that make a company great involve more than a simple SWOT analysis ( strengths , weaknesses , opportunities and threats ) - that 's business school 101 stuff .</s>
+<s id='vn17'>Việc hiểu rõ các đặc tính làm cho một công ty trở nên to lớn bao hàm không chỉ phương pháp phân tích các điểm mạnh yếu đơn giản ( các điểm mạnh , yếu , cơ hội và thách thức ) - những thứ cơ bản trong trường kinh doanh .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>To evaluate a company 's intangibles , one must dig below the surface and beyond the 10-K.</s>
+<s id='vn18'>Để đánh giá những yếu tố vô hình của một công ty , người ta phải tìm tòi kỹ lưỡng và vượt ra ngoài 10-K .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Satisfaction is the key here and successful businesses have it in abundance .</s>
+<s id='vn19'>Ở đây sự thoả mãn là yếu tố then chốt và các doanh nghiệp thành công có rất nhiều yếu tố này .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>If a company fails to satisfy employees , suppliers and customers , in this order , it 's only a matter of time before its stock price implodes .</s>
+<s id='vn20'>Nếu một công ty không làm hài lòng công nhân viên , nhà cung cấp và khách hàng , theo thứ tự này , thì trước sau gì giá cổ phiếu của nó cũng sụt giảm mạnh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Arguments exist for both sides of the discussion .</s>
+<s id='vn21'>Cả hai mặt của vấn đề này đều có những lý lẽ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Some academics believe that customer satisfaction and employee satisfaction aren't mutually exclusive .</s>
+<s id='vn22'>Một số học giả cho rằng sự hài lòng của khách hàng và sự thoả mãn của công nhân viên không loại trừ nhau .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Just because employees are happy does n't guarantee customer loyalty .</s>
+<s id='vn23'>Đơn giản là vì công nhân viên hạnh phúc cũng không bảo đảm sự trung thành của khách hàng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>That might be so , however , Tony Hsieh , CEO of Zappos.com , the world 's biggest online shoe retailer , and winner of countless customer service awards , said in a May 2010 article in SUCCESS magazine that " ...</s>
+<s id='vn24'>Có thể là vậy , tuy nhiên , Tony Hsieh , Giám đốc điều hành của Zappos.com , hãng bán lẻ giày qua mạng lớn nhất thế giới , và là công ty đoạt được vô số giải thưởng về dịch vụ khách hàng , nói trong một bài báo tháng 5 năm 2010 của tạp chí Thành Công rằng " ...</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Customer service is about making customers happy , and the culture is about making employees happy .</s>
+<s id='vn25'>Dịch vụ khách hàng tập trung vào việc làm cho khách hàng vui lòng , và văn hoá doanh nghiệp thì làm cho công nhân viên hạnh phúc .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So , really , we 're about trying to deliver happiness , whether it 's to customers or employees , and we apply that same philosophy to vendors as well . "</s>
+<s id='vn26'>Vì vậy , thực sự , chúng tôi đang cố gắng tập trung vào việc phân phát hạnh phúc cho mọi người , dù đó là khách hàng hay công nhân viên , và chúng tôi cũng áp dụng cái triết lý tương tự đó đối với các nhà cung cấp . "</s>
+</spair>
+<spair id='27'>
+<s id='en27'>This winning attitude may have contributed to Amazon.com 's acquisition of the business for $ 1.2 billion in 2009 .</s>
+<s id='vn27'>Thái độ chiến thắng này có thể đã góp phần vào việc Amazon.com mua lại công ty với giá 1,2 tỷ đô la Mỹ vào năm 2009 .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Employee Satisfaction</s>
+<s id='vn28'>Sự hài lòng của công nhân viên</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Any company that 's truly interested in customer satisfaction must first meet the needs of its employees ; otherwise , it 's putting the cart before the horse .</s>
+<s id='vn29'>Bất kỳ công ty nào thực sự quan tâm đến sự hài lòng của khách hàng đều trước tiên phải thoả mãn các nhu cầu của công nhân viên công ty đó ; nếu không , nó đang làm chuyện ngược đời .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>JetBlue came to realize , in 2007 , that it wasn't doing a good job satisfying employees when it stranded thousands of its passengers because of a New York City ice storm .</s>
+<s id='vn30'>Năm 2007 , JetBlue đã nhận ra họ không làm tốt công việc làm hài lòng các nhân viên khi bị mắc kẹt hàng ngàn hành khách vì một trận mưa băng ở New York City .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Employee morale dropped , and , with it , customer satisfaction .</s>
+<s id='vn31'>Tinh thần công nhân viên giảm sút cùng với trận mưa ấy , và sự hài lòng của khách hàng cũng giảm theo .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Up to that point , the company surveyed employees once a year looking for feedback .</s>
+<s id='vn32'>Cho tới thời điểm đó , mỗi năm một lần công ty tiến hành khảo sát cán bộ công nhân viên để tìm kiếm thông tin phản hồi .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>It needed to do more , and so it implemented " Net Promoter , " a scoring system that calculates how many employees are actively promoting the company , both as a place to work and as a place to do business .</s>
+<s id='vn33'>Họ cần tiến hành nhiều hơn , và vì vậy đã triển khai hệ thống " Net Promoter " , một hệ thống ghi điểm tính toán có bao nhiêu nhân viên đang tích cực quảng cáo cho công ty , cả như là một nơi làm việc lẫn như là một nơi giao dịch làm ăn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Once it began to look at employee satisfaction , department by department , it was able to deliver programs that put everyone on the same page , and results followed .</s>
+<s id='vn34'>Một khi họ bắt đầu xem xét sự hài lòng của công nhân viên , từng phòng ban một , thì họ có thể đưa ra những chương trình làm cho mọi người cùng đồng tâm nhất trí , và các kết quả đến theo sau .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Employees are the face of any brand .</s>
+<s id='vn35'>Công nhân viên là bộ mặt của bất kỳ thương hiệu nào .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The quickest way to destroy brand equity is to disrespect them .</s>
+<s id='vn36'>Cách nhanh nhất làm mất giá trị thương hiệu là xem thường chúng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Once you 've lost trust , it 's only a matter of time before you lose the customer .</s>
+<s id='vn37'>Khi bạn đã mất niềm tin , trước sau gì bạn cũng mất khách hàng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Without customers , you have no business !</s>
+<s id='vn38'>Không có khách hàng , bạn chẳng làm ăn gì được .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>It 's a slippery slope that , privately owned software firm , SAS knows well .</s>
+<s id='vn39'>Đó là một tình huống nguy hiểm , có thể dẫn đến hậu quả khôn lường mà SAS , công ty phần mềm thuộc sở hữu tư nhân , biết rõ hơn ai hết .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>CEO and founder Jim Goodnight has been in charge for all 34 years , in business , and from the beginning , he 's emphasiz​ed employee benefits leading to 13 straight years on Fortune 's " 100 Best Companies To Work For " list .</s>
+<s id='vn40'>Nhà sáng lập đồng thời là giám đốc điều hành Jim Goodnight đã hoạt động kinh doanh cả thảy 34 năm , từ lúc ban đầu , ông đã nhấn mạnh những lợi ích của người lao động dẫn đến kết quả 13 năm liên tục xuất hiện trên danh sách " 100 công ty tốt nhất để làm việc " của Fortune .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>In its 2008 corporate social responsibility report , the company states , " If you treat employees as if they make a difference to the company , they will make a difference to the company ... At the heart of this unique business model is a simple idea : Satisfied employees create satisfied customers . "</s>
+<s id='vn41'>Trong báo cáo trách nhiệm xã hội của doanh nghiệp năm 2008 của mình , công ty nêu rõ , " nếu bạn đối xử với công nhân viên như thể họ tạo ra sự khác biệt cho công ty , thì họ sẽ tạo ra sự khác biệt cho công ty ... Trọng tâm của mô hình kinh doanh độc đáo này là một ý tưởng đơn giản : công nhân viên hài lòng sẽ làm khách hàng hài lòng . "</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Public companies are no different .</s>
+<s id='vn42'>Những công ty đại chúng cũng không khác .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Supplier Satisfaction</s>
+<s id='vn43'>Sự hài lòng của nhà cung cấp</s>
+</spair>
+<spair id='44'>
+<s id='en44'>No matter how vertically integrated your company is , you will always have suppliers of one kind , or another , and those relationships can positively or negatively impact the quality of your final product , or service .</s>
+<s id='vn44'>Dù cho công ty bạn có được liên kết theo chiều dọc như thế nào , thì bạn vẫn luôn phải có những nhà cung cấp thế này hay thế khác , và các mối quan hệ đó có thể có tác động tích cực hoặc tiêu cực đến chất lượng sản phẩm hoặc dịch vụ cuối cùng của bạn .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>One of Whole Foods " seven core values is its commitment to its suppliers .</s>
+<s id='vn45'>Một trong 7 giá trị cốt lõi của hãng Whole Foods là cam kết của họ với các nhà cung cấp của mình .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>By creating a true partnership with the companies it buys from , it is able to provide its customers with a fabulous shopping experience .</s>
+<s id='vn46'>Bằng việc tạo ra quan hệ đối tác thực sự với các công ty họ mua hàng , họ có thể đem lại cho các khách hàng của mình kinh nghiệm mua sắm ngoài sức tưởng tượng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>It 's not enough , however , to have great customer service - the food has to match .</s>
+<s id='vn47'>Tuy nhiên , điều đó không đủ để có một dịch vụ khách hàng thật tốt - thực phẩm phải thích hợp .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Whole Foods tends to score high on this front as well , and by doing so is able to maintain price points that are higher than in most regular grocery stores , delivering greater profits .</s>
+<s id='vn48'>Whole Foods cũng thường có thành công về lĩnh vực này , và bằng cách làm như vậy là có thể duy trì các mức giá cao hơn trong những cửa hàng tạp hoá thông thường nhất , đưa ra những khoản lợi nhuận lớn hơn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Customer Satisfaction</s>
+<s id='vn49'>Sự hài lòng của khách hàng</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The marketing profession has tried for years to quantify customer satisfaction in a way that lends itself to clarifying a brand 's equity , or worth .</s>
+<s id='vn50'>Giới tiếp thị trong nhiều năm đã cố gắng định lượng sự hài lòng của khách hàng theo cách thích hợp với việc làm sáng tỏ giá trị hay vốn của thương hiệu .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Annual studies like the American Customer Satisfaction Index , Prophet 's Reputation Management Index and Forrester Research 's Customer Experience Index are just three examples .</s>
+<s id='vn51'>Những nghiên cứu hàng năm như Chỉ số Hài lòng Khách hàng Mỹ , Chỉ số Quản trị Danh tiếng của Prophet và Chỉ số Kinh Nghiệm Khách hàng của Forrester Research thực sự là ba ví dụ tiêu biểu .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>For instance , the American Customer Satisfaction Index has shown that the stock prices of companies ranking higher in the index tend to do better than those lower down .</s>
+<s id='vn52'>Chẳng hạn , Chỉ số Hài lòng Khách hàng Mỹ đã cho thấy rằng giá cổ phiếu của các công ty xếp hạng cao hơn trong chỉ số thường tốt hơn những công ty có thứ hạng thấp hơn .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>In fact , between 1994 and 2007 , companies ranking in the top 25 % of the index created $ 420 billion in wealth for shareholders , versus $ 111 billion for those in the bottom 25 % -in other words , companies that please their customers are shown to create four times the wealth .</s>
+<s id='vn53'>Trên thực tế , trong giai đoạn 1994 - 2007 , những công ty có thứ hạng trong nhóm 25% đứng đầu của chỉ số tạo ra 420 tỷ đô la Mỹ tài sản cho cổ đông , so với 111 tỷ đô la Mỹ cho cổ đông của các công ty 25% nhóm cuối bảng của chỉ số - nói cách khác , những công ty làm hài lòng khách hàng của mình cho thấy họ tạo ra gấp 4 lần tài sản .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Most analysts would agree that market capitalization is greatly influenced by brand power .</s>
+<s id='vn54'>Hầu hết các nhà phân tích sẽ đồng ý rằng giá trị vốn hoá thị trường chịu ảnh hưởng rất nhiều bởi sức mạnh thương hiệu .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In a study by marketing gurus David Aaker and Robert Jacobson , 34 companies examined between 1989 and 1992 and found that those with the largest increase in brand equity averaged stock returns of 30 % while the ones losing the most brand equity dropped 10 % on average .</s>
+<s id='vn55'>Những chuyên gia nghiên cứu tiếp thị hàng đầu David Aaker và Robert Jacobson tiến hành một nghiên cứu trong phạm vi 34 công ty giai đoạn 1989 - 1992 và thấy rằng những công ty có mức gia tăng giá trị thương hiệu lớn nhất thì bình quân lợi nhuận cổ phiếu là 30% trong khi những công ty mất giá trị thương hiệu nhiều nhất lại giảm 10% bình quân .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If you 're not quite sold on the idea of customer satisfaction affecting stock prices , Forrester Research 's annual Customer Experience Index ranks the best and worst in customer service .</s>
+<s id='vn56'>Nếu bạn không hoàn toàn thích thú lắm với quan điểm sự thoả mãn của khách hàng ảnh hưởng đến giá cổ phiếu , thì có chỉ số kinh nghiệm khách hàng hàng năm của Forrester Research xếp hạng dịch vụ khách hàng tốt nhất và tệ nhất .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Companies in the top 10 routinely outperform the S&P 500 .</s>
+<s id='vn57'>Những công ty nằm trong top 10 thường xuyên hoạt động hiệu quả hơn chỉ số S&P 500 .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>If the findings are altered slightly to consider operating profits , the results are even more pronounced .</s>
+<s id='vn58'>Nếu những gì tìm thấy được thay đổi chút ít để xem xét lợi nhuận kinh doanh , thì các kết quả thậm chí càng rõ rệt hơn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Satisfaction Guaranteed</s>
+<s id='vn59'>Sự hài lòng được bảo đảm</s>
+</spair>
+<spair id='60'>
+<s id='en60'>Investors tend to spend most of their time worrying about quantitative analysis .</s>
+<s id='vn60'>Các nhà đầu tư thường dành hầu hết thời gian của họ lo nghĩ về phân tích định lượng .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Ratios like price-to-earnings and price-to-book get all the attention while numberless intangibles , like customer satisfaction , are left to annual surveys that are quickly swept under the carpet , never to be seen again .</s>
+<s id='vn61'>Mọi sự quan tâm đều dồn vào những hệ số như thị giá trên thu nhập và thị giá trên giá ghi sổ trong khi vô số những yếu tố vô hình , chẳng hạn sự hài lòng của khách hàng , thì bị bỏ quên cho những khảo sát hàng năm nhanh chóng bị che đậy , không bao giờ được xem xét lại .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Let 's face it : we live in a quantitative world .</s>
+<s id='vn62'>Hãy đối mặt với nó : chúng ta sống trong một thế giới định lượng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Everything we do revolves around top 10 lists of one kind or another .</s>
+<s id='vn63'>Mọi thứ chúng ta làm tập trung vào top 10 danh sách thế này hay thế khác .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>We want a shortcut , and lists meet this need .</s>
+<s id='vn64'>Chúng ta muốn một biện pháp nhanh gọn , và những bảng danh sách đáp ứng nhu cầu này .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Qualitative analysis , on the other hand , is tricky stuff , and most Warren Buffett wannabes find it too subjective .</s>
+<s id='vn65'>Mặt khác , phân tích định tính là những thứ đòi hỏi phải tinh tế , và hầu hết những người muốn đầu tư thành công như Warren Buffett nhận thấy phân tích định tính quá mang tính chủ quan .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>However , any business whose stock price has risen consistently over time has surely satisfied all its stakeholders .</s>
+<s id='vn66'>Tuy nhiên , bất kỳ doanh nghiệp nào có giá cổ phiếu luôn tăng theo thời gian chắc chắn họ đã làm hài lòng tất cả các cổ đông của mình .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>As Warren Buffett has been quoted saying many times in the past : " Beware of geeks bearing formulas . "</s>
+<s id='vn67'>Buffett từng nói nhiều lần trước đây được trích dẫn lại : " Coi chừng các chuyên viên tin học họ tạo ra các công thức . "</s>
+</spair>
+</text>
+</doc>

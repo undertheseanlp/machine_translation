@@ -1,0 +1,96 @@
+﻿<doc id='N0139'>
+<head>
+<title>Tunisia announces major cabinet reshuffle after protest</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Tunisia announces major cabinet reshuffle after protest</s>
+<s id='vn1'>Tunisia thông báo cải tổ lớn trong nội các sau cuộc biểu tình</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Tunisian PM Mohammed Ghannouchi has announced a major reshuffle of the interim government .</s>
+<s id='vn2'>Thủ Tường Mohammed Ghannouchi của Tunisia vừa thông báo đợt cải tổ quan trọng trong chính phủ lâm thời</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He has kept his job but many allies of ousted President Zine al-Abidine Ben Ali have left .</s>
+<s id='vn3'>Ông ta vẫn tiếp tục cương vị thủ tướng nhưng nhiều đồng minh của Tổng Thống bị lật đổ Zine al-Abidine Ben Ali đã ra đi</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Mr Ghannouchi said in a TV address that 12 ministers had been replaced .</s>
+<s id='vn4'>Ông Ghannouchi phát biểu trong một buổi nói chuyện trên truyền hình rằng 12 bộ trưởng đã được thay thế .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He insisted this government was " transitional " and would " take the country to democracy " .</s>
+<s id='vn5'>Ông nhấn mạnh chính phủ này trong giai đoạn " lâm thời " và sẽ " đưa đất nước tiến đến nền dân chủ " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Protests are continuing , demanding a purge of Mr Ben Ali's allies .</s>
+<s id='vn6'>Các vụ phản kháng vẫn đang tiếp diễn , đòi thanh lọc các đồng minh của ông Ben Ali .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>On Wednesday , Tunisia issued an international arrest warrant for Mr Ben Ali , who fled to Saudi Arabia on 14 January .</s>
+<s id='vn7'>Hôm thứ Tư , Tunisia đã phát lệnh bắt giữ quốc tế đối với ông Ben Ali , người đã bay sang Ả Rập Saudi vào ngày 14 tháng Giêng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Mr Ben Ali is accused of illegally acquiring property and transferring funds abroad during his presidency .</s>
+<s id='vn8'>Ông Ben Ali bị cáo buộc thu gom tài sản một cách hợp pháp và chuyển tiền ra nước ngoài trong thời gian còn làm tổng thống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Union endorsement</s>
+<s id='vn9'>Sự tán thành công đoàn</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Mr Ghannouchi announced the cabinet overhaul late on Thursday , saying he had included very competent people in his new line-up .</s>
+<s id='vn10'>Ông Ghannouchi đã thông báo xem xét lại toàn bộ nội các sau đó trong ngày thứ Năm , ông cho biết đã đưa những người rất có năng lực vào đội ngũ mới của mình</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Among the key changes was the replacement of the defence , interior and finance ministers , who had all served under Mr Ben Ali .</s>
+<s id='vn11'>Trong số các thay đổi chủ chốt là vị trí của các bộ trưởng quốc phòng , nội vụ và tài chính , tất cả đều đã phục vụ dưới trướng của ông Ben Ali .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Earlier on Thursday , Foreign Minister Kamel Morjane announced his resignation , saying it was in the national interests of this country .</s>
+<s id='vn12'>Trước đó vào ngày thứ Năm , Bộ Trưởng Ngoại Giao Kamel Morjane thông báo từ chức , ông cho biết làm như thế là vì các lợi ích mang tính quốc gia của đất nước này</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This reshuffle was welcomed by the powerful UGTT trade union , although it said it would not be joining the new government .</s>
+<s id='vn13'>Cuộc cải tổ này nhận được sự chào đón của Tổng Công Đoàn Lao Động ( UGTT ) đầy quyền lực , dù họ cho biết sẽ không tham gia chính phủ mới .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The endorsement by the UGTT may go some way towards softening opposition to Mr Ghannouchi among protesters , says the BBC's Magdi Abdelhadi in the capital Tunis .</s>
+<s id='vn14'>Theo lời phóng viên Magdi Abdelhadi của BBC tại thủ đô Tunis , sự tán thành của UGTT có thể hướng đến mục đích xoa dịu sự chống đối ông Ghannouchi của những người phản đối .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>But our correspondent adds that it is unclear whether this cabinet overhaul will be enough to calm widespread opposition to Mr Ghannouchi himself , who had served as prime minister under Mr Ben Ali for many years .</s>
+<s id='vn15'>Nhưng phóng viên của chúng tôi nói thêm vẫn chưa rõ cuộc thay đổi nội các sâu rộng này có đủ để trấn yên sự chống đối lan rộng đối với bản thân ông Ghannouchi , người nhiều năm giữ chức thủ tướng dưới thời Ông Ben Ali , hay không .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Anti-government rallies continued on Thursday in Tunis also in the central town of Sidi Bouzid .</s>
+<s id='vn16'>Các cuộc biểu tình chống chính phủ vẫn tiếp diễn vào hôm thứ Năm ở Tunis cũng như ở thành phố trung tâm của Sidi Bouzid</s>
+</spair>
+<spair id='17'>
+<s id='en17'>" We reject Ghannouchi totally .</s>
+<s id='vn17'>" Chúng tôi hoàn toàn phản đối Ghannouchi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>We were surprised to see him announce the government , " protester Mohammed Fadel in Tunis was quoted as saying by Reuters .</s>
+<s id='vn18'>Chúng tôi ngạc nhiên khi thấy ông ta tuyên bố lập chính phủ , " người biểu tình Mohammed Fadel ở Tunis Reuters dẫn lời cho biết</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Because he did not fight corruption under Ben Ali , he is an accomplice . "</s>
+<s id='vn19'>" Bởi vì dưới thời Ben Ali , ông ta không đấu tranh chống tham nhũng , ông ta là kẻ thông đồng . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Wednesday , police fired tear gas at hundreds of demonstrators after they reportedly tried to breach barricades around the minister's office .</s>
+<s id='vn20'>Hôm thứ Thư , cảnh sát đã bắn hơi cay vào hàng trăm người biểu tình sau khi họ tìm cách phá vỡ các rào chắn quanh văn phòng của thủ tướng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Mr Ghannouchi has promised to quit " in the shortest possible timeframe " , pledging to hold elections within six months</s>
+<s id='vn21'>Ông Ghannouchi hứa sẽ ra đi " trong thời hạn ngắn nhất có thể " , cam đoan sẽ tổ chức bầu cử trong vòng sáu tháng</s>
+</spair>
+</text>
+</doc>

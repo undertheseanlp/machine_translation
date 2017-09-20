@@ -1,0 +1,128 @@
+﻿<doc id='N0207'>
+<head>
+<title>5 Myths about Women 's Bodies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>5 Myths about Women 's Bodies</s>
+<s id='vn1'>5 chuyện hoang đường về cơ thể người phụ nữ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A women can't get pregnant during her period .</s>
+<s id='vn2'>Phụ nữ không thể có thai trong khi hành kinh .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>While a woman is unlikely to conceive during menstruation , " nothing , when it comes to pregnancy , is impossible , " said Aaron Carroll of Indiana University and co-author of " Don't Swallow Your Gum : Myths , Half-truths and Outright Lies About Your Body and Health " ( St. Martin 's Griffin , 2009 ) .</s>
+<s id='vn3'>Mặc dù người phụ nữ khó có thể thụ thai trong kỳ kinh nguyệt , " nhưng nếu đề cập đến việc mang thai , thì không gì là không thể xảy ra " , theo Aaron Carroll , thuộc trường đại học Indiana và là đồng tác giả cuốn sách " Don't Swallow Your Gum : Myths , Half-truths and Outright Lies About Your Body and Health " ( St. Martin của Griffin , 2009 ) .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Once inside a woman , sperm can wait for an egg for up to a week .</s>
+<s id='vn4'>Khi ở trong cơ thể phụ nữ , tinh trùng có thể chờ trứng trong thời gian đến một tuần .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Ovulation can occur soon after , or even during , the bleeding phase of a woman 's menstrual cycle , giving patient sperms the chance to get lucky .</s>
+<s id='vn5'>Sự rụng trứng có thể xảy ra chẳng bao lâu sau khi , hoặc thậm chí trong , giai đoạn chảy máu của chu kỳ kinh nguyệt của phụ nữ , cho phép những tinh trùng kiên nhẫn cơ hội để thụ tinh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The timing method of birth control doesn't work well , Carroll said , agreeing that couples who practice it are often called : parents .</s>
+<s id='vn6'>Phương pháp tránh thai bằng cách tính vòng kinh không có hiệu quả lắm , Carroll nói , và ông nói đùa rằng những cặp sử dụng phương pháp này sau đó thường bị gọi là : cha mẹ ! .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Menopause causes sex drive to nosedive .</s>
+<s id='vn7'>Thời kỳ mãn kinh làm ham muốn tình dục giảm mạnh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The change is not necessarily one that happens in the bedroom .</s>
+<s id='vn8'>Sự thay đổi không nhất thiết là thay đổi xảy ra trong phòng ngủ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>A comprehensive survey of sexual habits in the United States , completed by Edward Laumann and colleagues in 1994 , found that roughly half of women in their fifties have sex several times a month .</s>
+<s id='vn9'>Một khảo sát toàn diện về thói quen tình dục ở Hoa Kỳ , hoàn thành bởi Edward Laumann và đồng nghiệp vào năm 1994 , nhận thấy là gần một nửa phụ nữ trong độ tuổi năm mươi có quan hệ tình dục nhiều lần trong một tháng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>While hot flashes and other discomforts may make a women temporarily not in the mood , there is not a direct link between menopause and sexual desire , Vreeman said .</s>
+<s id='vn10'>Mặc dù sự trào huyết và các khó chịu khác có thể làm phụ nữ tạm thời không có hứng , nhưng không có mối liên hệ trực tiếp giữa thời kỳ mãn kinh và ham muốn tình dục , Vreeman nói .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>So if you are entering the Big M , there is no reason to say good-bye to the Big O .</s>
+<s id='vn11'>Vậy nên nếu bạn đang vào thời kỳ mãn kinh , thì không có cớ gì mà phải nói lời từ giã với sự cực khoái khi quan hệ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Antibiotics make birth control pills unreliable .</s>
+<s id='vn12'>Thuốc kháng sinh làm mất tác dụng của thuốc tránh thai .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Many physicians even believe this , " Carroll said .</s>
+<s id='vn13'>" Thậm chí nhiều bác sĩ cũng tin điều này " , Carroll cho biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Alone , birth control pills fail about one percent of the time .</s>
+<s id='vn14'>Khi dùng một mình , thuốc tránh thai chỉ thất bại khoảng một phần trăm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>And that failure rate is unchanged when taken with the vast majority of antibiotics , Carroll said .</s>
+<s id='vn15'>Và tỉ lệ thất bại này không đổi khi uống cùng với đại đa số thuốc kháng sinh , Carroll nói .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>A possible exception is rifampin , the antibiotic prescribed for tuberculosis .</s>
+<s id='vn16'>Một ngoại lệ có thể xảy ra là rifampin , kháng sinh được kê cho bệnh lao .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Rifampin does lower pregnancy-protecting hormone levels induced by birth control pills , but whether the effect is large enough to increase pregnancy risk is unclear .</s>
+<s id='vn17'>Rifampin có tác dụng làm giảm mức hoóc-môn ngừa thai được tạo ra bởi thuốc tránh thai , nhưng ảnh hưởng có đủ lớn để làm tăng nguy cơ mang thai hay không thì không rõ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Carroll thinks rifampin research spurred the antibiotic birth control rumor .</s>
+<s id='vn18'>Carroll nghĩ nghiên cứu về rifampin đã thổi phồng tin đồn giữa việc tránh thai và dùng thuốc kháng sinh .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Sometimes people say things that they just take off , " Carroll said .</s>
+<s id='vn19'>" Đôi khi người ta nói những điều mà họ chỉ nghe không có cơ sở " , Carroll phát biểu .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Women and men need equal sleep .</s>
+<s id='vn20'>Phụ nữ và đàn ông cần thời gian ngủ như nhau .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Tossing and turning not only causes women more psychological distress , it also raises their insulin and inflammation levels - risk factors for compromised health , found a 2008 study of 210 people led by Edward Suarez at Duke University .</s>
+<s id='vn21'>Trở mình trằn trọc không chỉ làm cho phụ nữ kiệt sức hơn về mặt tâm lý , nó cũng nâng cao mức insulin và mức độ viêm nhiễm của họ - các yếu tố rủi ro làm cho sức khỏe bị tổn thương , theo kết quả nghiên cứu năm 2008 của 210 người được dẫn đầu bởi Edward Suarez tại Đại học Duke .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>A study of more than 6,000 participants , led by researchers at the University of Warwick in 2007 , found that women who slept five or less hours a night were twice as likely to suffer from hypertension than women who slept for seven or more hours .</s>
+<s id='vn22'>Một nghiên cứu trên 6,000 người tham dự , được dẫn đầu bởi các nhà nghiên cứu thuộc Đại học Warwick vào năm 2007 , nhận thấy là phụ nữ ngủ năm giờ hoặc ít hơn trong một đêm dễ có khả năng bị cao huyết áp hơn phụ nữ được ngủ từ bảy giờ trở lên .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Among men , there was no such relationship .</s>
+<s id='vn23'>Đối với đàn ông thì lại không có mối quan hệ như thế .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Sleeping Beauty may be better off waking up on her own watch .</s>
+<s id='vn24'>Người đẹp ngủ trong rừng có thể nên được để cho ngủ thỏa thích .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>A doctor can tell if a woman is a virgin .</s>
+<s id='vn25'>Bác sĩ có thể cho biết một phụ nữ còn trinh hay không .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Even when using 10-fold magnification , doctors can not accurately sort virgins from the sexually-active , several studies have reported .</s>
+<s id='vn26'>Thậm chí khi sử dụng việc phóng đại 10 lần , các bác sĩ cũng không thể phân loại những trinh nữ một cách chính xác bởi việc có quan hệ tình dục , theo kết của nhiều nghiên cứu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It is not as simple as looking for a hole in the hymen because , well , there is always a hole in the hymen .</s>
+<s id='vn27'>Việc này không hề đơn giản như là tìm kiếm một cái lỗ trong màng trinh bởi vì thực tế luôn có một cái lỗ trong màng trinh .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>" Some people think the hymen seals off the vagina ( until virginity is lost ) , but that is just not true , " said Dr. Rachel Vreeman of Indiana University and Carroll 's co-author of " Don't Swallow Your Gum . "</s>
+<s id='vn28'>" Một số người cho rằng màng trinh bít kín âm đạo ( cho đến khi sự trinh bạch bị mất ) , nhưng thật sự điều đó không đúng " , dẫn lời bác sĩ Rachel Vreeman thuộc Đại học Indiana và là đồng tác giả của Carroll trong cuốn sách " Don't Swallow Your Gum " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In the rare cases when it is sealed , period blood builds in the uterus and causes severe medical problems .</s>
+<s id='vn29'>Trong những trường hợp hiếm khi nó bị bít kín , máu kinh nguyệt sẽ ứ đọng trong tử cung và gây ra những vấn đề sức khỏe nghiêm trọng .</s>
+</spair>
+</text>
+</doc>

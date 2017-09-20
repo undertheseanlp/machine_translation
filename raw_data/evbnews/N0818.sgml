@@ -1,0 +1,876 @@
+﻿<doc id='N0818'>
+<head>
+<title>Menopause & Perimenopause</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Menopause & Perimenopause</s>
+<s id='vn1'>Mãn kinh & Tiền mãn kinh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Menopause is defined as the state of an absence of menstrual periods for 12 months .</s>
+<s id='vn2'>Mãn kinh là tình trạng không hành kinh trong 12 tháng của người phụ nữ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The menopausal transition starts with varying menstrual cycle length and ends with the final menstrual period .</s>
+<s id='vn3'>Giai đoạn chuyển tiếp mãn kinh bắt đầu bằng cách thay đổi độ dài chu kỳ kinh và chấm dứt bằng kỳ kinh cuối .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>What is menopause ?</s>
+<s id='vn4'>Mãn kinh là gì ?</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Menopause is defined as the state of an absence of menstrual periods for 12 months .</s>
+<s id='vn5'>Mãn kinh là tình trạng không hành kinh trong 12 tháng của người phụ nữ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The menopausal transition starts with varying menstrual cycle length and ends with the final menstrual period .</s>
+<s id='vn6'>Giai đoạn chuyển tiếp mãn kinh bắt đầu bằng cách thay đổi độ dài chu kỳ kinh và chấm dứt bằng kỳ kinh cuối .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Perimenopause means " the time around menopause " and is often used to refer to the menopausal transitional period .</s>
+<s id='vn7'>Tiền mãn kinh có nghĩa là " thời gian sắp sửa mãn kinh " và thường được sử dụng để đề cập đến thời kỳ chuyển tiếp mãn kinh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It is not officially a medical term , but is sometimes used to explain certain aspects of the menopause transition .</s>
+<s id='vn8'>Đây không phải là thuật ngữ y khoa chính thức , nhưng đôi khi dùng để giải thích một số khía cạnh nào đó của giai đoạn chuyển tiếp mãn kinh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Postmenopause is the entire period of time that comes after the last menstrual period .</s>
+<s id='vn9'>Hậu mãn kinh là toàn bộ thời gian sau kỳ kinh cuối .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Menopause is the time in a woman 's life when the function of the ovaries ceases .</s>
+<s id='vn10'>Mãn kinh là thời gian khi mà chức năng buồng trứng của người phụ nữ ngưng hoạt động .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The ovary ( female gonad ) , is one of a pair of reproductive glands in women .</s>
+<s id='vn11'>Buồng trứng ( tuyến sinh dục nữ ) , là một trong hai tuyến sinh sản của phụ nữ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They are located in the pelvis , one on each side of the uterus .</s>
+<s id='vn12'>Chúng nằm ở khung xương chậu , hai bên tử cung .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Each ovary is about the size and shape of an almond .</s>
+<s id='vn13'>Mỗi buồng trứng đều có kích cỡ và hình dáng giống như quả hạnh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The ovaries produce eggs ( ova ) and female hormones such as estrogen .</s>
+<s id='vn14'>Buồng trứng sản sinh ra trứng và các hoóc - môn nữ chẳng hạn như hoóc - môn estrogen .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>During each monthly menstrual cycle , an egg is released from one ovary .</s>
+<s id='vn15'>Trứng rụng khỏi một buồng trứng trong suốt mỗi chu kỳ kinh hằng tháng ; .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The egg travels from the ovary through a Fallopian tube to the uterus .</s>
+<s id='vn16'>Và đi từ buồng trứng qua ống dẫn trứng đến tử cung .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The ovaries are the main source of female hormones , which control the development of female body characteristics such as the breasts , body shape , and body hair .</s>
+<s id='vn17'>Hai buồng trứng là nơi tiết ra hoóc-môn nữ chính , kiểm soát sự phát triển các đặc điểm cơ thể nữ chẳng hạn như ngực , hình dáng cơ thể , và lông tóc trên người .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The hormones also regulate the menstrual cycle and pregnancy .</s>
+<s id='vn18'>Các hoóc-môn cũng có nhiệm vụ làm điều hoà chu kỳ kinh nguyệt và mang thai .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Estrogens also protect the bone .</s>
+<s id='vn19'>Hoóc-môn estrogen cũng có tác dụng giúp bảo vệ xương .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Therefore , a woman can develop osteoporosis ( thinning of bone ) later in life when her ovaries do not produce adequate estrogen .</s>
+<s id='vn20'>Vì vậy , phụ nữ có thể bị loãng xương ( xương mỏng ) khi về già bởi lúc này các buồng trứng không còn sản sinh đủ hoóc-môn estrogen nữa .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Perimenopause is different for each woman .</s>
+<s id='vn21'>Không phải người phụ nữ nào cũng có giai đoạn tiền mãn kinh giống nhau .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Scientists are still trying to identify all the factors that initiate and influence this transition period .</s>
+<s id='vn22'>Các nhà khoa học vấn đang cố xác định những yếu tố làm khởi phát và ảnh hưởng đến giai đoạn chuyển tiếp này .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>At what age does a woman typically reach menopause ?</s>
+<s id='vn23'>Phụ nữ thường mãn kinh ở độ tuổi nào ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The average age of menopause is 51 years old .</s>
+<s id='vn24'>Tuổi mãn kinh trung bình là 51 .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But there is no way to predict when an individual woman will enter menopause .</s>
+<s id='vn25'>Nhưng chẳng có cách nào dự đoán khi nào một người sẽ tới giai đoạn mãn kinh .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The age at which a woman starts having menstrual periods is also not related to the age of menopause onset .</s>
+<s id='vn26'>Tuổi bắt đầu hành kinh ở nữ cũng không liên quan gì với tuổi bắt đầu mãn kinh .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Most women reach menopause between the ages of 45 and 55 , but menopause may occur as earlier as the 30s or 40s or may not occur until a woman reaches her 60s .</s>
+<s id='vn27'>Hầu hết phụ nữ đều mãn kinh ở tuổi từ 45 đến 55 , nhưng cũng có thể xảy ra sớm hơn ở tuổi 30 hoặc 40 hoặc cũng có thể xảy ra mãi ở tuổi 60 .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>As a rough " rule of thumb , " women tend to undergo menopause at an age similar to that of their mothers .</s>
+<s id='vn28'>Đại loại gần như " quy tắc ngón tay cái " thì phụ nữ thường hay mãn kinh ở tuổi giống như mẹ của mình vậy .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Perimenopause , often accompanied by irregularities in the menstrual cycle along with the typical symptoms of early menopause , can begin up to 10 years prior to the last menstrual period .</s>
+<s id='vn29'>Tiền mãn kinh thường kèm theo nhiều chứng bất thường xảy ra trong chu kỳ kinh nguyệt với các triệu chứng điển hình của hội chứng mãn kinh sớm , có thể bắt đầu trước kỳ kinh cuối đến 10 năm .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>What conditions can affect the timing of menopause ?</s>
+<s id='vn30'>Những căn bệnh nào có thể làm ảnh hưởng đến thời kỳ mãn kinh ?</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Certain medical and surgical conditions can influence the timing of menopause .</s>
+<s id='vn31'>Một số bệnh và một số cuộc phẫu thuật có thể làm ảnh hưởng đến thời kỳ mãn kinh .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Surgical removal of the ovaries</s>
+<s id='vn32'>Phẫu thuật cắt bỏ buồng trứng</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The surgical removal of the ovaries ( oophorectomy ) in an ovulating woman will result in an immediate menopause , sometimes termed a surgical menopause or induced menopause .</s>
+<s id='vn33'>Phẫu thuật cắt bỏ buồng trứng ( cắt buồng trứng ) ở phụ nữ đang rụng trứng sẽ gây hội chứng mãn kinh tức thời , đôi khi cũng được gọi là mãn kinh do phẫu thuật hoặc mãn kinh do kích thích .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In this case , there is no perimenopause , and after surgery , a woman will generally experience the signs and symptoms of menopause .</s>
+<s id='vn34'>Trong trường hợp này thì bệnh nhân sẽ không có thời kỳ tiền mãn kinh , và sau khi phẫu thuật xong thì người phụ nữ sẽ thường có những dấu hiệu và triệu chứng mãn kinh ngay .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>In cases of surgical menopause , women often report that the abrupt onset of menopausal symptoms results in particularly severe symptoms , but this is not always the case .</s>
+<s id='vn35'>Trong những trường hợp mãn kinh do phẫu thuật thì nhiều người cho biết những triệu chứng mãn kinh xảy ra một cách đột ngột thường dẫn đến nhiều triệu chứng bệnh trầm trọng , nhưng không phải lúc nào cũng vậy .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The ovaries are often removed together with the removal of the uterus .</s>
+<s id='vn36'>Hai buồng trứng thường bị cắt cùng một lúc với việc cắt bỏ tử cung .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>If a hysterectomy is performed without removal of both ovaries in a woman who has not yet reached menopause , the remaining ovary or ovaries are still capable of normal hormone production .</s>
+<s id='vn37'>Nếu thủ thuật này được thực hiện mà không cắt bỏ cả hai buồng trứng ở phụ nữ chưa đến tuổi mãn kinh thì buồng trứng còn lại sẽ vẫn có khả năng sản sinh ra hoóc-môn một cách bình thường .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>While a woman cannot menstruate after the uterus is removed by a hysterectomy , the ovaries themselves can continue to produce hormones up until the normal time when menopause would naturally occur .</s>
+<s id='vn38'>Mặc dù người phụ nữ không thể hành kinh sau khi tử cung bị cắt bỏ bằng phẫu thuật thì bản thân buồng trứng cũng có thể tiếp tục tiết ra hoóc - môn cho đến khi xảy ra mãn kinh bình thường tự nhiên .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>At this time a woman could experience the other symptoms of menopause such as hot flashes and mood swings .</s>
+<s id='vn39'>Lúc này thì người phụ nữ có thể có các triệu chứng mãn kinh khác chẳng hạn như trào huyết và tính khí thay đổi thất thường .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>These symptoms would then not be associated with the cessation of menstruation .</s>
+<s id='vn40'>Các triệu chứng này sẽ không liên quan gì đến việc ngừng kinh nguyệt .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Another possibility is that premature ovarian failure will occur earlier than the expected time of menopause , as early as 1- 2 years following the hysterectomy .</s>
+<s id='vn41'>Một khả năng khác là chứng suy chức năng buồng trứng sớm có thể xảy ra sớm hơn thời kỳ mãn kinh bình thường theo dự kiến , chừng khoảng 1-2 năm sau khi cắt bỏ tử cung .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If this happens , a woman may or may not experience symptoms of menopause .</s>
+<s id='vn42'>Nếu xảy ra điều này thì người phụ nữ có thể có hoặc không có các triệu chứng mãn kinh .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Cancer chemotherapy and radiation therapy</s>
+<s id='vn43'>Hoá trị liệu ung thư và điều trị ung thư bằng bức xạ</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Depending upon the type and location of the cancer and its treatment , these types of cancer therapy ( chemotherapy and_or radiation therapy ) can result in menopause if given to an ovulating woman .</s>
+<s id='vn44'>Tuỳ thuộc vào loại ung thư , vị trí ung thư và phương pháp điều trị mà các kiểu liệu pháp điều trị ung thư này ( hoá trị liệu và hoặc điều trị bằng bức xạ ) có thể dẫn đến mãn kinh nếu áp dụng cho phụ nữ đang rụng trứng .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>In this case , the symptoms of menopause may begin during the cancer treatment or may develop in the months following the treatment .</s>
+<s id='vn45'>Trong trường hợp này thì các triệu chứng mãn kinh có thể bắt đầu trong suốt quá trình điều trị hoặc có thể xảy ra sau khi điều trị một vài tháng .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Premature ovarian failure</s>
+<s id='vn46'>Suy chức năng buồng trứng sớm</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Premature ovarian failure is defined as the occurrence of menopause before the age of 40 .</s>
+<s id='vn47'>Suy chức năng buồng trứng sớm được xác định khi xảy ra mãn kinh trước tuổi 40 .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This condition occurs in about 1 % of all women .</s>
+<s id='vn48'>Chứng bệnh này thường gặp ở khoảng chừng 1% phụ nữ .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>The cause of premature ovarian failure is not fully understood , but it may be related to autoimmune diseases or inherited factors .</s>
+<s id='vn49'>Người ta vẫn chưa rõ nguyên nhân gây suy chức năng buồng trứng sớm nhưng nó có thể liên quan đến nhiều bệnh tự miễn nhiễm hoặc các yếu tố di truyền .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>What are the symptoms of menopause ?</s>
+<s id='vn50'>Triệu chứng của mãn kinh là gì ?</s>
+</spair>
+<spair id='51'>
+<s id='en51'>It is important to remember that each woman 's experience is highly individual .</s>
+<s id='vn51'>Điều quan trọng xin lưu ý là không phải ai cũng có triệu chứng giống nhau .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Some women may experience few or no symptoms of menopause , while others experience multiple physical and psychological symptoms .</s>
+<s id='vn52'>Một số người có thể có một vài triệu chứng hoặc chẳng có triệu chứng gì cả , trong khi số khác lại bộc phát rất nhiều triệu chứng cả về tâm lý lẫn thể chất .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The extent and severity of symptoms varies significantly among women .</s>
+<s id='vn53'>Mức độ triệu chứng và tính nghiêm trọng của các triệu chứng khác biệt đáng kể giữa các phụ nữ .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>These symptoms of menopause and perimenopause are discussed in detail below .</s>
+<s id='vn54'>Những triệu chứng mãn kinh và tiền mãn kinh này sẽ được thảo luận chi tiết dưới đây .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Irregular vaginal bleeding</s>
+<s id='vn55'>Xuất huyết âm đạo bất thường</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Irregular vaginal bleeding may occur during menopause .</s>
+<s id='vn56'>Xuất huyết âm đạo bất thường có thể xảy ra trong thời kỳ mãn kinh .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Some women have minimal problems with abnormal bleeding during perimenopause whereas others have unpredictable , excessive bleeding .</s>
+<s id='vn57'>Một số người gặp rắc rối nhỏ với hiện tượng xuất huyết bất thường này suốt thời gian tiền mãn kinh trong khi đó nhiều người khác bị xuất huyết đột ngột và dữ dội .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Menstrual periods ( menses ) may occur more frequently ( meaning the cycle shortens in duration ) , or they may get farther and farther apart ( meaning the cycle lengthens in duration ) before stopping .</s>
+<s id='vn58'>Chu kỳ kinh nguyệt ( kinh nguyệt ) có thể xảy ra thường hơn ( có nghĩa là chu kỳ kinh nguyệt ngắn hơn ) , hoặc cũng có thể là nó kéo dài hơn ( chu kỳ kinh nguyệt dài hơn ) trước khi ngừng hành kinh hẳn .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>There is no " normal " pattern of bleeding during the perimenopause , and patterns vary from woman to woman .</s>
+<s id='vn59'>Chẳng có một kiểu xuất huyết nào là " bình thường " trong suốt thời kỳ tiền mãn kinh cả và không phải là ai cũng giống ai .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>It is common for women in perimenopause to have a period after going for several months without one .</s>
+<s id='vn60'>Phụ nữ tiền mãn kinh thường hành kinh một lần sau một vài tháng ngưng kinh ; .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>There is also no set length of time it takes for a woman to complete the menopausal transition .</s>
+<s id='vn61'>Đồng thời cũng không xác định được khoảng thời gian mà người phụ nữ xong giai đoạn chuyển tiếp mãn kinh là bao lâu .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>It is important to remember that all women who develop irregular menses should be evaluated by her doctor to confirm that the irregular menses are due to perimenopause and not as a sign of another medical condition .</s>
+<s id='vn62'>Nhưng điều quan trọng nên nhớ là hễ người nào bị hội chứng kinh nguyệt không đều thì nên được bác sĩ khám để xác định chắc chắn là hiện tượng rối loạn kinh nguyệt đó là do tiền mãn kinh và không phải là một dấu hiệu bệnh nào khác .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The menstrual abnormalities that begin in the perimenopause are also associated with a decrease in fertility , since ovulation has become irregular .</s>
+<s id='vn63'>Những bất thường về kinh nguyệt bắt đầu ở giai đoạn tiền mãn kinh cũng liên quan đến việc giảm khả năng thụ thai bởi trứng đã không rụng đều đặn nữa .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>However , women who are perimenopausal may still become pregnant until they have reached true menopause ( the absence of periods for one year ) and should still use contraception if they do not wish to become pregnant .</s>
+<s id='vn64'>Tuy nhiên phụ nữ tiền mãn kinh cũng có thể vẫn có thai cho đến khi nào mãn kinh thực sự mới thôi ( không hành kinh trong một năm ) và nên sử dụng phương pháp tránh thai nếu không muốn mang thai .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Hot flashes & night sweats</s>
+<s id='vn65'>Hiện tượng trào huyết và đổ mồ hôi trộm ban đêm</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Hot flashes are common among women undergoing menopause .</s>
+<s id='vn66'>Hội chứng trào huyết rất thường gặp ở phụ nữ tuổi mãn kinh .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>A hot flash is a feeling of warmth that spreads over the body and is often most pronounced in the head and chest .</s>
+<s id='vn67'>Trào huyết là cảm giác nóng lan khắp cơ thể và thường thấy rõ nhất là ở đầu và ngực .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>A hot flash is sometimes associated with flushing and is sometimes followed by perspiration .</s>
+<s id='vn68'>Trào huyết đôi khi liên quan đến chứng đỏ ửng và đôi khi toát mồ hôi sau đó .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Hot flashes usually last from 30 seconds to several minutes .</s>
+<s id='vn69'>Trào huyết thường kéo dài từ 30 giây đến vài phút .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Although the exact cause of hot flashes is not fully understood , hot flashes are likely due to a combination of hormonal and biochemical fluctuations brought on by declining estrogen levels .</s>
+<s id='vn70'>Mặc dù người ta chưa tìm ra nguyên nhân chính xác gây trào huyết nhưng hiện tượng này có thể là do kết hợp của sự thay đổi hoóc - môn và thay đổi hoá sinh gây ra do giảm nồng độ estrogen .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>There is currently no method to predict when hot flashes will begin and how long they will last .</s>
+<s id='vn71'>Hiện chưa có phương pháp nào giúp dự đoán chứng trào huyết bắt đầu khi nào và kéo dài bao lâu .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Hot flashes occur in up to 40 % of regularly menstruating women in their forties , so they may begin before the menstrual irregularities characteristic of menopause begin .</s>
+<s id='vn72'>Đến 40% phụ nữ có kinh đều đặn bị trào huyết ở tuổi 40 , vì vậy họ có thể bắt đầu trào huyết trước khi thấy chứng rối loạn kinh nguyệt - đặc điểm của thời kỳ mãn kinh bắt đầu .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>About 80 % of women will be finished having hot flashes after five years .</s>
+<s id='vn73'>Khoảng 80% phụ nữ sẽ hết bị trào huyết sau 5 năm .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Sometimes ( in about 10 % of women ) , hot flashes can last as long as 10 years .</s>
+<s id='vn74'>Đôi khi chứng trào huyết này cũng có thể kéo dài đến 10 năm ( đối với chừng 10% phụ nữ ) .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>There is no way to predict when hot flashes will cease , though they tend to decrease in frequency over time .</s>
+<s id='vn75'>Chẳng có cách nào biết trước là khi nào thì một người sẽ hết trào huyết , dẫu rằng nó cũng thường giảm đi từ từ .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>The average woman who has hot flashes will have them for about five years .</s>
+<s id='vn76'>Trung bình thì người phụ nữ sẽ bị trào huyết trong khoảng chừng 5 năm .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Sometimes hot flashes are accompanied by night sweats ( episodes of drenching sweats at nighttime ) .</s>
+<s id='vn77'>Đôi khi chứng trào huyết này cũng thường kèm theo đổ mồ hôi vào ban đêm ( mồ hôi ướt sũng vào ban đêm ) .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>This may lead to awakening and difficulty falling asleep again , resulting in unrefreshing sleep and daytime tiredness .</s>
+<s id='vn78'>Điều này có thể làm thức giấc và khó ngủ lại được , dẫn đến tình trạng giấc ngủ không được thoải mái và mệt mỏi vào ban ngày .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Vaginal symptoms</s>
+<s id='vn79'>Các triệu chứng âm đạo</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Sometimes hot flashes are accompanied by night sweats ( episodes of drenching sweats at nighttime ) .</s>
+<s id='vn80'>Đôi khi chứng trào huyết này cũng thường kèm theo đổ mồ hôi vào ban đêm ( mồ hôi ướt sũng vào ban đêm ) .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>This may lead to awakening and difficulty falling asleep again , resulting in unrefreshing sleep and daytime tiredness .</s>
+<s id='vn81'>Điều này có thể làm thức giấc và khó ngủ lại được , dẫn đến tình trạng giấc ngủ không được thoải mái và mệt mỏi vào ban ngày .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Urinary symptoms</s>
+<s id='vn82'>Các triệu chứng đường tiết niệu</s>
+</spair>
+<spair id='83'>
+<s id='en83'>The lining of the urethra ( the transport tube leading from the bladder to discharge urine outside the body ) also undergoes changes similar to the tissues of the vagina , and becomes drier , thinner , and less elastic with declining estrogen levels .</s>
+<s id='vn83'>Niêm mạc niệu đạo ( ống dẫn nước tiểu từ bàng quang ra ngoài cơ thể ) cũng có nhiều thay đổi tương tự như mô âm đạo , và trở nên khô hơn , mỏng hơn , và ít đàn hồi hơn khi nồng độ hoóc - môn estrogen giảm .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>This can lead to an increased risk of urinary tract infection , feeling the need to urinate more frequently , or leakage of urine ( urinary incontinence ) .</s>
+<s id='vn84'>Điều này có thể làm tăng nguy cơ nhiễm trùng đường tiểu , cảm giác mắc tiểu thường xuyên hơn , hoặc són tiểu ( rỉ són nước tiểu ) .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>The incontinence can result from a strong , sudden urge to urinate or may occur during straining when coug hing , laughing , or lifting heavy objects .</s>
+<s id='vn85'>Sự không cầm được nước tiểu này có thể do quá mắc tiểu và mắc tiểu đột ngột hoặc có thể xảy ra khi gắng sức lúc ho , cười hoặc nâng nhấc các vật nặng .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Emotional and cognitive symptoms</s>
+<s id='vn86'>Các triệu chứng nhận thức và xúc cảm</s>
+</spair>
+<spair id='87'>
+<s id='en87'>Women in perimenopause often report a variety of thinking ( cognitive ) or emotional symptoms , including fatigue , memory problems , irritability , and rapid changes in mood .</s>
+<s id='vn87'>Phụ nữ tiền mãn kinh thường cho biết họ có nhiều triệu chứng liên quan đến ( nhận thức ) suy nghĩ hoặc xúc cảm , như mệt mỏi , các vấn đề về trí nhớ , dễ cáu gắt , và thay đổi tâm trạng nhanh chóng .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>It is difficult to precisely determine exactly which behavioral symptoms are due directly to the hormonal changes of menopause .</s>
+<s id='vn88'>Thật khó có thể biết chính xác các triệu chứng hành vi nào là bị ảnh hưởng trực tiếp bởi các thay đổi hoóc - môn mãn kinh .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>Research in this area has been difficult for many reasons .</s>
+<s id='vn89'>Nghiên cứu về lĩnh vực này rất khó khăn do nhiều lý do .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Emotional and cognitive symptoms are so common that it is sometimes difficult in a given woman to know if they are due to menopause .</s>
+<s id='vn90'>Các triệu chứng xúc cảm và nhận thức quá thường thấy đến nỗi đôi khi cũng khó biết liệu chúng có phải là do mãn kinh đối với một người phụ nữ nào đó hay không .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>The night sweats that may occur during perimenopause can also contribute to feelings of tiredness and fatigue , which can have an effect on mood and cognitive performance .</s>
+<s id='vn91'>Chứng mồ hôi đêm cũng có thể xảy ra suốt thời kỳ tiền mãn kinh và cũng có thể góp phần gây nên cảm giác mệt mỏi , có thể ảnh hưởng đến tâm trạng và nhận thức .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Finally , many women may be experiencing other life changes during the time of perimenopause or after menopause , such as stressful life events , that may also cause emotional symptoms .</s>
+<s id='vn92'>Cuối cùng , nhiều phụ nữ có thể gặp nhiều thay đổi khác trong cuộc sống suốt thời kỳ tiền mãn kinh hoặc hậu mãn kinh , chẳng hạn như nhiều biến cố cuộc sống căng thẳng , cũng có thể gây ra các triệu chứng xúc cảm .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Other physical changes</s>
+<s id='vn93'>Các thay đổi khác về hình dáng bên ngoài</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Many women report some degrees of weight gain along with menopause .</s>
+<s id='vn94'>Nhiều phụ nữ cho biết cơ thể mình tăng cân ở nhiều mức độ cùng với thời kỳ mãn kinh .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>The distribution of body fat may change , with body fat being deposited more in the waist and abdominal area than in the hips and thighs .</s>
+<s id='vn95'>Sự phân bố mỡ trên cơ thể cũng có thể thay đổi , vùng thắt lưng và bụng nhiều hơn ở hông và đùi .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Changes in skin texture , including wrinkles , may develop along with worsening of adult acne in those affected by this condition .</s>
+<s id='vn96'>Các thay đổi trên cấu trúc da , như có thể xuất hiện nhiều nếp nhăn và làm cho mụn trứng cá ở người lớn ngày càng tệ hơn ở những người bị bệnh này .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>Since the body continues to produce small levels of the male hormone testosterone , some women may experience some hair growth on the chin , upper lip , chest , or abdomen .</s>
+<s id='vn97'>Vì cơ thể tiếp tục sản sinh ra ít hoóc-môn testosterone nam nên một số phụ nữ có thể mọc lông lơ thơ ở cằm , môi trên , ngực , hoặc bụng .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>What are the complications and effects of menopause on chronic medical conditions ?</s>
+<s id='vn98'>Mãn kinh gây biến chứng và ảnh hưởng gì đối với các bệnh mãn tính ?</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Osteoporosis</s>
+<s id='vn99'>Loãng xương</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Osteoporosis is the deterioration of the quantity and quality of bone that causes an increased risk of fracture .</s>
+<s id='vn100'>Loãng xương là bệnh làm giảm chất lượng và số lượng xương làm tăng nguy cơ nứt gãy .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>The density of the bone ( bone mineral density ) normally begins to decrease in women during the fourth decade of life .</s>
+<s id='vn101'>Mật độ xương ( mật độ chất khoáng trong xương ) thường bắt đầu giảm khi phụ nữ ở tuổi 40 .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>However , that normal decline in bone density is accelerated during the menopausal transition .</s>
+<s id='vn102'>Tuy nhiên , sự giảm mật độ xương bình thường đó càng nhanh hơn trong giai đoạn chuyển tiếp mãn kinh .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>As a consequence , both age and the hormonal changes due to the menopause transition act together to cause osteoporosis .</s>
+<s id='vn103'>Hậu quả là , lão hoá kết hợp với thay đổi hôc - môn do chuyển tiếp mãn kinh gây nên chứng loãng xương .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The process leading to osteoporosis can operate silently for decades .</s>
+<s id='vn104'>Quá trình gây loãng xương có thể diễn ra trong một thời gian dài .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Women may not be aware of their osteoporosis until suffering a painful fracture .</s>
+<s id='vn105'>Nhiều phụ nữ có thể không biết mình bị loãng xương cho đến khi xương bị nứt gãy gây đau đớn .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>The symptoms are then related to the location and severity of the fractures .</s>
+<s id='vn106'>Các triệu chứng sau đó liên quan đến vị trí và độ trầm trọng của các chỗ nứt gãy đó .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Treatment of osteoporosis</s>
+<s id='vn107'>Điều trị chứng loãng xương</s>
+</spair>
+<spair id='108'>
+<s id='en108'>The goal of osteoporosis treatment is the prevention of bone fractures by slowing bone loss and increasing bone density and strength .</s>
+<s id='vn108'>Mục tiêu của việc điều trị bệnh loãng xương là phòng tránh nứt xương bằng cách làm cho xương mất chậm lại và làm cho xương chắc khỏe hơn .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>Although early detection and timely treatment of osteoporosis can substantially decrease the risk of future fracture , none of the available treatments for osteoporosis are complete cures for the condition .</s>
+<s id='vn109'>Mặc dù việc phát hiện sớm và điều trị loãng xương kịp thời có thể làm giảm đáng kể nguy cơ nứt gãy về sau , nhưng chẳng có phương pháp nào có thể chữa lành hoàn toàn chứng loãng xương .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>Therefore , the prevention of osteoporosis is as important as treatment .</s>
+<s id='vn110'>Do đó , việc phòng tránh loãng xương cũng quan trọng như việc chữa trị .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Osteoporosis treatment and prevention measures are :</s>
+<s id='vn111'>Phương pháp điều trị và biện pháp phòng tránh loãng xương gồm :</s>
+</spair>
+<spair id='112'>
+<s id='en112'>* Lifestyle changes including cessation of cigarette smoking , curtailing alcohol in take , exercising regularly , and consuming a balanced diet with adequate calcium and vitamin D.</s>
+<s id='vn112'>* Thay đổi lối sống như bỏ hút thuốc lá , giảm bớt bia rượu , luyện tập thể dục thường xuyên , và có chế độ dinh dưỡng cân đối đầy đủ can - xi và vitamin D .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>* Calcium and vitamin D supplements may be recommended for women who do not consume sufficient quantities of these nutrients .</s>
+<s id='vn113'>* Người ta cũng khuyến nghị nên bổ sung can-xi và vitamin D cho những phụ nữ không hấp thụ đủ các dưỡng chất này .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>* Medications that stop bone loss and increase bone strength include alendronate ( Fosamax ) , risedronate ( Actonel ) , ibandronate ( Boniva ) , zoledronic acid ( Reclast ) , raloxifene ( Evista ) , and calcitonin ( Calcimar ) .</s>
+<s id='vn114'>* Nhiều loại thuốc có thể ngăn không cho mất xương và làm cho xương chắc khỏe hơn như alendronate ( Fosamax ) , risedronate ( Actonel ) , ibandronate ( Boniva ) , a-xít zoledronic ( Reclast ) , raloxifene ( Evista ) , và calcitonin ( Calcimar ) .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Teriparatide ( Forteo ) is a medication that increases bone formation .</s>
+<s id='vn115'>Teriparatide ( Forteo ) là thuốc giúp tạo xương nhiều hơn .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Cardiovascular disease</s>
+<s id='vn116'>Bệnh tim mạch</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Prior to menopause , women have a decreased risk of heart disease and stroke when compared with men .</s>
+<s id='vn117'>Trước khi mãn kinh , phụ nữ có nguy cơ bệnh tim và đột quỵ khi so với nam giới .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Around the time of menopause , however , a women 's risk of cardiovascular disease increases .</s>
+<s id='vn118'>Tuy nhiên , gần thời kỳ mãn kinh thì nguy cơ bệnh tim mạch ở phụ nữ lại tăng .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Heart disease is the leading cause of death in both men and women in the U.S.</s>
+<s id='vn119'>Bệnh tim là nguyên nhân gây tử vong hàng đầu ở cả nam lẫn nữ ở Hoa Kỳ .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Prior to menopause , women have a decreased risk of heart disease and stroke when compared with men .</s>
+<s id='vn120'>Trước khi mãn kinh , phụ nữ có nguy cơ bệnh tim và đột quỵ khi so với nam giới .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>Around the time of menopause , however , a women 's risk of cardiovascular disease increases .</s>
+<s id='vn121'>Tuy nhiên , gần thời kỳ mãn kinh thì nguy cơ bệnh tim mạch ở phụ nữ lại tăng .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Heart disease is the leading cause of death in both men and women in the U.S.</s>
+<s id='vn122'>Bệnh tim là nguyên nhân gây tử vong hàng đầu ở cả nam lẫn nữ ở Hoa Kỳ .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>Are hormone levels or other blood tests helpful in detecting menopause ?</s>
+<s id='vn123'>Nồng độ hoóc-môn hoặc các xét nghiệm máu khác có giúp phát hiện ra mãn kinh không ?</s>
+</spair>
+<spair id='124'>
+<s id='en124'>Because hormone levels may fluctuate greatly in an individual woman , even from one day to the next , hormone levels are not a reliable method for diagnosing menopause .</s>
+<s id='vn124'>Vì nồng độ hoóc - môn có thể dao động rất nhiều ở một phụ nữ nào đó , thậm chí là khác nhau từ ngày này sang ngày khác , nên nồng độ hoóc-môn không phải là phương pháp đáng tin cậy để chẩn đoán mãn kinh .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>Even if levels are low one day , they may be high the next day in the same woman .</s>
+<s id='vn125'>Cho dù là nồng độ hoóc-môn ngày hôm nay là thấp đi nữa thì cũng có thể ngày mai là rất cao khi đo ở cùng một người .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>There is no single blood test that reliably predicts when a woman is going through the menopausal transition .</s>
+<s id='vn126'>Tương tự chẳng có một xét nghiệm máu đơn lẻ nào đáng tin cậy để dự đoán khi nào một người sẽ chuyển tiếp mãn kinh .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>Therefore , there is currently no proven role for blood testing regarding menopause except for tests to exclude medical causes of erratic menstrual periods other than menopause .</s>
+<s id='vn127'>Do đó , hiện vai trò của xét nghiệm máu để nhận biết mãn kinh chưa được chứng minh ngoại trừ các xét nghiệm loại trừ các nguyên nhân bệnh gây rối loạn chu kỳ kinh nguyệt ( chu kỳ kinh nguyệt thất thường ) ngoài mãn kinh .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>The only way to diagnose menopause is to observe the lack of menstrual periods for 12 months in a woman in the expected age range .</s>
+<s id='vn128'>Cách duy nhất để chẩn đoán mãn kinh là theo dõi tình trạng không hành kinh trong 12 tháng của người phụ nữ đang ở độ tuổi mãn kinh .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>What are the treatment options for menopause ?</s>
+<s id='vn129'>Người ta có thể chọn phương pháp điều trị nào cho chứng mãn kinh ?</s>
+</spair>
+<spair id='130'>
+<s id='en130'>Menopause itself is a normal part of life and not a disease that requires treatment .</s>
+<s id='vn130'>Bản thân mãn kinh là điều tất yếu bình thường trong cuộc sống con người và không phải là bệnh cần phải chữa .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>However , treatment of associated symptoms is possible if these become substantial or severe .</s>
+<s id='vn131'>Tuy nhiên , người ta cũng có thể điều trị các triệu chứng có liên quan nếu như những triệu chứng này trở nên khó chịu hoặc trầm trọng hơn .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>Hormone therapy</s>
+<s id='vn132'>Điều trị bằng hoóc-môn</s>
+</spair>
+<spair id='133'>
+<s id='en133'>Estrogen and progesterone therapy</s>
+<s id='vn133'>Liệu pháp hoóc-môn estrogen và progesterone</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Hormone therapy ( HT ) , also referred to as hormone replacement therapy ( HRT ) or postmenopausal hormone therapy ( PHT ) , consists of estrogens or a combination of estrogens and progesterone ( progestin ) .</s>
+<s id='vn134'>Điều trị bằng hoóc-môn ( HT ) , cũng được gọi là liệu pháp thay thế hoóc-môn ( HRT ) hoặc liệu pháp hoóc-môn sau mãn kinh ( PHT ) , bao gồm hoóc-môn estrogen hoặc kết hợp cả hoóc-môn estrogen và progesterone ( progestin ) .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>Hormone therapy has been used to control the symptoms of menopause related to declining estrogen levels such as hot flashes and vaginal dryness , and HT is still the most effective way to treat these symptoms .</s>
+<s id='vn135'>Liệu pháp hoóc - môn đã được sử dụng để làm giảm các triệu chứng mãn kinh liên quan đến giảm nồng độ hoóc-môn estrogen chẳng hạn như chứng trào huyết và khô âm đạo , và HT vẫn là cách điều trị các triệu chứng này hiệu quả nhất .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>But long-term studies of women receiving combined hormone therapy with both estrogen and progesterone were halted when it was discovered that these women had an increased risk for heart attack , stroke , and breast cancer when compared with women who did not receive HT .</s>
+<s id='vn136'>Nhưng nhiều công trình nghiên cứu lâu năm về việc phụ nữ sử dụng liệu pháp cả hoóc-môn estrogen và progesterone đã bị ngưng lại khi người ta phát hiện ra rằng nguy cơ bị bệnh tim , đột quỵ , và ung thư vú của những phụ nữ này tăng cao khi so với những phụ nữ không dùng liệu pháp HT .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Later studies of women taking estrogen therapy alone showed that estrogen was associated with an increased risk for stroke , but not for heart attack or breast cancer .</s>
+<s id='vn137'>Nhiều cuộc nghiên cứu sau này về việc phụ nữ chỉ sử dụng liệu pháp hoóc-môn estrogen cho thấy estrogen có liên quan với việc làm tăng nguy cơ đột quỵ , chứ không làm tăng nguy cơ bệnh tim hoặc ung thư vú .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Estrogen therapy alone , however , is associated with an increased risk of developing endometrial cancer ( cancer of the lining of the uterus ) in postmenopausal women who have not had their uterus surgically removed .</s>
+<s id='vn138'>Tuy nhiên , liệu pháp hoóc - môn estrogen đơn lẻ lại liên quan với việc làm tăng nguy cơ phát triển ung thư nội mạc tử cung ( ung thư niêm mạc tử cung ) ở phụ nữ hậu mãn kinh chưa hề phẫu thuật cắt bỏ tử cung .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Hormone therapy is available in oral ( pill ) , transdermal form ( patch ) .</s>
+<s id='vn139'>Điều trị bằng hoóc - môn có thể được sử dụng ở dạng uống ( viên ) và dạng sử dụng trên da ( miếng dán ) .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>Transdermal hormone products are already in their active form without the need for " first pass " metabolism in the liver to be converted to an active form .</s>
+<s id='vn140'>Các sản phẩm hoóc - môn qua da đã có sẵn ở dạng kích hoạt mà không cần phải có " bước chuyển hoá đầu tiên " trong gan mới chuyển thành dạng hoạt động được .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>Since transdermal hormone products do not have effects on the liver , this route of administration has become the preferred form for most women .</s>
+<s id='vn141'>Vì các sản phẩm hoóc-môn qua da này không gây ảnh hưởng đến gan nên việc áp dụng liệu pháp này đã được hầu hết phụ nữ ưa chuộng .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>A number of preparations are available for oral and transdermal forms of HT , varying in the both type and amount of hormones in the products .</s>
+<s id='vn142'>Một số thuốc có thể dùng để điều trị bằng hoóc-môn dạng uống và dạng sử dụng qua da , không giống nhau cả về kiểu mẫu lẫn số lượng hoóc-môn trong sản phẩm .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>There has been increasing interest in recent years in the use of so-called " bioidentical " hormone therapy for perimenopausal women .</s>
+<s id='vn143'>Trong những năm gần đây thì ngày càng có nhiều người thích sử dụng liệu pháp hoóc-môn " đồng nhất sinh học " đối với phụ nữ tiền mãn kinh .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>Bioidentical hormone preparations are medications that contain hormones that have the same chemical formula as those made naturally in the body .</s>
+<s id='vn144'>Thuốc hoóc-môn đồng nhất sinh học là những thuốc chứa hoóc-môn có cùng công thức hoá học như những hoóc-môn tự nhiên trong cơ thể .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>The hormones are created in a laboratory by altering compounds derived from naturally-occurring plant products .</s>
+<s id='vn145'>Hoóc-môn được tạo trong phòng thí nghiệm bằng cách thay đổi hợp chất có chiết xuất từ các sản phẩm thực vật trong thiên nhiên .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>Some of these so-called bioidentical hormone preparations are U.S. FDA approved_and manufactured by drug companies , while others are made at special pharmacies called compounding pharmacies that make the preparations on a case-by-case basis for each patient .</s>
+<s id='vn146'>Một số có tên là thuốc hoóc - môn đồng nhất sinh học được tổ chức FDA Hoa Kỳ cho phép sử dụng và được nhiều công ty dược sản xuất ra ; trong khi nhiều thuốc khác được sản xuất ở các phòng bào chế đặc biệt được gọi là phòng bào chế đa hợp chế tạo thuốc cho từng trường hợp bệnh nhân cụ thể .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>These preparations are not regulated by the FDA , because compounded products are not standardized .</s>
+<s id='vn147'>Các loại thuốc này nằm ngoài quy định của tổ chức FDA , bởi vì những sản phẩm đa hợp là những sản phẩm không đạt tiêu chuẩn .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>Like transdermal HT products , bioidentical hormone therapy products are administered transdermally .</s>
+<s id='vn148'>Giống như các sản phẩm HT sử dụng qua da thì những sản phẩm điều trị bằng hoóc-môn đồng nhất sinh học cũng được sử dụng qua da .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>They are typically applied as cream or gels .</s>
+<s id='vn149'>Chúng thường là ở dạng gel hoặc kem .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>Their advocates believe that their use may avoid potentially dangerous side effects of synthetic hormones used in conventional hormone therapy .</s>
+<s id='vn150'>Những người ủng hộ liệu pháp này tin là họ có thể tránh được các tác dụng phụ nguy hiểm tiềm ẩn của hoóc-môn tổng hợp được sử dụng trong liệu pháp hoóc-môn thông thường .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>However , studies to establish the long-term safety and effectiveness of these products have not been carried out .</s>
+<s id='vn151'>Tuy nhiên , các nghiên cứu chứng minh tính an toàn và hiệu quả lâu dài của những sản phẩm này vẫn chưa được thực hiện .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>The decision about hormone therapy , is a very individual decision in which the patient and doctor must take into account the inherent risks and benefits of the treatment along with each woman 's own medical history .</s>
+<s id='vn152'>Quyết định sử dụng liệu pháp hoóc - môn là quyết định rất riêng của từng người mà trong đó cả bệnh nhân và bác sĩ đều phải tính đến các rủi ro và lợi ích tiềm tàng của phương pháp điều trị này cùng với tiền sử sức khỏe riêng của mỗi người .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>It is currently recommended that if hormone therapy is used , it should be used at the smallest dose for the shortest possible time .</s>
+<s id='vn153'>Hiện người ta khuyến nghị nếu sử dụng liệu pháp hoóc-môn thì nên sử dụng ở liều lượng nhỏ nhất trong thời gian ngắn nhất có thể .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>The WHI study findings do not support the use of HT for the prevention of chronic disease .</s>
+<s id='vn154'>Các phát hiện của cuộc nghiên cứu WHI cũng không tán thành việc sử dụng liệu pháp hoóc-môn để phòng ngừa bệnh mãn tính .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>Oral contraceptive pills</s>
+<s id='vn155'>Thuốc ngừa thai dạng uống</s>
+</spair>
+<spair id='156'>
+<s id='en156'>Oral contraceptive pills are another form of hormone therapy often prescribed for women in perimenopause to treat irregular vaginal bleeding .</s>
+<s id='vn156'>Thuốc ngừa thai dạng uống là dạng liệu pháp hoóc-môn khác thường được kê toa cho phụ nữ tiền mãn kinh để trị chứng xuất huyết âm đạo bất thường .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>Prior to treatment , a doctor must exclude other causes of erratic vaginal bleeding .</s>
+<s id='vn157'>Trước khi điều trị , bác sĩ phải loại trừ các nguyên nhân gây xuất huyết âm đạo thất thường khác .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Women in the menopausal transition tend to have considerable breakthrough bleeding when given estrogen therapy .</s>
+<s id='vn158'>Phụ nữ giai đoạn chuyển tiếp mãn kinh thường hay xuất huyết dữ dội khi sử dụng liệu pháp hoóc-môn estrogen .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Therefore , oral contraceptives are often given to women in the menopause transition to regulate menstrual periods , relieve hot flashes , as well as to provide contraception .</s>
+<s id='vn159'>Vì vậy , thuốc ngừa thai dạng uống thường được sử dụng cho phụ nữ giai đoạn chuyển tiếp mãn kinh để làm điều hoà kinh nguyệt , làm giảm chứng trào huyết , đồng thời cũng để tránh thai .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>The list of contraindications for oral contraceptives in women going through the menopause transition is the same as that for premenopausal women .</s>
+<s id='vn160'>Các chống chỉ định của thuốc ngừa thai dạng uống ở phụ nữ giai đoạn chuyển tiếp mãn kinh giống như chống chỉ định đối với phụ nữ tiền mãn kinh .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>Local ( vaginal ) hormone and non-hormone treatments</s>
+<s id='vn161'>Điều trị tại chỗ ( âm đạo ) bằng hoóc-môn và không bằng hoóc-môn</s>
+</spair>
+<spair id='162'>
+<s id='en162'>There are also local ( meaning applied directly to the vagina ) hormonal treatments for the symptoms of vaginal estrogen deficiency .</s>
+<s id='vn162'>Cũng có nhiều phương pháp điều trị bằng hoóc-môn tại chỗ đối với các triệu chứng thiếu estrogen âm đạo ( có nghĩa là tác động trực tiếp lên âm đạo ) .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>Local treatments include the vaginal estrogen ring , vaginal estrogen cream , or vaginal estrogen tablets .</s>
+<s id='vn163'>Các phương pháp điều trị tại chỗ như vòng đặt âm đạo , kem thoa âm đạo , hoặc viên đặt âm đạo .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Local and oral estrogen treatments are sometimes combined for this purpose .</s>
+<s id='vn164'>Điều trị bằng estrogen tại chỗ hoặc dạng uống đôi khi được kết hợp vì mục đích này .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>Vaginal moisturizing agents such as creams or lotions ( for example , K-Y Silk-E Vaginal Moisturizer or KY Liquibeads Vaginal Moisturizer ) as well as the use of lubricants during intercourse are non-hormonal options for managing the discomfort of vaginal dryness .</s>
+<s id='vn165'>Nhiều chất làm ẩm âm đạo như kem hoặc kem dưỡng da ( chẳng hạn như K-Y Silk-E Vaginal Moisturizer hoặc KY Liquibeads Vaginal Moisturizer ) cũng như việc sử dụng chất bôi trơn trong khi giao hợp là những phương pháp không sử dụng hoóc-môn để làm giảm khó chịu khi khô âm đạo .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>Applying Betadine topically on the outer vaginal area , and soaking in a sitz bath or soaking in a bathtub of warm water may be helpful for relieving symptoms of burning and vaginal pain after intercourse .</s>
+<s id='vn166'>Việc thoa Betadine tại chỗ lên vùng da bên ngoài âm đạo , và ngâm trong bồn tắm ngồi hoặc ngâm trong bồn tắm nước ấm có thể giúp làm giảm các triệu chứng đau rát âm đạo sau khi giao hợp .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>Other pharmaceutical therapies</s>
+<s id='vn167'>Các liệu pháp sử dụng thuốc khác</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Antidepressant medications : The class of drugs known as selective serotonin reuptake inhibitors ( SSRIs ) and related medications have been shown to be effective in controlling the symptoms of hot flashes in up to 60 % of women .</s>
+<s id='vn168'>Các loại thuốc chống trầm cảm : Đây là loại thuốc có tác dụng ức chế tái hấp thu sê-rô-tô-nin có chọn lọc ( SSRIs ) và các loại thuốc có họ hàng cũng cho thấy hiệu quả làm giảm các triệu chứng trào huyết ở đến 60% phụ nữ .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>Specifically , venlafaxine ( Effexor ) , a drug related to the SSRIs , and the SSRIs fluoxetine ( Prozac ) , sertraline ( Zoloft ) , paroxetine ( Paxil ) , and citalopram ( Celexa ) have all been shown to decrease the severity of hot flashes in some women .</s>
+<s id='vn169'>Cụ thể là venlafaxine ( Effexor ) , thuốc có họ hàng với SSRIs , và SSRIs fluoxetine ( Prozac ) , sertraline ( Zoloft ) , paroxetine ( Paxil ) , và citalopram ( Celexa ) đều cho thấy tác dụng làm giảm tính trầm trọng của chứng trào huyết đối với một số phụ nữ .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>However , antidepressant medications may be associated with side effects , including decreased libido or sexual dysfunction .</s>
+<s id='vn170'>Tuy nhiên nhiều thuốc chống trầm cảm có thể gây tác dụng phụ , chẳng hạn như làm giảm ham muốn tình dục hoặc làm rối loạn tình dục .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>Other medications : Other prescription medications have been shown to provide some relief for hot flashes , although their specific purpose is not the treatment of hot flashes .</s>
+<s id='vn171'>Các loại thuốc khác : Các loại thuốc theo toa khác cho thấy có thể làm giảm trào huyết , mặc dù mục đích cụ thể của chúng không phải là để trị trào huyết .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>All of these may have side effects , and their use should be discussed with and monitored by a doctor .</s>
+<s id='vn172'>Tất cả những loại thuốc này đều có thể có tác dụng phụ , và phải nên thảo luận và được bác sĩ theo dõi mới sử dụng .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>Some of these medications that have been shown to help relieve hot flashes include the antiseizure drug gabapentin ( Neurontin ) and clonidine ( Catapres ) , a drug used to treat high blood pressure .</s>
+<s id='vn173'>Một số loại thuốc này có tác dụng làm giảm trào huyết gồm thuốc chống động kinh gabapentin ( Neurontin ) và clonidine ( Catapres ) , đây là thuốc để chữa cao huyết áp .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>Alternative medical therapies</s>
+<s id='vn174'>Các liệu pháp sử dụng thuốc thay thế</s>
+</spair>
+<spair id='175'>
+<s id='en175'>Plant estrogens ( phytoestrogens , isoflavones )</s>
+<s id='vn175'>Estrogen thực vật ( phytoestrogens , isoflavones )</s>
+</spair>
+<spair id='176'>
+<s id='en176'>Isoflavones are chemical compounds found in soy and other plants that are phytoestrogens , or plant-derived estrogens .</s>
+<s id='vn176'>Isoflavones là hợp chất hoá học có trong đậu tương và các loại thực vật khác là phytoestrogens , hoặc estrogen có chiết xuất từ thực vật .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>They have a chemical structure that is similar to the estrogens naturally produced by the body , but their effectiveness as an estrogen has been estimated to be much lower than true estrogens .</s>
+<s id='vn177'>Chúng có cấu trúc hoá học tương tự như estrogen do cơ thể tiết ra tự nhiên , nhưng hiệu quả của chúng đã được ước lượng thấp hơn nhiều so với estrogen thực sự .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>Their estrogen potency has been estimated to be only 1/1000 to 1/100,000 of that of estradiol , a natural estrogen .</s>
+<s id='vn178'>Hiệu lực estrogen của chúng được ước lượng chỉ đạt 1/1000 đến 1/100,000 hoóc-môn buồng trứng , một loại estrogen tự nhiên .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>Two types of isoflavones , genistein and dai dzein , are found in soy beans , chick peas , and lentils , and are considered to be the most potent estrogens of the phytoestrogens .</s>
+<s id='vn179'>2 loại isoflavone , genistein và daidzein , có trong đậu tương , đậu chick pea , đậu lăng , và được cho là các hoóc-môn estrogen mạnh nhất của phytoestrogen .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>Some studies have shown that these compounds may help relieve hot flashes and other symptoms of menopause .</s>
+<s id='vn180'>Một số nghiên cứu cho thấy các hợp chất này có thể giúp làm giảm trào huyết và các triệu chứng mãn kinh khác .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>In particular , women who have had breast cancer and do not want to take hormone therapy ( HT ) with estrogen sometimes use soy products for relief of menopausal symptoms .</s>
+<s id='vn181'>Đặc biệt là những phụ nữ bị ung thư vú và không muốn sử dụng liệu pháp hoóc-môn estrogen ( HT ) thì đôi khi cũng có thể sử dụng các sản phẩm đậu nành để làm giảm các triệu chứng mãn kinh .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>However , some phytoestrogens can actually have anti-estrogenic properties in certain situations , and the risks of these preparations have not yet been determined .</s>
+<s id='vn182'>Tuy nhiên một số phytoestrogen thật sự có thể có đặc tính kháng estrogen ở một số trường hợp nào đó , và người ta cũng chưa xác định được những rủi ro của các loại thuốc này .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>For example , researchers have shown that long-term use of phytoestrogens in postmenopausal women led to an overgrowth of the tissues lining the uterus ( endometrial hyperplasia ) which can be a precursor to cancer .</s>
+<s id='vn183'>Chẳng hạn như các nhà nghiên cứu đã cho thấy việc sử dụng lâu dài phytoestrogen ở phụ nữ hậu mãn kinh dẫn đến tăng sinh mô lót tử cung ( tăng sản màng trong dạ con ) mà có thể đây là một dấu hiệu báo trước của bệnh ung thư .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>There is also a perception among many women that plant estrogens are " natural " and therefore safer than HT , but this has never been proven scientifically .</s>
+<s id='vn184'>Nhiều phụ nữ cũng nghĩ rằng các hoóc-môn estrogen thực vật " tự nhiên " và so đó an toàn hơn HT , nhưng điều này vẫn chưa được khoa học chứng minh .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>Further research is needed to fully characterize the safety and potential risks of phytoestrogens .</s>
+<s id='vn185'>Cần phải nghiên cứu thêm để xác định đầy đủ các đặc tính an toàn và nguy cơ tiềm ẩn của phytoestrogen .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>Vitamin E</s>
+<s id='vn186'>Vitamin E</s>
+</spair>
+<spair id='187'>
+<s id='en187'>Some women report that vitamin E supplements can provide relief from mild hot flashes , but scientific studies are lacking to prove the effectiveness of vitamin E in relieving symptoms of menopause .</s>
+<s id='vn187'>Một số phụ nữ cho biết việc bổ sung vitamin E có thể giúp làm giảm chứng trào huyết nhẹ , nhưng các cuộc nghiên cứu khoa học vẫn chưa chứng minh đầy đủ công hiệu của vitamin E trong việc làm giảm các triệu chứng mãn kinh .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>Taking a dosage greater than 400 international units ( IU ) of vitamin E may not be safe , since some studies have suggested that greater dosages may be associated with cardiovascular disease risk .</s>
+<s id='vn188'>Sử dụng vitamin E liều cao trên 400 đơn vị quốc tế ( IU ) có thể không an toàn , bởi một số nghiên cứu cho biết vitamin E liều cao có thể liên quan với nguy cơ bệnh tim mạch .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>Some women report that vitamin E supplements can provide relief from mild hot flashes , but scientific studies are lacking to prove the effectiveness of vitamin E in relieving symptoms of menopause .</s>
+<s id='vn189'>Một số phụ nữ cho biết việc bổ sung vitamin E có thể giúp làm giảm chứng trào huyết nhẹ , nhưng các cuộc nghiên cứu khoa học vẫn chưa chứng minh đầy đủ công hiệu của vitamin E trong việc làm giảm các triệu chứng mãn kinh .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>Taking a dosage greater than 400 international units ( IU ) of vitamin E may not be safe , since some studies have suggested that greater dosages may be associated with cardiovascular disease risk .</s>
+<s id='vn190'>Sử dụng vitamin E liều cao trên 400 đơn vị quốc tế ( IU ) có thể không an toàn , bởi một số nghiên cứu cho biết vitamin E liều cao có thể liên quan với nguy cơ bệnh tim mạch .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>Black cohosh is an herbal preparation that has been popular in Europe for the relief of hot flashes .</s>
+<s id='vn191'>Black cohosh là thảo dược được sử dụng rộng rãi ở Châu Âu để làm giảm trào huyết .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>This herb has become more and more popular in the U.S. , and the North American Menopause Society does support the short-term use of black cohosh for treating menopausal symptoms , for a period of up to six months , because of its relatively low incidence of side effects when used short term .</s>
+<s id='vn192'>Loại thảo dược này ngày càng trở nên thông dụng hơn ở Mỹ , và Hiệp hội Mãn kinh Bắc Mỹ đã cho phép sử dụng black cohosh ngắn hạn để chữa trị các triệu chứng mãn kinh , trong thời gian đến 6 tháng , bởi tỉ lệ gây tác dụng phụ tương đối thấp khi sử dụng ngắn hạn .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>However , there have still been very few scientific studies done to establish the benefits and safety of this product .</s>
+<s id='vn193'>Tuy nhiên , vẫn còn rất ít các công trình nghiên cứu khoa học cho thấy lợi ích và đặc điểm an toàn của sản phẩm này .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>Research is ongoing to further determine the effectiveness and safety of black cohosh .</s>
+<s id='vn194'>Người ta vẫn tiếp tục nghiên cứu nhiều hơn để xác định rõ thêm công hiệu và an toàn của loại black cohosh này .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>Other alternative therapies</s>
+<s id='vn195'>Các liệu pháp thay thế khác</s>
+</spair>
+<spair id='196'>
+<s id='en196'>There are many supplements and substances that have been advertised as " natural " treatments for symptoms of menopause , including licorice , dong quai , chasteberry , and wild yam .</s>
+<s id='vn196'>Có nhiều chất và thuốc bổ sung được quảng cáo là phương pháp điều trị " tự nhiên chữa các triệu chứng mãn kinh , bao gồm cam thảo , đương quy , chasteberry , và wild yam .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>Scientific studies have not proven the safety or effectiveness of these products .</s>
+<s id='vn197'>Các công trình nghiên cứu khoa học vẫn chưa chứng minh công hiệu và đặc tính an toàn của các sản phẩm này .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>Non-pharmaceutical therapies</s>
+<s id='vn198'>Các liệu pháp không sử dụng thuốc</s>
+</spair>
+<spair id='199'>
+<s id='en199'>In women for whom oral or vaginal estrogens are deemed inappropriate , such as breast cancer survivors , or women who do not wish to take oral or vaginal estrogen , there are a variety of over-the-counter vaginal lubricants .</s>
+<s id='vn199'>Đối với những phụ nữ mà liệu pháp hoóc - môn estrogen sử dụng dạng uống hoặc sử dụng tại âm đạo được cho là không phù hợp , chẳng hạn như người sống sót sau ung thư vú hoặc người không muốn sử dụng estrogen dạng uống hoặc estrogen dùng tại chỗ thì có thể mua tự do nhiều chất bôi trơn âm đạo khác .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>However , they are probably not as effective in relieving vaginal symptoms as replacing the estrogen deficiency with oral or local estrogen .</s>
+<s id='vn200'>Tuy nhiên , chúng có thể không hiệu quả trong việc làm giảm các triệu chứng âm đạo như bù đắp sự thiếu estrogen bằng estrogen dạng uống hoặc dùng tại chỗ .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>Lifestyle factors in controlling the symptoms and complications of menopause</s>
+<s id='vn201'>Các yếu tố lối sống làm giảm các triệu chứng và biến chứng của mãn kinh</s>
+</spair>
+<spair id='202'>
+<s id='en202'>Many of the symptoms of menopause and the medical complications that may develop in postmenopausal women can be lessened or even avoided by taking steps to lead a healthy lifes tyle .</s>
+<s id='vn202'>Nhiều triệu chứng mãn kinh và biến chứng sức khỏe có thể phát triển ở phụ nữ hậu mãn kinh có thể được giảm bớt hoặc thậm chí tránh được bằng cách thực hiện các bước sống lành mạnh .</s>
+</spair>
+<spair id='203'>
+<s id='en203'>Regular exercise can help protect against cardiovascular disease as well as osteoporosis , and exercise also has brought mental health benefits .</s>
+<s id='vn203'>Luyện tập thể dục thường xuyên có thể giúp phòng chống bệnh tim mạch cũng như bệnh loãng xương , và luyện tập thể thao cũng mang lại nhiều lợi ích sức khỏe tinh thần khác .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>Proper nutrition and smoking cessation will also reduce your risk of cardiovascular disease .</s>
+<s id='vn204'>Một chế độ dinh dưỡng thích hợp và bỏ thuốc lá cũng sẽ góp phần làm giảm nguy cơ bệnh tim mạch của bạn .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>Menopause At A Glance</s>
+<s id='vn205'>Sơ lược về mãn kinh</s>
+</spair>
+<spair id='206'>
+<s id='en206'>* Menopause is defined as the absence of menstrual periods for 12 months .</s>
+<s id='vn206'>* Mãn kinh được định nghĩa là chứng không xuất hiện kinh nguyệt trong 12 tháng .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>It is the time in a woman 's life when the function of the ovaries ceases .</s>
+<s id='vn207'>Đây là lúc mà chức năng của các buồng trứng người phụ nữ ngừng hoạt động .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>* The process of menopause does not occur overnight , but rather is a gradual process .</s>
+<s id='vn208'>* Quá trình mãn kinh không xảy ra một sớm một chiều mà là cả một quá trình tiến triển dần dần .</s>
+</spair>
+<spair id='209'>
+<s id='en209'>This so-called perimenopausal transition period is a different experience for each woman .</s>
+<s id='vn209'>Giai đoạn chuyển tiếp tiền mãn kinh không phải ai cũng giống ai .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>* The average age of menopause onset is 51 years old , but menopause may occur as early as the 30s or as late as the 60s .</s>
+<s id='vn210'>* Tuổi mãn kinh trung bình bắt đầu là 51 , nhưng mãn kinh có thể xảy ra sớm ở tuổi 30 và muộn ở tuổi 60 .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>There is no reliable lab test to predict when a woman will experience menopause .</s>
+<s id='vn211'>Chẳng có một xét nghiệm ở phòng thí nghiệm nào dự đoán khi nào thì một người phụ nữ sẽ mãn kinh .</s>
+</spair>
+<spair id='212'>
+<s id='en212'>* The age at which a woman starts having menstrual periods is not related to the age of menopause onset .</s>
+<s id='vn212'>* Tuổi bắt đầu hành kinh ở phụ nữ không liên quan gì đến tuổi bắt đầu mãn kinh .</s>
+</spair>
+<spair id='213'>
+<s id='en213'>* Symptoms of menopause can include abnormal vaginal bleeding , hot flashes , vaginal and urinary symptoms , and mood changes .</s>
+<s id='vn213'>* Các triệu chứng mãn kinh có thể gồm xuất huyết âm đạo bất thường , trào huyết , các triệu chứng âm đạo và đường tiết niệu , kèm theo thay đổi tâm trạng , tính khí thất thường .</s>
+</spair>
+<spair id='214'>
+<s id='en214'>* Complications that women may develop in the postmenopausal period include osteoporosis and heart disease .</s>
+<s id='vn214'>* Các biến chứng có thể bộc phát ở phụ nữ hậu mãn kinh là loãng xương và bệnh tim .</s>
+</spair>
+<spair id='215'>
+<s id='en215'>* Treatments for menopause are customized for each patient .</s>
+<s id='vn215'>* Phương pháp điều trị loãng xương không phải ai cũng giống ai .</s>
+</spair>
+<spair id='216'>
+<s id='en216'>* Treatments are directed toward alleviating uncomfortable or distressing symptoms .</s>
+<s id='vn216'>* Việc điều trị thường làm giảm các triệu chứng khó chịu hoặc gây đau đớn cho bệnh nhân .</s>
+</spair>
+</text>
+</doc>

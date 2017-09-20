@@ -1,0 +1,476 @@
+﻿<doc id='N0489'>
+<head>
+<title>From " Dracula " to " Twilight " , Vampires Evolve With the Times</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>From " Dracula " to " Twilight " , Vampires Evolve With the Times</s>
+<s id='vn1'>Từ " Ác quỷ Dracula " đến " Chạng vạng " - ma cà rồng tiến hoá theo thời gian</s>
+</spair>
+<spair id='2'>
+<s id='en2'>In books , movies and TV shows , why does the public love to sink its teeth into a good vampire story ?</s>
+<s id='vn2'>Trong sách báo , phim ảnh và các chương trình truyền hình , tại sao công chúng luôn bị cuốn hút vào một câu chuyện ma cà rồng ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Today we get to know more about a famous creature known for its pale skin , pointy teeth and big hunger for human blood .</s>
+<s id='vn3'>Hôm nay chúng ta sẽ được biết thêm về một sinh vật nổi tiếng về làn da tái nhợt , hàm răng nhọc hoắc và luôn thèm khát máu người .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Vampires have held an important place in the popular imagination since ancient times .</s>
+<s id='vn4'>Ma cà rồng đã giữ một vị trí quan trọng trong trí tưởng tượng công chúng từ thời xa xưa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>More recent versions of vampires are in many books , movies and television series .</s>
+<s id='vn5'>Gần đây có nhiều phiên bản ma cà rồng hơn xuất hiện trong nhiều cuốn sách , phim ảnh và xê-ri phim truyền hình .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The " Twilight " series of books and movies has increased the popularity of vampires around the world .</s>
+<s id='vn6'>Xê-ri truyện và phim " Chạng vạng " đã làm hình tượng ma cà rồng trở nên phổ biến khắp nơi trên thế giới .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>EDWARD : " I 'm a killer . "</s>
+<s id='vn7'>EDWARD : " Anh là một kẻ giết người . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>BELLA : " I do n't believe that . "</s>
+<s id='vn8'>BELLA : " Em không tin . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>EDWARD : " It 's because you believe the lie .</s>
+<s id='vn9'>EDWARD : " Đó là vì em tin vào sự dối trá .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It 's a camouflage .</s>
+<s id='vn10'>Tất cả chỉ là nguỵ trang .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I 'm the world 's most dangerous predator .</s>
+<s id='vn11'>Anh là loài dã thú nguy hiểm nhất thế giới .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Everything about me invites you in .</s>
+<s id='vn12'>Mọi thứ trong anh đã mời gọi em đến .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>My voice , my face , even my smell .</s>
+<s id='vn13'>Giọng nói này , gương mặt này , thậm chí là mùi hương này của anh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>As if I would need any of that .</s>
+<s id='vn14'>Làm như thể anh cần đến mấy thứ đó vậy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>As if you could out run me . "</s>
+<s id='vn15'>Làm như thể em có thể thoát được anh . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>That was a scene from the two thousand eight movie , " Twilight . "</s>
+<s id='vn16'>Đó là một cảnh trong bộ phim " Chạng vạng " vào năm 2008 .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>It tells the story of a teenager named Bella Swan who falls in love with an unusual high school classmate named Edward Cullen .</s>
+<s id='vn17'>Câu chuyện kể về một cô gái tuổi teen tên là Bella Swan đã yêu một người bạn bí hiểm học cùng lớp ở trường trung học tên là Edward Cullen .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>She knows there is something very special about him .</s>
+<s id='vn18'>Cô biết ở anh ấy có cái gì đó rất đặc biệt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>He is very strong , very pale , and very cold to the touch .</s>
+<s id='vn19'>Anh ấy rất mạnh , rất nhợt nhạt , và rất lạnh khi chạm vào .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>She soon discovers that Edward is a vampire .</s>
+<s id='vn20'>Chẳng mấy chốc cô phát hiện Edward là một con ma cà rồng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>BELLA : " I 'm not afraid of you .</s>
+<s id='vn21'>BELLA : " Em không sợ anh .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I 'm only afraid of losing you .</s>
+<s id='vn22'>Em chỉ có sợ mất anh thôi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>I feel like you 're going to disappear . "</s>
+<s id='vn23'>Em có cảm giác anh sắp biến mất . "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Edward lives with a vampire family that has chosen to drink the blood of animals instead of humans .</s>
+<s id='vn24'>Edward sống với gia đình ma cà rồng đã chọn uống máu của động vật thay vì của người .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>His family helps Bella when she is threatened by a more dangerous vampire .</s>
+<s id='vn25'>Gia đình anh ấy giúp Bella khi cô bị một con ma cà rồng nguy hiểm hơn đe doạ .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>The movie stars Kristen Stewart and Robert Pattinson .</s>
+<s id='vn26'>Bộ phim có sự tham gia diễn xuất của Kristen Stewart và Robert Pattinson .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>It is based on a best-selling book by the American writer Stephenie Meyer .</s>
+<s id='vn27'>Nó được dựa trên quyển sách bán chạy nhất của nhà văn người Mỹ Stephenie Meyer .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Her " Twilight " series includes four novels : " Twilight " , " New Moon " , " Eclipse " and " Breaking Dawn . "</s>
+<s id='vn28'>Xê-ri " Chạng vạng " của cô bao gồm 4 quyển tiểu thuyết : " Chạng vạng " , " Trăng non " , " Nhật thực " và " Hừng đông " .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Miz Meyer says that the idea for the first book came from a dream .</s>
+<s id='vn29'>Meyer nói rằng ý tưởng cho cuốn sách đầu tiên là từ một giấc mơ .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>She dreamt about a young girl and a vampire having an intense discussion while standing in a forest .</s>
+<s id='vn30'>Cô mơ thấy một cô gái trẻ và một con ma cà rồng đang tranh cãi dữ dội khi đứng trong một khu rừng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>She wrote down all the details of her dream and developed it into a full story .</s>
+<s id='vn31'>Cô ấy ghi lại tất cả những chi tiết trong giấc mơ của mình và phát triển nó thành một câu chuyện đầy đủ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The second movie in the series , " New Moon , " was released in November .</s>
+<s id='vn32'>Bộ phim thứ nhì trong xê-ri phim là " Trăng non , " được công chiếu vào tháng 11 .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>It sold more tickets in its first day than any other American movie in history .</s>
+<s id='vn33'>Trong ngày đầu công chiếu nó đã bán được nhiều vé hơn bất cứ một bộ phim Mỹ nào trong lịch sử .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It earned over seventy-two million dollars in its first day in theaters .</s>
+<s id='vn34'>Nó thu về hơn 72 triệu đô-la trong ngày đầu tiên khi mang ra rạp chiếu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>American ticket sales the first weekend it was released made " New Moon " the third best-selling movie on record .</s>
+<s id='vn35'>Doanh thu bán vé ở Mỹ vào tuần đầu công chiếu đã khiến " Trăng non " trở thành bộ phim ăn khách nhất đứng hàng thứ ba trong kỷ lục .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" New moon " continues the love story between Bella and Edward .</s>
+<s id='vn36'>" Trăng non " tiếp tục chuyện tình giữa Bella và Edward .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Edward can no longer safely live in the same town as Bella .</s>
+<s id='vn37'>Edward không còn sống yên ổn ở thị trấn như Bella đang sống .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>She is very lonely and sad without Edward .</s>
+<s id='vn38'>Cô ấy rất cô đơn và buồn chán khi không có Edward bên cạnh .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>She becomes close friends with a young man who competes for her love and attention .</s>
+<s id='vn39'>Cô ấy trở nên thân thiết với một chàng trai đang cố giành cho được tình yêu và sự quan tâm của cô ấy .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Long before the " Twilight " series , writer Anne Rice created another popular series of vampire books .</s>
+<s id='vn40'>Khá lâu trước xê-ri " Chạng vạng " , nhà văn Anne Rice đã sáng tác một xê-ri truyện ma cà rồng nổi tiếng khác .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Her novel " Interview with a Vampire " has sold millions of copies and was also made into a movie .</s>
+<s id='vn41'>Tiểu thuyết " Phỏng vấn với ma cà rồng " đã bán được hàng triệu bản và cũng được dựng thành phim .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Amy Smith teaches English at the University of the Pacific in California .</s>
+<s id='vn42'>Amy Smith dạy tiếng Anh tại Trường Đại học Thái Bình Dương ở California .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>She is an expert on vampires in film and literature .</s>
+<s id='vn43'>Cô ấy là một chuyên gia về ma cà rồng trong phim ảnh và văn chương .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>We asked Professor Smith why vampires are so popular in the United States .</s>
+<s id='vn44'>Chúng tôi hỏi giáo sư Smith tại sao ma cà rồng lại rất phổ biến ở Mỹ .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Professor Smith says that Americans love to see themselves as changeable and inventive .</s>
+<s id='vn45'>Giáo sư Smith nói rằng người Mỹ thích tự coi mình là người dễ thay đổi và sáng tạo .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>She says these two qualities also define vampires in movies and literature .</s>
+<s id='vn46'>Cô ấy nói chính hai đặc điểm bày cũng định rõ hình tượng ma cà rồng trong phim ảnh và văn học .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Amy Smith says vampires can change from human to animal forms .</s>
+<s id='vn47'>Amy Smith nói ma cà rồng có thể biến từ người sang vật .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>And if they do not have a traditional coffin to sleep in during the day , they can find other answers , such as using a car .</s>
+<s id='vn48'>Và nếu họ không có một cỗ quan tài để nằm ngủ vào ban ngày thì họ có thể kiếm một nơi trú khác , chẳng hạn như sử dụng một chiếc xe hơi .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Amy Smith says vampires also adapt to the many local differences across the United States .</s>
+<s id='vn49'>Amy Smith nói ma cà rồng cũng thích nghi với nhiều sự khác biệt về vùng miền trên khắp nước Mỹ .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>She says there are city vampires like in the movies " The Addiction " and " Nadja . "</s>
+<s id='vn50'>Cô ấy nói có những con ma cà rồng thành thị như trong phim " Nghiện ngập " và " Nadja . "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>And , there are sunny California vampires like in the former American television show " Buffy the Vampire Slayer . "</s>
+<s id='vn51'>Và , có những con ma cà rồng rám nắng vùng California như trong chương trình truyền hình Mỹ trước đây " Buffy tên sát nhân ma cà rồng . "</s>
+</spair>
+<spair id='52'>
+<s id='en52'>She says vampires also adapt well to many kinds of movies and books : those that are funny , sad , adventurous , scary or for young people .</s>
+<s id='vn52'>Cô ấy nói ma cà rồng cũng thích nghi tốt với nhiều thể loại phim và sách : có những con ma cà rồng biết vui , buồn , thích mạo hiểm , rùng rợn hoặc dành cho lứa tuổi thanh thiếu niên .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Professor Smith says one reason the " Twilight " series of books and movies is so popular is that they are not just about finding love .</s>
+<s id='vn53'>Giáo sư Smith nói một lý do mà xê-ri truyện và phim " Chạng vạng " lại nổi tiếng đến như thế là vì nó không chỉ nói về tình yêu đơn thuần .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>They are about finding never-ending love .</s>
+<s id='vn54'>Chúng là một tình yêu bất diệt .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Bella has found someone who will love her forever .</s>
+<s id='vn55'>Bella đã tìm được người sẽ yêu cô ấy mãi mãi .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The " Twilight " series is not the only source for good vampire watching these days .</s>
+<s id='vn56'>Xê-ri " Chạng vạng " không phải là nguồn giải trí về đề tài ma cà rồng duy nhất để xem ngày nay .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The movie " Daybreakers " was released in the United Statesearlier this month .</s>
+<s id='vn57'>Bộ phim " Daybreakers " được chiếu ở Mỹ hồi đầu tháng này .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>It stars Ethan Hawke and Willem Dafoe .</s>
+<s id='vn58'>Trong phim có diễn xuất của Ethan Hawke và Willem Dafoe .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>This story is set in the future .</s>
+<s id='vn59'>Câu chuyện này xảy ra ở tương lai .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>A virus turns much of the human population into vampires .</s>
+<s id='vn60'>Một loại vi-rút đã biến nhiều người thành ma cà rồng .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>As humans begin to disappear , the vampires must come up with a way to guarantee their future food supply .</s>
+<s id='vn61'>Khi loài người bắt đầu biến mất , ma cà rồng phải nghĩ ra cách để bảo đảm nguồn thức ăn của họ trong tương lai .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Other recent vampire movies include the American film " Cirque du Freak : The Vampire 's Assistant " , the Swedish film " Let the Right One In " and the Korean film " Thirst . "</s>
+<s id='vn62'>Những bộ phim ma cà rồng gần đây bao gồm phim " Cirque du Freak : Đệ tử ma cà rồng " của Mỹ , " Mời đúng người vào nhà " của Thụy Điển và phim " Khát máu " của Hàn Quốc .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The American television show " True Blood " tells a more adult version of vampire love than " Twilight . "</s>
+<s id='vn63'>Bộ phim truyền hình Mỹ " True Blood " lại nói về đề tài tình yêu của ma cà rồng mang tính người lớn hơn là " Chạng vạng . "</s>
+</spair>
+<spair id='64'>
+<s id='en64'>It is about a young woman named Sookie Stackhouse who lives in the small town of Bon Temps , Louisiana .</s>
+<s id='vn64'>Bộ phim kể về cô gái trẻ tên là Sookie Stackhouse sống ở một thị trấn nhỏ Bon Temps , Louisiana .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>She falls in love with Bill Compton , a vampire who lives in the town .</s>
+<s id='vn65'>Cô ấy yêu Bill Compton , một con ma cà rồng sống ở đó .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The vampires are not treated very well in this television program .</s>
+<s id='vn66'>Những con ma cà rồng không được đối xử tử tế trong bộ phim truyền hình này .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>They are fighting for equal rights with humans .</s>
+<s id='vn67'>Họ đấu tranh đòi quyền bình đẳng với con người .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>In the first season of the show , Sookie 's friends are not very happy that she is interested in a vampire .</s>
+<s id='vn68'>Trong phần đầu của phim , những người bạn của Sookie tỏ ra không vui khi thấy cô thích một con ma cà rồng .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>SAM : " Sookie , you 're being a very stupid girl . "</s>
+<s id='vn69'>SAM : " Sookie à , em đúng là một cô gái rất ngu ngốc . "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>SOOKIE : " Who asked you ?</s>
+<s id='vn70'>SOOKIE : " Có ai cần anh quan tâm ?</s>
+</spair>
+<spair id='71'>
+<s id='en71'>I can take care of myself . "</s>
+<s id='vn71'>Em có thể tự chăm sóc mình . "</s>
+</spair>
+<spair id='72'>
+<s id='en72'>SAM : " I do n't think so .</s>
+<s id='vn72'>SAM : " Anh không nghĩ vậy .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Matt could have seriously cut you up last night . "</s>
+<s id='vn73'>Matt có thể đã cắn cổ hút máu em đêm qua . "</s>
+</spair>
+<spair id='74'>
+<s id='en74'>SOOKIE : " How do you know what Matt would have done ? "</s>
+<s id='vn74'>SOOKIE : " Sao anh biết những gì Matt lẽ ra có thể làm gì ? "</s>
+</spair>
+<spair id='75'>
+<s id='en75'>SAM : " Now you 're setting up a date with a vampire !</s>
+<s id='vn75'>SAM : " Còn bây giờ em đang hẹn hò với một con ma cà rồng !</s>
+</spair>
+<spair id='76'>
+<s id='en76'>What do you have , a death wish ? "</s>
+<s id='vn76'>Em muốn gì nào , muốn chết ư ? "</s>
+</spair>
+<spair id='77'>
+<s id='en77'>SOOKIE : " No , I do n't have a death wish .</s>
+<s id='vn77'>SOOKIE : " Không , em không muốn chết .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>I just happen to think that judging an entire group of people based on the actions of a few individuals within that group is morally wrong . "</s>
+<s id='vn78'>Em chỉ nghĩ rằng việc phán xét một tập thể mà chỉ dựa trên hành động của một vài cá nhân trong tập thể đó là trái với đạo lý . "</s>
+</spair>
+<spair id='79'>
+<s id='en79'>SAM : " Well , I will not let you put yourself or this bar in danger .</s>
+<s id='vn79'>SAM : " Ừm , anh sẽ không để em tự mang chuốc hoạ vào thân hay cái quán rượu này .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>I won't . "</s>
+<s id='vn80'>Anh thề đấy . "</s>
+</spair>
+<spair id='81'>
+<s id='en81'>" True Blood " has completed its second season on the cable channel HBO .</s>
+<s id='vn81'>" True Blood " đã trình chiếu xong phần hai trên kênh truyền hình cáp HBO .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Critics say the show has helped reinvent HBO .</s>
+<s id='vn82'>Các nhà phê bình nói bộ phim này đã giúp tái thiết HBO .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>The channel was struggling to find television shows as popular as its former series , " The Sopranos . "</s>
+<s id='vn83'>Kênh truyền hình này đang cố tìm kiếm những chương trình truyền hình nổi tiếng như loạt phim " Sopranos " trước đây .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Alan Ball created " True Blood . "</s>
+<s id='vn84'>Alan Ball sáng tác ra " True Blood . "</s>
+</spair>
+<spair id='85'>
+<s id='en85'>He has suggested one reason the show is so popular : men and women each find something they like in it .</s>
+<s id='vn85'>Anh ấy cho rằng một lý do khiến bộ phim trở nên phổ biến : cả phụ nữ và nam giới đều tìm thấy cái mà họ thích trong đó .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>He says women like the storytelling and love scenes .</s>
+<s id='vn86'>Anh ấy nói phụ nữ thích cốt truyện và những cảnh tình cảm .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>And he says men like the large amount of sex and violence .</s>
+<s id='vn87'>Và anh ấy nói nam giới lại rất thích tình dục và bạo lực .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>More than one hundred years ago , vampires became popular after the publication of Irish writer Bram Stoker 's book " Dracula . "</s>
+<s id='vn88'>Cách đây hơn một trăm năm , ma cà rồng trở thành phổ biến sau khi cuốn sách " Ác quỷ Dracula " của nhà văn Ai-len Bram Stoker được xuất bản .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>It was first published in Britain in eighteen ninety-seven .</s>
+<s id='vn89'>Nó đã được xuất bản lần đầu tiên ở Anh vào năm 1897 .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Mister Stoker did not invent the idea of a vampire .</s>
+<s id='vn90'>Ông Stoker không sáng tác ra ý tưởng về ma cà rồng .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Cultures around the world have their own versions of these blood-sucking creatures .</s>
+<s id='vn91'>Những nền văn hoá trên thế giới đều có phiên bản của riêng mình về loài sinh vật hút máu này .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>And , Mister Stoker was not the first person to write a story about a vampire .</s>
+<s id='vn92'>Và , ông Stocker không phải là người đầu tiên viết truyện về ma cà rồng .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>But his book defined one tradition of the vampire story .</s>
+<s id='vn93'>Nhưng sách của ông đã trở thành một câu chuyện ma cà rồng kinh điển .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Mister Stoker is thought to have based his evil Count Dracula character on a ruler who lived in fifteenth century Romania .</s>
+<s id='vn94'>Người ta nghĩ Ông Stocker đã xây dựng nhân vật Bá tước Dracula độc ác dựa trên hình tượng một kẻ thống trị vào thế kể 15 ở Ru-ma-ni .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Vlad the Impaler was said to have killed tens of thousands of people , including invading members of the Ottoman Empire .</s>
+<s id='vn95'>Vlad - kẻ xiên người - được cho là đã giết hàng chục ngàn người , kể cả tấn công người của đế quốc Thổ Nhĩ Kỳ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Bram Stoker 's " Dracula " is told through the personal writings and letters of its characters .</s>
+<s id='vn96'>" Ác quỷ Dracula " của Bram Stoker được kể dưới dạng những mẩu thư từ và nhật ký cá nhân của các nhân vật .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The story begins with the daily observations of a young English lawyer named Jonathan Harker .</s>
+<s id='vn97'>Câu chuyện bắt đầu bằng công việc thường nhật của một chàng luật sư trẻ tuổi người Anh tên là Jonathan Harker .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>He is sent to Transylvania to help a man named Count Dracula settle a property purchase in Britain .</s>
+<s id='vn98'>Anh ấy được đưa đến Transylvania để giúp một người đàn ông tên là Bá tước Dracula giải quyết vụ giao dịch bất động sản ở Anh .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>But his visit does not go as planned .</s>
+<s id='vn99'>Nhưng chuyến viếng thăm của anh ấy không như theo kế hoạch .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Harker becomes a prisoner in the vampire 's large home .</s>
+<s id='vn100'>Harker trở thành tù nhân trong ngôi nhà lớn của ma cà rồng .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>After meeting Dracula 's vampire brides , Harker barely escapes alive .</s>
+<s id='vn101'>Sau khi gặp những bà vợ của Dracula , Harker vẫn còn sống sót sau vụ chạy trốn .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The horror story continues when Dracula travels to England .</s>
+<s id='vn102'>Câu chuyện kinh dị tiếp diễn khi ác quỷ Dracula đến thăm nước Anh .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Soon , Jonathan Harker 's wife Mina becomes one of his victims .</s>
+<s id='vn103'>Chẳng bao lâu , cô vợ Mina của Jonathan Harker trở thành một trong những nạn nhân của hắn .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Experts say the book explored different social subjects that were especially meaningful to English readers in the late nineteenth century .</s>
+<s id='vn104'>Các chuyên gia nói rằng cuốn sách đã khai thác nhiều đề tài xã hội khác nhau có ý nghĩa đặc biệt đối với độc giả Anh vào cuối thế kỷ thứ 19 .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>These include colonialism , immigration , folk culture versus modernity , and women 's sexuality .</s>
+<s id='vn105'>Trong đó có nói về chủ nghĩa thực dân , sự nhập cư , văn hoá dân gian đối đầu với hiện đại , và tình dục phụ nữ .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Count Dracula has been recreated in many plays and movies .</s>
+<s id='vn106'>Bá tước Dracula đã được dựng đi dựng lại trong nhiều vở kịch và phim ảnh .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>One of the most famous , and in some ways the most frightening , is the nineteen twenty-two film " Nosferatu . "</s>
+<s id='vn107'>Một trong những bộ phim nổi tiếng nhất , và có thể nói là kinh dị nhất là bộ phim vào năm 1922 có tên gọi " Nosferatu . "</s>
+</spair>
+<spair id='108'>
+<s id='en108'>This silent film was made by the German director F.W. Murnau .</s>
+<s id='vn108'>Bộ phim câm này được sản xuất bởi giám đốc người Đức F W Murnau .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The vampire character in this movie , known as Count Orlak , is tall and thin with long pointy fingers .</s>
+<s id='vn109'>Nhân vật ma cà rồng trong bộ phim này , gọi là bá tước Orlak , cao và gầy với những ngón tay dài và nhọn hoắc .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The famous actor Bela Lugosi played Count Dracula first in the theater , then in a nineteen thirty-one movie version of the book .</s>
+<s id='vn110'>Diễn viên nổi tiếng Bela Lugosi đóng vai Bá tước Dracula lần đầu tiên trên sân khấu , sau đó là trong một phiên bản điện ảnh của cuốn sách vào năm 1931 .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Nina Auerbach is a literature professor at the University of Pennsylvania .</s>
+<s id='vn111'>Nina Auerbach là một giáo sư văn học ở Đại học Pennsylvania .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Her book "Our Vampires , Ourselves " offers another explanation for the continued popularity of vampires .</s>
+<s id='vn112'>Cuốn sách của bà " Ma cà rồng của chúng ta , chính chúng ta " đã đưa ra một lời giải thích khác về sự phổ biến không ngừng của ma cà rồng .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Professor Auerbach describes how the evolution of vampires tells a great deal about a culture 's fears , which change over generations .</s>
+<s id='vn113'>Giáo sư Auerbach mô tả cách tiến hoá của ma cà rồng đã nói lên rất nhiều về những nỗi sợ hãi của văn hoá mà đã thay đổi qua nhiều thế hệ .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>She shows how vampire stories help express people 's cultural , social and political beliefs .</s>
+<s id='vn114'>Bà còn cho thấy cách thức mà các câu chuyện ma cà rồng thể hiện tín ngưỡng về văn hóa , xã hội và chính trị của loài người .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Professor Auerbach says these creatures help people escape from the boredom and pressure of life .</s>
+<s id='vn115'>Giáo sư Auerbach nói những sinh vật này giúp con người thoát khỏi cảnh chán chường và áp lực trong cuộc sống .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>And she says they are very important because they tell us about our times and ourselves .</s>
+<s id='vn116'>Và bà ấy nói chúng rất quan trọng vì chúng kể cho chúng ta biết về thời đại của chúng ta và chính con người chúng ta .</s>
+</spair>
+</text>
+</doc>

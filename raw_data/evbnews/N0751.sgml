@@ -1,0 +1,184 @@
+﻿<doc id='N0751'>
+<head>
+<title>Three Trees</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Three Trees</s>
+<s id='vn1'>Ba Cây cổ thụ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Once there were three trees on a hill in the woods .</s>
+<s id='vn2'>Ở một khu rừng nọ có ba cây cổ thụ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They were discussing their hopes and dreams .</s>
+<s id='vn3'>Chúng đang bàn về những ước mơ và hy vọng của mình .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I could be filled with gold , silver and precious gems .</s>
+<s id='vn4'>Tôi có thể có đầy vàng , bạc , đá quý .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>I could be decorated with intricate carving and everyone would see the beauty . "</s>
+<s id='vn5'>Tôi được trang trí bằng những nét điêu khắc tinh vi và ai cũng sẽ chiêm ngắm sắc đẹp của tôi . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The second tree said , " Someday I will be a mighty ship .</s>
+<s id='vn6'>Cây thứ hai nói : " Tôi muốn trở thành một con thuyền khổng lồ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I will take kings and queens across the waters and sail to the corners of the world .</s>
+<s id='vn7'>Tôi sẽ chở đức vua và hoàng hậu đi chu du khắp nơi trên thế giới .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Everyone will feel safe in me because of the strength of my hull . "</s>
+<s id='vn8'>Mọi người được an toàn bằng sức mạnh của mạn thuyền mình . "</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The third tree said , " I want to grow to be the tallest and straightest tree in the forest .</s>
+<s id='vn9'>Cây thứ ba kêu " Tôi muốn mình vươn dài thành một cây cổ thụ cao nhất và thẳng nhất trong khu rừng này .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>People will see me on top of the hill and look up to my branches , and think of the heavens and God and how close to them I am reaching .</s>
+<s id='vn10'>Tôi sẽ đứng sừng sững trên đỉnh đồi và ai cũng ngước nhìn cành tược của tôi , họ sẽ nghĩ về Chúa trời và bầu trời cao lộng gió và thấy tôi sắp với tới trời cao .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I will be the greatest tree of all time and people will always remember me . "</s>
+<s id='vn11'>Tôi sẽ là một cây cao lớn nhất muôn đời và người ta lúc nào cũng nhớ đến tôi . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>After a few years of praying that their dreams would come true , a group of woodsmen came upon the trees .</s>
+<s id='vn12'>Sau vài năm ước muốn cho giấc mơ của mình thành hiện thực thì một nhóm người đi rừng tình cờ phát hiện ra những cây này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>When one came to the first tree he said , " This looks like a strong tree , I think I should be able to sell the wood to a carpenter , " and he began cutting it down .</s>
+<s id='vn13'>Một người đến gần cây thứ nhất bảo " Ồ , cây này trông có vẻ cứng cáp nhỉ , mình sẽ bán được gỗ cho thợ mộc đây , " rồi , anh liền đốn cây xuống .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The tree was happy , because he knew that the carpenter would make him into a treasure chest .</s>
+<s id='vn14'>Nó rất vui mừng bởi biết rằng thợ mộc sẽ làm cho nó thành một chiếc rương đựng châu báu xinh đẹp .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>At the second tree the woodsman said , " This looks like a strong tree , I should be able to sell it to the shipyard . "</s>
+<s id='vn15'>Một người đến bên cây thứ hai cũng nghĩ thầm " Cây này trông khỏe quá , mình sẽ bán được cho xưởng đóng tàu . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The second tree was happy because he knew he was on his way to becoming a mighty ship .</s>
+<s id='vn16'>Cây thứ hai cũng vui mừng bởi cũng biết là mình sắp trở thành một con thuyền khổng lồ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>When the woodsmen came upon the third tree , the tree was frightened because he knew that if they cut him down his dreams would not come true .</s>
+<s id='vn17'>Còn lại cây cổ thụ thứ ba , nó sợ lắm khi thấy nhóm người ấy đến gần bởi biết rằng nếu bị chặt xuống thì giấc mơ vươn tới trời xanh kia sẽ tan thành mây khói .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>One of the woodsmen said , " I do n't need anything special from my tree , I 'll take this one , " and he cut it down .</s>
+<s id='vn18'>Một người nói " Tôi không cần gì đặc biệt đâu , tôi sẽ mang về " và anh ta chặt cây xuống .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>When the first tree arrived at the carpenters , he was made into a feed box for animals .</s>
+<s id='vn19'>Khi cây đầu tiên được bán cho một chủ trại mộc , nó được làm thành chiếc máng đựng thức ăn cho gia súc .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He was then placed in a barn and filled with hay .</s>
+<s id='vn20'>Nó được đặt trong chuồng bò , và phủ lên trên bằng một lớp cỏ khô .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>This was not at all what he had prayed for .</s>
+<s id='vn21'>Đây chẳng phải là điều mà nó hằng ao ước đâu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The second tree was cut and made into a small fishing boat .</s>
+<s id='vn22'>Cây thứ hai được chặt xuống và làm thành một chiếc thuyền đánh cá nhỏ .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>His dreams of being a mighty ship and carrying kings had come to an end .</s>
+<s id='vn23'>Giấc mơ trở thành chiếc thuyền khổng lồ được chở nhà vua đi khắp thế giới nay đã không còn nữa .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The third tree was cut into large pieces and left alone in the dark .</s>
+<s id='vn24'>Cây cổ thụ thứ ba được chặt thành những khúc gỗ to và quăng vào bóng tối .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The years went by , and the trees forgot about their dreams .</s>
+<s id='vn25'>Năm tháng trôi qua , những cây cổ thụ ngày nào đã quên mất giấc mơ của mình .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Then one day , a man and woman came to the barn .</s>
+<s id='vn26'>Rồi một ngày , có cặp vợ chồng đến chuồng ngựa .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>She gave birth and they placed the baby in the hay in the feed box that was made from the first tree .</s>
+<s id='vn27'>Người vợ đã đến kỳ sinh nở và họ đã đặt con nằm trên lớp cỏ khô trong máng làm từ gỗ của cây cổ thụ thứ nhất .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The man wished that he could have made a crib for the baby , but this manger would have to do .</s>
+<s id='vn28'>Người chồng đã ước rằng có thể làm cái nôi , nhưng cái máng cỏ này hẳn sẽ trở thành chỗ ở ấm áp cho em bé .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The tree could feel the importance of this event and knew that it had held the greatest treasure of all time .</s>
+<s id='vn29'>Nó có thể cảm nhận được tầm quan trọng của mình và hiểu rằng đã giữ một báu vật to lớn nhất từ trước đến nay .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Years later , a group of men got in the fishing boat made from the second tree .</s>
+<s id='vn30'>Nhiều năm sau , nhóm ngư dân lên thuyền đi đánh cá .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>One of them was tired and went to sleep .</s>
+<s id='vn31'>Một người trong số đó mệt mỏi và ngủ thiếp đi .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>While they were out on the water , a great storm arose and the tree did n't think it was strong enough to keep the men safe .</s>
+<s id='vn32'>Trong lúc lênh đênh trên biển thì một trận bão lớn đã ập đến và cây thứ hai không nghĩ là mình có đử sức mạnh để có thể giữ cho những người này được an toàn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>The men woke the sleeping man , and He stood and said " Peace " and the storm stopped .</s>
+<s id='vn33'>Họ đánh thức người đàn ông đang say ngủ dậy , Ông hét lên " Sóng hãy lặng đi " và rồi cơn bão đã ngưng hẳn .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>At this time , the tree knew that it had carried the King of Kings in its boat .</s>
+<s id='vn34'>Lúc này đây thì cây thứ hai mới biết mình đã chở một vị vua vĩ đại nhất .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Finally , someone came and got the third tree .</s>
+<s id='vn35'>Cuối cùng có người đã đến và lấy cây thứ ba đi .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>It was carried through the streets as the people mocked the man who was carrying it .</s>
+<s id='vn36'>Nó được mang đi khắp các đường phố ở những nơi mà người ta chế giễu người đã vác nó .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>When they came to a stop , the man was nailed to the tree and raised in the air to die at the top of a hill .</s>
+<s id='vn37'>Khi đến nơi , người ta dừng lại và đóng đinh người đàn ông này lên cây và dựng cây thẳng đứng ở đỉnh đồi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>When Sunday came , the tree came to realize that it was strong enough to stand at the top of the hill and be as close to God as was possible , because Jesus had been crucified on it .</s>
+<s id='vn38'>Khi ngày Chủ Nhật đến , người ta hiểu ra rằng cây đủ mạnh để có thể đứng sừng sững trên đồi và gần với Chúa nhất ở mức có thể , bởi Chúa Jesus đã bị đóng đinh trên thập giá đó .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>The moral of this story is that when things do n't seem to be going your way , always know that God has a plan for you .</s>
+<s id='vn39'>Câu chuyện trên gợi bài học rằng khi mọi thứ không xảy ra đúng như mình mong đợi thì hãy luôn hiểu rằng Chúa đã sắp đặt sẵn cho bạn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>If you place your trust in Him , He will give you great gifts .</s>
+<s id='vn40'>Nếu phó thác niềm tin nơi Chúa , Người sẽ ban cho bạn những món quà ý nghĩa .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Each of the trees got what they wanted , just not in the way they had imagined .</s>
+<s id='vn41'>Mỗi một cây đều đạt được những gì mình muốn , nhưng được thực hiện theo những cách không giống như chúng tưởng tượng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>We do n't always know what God 's plans are for us .</s>
+<s id='vn42'>Chúng ta thường không biết những kế hoạch của Chúa là để cho chúng ta .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>We just know that His ways are not our ways , but His ways are always best .</s>
+<s id='vn43'>Chúng ta chỉ biết rằng những cách thức của Người không giống như của chúng ta , nhưng chúng lúc nào cũng là tốt nhất .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,352 @@
+﻿<doc id='N0657'>
+<head>
+<title>I Will Remember</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>I Will Remember</s>
+<s id='vn1'>Tôi Sẽ Nhớ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Shelley Ann Wake</s>
+<s id='vn2'>Shelley Ann Wake</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Until I was eight I thought Sunday was called Sunday because you had to spend it in the sun .</s>
+<s id='vn3'>Cho đến khi lên tám tuổi , tôi vẫn nghĩ rằng ngày Chủ Nhật được gọi là " Ngày nắng " vì bạn phải trải qua nó dưới ánh mặt trời .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>I thought that because I spent every single Sunday outside in the garden with Nana .</s>
+<s id='vn4'>Tôi nghĩ rằng vì tôi sử dụng mỗi ngày Chủ nhật ở ngoài vườn với Nana .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The zucchini plants quickly became my favorite .</s>
+<s id='vn5'>Giống cây bí dài nhanh chóng trở thành loài cây ưa thích của tôi .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It was the way the tiny little delicate tendrils reached out and wrapped around the lattice , like tiny fingers holding on as tightly as they could .</s>
+<s id='vn6'>Tôi thích cách những sợi tua mảnh khảnh bé tí vươn ra phía trước và quấn quanh cái hàng rào mắt cáo , như những ngón tay nhỏ xíu giữ chặt hết mức có thể .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>They seemed so helpless .</s>
+<s id='vn7'>Có vẻ chúng không hiệu quả cho lắm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>I would sit on the ground and tend to them , sensing that they needed me .</s>
+<s id='vn8'>Tôi sẽ ngồi trên mặt đất và quay về phía chúng , cảm tưởng rằng chúng cần tôi .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Nana would sit there , perched on her gardening stool , looking at the tomatoes in the same way .</s>
+<s id='vn9'>Nana sẽ ngồi ở đó , trên dụng cụ làm vườn của cô ấy , và nhìn những cây cà chua theo cách y hệt tôi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Nana , " I asked one day , " should I take off all these little yellow flowers ? "</s>
+<s id='vn10'>Một ngày nọ tôi hỏi " Nana , tôi có nên bứt tất cả những bông hoa vàng nhỏ này không ? "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" Why would you take the flowers off ? "</s>
+<s id='vn11'>" Tại sao bạn lại bứt ? "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>She asked gently .</s>
+<s id='vn12'>Cô ấy hỏi nhẹ nhàng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Well , I thought they might attract the bugs and then the bugs might eat them . "</s>
+<s id='vn13'>" À , tôi nghĩ chúng có thể thu hút lũ sâu bọ đến rồi lũ sâu bọ có thể ăn chúng mất . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" No , darling , " she said with a little laugh , " those flowers will turn into zucchini soon . "</s>
+<s id='vn14'>" Không , bạn yêu quý ơi , " cô ấy nói và cười nhẹ , " những bông hoa đó chẳng bao lâu sau sẽ trở thành những quả bí dài . "</s>
+</spair>
+<spair id='15'>
+<s id='en15'>" Really ? "</s>
+<s id='vn15'>" Thật ư ? "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>" You just wait .</s>
+<s id='vn16'>" Bạn chỉ việc chờ .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Soon you 'll see that little things can turn into wonderful things .</s>
+<s id='vn17'>Chẳng bao lâu bạn sẽ hiểu rằng những thứ nhỏ nhặt có thể trở thành những thứ tuyệt vời .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>You should remember that . "</s>
+<s id='vn18'>Bạn nên ghi nhớ điều đó . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" Little things can turn into wonderful things , " I repeated .</s>
+<s id='vn19'>" Những thứ nhỏ nhặt có thể trở thành những thứ tuyệt vời , " tôi lặp lại .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>" That 's right , " she said .</s>
+<s id='vn20'>" Đúng thế , " cô ấy đáp lời .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Every Sunday I returned to the garden to check on the zucchini plants , and each time I saw more and more zucchini .</s>
+<s id='vn21'>Mỗi ngày chủ nhật tôi quay lại vườn để kiểm tra mấy cây bí dài , và mỗi lần như thế tôi càng thấy nhiều quả bí dài hơn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>I asked .</s>
+<s id='vn22'>Tôi hỏi .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>" Do you think there are so many because I take good care of the plant ? "</s>
+<s id='vn23'>" Bạn có nghĩ là nhờ tôi chăm sóc cây tốt nên nó ra nhiều quả không ? "</s>
+</spair>
+<spair id='24'>
+<s id='en24'>" Yes , " Nana said , " when you look after things , good things tend to grow .</s>
+<s id='vn24'>" Có , " Nana trả lời , " khi bạn chăm sóc mọi thứ , những điều tốt đẹp có khuynh hướng phát triển .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>You should remember that . "</s>
+<s id='vn25'>Bạn nên nhớ điều đó . "</s>
+</spair>
+<spair id='26'>
+<s id='en26'>" When you look after things , good things tend to grow , " I repeated .</s>
+<s id='vn26'>" Khi bạn chăm sóc mọi thứ , những điều tốt đẹp có khuynh hướng phát triển , " tôi lặp lại .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" That 's right , " she said .</s>
+<s id='vn27'>" Đúng thế , " cô ấy đáp lời .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I looked after the zucchini plants even better after that .</s>
+<s id='vn28'>Tôi chăm sóc mấy cây bí dài sau đó thậm chí còn tốt hơn .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>I removed brown leaves , and if one of those tiny tendrils could n't reach the lattice , I moved it a little closer .</s>
+<s id='vn29'>Tôi cắt lá úa , và nếu một trong những sợi tua nhỏ xíu đó không thể leo lên được cái hàng rào mắt cáo , thì tôi sẽ di chuyển nó đến gần hơn một chút .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Nana did the same to the tomatoes .</s>
+<s id='vn30'>Nana cũng làm công việc tương tự với những cây cà chua .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Then one Sunday I watched as she took the clippers and cut off one whole branch of the plant .</s>
+<s id='vn31'>Rồi một ngày chủ nhật tôi nhìn thấy cô ấy lấy cái kéo xén cắt nguyên một nhánh cây .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" Nana ! " I put my hand over my mouth in shock .</s>
+<s id='vn32'>" Nana ! " Tôi hoảng hồn lấy tay che miệng .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>" What did you do that for ? "</s>
+<s id='vn33'>" Tại sao bạn lại làm chuyện đó ? "</s>
+</spair>
+<spair id='34'>
+<s id='en34'>" The plant is n't strong enough to have two good branches full of tomatoes " .</s>
+<s id='vn34'>" Cái cây chưa đủ mạnh để có hai nhánh tươi tốt đầy cà chua " .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>" I had to get rid of one so the plant could make the most of the other one . "</s>
+<s id='vn35'>" Tôi phải bỏ bớt một nhánh để cây có thể phát triển tốt hơn . "</s>
+</spair>
+<spair id='36'>
+<s id='en36'>" Oh . "</s>
+<s id='vn36'>" Ôi . "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>" You might have to make the same kind of choice some day , " she said .</s>
+<s id='vn37'>" Một ngày nào đó có thể bạn phải đưa ra một lựa chọn tương tự , " cô ấy tiếp lời .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>" What do you mean , I 'll have to get something chopped off ? "</s>
+<s id='vn38'>" Ý bạn là sao , tôi sẽ phải chặt cái gì đó ư ? "</s>
+</spair>
+<spair id='39'>
+<s id='en39'>" No dear , " she said with a giggle , " but you might have to make some decisions , because sometimes you just can't have everything . "</s>
+<s id='vn39'>" Không , bạn yêu quý , " cô ấy cười khúc khích nói , " nhưng bạn có thể phải đưa ra một số quyết định , vì đôi khi bạn không thể có mọi thứ . "</s>
+</spair>
+<spair id='40'>
+<s id='en40'>" I 'll remember that , " I said .</s>
+<s id='vn40'>" Tôi sẽ nhớ , " tôi trả lời .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>For months I returned every week to Nana's to see how my plant was doing , and each time I was proud to see more zucchini .</s>
+<s id='vn41'>Nhiều tháng trời , tuần nào tôi cũng trở lại vườn của Nana để xem cây của tôi như thế nào rồi , và mỗi lần như vậy tôi lấy làm hãnh diện khi nhìn thấy có nhiều quả bí dài hơn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Until one day , when they stopped appearing , and a few weeks later , there were none .</s>
+<s id='vn42'>Cho đến một hôm , chúng không còn xuất hiện nữa , và vài tuần sau , không còn một quả nào .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>" Nana , what 's wrong with my plant ? "</s>
+<s id='vn43'>" Nana , có chuyện gì với cây của tôi vậy ? "</s>
+</spair>
+<spair id='44'>
+<s id='en44'>I asked tearfully .</s>
+<s id='vn44'>Tôi khóc lóc hỏi .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>" It 's not growing anymore . "</s>
+<s id='vn45'>" Nó không phát triển nữa . "</s>
+</spair>
+<spair id='46'>
+<s id='en46'>" That 's what happens , darling .</s>
+<s id='vn46'>" Đó là điều phải xảy ra , bạn yêu mến ơi .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Things grow but then they stop .</s>
+<s id='vn47'>Mọi thứ phát triển nhưng rồi cũng sẽ dừng lại .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Nothing lasts forever . "</s>
+<s id='vn48'>Chẳng có gì vĩnh viễn cả . "</s>
+</spair>
+<spair id='49'>
+<s id='en49'>" But I was so good to it . "</s>
+<s id='vn49'>" Nhưng tôi đã rất tử tế với nó . "</s>
+</spair>
+<spair id='50'>
+<s id='en50'>" Yes , " she said , " but things end so new things can start . "</s>
+<s id='vn50'>" Ừ , " cô ấy nói , " nhưng mọi chuyện kết thúc để cho những chuyện mới có thể bắt đầu . "</s>
+</spair>
+<spair id='51'>
+<s id='en51'>" And is there something I should remember ? "</s>
+<s id='vn51'>" Và tôi cần ghi nhớ điều gì nữa ? "</s>
+</spair>
+<spair id='52'>
+<s id='en52'>" Yes , " said Nana .</s>
+<s id='vn52'>" Ờ , " Nana tiếp lời .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>" Seasons change , but for everything that ends , something new will take its place . "</s>
+<s id='vn53'>" Mùa màng thay đổi , nhưng nhờ những thứ đã chấm dứt , nên sẽ có cái gì đó mới chiếm chỗ của nó . "</s>
+</spair>
+<spair id='54'>
+<s id='en54'>" I 'll remember that " .</s>
+<s id='vn54'>" Tôi sẽ nhớ " .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>I helped tend other garden plants , but one day I admitted , " I really miss the zucchini plants . "</s>
+<s id='vn55'>Tôi giúp chăm sóc những cây khác trong vườn , nhưng một ngày tôi thừa nhận : " Tôi thật sự nhớ mấy cây bí dài . "</s>
+</spair>
+<spair id='56'>
+<s id='en56'>" I know , darling . "</s>
+<s id='vn56'>" Tôi biết , bạn yêu ơi . "</s>
+</spair>
+<spair id='57'>
+<s id='en57'>" I was thinking , Nana , what if we got Poppy to make a greenhouse ?</s>
+<s id='vn57'>" Nana , tôi đang nghĩ , chuyện gì sẽ xảy ra nếu chúng ta nhờ Poppy đến làm nhà kính ?</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Then we could have zucchini plants all year . "</s>
+<s id='vn58'>Sau đó chúng ta có thể trông cây bí dài suốt năm . "</s>
+</spair>
+<spair id='59'>
+<s id='en59'>" I don't know , " she said .</s>
+<s id='vn59'>" Tôi không biết , " cô ấy trả lời .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>" Maybe we should just wait for the right season . "</s>
+<s id='vn60'>" Có lẽ chúng ta nên chờ cho đúng mùa . "</s>
+</spair>
+<spair id='61'>
+<s id='en61'>" But can we just try ?</s>
+<s id='vn61'>" Nhưng chúng ta có thể thử không ?</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Can I just ask Poppy ?</s>
+<s id='vn62'>Tôi có thể hỏi Poppy chứ ?</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Please Nana . "</s>
+<s id='vn63'>Xin bạn , Nana . "</s>
+</spair>
+<spair id='64'>
+<s id='en64'>" I guess we can try , " she said .</s>
+<s id='vn64'>" Tôi nghĩ chúng ta có thể thử , " cô ấy đáp .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Poppy agreed , and the next week I arrived to find a greenhouse constructed .</s>
+<s id='vn65'>Poppy đồng ý , và tuần tiếp đó tôi đến để xem nhà kính đã được xây dựng .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The best part about it was the inside of the walls : there was lattice from top to bottom .</s>
+<s id='vn66'>Phần tuyệt nhất của nó là bên trong những bức tường : có hàng rào mắt cáo từ trên xuống dưới .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>" This is the perfect home for zucchini plants , " I said .</s>
+<s id='vn67'>" Đây là ngôi nhà hoàn hảo cho cây bí dài , " tôi reo lên .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>" And tomatoes , " Nana added .</s>
+<s id='vn68'>" Và cà chua nữa , " Nana thêm .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>We planted zucchini on one side and tomatoes on the other .</s>
+<s id='vn69'>Chúng tôi trồng bí dài một bên và cà chua một bên .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Week after week , the zucchini plants looked better and better .</s>
+<s id='vn70'>Hết tuần này đến tuần khác , cây bí dài trông có vẻ ngày càng tươi tốt hơn .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Nana 's tomatoes were just as good .</s>
+<s id='vn71'>Cà chua của Nana cũng tươi xanh như thế .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Then the fruit came , and we both realized that this greenhouse worked perfectly .</s>
+<s id='vn72'>Sau đó quả ra đời , và cả hai chúng tôi thừa nhận rằng nhà kính này làm việc hoàn hảo .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>" Look , Nana , " I said .</s>
+<s id='vn73'>" Nhìn nè , Nana , " , tôi nói .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>" I have a little zucchini here and hundreds of flowers .</s>
+<s id='vn74'>" Tôi có một quả bí dài nhỏ ở đây và hàng trăm bông hoa .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>These plants are going to be the best ever . "</s>
+<s id='vn75'>Mấy cây này chưa từng tươi tốt đến vậy . "</s>
+</spair>
+<spair id='76'>
+<s id='en76'>" What a fabulous idea you had , " Nana said , squeezing my hand .</s>
+<s id='vn76'>" Ý tưởng của bạn thật là tuyệt vời ! " Nana vừa nói vừa siết chặt tay tôi .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>" Nana , I think you should remember something . "</s>
+<s id='vn77'>" Nana , tôi nghĩ bạn nên nhớ một điều gì đó . "</s>
+</spair>
+<spair id='78'>
+<s id='en78'>" What 's that ? "</s>
+<s id='vn78'>" Là điều gì ? "</s>
+</spair>
+<spair id='79'>
+<s id='en79'>" There is always a way if you want something bad enough . "</s>
+<s id='vn79'>" Sẽ luôn có cách nếu bạn muốn cái gì đó chỉ tệ đến mức đó mà thôi . "</s>
+</spair>
+<spair id='80'>
+<s id='en80'>Nana turned and looked at me .</s>
+<s id='vn80'>Nana quay lại nhìn tôi .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>I saw a tiny tear in her eye and for a moment , I thought she was going to cry .</s>
+<s id='vn81'>Tôi thấy một giọt nước mắt nhỏ xíu trong mắt cô ấy và một hồi lâu , tôi nghĩ cô ấy sẽ khóc .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Then she smiled the biggest smile I have ever seen .</s>
+<s id='vn82'>Sau đó cô ấy nở nụ cười rạng rỡ nhất mà tôi từng thấy .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>She shook her head slightly and squeezed my hand again .</s>
+<s id='vn83'>Cô lắc nhẹ đầu mình , siết chặt tay tôi một lần nữa .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>" Thank you , darling " .</s>
+<s id='vn84'>" Cảm ơn nhé , bạn thân yêu .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>" I will remember that . "</s>
+<s id='vn85'>Tôi sẽ nhớ . "</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,68 @@
+﻿<doc id='N0353'>
+<head>
+<title>VMware working on dual-OS smartphone virtualization</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>VMware working on dual-OS smartphone virtualization</s>
+<s id='vn1'>Vmware đang phát triển phần mềm ảo hoá giúp điện thoại thông minh chạy hệ điều hành kép</s>
+</spair>
+<spair id='2'>
+<s id='en2'>VMware is developing virtualization software for smartphones that would see two profiles running on the same device at the same time .</s>
+<s id='vn2'>VMware đang phát triển phần mềm ảo hóa cho điện thoại thông minh có thể cho phép 2 Hệ điều hành chạy trên cùng một thiết bị cùng một lúc .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>VMware sees a work and personal profile running on a phone at the same time , as opposed to giving users a choice of dual-booting into one or the other .</s>
+<s id='vn3'>VMware nhận thấy một thiết lập cá nhân và công việc chạy trên một điện thoại cùng một lúc , khác với việc đem lại cho người dùng một sự lựa chọn khởi động kép hoặc là cái này hoặc là cái kia .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The idea is to have users switch between the two quickly with the press of a button .</s>
+<s id='vn4'>Ý tưởng này là giúp cho người dùng chuyển đổi giữa hai thứ nhanh chóng bằng một nút bấm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>While VMware programmers are still deciding on details such as how to switch between apps or identify phone calls , they have plenty of ideas .</s>
+<s id='vn5'>Trong khi lập trình viên của VMware vẫn đang quyết định chọn các chi tiết như làm thế nào để chuyển đổi giữa các ứng dụng hoặc nhận các cuộc gọi điện thoại , họ có rất nhiều ý tưởng .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The former could be addressed by clicking specific buttons confined to one OS or the other , while the latter may be as simple as having a dedicated ringtone for calls coming into the work line and calls in the personal line .</s>
+<s id='vn6'>Trước đây điều này được giải quyết bằng cách nhấn vào các nút cụ thể để tạm dừng HĐH này hoặc HĐH kia và sau này có thể đơn giản đi bằng cách phát ra một nhạc chuông dành riêng cho các cuộc gọi đến theo dòng công việc và các cuộc gọi các nhân</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Such a dual OS would be beneficial to smartphone owners , as they are using the devices more like PCs .</s>
+<s id='vn7'>Một hệ điều hành kép sẽ có lợi cho chủ sở hữu điện thoại thông minh khi họ đang sử dụng các thiết bị có nhiều tính năng như máy tính .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>VMWare believes this means that the same issues that apply to PCs , including security concerns and management costs , will therefore soon plague smartphones as well .</s>
+<s id='vn8'>VMWare tin rằng điều này có nghĩa là các vấn đề tương tự được áp dụng giống như máy tính , kể cả các mối quan tâm về bảo mật và chi phí quản lý , do đó sẽ sớm " đòi hỏi " cho cả điện thoại thông minh .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Having a single device with a dual OS setup would also be less costly and more convenient to employees who are required to carry a smartphone for work purposes .</s>
+<s id='vn9'>Một thiết bị đơn có cài đặt hệ điều hành kép cũng sẽ ít tốn kém và thuận tiện hơn đối với các nhân viên có nhu cầu sử dụng một smarpthone cho các mục đích công việc .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>VMWare has successfully demonstrated both Android and Windows Mobile working on a last-generation smartphone with 128MB of RAM , though admits 256MB of RAM would be ideal .</s>
+<s id='vn10'>VMWare đã thử nghiệm thành công cả Android và Windows Mobile cùng chạy trên một Smartphone thế hệ mới với 128MB RAM , nhưng để ổn định và nhanh hơn thì 256MB RAM sẽ là rất lý tưởng .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>VMWare is now working with a US and European wireless carrier on prototype phones and enterprise beta testing due to start in 2011 , with mass production of such devices due to start in 2012 .</s>
+<s id='vn11'>VMWare hiện tại đang làm việc với các nhà mạng ở Mỹ và châu Âu trên các điện thoại mẫu và sẽ đưa ra bản thử nghiệm beta bắt đầu vào năm 2011 , và việc sản xuất hàng loạt thiết bị như vậy sẽ dự kiến bắt đầu vào năm 2012 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The company is also seeking an Australian carrier to partner with on this undertaking .</s>
+<s id='vn12'>Hãng cũng đang tìm kiếm một nhà mạng của Úc làm đối tác về công việc này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>On the other hand , Microsoft believes there is little to no market for virtualization software on smartphones .</s>
+<s id='vn13'>Mặt khác , Microsoft tin rằng có rất ít thị trường quan tâm đến phần mềm ảo hóa trên điện thoại thông minh .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Reasons for this include less productivity as each OS has different information and contacts</s>
+<s id='vn14'>Với lý do là nó không hiệu quả vì mỗi hệ điều hành chứa thông tin và danh bạ khác nhau .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,192 @@
+﻿<doc id='N0329'>
+<head>
+<title>The Web App War Begins</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Web App War Begins</s>
+<s id='vn1'>Cuộc chiến ứng dụng Web bắt đầu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Like two gargantuan monsters locked in battle over a fake Tokyo cityscape , Microsoft and Google are officially trying to beat out of each other .</s>
+<s id='vn2'>Giống như hai quái vật khổng lồ đã bị nhốt trong trận đánh trên cảnh đô thị Tokyo giả và , Microsoft Google đang chính thức cố gắng hạ đo ván lẫn nhau .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>There are no mechanical roars , no skyscrapers and definitely no bloodshed .</s>
+<s id='vn3'>Chẳng hề có những tiếng rầm rầm của máy móc , không có sụp đổ và chắc chắn không phải đổ máu .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>but , these two titans are going each other with a directness and spectacle usually reserved for wrestling classic Godzilla-versus-Megalon monster .</s>
+<s id='vn4'>Tuy nhiên , hai gã khổng lồ này đang đấu với nhau công khai và cảnh tượng này thường dành riêng trong một trận đấu vật kinh điển giữ hai quái vật Godzilla và Megalon .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Someone say it started with Microsoft Bing , the surprisingly good and fast-growing search engine .</s>
+<s id='vn5'>Một số người cho rằng Microsoft Bing là kẻ khiêu chiến , cỗ máy tìm kiếm đang phát triển nhanh chóng và tốt đến bất ngờ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Bing was good enough that Google , in my opinion felt the need to respond .</s>
+<s id='vn6'>Theo ý tôi , Bing đã đủ tốt đến mức Google cảm thấy mình cần phải trả đũa .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>So the company promised ludicrously deliver a new desktop OS by next year .</s>
+<s id='vn7'>Quả thật lố bịch khi hãng này hứa cung cấp một Hệ điều hành mới cho máy tính để bàn vào năm tới .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Like most people , I think the plan is promises and short on details .</s>
+<s id='vn8'>Theo hầu hết mọi người , tôi nghĩ rằng dự kiến chỉ là lời hứa suông và thiếu chi tiết .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Still , the announcement is enough for many including Microsoft to take notice .</s>
+<s id='vn9'>Tuy nhiên , thông cáo này đủ cho nhiều người bao gồm cả Microsoft phải để mắt tới .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Microsoft Strikes Back</s>
+<s id='vn10'>Microsoft đánh lại</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Google Docs , for those who do n't know , is Google 's free online instrument .</s>
+<s id='vn11'>Nhắc lại cho những ai chưa biết , Google Docs là bộ công cụ miễn phí trực tuyến của Google .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>It consists of three apps : one for presentations , another for spreadsheets , and one for word processing .</s>
+<s id='vn12'>Nó bao gồm ba ứng dụng : một cho thuyết trình , một cho bảng tính , và một cho xử lí văn bản .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>I 'm using the application one to write this column .</s>
+<s id='vn13'>Tôi đang sử dụng ứng dụng để viết mục này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Google Docs , for those who do n't know , is Google 's free online productivity .</s>
+<s id='vn14'>Nhắc lại cho những ai chưa biết , Google Docs là bộ công cụ miễn phí trực tuyến của Google .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It consists of three apps : one for presentations , another for spreadsheets , and one for word processing .</s>
+<s id='vn15'>Nó bao gồm ba ứng dụng : một cho thuyết trình , một cho bảng tính , và một cho xử lí văn bản .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>I 'm using the last one to write this column .</s>
+<s id='vn16'>Tôi đang sử dụng ứng dụng cuối để viết mục này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Microsoft Word on the Web</s>
+<s id='vn17'>Microsoft Word trên Web</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Interestingly , Microsoft has never really said all that about Google 's free apps .</s>
+<s id='vn18'>Thật thú vị , Microsoft chưa bao giờ thực sự nói cả về những ứng dụng miễn phí của Google .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Google Apps are clearly aimed at consumers and though Microsoft Office has a massive consumer base , I think much of Office revenue is from business clients .</s>
+<s id='vn19'>Các ứng dụng của Google rõ ràng là nhắm vào khách hàng và mặc dù Microsoft Office có một vị thế lớn trong lòng người tiêu dùng , tôi nghĩ rằng phần lớn doanh thu của bộ Office là từ các khách hàng doanh nghiệp .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Many new PCs come with a trial version of Office but I bet most consumers opt to use the free version of Microsoft Works after that .</s>
+<s id='vn20'>Nhiều máy tính mới đi kèm với một phiên bản dùng thử của bộ Office nhưng tôi chắc chắn sau đó hầu hết người dùng lựa chọn sử dụng phiên bản miễn phí của Microsoft Works .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Web versions of Word , Excel , and PowerPoint could force Google to rethink its strategy .</s>
+<s id='vn21'>" Phiên bản trên nền web của Word , Excel và PowerPoint có thể buộc Google phải cân nhắc lại chiến lược của họ " .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Microsoft is tying free Office apps to the Windows Live program , so you need an account to use them ( just like you need a Google account to access Google Docs ) , and it 's relying Microsoft 's SkyDrive for cloud-based file storage .</s>
+<s id='vn22'>Microsoft đang phân loại các ứng dụng Office miễn phí cho chương trình Windows Live , vì vậy bạn cần có một tài khoản để sử dụng chúng ( giống như bạn cần một tài khoản Google để truy cập vào Google Docs ) , và nó dựa vào SkyDrive của Microsoft phục vụ việc lưu trữ tập tin dựa trên đám mấy ( cloud-based ) .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The mere existence of Microsoft Web-based apps but consumers is a big deal .</s>
+<s id='vn23'>Chỉ là cái có sẵn trong các ứng dụng dựa trên Web của Microsoft nhưng đối với người dùng đó là một phần quan trọng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>For the first time , you will n't need any Microsoft app - Word , Write , or Works-to edit a DOC file .</s>
+<s id='vn24'>Lần đầu tiên , bạn sẽ không cần đến bất kỳ ứng dụng nào của Microsoft , Word , Write , hoặc Works để chỉnh sửa một tập tin DOC .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Simply log in to your account and open the file with Microsoft 's Web-based app .</s>
+<s id='vn25'>Đơn giản chỉ cần đăng nhập vào tài khoản của bạn và mở tập tin với ứng dụng dựa trên web của Microsoft .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Where Google Comes Up Short</s>
+<s id='vn26'>Điểm thiếu sót của Google</s>
+</spair>
+<spair id='27'>
+<s id='en27'>With the Google Docs word processor , it can n't help but notice the spare , very Microsoft Write-like interface .</s>
+<s id='vn27'>Với trình xử lí văn bản Google Docs , nó không thể hỗ trợ nhưng có thông báo dự phòng rất giống với giao diện của Microsoft Write .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>It covers the basics , and does them well .</s>
+<s id='vn28'>Nó bao gồm những tính năng cơ bản và thực hiện chúng rất tốt .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>But Microsoft 's plan looks more ambitious .</s>
+<s id='vn29'>Nhưng kế hoạch của Microsoft trông có nhiều tham vọng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>The Web apps will actually feature the Office Ribbon , and although I do n't imagine that the Web version will be as flexible or smart , but familiarity should be comforting .</s>
+<s id='vn30'>Các ứng dụng web trên thực tế sẽ có tính năng Office Ribbon và mặc dù tôi không tưởng tượng rằng các phiên bản web sẽ trở nên linh động hoặc thông minh , nhưng tính thân thiện vẫn nên được khích lệ .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you 're familiar with the 80_20 rule , you know that 80 percent of the people use 20 percent the features of any major app .</s>
+<s id='vn31'>Nếu bạn quen với quy tắc 80 20 , bạn biết là trong 80 phần trăm người chỉ sử dụng 20 phần trăm tính năng của bất kỳ ứng dụng chuyên môn nào .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>But I bet 50 percent Office users tap into 50 percent of the functionality .</s>
+<s id='vn32'>Nhưng tôi chắc trong 50 phần trăm người dùng bộ Office khai thác được khoảng 50 phần trăm các chức năng này .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If you look at any of Google apps , you 'll likely agree that they do n't near 50 percent of the functionality found in the Office Suite apps .</s>
+<s id='vn33'>Nếu bạn quan sát ở bất kỳ ứng dụng nào của Google , bạn có thể đồng ý rằng chúng không được gần 50 phần trăm các chức năng tìm thấy trong các ứng dụng của bộ Office Suite .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>For example , I just tried to spell-check this article in Google Docs .</s>
+<s id='vn34'>Ví dụ , tôi chỉ thử kiểm tra chính tả bài viết này trong Google Docs .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If I were using Microsoft Word it would lead me through checking each mis take , offering both grammar and spelling corrections .</s>
+<s id='vn35'>Nếu tôi đang sử dụng Microsoft Word nó sẽ chỉ dẫn tôi hết việc kiểm tra lỗi chính tả , cung cấp cả hai tính năng chỉnh sửa ngữ pháp và chỉnh sửa chính tả .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Google Docs found my errors-highlighting them in yellow-but it does n't lead me to the first misspelled word and help corrections .</s>
+<s id='vn36'>Google Docs tìm thấy lỗi của tôi và tô sáng chúng bằng màu vàng nhưng nó không chỉ cho tôi từ đã viết sai chính tả ban đầu và giúp chỉnh sửa .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Instead , I have to click each word and select the proper spelling .</s>
+<s id='vn37'>Thay vào đó , tôi phải bấm vào mỗi từ và chọn đúng chính tả .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>I am struck by little Microsoft is making of its Office Web of comany .</s>
+<s id='vn38'>Tôi bị chú ý bởi vì Microsoft ít đưa ra công bố chính về các Ứng dụng Văn phòng trên nền Web này của hãng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Perhaps the company does n't want to over-promise anything .</s>
+<s id='vn39'>Có lẽ hãng không muốn hứa hẹn quá bất cứ điều gì .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Microsoft has been around long and remember how early attempts at Web-based apps ( an yone remember the Java-based WordPerfect ? ) utterly failed .</s>
+<s id='vn40'>Microsoft đã từng nổi tiếng khá lâu và nhớ lại làm cách nào nhanh chóng cố gắng tạo ra các ứng dụng trên nền web ( có ai nhớ đến WordPerfect dựa trên Java ? ) hoàn toàn thất bại .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Google and other online app providers , like Zoho , prove that this can be done - and done well .</s>
+<s id='vn41'>Google và các nhà cung cấp ứng dụng trực tuyến khác , như Zoho chứng minh rằng điều này có thể được thực hiện và làm tốt .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Microsoft , however , is about to become the Web player with a dominant desktop position .</s>
+<s id='vn42'>Tuy nhiên Microsoft chỉ quan tâm đến việc trở thành Web player với một vị trí thống lĩnh máy tính để bàn .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>The added flexibility of having Word , Excel , and PowerPoint accessible anywhere via the Web could simply overwhelm borderline competitors and force Google to rethink its strategy .</s>
+<s id='vn43'>Bổ sung thêm tính linh hoạt được biết đến là Word , Excel và PowerPoint có thể truy xuất ở bất cứ nơi nào qua Web có thể chỉ đơn giản là áp đảo phạm vi của các đối thủ cạnh tranh và buộc Google phải tính toán lại chiến lược của họ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>On the other hand , I fully expect Google can counter-punch with its own major announcement .</s>
+<s id='vn44'>Mặt khác , tôi hoàn toàn hy vọng Google có thể chống lại cú húc này với thông báo chính của riêng mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>I have no idea what it will be , but if you 've ever watched a Godzilla movie , you've know Megalon is always good for at least one round or two .</s>
+<s id='vn45'>Tôi không có ý kiến họ sẽ được cái gì nhưng nếu bạn đã từng theo dõi bộ phim Godzilla bạn sẽ biết Megalon luôn đúng cho ít nhất một hoặc hai vòng .</s>
+</spair>
+</text>
+</doc>

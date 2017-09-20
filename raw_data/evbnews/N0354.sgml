@@ -1,0 +1,152 @@
+﻿<doc id='N0354'>
+<head>
+<title>Microsoft , Intuit Partner for Cloud-Based Apps</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft , Intuit Partner for Cloud-Based Apps</s>
+<s id='vn1'>Microsoft , Intuit Partner cho Kho ứng dụng Đám mây</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft and Intuit are launching a Windows Azure SDK for Intuit Partner Platform , opening a way for developers to create applications for small and midsize businesses that rely on Intuit 's QuickBooks financial software .</s>
+<s id='vn2'>Microsoft và Intuit vừa cho ra mắt bộ công cụ Windows Azure SDK cho Nền tảng Intuit Partner , mở đường cho các nhà phát triển tạo ra các ứng dụng dành cho các doanh nghiệp vừa và nhỏ dựa trên phần mềm tài chính QuickBooks của Intuit .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Intuit has named Windows Azure the preferred platform for SMB cloud-based application development on its platform .</s>
+<s id='vn3'>Intuit chỉ định Windows Azure là nền tảng ưu tiên cho việc phát triển ứng dụng dựa vào giao thức đám mây SMB trên nền tảng của họ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Microsoft has been making forays into the cloud , embracing this computing trend despite its traditional reliance on a desktop and on-premises software model .</s>
+<s id='vn4'>Microsoft đẩy mạnh trong lĩnh vực đám mây , đang theo đuổi xu hướng điện toán này mặc dù thế mạnh truyền thống của họ là loại phần mềm đóng gói cài đặt trên máy tính để bàn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Microsoft and Intuit are planning to integrate the capabilities of their cloud services platforms , giving developers the chance to develop applications for small and midsize businesses that use QuickBooks financial software .</s>
+<s id='vn5'>Microsoft và Intuit đang dự định tích hợp sức mạnh các nền tảng dịch vụ đám mây của họ , mang lại cho các nhà phát triển cơ hội phát triển các ứng dụng dành cho các doanh nghiệp vừa và nhỏ sử dụng phần mềm tài chính QuickBooks .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Customers would be able to access the applications via the cloud-based Intuit App Center .</s>
+<s id='vn6'>Khách hàng sẽ có thể truy cập ứng dụng thông qua Trung tâm Ứng dụng Intuit dựa trên đám mây .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Intuit has named Windows Azure the " preferred platform " for SMB cloud-based application development on the Intuit Partner Platform , in theory giving Intuit 's developer community access to a variety of Microsoft-built tools .</s>
+<s id='vn7'>Intuit chỉ định Windows Azure là " nền tảng ưu tiên " cho việc phát triển ứng dụng dựa trên giao thức đám mây SMB trên Nền tảng Intuit Partner , về mặt lý thuyết nó mang lại cho cộng đồng nhà phát triển của Intuit truy cập vào nhiều công cụ do Microsoft xây dựng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The beta of the Windows Azure SDK ( software development kit ) for Intuit Partner Platform is available for downloading from this site .</s>
+<s id='vn8'>Phiên bản beta của Windows Azure SDK ( bộ công cụ phát triển phần mềm ) cho Nền tảng Intuit Partner có sẵn để tải xuống từ trang .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The SDK will be offered to developers for free .</s>
+<s id='vn9'>SDK sẽ được cung cấp miễn phí cho các nhà phát triển .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" By combining the pooled technology assets of our developer communitie s , " Walid Abu-Hadba , Microsoft vice president of the Developer Platform Evangelism organization , said in a Jan. 21 statement , " we stand to produce an outpouring of new applications to help small businesses enhance their competitive edge . "</s>
+<s id='vn10'>" Bằng cách kết hợp các tài sản công nghệ được đóng góp bởi cộng đồng phát triển của chúng tôi " Walid Abu-Hadba , phó chủ tịch tổ chức Tuyên truyền Nền tảng và Nhà phát triển của Microsoft đã nói trong một bài phát biểu vào ngày 21 tháng Giêng , " chúng tôi tạo ra một sự phong phú của các ứng dụng mới hỗ trợ cho các doanh nghiệp nhỏ nâng cao lợi thế cạnh tranh của họ . "</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Later in 2010 , Microsoft also plans to sell a variety of online services , including Exchange Online , SharePoint Online , Office Live Meeting and Office Communications Online , through the Intuit App Center .</s>
+<s id='vn11'>Cuối năm 2010 , Microsoft cũng dự định bán nhiều dịch vụ trực tuyến , bao gồm Exchange Online , SharePoint Online , Office Live Meeting và Office Communications Online , thông qua Trung tâm Ứng dụng Intuit .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" The Intuit App Center is a huge breakthrough , " Bill Lucchini , vice president and general manager of Intuit 's Platform as a Service Group , said in a Jan. 21 statement .</s>
+<s id='vn12'>" Trung tâm Ứng dụng Intuit là một bước đột phá lớn , " Bill Lucchini , phó chủ tịch kiêm tổng giám đốc Nền tảng dưới dạng một Nhóm Dịch vụ của Intuit , đã nói trong một bài phát biểu vào ngày 21 tháng Giêng .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Now , Microsoft developers can enhance their businesses with access to the small business channel , the Intuit App Center will get stronger and small businesses will reap the rewards of all this innovation . "</s>
+<s id='vn13'>" Hiện tại , các nhà phát triển Microsoft có thể cải tiến các doanh nghiệp của họ cũng như truy cập vào kênh kinh doanh nhỏ , Trung tâm Ứng dụng Intuit sẽ trở nên mạnh hơn và các doanh nghiệp nhỏ sẽ gặt hái nhiều thành quả về mọi sự đổi mới này . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Microsoft has been experimenting with cloud-computing platforms aimed at a variety of different audiences , although the full results of those efforts may not be known for several years .</s>
+<s id='vn14'>Microsoft đang thử nghiệm với các nền tảng điện toán đám mây nhắm vào nhiều đối tượng khác nhau , mặc dù kết quả của các nỗ lực đó hoàn toàn có thể không được biết trong vài năm .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>One of the mainstays of this effort , Windows Azure , consists of three parts : Windows Azure , an operating system as a service ; SQL Azure , a cloud-based relational database ; and .NET</s>
+<s id='vn15'>Một trong những trụ cột chính của nỗ lực này Windows Azure , bao gồm ba phần : Windows Azure , một hệ điều hành dưới dạng một dịch vụ ; SQL Azure ( một cơ sở dữ liệu quan hệ dựa trên đám mây ) , và các Dịch vụ .NET ,</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Services , which provide both secure connectivity and federated access control for applications .</s>
+<s id='vn16'>Cung cấp cả khả năng kết nối an toàn và điều khiển truy cập tương tác cho các ứng dụng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Jan. 1 marked the full switch-on of the Azure cloud platform for enterprises .</s>
+<s id='vn17'>Ngày 1 tháng Giêng đã đánh dấu sự chuyển đổi hoàn toàn trên nền tảng đám mây Azure cho các doanh nghiệp .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>By February 2010 , users will have to pay for Azure 's services via a pay-as-you go model , a subscription format or volume licensing .</s>
+<s id='vn18'>Vào tháng hai 2010 , người dùng sẽ phải chi trả cho các dịch vụ của Azure thông qua mô hình ( pay-as-you go ) , một dạng thuê bao hoặc cấp phép theo số lượng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>HP Rolls Out New Cloud Software</s>
+<s id='vn19'>HP ra mắt phần mềm đám mây mới</s>
+</spair>
+<spair id='20'>
+<s id='en20'>HP 's three new software offerings are designed to make it easier for businesses to realize the benefits of cloud computing while reducing the risks and costs involved .</s>
+<s id='vn20'>Ba phần mềm mới của hãng HP được thiết kế nhằm tạo điều kiện thuận lợi cho các doanh nghiệp gặt hái nhiều lợi nhuận từ nền tảng điện toán đám mây trong khi đó vẫn giảm thiểu được các rủi ro và các chi phí có liên quan .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The software allows for greater automation of services provisioning and a bridge between internal and public clouds , while also enabling businesses to right-size their cloud environments for their budgets .</s>
+<s id='vn21'>Phần mềm này cho phép tự động hoá cao hơn của các dịch vụ cung ứng và là một cầu nối giữa các đám mây công cộng và đám mây nội tuyến , trong khi vẫn cho phép các doanh nghiệp tiến đến qui mô chuẩn trong các môi trường đám mây cho ngân sách của họ .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Telecom service providers also can offer SMBs outsourced communications services .</s>
+<s id='vn22'>Các nhà cung cấp dịch vụ viễn thông cũng có thể cung cấp các dịch vụ truyền thông gia công SMBs .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Hewlett-Packard wants to make it easier for businesses telecommunications service providers realize the desired benefits of cloud computing .</s>
+<s id='vn23'>Hewlett-Packard muốn làm cho phần mềm của họ trở nên dễ dàng hơn cho các nhà cung cấp dịch vụ viễn thông doanh nghiệp gặt hái được nhiều lợi nhuận của điện toán đám mây .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>HP on Dec. 16 announced three new software offerings that officials say also will help reduce the challenge of keeping costs in line and decrease risks , such as non-compliance and human errors .</s>
+<s id='vn24'>Vào ngày 16 tháng 12 hãng HP đã công bố Ba phần mềm mới và cũng chính thức tuyên bố rằng nó sẽ giúp giảm tải thách thức về chi phí đúng mức cũng như giảm tải được nhiều rủi ro , chẳng hạn như các rủi ro do con người gây ra và rủi ro không phù hợp .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Cloud computing offers the promise of greater flexibility and scalability in a less expensive IT environment , according Thomas Hogan , executive vice president of HP 's Software and Solutions unit .</s>
+<s id='vn25'>Theo Thomas Hogan , phó giám đốc điều hành bộ phận các giải pháp về phần mềm của HP thì : Điện toán đám mây mang đến sự hứa hẹn về tính linh hoạt cao hơn và khả năng mở rộng trong môi trường CNTT ít tốn kém .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>But there are hurdles that need to be cleared .</s>
+<s id='vn26'>Tuy nhiên ở đó vẫn có những rào cản cần được xoá bỏ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>" CIOs understand the potential business benefits of cloud computing , but are challenged with how best to manage the risks associated with adoption , " Hogan said in a statement .</s>
+<s id='vn27'>Ông Hogan cho biết trong một bài phát biểu " các giám đốc CNTT nhận thức được những lợi ích kinh doanh tiềm năng của điện toán đám mây , nhưng còn là thách thức với việc làm thế nào để quản lí rủi ro tốt nhất liên quan đến sự chấp nhận .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>According to research conducted for HP , 90 percent of corporate executives surveyed agreed that business cycles will continue to be unpredictable , and 75 percent said that would mean more demand for flexible and scalable technology , all of which play to the strengths of cloud computing .</s>
+<s id='vn28'>Theo nghiên cứu do HP tiến hành , có 90 phần trăm các nhà điều hành công ty được khảo sát đồng ý rằng chu kỳ kinh doanh vẫn sẽ tiếp tục không thể dự đoán được , và 75 phần trăm cho biết là sẽ có ý nghĩa hơn cho nhu cầu về công nghệ linh hoạt và mở rộng , tất cả đều hoạt động mạnh mẽ trong điện toán đám mây .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The new HP offerings are designed to mitigate the risk while ramping up the flexibility and cost controls .</s>
+<s id='vn29'>Những dịch vụ mới của HP được thiết kế để giảm thiểu rủi ro trong khi vẫn tăng tính linh hoạt và kiểm soát chi phí .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>HP 's Operations Orchestration brings automated provisioning to services within a business ' existing IT physical , virtual and cloud infrastructures .</s>
+<s id='vn30'>Điều phối vận hành của HP mang lại sự cung ứng tự động cho các dịch vụ trong các môi trường vật lý CNTT doanh nghiệp đang có , cơ sở hạ tầng đám mây và cơ sở hạ tầng ảo .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In addition , the software enables businesses in need of greater capacity to expand their internal environments to public clouds , such as Amazon 's EC2 ( Elastic Compute Cloud ) .</s>
+<s id='vn31'>Ngoài ra , phần mềm này cho phép các doanh nghiệp đang cần sức chứa lớn hơn để mở rộng môi trường bên trong của họ sang các đám mây công cộng , như EC2 ( Elastic Compute Cloud ) của Amazon .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Bridging internal and public clouds will be important as more businesses adopt cloud computing , according to analysts and vendors .</s>
+<s id='vn32'>Theo các nhà phân tích và các nhà cung cấp thì việc bắt cầu nối giữa các đám mây công cộng và đám mây nội tuyến sẽ quan trọng nếu nhiều doanh nghiệp áp dụng điện toán đám mây .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>HP 's Cloud Assure for cost control gives businesses the ability to ensure their cloud environments meet their service level needs while staying within their budgets .</s>
+<s id='vn33'>Cam kết Đám mây của HP về việc kiểm soát chi phí mang lại cho doanh nghiệp khả năng đảm bảo các môi trường đám mây của họ phù hợp với các nhu cầu mức độ dịch vụ trong khi vẫn duy trì ngân sách của họ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>The CAAS ( Communications as a Service ) software will enable telecommunications providers to offer high levels of service to small and midsize businesses through a utility model , where the customer pays only for what they use .</s>
+<s id='vn34'>Phần mềm CAAS ( Truyền thông dưới dạng một Dịch vụ ) sẽ cho phép các nhà cung cấp viễn thông đem lại các mức dịch vụ cao cho các doanh nghiệp vừa và nhỏ thông qua một mô hình hữu hiệu nơi mà khách hàng chỉ chi trả cho những gì mà họ dùng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>HP 's CAAS offering includes an aggregation platform , four integrated communications services from HP and other parties , and the ability to add other services .</s>
+<s id='vn35'>Dịch vụ CAAS của HP bao gồm một nền tảng kết hợp , bốn dịch vụ truyền thông tích hợp từ HP và các bên đối tác khác và khả năng bổ sung các dịch khác .</s>
+</spair>
+</text>
+</doc>

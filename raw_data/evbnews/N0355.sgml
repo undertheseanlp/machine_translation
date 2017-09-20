@@ -1,0 +1,44 @@
+﻿<doc id='N0355'>
+<head>
+<title>Tokyo University develops organic flash memory</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Tokyo University develops organic flash memory</s>
+<s id='vn1'>Trường Đại học Tokyo phát triển bộ nhớ flash hữu cơ</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Researches at the University of Tokyo have developed what they are calling organic flash memory , which shares its basic structure with flash memory but is made entirely of organic materials .</s>
+<s id='vn2'>Các cuộc nghiên cứu tại Trường Đại học Tokyo đã phát triển cái mà họ gọi là bộ nhớ Flash hữu cơ , có một phần cấu trúc cơ bản của nó với bộ nhớ flash nhưng được làm hoàn toàn từ vật liệu hữu cơ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Its erasing and reading voltages are rated at a low 6V and 1V , respectively , though data can only be written and erased more than 1,000 times .</s>
+<s id='vn3'>Mức điện áp xoá và đọc của nó đánh giá là thấp tương ứng 6V và 1V , mặc dù dữ liệu chỉ có thể ghi và xóa hơn 1.000 lần .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Foreseen uses of the new memory include large area sensors , electronic paper and other big electronic devices , though the founders admit the technology 's memory retention time of only one day needs to be extended .</s>
+<s id='vn4'>Dự đoán việc sử dụng bộ nhớ mới bao gồm các bộ cảm biến diện tích lớn , giấy điện tử và các thiết bị điện tử lớn khác , tuy nhiên những người sáng lập thừa nhận rằng thời gian nhớ của công nghệ này chỉ có một ngày và cần phải được mở rộng thêm .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Developed by a group headed up by Takeo Someya and Tsuyoshi Sekitani , professor and research associate at the Department of Electrical Engineering and Information Systems , Graduate School of Engineering , the University of Tokyo , the prototype uses a polyethylene naphthalate ( PEN ) resin sheet as a substrate with an array of 26 by 26 2T memory cells placed on it .</s>
+<s id='vn5'>Được phát triển bởi một nhóm mà đứng đầu là giáo sư Takeo Someya và người cùng nghiên cứu Tsuyoshi Sekitani tại Bộ phận Kỹ thuật Điện tử và Hệ thống thông tin , Đào tạo về Kỹ thuật sau Đại học , Đại học Tokyo , mẫu thử nghiệm này sử dụng tấm nhựa polyethylene naphthalate ( PEN ) như là một chất nền với một mảng 26x26 2T các tế bào bộ nhớ được đặt trên nó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The sheet is flexible enough to be bent until its radius is 6mm without causing damage .</s>
+<s id='vn6'>Các tấm này thì dẻo có thể bẻ cong được cho đến khi bán kính của nó là 6mm mà không bị làm hỏng .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The short memory retention can be increased by reducing the size of the element and employing a longer self-assembled monolayer ( SAM ) , which is made of phosphoric acid with an alkyl chain .</s>
+<s id='vn7'>Việc duy trì bộ nhớ kém có thể tăng lên bằng cách giảm kích thước của các phần tử và sử dụng ( self-assembled monolayer - SAM ) dài hơn mà được làm bằng axit photphoric với một chuỗi alkyl .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In the prototype , it is 2nm thin .</s>
+<s id='vn8'>Trong mẫu thử này nó chỉ mỏng 2nm .</s>
+</spair>
+</text>
+</doc>

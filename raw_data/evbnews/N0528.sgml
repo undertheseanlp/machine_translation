@@ -1,0 +1,140 @@
+﻿<doc id='N0528'>
+<head>
+<title>Obama signs law curbing surprise credit card fees</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Obama signs law curbing surprise credit card fees</s>
+<s id='vn1'>Obama ký thông qua đạo luật nhằm giới hạn lại các khoản phí bất thường của thẻ tín dụng</s>
+</spair>
+<spair id='2'>
+<s id='en2'>WASHINGTON - President Barack Obama warned overeager shoppers and greedy credit card companies alike on Friday to act responsibly as he signed into law a bill designed to protect debt-ridden consumers from surprise charges .</s>
+<s id='vn2'>WASHINGTON - Vào hôm thứ sáu , tổng thống Barack Obama đã khuyến cáo những người mua sắm quá tay cũng như các công ty thẻ tín dụng tham lam phải hành xử cho đúng đắn hơn khi ông ký phê chuẩn một dự luật nhằm giúp cho những người tiêu dùng mắc nợ chồng chất khỏi phải kinh ngạc khi biết được số tiền mình phải trả .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The White House staged a signing ceremony in the Rose Garden , an indication of the legislation 's importance to Obama .</s>
+<s id='vn3'>Nhà Trắng đã tổ chức lễ ký kết ở " Vườn Hoa Hồng " , một dấu hiệu cho thấy tầm quan trọng của luật pháp đối với Obama .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Though opposed by many financial companies , the bill cleared Congress with broad support .</s>
+<s id='vn4'>Mặc dù bị nhiều công ty tài chính phản đối nhưng dự luật này đã được Quốc hội thông qua với sự ủng hộ rộng rãi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Obama made clear that he did n't champion the changes with the intention of helping those who buy more than they can afford through " reckless spending or wishful thinking . "</s>
+<s id='vn5'>Obama nói rõ rằng ông ấy không tiến hành thay đổi với ý định giúp cho những người mua nhiều hơn khả năng chi trả qua " sự chi xài vô tội vạ hoặc sự mộng tưởng " của họ .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Some get in over their heads by not using their heads , " the president said .</s>
+<s id='vn6'>" Một số người " vung tay quá trán " mà không sử dụng cái đầu , " vị tổng thống nói .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" I want to be clear : We do not excuse or condone folks who 've acted irresponsibly . "</s>
+<s id='vn7'>" Tôi muốn mọi thứ phải rõ ràng : chúng ta không bỏ qua hay tha thứ cho những người cư xử vô trách nhiệm . "</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And yet , he said , for many of the millions of Americans , trying to get out of debt has been made difficult and bewildering by their credit card companies .</s>
+<s id='vn8'>Tuy nhiên , ông nói , các công ty thẻ tín dụng đã làm cho nỗ lực thoát khỏi nợ nần của hàng triệu người dân Mỹ trở nên khó khăn và rối rắm .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Nearly 80 percent of Americans have credit cards and half of those carry a balance , according to the White House .</s>
+<s id='vn9'>Theo Nhà Trắng , có gần 80% người Mỹ có thẻ tín dụng và phân nửa trong số đó mắc nợ tín dụng .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The Federal Reserve estimates the nation is some $ 2.5 trillion in debt , a figure that does not include home mortgages .</s>
+<s id='vn10'>Cục Dự trữ Liên bang ước tính con số nợ của quốc gia vào khoảng 2.5 nghìn tỷ đô-la Mỹ , chưa tính đến các khoản vay thế chấp nhà ở .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Obama said many people have gotten " trapped " because of the downturn in the economy that has turned family budgets on their heads .</s>
+<s id='vn11'>Obama cho biết nhiều người đã lâm vào tình thế khó khăn do nền kinh tế suy thoái đã chuyển gánh nặng tài chính của gia đình lên vai họ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>But , he said , " part of it is the practices of the credit card companies . "</s>
+<s id='vn12'>Nhưng , ông nói , " một phần cũng là do hoạt động của các công ty thẻ tín dụng . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He criticized policies that allowed for confusing fine print ; the sudden appearance of unexplained fees on bills ; unannounced shifts in payment deadlines , interest charges or rate increases even when payments are n't late ; and payments directed to balances with the lowest interest rates rather than the highest .</s>
+<s id='vn13'>Ông ấy chỉ trích các chính sách cho phép các phần chữ in nhỏ dễ gây nhầm lẫn , sự xuất hiện của các khoản phí khó hiểu trong hoá đơn , việc thay đổi thời điểm đáo hạn thanh toán mà không thông báo trước , tính lãi hoặc tăng lãi suất ngay cả khi việc thanh toán vẫn đúng hạn và việc chi trả được tính vào số dư nợ có mức lãi suất thấp nhất chứ không phải là cao nhất .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>" We 're here to put a change to all that , " Obama said .</s>
+<s id='vn14'>" Chúng tôi đến đây là để thay đổi lại toàn bộ sự việc trên , " Obama nói .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>One part of the bill Obama did not publicly celebrate at the signing , a gun amendment .</s>
+<s id='vn15'>Có một phần trong bản dự luật mà tổng thống Obama đã không đề cập một cách công khai ở buổi lễ ký kết đó là bản tu chính của đạo luật về vấn đề súng ống .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The measure by Sen. Tom Coburn , R-Okla. , allows people to bring loaded guns into national parks and wildlife refuges .</s>
+<s id='vn16'>Bản tu chính của thượng nghị sĩ Tom Coburn , R-Okla . , cho phép mọi người mang súng có nạp đạn vào các công viên quốc gia và các khu bảo tồn động vật hoang dã .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The addition of the amendment to the bill - and Obama 's acceptance of it - was viewed as a bitter disappointment for gun-control advocates .</s>
+<s id='vn17'>Việc bổ sung bản tu chính vào dự luật và sự chấp thuận của ông Obama được xem là một sự thất vọng tràn trề đối với những người ủng hộ chính sách kiểm soát việc sử dụng súng ống .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>They watched gun-rights supporters gain a victory from a Democratic-controlled Congress and a Democratic president that they could n't achieve under a Republican Congress and president .</s>
+<s id='vn18'>Họ phải chứng kiến thắng lợi của phe ủng hộ quyền sử dụng súng ngay dưới thời quốc hội và tổng thống của Đảng Dân chủ , điều mà họ cũng đã không đạt được dưới thời Quốc hội và Tổng thống của Đảng Cộng Hoà .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Many blamed the National Rifle Association , which pushed hard for the gun law .</s>
+<s id='vn19'>Nhiều người đổ lỗi cho Hiệp Hội Súng Trường Quốc Gia vì đã thúc đẩy tích cực cho đạo luật sử dụng súng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Democrats lawmakers and aides said they did n't have enough time to send the bill to the House-Senate conference committee - where the gun provision could have been removed without a vote - and still get the bill to Obama by the Memorial Day weekend as he requested .</s>
+<s id='vn20'>Các nhà lập pháp Đảng Dân Chủ và ban hậu cần cho biết họ đã không có đủ thời gian để gửi bản dự luật đến Ủy ban giải quyết bất đồng giữa Thượng Viện và Hạ Viện - nơi mà các điều khoản về súng có thể bị hủy bỏ mà không cần bỏ phiếu - và vẫn chuyển bản dự luật đến tổng thống Obama vào cuối tuần ngày lễ tưởng niệm liệt sỹ như ông đã yêu cầu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The new credit card rules , which go into effect in nine months , prohibit companies from giving cards to people under 21 unless they can prove they have the means to pay the debt or a parent or guardian co-signs .</s>
+<s id='vn21'>Luật thẻ tín dụng mới , có hiệu lực trong vòng chín tháng , cấm các công ty cung cấp thẻ tín dụng cho người dưới 21 tuổi trừ phi họ có thể chứng minh là mình có khả năng trả nợ hoặc có cha mẹ hoặc người bảo lãnh cùng ký tên .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>A customer also will have to be more than 60 days behind on a payment before seeing a rate increase on an existing balance .</s>
+<s id='vn22'>Khách hàng cũng sẽ phải có hơn 60 ngày để chi trả trước khi bị tăng lãi suất lên trên số dư nợ hiện tại .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Even then , the lender will be required to restore the previous , lower rate if the cardholder pays the minimum balance on time for six months .</s>
+<s id='vn23'>Mặc dù vậy , người cho vay phải trả lại mức lãi suất thấp trước đó nếu người chủ thẻ trả số dư tối thiểu đúng thời hạn trong sáu tháng .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>And consumers also will have to receive 45 days " notice and an explanation before their interest rates increase .</s>
+<s id='vn24'>Và người chủ thẻ cũng phải nhận được thông báo trong vòng 45 ngày và một lời giải thích trước khi lãi suất của họ bị tăng lên .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Despite being touted as a victory for consumers , financial experts said the bill could have unintended consequences as credit card companies look for ways to make up for potential lost revenue .</s>
+<s id='vn25'>Mặc dù đây được xem là một thắng lợi đối với người tiêu dùng nhưng các chuyên gia tài chính cho rằng bản dự luật này có thể dẫn đến những hậu quả chưa lường được vì các công ty tín dụng sẽ tìm ra các biện pháp để bù đắp cho khoản thất thu có thể phát sinh .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Those measures could include more cards with annual fees and the loss of a grace period before interest accrues , which would affect even those consumers who pay off their balance each month .</s>
+<s id='vn26'>Các biện pháp đó có thể bao gồm việc cung cấp thêm nhiều thẻ tín dụng tính phí hàng năm và không cho gia hạn chi trả trước lúc tiền lãi dồn lại , điều này thậm chí gây bất lợi cho cả những khách hàng trả hết nợ mỗi tháng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Last year , the Nilson Report estimated that more than 700 million credit cards were in circulation in the United States .</s>
+<s id='vn27'>Năm ngoái , theo báo cáo của Nilson , ước tính có hơn 700 triệu thẻ tín dụng được lưu hành trên nước Mỹ .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>That 's more than two cards for every man , woman and child .</s>
+<s id='vn28'>Điều đó có nghĩa là mỗi người đàn ông , phụ nữ và trẻ em có đến hơn 2 thẻ tín dụng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The president noted that nearly half of all Americans carry a balance on their credit cards , and that their average balance is more than $ 7,000 .</s>
+<s id='vn29'>Tổng thống lưu ý rằng gần phân nửa số người dân Mỹ đều bị mắc nợ tín dụng và số nợ bình quân của họ là hơn 7000 đô la .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Obama decried the " uneasy , unstable dependence " that a minority of card users have on credit .</s>
+<s id='vn30'>Ông Obama phê phán sự lệ thuộc một cách khó chịu và bất thường vào thẻ tín dụng của một số ít người dùng .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>" So we 're not going to give people a free pass , and we expect consumers to live within their means and pay what they owe , " Obama said .</s>
+<s id='vn31'>" Vì vậy , chúng tôi không có ý định tạo điều kiện để cho mọi người dễ dãi hơn , chúng tôi chỉ mong rằng người tiêu dùng sẽ biết liệu cơm gắp mắm và trả hết những gì họ nợ , " Obama nói .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>" But we also expect financial institutions to act with the same sense of responsibility that the American people aspire to in their own lives . "</s>
+<s id='vn32'>" Tuy nhiên , chúng tôi hy vọng các tổ chức tài chính cũng sẽ hành xử có trách nhiệm giống như vậy , điều mà người dân Mỹ hết sức mong mỏi trong cuộc sống của họ . "</s>
+</spair>
+</text>
+</doc>

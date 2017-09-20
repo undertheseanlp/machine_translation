@@ -1,0 +1,176 @@
+﻿<doc id='N0654'>
+<head>
+<title>Regret City</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Regret City</s>
+<s id='vn1'>Thành phố Hối tiếc</s>
+</spair>
+<spair id='2'>
+<s id='en2'>I had not really planned on taking a trip this time of year , and yet I found myself packing rather hurriedly .</s>
+<s id='vn2'>Thật sự tôi không có kế hoạch đi du lịch vào thời điểm này trong năm , thế nhưng tôi lại thấy mình vội vàng thu xếp hành lý .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>This trip was going to be unpleasant and I knew_in advance that no real good would come of it .</s>
+<s id='vn3'>Chuyến đi này sẽ không có gì dễ chịu và tôi biết trước nó sẽ chẳng mang lại điều gì thật sự tốt đẹp .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>This is my annual " Guilt Trip . "</s>
+<s id='vn4'>Đây là " Chuyến đi Tội lỗi " hằng năm của tôi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>I got tickets to fly there on " WISH-I-HAD " airlines .</s>
+<s id='vn5'>Tôi lấy vé bay đến đó trên chiếc máy bay của hãng hàng không " ƯỚC GÌ TÔI ĐÃ " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It was an extremely short flight .</s>
+<s id='vn6'>Đó là một chuyến bay cực ngắn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>I got my " baggage , " which I could not check .</s>
+<s id='vn7'>Tôi mang theo " hành lý , " thứ mà tôi không thể nào kiểm soát được .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>I chose to carry it myself all the way .</s>
+<s id='vn8'>Tôi tự mang vác hành lý suốt đoạn hành trình .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It was loaded down with a thousand memories of " what might have been . "</s>
+<s id='vn9'>Nó chất đầy với cả ngàn ký ức về " những việc có thể đã có được . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>No one greeted me as I entered the terminal to the Regret City International Airport .</s>
+<s id='vn10'>Không ai chào mừng khi tôi bước xuống khu vực đón khách của Phi trường quốc tế tại Thành phố Hối tiếc .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>I say international because people from all over the world come to this dismal town .</s>
+<s id='vn11'>Tôi gọi quốc tế là vì mọi người từ khắp nơi trên thế giới đều đã đến với cái thành phố ảm đạm này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>As I checked into the " Last Resort " Hotel , I noticed that they would be hosting the year's most important event - the annual " Pity Party . "</s>
+<s id='vn12'>Khi tôi làm thủ tục nhận phòng ở Khách sạn " Cứu cánh " , tôi thấy họ chuẩn bị tổ chức một sự kiện quan trọng nhất trong năm - " Tiệc Hối tiếc " hàng năm .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>I was n't going to miss that great social occasion .</s>
+<s id='vn13'>Tôi sẽ không bỏ lỡ cơ hội giao du tuyệt vời này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Many of the towns leading citizens would be there .</s>
+<s id='vn14'>Nhiều nhân vật tai to mặt lớn của thành phố cũng sẽ tham dự .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>First , there would be the " Done " family ; you know , " Should Have , " " Would Have " and " Could Have . "</s>
+<s id='vn15'>Trước tiên là sẽ có gia đình " Hoàn thành " ; bạn biết " Lẽ ra nên " , " Sẽ đã " và " Có thể đã . "</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Then came the " I Had " family .</s>
+<s id='vn16'>Sau đó là đến gia đình " Tôi đã " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>You probably know old " Wish " and his clan .</s>
+<s id='vn17'>Có thể bạn biết lão " Mong uớc " cùng họ hàng của ông ta .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Of course , the " Opportunities " family ; " Missed and Lost , " would be present .</s>
+<s id='vn18'>Tất nhiên là có cả gia đình " Cơ hội " ; " Bỏ lỡ và Đánh mất , " củng sẽ có mặt .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The biggest family there would be the " Yesterday's . "</s>
+<s id='vn19'>Gia đình lớn nhất sẽ hiện diện ở đó là " Ngày hôm qua . "</s>
+</spair>
+<spair id='20'>
+<s id='en20'>There are far too many of them to count , but each one would have a very sad story to share .</s>
+<s id='vn20'>Bọn họ đông đến nỗi không tài nào đếm xuể được , nhưng mỗi người đều có một câu chuyện rất buồn để mang chia sẻ .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Of course , " Shattered Dreams " would surely make an appearance .</s>
+<s id='vn21'>Tất nhiên , gia đình " Giấc mộng tan tành " chắc chắn sẽ xuất hiện .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>" It's Their Fault " family would regale us with stories ( excuses ) about how things had failed in their life .</s>
+<s id='vn22'>Gia đình " Đó là lỗi của họ " sẽ trải lòng với chúng tôi về những câu chuyện ( những cái cớ ) mà làm thế nào họ luôn gặp thất bại trong cuộc sống .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Each story would be loudly applauded by the " Don't Blame Me " and " I Couldn't Help It " committee .</s>
+<s id='vn23'>Mỗi câu chuyện sẽ được vỗ tay hoan nghênh bởi gia đình " Đừng đổ lỗi cho tôi " và " Tôi hoàn toàn bó tay " .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>To make a long story short , I went to this depressing party , knowing full well there would be no real benefit in doing so .</s>
+<s id='vn24'>Tóm lại là tôi vẫn đến buổi tiệc đáng buồn này dù biết rất rõ rằng tôi sẽ chẳng thu được lợi lộc gì .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>And , as usual , I became very depressed .</s>
+<s id='vn25'>Và , như thường lệ , tôi trở nên rất tuyệt vọng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>But as I thought about all of the stories of failures brought back from the past , it occurred to me that this trip and subsequent " pity parties " COULD be cancelled by ME !</s>
+<s id='vn26'>Nhưng khi tôi nghĩ về tất cả những câu chuyện thất bại từ trong quá khứ , tôi chợt nhận ra là chuyến đi này và " buổi tiệc hối tiếc " tiếp theo đó CÓ THỂ bị hủy bỏ bởi CHÍNH TÔI !</s>
+</spair>
+<spair id='27'>
+<s id='en27'>I started to realize that I did not have to be there .</s>
+<s id='vn27'>Tôi bắt đầu nhận ra rằng tôi không cần phải ở đó .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>And I didn't have to be depressed .</s>
+<s id='vn28'>Và tôi không cần phải trở nên tuyệt vọng .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>One thing kept going through my mind , I CAN'T CHANGE YESTERDAY , BUT I DO HAVE THE POWER TO MAKE TODAY A WONDERFUL DAY .</s>
+<s id='vn29'>Trong tâm trí tôi chỉ nghĩ đến một điều , TÔI KHÔNG THỀ THAY ĐỔI NGÀY HÔM QUA , NHƯNG TÔI CÓ SỨC MẠNH ĐỂ BIẾN NGÀY HÔM NAY THÀNH MỘT NGÀY TUYỆT VỜI .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>I can be happy , joyous , fulfilled , encouraged , as well as being encouraging .</s>
+<s id='vn30'>Tôi có thể vui vẻ , vui sướng , thoả mãn , khích lệ , cũng như phấn khởi .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Knowing this , I left Regret City immediately , and didn't leave a forwarding address .</s>
+<s id='vn31'>Ngộ ra điều này , tôi lập tức rời khỏi Thành phố Hối tiếc , và không để lại địa chỉ chuyển tiếp thư từ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Am I sorry for mistakes I've made in the past ?</s>
+<s id='vn32'>Tôi có hối tiếc về những lỗi lầm mà mình đã phạm trong quá khứ không ?</s>
+</spair>
+<spair id='33'>
+<s id='en33'>YES !</s>
+<s id='vn33'>CÓ !</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But there is no way to undo them .</s>
+<s id='vn34'>Nhưng chẳng thể nào để chuộc lại chúng đâu .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>So , if you're planning a trip back to Regret City , please cancel all those reservations now .</s>
+<s id='vn35'>Vì vậy , nếu bạn đang lập kế hoạch du lịch đến Thành phố Hối tiếc , vui lòng hủy bỏ mọi việc đăng ký trước ngay lúc này .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Instead , take a trip to a nice place called : " Starting Again . "</s>
+<s id='vn36'>Thay vào đó , hãy làm một chuyến đi đến một nơi dễ thương gọi là : " Bắt đầu lại từ đầu "</s>
+</spair>
+<spair id='37'>
+<s id='en37'>I like it so much that I made it my permanent residence .</s>
+<s id='vn37'>Tôi rất thích nơi này đến nỗi tôi trở thành thường trú dân ở đấy .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>My neighbors , the " Been Forgiven " and the " We're Saved " are so very helpful .</s>
+<s id='vn38'>Hàng xóm của tôi là gia đình " Được thứ tha " và gia đình " Chúng ta được cứu rỗi " rất ư là tốt bụng .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>By the way , you don't have to carry around the heavy baggage anymore either .</s>
+<s id='vn39'>Nhân tiện , bạn cũng không phải mang theo đống hành lý nặng trịch nữa .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>That load is lifted from your shoulders upon arrival .</s>
+<s id='vn40'>Gánh nặng sẽ được trút bỏ khỏi vai bạn khi đến nơi .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>But don't take my word for it , find out for yourself .</s>
+<s id='vn41'>Nếu không tin lời tôi thì hãy tự mình khám phá .</s>
+</spair>
+</text>
+</doc>

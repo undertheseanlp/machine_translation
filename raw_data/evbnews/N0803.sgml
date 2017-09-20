@@ -1,0 +1,568 @@
+﻿<doc id='N0803'>
+<head>
+<title>A directory of medical tests</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>A directory of medical tests</s>
+<s id='vn1'>Hướng dẫn xét nghiệm y khoa</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Taking a medical history and performing a physical examination usually provide the information a doctor needs to evaluate a child 's health or to understand what 's causing an illness .</s>
+<s id='vn2'>Bác sĩ thường hay hỏi về tiền sử sức khỏe và tiến hành kiểm tra sức khoẻ để có được thông tin cần thiết cho việc chẩn đoán sức khỏe của trẻ nhỏ hoặc để biết nguyên nhân gây bệnh là gì .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Taking a medical history and performing a physical examination usually provide the information a doctor needs to evaluate a child 's health or to understand what 's causing an illness .</s>
+<s id='vn3'>Bác sĩ thường hay hỏi về tiền sử sức khỏe và tiến hành kiểm tra sức khoẻ để có được thông tin cần thiết cho việc chẩn đoán sức khỏe của trẻ nhỏ hoặc để biết nguyên nhân gây bệnh là gì .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>But sometimes , doctors need to order tests to find out more .</s>
+<s id='vn4'>Nhưng đôi khi bác sĩ cũng cần phải làm thêm nhiều xét nghiệm khác để tìm ra được thêm nhiều thông tin khác nữa .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Here are some common tests and what they involve :</s>
+<s id='vn5'>Dưới đây là một số xét nghiệm thường gặp và những điều liên quan đến xét nghiệm đó :</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Blood tests</s>
+<s id='vn6'>Xét nghiệm máu</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Blood tests usually can be done in a doctor 's office or in a lab where technicians are trained to take blood .</s>
+<s id='vn7'>Người ta thường làm xét nghiệm máu ở tại phòng khám của bác sĩ hoặc tại phòng thí nghiệm nơi kỹ thuật viên được huấn luyện để có thể lấy máu được .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>When only a small amount of blood is needed , the sample can sometimes be taken from a baby by sticking a heel and from an older child by sticking a finger with a small needle .</s>
+<s id='vn8'>Khi chỉ cần xét nghiệm một lượng máu nhỏ của trẻ thôi thì đôi khi mẫu máu có thể được lấy bằng cách chích ở gót chân và đối với trẻ lớn hơn thì có thể chích ở ngón tay bằng một kim tiêm nhỏ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>If a larger blood sample is needed , the technician drawing the blood will clean the skin , insert a needle into a vein ( usually in the arm or hand ) , and withdraw blood .</s>
+<s id='vn9'>Nếu cần lấy mẫu máu lớn hơn thì kỹ thuật viên lấy máu sẽ lau sạch vùng da rồi chích kim vào tĩnh mạch ( thường là ở cánh tay hoặc ở bàn tay ) và lấy máu ra .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In kids , it sometimes takes more than one try .</s>
+<s id='vn10'>Đối với trẻ nhỏ thì đôi khi cũng cần phải làm nhiều lần .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>A bandage and a cotton swab will help stop the flow of blood when the needle is removed .</s>
+<s id='vn11'>Băng và miếng gạc sẽ giúp máu ngưng chảy khi kim tiêm được rút ra .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Blood tests can be scary for kids , so try to be a calming presence during the procedure .</s>
+<s id='vn12'>Xét nghiệm máu có thể là đáng sợ với trẻ , vì vậy bạn nên cố làm ra vẻ bình tĩnh trong suốt quá trình này nhé .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Holding your child 's hand or offering a stuffed animal or other comforting object can help .</s>
+<s id='vn13'>Nắm chặt tay con hoặc đưa cho bé thú nhồi bông hoặc một đồ vật nào đó mà bé cảm thấy thích thú , dễ chịu có thể làm trẻ thoải mái hơn trong lúc này .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Tell your child that it may pinch a little , but that it will be over soon .</s>
+<s id='vn14'>Hãy cho con biết việc này có thể chỉ đau như bị véo một chút thôi , nhưng sẽ nhanh hết liền .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>With younger kids , try singing a song , saying the alphabet , or counting together while the blood is being drawn .</s>
+<s id='vn15'>Với trẻ nhỏ hơn thì bạn nên cố hát , đọc bảng chữ cái cho con nghe , hoặc cùng đếm với bé trong khi lấy máu .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Common blood tests include :</s>
+<s id='vn16'>Các loại xét nghiệm máu thường thấy :</s>
+</spair>
+<spair id='17'>
+<s id='en17'>* Complete blood count ( CBC ) .</s>
+<s id='vn17'>* Đếm huyết cầu toàn phần ( CBC ) .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>A CBC measures the levels of different types of blood cells .</s>
+<s id='vn18'>CBC đo được hàm lượng các loại tế bào máu khác nhau .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>By determining if there are too many or not enough of each blood cell type , a CBC can help to detect a wide variety of illnesses or signs of infection .</s>
+<s id='vn19'>Bằng cách xác định liệu có quá nhiều hoặc không đủ mỗi loại tế bào máu hay không , CBC có thể giúp phát hiện ra được rất nhiều chứng bệnh hoặc tìm ra nhiều dấu hiệu nhiễm trùng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>* Blood chemistry test .</s>
+<s id='vn20'>* Xét nghiệm hoá học máu .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Basic blood chemistry tests measure the levels of certain electrolytes , such as sodium and potassium , in the blood .</s>
+<s id='vn21'>Các xét nghiệm hoá học máu cơ bản đo được nồng độ các chất điện phân nào đó , chẳng hạn như na - tri và ka - li trong máu .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Doctors typically order them to look for any sign of kidney dysfunction , diabetes , metabolic disorders , and tissue damage .</s>
+<s id='vn22'>Nhiều bác sĩ thường yêu cầu làm các xét nghiệm này để tìm xem có bất kỳ dấu hiệu rối loạn chức năng thận , tiểu đường , rối loạn về trao đổi chất , và tổn thương mô hay không .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Blood culture .</s>
+<s id='vn23'>* Nuôi cấy máu .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>A blood culture may be ordered when a child has symptoms of an infection - such as a high fever or chills - and the doctor suspects bacteria may have spread into the blood .</s>
+<s id='vn24'>Có thể phải yêu cầu nuôi cấy máu khi trẻ có những triệu chứng nhiễm trùng – chẳng hạn như sốt cao hoặc ớn lạnh – và bác sĩ nghi ngờ vi khuẩn đã phát tán trong máu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>A blood culture shows what type of germ is causing an infection , which will determine how it should be treated .</s>
+<s id='vn25'>Nuôi cấy máu cho thấy được loại mầm bệnh nào gây nhiễm trùng , sẽ xác định được phương pháp điều trị bệnh như thế nào .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>* Lead test .</s>
+<s id='vn26'>* Xét nghiệm chì .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The American Academy of Pediatrics ( AAP ) recommends that all toddlers get tested for lead in the blood at 1 and 2 years of age since young kids are at risk for lead poisoning if they eat or inhale particles of lead-based paint .</s>
+<s id='vn27'>Viện hàn lâm nhi khoa Hoa Kỳ ( AAP ) khuyến nghị tất cả trẻ mới biết đi nên xét nghiệm chì trong máu vào giai đoạn từ 1 đến 2 tuổi bởi trẻ nhỏ có nguy cơ ngộ độc chì nếu ăn nhầm hoặc hít nhầm vào các hạt sơn có chứa chì .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>High lead levels can cause stomach problems and headaches and also have been linked to some developmental problems .</s>
+<s id='vn28'>Hàm lượng chì trong máu cao có thể gây nhiều vấn đề về dạ dày và nhức đầu , đồng thời cũng có liên quan đến các vấn đề về phát triển của trẻ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>* Liver function test .</s>
+<s id='vn29'>* Xét nghiệm chức năng gan .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Liver function tests check to see how the liver is working and look for any sort of liver damage or inflammation .</s>
+<s id='vn30'>Loại xét nghiệm này kiểm tra để biết xem gan đang hoạt động như thế nào và tìm xem có bất kỳ loại tổn thương gan hay viêm gan nào hay không .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Doctors typically order one when looking for signs of a viral infection ( like mononucleosis or viral hepatitis ) or liver damage from other health problems .</s>
+<s id='vn31'>Bác sĩ thường yêu cầu làm xét nghiệm chức năng gan khi tìm dấu hiệu của chứng nhiễm vi - rút ( chẳng hạn như bệnh tăng bạch cầu đơn nhân hoặc viêm gan do vi - rút ) hoặc tổn thương gan do các vấn đề sức khỏe khác gây ra .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Pregnancy and newborns tests</s>
+<s id='vn32'>Xét nghiệm thai và xét nghiệm trẻ sơ sinh</s>
+</spair>
+<spair id='33'>
+<s id='en33'>State requirements differ regarding tests for newborns and pregnant women , and recommendations by medical experts are often updated .</s>
+<s id='vn33'>Các yêu cầu của nhà nước không hề giống nhau đối với các xét nghiệm dành cho trẻ sơ sinh và thai phụ , đồng thời những lời khuyên , các khuyến nghị của chuyên gia y tế cũng thường hay được cập nhật .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>So talk with the doctor if you have questions about what 's right for you .</s>
+<s id='vn34'>Vì vậy bạn nên nói chuyện với bác sĩ trong trường hợp có thắc mắc về loại xét nghiệm nào là phù hợp với bạn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>* Prenatal tests .</s>
+<s id='vn35'>* Xét nghiệm trước khi sinh .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>From ultrasounds to amniocentesis , a wide array of prenatal tests can help keep pregnant women informed .</s>
+<s id='vn36'>Có rất nhiều xét nghiệm trước khi sinh , từ siêu âm đến chọc ối , có thể giúp cho thai phụ nắm được thông tin .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>These tests can help identify - and then treat - health problems that could endanger both mother and baby .</s>
+<s id='vn37'>Các xét nghiệm này có thể giúp nhận biết – sau đó điều trị - các vấn đề về sức khoẻ có thể gây nguy hiểm cho cả mẹ và bé .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Some tests are done routinely for all pregnancies .</s>
+<s id='vn38'>Một số xét nghiệm được làm định kỳ cho tất cả các trường hợp thai nghén .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Others are done if the pregnancy is considered high-risk ( e .g. , when a woman is 35 or older , is younger than 15 , is overweight or underweight , or has a history of pregnancy complications ) .</s>
+<s id='vn39'>Số khác được làm trong trường hợp thai được cho là có nguy cơ cao ( chẳng hạn như khi thai phụ từ 35 tuổi trở lên , hoặc khi thai phụ dưới 15 tuổi , bị béo phì hoặc nhẹ cân , hoặc có tiền sử biến chứng thai nghén ) .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>* Multiple marker test .</s>
+<s id='vn40'>* Xét nghiệm sàng lọc đa chỉ số .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Most pregnant women are offered a blood-screening test between weeks 15- 20 .</s>
+<s id='vn41'>Hầu hết các thai phụ đều được xét nghiệm máu từ tuần thứ 15 đến tuần thứ 20 .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Also known as a " triple marker " or quadruple screen , this blood test can reveal conditions like spina bifida or Down syndrome by measuring certain hormones and protein levels in the mother 's blood .</s>
+<s id='vn42'>Xét nghiệm này cũng được biết đến như một " xét nghiệm bộ ba " hoặc xét nghiệm bộ bốn , xét nghiệm máu này có thể cho biết nhiều chứng bệnh chẳng hạn như tật nứt đốt sống hoặc hội chứng Down bằng cách đo nồng độ các hoóc - môn nào đó và nồng độ prô - tê-in trong máu của mẹ .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Keep in mind that these are screening tests and only show the possibility of a problem - they do n't provide definitive diagnoses .</s>
+<s id='vn43'>Lưu ý rằng đây chỉ là những xét nghiệm sàng lọc và chỉ cho biết khả năng xảy ra vấn đề – chứ chúng không đưa ra chẩn đoán chính xác hay đáng tin cậy .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>However , if results show a potential problem , a doctor will recommend other diagnostic tests .</s>
+<s id='vn44'>Tuy nhiên , nếu kết quả cho thấy vấn đề có thể xảy ra thì bác sĩ sẽ đề nghị cho làm thêm các xét nghiệm chẩn đoán khác .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>* Newborn screening tests .</s>
+<s id='vn45'>* Xét nghiệm sàng lọc trẻ sơ sinh .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>These tests are done soon after a child is born to detect conditions that often ca n't be found before delivery , like sickle cell anemia or cystic fibrosis .</s>
+<s id='vn46'>Các xét nghiệm này được thực hiện ngay sau khi trẻ chào đời để phát hiện ra những bệnh thường không tìm thấy được trước khi sinh , chẳng hạn như bệnh thiếu máu hồng cầu hình liềm hoặc bệnh xơ nang .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Blood is drawn ( usually from a needle stick on the heel ) and spots are placed on special paper , which is then sent to a lab for analysis .</s>
+<s id='vn47'>Máu được rút ra ( thường bằng kim tiêm ở gót chân ) và lượng máu nhỏ này được đặt trên một loại giấy đặc biệt , sau đó được gởi đến phòng thí nghiệm để phân tích .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Different states test for different diseases in infants .</s>
+<s id='vn48'>Các nhà nước khác nhau làm xét nghiệm bệnh khác nhau ở trẻ sơ sinh .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>* Bilirubin level .</s>
+<s id='vn49'>* Nồng độ sắc tố da cam .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Bilirubin is a substance in the blood that can build up in babies and cause their skin to appear jaundiced ( yellow ) .</s>
+<s id='vn50'>Sắc tố da cam là chất có trong máu có thể tăng sinh ở trẻ và làm cho da có vẻ vàng ( vàng da ) .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Usually jaundice is a harmless condition , but if the level of bilirubin gets too high , it can lead to brain damage .</s>
+<s id='vn51'>Thông thường thì vàng da là chứng bệnh không gây nguy hại gì , nhưng nếu nồng độ sắc tố da cam quá cao thì nó có thể dẫn đến tổn thương não .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>A baby who appears jaundiced may have a bilirubin level check , which is done with an instrument placed on the skin or by blood tests .</s>
+<s id='vn52'>Trẻ bị vàng da có thể được kiểm tra nồng độ sắc tố da cam , được thực hiện bằng một dụng cụ đặt trên da hoặc bằng xét nghiệm máu .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>* Hearing screen .</s>
+<s id='vn53'>* Kiểm tra thính giác .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The American Academy of Pediatrics ( AAP ) recommends that all babies have a hearing screen done before discharge from the hospital .</s>
+<s id='vn54'>Viện hàn lâm nhi khoa Hoa Kỳ ( AAP ) khuyến nghị tất cả trẻ em đều phải được kiểm tra thính giác trước khi xuất viện .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>It 's important to pick up hearing deficits early so that they can be treated as soon as possible .</s>
+<s id='vn55'>Điều quan trọng là phải phát hiện tật giảm thính giác sớm để được chữa trị càng sớm càng tốt .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Hearing screens take 5-10 minutes and are painless .</s>
+<s id='vn56'>Quá trình kiểm tra thính giác chỉ mất từ 5 đến 10 phút và không gây đau đớn gì .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Sometimes they involve putting small probes in the ears or they 're done with electrodes .</s>
+<s id='vn57'>Đôi khi cần phải đặt vào bên trong tai những ống thăm dò nhỏ hoặc được thực hiện bằng điện cực .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Radiology tests</s>
+<s id='vn58'>Xét nghiệm X quang</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* X-rays .</s>
+<s id='vn59'>* Chụp X-quang .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>X-rays can help doctors find a variety of conditions , including broken bones and lung infections .</s>
+<s id='vn60'>Chụp X-quang có thể giúp bác sĩ phát hiện ra nhiều chứng bệnh , bao gồm gãy xương và viêm phổi .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>X-rays are n't painful , and typically involve just having the child stand , sit , or lie on a table while the X-ray machine takes a picture of the area the doctor is concerned about .</s>
+<s id='vn61'>Chụp X-quang không gây đau đớn gì , trẻ thường chỉ việc đứng , ngồi , hoặc nằm trên bàn trong khi máy chụp X-quang chụp hình vùng mà bác sĩ đang quan tâm .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>The child is sometimes given a special gown or covering to help protect other areas of the body from radiation .</s>
+<s id='vn62'>Đôi khi trẻ được mặc một chiếc áo choàng đặc biệt hoặc được che tấm khoác bên ngoài nhằm giúp bảo vệ các vùng khác trên cơ thể khỏi bị chiếu xạ .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>* Ultrasound .</s>
+<s id='vn63'>* Siêu âm .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Though they 're typically associated with pregnancy , doctors order ultrasounds in lots of different cases .</s>
+<s id='vn64'>Mặc dù siêu âm thường liên quan đến thai nghén , nhưng nhiều bác sĩ cũng yêu cầu siêu âm trong nhiều trường hợp khác .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>For example , ultrasounds can be used to look for collections of fluid in the body , for problems with the kidneys , or to look at a baby 's brain .</s>
+<s id='vn65'>Chẳng hạn người ta có thể siêu âm để tìm dịch ứ trong cơ thể , đối với các vấn đề về thận , hoặc để quan sát não bộ của trẻ .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>An ultrasound is painless and uses high-frequency sound waves to create a picture .</s>
+<s id='vn66'>Phương pháp siêu âm không gây đau đớn gì và phương pháp này sử dụng sóng âm thanh có tần số cao để tạo ra hình ảnh .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>A special jelly is applied to the skin , and a handheld device is moved over the skin .</s>
+<s id='vn67'>Người ta thoa một loại thạch đặc biệt lên da và di chuyển thiết bị cầm tay trên bề mặt da .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>The sound waves that come back produce an image on a screen .</s>
+<s id='vn68'>Sóng âm thanh quay ngược trở lại làm hiển thị ảnh trên màn hình .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The images seen on ultrasounds are difficult for the untrained eye to decipher , so a doctor will view the image and interpret it .</s>
+<s id='vn69'>Mắt thường không có kinh nghiệm rất khó giải đoán được các hình siêu âm , vì vậy bác sĩ sẽ xem hình và giải thích hình đó là gì .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* Computed tomography ( CAT scan or CT-Scan ) .</s>
+<s id='vn70'>* Chụp cắt lớp ( ảnh chụp cắt lớp ) .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>CAT scans are a kind of X- ray , and typically are ordered to look for things such as appendicitis , internal bleeding , or abnormal growths .</s>
+<s id='vn71'>Ảnh chụp cắt lớp là một loại tia X , bệnh nhân thường được yêu cầu chụp cắt lớp để tìm những bệnh như viêm ruột thừa , xuất huyết nội , hoặc tăng sinh bất thường .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>A scan is not painful , but sometimes can be scary for young kids .</s>
+<s id='vn72'>Phương pháp chụp cắt lớp không gây đau đớn gì , nhưng đôi khi có thể làm cho trẻ nhỏ sợ .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>A child is asked to lie on a narrow table , which slides into a scanner .</s>
+<s id='vn73'>Trẻ thường được nằm trên một chiếc bàn hẹp , đẩy trượt vào máy chụp quét .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>A scan may require the use of a contrast material ( a dye or other substance ) to improve the visibility of certain tissues or blood vessels .</s>
+<s id='vn74'>Phương pháp này có thể cần phải sử dụng chất cản quang ( thuốc nhuộm hay một chất gì đó khác ) để giúp nhìn thấy rõ hơn các mô hoặc các mạch máu nào đó .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>The contrast material may be swallowed or given through an IV .</s>
+<s id='vn75'>Chất cản quang có thể được sử dụng bằng đường uống hoặc bằng đường truyền tĩnh mạch .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>* Magnetic resonance imaging ( MRI ) .</s>
+<s id='vn76'>* Chụp cộng hưởng từ ( MRI ) .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>MRIs use radio waves and magnetic fields to produce an image .</s>
+<s id='vn77'>MRI sử dụng sóng ra - đi - ô và từ trường để tạo ra hình ảnh .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>MRIs are often used to look at bones , joints , and the brain .</s>
+<s id='vn78'>Người ta thường chụp cộng hưởng từ để quan sát xương , khớp , và não .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>The child is asked to lie on a narrow table and it slides into the middle of an MRI machine .</s>
+<s id='vn79'>Trẻ được nằm trên một chiếc bàn hẹp và chiếc bàn này có thể trượt vào giữa máy chụp .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>While MRIs are not painful , they can be noisy and long , making them scary to kids .</s>
+<s id='vn80'>Mặc dù MRI không gây đau đớn gì , nhưng có thể ồn ào và thực hiện trong thời gian dài , làm cho trẻ thấy sợ .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Often , children need to be sedated for MRIs .</s>
+<s id='vn81'>Thường thì trẻ cần phải được dùng thuốc an thần để chụp MRI .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Contrast material is sometimes given through an IV in order to get a better picture of certain structures .</s>
+<s id='vn82'>Đôi khi trẻ cũng được truyền tĩnh mạch chất cản quang để chụp được hình ảnh rõ hơn về các cấu trúc nào đó .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>* Upper gastrointestinal imaging ( Upper GI ) .</s>
+<s id='vn83'>* Chụp hình dạ dày - ruột trên .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>An upper GI involves swallowing contrast material while X-rays are taken of the top part of the digestive system .</s>
+<s id='vn84'>Bệnh nhân được uống chất cản quang trong khi chụp X-quang phần trên của hệ tiêu hoá .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>This allows the doctor to see how a child swallows .</s>
+<s id='vn85'>Biện pháp này giúp cho bác sĩ quan sát thấy được trẻ nuốt như thế nào .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Upper GI studies are used to evaluate things like difficulty swallowing and gastroesophageal reflux ( GERD ) .</s>
+<s id='vn86'>Người ta sử dụng phương pháp chụp hình dạ dày - ruột trên để khám và chẩn đoán nhiều bệnh như khó nuốt và trào ngược dạ dày thực quản ( GERD ) .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>An upper GI is n't painful , but some kids do n't like to drink the contrast material , which sometimes can be flavored to make it more appealing .</s>
+<s id='vn87'>Chụp hình dạ dày - ruột trên không gây đau đớn gì nhưng một số trẻ không thích uống chất cản quang , đôi khi người ta cũng có thể cho thêm mùi vị vào để làm cho nó hấp dẫn hơn .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>* Voiding cystourethrogram ( VCUG ) .</s>
+<s id='vn88'>* Chụp X-quang bàng quang - niệu đạo ( VCUG ) .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>A VCUG involves putting dye into the bladder and then watching with continuous X-rays to see where the dye goes .</s>
+<s id='vn89'>Để thực hiện thủ thuật này người ta cho thuốc nhuộm vào bàng quang rồi theo dõi tia X liên tục để xem thuốc nhuộm đi đâu .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Doctors typically order a VCUG when they are concerned about urinary reflux , which can sometimes lead to kidney damage later .</s>
+<s id='vn90'>Bác sĩ thường yêu cầu chụp X-quang bàng quang - niệu đạo khi quan tâm đến chứng trào ngược nước tiểu , đôi khi cũng có thể gây tổn thương thận về sau .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>A catheter is inserted through the urethra , into the bladder , which can be uncomfortable and scary for a child , but usually is not painful .</s>
+<s id='vn91'>Người ta đặt một ống thông đường tiểu qua niệu đạo , vào bàng quang , có thể làm cho trẻ cảm thấy khó chịu và sợ hãi , nhưng thường không gây đau đớn gì .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>The bladder is then filled with contrast material that is put in through the catheter .</s>
+<s id='vn92'>Sau đó người ta lại đổ đầy chất cản quang vào bàng quang qua ống thông đường tiểu .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Images are taken while the bladder is filling and while the child is urinating , to see where the dye and the urine go .</s>
+<s id='vn93'>Hình được chụp khi bàng quang được đổ đầy và khi trẻ đi tiểu , để xem thuốc nhuộm và nước tiểu đi đâu .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Other tests</s>
+<s id='vn94'>Các xét nghiệm khác</s>
+</spair>
+<spair id='95'>
+<s id='en95'>* Throat culture ( strep screen ) .</s>
+<s id='vn95'>* Cấy trùng cổ họng .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Doctors often order throat cultures to test for the germs that cause strep throat , which are known as group A streptococcus , or strep .</s>
+<s id='vn96'>Bác sĩ thường yêu cầu cấy trùng cổ họng để tìm vi trùng gây đau họng cấp tính - nhóm khuẩn cầu chuỗi / khuẩn liên cầu .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>The cultures are done in the doctor 's office and are n't painful , but can be uncomfortable for a few seconds .</s>
+<s id='vn97'>Các quy trình này được thực hiện tại phòng khám của bác sĩ và không gây đau đớn gì , nhưng trẻ có thể không thoải mái trong vòng một vài giây .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>The doctor or medical assistant wipes the back of the throat with a long cotton swab .</s>
+<s id='vn98'>Bác sĩ hoặc nhân viên phụ tá lau khô đáy cuống họng bằng một miếng gạc dài .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>This tickles the back of the throat and can cause a child to gag , but will be over very quickly , especially if your child stays still .</s>
+<s id='vn99'>Miếng gạc này cù vào đáy cuống họng và có thể làm cho trẻ bị nôn , oẹ nhưng sẽ hết rất nhanh thôi , nhất là nếu bé ngồi yên .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>* Stool test .</s>
+<s id='vn100'>* Xét nghiệm phân .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Stool ( or feces or poop ) can provide doctors with valuable information about what 's wrong when your child has a problem in the stomach , intestines , or another part of the gastrointestinal system .</s>
+<s id='vn101'>Xét nghiệm phân có thể cho bác sĩ biết nhiều thông tin quan trọng về vấn đề của trẻ khi trẻ bị bệnh về dạ dày , ruột , hoặc một bộ phận nào đó khác trong hệ thống dạ dày - ruột .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>The doctor may order stool tests if there is suspicion of something like an allergy , an infection , or digestive problems .</s>
+<s id='vn102'>Bác sĩ có thể yêu cầu làm xét nghiệm phân nếu nghi ngờ bệnh gì đó chẳng hạn như dị ứng , nhiễm trùng , hoặc các vấn đề về tiêu hóa .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Sometimes it is collected at home by a parent in a special container that the doctor provides .</s>
+<s id='vn103'>Đôi khi mẫu phân của trẻ cũng có thể được bố ( mẹ ) lấy ở nhà đựng trong một vật chứa đặc biệt do bác sĩ cấp .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>The doctor will also provide instructions on how to get the sample for analysis .</s>
+<s id='vn104'>Bác sĩ cũng sẽ hướng dẫn cách lấy mẫu phân để có thể phân tích được .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>* Urine test .</s>
+<s id='vn105'>* Xét nghiệm nước tiểu .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Doctors order urine tests to make sure that the kidneys are functioning properly or when they suspect an infection in the kidneys or bladder .</s>
+<s id='vn106'>Bác sĩ thường yêu cầu xét nghiệm nước tiểu để chắc rằng thận của trẻ đang hoạt động tốt hoặc khi nghi ngờ thận hoặc bàng quang bị nhiễm trùng .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>It can be taken in the doctor 's office or at home .</s>
+<s id='vn107'>Mẫu nước tiểu có thể được lấy ở tại phòng khám hoặc tại nhà .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>It 's easy for toilet-trained kids to give a urine sample since they can go in a cup .</s>
+<s id='vn108'>Trẻ đã được huấn luyện đi vệ sinh rồi có thể lấy được mẫu nước tiểu dễ dàng bởi chúng có thể tiểu vào trong tách .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>In other cases , the doctor or nurse will insert a catheter ( a narrow , soft tube ) through the urinary tract opening into the bladder to get the urine sample .</s>
+<s id='vn109'>Trong nhiều trường hợp khác , bác sĩ hoặc y tá sẽ đưa ống thông đường tiểu ( ống mềm , nhỏ ) qua đường tiểu thông với bàng quang để lấy mẫu nước tiểu .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>While this can be uncomfortable and scary for kids , it 's typically not painful .</s>
+<s id='vn110'>Mặc dù quy trình này có thể gây khó chịu và làm cho trẻ sợ nhưng thường không gây đau đớn gì .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>* Lumbar puncture ( spinal tap ) .</s>
+<s id='vn111'>* Chọc đốt sống thắt lưng ( chọc dò tủy sống ) .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>During a lumbar puncture a small amount of the fluid that surrounds the brain and spinal cord , the cerebrospinal fluid , is removed and examined .</s>
+<s id='vn112'>Trong suốt quá trình làm thủ thuật này , người ta lấy ra một chút chất dịch quanh não và tuỷ sống - dịch não tuỷ - và đem kiểm tra .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>In kids , a lumbar puncture is often done to look for meningitis , an infection of the meninges ( the membrane covering the brain and spinal cord ) .</s>
+<s id='vn113'>Đối với trẻ nhỏ , thủ thuật chọc đốt sống thắt lưng thường để dò tìm bệnh viêm màng não , nhiễm trùng màng não ( màng bao bọc não và tuỷ sống ) .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Other reasons to do lumbar punctures include : to remove fluid and relieve pressure with certain types of headaches , to look for other diseases in the central nervous system , or to place chemotherapy medications into the spinal fluid .</s>
+<s id='vn114'>Bên cạnh đó cũng còn nhiều nguyên do khác cần phải chọc đốt sống thắt lưng như lấy dịch và làm giảm áp lực đối với một số loại nhức đầu nào đó , để tìm nhiều chứng bệnh khác trong hệ thần kinh trung ương , hoặc để đặt thuốc hoá trị liệu vào dịch não tủy .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Spinal taps , which can be done on an inpatient or outpatient basis , might be uncomfortable but should n't be too painful .</s>
+<s id='vn115'>Chọc dò tủy sống , có thể được thực hiện đối với bệnh nhân nội trú hoặc ngoại trú , có thể gây khó chịu nhưng sẽ không quá đau đớn .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Depending on a child 's age , the test may be done while the child is sedated .</s>
+<s id='vn116'>Tùy thuộc vài độ tuổi của trẻ mà thủ thuật này có thể được thực hiện trong khi trẻ đã được cho dùng thuốc an thần .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>* Electroencephalography ( EEG ) .</s>
+<s id='vn117'>* Điện não đồ ( EEG ) .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>EEGs often are used to detect conditions that affect brain function , such as epilepsy , seizure disorders , and brain injury .</s>
+<s id='vn118'>EEG thường được sử dụng để phát hiện nhiều chứng bệnh ảnh hưởng đến chức năng não , chẳng hạn như động kinh , và tổn thương não .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>Brain cells communicate by electrical impulses , and an EEG measures and records these impulses to detect anything abnormal .</s>
+<s id='vn119'>Các tế bào não liên lạc bằng xung lực điện , và EEG có nhiệm vụ đo và ghi lại những xung lực này để phát hiện ra bất kỳ điều gì bất thường .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>The procedure is n't painful but kids often do n't like the electrodes being applied to their heads .</s>
+<s id='vn120'>Quy trình này không gây đau đớn gì nhưng trẻ thường không thích đầu của mình bị áp các điện cực lên .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>A technician arranges several electrodes at specific sites on the head , fixing them in place with sticky paste .</s>
+<s id='vn121'>Kỹ thuật viên sắp một vài điện cực lên một số chỗ cụ thể trên đầu , dán dính cố định chúng lại .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>The patient must remain still and lie down while the EEG is done .</s>
+<s id='vn122'>Bệnh nhân vẫn không được nhúc nhích và nằm xuống trong khi thực hiện điện não đồ .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* Electrocardiography ( EKG ) .</s>
+<s id='vn123'>* Điện tâm đồ ghi điện tim ( EKG ) .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>EKGs measure the heart 's electrical activity to help evaluate its function and identify any problems .</s>
+<s id='vn124'>EKG đo hoạt động điện của tim để giúp đánh giá được hoạt động của tim và nhận biết được bất kỳ vấn đề gì .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>The EKG can help determine the rate and rhythm of heartbeats , the size and position of the heart 's chambers , and whether there is any damage present .</s>
+<s id='vn125'>EKG có thể giúp xác định tốc độ nhanh chậm và xác định được nhịp tim , kích cỡ và vị trí của buồng tim , đồng thời cũng xác định được hiện có bất kỳ tổn thương nào hay không .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>EKGs can detect abnormal heart rhythms , some congenital heart defects , and heart tissue that is n't getting enough oxygen .</s>
+<s id='vn126'>EKG còn có thể phát hiện được nhịp tim bất thường , một số dị tật tim bẩm sinh , và mô tim đang thiếu ô-xy .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>It 's not a painful procedure - the child must lie down and a series of small electrodes are fixed on the skin with sticky papers on the chest , wrists , and ankles .</s>
+<s id='vn127'>Quy trình này không gây đau đớn gì – trẻ phải nằm xuống và một loạt điện cực nhỏ được cố định trên da bằng giấy dán dính ở vùng ngực , cổ tay , và mắt cá chân .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>The patient must sit still and may be asked to hold his or her breath briefly while the heartbeats are recorded .</s>
+<s id='vn128'>Bệnh nhân phải ngồi yên và có thể được yêu cầu nín thở một thời gian ngắn trong khi được ghi lại nhịp tim .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>* Electromyography ( EM G ) .</s>
+<s id='vn129'>* Đo điện cơ điện đồ cơ ( EMG ) .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>An EMG measures the response of muscles and nerves to electrical activity .</s>
+<s id='vn130'>EMG đo phản ứng của cơ và thần kinh đối với hoạt động điện .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>It 's used to help determine muscle conditions that might be causing muscle weakness , including muscular dystrophy and nerve disorders .</s>
+<s id='vn131'>EMG được dùng để giúp xác định được nhiều chứng bệnh cơ có thể gây yếu cơ , như loạn dưỡng cơ và rối loạn thần kinh .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>A needle electrode is inserted into the muscle ( the insertion might feel similar to a pinch ) and the signal from the muscle is transmitted from the electrode through a wire to a receiver_amplifier .</s>
+<s id='vn132'>Người ta đâm một kim điện cực vào cơ ( có thể cảm giác như bị véo ) và tín hiệu từ cơ được truyền từ điện cực qua dây đến máy thu bộ khuếch đại .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>EMGs can be uncomfortable and scary to kids , but are n't usually painful .</s>
+<s id='vn133'>EMG có thể làm cho trẻ thấy khó chịu và sợ hãi nhưng thường không gây đau đớn gì .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Occasionally kids are sedated while they 're done .</s>
+<s id='vn134'>Đôi khi trẻ cũng được cho dùng thuốc an thần trong khi thực hiện đo điện cơ .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>* Biopsies .</s>
+<s id='vn135'>* Sinh thiết .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>Biopsies are samples of body tissues taken to look for things such as cancer , inflammation , celiac disease , or the presence or absence of certain cells .</s>
+<s id='vn136'>Sinh thiết là lấy các mẫu mô trong cơ thể ra để tìm nhiều chứng bệnh như ung thư , viêm , bệnh đường ruột , hoặc tồn tại hay thiếu một số tế bào nào đó .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>Biopsies can be taken from almost anywhere , including lymph nodes , bone marrow , or kidneys .</s>
+<s id='vn137'>Người ta có thể làm sinh thiết ở hầu hết bất cứ chỗ nào trên cơ thể , gồm các hạch bạch huyết , tuỷ xương , hoặc thận .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>Doctors examine the removed tissue under a microscope to make a diagnosis .</s>
+<s id='vn138'>Bác sĩ kiểm tra mô được lấy ra dưới kính hiển vi để chẩn đoán .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>Kids are usually sedated for a biopsy .</s>
+<s id='vn139'>Trẻ thường được cho dùng thuốc an thần để làm sinh thiết .</s>
+</spair>
+</text>
+</doc>

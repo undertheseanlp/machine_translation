@@ -1,0 +1,56 @@
+﻿<doc id='N0236'>
+<head>
+<title>Euro falls to two-year low against the dollar</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Euro falls to two-year low against the dollar</s>
+<s id='vn1'>Đồng Euro giảm xuống mức thấp nhất trong vòng hai năm qua so với đồng đô la</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The euro has fallen to its lowest level against the dollar for two years on worries over eurozone prospects and as minutes from the US Fed dampened hopes of any new stimulus measures .</s>
+<s id='vn2'>Đồng Euro đã giảm xuống mức thấp nhất so với đồng đô la trong 2 năm qua vì những lo ngại về tương lai của khu vực đồng Euro và biên bản của Cục dự trữ liên bang Mỹ làm tiêu tan mọi hy vọng về các biện pháp kích thích kinh tế mới .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The euro fell to $ 1.2165 , its lowest level since mid-2010 .</s>
+<s id='vn3'>Đồng Euro giảm xuống còn 1,2165 đô la Mỹ , mức thấp nhất kể từ giữa năm 2010 .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>US Fed minutes released on Wednesday from its June meeting suggested it was not planning any imminent additional moves to boost the US economy .</s>
+<s id='vn4'>Biên bản của Cục Dự trữ Liên bang Mỹ công bố hôm thứ tư từ cuộc họp hồi tháng 6 cho thấy họ sẽ không có thêm một động thái nào nữa để thúc đẩy tăng trưởng nền kinh tế Mỹ .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>In contrast , the European Central Bank cut interest rates last week .</s>
+<s id='vn5'>Ở chiều ngược lại , tuần qua Ngân hàng Trung ương châu Âu đã cắt giảm lãi suất .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>It cut its key benchmark rate from 1 % to 0.75 % , a record low for the eurozone , and also cut its deposit rate , from 0.25 % to zero .</s>
+<s id='vn6'>Ngân hàng đã cắt giảm lãi suất cơ bản chủ chốt từ 1% xuống 0,75% , mức thấp kỷ lục đối với khu vực đồng Euro , và đồng thời cắt giảm lãi suất tiền gửi , từ 0,25% xuống 0 .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>European stock markets also closed lower , with London 's FTSE 100 shedding 1 % .</s>
+<s id='vn7'>Các sàn chứng khoán châu Âu cũng đóng cửa ở mức thấp hơn , chỉ số FTSE 100 của Luân Đôn mất 1% .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The value of the euro has also been hit by worries over growth prospects for the eurozone and whether it can tackle the current debt crisis .</s>
+<s id='vn8'>Giá trị của đồng Euro cũng đã bị tác động bởi những lo lắng về triển vọng tăng trưởng khu vực đồng Euro và không biết khu vực này có thể giải quyết được cuộc khủng hoảng nợ hiện nay hay không .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>George Saravelos , currency strategist at Deutsche Bank , told the Reuters news agency .</s>
+<s id='vn9'>George Saravelos , chiến lược gia tiền tệ của Deutsche Bank nói với hãng tin Reuters .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" Every single central bank except for the Fed is easing , and until that happens we expect the dollar to stay supported " .</s>
+<s id='vn10'>" Từng ngân hàng trung ương một , ngoại trừ Cục dự trữ liên bang , sẽ nới lỏng , và cho đến khi điều đó diễn ra , chúng ta kỳ vọng đồng đô la vẫn ổn định " .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" The euro is likely to weaken further as it will be hurt by the ECB 's decision to cut the deposit rate and there will be a shift in funding . "</s>
+<s id='vn11'>" Đồng Euro có khả năng sẽ yếu hơn vì sẽ bị tổn thương bởi quyết định cắt giảm lãi suất tiền gửi của ECB và thay đổi trong hoạt động vay vốn . "</s>
+</spair>
+</text>
+</doc>

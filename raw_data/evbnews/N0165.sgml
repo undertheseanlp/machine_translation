@@ -1,0 +1,108 @@
+﻿<doc id='N0165'>
+<head>
+<title>Libya 's Foreign Minister Resigns , Arrives in Britain</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Libya 's Foreign Minister Resigns , Arrives in Britain</s>
+<s id='vn1'>Ngoại trưởng Li-bi từ chức , đến Anh</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Libyan Foreign Minister Moussa Koussa has arrived in Britain and has declared he is leaving Moammar Gadhafi 's government .</s>
+<s id='vn2'>Ngoại trưởng Moussa Koussa của Li-bi đã đến Anh và đã tuyên bố ông sẽ rời bỏ chính phủ của Moammar Gadhafi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>The British foreign office said Wednesday that Koussa traveled from Tunisia to London under , telling officials he is resigning .</s>
+<s id='vn3'>Hôm thứ tư Bộ ngoại giao Anh nói rằng Koussa tự ý từ Tuy-ni-di đến Luân Đôn , nói với các quan chức ông sẽ từ chức .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>British officials urged Mr. Gadhafi 's other supporters to desert him .</s>
+<s id='vn4'>Các quan chức Anh kêu gọi những người khác ủng hộ ông Gadhafi cũng nên từ bỏ ông ấy .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A Libyan government spokesman , Moussa Ibrahim , denied the foreign minister has defected , saying he is in Britain on a " diplomatic mission " .</s>
+<s id='vn5'>Người phát ngôn của chính phủ Li-bi , Moussa Ibrahim , phủ nhận việc ngoại trưởng bỏ sang nước khác , nói rằng ông này ở Anh vì " sứ mệnh ngoại giao " .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Libya 's justice and interior ministers resigned early in the conflict and joined the rebels fighting in the east .</s>
+<s id='vn6'>Bộ trưởng tư pháp và nội vụ của Li-bi đã từ chức ngay từ đầu xảy ra xung đột và đã gia nhập quân nổi loạn đang chiến đấu ở phía đông .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>U.S. officials called Koussa 's resignation " very significant , " an example of growing splits inside the Libyan government .</s>
+<s id='vn7'>Các quan chức Hoa Kỳ gọi việc từ chức của Koussa " rất quan trọng , " một ví dụ về sự chia rẽ ngày càng lớn bên trong chính phủ Li-bi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The foreign minister has been a close confidant of Mr. Gadhafi and served as his intelligence chief for more than a decade .</s>
+<s id='vn8'>Ngoại trưởng là người tâm phúc của ông Gadhafi và từng giữ vai trò người đứng đầu cơ quan tình báo của ông hơn một thập niên .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In Washington , the White House repeated that no decision has been made to provide arms to rebel in Libya .</s>
+<s id='vn9'>Ở Washington , Nhà Trắng lặp lại rằng không đưa ra quyết định cung cấp vũ khí cho quân phiến loạn ở Li-bi .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Wednesday 's statement was issued amid reports that President Barack Obama has approved a secret efforts to support anti-government rebels .</s>
+<s id='vn10'>Tuyên bố hôm thứ tư đã được đưa ra trong báo cáo cho biết tổng thống Barack Obama ngấm ngầm cho phép nỗ lực ủng hộ những kẻ nổi loạn chống chính phủ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The New York Times reported that the CIA has put an unknown number of operatives into Libya to gather intelligence and make contact with anti-Gadhafi forces .</s>
+<s id='vn11'>Thời báo New York cho biết CIA đã cài đặt không biết bao nhiêu mật vụ vào Li-bi để thu thập tin tức tình báo và tiếp xúc với lực lượng chống Gadhafi .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This newspaper said the CIA declined comment on the report , which quoted what it called current and former British officials as saying British special forces and intelligence officers also are in this North African nation .</s>
+<s id='vn12'>Thời báo này nói rằng CIA không chịu bàn về bản báo cáo , viện dẫn những gì nó gọi là các quan chức Anh hiện thời và các cựu quan chức khi nói lực lượng đặc nhiệm và sĩ quan tình báo Anh cũng có mặt tại quốc gia Bắc Phi này .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Earlier Wednesday , troops loyal to Mr. Gadhafi drove anti-government rebels from key coastal cities they had seized days before , reversing opposition gains made since international airstrikes began .</s>
+<s id='vn13'>Đầu ngày thứ tư , binh lính trung thành với ông Gadhafi đã đuổi quân nổi loạn chống chính phủ khỏi thành phố then chốt miền duyên hải , họ chiếm đóng mấy ngày trước đó , đảo ngược những gì phe đối lập đã giành được từ khi các trận không kích quốc tế bắt đầu .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Libyan rebels retreated amid intense fighting around the strategic oil towns , Ras Lanuf and Brega .</s>
+<s id='vn14'>Quân nổi loạn Li-bi rút lui trong khi đang chiến đấu cao độ xung quanh các thị trấn chiến lược về dầu , Ras Lanuf và Brega .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Many opposition fighters fell back to the city of Ajdabiya , from where residents were seen fleeing along the road toward the opposition stronghold of Benghazi .</s>
+<s id='vn15'>Nhiều binh lính của phe đối lập lùi lại thành phố Ajdabiya , từ nơi mà các cư dân đã phải chạy trốn dọc theo con đường hướng về thành trì Benghazi của phe đối lập .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Pro-Gadhafi forces were shelling Brega and a rebel military spokesman said he expected the loyalists to enter the city by Wednesday night .</s>
+<s id='vn16'>Lực lượng ủng hộ Gadhafi đang nã pháo Brega và người phát ngôn của quân nổi loạn nói rằng ông hy vọng những người trung thành sẽ tiến vào thành phố vào đêm thứ tư .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The spokesman ( Colonel Ahmad Bani ) also said as many as 3,600 heavily armed members of the Chadian Republican Guard are fighting alongside Gadhafi loyalists .</s>
+<s id='vn17'>Người phát ngôn ( đại tá Ahmad Bani ) cũng nói rằng tới 3,600 thành viên của Vệ binh Cộng hoà Chad được trang bị nhiều vũ khí hiện đang chiến đấu bên cạnh những người trung thành Gadhafi .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>He dismissed concerns that members of al-Qaida are fighting with the Libyan rebels .</s>
+<s id='vn18'>Ông gạt bỏ mối lo ngại các thành viên của al-Qaida đang chiến đấu với quân nổi loạn Li-bi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>On Tuesday , U.S. Admiral James Stavridis told a congressional hearing that groups such as al-Qaida and the Lebanese Hezbollah militia have a small presence among the Libyan opposition .</s>
+<s id='vn19'>Hôm thứ ba , đô đốc James Stavridis Hoa Kỳ bảo buổi điều trần trước Quốc hội rằng các nhóm như là al-Qaida và dân quân Hezbollah của Li-băng có một lực lượng nhỏ trong phe đối lập Li-bi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>He also said the opposition leadership appeared to be " responsible men and women " fighting the Libyan government .</s>
+<s id='vn20'>Ông cũng nói rằng tập thể lãnh đạo của phe đối lập có vẻ là " những ông bà có trách nhiệm " đang đấu tranh chống chính phủ Li-bi .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>A prominent U.S.-based rights group said Wednesday that Mr. Gadhafi 's forces have laid land mines around Ajdabiya when the coastal city was under their control earlier this month .</s>
+<s id='vn21'>Các nhóm quyền nổi bật tại Hoa Kỳ hôm thứ tư đã nói rằng lực lượng của ông Gadhafi đã đặt mìn xung quanh Ajdabiya khi thành phố miền duyên hải dưới quyền kiểm soát của họ vào đầu tháng này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In a statement from the rebel stronghold of Benghazi , Human Rights Watch said a civil defense team found more than 50 anti-vehicle and anti-personnel mines in a heavily traveled area .</s>
+<s id='vn22'>Trong một tuyên bố từ pháo đài Benghazi của quân phiên loạn , Tổ chức Giám sát Nhân quyền nói rằng nhóm dân quân tự vệ tìm thấy hơn 50 quả mình phá xe và sát thương trong khu vực có nhiều người qua lại .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>A U.S. military spokesman said coalition airplanes resumed bombing pro-Gadhafi troops Wednesday , although the timing and location of those strikes was not specified .</s>
+<s id='vn23'>Người phát ngôn của Quân đội Hoa Kỳ nói rằng các máy bay liên minh tiếp tục ném bom binh lính ủng hộ Gadhafi hôm thứ tư , dù thời gian và địa điểm tấn công vẫn chưa được nêu rõ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Western nations began enforcing a United Nations authorized no-fly zone over Libya on March 19 to protect civilians from harm .</s>
+<s id='vn24'>Các quốc gia phương Tây đã bắt đầu thực thi vùng cấm bay do Liên Hiệp Quốc phê chuẩn ở Li-bi vào ngày 19 tháng ba để bảo vệ cho thường dân khỏi bị hại .</s>
+</spair>
+</text>
+</doc>

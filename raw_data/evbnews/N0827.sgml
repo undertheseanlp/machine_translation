@@ -1,0 +1,976 @@
+﻿<doc id='N0827'>
+<head>
+<title>Food poisoning</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Food poisoning</s>
+<s id='vn1'>Ngộ độc thực phẩm</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Food poisoning is a common , usually mild , but sometimes deadly illness .</s>
+<s id='vn2'>Ngộ độc thực phẩm rất thường hay xảy ra và thường không nghiêm trọng , nhưng đôi khi cũng có thể gây chết người .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Food poisoning overview</s>
+<s id='vn3'>Khái quát về ngộ độc thực phẩm</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Food poisoning is a common , usually mild , but sometimes deadly illness .</s>
+<s id='vn4'>Ngộ độc thực phẩm rất thường hay xảy ra và thường không nghiêm trọng , nhưng đôi khi cũng có thể gây chết người .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Typical symptoms include nausea , vomiting , abdominal cramping , and diarrhea that occur suddenly ( within 48 hours ) after consuming a contaminated food or drink .</s>
+<s id='vn5'>Các triệu chứng điển hình bao gồm buồn nôn , ói , chuột rút ở bụng , và tiêu chảy đột ngột ( trong vòng 48 tiếng đồng hồ ) sau khi tiêu thụ thức ăn và thức uống bị nhiễm độc .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Depending on the contaminant , fever and chills , bloody stools , dehydration , and nervous system damage may follow .</s>
+<s id='vn6'>Tuỳ thuộc vào chất gây ngộ độc mà có thể xảy ra kèm theo sốt , ớn lạnh , đi tiêu ra máu , mất nước , và tổn thương hệ thần kinh .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>These symptoms may affect one person or a group of people who ate the same thing ( called an outbreak ) .</s>
+<s id='vn7'>Các triệu chứng này có thể xảy ra ở một người hoặc một nhóm người nào đó ăn cùng một loại thức ăn ( đây được gọi là ngộ độc bộc phát ) .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>* The Centers for Disease Control and Prevention ( CDC ) estimates that in the United States , 1 in 6 people becomes sick from eating contaminated food .</s>
+<s id='vn8'>* Trung tâm Kiểm soát và Ngăn ngừa Bệnh tật ( CDC ) ước tính ở Hoa Kỳ , tỉ lệ người bị bệnh do ăn nhầm thức ăn bị nhiễm độc là 1 : 6 .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In 2001 , the CDC estimated that food poisoning causes about 48 million illnesses , 128,000 hospitalizations , and up to 3,000 deaths each year .</s>
+<s id='vn9'>Năm 2001 , tổ chức CDC đã ước tính mỗi năm có khoảng 48 triệu người bị ngộ độc thực phẩm , 128.000 ca phải nhập viện , và con số tử vong lên đến 3.000 người .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>* Norovirus and salmonella are the most common infectious forms of food-borne illness .</s>
+<s id='vn10'>* Norovirus và salmonella là những dạng bệnh truyền qua thực phẩm lây lan thường thấy nhất .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Salmonella causes the most deaths followed by Toxoplasma and Listeria .</s>
+<s id='vn11'>Salmonella gây tử vong nhiều nhất sau Toxoplasma and Listeria ( vi khuẩn hình que ) .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>* Worldwide , diarrheal illnesses are among the leading causes of death .</s>
+<s id='vn12'>* Tiêu chảy là 1 trong những nguyên nhân gây tử vong hàng đầu trên toàn cầu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Travelers to developing countries often encounter food poisoning in the form of traveler 's diarrhea .</s>
+<s id='vn13'>Khách du lịch đến các nước đang phát triển thường hay bị ngộ độc thực phẩm dưới dạng bệnh tiêu chảy do đi du lịch qua vùng khác .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Additionally , there are possible new global threats to the world 's food supply through terrorist actions using food toxins as weapons .</s>
+<s id='vn14'>Ngoài ra , có thể có nhiều hiểm hoạ toàn cầu mới đối với nguồn cung cấp thực phẩm toàn thế giới do hành động khủng bố sử dụng độc tố trong thức ăn để làm vũ khí .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>* Increased virulence of pathogens has caused deadly outbreaks such as the E.Coli STEC outbreak in Germany in 2011 .</s>
+<s id='vn15'>* Tính độc hại của mầm bệnh ngày càng cao đã gây nạn dịch chết người dữ dội chẳng hạn như cơn bùng phát trực khuẩn E.Coli STEC ở Đức vào năm 2011 .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Food poisoning causes</s>
+<s id='vn16'>Nguyên nhân ngộ độc thực phẩm</s>
+</spair>
+<spair id='17'>
+<s id='en17'>More than 250 known diseases can be transmitted through food .</s>
+<s id='vn17'>Trên 250 chứng bệnh phổ biến có thể bị lây truyền qua đường thực phẩm .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The CDC estimates unknown or undiscovered agents cause 68 % of all food-borne illnesses and related hospitalizations .</s>
+<s id='vn18'>Tổ chức CDC ước tính các yếu tố chưa rõ nguyên nhân đã gây 68% tất cả các bệnh truyền qua đường thực phẩm và các trường hợp nhập viện có liên quan .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Many cases of food poisoning are not reported because people suffer mild symptoms and recover quickly .</s>
+<s id='vn19'>Cũng có nhiều trường hợp ngộ độc thực phẩm chưa được báo cáo bởi người ta chỉ bị triệu chứng nhẹ và có thể phục hồi nhanh chóng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Also , doctors do not test for a cause in every suspected case because it does not change the treatment or the outcome .</s>
+<s id='vn20'>Hơn nữa , bác sĩ cũng không kiểm tra nguyên nhân ở từng ca nghi ngờ là ngộ độc thực phẩm bởi việc đó không làm thay đổi phương pháp điều trị hoặc kết quả .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The known causes of food poisoning can be divided into two categories : infectious agents and toxic agents .</s>
+<s id='vn21'>Nguyên nhân gây ngộ độc thực phẩm thường thấy có thể được chia thành hai loại : tác nhân lây nhiễm và chất độc .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>* Infectious agents include viruses , bacteria , and parasites .</s>
+<s id='vn22'>Tác nhân lây nhiễm bao gồm vi-rút , vi khuẩn , và động vật ký sinh .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>* Toxic agents include poisonous mushrooms , improperly prepared exotic foods ( such as barracuda - ciguatera toxin ) , or pesticides on fruits and vegetables .</s>
+<s id='vn23'>Chất độc bao gồm nấm độc , các thực phẩm lạ chưa được chế biến đúng cách ( chẳng hạn như độc tố ciguatera có trong cá nhồng vằn ) , hoặc thuốc trừ sâu trên rau quả .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Food usually becomes contaminated from poor sanitation or preparation .</s>
+<s id='vn24'>Thức ăn thường trở nên bị nhiễm độc do vệ sinh kém hoặc do quá trình chuẩn bị chưa được vệ sinh .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Food handlers who do not wash their hands after using the bathroom or have infections themselves often cause contamination .</s>
+<s id='vn25'>Người bảo quản thức ăn không rửa tay sau khi đi vệ sinh xong hoặc bản thân bị nhiễm bệnh cũng thường làm cho thức ăn bị nhiễm độc .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Improperly packaged food stored at the wrong temperature also promotes contamination .</s>
+<s id='vn26'>Thực phẩm đóng gói không đúng cách được bảo quản trong môi trường không đúng nhiệt độ cũng gây nhiễm độc cho thức ăn .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Food poisoning symptoms</s>
+<s id='vn27'>Triệu chứng ngộ độc thực phẩm</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Symptoms of food poisoning depend on the type of contaminant and the amount eaten .</s>
+<s id='vn28'>Triệu chứng ngộ độc thực phẩm tùy thuộc vào loại chất gây độc và lượng thức ăn nhiều hay ít .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The symptoms can develop rapidly , within 30 minutes , or slowly , worsening over days to weeks .</s>
+<s id='vn29'>Các triệu chứng có thể bộc phát nhanh chóng , trong vòng 30 phút , hoặc từ từ , ngày càng trầm trọng hơn nhiều ngày đến nhiều tuần liền .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Most of the common contaminants cause :</s>
+<s id='vn30'>Hầu hết các chất gây bệnh thường thấy gây :</s>
+</spair>
+<spair id='31'>
+<s id='en31'>* nausea</s>
+<s id='vn31'>* buồn nôn</s>
+</spair>
+<spair id='32'>
+<s id='en32'>* vomiting</s>
+<s id='vn32'>* ói mửa</s>
+</spair>
+<spair id='33'>
+<s id='en33'>* diarrhea</s>
+<s id='vn33'>* tiêu chảy</s>
+</spair>
+<spair id='34'>
+<s id='en34'>* abdominal cramping</s>
+<s id='vn34'>* chuột rút ở bụng</s>
+</spair>
+<spair id='35'>
+<s id='en35'>* fever</s>
+<s id='vn35'>* sốt</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Usually food poisoning is not serious , and the illness runs its course in 24-48 hours .</s>
+<s id='vn36'>Thông thường thì ngộ độc thực phẩm không nghiêm trọng , và bệnh diễn tiến tự nhiên trong vòng 24-48 tiếng đồng hồ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Viruses account for most food poisoning cases .</s>
+<s id='vn37'>Vi-rút là nguyên nhân gây hầu hết các trường hợp ngộ độc thực phẩm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>* Noroviruses are a group of viruses that cause a mild illness ( often termed " stomach flu " ) with nausea , vomiting , diarrhea , abdominal pain , headache , and low-grade fever .</s>
+<s id='vn38'>* Norovirus là một nhóm vi-rút gây ra bệnh nhẹ ( thường được gọi là " ói mửa cấp tính do siêu vi " ) gồm buồn nôn , ói , tiêu chảy , đau bụng , nhức đầu , và sốt nhẹ .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>These symptoms usually resolve in two to three days .</s>
+<s id='vn39'>Các triệu chứng này thường hết trong hai đến ba ngày .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It is the most common viral cause of adult food poisoning and is transmitted from water , shellfish , and vegetables contaminated by feces , as well as from person to person .</s>
+<s id='vn40'>Đây là nguyên nhân gây ngộ độc thực phẩm do vi-rút ở người lớn thường thấy nhất và được lây truyền từ nước , tôm cua , và rau nhiễm phân , cũng như từ người này sang người khác .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Outbreaks are more common in densely populated areas such as nursing homes , schools , and cruise ships ( hence the viral infection is also known as the " Cruise Ship Illness " ) .</s>
+<s id='vn41'>Dịch bệnh thường bùng phát ở những vùng đông dân chẳng hạn như nhà điều dưỡng , trường học , và du thuyền ( vậy nên chứng nhiễm vi-rút cũng được gọi là " Căn bệnh du thuyền " ) .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>The term Norovirus has been approved as the official name for this group of viruses .</s>
+<s id='vn42'>Thuật ngữ Norovirus đã được thông qua như tên gọi chính thức đối với nhóm vi-rút này .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Several other names have been used for noroviruses , including Norwalk-like viruses , caliciviruses ( because they belong to the virus family Caliciviridae ) , and small round structured viruses .</s>
+<s id='vn43'>Một số tên khác cũng được sử dụng cho norovirus , gồm Norwalk-like virus , calicivirus ( vì chúng thuộc họ vi-rút Caliciviridae ) , và các loại vi-rút có cấu trúc tròn nhỏ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Rotavirus : Causes moderate to severe illness with vomiting followed by watery diarrhea and fever .</s>
+<s id='vn44'>* Vi rút gây bệnh viêm ruột và dạ dày ( Rotavirus ) : Loại vi rút này gây bệnh ( ngộ độc thực phẩm ) từ mức độ trung bình đến dữ dội có ói mửa kèm theo là tiêu chảy nước và sốt .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>It is the most common cause of food poisoning in infants and children and is transmitted from person to person by fecal contamination of food and shared play areas .</s>
+<s id='vn45'>Đây là nguyên nhân ngộ độc thực phẩm thường thấy nhất ở trẻ sơ sinh và trẻ nhỏ và được lây truyền từ người này đến người khác do nhiễm phân vào thức ăn và do chơi cùng khu vui chơi .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Hepatitis A : Causes moderate illness with sudden onset of fever , loss of appetite , abdominal pain , and feeling of tiredness followed by jaundice , which is a yellowing of the eyes and skin .</s>
+<s id='vn46'>* Bệnh viêm gan siêu vi A : Loại viêm gan này gây bệnh ( ngộ độc thực phẩm ) ở mức độ trung bình , đầu tiên là sốt đột ngột , chán ăn , đau bụng , và mệt mỏi , sau đó là vàng da - mắt và da bị vàng .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Symptoms usually last less than two months , but can be prolonged or relapse for up to six months .</s>
+<s id='vn47'>Các triệu chứng thường kéo dài không quá hai tháng , nhưng có thể cũng kéo dài hoặc tái phát trong thời gian đến 6 tháng .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>It is transmitted from person to person by fecal contamination of food .</s>
+<s id='vn48'>Bệnh lây truyền từ người này sang người kia do nhiễm phân vào thức ăn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Bacteria can cause food poisoning in two different ways .</s>
+<s id='vn49'>Vi khuẩn có thể gây ngộ độc thực phẩm theo hai cách khác nhau .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Some bacteria infect the intestines , causing inflammation and difficulty absorbing nutrients and water , leading to diarrhea .</s>
+<s id='vn50'>Một số gây bệnh ở đường ruột , làm viêm và khó hấp thu dưỡng chất và nước , dẫn đến tiêu chảy .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Other bacteria produce chemicals in foods ( known as toxins ) that are poisonous to the human digestive system .</s>
+<s id='vn51'>Số khác tạo hoá chất trong thức ăn ( được gọi là độc tố ) gây độc cho hệ tiêu hoá con người .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>When eaten , these chemicals can lead to nausea and vomiting , kidney failure , and even death .</s>
+<s id='vn52'>Khi được ăn vào , những loại hoá chất này có thể gây buồn nôn và ói mửa , suy thận , và thậm chí còn có thể gây tử vong .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>* Salmonellae : Salmonellae are bacteria that may cause food poisoning ; the illness itself is often referred to as Salmonella or Salmonella infection .</s>
+<s id='vn53'>* Salmonellae : Salmonellae là vi khuẩn có thể gây ngộ độc thực phẩm , bản thân ngộ độc thực phẩm cũng thường được cho là Salmonella hoặc nhiễm Salmonella .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The CDC estimates that each year 1 million people are infected with Salmonella , amounting to $ 365 million in direct medical costs annually .</s>
+<s id='vn54'>Tổ chức CDC ước tính mỗi năm có 1 triệu người bị nhiễm Salmonella , chi phí y tế thực thu hằng năm lên đến 365 triệu đô-la Mỹ .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Salmonellae cause a moderate illness with nausea , vomiting , crampy diarrhea , and headache , which may come back a few weeks later as arthritis ( joint pains ) .</s>
+<s id='vn55'>Salmonellae gây bệnh ở mức độ trung bình gồm buồn nôn , ói , tiêu chảy chuột rút , và nhức đầu , có thể tái phát sau đó một vài tuần như bệnh viêm khớp ( đau khớp ) .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>In people with impaired immune systems ( such as people with kidney disease , HIV/AIDS , or those receiving chemotherapy for cancer ) , Salmonellae can cause a life-threatening illness .</s>
+<s id='vn56'>Ở người có hệ miễn dịch suy yếu ( chẳng hạn như người bị bệnh thận , HIV/AIDS , hoặc người sử dụng hoá trị liệu ung thư ) , Salmonellae có thể gây bệnh ( ngộ độc thực phẩm ) đe dọa đến tính mạng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>The illness is transmitted by undercooked foods such as eggs , poultry , dairy products , and seafood .</s>
+<s id='vn57'>Ngộ độc thực phẩm được lây truyền qua thức ăn chưa được nấu chín như trứng , gia cầm , sản phẩm làm từ sữa , và hải sản .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>* Campylobacter : Causes mild illness with fever , watery diarrhea , headache , and muscle aches .</s>
+<s id='vn58'>* Campylobacter : Vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) nhẹ gồm sốt , tiêu chảy nước , nhức đầu , và đau nhức cơ .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Campylobacter is the most commonly identified food-borne bacterial infection encountered in the world .</s>
+<s id='vn59'>Campylobacter là loại nhiễm khuẩn lây truyền qua thức ăn thường thấy nhất trên thế giới .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>It is transmitted by raw poultry , raw milk , and water contaminated by animal feces .</s>
+<s id='vn60'>Vi khuẩn này lây truyền qua thịt gia cầm sống , sữa chưa nấu chín , và nước nhiễm phân động vật .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>* Staphylococcus aureus : Causes moderate to severe illness with rapid onset of nausea , severe vomiting , dizziness , and abdominal cramping .</s>
+<s id='vn61'>* Khuẩn tụ cầu : Loại vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) từ mức độ trung bình đến dữ dội gồm buồn nôn nhanh chóng , ói mửa dữ dội , chóng mặt , và chuột rút ở bụng .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>These bacteria produce a toxin in foods such as cream-filled cakes and pies , salads ( most at risk are potato , macaroni , egg , and tuna salads ) and dairy products .</s>
+<s id='vn62'>Các loại vi khuẩn này tạo độc tố trong thức ăn chẳng hạn như bánh ngọt và bánh nướng nhân ngọt phủ kem , rau trộn ( có nguy cơ nhiều nhất là khoai tây , mì ống , trứng , và rau trộn cá ngừ ) và các sản phẩm làm từ sữa .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Contaminated salads at picnics are common if the food is not chilled properly .</s>
+<s id='vn63'>Món rau trộn nhiễm bệnh ở các buổi cắm trại thường hay gây ngộ độc nếu thức ăn chưa được giữ lạnh đúng cách .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>* Bacillus cereus : Causes mild illness with rapid onset of vomiting , with or without diarrhea and abdominal cramping .</s>
+<s id='vn64'>* Khuẩn Bacillus cereus : Loại vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) nhẹ : bệnh nhân muốn ói rất nhanh , kèm hoặc không kèm tiêu chảy và chuột rút ở bụng .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>It is associated with rice ( mainly fried rice ) and other starchy foods such as pasta or potatoes .</s>
+<s id='vn65'>Vi khuẩn này liên quan đến cơm ( chủ yếu là cơm chiên ) và các loại thức ăn giàu tinh bột khác chẳng hạn như mì ống hoặc khoai tây .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>It has been speculated that this bacteria may also be used as a potential terrorist weapon .</s>
+<s id='vn66'>Người ta suy đoán rằng loại vi khuẩn này cũng có thể được sử dụng để làm một loại vũ khí khủng bố đầy tiềm năng .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>* Escherichia coli ( E coli ) : Causes moderate to severe illness that begins as large amounts of watery diarrhea , which then turns into bloody diarrhea .</s>
+<s id='vn67'>* Trực khuẩn E.coli ( E coli ) : Loại trực khuẩn này gây bệnh ( ngộ độc thực phẩm ) từ mức độ trung bình đến nặng , đầu tiên là tiêu chảy nước dữ dội , sau đó chuyển qua tiêu chảy ra máu .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>There are many different types of this bacteria .</s>
+<s id='vn68'>Vi khuẩn này có nhiều loại .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>The worst strain can cause kidney failure and death ( about 3 % to 5 % of all cases ) .</s>
+<s id='vn69'>Dòng vi khuẩn nguy hiểm nhất có thể gây suy thận và tử vong ( khoảng chừng 3% đến 5% tổng số các trường hợp ngộ độc ) .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>It is transmitted by eating raw or undercooked hamburger , unpasteurized milk or juices , or contaminated well water .</s>
+<s id='vn70'>Vi khuẩn này lây lan do ăn thịt bò băm viên còn sống hoặc chưa được nấu chín , sữa hoặc nước ép trái cây chưa tiệt trùng , hoặc nước giếng nhiễm bệnh .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Outbreaks of food poisoning due to E. coli have also occurred following ingestion of contaminated produce .</s>
+<s id='vn71'>Sự bộc phát ngộ độc thực phẩm do E.coli cũng đã xảy ra sau khi ăn nhầm sản phẩm bị nhiễm bệnh .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>* Shigella ( traveler 's diarrhea ) :</s>
+<s id='vn72'>* Vi khuẩn bệnh lỵ Shigella ( bệnh tiêu chảy do đi du lịch qua vùng khác ) .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Causes moderate to severe illness with fever , diarrhea containing blood or mucus or both , and the constant urge to have bowel movements .</s>
+<s id='vn73'>Loại vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) từ mức độ trung bình đến nặng gồm sốt , tiêu chảy ra máu hoặc chất nhầy hoặc cả hai , và muốn đi tiêu liên tục .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>It is transmitted in water polluted with human wastes .</s>
+<s id='vn74'>Vi khuẩn này lây lan trong nước bẩn chứa chất thải của con người .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* Listeria monocytogenes :</s>
+<s id='vn75'>* Vi khuẩn Listeria monocytogenes .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Listeriosis is a moderate to severe illness with nausea and vomiting .</s>
+<s id='vn76'>( Bệnh nhiễm khuẩn làm ảnh hưởng đến hệ thần kinh ) - Listeriosis - là chứng bệnh từ mức độ trung bình đến dữ dội gồm buồn nôn và ói mửa .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Some affected individuals can progress to develop meningitis from Listeria .</s>
+<s id='vn77'>Một số người có thể diễn tiến sang viêm màng não do Listeria .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>It is transmitted through uncooked foods such as meats , vegetables , soft cheeses , unpasteurized milk , and cold cut meats .</s>
+<s id='vn78'>Loại vi khuẩn này được lây truyền qua các loại thực phẩm chưa được nấu chín như thịt , rau , phô-mai mềm , sữa chưa tiệt trùng , và thịt cắt khúc đông lạnh .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Pregnant woman and newborns are at increased risk for serious infections .</s>
+<s id='vn79'>Thai phụ và trẻ sơ sinh có nguy cơ nhiễm bệnh nặng ngày càng cao .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>* Clostridium botulinum ( botulism ) : Causes severe illness affecting the nervous system .</s>
+<s id='vn80'>* Vi khuẩn Clostridium botulinum ( ngộ độc bô-tu-lin ) : Loại vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) nghiêm trọng làm ảnh hưởng đến hệ thần kinh .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Symptoms start as blurred vision .</s>
+<s id='vn81'>Các triệu chứng khởi phát như mắt mờ .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>The person then develops problems talking and overall weakness .</s>
+<s id='vn82'>Sau đó bệnh nhân cảm thấy nói chuyện khó khăn và cơ thể yếu lả toàn bộ .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Symptoms then progress to breathing difficulty and the inability to move arms or legs .</s>
+<s id='vn83'>Các triệu chứng sau đó diễn tiến đến khó thở và không cử động tay hoặc chân được .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Infants and young children are particularly at risk .</s>
+<s id='vn84'>Trẻ sơ sinh và trẻ nhỏ đặc biệt có nguy cơ bị nhiễm khuẩn .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>It is transmitted in foods such as home-packed canned goods , honey , sausages , and seafood .</s>
+<s id='vn85'>Loại vi khuẩn này lây lan qua thức ăn chẳng hạn như hàng hoá được đóng hộp ở nhà , mật ong , xúc-xích , và hải sản .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Because botulism can be released in the air , it is considered a potential biological weapon for terrorists .</s>
+<s id='vn86'>Vì chứng ngộ độc bô-tu-lin có thể thải trong không khí nên đây được xem như là một loại vũ khí sinh học tiềm năng đối với bọn khủng bố .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>* Vibrio cholerae : Causes mild to moderate illness with crampy diarrhea , headache , nausea , vomiting , and fever with chills .</s>
+<s id='vn87'>* Khuẩn phẩy gây bệnh tả : Loại vi khuẩn này gây bệnh ( ngộ độc thực phẩm ) từ nhẹ đến trung bình gồm tiêu chảy chuột rút , nhức đầu , buồn nôn , ói , và sốt kèm ớn lạnh .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>It strikes mostly in the warmer months of the year and is transmitted by infected , undercooked , or raw seafood .</s>
+<s id='vn88'>Loại khuẩn này đa số xảy ra ở những tháng có khí hậu ấm hơn trong năm và được lây truyền qua hải sản bị nhiễm bệnh , chưa được nấu chín hoặc hải sản còn sống .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>* Vibrio parahaemolyticus : Causes moderate to severe abdominal cramping , nausea , vomiting , and fever .</s>
+<s id='vn89'>* Vi khuẩn Vibrio parahaemolyticus : Loại vi khuẩn này gây chuột rút ở bụng từ trung bình đến dữ dội , buồn nôn , ói , và sốt .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Immmunocompromised individuals , it can cause severe or deadly disease .</s>
+<s id='vn90'>Ở những người thiếu khả năng miễn dịch , nó có thể gây bệnh nặng hoặc chết người .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>It is transmitted by eating raw or undercooked fish , particularly oysters .</s>
+<s id='vn91'>Vi khuẩn này được lây truyền do ăn cá chưa được nấu chín hoặc còn sống , nhất là con hàu .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Parasites rarely cause food poisoning .</s>
+<s id='vn92'>Động vật ký sinh hiếm khi gây ngộ độc thực phẩm .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>When they do , they are usually swallowed in contaminated or untreated water and cause long-lasting but mild symptoms .</s>
+<s id='vn93'>Khi bị ngộ độc , bệnh nhân thường uống phải nước nhiễm bẩn hoặc chưa được xử lý và thường gây ra các triệu chứng lâu dài nhưng không nghiêm trọng .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>* Giardia ( beaver fever ) : Causes mild illness with watery diarrhea often lasting one to two weeks .</s>
+<s id='vn94'>* Trùng roi đơn bào ký sinh trong ruột non ( sốt hải ly ) : Loại ký sinh trùng này gây bệnh nhẹ gồm tiêu chảy nước thường kéo dài từ một đến hai tuần .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>It is transmitted by drinking contaminated water , often from lakes or streams in cooler mountainous climates .</s>
+<s id='vn95'>Bệnh lây truyền do uống nước nhiễm bẩn , thường là ở ao hồ hoặc sông suối ở những vùng khí hậu miền núi mát mẻ hơn .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>The infection can also be spread from person to person by food or other items contaminated with feces from an infected person .</s>
+<s id='vn96'>Bệnh lây nhiễm này cũng có thể lây lan từ người này sang người kia qua thức ăn hoặc những thứ nhiễm phân khác do người bệnh lây truyền sang .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>* Cryptosporidium : Causes moderate illness with large amounts of watery diarrhea lasting two to four days .</s>
+<s id='vn97'>* Ký sinh trùng Cryptosporidium : Loại ký sinh này gây bệnh ở mức trung bình gồm tiêu chảy nước dữ dội kéo dài từ hai đến bốn ngày .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>May become a long-lasting problem in people with poor immune systems ( such as people with kidney disease or HIV/AIDS or those on chemotherapy for cancer ) .</s>
+<s id='vn98'>Đây có thể trở thành bệnh lâu dài ở người có hệ miễn dịch kém ( chẳng hạn như người bị bệnh thận hoặc bị nhiễm HIV/AIDS hoặc người sử dụng hoá trị liệu ung thư ) .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>It is transmitted by contaminated drinking water .</s>
+<s id='vn99'>Bệnh lây truyền do nước uống nhiễm bẩn .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>* Toxoplasma : The CDC estimates that more than 60 million people in the U.S. carry the Toxoplasma parasite , but few have symptoms because the immune system keeps the parasite from causing illness .</s>
+<s id='vn100'>* Toxoplasma : Tổ chức CDC ước tính có hơn 60 triệu người Mỹ bị ký sinh trùng Toxoplasma , nhưng chỉ có một số người bộc phát triệu chứng bởi hệ miễn dịch giúp ngăn không cho ký sinh trùng gây bệnh .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>When it does cause disease , symptoms include headache , blurred vision , and eye pain .</s>
+<s id='vn101'>Nhưng khi gây bệnh thì triệu chứng có thể bao gồm nhức đầu , mờ mắt , và đau mắt .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>It is transmitted by eating undercooked or raw meat , contaminated water , or contact with contaminated cat feces .</s>
+<s id='vn102'>Loại ký sinh trùng này lây truyền do ăn thịt còn sống hoặc chưa được nấu chín , nước nhiễm bẩn , hoặc tiếp xúc với phân mèo nhiễm bệnh .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>Pregnant women and those with compromised immune systems infected with Toxoplasma can have severe health complications .</s>
+<s id='vn103'>Phụ nữ có thai và người có hệ miễn dịch kém bị nhiễm Toxoplasma có thể phát sinh biến chứng sức khỏe nghiêm trọng .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Toxic agents are the least common cause of food poisoning .</s>
+<s id='vn104'>Độc tố ( chất độc ) là nguyên nhân gây ngộ độc thực phẩm hiếm thấy nhất .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Illness is often an isolated episode caused by poor food preparation or selection ( such as picking wild mushrooms ) .</s>
+<s id='vn105'>Bệnh thường là một đợt tách biệt do khâu chuẩn bị , chế biến thức ăn kém vệ sinh hoặc chọn thức ăn không sạch ( chẳng hạn như chọn phải nấm dại ) .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>* Mushroom toxins : Illness can range from mild to deadly depending on the type of mushroom eaten .</s>
+<s id='vn106'>* Độc tố trong nấm : Bệnh có thể dao động từ mức độ nhẹ đến chết người tuỳ thuộc vào loại nấm ăn phải .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Often there is nausea , vomiting , and diarrhea .</s>
+<s id='vn107'>Thông thường thì người bị ngộ độc buồn nôn , ói , và tiêu chảy .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Some types of mushrooms produce a nerve toxin , which causes sweating , shaking , hallucinations , and coma .</s>
+<s id='vn108'>Một số loại nấm tạo ra độc tố thần kinh , gây toát mồ hôi , run người , ảo giác , và hôn mê .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>* Ciguatera poisoning : Caused by eating fish that contains toxins produced by a marine algae called Gambierdiscus toxicus .</s>
+<s id='vn109'>* Ngộ độc Ciguatera : Gây ra bởi ăn cá chứa độc tố do tảo biển sinh ra được gọi là Gambierdiscus toxicus .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>It can cause moderate to severe illness with numbness of the area around the mouth and lips that can spread to the arms and legs , nausea , vomiting , muscle pain and weakness , headache , dizziness , and rapid heartbeat .</s>
+<s id='vn110'>Nó có thể gây bệnh từ mức độ trung bình đến nặng gồm tê cứng quanh vùng miệng và môi có thể lan sang cánh tay và cẳng chân , buồn nôn , ói , đau cơ và yếu lả , nhức đầu , chóng mặt , và nhịp tim nhanh .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>The toxin may cause sensory problems in which hot things feel cold and cold things feel hot .</s>
+<s id='vn111'>Độc tố có thể gây ra vấn đề về cảm giác trong đó những thứ nóng cảm thấy lạnh và những thứ lạnh thì cảm thấy nóng .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>It is transmitted by eating certain large fish from tropical waters - most specifically barracuda , grouper , snapper , and jacks .</s>
+<s id='vn112'>Bệnh này lây truyền do ăn phải một số loại cá lớn nào đó ở vùng nước nhiệt đới - rõ rệt nhất là cá nhồng vằn , cá mú , cá chỉ vàng , và cá chó nhỏ .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>According to the CDC , ciguatera has no cure .</s>
+<s id='vn113'>Theo tổ chức CDC thì độc tố ciguatera không có thuốc trị .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>Symptoms may disappear in days or weeks , but may persist for years .</s>
+<s id='vn114'>Các triệu chứng có thể hết trong nhiều ngày hoặc nhiều tuần liền , nhưng cũng có thể kéo dài dai dẳng nhiều năm liền .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>* Scombroid : Causes mild to moderate illness with facial flushing , burning around the mouth and lips , peppery-taste sensations , a red rash on the upper body , dizziness , headache , and itchy skin .</s>
+<s id='vn115'>* Họ cá thu Nhật Bản : Gây bệnh ( ngộ độc thực phẩm ) từ nhẹ đến trung bình gồm đỏ ửng mặt , nóng rát quanh miệng và môi , cảm thấy có vị cay-nóng , phát ban đỏ phần thân trên của cơ thể , chóng mặt , nhức đầu , và ngứa da .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>Severe symptoms may include blurry vision , respiratory distress , and swelling of the tongue and mouth .</s>
+<s id='vn116'>Triệu chứng nặng có thể bao gồm mờ mắt , suy hô hấp , và sưng lưỡi , miệng .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>Symptoms typically last from four to six hours , and rarely more than one or two days .</s>
+<s id='vn117'>Các triệu chứng này thường kéo dài từ bốn đến sáu tiếng đồng hồ , và hiếm khi kéo dài trên 1 hoặc 2 ngày .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>It is transmitted in seafood , mostly mahi-mahi and tuna , but can also be in Swiss cheese .</s>
+<s id='vn118'>Bệnh lây truyền qua hải sản , hầu hết là cá nục heo và cá ngừ , nhưng cũng có thể thấy ở phô-mai Thuỵ Sĩ .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>* Pesticides : Cause mild to severe illness with weakness , blurred vision , headache , cramps , diarrhea , increased production of saliva , and shaking of the arms and legs .</s>
+<s id='vn119'>* Thuốc trừ sâu : Gây bệnh ( ngộ độc thực phẩm ) từ nhẹ đến dữ dội gồm yếu lả người , mắt mờ , nhức đầu , chuột rút , tiêu chảy , tiết nước bọt ngày càng nhiều , và run tay chân .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>Toxins are transmitted by eating unwashed fruits or vegetables contaminated with pesticides .</s>
+<s id='vn120'>Độc tố lây truyền do ăn phải trái cây chưa được rửa sạch hoặc rau nhiễm thuốc trừ sâu .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>When to seek medical care</s>
+<s id='vn121'>Khi nào cần được chăm sóc sức khỏe</s>
+</spair>
+<spair id='122'>
+<s id='en122'>Contact your doctor if any of the following situations occur :</s>
+<s id='vn122'>Bạn nên liên hệ với bác sĩ nếu xảy ra bất kỳ tình huống nào dưới đây :</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* Nausea , vomiting , or diarrhea lasts for more than two days .</s>
+<s id='vn123'>* Buồn nôn , ói , hoặc tiêu chảy kéo dài trên hai ngày .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>* The ill person is a child younger than three years of age .</s>
+<s id='vn124'>* Người bị ngộ độc là trẻ em dưới ba tuổi .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>* The abdominal symptoms are associated with a low-grade fever .</s>
+<s id='vn125'>* Các triệu chứng ở bụng liên quan đến sốt nhẹ .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>* Symptoms begin after recent foreign travel .</s>
+<s id='vn126'>* Triệu chứng bắt đầu sau khi đi du lịch ở nước ngoài gần đây .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>* Other family members or friends who ate the same thing are also sick .</s>
+<s id='vn127'>* Những người thân khác trong gia đình hoặc bạn bè ăn chung loại thức ăn cũng bị ngộ độc .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>* The ill person cannot keep any liquids down .</s>
+<s id='vn128'>* Người bị ngộ độc không giữ được nước .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>* The ill person does not improve within two days even though they are drinking large amounts of fluids .</s>
+<s id='vn129'>* Người bị ngộ độc không cảm thấy đỡ hơn trong vòng hai ngày mặc dù có uống nhiều nước .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>* The ill person has a disease or illness that weakens their immune system ( for example , HIV/AIDS , cancer and undergoing chemotherapy , kidney disease ) .</s>
+<s id='vn130'>* Người bị ngộ độc đang mắc bệnh làm suy yếu hệ miễn dịch ( chẳng hạn như đang bị HIV/AIDS , ung thư và đang sử dụng hoá trị liệu , bị bệnh thận ) .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>* The ill person cannot take their normal prescribed medications because of vomiting .</s>
+<s id='vn131'>* Người bị ngộ độc không uống được thuốc theo toa bình thường do ói mửa .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>* The ill person has any nervous system symptoms such as slurred speech , muscle weakness , double vision , or difficulty swallowing .</s>
+<s id='vn132'>* Người bị ngộ độc có bất kỳ triệu chứng của hệ thần kinh nào chẳng hạn như nói nhịu , nhược cơ , nhìn đôi , hoặc khó nuốt .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>* The ill person is pregnant .</s>
+<s id='vn133'>* Người bị ngộ độc đang có thai .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>Go to the nearest hospital 's emergency department if any of the following situations occur :</s>
+<s id='vn134'>Bạn nên đến khoa cấp cứu của bệnh viện gần nhất nếu xảy ra bất kỳ tình huống nào sau đây :</s>
+</spair>
+<spair id='135'>
+<s id='en135'>* The ill person passes out or collapse , become dizzy , lightheaded , or has problems with vision .</s>
+<s id='vn135'>* Người bị ngộ độc bất tỉnh hoặc ngã quỵ , trở nên chóng mặt , choáng váng , hay bị vấn đề về mắt .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>* A fever higher than 101 F ( 38.3 C ) occurs with the abdominal symptoms .</s>
+<s id='vn136'>* Sốt trên 101 F ( 38.3 C ) kèm theo các triệu chứng bụng .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>* Sharp or cramping pains do not go away after 10-15 minutes .</s>
+<s id='vn137'>* Đau dữ dội hoặc đau do chuột rút không hết sau 10-15 phút .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>* The ill person 's stomach or abdomen swells .</s>
+<s id='vn138'>* Người bị ngộ độc bị trướng dạ dày hoặc trướng bụng .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>* The skin and/or eyes turn yellow .</s>
+<s id='vn139'>* Da và/hoặc mắt trở nên vàng .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>* The ill person is vomiting blood or having bloody bowel movements .</s>
+<s id='vn140'>* Người bị ngộ độc ói ra máu hoặc đi tiêu ra máu .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>* The ill person stops urinating , have decreased urination , or have urine that is dark in color .</s>
+<s id='vn141'>* Người bị ngộ độc ngưng đi tiểu , lượng nước tiểu ít đi , hoặc nước tiểu có màu sẫm .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>* The ill person develops problems with breathing , speaking , or swallowing .</s>
+<s id='vn142'>* Người bị ngộ độc trở nên khó thở , khó nói chuyện , hoặc khó nuốt .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>* One or more joints swell or a rash breaks out on the ill person 's skin .</s>
+<s id='vn143'>* Một hoặc nhiều khớp bị sưng lên hoặc phát ban khắp trên da .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>* The ill person or caretaker considers the situation to be an emergency .</s>
+<s id='vn144'>* Người bị ngộ độc hoặc nguời trông nom cho rằng đây là tình huống nguy cấp .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>Food poisoning diagnosis</s>
+<s id='vn145'>Chẩn đoán ngộ độc thực phẩm</s>
+</spair>
+<spair id='146'>
+<s id='en146'>If the person visits a doctor or a hospital emergency department because they think they may have food poisoning , a thorough examination will be performed , including measurements of blood pressure , pulse , breathing rate , and temperature .</s>
+<s id='vn146'>Nếu bệnh nhân đến khám bác sĩ hoặc đến khoa cấp cứu bệnh viện vì nghĩ rằng mình có thể bị ngộ độc thực phẩm thì bác sĩ sẽ khám tổng quát cho họ , gồm đo huyết áp , mạch , nhịp thở , và nhiệt độ .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>The doctor will perform a physical exam , which screens for outward signs and symptoms of the illness .</s>
+<s id='vn147'>Bác sĩ sẽ khám sức khỏe thể chất , sàng lọc các dấu hiệu bên ngoài và các triệu chứng của bệnh .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>The doctor will also assess how dehydrated the patient is and examine the abdominal area to make sure the illness is not serious .</s>
+<s id='vn148'>Bên cạnh đó bác sĩ cũng sẽ đánh giá được bệnh nhân bị mất nước mức độ nào và khám vùng bụng để đảm bảo rằng chứng ngộ độc thực phẩm không có gì nghiêm trọng .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>* The doctor may need to do a rectal examination .</s>
+<s id='vn149'>* Bác sĩ có thể cần phải khám trực tràng .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>The doctor performs this test by inserting a lubricated and gloved finger gently into the rectum .</s>
+<s id='vn150'>Để thực hiện thủ thuật này , bác sĩ đưa ngón tay đã được bôi trơn và đã mang găng tay nhẹ nhàng vào trực tràng .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>The purpose is to make sure there are no breaks in the rectal wall .</s>
+<s id='vn151'>Mục đích là để đảm bảo thành trực tràng không bị vỡ .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>A sample of stool is taken and tested for blood and mucus .</s>
+<s id='vn152'>Người bị ngộ độc được lấy mẫu phân làm xét nghiệm xem có máu và chất nhầy không .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>In some cases , a sample of stool or vomit can be sent to the laboratory for further testing to find out which toxin caused the illness .</s>
+<s id='vn153'>Trong một số trường hợp , mẫu phân hoặc mẫu dịch ói có thể được đưa tới phòng thí nghiệm để xét nghiệm thêm nhằm phát hiện xem loại độc tố nào gây ra ngộ độc .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>In a majority of cases , a specific cause is not found .</s>
+<s id='vn154'>Đa số các trường hợp thì người ta không tìm thấy nguyên nhân cụ thể nào .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>* A urine sample helps assess how dehydrated the patient is and may indicate possible kidney damage .</s>
+<s id='vn155'>* Mẫu nước tiểu giúp đánh giá xem bệnh nhân bị mất nước ở mức độ nào và có thể cho biết tổn thương thận có thể xảy ra .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>* Blood tests may be performed to determine the seriousness of the illness .</s>
+<s id='vn156'>* Người bị ngộ độc cũng có thể được làm xét nghiệm máu để xác định mức độ nghiêm trọng của tình trạng ngộ độc .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>An X-ray of the abdomen or a CT scan may be taken if the doctor suspects the patient 's symptoms may be caused by another illness .</s>
+<s id='vn157'>Bên cạnh đó họ cũng có thể cần phải chụp X-quang bụng hoặc chụp cắt lớp nếu bác sĩ nghi ngờ triệu chứng của bệnh nhân có thể do một bệnh nào khác gây ra .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>Food poisoning treatment</s>
+<s id='vn158'>Điều trị ngộ độc thực phẩm</s>
+</spair>
+<spair id='159'>
+<s id='en159'>Food poisoning self-care at home</s>
+<s id='vn159'>Tự chăm sóc ngộ độc thực phẩm tại nhà</s>
+</spair>
+<spair id='160'>
+<s id='en160'>Short episodes of vomiting and small amounts of diarrhea lasting less than 24 hours can usually be cared for at home .</s>
+<s id='vn160'>Nhiều cơn ói ngắn và tiêu chảy nhẹ kéo dài không quá 24 tiếng đồng hồ thường có thể được chăm sóc ở nhà .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>* Do not eat solid food while nauseous or vomiting but drink plenty of fluids .</s>
+<s id='vn161'>Đừng nên ăn thức ăn đặc trong khi buồn nôn hoặc ói mà hãy uống nhiều nước .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>* Small , frequent sips of clear liquids ( those you can see through ) are the best way to stay hydrated .</s>
+<s id='vn162'>Thường xuyên uống từng hớp nhỏ chất lỏng trong ( những chất lỏng mà bạn có thể nhìn thấy được bên trong ) là cách tốt nhất để không bị mất nước .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>* Avoid alcoholic , caffeinated , or sugary drinks .</s>
+<s id='vn163'>Tránh các thức uống có cồn , có chứa cà-phê-in , hoặc có đường .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>Over-the-counter rehydration products made for children such as Pedialyte and Rehydralyte are expensive but good to use .</s>
+<s id='vn164'>Các sản phẩm bổ sung nước cho trẻ có thể mua tự do không theo toa chẳng hạn như Pedialyte và Rehydralyte rất đắt tiền nhưng công hiệu tốt .</s>
+</spair>
+<spair id='165'>
+<s id='en165'>* Sports drinks such as Gatorade and Powerade are fine for adults if they are diluted with water because at full strength they contain too much sugar , which can worsen diarrhea .</s>
+<s id='vn165'>Các thức uống thể thao chẳng hạn như Gatorade và Powerade tốt cho người lớn nếu được pha loãng chung với nước vì nếu đậm đặc nguyên như thế thì chúng chứa rất nhiều đường , có thể làm cho tình trạng tiêu chảy càng trầm trọng thêm .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>* Home remedies to treat nausea or diarrhea such as tea with lemon and ginger can be used for relief from symptoms .</s>
+<s id='vn166'>Các bài thuốc dân gian dùng để trị tiêu chảy hoặc buồn nôn chẳng hạn như trà chanh và gừng có thể được dùng để làm giảm triệu chứng .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>There are no proven herbal food poisoning cures .</s>
+<s id='vn167'>Chưa có bằng chứng nào chứng minh thảo dược có thể chữa lành ngộ độc thực phẩm .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>Consult a health care practitioner before taking any natural food poisoning remedies .</s>
+<s id='vn168'>Bạn nên tham khảo ý kiến bác sĩ chăm sóc sức khỏe trước khi sử dụng bất kỳ bài thuốc trị ngộ độc thực phẩm tự nhiên nào .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>* After successfully tolerating fluids , eating should begin slowly , when nausea and vomiting have stopped .</s>
+<s id='vn169'>Sau khi đã dung nạp được chất lỏng thì nên bắt đầu ăn từ từ , khi triệu chứng buồn nôn và ói mửa đã không còn nữa .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>Plain foods that are easy on the stomach should be started in small amounts .</s>
+<s id='vn170'>Các loại thức ăn thường dễ tiêu đối với dạ dày nên bắt đầu bằng lượng nhỏ .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>Initially consider eating rice , wheat , breads , potatoes , low-sugar cereals , lean meats , and chicken ( not fried ) .</s>
+<s id='vn171'>Ban đầu nên ăn cơm , lúa mì , bánh mì , khoai tây , ngũ cốc ít đường , thịt nạc , và gà ( không ăn gà chiên ) .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>Milk can be given safely , although some people may experience stomach upset due to lactose intolerance .</s>
+<s id='vn172'>Có thể uống sữa an toàn , mặc dù cũng có một số người có thể bị khó chịu trong dạ dày do không dung nạp lắc-tô .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>* Most food poisonings do not require the use of over-the-counter medicines to stop diarrhea , but they are generally safe if used as directed .</s>
+<s id='vn173'>Hầu hết các trường hợp ngộ độc thực phẩm không cần phải sử dụng thuốc không theo toa để cầm tiêu chảy , nhưng thường là an toàn nếu được sử dụng như hướng dẫn .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>It is not recommended that these medications be used to treat children .</s>
+<s id='vn174'>Các loại thuốc này không được khuyến nghị sử dụng cho trẻ nhỏ .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>If there is a question or concern , always check with a doctor .</s>
+<s id='vn175'>Nếu có bất kỳ thắc mắc nào hoặc lo lắng gì , luôn kiểm tra với bác sĩ của mình nhé .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>Food poisoning medical treatment</s>
+<s id='vn176'>Điều trị ngộ độc thực phẩm</s>
+</spair>
+<spair id='177'>
+<s id='en177'>The main treatment for food poisoning is replacing fluids into the body ( rehydration ) through an IV and by drinking .</s>
+<s id='vn177'>Phương pháp điều trị chính đối với ngộ độc thực phẩm là bù lại lượng nước cho cơ thể ( bổ sung nước ) qua đường truyền tĩnh mạch và đường uống .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>The patient may need to be admitted to the hospital .</s>
+<s id='vn178'>Bệnh nhân có thể cần phải nhập viện .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>This depends on the severity of the dehydration , response to therapy , and ability to drink fluids without vomiting .</s>
+<s id='vn179'>Điều này tuỳ thuộc vào mức độ nghiêm trọng của tình trạng mất nước , đáp ứng với liệu pháp , và khả năng uống nước mà không bị nôn ói .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>Children , in particular , may need close observation .</s>
+<s id='vn180'>Cụ thể , trẻ nhỏ có thể cần được theo dõi sát sao .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>* Anti-vomiting and diarrhea medications may be given .</s>
+<s id='vn181'>* Có thể sử dụng thuốc chống ói và chống tiêu chảy .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>* The doctor may also treat any fever to make the patient more comfortable .</s>
+<s id='vn182'>* Bác sĩ cũng có thể điều trị triệu chứng sốt để làm cho bệnh nhân cảm thấy dễ chịu hơn .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>* Antibiotics are rarely needed for food poisoning .</s>
+<s id='vn183'>* Thuốc kháng sinh hiếm khi cần đến đối với ngộ độc thực phẩm .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>In some cases , antibiotics worsen the condition .</s>
+<s id='vn184'>Trong vài trường hợp thì thuốc kháng sinh có thể làm cho chứng ngộ độc này càng trầm trọng thêm .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>Only a few specific causes of food poisoning are improved by using these medications .</s>
+<s id='vn185'>Chỉ có một vài nguyên nhân gây ngộ độc thực phẩm cụ thể có thể cải thiện được nhờ dùng các loại thuốc kháng sinh này .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>The length of illness with traveler 's diarrhea ( shigellae ) can be decreased with antibiotics , but this specific illness usually runs its course and improves without treatment .</s>
+<s id='vn186'>Thời gian bệnh tiêu chảy do đi du lịch qua vùng khác có thể giảm khi dùng thuốc kháng sinh , nhưng chứng bệnh đặc trưng này thường diễn tiến tự nhiên và có thể cải thiện được mà không cần điều trị gì .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>* With mushroom poisoning or eating foods contaminated with pesticides , aggressive treatment may include intravenous ( IV ) fluids , emergency intervention for life-threatening symptoms , and giving medications such as antidotes , such as activated charcoal .</s>
+<s id='vn187'>* Trong trường hợp bị ngộ độc nấm hoặc ăn thức ăn bị nhiễm thuốc trừ sâu thì cuộc điều trị mạnh có thể gồm truyền dịch qua đường tĩnh mạch , can thiệp khẩn cấp các triệu chứng đe doạ đến tính mạng , và cho người bị ngộ độc sử dụng thuốc chẳng hạn như các loại thuốc giải độc như than hoạt tính .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>These poisonings are very serious and may require intensive care in the hospital .</s>
+<s id='vn188'>Những chất độc này rất nguy hiểm và có thể cần phải được chăm sóc đặc biệt ở bệnh viện .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>Food poisoning follow-up</s>
+<s id='vn189'>Theo dõi ngộ độc thực phẩm</s>
+</spair>
+<spair id='190'>
+<s id='en190'>After visiting a doctor or the emergency department , the patient should follow any specific instructions and take any medications prescribed exactly as directed .</s>
+<s id='vn190'>Sau khi đến khám bác sĩ hoặc đến khoa cấp cứu thì bệnh nhân nên thực hiện theo bất kỳ hướng dẫn cụ thể nào của bác sĩ và nên sử dụng thuốc theo toa đúng chính xác như được chỉ định .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>Continue to drink extra fluids until the diarrhea stops completely .</s>
+<s id='vn191'>Nên uống thêm nước cho đến khi ngừng tiêu chảy hẳn .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>The affected individual may need to miss one to two days of work or school to let the body recover .</s>
+<s id='vn192'>Người bị ngộ độc có thể cần phải được nghỉ làm hoặc nghỉ học từ 1 đến 2 ngày để cho cơ thể được bình phục .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>If any symptoms change or worsen , contact a doctor .</s>
+<s id='vn193'>Nếu có bất kỳ triệu chứng nào thay đổi hoặc diễn tiến xấu đi thì bạn nên liên lạc với bác sĩ nhé .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>Food poisoning prevention</s>
+<s id='vn194'>Ngăn ngừa ngộ độc thực phẩm</s>
+</spair>
+<spair id='195'>
+<s id='en195'>Safe steps in food handling , cooking , and storage are essential to avoiding food-borne illness .</s>
+<s id='vn195'>Các biện pháp chế biến , nấu , bảo quản thức ăn an toàn là cần thiết để tránh bệnh lây truyền qua thực phẩm .</s>
+</spair>
+<spair id='196'>
+<s id='en196'>Bacteria cannot be seen , smelled , or tasted , and they may be on any food .</s>
+<s id='vn196'>Vi khuẩn không thể thấy được , không thể ngửi được , hoặc không thể nếm được và chúng có thể tồn tại trong bất kỳ loại thức ăn nào .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>Follow the CDC food safety guidelines to keep contaminants away .</s>
+<s id='vn197'>Nên thực hiện theo hướng dẫn an toàn thực phẩm của tổ chức CDC nhằm tránh các chất gây bệnh .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>Safe shopping</s>
+<s id='vn198'>Mua sắm an toàn</s>
+</spair>
+<spair id='199'>
+<s id='en199'>* Buy cold foods last during your shopping trip .</s>
+<s id='vn199'>* Nên mua thức ăn đông lạnh cuối cùng trong chuyến đi mua sắm của bạn .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>Get them home fast .</s>
+<s id='vn200'>Nên mang về nhà nhanh nhé .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>* Never choose torn or leaking packages .</s>
+<s id='vn201'>* Đừng chọn hàng hoá có bao bì đã rách toạc hoặc có khe hở .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>* Do not buy foods past their " sell-by " or expiration dates .</s>
+<s id='vn202'>* Chớ mua thực phẩm đã quá hạn sử dụng hoặc quá date .</s>
+</spair>
+<spair id='203'>
+<s id='en203'>* Keep raw meat and poultry separate from other foods .</s>
+<s id='vn203'>* Nên giữ thịt sống và thịt gia cầm tách biệt khỏi các thức ăn khác .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>* Pregnant women should avoid foods that can carry Listeria and should discuss healthy foods during their pregnancy with their OB/GYN physician .</s>
+<s id='vn204'>* Phụ nữ có thai nên tránh các loại thực phẩm có thể chứa Listeria và nên thảo luận các thực phẩm có lợi cho sức khỏe trong suốt thai kỳ với bác sĩ sản khoa của mình .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>Safe storage of foods</s>
+<s id='vn205'>Bảo quản thực phẩm an toàn</s>
+</spair>
+<spair id='206'>
+<s id='en206'>* Keep it safe ; refrigerate .</s>
+<s id='vn206'>* Nên bảo quản thực phẩm an toàn , ướp lạnh chúng .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>* Unload perishable foods first and immediately refrigerate them .</s>
+<s id='vn207'>* Lấy các loại thực phẩm dễ ôi thiu ra trước và ướp lạnh chúng ngay .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>Place raw meat , poultry , or fish in the coldest section of your refrigerator .</s>
+<s id='vn208'>Nên để thịt sống , thịt gia cầm , hoặc cá ở nơi lạnh nhất của tủ lạnh .</s>
+</spair>
+<spair id='209'>
+<s id='en209'>* Check the temperature of your appliances .</s>
+<s id='vn209'>* Nên kiểm tra nhiệt độ các dụng cụ của bạn .</s>
+</spair>
+<spair id='210'>
+<s id='en210'>To slow bacterial growth , the refrigerator should be at 40 F ( 4.44 C ) , the freezer at 0 F ( -17.7 C ) .</s>
+<s id='vn210'>Để làm chậm quá trình sinh sôi của vi khuẩn , bạn nên để nhiệt độ tủ lạnh ở 40 F ( 4.44 C ) , tủ đá ở 0 F ( -17.7 C ) .</s>
+</spair>
+<spair id='211'>
+<s id='en211'>* Cook or freeze fresh poultry , fish , ground meats , and processed meat within two days .</s>
+<s id='vn211'>* Nên nấu chín hoặc làm đông thịt gia cầm sống , cá , thịt xay , và thịt đã chế biến trong vòng hai ngày .</s>
+</spair>
+<spair id='212'>
+<s id='en212'>Safe food preparation</s>
+<s id='vn212'>Chuẩn bị , chế biến thức ăn an toàn</s>
+</spair>
+<spair id='213'>
+<s id='en213'>* Keep everything clean !</s>
+<s id='vn213'>* Giữ cho mọi thứ được sạch sẽ !</s>
+</spair>
+<spair id='214'>
+<s id='en214'>* Wash hands before and after handling raw meat and poultry .</s>
+<s id='vn214'>* Rửa tay trước và sau khi cầm nắm thịt sống và thịt gia cầm .</s>
+</spair>
+<spair id='215'>
+<s id='en215'>* Sanitize cutting boards often in a solution of one teaspoon chlorine bleach in one quart of water .</s>
+<s id='vn215'>* Làm vệ sinh thớt thường xuyên bằng dung dịch 1 muỗng cà phê thuốc tẩy clo hoà tan với 1 lít Anh nước .</s>
+</spair>
+<spair id='216'>
+<s id='en216'>* Do not cross-contaminate .</s>
+<s id='vn216'>* Đừng làm nhiễm ( bẩn ) chéo .</s>
+</spair>
+<spair id='217'>
+<s id='en217'>Keep raw meat , poultry , fish , and their juices away from other food .</s>
+<s id='vn217'>Bạn nên để thịt sống , thịt gia cầm , cá , và nước dịch của chúng tách xa các loại thực phẩm khác .</s>
+</spair>
+<spair id='218'>
+<s id='en218'>After cutting raw meats , wash hands , cutting board , knife , and counter tops with hot , soapy water .</s>
+<s id='vn218'>Sau khi cắt thịt sống xong , bạn nên rửa tay , thớt , dao , và mặt trên quầy bếp bằng nước xà phòng nóng .</s>
+</spair>
+<spair id='219'>
+<s id='en219'>* Marinate meat and poultry in a covered dish in the refrigerator .</s>
+<s id='vn219'>* Nên ướp thịt và thịt gia cầm trong đĩa có nắp kín trong tủ lạnh .</s>
+</spair>
+<spair id='220'>
+<s id='en220'>Discard any uncooked/unused marinade .</s>
+<s id='vn220'>Hãy bỏ đi bất kỳ loại nước ướp nào chưa được nấu / chưa được sử dụng đến .</s>
+</spair>
+<spair id='221'>
+<s id='en221'>Thawing food safely</s>
+<s id='vn221'>Rã đông thức ăn an toàn</s>
+</spair>
+<spair id='222'>
+<s id='en222'>* Refrigerator : Allows slow , safe thawing .</s>
+<s id='vn222'>* Tủ lạnh : Giúp rã đông chậm , an toàn .</s>
+</spair>
+<spair id='223'>
+<s id='en223'>Make sure thawing juices do not drip on other foods .</s>
+<s id='vn223'>Phải đảm bảo các chất dịch rã đông không nhỏ giọt lên các loại thực phẩm khác .</s>
+</spair>
+<spair id='224'>
+<s id='en224'>* Cold water : For faster thawing , place food in a leak-proof plastic bag and submerge in cold tap water .</s>
+<s id='vn224'>* Nước lạnh : Để rã đông nhanh hơn , bạn nên để thức ăn trong một túi nhựa kín và nhận chìm vào nước máy lạnh .</s>
+</spair>
+<spair id='225'>
+<s id='en225'>* Microwave : Cook meat and poultry immediately after microwave thawing .</s>
+<s id='vn225'>* Lò vi sóng : Bạn nên nấu thịt và thịt gia cầm ngay sau khi làm rã đông bằng lò vi sóng .</s>
+</spair>
+<spair id='226'>
+<s id='en226'>Safe cooking</s>
+<s id='vn226'>Nấu ăn an toàn</s>
+</spair>
+<spair id='227'>
+<s id='en227'>* Use a meat thermometer</s>
+<s id='vn227'>* Sử dụng nhiệt kế thịt</s>
+</spair>
+<spair id='228'>
+<s id='en228'>* Cook ground meats to 160 F ( 71 C )</s>
+<s id='vn228'>* Nấu thịt xay ở nhiệt độ 160 F ( 71 C )</s>
+</spair>
+<spair id='229'>
+<s id='en229'>* Cook ground poultry to 165 F ( 74 C )</s>
+<s id='vn229'>* Nấu thịt gia cầm xay ở nhiệt độ 165 F ( 74 C )</s>
+</spair>
+<spair id='230'>
+<s id='en230'>* Cook beef , veal , and lamb to 145 F ( 63 C )</s>
+<s id='vn230'>* Nấu thịt bò , bê , và cừu ở nhiệt độ 145 F ( 63 C )</s>
+</spair>
+<spair id='231'>
+<s id='en231'>* Cook cuts of fresh pork to 160 F ( 71 C ) .</s>
+<s id='vn231'>* Nấu thịt heo sống cắt khúc ở nhiệt độ 160 F ( 71 C ) .</s>
+</spair>
+<spair id='232'>
+<s id='en232'>* Whole poultry should reach 180 F ( 82 C ) in the thigh ; breasts 170 F ( 76.6 C ) .</s>
+<s id='vn232'>* Toàn bộ thịt gia cầm nên được nấu ở nhiệt độ 180 F ( 82 C ) đối với đùi , và ức ở 170 F ( 76.6 C ) .</s>
+</spair>
+<spair id='233'>
+<s id='en233'>* Keep hot foods hot and cold foods cold .</s>
+<s id='vn233'>* Nên giữ thức ăn nóng ở nhiệt độ nóng và làm lạnh thức ăn lạnh .</s>
+</spair>
+<spair id='234'>
+<s id='en234'>* Never leave food out more than two hours ( or more than one hour in temperatures above 90 F ( 32 C ) ) .</s>
+<s id='vn234'>* Đừng nên để thức ăn ra ngoài trên 2 tiếng đồng hồ ( hoặc hơn 1 tiếng đồng hồ ở nhiệt độ trên 90 F ( 32 C ) ) .</s>
+</spair>
+<spair id='235'>
+<s id='en235'>* Bacteria that cause food poisoning grow rapidly at room temperature .</s>
+<s id='vn235'>* Vi khuẩn gây ngộ độc thực phẩm phát triển nhanh ở nhiệt độ phòng .</s>
+</spair>
+<spair id='236'>
+<s id='en236'>* Use cooked leftovers within four days .</s>
+<s id='vn236'>* Dùng thức ăn thừa đã được nấu chín trong vòng bốn ngày .</s>
+</spair>
+<spair id='237'>
+<s id='en237'>Food poisoning prognosis</s>
+<s id='vn237'>Tiên lượng về ngộ độc thực phẩm</s>
+</spair>
+<spair id='238'>
+<s id='en238'>Some of the most severe cases of food poisoning can result in long-term illness and death .</s>
+<s id='vn238'>Một số ca ngộ độc thực phẩm nặng nhất có thể gây bệnh lâu dài và tử vong .</s>
+</spair>
+<spair id='239'>
+<s id='en239'>However , most food poisoning is not serious .</s>
+<s id='vn239'>Tuy nhiên , hầu hết các trường hợp ngộ độc thực phẩm đều không nghiêm trọng .</s>
+</spair>
+<spair id='240'>
+<s id='en240'>Most people begin feeling better within 24 to 48 hours .</s>
+<s id='vn240'>Đa số người ta đều có thể bắt đầu cảm thấy khoẻ hơn trong vòng từ 24 đến 48 tiếng đồng hồ .</s>
+</spair>
+<spair id='241'>
+<s id='en241'>Queasiness or nausea and slight diarrhea may last one to two days longer .</s>
+<s id='vn241'>Buồn nôn hoặc muốn ói và tiêu chảy nhẹ có thể kéo dài lâu hơn 1 đến 2 ngày .</s>
+</spair>
+</text>
+</doc>

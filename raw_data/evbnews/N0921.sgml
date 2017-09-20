@@ -1,0 +1,116 @@
+﻿<doc id='N0921'>
+<head>
+<title>Microeconomics Versus Macroeconomics</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microeconomics Versus Macroeconomics</s>
+<s id='vn1'>Kinh tế vi mô và kinh tế vĩ mô</s>
+</spair>
+<spair id='2'>
+<s id='en2'>" microeconomics concerns things that economists are specifically wrong about , while macroeconomics concerns things economists are wrong about generally .</s>
+<s id='vn2'>" Kinh tế học vi mô quan tâm đến những thứ mà các ông kinh tế học sai lầm một cách cụ thể , còn kinh tế học vĩ mô thì quan tâm đến những thứ mà mấy ông ấy sai lầm một cách chung chung .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Or to be more technical , microeconomics is about money you do n't have , and macroeconomics is about money the government is out of . "</s>
+<s id='vn3'>Hoặc nói một cách chuyên môn hơn , kinh tế học vi mô bận tâm đến tiền bạn không có , và kinh tế học vĩ mô thì lại bận tâm về tiền chính phủ thiếu . "</s>
+</spair>
+<spair id='4'>
+<s id='en4'>According to comedian P.J. O'Rourke , " microeconomics concerns things that economists are specifically wrong about , while macroeconomics concerns things economists are wrong about generally .</s>
+<s id='vn4'>Theo diễn viên hài P.J. O"Rourke , " Kinh tế học vi mô quan tâm đến những thứ mà các ông kinh tế học sai lầm một cách cụ thể , còn kinh tế học vĩ mô thì quan tâm đến những thứ mà mấy ông ấy sai lầm một cách chung chung .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Or to be more technical , microeconomics is about money you do n't have , and macroeconomics is about money the government is out of . "</s>
+<s id='vn5'>Hoặc nói một cách chuyên môn hơn , kinh tế học vi mô bận tâm đến tiền bạn không có , và kinh tế học vĩ mô thì lại bận tâm về tiền chính phủ thiếu . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>This is probably closer to the truth than economists would like , but let 's examine the distinction in more detail .</s>
+<s id='vn6'>Cách hiểu này có lẽ gần với chân lý hơn các nhà kinh tế học muốn , nhưng chúng ta hãy xem xét chi tiết sự khác biệt giữa vi mô và vĩ mô .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Microeconomics</s>
+<s id='vn7'>Kinh tế học vi mô</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Those who have studied Latin know that the prefix " micro- " means " small , " so it should n't be surprising that microeconomics is the study of small economic units .</s>
+<s id='vn8'>Những người đã học qua tiếng La-tinh đều biết tiền tố " micro " có nghĩa là " nhỏ " , vì vậy không có gì phải ngạc nhiên khi kinh tế học vi mô là bộ môn nghiên cứu những đơn vị kinh tế nhỏ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The field of microeconomics is concerned with things like :</s>
+<s id='vn9'>Phạm vi nghiên cứu của kinh tế học vi mô là :</s>
+</spair>
+<spair id='10'>
+<s id='en10'>· Consumer decision making and utility maximization</s>
+<s id='vn10'>Việc ra quyết định của người tiêu dùng và tối đa hoá lợi ích</s>
+</spair>
+<spair id='11'>
+<s id='en11'>· Firm production and profit maximization</s>
+<s id='vn11'>Việc sản xuất của doanh nghiệp và tối đa hoá lợi nhuận</s>
+</spair>
+<spair id='12'>
+<s id='en12'>· Individual market equilibrium</s>
+<s id='vn12'>Cân bằng thị trường riêng lẻ</s>
+</spair>
+<spair id='13'>
+<s id='en13'>· Effects of government regulation on individual markets</s>
+<s id='vn13'>Các tác động điều tiết của chính phủ đối với các thị trường riêng lẻ</s>
+</spair>
+<spair id='14'>
+<s id='en14'>· Externalities and other market side effects</s>
+<s id='vn14'>Các yếu tố ngoại vi và các tác động phụ khác của thị trường</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Macroeconomics</s>
+<s id='vn15'>Kinh tế học vĩ mô</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Macroeconomics can be thought of as the " big pictur e " version of economics .</s>
+<s id='vn16'>Kinh tế học vĩ mô có thể được xem là phiên bản kinh tế học về " bức tranh toàn cảnh " .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Rather than analyzing individual markets , macroeconomics focuses on aggregate production and consumption in an economy .</s>
+<s id='vn17'>Thay vì phân tích các thị trường riêng lẻ , kinh tế học vĩ mô tập trung vào toàn bộ sản xuất và tiêu thụ của một nền kinh tế .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Some topics that macroeconomists study are :</s>
+<s id='vn18'>Một số vấn đề chủ yếu kinh tế học vĩ mô nghiên cứu là :</s>
+</spair>
+<spair id='19'>
+<s id='en19'>· The effects of general taxes such as income and sales taxes on output and prices</s>
+<s id='vn19'>Các tác động của thuế khoá chung , chẳng hạn các khoản thuế thu nhập và thuế tiêu thụ đánh vào sản phẩm và giá cả .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>· The causes of economic upswings and downturns</s>
+<s id='vn20'>Các nguyên nhân của những thời kỳ phát triển và suy thoái kinh tế .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>· The effects of monetary and fiscal policy on economic health</s>
+<s id='vn21'>Các tác động của chính sách tài khoá và tiền tệ đối với sức khoẻ nền kinh tế</s>
+</spair>
+<spair id='22'>
+<s id='en22'>· How interest rates are determined</s>
+<s id='vn22'>Lãi suất được quyết định như thế nào</s>
+</spair>
+<spair id='23'>
+<s id='en23'>· Why some economies grow faster than others</s>
+<s id='vn23'>Tại sao một số nền kinh tế lại tăng trưởng nhanh hơn những nền kinh tế khác</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The Relationship Macroeconomics and Microeconomics Between</s>
+<s id='vn24'>Mối quan hệ giữa Kinh tế vi mô và Kinh tế vĩ mô</s>
+</spair>
+<spair id='25'>
+<s id='en25'>There is an obvious relationship between microeconomics and macroeconomics in that aggregate production and consumption levels are the result of choices made by individual households and firms , and some macroeconomic models explicitly make this connection .</s>
+<s id='vn25'>Có một mối quan hệ hiển nhiên giữa kinh tế vĩ mô và kinh tế vi mô trong đó tổng các mức tiêu thụ và sản xuất là kết quả của những chọn lựa mà các hộ gia đình và các doanh nghiệp riêng lẻ đã thực hiện , và một số mô hình kinh tế vĩ mô thể hiện rõ mối quan hệ này .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Most of the economic topics covered on television and in newspapers are of the macroeconomic variety , but it 's important to remember that economics is about more than just trying to figure out when the economy is going to improve and what the Fed is doing with interest rates .</s>
+<s id='vn26'>Hầu hết các vấn đề kinh tế chủ yếu trên truyền hình và báo viết hàng ngày thuộc các phương diện khác nhau của kinh tế vĩ mô , nhưng cần nhớ rằng kinh tế học quan tâm đến nhiều thứ chứ không chỉ cố gắng tìm hiểu khi nào nền kinh tế sẽ phát triển và Cục Dự trữ Liên bang đang làm gì với lãi suất .</s>
+</spair>
+</text>
+</doc>

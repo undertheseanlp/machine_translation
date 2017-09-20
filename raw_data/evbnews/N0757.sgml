@@ -1,0 +1,160 @@
+﻿<doc id='N0757'>
+<head>
+<title>Gonorrhea</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Gonorrhea</s>
+<s id='vn1'>Bệnh lậu</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What Is It ?</s>
+<s id='vn2'>Bệnh lậu là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Gonorrhea is a sexually transmitted disease ( STD ) caused by bacteria called Neisseria gonorrhoeae .</s>
+<s id='vn3'>Bệnh lậu là bệnh lây truyền qua đường tình dục ( STD ) do vi khuẩn tên là Neisseria gonorrhoeae gây ra .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The bacteria can be passed from one person to another through vaginal , oral , or anal sex , even when the person who is infected has no symptoms .</s>
+<s id='vn4'>Vi khuẩn có thể truyền từ người này sang người khác khi quan hệ tình dục qua âm đạo , miệng hoặc hậu môn , thậm chí khi người bị nhiễm bệnh không có triệu chứng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It can also be passed from a mother to her baby during birth .</s>
+<s id='vn5'>Nó cũng có thể truyền từ mẹ sang con trong khi sanh .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You cannot catch gonorrhea from a towel , a doorknob , or a toilet seat .</s>
+<s id='vn6'>Bạn không thể mắc bệnh lậu từ khăn , tay nắm cửa hoặc bồn cầu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>How Does a Girl Know She Has It ?</s>
+<s id='vn7'>Làm sao một cô gái biết mình mắc bệnh lậu ?</s>
+</spair>
+<spair id='8'>
+<s id='en8'>A girl who has gonorrhea may have no symptoms at all or her symptoms may be so mild that she doesn't notice them until they become more severe .</s>
+<s id='vn8'>Một cô gái mắc bệnh lậu có thể không có chút triệu chứng nào hay triệu chứng nhẹ đến nỗi cô ấy không nhận ra cho đến khi chúng trở nên nặng hơn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>In some cases , girls will feel a burning sensation when they urinate , or they will have a yellow-green vaginal discharge .</s>
+<s id='vn9'>Trong vài trường hợp , các cô gái sẽ cảm thấy nóng rát khi đi tiểu , hoặc là họ sẽ có khí hư màu vàng chanh .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Girls may also experience vaginal bleeding between menstrual periods .</s>
+<s id='vn10'>Các cô gái cũng có thể bị xuất huyết âm đạo giữa các kỳ kinh .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>If the infection becomes more widespread and moves into the uterus or fallopian tubes , it may result in an infection called pelvic inflammatory disease ( PID ) , which can cause abdominal pain , fever , and pain during sexual intercourse , as well as the symptoms above .</s>
+<s id='vn11'>Nếu việc lây nhiễm lan rộng hơn và di chuyển sang tử cung hoặc ống dẫn trứng , nó có thể dẫn đến một chứng nhiễm trùng được gọi là viêm khung chậu ( PID ) , có thể gây đau bụng , sốt , và đau đớn trong lúc giao hợp , cũng như các triệu chứng kể trên .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>How Does a Guy Know He Has It ?</s>
+<s id='vn12'>Làm sao một người đàn ông biết mình mắc bệnh lậu ?</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Guys who have gonorrhea are much more likely to notice symptoms , although a guy can have gonorrhea and not know it .</s>
+<s id='vn13'>Đàn ông mắc bệnh lậu có thể nhận biết triệu chứng nhiều hơn , tuy vậy một người đàn ông có thể mắc bệnh lậu mà không biết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Guys often feel a burning sensation when they urinate , and yellowish-white discharge may ooze out of the urethra ( at the tip of the penis ) .</s>
+<s id='vn14'>Đàn ông thường cảm thấy nóng rát khi đi tiểu , và có thể có chất trắng hơi vàng từ niệu đạo ( tại đầu dương vật ) chảy ra .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>How Long Until There Are Symptoms ?</s>
+<s id='vn15'>Bao lâu cho đến khi có triệu chứng ?</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Symptoms usually appear 2 to 7 days after a person has been exposed to gonorrhea , and in girls they may appear even later .</s>
+<s id='vn16'>Triệu chứng thường xuất hiện từ 2 đến 7 ngày sau khi một người mắc bệnh lậu , và ở nữ giới chúng có thể xuất hiện thậm chí trễ hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What Can Happen ?</s>
+<s id='vn17'>Chuyện gì có thể xảy ra ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Gonorrhea can be very dangerous if it is left untreated , even in someone who has mild or no symptoms .</s>
+<s id='vn18'>Bệnh lậu có thể rất nguy hiểm nếu như không được điều trị , ngay cả ở người có triệu chứng nhẹ hoặc không có triệu chứng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>In girls , the infection can move into the uterus , fallopian tubes , and ovaries ( causing PID ) and can lead to scarring and infertility ( the inability to have a baby ) .</s>
+<s id='vn19'>Ở nữ giới , bệnh có thể lây nhiễm sang tử cung , ống dẫn trứng và buồng trứng ( gây viêm khung chậu ) và có thể gây ra sẹo và vô sinh ( không có khả năng sanh con ) .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Gonorrhea infection during pregnancy can cause problems for the newborn baby , including meningitis ( an inflammation of the membranes around the brain and spinal cord ) and an eye infection that can result in blindness if it is not treated .</s>
+<s id='vn20'>Nhiễm bệnh lậu khi đang có thai có thể gây bệnh cho trẻ sơ sinh , trong đó có viêm màng não ( viêm màng quanh não và tuỷ sống ) và nhiễm trùng mắt có thể dẫn đến mù nếu như không được điều trị .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In guys , gonorrhea can spread to the epididymis ( the structure attached to the testicle that helps transport sperm ) , causing pain and swelling in the testicular area .</s>
+<s id='vn21'>Ở nam giới , bệnh lậu có thể lan sang mào tinh hoàn ( cấu trúc dính với tinh hoàn giúp tinh trùng di chuyển ) , gây ra đau đớn và sưng vùng tinh hoàn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This can create scar tissue that might make a guy infertile .</s>
+<s id='vn22'>Điều này có thể tạo ra mô sẹo có thể làm cho đàn ông bị vô sinh .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>In both guys and girls , untreated gonorrhea can affect other organs and parts of the body including the throat , eyes , heart , brain , skin , and joints , although this is less common .</s>
+<s id='vn23'>Ở cả nam lẫn nữ , bệnh lậu nếu không được điều trị có thể ảnh hưởng đến các cơ quan và các bộ phận khác trong cơ thể , trong đó có họng , mắt , tim , não , da , và khớp , mặc dù điều này không phổ biến .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>How Is It Treated ?</s>
+<s id='vn24'>Bệnh lậu được điều trị như thế nào ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>If you think you may have gonorrhea or if you have had a partner who may have gonorrhea , you need to see your doctor or gynecologist .</s>
+<s id='vn25'>Nếu bạn nghĩ bạn có thể mắc bệnh lậu hoặc bạn tình của bạn có thể mắc bệnh lậu , bạn cần đi khám bác sĩ hay bác sĩ phụ khoa .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>He or she will do an exam which may include checking a urine sample , or for a girl , swabbing the vagina or cervix for discharge , which will then be analyzed .</s>
+<s id='vn26'>Anh ấy hay cô ấy sẽ kiểm tra , trong đó có kiểm tra mẫu nước tiểu , hoặc lau sạch âm đạo hoặc cổ tử cung chảy dịch cho nữ giới , sau đó sẽ được phân tích .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Talk to your doctor about which test is best for you .</s>
+<s id='vn27'>Hãy nói với bác sĩ của bạn cách kiểm tra nào là tốt nhất đối với bạn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The doctor may also test for other STDs , such as syphilis or chlamydia .</s>
+<s id='vn28'>Bác sĩ cũng có thể kiểm tra các bệnh lây truyền qua đường tình dục khác , như là giang mai hoặc khuẩn Chlamydia .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Let the doctor know the best way to reach you confidentially with any test results .</s>
+<s id='vn29'>Cho bác sĩ biết cách tốt nhất để liên lạc với bạn một cách kín đáo với bất kỳ kết quả kiểm tra nào .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If you are diagnosed with gonorrhea , your doctor will prescribe antibiotics to treat the infection .</s>
+<s id='vn30'>Nếu bạn bị chẩn đoán mắc bệnh lậu , bác sĩ của bạn sẽ kê toa thuốc kháng sinh để điều trị .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Anyone with whom you 've had sex should also be tested and treated for gonorrhea immediately .</s>
+<s id='vn31'>Bất kỳ người nào mà bạn đã quan hệ tình dục cũng nên được kiểm tra và điều trị bệnh lậu ngay lập tức .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This includes any sexual partners in the last 2 months , or your last sexual partner if it has been more than 2 months since your last sexual experience .</s>
+<s id='vn32'>Điều này bao gồm bất kỳ bạn tình nào trong 2 tháng gần đây nhất , hoặc bạn tình mới nhất của bạn nếu đã hơn 2 tháng kể từ khi bạn quan hệ tình dục lần cuối .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If a sexual partner has gonorrhea , quick treatment will reduce the risk of complications for that person and will lower your chances of being reinfected if you have sex with that partner again .</s>
+<s id='vn33'>Nếu bạn tình mắc bệnh lậu , việc điều trị nhanh chóng sẽ giảm nguy cơ biến chứng cho người đó và sẽ làm giảm nguy cơ bạn bị tái nhiễm nếu bạn có quan hệ tình dục với bạn tình trở lại .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>( You can become infected with gonorrhea again even after you have been treated because having gonorrhea does not make you immune to it . )</s>
+<s id='vn34'>( Bạn có thể bị nhiễm bệnh lậu trở lại ngay cả sau khi bạn đã được điều trị vì mắc bệnh lậu rồi không làm cho bạn miễn dịch với nó . )</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It 's better to prevent gonorrhea than to treat it , and the only way to completely prevent the infection is to abstain from all types of sexual intercourse .</s>
+<s id='vn35'>Thà ngăn ngừa bệnh lậu còn hơn là điều trị , và cách duy nhất để ngăn ngừa hoàn toàn việc nhiễm bệnh là tránh mọi kiểu giao hợp .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>If you do have sex , use a latex condom every time .</s>
+<s id='vn36'>Nếu bạn quan hệ tình dục , hãy sử dụng bao cao su trong mỗi lần quan hệ .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>This is the only birth control method that will help prevent gonorrhea .</s>
+<s id='vn37'>Đây là phương pháp tránh thai duy nhất sẽ giúp ngăn ngừa bệnh lậu .</s>
+</spair>
+</text>
+</doc>

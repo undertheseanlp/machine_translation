@@ -1,0 +1,88 @@
+﻿<doc id='N0601'>
+<head>
+<title>Japanese Businesses Restart Production , But Problems Remain</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Japanese Businesses Restart Production , But Problems Remain</s>
+<s id='vn1'>Các doanh nghiệp Nhật Bản bắt đầu sản xuất lại nhưng các vấn đề vẫn còn</s>
+</spair>
+<spair id='2'>
+<s id='en2'>On Wednesday , Panasonic , Fujitsu and NEC restarted electronics factories .</s>
+<s id='vn2'>Vào thứ 4 , Panasonic , Fujitsu và NEC đã khởi động lại các nhà máy điện tử .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>But , as they were doing so , other companies were halting production , because of difficulty getting parts .</s>
+<s id='vn3'>Nhưng , khi họ đang thực hiện điều đó thì những công ty khác lại đang dừng việc sản xuất do khó khăn trong việc mua phụ tùng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Sony stopped work at five factories , including those making television and cameras , because it cannot get raw materials or electronic components</s>
+<s id='vn4'>Sony đã dừng hoạt động tại 5 nhà máy gồm những nhà máy sản xuất TV và máy quay phim do họ không thể mua được nguyên liệu thô hoặc các linh kiện điện tử .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Toyota and Honda both say they will not resume car production until at least next week and the delay could be longer .</s>
+<s id='vn5'>Cả Toyota và Honda đều nói họ không thể tái sản xuất xe ít nhất là cho đến tuần sau và việc trì hoãn có thể lâu hơn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Toyota spokesman Paul Nolasco explains why .</s>
+<s id='vn6'>Người phát ngôn của Toyota Paul Nolasco đã giải thích tại sao .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" We are having trouble setting up a smooth flowing and solid supply chain for electronics parts , for rubber parts and for plastic parts , " Nolasco said .</s>
+<s id='vn7'>" Chúng tôi đang gặp vấn đề trong việc tạo ra một nguồn cung vững chắc và liên tục về linh kiện điện tử , các phụ tùng cao su và những phụ tùng nhựa " Nolasco đã nói .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Japan 's big manufacturers have complex supply chains and disruption at any point can cause the entire system to stop .</s>
+<s id='vn8'>Những nhà sản xuất lớn của Nhật có những chuỗi cung ứng phức tạp và sự phá vỡ tại bất kỳ điểm nào cũng có thể làm cả hệ thống dừng lại .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although quake or tsunami damage has directly hit some parts makers , others have been unable to distribute goods because of road closures in the quake-hit area and a shortage of gasoline across east Japan .</s>
+<s id='vn9'>Mặc dù động đất và sóng thần đã tác động trực tiếp đến một vài nhà sản xuất phụ tùng , những nhà sản xuất khác không thể giao hàng được do đóng cửa đường xá trong khu vực bị tác động bởi động đất và thiếu khí đốt khắp miền đông của Nhật .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>These problems are showing signs of improvement .</s>
+<s id='vn10'>Những vấn đề này đã có dấu hiệu cải thiện .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The major Tohoku expressway , that runs from Tokyo through northern Japan , is now open to all trucks and the Petroleum Association of Japan says production of gasoline should be at 90 percent of normal levels by the end of this week .</s>
+<s id='vn11'>Đường cao tốc chính Tohoku chạy từ Tokyo đến miền Bắc của Nhật bây giờ đã mở cửa cho tất cả xe tải và Hiệp hội dầu khí Nhật Bản nói việc sản xuất xăng dầu có thể đạt 90% mức sản lượng bình thường vào cuối tuần này .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The cost to businesses and the national economy is still difficult to gauge .</s>
+<s id='vn12'>Vẫn còn rất khó để xác định được phí tổn mà các doanh nghiệp và nền kinh tế quốc gia phải gánh chịu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The government says the direct cost of destruction of housing , businesses and infrastructure could be as high as $ 309 billion .</s>
+<s id='vn13'>Chính phủ nói chi phí trực tiếp của việc phá hủy nhà của , các công ty và cơ sở hạ tầng có thể lên đến 309 tỷ đô la Mỹ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>That figure does not include secondary losses , such as those caused by power shortages .</s>
+<s id='vn14'>Con số đó không bao gồm những tổn thất cấp 2 ví dụ như những tổn thất gây ra do thiếu hụt năng lượng .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Tokyo Electric Power warned Wednesday that east Japan 's current electricity problems could continue for months .</s>
+<s id='vn15'>Công ty Điện lực Tokyo đã cảnh báo vào thứ 4 là những vấn đề về điện gần đây của vùng phía đông Nhật có thể sẽ tiếp diễn trong nhiều tháng tới .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Peak demand for electricity on a hot day in the capital is 60 percent higher than the company can currently generate .</s>
+<s id='vn16'>Nhu cầu về điện tăng cao trong những ngày nắng nóng ở thủ đô cao hơn mức mà hiện tại công ty có thể sản xuất 60% .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The blackouts that have hit areas around Tokyo could extend to residential areas of the city itself .</s>
+<s id='vn17'>Việc mất điện tác động đến những khu vực xung quanh Tokyo có thể lan sang những khu vực lân cận của thành phố .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The utility is short of electricity because 13 power stations remain offline ,and Fukushima Number 1 , is likely never to come back online .</s>
+<s id='vn18'>Dịch vụ công bị thiếu điện do 13 nhà máy điện vẫn còn ngừng hoạt động và Fukushima số 1 có vẻ như sẽ không bao giờ hoạt động trở lại được .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>On Wednesday , Tokyo Electric asked seven banks for $ 25 billion to repair the damaged power plants .</s>
+<s id='vn19'>Vào thứ 4 , Công ty Điện lực Tokyo đã hỏi vay 7 ngân hàng 25 tỷ đô nhằm sửa chữa những nhà máy điện bị hư hại .</s>
+</spair>
+</text>
+</doc>

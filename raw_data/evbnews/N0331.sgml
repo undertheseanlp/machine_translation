@@ -1,0 +1,484 @@
+﻿<doc id='N0331'>
+<head>
+<title>Death valley : a beautiful but dangerous place</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Death valley : a beautiful but dangerous place</s>
+<s id='vn1'>Thung lũng chết : nơi nguy hiểm nhưng xinh đẹp</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Today we visit one of America 's great national parks .</s>
+<s id='vn2'>Hôm nay chúng ta tới thăm một trong những công viên quốc gia rộng lớn của nước Mỹ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>It is a place of strange and silent beauty .</s>
+<s id='vn3'>Đây là một vùng đất xa lạ và có vẻ đẹp trầm lặng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>As beautiful as this place is , its name provides evidence of very real danger .</s>
+<s id='vn4'>Dẫu nơi này có xinh đẹp đến mấy đi chăng nữa , tên gọi của nó cũng mang dấu hiệu của sự nguy hiểm thực sự .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Come with us as we visit Death Valley .</s>
+<s id='vn5'>Hãy đến tham gia với chúng tôi khi chúng tôi đi tham quan Thung lũng chết .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Death Valley is a land of beautiful yet dangerous extremes .</s>
+<s id='vn6'>Thung lũng chết là vùng đất xinh đẹp nhưng ẩn chứa sự nguy hiểm cùng cực .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>There are mountains that reach more than three thousand meters into the sky .</s>
+<s id='vn7'>Có nhiều dãy núi cao đến hơn 3000 mét lên chọc trời .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>There is a place called Badwater that is the lowest area of land in the Western Hemisphere .</s>
+<s id='vn8'>Đó là vùng đất Badwater là khu trũng thấp nhất thuộc vùng tây bán cầu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>If there were water there , it would be eighty-six meters below the level of the ocean .</s>
+<s id='vn9'>Nếu có nước ở đó , mực nước sẽ thấp hơn mực nước biển là 86 mét .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Death Valley can be dangerously cold during the winter months .</s>
+<s id='vn10'>Thung lũng chết có thể lạnh khủng khiếp vào những tháng mùa đông .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Storms in the mountains can produce sudden flooding on the floor of the Valley .</s>
+<s id='vn11'>Những cơn bão ở miền núi có thể gây nên trận lụt đột ngột ở đáy thung lũng .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>The air temperature during the summer has been as high as fifty-seven degrees Celsius .</s>
+<s id='vn12'>Nhiệt độ không khí trong mùa hè cao đến 57độ C .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>The sun can heat the ground so that the temperature of the rocks and soil can be as high as seventy-four degrees Celsius .</s>
+<s id='vn13'>Mặt trời làm đất nóng lên đến mức mà nhiệt độ của đá và đất có thể cao đến 74 độ C .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>The extreme heat of Death Valley has killed people in the past .</s>
+<s id='vn14'>Dạo trước sức nóng cùng cực của Thung lũng chết đã huỷ diệt con người nơi đây .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It will continue to kill those who do not honor this extreme climate .</s>
+<s id='vn15'>Nó cũng còn giết chết những ai không thích nghi được với cái khí hậu khắc nghiệt này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Death Valley does not forgive those who are not careful .</s>
+<s id='vn16'>Thung lũng chết cũng chẳng chừa một ai bất cẩn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Death Valley is a good example of the violence of nature .</s>
+<s id='vn17'>Thung lũng chết là một ví dụ rõ ràng về tính khắc nghiệt của thiên nhiên .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>It contains evidence of several ancient volcanoes that caused huge explosions .</s>
+<s id='vn18'>Bằng chứng là nhiều đợt núi lửa thời xưa đã gây nên những trận nổ lớn .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Evidence of one of these explosions is called Ubehebe Crater .</s>
+<s id='vn19'>Bằng chứng một trong những vụ nổ này là ubehebe Crater .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>This explosion left a huge hole in the ground almost a kilometer and a half wide .</s>
+<s id='vn20'>Vụ nổ này để lại miệng hố khổng lồ trên bề mặt đất có chiều rộng gần bằng 1,5km .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>In many areas of Death Valley it is easy to see where the ground has been pushed up violently by movement deep in the Earth .</s>
+<s id='vn21'>Ở nhiều khu vực trong Thung lũng Chết người ta dễ dàng quan sát thấy mặt đất bị đẩy cao lên dữ dội do sự chuyển động sâu bên trong Trái Đất .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>This movement has created unusual and beautiful rock formations .</s>
+<s id='vn22'>Sự chuyển động này làm hình thành nhiều loại đá xinh đẹp và lạ mắt .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Some are red .</s>
+<s id='vn23'>Vài loại đá có màu đỏ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Others are dark brown , gray , yellow or black .</s>
+<s id='vn24'>Những loại khác có màu nâu đậm , xám , vàng hoặc đen .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Other areas of rock look as if some huge creature violently broke and twisted the Earth to create unusual , sometimes frightening shapes .</s>
+<s id='vn25'>Nhiều vùng đá khác trông giống như một sinh vật khổng lồ dữ dội làm vỡ và uốn mặt đất thành nhiều hình dạng lạ lùng , đôi khi còn đáng sợ nữa .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In other parts of Death Valley there are lines in the rock that show clearly that this area was deep under an ocean for many thousands of years .</s>
+<s id='vn26'>Có nhiều đường kẻ trong đá ở các vùng khác trong Thung lũng Chết cho thấy rõ rằng nơi đây được chôn dưới đại dương hàng ngàn năm rồi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Much of the Valley is flat and extremely dry .</s>
+<s id='vn27'>Phần lớn thung lũng đều bằng phẳng và cực kỳ khô hạn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>In fact , scientists believe it is the driest place in the United States .</s>
+<s id='vn28'>Thực ra , các nhà khoa học tin rằng nơi đây là khu vực khô hạn nhất của nước Mỹ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In some areas the ground is nothing but salt .</s>
+<s id='vn29'>Ở nhiều khu vực khác , bề mặt đất chỉ toàn là muối .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Nothing grows in this salted ground .</s>
+<s id='vn30'>Chẳng có thứ gì có thể mọc nổi trên vùng đất muối mặn này .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>However , it would be wrong to think that nothing lives in Death Valley .</s>
+<s id='vn31'>Tuy nhiên , sẽ sai lầm khi nghĩ rằng không có sự sống ở Thung lũng chết .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>The Valley is fully of life .</s>
+<s id='vn32'>Nơi đây cũng tràn đầy nhựa sống .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Wild flowers grow very quickly after a little rain .</s>
+<s id='vn33'>Hoa dại phát triển rất nhanh sau cơn mưa nhỏ .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Some desert plants can send their roots down more than eighteen meters to reach water deep in the ground .</s>
+<s id='vn34'>Một vài cây vùng sa mạc có thể đâm rễ xuống sâu đến hơn mười tám mét chạm đến mạch nước trong đất .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Many kinds of birds live in Death Valley .</s>
+<s id='vn35'>nhiều loài chim sống ở Thung lũng chết .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>So do mammals and reptiles .</s>
+<s id='vn36'>Bò sát và động vật hữu nhũ cũng có .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>You might see the small dog-like animal called the coyote or wild sheep called bighorns .</s>
+<s id='vn37'>Bạn có thể thấy loài động vật giống như chó nhỏ có tên là sói đồng cỏ hay cừu hoang được gọi là cừu sừng to .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Other animals include the desert jackrabbit , the desert tortoise and a large reptile called a chuckwalla .</s>
+<s id='vn38'>Nhiều động vật khác gồm thỏ rừng tai dài sa mạc , rùa sa mạc và một loài bò sát lớn có tên là thằn lăn to .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Many kinds of snakes live in the Valley , including one called the sidewinder rattlesnake .</s>
+<s id='vn39'>Nhiều loài rắn sống ở thung lũng , bao gồm loài rắn đuôi chuông .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>It is an extremely poisonous snake with long sharp teeth called fangs .</s>
+<s id='vn40'>Đây là loài rắn cựa độc có răng sắc dài gọi là nanh .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Death Valley is a huge place .</s>
+<s id='vn41'>Thung lũng chết là một khu vực rất rộng lớn .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>It extends more than two hundred twenty-five kilometers across the southern part of the state of California , and across the border with the state of Nevada .</s>
+<s id='vn42'>Nó trải dài hơn 225 km qua phía Nam của tiểu bang California , và qua biên giới của bang Nevada .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Death Valley is part of the Great Mojave Desert .</s>
+<s id='vn43'>Thung lũng chết là một phần của sa mạc Mojave rộng lớn .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>This area was named by a woman in eighteen forty-nine .</s>
+<s id='vn44'>Vùng đất này được một người phụ nữ đặt tên vào năm 1840 .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>That was the year after gold was discovered in California .</s>
+<s id='vn45'>Đây là năm sau khi vàng được phát hiện ra ở California .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Thousands of people from other parts of the country traveled to the gold mining areas in California .</s>
+<s id='vn46'>Hàng ngàn người từ nhiều vùng miền khác nhau của tổ quốc đã đến các vùng khai thác vàng ở California .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>They were in a hurry to get there before other people did .</s>
+<s id='vn47'>Họ vội vã đến đó trước khi người khác tới .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Many people were not careful .</s>
+<s id='vn48'>Nhiều người không cẩn thận .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>They made bad choices or wrong decisions .</s>
+<s id='vn49'>Họ chọn lựa sai lầm hoặc đưa ra quyết định sai .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>One group trying to reach California decided to take a path called the Old Spanish Trail .</s>
+<s id='vn50'>Một nhóm người quyết định đi theo con đường có tên là Old Spanish Trail để cố đến California .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>By December they had reached Death Valley .</s>
+<s id='vn51'>Vào tháng mười hai họ đến được thung lũng chết .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>They did not have to survive the terrible heat of summer , but there was still an extreme lack of water .</s>
+<s id='vn52'>Họ đã không sống nổi với cái nóng khủng khiếp của mùa hè , ngoài ra cũng còn do tình trạng thiếu hụt nước trầm trọng nữa .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>There were few plants for their work animals to eat .</s>
+<s id='vn53'>Cũng có vài loài cây cho động vật của họ ăn được .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>The people could not find a pass through the tall mountains to the west of the Valley .</s>
+<s id='vn54'>Người ta không tìm được đường đi qua dãy núi cao để tới phía tây của thung lũng .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Slowly , they began to suffer from a lack of food .</s>
+<s id='vn55'>Dần dần , họ đã bắt đầu thiếu lương thực .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>To survive , they killed their work animals for food and began to walk out of the Valley .</s>
+<s id='vn56'>Họ phải giết các con vật đi cùng của mình để lấy thịt ăn và bắt đầu rời khỏi thung lũng .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>As they left , one woman looked back and said , " Good-bye , death valley . "</s>
+<s id='vn57'>Khi đi khỏi đây , một phụ nữ quay lại nhìn và bảo rằng , " Tạm biệt , Thung lũng chết . "</s>
+</spair>
+<spair id='58'>
+<s id='en58'>This name has never been changed .</s>
+<s id='vn58'>Tên gọi này chưa hề bị thay đổi .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Almost everyone who visits Death Valley visits a huge house called Scotty 's Castle .</s>
+<s id='vn59'>Hầu hết những ai tới Thung lũng chết cũng đều tới thăm ngôi nhà khổng lồ có tên là Toà lâu đài của Scotty .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>The building design is Spanish , with high thick walls to provide protection from the fierce heat .</s>
+<s id='vn60'>Thiết kế của tòa nhà theo kiểu Tây Ban Nha , với những bức tường cao dày để chống lại cái nóng dữ dội .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The main building is very large .</s>
+<s id='vn61'>Toà nhà chính rất lớn .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>It was built in nineteen twenty-nine in one of the few areas of the Valley that has water .</s>
+<s id='vn62'>Nó được xây vào những năm 1929 ở một trong số ít các khu vực có nước trong thung lũng .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The castle is named for Walter Scott , called Scotty by his friends .</s>
+<s id='vn63'>Toà lâu đài mang tên Walter Scott , được bạn bè của anh ấy gọi là Scotty .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>He was a gold miner .</s>
+<s id='vn64'>Anh ấy là thợ đào vàng .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>He told everyone that he built this house with money he made from his gold mine .</s>
+<s id='vn65'>Anh ấy kể với mọi người là mình xây ngôi nhà này bằng tiền kiếm được từ mỏ vàng của mình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Many people believed him .</s>
+<s id='vn66'>Nhiều người tin anh ấy .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>But it was not really the truth .</s>
+<s id='vn67'>Nhưng sự thật lại khong hẳn thế .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>Scotty was not a very honest man .</s>
+<s id='vn68'>Scotty không phải là người hay trung thực .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Some years earlier , he had asked several people to invest in a gold mine he had in Death Valley .</s>
+<s id='vn69'>Vài năm trước , anh ấy đã yêu cầu một vài người đầu tư vào mỏ vàng của mình ở Thung lũng chết .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>One of the men he asked to invest was a businessman from Chicago , Illinois named Albert Johnson .</s>
+<s id='vn70'>Một trong số đó là một thương gia ở Chicago , Illinois tên là Albert Johnson .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Mister Johnson invested in Scotty 's mine .</s>
+<s id='vn71'>Ông Johnson đầu tư vào mỏ vàng của Scotty .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>In nineteen-oh-five , he traveled to Death Valley to see the mine .</s>
+<s id='vn72'>Vào năm 1905 , ông đi du lịch tới thung lũng chết để thăm mỏ vàng .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Scotty put Mister Johnson on a horse and took him far into the mountains .</s>
+<s id='vn73'>Scotty để ông Johnson lên một con ngựa và dẫn ông đi xa vào những ngọn núi .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>Many people believe that while they were on this trip , Scotty told Mister Johnson the truth :</s>
+<s id='vn74'>Nhiều người tin rằng trong chuyến đi của họ , Scotty đã nói sự thật với ông Johnson rằng :</s>
+</spair>
+<spair id='75'>
+<s id='en75'>There was no mine and no gold .</s>
+<s id='vn75'>Chẳng có mỏ vàng và cũng chẳng có vàng nữa .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Albert Johnson suffered from extremely poor health .</s>
+<s id='vn76'>Sức khỏe của Albert Johnson cực kỳ yếu .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>He had been in a severe accident a few years before .</s>
+<s id='vn77'>Vài năm trước ông ấy bị một tai nạn khủng khiếp .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Doctors did not believe he would live much longer .</s>
+<s id='vn78'>Bác sĩ không tin ông ấy sẽ sống được lâu hơn nữa .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>However , something happened on his trip with Scotty .</s>
+<s id='vn79'>Tuy nhiên , có điều gì đó đã xảy ra trong chuyến đi với Scotty .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>When Albert Johnson returned from the mountains , he felt better than he had in several years .</s>
+<s id='vn80'>Sau khi Albert Johnson đi núi , ông cảm thấy khỏe hơn so với nhiều năm trước .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>Perhaps he felt better because of the clean mountain air .</s>
+<s id='vn81'>Có thể ông cảm thấy dễ chịu hơn vì không khí miền núi trong lành .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Perhaps it was the good food Scotty cooked .</s>
+<s id='vn82'>Cũng có thể do thức ăn ngon mà Scotty đã nấu .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>Or it may have been the funny stories Scotty told that improved Mister Johnson 's health .</s>
+<s id='vn83'>Hoặc cũng có thể là nhờ những câu chuyện hài hước mà Scotty kể đã làm cho sức khỏe của ông Johnson tốt hơn .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Whatever it was , Albert Johnson fell in love with Death Valley .</s>
+<s id='vn84'>Bất kể là gì đi nữa thì Albert Johnson cũng thích Thung lũng chết lắm rồi .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>He and Scotty became lifelong friends .</s>
+<s id='vn85'>Ông và Scotty đã trở thành bạn bè suốt đời của nhau .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>Soon after , Albert Johnson began building a home on the western edge of Death Valley .</s>
+<s id='vn86'>Chẳng bao lâu sau thì Albert Johnson bắt đầu xây ngôi nhà bên bờ tây của Thung lũng chết .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>He did not live there all the time .</s>
+<s id='vn87'>Không phải lúc nào ông ấy cũng sống ở đó .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>But Scotty did .</s>
+<s id='vn88'>Scotty thì ở đó suốt .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>And , he told everyone the huge house was his -- bought and paid for with the money from his gold mine .</s>
+<s id='vn89'>Và anh ấy kể cho mọi người nghe là căn nhà là của anh ấy – mua bằng tiền kiếm được từ mỏ vàng của mình .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>Scotty told everyone that Albert Johnson , his friend from Chicago , came to visit sometimes .</s>
+<s id='vn90'>Scotty bảo mọi người rằng Albert Johnson , bạn của mình ở Chicago thỉnh thoảng tới thăm .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Mister Johnson never told anyone it was just a story made up by Death Valley .</s>
+<s id='vn91'>Ông Johnson chẳng bao giờ nói với ai đó chỉ là chuyện bịa đặt về Thung lũng chết cả .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Albert Johnson lived another thirty years -- many more years than the doctors thought he would .</s>
+<s id='vn92'>Albert Johnson sống thêm ba mươi năm nữa - lâu hơn nhiều so với bác sĩ từng nghĩ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Some years before he died , in nineteen forty-eight , Albert Johnson signed documents that said Walter Scott could live in this house until he died .</s>
+<s id='vn93'>Vài năm trước khi chết , vào năm 1948 , Albert Johnson ký trong giấy tờ rằng Walter Scott có thể sống trong căn nhà này đến khi anh ấy chết .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Scotty died in nineteen fifty-four .</s>
+<s id='vn94'>Scotty chết vào năm 1954 .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>He is buried on a small hill near the house .</s>
+<s id='vn95'>Anh ấy được chôn trên một ngọn đồi nhỏ gần nhà .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>In nineteen seventy , the National Park Service bought Scotty 's Castle .</s>
+<s id='vn96'>Vào năm 1977 , Ban Công Viên Quốc Gia đã mua tòa lâu đài của Scotty .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>It has since become one of the most popular areas to visit in Death Valley National Park .</s>
+<s id='vn97'>Từ đó nó trở thành một trong những khu tham quan được ưa chuộng ở Công Viên Quốc Gia thung lũng chết .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>More than one million people visit Death Valley each year .</s>
+<s id='vn98'>Hằng năm có hơn một triệu người đến tham quan thung lũng chết .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>Many people come for just a day .</s>
+<s id='vn99'>Nhiều người đến tham quan chỉ trong một ngày .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Buses bring visitors from the famous city of Las Vegas , Nevada .</s>
+<s id='vn100'>Xe buýt chở khách từ thành phố nổi tiếng Nevada của Las Vegas tới .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>They ride around the park in their bus , visit several places and are back in their Las Vegas hotel by night .</s>
+<s id='vn101'>Họ đi quanh công viên bằng xe buýt tham quan vài nơi và trở lại khách sạn ở Las Vegas của mình trong đêm .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>However , many other visitors stay in the park .</s>
+<s id='vn102'>Tuy nhiên , nhiều du khách khác ở lại công viên .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>The most popular area to stay in is Furnace Creek .</s>
+<s id='vn103'>Khu vực ở lại được ưa thích nhất đó là Furnace Creek .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Furnace Creek is the largest area of human activity within Death Valley National Park .</s>
+<s id='vn104'>Furnace Creek là khu vực rộng lớn nhất dành cho con người hoạt động vui chơi trong Công viên Quốc gia Thung lũng chết .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>There is a hotel .</s>
+<s id='vn105'>Có khách sạn .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>There are also camping areas where people put up temporary cloth homes , called tents .</s>
+<s id='vn106'>Cũng có nhiều khu để cắm trại , nơi đây người ta có thể dựng nhà vải tạm thời lên , gọi là lều .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Visitors who arrive in huge motor homes can also find a place to park their vehicles .</s>
+<s id='vn107'>Du khách đến bằng xe mô tô lưu động lớn có thể tìm thấy chỗ để đậu xe của mình .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>The famous Furnace Creek Inn is a beautiful hotel that was built of stone more than seventy-five years ago .</s>
+<s id='vn108'>Quán trọ nổi tiếng của Furnace Creek là một khách sạn xinh xắn được xây bằng đá cách đây hơn bảy mươi lăm năm rồi .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>The inn is built on a low hill .</s>
+<s id='vn109'>Quán trọ được xây trên một ngọn đồi thấp .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>The main public room in the hotel has large windows that look far out over Death Valley .</s>
+<s id='vn110'>Phòng đại sảnh chính trong khách sạn có cửa sổ lớn trông xa ngoài Thung lũng chết .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Hotel guests gather near these large windows in the evening to watch the sun make long shadows on the floor of the Valley and on the far mountains .</s>
+<s id='vn111'>Khách trọ của khách sạn tụ tập lại gần những cửa sổ rộng lớn này để ngắm cảnh mặt trời đổ bóng dài trên đáy thung lũng và trên các dãy núi xa .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>This beautiful image seems to change each minute .</s>
+<s id='vn112'>Hình ảnh xinh đẹp này có vẻ như thay đổi từng phút một .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>The sun slowly turns the Valley a gold color that deepens to a soft brown , then changes to a dark red .</s>
+<s id='vn113'>Mặt trời dần dần chuyển thung lũng từ màu vàng thành nâu nhạt rồi thành đỏ sẫm .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>As night comes , the mountains turn a dark purple color , then black .</s>
+<s id='vn114'>Khi màn đêm buông xuống , các dãy núi chuyển màu tía đậm , và rồi thành đen .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Usually , visitors are very quiet when this event takes place .</s>
+<s id='vn115'>Thường , du khách đứng im thưởng thức khi cảnh tượng này xảy ra .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>A few try to photograph it .</s>
+<s id='vn116'>Vài người cũng chụp hình lại .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>But the Valley is too huge to capture in a photograph .</s>
+<s id='vn117'>Nhưng thung lũng quá rộng để có thể ôm gọn vào một bức ảnh .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Most visitors watch this natural beauty and leave with only the memory of sunset at beautiful Death Valley National Park .</s>
+<s id='vn118'>Đa số du khách ngắm vẻ đẹp thiên nhiên này và ra đi chỉ với một ký ức về cảnh hoàng hôn tại công viên quốc gia thung lũng chết xinh đẹp .</s>
+</spair>
+</text>
+</doc>

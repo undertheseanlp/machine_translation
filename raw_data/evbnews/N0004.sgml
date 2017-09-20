@@ -1,0 +1,320 @@
+﻿<doc id='N0004'>
+<head>
+<title>Helen Keller , 1880-1968 : " I Try to Make the Light in Others " Eyes My Sun "</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Helen Keller , 1880-1968 : " I Try to Make the Light in Others " Eyes My Sun "</s>
+<s id='vn1'>Helen Keller , 1880-1968 : " Tôi cố gắng biến ánh sáng trong " Mắt người thành ánh dương trong tôi "</s>
+</spair>
+<spair id='2'>
+<s id='en2'>This week we finish the story of a writer and educator , Helen Keller .</s>
+<s id='vn2'>Tuần này chúng tôi kết thúc câu chuyện về nhà văn kiêm nhà giáo dục , Helen Keller .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>She helped millions of people who , like her , were blind and deaf .</s>
+<s id='vn3'>Cô ấy đã giúp đỡ hàng triệu người , giống cô ấy , vừa bị mù và điếc .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>We reported last week that Helen Keller suffered from a strange sickness when she was only nineteen months old .</s>
+<s id='vn4'>Chúng tôi đã bàn hồi tuần trước , Helen Keller mắc một căn bệnh lạ khi cô ấy mới 19 tháng tuổi .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>It made her completely blind and deaf .</s>
+<s id='vn5'>Nó khiến cô bị mù và điếc hoàn toàn .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>For the next five years she had no way of successfully communicating with other people .</s>
+<s id='vn6'>Năm năm sau đó cô ấy không thể nào giao tiếp với người khác .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Then , a teacher - Anne Sullivan - arrived from Boston to help her .</s>
+<s id='vn7'>Sau đó , một giáo viên - Anne Sullivan - đến từ Boston đã giúp cô ấy .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Miss Sullivan herself had once been blind .</s>
+<s id='vn8'>Cô Sullivan cũng từng bị mù .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>She tried to teach Helen to live like other people .</s>
+<s id='vn9'>Cô ấy cố dạy Helen cách sống như những người khác .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>She taught her how to use her hands as a way of speaking .</s>
+<s id='vn10'>Cô ấy dạy cô bé sử dụng bàn tay cô ấy như một cách để nói .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Miss Sullivan took Helen out into the woods to explore nature .</s>
+<s id='vn11'>Cô Sullivan dẫn Helen vào rừng để tìm hiểu thiên nhiên .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>They also went to the circus , the theater , and even to factories .</s>
+<s id='vn12'>Họ cũng đi đến rạp xiếc , nhà hát , và thậm chí là nhà máy .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Miss Sullivan explained everything in the language she and Helen used - a language of touch - of fingers and hands .</s>
+<s id='vn13'>Cô Sullivan giải thích tất cả ngôn ngữ cô ấy và Helen sử dụng - ngôn ngữ của xúc giác - của ngón tay và bàn tay .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Helen also learned how to ride a horse , to swim , to row a boat and , even to climb trees .</s>
+<s id='vn14'>Helen cũng học cách cưỡi ngựa , bơi , chèo thuyền và thậm chí còn trèo cây .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Helen Keller once wrote about these early days .</s>
+<s id='vn15'>Helen Keller từng viết về những ngày thơ ấu này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>One beautiful spring morning I was alone in my room , reading .</s>
+<s id='vn16'>Một buổi sáng mùa xuân tươi đẹp , tôi ở một mình trong phòng đọc sách .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Suddenly , a wonderful smell in the air made me get up and put out my hands .</s>
+<s id='vn17'>Bất ngờ , có mùi hương tuyệt diệu thoảng trong không khí khiến tôi bật dậy và nhoài tay ra .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The spirit of spring seemed to be passing in my room .</s>
+<s id='vn18'>Nàng xuân dường như đang ghé ngang qua phòng tôi .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>" What is it ? " I asked .</s>
+<s id='vn19'>" Cái gì thế ? " tôi hỏi .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The next minute I knew it was coming from the mimosa tree outside .</s>
+<s id='vn20'>Ít phút sau tôi mới biết đó là từ cây mimosa bên ngoài .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>I walked outside to the edge of the garden , toward the tree .</s>
+<s id='vn21'>Tôi đi dạo phía bên ngoài hàng rào của khu vườn , về phía cây hoa ấy .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>There it was , shaking in the warm sunshine .</s>
+<s id='vn22'>Nó đang đứng đó , đung đưa trong ánh mặt trời ấm áp .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Its long branches , so heavy with flowers , almost touched the ground .</s>
+<s id='vn23'>Những nhánh cây dài nặng trĩu hoa gần chạm đất .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>I walked through the flowers to the tree itself and then just stood silent .</s>
+<s id='vn24'>Tôi đi qua những bông hoa đến bên cái cây và sau đó đứng lặng im .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Then I put my foot on the tree and pulled myself up into it .</s>
+<s id='vn25'>Rồi tôi đặt bàn chân lên cây và đu người lên .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I climbed higher and higher until I reached a little seat .</s>
+<s id='vn26'>Tôi leo cao hơn và cao hơn nữa cho đến khi tôi tìm được một chỗ ngồi nhỏ xíu .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Long ago someone had put it there .</s>
+<s id='vn27'>Ai đó đã để nó ở đấy từ lâu lắm rồi .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>I sat for a long time ... Nothing in all the world was like this .</s>
+<s id='vn28'>Tôi ngồi đó thật lâu ... không gì trong khắp thế gian này giống như vậy .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Later , Helen learned that nature could be cruel as well as beautiful .</s>
+<s id='vn29'>Sau đó , Helen biết rằng thiên nhiên có thể vừa khắc nghiệt nhưng lại vừa xinh đẹp .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Strangely enough she discovered this in a different kind of tree .</s>
+<s id='vn30'>Lạ một điều là cô ấy khám phá ra điều này ở một cái cây khác .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>One day my teacher and I were returning from a long walk .</s>
+<s id='vn31'>Một ngày nọ cô giáo và tôi đang trên đường về sau một cuộc đi bộ dài .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>It was a fine morning .</s>
+<s id='vn32'>Đó là một buổi sáng đẹp trời .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>But it started to get warm and heavy .</s>
+<s id='vn33'>Nhưng trời bắt đầu trở nên ấm và u ám .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>We stopped to rest two or three times .</s>
+<s id='vn34'>Chúng tôi dừng lại nghỉ hai ba lần .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Our last stop was under a cherry tree a short way from the house .</s>
+<s id='vn35'>Cuối cùng chúng tôi dừng lại dưới tán cây anh đào cách nhà một đoạn đường ngắn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>The shade was nice and the tree was easy to climb .</s>
+<s id='vn36'>Bóng mát thật dễ chịu và cũng dễ leo lên cái cây ấy .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Miss Sullivan climbed with me .</s>
+<s id='vn37'>Cô Sullivan leo với tôi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>It was so cool up in the tree we decided to have lunch there .</s>
+<s id='vn38'>Trên cây rất mát nên chúng tôi quyết định ăn trưa trên đó .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>I promised to sit still until she went to the house for some food .</s>
+<s id='vn39'>Tôi hứa sẽ ngồi yên trong khi cô về nhà lấy ít thức ăn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Suddenly a change came over the tree .</s>
+<s id='vn40'>Bất ngờ có một sự thay đổi ập đến cái cây .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>I knew the sky was black because all the heat , which meant light to me , had died out of the air .</s>
+<s id='vn41'>Tôi biết bầu trời tối đen vì tất cả cái nóng , với tôi nghĩa là ánh sáng , đã tan biến ra không khí .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>A strange odor came up to me from the earth .</s>
+<s id='vn42'>Một mùi lạ xộc lên từ lòng đất .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I knew it - it was the odor which always comes before a thunderstorm .</s>
+<s id='vn43'>Tôi biết mùi này - đó là cái mùi luôn xuất hiện trước mỗi cơn bão .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>" I felt alone , cut off from friends , high above the firm earth .</s>
+<s id='vn44'>" Tôi cảm thấy cô đơn , xa lìa khỏi bạn bè , và tít trên cao khỏi mặt đất vững chãi .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>I was frightened , and wanted my teacher .</s>
+<s id='vn45'>Tôi sợ hãi , và mong có cô giáo bên cạnh .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>I wanted to get down from that tree quickly .</s>
+<s id='vn46'>Tôi muốn trèo xuống cây thật nhanh .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>But I was no help to myself .</s>
+<s id='vn47'>Nhưng tôi đành bất lực .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>There was a moment of terrible silence .</s>
+<s id='vn48'>Đó là một khoảnh khắc yên lặng đến đáng sợ .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Then a sudden and violent wind began to shake the tree and its leaves kept coming down all around me .</s>
+<s id='vn49'>Sau đó một cơn gió đột ngột và hung dữ bắt đầu làm cái cây lắc rung lên và lá của nó rơi xuống xung quanh tôi .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>I almost fell .</s>
+<s id='vn50'>Tôi suýt ngã .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>I wanted to jump , but was afraid to do so .</s>
+<s id='vn51'>Tôi muốn nhảy , nhưng sợ không dám làm .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>I tried to make myself small in the tree , as the branches rubbed against me .</s>
+<s id='vn52'>Tôi cố thu mình lại khi các nhánh cây cọ xát vào tôi .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Just as I thought that both the tree and I were going to fall , a hand touched me ... It was my teacher .</s>
+<s id='vn53'>Ngay khi tôi nghĩ cây lẫn tôi sẽ ngã thì một bàn tay chạm vào tôi ... Đó cô giáo của tôi .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>I held her with all my strength then shook with joy to feel the solid earth under my feet .</s>
+<s id='vn54'>Tôi lấy hết sức mình ôm chặt lấy cô và rồi run lên vì sung sướng khi cảm nhận nền đất cứng dưới chân tôi .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Miss Sullivan stayed with Helen for many years .</s>
+<s id='vn55'>Cô Sullivan tiếp tục sống cùng Helen trong nhiều năm .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>She taught Helen how to read , how to write and how to speak .</s>
+<s id='vn56'>Cô ấy dạy Helen cách đọc , viết và nói .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>She helped Helen to get ready for school and college .</s>
+<s id='vn57'>Cô giúp Helen chuẩn bị vào học ở trường và cao đẳng .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>More than anything , Helen wanted to do what others did , and do it just as well .</s>
+<s id='vn58'>Hơn bất cứ thứ gì , Helen muốn làm những gì người khác làm , và làm thật tốt .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>In time , Helen did go to college and completed her studies with high honors .</s>
+<s id='vn59'>Đến lúc này , Helen đã đi học cao đẳng và tốt nghiệp loại ưu .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>But it was a hard struggle .</s>
+<s id='vn60'>Nhưng đó là một cuộc đấu tranh bền bỉ .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Few of the books she needed were written in the Braille language that the blind could read by touching pages .</s>
+<s id='vn61'>Có rất ít sách cô cần được viết bằng ngôn ngữ Braille mà người khiếm thị có thể đọc bằng cách sờ vào trang sách .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Miss Sullivan and others had to teach her what was in these books by forming words in her hands .</s>
+<s id='vn62'>Cô Sullivan và những người khác phải dạy cô những điều trong sách bằng cách viết chữ vào tay .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>The study of geometry and physics was especially difficult .</s>
+<s id='vn63'>Môn hình học và vật lý đặc biệt rất khó khăn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Helen could only learn about squares , triangles , and other geometrical forms by making them with wires .</s>
+<s id='vn64'>Helen chỉ có thể học về tứ giác , tam giác và những dạng hình học khác bằng cách tạo nên chúng từ những sợi dây .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>She kept feeling the different shapes of these wires until she could see them in her mind .</s>
+<s id='vn65'>Cô ấy cứ cảm nhận nhiều hình dáng khác nhau của những sợi dây này cho đến khi cô ấy có thể nhìn thấy chúng trong đầu mình .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>During her second year at college , Miss Keller wrote the story of her life and what college meant to her .</s>
+<s id='vn66'>Trong năm thứ nhì của cô ấy ở trường cao đẳng , Cô Keller đã viết câu chuyện về đời mình và ngôi trường này có ý nghĩa như thế nào đối với cô .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>This is what she wrote :</s>
+<s id='vn67'>Đây là những gì cô ấy đã viết :</s>
+</spair>
+<spair id='68'>
+<s id='en68'>My first day at Radcliffe College was of great interest .</s>
+<s id='vn68'>Ngày đầu tiên của tôi ở Trường cao đẳng Radcliffe thật thú vị .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Some powerful force inside me made me test my mind .</s>
+<s id='vn69'>Một nội lực mạnh mẽ bắt tôi phải thử thách trí óc mình .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>I wanted to learn if it was as good as that of others .</s>
+<s id='vn70'>Tôi muốn học nếu như nó cũng có ích như đối với người khác .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>I learned many things at college .</s>
+<s id='vn71'>Tôi học được nhiều thứ ở trường cao đẳng .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>One thing , I slowly learned was that knowledge does not just mean power , as some people say .</s>
+<s id='vn72'>Có một điều dần dần tôi ngộ ra rằng kiến thức không có nghĩa chỉ là quyền lực như người ta nói .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>Knowledge leads to happiness , because to have it is to know what is true and real .</s>
+<s id='vn73'>Kiến thức mang đến hạnh phúc vì có kiến thức người ta mới biết đâu là đúng , đâu là thật .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>To know what great men of the past have thought , said and done is to feel the heartbeat of humanity down through the ages .</s>
+<s id='vn74'>Để biết được những gì các bậc tiền nhân đã nghĩ , nói và làm thì phải cảm nhận được nhịp đập của lòng nhân đạo xuyên suốt lịch sử .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>All of Helen Keller 's knowledge reached her mind through her sense of touch and smell , and of course her feelings .</s>
+<s id='vn75'>Tất cả những kiến thức Helen Keller có được trong đầu mình là nhờ các giác quan của xúc giác và vị khứu giác , và dĩ nhiên là cảm giác của cô ấy nữa .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>To know a flower was to touch it , feel it , and smell it .</s>
+<s id='vn76'>Biết biết một bông hoa thì phải chạm vào nó , cảm thấy nó , và ngửi mùi hương của nó .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>This sense of touch became greatly developed as she got older .</s>
+<s id='vn77'>Khi cô càng lớn thì xúc giác càng phát triển mạnh .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,324 @@
+﻿<doc id='N0470'>
+<head>
+<title>Reading books to babies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Reading books to babies</s>
+<s id='vn1'>Đọc sách cho bé nghe</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Jacob loves books .</s>
+<s id='vn2'>Jacob rất thích sách .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>His mom knows this because when she sits down to read to him every night , he waves his arms excitedly .</s>
+<s id='vn3'>Mẹ em biết điều này vì hễ khi nào mẹ ngồi đọc sách cho em nghe mỗi tối là em cứ quơ tay một cách hào hứng .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>His favorite page of " Goodnight Moon " shows a cow jumping over the moon .</s>
+<s id='vn4'>Trang mà Jacob thích nhất đó là " Goodnight Moon " có hình một con bò đang nhảy qua mặt trăng .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>He squeals and reaches for the book every time he sees it .</s>
+<s id='vn5'>Hễ thấy hình này là cu cậu la toáng và với tới quyển sách cho bằng được .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>When she is done reading , his mom usually lets him hold the sturdy board book , which he promptly sticks into his mouth .</s>
+<s id='vn6'>Khi mẹ đọc xong , mẹ thường cho em cầm quyển sách có bìa cứng thế là em liền cho vào miệng gặm ngay tức khắc .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Jacob is only 6 months old , but he is already well on his way to becoming a reader .</s>
+<s id='vn7'>Jacob chỉ mới 6 tháng tuổi thôi nhưng cu cậu đã tỏ ra là một người rất mê đọc sách rồi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Why read to my baby ?</s>
+<s id='vn8'>Tại sao cần phải đọc sách cho bé nghe ?</s>
+</spair>
+<spair id='9'>
+<s id='en9'>You may wonder about the benefits of reading to your baby .</s>
+<s id='vn9'>Có lẽ là bạn cũng phân vân về những lợi ích của việc đọc sách cho bé nghe .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>An infant wo n't understand everything you 're doing or why .</s>
+<s id='vn10'>Trẻ sơ sinh không hiểu được những điều bạn làm hoặc lý do gì mà bạn làm như thế .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But you would n't wait until your child could understand what you were saying before you started speaking to him or her , right ?</s>
+<s id='vn11'>Nhưng bạn cũng sẽ chẳng chờ cho đến khi nào bé có thể hiểu điều bạn nói trước khi bạn bắt đầu trò chuyện với bé , đúng không nào ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>And you would n't bypass lullabies until your baby could carry a tune or wait until he or she could shake a rattle before you offered any toys .</s>
+<s id='vn12'>Và ắt là bạn cũng sẽ hát ru con chứ không chờ cho đến lúc bé có thể bắt giai điệu hoặc đến khi con mình có thể lắc được cái trống lắc trước khi cho bé món đồ chơi nào .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Reading aloud to your baby is a wonderful shared activity you can continue for years to come - and it 's an important form of stimulation .</s>
+<s id='vn13'>Việc đọc to cho bé nghe là một hoạt động chia sẻ tuyệt vời , bạn có thể tiếp tục phát huy đến nhiều năm sau nữa - đây là một hình thức kích thích quan trọng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Reading aloud :</s>
+<s id='vn14'>Đọc to :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>* teaches a baby about communication</s>
+<s id='vn15'>* tập cho bé giao tiếp</s>
+</spair>
+<spair id='16'>
+<s id='en16'>* introduces concepts such as stories , numbers , letters , colors , and shapes in a fun way</s>
+<s id='vn16'>* chỉ cho bé biết các khái niệm như truyện , số đếm , chữ cái , màu sắc , và hình dạng bằng một cách thức vui nhộn</s>
+</spair>
+<spair id='17'>
+<s id='en17'>* builds listening , memory , and vocabulary skills</s>
+<s id='vn17'>* xây dựng các kỹ năng nghe , nhớ và vốn từ</s>
+</spair>
+<spair id='18'>
+<s id='en18'>* gives babies information about the world around them</s>
+<s id='vn18'>* cung cấp cho bé những thông tin về thế giới xung quanh mình</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Believe it or not , by the time babies reach their first birthday they will have learned all the sounds needed to speak their native language .</s>
+<s id='vn19'>Bạn có tin là trước một tuổi bé sẽ học và nhận biết tất cả các âm thanh cần thiết để có thể nói được ngôn ngữ mẹ đẻ của mình không ? .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The more stories you read aloud , the more words your child will be exposed to and the better he or she will be able to talk .</s>
+<s id='vn20'>Bạn càng đọc nhiều truyện cho bé nghe thì vốn từ của bé có thể diễn tả được càng nhiều và bé sẽ có thể nói tốt hơn hoặc bé có thể nói được nhiều từ hơn .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Hearing words helps to build a rich network of words in a baby 's brain .</s>
+<s id='vn21'>Hoạt động nghe hiểu , tiếp nhận từ ngữ giúp cho não bé hình thành và xây dựng một hệ thống từ hết sức phong phú .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Kids whose parents frequently talk or read to them know more words by age 2 than children who have not been read to .</s>
+<s id='vn22'>Trẻ có bố mẹ trò chuyện hoặc đọc sách cho nghe thường xuyên thường biết nhiều từ ngữ hơn vào giai đoạn lên 2 tuổi hơn những trẻ không được người khác đọc cho nghe .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>And kids who are read to during their early years are more likely to learn to read at the right time .</s>
+<s id='vn23'>Thêm nữa , trẻ được đọc cho nghe suốt những năm đầu đời có thể dễ dàng biết đọc hơn vào một lúc phù hợp nào đó .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>When reading , your child hears you using many different emotions and expressive sounds , which fosters social and emotional development .</s>
+<s id='vn24'>Khi đọc sách , con bạn sẽ được nghe bạn sử dụng rất nhiều âm thanh diễn cảm và thể hiện nhiều cảm xúc khác nhau , những điều ấy giúp bé phát triển về mặt xã hội và cảm xúc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Reading also invites your baby to look , point , touch , and answer questions - all of which promote social development and thinking skills .</s>
+<s id='vn25'>Việc đọc sách này cũng lôi cuốn bé nhìn , chỉ trỏ , sờ chạm , và trả lời câu hỏi - tất cả thúc đẩy sự phát triển về mặt xã hội và kỹ năng suy nghĩ của bé .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Your baby improves language skills by imitating sounds , recognizing pictures , and learning words .</s>
+<s id='vn26'>Bé sẽ nâng cao kỹ năng ngôn ngữ bằng cách bắt chước các âm thanh , nhận diện ra hình ảnh , và học được nhiều từ ngữ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>But perhaps the most important reason to read aloud is that it makes a connection between the things your baby loves the most - your voice and closeness to you - and books .</s>
+<s id='vn27'>Nhưng có lẽ lý do quan trọng nhất của việc đọc sách cho bé nghe là tạo mối liên hệ kết nối những điều bé thích nhất - đó là giọng của bạn , sự gần gũi với bạn - và sách .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Spending time reading to your baby shows that reading is a skill worth learning .</s>
+<s id='vn28'>Việc dành thời gian đọc sách cho bé nghe cho thấy rằng đọc sách là một kỹ năng đáng để học tập .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Different ages , different stages</s>
+<s id='vn29'>Từng độ tuổi khác nhau , từng giai đoạn khác nhau</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Young babies may not know what the pictures in a book mean , but they can focus on them , especially faces , bright colors , and contrasting patterns .</s>
+<s id='vn30'>Trẻ nhỏ có lẽ là không biết được những bức ảnh trong sách có nghĩa gì đâu , nhưng bù lại chúng có thể tập trung nhìn các hình đó được , nhất là gương mặt , các màu sắc tươi sáng và các kiểu hình tương phản nhau .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Read or sing lullabies and nursery rhymes to interest and soothe your infant .</s>
+<s id='vn31'>Đọc cho bé nghe hoặc hát ru cho bé giúp trẻ thích thú và giúp bạn vuốt ve , dỗ dành cho chúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Between 4 and 6 months , your baby may begin to show more interest in books .</s>
+<s id='vn32'>Giai đoạn từ 4 đến 6 tháng tuổi , bé có thể bắt đầu tỏ ra thích thú sách nhiều hơn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>He or she will grab and hold books , but will mouth , chew , and drop them as well .</s>
+<s id='vn33'>Chúng có thể nắm , chộp lấy sách nhưng cũng bỏ ngay vào miệng , nhai và làm rớt sách liền .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Choose sturdy vinyl or cloth books with bright colors and repetitive or rhyming text .</s>
+<s id='vn34'>Bạn nên chọn cho bé những quyển sách bằng nhựa cứng hoặc bằng vải có màu mắc sáng và nội dung lặp đi lặp lại hoặc có giai điệu ăn vần với nhau .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Between 6 and 12 months , your child is beginning to understand that pictures represent objects , and most likely will develop preferences for certain pictures , pages , or even entire stories .</s>
+<s id='vn35'>Bé từ 6 đến 12 tháng có thể bắt đầu hiểu hình ảnh tượng trưng cho vật thể và hầu hết đều phát triển sở thích đối với các hình ảnh , các trang sách hoặc thậm chí là toàn bộ câu chuyện nào đó .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Your baby will respond while you read , grabbing for the book and making sounds , and by 12 months will turn pages ( with some help from you ) , pat or start to point to objects on a page , and repeat your sounds .</s>
+<s id='vn36'>Vào lứa tuổi này , con bạn có thể phản ứng khi nghe bạn đọc , như chộp lấy sách và gây nên những âm thanh , bé cũng thích lật sang trang ( với sự trợ giúp của bạn ) , bé vỗ hoặc bắt đầu chỉ trỏ vào những vật thể trên trang sách và lặp lại những âm thanh của bạn .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>When and How to Read</s>
+<s id='vn37'>Đọc cho bé nghe khi nào và đọc như thế nào</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Here 's a great thing about reading aloud : It does n't take special skills or equipment , just you , your baby , and some books .</s>
+<s id='vn38'>Đây là một điều hết sức quan trọng đối với việc đọc cho bé nghe : Không cần thiết phải có kỹ năng gì đặc biệt hay một thiết bị gì , mà chỉ cần bạn , con bạn và một vài quyển sách .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Read aloud for a few minutes at a time , but do it often .</s>
+<s id='vn39'>Bạn nên đọc cho bé nghe một vài phút , nhưng nhớ là nên đọc thường xuyên nhé .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Do n't worry about finishing entire books - focus on pages that you and your baby enjoy .</s>
+<s id='vn40'>Đừng lo ngại việc bạn đã đọc hết sách rồi – nên tập trung vào những trang mà cả bé và bạn yêu thích .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Try to set aside time to read every day - perhaps before naptime and bedtime .</s>
+<s id='vn41'>Bạn nên cố gắng dành thời gian để đọc cho bé nghe mỗi ngày – có thể là trước giờ ngủ trưa và trước giờ ngủ tối .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>In addition to the pleasure that cuddling your baby before bed gives both of you , you 'll also be making life easier by establishing a routine .</s>
+<s id='vn42'>Ngoài niềm vui được ôm ấp , vuốt ve con trước khi đi ngủ đối với cả bé và bạn thì việc ấy cũng làm cho cuộc sống của bạn trở nên nhẹ nhàng hơn bằng cách lập nên một thói quen thường nhật .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>This will help to calm your baby and set expectations about when it 's time to sleep .</s>
+<s id='vn43'>Thói quen này sẽ giúp dỗ dành cho bé và giúp bé hình thành được khái niệm về giờ giấc đi ngủ .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>It 's also good to read at other points in the day .</s>
+<s id='vn44'>Bạn cũng nên đọc cho bé nghe vào một thời điểm khác trong ngày .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Choose times when your baby is dry , fed , and alert .</s>
+<s id='vn45'>Hãy lựa lúc bé sạch sẽ , thoải mái , no bụng và tỉnh táo .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Books also come in handy when you 're stuck waiting , so have some in the diaper bag to fill time sitting at the doctor 's office or standing in line at the grocery store .</s>
+<s id='vn46'>Sách cũng rất hữu ích khi bạn phải chờ đợi cái gì đó , vì vậy hãy để vài quyển vào giỏ đựng tã để giết thời gian khi bạn phải ngồi chờ ở phòng khám của bác sĩ hay đứng xếp hàng ở cửa hàng tạp hoá .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Here are some additional reading tips :</s>
+<s id='vn47'>Dưới đây là một số bí quyết hỗ trợ thêm cho việc đọc sách :</s>
+</spair>
+<spair id='48'>
+<s id='en48'>* Cuddling while you read helps your baby feel safe , warm , and connected to you .</s>
+<s id='vn48'>* Âu yếm bé trong lúc đọc sách có thể làm cho bé cảm thấy an toàn , ấm áp và gần gũi với bạn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>* Read with expression , pitching your voice higher or lower where it 's appropriate or using different voices for different characters .</s>
+<s id='vn49'>* Bạn hãy đọc thật diễn cảm , lấy giọng cao hơn hoặc nén giọng trầm xuống ở những chỗ thích hợp hoặc sử dụng nhiều giọng điệu khác nhau cho từng nhân vật khác nhau .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>* Do n't worry about following the text exactly .</s>
+<s id='vn50'>* Đừng quan tâm tới việc phải theo đúng chính xác những gì có trong sách .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Stop once in a while and ask questions or make comments on the pictures or text .</s>
+<s id='vn51'>Thỉnh thoảng dừng lại một chút và đặt câu hỏi cho bé hoặc bình luận về những bức ảnh hoặc bài đọc .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>( " Where 's the kitty ?</s>
+<s id='vn52'>( " Mèo con đâu rồi ?</s>
+</spair>
+<spair id='53'>
+<s id='en53'>There he is !</s>
+<s id='vn53'>Ồ , nó ở đó kìa !</s>
+</spair>
+<spair id='54'>
+<s id='en54'>What a cute black kitty . " )</s>
+<s id='vn54'>Ôi con mèo mun đen dễ thương quá ! ... )</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Your child might not be able to respond yet , but this lays the groundwork for doing so later on .</s>
+<s id='vn55'>Con của bạn có thể là chưa trả lời được , nhưng việc này cũng giúp cho bé có được nền tảng để đưa ra câu trả lời về sau .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>* Sing nursery rhymes , make funny animal sounds , or bounce your baby on your knee - anything that shows that reading is fun .</s>
+<s id='vn56'>* Bạn nên hát những bài hát ru , làm những âm thanh vui nhộn của thú vật , hoặc nhấc bổng con trên đầu gối của mình – bất cứ điều gì cho thấy việc đọc sách là niềm vui .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>* Babies love - and learn from - repetition , so do n't be afraid of reading the same books over and over .</s>
+<s id='vn57'>* Trẻ con rất thích – và học từ việc lặp đi lặp lại , vì vậy bạn đừng lo ngại về việc phải đọc cho bé nghe hết lần này đến lần khác cùng một quyển sách .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>When you do so , repeat the same emphasis each time as you would with a familiar song .</s>
+<s id='vn58'>Khi bạn đọc như thế , mỗi lần hãy nhấn giọng như trước giống như bạn hát cho bé nghe một bài hát quen thuộc .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>* As your baby gets older , encourage him or her to touch the book or hold sturdier vinyl , cloth , or board books .</s>
+<s id='vn59'>* Khi con bạn lớn hơn , hãy khuyến khích bé sờ chạm vào sách hoặc cầm những quyển sách bằng nhựa , vải hoặc sách có bìa cứng hơn .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>You do n't want to encourage chewing on books , but by putting them in his or her mouth , your baby is learning about them , finding out how books feel and taste - and discovering that they 're not edible !</s>
+<s id='vn60'>Bạn không thích khuyến khích bé nhai sách , nhưng việc bỏ sách vô miệng như vậy , bé cũng khám phá xem sách có hương vị như thế nào , cảm giác ra sao – và bé phát hiện ra rằng sách không phải là thứ có thể ăn được !</s>
+</spair>
+<spair id='61'>
+<s id='en61'>What to Read</s>
+<s id='vn61'>Bạn nên đọc những gì</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Books for babies should have simple , repetitive text and clear pictures .</s>
+<s id='vn62'>Sách cho bé phải nên có hình ảnh rõ ràng , bài đọc đơn giản và lặp đi lặp lại nhiều lần .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>During the first few months of life , your child just likes to hear your voice , so you can read almost anything , especially books with a sing-song or rhyming text .</s>
+<s id='vn63'>Trong một vài tháng đầu đời , con bạn chỉ thích nghe giọng của bạn thôi , vì vậy bạn có thể đọc cho bé nghe hầu như bất cứ thứ gì có thể , nhất là những sách có bài hát hoặc bài đọc có vần có điệu .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>As your baby gets more interested in looking at things , choose books with simple pictures against solid backgrounds .</s>
+<s id='vn64'>Khi bé trở nên thích nhìn nhiều thứ hơn , chọn những quyển sách có hoạ tiết đơn giản trên nền cứng .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Once your baby begins to grab , read vinyl or cloth books with faces , bright colors , and shapes .</s>
+<s id='vn65'>Khi con bạn bắt đầu thích chộp thì nên đọc những quyển sách bằng nhựa hoặc vải có hình các gương mặt , màu sắc tươi sáng , và nhiều kiểu dáng .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>When your baby begins to respond to what 's inside of books , add board books with pictures of babies or familiar objects like toys .</s>
+<s id='vn66'>Khi bé đã bắt đầu hiểu được những điều bên trong sách , nên chọn thêm những sách có bìa cứng với nhiều hình ảnh của các em bé hoặc các vật dụng quen thuộc như đồ chơi .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>When your child begins to do things like sit up in the bathtub or eat finger foods , find simple stories about daily routines like bedtime or bathtime .</s>
+<s id='vn67'>Khi bé bắt đầu có thể ngồi bật dậy trong bồn tắm hoặc bốc được thức ăn bằng tay , nên tìm các mẫu truyện ngắn về các hoạt động thường nhật như giờ ngủ hoặc giờ đi tắm .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>When talking starts , choose books that invite babies to repeat simple words or phrases .</s>
+<s id='vn68'>Khi bé bước qua giai đoạn bắt đầu biết nói thì những sách khuyến khích cho bé lặp lại các từ hoặc cụm từ đơn giản là thích hợp với bé nhất .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>Books with mirrors and different textures are also great for this age group , as are fold-out books that can be propped up , or books with flaps that open for a surprise .</s>
+<s id='vn69'>Sách có nhiều hình ảnh thật và nhiều cách trình bày khác nhau cũng rất tốt cho nhóm tuổi này , cũng như những sách có thể gấp mở được giúp bé có thể xếp lại , hoặc những sách có mép gấp để mở ra có thể làm cho bé bất ngờ .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>Board books make page turning easier for infants and vinyl or cloth books can go everywhere - even the tub .</s>
+<s id='vn70'>Sách có bìa thường giúp trẻ nhỏ lật sang trang dễ dàng hơn và sách bằng nhựa hoặc bằng vải có thể mang đi bất kỳ đâu – thậm chí là vào bồn tắm cũng được .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Babies of any age like photo albums with pictures of people they know and love .</s>
+<s id='vn71'>Trẻ nhỏ ở mọi lứa tuổi đều thích xem những album hình người quen .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>And every baby should have a collection of nursery rhymes !</s>
+<s id='vn72'>Và yêu thích của chúng và em bé nào cũng nên có một bộ sưu tập về các bài hát ru !</s>
+</spair>
+<spair id='73'>
+<s id='en73'>One of the best ways you can ensure that your little one grows up to be a reader is to have books around your house .</s>
+<s id='vn73'>Một trong những cách hay nhất mà bạn có thể chắc rằng lớn lên con mình sẽ trở thành một người ham mê đọc sách đó là nên để khắp nơi trong nhà .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>When your baby is old enough to crawl over to a basket of toys and pick one out , make sure some books are included in the mix .</s>
+<s id='vn74'>Khi bé bắt đầu biết bò tới rổ đồ chơi và bốc ra một thứ nào đó thì bạn nên để vài quyển sách lẫn lộn trong đống đồ chơi đó nhé .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>In addition to the books you own , take advantage of those you can borrow from the library .</s>
+<s id='vn75'>Ngoài những quyển sách bạn có ở nhà , bạn có thể tận dụng những sách có thể mượn ở thư viện .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>Many libraries have storytime just for babies , too .</s>
+<s id='vn76'>Nhiều thư viện hiện cũng đã định giờ đọc truyện cho bé .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>Do n't forget to pick up a book for yourself while you 're there .</s>
+<s id='vn77'>Đừng quên chọn cho mình một quyển khi bạn vào thư viện với bé nhé .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>Reading for pleasure is another way you can be your baby 's reading role model .</s>
+<s id='vn78'>Đọc sách để thư giãn cũng là một cách để bạn có thể làm gương cho việc đọc sách của con mình .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,88 @@
+﻿<doc id='N0168'>
+<head>
+<title>Afghanistan : Taliban gunmen attack Kandahar police base</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Afghanistan : Taliban gunmen attack Kandahar police base</s>
+<s id='vn1'>Afghanistan : các tay súng Taliban tấn công căn cứ cảnh sát ở Kandahar</s>
+</spair>
+<spair id='2'>
+<s id='en2'>At least three militants have been killed in an attack on a police training centre outside the southern Afghan city of Kandahar , witnesses say .</s>
+<s id='vn2'>Ít nhất ba chiến binh đã chết trong vụ tấn công vào trung tâm huấn luyện cảnh sát bên ngoài thành phố Kandahar miền nam Afghanistan , các nhân chứng cho biết .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>There are also reports of police casualties in the battle .</s>
+<s id='vn3'>Cũng có các báo cáo về thương vong của phía cảnh sát trong trận đánh .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>The Taliban say they carried out this attack .</s>
+<s id='vn4'>Phe Taliban nói rằng họ thực hiện về vụ tấn công này .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A number of men armed with rocket propelled grenades and automatic weapons stormed this centre .</s>
+<s id='vn5'>Rất nhiều người trang bị lựu đạn phóng bằng rốc-két và vũ khí tự động đã tràn vào trung tâm này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Tens of thousands of Afghan police and troops are being trained to assume full security control once NATO leaves .</s>
+<s id='vn6'>Hàng chục ngàn cảnh sát và binh lính Afghanistan đang được huấn luyện để đảm nhiệm toàn bộ việc kiểm soát an ninh một khi NATO rút đi .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Afghan forces are frequently targeted by the Taliban and their allies who want to oust the Western-backed government of Hamid Karzai in Kabul .</s>
+<s id='vn7'>Các lực lượng Afghanistan thường xuyên bị tấn công bởi Taliban và các đồng minh của họ , các bên muốn loại bỏ chính quyền được Phương Tây hỗ trợ của Hamid Karzai ở Kabul .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Kandahar has experienced some of the worst of the violence in Afghanistan in recent years and is seen as the spiritual homeland of the Taliban .</s>
+<s id='vn8'>Những năm gần đây , Kandahar đã trải qua những thời điểm bạo lực tồi tệ nhất ở Afghanistan và được xem là quê hương tinh thần của phe Taliban .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" Fragile progress "</s>
+<s id='vn9'>" Tiến bộ mong manh "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The gun battle inside the police training and recruitment centre lasted more than an hour .</s>
+<s id='vn10'>Cuộc đọ súng bên trong trung tâm tuyển mộ và huấn luyện cảnh sát kéo dài hơn một giờ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Witnesses heard a number of explosions .</s>
+<s id='vn11'>Các nhân chứng nghe thấy vô số tiếng nổ .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Reports say one or more suicide bombers could have been involved .</s>
+<s id='vn12'>Các tường thuật cho biết một hoặc nhiều người đánh bom tự sát có thể đã dính líu .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>This area was sealed off and helicopters were seen flying overhead .</s>
+<s id='vn13'>Khu vực này bị phong tỏa và người ta thấy có nhiều trực thăng đang quần đảo bên trên .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Kandahar has seen a number of insurgent attacks on police in recent months .</s>
+<s id='vn14'>Trong những tháng qua , Kandahar đã chứng kiến vô số các vụ tấn công của phe nổi dậy vào cảnh sát .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>In February , 19 people were killed in an assault on this city 's police headquarters .</s>
+<s id='vn15'>Trong tháng hai , có 19 người chết trong một đợt tấn công vào bản doanh cảnh sát ở thành phố này .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The BBC 's Paul Wood in Kabul says Nato carried out a big operation in Kandahar and the surrounding area last year - halting and then reversing the Taliban 's momentum , according to senior officers .</s>
+<s id='vn16'>Paul Wood , phóng viên của BBC tại Kabul , thuật lại lời các sĩ quan cao cấp cho biết , năm trước Nato đã tiến hành một chiến dịch lớn tại Kabul và khu vực chung quanh - ngăn chặn và đảo ngược đà công của Taliban .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>NATO officers acknowledge that progress is " fragile " .</s>
+<s id='vn17'>Các sĩ quan NATO nhìn nhận rằng tiến bộ " mong manh " .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Police and government officials are still regularly targeted .</s>
+<s id='vn18'>Các viên chức cảnh sát và chính phủ vẫn thường xuyên bị đột kích .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The fighting season - as it is known - is also about to begin and all sides are expecting the level of violence to increase , our correspondent adds .</s>
+<s id='vn19'>Phóng viên bản đài cho biết thêm , giai đoạn đánh nhau - như được biết - cũng sắp bắt đầu và tất cả các bên đều dự đoán mức độ bạo lực sẽ gia tăng .</s>
+</spair>
+</text>
+</doc>

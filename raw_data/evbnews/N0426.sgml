@@ -1,0 +1,280 @@
+﻿<doc id='N0426'>
+<head>
+<title>The Best And Worst Investing Advice</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>The Best And Worst Investing Advice</s>
+<s id='vn1'>Lời tư vấn đầu tư tốt nhất và tệ nhất</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Investing is a confusing endeavor for many people , so much so that an entire industry has grown up around giving advice to those in need .</s>
+<s id='vn2'>Đầu tư là hoạt động kinh doanh rối rắm với nhiều người , nhiều đến nỗi cả một ngành tư vấn đã phát triển rộng khắp cho những người có nhu cầu .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Sometimes that advice works out , sometimes it doesn't .</s>
+<s id='vn3'>Tư vấn nhiều khi tháo gỡ được rắc rối , nhiều khi không .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Let 's look at few timeworn concepts that don't always work out so well for investors despite the industry 's recommendations .</s>
+<s id='vn4'>Chúng ta thử tìm hiểu một số quan niệm lỗi thời không bao giờ giải quyết vấn đề của nhà đầu tư một cách rốt ráo dù là những khuyến cáo của giới chuyên gia tư vấn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>There are few absolutes in the world of investing , but for decades leading up to the late 2000s , there were a few Wall Street mantras that investors were told over and over again .</s>
+<s id='vn5'>Trong giới đầu tư , có một vài chân lý , nhưng trong nhiều thập niên đến cuối những năm 2000 , có một số lời khuyên phổ biến ở Phố Wall các nhà đầu tư được nghe đến rất nhiều lần .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Here are some of the best and the worst investing advice you 've probably heard .</s>
+<s id='vn6'>Sau đây là một số lời tư vấn đầu tư tốt nhất và tệ nhất có lẽ bạn đã từng nghe .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Advice to Reconsider</s>
+<s id='vn7'>Lời tư vấn cần được xem xét lại</s>
+</spair>
+<spair id='8'>
+<s id='en8'>1 . Diversify</s>
+<s id='vn8'>1 . Đa dạng hoá</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Diversification has long been held up as a way to protect your portfolio .</s>
+<s id='vn9'>Việc đa dạng hoá được duy trì lâu dài như là cách bảo vệ danh mục đầu tư của bạn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>This theory holds that when some investments lose value , others will gain .</s>
+<s id='vn10'>Quan niệm này cho rằng khi một số khoản đầu tư mất giá , những khoản khác sẽ được giá .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>For example , investing in emerging markets and small cap stocks instead of just blue chips is touted as a way to protect your portfolio .</s>
+<s id='vn11'>Chẳng hạn , khuyến khích đầu tư vào những thị trường mới nổi và cổ phiếu của công ty nhỏ thay vì chỉ chọn cổ phiếu những công ty hàng đầu như là cách để bảo vệ danh mục đầu tư .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>A global recession can override that theory .</s>
+<s id='vn12'>Tình trạng suy thoái kinh tế phạm vi toàn cầu có thể gạt bỏ quan niệm đó .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>2 . Buy Term and Invest the Rest</s>
+<s id='vn13'>2 . Mua bảo hiểm Kỳ Hạn và Đầu Tư</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Whole life insurance policies have been panned for decades .</s>
+<s id='vn14'>Những hợp đồng bảo hiểm nhân thọ trọn đời bị chỉ trích gay gắt trong nhiều thập niên .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Critics cite the low rate of return they provide and highlight how investing in the stock market can provide significantly greater gains .</s>
+<s id='vn15'>Những người chỉ trích viện dẫn rằng chúng đem lại mức lợi nhuận thấp và nhấn mạnh đầu tư vào thị trường chứng khoán có thể kiếm được khoản tiền lời lớn hơn rất nhiều .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>While it is true that whole life policies pay low rates of interest , any positive rate of return beats the negative 40% delivered by the last bear market .</s>
+<s id='vn16'>Mặc dù đúng là các hợp đồng bảo hiểm nhân thọ trả lãi suất thấp , bất kỳ mức lợi nhuận tích cực cũng có thể bị sụt giảm xuống âm 40% bởi thị trường rớt giá trong thời gian dài sau cùng .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>3 . Money Markets are as Safe as Cash</s>
+<s id='vn17'>3 . Các thị trường tiền tệ An Toàn như tiền mặt</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Money market accounts have been marketed as " safe " for so long that ( 401k ) plans often list them as " cash " .</s>
+<s id='vn18'>Các tài khoản ký thác thị trường tiền tệ đã được tiếp thị là " An Toàn " từ rất lâu đến nỗi ( kế hoạch 401K ) thường liệt kê chúng là " tiền mặt " .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The flash crash serves as a stark reminder to investors about the need to truly understanding their portfolios .</s>
+<s id='vn19'>Sự phá sản hàng loạt trong nháy mắt có tác dụng như lời cảnh tỉnh nghiêm khắc cho những nhà đầu tư về sự cần thiết phải hiểu biết đúng đắn các khoản đầu tư của mình .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>4 . Don't Pay Off Your Mortgage</s>
+<s id='vn20'>4 . Đừng trả hết nợ thế chấp</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The logic stated that investing your money would generate a greater return than paying off your mortgage .</s>
+<s id='vn21'>Lập luận lôgic cho rằng dùng tiền đem đầu tư sẽ tạo ra lợi nhuận lớn hơn nhiều so với đem trả hết khoản nợ thế chấp bạn .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>When bear markets hit , this logic goes out the window .</s>
+<s id='vn22'>Khi xảy ra tình trạng thị trường rớt giá , cái lôgic này tiêu tan ngay .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Sure , real estate values can fall too , but even in a declining real estate market the bank doesn't foreclose on a home that is paid off .</s>
+<s id='vn23'>Đương nhiên , giá trị bất động sản cũng giảm xuống , nhưng ngay cả trong thị trường nhà đất suy thoái , ngân hàng cũng không tịch thu căn nhà được trả hết .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>5 . Real Estate is a Safe Investment</s>
+<s id='vn24'>5 . Đầu tư vào bất động sản là chắc ăn</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The idea that you house would always increase in value seemed like a safe premise .</s>
+<s id='vn25'>Quan niệm ngôi nhà của bạn luôn tăng giá dường như là một tiền đề chắc chắn .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Multiple years of hefty price declines debunked this myth .</s>
+<s id='vn26'>Nhiều năm giảm giá khủng khiếp lật tẩy chuyện hoang đường này .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>6 . Holding Many Stocks Provides Diversification</s>
+<s id='vn27'>6 . Nắm giữ nhiều cổ phiếu mang lại sự đa dạng trong đầu tư</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This timeworn gem fails to hold up when a global recession pushes nearly all stock markets down .</s>
+<s id='vn28'>Tài sản giá trị dễ hao mòn này sẽ không còn khi một cuộc suy thoái toàn cầu đẩy hầu hết mọi thị trường chứng khoán đi xuống .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Yes , there are exceptions , as a few markets always manage to stay positive , but not many investors manage to pick the right markets in advance .</s>
+<s id='vn29'>Đồng ý , có những ngoại lệ , một số thị trường vẫn cố gắng trụ vững , nhưng không nhiều nhà đầu tư biết cách để chọn đúng thị trường trước .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>7 . Fixed Rate Annuities are a Bad Investment</s>
+<s id='vn30'>7 . Niên kim lãi suất cố định là khoản đầu tư kém hiệu quả</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Fixed-rate annuities have been heavily criticized for their hefty fees and complex rules .</s>
+<s id='vn31'>Niên kim lãi suất cố định đã bị chỉ trích nặng nề vì phí cao và quy định phức tạp của chúng .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>None of those factors seemed to bother annuity investors who enjoy positive returns throughout even the worst bear markets .</s>
+<s id='vn32'>Không yếu tố nào trong những yếu tố đó có vẻ gây lo lắng cho những nhà đầu tư niên kim thích lợi nhuận tích cực suốt quá trình ngay cả những giai đoạn thị trường rớt đến mức tồi tệ nhất .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Is It Really Bad Advice ?</s>
+<s id='vn33'>Đó thật sự là lời tư vấn sai lầm ?</s>
+</spair>
+<spair id='34'>
+<s id='en34'>So are all of those common bits of advice simply bad ?</s>
+<s id='vn34'>Vậy tất cả những lời tư vấn phổ biến đó hoàn toàn sai lầm ?</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Perhaps not at the time there were given , but none of them work out too well for investors expecting to retire when a major bear market hits and the global economy meltdown on all fronts .</s>
+<s id='vn35'>Vào thời điểm chúng được đưa ra thì có thể là không , nhưng không có lời tư vấn nào trong số ấy hữu dụng đối với những nhà đầu tư mong muốn rút lui khi xảy ra tình trạng thị trường rớt giá thảm hại và sự đổ vỡ kinh tế toàn cầu trên mọi phương diện .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Keep in mind that any idea is a good one until it doesn't work .</s>
+<s id='vn36'>Lưu ý rằng lời khuyên nào cũng rất hay cho đến khi nó không còn tác dụng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Advice That Never Goes Out of Style</s>
+<s id='vn37'>Lời tư vấn không bao giờ cũ</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Like a broken clock , all advice is good at least once in a while .</s>
+<s id='vn38'>Giống như chiếc đồng hồ đã hỏng , mọi lời tư vấn cũng đúng ít nhất một đôi lần .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>If you are looking for timeless gems like the little black dress that never goes out of style , consider these …</s>
+<s id='vn39'>Nếu bạn đang tìm kiếm những thứ có giá trị vĩnh viễn , như cái áo đầm đen nhỏ nhắn không bao giờ lỗi thời , hãy xem xét những lời sau ...</s>
+</spair>
+<spair id='40'>
+<s id='en40'>1 . Have a Plan</s>
+<s id='vn40'>1 . Có kế hoạch</s>
+</spair>
+<spair id='41'>
+<s id='en41'>This old cliché is true .</s>
+<s id='vn41'>Câu nói được lặp đi lặp lại từ lâu này luôn đúng .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Nobody plans to fail , but many fail to plan .</s>
+<s id='vn42'>Ai không lập kế hoạch sẽ thất bại , nhưng nhiều người không lập kế hoạch .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Having a comprehensive financial plan in place , understanding your goals , and proactively managing your investments are never bad ideas .</s>
+<s id='vn43'>Có sẵn một kế hoạch tài chính hoàn chỉnh , hiểu rõ những mục tiêu của mình , và chủ động quản lý các khoản đầu tư là những suy nghĩ không bao giờ sai .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>2 . Have a Cash Cushion</s>
+<s id='vn44'>2 . Có dự phòng tiền mặt</s>
+</spair>
+<spair id='45'>
+<s id='en45'>The emergency fund is always a classic fashion .</s>
+<s id='vn45'>Quỹ dự phòng luôn là thứ không bao giờ lỗi thời .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Like an insurance policy , you hope you never need to use it , but if you do , its there when you need it .</s>
+<s id='vn46'>Giống như một hợp đồng bảo hiểm , bạn hy vọng mình sẽ không bao giờ cần đến nó , nhưng nếu bạn có nó , nó sẽ hữu ích cho bạn khi cần .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>3 . Live Below Your Means</s>
+<s id='vn47'>3 . Hãy sống dưới mức có thể</s>
+</spair>
+<spair id='48'>
+<s id='en48'>If you make a habit of spending less that you earn , it will be much easier to survive if your earnings decline .</s>
+<s id='vn48'>Nếu bạn có thói quen chi tiêu ít hơn số tiền kiếm được , khi thu nhập bị giảm sút , bạn sẽ dễ dàng vượt qua tình trạng khốn khó ấy .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Losing your job is never fun , but losing your house and car too make the situation significantly worse .</s>
+<s id='vn49'>Mất việc chẳng có gì vui cả , nhưng mất nhà và xe còn khiến tình hình trở nên tồi tệ hơn rất nhiều .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>4 . Nothing is Risk Free</s>
+<s id='vn50'>4 . Không có gì là không có rủi ro</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Even money market funds can be problematic .</s>
+<s id='vn51'>Ngay cả những quỹ thị trường tiền tệ cũng có thể có vấn đề .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Don't even put money in an investment , even it is being sold to you by your best friend , with the idea that there is no way you can lose money .</s>
+<s id='vn52'>Vì vậy , với suy nghĩ không thể nào đánh mất tiền , đừng bỏ tiền vào một khoản đầu tư , ngay cả khi người bạn thân nhất của bạn bán khoản đầu tư ấy cho mình .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Bernie Madoff 's friends learned that lesson the hard way .</s>
+<s id='vn53'>Những người bạn của Bernie Madoff khó khăn lắm mới học thuộc bài học đó .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>5 . Nothing Rises Forever</s>
+<s id='vn54'>5 . Không có gì tăng lên mãi mãi</s>
+</spair>
+<spair id='55'>
+<s id='en55'>From the SP 500 to real estate prices , this little truism has proven itself over and over again .</s>
+<s id='vn55'>Từ chỉ số SP 500 đến giá cả nhà đất , chân lý đơn giản này đã được chứng minh rất nhiều lần .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>If there was ever a safe bet , this is it .</s>
+<s id='vn56'>Nếu có cái gì là chắc chắn , chính là nó vậy .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>6 . If it Sounds Too Good to be True , it is</s>
+<s id='vn57'>6 . Nếu điều gì nghe khó mà tin được , thì nó chưa đáng tin</s>
+</spair>
+<spair id='58'>
+<s id='en58'>Hope and greed cause investors do put their faith in the strangest things .</s>
+<s id='vn58'>Khao khát và hám lợi khiến nhà đầu tư dám đặt niềm tin của mình vào những thứ xa lạ .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Apply common sense before handing over your money .</s>
+<s id='vn59'>Hãy sử dụng óc phán đoán dựa trên sự hiểu biết chuyên môn trước khi đem tiền đi đầu tư .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>7 . Read the Disclosures</s>
+<s id='vn60'>7 . Đọc các bản cáo bạch :</s>
+</spair>
+<spair id='61'>
+<s id='en61'>This may be the most boring , least exciting concept , but remember ; Past performance is not indicative of future results ; this product is not insured by the Federal Deposit Insurance Corporation .</s>
+<s id='vn61'>Đây có thể là chỉ dẫn ít lý thú nhất , chán nhất , nhưng hãy nhớ lấy ; Kết quả ở quá khứ không cho biết kết quả trong tương lai ; sản phẩm này không được Công ty Bảo hiểm Tiền gửi Liên bang bảo hiểm .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>This product is not a deposit or other obligation of , or guaranteed by , the bank .</s>
+<s id='vn62'>Sản phẩm này không phải là tài sản ký thác hay trách nhiệm khác của ngân hàng , hoặc được ngân hàng bảo đảm .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>And last but not least , this product is subject to investment risks , including possible loss of the principle amount invested .</s>
+<s id='vn63'>Và cuối cùng nhưng không kém phần quan trọng , sản phẩm này thuộc diện những rủi ro trong đầu tư , bao gồm khả năng mất trắng số tiền vốn đầu tư .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>The Bottom Line</s>
+<s id='vn64'>Điểm mấu chốt</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Not all advice is good advice , but it isn't all bad either .</s>
+<s id='vn65'>Không phải mọi lời tư vấn đầu tư đều tốt hết , nhưng cũng không hoàn toàn là tồi cả .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>Learn as much as you can and make the decision for yourself .</s>
+<s id='vn66'>Hãy học hỏi càng nhiều càng tốt và tự ra quyết định cho bản thân .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>In the end , you 'll find what advice works best for you and your investing style .</s>
+<s id='vn67'>Cuối cùng , bạn sẽ tìm ra được lời tư vấn nào hữu ích nhất cho bạn và cách đầu tư của bạn .</s>
+</spair>
+</text>
+</doc>

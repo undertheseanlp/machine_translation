@@ -1,0 +1,312 @@
+﻿<doc id='N0440'>
+<head>
+<title>Inflation</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Inflation</s>
+<s id='vn1'>Lạm phát</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Introduction</s>
+<s id='vn2'>Giới thiệu</s>
+</spair>
+<spair id='3'>
+<s id='en3'>During World War II , you could buy a loaf of bread for $0.15 , a new car for less than $ 1,000 and an average house for around $ 5,000 .</s>
+<s id='vn3'>Trong Chiến tranh Thế giới 2 , bạn có thể mua một ổ bánh mỳ với 0,15 đô la Mỹ , một chiếc xe hơi mới với giá thấp hơn 1000 đô la và một căn nhà bình thường khoảng 5000 đô la .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>In the twenty-first century , bread , cars , houses and just about everything else cost more .</s>
+<s id='vn4'>Trong thế kỷ 21 , bánh mỳ , xe hơi , nhà cửa và hầu như mọi thứ khác đều đắt đỏ hơn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A lot more .</s>
+<s id='vn5'>Đắt hơn rất nhiều .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Clearly , we 've experienced a significant amount of inflation over the last 60 years .</s>
+<s id='vn6'>Rõ ràng , chúng ta đã trải qua rất nhiều lạm phát trong hơn 60 năm qua .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>When inflation surged to double-digit levels in the mid - to late-1970s , Americans declared it public enemy No.1 .</s>
+<s id='vn7'>Khi lạm phát lên đến mức hai con số trong giai đoạn nửa cuối thập niên 1970 , người Mỹ tuyên bố lạm phát là kẻ thù chung số 1 .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Since then , public anxiety has abated along with inflation , but people remain fearful of inflation , even at the minimal levels we 've seen over the past few years .</s>
+<s id='vn8'>Từ đó , mối bận tâm của công chúng đã lắng dịu cùng với lạm phát , nhưng người ta vẫn sợ lạm phát , thậm chí là lạm phát ở mức thấp nhất mà chúng ta đã chứng kiến trong những năm qua .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Although it 's common knowledge that prices go up over time , the general population does n't understand the forces behind inflation .</s>
+<s id='vn9'>Mặc dù mọi người đều biết giá cả tăng theo thời gian , nhiều người không biết những thế lực đằng sau lạm phát .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>What causes inflation ?</s>
+<s id='vn10'>Cái gì gây ra lạm phát ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>How does it affect your standard of living ?</s>
+<s id='vn11'>Nó ảnh hưởng đến mức sống của bạn như thế nào ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This tutorial will shed some light on these questions and consider other aspects of inflation .</s>
+<s id='vn12'>Bài hướng dẫn này sẽ làm sáng tỏ những vấn đề này và xem xét các khía cạnh khác của lạm phát .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What Is Inflation ?</s>
+<s id='vn13'>Lạm phát là gì ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Inflation is defined as a sustained increase in the general level of prices for goods and services .</s>
+<s id='vn14'>Lạm phát được định nghĩa là một sự gia tăng liên tục mức tổng quát giá cả các hàng hoá và dịch vụ .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>It is measured as an annual percentage increase .</s>
+<s id='vn15'>Được tính như một sự gia tăng tỷ lệ hàng năm .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>As inflation rises , every dollar you own buys a smaller percentage of a good or service .</s>
+<s id='vn16'>Khi lạm phát tăng , mỗi đồng đô la bạn sở hữu sẽ mua được tỷ lệ nhỏ hơn một món hàng hay dịch vụ nào đó hơn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>The value of a dollar does not stay constant when there is inflation .</s>
+<s id='vn17'>Giá trị một đồng đô la không bất biến khi có lạm phát .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The value of a dollar is observed in terms of purchasing power , which is the real , tangible goods that money can buy .</s>
+<s id='vn18'>Giá trị một đồng đô la được khảo sát về phương diện sức mua , nghĩa là hàng hoá hữu hình , có thực mà đồng tiền có thể mua được .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>When inflation goes up , there is a decline in the purchasing power of money .</s>
+<s id='vn19'>Khi lạm phát tăng lên , thì sức mua của đồng tiền giảm xuống .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>After inflation , your dollar ca n't buy the same goods it could beforehand .</s>
+<s id='vn20'>Sau lạm phát , đồng đô la của bạn không thể mua món hàng tương tự như đã mua trước đó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>There are several variations on inflation :</s>
+<s id='vn21'>Có một vài mức biến đổi về lạm phát :</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Deflation is when the general level of prices is falling .</s>
+<s id='vn22'>Giảm phát là khi mức tổng quát giá cả giảm .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>This is the opposite of inflation .</s>
+<s id='vn23'>Mức này trái với lạm phát .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Hyperinflation is unusually rapid inflation .</s>
+<s id='vn24'>Siêu lạm phát là lạm phát tăng nhanh bất thường .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>In extreme cases , this can lead to the breakdown of a nation 's monetary system .</s>
+<s id='vn25'>Trong những trường hợp đặc biệt , mức này có thể dẫn đến sự sụp đổ của hệ thống tiền tệ một quốc gia .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>One of the most notable examples of hyperinflation occurred in Germany in 1923 , when prices rose 2,500% in one month !</s>
+<s id='vn26'>Một trong những ví dụ đáng chú ý nhất về siêu lạm phát là sự kiện xảy ra ở Đức năm 1923 , khi giá cả tăng 2,500% trong một tháng .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Stagflation is the combination of high unemployment and economic stagnation with inflation .</s>
+<s id='vn27'>Lạm phát trì trệ là sự kết hợp của tình trạng thất nghiệp cao và sự đình đốn của nền kinh tế .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>This happened in industrialized countries during the 1970s , when a bad economy was combined with OPEC raising oil prices .</s>
+<s id='vn28'>Trường hợp này xảy ra trong những nước công nghiệp giai đoạn những năm 1970 , khi một nền kinh tế xấu câu kết với OPEC nâng giá dầu lên .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>In recent years , most developed countries have attempted to sustain an inflation rate of 2-3 % .</s>
+<s id='vn29'>Trong những năm gần đây , hầu hết các quốc gia phát triển đã cố gắng duy trì tỷ lệ lạm phát dao động ở 2-3 %</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Causes of Inflation</s>
+<s id='vn30'>Nguyên nhân của lạm phát</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Economists wake up in the morning hoping for a chance to debate the causes of inflation .</s>
+<s id='vn31'>Các nhà kinh tế học không ngừng tranh cãi về các nguyên nhân của lạm phát .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>There is no one cause that 's universally agreed upon , but at least two theories are generally accepted :</s>
+<s id='vn32'>Không có một nguyên nhân cụ thể nào nhận được sự nhất trí của tất cả mọi người , nhưng có ít nhất hai lý thuyết được chấp nhận rộng rãi :</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Demand-Pull Inflation - This theory can be summarized as " too much money chasing too few goods " .</s>
+<s id='vn33'>Lạm phát do nhu cầu tăng - Lý thuyết này có thể tóm lược là " quá nhiều tiền săn lùng quá ít hàng hoá " .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>In other words , if demand is growing faster than supply , prices will increase .</s>
+<s id='vn34'>Nói cách khác , nếu cầu tăng nhanh hơn cung , giá cả sẽ tăng .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>This usually occurs in growing economies .</s>
+<s id='vn35'>Điều này thường xảy ra trong những nền kinh tế đang phát triển .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Cost-Push Inflation - When companies ' costs go up , they need to increase prices to maintain their profit margins .</s>
+<s id='vn36'>Lạm phát do chi phí sản xuất tăng - Khi chi phí của các công ty tăng lên , họ cần tăng giá để duy trì mức lợi nhuận của mình .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Increased costs can include things such as wages , taxes , or increased costs of imports .</s>
+<s id='vn37'>Chi phí tăng có thể bao gồm những thứ như tiền công , thuế , hoặc chi phí nhập khẩu tăng .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Costs of Inflation</s>
+<s id='vn38'>Chi phí lạm phát</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Almost everyone thinks inflation is evil , but it is n't necessarily so .</s>
+<s id='vn39'>Hầu hết mọi người nghĩ lạm phát là xấu xa , nhưng không nhất thiết phải như vậy .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Inflation affects different people in different ways .</s>
+<s id='vn40'>Lạm phát tác động đến mỗi người một khác .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>It also depends on whether inflation is anticipated or unanticipated .</s>
+<s id='vn41'>Nó còn phụ thuộc vào lạm phát đã lường trước hay không lường trước được .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>If the inflation rate corresponds to what the majority of people are expecting ( anticipated inflation ) , then we can compensate and the cost is n't high .</s>
+<s id='vn42'>Nếu tỷ lệ lạm phát phù hợp với những gì đa số mọi người đang kỳ vọng ( lạm phát dự kiến ) , thì chúng ta có thể bù đắp và chi phí sẽ không cao .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>For example , banks can vary their interest rates and workers can negotiate contracts that include automatic wage hikes as the price level goes up .</s>
+<s id='vn43'>Ví dụ , các ngân hàng có thể điều chỉnh lãi suất và người lao động có thể thương thảo những hợp đồng có điều khoản tăng lương tự động khi giá cả tăng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Problems arise when there is unanticipated inflation :</s>
+<s id='vn44'>Những vấn đề nảy sinh khi lạm phát ngoài dự kiến</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Creditors lose and debtors gain if the lender does not anticipate inflation correctly .</s>
+<s id='vn45'>Những người cho vay sẽ thiệt và người đi vay sẽ lợi nếu người cho vay không tính chính xác trước lạm phát .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>For those who borrow , this is similar to getting an interest-free loan .</s>
+<s id='vn46'>Đối với người đi vay , điều này giống như vay không lãi suất .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Uncertainty about what will happen next makes corporations and consumers less likely to spend .</s>
+<s id='vn47'>Việc không chắc chắn về những gì sẽ xảy ra tiếp theo làm cho các doanh nghiệp và người tiêu dùng ngại chi tiêu .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This hurts economic output in the long run .</s>
+<s id='vn48'>Nó gây thiệt hại đối với sản lượng kinh tế trong dài hạn .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>People living off a fixed-income , such as retirees , see a decline in their purchasing power and , consequently , their standard of living .</s>
+<s id='vn49'>Những người sống dựa vào thu nhập cố định , chẳng hạn như những người đã về hưu sẽ thấy giảm khả năng mua sắm và , vì vậy , giảm mức sống .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The entire economy must absorb repricing costs ( " menu costs " ) as price lists , labels , menus and more have to be updated .</s>
+<s id='vn50'>Toàn bộ nền kinh tế phải hấp thu các chi phí điều chỉnh lại giá ( " chi phí thực đơn " ) khi các hoạt động yết giá , đóng nhãn , lập danh mục và nhiều công việc khác phải được cập nhật .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>If the inflation rate is greater than that of other countries , domestic products become less competitive .</s>
+<s id='vn51'>Nếu tỷ lệ lạm phát lớn hơn tỷ lệ của các quốc gia khác , các sản phẩm nội địa sẽ trở nên kém cạnh tranh .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>People like to complain about prices going up , but they often ignore the fact that wages should be rising as well .</s>
+<s id='vn52'>Những người ưa than phiền về giá cả leo thang , nhưng họ thường lờ đi thực tế là lương cũng đã tăng .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>The question should n't be whether inflation is rising , but whether it 's rising at a quicker pace than your wages .</s>
+<s id='vn53'>Lạm phát chẳng là vấn đề gì cả , mà vấn đề là lạm phát đang diễn ra nhanh hơn mức tăng lương của bạn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Finally , inflation is a sign that an economy is growing .</s>
+<s id='vn54'>Cuối cùng , lạm phát là dấu hiệu nền kinh tế đang phát triển .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>In some situations , little inflation ( or even deflation ) can be just as bad as high inflation .</s>
+<s id='vn55'>Trong một vài trường hợp , lạm phát ít ( hoặc thậm chí giảm phát ) có thể tồi tệ như lạm phát cao .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The lack of inflation may be an indication that the economy is weakening .</s>
+<s id='vn56'>Không lạm phát có thể là dấu hiệu nền kinh tế đang suy yếu .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>As you can see , it 's not so easy to label inflation as either good or bad - it depends on the overall economy as well as your personal situation .</s>
+<s id='vn57'>Như bạn thấy , không dễ dàng liệt lạm phát là tốt hay xấu - nó phụ thuộc vào cả nền kinh tế nói chung cũng như tình thế của riêng bạn .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>How Is It Measured ?</s>
+<s id='vn58'>Lạm phát được tính như thế nào ?</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Measuring inflation is a difficult problem for government statisticians .</s>
+<s id='vn59'>Đo lường lạm phát là một bài toán nan giải đối với các nhà thống kê của chính phủ .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>To do this , a number of goods that are representative of the economy are put together into what is referred to as a " market basket . "</s>
+<s id='vn60'>Để thực hiện công việc này , một số hàng hoá đại diện cho nền kinh tế được tập hợp lại một chỗ gọi là " chiếc giỏ thị trường " .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>The cost of this basket is then compared over time .</s>
+<s id='vn61'>Chi phí của cái giỏ này sau đó được so sánh theo thời gian .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>This results in a price index , which is the cost of the market basket today as a percentage of the cost of that identical basket in the starting year .</s>
+<s id='vn62'>Điều này dẫn đến chỉ số giá cả , đó là chi phí của cái giỏ thị trường hôm nay như là một tỷ lệ phần trăm của chi phí chính cái giỏ ấy lúc đầu năm .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>In North America , there are two main price indexes that measure inflation :</s>
+<s id='vn63'>Tại Bắc Mỹ , có 2 chỉ số giá cả chính để đo lường lạm phát :</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Consumer Price Index ( CPI ) - A measure of price changes in consumer goods and services such as gasoline , food , clothing and automobiles .</s>
+<s id='vn64'>Chỉ số giá tiêu dùng ( CPI ) - Một công cụ đo lường những biến động giá cả hàng hoá dịch vụ tiêu dùng chẳng hạn như xăng , thực phẩm , quần áo và ôtô .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>The CPI measures price change from the perspective of the purchaser .</s>
+<s id='vn65'>CPI đo lường sự thay đổi giá cả dưới con mắt người mua .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>U.S. CPI data can be found at the Bureau of Labor Statistics .</s>
+<s id='vn66'>Dữ liệu CPI của Hoa Kỳ có thể tìm thấy ở Cục Thống kê Lao động .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Producer Price Indexes ( PPI ) - A family of indexes that measure the average change over time in selling prices by domestic producers of goods and services .</s>
+<s id='vn67'>Chỉ số giá sản xuất ( PPI ) - Một nhóm các chỉ số đo lường sự thay đổi bình quân giá bán của những nhà sản xuất hàng hoá và cung cấp dịch vụ theo thời gian .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>PPIs measure price change from the perspective of the seller .</s>
+<s id='vn68'>Các PPI đo lường sự thay đổi giá cả dưới con mắt người bán .</s>
+</spair>
+<spair id='69'>
+<s id='en69'>U.S. PPI data can be found at the Bureau of Labor Statistics .</s>
+<s id='vn69'>Dữ liệu PPI của Hoa Kỳ có thể được tìm thấy tại Cục Thống kê Lao động .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>You can think of price indexes as large surveys .</s>
+<s id='vn70'>Bạn có thể xem các chỉ số giá cả là những cuộc khảo sát lớn .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Each month , the U.S. Bureau of Labor Statistics contacts thousands of retail stores , service establishments , rental units and doctors ' offices to obtain price information on thousands of items used to track and measure price changes in the CPI.</s>
+<s id='vn71'>Mỗi tháng , Cục Thống kê Lao động Hoa Kỳ liên lạc hàng ngàn cửa hàng bán lẻ , cơ sở dịch vụ , đơn vị cho thuê và phòng mạch nhằm lấy thông tin giá cả của hàng ngàn mặt hàng được dùng để theo dõi và đo lường các biến động về giá trong CPI .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>They record the prices of about 80,000 items each month , which represent a scientifically selected sample of the prices paid by consumers for the goods and services purchased .</s>
+<s id='vn72'>Họ ghi lại giá cả của khoảng 80 ngàn mặt hàng mỗi tháng , con số này đại diện cho mẫu lựa chọn về mặt khoa học các mức giá người tiêu dùng mua hàng hoá và dịch vụ .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>In the long run , the various PPIs and the CPI show a similar rate of inflation .</s>
+<s id='vn73'>Trong khoảng thời gian dài , các PPI và CPI khác nhau cho thấy tỷ lệ lạm phát tương đương nhau .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>This is not the case in the short run , as PPIs often increase before the CPI .</s>
+<s id='vn74'>Hiện tượng này không xuất hiện trong thời gian ngắn , vì các PPI thường tăng trước CPI .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>In general , investors follow the CPI more than the PPIs .</s>
+<s id='vn75'>Nói chung , các nhà đầu tư theo dõi CPI nhiều hơn các PPI .</s>
+</spair>
+</text>
+</doc>

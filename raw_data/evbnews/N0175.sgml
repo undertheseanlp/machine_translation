@@ -1,0 +1,260 @@
+﻿<doc id='N0175'>
+<head>
+<title>Miscarriage</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Miscarriage</s>
+<s id='vn1'>Sẩy thai</s>
+</spair>
+<spair id='2'>
+<s id='en2'>What is a miscarriage ?</s>
+<s id='vn2'>Sẩy thai là gì ?</s>
+</spair>
+<spair id='3'>
+<s id='en3'>A miscarriage is the loss of a pregnancy during the first 20 weeks .</s>
+<s id='vn3'>Sẩy thai là hư thai trong vòng 20 tuần đầu tiên .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>It is usually your body 's way of ending a pregnancy that has had a bad start .</s>
+<s id='vn4'>Đó là cách thức thông thường mà cơ thể của bạn chấm dứt việc mang thai mà đã có một khởi đầu không tốt .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The loss of a pregnancy can be very hard to accept .</s>
+<s id='vn5'>Hư thai có thể rất khó để chấp nhận .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>You may wonder why it happened or blame yourself .</s>
+<s id='vn6'>Bạn có thể không hiểu tại sao chuyện đó lại xảy ra hoặc tự trách mình .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>But a miscarriage is no one 's fault , and you can't prevent it .</s>
+<s id='vn7'>Nhưng sẩy thai không phải là lỗi của ai , và bạn không thể ngăn chặn nó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Miscarriages are very common .</s>
+<s id='vn8'>Sẩy thai rất phổ biến .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>About 1 in 4 pregnancies end in a miscarriage</s>
+<s id='vn9'>Khoảng 1 trong 4 thai kỳ chấm dứt do bị sẩy thai .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>It is also common for a woman to have a miscarriage before she even knows that she is pregnant .</s>
+<s id='vn10'>Cũng là chuyện bình thường khi một phụ nữ để bị sẩy thai trước khi cô ấy thậm chí biết rằng mình có thai .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>What causes a miscarriage ?</s>
+<s id='vn11'>Điều gì gây ra sẩy thai ?</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Most miscarriages happen because the fertilized egg in the uterus does not develop normally .</s>
+<s id='vn12'>Đa số sẩy thai xảy ra vì trứng được thụ tinh trong tử cung không phát triển bình thường .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>A miscarriage is not caused by stress , exercise , or sex .</s>
+<s id='vn13'>Sẩy thai không gây ra bởi căng thẳng , thể dục , hoặc việc quan hệ chăn gối .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>In many cases , doctors don't know what caused the miscarriage .</s>
+<s id='vn14'>Trong nhiều trường hợp , bác sĩ không biết điều gì gây ra sẩy thai .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The risk of miscarriage is lower after the first 12 weeks of the pregnancy .</s>
+<s id='vn15'>Nguy cơ sẩy thai giảm đi sau 12 tuần đầu tiên của thai kỳ .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>What are the common symptoms ?</s>
+<s id='vn16'>Triệu chứng thường gặp là gì ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Common signs of a miscarriage include :</s>
+<s id='vn17'>Dấu hiệu phổ biến của sẩy thai bao gồm :</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Bleeding from the vagina .</s>
+<s id='vn18'>Chảy máu âm đạo .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The bleeding may be light or heavy , constant or off and on .</s>
+<s id='vn19'>Chảy máu có thể là nhẹ hoặc nặng , liên tục hoặc ngắt quãng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>It can sometimes be hard to know whether light bleeding is a sign of miscarriage .</s>
+<s id='vn20'>Đôi khi khó có thể nhận biết chảy máu nhẹ có phải là dấu hiệu của sẩy thai không .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>But if you have bleeding with pain , the chance of a miscarriage is higher .</s>
+<s id='vn21'>Nhưng nếu bạn bị xuất huyết cùng với đau bụng , thì nguy cơ sẩy thai là cao .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Pain in the belly , lower back , or pelvis .</s>
+<s id='vn22'>Đau ở bụng , lưng dưới , hoặc chậu hông .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Tissue that passes from the vagina .</s>
+<s id='vn23'>Mô bong ra từ âm đạo .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>How is a miscarriage diagnosed ?</s>
+<s id='vn24'>Sẩy thai được chẩn đoán thế nào ?</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Call your doctor if you think you are having a miscarriage .</s>
+<s id='vn25'>Gọi cho bác sĩ của bạn nếu bạn nghĩ bạn đang bị sẩy thai .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>If your symptoms and a pelvic exam do not show whether you are having a miscarriage , your doctor can do tests to see if you are still pregnant .</s>
+<s id='vn26'>Nếu triệu chứng của bạn và việc thăm khám vùng chậu không cho thấy được là bạn có đang bị sẩy thai hay không , bác sĩ của bạn có thể làm các xét nghiệm để kiểm tra xem bạn vẫn còn có thai không .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>How is it treated ?</s>
+<s id='vn27'>Điều trị sẩy thai thế nào ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>No treatment can stop a miscarriage .</s>
+<s id='vn28'>Không có cách nào thể dừng sẩy thai .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>As long as you do not have heavy blood loss , a fever , weakness , or other signs of infection , you can let a miscarriage follow its own course .</s>
+<s id='vn29'>Chừng nào mà bạn không có xuất huyết nặng , sốt , yếu , hoặc các dấu hiệu khác của nhiễm trùng , bạn có thể để việc sẩy thai tự nó diễn ra .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>This can take several days .</s>
+<s id='vn30'>Điều này có thể mất nhiều ngày .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>If you have Rh -negative blood , you will need a shot of Rhogam .</s>
+<s id='vn31'>Nếu bạn có máu Rh âm , bạn sẽ cần tiêm thuốc Rhogam .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>This prevents problems in future pregnancies .</s>
+<s id='vn32'>Điều này giúp ngăn ngừa các rủi ro của việc mang thai trong tương lai .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>If you have not had your blood type checked , you will need a blood test to find out if you are Rh -negative .</s>
+<s id='vn33'>Nếu bạn đã không kiểm tra nhóm máu mình , bạn sẽ cần thử nghiệm máu để tìm ra nếu bạn có nhóm máu Rh âm .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Many miscarriages complete on their own , but sometimes treatment is needed .</s>
+<s id='vn34'>Nhiều ca sẩy thai tự nó kết thúc , nhưng đôi khi cũng cần phải có can thiệp .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>If you are having a miscarriage , work with your doctor to watch for and prevent problems .</s>
+<s id='vn35'>Nếu bạn đang bị sẩy thai , hãy hợp tác với bác sĩ của bạn để theo dõi và ngăn chặn các biến chứng .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>If the uterus does not clear quickly enough , you could lose too much blood or develop an infection .</s>
+<s id='vn36'>Nếu tử cung không được làm sạch đủ nhanh , bạn có thể mất máu quá nhiều hoặc dẫn đến nhiễm trùng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>In this case , medicine or a procedure called a dilation and curettage ( DC ) can more quickly clear tissue from the uterus .</s>
+<s id='vn37'>Trong trường hợp này , sử dụng thuốc hoặc phương thức gọi là nạo hút thai ( DC ) có thể nhanh chóng nạo sạch mô ra khỏi tử cung .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>A miscarriage does not happen all at once .</s>
+<s id='vn38'>Sẩy thai không xảy ra ngay trong một lúc .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>It usually takes place over several days , and symptoms vary .</s>
+<s id='vn39'>Thường diễn ra trên nhiều ngày , và triệu chứng thay đổi .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Here are some tips for dealing with a miscarriage :</s>
+<s id='vn40'>Đây là vài lời khuyên liên quan đến sẩy thai :</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Use pads instead of tampons .</s>
+<s id='vn41'>Sử dụng băng vệ sinh dạng miếng thay vì băng vệ sinh dạng ống .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>You will probably have vaginal bleeding for a week or so .</s>
+<s id='vn42'>Bạn có thể sẽ chảy máu âm đạo trong một tuần hoặc cỡ như vậy .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>It may be like or slightly heavier than a normal period .</s>
+<s id='vn43'>Nó có thể giống hoặc hơi nặng hơn chu kỳ kinh nguyệt bình thường .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>You may use tampons during your next period , which should start in 3 to 6 weeks .</s>
+<s id='vn44'>Bạn có thể sử dụng băng vệ sinh dạng ống trong chu kỳ tiếp theo của bạn , nên bắt đầu trong 3 đến 6 tuần .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Take acetaminophen ( Tylenol ) for cramps .</s>
+<s id='vn45'>Uống acetaminophen ( tylenol ) nếu bị chuột rút .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Read and follow all instructions on the label .</s>
+<s id='vn46'>Đọc và làm theo tất cả hướng dẫn trên nhãn thuốc .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>You may have cramps for several days after the miscarriage .</s>
+<s id='vn47'>Bạn có thể bị chuột rút nhiều ngày sau khi sẩy thai .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Eat a balanced diet that is high in iron and vitamin C.</s>
+<s id='vn48'>Ăn chế độ dinh dưỡng cân bằng có nhiều chất sắt và vi-ta-min C .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>You may be low in iron because of blood loss .</s>
+<s id='vn49'>Bạn có thể bị thiếu chất sắt vì mất máu .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Foods rich in iron include red meat , shellfish , eggs , beans , and leafy green vegetables .</s>
+<s id='vn50'>Thức ăn giàu sắt bao gồm thịt đỏ , tôm cua , trứng , đậu , và rau củ có màu xanh .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Foods high in vitamin C include citrus fruits , tomatoes , and broccoli .</s>
+<s id='vn51'>Thức ăn giàu vi-ta-min C bao gồm trái cây họ cam , cà chua , và cải bẹ xanh .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Talk to your doctor about whether you need to take iron pills or a multivitamin .</s>
+<s id='vn52'>Nói chuyện với bác sĩ của bạn xem bạn có cần uống viên sắt bổ sung hoặc đa sinh tố hay không .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Talk with family , friends , or a counselor if you are having trouble dealing with the loss of your pregnancy .</s>
+<s id='vn53'>Chia sẻ với gia đình , bạn bè , hoặc chuyên gia tâm lý nếu bạn đang gặp khó khăn liên quan đến việc sẩy thai của bạn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>If you feel very sad or depressed for longer than 2 weeks , talk to a counselor or your doctor .</s>
+<s id='vn54'>Nếu bạn cảm thấy rất buồn hay suy sụp tinh thần trong dài hơn 2 tuần , hãy tâm sự với chuyên gia tâm lý hay bác sĩ của bạn .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Talk with your doctor about any future pregnancy plans .</s>
+<s id='vn55'>Nói chuyện với bác sĩ của bạn về bất cứ kế hoạch mang thai nào trong tương lai .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Most doctors suggest that you wait until you have had at least one normal period before you try to get pregnant again .</s>
+<s id='vn56'>Đa số các bác sĩ đề nghị rằng bạn nên đợi cho đến khi bạn đã có ít nhất một chu kỳ kinh nguyệt bình thường trước khi bạn cố gắng có thai lần nữa .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>If you don't want to get pregnant , ask your doctor about birth control options .</s>
+<s id='vn57'>Nếu bạn không muốn có thai , hỏi bác sĩ của bạn về các biện pháp kế hoạch hoá gia đình .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>After a miscarriage , are you at risk for miscarrying again ?</s>
+<s id='vn58'>Sau khi sẩy thai , bạn có nguy cơ bị sẩy thai lần nữa không ?</s>
+</spair>
+<spair id='59'>
+<s id='en59'>Miscarriage is usually a chance event , not a sign of an ongoing problem .</s>
+<s id='vn59'>Sẩy thai thường là một sự kiện cơ hội , không phải là dấu hiệu của một bệnh đang diễn ra .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>If you have had one miscarriage , your chances for future successful pregnancies are good .</s>
+<s id='vn60'>Nếu bạn đã bị sẩy thai một lần , các cơ hội mang thai thành công của bạn tương lai vẫn tốt .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>It is unusual to have three or more miscarriages in a row .</s>
+<s id='vn61'>Là bất thường nếu sẩy thai từ ba lần liên tục trở lên .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>But if you do , your doctor may do tests to see if a health problem may be causing the miscarriages .</s>
+<s id='vn62'>Nhưng nếu bạn bị như vậy , bác sĩ của bạn có thể làm xét nghiệm để tìm ra vấn đề sức khoẻ có thể là nguyên nhân gây ra sẩy thai .</s>
+</spair>
+</text>
+</doc>

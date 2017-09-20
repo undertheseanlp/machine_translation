@@ -1,0 +1,88 @@
+﻿<doc id='N0356'>
+<head>
+<title>Intel Introduces New Atom Chip Platform</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Intel Introduces New Atom Chip Platform</s>
+<s id='vn1'>Intel Giới thiệu Nền tảng Chip Atom Mới</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Intel is unveiling its next-generation Atom chip plat form , which includes integrated graphics capabilities and an on-board memory controller , changes that Intel says will improve the Atom platform 's performance , size and energy efficiency .</s>
+<s id='vn2'>Intel vừa tiết lội nền tảng chip Atom thế hệ kế mới của họ , bao gồm khả năng đồ họa tích hợp và một bộ điều khiển bộ nhớ trên bo mạch , những thay đổi mà Intel cho biết là sẽ cải thiện hiệu suất của các nền tảng Atom , kích thước và tiết kiệm năng lượng .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>As part of the platform , Intel is rolling out two CPUs aimed at the entry-level desktop space , as well as another one designed for netbooks .</s>
+<s id='vn3'>Là một phần của nền tảng này , Intel cho ra mắt hai CPU nhằm mục tiêu vào lĩnh vực máy tính để bàn cấp thấp và CPU còn lại được thiết kế dành cho netbook .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Intel is rolling out a new Atom platform that will include integrated graphics capabilities and memory controller , a move that company officials say will lead to better performance , energy efficiency and new designs of both netbooks and entry-level desktop PCs .</s>
+<s id='vn4'>Intel vừa cho ra mắt một nền tảng Atom mới mà sẽ bao gồm khả năng đồ họa tích hợp và bộ điều khiển bộ nhớ , một bước đi mà công ty này chính thức nói rằng nó sẽ đem lại hiệu suất tốt hơn , tiết kiệm năng lượng và thiết kế mới cho cả netbook và các dòng máy tính để bàn cấp thấp .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The new chips will begin to appear in systems in January , Intel said Dec. 21 .</s>
+<s id='vn5'>Chip mới này sẽ bắt đầu xuất hiện trong các hệ thống vào tháng Giêng , Intel cho biết là ngày 21/12 .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>The Atom chip , first introduced in June 2008 , as been the key technology driving the netbook market , which has been one of the few segments in the tech industry to perform well during the global recession thanks to the small size and low cost of the systems - and a lone bright spot in the PC space during the past year .</s>
+<s id='vn6'>Lần đầu tiên được giới thiệu vào Tháng 6 năm 2008 Chip Atom như là công nghệ then chốt trên thị trường netbook , mà đã là một trong số ít các phân khúc trong ngành công nghiệp công nghệ thực hiện tốt trong suốt thời kì suy thoái kinh tế toàn cầu , nhờ có kích thước nhỏ và các hệ thống với chi phí thấp - và là một điểm sáng duy nhất trong không gian máy tính trong năm qua .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Now the chip - the smallest in Intel 's portfolio - will begin finding its way into entry-level desktops , continuing Intel 's aggressive plans for expanding the platform 's reach .</s>
+<s id='vn7'>Hiện tại chip - nhỏ nhất trong danh mục đầu tư của Intel - sẽ bắt đầu tìm cách đi vào các dòng máy tính để bàn cấp thấp , tiếp tục kế hoạch tích cực của Intel để mở rộng tiếp cận nền tảng này .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" The Intel Atom processor has fueled an entirely new category of computing over the last year and a half , and we think the growth will continue for devices like netbooks and entry-level PCs built around basic computing and Internet usage models , " Mooly Eden , corporate vice president and general manager of Intel 's PC Client Group , said in a statement .</s>
+<s id='vn8'>" Bộ vi xử lý Intel Atom đã thúc đẩy một loại điện toán hoàn toàn mới trong năm qua và nửa năm này , và chúng tôi nghĩ rằng sự tăng trưởng sẽ tiếp tục cho các thiết bị như netbook , dòng máy tính cấp thấp được xây dựng xung quanh mô hình điện toán cơ bản và mô hình sử dụng Internet , " Mooly Eden , phó chủ tịch kiêm tổng giám đốc PC Client Group của Intel cho biết trong một bài phát biểu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>The new Atom platform should lead to new systems with better battery life , smaller footprints and greater performance , according to Intel .</s>
+<s id='vn9'>Theo Intel thì nền tảng Atom mới nên đưa vào các hệ thống mới có tuổi thọ pin tốt hơn , kích thước nhỏ hơn và hiệu suất cao hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The integrated graphics and memory controller is an important part of that , the chip maker said .</s>
+<s id='vn10'>Đồ họa tích hợp và bộ điều khiển bộ nhớ là một phần quan trọng trong đó , hãng sản xuất chip này cho biết .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>That not only will the integration help with the improved performance , but it will also mean lower power and a smaller overall size , now that the Atom platform will mean two chips - the CPU and chipset rather than three - the CPU , chip set and I/O controller hub .</s>
+<s id='vn11'>Sự tích hợp này không chỉ giúp cho hiệu suất được cải thiện mà còn có nghĩa là tiêu thụ điện năng thấp hơn và có kích thước tổng thể nhỏ hơn , bây giờ là nền tảng Atom sẽ có nghĩa là hai chip - CPU và chipset thay vì ba CPU , chipset và hub điều khiển nhập/xuất .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Intel has seen rapid adoption of its Atom technology .</s>
+<s id='vn12'>Intel đã nhìn thấy việc áp dụng nhanh chóng công nghệ Atom của họ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>ABI Research is predicting that Atom shipments will grow into the hundreds of millions by 2011 , and both Gartner and IDC say the netbook space will continue to expand .</s>
+<s id='vn13'>ABI Research dự báo rằng việc đặt mua Atom sẽ tăng lên hàng trăm triệu vào năm 2011 , và cả Gartner và IDC , nói rằng không gian netbook sẽ tiếp tục mở rộng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Gartner in November predicted that mini-notebook shipments will reach 29 million in 2009 and 41 million in 2010 .</s>
+<s id='vn14'>Gartner dự đoán rằng trong tháng 11 số lượng mini - notebook được bày bán sẽ đạt 29 triệu cái trong năm 2009 và 41 triệu cái vào năm 2010 .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Intel also is courting developers to help expand the Atom-based netbook reach .</s>
+<s id='vn15'>Intel cũng đang thuyết phục các nhà phát triển để giúp mở rộng tiếp cận netbook dựa trên Intel Atom .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>At the Intel Developer Forum in September , Intel officials introduced its Atom Developer Program , which is designed to make it easier for developers to create and market applications for the platform .</s>
+<s id='vn16'>Tại Diễn đàn Phát triển Intel vào tháng 9 , Intel chính thức giới thiệu Chương trình phát triển Atom của họ mà được thiết kế để làm cho nó dễ dàng hơn cho các nhà phát triển tạo các ứng dụng thị trường cho nền tảng này .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Intel on Dec. 12 released a beta version of the program 's SDK ( software development kit ) .</s>
+<s id='vn17'>Vào ngày 12 tháng 12 Intel phát hành một phiên bản beta SDK của chương trình này ( bộ công cụ phát triển phần mềm ) .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>The new platform includes the Atom N450 processor and NM10 Express chipset for netbooks , and either the D410 or dual-core D510 - also with the NM10 Express chipset for entry-level desktops .</s>
+<s id='vn18'>Nền tảng mới bao gồm các bộ vi xử lý Atom N450 và chipset NM10 Express dành cho netbook , và là D410 hay D510 lõi kép cũng với chipset NM10 Express dành cho máy tính để bàn cấp thấp .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The chips run at 1.66Ghz .</s>
+<s id='vn19'>Chip này chạy ở tốc độ 1.66Ghz</s>
+</spair>
+</text>
+</doc>

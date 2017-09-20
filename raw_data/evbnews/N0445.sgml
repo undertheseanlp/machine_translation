@@ -1,0 +1,528 @@
+﻿<doc id='N0445'>
+<head>
+<title>Suicide</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Suicide</s>
+<s id='vn1'>Tự sát</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Ethan felt like there was no point going on with life .</s>
+<s id='vn2'>Ethan cảm thấy chẳng thiết sống nữa .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Things had been tough since his mom died .</s>
+<s id='vn3'>Mọi thứ đã trở nên hết sức chật vật kể từ sau cái chết của mẹ .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>His dad was working two jobs and seemed frazzled and angry most of the time .</s>
+<s id='vn4'>Bố phải " cày " hai công việc và có vẻ như lúc nào ông cũng kiệt sức và bực dọc .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>Whenever he and Ethan talked , it usually ended in yelling .</s>
+<s id='vn5'>Bất kể khi nào Ethan nói chuyện với bố thì hai bố con cũng đều la ó và kết thúc trong om sòm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Ethan had just found out he 'd failed a math test , and he was afraid of how mad and disappointed his dad would be .</s>
+<s id='vn6'>Ethan vừa mới biết mình đã thi rớt môn toán và em rất sợ cái cách mà bố em điên tiết lên và thất vọng về em như thế nào .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>In the past , he always talked things over with his girlfriend - the only person who seemed to understand .</s>
+<s id='vn7'>Trước đây thì lúc nào em cũng trò chuyện , chia sẻ với bạn gái - một người duy nhất có thể hiểu được .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>But they 'd broken up the week before , and now Ethan felt he had nowhere to turn .</s>
+<s id='vn8'>Nhưng mới tuần trước đây em đã chia tay cô ấy rồi và giờ đây Ethan cảm thấy chẳng có nơi nào để chia sẽ .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Ethan knew where his dad kept his guns .</s>
+<s id='vn9'>Ethan biết được bố cất súng ở đâu .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>But as he was unlocking the cabinet , he heard his kid sister arriving home from school .</s>
+<s id='vn10'>Nhưng khi em đang mở cửa tủ thì Ethan nghe tiếng em gái mình đi học về .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>He did n't want Grace to be the person to find him , so he put the gun back and went to watch TV with her instead .</s>
+<s id='vn11'>Ethan không muốn Grace phát hiện ra việc này nên em đã cất súng trở lại và đến xem ti vi với em gái .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Later , when he realized how close he 'd come to ending his life , Ethan was terrified .</s>
+<s id='vn12'>Sau đó khi biết mình sắp sửa tự sát , Ethan vô cùng khiếp sợ ; .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>He summoned the courage to talk to his dad .</s>
+<s id='vn13'>Em dốc hết can đảm để có thể nói chuyện với bố .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>After a long conversation , he realized how much his dad cared .</s>
+<s id='vn14'>Hai bố con nói chuyện với nhau rất lâu và rồi Ethan cảm nhận ra rằng bố thương em , quan tâm em nhiều biết bao nhiêu .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>All he could think of was how he 'd almost thrown it all away .</s>
+<s id='vn15'>Điều em suy nghĩ đến lúc ấy chính là làm thế nào em có thể quẳng hết tất cả những phiền muộn ra khỏi lòng mình .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Why do teens try to kill themselves ?</s>
+<s id='vn16'>Lý do gì khiến thiếu niên có ý định tự sát ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Most teens interviewed after making a suicide attempt say that they did it because they were trying to escape from a situation that seemed impossible to deal with or to get relief from really bad thoughts or feelings .</s>
+<s id='vn17'>Hầu hết các em thiếu niên được hỏi sau khi có ý định tự sát đều trả lời rằng chúng làm điều đó vì các em muốn thoát khỏi một hoàn cảnh mà có vẻ như không có lối thoát hoặc muốn được giải toả được khỏi những ý nghĩ hoặc những tâm trạng đang hết sức khủng hoảng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Like Ethan , they did n't want to die but they wanted to escape from what was going on .</s>
+<s id='vn18'>Cũng giống như Ethan , các em không muốn chết nhưng rất muốn được thoát khỏi cái thực tại mình đang sống .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>And at that particular moment dying seemed like the only way out .</s>
+<s id='vn19'>Và trong thời điểm hết sức đặc biệt đó thì cái chết có vẻ như là lối thoát duy nhất .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Some people who end their lives or attempt suicide might be trying to escape feelings of rejection , hurt , or loss .</s>
+<s id='vn20'>Một số người tự sát hoặc có ý định tự sát có thể muốn thoát khỏi cái tâm trạng bị hắt hủi , bị tổn thương hoặc bị mất mất gì đó .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Others might be angry , ashamed , or guilty about something .</s>
+<s id='vn21'>Một số khác có thể là tức giận , xấu hổ , hoặc phạm tội ; .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Some people may be worried about disappointing friends or family members .</s>
+<s id='vn22'>Một số người có thể lo lắng đã làm cho bạn bè , người thân trong gia đình thất vọng ; .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>And some may feel unwanted , unloved , victimized , or like they 're a burden to others .</s>
+<s id='vn23'>Một số lại mang tâm trạng là người thừa thải , không được yêu thương , bị đối xử bất công , hoặc cũng có thể là gánh nặng cho những người khác .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>We all feel overwhelmed by difficult emotions or situations sometimes .</s>
+<s id='vn24'>Đôi khi chúng ta bị những cảm xúc khó chịu hoặc những hoàn cảnh tai ương áp đảo .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>But most people get through it or can put their problems in perspective and find a way to carry on with determination and hope .</s>
+<s id='vn25'>Thế nhưng hầu hết mọi người đều có thể vượt qua hoặc có thể nhìn vấn đề ở một góc triển vọng và tìm cách giải quyết bằng tất cả quyết tâm và hi vọng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>So why does one person try suicide when another person in the same tough situation does not ?</s>
+<s id='vn26'>Điều này lý giải vì sao trong cùng một hoàn cảnh éo le như nhau mà người này muốn tự sát còn người kia thì không ?</s>
+</spair>
+<spair id='27'>
+<s id='en27'>What makes some people more resilient ( better able to deal with life 's setbacks and difficultie s ) than others ?</s>
+<s id='vn27'>Điều gì đã khiến cho một số người này lại kiên cường hơn ( đối phó với khó khăn và thất bại của cuộc sống tốt hơn ) một số người khác ?</s>
+</spair>
+<spair id='28'>
+<s id='en28'>What makes a person unable to see another way out of a bad situation besides ending his or her life ?</s>
+<s id='vn28'>Điều gì đã khiến cho người ta không thể tìm thấy một lối thoát nào khác ngoài việc tự sát khi rơi vào tình cảnh khó khăn ?</s>
+</spair>
+<spair id='29'>
+<s id='en29'>The answer to those questions lies in the fact that most people who commit suicide have depression .</s>
+<s id='vn29'>Câu trả lời cho tất cả những câu hỏi đó cốt là ở chỗ hầu hết người tự sát đều phiền muộn trong lòng .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Depression</s>
+<s id='vn30'>Trầm cảm</s>
+</spair>
+<spair id='31'>
+<s id='en31'>Depression leads people to focus mostly on failures and disappointments , to emphasize the negative side of their situations , and to downplay their own capabilities or worth .</s>
+<s id='vn31'>Sự trầm cảm khiến cho nguời ta thường để ý đến sự thất bại và tuyệt vọng , nhấn mạnh mặt tiêu cực của các tình huống , và xem hạ thấp năng lực hoặc giá trị của mình .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Someone with severe depression is unable to see the possibility of a good outcome and may believe they will never be happy or things will never go right for them again .</s>
+<s id='vn32'>Một người bị chứng trầm cảm nặng không tài nào hình dung hoặc mường tượng ra khả năng có một kết quả tốt đẹp và có thể cho là mình sẽ chẳng được hạnh phúc hoặc với họ thì mọi việc không bao giờ là đúng nữa .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Depression affects a person 's thoughts in such a way that the person does n't see when a problem can be overcome .</s>
+<s id='vn33'>Chứng phiền muộn làm ảnh hưởng đến suy nghĩ của con người theo cách làm người ta mụ mẫm , bế tắc không thấy hướng đi trong khi một vấn đề có thể qiải quyết được .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>It 's as if the depression puts a filter on the person 's thinking that distorts things .</s>
+<s id='vn34'>Nó như thể đã áp đặt một bộ lọc lọc tác động vào suy nghĩ của con người và làm méo mó mọi thứ .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>That 's why depressed people do n't realize that suicide is a permanent solution to a temporary problem in the same way that other people do .</s>
+<s id='vn35'>Đó là lí do vì sao người phiền muộn không nhận thấy được hành vi tự sát là một giải pháp lâu dài cho một vấn đề tạm thời giống như người khác nghĩ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>A teen with depression may feel like there 's no other way out of problems , no other escape from emotional pain , or no other way to communicate their desperate unhappiness .</s>
+<s id='vn36'>Một thanh thiếu niên bị phiền muộn có thể cũng có cảm giác bế tắc , không lối thoát , không có cách nào dứt được nỗi đau về xúc cảm hoặc không tìm được cách nào để có thể bày tỏ sự bất hạnh , tuyệt vọng của mình cho người khác nghe .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Sometimes people who feel suicidal may not even realize they are depressed .</s>
+<s id='vn37'>Đôi khi những người muốn tự sát có thể chẳng hề nhận ra họ bị trầm cảm .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>They are unaware that it is the depression - not the situation - that 's influencing them to see things in a " there 's no way out , " " it will never get better , " " there 's nothing I can do " kind of way .</s>
+<s id='vn38'>Họ không biết đó là chứng trầm cảm – không phải là hoàn cảnh – làm cho họ suy nghĩ rằng " không còn lối thoát " , " sẽ chẳng khá hơn đâu " , " mình không làm gì được hết " ... những thứ đại loại như vậy .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>When depression lifts because a person gets the proper therapy or treatment , the distorted thinking is cleared .</s>
+<s id='vn39'>Nhờ bác sĩ điều trị hay dùng phương pháp trị liệu thích hợp , người ta trở nên hết phiền muộn và những suy nghĩ bị méo mó , lệch lạc cũng không còn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>The person can find pleasure , energy , and hope again .</s>
+<s id='vn40'>Người ta có thể tìm thấy niềm vui , cơ thể tràn trề năng lượng và hi vọng trở lại .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>But while someone is seriously depressed , suicidal thinking is a real concern .</s>
+<s id='vn41'>Nhưng khi người ta bị trầm cảm nặng nề thì tư tưởng tìm đến cái chết hay hành vi tự sát là một mối lo ngại thực sự .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>People with a condition called bipolar disorder are also more at risk for suicide because their condition can cause them to go through times when they are extremely depressed as well as times when they have abnormally high or frantic energy ( called mania or manic ) .</s>
+<s id='vn42'>Người bị bệnh rối loạn lưỡng cực cũng có nguy cơ tự sát cao hơn nhiều vì chứng bệnh này có thể khiến họ phải trải qua thời gian trầm cảm cực độ cũng như thời gian tràn trề năng lượng , tràn trề sức sống một cách bất thường ( gọi là chứng hưng cảm hoặc vui buồn thất thường ) .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Both of these extreme phases of bipolar disorder affect and distort a person 's mood , outlook , and judgment .</s>
+<s id='vn43'>Cả hai thái cực rối loạn lưỡng cực đỉnh điểm này đã tác động và làm lệch lạc tâm trạng , cách nhìn và sự suy xét , phán đoán của con người .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>For people with this condition , it can be a challenge to keep problems in perspective and act with good judgment .</s>
+<s id='vn44'>Đối với những người mắc bệnh này thì việc giữ cho vấn đề theo một triển vọng đẹp và hành động bằng một thái độ suy xét đúng đắn quả là một thách thức cam go .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Substance abuse</s>
+<s id='vn45'>Lạm dụng chất kích thích</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Teens with alcohol and drug problems are also more at risk for suicidal thinking and behavior .</s>
+<s id='vn46'>Những thiếu niên nghiện ngập ma tuý và rượu chè cũng có nguy cơ có ý nghĩ và hành vi tự sát cao hơn .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Alcohol and some drugs have depressive effects on the brain .</s>
+<s id='vn47'>Rượu và một số loại ma túy làm cho não suy nhược .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Misuse of these substances can bring on serious depression .</s>
+<s id='vn48'>Việc lạm dụng những chất kích thích này có thể khiến trầm cảm nặng nề .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>That 's especially true for some teens who already have a tendency to depression because of their biology , family history , or other life stressors .</s>
+<s id='vn49'>Đối với một số thiếu niên có khuynh hướng bị trầm cảm vì cơ chế sinh học , tiền sử gia đình , hoặc các nguyên nhân gây căng thẳng trong cuộc sống khác thì điều này hoàn toàn đúng .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>The problem can be made worse because many people who are depressed turn to alcohol or drugs as an escape .</s>
+<s id='vn50'>Tình hình càng trở nên tệ hại hơn bởi nhiều người bị trầm cảm lao vào rượu chè hoặc ma tuý như một lối thoát .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>But they may not realize that the depressive effects alcohol and drugs have on the brain can actually intensify depression in the long run .</s>
+<s id='vn51'>Nhưng họ không nhận ra những tác hại gây trầm cảm và suy nhược của rượu và ma tuý kích thích lên não có thể sẽ làm cho chứng trầm cảm ngày càng nặng nề hơn .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>In addition to their depressive effects , alcohol and drugs alter a person 's judgment .</s>
+<s id='vn52'>Ngoài tác hại là gây trầm cảm , rượu và ma tuý còn làm thay đổi khả năng phán quyết của con người ; .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>They interfere with the ability to assess risk , make good choices , and think of solutions to problems .</s>
+<s id='vn53'>Gây mất khả năng đo lường nguy hiểm , mất khả năng đưa ra quyết định đúng đắn và không còn khả năng nghĩ ra giải pháp nào cho vấn đề của mình .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>Many suicide attempts occur when a person is under the influence of alcohol or drugs .</s>
+<s id='vn54'>Nhiều trường hợp nạn nhân tự sát khi đang say rượu hay " phê " thuốc phiện .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>This does n't mean that everyone who is depressed or who has an alcohol or drug problem will try to kill themselves , of course .</s>
+<s id='vn55'>Tất nhiên là điều này không có nghĩa là hễ ai phiền muộn hay bê tha rượu chè hoặc thuốc phiện đều có ý định tự sát cả .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>But these conditions - especially both together - increase a person 's risk for suicide .</s>
+<s id='vn56'>Nhưng những tình huống này – nhất là khi kết hợp với nhau – thì người ta càng có nguy cơ tự sát cao hơn .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Suicide is not always planned</s>
+<s id='vn57'>Không phải lúc nào cũng lên kế hoạch tự sát trước</s>
+</spair>
+<spair id='58'>
+<s id='en58'>We had a week of it and , then the whiskey gave out .</s>
+<s id='vn58'>Qua được một tuần như thế , chúng tôi hết .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>It had been a prosperous season .</s>
+<s id='vn59'>Mùa này thật là toàn hảo .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>We had a week of it</s>
+<s id='vn60'>Mùa này thật là toàn hảo</s>
+</spair>
+<spair id='61'>
+<s id='en61'>Some people who attempt suicide mean to die and some are n't completely sure they want to die .</s>
+<s id='vn61'>Một số người có ý định tự sát muốn kết liễu cuộc đời và cũng có một số người lại hoàn toàn không chắc là mình muốn chết .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>For some , a suicide attempt is a way to express deep emotional pain .</s>
+<s id='vn62'>Đối với một số người thì tự sát là cách bày tỏ nỗi đau , sự tổn thương sâu sắc về xúc cảm .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>They ca n't say how they feel , so , for them , attempting suicide feels like the only way to get their message across .</s>
+<s id='vn63'>Họ không thổ lộ được tâm trạng của mình , vì vậy hành vi tự sát là phương cách duy nhất có thể giúp họ bộc lộ nỗi sầu khổ của mình .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Sadly , many people who really did n't mean to kill themselves end up dead or critically ill .</s>
+<s id='vn64'>Nhưng đáng tiếc thay , nhiều người thực sự không muốn tự sát lại chết bi thảm hoặc bị bệnh nặng nề .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Warning signs</s>
+<s id='vn65'>Những dấu hiệu báo trước</s>
+</spair>
+<spair id='66'>
+<s id='en66'>There are often signs that someone may be thinking about or planning a suicide attempt .</s>
+<s id='vn66'>Thường cũng có nhiều dấu hiệu cho thấy một người đang nghĩ đến việc tự sát hoặc lên kế hoạch tự sát .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Here are some of them :</s>
+<s id='vn67'>Dưới đây là một vài dấu hiệu đó :</s>
+</spair>
+<spair id='68'>
+<s id='en68'>* talking about suicide or death in general</s>
+<s id='vn68'>* thường nói về chết chóc hoặc tự sát</s>
+</spair>
+<spair id='69'>
+<s id='en69'>* talking about " going away "</s>
+<s id='vn69'>* nói về việc " đi xa "</s>
+</spair>
+<spair id='70'>
+<s id='en70'>* referring to things they " wo n't be needing , " and giving away possessions</s>
+<s id='vn70'>* nói về những thứ mà người ta " sẽ không cần " , và cho ai quyền được sở hữu chúng</s>
+</spair>
+<spair id='71'>
+<s id='en71'>* talking about feeling hopeless or feeling guilty</s>
+<s id='vn71'>* nói về cảm giác tuyệt vọng và có tội</s>
+</spair>
+<spair id='72'>
+<s id='en72'>* pulling away from friends or family and losing the desire to go out</s>
+<s id='vn72'>* xa lánh bạn bè và gia đình và không còn hào hứng đi chơi đâu nữa</s>
+</spair>
+<spair id='73'>
+<s id='en73'>* having no desire to take part in favorite things or activities</s>
+<s id='vn73'>* không hăng say tham gia các hoạt động hay những trò yêu thích nữa</s>
+</spair>
+<spair id='74'>
+<s id='en74'>* having trouble concentrating or thinking clearly</s>
+<s id='vn74'>* khó tập trung hoặc suy nghĩ thông suốt</s>
+</spair>
+<spair id='75'>
+<s id='en75'>* experiencing changes in eating or sleeping habits</s>
+<s id='vn75'>* thay đổi thói quen ăn uống và ngủ nghỉ</s>
+</spair>
+<spair id='76'>
+<s id='en76'>* engaging in self-destructive behavior ( drinking alcohol , taking drugs , or cutting , for example )</s>
+<s id='vn76'>* có hành vi tự hủy hoại ( chẳng hạn như uống rượu , dùng ma tuý hoặc cắt rạch tay mình , ... )</s>
+</spair>
+<spair id='77'>
+<s id='en77'>What if this is you ?</s>
+<s id='vn77'>Nếu bạn có ý định tự sát , bạn nên làm gì ?</s>
+</spair>
+<spair id='78'>
+<s id='en78'>If you have been thinking about suicide , get help now .</s>
+<s id='vn78'>Nếu bạn đang có ý định tự sát thì nên tìm đến sự giúp đỡ của người khác ngay nhé .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Depression is powerful .</s>
+<s id='vn79'>Chứng trầm cảm rất kinh khủng đấy .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>You ca n't wait and hope that your mood might improve .</s>
+<s id='vn80'>Bạn không thể chờ đợi và hi vọng rằng tâm trạng của mình sẽ được cải thiện .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>When a person has been feeling down for a long time , it 's hard to step back .</s>
+<s id='vn81'>Khi một người cảm thấy phiền muộn , chán nản trong một thời gian dài thì khó lòng có thể vực họ dậy được .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>Talk to someone you trust as soon as you can .</s>
+<s id='vn82'>Hãy trò chuyện , tâm sự với một người nào đó mà bạn tin tưởng càng sớm càng tốt nhé .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>If you ca n't talk to a parent , talk to a coach , a relative , a school counselor , a religious leader , or a teacher .</s>
+<s id='vn83'>Nếu không nói được với bố mẹ thì bạn nên chia sẻ với người dạy kèm của mình , người thân , nhân viên tư vấn ở trường , người đứng đầu một tôn giáo nào đó , hoặc thầy cô của mình .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Call a suicide crisis line ( such as 1- 800-SUICIDE or 1- 800-999-9999 ) or your local emergency number ( 911 ) .</s>
+<s id='vn84'>Hãy gọi đường dây khủng hoảng tự sát ( như 1-800-SUICIDE hoặc 1-800-999-9999 ) hoặc số điện thoại khẩn cấp ở địa phương ( 911 ) .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>These toll-free lines are staffed 24 hours a day , 7 days a week by trained professionals who can help you without ever knowing your name or seeing your face .</s>
+<s id='vn85'>Những đường dây miễn phí này luôn được trực 24 24 , 7 ngày tuần bởi các chuyên gia đã qua trường lớp đào tạo có thể hướng dẫn cho bạn mà không biết tên bạn hay thấy mặt bạn .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>All calls are confidential - no one you know will find out that you 've called .</s>
+<s id='vn86'>Tất cả những cú điện thoại này đều được bảo mật – không ai có thể phát hiện ra bạn đã gọi điện đến đường dây này .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>They are there to help you figure out how to work through tough situations .</s>
+<s id='vn87'>Các chuyên viên luôn túc trực điện thoại sẽ giúp cho bạn tìm cách để đối phó với những tình huống gay go trong cuộc sống của mình .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>What if it 's someone you know ?</s>
+<s id='vn88'>Nếu người thân của bạn có ý định tự sát , bạn nên làm gì ?</s>
+</spair>
+<spair id='89'>
+<s id='en89'>It is always a good thing to start a conversation with someone you think may be considering suicide .</s>
+<s id='vn89'>Sẽ không bao giờ thừa và luôn là một điều hay nếu bạn bắt đầu trò chuyện với người mà mình cho là đang có ý định tự sát .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>It allows you to get help for the person , and just talking about it may help the person to feel less alone and more cared about and understood .</s>
+<s id='vn90'>Điều này giúp bạn tiếp cận và hỗ trợ cho người ấy , và việc làm chia sẻ như vậy cũng có thể giúp người ta cảm thấy bớt đơn độc , được quan tâm nhiều hơn và được hiểu nhiều hơn .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>Talking things through may also give the person an opportunity to consider other solutions to problems .</s>
+<s id='vn91'>Cách bàn bạc , chia sẻ cũng có thể cho người ta một cơ hội để nghĩ đến các giải pháp khác đối với vấn đề .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>Most of the time , people who are considering suicide are willing to talk if someone asks them out of concern and care .</s>
+<s id='vn92'>Hầu như lúc nào thì người có ý định tự sát cũng muốn bộ bạch ra nếu ai đó hỏi han , quan tâm và ân cần với họ .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>Because people who are depressed are not as able to see answers as well as others , it can help to have someone work with them in coming up with at least one other way out of a bad situation .</s>
+<s id='vn93'>Vì người phiền muộn , trầm cảm không nhìn ra được hướng giải quyết như những người bình thường khác nên rất cần một người để cùng với họ nghĩ ra ít nhất là một lối thoát khác khỏi tình huống tồi tệ ấy .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Even if a friend or classmate swears you to secrecy , you must get help as soon as possible - your friend 's life could depend on it .</s>
+<s id='vn94'>Dẫu là một người bạn hoặc một đứa bạn cùng lớp buộc bạn phải thề giữ bí mật thì bạn cũng nên giúp bạn ấy ngay tức khắc – mạng sống của bạn mình có thể tùy thuộc vào điều này đấy .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>Someone who is seriously thinking about suicide may have sunk so deeply into an emotional hole that the person could be unable to recognize that he or she needs help .</s>
+<s id='vn95'>Người thực sự có ý định tự sát có thể đã đắm trong một hố sâu đau đớn về xúc cảm và không nhận ra được mình đang cần ai đó giúp đỡ .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>Tell an adult you trust as soon as possible .</s>
+<s id='vn96'>Bạn hãy nói cho một người lớn nào đó mà bạn tin tưởng càng sớm càng tốt nhé .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>If necessary , you can also call the toll-free number for a suicide crisis line or a local emergency number ( 911 ) .</s>
+<s id='vn97'>Nếu cần thiết , bạn cũng có thể gọi điện đến đường dây khủng hoảng tự sát miễn phí hoặc số điện thoại khẩn cấp ở địa phương ( 911 ) .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>You can find local suicide crisis or hotline numbers listed in your phone book .</s>
+<s id='vn98'>Bạn có thể tìm số điện thoại khủng hoảng tự sát ở địa phương hoặc số điện thoại đường dây nóng trong danh bạ điện thoại của mình .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>These are confidential resources and the people at any of these places are happy to talk to you to help you figure out what is best to do .</s>
+<s id='vn99'>Những nguồn này hoàn toàn được bảo mật và nhân viên làm việc ở đây luôn sẵn lòng trò chuyện với bạn và giúp cho bạn tìm ra giải pháp tốt nhất cho mình .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>Sometimes , teens who make a suicide attempt - or who die as a result of suicide - seem to give no clue beforehand .</s>
+<s id='vn100'>Cũng lắm khi nhiều thiếu niên có ý định tự sát hoặc chết vì tự sát không tỏ một dấu hiệu nào trước đó cả .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>This can leave loved ones feeling not only grief stricken but guilty and wondering if they missed something .</s>
+<s id='vn101'>Điều này làm cho những người thân yêu không những mang cảm giác kiệt sức vì phiền muộn mà còn mặc cảm tội lỗi và dằn vặt liệu họ có bỏ lỡ một việc làm hay một cơ hội nào đó để có thể ngăn chặn cái chết không .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>It is important for family members and friends of those who die by suicide to know that sometimes there is no warning and they should not blame themselves .</s>
+<s id='vn102'>Bạn bè và người thân trong gia đình người chết vì tự sát nên hiểu rằng đôi khi mình không thể thấy một dấu hiệu cảnh báo nào và không nên tự trách mình như thế .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>When someone dies by suicide the people left behind can wrestle with a terrible emotional pain .</s>
+<s id='vn103'>Khi một người nào đó chết vì tự sát thì thường để lại cho người sống một cảm giác vật vã đau đớn , xúc động dữ dội .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>Teens who have had a recent loss or crisis or who had a family member or classmate who committed suicide may be especially vulnerable to suicidal thinking and behavior themselves .</s>
+<s id='vn104'>Các em thiếu niên bị khủng hoảng , mất mát , thất bại hoặc có bạn học hay người thân trong gia đình tự sát cũng rất dễ bị tổn thương gây tư tưởng và hành vi tự sát theo .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>If you 've been close to someone who has attempted or committed suicide , it can help to talk with a therapist or counselor - someone who is trained in dealing with this complex issue .</s>
+<s id='vn105'>Nếu bạn sống gần người có ý định tự sát hoặc người tự sát thì bạn nên tham khảo ý kiến của một nhà trị liệu hoặc một nhân viên tư vấn nào đó - họ đã được học cách giải quyết tình huống phức tạp như thế này .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Or , you could join a group for survivors where you can share your feelings and get the support of people who have been in the same situation as you .</s>
+<s id='vn106'>Hoặc là bạn có thể gia nhập nhóm tư vấn để bạn có thể chia sẻ , bày tỏ cảm xúc của mình và được những người đồng cảnh ngộ tương trợ và giúp đỡ cho mình .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>Coping with problems</s>
+<s id='vn107'>Đối phó với vấn đề tự sát</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Being a teen is not easy .</s>
+<s id='vn108'>Sống một cuộc sống của thanh thiếu niên chẳng dễ .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>There are many social , academic , and personal pressures .</s>
+<s id='vn109'>Có quá nhiều áp lực xã hội , áp lực học hành , và cả những áp lực riêng tư nữa .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>And for teens who have additional problems to deal with , such as living in violent or abusive environments , life can feel even more difficult .</s>
+<s id='vn110'>Và đối với những bạn gặp phải những rắc rối khác như sống trong môi trường bạo lực hoặc hung hãn thì cuộc sống thậm chí dường như khó khăn hơn nhiều .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>Some teens worry about sexuality and relationships , wondering if their feelings and attractions are normal , or if they will be loved and accepted .</s>
+<s id='vn111'>Một số bạn thiếu niên cảm thấy lo lắng về tình dục và các mối quan hệ khác của mình , phân vân liệu tình cảm và sức lôi cuốn , hấp dẫn của mình có bình thường không , hoặc liệu mình có được yêu và được người khác chấp nhận không .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Others struggle with body image and eating problems ; trying to reach an impossible ideal leaves them feeling bad about themselves .</s>
+<s id='vn112'>Một số bạn khác lại khổ sở vì vóc dáng và các vấn đề ăn uống của mình ; và rồi việc cố vươn tới một lý tưởng không thể nào thực hiện được làm cho các bạn cảm thấy mình thật tệ hại .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Some teens have learning problems or attention problems that make it hard for them to succeed in school .</s>
+<s id='vn113'>Bên cạnh đó cũng có một số thiếu niên học hành sa sút hoặc không tập trung được khiến cho các bạn khó có thể thành công trong học tập ở trường .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>They may feel disappointed in themselves or feel they are a disappointment to others .</s>
+<s id='vn114'>Các bạn ấy có thể cảm thấy thất vọng về chính mình hoặc cảm thấy mình là niềm thất vọng của người khác .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>These problems can be difficult and draining - and can lead to depression if they go on too long without relief or support .</s>
+<s id='vn115'>Những vấn đề này có thể là khó khăn , rắc rối và làm cho người ta kiệt sức đấy – và càng có thể sinh ra trầm cảm nếu cứ tồn tại lâu dài mà không được giải toả hoặc được người khác trợ giúp .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>We all struggle with painful problems and events at times .</s>
+<s id='vn116'>Cuộc sống chúng ta đôi khi cũng phải chật vật với những tình huống và những khó khăn đau khổ .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>How do people get through it without becoming depressed ?</s>
+<s id='vn117'>Chúng ta phải làm gì để có thể vượt qua những hoàn cảnh ấy mà không rơi vào tuyệt vọng , sầu bi ?</s>
+</spair>
+<spair id='118'>
+<s id='en118'>Part of it is staying connected to family , friends , school , faith , and other support networks .</s>
+<s id='vn118'>Một phần câu trả lời là nhờ sự gần gũi với gia đình , bạn bè , trường lớp , niềm tin , và các mạng lưới hỗ trợ khác .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>People are better able to deal with tough circumstances when they have at least one person who believes in them , wants the best for them , and in whom they can confide .</s>
+<s id='vn119'>Người ta có thể dễ dàng vượt qua những hoàn cảnh éo le khi bên cạnh còn có ít nhất một người tin tưởng họ , muốn điều tốt đẹp nhất đến với họ và có thể là người cho họ trút đi niềm tâm sự .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>People also cope better when they keep in mind that most problems are temporary and can be overcome .</s>
+<s id='vn120'>Người ta cũng dễ dàng đối phó tốt hơn khi tâm niệm rằng hầu hết các vấn đề đều chỉ là tạm thời và có thể khắc phục được .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>When struggling with problems , it helps to :</s>
+<s id='vn121'>Khi đối phó với một vấn đề nào đó , bạn nên :</s>
+</spair>
+<spair id='122'>
+<s id='en122'>* Tell someone you trust what 's going on with you .</s>
+<s id='vn122'>* Nói cho một người nào đó bạn tin tưởng chuyện gì đang xảy ra với mình .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>* Be around people who are caring and positive .</s>
+<s id='vn123'>* Sống gần bên người hay quan tâm , giúp đỡ và có ý chí tích cực .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>* Ask someone to help you figure out what to do about a problem you 're facing .</s>
+<s id='vn124'>* Nhờ một người nào đó giúp bạn hình dung ra giải pháp đối với vấn đề bạn đang vướng mắc .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>* Work with a therapist or counselor if problems are getting you down and depressed - or if you do n't have a strong support network , or feel you ca n't cope .</s>
+<s id='vn125'>* Tham khảo ý kiến của một nhà trị liệu hoặc một tư vấn viên nào đó nếu vấn đề đang ngày càng khiến cho bạn trở nên buồn bực và tuyệt vọng – hoặc nếu bạn không có mạng lưới hỗ trợ nào nhiệt tình , hoặc nếu bạn cảm thấy không thể đối phó được .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>Counselors and therapists can provide emotional support and can help teens build their own coping skills for dealing with problems .</s>
+<s id='vn126'>Các nhà trị liệu và tư vấn viên có thể giúp đỡ cho các bạn thiếu niên giải toả cảm xúc và xây dựng kỹ năng đối phó vấn đề .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>It can also help to join a support network for people who are going through the same problems - for example , anorexia and body image issues , living with an alcoholic family member , or sexuality and sexual health concerns .</s>
+<s id='vn127'>Bạn cũng nên gia nhập vào mạng lưới hỗ trợ cho những người có cùng hoàn cảnh như bạn – chẳng hạn như người mắc chứng biến ăn và khổ sở vì vóc dáng , có người thân trong gia đình nghiện rượu chè , hoặc người đang lo ngại về vấn đề tình dục và sức khoẻ tình dục .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>These groups can help provide a caring environment where you can talk through problems with people who share your concerns .</s>
+<s id='vn128'>Những nhóm người này có thể cho bạn một môi trường quan tâm , chăm sóc mà nơi đây bạn có thể chia sẻ khó khăn với người đồng cảnh ngộ như mình .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>Check out your phone book to find local support groups , or ask a school counselor or a youth group leader to help you find what you need .</s>
+<s id='vn129'>Bạn nên kiểm tra danh bạ điện thoại để tìm các nhóm hỗ trợ ở địa phương , hoặc nhờ nhân viên tư vấn ở trường hoặc nhóm trưởng của một nhóm thanh niên nào đó giúp cho bạn tìm những gì bạn cần nhé .</s>
+</spair>
+</text>
+</doc>

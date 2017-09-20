@@ -1,0 +1,848 @@
+﻿<doc id='N0446'>
+<head>
+<title>Barack Obama 's Acceptance Speech</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Barack Obama 's Acceptance Speech</s>
+<s id='vn1'>Diễn văn chấp nhận đề cử của Barack Obama</s>
+</spair>
+<spair id='2'>
+<s id='en2'>To Chairman Dean and my great friend Dick Durbin , and to all my fellow citizens of this great nation , with profound gratitude and great humility , I accept your nomination for presidency of the United States .</s>
+<s id='vn2'>Thưa Chủ tịch Dean và Durbin Dick người bạn tuyệt vời của tôi ; và tất cả công dân bằng hữu của quốc gia vĩ đại này ; với lòng biết ơn sâu sắc và khiêm cung , tôi xin nhận sự đề cử của quý vị cho chức vụ tổng thống Hoa Kỳ .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Let me -- let me express -- let me express my thanks to the historic slate of candidates who accompanied me on this journey , and especially the one who traveled the farthest , a champion for working Americans and an inspiration to my daughters and to yours , Hillary Rodham Clinton .</s>
+<s id='vn3'>Xin cho tôi gởi lời cảm ơn đến những ứng cử viên quan trọng người đi cùng tôi trên chặng đường này , và nhất là người đã đi xa nhất - người đi đầu các hoạt động vì người lao động Hoa Kỳ và nguồn cảm hứng cho con gái của tôi và của bạn - Hillary Rodham Clinton .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>To President Clinton , who made last night the case for change as only he can make it .... to Ted Kennedy , who embodies the spirit of service .... and to the next vice president of the United States , Joe Biden , I thank you .</s>
+<s id='vn4'>Đến Tổng thống Clinton , người đêm qua tạo ra sự thay đổi như chỉ anh ấy có thể làm nó ; Đến Ted Kennedy , người tiêu biểu cho tinh thần phụng sự ; và phó tổng thống tương lai của Hoa Kỳ , Joe Biden , tôi cảm ơn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>I am grateful to finish this journey with one of the finest statesmen of our time , a man at ease with everyone from world leaders to the conductors on the Amtrak train he still takes home every night .</s>
+<s id='vn5'>Tôi rất biết ơn hoàn thành hành trình này với một chính khách lỗi lạc nhất của thời đại chúng tôi , một người đàn ông thoải mái với mọi người từ các nhà lãnh đạo thế giới đến tài xế xe lửa Amtrak anh ấy vẫn về nhà mỗi đêm .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>To the love of my life , our next first lady , Michelle Obama .. .... and to Malia and Sasha , I love you so much , and I am so proud of you .</s>
+<s id='vn6'>Đến tình yêu của đời tôi , đệ nhất phu nhân tương lai của chúng tôi , Michelle Obama , và Malia và Sasha - Tôi yêu bạn rất nhiều , và tôi rất tự hào về các bạn .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Four years ago , I stood before you and told you my story , of the brief union between a young man from Kenya and a young woman from Kansas who were n't well-off or well-known , but shared a belief that in America their son could achieve whatever he put his mind to .</s>
+<s id='vn7'>Bốn năm trước đây , tôi đứng trước bạn và kể cho bạn câu chuyện của tôi - về sự kết hôn giữa chàng trai từ Kenya và một cô gái trẻ từ Kansas người không khá giả hoặc nổi tiếng , nhưng có cùng quan điểm rằng ở Hoa Kỳ , con trai của họ có thể đạt được những gì anh ấy đặt tâm trí của anh ấy đến .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>It is that promise that 's always set this country apart , that through hard work and sacrifice each of us can pursue our individual dreams , but still come together as one American family , to ensure that the next generation can pursue their dreams , as well .</s>
+<s id='vn8'>Đó chính là lời hứa đó có luôn làm đất nước này khác những đất nước khác - nhờ tính chăm chỉ và sự hi sinh , mỗi chúng ta có thể theo đuổi ước mơ riêng của mình nhưng vẫn đến với nhau như một đại gia đình Hoa Kỳ , để đảm bảo đó thế hệ tiếp theo có thể theo đuổi giấc mơ của họ tương tự .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>It is the reasons for my standing here , tonight .</s>
+<s id='vn9'>Đó là lý do tại sao tôi đứng đây đêm nay .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>America , we are better than these last eight years .</s>
+<s id='vn10'>Hoa Kỳ , chúng ta tốt hơn những tám năm vừa qua .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>We are a better country than this .</s>
+<s id='vn11'>Chúng tôi là một đất nước tốt hơn hiện nay .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This country is more decent than one where a woman in Ohio , on the brink of retirement , finds herself one illness away from disaster after a lifetime of hard work .</s>
+<s id='vn12'>Quốc gia này đàng hoàng hơn một nơi phụ nữ ở Ohio , sắp nghỉ hưu , thấy mình một bị bỏ rơi vì bị bệnh sau quãng đời làm việc chăm chỉ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>We 're a better country than one where a man in Indiana has to pack up the equipment that he 's worked on for 20 years and watch as it 's shipped off to China , and then chokes up as he explains how he felt like a failure when he went home to tell his family the news .</s>
+<s id='vn13'>Quốc gia này hào phóng hơn một nơi một người đàn ông ở Indiana phải thu xếp dụng cụ anh ấy đang làm việc trên trong 20 năm và xem nó bị chuyển sang Trung Quốc , rồi đau buồn như anh ấy giải thích cách anh ấy cảm thấy như một thất bại khi anh ấy về nhà để nói cho gia đình biết tin .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>We are more compassionate than a government that lets veterans sleep on our streets and families slide into poverty that sits that sits on its hands while a major American city drowns before our eyes .</s>
+<s id='vn14'>Chúng tôi từ bi hơn chính quyền cho phép cựu chiến binh ngủ trên đường phố và gia đình của chúng tôi rơi vào cảnh túng quẫn ; đó ngồi khoanh tay trong khi một thành phố lớn của Hoa Kỳ bị ngập lụt trước mắt chúng ta .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Tonight , tonight , I say to the people of America , to Democrats and Republicans and independents across this great land : Enough .</s>
+<s id='vn15'>Đêm nay , tôi nói người dân Hoa Kỳ , để ứng cử viên độc lập và người của đảng Cộng hoà và đảng viên đảng Dân Chủ trên toàn xứ sở vĩ đại này - Đủ rồi ! .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>This moment , this election is our chance to keep , in the 21st century , the American promise alive .</s>
+<s id='vn16'>Khoảnh khắc này , cuộc bầu cử này là cơ hội của chúng tôi để giữ , trong thế kỷ 21 , lời hứa của đất nước Hoa Kỳ tồn tại .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>Because next week , in Minnesota , the same party that brought you two terms of George Bush and Dick Cheney will ask this country for a third .</s>
+<s id='vn17'>Bởi vì tuần tới , trong Minnesota , cùng đảng phái đó mang đến cho bạn hai nhiệm kỳ của Dick Cheney và George Bush sẽ yêu cầu quốc gia này cho nhiệm kỳ thứ ba .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>And we are here we are here because we love this country too much to let the next four years look just like the last eight .</s>
+<s id='vn18'>Và chúng tôi đang ở đây vì chúng tôi yêu quốc gia này nhiều đến nỗi không thể để bốn năm tới trông giống như tám vừa qua .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>On November 4th , we must stand up and say : Eight is enough .</s>
+<s id='vn19'>Vào ngày 4 tháng 11 , chúng ta phải đứng lên và nói : tám là đủ .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Now , let me -- let there be no doubt .</s>
+<s id='vn20'>Bây giờ xin đừng nghi ngại .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>The Republican nominee , John McCain , has worn the uniform of our country with bravery and distinction , and for that we owe him our gratitude and our respect .</s>
+<s id='vn21'>Người được chỉ định của Đảng Cộng hoà , John McCain , đã mặc đồng phục đất nước của chúng tôi với lòng dũng cảm và sự xuất sắc , và cho rằng chúng tôi nợ anh ấy biết ơn và kính trọng của chúng tôi .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>And next week , we 'll also hear about those occasions when he 's broken with his party as evidence that he can deliver the change that we need .</s>
+<s id='vn22'>Và tuần tới , chúng ta cũng sẽ nghe về các dịp đó khi anh ấy bất đồng với đảng của anh ấy như bằng chứng rằng anh ấy có thể đem đến sự thay đổi mà chúng tôi cần .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>But the record 's clear :</s>
+<s id='vn23'>Nhưng hồ sơ rõ ràng :</s>
+</spair>
+<spair id='24'>
+<s id='en24'>John McCain has voted with George Bush 90 percent of the time .</s>
+<s id='vn24'>John McCain bỏ phiếu thuận với George Bush gần như mọi lúc .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Senator McCain likes to talk about judgment , but , really , what does it say about your judgment when you think George Bush has been right more than 90 percent of the time ?</s>
+<s id='vn25'>Thượng nghị sĩ McCain thích nói về sự đánh giá , nhưng thật sự , nó nói gì về phán quyết của bạn khi bạn nghĩ George Bush đúng trong hầu hết mọi trường hợp ?</s>
+</spair>
+<spair id='26'>
+<s id='en26'>I do n't know about you , but I am not ready to take a 10 percent chance on change .</s>
+<s id='vn26'>Tôi không biết về bạn , nhưng tôi sẽ không sẵn sàng lấy cơ hội mười phần trăm trên thay đổi .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The truth is , on issue after issue that would make a difference in your lives - on health care , and education , and the economy - Senator McCain has been anything but independent .</s>
+<s id='vn27'>Sự thật là , từ vấn đề này sang vấn đề khác đó sẽ làm sự khác biệt trong đời của bạn - trên giáo dục và chăm sóc sức khoẻ và kinh tế - Thượng nghị sĩ McCain không đứng độc lập .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>He said that our economy has made great progress under this president .</s>
+<s id='vn28'>Anh ấy nói rằng kinh tế của chúng tôi đã làm " tiến bộ to lớn " dưới thời tổng thống hiện nay .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>He said that the fundamentals of the economy are strong .</s>
+<s id='vn29'>Anh ấy nói rằng những nền tảng cơ bản của nền kinh tế đang mạnh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>And when one of his chief advisers , the man who wrote his economic plan , was talking about the anxieties that Americans are feeling , he said that we were just suffering from a mental recession and that we 've become , and I quote , " a nation of whiners . "</s>
+<s id='vn30'>Và khi một cố vấn chính của anh ấy - người đàn ông viết kế hoạch kinh tế của anh ấy - đang nói về sự lo âu của người dân Hoa Kỳ đang cảm nhận thấy , anh ấy nói rằng chúng tôi vừa chịu " tình trạng suy thoái về mặt tinh thần , " và rằng chúng tôi đã trở thành , và tôi trích dẫn , " đất nước của những kẻ than vãn . "</s>
+</spair>
+<spair id='31'>
+<s id='en31'>A nation of whiners ?</s>
+<s id='vn31'>Đất nước của những kẻ than vãn ?</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Tell that to the proud auto workers at a Michigan plant who , after they found out it was closing , kept showing up every day and working as hard as ever , because they knew there were people who counted on the brakes that they made .</s>
+<s id='vn32'>Nói điều đó cho công nhân xe hơi tự hào tại một nhà máy Michigan người , sau khi họ tìm hiểu nó sắp bị đóng , cứ xuất hiện mỗi ngày và làm việc chăm chỉ như bao giờ , vì họ biết có những người trông chờ vào phanh họ làm .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Tell that to the military families who shoulder their burdens silently as they watch their loved ones leave for their third , or fourth , or fifth tour of duty .</s>
+<s id='vn33'>Nói điều đó cho gia đình quân nhân người nâng lên vai gánh nặng của họ lặng lẽ như họ xem những người thân yêu của họ đi thứ năm hoặc thứ ba hay thứ tư của họ chuyến công tác .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>These are not whiners .</s>
+<s id='vn34'>Này không phải là những kẻ than vãn .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>They work hard , and they give back , and they keep going without complaint .</s>
+<s id='vn35'>Họ làm việc chăm chỉ và cho đi và tiếp tục sống mà không hề than vãn .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>These are the Americans I know .</s>
+<s id='vn36'>Đó là những người Mỹ rằng tôi biết .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Now , I do n't believe that Senator McCain does n't care what 's going on in the lives of Americans .</s>
+<s id='vn37'>Bây giờ , tôi không tin rằng Thượng nghị sĩ McCain không quan tâm chuyện đang xảy ra trong sống của người Mỹ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Why else would he define middle-class as someone making under $ 5 million a year ?</s>
+<s id='vn38'>Tại sao khác sẽ anh ấy định nghĩa trung lưu là ai đó làm dưới năm triệu đô la một năm ?</s>
+</spair>
+<spair id='39'>
+<s id='en39'>How else could he propose hundreds of billions in tax breaks for big corporations and oil companies , but not one penny of tax relief to more than 100 million Americans ?</s>
+<s id='vn39'>Cách khác có thể anh ấy đề nghị hàng trăm tỉ trong giảm thuế cho công ty dầu và các công ty lớn nhưng không một xu giảm thuế để hơn một trăm triệu dân Hoa Kỳ ?</s>
+</spair>
+<spair id='40'>
+<s id='en40'>How else could he offer a health care plan that would actually tax people 's benefits , or an education plan that would do nothing to help families pay for college , or a plan that would privatize Social Security and gamble your retirement ?</s>
+<s id='vn40'>Cách khác có thể anh ấy đưa ra kế hoạch chăm sóc sức khoẻ đó sẽ thực sự đánh thuế trên thu nhập của mọi người , hoặc kế hoạch giáo dục mà sẽ không làm gì để giúp gia đình trả tiền trường cao đẳng , hoặc kế hoạch sẽ tư hữu hoá an sinh xã hội và đánh cược trên sự hưu trí của bạn ?</s>
+</spair>
+<spair id='41'>
+<s id='en41'>It 's not because John McCain does n't care ; it 's because John McCain does n't get it .</s>
+<s id='vn41'>Không phải vì John McCain không quan tâm , đó là vì John McCain không hiểu .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>For over two decades , he 's subscribed to that old , discredited Republican philosophy : Give more and more to those with the most and hope that prosperity trickles down to everyone else .</s>
+<s id='vn42'>Cho hai thập niên qua , anh ấy tán thành đó triết lý cũ rích , mất uy tín của Đảng cộng hoà - cho càng ngày càng nhiều cho những người có nhiều ưu thế nhất và hy vọng là thịnh vượng từ từ xuống đến tất cả những người khác .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>In Washington , they call this the " Ownership Society , " but what it really means is that you 're on your own .</s>
+<s id='vn43'>Ở Washington , họ gọi đây là Ownership Society , nhưng ý nghĩa thật sự của nó là - bạn tự mình xoay xở .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Out of work ?</s>
+<s id='vn44'>Thất nghiệp ?</s>
+</spair>
+<spair id='45'>
+<s id='en45'>No health care ?</s>
+<s id='vn45'>Không được chăm sóc sức khoẻ ?</s>
+</spair>
+<spair id='46'>
+<s id='en46'>The market will fix it .</s>
+<s id='vn46'>Thị trường sẽ điều chỉnh nó .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Born into poverty ?</s>
+<s id='vn47'>Sinh ra trong nghèo khổ ?</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Pull yourself up by your own bootstraps , even if you do n't have boots .</s>
+<s id='vn48'>Tự mình cố gắng vươn lên - cho dù bạn không có khởi động .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>You are on your own .</s>
+<s id='vn49'>Bạn tự mình xoay xở .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Well , it 's time for them to own their failure .</s>
+<s id='vn50'>Tốt đã đến lúc chúng thừa nhận thất bại của họ .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>It 's time for us to change America .</s>
+<s id='vn51'>Đã đến lúc chúng tôi thay đổi Hoa Kỳ .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>You see , we Democrats have a very different measure of what constitutes progress in this country .</s>
+<s id='vn52'>Bạn thấy đó , đảng viên Đảng Dân Chủ chúng tôi có biện pháp rất khác của những gì là tiến bộ trong quốc gia này .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>We measure progress by how many people can find a job that pays the mortgage , whether you can put a little extra money away at the end of each month so you can someday watch your child receive her college diploma .</s>
+<s id='vn53'>Chúng tôi đo sự tiến bộ do có bao nhiêu người có thể tìm một công việc trả thế chấp ; liệu bạn có thể dành dụm thêm một ít tiền vào cuối mỗi tháng để bạn có thể một ngày nào đó xem con của bạn nhận bằng đại học cô ấy .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>We measure progress in the 23 million new jobs that were created when Bill Clinton was president ... when the average American family saw its income go up $7,500 instead of go down $2,000 , like it has under George Bush .</s>
+<s id='vn54'>Chúng tôi đo sự tiến bộ trong 23 triệu công việc mới đó là tạo ra khi Bill Clinton là tổng thống - khi gia đình người Mỹ thông thường xem thu nhập của nó tăng lên $7,500 thay vì xuống $2,000 như trước đây dưới George Bush .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>We measure the strength of our economy not by the number of billionaires we have or the profits of the Fortune 500 , but by whether someone with a good idea can take a risk and start a new business , or whether the waitress who lives on tips can take a day off and look after a sick kid without losing her job , an economy that honors the dignity of work .</s>
+<s id='vn55'>Chúng tôi đo lường sức mạnh của kinh tế của chúng tôi không phải do số các tỉ phú chúng tôi có hoặc lợi tức của những công ty theo tạp chí Fortune 500 , nhưng bằng cách tính xem ai đó với một ý tưởng hay có thể chấp nhận rủi ro và bắt đầu hoạt động kinh doanh mới , hoặc tính xem cô hầu bàn sống bằng tiền boa có thể nghỉ một ngày để chăm sóc đứa trẻ bị bệnh mà không mất công ăn việc làm - kinh tế bày tỏ sự ngưỡng mộ giá trị đích thực của lao động .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>The fundamentals we use to measure economic strength are whether we are living up to that fundamental promise that has made this country great , a promise that is the only reason I am standing here tonight .</s>
+<s id='vn56'>Những nền tảng cơ bản chúng tôi sử dụng để đo lường sức mạnh kinh tế là liệu chúng ta đang sống theo lời hứa cơ bản đó tạo nên sự vĩ đại của đất nước này - lời hứa là lý do duy nhất tôi đang đứng ở đây đêm nay .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Because , in the faces of those young veterans who come back from Iraq and Afghanistan , I see my grandfather , who signed up after Pearl Harbor , marched in Patton 's army , and was rewarded by a grateful nation with the chance to go to college on the G. I. Bill .</s>
+<s id='vn57'>Bởi vì trên gương mặt của những cựu chiến binh trẻ người trở lại từ Afghanistan và Iraq , tôi thấy ông của tôi , người đăng tên nhập ngũ sau vụ Trân Châu Cảng , đã diễu hành trong quân đội của Patton , và được khen thưởng bởi quốc gia biết ơn với cơ hội đi học đại học theo Luật ưu đãi cựu chiến binh vào đại học .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>In the face of that young student , who sleeps just three hours before working the night shift , I think about my mom , who raised my sister and me on her own while she worked and earned her degree , who once turned to food stamps , but was still able to send us to the best schools in the country with the help of student loans and scholarships .</s>
+<s id='vn58'>Trên gương mặt của sinh viên người ngủ chỉ có ba tiếng đồng hồ trước khi làm việc ca đêm , tôi nghĩ về mẹ của tôi , người một mình nuôi em gái của tôi và tôi trong khi cô ấy làm việc và kiếm mảnh bằng ; người từng hướng về phiếu trợ cấp thực phẩm nhưng vẫn còn có thể gởi chúng tôi đến trường học tốt nhất ở miền quê với sự giúp đỡ của tiền vay và học bổng dành cho sinh viên .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>When I listen to another worker tell me that his factory has shut down , I remember all those men and women on the South Side of Chicago who I stood by and fought for two decades ago after the local steel plant closed .</s>
+<s id='vn59'>Khi tôi lắng nghe người công nhân khác bảo với tôi rằng nhà máy của anh ấy đã đóng cửa , tôi nhớ tất cả phụ nữ và các nam giới đó vào phía nam của Chicago người tôi ủng hộ và chiến đấu cho hai thập niên trước đây sau khi nhà máy thép ở địa phương đóng cửa .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>And when I hear a woman talk about the difficulties of starting her own business or making her way in the world , I think about my grandmother , who worked her way up from the secretarial pool to middle management , despite years of being passed over for promotions because she was a woman .</s>
+<s id='vn60'>Và khi tôi nghe một phụ nữ nói về khó khăn của ra làm ăn riêng , tôi nghĩ về bà nội của tôi , ai làm việc chăm chỉ từ chức thư ký đến quản lý bậc trung , mặc dù nhiều năm không được thăng chức vì cô ấy là một phụ nữ .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>She 's the one who taught me about hard work .</s>
+<s id='vn61'>Cô ấy là người mà dạy tôi về sự chăm chỉ .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>She 's the one who put off buying a new car or a new dress for herself so that I could have a better life .</s>
+<s id='vn62'>Cô ấy là người mà hoãn lại mua xe hơi mới hoặc áo mới cho mình sao cho tôi có thể có cuộc sống tốt hơn .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>She poured everything she had into me .</s>
+<s id='vn63'>Cô ấy rót mọi thứ cô ấy có vào tôi .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>And although she can no longer travel , I know that she 's watching tonight and that tonight is her night , as well .</s>
+<s id='vn64'>Và mặc dù cô ấy không còn có thể du lịch , tôi biết là cô ấy đang theo dõi đêm nay , và đó đêm nay cũng là đêm cô ấy .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Now , I do n't know what kind of lives John McCain thinks that celebrities lead , but this has been mine .</s>
+<s id='vn65'>Tôi không biết McCain John nghĩ là những người nổi tiếng sống như thế nào , nhưng cái này từng là của tôi .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>These are my heroes .</s>
+<s id='vn66'>Đây là anh hùng của tôi .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>And it is on behalf of them that I intend to win this election and keep our promise alive as president of the United States .</s>
+<s id='vn67'>Của họ là những câu chuyện tạo hình tôi . Và vì thay mặt cho họ nên tôi dự định thắng cử lần này và giữ lời hứa của chúng tôi tồn tại trên cương vị tổng thống Hoa Kỳ .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>What is that American promise ?</s>
+<s id='vn68'>Lời hứa đó là gì ?</s>
+</spair>
+<spair id='69'>
+<s id='en69'>It 's a promise that says each of us has the freedom to make of our own lives what we will , but that we also have obligations to treat each other with dignity and respect .</s>
+<s id='vn69'>Nó là lời hứa nói mỗi chúng ta được tự do mà sống một cuộc sống theo ý mình , nhưng rằng chúng tôi còn có nghĩa vụ đối xử với nhau với tử tế và tôn trọng .</s>
+</spair>
+<spair id='70'>
+<s id='en70'>It 's a promise that says the market should reward drive and innovation and generate growth , but that businesses should live up to their responsibilities to create American jobs , to look out for American workers , and play by the rules of the road .</s>
+<s id='vn70'>Nó là lời hứa nói thị trường nên phần thưởng tạo ra sự tăng trưởng và nỗ lực và sáng tạo , nhưng đó các doanh nghiệp sẽ sống theo trách nhiệm của họ để tạo việc làm Mỹ , coi chừng công nhân American , và chơi bằng luật của con đường .</s>
+</spair>
+<spair id='71'>
+<s id='en71'>Ours is a promise that says government cannot solve all our problems , but what it should do is that which we cannot do for ourselves : protect us from harm and provide every child a decent education ; keep our water clean and our toys safe ; invest in new schools , and new roads , and science , and technology .</s>
+<s id='vn71'>Của chúng tôi là lời hứa nói chính phủ không thể giải quyết tất cả vấn đề của chúng tôi , nhưng điều mà nó nên làm là đó mà chúng ta không thể làm cho mình - giữ chúng tôi khỏi hại và cung cấp mọi đứa bé giáo dục đàng hoàng ; giữ sạch nước của chúng tôi và đồ chơi của chúng tôi an toàn ; đầu tư vào ở những trường mới và đường sá mới và khoa học mới và công nghệ .</s>
+</spair>
+<spair id='72'>
+<s id='en72'>Our government should work for us , not against us .</s>
+<s id='vn72'>Chính phủ của chúng tôi phải làm việc cho chúng tôi , không chống lại chúng tôi .</s>
+</spair>
+<spair id='73'>
+<s id='en73'>It should help us , not hurt us .</s>
+<s id='vn73'>Nó sẽ giúp chúng ta , không xúc phạm chúng tôi .</s>
+</spair>
+<spair id='74'>
+<s id='en74'>It should ensure opportunity not just for those with the most money and influence , but for every American who 's willing to work .</s>
+<s id='vn74'>Nó sẽ đảm bảo cơ hội không chỉ cho những người có nhiều ưu thế nhất ảnh hưởng và tiền , nhưng cho từng người Mỹ muốn làm việc .</s>
+</spair>
+<spair id='75'>
+<s id='en75'>That 's the promise of America , the idea that we are responsible for ourselves , but that we also rise or fall as one nation , the fundamental belief that I am my brother 's keeper , I am my sister 's keeper .</s>
+<s id='vn75'>Đó là lời hứa của Hoa Kỳ - ý tưởng chúng tôi chịu trách nhiệm về mình , nhưng rằng chúng tôi cũng đi lên hoặc đi xuống như một đất nước thống nhất ; đức tin căn bản rằng tôi đang keeper của em trai của tôi ; tôi đang keeper của chị của tôi .</s>
+</spair>
+<spair id='76'>
+<s id='en76'>That 's the promise we need to keep .</s>
+<s id='vn76'>Đó là lời hứa chúng ta cần giữ .</s>
+</spair>
+<spair id='77'>
+<s id='en77'>That 's the change we need right now .</s>
+<s id='vn77'>Đó là thay đổi mà chúng tôi cần ngay bây giờ .</s>
+</spair>
+<spair id='78'>
+<s id='en78'>So -- so let me -- let me spell out exactly what that change would mean if I am president .</s>
+<s id='vn78'>Vậy là để tôi giải thích rõ ràng chính xác những gì đó thay đổi sẽ nghĩa là nếu tôi là tổng thống .</s>
+</spair>
+<spair id='79'>
+<s id='en79'>Change means a tax code that does n't reward the lobbyists who wrote it , but the American workers and small businesses who deserve it .</s>
+<s id='vn79'>Thay đổi nghĩa là khoản thuế mã không phần thưởng người vận động hành lang viết thư cho nó , nhưng người Mỹ công nhân và các doanh nghiệp nhỏ người xứng đáng với nó .</s>
+</spair>
+<spair id='80'>
+<s id='en80'>You know , unlike John McCain , I will stop giving tax breaks to companies that ship jobs overseas , and I will start giving them to companies that create good jobs right here in America .</s>
+<s id='vn80'>Trái với John McCain , tôi sẽ ngừng trao giảm thuế để các công ty đó công việc con tàu nước ngoài , và tôi sẽ bắt đầu mang lại cho họ để công ty đó tạo công việc tốt ngay đây ở Mỹ .</s>
+</spair>
+<spair id='81'>
+<s id='en81'>I 'll eliminate capital gains taxes for the small businesses and start-ups that will create the high-wage , high-tech jobs of tomorrow .</s>
+<s id='vn81'>Tôi sẽ loại bỏ thuế lợi nhuận từ đầu tư vốn cho các doanh nghiệp nhỏ và start - mọi sẽ tạo ra cao-lương , công việc công nghệ cao của ngày mai .</s>
+</spair>
+<spair id='82'>
+<s id='en82'>I will cut taxes -- for 95 percent of all working families , because , in an economy like this , the last thing we should do is raise taxes on the middle class .</s>
+<s id='vn82'>Tôi sẽ thuế cắt - cho 95% của tất cả gia đình làm việc vì kinh tế như sau , điều cuối cùng chúng ta nên làm là tăng thuế trên trung lưu .</s>
+</spair>
+<spair id='83'>
+<s id='en83'>And for the sake of our economy , our security , and the future of our planet , I will set a clear goal as president : In 10 years , we will finally end our dependence on oil from the Middle East .</s>
+<s id='vn83'>Và vì lợi ích của kinh tế của chúng tôi , an ninh của chúng tôi , và tương lai của hành tinh của chúng tôi , tôi sẽ xác lập một mục tiêu rõ ràng như tổng thống : trong mười năm , chúng tôi sau cùng sẽ chấm dứt của chúng tôi lệ thuộc vào dầu từ Trung Đông .</s>
+</spair>
+<spair id='84'>
+<s id='en84'>Washington has been talking about our oil addiction for the last 30 years .</s>
+<s id='vn84'>Washington đã nói về ma túy dầu của chúng tôi trong suốt ba mươi năm qua .</s>
+</spair>
+<spair id='85'>
+<s id='en85'>And , by the way , John McCain has been there for 26 of them .</s>
+<s id='vn85'>Và John McCain có được ở đó cho hai mươi sáu - người .</s>
+</spair>
+<spair id='86'>
+<s id='en86'>And in that time , he has said no to higher fuel_fuel-efficiency standards for cars , no to investments in renewable energy , no to renewable fuels .</s>
+<s id='vn86'>Trong thời gian đó , anh ấy là từ chối nhiên liệu cao - hiệu suất tiêu chuẩn cho xe hơi , không để đầu tư năng lượng có thể phục hồi lại , không cho nhiên liệu tái sinh .</s>
+</spair>
+<spair id='87'>
+<s id='en87'>And today , we import triple the amount of oil than we had on the day that Senator McCain took office .</s>
+<s id='vn87'>Và hôm nay , chúng tôi nhập khẩu tăng gấp ba lượng dầu như ngày Thượng nghị sĩ McCain lấy văn phòng .</s>
+</spair>
+<spair id='88'>
+<s id='en88'>Now is the time to end this addiction and to understand that drilling is a stop-gap measure , not a long-term solution , not even close .</s>
+<s id='vn88'>Bây giờ là lúc để chấm dứt ma túy này , và hiểu rằng đang khoan là dừng lại - khoảng trống biện pháp , không phải giải pháp lâu dài . Sát ngay cả .</s>
+</spair>
+<spair id='89'>
+<s id='en89'>As president , I will tap our natural gas reserves , invest in clean coal technology , and find ways to safely harness nuclear power .</s>
+<s id='vn89'>Như tổng thống , tôi sẽ điều tiết trữ lượng khí thiên nhiên của chúng tôi , đầu tư vào công nghệ than sạch , và tìm cách yên cương năng lượng hạt nhân một cách an toàn .</s>
+</spair>
+<spair id='90'>
+<s id='en90'>I 'll help our auto companies re-tool , so that the fuel-efficient cars of the future are built right here in America .</s>
+<s id='vn90'>Tôi sẽ giúp công ty xe hơi của chúng tôi trả lời - công cụ , sao cho xe hơi tiết kiệm nhiên liệu của tương lai được xây dựng ngay đây ở Mỹ .</s>
+</spair>
+<spair id='91'>
+<s id='en91'>I 'll make it easier for the American people to afford these new cars .</s>
+<s id='vn91'>Tôi sẽ làm dễ dàng cho người dân Hoa Kỳ để mua xe hơi mới này .</s>
+</spair>
+<spair id='92'>
+<s id='en92'>And I 'll invest $ 150 billion over the next decade in affordable , renewable sources of energy -- wind power , and solar power , and the next generation of biofuels -- an investment that will lead to new industries and 5 million new jobs that pay well and ca n't be outsourced .</s>
+<s id='vn92'>Và tôi sẽ đầu tư 150 tỉ đô-la trên thập kỷ sau ở trong tầm tay , nguồn năng lượng tái sinh - sức gió và năng lượng mặt trời và thế hệ kế tiếp của sinh học ; đầu tư sẽ lãnh đạo để ngành công nghiệp mới và năm triệu công việc mới đó trả lương hậu hĩ và không thể bao giờ được thuê ngoài gia công .</s>
+</spair>
+<spair id='93'>
+<s id='en93'>America , now is not the time for small plans .</s>
+<s id='vn93'>Hoa Kỳ , bây giờ không phải là thời gian cho kế hoạch nhỏ .</s>
+</spair>
+<spair id='94'>
+<s id='en94'>Now is the time to finally meet our moral obligation to provide every child a world-class education , because it will take nothing less to compete in the global economy .</s>
+<s id='vn94'>Bây giờ là lúc để cuối cùng thực hiện nghĩa vụ tinh thần của chúng tôi để cung cấp mọi đứa bé giáo dục tầm cỡ quốc tế , vì sẽ không dễ cạnh tranh trong nền kinh tế toàn cầu .</s>
+</spair>
+<spair id='95'>
+<s id='en95'>You know , Michelle and I are only here tonight because we were given a chance at an education .</s>
+<s id='vn95'>Michelle và tôi chỉ được ở đây đêm nay vì chúng tôi được trao cho một cơ hội tại giáo dục .</s>
+</spair>
+<spair id='96'>
+<s id='en96'>And I will not settle for an America where some kids do n't have that chance .</s>
+<s id='vn96'>Và tôi sẽ không chấp nhận Hoa Kỳ nơi một số trẻ không có cơ hội đó .</s>
+</spair>
+<spair id='97'>
+<s id='en97'>I 'll invest in early childhood education .</s>
+<s id='vn97'>Tôi sẽ đầu tư vào giáo dục tuổi thơ .</s>
+</spair>
+<spair id='98'>
+<s id='en98'>I 'll recruit an army of new teachers , and pay them higher salaries , and give them more support .</s>
+<s id='vn98'>Tôi sẽ tuyển lực lượng giáo viên mới , và trả cho họ lương cao hơn và mang lại cho họ nhiều hỗ trợ hơn .</s>
+</spair>
+<spair id='99'>
+<s id='en99'>And in exchange , I 'll ask for higher standards and more accountability .</s>
+<s id='vn99'>Và đổi lại , tôi sẽ xin tiêu chuẩn cao và còn nhiều hơn thế nữa tinh thần trách nhiệm .</s>
+</spair>
+<spair id='100'>
+<s id='en100'>And we will keep our promise to every young American : If you commit to serving your community or our country , we will make sure you can afford a college education .</s>
+<s id='vn100'>Và chúng tôi sẽ giữ lời hứa của chúng tôi đến mọi trẻ Mỹ - nếu bạn cam kết để phục vụ cộng đồng của bạn hoặc đất nước của bạn , chúng tôi sẽ chắc chắn bạn đủ khả năng vào đại học .</s>
+</spair>
+<spair id='101'>
+<s id='en101'>Now is the time to finally keep the promise of affordable , accessible health care for every single American .</s>
+<s id='vn101'>Bây giờ là lúc để cuối cùng giữ lời hứa của chăm sóc sức khoẻ mọi người cho từng người Mỹ .</s>
+</spair>
+<spair id='102'>
+<s id='en102'>If you have health care , my plan will lower your premiums .</s>
+<s id='vn102'>Nếu bạn có chăm sóc sức khoẻ , kế hoạch của tôi sẽ giảm tiền mua bảo hiểm của bạn .</s>
+</spair>
+<spair id='103'>
+<s id='en103'>If you do n't , you 'll be able to get the same kind of coverage that members of Congress give themselves .</s>
+<s id='vn103'>Nếu bạn không , bạn sẽ có thể được bảo hiểm y hệt như các đại biểu quốc hội .</s>
+</spair>
+<spair id='104'>
+<s id='en104'>And as someone who watched my mother argue with insurance companies while she lay in bed dying of cancer , I will make certain those companies stop discriminating against those who are sick and need care the most .</s>
+<s id='vn104'>Và như người đã xem mẹ của tôi tranh cãi với công ty bảo hiểm trong khi cô ấy nằm trên giường chết vì ung thư , tôi sẽ làm một số các công ty đó ngừng phân biệt đối xử chống lại những người bệnh và cần quan tâm nhất .</s>
+</spair>
+<spair id='105'>
+<s id='en105'>Now is the time to help families with paid sick days and better family leave , because nobody in America should have to choose between keeping their job and caring for a sick child or an ailing parent .</s>
+<s id='vn105'>Bây giờ là lúc để giúp các gia đình ngày nghỉ bệnh có hưởng lương và nghỉ vì việc nhà tốt hơn , vì không ai ở Mỹ nên phải chọn giữa giữ công việc của họ và quan tâm cho một đứa bé ốm hay cha mẹ đau ốm .</s>
+</spair>
+<spair id='106'>
+<s id='en106'>Now is the time to change our bankruptcy laws , so that your pensions are protected ahead of CEO bonuses , and the time to protect Social Security for future generations .</s>
+<s id='vn106'>Bây giờ là lúc thay đổi pháp luật phá sản của chúng tôi , sao cho tiền trợ cấp của bạn được bảo vệ ưu tiên hơn tiền thưởng CEO ; và thời gian để bảo vệ an sinh xã hội cho thế hệ mai sau .</s>
+</spair>
+<spair id='107'>
+<s id='en107'>And now is the time to keep the promise of equal pay for an equal day 's work , because I want my daughters to have the exact same opportunities as your sons .</s>
+<s id='vn107'>Và bây giờ là lúc giữ lời hứa của một ngày làm việc như nhau thì lương như nhau , vì tôi muốn con gái của tôi để có cùng cơ hội chính xác như con trai của bạn .</s>
+</spair>
+<spair id='108'>
+<s id='en108'>Now , many of these plans will cost money , which is why I 've laid out how I 'll pay for every dime : by closing corporate loopholes and tax havens that do n't help America grow .</s>
+<s id='vn108'>Bây giờ , khá nhiều kế hoạch này sẽ tốn tiền , điều đó khiến tôi có sắp xếp như thế nào tôi sẽ trả tiền mỗi hào - bằng cách đóng kẽ hở công ty và vùng ưu đãi về thuế má đó không giúp Hoa Kỳ phát triển .</s>
+</spair>
+<spair id='109'>
+<s id='en109'>But I will also go through the federal budget line by line , eliminating programs that no longer work and making the ones we do need work better and cost less , because we cannot meet 21st-century challenges with a 20th-century bureaucracy .</s>
+<s id='vn109'>Nhưng tôi cũng sẽ đi qua ngân sách liên bang , từng dòng một , loại bỏ chương trình đó không còn làm việc và khiến cho cái gì chúng tôi làm thì phải hoạt động tốt hơn và ít tốn kém hơn - vì chúng tôi không thể đối phó những thách thức của thế kỷ 21 với thói quan liêu thế kỷ hai mươi .</s>
+</spair>
+<spair id='110'>
+<s id='en110'>And , Democrats , we must also admit that fulfilling America 's promise will require more than just money .</s>
+<s id='vn110'>Và đảng viên đảng Dân Chủ , chúng tôi cũng phải thừa nhận đó thực hiện lời hứa của nước Mỹ sẽ đòi hỏi không chỉ có tiền mà thôi .</s>
+</spair>
+<spair id='111'>
+<s id='en111'>It will require a renewed sense of responsibility from each of us to recover what John F. Kennedy called our intellectual and moral strength .</s>
+<s id='vn111'>Nó sẽ đòi hỏi đổi mới tinh thần trách nhiệm từ mỗi chúng ta để khôi phục những gì John F. Kennedy gọi là " sức mạnh tinh thần và trí tuệ " của chúng tôi .</s>
+</spair>
+<spair id='112'>
+<s id='en112'>Yes , government must lead on energy independence , but each of us must do our part to make our homes and businesses more efficient .</s>
+<s id='vn112'>Vâng , chính phủ phải dựa vào sức lực của chính mình , nhưng mỗi chúng ta phải làm phần việc của mình để làm cho gia đình và doanh nghiệp của chúng ta có hiệu quả hơn .</s>
+</spair>
+<spair id='113'>
+<s id='en113'>Yes , we must provide more ladders to success for young men who fall into lives of crime and despair .</s>
+<s id='vn113'>Vâng , chúng ta phải cung cấp thêm nhiều phương tiện gặt hái thành công cho người thanh niên rơi vào cuộc sống tuyệt vọng và tội ác .</s>
+</spair>
+<spair id='114'>
+<s id='en114'>But we must also admit that programs alone ca n't replace parents , that government ca n't turn off the television and make a child do her homework , that fathers must take more responsibility to provide love and guidance to their children .</s>
+<s id='vn114'>Nhưng chúng tôi cũng phải thừa nhận đó chỉ một mình các chương trình thôi không thể thay thế cha mẹ ; chính phủ không thể tắt truyền hình và làm một đứa trẻ làm bài tập ở nhà ; đó người cha phải chịu trách nhiệm nhiều hơn nữa về cung cấp tình yêu và hướng dẫn con của họ cần .</s>
+</spair>
+<spair id='115'>
+<s id='en115'>Individual responsibility and mutual responsibility , that 's the essence of America 's promise .</s>
+<s id='vn115'>Trách nhiệm riêng và trách nhiệm lẫn nhau - đó là bản chất của lời hứa của nước Mỹ .</s>
+</spair>
+<spair id='116'>
+<s id='en116'>And just as we keep our promise to the next generation here at home , so must we keep America 's promise abroad .</s>
+<s id='vn116'>Và đúng như chúng tôi giữ của chúng tôi giữ lời hứa với thế hệ kế tiếp ngay trong xứ sở , vì vậy chúng ta phải giữ lời hứa của nước Mỹ ở nước ngoài .</s>
+</spair>
+<spair id='117'>
+<s id='en117'>If John McCain wants to have a debate about who has the temperament and judgment to serve as the next commander-in-chief , that 's a debate I 'm ready to have .</s>
+<s id='vn117'>Nếu John McCain muốn có tranh luận về người có khí chất , và phán quyết , để có tác dụng như tổng tư lệnh kế tiếp , đó là tranh luận tôi sẵn sàng có .</s>
+</spair>
+<spair id='118'>
+<s id='en118'>For while Senator McCain was turning his sights to Iraq just days after 9_11 , I stood up and opposed this war , knowing that it would distract us from the real threats that we face .</s>
+<s id='vn118'>Cho trong khi Thượng nghị sĩ McCain đang chĩa ống kính sang Iraq vài ngày sau 9 11 , tôi đứng lên và chống đối chiến tranh này , biết là nó sẽ làm cho chúng tôi sao lãng không chú ý đến đe doạ thật sự chúng tôi đối mặt với .</s>
+</spair>
+<spair id='119'>
+<s id='en119'>When John McCain said we could just muddle through in Afghanistan , I argued for more resources and more troops to finish the fight against the terrorists who actually attacked us on 9/11 , and made clear that we must take out Osama bin Laden and his lieutenants if we have them in our sights .</s>
+<s id='vn119'>Khi John McCain đã nói chúng ta chỉ có thể " xoay xở khó khăn " ở Afghanistan , tôi biện luận ủng hộ cho nhiều tài nguyên hơn và thêm binh lính cần hoàn thành cuộc đấu tranh chống bọn khủng bố thực sự tấn công chúng tôi vào 9/11 , và làm rõ rằng chúng tôi phải tiêu diệt Osama bin Laden và tuỳ tướng của hắn nếu chúng ta nhìn thấy chúng .</s>
+</spair>
+<spair id='120'>
+<s id='en120'>John McCain likes to say that he 'll follow bin Laden to the gates of Hell , but he wo n't even follow him to the cave where he lives .</s>
+<s id='vn120'>McCain thích nói rằng anh ấy sẽ theo bin Laden xuống địa ngục - nhưng anh ấy thậm chí cũng không đi đến hang nơi anh ấy sống .</s>
+</spair>
+<spair id='121'>
+<s id='en121'>And today , as my call for a timeframe to remove our troops from Iraq has been echoed by the Iraqi government and even the Bush administration , even after we learned that Iraq has $ 79 billion in surplus while we are wallowing in deficit , John McCain stands alone in his stubborn refusal to end a misguided war .</s>
+<s id='vn121'>Và hôm nay , như của tôi yêu cầu khung thời gian để rút quân của chúng tôi ra khỏi Iraq có được lặp lại bởi chính phủ Iraq và ngay cả chính quyền Bush , ngay cả sau khi chúng tôi biết đó Iraq có thặng dư 79 tỉ đô-la Mỹ trong khi chúng ta đang lao đao trong cảnh thiếu hụt , John McCain một mình khăng khăng từ chối để chấm dứt cuộc chiến lạc hướng .</s>
+</spair>
+<spair id='122'>
+<s id='en122'>That 's not the judgment we need ; that wo n't keep America safe .</s>
+<s id='vn122'>Đó không phải là phán quyết chúng tôi cần . Đó sẽ không giữ Hoa Kỳ an toàn .</s>
+</spair>
+<spair id='123'>
+<s id='en123'>We need a president who can face the threats of the future , not keep grasping at the ideas of the past .</s>
+<s id='vn123'>Chúng ta cần tổng thống có thể đối mặt với đe doạ của tương lai , không cố níu kéo những ý tưởng trong quá khứ .</s>
+</spair>
+<spair id='124'>
+<s id='en124'>You do n't defeat a terrorist network that operates in 80 countries by occupying Iraq.</s>
+<s id='vn124'>Bạn không đánh bại mạng lưới khủng bố đó vận hành trong 80 quốc gia bằng cách chiếm đóng Iraq .</s>
+</spair>
+<spair id='125'>
+<s id='en125'>You do n't protect Israel and deter Iran just by talking tough in Washington .</s>
+<s id='vn125'>Bạn không bảo vệ Israel và ngăn cản Iran chỉ bằng cách nói dai ở Washington .</s>
+</spair>
+<spair id='126'>
+<s id='en126'>You ca n't truly stand up for Georgia when you 've strained our oldest alliances .</s>
+<s id='vn126'>Bạn không thể thực sự bảo vệ Georgia khi bạn có căng thẳng các liên minh cũ của chúng tôi .</s>
+</spair>
+<spair id='127'>
+<s id='en127'>If John McCain wants to follow George Bush with more tough talk and bad strategy , that is his choice , but that is not the change that America needs .</s>
+<s id='vn127'>John McCain muốn ủng hộ George Bush bằng cách nói dai hơn và làm tệ hơn , đó là lựa chọn của anh ấy - nhưng nó không phải là thay đổi mà người Mỹ cần .</s>
+</spair>
+<spair id='128'>
+<s id='en128'>We are the party of Roosevelt .</s>
+<s id='vn128'>Chúng tôi là đảng của roosevelt .</s>
+</spair>
+<spair id='129'>
+<s id='en129'>We are the party of Kennedy .</s>
+<s id='vn129'>Chúng tôi là đảng của Kennedy .</s>
+</spair>
+<spair id='130'>
+<s id='en130'>So do n't tell me that Democrats wo n't defend this country .</s>
+<s id='vn130'>Vậy là đừng có bảo tôi rằng đảng viên đảng Dân Chủ sẽ không bảo vệ quốc gia này .</s>
+</spair>
+<spair id='131'>
+<s id='en131'>Do n't tell me that Democrats wo n't keep us safe .</s>
+<s id='vn131'>Đừng có bảo tôi rằng đảng viên đảng Dân Chủ sẽ không bảo vệ chúng tôi an toàn .</s>
+</spair>
+<spair id='132'>
+<s id='en132'>The Bush-McCain foreign policy has squandered the legacy that generations of Americans , Democrats and Republicans , have built , and we are here to restore that legacy .</s>
+<s id='vn132'>Bush-McCain chính sách đối ngoại có lãng phí di sản thế hệ của người Mỹ - đảng viên đảng Dân Chủ và người của đảng Cộng hoà - đã tạo nên , và chúng tôi đang ở đây để khôi phục lại di sản đó .</s>
+</spair>
+<spair id='133'>
+<s id='en133'>As commander-in-chief , I will never hesitate to defend this nation , but I will only send our troops into harm 's way with a clear mission and a sacred commitment to give them the equipment they need in battle and the care and benefits they deserve when they come home .</s>
+<s id='vn133'>Như tổng tư lệnh , tôi sẽ không bao giờ do dự để bảo vệ đất nước này , nhưng tôi sẽ chỉ gửi quân của chúng tôi vào nơi nguy hiểm với sứ mệnh rõ ràng và cam kết thiêng liêng để mang lại cho họ thiết bị họ cần tại trận và lợi ích và quan tâm họ xứng đáng với khi họ về nhà .</s>
+</spair>
+<spair id='134'>
+<s id='en134'>I will end this war in Iraq responsibly and finish the fight against Al Qaida and the Taliban in Afghanistan .</s>
+<s id='vn134'>Tôi sẽ chấm dứt chiến tranh này trong Iraq với tinh thần trách nhiệm , và kết thúc cuộc đấu tranh chống al Qaeda và Taliban trong Afghanistan .</s>
+</spair>
+<spair id='135'>
+<s id='en135'>I will rebuild our military to meet future conflicts ,</s>
+<s id='vn135'>Tôi sẽ xây dựng lại quân sự của chúng tôi để đối phó với các cuộc xung đột trong tương lai .</s>
+</spair>
+<spair id='136'>
+<s id='en136'>But I will also renew the tough , direct diplomacy that can prevent Iran from obtaining nuclear weapons and curb Russian aggression .</s>
+<s id='vn136'>Nhưng tôi cũng sẽ đổi mới chính sách ngoại giao thẳng thắn và cứng rắn đó có thể ngăn không cho Iran thu được vũ khí hạt nhân và kiềm chế xâm lược Nga .</s>
+</spair>
+<spair id='137'>
+<s id='en137'>I will build new partnerships to defeat the threats of the 21st century : terrorism and nuclear proliferation , poverty and genocide , climate change and disease .</s>
+<s id='vn137'>Tôi sẽ xây dựng sự cộng tác mới để đánh bại những mối đe doạ của thế kỷ 21 : khủng bố và triển khai vũ khí hạt nhân ; tội diệt chủng và sự nghèo khổ ; bệnh và thay đổi khí hậu .</s>
+</spair>
+<spair id='138'>
+<s id='en138'>And I will restore our moral standing so that America is once again that last , best hope for all who are called to the cause of freedom , who long for lives of peace , and who yearn for a better future .</s>
+<s id='vn138'>Và tôi sẽ khôi phục lại địa vị tinh thần của chúng tôi , sao cho America là một lần nữa niềm hy vọng cuối cùng tốt nhất cho tất cả những ai được kêu gọi đến với chính nghĩa tự do , người khát khao được sống bình yên , và người khao khát tương lai tốt hơn .</s>
+</spair>
+<spair id='139'>
+<s id='en139'>These are the policies I will pursue .</s>
+<s id='vn139'>Đây là chính sách tôi sẽ theo đuổi .</s>
+</spair>
+<spair id='140'>
+<s id='en140'>And in the weeks ahead , I look forward to debating them with John McCain .</s>
+<s id='vn140'>Và tuần tới , tôi mong được thảo luận chúng với John McCain .</s>
+</spair>
+<spair id='141'>
+<s id='en141'>But what I will not do is suggest that the senator takes his positions for political purposes .</s>
+<s id='vn141'>Nhưng những gì tôi sẽ không làm là đề nghị rằng Thượng nghị sĩ xác định vị thế cho mục đích chính trị .</s>
+</spair>
+<spair id='142'>
+<s id='en142'>Because one of the things that we have to change in our politics is the idea that people cannot disagree without challenging each other 's character and each other 's patriotism .</s>
+<s id='vn142'>Bởi vì một trong những thứ mà chúng tôi phải thay đổi trong nền chính trị của chúng tôi là ý tưởng mọi người không thể bất đồng mà không thách thức tính cách của nhau và lòng yêu nước .</s>
+</spair>
+<spair id='143'>
+<s id='en143'>The times are too serious , the stakes are too high for this same partisan playbook .</s>
+<s id='vn143'>Tình hình quá nghiêm trọng , số tiền đặt cược quá lớn cho bối cảnh đảng phái này .</s>
+</spair>
+<spair id='144'>
+<s id='en144'>So let us agree that patriotism has no party .</s>
+<s id='vn144'>Vậy là chúng ta hãy đồng ý đó đã yêu nước thì không có đảng phái .</s>
+</spair>
+<spair id='145'>
+<s id='en145'>I love this country , and so do you , and so does John McCain .</s>
+<s id='vn145'>Tôi yêu quốc gia này , và bạn cũng vậy , và cũng vậy John McCain .</s>
+</spair>
+<spair id='146'>
+<s id='en146'>The men and women who serve in our battlefields may be Democrats and Republicans and independents , but they have fought together , and bled together , and some died together under the same proud flag .</s>
+<s id='vn146'>Những người đàn ông và đàn bà phục vụ trong chiến trường của chúng tôi có thể là ứng cử viên độc lập và người của đảng Cộng hoà và đảng viên đảng Dân Chủ , nhưng họ đã cùng nhau chiến đấu và cùng nhau đổ máu và vài người chết với nhau dưới cờ tự hào giống nhau .</s>
+</spair>
+<spair id='147'>
+<s id='en147'>They have not served red a America or a blue America ; they have served the United States of America .</s>
+<s id='vn147'>Họ chưa phục vụ Red America hoặc Blue America - họ có phục vụ Hợp chủng quốc Hoa Kỳ .</s>
+</spair>
+<spair id='148'>
+<s id='en148'>So I 've got news for you , John McCain : We all put our country first .</s>
+<s id='vn148'>Vậy là tôi có tin tức cho bạn , John McCain Tất cả chúng ta đặt đất nước của chúng tôi lên trên hết .</s>
+</spair>
+<spair id='149'>
+<s id='en149'>America , our work will not be easy .</s>
+<s id='vn149'>Hoa Kỳ , công việc của chúng tôi sẽ không dễ dàng .</s>
+</spair>
+<spair id='150'>
+<s id='en150'>The challenges we face require tough choices .</s>
+<s id='vn150'>Thách thức chúng ta đối mặt đòi hỏi chọn lựa dứt khoát .</s>
+</spair>
+<spair id='151'>
+<s id='en151'>And Democrats , as well as Republicans , will need to cast off the worn-out ideas and politics of the past .</s>
+<s id='vn151'>Và đảng viên đảng Dân Chủ cũng như người của đảng Cộng hoà sẽ cần bỏ tư tưởng lỗi thời và chính trị trong quá khứ .</s>
+</spair>
+<spair id='152'>
+<s id='en152'>For part of what has been lost these past eight years ca n't just be measured by lost wages or bigger trade deficits .</s>
+<s id='vn152'>Đối với một phần của những gì đã bị mất tám năm qua không thể chỉ được đánh giá thông qua tiền lương bị hao hụt hoặc thâm hụt mậu dịch lớn .</s>
+</spair>
+<spair id='153'>
+<s id='en153'>What has also been lost is our sense of common purpose , and that 's what we have to restore .</s>
+<s id='vn153'>Những gì cũng đã bị mất là ý thức của chúng tôi cho mục đích chung , và đó là điều chúng tôi phải khôi phục lại .</s>
+</spair>
+<spair id='154'>
+<s id='en154'>We may not agree on abortion , but surely we can agree on reducing the number of unwanted pregnancies in this country .</s>
+<s id='vn154'>Chúng ta có thể không đồng ý về việc phá thai , nhưng chắc chắn chúng ta có thể đồng ý về việc giảm số các mang thai ngoài ý muốn trong quốc gia này .</s>
+</spair>
+<spair id='155'>
+<s id='en155'>The reality of gun ownership may be different for hunters in rural Ohio than they are for those plagued by gang violence in Cleveland , but do n't tell me we ca n't uphold the Second Amendment while keeping AK-47s out of the hands of criminals .</s>
+<s id='vn155'>Thực tế của quyền sở hữu súng có thể khác nhau đối với người đi săn ở nông thôn Ohio hơn cho những bị quấy rầy bởi bạo lực của băng đảng ở Cleveland , nhưng đừng có bảo tôi chúng tôi không thể ủng hộ Second Amendment trong khi ngăn không cho AK-47S lọt vào tay của tội phạm .</s>
+</spair>
+<spair id='156'>
+<s id='en156'>I know there are differences on same-sex marriage , but surely we can agree that our gay and lesbian brothers and sisters deserve to visit the person they love in a hospital and to live lives free of discrimination .</s>
+<s id='vn156'>Tôi biết có sự khác biệt về hôn nhân đồng giới , nhưng chắc chắn chúng ta có thể đồng ý rằng anh chị em đồng tính luyến ái của chúng tôi xứng đáng thăm người mà họ yêu trong bệnh viện và sống cuộc sống không bị phân biệt đối xử .</s>
+</spair>
+<spair id='157'>
+<s id='en157'>You know , passions may fly on immigration , but I do n't know anyone who benefits when a mother is separated from her infant child or an employer undercuts American wages by hiring illegal workers .</s>
+<s id='vn157'>Vô cùng phẫn nộ về vấn đề nhập cư , nhưng tôi không biết bất cứ ai được hưởng lợi khi mẹ bị xa cách đứa con còn ẵm ngửa của cô ấy hoặc ông chủ cắt xén tiền lương Mỹ bằng cách tuyển dụng công nhân bất hợp pháp .</s>
+</spair>
+<spair id='158'>
+<s id='en158'>But this , too , is part of America 's promise , the promise of a democracy where we can find the strength and grace to bridge divides and unite in common effort .</s>
+<s id='vn158'>Đây cũng là một phần của lời hứa của nước Mỹ - lời hứa của một nền dân chủ nơi chúng tôi có thể tìm khoan dung và sức mạnh để vượt qua sự chia rẽ và đoàn kết cùng nhau .</s>
+</spair>
+<spair id='159'>
+<s id='en159'>I know there are those who dismiss such beliefs as happy talk .</s>
+<s id='vn159'>Tôi biết có những người gạt bỏ niềm tin như thế như lời bông đùa .</s>
+</spair>
+<spair id='160'>
+<s id='en160'>They claim that our insistence on something larger , something firmer , and more honest in our public life is just a Trojan horse for higher taxes and the abandonment of traditional values .</s>
+<s id='vn160'>Họ khẳng định là lòng mong mỏi của chúng tôi về cái gì lớn hơn , cái gì bền vững hơn và lương thiện hơn trong dịch vụ hành chính công của chúng tôi chỉ là con ngựa thành Troa cho thuế cao và sự từ bỏ những giá trị truyền thống .</s>
+</spair>
+<spair id='161'>
+<s id='en161'>And that 's to be expected , because if you do n't have any fresh ideas , then you use stale tactics to scare voters .</s>
+<s id='vn161'>Và điều đó chắc chắn sẽ đến bởi vì nếu bạn chẳng có một ý tưởng mới nào , thì bạn sử dụng chiến thuật cũ để doạ cử tri .</s>
+</spair>
+<spair id='162'>
+<s id='en162'>If you do n't have a record to run on , then you paint your opponent as someone people should run from .</s>
+<s id='vn162'>Nếu bạn không có thành tích để bàn đến , thì bạn mô tả đối thủ của bạn như một người mà mọi người nên tránh xa .</s>
+</spair>
+<spair id='163'>
+<s id='en163'>You make a big election about small things .</s>
+<s id='vn163'>Bạn làm lớn bầu cử về những điều nhỏ nhặt .</s>
+</spair>
+<spair id='164'>
+<s id='en164'>And you know what ?</s>
+<s id='vn164'>Và bạn biết không ?</s>
+</spair>
+<spair id='165'>
+<s id='en165'>It 's worked before , because it feeds into the cynicism we all have about government .</s>
+<s id='vn165'>Nó đã có tác dụng trước đây vì nó góp phần thêm vào chỉ trích tất cả chúng ta về chính phủ .</s>
+</spair>
+<spair id='166'>
+<s id='en166'>When Washington does n't work , all its promises seem empty .</s>
+<s id='vn166'>Khi Washington không làm việc , mọi lời hứa hẹn dường như vô nghĩa .</s>
+</spair>
+<spair id='167'>
+<s id='en167'>If your hopes have been dashed again and again , then it 's best to stop hoping and settle for what you already know .</s>
+<s id='vn167'>Nếu hy vọng của bạn có bị phá hủy hết lần này đến lần khác , thì tốt hơn hết là dừng lại hy vọng , và chấp nhận những gì bạn đã biết .</s>
+</spair>
+<spair id='168'>
+<s id='en168'>I get it .</s>
+<s id='vn168'>Tôi hiểu ra được điều đó .</s>
+</spair>
+<spair id='169'>
+<s id='en169'>I realize that I am not the likeliest candidate for this office .</s>
+<s id='vn169'>Tôi nhận ra rằng tôi không phải là ứng viên thích hợp nhất của chức vụ này .</s>
+</spair>
+<spair id='170'>
+<s id='en170'>I do n't fit the typical pedigree , and I have n't spent my career in the halls of Washington .</s>
+<s id='vn170'>Tôi không thuộc giòng dõi tiêu biểu , và tôi chưa từng làm việc trong các đại sảnh ở Washington .</s>
+</spair>
+<spair id='171'>
+<s id='en171'>But I stand before you tonight because all across America something is stirring .</s>
+<s id='vn171'>Nhưng tôi đứng trước anh đêm nay vì khắp nước Mỹ một điều gì đó đang được khơi dậy .</s>
+</spair>
+<spair id='172'>
+<s id='en172'>What the naysayers do n't understand is that this election has never been about me ; it 's about you .</s>
+<s id='vn172'>Những gì những người phản đối không hiểu là cuộc bầu cử này chưa bao giờ là về tôi .</s>
+</spair>
+<spair id='173'>
+<s id='en173'>It 's about you .</s>
+<s id='vn173'>Nó nói về bạn .</s>
+</spair>
+<spair id='174'>
+<s id='en174'>For 18 long months , you have stood up , one by one , and said , " Enough , " to the politics of the past .</s>
+<s id='vn174'>Suốt mười tám tháng , bạn đã đứng lên , từng người một , và phản đối chính trị trong quá khứ .</s>
+</spair>
+<spair id='175'>
+<s id='en175'>You understand that , in this election , the greatest risk we can take is to try the same , old politics with the same , old players and expect a different result .</s>
+<s id='vn175'>Bạn biết là trong cuộc bầu cử này , nguy cơ lớn nhất chúng tôi có thể gặp phải là thử cùng hoạt động chính trị cũ với cùng người chơi cũ và mong có kết quả khác đi .</s>
+</spair>
+<spair id='176'>
+<s id='en176'>You have shown what history teaches us , that at defining moments like this one , the change we need does n't come from Washington .</s>
+<s id='vn176'>Bạn đã cho thấy những gì lịch sử đã dạy ta - đó tại định rõ khoảnh khắc thích cái này , thay đổi mà chúng tôi cần không đến từ Washington .</s>
+</spair>
+<spair id='177'>
+<s id='en177'>Change comes to Washington .</s>
+<s id='vn177'>Thay đổi đến Washington .</s>
+</spair>
+<spair id='178'>
+<s id='en178'>Change happens because the American people demand it , because they rise up and insist on new ideas and new leadership , a new politics for a new time .</s>
+<s id='vn178'>Thay đổi xảy ra vì người dân Hoa Kỳ yêu cầu nó - vì họ vùng dậy và khăng khăng đòi ý tưởng mới và lãnh đạo mới , nền chính trị mới cho một thời kỳ mới .</s>
+</spair>
+<spair id='179'>
+<s id='en179'>America , this is one of those moments .</s>
+<s id='vn179'>Hoa Kỳ , đây là một trong những khoảnh khắc ấy .</s>
+</spair>
+<spair id='180'>
+<s id='en180'>I believe that , as hard as it will be , the change we need is coming , because I 've seen it .</s>
+<s id='vn180'>Tôi tin rằng sẽ rất khó khăn , thay đổi mà chúng tôi cần đang đến vì tôi đã từng nhìn thấy nó .</s>
+</spair>
+<spair id='181'>
+<s id='en181'>Because I 've seen it in Illinois , when we provided health care to more children and moved more families from welfare to work .</s>
+<s id='vn181'>Bởi vì tôi đã từng nhìn thấy nó ở Illinois , khi chúng tôi cung cấp chăm sóc sức khoẻ cho nhiều trẻ em hơn và di chuyển nhiều các gia đình hơn từ hưởng trợ cấp sang làm việc .</s>
+</spair>
+<spair id='182'>
+<s id='en182'>I 've seen it in Washington , where we worked across party lines to open up government and hold lobbyists more accountable , to give better care for our veterans , and keep nuclear weapons out of the hands of terrorists .</s>
+<s id='vn182'>Tôi đã từng nhìn thấy nó ở Washington , khi chúng tôi bàn về đường lối của đảng phải công khai về hoạt động của chính quyền và giữ người vận động hành lang có trách nhiệm hơn , cho chăm sóc tốt cho cựu chiến binh của chúng tôi và ngăn không cho vũ khí hạt nhân lọt vào tay bọn khủng bố .</s>
+</spair>
+<spair id='183'>
+<s id='en183'>And I 've seen it in this campaign , in the young people who voted for the first time and the young at heart , those who got involved again after a very long time ;</s>
+<s id='vn183'>Và tôi đã từng nhìn thấy nó trong cuộc vận động này . Ở thanh niên người bỏ phiếu lần đầu tiên , và những người có liên quan lại sau thời gian rất dài .</s>
+</spair>
+<spair id='184'>
+<s id='en184'>In the Republicans who never thought they 'd pick up a Democratic ballot , but did .</s>
+<s id='vn184'>Ở người của đảng Cộng hoà không bao giờ nghĩ họ sẽ chọn cách bỏ phiếu kín dân chủ , nhưng .</s>
+</spair>
+<spair id='185'>
+<s id='en185'>You know , this country of ours has more wealth than any nation , but that 's not what makes us rich .</s>
+<s id='vn185'>Đất nước này của chúng tôi có nhiều của cải hơn bất cứ quốc gia , nhưng đó không phải là điều mà làm chúng tôi giàu .</s>
+</spair>
+<spair id='186'>
+<s id='en186'>We have the most powerful military on Earth , but that 's not what makes us strong .</s>
+<s id='vn186'>Chúng tôi có quân đội mạnh nhất trên thế gian , nhưng đó không phải là điều mà làm chúng tôi mạnh .</s>
+</spair>
+<spair id='187'>
+<s id='en187'>Our universities and our culture are the envy of the world , but that 's not what keeps the world coming to our shores .</s>
+<s id='vn187'>Trường đại học của chúng tôi và văn hoá của chúng tôi là sự thèm muốn của thế giới , nhưng đó không phải là điều mà khiến thế giới cứ đến bờ biển của chúng tôi .</s>
+</spair>
+<spair id='188'>
+<s id='en188'>Instead , it is that American spirit , that American promise , that pushes us forward even when the path is uncertain ; that binds us together in spite of our differences ; that makes us fix our eye not on what is seen , but what is unseen , that better place around the bend .</s>
+<s id='vn188'>Thay vào đó , đó chính là tâm hồn Mỹ - lời hứa của nước Mỹ đó - đó thúc đẩy chúng tôi gửi thậm chí khi con đường là không chắc chắn ; đó kết hợp chúng tôi với nhau bất chấp sự khác biệt của chúng tôi ; đó làm chúng tôi sửa mắt của chúng tôi không phải những gì được xem , nhưng những gì là unseen , đó nơi tốt hơn ở khúc quanh .</s>
+</spair>
+<spair id='189'>
+<s id='en189'>That promise is our greatest inheritance .</s>
+<s id='vn189'>Đó lời hứa là di sản lớn nhất của chúng tôi .</s>
+</spair>
+<spair id='190'>
+<s id='en190'>It 's a promise I make to my daughters when I tuck them in at night and a promise that you make to yours , a promise that has led immigrants to cross oceans and pioneers to travel west , a promise that led workers to picket lines and women to reach for the ballot .</s>
+<s id='vn190'>Đó là lời tôi hứa với con gái của tôi khi tôi ru chúng ngủ , và một lời bạn hứa với người của bạn - lời hứa đã khiến người nhập cư vượt đại dương và người tiên phong để đi về hướng tây ; lời hứa đã khiến công nhân đình công , và phụ nữ được quyền đi bầu .</s>
+</spair>
+<spair id='191'>
+<s id='en191'>And it is that promise that , 45 years ago today , brought Americans from every corner of this land to stand together on a Mall in Washington , before Lincoln 's Memorial , and hear a young preacher from Georgia speak of his dream .</s>
+<s id='vn191'>Và đó chính là lời hứa đó cách đây bốn mươi lăm năm , đưa các người Mỹ từ mọi nơi trong xứ sở này để đứng lại với nhau trên phố buôn bán lớn ở Washington , trước đài tưởng niệm Lincoln , và nghe nhà truyền giáo trẻ từ Georgia nói đến giấc mơ của anh ấy .</s>
+</spair>
+<spair id='192'>
+<s id='en192'>The men and women who gathered there could 've heard many things .</s>
+<s id='vn192'>Những người đàn ông và đàn bà tập hợp ở đó có thể đã nghe nhiều những thứ .</s>
+</spair>
+<spair id='193'>
+<s id='en193'>They could 've heard words of anger and discord .</s>
+<s id='vn193'>Họ có thể đã nghe những lời giận dữ và mối bất hoà .</s>
+</spair>
+<spair id='194'>
+<s id='en194'>They could 've been told to succumb to the fear and frustrations of so many dreams deferred .</s>
+<s id='vn194'>Họ có thể được bảo là để ngừng kháng cự lại nỗi sợ hãi và thất vọng vì quá nhiều giấc mơ bị hoãn lại .</s>
+</spair>
+<spair id='195'>
+<s id='en195'>But what the people heard instead -- people of every creed and color , from every walk of life -- is that , in America , our destiny is inextricably linked , that together our dreams can be one .</s>
+<s id='vn195'>Nhưng những gì mọi người nghe thay vì - mọi người với tín ngưỡng và màu da riêng của mình , từ mọi tầng lớp - là ở Mỹ , số phận của chúng tôi gắn bó với nhau không thể tách rời cùng với điều đó , mơ ước của chúng tôi có thể là một .</s>
+</spair>
+<spair id='196'>
+<s id='en196'>" We cannot walk alone , " the preacher cried .</s>
+<s id='vn196'>" Chúng tôi không thể bước đi một mình , " nhà truyền giáo khóc .</s>
+</spair>
+<spair id='197'>
+<s id='en197'>" And as we walk , we must make the pledge that we shall always march ahead .</s>
+<s id='vn197'>" Và khi chúng tôi bước đi , chúng ta phải long trọng thề rằng chúng ta sẽ luôn bước đều về phía trước .</s>
+</spair>
+<spair id='198'>
+<s id='en198'>We cannot turn back . "</s>
+<s id='vn198'>Chúng ta không thể quay trở lại . "</s>
+</spair>
+<spair id='199'>
+<s id='en199'>America , we cannot turn back ;</s>
+<s id='vn199'>Hoa Kỳ , chúng tôi không thể quay trở lại .</s>
+</spair>
+<spair id='200'>
+<s id='en200'>Not with so many children to educate , and so many veterans to care for ;</s>
+<s id='vn200'>Không phải bằng thật nhiều trẻ em cần dạy dỗ , và thật nhiều cựu chiến binh cần quan tâm .</s>
+</spair>
+<spair id='201'>
+<s id='en201'>Not with an economy to fix , and cities to rebuild , and farms to save ;</s>
+<s id='vn201'>Không với kinh tế cần sửa chữa và các thành phố cần xây dựng lại và nông trại tiết kiệm .</s>
+</spair>
+<spair id='202'>
+<s id='en202'>Not with so many families to protect and so many lives to mend .</s>
+<s id='vn202'>Không phải bằng thật nhiều các gia đình cần bảo vệ và thật nhiều đời sống cần sửa .</s>
+</spair>
+<spair id='203'>
+<s id='en203'>America , we cannot turn back .</s>
+<s id='vn203'>Hoa Kỳ , chúng tôi không thể quay trở lại .</s>
+</spair>
+<spair id='204'>
+<s id='en204'>We cannot walk alone .</s>
+<s id='vn204'>Chúng ta không thể bước đi một mình .</s>
+</spair>
+<spair id='205'>
+<s id='en205'>At this moment , in this election , we must pledge once more to march into the future .</s>
+<s id='vn205'>Vào lúc này , trong cuộc bầu cử này , chúng ta phải thề nguyện một lần nữa để cùng bước đến tương lai .</s>
+</spair>
+<spair id='206'>
+<s id='en206'>Let us keep that promise , that American promise , and in the words of scripture hold firmly , without wavering , to the hope that we confess .</s>
+<s id='vn206'>Chúng ta hãy giữ lời hứa đó - lời hứa của nước Mỹ đó - và lời kinh thánh giữ chặt , không dao động , để hy vọng chúng ta thú nhận .</s>
+</spair>
+<spair id='207'>
+<s id='en207'>Thank you .</s>
+<s id='vn207'>Cám ơn .</s>
+</spair>
+<spair id='208'>
+<s id='en208'>God bless you .</s>
+<s id='vn208'>Chúa phù hộ cho bạn .</s>
+</spair>
+<spair id='209'>
+<s id='en209'>And God bless the United States of America .</s>
+<s id='vn209'>Và Chúa phù hộ cho Hợp chủng quốc Hoa Kỳ .</s>
+</spair>
+</text>
+</doc>

@@ -1,0 +1,164 @@
+﻿<doc id='N0620'>
+<head>
+<title>Unconditional Love</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Unconditional Love</s>
+<s id='vn1'>Tình yêu vô điều kiện</s>
+</spair>
+<spair id='2'>
+<s id='en2'>A story is told about a soldier who was finally coming home after having fought in Vietnam .</s>
+<s id='vn2'>Câu chuyện kể về một người lính cuối cùng cũng về nhà sau cuộc chiến ở Việt Nam .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>He called his parents from San Francisco .</s>
+<s id='vn3'>Anh ấy gọi điện cho bố mẹ của mình từ San Francisco .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>" Mom and Dad , I 'm coming home , but I 've a favor to ask .</s>
+<s id='vn4'>" Bố mẹ ơi , con sắp về nhà , nhưng con có một thỉnh cầu .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>I have a friend I 'd like to bring home with me . "</s>
+<s id='vn5'>Con muốn mang một người bạn về nhà cùng với mình "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Sure , " they replied , " we 'd love to meet him . "</s>
+<s id='vn6'>" Được thôi " họ trả lời , " Bố mẹ cũng muốn gặp anh ấy . "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>" There 's something you should know the son continued , " he was hurt pretty badly in the fighting .</s>
+<s id='vn7'>Người con trai tiếp tục " Có điều này bố mẹ nên biết , anh ấy bị thương khá nặng trong chiến tranh .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>He stepped on a landmine and lost an arm and a leg .</s>
+<s id='vn8'>Anh ấy giẫm phải quả mìn và mất một cánh tay và một chân .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>He has nowhere else to go , and I want him to come live with us . "</s>
+<s id='vn9'>Anh ấy không còn nơi nào để đi , và con muốn anh ấy đến sống cùng chúng ta . "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>" I 'm sorry to hear that , son .</s>
+<s id='vn10'>" Con trai à , bố buồn khi nghe chuyện này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Maybe we can help him find somewhere to live . "</s>
+<s id='vn11'>Chúng ta có thể tìm cho anh ấy một chỗ để ở nhé . "</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" No , Mom and Dad , I want him to live with us . "</s>
+<s id='vn12'>" Không , bố mẹ à , con muốn anh ấy sống cùng với chúng ta . "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>" Son , " said the father , " you do n't know what you 're asking .</s>
+<s id='vn13'>" Con trai à , " người cha nói , " con không biết con đang đòi hỏi cái gì à .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Someone with such a handicap would be a terrible burden on us .</s>
+<s id='vn14'>Người tàn tật như thế sẽ là gánh nặng khủng khiếp cho chúng ta đấy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>We have our own lives to live , and we can't let something like this interfere with our lives .</s>
+<s id='vn15'>Chúng ta có cuộc sống riêng của mình nữa , chúng ta không thể dính líu vào việc này được .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>I think you should just come home and forget about this guy .</s>
+<s id='vn16'>Bố nghĩ con nên về nhà và quên anh bạn đó đi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>He 'll find a way to live on his own . "</s>
+<s id='vn17'>Anh ấy sẽ biết cách tự lo liệu thôi . "</s>
+</spair>
+<spair id='18'>
+<s id='en18'>At that point , the son hung up the phone .</s>
+<s id='vn18'>Nghe tới đây , anh con trai gác điện thoại .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The parents heard nothing more from him .</s>
+<s id='vn19'>Bố mẹ anh nghe được tin tức gì thêm từ anh nữa .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>A few days later , however , they received a call from the San Francisco police</s>
+<s id='vn20'>Tuy nhiên , vài ngày sau , họ nhận được cuộc điện thoại từ cảnh sát ở San Francisco .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Their son had died after falling from a building , they were told .</s>
+<s id='vn21'>Họ được báo là con trai của mình đã chết sau khi rơi khỏi toà nhà .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The police believed it was suicide .</s>
+<s id='vn22'>Cảnh sát cho đó là vụ tự sát .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The grief-stricken parents flew to San Francisco and were taken to the city morgue to identify the body of their son .</s>
+<s id='vn23'>Bố mẹ mòn mỏi vì buồn phiền đã đáp máy bay đến San Francisco và được đưa đến nhà xác thành phố để nhận diện thi thể con trai của họ .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>They recognized him , but to their horror they also discovered something they did n't know , their son had only one arm and one leg .</s>
+<s id='vn24'>Họ đã nhận ra anh ấy , nhưng trước nỗi kinh hãi của mình họ cũng phát hiện ra được điều mà họ không biết , con trai của họ chỉ có một cánh tay và một chân .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The parents in this story are like many of us .</s>
+<s id='vn25'>Bố mẹ trong câu chuyện này giống như nhiều người trong chúng ta .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>We find it easy to love those who are good-looking or fun to have around , but we do n't like people who inconvenience us or make us feel uncomfortable .</s>
+<s id='vn26'>Chúng ta cảm thấy dễ yêu những người có ngoại hình dễ nhìn hay vui tính ở quanh mình , nhưng chúng ta lại không ưa những người làm phiền chúng ta hoặc làm chúng ta cảm thấy không thoải mái .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>We would rather stay away from people who are n't as healthy , beautiful , or smart as we are .</s>
+<s id='vn27'>Chúng ta muốn tránh xa những người không khoẻ mạnh , xinh đẹp , hoặc thông minh như chúng ta .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Thankfully , there 's someone who won't treat us that way .</s>
+<s id='vn28'>May mắn thay , có người sẽ không đối xử với chúng ta như vậy .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Someone who loves us with an unconditional love and welcomes us into the forever family , regardless of how messed up we are .</s>
+<s id='vn29'>Họ yêu thương chúng ta bằng một tình yêu vô điều kiện và chào đón chúng ta vào gia đình mãi mãi , bất kể chúng ta sai phạm điều gì .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Tonight , before you tuck yourself in for the night , say a little prayer that God will give you the strength you need to accept people as they are , and to help us all be more understanding of those who are different from us !</s>
+<s id='vn30'>Đêm nay , trước khi đi ngủ , hãy cầu nguyện Chúa cho bạn đủ sức mạnh để chấp nhận người khác như con người của chính họ và giúp hết thảy chúng ta hiểu hơn về những người khác với chúng ta !</s>
+</spair>
+<spair id='31'>
+<s id='en31'>There 's a miracle called Friendship that dwells in our heart</s>
+<s id='vn31'>Đó là một phép mầu có tên là TÌNH BẠN vốn dĩ ở trong tim của chúng ta .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>You do n't know how it happens</s>
+<s id='vn32'>Bạn không biết nó xảy ra làm sao</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Or when it gets started</s>
+<s id='vn33'>Hoặc bắt đầu khi nào</s>
+</spair>
+<spair id='34'>
+<s id='en34'>But you know the special lift It always brings</s>
+<s id='vn34'>Nhưng bạn biết đó là nỗi phấn chấn đặc biệt luôn mang đến cho bạn</s>
+</spair>
+<spair id='35'>
+<s id='en35'>And you realize that Friendship Is God 's most precious gift !</s>
+<s id='vn35'>Và bạn thấy được rằng Tình bạn là món quà quý giá nhất của Chúa !</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Friends are a very rare jewel , indeed.</s>
+<s id='vn36'>Quả thật bạn bè là thứ nữ trang rất hiếm .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>They make you smile and encourage you to succeed</s>
+<s id='vn37'>Họ làm bạn cười và giúp bạn thành công</s>
+</spair>
+<spair id='38'>
+<s id='en38'>They lend an ear , they share a word of praise , and they always want to open their hearts to us .</s>
+<s id='vn38'>Họ lắng nghe , khen tặng , và luôn muốn thổ lộ tâm tình với chúng ta .</s>
+</spair>
+</text>
+</doc>

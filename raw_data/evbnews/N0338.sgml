@@ -1,0 +1,224 @@
+﻿<doc id='N0338'>
+<head>
+<title>Microsoft mulling 128-bit versions of Windows 8 , Windows 9</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Microsoft mulling 128-bit versions of Windows 8 , Windows 9</s>
+<s id='vn1'>Microsoft làm khuấy động Windows 8 và Windows 9 phiên bản 128-bit</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft is working on 128-bit architecture compatibility with the Windows 8 and Windows 9 kernels .</s>
+<s id='vn2'>Microsoft đang nổ lực làm việc về khả năng tương thích của kiến trúc 128 bit với các nhân Windows 8 và Windows 9 .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Consequently , the company is also forming relationships with major partners , including Intel , AMD , HP , and IBM .</s>
+<s id='vn3'>Vì vậy , hãng cũng đang tạo lập các mối quan hệ với các đối tác chính như Intel , AMD , HP , và IBM .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Believe it or not , Windows 7 's successor have been in the planning and early development stages for a while now .</s>
+<s id='vn4'>Dù tin hay không thì các thế hệ tiếp theo của Windows 7 đã được lên kế hoạch và sớm đưa vào các giai đoạn phát triển trong một thời gian ngắn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>We have n't posted anything about any of them yet , but we 've been watching closely to see if anything really interesting turned up .</s>
+<s id='vn5'>Chúng tôi chưa hề đăng bất kì thông tin nào về vấn đề này , nhưng chúng tôi đã theo dõi chặt chẽ để xem có bất cứ điều gì ngạc nhiên xảy ra không .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Exactly two weeks ago , it did .</s>
+<s id='vn6'>Chính xác là cách đây hai tuần nó đã được làm .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A LinkedIn profile , which has already been taken down , for a Robert Morgan , Senior Research Development at Microsoft , has shone a sliver of light on the possibility of 128-bit support coming to Windows 8 . Morgan has been with the software giant since January 2002 , but we 're more intrigued with what his profile ( first paragraph ) and his status ( second paragraph ) recently stated :</s>
+<s id='vn7'>Một hồ sơ cá nhân của Robert Morgan , một thành viên cao cấp trong bộ phận nghiên cứu và phát triển của Microsoft đã tiết lộ trên trang mạng LinkedIn mà nó thực sự đã bị gỡ xuống đã làm sáng tỏ khả năng hỗ trợ 128 bit của Windows 8 . Morgan đã đến với gã khổng lồ phần mềm này từ tháng giêng năm 2002 nhưng chúng tôi tò mò với tiểu sử của ông ấy ( đoạn đầu tiên ) và địa vị của ông ấy ( đoạn 2 ) được bắt đầu gần đây :</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Working in high security department for research and development involving strategic planning for medium and longterm projects .</s>
+<s id='vn8'>Làm việc ở một nơi có mức độ an ninh cao để nghiên cứu và phát triển liên quan đến những bước đi chiến lược cho các dự án trung và dài hạn .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Research Development projects including 128bit architecture compatibility with the Windows 8 kernel and Windows 9 project plan .</s>
+<s id='vn9'>Các dự án Nghiên cứu và Phát triển bao gồm khả năng tương thích của kiến trúc 128 bit với nhân Window 8 và những bước đi ban đầu của Windows 9 .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>Forming relationships with major partners : Intel , AMD , HP , and IBM .</s>
+<s id='vn10'>Thiết lập mối quan hệ với các đối tác lớn như là Intel , AMD , HP và IBM .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Robert Morgan is working to get IA-128 working backwards with full binary compatibility on the existing IA-64 instructions in the hardware simulation to work for Windows 8 and definitely Windows 9 .</s>
+<s id='vn11'>Robert Morgan đang làm cho kiến trúc IA-128 hoàn toàn tương thích ngược nhị phân với các tập lệnh trên nền kiến trúc IA-64 hiện nay trong các mô phỏng phần cứng để làm việc với Windows 8 và Windows 9 .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Windows 8 News found Morgan 's profile first and immediately started trying to get in contact with him over LinkedIn .</s>
+<s id='vn12'>Windows 8 News đã tìm thấy hồ sơ cá nhân của Morgan đầu tiên và ngay lập tức bắt đấu tìm cách để liên lạc với ông ấy qua mạng LinkedIn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>When we saw this , we leaned back and waited to see if they could get a response from him .</s>
+<s id='vn13'>Khi chúng tôi nhận thấy được điều này , chúng tôi đã chờ xem liệu họ có thể nhận được một phản ứng nào từ ông ấy .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>They did .</s>
+<s id='vn14'>Họ đã làm như vậy .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>The site claims it has managed to get an exclusive interview with Morgan and is letting its readers to ask questions .</s>
+<s id='vn15'>Trang web khẳng định nó được quản lý để nhận thực hiện một cuộc phỏng vấn riêng với Morgan và cho người đọc đặt câu hỏi .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>The deadline is October 11 , 2009 so post your queries .</s>
+<s id='vn16'>Hạn chót là vào ngày 11 tháng 10 2009 để gửi các câu hỏi thắc mắc của bạn .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>This news is interesting because we always thought Windows 7 would be the last release that had 32-bit and 64-bit versions .</s>
+<s id='vn17'>Tin tức này được quan tâm bởi vì chúng tôi luôn nghĩ Windows 7 sẽ là bản phát hành cuối cùng mà có phiên bản 32 bit và 64-bit .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>This was brought on by the fact that Windows Server 2008 R2 , the server version of Windows 7 , was the first Windows Server release to be 64-bit only .</s>
+<s id='vn18'>Điều này đã được đưa vào bởi thực tế là Windows Server 2008 R2 , phiên bản máy chủ của Windows 7 , đây là bản phát hành Windows Server đầu tiên chỉ dành cho cho 64-bit .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The next client version of Windows should therefore follow suit , but apparently Microsoft is going to prepare it for 128-bit as well .</s>
+<s id='vn19'>Các phiên bản máy khách tiếp theo của Windows vì thế cũng làm theo cách trên , nhưng rõ ràng là Microsoft sẽ chuẩn bị tốt cho 128-bit .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>We 're not saying Windows 8 will definitely come in 64-bit and 128-bit flavors , but Microsoft is moving down that path , and at the very least , Windows 9 will .</s>
+<s id='vn20'>Chúng tôi không nói là Windows 8 chắc chắn sẽ ra mắt với kiến trúc 64-bit và 128-bit nhưng Microsoft đang đi theo lối này và ít nhất sẽ là Windows 9 .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>While this little tidbit is news on its own , we feel it 's necessary to look at what we 've heard about Windows 8 so far .</s>
+<s id='vn21'>Trong khi mẩu tin ngắn này là tin tức riêng của họ , chúng tôi cảm thấy cần phải nhìn vào những gì chúng tôi đã nghe nói về Windows 8 cho đến nay .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>In April 2009 , Codename Windows spotted a Microsoft job posting for a Lead Software Development Engineer in Test with this interesting description :</s>
+<s id='vn22'>Trong tháng Tư năm 2009 , Tên mã Windows bị rò rỉ từ việc gửi bài công việc của Microsoft cho Kỹ sư Phát triển Phần mềm thử nghiệm với mô tả thú vị này :</s>
+</spair>
+<spair id='23'>
+<s id='en23'>DFSR is Microsoft 's premier file replication engine and is an integral part of our branch office strategy and File Server role .</s>
+<s id='vn23'>DFSR là cỗ máy tái tạo hệ thống tập tin đầu tiên nhất của Microsoft và là một phần không thể thiếu của chiến lược văn phòng chi nhánh của chúng tôi và vai trò của File Server .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>It can scale to thousands of servers and replicate hundreds of terabytes of data .</s>
+<s id='vn24'>Nó có thể có quy mô đến hàng ngàn máy chủ và nhân rộng hàng trăm terabyte dữ liệu .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>We have shipped the technology that powers file sharing in Windows Live Messenger , Windows Meeting Spaces ( Vista ) and Branch Office replication in Windows Server 2008 which has strong customer deployment .</s>
+<s id='vn25'>Chúng tôi đã chuyển công nghệ có khả năng chia sẻ tập tin trong Windows Live Messenger , Windows Meeting Spaces ( Vista ) và nhân rộng Văn phòng Chi nhánh trong Windows Server 2008 mà đã triển khai tốt cho khách hàng .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>DFSR technology saves MS-IT and our customers more than 80 % WAN bandwidth by using advanced On-The-Wire differential compression .</s>
+<s id='vn26'>Công nghệ lưu trữ DFSR tiết kiệm MS-IT và khách hàng của chúng tôi có hơn hơn 80% mạng WAN băng thông rộng bằng cách sử dụng kỹ thuật nén vi sai On-The-Wire tiên tiến .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>For the upcoming version of Windows , new critical features are being worked on including cluster support and support for one way replication .</s>
+<s id='vn27'>Dành cho phiên bản sắp tới của Windows , các tính năng quan trọng mới đang được làm việc bao gồm hỗ trợ nhóm và hỗ trợ cho sự nhân rộng một chiều .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The core engine is also being reworked to provide dramatic performance improvements .</s>
+<s id='vn28'>Cỗ máy chính cũng đang được làm lại để cung cấp hiệu suất cải tiến đáng kể .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>We will also soon be starting major improvements for Windows 8 where we will be including innovative features which will revolutionize file access in branch offices .</s>
+<s id='vn29'>Chúng tôi cũng sẽ sớm bắt đầu cải tiến lớn cho Windows 8 nơi chúng tôi sẽ gửi gắm các tính năng tiên tiến mà sẽ cách mạng hóa việc truy cập tập tin trong các văn phòng chi nhánh .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>That same month , ZDNet found another job posting that also described some interesting details :</s>
+<s id='vn30'>Cùng tháng này , Zdnet đã tìm thấy một tin về công việc khác cũng được mô tả một số chi tiết thú vị :</s>
+</spair>
+<spair id='31'>
+<s id='en31'>In Windows Server 2008 R2 release , the Server UX Test team ( under the File Server Management organization ) is finalizing the MMC ( Microsoft Management Console ) based User eXperience ( UX ) Interfaces for the File Server Role .</s>
+<s id='vn31'>Trong bản phát hành Windows Server 2008 R2 , đội ngũ Server UX Test ( thuộc tổ chức Quản lý Máy chủ Tập tin ) đang hoàn tất công cụ MMC ( Microsoft Management Console ) dựa trên User eXperience ( UX ) Interfaces cho File Server Role .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Currently the team owns DFS ( Distributed File System ) Management , Share and Storage Management , FSRM ( File Server Resource Manager ) Classification UI , Disk Management , SMFS .</s>
+<s id='vn32'>Hiện nay nhóm sở hữu DFS ( Distributed File System ) Management , Sharing and Storage Management , FSRM ( File Server Resource Manager ) Classification UI , Disk Management , SMFS .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>For Windows 8 , the SSD organization is working on the next version of the file server .</s>
+<s id='vn33'>Đối với Windows 8 , tổ chức SSD đang làm việc trên phiên bản kế tiếp của máy chủ tập tin .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>As the team moved to Windows 8 , you will have 2 main responsibilities - put on the customer_design critique hat as we plan our next version file server management experience participating in the architectural design , and development and driving automated testing for managing the next generation file server .</s>
+<s id='vn34'>Theo đội ngũ đã chuyển lên Windows 8 , bạn sẽ có 2 trách nhiệm chính - phê bình thiết kế khách hàng như chúng tôi lên kế hoạch cho kinh nghiệm quản lý máy chủ tập tin trong phiên bản kế tiếp của chúng tôi tham gia thiết kế kiến trúc , và sự phát triển và hướng tới thử nghiệm tự động hóa để quản lý các máy chủ tập tin thế hệ kế tiếp .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Our current automation does not meet the multi-machine paradigm requirement and so you will contribute significantly in the development of test automation to validate setup_configuration of the new server , managing configuration changes , performing diagnostics and reporting using Power Shell , Command line , Object Model , UI.</s>
+<s id='vn35'>Tự động hóa của chúng tôi hiện nay không đáp ứng được yêu cầu mô hình đa máy và do đó bạn sẽ góp phần đáng kể trong sự phát triển của thử nghiệm tự động để xác nhận thiết lập cấu hình máy chủ mới , quản lý các thay đổi cấu hình , thực hiện chẩn đoán và báo cáo bằng cách sử dụng Power Shell , Command line , Object Model , UI .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>In September 2009 , msftkitchen found a couple of résumés for Microsoft employees that reference possible features for Windows 8 .</s>
+<s id='vn36'>Trong tháng 9 năm 2009 , trang web msftkitchen đã tìm thấy một vài hồ sơ cho các nhân viên Microsoft mà nội dung có liên quan tới các tính năng có thể có cho Windows 8 .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Researched new algorithms and programming methods to build Hibernate Resume Integration API that can integrate and utilize the new TLZ file compression engine for the Hibernate Resume component of new Windows 8 Operating System .</s>
+<s id='vn37'>Nghiên cứu thuật toán mới và các phương pháp lập trình để xây dựng hàm API tích hợp Hibernate Resume có thể tích hợp và sử dụng các công cụ nén tập tin mới TLZ cho thành phần Hibernate Resume của hệ điều hành Windows 8 mới .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>Using C and C++ programming languages in SourceInsight , developed a 100% functional C wrapper for C++ functions and the Hibernate Resume Integration API , which will be used in Windows 8 replacing Windows Vista 's Xpress compression engine .</s>
+<s id='vn38'>Sử dụng ngôn ngữ lập trình C và C++ trong SourceInsight , phát triển 100% hàm trong bộ ngôn ngữ C cho các hàm C++ và các hàm API tích hợp cho thành phần Hibernate Resume , mà nó sẽ được sử dụng trong Windows 8 để thay thế cho công cụ nén Xpress của Windows Vista .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Led working group to make a recommendation on a PatchGuard follow-on .</s>
+<s id='vn39'>Trưởng nhóm làm việc đưa ra một khuyến cáo trên hệ thống PatchGuard tiếp theo .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Wrote a summary white paper and presented the results of the working group to the executive team .</s>
+<s id='vn40'>Được viết trên giấy trắng và trình bày tóm tắt các kết quả của nhóm làm việc với đội ngũ quản lý .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Recommendation of tabling the function until Windows 8 was accepted and it is now a Windows 8 feature candidate .</s>
+<s id='vn41'>Khuyến cáo lập bảng chức năng cho đến khi Windows 8 được chấp nhận và giờ đây nó là một ứng viên cho tính năng của Windows 8 .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Working on feature development , enhancements and bug fixing activities for Win7 and Win 8 's Remote Desktop client .</s>
+<s id='vn42'>Làm việc phát triển tính năng , nâng cấp và các hoạt động vá lỗi cho máy khách Remote Desktop của Win7 và Win8 .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>Involved in bug fixes and improvements for Remote Application and Server Tools as well .</s>
+<s id='vn43'>Liên quan đến các bản vá lỗi và cải tiến tốt hơn cho Remote Application và Server Tools .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>The following descriptions on LinkedIn pages were also found by msftkitchen but have since been removed :</s>
+<s id='vn44'>Những mô tả sau đây trên các trang LinkedIn cũng đã được tìm thấy ở trang web msftkitchen nhưng đã bị gỡ bỏ kẻ từ lúc đó :</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Hold multiple patents related to SAN infrastructure , hard drive technology , and security aspects within the datacenter space one which one of which is already generating royalties and another is slated for inclusion in Windows8 .</s>
+<s id='vn45'>Giữ nhiều bằng sáng chế liên quan đến cơ sở hạ tầng SAN , công nghệ ổ cứng , và các hướng bảo mật trong không gian trung tâm dữ liệu mà một trong số đó thực sự tạo ra các bằng sáng chế và một dự kiến để đưa vào Windows8 .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Integrate well into standards organizations such as the FCIA , T10 , SNIA , and T13 .</s>
+<s id='vn46'>Kết hợp vào các tổ chức tiêu chuẩn như FCIA , T10 , SNIA , và T13 .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Authored DA setup guide , a complete guide for setting up DA that was used by several customers and other teams internal to Microsoft for configuring their DA environments .</s>
+<s id='vn47'>Soạn tài liệu hướng dẫn cài đặt DA , một hướng dẫn đầy đủ để thiết lập DA đã được sử dụng bởi một số khách hàng và đội ngũ bên trong của Microsoft để cấu hình môi trường DA của họ .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>This guide was also the foundation for the DA test automation that will be created for Windows 8 , and provided the foundation for the publicly available DA setup guide .</s>
+<s id='vn48'>Hướng dẫn này cũng là nền tảng cho việc tự động hóa thử nghiệm DA sẽ được tạo ra cho Windows 8 , và cung cấp cơ sở cho các hướng dẫn thiết lập DA có sẵn một cách công khai .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Working Group - For Win 8 download experience , researched security user mental models to inform design .</s>
+<s id='vn49'>Nhóm làm việc - Trải nghiệm tải Windows 8 , nghiên cứu các mô hình trí tuệ người dùng an toàn để đưa ra bản thiết kế .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Managing and Improving software usability for over 10 years , designing , researching , and developing multi-tier distributed applications for Windows 8 focusing on customers using ecommerce , general consumers , and banking companies .</s>
+<s id='vn50'>Quản lý và Cải tiến khả năng sử dụng phần mềm trong hơn 10 năm qua , thiết kế , nghiên cứu và phát triển các ứng dụng phân tán đa lớp cho Windows 8 tập trung vào các khách hàng sử dụng thương mại điện tử , người tiêu dùng nói chung , và các công ty ngân hàng .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>Remember that all this talk is very early in the game .</s>
+<s id='vn51'>Nhớ rằng tất cả các cuộc thảo luận ở đây là rất sớm trong cuộc chơi này .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>We won't see Windows 8 released until 2011 at the earliest , and 2012 is more likely .</s>
+<s id='vn52'>Chúng ta sẽ không nhìn thấy Windows 8 được phát hành sớm nhất cho đến 2011 và nhiều khả năng là năm 2012 .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>What do you want to see in Windows 7 's and Windows Server 2008 R2 's successors ?</s>
+<s id='vn53'>Bạn muốn nhìn thấy gì trong các thế hệ kế tiếp Windows 7 và Windows Server 2008 R2 ?</s>
+</spair>
+</text>
+</doc>

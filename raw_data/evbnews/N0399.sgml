@@ -1,0 +1,132 @@
+﻿<doc id='N0399'>
+<head>
+<title>Paradox of Vietnamese farm produce</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Paradox of Vietnamese farm produce</s>
+<s id='vn1'>Nghịch lý về nông sản Việt</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Vietnamese agricultural products find it difficult to reach consumers as imported products are still getting the upper hand .</s>
+<s id='vn2'>Các nông sản của người Việt khó đến với người tiêu dùng vì sản phẩm nhập khẩu vẫn còn chiếm ưu thế .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>As an agricultural country with a variety of products topping the world 's export list , every year Vietnam still has to spend a large amount of foreign currency to import farm products , including vegetables , fruits , salt and milk .</s>
+<s id='vn3'>Là một nước nông nghiệp với nhiều mặt hàng nông sản xuất khẩu đứng hàng đầu trên thế giới nhưng mỗi năm Việt Nam lại phải chi một lượng ngoại tệ lớn để nhập khẩu đủ các loại nông sản , gồm rau , trái cây , muối và sữa .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>This paradoxical fact has existed for many years .</s>
+<s id='vn4'>Thực tế ngược đời này đã tồn tại trong nhiều năm nay .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>A variety of imported agricultural products are sold in markets and supermarkets in Vietnam .</s>
+<s id='vn5'>Rất nhiều nông sản nhập khẩu được bán tại các chợ hay siêu thị Việt Nam .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Most of them come from the US , China , Australia , Thailand and Japan .</s>
+<s id='vn6'>Hầu hết các nông sản đó có nguồn gốc từ Mỹ , Trung Quốc , Úc , Thái Lan và Nhật .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>While Vietnamese agricultural products have difficulty in finding consumer markets , similar imported products continue to enter the daily meal of Vietnamese families .</s>
+<s id='vn7'>Trong khi nông sản Việt còn chật vật tìm thị trường tiêu thụ thì các sản phẩm nhập khẩu cùng loại lại tiếp tục có mặt trong bữa ăn hằng ngày của từng gia đình người Việt .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>In 2009 , the agricultural sector achieved high revenues from exporting farm produce , earning US$ 15.4 billion , above the yearly set target of US$ 12 billion the global economic downturn .</s>
+<s id='vn8'>Năm 2009 , ngành nông nghiệp đạt doanh thu cao do xuất khẩu nông sản , thu được 15,4 tỷ USD , vượt dự kiến năm là 12 tỷ USD dẫu trong bối cảnh suy thoái kinh tế toàn cầu .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Vietnam was among the world 's largest exporters of rice , coffee , peppers and cashew nuts .</s>
+<s id='vn9'>Việt Nam là một trong những nước dẫn đầu về sản lượng xuất khẩu lúa gạo , cà phê , tiêu và điều .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>However , last year the country also spent almost US$ 150 million importing vegetables and fruits from China and US$ 45 million purchasing farm products from Thailand .</s>
+<s id='vn10'>Thế nhưng , năm qua nước ta cũng tốn gần 150 triệu USD nhập khẩu rau quả từ Trung Quốc và 45 triệu USD mua nông sản của Thái Lan .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Furthermore , Vietnamese farmers have grown a lot of maize and cassava , but they still have to import fodder for cattle and fish from 25 countries around the world .</s>
+<s id='vn11'>Hơn nữa , nông dân Việt Nam trồng ngô , sắn với diện tích lớn nhưng vẫn phải nhập khẩu cỏ khô cho gia súc và cá từ 25 quốc gia trên thế giới .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>This situation has increased the concerns of millions of farmers who enjoy bumper crops but worry about low prices .</s>
+<s id='vn12'>Sự thật này đã làm tăng thêm nỗi lo lắng của hàng triệu nông dân mỗi khi trúng mùa lại lo rớt giá .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Large areas planted with tomatoes , cucumbers and pineapples do not have a consumer market .</s>
+<s id='vn13'>Nhiều ruộng cà chua , dưa leo và dứa không có thị trường tiêu thụ .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Only some kinds of Vietnamese agricultural products bearing foreign trademarks are available in markets and supermarkets nationwide .</s>
+<s id='vn14'>Chỉ một vài loại nông sản Việt mang nhãn mác nước ngoài được bày bán ở các chợ và siêu thị trong khắp cả nước .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>This is due to weaknesses in the management of local markets , and cannot be attributed to any negative impact of the integration process .</s>
+<s id='vn15'>Điều đáng buồn này là do nền quản lý thị trường trong nước chứ không phải do ảnh hưởng tiêu cực của quá trình hội nhập .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>It is a fact that Vietnam 's joining the level playing-field faces both opportunities and challenges .</s>
+<s id='vn16'>Vẫn biết rằng khi Việt Nam hội nhập thì chúng ta sẽ chấp nhận sân chơi chung , có cả cơ hội và thách thức .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>High quality imported products with reasonable prices will win consumer 's trust .</s>
+<s id='vn17'>Các sản phẩm chất lượng cao với giá cả hợp lý của nước ngoài đương nhiên sẽ chiếm được lòng tin của khách hàng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>However , it is something of a paradox that some Vietnamese farm products are defeated on their own turf despite good quality and great potential .</s>
+<s id='vn18'>Dẫu vậy , một nghịch lý cho thấy là một vài nông sản Việt vẫn chào thua mà không hề yếu thế về chất lượng và tiềm năng .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>It is a fact that Vietnam 's joining the level playing-field faces both opportunities and challenges .</s>
+<s id='vn19'>Vẫn biết rằng khi hội nhập thì chúng ta sẽ chấp nhận sân chơi chung , có cả cơ hội và thách thức .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>High quality imported products with reasonable prices will win consumer 's trust .</s>
+<s id='vn20'>Các sản phẩm chất lượng cao với giá cả hợp lý của nước ngoài đương nhiên sẽ chiếm được lòng tin của khách hàng .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>However , it is something of a paradox that some Vietnamese farm products are defeated on their own turf despite good quality and great potential .</s>
+<s id='vn21'>Dẫu vậy , một nghịch lý cho thấy là một vài nông sản Việt vẫn chào thua mà không hề yếu thế về chất lượng và tiềm năng .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Every year , billions of Vietnamese dong are spent on promotion activities overseas while the domestic market , which is of great potential , has not been paid due attention .</s>
+<s id='vn22'>Mỗi năm , nước ta phải tốn hàng tỷ đồng cho các hoạt động quảng bá nông sản ở nước ngoài trong khi đó thị trường trong nước rất giàu tiềm năng thì lại không được quan tâm đúng mức .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>The " Vietnamese use Vietnamese products " campaign should find its way into every nook and cranny of localities .</s>
+<s id='vn23'>cuộc vận động " Người Việt dùng hàng Việt " nên bắt đầu từ việc dùng nông sản Việt trong mỗi bữa ăn hằng ngày của người dân .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>With a productive climate and soil as well as industrious and creative farmer , many regions of the country produce highly competitive farm products .</s>
+<s id='vn24'>Với ưu thế về khí hậu và đất đai cũng như sự cần cù và sáng tạo của người lao động , nhiều vùng miền nước ta dễ dàng sản xuất ra nhiều mặt hàng nông sản có sức cạnh tranh cao .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>The " each village , a product " movement launched by Japanese farmers has created famous products such as dried field mushrooms , kabosu lemons and saba fish , doubling farmer 's income .</s>
+<s id='vn25'>Phong trào " Mỗi làng một sản phẩm " của nông dân Nhật đã tạo ra nhiều nông sản nổi tiếng như nấm hương khô , chanh kabosu , cá saba , đem lại thu nhập gấp đôi cho người dân .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Successful farm production in Japan demonstrates that it is not difficult to produce products but the key thing is to sell them .</s>
+<s id='vn26'>Sự thành công trong phát triển nông sản ở Nhật cho thấy rằng việc sản xuất ra sản phẩm không phải là khó mà quan trọng là khâu bán ra thị trường .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Only when farmers realise the problem and the relevant ministries get involved will Vietnamese farm products gradually win consumers ' trust and hold sway over the domestic market .</s>
+<s id='vn27'>Chỉ khi nào nông dân nhận thức được vấn đề và có sự can thiệp của các ban ngành chức năng thì nông sản Việt sẽ dần dần chiếm được niềm tin của khách hàng và sẽ chiếm được thị trường nội địa .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Accordingly , Vietnam needs to restructure production , improve the quality of products to raise their competitiveness , invest more in the sales and marketing network and combine production with processing and distribution .</s>
+<s id='vn28'>Theo đó , Việt Nam cần tái tổ chức sản xuất , nâng cao chất lượng sản phẩm để tăng sức cạnh tranh , đầu tư nhiều hơn cho hệ thống tiếp thị và bán hàng , gắn kết sản xuất với quy trình chế biến và tiêu thụ .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Implementing the " rural trade development " project recently approved by the Prime Minister will help to make a breakthrough in finding outlets for Vietnamese farm products .</s>
+<s id='vn29'>Thực hiện đề án " Phát triển thương mại nông thôn " mà Thủ tướng mới phê duyệt sẽ tạo bước đột phá trong việc tìm kiếm thị trường tiêu thụ cho nông sản Việt Nam .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>In addition , Vietnam should build and install technical barriers , which are allowed by the World Trade Organisation ( WTO ) on imported products to prevent poor quality products from entering the country and help protect the interests of domestic producers .</s>
+<s id='vn30'>Bên cạnh đó , Việt Nam cần xây dựng và triển khai tốt các hàng rào kỹ thuật mà Tổ chức Thương mại Thế giới ( WTO ) cho phép đối với nông sản nhập khẩu nhằm ngăn chặn hàng hoá kém chất lượng từ nước ngoài tràn vào và để bảo vệ quyền lợi của các nhà sản xuất trong nước .</s>
+</spair>
+</text>
+</doc>

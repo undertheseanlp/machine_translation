@@ -1,0 +1,144 @@
+﻿<doc id='N0512'>
+<head>
+<title>What is radiotherapy ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>What is radiotherapy ?</s>
+<s id='vn1'>Xạ trị là gì ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>It has long been known that radiation can damage human cells - and radiotherapy harnesses that power to treat cancers .</s>
+<s id='vn2'>Lâu nay chúng ta đã biết rằng tia bức xạ có thể gây hại các tế bào của con người - và liệu pháp xạ trị lợi dụng điều này để chữa trị ung thư .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Ionizing radiation - similar to x-rays - can penetrate tissue , and alter the part of the cell which regulates its growth and reproduction .</s>
+<s id='vn3'>Tia bức xạ ion hoá - tương tự với tia X - có thể xâm nhập vào mô , và thay đổi một phần của tế bào có chức năng kiểm soát sự sinh trưởng và sinh sản .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Healthy cells can recover from this damage , while cancer cells cannot .</s>
+<s id='vn4'>Tế bào lành mạnh có thể khôi phục lại sau tổn hại này , trong khi tế bào ung thư thì không thể .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>There are two types of radiotherapy - delivered from outside the body by a machine , and using radioactive implants placed inside the body .</s>
+<s id='vn5'>Có hai loại xạ trị - cung cấp từ bên ngoài cơ thể bằng máy , và sử dụng vật cấy ghép phóng xạ đặt bên trong cơ thể .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Researchers are working to increase the effectiveness of radiotherapy by targeting the beam of energy more precisely , and making the cancer cells more sensitive to it .</s>
+<s id='vn6'>Các nhà nghiên cứu đang làm việc để tăng hiệu quả của xạ trị bằng cách nhắm đến chùm tia năng lượng chính xác hơn , và làm cho các tế bào ung thư nhạy cảm hơn với nó .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Who gets radiotherapy ?</s>
+<s id='vn7'>Ai cần xạ trị</s>
+</spair>
+<spair id='8'>
+<s id='en8'>The principal use of radiotherapy is to tackle solid tumours found in just one location , for example skin , brain , breast or uterine cancers .</s>
+<s id='vn8'>Xạ trị được dùng chủ yếu để xử lý các khối u rắn chỉ xuất hiện trong một vị trí , ví dụ như ung thư da , não , ngực hoặc tử cung .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Sometimes doctors will use the treatment to shrink a tumour so that a subsequent operation will be more effective .</s>
+<s id='vn9'>Đôi khi bác sĩ sẽ sử dụng phương pháp này để làm cho khối u co rút lại giúp cho việc phẫu thuật tiếp theo sẽ hiệu quả hơn .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>In some cases , for example in invasive bladder cancer , radiotherapy is considered as the first option , as an alternative to surgery that would have permanent effects on the lifestyle of the patient .</s>
+<s id='vn10'>Trong một vài trường hợp , ví dụ như trong ung thư bàng quang di căn , xạ trị được coi là tùy chọn đầu tiên , như cách thay thế cho phẫu thuật sẽ có ảnh hưởng lâu dài trên lối sống của bệnh nhân .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>But although radiotherapy alone can cure many cancers , in other cases the radiotherapy is given after surgery over the surrounding area to " mop up " any remaining cells which have spread from the original cancer site .</s>
+<s id='vn11'>Nhưng mặc dù chỉ một mình xạ trị cũng có thể chữa được nhiều bệnh ung thư , trong các trường hợp khác , xạ trị được áp dụng sau khi phẫu thuật trên khu vực xung quanh để " dọn sạch " bất cứ tế bào bệnh còn lại nào mà đã phát tán từ nơi ung thư ban đầu .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>If there is a suspicion or firm evidence that cells could have spread further afield , then chemotherapy may be the preferred option .</s>
+<s id='vn12'>Nếu có nghi ngờ hoặc có chứng cớ rõ ràng là các tế bào có thể đã phát tán ở xa , sau đó hoá trị có thể là cách chữa trị thích hợp hơn .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>What form does treatment take ?</s>
+<s id='vn13'>Cách chữa trị như thế nào ?</s>
+</spair>
+<spair id='14'>
+<s id='en14'>If the radiotherapy is delivered by a machine , then the patient will normally be given repeated treatments over a brief period .</s>
+<s id='vn14'>Nếu xạ trị được thực hiện bởi máy , sau đó bệnh nhân sẽ thường được tái chữa bệnh trong thời gian ngắn .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>Although treatment timing varies depending on the type of cancer , its location , size , and the dose chosen by the doctors , it is not unusual to be given treatments every day for a few weeks .</s>
+<s id='vn15'>Mặc dù thời gian chữa bệnh thay đổi tùy vào loại bệnh ung thư , vị trí , kích thước của nó , và liều do bác sĩ chỉ định , nhưng việc thực hiện xạ trị mỗi ngày kéo dài trong một vài tuần là không bình thường .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>If the therapy involves inserting a radioactive implant near a tumour , then a brief hospital stay is normally needed .</s>
+<s id='vn16'>Nếu điều trị bao gồm việc cấy vật cấy phóng xạ gần khối u , thì sau đó bệnh nhân cần ở lại bệnh viện trong thời gian ngắn để theo dõi .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>What about side-effects ?</s>
+<s id='vn17'>Các tác dụng phụ ?</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Although the treatment itself is painless at the time , the cumulative effect of many sessions does produce side effects .</s>
+<s id='vn18'>Mặc dù bản thân của phương pháp này không gây đau đớn ngay tức thời , nhưng ảnh hưởng tích lũy của nhiều yếu tố sẽ tạo ra các tác dụng phụ .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The radiation can produce a sunburn-like effect on the skin as it passes through .</s>
+<s id='vn19'>Bức xạ có thể tạo ra ảnh hưởng giống cháy nắng trên da nơi nó đi qua .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>The extent of this depends on the number and intensity of treatments .</s>
+<s id='vn20'>Mức độ này tùy theo số lần và cường độ chữa bệnh .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>There can be hair loss in the area being treated - which is usually temporary .</s>
+<s id='vn21'>Có thể có xảy ra rụng lông tóc trong khu vực chịu chữa trị - thường là tạm thời .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>The treatment can also leave the patient feeling fatigued and generally lethargic .</s>
+<s id='vn22'>Chữa bệnh cũng có thể làm cho bệnh nhân cảm thấy mệt mỏi và hôn mê chung .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Are there long-term risks ?</s>
+<s id='vn23'>Nguy cơ lâu dài ?</s>
+</spair>
+<spair id='24'>
+<s id='en24'>Ionizing radiation produces changes within the genetic structure of the body 's cells , and there is a small risk that an increased radiation dose leads to changes in healthy cells which can cause cancer .</s>
+<s id='vn24'>Tia bức xạ ion hoá tạo ra thay đổi trong cấu trúc gien của tế bào của cơ thể , và có nguy cơ nhỏ rằng liều bức xạ tăng dẫn đến thay đổi trong các tế bào lành mạnh mà có thể gây ra bệnh ung thư .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>New equipment and techniques help to reduce the risk of side effects by targeting doses more accurately on the cancer , thus lowering the dose received by critical organs and tissue around the treatment area , while allowing the malignant tissue itself to be zapped by higher doses than before .</s>
+<s id='vn25'>Thiết bị và kỹ thuật mới giúp giảm nguy cơ của các tác dụng phụ bằng cách nhắm đến liều chính xác hơn trên vùng ung thư , do đó hạ thấp liều tác dụng ở các cơ quan trọng yếu và các mô xung quanh vùng chữa trị , trong khi cho phép bản thân các mô ác tính bị tiêu diệt bằng liều cao hơn so với trước đây .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Older radiotherapy equipment tended to target a larger area , so healthy tissue as well as cancerous tissue would be irradiated , increasing the risk of side effects .</s>
+<s id='vn26'>Thiết bị xạ trị cũ thường nhắm đến cả một khu vực rộng lớn , do đó mô khoẻ mạnh cũng như mô ung thư sẽ bị chiếu xạ , tăng nguy cơ của tác dụng phụ .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>The UK government is now investing in the latest machines .</s>
+<s id='vn27'>Chính phủ Anh hiện đang đầu tư các máy móc hiện đại nhất .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>The risks of medical radiation exposure are miniscule when compared to the risks to the patient 's health of not having the treatment .</s>
+<s id='vn28'>Nguy cơ của nhiễm bức xạ y học là rất nhỏ khi so sánh với nguy cơ đối với sức khỏe của bệnh nhân khi không chữa bệnh .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>What 's likely to happen in the future ?</s>
+<s id='vn29'>Điều gì có thể xảy ra trong tương lai ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>Researchers are fine-tuning radiotherapy to improve the outcomes for patients .</s>
+<s id='vn30'>Các nhà nghiên cứu đang " tinh chỉnh " xạ trị để cải thiện kết quả chữa trị cho bệnh nhân .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>The main efforts focus on delivering a more powerful radiotherapy beam accurately to smaller and smaller targets .</s>
+<s id='vn31'>Nỗ lực chính chú trọng vào việc đưa tia xạ trị mạnh và chính xác hơn đến các mục tiêu .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Some drugs seem to make cancer cells more vulnerable to radiation , which means less powerful radiotherapy , or fewer sessions , are needed .</s>
+<s id='vn32'>Một số thuốc có vẻ làm cho tế bào ung thư dễ bị tổn thương hơn với bức xạ , nghĩa là chỉ cần liều xạ trị ít mạnh hơn , hoặc liều ít hơn .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Another field of research is looking at heating cells in a specific area to make them more sensitive to radiotherapy .</s>
+<s id='vn33'>Một lĩnh vực của nghiên cứu đang chú trọng vào việc cung cấp nhiệt cho tế bào trong một vùng cụ thể để làm cho chúng nhạy cảm hơn với xạ trị .</s>
+</spair>
+</text>
+</doc>

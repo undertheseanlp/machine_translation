@@ -1,0 +1,284 @@
+﻿<doc id='N0617'>
+<head>
+<title>Dear Google : Android Needs Your Help</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Dear Google : Android Needs Your Help</s>
+<s id='vn1'>Thân gửi Google : Android đang cần bạn giúp sức</s>
+</spair>
+<spair id='2'>
+<s id='en2'>The search giant is ignoring its mobile OS , and the neglect is starting to show in poor apps and defecting developers .</s>
+<s id='vn2'>Gã tìm kiếm khổng lồ đang bỏ bê hệ điều hành di động của mình , và sự bỏ bê đó đang bắt đầu hiện rõ ở những ứng dụng kém chất lượng và những nhà phát triển ứng dụng bỏ ra đi .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Listen , Google , we need to talk .</s>
+<s id='vn3'>Google xin hãy lắng nghe , chúng ta cần nói chuyện với nhau .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>You seem to be ignoring our green robotic friend .</s>
+<s id='vn4'>Có vẻ như bạn đang bỏ bê người bạn robot màu xanh lá cây của chúng ta .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>I know you 've been battling lawsuits , getting your self-driving cars licensed , and focusing on Google+ , but it might be time to show Android that you still care .</s>
+<s id='vn5'>Tôi biết bạn đang phải chiến đấu với những vụ kiện tụng , xin cấp phép cho dự án xe hơi không người lái , và tập trung vào Google+ , nhưng có lẽ đã đến lúc cho Android thấy rằng bạn vẫn quan tâm đến nó .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Your neglect is starting to show for those of us who depend on Android .</s>
+<s id='vn6'>Sự bỏ bê của bạn đang bắt đầu hiện rõ đối với chúng tôi , những người phụ thuộc vào Android .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>Lately , finding apps in the Google Play store has been harder than usual - even popular apps can be difficult to locate at times , and it 's worse if the user is searching for tablet-specific applications .</s>
+<s id='vn7'>Gần đây , việc tìm kiếm ứng dụng trên Google Play đã trở nên khó khăn hơn bình thường - thậm chí những ứng dụng được ưa chuộng đôi lúc cũng khó tìm , và sẽ còn tồi tệ hơn nếu người dùng tìm kiếm ứng dụng dành riêng cho máy tính bảng .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>App makers are feeling lost , with no one to guide them through the perils of making an app that works on multiple Android devices .</s>
+<s id='vn8'>Những người viết ứng dụng cảm thấy lạc lối , vì không có ai hướng dẫn họ vượt qua thách thức cam go khi tạo ra một ứng dụng có thể hoạt động trên nhiều thiết bị Android .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>And sometimes it feels as if the carriers and device makers have more control over Android than you do ; they dictate how the OS looks , what it can run , and whether a phone or tablet will receive an update to the OS .</s>
+<s id='vn9'>Và đôi khi có cảm giác như các nhà mạng và nhà sản xuất thiết bị có nhiều quyền kiểm soát Android hơn bạn ; họ quyết định việc HĐH trông như thế nào , có thể chạy ứng dụng gì , và một chiếc điện thoại hoặc máy tính bảng sẽ được cập nhật hệ điều hành hay không .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>What happened to you , Google ?</s>
+<s id='vn10'>Bạn làm sao vậy , Google ?</s>
+</spair>
+<spair id='11'>
+<s id='en11'>It has been nearly seven months since your last major Android announcement , and some of us in the community are worried that Android will go the way of Google Wave : You might stop work on the platform , and leave development to any interested parties .</s>
+<s id='vn11'>Đã gần bảy tháng kể từ lần cuối cùng bạn đưa ra thông báo quan trọng về Android , và vài người trong chúng tôi lo rằng Android sẽ tiếp bước Google Wave : Có thể bạn sẽ ngừng phát triển nền tảng này , và bỏ mặc sự phát triển nó cho bất cứ bên nào có liên quan .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>Your own CEO said recently that Android is n't a crucial component to Google 's business strategy .</s>
+<s id='vn12'>Tồng Giám đốc Điều hành của bạn gần đây cho biết là Android không phải là thành phần quan trọng trong chiến lược kinh doanh của Google .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>It makes sense since Google makes more money off iOS than it does off its own mobile operating system .</s>
+<s id='vn13'>Điều này hợp lý thôi vì Google kiếm được nhiều tiền từ iOS hơn là từ hệ điều hành di động của hãng .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>But even if Android does n't bring in big bucks , we all know that the OS is an important part of your business , and it wo n't do anyone any good if you let Android wither .</s>
+<s id='vn14'>Nhưng cho dù Android không mang lại những khoản tiền kêch xù , tất cả chúng ta đều biết hệ điều hành là một phần quan trọng trong việc kinh doanh của bạn , và nếu bạn để Android " chết dần chết mòn " thì cũng chẳng mang lại lợi ích gì .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>So maybe it 's time to rethink your Android strategy .</s>
+<s id='vn15'>Vậy là có lẽ đã đến lúc phải cân nhắc lại chiến lược Android của bạn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>Where Are the Good Apps ?</s>
+<s id='vn16'>Ứng dụng tốt ở đâu ?</s>
+</spair>
+<spair id='17'>
+<s id='en17'>For starters , let 's look at how you handle apps .</s>
+<s id='vn17'>Trước tiên , chúng ta hãy nhìn vào cách mà bạn quản lý ứng dụng .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>Unlike Apple , you chose to let virtually anyone create an app and make it available for download via the Google Play store .</s>
+<s id='vn18'>Khác với Apple , bạn cho phép gần như bất kỳ ai cũng có thể tạo ra ứng dụng và đưa lên Google Play để mọi người tải xuống .</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Not only has this approach opened the door for malware in the past , but it has also allowed all sorts of terrible and useless applications to flood the store .</s>
+<s id='vn19'>Trước đây , việc này không những mở rộng cửa cho phần mềm độc hại , mà nó còn cho phép mọi loại ứng dụng dở tệ và vô dụng tràn ngập trên chợ ứng dụng .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Trying to find an app in the Google Play store is akin to navigating New York 's sewer system while blindfolded : People have no idea what they 're going to find , and they might run across some pretty unsavory things .</s>
+<s id='vn20'>Việc cố gắng tìm kiếm ứng dụng trên Google Play giống như chơi trò " bịt mắt bắt dê " : Người dùng không biết mình sẽ phải tìm cái gì , và có thể họ sẽ tìm được vài ứng dụng khá tệ hại .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>You 're famous for your search capabilities , so why is it so hard to find anything of value in your app store ?</s>
+<s id='vn21'>Bạn nổi tiếng về khả năng tìm kiếm , vậy thì tại sao việc tìm được một ứng dụng có giá trị trên chợ ứng dụng của bạn lại khó khăn đến vậy ?</s>
+</spair>
+<spair id='22'>
+<s id='en22'>Users hunting for Android tablet apps encounter even more trouble .</s>
+<s id='vn22'>Người dùng tìm kiếm ứng dụng cho máy tính bảng Android thậm chí còn gặp khó khăn hơn thế nữa .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Such apps are so few and far between that it 's nigh impossible to find one .</s>
+<s id='vn23'>Ứng dụng loại này thất thường đến nỗi gần như không thể tìm được một ứng dụng như vậy .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>The iPad is so popular in large part because the Apple App Store contains tens of thousands of tablet apps that are easy to find .</s>
+<s id='vn24'>iPad rất được ưa chuộng phần lớn là vì kho ứng dụng Apple App Store có hàng chục ngàn ứng dụng cho máy tính bảng và rất dễ tìm .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>When users search in the App Store on iTunes , they can easily tell which apps work on the iPhone and which apps were designed for the iPad .</s>
+<s id='vn25'>Khi người dùng tìm kiếm trong App Store trên iTunes , họ có thể dễ dàng biết được ứng dụng nào họat động trên iPhone và ứng dụng nào dành cho iPad .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>In contrast , when users search the Web version of the Google Play store , they have no way to tell whether an app is optimized to work on a tablet .</s>
+<s id='vn26'>Ngược lại , khi người dùng tìm kiếm trên phiên bản web của Google Play , họ không có cách nào để biết được một ứng dụng nào đó có được tối ưu hoá cho máy tính bảng hay không .</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Even if users search the Google Play store on an Android tablet , chances are good that the app they download will just load the mobile phone version stretched out to fit on a larger screen .</s>
+<s id='vn27'>Cho dù người dùng tìm kiếm trên Google Play bằng máy tính bảng Android , rất có thể ứng dụng họ tải xuống sẽ chỉ là phiên bản điện thoại di động được kéo dãn ra để vừa với màn hình lớn hơn .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Developers Face Challenges</s>
+<s id='vn28'>Nhà phát triển đối mặt thách thức</s>
+</spair>
+<spair id='29'>
+<s id='en29'>Why do so few genuine Android tablet apps exist ?</s>
+<s id='vn29'>Tại sao lại có quá ít ứng dụng thực sự dành cho máy tính bảng Android ?</s>
+</spair>
+<spair id='30'>
+<s id='en30'>One reason is that Android tablets are n't selling well .</s>
+<s id='vn30'>Một lý do là máy tính bảng Android không bán chạy .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>But it 's also true that developers feel they are n't getting any support .</s>
+<s id='vn31'>Nhưng cũng đúng là các nhà phát triển ứng dụng cảm thấy họ không được hỗ trợ .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Compared with the iOS and Windows Phone 7 software development kits , the Android SDK can be a pain because it utilizes Java .</s>
+<s id='vn32'>So với bộ công cụ phát triển phần mềm trên i OS and Windows Phone 7 thì bộ công cụ phát triển phần mềm Android có thể gây phiền toái vì sử dụng Java .</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Although Java is a basic programming language that most people learn in Computer Science 101 , it 's difficult to work with , and it can prevent Android apps from looking as good as ( or better than ) their iOS counterparts .</s>
+<s id='vn33'>Mặc dù Java là ngôn ngữ lập trình cơ bản mà hầu hết mọi người đều được học trong Computer Science 101 , nhưng làm việc thật khó , và nó có thể khiến ứng dụng Android trông không đẹp bằng ( hay đẹp hơn ) ứng dụng iOS .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>Another headache for Android developers : They have to create apps that can run on more than a thousand different devices , all with different processors , screen sizes , resolutions , and versions of the OS.</s>
+<s id='vn34'>Một vấn đề nan giải khác đối với nhà phát triển ứng dụng Android : Họ phải tạo ra ứng dụng có thể chạy trên hơn một ngàn thiết bị khác nhau về vi xử lý , kích cỡ màn hình , độ phân giải , và phiên bản hệ điều hành .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>It also does n't help that the Android Developers " forums shut down last August , leaving many developers with nowhere to go to find solutions to their problems .</s>
+<s id='vn35'>Ngoài ra , cũng thật vô ích khi diễn đàn dành cho nhà phát triển ứng dụng Android bị đóng cửa hồi tháng Tám vừa qua , khiến nhiều phát triển không biết phải tìm đâu ra giải pháp cho vấn đề khó khăn của mình .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Most app developers are n't making any money off Android , and some developers have quit the platform , calling it " unsustainable . "</s>
+<s id='vn36'>Hầu hết nhà phát triển ứng dụng không kiếm ra tiền từ Android , và một số người đã ngừng làm việc trên nền tảng này , và gọi đó là một việc " không bền vững " .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>While Android is unlikely to run out of developers anytime soon ( it still has the largest smartphone market share in the United States and most of the world , after all ) , we may begin to see a drop in the quality of apps as better developers abandon ship .</s>
+<s id='vn37'>Tuy Android khó có thể cạn nguồn phát triển ứng dụng trong thời gian ngắn sắp tới ( xét cho cùng , nó vẫn chiếm thị phần điện thoại thông minh lớn nhất ở Hoa Kỳ và hầu hết các nước trên thế giới ) , nhưng chúng tôi bắt đầu nhận thấy rằng ứng dụng giảm chất lượng khi những nhà phát triển tài giỏi bỏ ra đi .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>We users would then have to wade through even more junk before finding an app that 's worth downloading .</s>
+<s id='vn38'>Người dùng chúng tôi sẽ phải " ngụp lặn " trong đống ứng dụng rác thậm chí còn nhiều trước để tìm được một ứng dụng đáng tải xuống .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>Customizations Cause Problems</s>
+<s id='vn39'>Khả năng tuỳ biến làm nên rắc rối</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Even more frustrating is the fact that once we find a worthy app , we may not be able to download it .</s>
+<s id='vn40'>Điều thậm chí làm thất vọng hơn nữa là một khi tìm được ứng dụng đáng tải , có thể chúng tôi sẽ không thể tải xuống .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Lately carriers and manufacturers seem to be dictating which apps users can and cannot have on an Android phone or tablet .</s>
+<s id='vn41'>Gần đây , các nhà mạng và nhà sản xuất dường như đang là người quyết định những ứng dụng nào người dùng có thể và không thể cài trên điện thoại hoặc máy tính bảng Android .</s>
+</spair>
+<spair id='42'>
+<s id='en42'>Take Google Wallet , for example : Users who are not on Sprint cannot install the Google Wallet app on their phones - even if they own a Nexus , which supports that near-field communication payment app .</s>
+<s id='vn42'>Lấy Google Wallet làm ví dụ , người dùng không sử dụng mạng Sprint sẽ không thể cài ứng dụng Google Wallet trên điện thoại - dù họ sở hữu Nexus vốn có hỗ trợ ứng dụng thanh toán giao tiếp tầm gần này .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>I do n't like having carriers tell me what I can and cannot do , especially when it comes to apps .</s>
+<s id='vn43'>Tôi không thích việc nhà mạng bảo tôi có thể và không thể làm gì , nhất là khi nói đến ứng dụng .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>Manufacturers may not have as much of a say when it comes to what we can install on our phones , but they do determine what we can and can't remove from our handsets .</s>
+<s id='vn44'>Nhà sản xuất có thể không góp nhiều tiếng nói về việc chúng tôi có thể cài ứng dụng gì trên điện thoại , nhưng họ thật sự quyết định những ứng dụng mà chúng tôi có thể và không thể gỡ bỏ ra khỏi điện thoại của mình .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Ugly overlays and annoying bloatware plague nearly every Android device .</s>
+<s id='vn45'>Giao diện xấu xí và bloatware gây phiền toái trên hầu như mọi thiết bị Android .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Most of it we ca n't remove unless we root our devices .</s>
+<s id='vn46'>Hầu hết những thứ này chúng tôi không thể gỡ bỏ trừ phi chúng tôi " root " máy .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>To push all these unwanted extras onto our Android devices , manufacturers tweak and alter the OS - distorting the way it looks and behaves .</s>
+<s id='vn47'>Để đưa tất cả những ứng dụng bổ sung mà chúng tôi không mong muốn vào thiết bị Android , nhà sản xuất đã chỉnh sửa và thay đổi hệ điều hành - làm méo mó hình dạng và cách hoạt động của nó .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>Carriers , too , play the bloatware game , sometimes going so far as to replace all of the Google services with Bing instead .</s>
+<s id='vn48'>Các nhà mạng cũng " chơi trò bloatware " , đôi khi làm quá tay đến mức thay thế toàn bộ dịch vụ Google bằng Bing .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Even worse , these customizations make it harder to update phones and tablets to the latest version of Android .</s>
+<s id='vn49'>Thậm chí còn tệ hơn , khả năng tùy biến khiến việc cập nhật điện thoại và máy tính bảng lên phiên bản Android mới nhất trở nên khó khăn hơn .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>Even the Samsung Galaxy Nexus , a phone that 's supposed to have the most up-to-date version of Android , carries a different operating system depending on which version a person purchases .</s>
+<s id='vn50'>Ngay cả Samsung Galaxy Nexus , chiếc điện thoại phải có phiên bản Android mới nhất , lại chạy hệ điều hành khác nhau tùy vào phiên bản mà mua người chọn .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>The Sprint , Verizon , and unlocked versions all receive updates at different intervals , and are all running different versions of Ice Cream Sandwich .</s>
+<s id='vn51'>Phiên bản của Sprint , Verizon , và phiên bản mở khóa được cập nhật theo những khoảng thời gian khác nhau , và chạy phiên bản Ice Cream Sandwich khác nhau .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>I 'm still waiting for the performance-enhancing 4.0.4 update to become available for my Verizon Galaxy Nexus .</s>
+<s id='vn52'>Tôi vẫn đang đợi được cập nhật phiên bản Android 4.0.4 cải thiện hiệu suất cho chiếc Galaxy Nexus Verizon của mình .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>That update supposedly fixes several critical bugs - and it has been available for well over two months for the unlocked Galaxy_Nexus .</s>
+<s id='vn53'>Bản cập nhật này được cho là sẽ sửa một vài lỗi quan trọng - và đã có trên Galaxy Nexus mở khóa được hơn hai tháng rồi .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>What Can Google Do ?</s>
+<s id='vn54'>Google có thể làm gì ?</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Look , Google , I 'm not advising you to try to control the types of Android phones and tablets that companies make .</s>
+<s id='vn55'>Google nè , tôi là không khuyên bạn nên cố gắng kiểm soát các mẫu điện thoại và máy tính bảng Android mà các hãng sản xuất ra .</s>
+</spair>
+<spair id='56'>
+<s id='en56'>But you can take two steps to ease the burdens on app developers and make things better for people buying Android devices .</s>
+<s id='vn56'>Nhưng bạn có thể thực hiện hai giải pháp sau để giảm bớt gánh nặng đè lên nhà phát triển ứng dụng và cải thiện mọi việc đối với người mua thiết bị Android .</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Set a minimum hardware requirement for phones and tablets running Android , and play a larger role in distributing updates .</s>
+<s id='vn57'>Xác lập yêu cầu phần cứng tối thiểu đối với điện thoại và máy tính bảng chạy Android , và đóng một vai trò to lớn hơn trong việc phân phối các bản cập nhật .</s>
+</spair>
+<spair id='58'>
+<s id='en58'>If you were to set a minimum hardware requirement for all phones and tablets , developers would be able to design their apps for those parameters and be sure that the apps will work on any Android device .</s>
+<s id='vn58'>Nếu bạn xác lập yêu cầu phần cứng tối thiểu đối với mọi điện thoại và máy tính bảng , nhà phát triển ứng dụng sẽ có thể thiết kế ứng dụng cho các thông số đó và chắc chắn rằng ứng dụng sẽ hoạt động trên bất kỳ thiết bị Android nào .</s>
+</spair>
+<spair id='59'>
+<s id='en59'>The device makers , we hope , would still design phones and tablets that sit well above the minimum hardware requirements , and you could raise the requirements once every two years to match the hardware that most people were currently using .</s>
+<s id='vn59'>Chúng tôi hy vọng các hãng thiết bị sẽ vẫn thiết kế điện thoại và máy tính bảng dựa trên những yêu cầu phần cứng tối thiểu đó , và bạn có thể nâng yêu cầu đó lên cứ hai năm một lần để phù hợp với phần cứng mà hầu hết mọi người đang dùng .</s>
+</spair>
+<spair id='60'>
+<s id='en60'>In this way , you would prevent manufacturers from creating cheap devices with ancient specs .</s>
+<s id='vn60'>Bằng cách này , bạn sẽ ngăn chặn nhà sản xuất tạo ra thiết bị rẻ với chi tiết kỹ thuật lỗi thời .</s>
+</spair>
+<spair id='61'>
+<s id='en61'>This also means Android users would n't have to guess whether an app will work on their device .</s>
+<s id='vn61'>Điều này cũng có nghĩa là người dùng Android sẽ không phải suy đoán liệu một ứng dụng nào đó có hoạt động trên thiết bị của mình hay không .</s>
+</spair>
+<spair id='62'>
+<s id='en62'>Tablet users would benefit too : Development teams would n't have to spend as much time fiddling with the various phone versions , and could spend more time optimizing their apps for Android tablets .</s>
+<s id='vn62'>Người dùng máy tính bảng cũng sẽ được lợi : đội ngũ phát triển ứng dụng sẽ không phải dành nhiều thời gian để " vọc " các phiên bản điện thoại khác nhau , và có thể dành nhiều thời gian hơn cho việc tối ưu hoá ứng dụng của họ cho máy tính bảng Android .</s>
+</spair>
+<spair id='63'>
+<s id='en63'>Hardware is one thing , but making sure that everyone is on the same version of Android will be a bigger challenge .</s>
+<s id='vn63'>Phần cứng là một phần , nhưng việc bảo đảm rằng mọi người đều có cùng một phiên bản Android sẽ là thách thức lớn hơn .</s>
+</spair>
+<spair id='64'>
+<s id='en64'>Google , by working more closely with HTC , Motorola , Samsung , and the other major makers of Android phones and tablets , you can take a step toward a more unified Android experience .</s>
+<s id='vn64'>Google , bằng cách hợp tác chặt chẽ hơn nữa với HTC , Motorola , Samsung , và các hãng sản xuất điện thoại và máy tính bảng Android lớn khác , bạn có thể tiến thêm một bước để tạo ra một trải nghiệm Android thống nhất hơn .</s>
+</spair>
+<spair id='65'>
+<s id='en65'>Become friends with the carriers and chip makers in order to ensure that an update will work on a carrier 's network , so that they wo n't have to spend several months testing an update before finally deciding to roll it out .</s>
+<s id='vn65'>Hãy kết bạn với nhà mạng và nhà sản xuất chíp để đảm bảo rằng bản cập nhật sẽ hoạt động trên mạng của nhà mạng đó , để họ sẽ không phải mất vài tháng thử nghiệm bản cập nhật trước khi chính thức quyết định phát hành nó .</s>
+</spair>
+<spair id='66'>
+<s id='en66'>The biggest delays to Android updates come from carriers testing the updates on their networks , a process that they could expedite with your help .</s>
+<s id='vn66'>Sự chậm trễ lớn nhất đối với bản cập nhật Android đến từ việc nhà mạng thử nghiệm bản cập nhật đó trên mạng của mình , một quá trình mà họ có thể tiến hành với sự giúp sức của bạn .</s>
+</spair>
+<spair id='67'>
+<s id='en67'>Google , we all love Android and want the best for it .</s>
+<s id='vn67'>Google nè , tất cả chúng tôi đều yêu thích Android và mong muốn những điều tốt đẹp nhất cho nó .</s>
+</spair>
+<spair id='68'>
+<s id='en68'>We just wish you showed as much interest in your own OS as we did .</s>
+<s id='vn68'>Chúng tôi chỉ ước sao bạn thể hiện sự quan tâm đến hệ điều hành của bạn nhiều như chúng tôi đã làm vậy .</s>
+</spair>
+</text>
+</doc>

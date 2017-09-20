@@ -1,0 +1,240 @@
+﻿<doc id='N0313'>
+<head>
+<title>When a pet dies</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>When a pet dies</s>
+<s id='vn1'>Khi thú cưng chết</s>
+</spair>
+<spair id='2'>
+<s id='en2'>For most kids , pets are more than just animals their families own , they 're members of the family and the best of friends .</s>
+<s id='vn2'>Đối với hầu hết trẻ em , thú cưng không chỉ là vật nuôi trong nhà , chúng còn như thành viên trong gia đình và là người bạn tốt nhất .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>Unfortunately , the joy of owning a pet goes hand-in-hand with the heartbreak of losing one , whether because of old age , illness , or an accident .</s>
+<s id='vn3'>Thật không may , niềm vui của việc sở hữu một con thú cưng luôn đi kèm với nỗi đau khi mất chúng , dù vì tuổi già , bệnh tật , hay tai nạn .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>And that can be very difficult .</s>
+<s id='vn4'>Và việc đó có thể rất khó khăn .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>After all , family pets often are the first to greet kids in the morning and after school .</s>
+<s id='vn5'>Xét cho cùng , thú cưng trong gia đình thường là người đầu tiên chào đón trẻ vào buổi sáng và khi đi học về .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>Your pet may be the one your child looks to for comfort and companionship when ill or feeling unpopular or upset .</s>
+<s id='vn6'>Thú cưng còn có thể là người mà con bạn tìm sự chia sẻ an ủi khi bị bệnh hoặc lúc cảm thấy buồn bã khó chịu .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>While it 's impossible to shelter kids from the loss of a pet , you can help them cope with it .</s>
+<s id='vn7'>Dù không thể giúp trẻ tránh khỏi nỗi đau mất thú cưng , bạn có thể giúp bé đương đầu với việc đó .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>And because a pet 's death might be their first time losing a loved one , the grieving process can help kids learn how to cope with other losses throughout life .</s>
+<s id='vn8'>Và bởi vì cái chết của một con vật cưng có thể là lần đầu tiên trẻ mất đi một ai đó thân yêu , nỗi đau xót có thể giúp trẻ học cách đối phó với những mất mát khác trong cuộc sống .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Sharing the News and the Grief</s>
+<s id='vn9'>Chia sẻ nỗi đau</s>
+</spair>
+<spair id='10'>
+<s id='en10'>One of the most difficult parts about losing a pet may be breaking the bad news to kids .</s>
+<s id='vn10'>Một trong những phần khó khăn nhất về việc mất đi một thú cưng chính là thông báo tin xấu cho trẻ .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>Try to do so one-on-one in a place where they feel safe and comfortable and not easily distracted .</s>
+<s id='vn11'>Hãy thử làm điều đó khi chỉ có 2 người với nhau trong một nơi trẻ cảm thấy an toàn , thoải mái và không dễ bị phân tâm .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>As you would with any tough issue , try to gauge how much information kids need to hear based on their age , maturity level , and life experience .</s>
+<s id='vn12'>Vì bạn sẽ gặp khó khăn khi làm việc đó , hãy cố gắng đánh giá mức thông tin trẻ cần biết dựa vào tuổi , mức độ trưởng thành , và kinh nghiệm cuộc sống .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>If your pet is very old or has a lingering illness , consider talking to kids before the death occurs .</s>
+<s id='vn13'>Nếu thú cưng của bạn đã rất già hoặc có bệnh từ lâu , hãy cân nhắc nói chuyện với trẻ trước khi thú chết .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>If you have to euthanize your pet , you may want to explain that :</s>
+<s id='vn14'>Nếu bạn phải tự giúp cho thú chết sớm để giảm đau đớn cho nó , bạn có thể cần giải thích với trẻ :</s>
+</spair>
+<spair id='15'>
+<s id='en15'>the veterinarians have done everything that they can</s>
+<s id='vn15'>bác sĩ thú y đã làm mọi cách có thể</s>
+</spair>
+<spair id='16'>
+<s id='en16'>We had a week of it and , then the whiskey gave out .</s>
+<s id='vn16'>Qua được một tuần như thế , chúng tôi hết .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>this is the kindest way to take the pet 's pain away</s>
+<s id='vn17'>đây là cách tử tế nhất để giúp thú hết đau đớn</s>
+</spair>
+<spair id='18'>
+<s id='en18'>the pet will die peacefully , without feeling hurt or scared</s>
+<s id='vn18'>thú cưng sẽ chết một cách thanh thản , không có cảm giác đau đớn hoặc sợ hãi</s>
+</spair>
+<spair id='19'>
+<s id='en19'>Again , a child 's age , maturity level , and questions will help determine whether to offer a clear and simple explanation for what 's going to happen .</s>
+<s id='vn19'>Một lần nữa , độ tuổi , mức độ trưởng thành của trẻ , và các câu hỏi sẽ giúp xác định xem có nên đưa ra một lời giải thích rõ ràng và đơn giản cho những gì sẽ xảy ra hay không .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>If so , it 's OK to use words like " death " and " dying " or to say something like " The veterinarian will give our pet a shot that first puts it to sleep and then stops the heart from beating . "</s>
+<s id='vn20'>Nếu đúng vậy , có thể sử dụng những từ như " chết " và " đang hấp hối " hoặc nói về việc đại loại như " bác sĩ thú y sẽ cho thú cưng của chúng ta một mũi tiêm giúp nó ngủ và chết êm ái " .</s>
+</spair>
+<spair id='21'>
+<s id='en21'>Many kids want a chance to say goodbye beforehand , and some may be old enough or emotionally mature enough to be there to comfort the pet during the process .</s>
+<s id='vn21'>Nhiều bé muốn có cơ hội để nói lời chia tay trước , và một số có thể đủ tuổi hoặc đủ trưởng thành về mặt cảm xúc , để được ở đó an ủi thú cưng trong quá trình này .</s>
+</spair>
+<spair id='22'>
+<s id='en22'>If you do have to euthanize your pet , be careful about saying the animal went " to sleep " or " got put to sleep . "</s>
+<s id='vn22'>Nếu bạn buộc phải tự giết thú cưng của mình , hãy cẩn thận khi nói thú sẽ đi " ngủ " hoặc " bị buộc đi ngủ " .</s>
+</spair>
+<spair id='23'>
+<s id='en23'>Young kids tend to interpret events literally , so this can conjure up scary misconceptions about sleep or surgery and anesthesia .</s>
+<s id='vn23'>Trẻ em thường có xu hướng giải thích sự việc theo nghĩa đen , vì vậy điều này có thể gợi lên quan niệm sai lầm đáng sợ về giấc ngủ hoặc phẫu thuật và gây mê .</s>
+</spair>
+<spair id='24'>
+<s id='en24'>If the pet 's death is more sudden , calmly explain what has happened .</s>
+<s id='vn24'>Nếu cái chết của thú cưng xảy ra bất ngờ hơn , hãy bình tĩnh giải thích cho trẻ việc đã diễn ra .</s>
+</spair>
+<spair id='25'>
+<s id='en25'>Be brief , and let your child 's questions guide how much information you provide .</s>
+<s id='vn25'>Hãy ngắn gọn , và để cho những câu hỏi của trẻ giúp bạn biết nên cung cấp cho trẻ bao nhiêu thông tin .</s>
+</spair>
+<spair id='26'>
+<s id='en26'>Sticking to the Truth</s>
+<s id='vn26'>Hãy nói thật</s>
+</spair>
+<spair id='27'>
+<s id='en27'>Avoid trying to gloss over the event with a lie .</s>
+<s id='vn27'>Tránh lờ đi sự việc bằng lời nói dối .</s>
+</spair>
+<spair id='28'>
+<s id='en28'>Telling a child that " Buster ran away " or " Max went on a trip " is not a good idea .</s>
+<s id='vn28'>Nói với con rằng " Buster đã bỏ trốn " hoặc " Max đi mất rồi " không phải là ý tưởng hay .</s>
+</spair>
+<spair id='29'>
+<s id='en29'>It probably wo n't alleviate the sadness about losing the pet , and if the truth does come out , your child will probably be angry that you lied .</s>
+<s id='vn29'>Điều đó có thể không làm giảm nhẹ nỗi buồn mất thú cưng , mà nếu sự thật bị phát hiện , con của bạn có thể sẽ giận dữ vì bạn nói dối .</s>
+</spair>
+<spair id='30'>
+<s id='en30'>If asked what happens to the pet after it dies , draw on your own understanding of death , including , if relevant , the viewpoint of your faith .</s>
+<s id='vn30'>Nếu trẻ hỏi chuyện gì sẽ xảy ra với con vật sau khi nó chết , hãy đưa ra hiểu biết của chính bạn về cái chết , bao gồm , nếu liên quan , quan điểm về niềm tin của bạn .</s>
+</spair>
+<spair id='31'>
+<s id='en31'>And since none of us knows fully , an honest " I do n't know " certainly can be an appropriate answer - it 's OK to tell kids that death is a mystery .</s>
+<s id='vn31'>Và vì không ai trong chúng ta biết chắc chắn về điều đó , nên câu trả lời trung thực " cha , mẹ không biết " cũng có thể là câu trả lời thích hợp - hãy nói với trẻ rằng cái chết là điều bí ẩn .</s>
+</spair>
+<spair id='32'>
+<s id='en32'>Helping Your Child Cope</s>
+<s id='vn32'>Giúp con đương đầu với nỗi buồn</s>
+</spair>
+<spair id='33'>
+<s id='en33'>Like anyone dealing with a loss , kids usually feel a variety of emotions besides sadness after the death of a pet .</s>
+<s id='vn33'>Như bất cứ người nào khi đối mặt với một mất mát , trẻ thường cảm thấy một loạt các cảm xúc bên cạnh nỗi buồn sau cái chết của vật cưng .</s>
+</spair>
+<spair id='34'>
+<s id='en34'>They might experience loneliness , anger if the pet was euthanized , frustration that the pet could n't get better , or guilt about times that they were mean to or did n't care for the pet as promised .</s>
+<s id='vn34'>Bé có thể cảm thấy cô đơn , tức giận nếu thú cưng của mình đã bị giết , thất vọng rằng thú nuôi không thể khỏe hơn , hay cảm giác tội lỗi về thời gian mà bé đã không quan tâm chăm sóc cho vật cưng như đã hứa .</s>
+</spair>
+<spair id='35'>
+<s id='en35'>Help kids understand that it 's natural to feel all of those emotions , that it 's OK to not want to talk about them at first , and that you 're there when they are ready to talk .</s>
+<s id='vn35'>Giúp trẻ hiểu rằng cảm thấy tất cả những cảm xúc đó là một điều tự nhiên , và không sao hết khi lúc đầu bé không muốn nói về sự việc ấy , và bạn luôn ở bên bé khi bé đã sẵn sàng để chia sẻ .</s>
+</spair>
+<spair id='36'>
+<s id='en36'>Do n't feel compelled to hide your own sadness about losing a pet .</s>
+<s id='vn36'>Đừng cảm thấy phải cố gắng che giấu nỗi buồn của chính bạn về cái chết của thú cưng .</s>
+</spair>
+<spair id='37'>
+<s id='en37'>Showing how you feel and talking about it openly sets an example for kids .</s>
+<s id='vn37'>Cho thấy bạn cảm thấy thế nào và nói về điều đó công khai như một tấm gương cho trẻ .</s>
+</spair>
+<spair id='38'>
+<s id='en38'>You show that it 's OK to feel sad when you lose a loved one , to talk about your feelings , and to cry when you feel sad .</s>
+<s id='vn38'>Giúp trẻ hiểu rằng có thể cảm thấy buồn khi mất đi người thân yêu , thổ lộ cảm xúc , và khóc khi thấy buồn .</s>
+</spair>
+<spair id='39'>
+<s id='en39'>And it 's comforting to kids to know that they 're not alone in feeling sad .</s>
+<s id='vn39'>Và trẻ sẽ cảm thấy được an ủi khi biết rằng không chỉ có mình trẻ đau buồn .</s>
+</spair>
+<spair id='40'>
+<s id='en40'>Share stories about the pets you had - and lost - when you were young and how difficult it was to say goodb ye .</s>
+<s id='vn40'>Chia sẻ với trẻ những câu chuyện về thú cưng bạn có - và mất - khi còn nhỏ và khó khăn thế nào khi phải nói lời từ biệt .</s>
+</spair>
+<spair id='41'>
+<s id='en41'>Moving On</s>
+<s id='vn41'>Tiếp tục cuộc sống</s>
+</spair>
+<spair id='42'>
+<s id='en42'>After the shock of the news has faded , it 's important to help your child heal and move on .</s>
+<s id='vn42'>Sau khi cơn sốc do tin buồn này đã qua đi , điều quan trọng là phải giúp con trẻ vượt qua tổn thương và tiếp tục cuộc sống .</s>
+</spair>
+<spair id='43'>
+<s id='en43'>It can help kids to find special ways to remember a pet .</s>
+<s id='vn43'>Sẽ có hiệu quả khi giúp trẻ tìm ra một cách đặc biệt để nhớ về một con vật nuôi .</s>
+</spair>
+<spair id='44'>
+<s id='en44'>You might have a ceremony to bury your pet or just share memories of fun times you had together .</s>
+<s id='vn44'>Bạn có thể tổ chức một buổi lễ để chôn con vật cưng hoặc chia sẻ những kỷ niệm về thời gian vui vẻ các bạn đã có với nhau .</s>
+</spair>
+<spair id='45'>
+<s id='en45'>Write a prayer together or offer thoughts on what the pet meant to each family member .</s>
+<s id='vn45'>Cùng nhau viết một lời cầu nguyện hoặc chia sẻ suy nghĩ về ý nghĩa của con vật đối với mỗi thành viên trong gia đình .</s>
+</spair>
+<spair id='46'>
+<s id='en46'>Share stories of your pet 's funny moments or escapades .</s>
+<s id='vn46'>Chia sẻ chuyện về các khoảnh khắc vui vẻ hoặc ngộ nghĩnh của con vật .</s>
+</spair>
+<spair id='47'>
+<s id='en47'>Offer lots of loving hugs .</s>
+<s id='vn47'>Hãy ôm trẻ thật chặt để thể hiện sự cảm thông .</s>
+</spair>
+<spair id='48'>
+<s id='en48'>You could do a project too , like making a scrapbook .</s>
+<s id='vn48'>Bạn cũng có thể thực hiện một dự án , ví dụ như làm một cuốn sổ lưu niệm về con vật cưng ấy .</s>
+</spair>
+<spair id='49'>
+<s id='en49'>Keep in mind that grieving over the loss of a pet , particularly for a child , is similar to grieving over a person .</s>
+<s id='vn49'>Hãy nhớ rằng nỗi đau buồn khi mất đi một con vật cưng , đặc biệt là đối với một đứa trẻ , sâu sắc tương tự như nỗi đau khi mất đi một người thân .</s>
+</spair>
+<spair id='50'>
+<s id='en50'>For kids , losing a pet who offered love and companionship can be much more difficult than losing a distant relative .</s>
+<s id='vn50'>Với trẻ em , bị mất một con vật nuôi gắn bó thân thiết có thể còn khó khăn hơn rất nhiều so với việc mất đi một người họ hàng xa .</s>
+</spair>
+<spair id='51'>
+<s id='en51'>You might have to explain that to friends , family members , or others who do n't own pets or do n't understand that .</s>
+<s id='vn51'>Bạn có thể phải giải thích điều đó với bạn bè , gia đình , hoặc những người khác không nuôi thú cưng hoặc không hiểu điều đó .</s>
+</spair>
+<spair id='52'>
+<s id='en52'>Perhaps most important , talk about your pet , often and with love .</s>
+<s id='vn52'>Có lẽ quan trọng nhất là thường xuyên nói về con vật cưng của bạn với tình yêu thương .</s>
+</spair>
+<spair id='53'>
+<s id='en53'>Let your child know that while the pain will eventually go away , the happy memories of the pet will always remain .</s>
+<s id='vn53'>Hãy để con bạn biết rằng dù nỗi đau rồi sẽ nguôi ngoai nhưng những kỷ niệm hạnh phúc của con vật cưng sẽ vẫn mãi còn .</s>
+</spair>
+<spair id='54'>
+<s id='en54'>When the time is right , you might consider adopting a new pet - not as a replacement , but as a way to welcome another animal friend into your family .</s>
+<s id='vn54'>Khi thời điểm thích hợp , bạn có thể xem xét việc có một thú cưng mới - không phải là một sự thay thế , mà là một cách để chào đón một người bạn động vật vào trong gia đình bạn một lần nữa .</s>
+</spair>
+<spair id='55'>
+<s id='en55'>Reviewed by : D'Arcy Lyness , PhD</s>
+<s id='vn55'>Phê bình : Tiến sĩ D'Arcy Lyness</s>
+</spair>
+<spair id='56'>
+<s id='en56'>Date reviewed : November 2009</s>
+<s id='vn56'>Ngày : 11 2009</s>
+</spair>
+<spair id='57'>
+<s id='en57'>Originally reviewed by : Jennifer Schroff Pendley , PhD</s>
+<s id='vn57'>Lần đầu phê bình : Tiến sĩ Jennifer Schroff Pendley</s>
+</spair>
+</text>
+</doc>

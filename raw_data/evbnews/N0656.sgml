@@ -1,0 +1,92 @@
+﻿<doc id='N0656'>
+<head>
+<title>Lessons Learned</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Lessons Learned</s>
+<s id='vn1'>Những bài học cuộc sống</s>
+</spair>
+<spair id='2'>
+<s id='en2'>One day , the father of a very wealthy family took his son on a trip to the country with the express purpose of showing him how poor people live .</s>
+<s id='vn2'>Một hôm nọ , một ông bố trong một gia đình rất giàu có dắt đứa con trai của ông về vùng nông thôn với mục đích là cho cậu bé thấy người nghèo sống như thế nào .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>They spent a couple of days and nights on the farm of what would be considered a very poor family .</s>
+<s id='vn3'>Họ đã ở lại vài ngày tại một nông trại của một gia đình được coi là rất nghèo .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>On their return from their trip , the father asked his son , " How was the trip ? "</s>
+<s id='vn4'>Trên đường trở về từ chuyến đi của họ , người bố hỏi cậu con trai của ông ấy , " Chuyến đi thế nào ? "</s>
+</spair>
+<spair id='5'>
+<s id='en5'>" It was great , Dad . "</s>
+<s id='vn5'>" Thưa bố , nó thật tuyệt ạ . "</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" Did you see how poor people live ? "</s>
+<s id='vn6'>" Con có thấy người nghèo họ sống thế nào không ? "</s>
+</spair>
+<spair id='7'>
+<s id='en7'>The father asked .</s>
+<s id='vn7'>Người bố hỏi .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>" Oh yeah , " said the son .</s>
+<s id='vn8'>" Dạ có ạ , " cậu con trai nói .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>" So , tell me , what did you learn from the trip ? "</s>
+<s id='vn9'>" Vậy hãy kể bố nghe con đã học được gì từ chuyến đi này ? "</s>
+</spair>
+<spair id='10'>
+<s id='en10'>The father asked .</s>
+<s id='vn10'>Người bố hỏi .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>The son answered : " I saw that we have one dog and they had four .</s>
+<s id='vn11'>Cậu con trai trả lời : " Con thấy chúng ta có một con chó và họ có tới bốn con .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>We have a pool that reaches to the middle of our garden and they have a creek that has no end .</s>
+<s id='vn12'>Chúng ta có một cái hồ dài đến giữa khu vườn còn họ có cả con sông không biết đâu là bờ .</s>
+</spair>
+<spair id='13'>
+<s id='en13'>We have imported lanterns in our garden and they have the stars at night .</s>
+<s id='vn13'>Chúng ta phải đã bỏ tiền mua đèn lồng treo trong vườn và họ có cả những ngôi sao trong đêm .</s>
+</spair>
+<spair id='14'>
+<s id='en14'>Our patio reaches to the front yard and they have the whole horizon .</s>
+<s id='vn14'>Sân nhà ta chỉ kéo dài cho đến cổng trước còn của họ thì kéo dài đến tận chân trời .</s>
+</spair>
+<spair id='15'>
+<s id='en15'>We have a small piece of land to live on and they have fields that go beyond our sight .</s>
+<s id='vn15'>Chúng ta sống trên một mảnh đất nhỏ xíu còn họ có những cánh đồng rộng bao la ngút ngàn .</s>
+</spair>
+<spair id='16'>
+<s id='en16'>We have servants who serve us , but they serve others .</s>
+<s id='vn16'>Chúng ta có người hầu phục vụ chúng ta , nhưng họ thì phục vụ người khác .</s>
+</spair>
+<spair id='17'>
+<s id='en17'>We buy our food , but they grow theirs .</s>
+<s id='vn17'>Chúng ta mua thức ăn , nhưng họ tự trồng để làm ra thức ăn cho họ .</s>
+</spair>
+<spair id='18'>
+<s id='en18'>We have walls around our property to protect us , they have friends to protect them . "</s>
+<s id='vn18'>Chúng ta xây những bức tường xung quanh tài sản để bảo vệ chúng ta , họ có bạn bè để bảo vệ cho họ . "</s>
+</spair>
+<spair id='19'>
+<s id='en19'>The boy 's father was speechless .</s>
+<s id='vn19'>Người bố của cậu bé không nói nên lời .</s>
+</spair>
+<spair id='20'>
+<s id='en20'>Then his son added , " Thanks Dad for showing me how poor we are . "</s>
+<s id='vn20'>Sau đó cậu con trai nói tiếp , " Cảm ơn bố đã cho con thấy chúng ta nghèo như thế nào . "</s>
+</spair>
+</text>
+</doc>

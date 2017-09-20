@@ -1,0 +1,68 @@
+﻿<doc id='N0578'>
+<head>
+<title>Does Microsoft 's Bing have Google running scared ?</title>
+<corpus url='http://code.google.com/p/evbcorpus/'>EVBCorpus</corpus>
+<author email='hungnq@uit.edu.vn'>Quoc-Hung Ngo, Werner Winiwarter</author>
+<citation>Quoc-Hung Ngo, Werner Winiwarter, 2012. "Building an English-Vietnamese Bilingual Corpus for Machine Translation", 
+          In Proceedings of the International Conference on Asian Language Processing 2012 (IALP 2012), pp. 157-160.</citation>
+<release>14/08/2013</release>
+</head>
+<text>
+<spair id='1'>
+<s id='en1'>Does Microsoft 's Bing have Google running scared ?</s>
+<s id='vn1'>Bing của Microsoft đang đe doạ Google ?</s>
+</spair>
+<spair id='2'>
+<s id='en2'>Microsoft may have developed a contender that threatens Google 's Web search dominance .</s>
+<s id='vn2'>Microsoft có thể đã phát triển một đối thủ để đe doạ sự thống trị công cụ tìm kiếm của Google .</s>
+</spair>
+<spair id='3'>
+<s id='en3'>In a story headlined " Fear grips Google , " the New York Post reports that the launch of Microsoft 's Bing search engine has so upset Google co-founder Sergey Brin that he has top engineers working on " urgent upgrades " to Google 's service .</s>
+<s id='vn3'>Trong tiêu đề của một bài báo " Sự sợ hãi đeo bám Google " trong các bài báo cáo của New York Post rằng việc cho ra mắt cỗ máy tìm kiếm Bing của Microsoft đã làm nhà đồng sáng lập Google - Sergey Brin hết sức lo lắng vì vậy Ông ta đã hối thúc các kỹ sư hàng đầu trong công ty tiếp tục " nâng cấp khẩn cấp " cho dịch vụ tìm kiếm Google .</s>
+</spair>
+<spair id='4'>
+<s id='en4'>Brin is said to be leading a team to determine how Microsoft 's search algorithm differs from the closely guarded one Google employs .</s>
+<s id='vn4'>Brin tuyên bố sẽ lãnh đạo một đội ngũ để xác định thuật toán tìm kiếm của Microsoft khác với các thuật toán bí mật của Google như thế nào .</s>
+</spair>
+<spair id='5'>
+<s id='en5'>The tabloid also notes that it 's rare for Google 's co-founders to have such a hands-on involvement in the company 's daily operations .</s>
+<s id='vn5'>Các mẫu tin cũng cho biết rằng điều đó rất khó để những nhà đồng sáng lập Google có trong tay các quá trình hoạt động hằng ngày của hãng này .</s>
+</spair>
+<spair id='6'>
+<s id='en6'>" New search engines have come and gone in the past 10 years , but Bing seems to be of particular interest to Sergey , " an anonymous source described as an " insider " to the newspaper .</s>
+<s id='vn6'>" Những cỗ máy tìm kiếm mới đã xuất hiện và tồn tại trong vòng 10 năm qua , nhưng Bing dường như đang trở thành sự quan tâm đặt biệt đối với Sergey , " một nguồn giấu tên trên báo chí được cho là của một người trong nội bộ .</s>
+</spair>
+<spair id='7'>
+<s id='en7'>A Google spokesperson declined to comment on the level of Brin 's involvement but did tell the newspaper that the company always has a team working on improving search .</s>
+<s id='vn7'>Một phát ngôn viên của Google đã từ chối bình luận về mức độ ảnh hưởng của Brin nhưng đã nói với báo chí rằng hãng luôn có một đội ngũ đang làm việc để cải tiến công cụ tìm kiếm .</s>
+</spair>
+<spair id='8'>
+<s id='en8'>Microsoft , which launched as Bing as its default search engine earlier this month , is reportedly spending $ 80 million to $ 100 million in an ad blitz to tout its latest search effort .</s>
+<s id='vn8'>Microsoft đã cho ra mắt Bing như cỗ máy tìm kiếm mặc định của họ đầu tháng này , theo nguồn tin cho biết nó đã tiêu tốn 80 triệu USD đến 100 triệu USD trong đợt quảng cáo ồ ạt để chào mừng kết quả nỗ lực trong công cụ tìm kiếm mới nhất của hãng .</s>
+</spair>
+<spair id='9'>
+<s id='en9'>Bing 's launch bumped Microsoft 's search share up to 11.1 percent last week from 9.1 percent the prior week , according to numbers released by market analyst ComScore .</s>
+<s id='vn9'>Việc cho ra mắt Bing đã đẩy cổ phiếu của Microsoft lên đến 11.1 phần trăm vào cuối tuần bỏ xa 9.1 phần trăm của tuần trước đó , theo các con số được đưa ra bởi nhà phân tích thị trường ComScore .</s>
+</spair>
+<spair id='10'>
+<s id='en10'>However , that initial increase did n't impress Google CEO Eric Schmidt , who was pretty tight-lipped earlier this week when queried about Bing 's arrival .</s>
+<s id='vn10'>Tuy nhiên , sự gia tăng ban đầu không có gì ấn tượng đối với Giám đốc Điều hành Eric Schmidt của Google , một người biết kiềm chế khi được chất vấn về mới nhân vật Bing trong đầu tuần này .</s>
+</spair>
+<spair id='11'>
+<s id='en11'>" It 's not the first entry for Microsoft , " Schmidt said Tuesday in an interview with Fox Business Network .</s>
+<s id='vn11'>" Đó không phải là hạng mục đầu tiên đối với Microsoft " Schmidt phát biểu vào hôm thứ Ba trong một buổi phỏng vấn với Fox Business Network .</s>
+</spair>
+<spair id='12'>
+<s id='en12'>" They do this about once a year . "</s>
+<s id='vn12'>" Họ đã làm điều này hằng năm "</s>
+</spair>
+<spair id='13'>
+<s id='en13'>Google Chief Financial Officer Patrick Pichette said Tuesday that the company planned to hold " a review tomorrow on it with the executive committee . "</s>
+<s id='vn13'>Trưởng bộ phận tài chính Google , Patrick Pichette cho biết vào hôm thứ Ba rằng hãng đã lên kế hoạch để tổ chức " một cuộc xem xét vào ngày mai về điều này với uỷ ban điều hành . "</s>
+</spair>
+<spair id='14'>
+<s id='en14'>While Microsoft has a long way to go before it makes a dent in Google 's business , Bing may end up being the only true alternative to Google if Yahoo decides not to compete in the search market over the next few years .</s>
+<s id='vn14'>Trong khi Microsoft đã có một chặng đường dài để đi trước khi nó tạo ra một tổn thất trong việc kinh doanh của Google , cuối cùng Bing có thể thay thế Google nếu như Yahoo quyết định không cạnh tranh trong thị trường tìm kiếm trong một vài năm tới .</s>
+</spair>
+</text>
+</doc>
